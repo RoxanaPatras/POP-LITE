@@ -1,0 +1,1745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HAIRO_IghelI_TalharulDragos" xml:lang="ro">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dragos hotul Tecucilor: editie HAIRO</title>
+         <respStmt>
+            <resp>Codare TEI</resp>
+            <name>Roxana Patras</name>
+         </respStmt>
+         <respStmt>
+            <resp>Recorectat si citit de </resp>
+            <name> Alexandra Diaconita</name>
+         </respStmt>
+            <principal>
+               <name>Patraș, Roxana</name>
+               <name>Galleron, Ioana</name>
+            </principal>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Proiect HAIRO (U. "Alexandru Ioan Cuza"/ U. Sorbonne-Nouvelle)</publisher>
+            <pubPlace>Iași</pubPlace>
+            <pubPlace>Paris</pubPlace>
+            <date>2020</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/legalcode.ro">Distributed
+                  under a Creative Commons Attribution-NonCommercial 4.0 Unported License</licence> 
+            </availability>
+            <idno type="handle">11280/6aabe81d</idno>
+            <distributor>NAKALA
+               <ref>www.nakala.fr</ref>
+            </distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Ighel, Ilie</author>
+               <title>Tîlharul Dragos</title>
+               <pubPlace>București</pubPlace>
+               <publisher>Editura librăriei H. Steinberg</publisher>
+               <publisher>Tipo-litografia Dor. P. Cucu</publisher>
+               <date>1892</date>
+               <settlement>BCU Iasi</settlement>
+               <idno>938/94</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>Ediție electronică pregatită în cadrul proiectului franco-român HAIRO, PHC Brâncusi, 43462ZG.</p>
+           <p>This work was supported by a grant of the Romanian Ministry of Research and Innovation, CCCDI - UEFISCDI, project number PN-III-P3-3.1-PM-RO-FR-2019-0063 / 13 BM ⁄ 2019, within PNCDI III.</p>
+        </projectDesc>
+        <editorialDecl>
+           <p>Adnotarea efectuată se concentrează pe diviziunile structurale ale romanului (părți și capitole). Imaginile au fost omise, omiterea este semnalată prin gap.</p>
+        </editorialDecl>
+     </encodingDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="ro">Româna</language>
+        </langUsage>
+     </profileDesc>
+     <revisionDesc>
+        <change when="2018-09-28">Prima versiune TEI</change>
+        <change when="2020-08-03">Completare header și titlePage. Asociere cu schema TEI-all.</change>
+     </revisionDesc>
+  </teiHeader>
+  <text>
+     <front>
+        <titlePage>
+        <titlePart type="main">DRAGOS <lb/>HOŢUL TECUCILOR</titlePart>
+        <titlePart type="desc"><sic>ROMAM</sic> CRIMINAL</titlePart>
+        <docAuthor>DE <lb/>ILIE IGHEL</docAuthor>
+        <docImprint>
+           <pubPlace>BUCUREŞTI</pubPlace>
+           <publisher>EDITURA LIBRĂRIEI H. STEINBERG
+              <address>
+                 <addrLine>7, CALEA RAHOVEI, 7.</addrLine>
+              </address>
+           </publisher>
+           <publisher>TIPO LITOGRAFIA DOR. P. CUCU.
+              <address>
+                 <addrLine>8, BUL. ELISABETA, 8.</addrLine>
+              </address>
+           </publisher>
+        </docImprint>
+        <docDate>1892</docDate>
+        </titlePage>
+        <pb/>
+        <figure/>
+           <p>Omorul ungureanuluǐ.</p>
+        <div type="liminal">
+           <head>PREFAŢA</head>
+   <p> Romanul acesta este o istorisire de actualitate. In-trebe-se orǐ-cine de prin părţile Tecuculuǐ cine a fost Dragoş, şi va rĕspunde că, de şi era hoţ, totuşǐ era mult iubit şi ocrotit chiar de ceǐ săracǐ.</p>
+<p> El a fost un Grozea.</p>
+   <p> Hoţ pentru ceǐ cu dare de mână şi milos pentru ceǐ scăpătaţǐ.</p>
+   <p> Lua banǐ de la bogaţǐ şi mărita fete cu eǐ; fura boiǐ din ciredele ungurilor carǐ îǐ vindeaŭ la tîrg şi îǐ dedea luǐ Stan saŭ Neacşu care n’avea nicǐ o palmă de pămînt.</p>
+<p> Acesta a fost Dragoş.</p>
+<p> Şi pentru aceasta nicǐ că pot scri altfel despre el, de cât ceea ce a fost: un hoţ cinstit.</p>
+   <p> Crimele n’aŭ fost ale luǐ, ci ale luǐ Mănăilă tova-răş al luǐ.</p>
+<p> Acela era un criminal ordinar.</p>
+   <p> Tot ce voiŭ scrie maǐ la vale sunt fapte culese din dosarele Tribunaluluǐ din Tecuciŭ şi luate de pe buzele oamenilor pe care i-am pus să’mǐ povestească.</p>
+   <p> Trebue să mulţumesc aci d-luǐ Istrate,  archivarul Tribunaluluǐ din Tecuciŭ, care mi-a pus la disposiţie, ca o deosebită amabilitate, dosarele privitoare la pro-cesul luǐ Dragoş, pe carǐ i-le am cerut în zilele de 20—23 Noembrie 1891, când am fost în persoană la Tecuciŭ, într’adins pentru chestia aceasta.</p>
+           <signed>
+              Ilie Ighel.
+              Bucureştǐ, Ianuarie 1892.
+           </signed>
+        </div>
+     </front>
+<body>
+   <head>DRAGOS</head>
+<div type="chapter" n="1">
+   <head> CAPITOLUL I</head>
+<head>Costache Tănasă Dragoş.</head>
+   <p> Prin primă-vara anuluǐ 1860, în satul Vizu-reştǐ-Hânteştǐ, care face parte din comuna Bu-ciumenǐ, plasa Nicorăştilor, judeţul Tecucǐ, era primar al satuluǐ Tănasă Dragoş, un român bun la suflet şi la minte, sănătos şi voinic cât treǐ.</p>
+   <p> Şi pe lângă că avea de toate şi casă şi masă, îǐ maǐ dase Dumneȡeŭ şi un flăcăŭ pe Şerban, şi treǐ fete pe Frăsina, Maria şi Anica.</p>
+   <p> Intr’una din ȡilele luǐ Aprilie 1860 era miş-care mare în casa luǐ Tânase; de icǐ şi până colo se învêrteaŭ şi el şi vre-o două babe.</p>
+<p> Vlădina, nevasta dragă a luǐ, era aproape de născare, trebuia să se uşureze de sarcina pe care purtat-o nouă lunǐ.</p>
+   <p> Tănăse opri pe o bătrână care eşia din casă şi îǐ zise:</p>
+   <p> —    Ia ascultă, mamă Niţo, ce ȡicǐ... o să mear-gă lucrurile bine?</p>
+   <p> —    Păǐ așa cred maică.</p>
+   <p> —    Să nu chemăm pe duduca Frosa din Bu-ciumenǐ ?</p>
+<p> —    Pe moaşa ? </p>
+<p> —    Da.</p>
+<p> —    Nu cred să fie nevoe.</p>
+   <p> —    Bine ar fi... Dar mǐ-e teamă.</p>
+<p> —    De ce?</p>
+   <p> —    Nu veȡǐ ce slabă e Vlădina?</p>
+   <p> —    Şǐ-apoǐ?</p>
+<p> —    Cum apoǐ?</p>
+   <p> —    Bine. E femee voinică. N’are a-face slăbi-ciunea feţeǐ. Las’o pe mine. 0 să fiǐ mulţumit de Niţa.</p>
+   <p> —    O să fiǐ şi mata mulţumită.</p>
+<p> —    Atuncǐ ce maǐ încape vorbă.</p>
+<p> —    Ne-am înţeles.</p>
+<p> — Dar ia ascultă logofete Tănase.</p>
+   <p> —    Ce’ǐ porunca?</p>
+   <p> —    De... Cam ce aǐ vrea să fie, fată orǐ băiat ?</p>
+   <p> —    De... Ştiŭ şi eŭ.</p>
+   <p> —    Ce ţǐ-e’n dor?</p>
+   <p> —    Ce-o da D-ȡeŭ.</p>
+   <p> —    Bre omule, dar ce ţǐ-ar plăcea ?</p>
+   <p> —    Apoǐ dacă’ǐ aşa... băiat.</p>
+<p> —    Dar pare-mi-se că o să fie aşa, bădiţă.</p>
+   <p> —    Heǐ... Atuncǐ noroc. Bem vedrele cum am soarbe şipurile... Nu veȡǐ d-ta? maǐ am treǐ fete...</p>
+   <p> Ştiǐ că nu’s bogat şi aȡǐ trebuesc parale nu glumă ca să poţǐ să le facǐ case cum se cade. Nu veȡǐ d-ta ce timpurǐ am ajuns? Nicǐ că maǐ vor să te întrebe cum ţǐ-e fata, de’ǐ harnică, de’ǐ de treabă, ci sar numaǐ de cât să vaȡă câţǐ leǐ le daǐ, câţǐ boǐ, câte vacǐ, ce pămênturǐ...</p>
+<p> —    Aşa e bădică... Rele timpurǐ.</p>
+<p> —    In vreme ce băiatul e alt-fel... Se naşte bogat: are braţe; n’are teamă de nicǐ o ispită, de nicǐ un păcat... Dacă ’ǐ dă Dumneȡeŭ minte maǐ înţeleaptă apoǐ ferice de el... Nu veȡǐ pe feciorul luǐ popa Eremia?</p>
+<p> —    D’apoǐ ce... Cât de bine a ajuns.</p>
+<p> —    Şi eŭ care am treǐ fete şi doar un fecior şi acela cam slăbuţ... Tot maǐ bine e un flăcăŭ. Fete am, să’mǐ trăiască.</p>
+<p> —    Să dea D-ȡeŭ !...</p>
+<p> Vorba li se tăiă. O femeie ce îngrijea lângă Vlădina veni şi chemă în odae pe bătrâna care făcea pe moaşa satuluǐ.</p>
+   <p> Tănase o porni spre sat dupe ce spuse bătrâneǐ:</p>
+<p> —    Veȡǐ mamă Niţo, să’mǐ daǐ de ştire cum o fi ceva.</p>
+   <p> Nu trecu mult şi în mijlocul gemetelor ce lĕ-huza scotea, se auȡi un ţipăt ascuţit de prunc, care tăiă tăcerea şi care vesti că un noŭ neno-rocit eşia din ascunȡĕtoarea-ǐ caldă, unde nu sim-ţise nicǐ grijurǐ, nicǐ durerǐ, să înceapă lanţul suferinţelor fără de sfârşit care să’l facă să bles-teme în urmă minutele când a eşit în nemărgi-nita lume.</p>
+   <p> Eŭ, de câte orǐ aud că bat clopotele a jale a-nunţênd moartea, îmǐ zic: iată un fericit. El acum se odihneşte, D-ȡeŭ a fost blând faţă de el, ǐ-a curmat şirul durerilor.</p>
+   <p> Şi, din contră, jalea mĕ coprinde când un bo-tez se întêmplă. Cine ştie, gândesc, la ce sufe-rinţe, la câte crude încercărǐ nu va fi expus noul venit. Viaţa luǐ va fi o noapte nesfârşită, un geamăt continuu, un cântec dureros, un suspin fără sfârşit. Şi atuncǐ, el îşǐ va blestema, în loc să’ǐ bine-cuvinteze, părinţiǐ, carǐ, pentru ca să’şǐ potolească poftele lor trupeştǐ, l’aŭ zămislit pe dênsul.</p>
+   <p> Şi, într’adevĕr, care este scopul vieţeǐ?</p>
+<p> A trăi?</p>
+<p> Dar a trăi ce este?</p>
+<p> A duce suferinţe.</p>
+   <p> Şi, fie cine-va orǐ cât de bogat, avuţiele luǐ Iov aibă-le la îndemână, totuşǐ trebuește ca și durerea să facă parte din viaţa luǐ. O viaţă fără durere este ca o flaşnetă fără învîrtitor. Nu scoate nicǐ un cântec. Viaţa a fost creată ca să aibă durerea ca soaţă.</p>
+   <p> Dar, dacă aceasta este pentru ceǐ bogaţǐ, apoǐ aceǐ nenorociţǐ, carǐ sunt ursiţǐ a duce o viaţă de vită, a suferi mereŭ, a nu avea pînea şi cele trebuincioase, a’şǐ tîrî trupul prin gunoaie, a lâncezi pe pămîntul gol care să le fie aşternut şi o piatră căpătâiŭ, aceǐ nenorociţǐ carǐ prigo-niţǐ de soartă, apăsaţǐ de omenire, blestemaţǐ, par’că, de Dumnezeŭ, aceǐ ce nu pot de cât să bîrfească contra vieţeǐ, să o blesteme, să caute a o sdrobi cât maǐ iute, să dorească ceasul când or să zacă în neştire, când vor curma firul traiu-luǐ lor ticălos, şi, când moartea va sosi, când acea pace, care este ca somnul de bine-făcĕtoare, le va acoperi obrajiǐ, atuncǐ eǐ să fie bucuroşǐ, o veselie nespusă să le coprinză sufletul gândind că părăsesc această ticăloasă omenire unde bi-nele pentru eǐ nu’şǐ avea cuvîntul, unde ferici-rea nu li era dată...</p>
+   <p> Şi moartea să’ǐ coprinză seninǐ, veselǐ...</p>
+   <p> Dar pentru ca aceasta să se întîmple trebue ca conştiinţa lor să fi fost împăcată, trebue ca viaţa lor să nu se fi trecut de cât în facerǐ de bine, şi, orǐ de câte orǐ ar fi avut ocasia, să fi ajutat pe semenul săŭ, fie cu vorba fie cu fapta; să fi căutat a nu turbura liniştea aproapeluǐ, să nu fi făcut nimic care să te mustreze, căcǐ vaǐ, ce amară e mustrarea de suflet în momentul când sufletul părăseşte corpul, când viaţa nu maǐ vrea să locuiască în casa de pînă atuncǐ.</p>
+   <p> E maǐ puţin cumplită durerea când te-ar frige de viŭ, de cât ca să te ştiǐ cu sufletul plin de păcate, ca să’ţǐ aducǐ aminte de relele ce aǐ să-vîrşit în viaţă.</p>
+   <p> Precum dacă cine-va se culcă cu sufletul sbu-ciumat, fie că a vĕzut o crimă îngrozitoare, fie că  a fost la un foc cumplit, şi noaptea este ca-nunit de vise urîte, carǐ îǐ sbuciumă sufletul, tot aşa este şi în faţa somnuluǐ din urmă: dacă faptele din viaţă ţi-aŭ fost urîte, apoǐ somnul îţǐ va fi turburat de vise rele, de vise negre şi fără sfîrşit, dacă, din contră, viaţa ta a fost ca o zi senină şi dulce de primăvară, somnul îţǐ va fi adiat de visurǐ frumoase, veǐ vedea îngerǐ şi fe-ricirǐ. De aci a eşit vorba cu raiŭ şi iadul. Omul murind doarme. Moartea e un somn, turburat saŭ nu de vise, dupe cum a fost şi viaţa con-sumată în fapte bune saŭ rele. Iadul este som-nul tăiat de vise groaznice, carǐ te strâng ca în cleştǐ de fier; raiul e, din contră, un somn dulce, bătut de vise frumoase, visând că sborǐ ca  îngerǐ, că te simţǐ înnaripat, că pluteştǐ pe mare fără să te cufunzǐ, că trăeştǐ o vecie fără ca să aǐ nevoie de a mânca, de a te canuni ca în viaţă pentru hrana de toate zilele.</p>
+   <p> Dacă viaţa ta a fost plină de fapte rele, dacă aǐ răpit averea celuǐ sărac, munca celuǐ harnic, pînea celuǐ sĕrman; dacă aǐ înşelat fete călcân-du le în picioare cinstea; aǐ spart casa priete-nuluǐ căutând să-ǐ amăgeştǐ şi sminteştǐ nevasta, dacă aǐ furat ca să’ţǐ petoleştǐ setea de a avea banǐ, dacă aǐ robit slugile şi oameniǐ carǐ îţǐ lucrează, apoǐ cele maǐ îngrozitoare vise te aşteaptă.</p>
+   <p> Dacă aǐ furat de la sărac veǐ visa că corbǐ şi vulturǐ cu pliscurile de oţel vor veni să ’ţǐ sfîşie carnea, că azi te vor lăsa pînă la oase, iar peste noapte carnea crescându-ţǐ la loc, vor începe a doua zi iar sfişierea şi aşa veǐ trece, în chinurile cele maǐ îngrozitoare, toată viaţa.</p>
+   <p> Dacă în viaţă aǐ fost un prea curvar, aǐ rîs de fete şi aǐ batjocorit cinstea femeilor, atuncǐ şerpǐ veninoşǐ îţǐ vor suge inima, vor băga colţiǐ lor ascuţiţǐ, şi tu, în chinurile cele maǐ îngrozi-toare, îţǐ veǐ trece tot somnul.</p>
+   <p> Dacă aǐ fost bogat în viaţă şi aǐ asuprit oa-meniǐ carǐ lucraŭ la tine, servitoriǐ carǐ îţǐ eraŭ credincioşǐ, le-aǐ oprit leafa, le-aǐ dat leafă prea mică fată cu munca câinească carǐ țǐ-o făceaŭ, atuncǐ cumplite şi groasnice vise te aşteaptă. Veǐ visa că te afli în mijlocul uneǐ mărǐ puturoase, maǐ urît mirositoare ca Marea-Moartă, că te veǐ scufunda mereŭ, mereŭ, că’ţǐ va intra apa aceea puturoasă şi înnecăcioasă pe gât, că ţi se va opri rĕsuflarea, veǐ vedea că o să morǐ din minut în minut și totuşǐ nu veǐ muri, ci în acest vis, fără seamăn de scârbos, te veǐ munci toată vecǐnicia.</p>
+   <p> Dacă aǐ fost hoţ, lacom, înşelător, aǐ răpit ba-nul văduveǐ şi aǐ înşelat buna credinţă a prie-tenilor, dacă aǐ pus foc, atuncǐ somnul din urmă îţǐ va fi turburat de vise spăimêntătoare : veǐ visa că te afli într’o mare de foc; limbǐ ascu-ţite de vêlvoare te vor acoperi, veǐ simţi arsurǐ fără seamăn de rele, durerǐ nesimţite şi negrăite de limbă omenească. Unt-de-lemn clocotind va ploua d’asupra ta, care te va arde cumplit şi care se va aprinde şi el. Carnea dupe oase îţǐ va că-dea în bucăţǐ, ochiǐ îţǐ vor plesni cum plesneşte porumbul pus în foc, iar peste noapte focul se va stinge, carnea îţǐ va creşte la loc până dimi-neaţa, când aceleaşǐ chinurǐ vor începe iarăşǐ, aceiaşǐ durere nesfârşită...</p>
+   <p> Şi cele scrise de mine maǐ sus să nu se creaȡă că’s croite din mintea mea, ci orǐ-ce om cu ju-decată şi le poate închipui: dovedind că moartea e un somn.</p>
+   <p> Pentru toate acestea istorisite maǐ sus, cată ca fie-care om a căreǐ minte este întreagă, a căreǐ mamă a fost o mama duioasă şi care ǐ-a şoptit pururea ca să fie cinstit, trebueşte ca să ’şǐ în-drepte toate faptele vieţeǐ sale pe o cărare pe care să crească florǐ, trebueşte ca faptele sale să fie curate ca lumina soareluǐ, frumoase ca pri-măvara.</p>
+   <p> Ce amar şi greutate trebueşte să fie pe neno-rocitul care, în minutul când moare, îşǐ amin-teşte toate fără de legile sale, şi că frumoasă trebue să’ǐ pară moartea aceluia care se ştie cu fruntea senină.</p>
+<p> Acesta e raiul, acela e iadul.</p>
+   <p> Şi copilul care năştea acum din Vlădina a luǐ Tă-nase Dragoş cine ştie ce suferinţe, va îndura, poate cine cunoaşte prin câte nenorocirǐ nu va trece.</p>
+<p> Tănase, auzind de facere, veni într’o fugă spre casă.</p>
+<p> Se părea atât de vesel când auȡi că copilul e  băiat, în cât maǐ că îǐ venea să joace ca un co-pil de bucurie.</p>
+   <p> Intră în odaia lehuseǐ şi se apropie de pat.</p>
+<p> —    Incetişor, îǐ şopti baba Niţa.</p>
+   <p> —    Băǐat?...</p>
+<p> —    Chiar.</p>
+   <p> —    Imǐ seamănă?</p>
+   <p> —    Leit tat’sĕŭ.</p>
+<p> —    Vlădina e bine?</p>
+<p> —    Doarme dusă.</p>
+   <p> Apoǐ eşi şi stete de vorbă cu maǐ mulţǐ de-aǐ satuluǐ care veniseră să audă vestea cea bună.</p>
+   <p> —    Noroc şi să ’ţǐ trăiască, badeo Tănase, îǐ zise unul maǐ bĕtrân.</p>
+   <p> —    Să te audă D-ȡeŭ, rĕspunse Tănase vesel.</p>
+<p> —    Minte şi hărnicie, ură un altul.</p>
+   <p> —    Asta e şi trebuincios băiatuluǐ.</p>
+   <p> —    Cum îl botezǐ Tănase ?</p>
+   <p> —    De, ştiŭ eŭ cum?</p>
+<p> —    Dumitru, zise un unchiaş spătos şi voinic de părea că e un flăcăŭ de 30 de anǐ.</p>
+   <p> —    Hoţ maǐ eştǐ, moș Dumitre !... vreǐ să aǐ tizǐ prin toate părţile.</p>
+<p> —    Ba... dar îǐ nume frumos.</p>
+<p>—    O fi...</p>
+<p> —    Păǐ atuncǐ, cum?</p>
+<p> —    Să vedem ce-o zice Vlădina.</p>
+   <p> —    Ştiǐ cum logofete Tănase, zise altul?</p>
+<p> —    Cum?</p>
+   <p> —    Costache, tot e azǐ sfîntul Constantin.</p>
+   <p> — Zăŭ că bine zicǐ. mĕ şi’nvoesc.</p>
+   <p> Şi peste vre-o două săptămânǐ la biserica sa-tuluǐ pruncu fu şi botezat. Numele i se dădu Costache.</p>
+   <p> Şi aăiǐ se strecurară în linişte, Costache creşte voinic, trufaş, deştept şi harnic.</p>
+<p> Cum eraŭ casele lor în mijlocul viilor, toată ziulica şi-o trecea jucându-se, alergând, şi aşa se strecurară zece anǐ de zile, fără ca nimic afară de ce însoţeşte copilăria cu sburdălniciile eǐ, să se întâmple.</p>
+   <p> Costache era dragostea părinţilor carǐ, cum eraŭ cu dare de mână, se hotărîră a’l da la şcoala din oraş, cu toate că în Buciumenǐ era şcoala satuluǐ.</p>
+   <p> Voiaŭ părinţiǐ să’ǐ dea o învăţătură maǐ înaltă, să’l facă ceva maǐ mare de cât pe ceǐ alţǐ, de oare ce simţeaŭ eǐ că copilul acesta e maǐ deş-tept, maǐ alt-fel croit de cât ceǐ aǐ satuluǐ.</p>
+   <p> Nenorociţiǐ!</p>
+   <p> Nu’şǐ închipuiaŭ că scoţându-l din marginele fericite ale comuneǐ, unde el îşǐ petrecuse ceǐ maǐ dulci anǐ din viaţa sa, că depărtându-l de viaţa neatinsă de ticăloşia oraşelor, el, în loc să se îndrumeze pe calea dorită de dânşiǐ, va lua o altă potecă care ’ǐ va deschide lanţul neno-rocirelor şi mizerielor, prin care va trece acest om osândit și de lege și de Dumnezeŭ.</p>
+   <p> Şi într’una din zilele luǐ August 1870, pre când băeatul împlinise vre-o 10 anǐ, luară dru-mul Tecuciuluǐ împreună cu Costache, care era plin de bucurie că va merge la şcoală într’un oraş, pe care el, în închipuirea-ǐ bogată, şi ’l zugrăvea ca pe cine ştie ce comedie, ca pe un raiŭ visat dar necunoscut cu toate aceste.</p>
+   <p> Şi vremea era frumoasă ; căruţa cu doǐ caǐ tinerǐ şi fugoşǐ era dusă repede pe şoseaua na-ţională, care trecea prin Ţepu şi Ţigăneştǐ.</p>
+   <p> Toţi eraŭ veselǐ, afară de Vlădina care, ca mumă cu milă de copilul eǐ, simţea că i se strânge inima gândind că o să’şǐ lase copilul pe mânǐ streine.</p>
+<p> Costache însă, fluera mereŭ şi cânta.</p>
+   <p> Spre seară se apropiară de Tecuciŭ în care intrară prin bariera Bârladuluǐ.</p>
+   <p> In Tecuciŭ aveaŭ eǐ nişte rude, carǐ şedeaŭ în suburbia Sfîntu Dumitru, aproape de şcoala primară No. 2.</p>
+   <p> Tecuciul e capitala judeţuluǐ cu acelaş nume și cu vre-o 10 miǐ de suflete.</p>
+   <p> El este udat de douĕ ape micǐ: Bêrladul şi Tecucelul.</p>
+   <p> Bêrladul intră în oraş prin partea despre meaȡă-noapte şi ese prin partea despre meaȡă-ȡi.</p>
+   <p> Tecucelul intră în oraş prin partea despre a-pus şi iese prin partea despre rĕsărit, unde se şi varsă în Bêrlad.</p>
+   <p> Tecuciul este aşeȡat pe loc şes. El se alcă-tueşte din centrul oraşuluǐ, care începe din piaţă şi se întinde spre meaȡă-noapte între strada Ste-fan-cel-mare şi calea Bêrlad-Galaţǐ saŭ strada Carol I şi următoarele mahalale :</p>
+   <p> Tecuciul-noŭ aşeȡat la marginea despre meaȡă-noapte a oraşuluǐ, între malul drept al Bêrladu-luǐ şi calea ferată ce duce din Tecuciŭ la oraşul Bêrlad.</p>
+   <p> Mahalalele Criviţeniǐ, Mălureniǐ, Periǐ, Buda şi Cernicariǐ aşeȡate în partea de răsărit a ora-şuluǐ pe malul stîng al Bêrladuluǐ.</p>
+   <p> Mahalalele : Sf. Dimitrie, Focşa (Sf. Voevoȡǐ), Sf. Nicolae şi Precista aşeȡate de la miaȡă-noapte spre miaȡă-ȡi între malul drept al Bârladuluǐ şi strada Ştefan-cel-mare.</p>
+   <p> Mahalaua Poşta, la partea de apus miaȡă-noapte a oraşuluǐ.</p>
+   <p> Pe dealul şi şesul poşteǐ se face mare iarmaroc în fie-care an de la 45—24 Iunie; tot aci se face şi têrgul săptămânal în cursul anuluǐ, pentru vinderea vitelor.</p>
+   <p> Mahalaua Bulgariǐ, în partea de apus a ora-şuluǐ, din jos de mahalaua Poşteǐ, este aşeȡată pe malul drept al Tecuceluluǐ şi</p>
+   <p> Mahalaua Braniştea, ce vine din jos de a Bul-garilor, în partea de apus miaȡă-ȡi a oraşuluǐ, pe malul stâng al Tecuceluluǐ.</p>
+   <p> Ca zidirǐ maǐ însemnate în Tecuciŭ se află astă-ȡi :</p>
+   <p> Gimnasiul, cazarma Călăraşilor, cazarma Do-robanţilor, Farmacia Racoviţă, Primăria, Prefec-tura şi Tribunalul aşeȡate pe calea Bêrlad-Galaţǐ (str. Carol I), Spitalul în strada Spitalul, Şcoala de băeţǐ No. 4 pe strada Elena-Doamna (calea Focşanǐ), Şcoala de băeţǐ No. 2 pe strada Sf. Dimitrie, Şcoala de fete No. 1 pe strada Sf. Gheor-ghe No. 3, Teatru în partea de rĕsărit a Tribu-naluluǐ în faţa pieţeǐ, Otelul Bulevard în partea de miaȡă-ȡi a pieţeǐ şi Otelul Bogdan în partea de miaȡă-noapte.</p>
+   <p> Piaţa, aşeȡată în partea de rĕsărit a Tribuna-luluǐ, este un loc pătrat acoperit cu piatră, unde se duc orăşeniǐ în fie-care dimineaţă de a’şǐ cum-păra cele trebuitoare pentru casă precum : carne, zarzavaturǐ, pasĕrǐ, legume, fân şi altele.</p>
+   <p> In mijlocul pieţeǐ este un turn frumos cu ceas d’asupra, pentru paza oraşuluǐ de foc.</p>
+   <p> In partea de apus a pieţeǐ este pompieria, unde staŭ oameniǐ şi pompele trebuincioase pentru paza oraşuluǐ de incendiŭ.</p>
+   <p> Afară de piaţa mare, în Tecuciŭ maǐ este o a doua piaţă pentru pescărie şi lemne pe strada Ştefan-cel-mare, lângă biserica Sf. Nicolae.</p>
+   <p> In oraş maǐ sunt 2 grădinǐ publice, una lângă têrgul vitelor şi alta în centrul oraşuluǐ lângă prefectură.</p>
+   <p> Iar la marginea oraşuluǐ de apus se află gara Oraşuluǐ, o hală mare pentru făcut esersiţiǐ mi-litare în vreme de iarnă şi în timp de ploǐ, iar la miază-noapte cimitirul, peste drum de care e grădina de la Bariera Bêrladuluǐ.</p>
+   <p> Tecuciul se pomeneşte prin documente vechǐ</p>
+   <p> din timpurǐ depărtate, cam de vr’o 750 anǐ. El se crede a’şǐ trage numele de la pîrâul Tecucelu, ce isvoraşte din fundul Buciumenilor, de sub dea-lul Cucueţilor. Văile sale se numiaŭ în vechime pustietăţile Tecuciuluǐ.</p>
+   <p> In cronice pentru prima oară se pomeneşte de têrgul Tecuciŭ în un hrisov din anul 1134 Maiŭ 20, pe care, Domnul Bêrladuluǐ de atuncǐ, Ivanco Rostilavoviciŭ, l’a dat neguţătorilor din Missivria (Mesemvria) şi le acordă de a nu plăti vama la Galaţǐ, ci numaǐ la Bêrlad, Tecuciŭ şi cele-l’alte oraşe. El, fiind aproape de hotarele Valahieǐ, se numia odinioară oraş de margine.</p>
+   <p> In judeţul Tecuciŭ se găsesc pomenite multe familiǐ a vecheǐ aristocraţiǐ Moldoveneştǐ, precum : Nióoră, vornic al ţĕreǐ de jos, în Nicoreştǐ (1570— 1624); Gondrea, Buciumul (Buciumeniǐ, mare vornic al ţĕreǐ de jos 1460—1588); Zeletin (1428). Şendrea cumnatul luǐ Ştefan-cel-mare şi mare hatman (Şendreştǐ); Huru, mare vornic al ţĕreǐ de jos şi viteaz (1535) sub Petru Rareş (Huru_ eşti). Dămăcus (Dămăcusa); Grozav, hatman ves-tit sub Ştefan-cel-mare (Grozăveştǐ); Berheciŭ lo-gofăt mare sub Ioan vodă cel cumplit (Berheciŭ); Nicoriţa vornic de gloată (M-rea Nicoriţa); Mar-goşu Toflea (Toflea) căpitan de Tecuciŭ. Toţǐ aceştǐ boerǐ aŭ lăsat numele lor citatelor locali-tăţǐ dăruite de Domniǐ ţĕreǐ ca rĕsplată pentru vitejiele lor.</p>
+   <p> Din sus de Tecuciŭ, pe apa Tecuceluluǐ sunt rĕmăşiţele satuluǐ Bucureştǐ după numele fami-lieǐ Bucur.</p>
+   <p>La marginea de miaȡă-noapte a oraşuluǐ este moşia Odaia, numită ast-fel din causă că în vĕ-chime era un fel de conac pentru slujbaşiǐ tur-ceştǐ ce veniaŭ în ţară. Astă-ȡǐ este pe ea ma-halaua Tecuciuluǐ noŭ.</p>
+   <p> Oraşul Tecuciŭ şi în vechime era aşeȡat ca şi astă-ȡǐ între cele douĕ ape : Bêrladul şi Tecu-celul, după cum se constată aceasta de pe harta făcută de George Reichesdorf, ambasadorul re-geluǐ Ungarieǐ Ferdinand, tipărită în Viena la 1541 (Papiu Ilarian, tesaur de monumente hist.  tom. III, pag. 121). </p>
+<p> Cum că oraşul Tecuciŭ în vechime era soco-tot tot ca oraş, cu oare-care însemnătate se poate vedea din următoarele :</p>
+<p>  I. La 1437, fiul luǐ Alexandru cel bun împăr-ţind ţara între eǐ, pomeneşte în împărţeală şi de ţinutul Tecuciuluǐ.</p>
+   <p> II.    La 3 Iulie 1460, Ştefan cel mare acordând un aşeȡĕmênt neguţătorilor Neopolitanǐ (din Lem-berg) pomeneşte între alte oraşe de plătit vamă si Tecuciul.</p>
+   <p> III.    La 1475 Ştefan cel mare, după bătălia de la Podul-înalt (Racova), a alungat pe Turcǐ până la Şiret, lângă Ionăşeştǐ şi a înecat mulţǐ din eǐ în locul unde se numeşte Vadul-Turcilor, după ce s’a odihnit 3 ȡile la movila cea mare a Te-cuciuluǐ. Această movilă este în marginea de apus a oraşuluǐ.</p>
+   <p> IV.    La 1564 Alexandru Lăpuşneanu venind a doua oară domn cu ajutorul strein şi poposind la dumbrava de la Drăgăneştǐ, unde începe dru-mul spre Pechea, ’ǐ-aŭ eşit înainte boeriǐ luǐ Tomşa Vodă; vornicul Moţoc, postelnicul Veve-riţă, spătarul Spancioc şi visternicul Stroicǐ, carǐ, închinându-i-se, i-aŭ spus să se întoarne înapoǐ, căcǐ ţara nu’l vrea, iar el a răspuns că dacă eǐ nu’l vrea, îǐ vrea el şi după aceea a plecat îna-inte spre Iaşǐ.</p>
+   <p> V.    La 1587 Petru Schiopu, Domnul Moldoveǐ, a făcut aicǐ (în Tecuciŭ) nunta nepotuluǐ sĕŭ, Vlad, fiul luǐ Miliaş, cu fata luǐ Mircea Vodă, fost domn în Valahia, poftind şi pe Mihnea dom-nul Valahieǐ, unchiul sĕŭ. Aceasta în ȡiua de 20 Iunie 1587.</p>
+   <p> VI.    La 1624 Radu Mihnea cel Mare domnul Moldoveǐ, a făcut în Tecuciŭ nuntă mare fiuluǐ sĕŭ Alexandru, domnul Valahieǐ, care se căsă-toria cu fiica luǐ Scarlat Telembaşa Beclicciu, un om foarte bogat din Ţarigrad (Constantino-pol). La acea nuntă făcută cu mare pompă, aŭ luat parte toţǐ boeriǐ din Moldova şi Valahia precum şi deputaţiunǐ de la Transilvania, Unga-ria şi Polonia. La masă boieriǐ Moldovenǐ eraŭ la dreapta şi ceǐ Muntenǐ la stânga.</p>
+   <p> Toate mobilele trebuitoare la acea veselie, care a ţinut douĕ săptâmănǐ, s’aŭ lucrat în sat la Movilenǐ.</p>
+   <p> VII.    După moartea luǐ Irimia şi Simion Mo-vilă născêndu-se ceartă între fiǐ lor, Ştefan Tomşa cearcă ca, cu ajutorul domnuluǐ Valahieǐ, să se facă domn în Moldova. Alexandru Movilă trimite înaintea luǐ Tomşa pe principele Cornţchy cu 6000 călărǐ; acesta la 12 Noembrie a bătut ar-mata luǐ Tomşa pe câmpia (Tureenǐ) despre Si-ret din marginea Tecuciuluǐ şi seara se întoarse în Tecuciŭ ca să odihnească armata.</p>
+   <p> VIII.    La 1650 — 1660, arhidiaconul Paul de Apela, întovărăşind în ţară pe patriarhul Antio-hieǐ şi descriind acea călătorie, pomeneşte în ea despre un oraş întins aşeȡat pe un rîŭ mare (Bêrladul) şi că avea 3 bisericǐ cu clopotniţe şi anume : Precista, Sf. Ilie (arsă la 1858) şi Sf. Nicolaǐ. Asemenea maǐ pomeneşte el şi despre satul Grecǐ, locuit de Greciǐ aduşǐ de Vasile Lupu din Rumelia şi pe care Moldoveniǐ, după rĕsturnarea luǐ Vasile Lupu, i-aŭ jefuit şi îm-prăştiat. </p>
+   <p> IX.    La 1883 Vasile Hăbășescu venind la Mo-vitenǐ, despre Tecuciŭ, a voit a face o resculare contra Domnuluǐ Duca; dar acesta, care se afla la moşia sa Domneştǐ, aflând, a trimis contra luǐ Hăbășescu pe hatmanul Behuş, care l’a bătut.</p>
+   <p> In urma învingereǐ domnuluǐ Dimitrie Cante-mir şi a Rusieǐ la Prut la 1711, vizirul Ahmet Baltagi, dând voe Turcilor şi Tătarilor a prăda ţara, Tecuciul a fost jefuit şi pustiit, iar locui-toriǐ sĕǐ aŭ fugit în toate părţile ţĕreǐ; o parte s’a retras însă la têrgul Nicoreştǐ, ca fiind la o posiţiune maî retrasă şi maǐ bună de apărat. Din această causă la 1709 boeriǐ şi Mitropolitul ţĕreǐ fac, din ordinul împărăteseǐ Ecaterina, un raport către generalul rus Elem, în care se descrie sta-rea Moldoveǐ şi unde vorbindu-se despre Tecuciŭ, zice : «în acest ţinut a fost têrg maǐ înainte nu-mindu-se Tecuciŭ, dar s’a pustiit nerĕmânênd nicǐ o casă».</p>
+   <p> La 1785 Tecuciul era făcut la loc după cum se vede din descrierea comiteluǐ Hauterive, secre-tar de ambasadă francesă la Gonstantinopol, care, călătorind prin Moldova în acel timp cu Alexan-dru Mavrocordat noul Domn, şi făcênd descrie-rea aceleǐ călătoriǐ, pomeneşte şi despre Tecuciŭ numidu’l oraş (viile Tecusti) avênd şi ispravnic. Ast-fel că, fiind capitală de judeţ, avea armata sa pusă sub ascultarea unuǐ vel căpitan (mare căpitan).</p>
+   <p> Oraşul Tecuciŭ (pământul) cu moşia înconju-rătoare a fost în vechime proprietate domnească, după cum eraŭ toate şi maǐ pe urmă după vremǐ a trecut o parte către Nicolaǐ Chrisoverghi, Ioan Razu, Proorocul Samoil (spital în Focşanǐ), către familiile Roset, Constandache, Ghenea, Costache şi Conache până la 1839, când obştia oraşuluǐ a cumpĕrat de la Logofĕtul Costache Conache partea sa, iar partea prooroculuǐ Samoil a schim-bat-o cu moşiele : Cosmeştiǐ, Onceniǐ şi Joseniǐ, cumpărate tot de la Conache cu actul No. 87 din 14 Iunie 1839 şi în fine la 1841 a luat prin învoială şi partea luǐ Constandache, ast-fel că astă-ȡǐ moşia înconjurătoare oraşuluǐ este pro-prietatea obşteǐ oraşuluǐ.</p>
+</div>
+   <div type="chapter" n="2">
+<head> CAP. II.</head>
+   <head>In Tecuciŭ.</head>
+<p>   Gasda la care Costache fu dat era un cojocar, rudă de departe cu Tănase Dragoş şi care    şedea în strada Focşa.</p>
+   <p>  Când căruţa cu ceǐ din Hânţeştǐ ajunse în mijlocul ogrăziǐ, Niculae, aşa îl chema pe  cojocar, le eşi înainte mirat de cine şi ce fel de mosafirǐ ’ǐ-aŭ sosit.</p>
+   <p> —    Bună seara vere Niculae, strigă Tănase de  pe capra căruţiǐ.</p>
+   <p> — Tu eşti bădie... Mĕ, dar aţǐ venit cu toţiǐ... Bine aţǐ venit.</p>
+<p> —    Ce maǐ facǐ.</p>
+<p> —    Ia cu nevoile şi sărăcia.</p>
+   <p> — De, asta’ǐ păcatul tuturor. Ce maǐ face Tudora? dar Mița trebue să se fi făcut fată mare.</p>
+<p> — A crescut cât un plop. 
+   Şi, după ce deshămară caiǐ şi traseră căruţa sub un şopron, intrară în casă.</p>
+   <p> Căsuţa era compusă din treǐ odăǐ, cu sobă la mijloc şi tindă mare în faţă. Pre din afară era spoită curat cu var şi icǐ şi colo cu chenare al-bastre, şi liliachiǐ prin dreptul ferestrelor.</p>
+<p> Innăuntru era curăţenie nevoe mare. Se cu-noştea că era fată mare la mijloc.</p>
+   <p> Intrară cu toţiǐ într’o odăiţă binişor gătită şi se apucară la vorbă.</p>
+   <p> Costache privea în toate părţile cu ochiǐ marǐ, nicǐ că pricepea el multe din cele ce se vorbeaŭ.</p>
+   <p> Se văzuse acum la oraş, pe care şi ’l închi-puia mare şi frumos. De acum înainte traiŭ pe el.</p>
+   <p> Tudora, nevasta cojocaruluǐ, era o femee de vre-o 28 de anǐ, frumoasă încă şi bine ţinută, iar Miţa fata lor, cu toate că mergea pe al 13, dar era crescută de aǐ fi crezut că are, pe ne-minţite, cincǐ-spre-zece anǐ.</p>
+   <p> —    Dar bine bădie Tănase, ce-aǐ păţit de te-aǐ hotărît să viǐ la noǐ cu toțǐ aǐ casiǐ, îl în-trebă Tudora.</p>
+   <p> —    Dorul d’a vĕ vedea şi, pe de altă parte, trebuinţa.</p>
+   <p> —    Şi ce treburǐ aǐ cu noǐ, d-ta gojgogea pri-mar şi om chiabur nu glumă.</p>
+   <p> —    M’am hotărît să’mǐ daŭ fleacu ăsta de om la școală.</p>
+   <p> —    Păǐ, în sat n’aveţǐ şcoală ?</p>
+   <p> —    Ba da, e la Buciumenǐ.</p>
+<p> —    Atuncǐ ?</p>
+   <p> —    vreaŭ să’l ţiŭ în oraş.</p>
+<p> —    Bine, dar Gheorghe cum a învăţat la ţară?</p>
+   <p> —    Aşa e... Vezǐ d-ta, aǐ cincǐ degete la mână şi nicǐ unu nu seamănă cu cel alt. Şi eŭ am cinǐ copiǐ.</p>
+   <p> —    Sâ’ţǐ trăiască.</p>
+   <p> —    Mulţumim. Am treǐ fete şi doǐ băeţǐ. Nu mĕ plâng, mulţumesc luǐ Dumnezeŭ, toţǐ sunt de treabă, dar dracu ăsta de Costache e, pare-mi-se, maǐ deştept. Nu vreaŭ să’l fac sătean ca mine. Feciorul luǐ Dogaru nu e doftor în Boto-şanǐ ?</p>
+<p> —    A luǐ Niţă?</p>
+   <p> —    Negreşit. Il cunoştǐ şi d-ta. Şi ce doftor. I-a mers vestea şi pace. De ce adică nu ar în-văţa şi el înainte ?... Deştept e, şi oǐ face şi eŭ pe-dracu ’n patru să’l ţiŭ cu tot dichisu la şcolǐ şi maǐ înalte.</p>
+   <p> —    Şi unde vreǐ să’l aşezǐ, întrebă Niculae ?</p>
+   <p> —    Păǐ frate Niculae, am cugetat că la d-ta. Ştiŭ că o să’ţǐ fie cam greŭ, dar tot n’aǐ copiǐ micǐ. Om plăti cât s’o putea maǐ bine. Om face-cum o fi maǐ nimerit.</p>
+   <p> —    De, cam greŭ...</p>
+   <p> —    Ba lasă Niculae.... Pentru bădia să facem. Nu maǐ să nu fie rĕŭ, încheie Tudora.</p>
+   <p> —    Eǐ şi, rĕspunse Tănase, d-ta nu găseştǐ leac?... Douĕ palme ţapene.</p>
+<p> Şi după vorbirea aceasta se aşezară la masă.</p>
+<p> A doua zi merseră prin tîrg.</p>
+<p> Costache era bucuros că vede oraşul. Nicǐ că ar maǐ fi vrut el să se întoarcă acasă, la sat. Aicea simţea o atracţie deosebită.</p>
+   <p> Dupe maǐ multe târguelǐ prin oraş, Tănase îşǐ luă ziua bună de la Niculae, îşǐ sărută cu drag copilul şi puse caiǐ la căruţă.</p>
+<p> Vlădina, maǐ cu seamă, era mâhnită grozav de plecare. Ea, ca orǐ şi ce mamă, iubea maǐ mult copilu, şi pentru asta despărţirea o costa maǐ mult.</p>
+<p> Căruţa plecă şi, încetul cu încetul, se pierdu din strada Focşa, luând-o prin sfîntul Dumitru pe strada Ocolu şi de aci pe strada Carol I la Bariera Bârladuluǐ.</p>
+<p> Costache fu înscris la şcoala primară din su-burbie.</p>
+   <p> O dată în clasă, în mijlocul băeţilor de oraş, carǐ eraŭ maǐ ştrengarǐ şi maǐ sglobiǐ de cât ceǐ din sat, el se făcu maǐ vesel că de obiceiŭ; după eşirea din clasă umbla toată seara hoinar prin oraş aşa că gazda luǐ se supăra mereŭ şi îl pedepsea adesea.</p>
+   <p> Anul trecu, dar el în loc să treacă clasă, rĕ-mase repetent.</p>
+   <p> Al doilea an se înbolnăvi de vărsat şi fu luat acasă unde rĕmase tot anul. In 1872 fu dat ia-răşǐ din noŭ la şcoală în gasdă tot la Niculae Cojocaru, şi trecu în clasa Il-a.</p>
+   <p> Dar băiatu, cu toate că era deştept, nu era făcut pentru carte. Luǐ îǐ plăceaŭ jocurile.</p>
+   <p> Intr’una din Duminecele de prin Septembrie, fugi de la gazdă şi se hotărî să meargă pe jos la Hânţeştǐ.</p>
+   <p> Şi o porni singur singurel, umblând toată ziua şi noaptea. Se odihni la Ţigăneştǐ şi iar o luă înainte.</p>
+   <p> Când ajunse în ograda casiǐ, soră-sa Anica îl vĕzu.</p>
+<p> —    Costache! strigă ea mirată.</p>
+   <p> —    Ce ţi-e fa? întrebă Vlădina dintr’un coşar unde mulgea nişte vaciǐ.</p>
+<p> —    Costache maică.</p>
+   <p> Vlădina eşi afară şi rĕmase încremenită când îl vĕzu.</p>
+<p> Il întrebă cum şi ce fel a venit, el le spuse că nu maǐ vrea să înveţe la oraş şi că vrea să stea de acuma acasă.</p>
+<p> Tănase sosind acasă se necăji amar. Toate planurile şi le vedea dărîmate.</p>
+   <p> —    Dar bine mĕ ticălosule, ziceaǐ că ’ţǐ place la oraş.</p>
+   <p> —    Aşǐ... mĕ bătea domnul profesor...</p>
+   <p> Bietul Tănase rĕmase desamăgit cu totul. Iată că copilul pe care şi’l închipuia că ’l vede ajuns departe, iată-l iar la vatra părintească ca să se facă cine ştie ce, dacă nu, poate, maǐ răŭ de cât ceǐ alţǐ copiǐ.</p>
+   <p> Şi, negreşit că nu avu ce să-ǐ facă, trebuia să’l lase de capu luǐ.</p>
+   <p> Se gândi că nu toţǐ oameniǐ trebue să ajungă cu carte şi cine ştie ce, că maǐ bine să facă din el un sătean voinic şi cinstit, care sa’şǐ vază de pămînt şi de vite, care să nu se depărteze de moşie-ǐ, pe care să o îngrijească cu duioşie, ca pe o coȡilă a luǐ.</p>
+   <p> Şi trecu iarăşǐ un an la mijloc.</p>
+   <p> Costache nu se putu ţine loculuǐ, simţi în el gustul de carte şi se hotărî să meargă la şcoală.</p>
+   <p> Ii spuse luǐ tătâne-sĕŭ şi acesta se ’nvoi de astă dată cu bucurie.</p>
+   <p> Trecu clasa II-a, găsduit tot la Nicolae Co-jocaru. In 1874, Tănase se îmbolnăvi greŭ şi muri într’o bună dimineaţă. Rĕmase acasă, să îngrijească de rosturiie lucrurilor, Şerban, fiul cel maǐ mare. Costache, care prinsese drag de carte; era tot în oraş în clasa III-a.</p>
+<p> In Ianuarie 1875 Şerban fu luat în armată.</p>
+   <p> Costache împlinise al cincǐ-spre-zecelea an şi era flăcăŭ deja... Inchegat bine, chipeş, cu ochiǐ marǐ negriǐ, l aǐ fi crezut de 18—19 anǐ.</p>
+   <p> Tudora, nevasta luǐ Niculae Cojocaru, era o femee fierbinte, care nu se sătura cu mângâe-rele ce i le da bărdatu-săŭ, care trecuse de al cincǐ-zecilea an.</p>
+<p> In vinele eǐ era un sânge maǐ aprins şi, avea şi dreptate, era d’abea de vre-o 33 de anǐ, fe-mee voinică şi frumuşică.</p>
+<p> Costache îǐ plăcu mult.</p>
+   <p> Era cam copil, ce-ǐ dreptul, dar sunt femeǐ ce iubesc copiiǐ maǐ mult şi dacă nu se daŭ pe lângă dînşiǐ pricina e că li e teamă c’o să spue care cum-va.</p>
+   <p> Şi, prinsă de ferbinţeala patimilor, strînsă ca în cleştǐ de foc de gândurǐ carǐ maî de carǐ maǐ nebune, simţea că n’o să poată resista do-ruluǐ de a nu se apropia de băiat, care, de şi era curat ca neaua, totuşǐ va pricepe dorurile eǐ, îl va întărîtă ea ca să poată să o potolească.</p> 
+   <p>  — Începutul e greŭ, îşǐ zise ea, într’una din serǐ.</p>
+   </div>
+   <div type="chapter" n="3">
+<head> CAP. III.</head>
+<head>Mama şi fica.</head>
+   <p> Miţa, fata Tudoreǐ, intra pe al 16 an şi pă-rea o bucată de neauă aşa de albă era la faţă; cu părul auriŭ, ochiǐ albaştriǐ ca albastrul ceru-luǐ, piepţiǐ ca două portocale, eşiţǐ în afară, şi vorba-ǐ înceată, dulceagă te ţintuia par’că pe loc când vorbeaǐ cu dânsa.</p>
+   <p> Tudora, cu toate că’ǐ era mamă, dar se sim-ţea de multe orǐ coprinsă de gelozie când pri-vea la fică-sa, şi o vedea că, pe zi ce mergea, se face maî frumoasă, că ea pe lîngă Miţa, a rĕmas în urmă, că ochiǐ tuturor nu se maǐ în-dreaptă spre dînsa ca altă dată.</p>
+   <p> Şi nu e pentru întâia oară ca o mamă să fie geloasă de frumuseţea fetiǐ, maǐ cu seamă când mama este o femee maǐ nervoasă, care nu cu-getă ci se lasă supusă patimilor; care nu vrea să se gândească că periǐ îǐ sunt albǐ, saŭ sbâr-citurele aŭ eşit pe frunte, că laba gâştiǐ îǐ este tipărită lângă tâmple, ci se dă roabă plăcerilor trupeştǐ.</p>
+<p> Tudora era în patima aceasta.</p>
+<p> Vedea că Costache, cu toate că ştia bine că el nu pricepe încă dragostea, e flăcăŭ voinic, care ar putea să îǐ astâmpere poftele, şi maǐ cu seamă, simţea în ea o plăcere nebună, dobito-cească, ca să’l stăpânească ea pentru întâia oară, să ’l înveţe ea cum să înceapă a iubi.</p>
+   <p> Cugetând şi frământându-se ast-fel, într’una din zile trimise pe Miţa la vie, unde era şi băr-batu-săŭ, iar ea rĕmase acasă, singură cu Cos-tache.</p>
+   <p> La școalele de oraşe viţiul e încuibat de tim- puriŭ. Copiǐ, de și maǐ nicǐ unul din eǐ n’a avut legăturǐ cu femeia, dar totuşǐ, fie din auzite, fie din vĕzute, istorisesc care maǐ de care lucrurǐ scandaloase; ar dori eǐ să aibă o femee, dar li e frică, li e ruşine.</p>
+   <p> Aşa și Costache auzise vorbindu-se multe des-pre femeǐ. Unul îǐ istorisise cum se face actul legăturiǐ de aproape cu muerile, dar şi acela îǐ spusese aşa lucrurǐ marǐ, în cât el de şi cugeta a se atinge de o femee, dar avea teama ca de ceva necunoscut.</p>
+   <p> — Mĕ, spunea într’o zi un băeat la şcoală, când eştǐ ca o femee apoǐ te apucă somn, îţǐ sleeşte puterile, în cât nicǐ că maǐ pocǐ să te scolǐ de lângă ea.</p> 
+   <p> — Aşa e, repetă un altul.</p>
+   <p> — De unde ştiǐ?</p>
+   <p> — Eǐ, de unde, mi-a istorisit frate-meŭ Ghiţă.  </p>
+      <p> Costache, care auzea toate astea, prinsese par’că o teamă de femee.</p>
+   <p> In seara când Tudora îşǐ pusese în gând să se apropie de Costache, şi pentru care plan şi trimisese pe Miţa la vie, aşa ca să fie ea sin-gură cu băiatul, Costache veni acasă de timpu- riŭ, scrise nişte lecţiǐ şi mâncă împreună cu Tudora, care, fără ca acesta să dea înapoǐ, în- cepu să ’ǐ dea la vin.</p>
+   <p> Băŭ băiatu mereŭ, aşa că încetul cu încetul se ameţi.</p>
+   <p> Tudora în urmă îl culcă în patul eǐ şi ea se desbrăcă în pielea goală alăturându-se de băiat.</p> 
+   <p> Simţea în ea fiorǐ, carǐ o străbăteaŭ nemilos-tiv şi carǐ nu-ǐ dădeaŭ răgaz.</p>
+      <p>Se ruşina par’că gândind la ce face, dar vo-cea patimilor o îndemna... o arunca maǐ de- parte.</p>
+   <p> Strînse cu putere pe Costache în braţele eǐ, îǐ gâdilă cu mâna părţile delicate ale trupuluǐ aşa că băiatul se trezi pe la miezul nopţiǐ strâns între pulpele eǐ grăsuliǐ şi transportat în mijlo-cul unor plăcerǐ pe carǐ, pînă atuncea, nu le simţise încă.</p>
+   <p> Şi tocmaǐ de dimineaţă se treziră eǐ; ea par’că maǐ flămândă ca pînă acuma; el cunoscênd ceea ce pînă acuma nu ştia.</p>
+   <p> Dimineaţa îǐ găsǐ pe amândoǐ goǐ, cu ochiǐ stinșiǐ.</p>
+   <p> Eǐ îǐ fu par’că ruşine cugetând la ceea ce a făcut; el se mira, aducêndu-şǐ aminte de spusele prietinilor de la şcoală, că a trecut aşa de uşor prin această grea încercare.</p>
+<p> Şi zilele carǐ urmară, în vreme ce Niculae Cojocaru era la vie împreună cu fie-sa, Tudora nicǐ că lăsa pe băiat să se ducă la şcoală ci îl ţinu lângă ea.</p>
+<p> Culesu viilor era pe sfîrşite.</p>
+   <p> Miţa se reîntoarse acasă; faţa’ǐ era pîrlită de soare, ochiǐ eǐ marǐ şi albaştriǐ luceaŭ maǐ tare.</p>
+   <p> Pînă atuncǐ Costache nu o privise cum tre-buia un băiat să privească o femee. Trecuseră împreună în jocurǐ şi vorbă câţǐ va anǐ aǐ co-pilăriǐ, amândoǐ eraŭ curaţǐ ca neaua cea maǐ curată, ca visul prunculuǐ.</p>
+   <p> Acum însă, când Costache era deja bărbat, pentru el Miţa apăru în toată goliciunea frumu-seţeǐ eǐ, vĕzu că, de şi Tudora e drăguţă, dar Miţa e de o sută, de o mie de orǐ maǐ frumoasă. Şi, pe lângă dorul cărniǐ, se amesteca şi o scîn-tee de inimă, simţea el că alt-fel de dragoste l’ar uni cu Miţa.</p>
+   <p> Şi ochiǐ luǐ negri, în loc să rătăcească pe căr-ţile de şcoală, urmăreaŭ galeşǐ şi setoşǐ fata, care, fără să o înveţe nimenǐ, totuşǐ, sub pute-rea instinctuluǐ, se apropia de el, căuta să’l seducă.</p>
+   <p> Intr’una din serile frumoase de Octombrie, timp făcut pentru înamoraţǐ, când luna era plină ca un car de foc pe cerul ce lucea aco-perit de miǐ de stele lucitoare, pe un vînt sub-ţirel care împrospăta aerul, Miţa eşi afară.</p>
+<p> Costache, care atât aşteptă, fuga după dînsa.</p>
+   <p> Fata eşi la poartă şi privea în depărtare, lă-sându-şǐ ochiǐ să rătăcească pe seninul ceruluǐ.</p>
+      <p>  Costache se apropia de ea.</p>
+   <p> Simţea inima bâtându-ǐ.</p>
+   <p> Ochiǐ îǐ eraŭ coprinşǐ de o lene caldă şi dulce.</p>
+      <p> Inaintă încet.</p>
+<p> Sosi.</p>
+   <p> Miţa nicǐ că’l băgă în samă. Gândurile eǐ eraŭ prea adâncǐ.</p>
+<p> Costache o prinse încet în braţe.</p>
+<p> —    Ah! strigă ea speriată.</p>
+   <p> —    Ce te-aǐ speriat! îǐ zise el.</p>
+   <p> —    D-ta eştǐ Costache?</p>
+<p> —    Eŭ... Dar de când d-ta?</p>
+   <p> —    Păǐ!... rĕspunse fata încurcată.</p>
+   <p> —    Păǐ ce? Altă dată îmǐ ziceaǐ tu şi suna maǐ bine la ureche tu de cât d-ta, şi tocmai a-cum, când suntem prietenǐ vechǐ.</p>
+<p> —    Aşa e... murmură ea.</p>
+   <p> —    Miţo o să ’ţǐ spun ceva ?</p>
+<p>—    Ce?</p>
+   <p> —    Dacă nu ţi-o place îmǐ făgădueştǐ să nu spuǐ Ţaţi Tudori ?</p>
+   <p> —    Ce-am eŭ cu mama. Nu ştiŭ ce e cu dum-neaeǐ, de când m’am întors de la vie nu mĕ are în ochǐ bunǐ. Mĕ tot ceartă de geaba, fără nicǐ o vină.</p>
+<p> —    Mito, eŭ te iubesc... îǐ zise el strîngând-o spre piept.</p>
+   <p> Fata nu rĕspunse.</p>
+   <p> In tăcerea eǐ se citea maǐ mult de cât orǐ-ce vorbă pe care mintea omenească ar fi putut-o rosti.</p>
+<p> Şi Costache se simţi biruit de această sfântă tăcere.</p>
+   <p> O privi cu sfinţenie, îǐ strînse mânele într’ale luǐ, îǐ sorbi rĕsuflarea, şi, când din ochiǐ eǐ ca douĕ bucăţǐ de cer, isvorîră două şiroae de la-crimǐ, el se simţi atât de înduioşat în cât nu maǐ ştia cum să ’şǐ arate fericirea şi dragostea.</p>
+   <p> Şi noaptea aceasta fu întâia oră a dragosteǐ lor.</p>
+   <p> Miţa iubea cu puterea şi sfinţenia uneǐ fete cu sufletul curat, el se simţea par’că renăscut, cu totul altul de când îşǐ apropiase buzele luǐ de ale feteǐ.</p>
+   <p> Şi pândeaŭ orǐ-ce minut liber, orǐ-ce ocasie, ca să’şǐ vorbească, ca să ’şǐ strângă mânele, ca să se îmbrăţişeze.</p>
+   <p> De când dragostea aceasta nouă coprinse su-fletul luǐ Costache, Tudora îǐ răsărea bătrână, urîtă  şi desgustătoare. Ocolea chiar să se maǐ întâlnească cu ea, să ’ǐ maǐ vorbească.</p>
+   <p> Tudora, cu mirosu-ǐ subţire şi delicat de fe-mee şi de amantă înşelată, simţi că trebue să fie ceva la mijloc şi începu să pândească toate mişcările luǐ Costache.</p>
+   <p> Amoreziǐ, flind-că în furia dragosteǐ lor nu maǐ vedeaŭ pe nimenǐ, credeaŭ că nicǐ eǐ nu sunt vĕzuţǐ de alţǐ.</p>
+   <p> Şi, de multe orǐ le scăpa din vedere că Tu-dora îǐ urmăreşte, că le vede strîngerile de mână, sărutările.</p>
+   <p> De când avusese relaţiunǐ Tudora cu Costache, şi Miţa se întorsese de la vie, ea fără să vrea simţi ură pe fata eǐ. Şi îǐ căuta cearta cu lumâna-rea aşa din senin. Era geloasă de fie-sa, văzân-du-ǐ ochiǐ eǐ mari şi frumoşǐ, obrajiǐ grăsuliǐ şi trageţǐ ca strugurele.</p>
+<p> Acum însă, când înţelese de ce Costache nu maǐ se dă pe lângă ea, de ce fuge chiar de dînsa, acum o ură grozavă, ca de mamă vitregă, o coprinse.</p>
+   <p> — A, staǐ tu, ticăloaso, îşǐ zise ea gândind la Miţa.</p>
+   <p> Şi cu pumniǐ strânşiǐ de mânie intră în casă, după ce ǐ văzu pe amândoǐ la poartă cum se sărutaŭ într’una din seri.</p>
+   </div>
+   <div type="chapter" n="4">
+<head> CAP. IV.</head>
+   <head>Moartea Mițiǐ.</head>
+   <p> De a doua zi chiar, viaţa ce îndura sĕrmana fată fu un chin.</p>
+   <p> Dacă până atuncǐ era certată şi ocărâtă, acum începu chiar să fie bătută şi toate acestea în faţa luǐ Costache, care îşǐ simţea sîngele că se sue în cap de ciudă.</p>
+<p> Tudora turba de necaz şi gelozie.</p>
+   <p> Ea nu că iubea pe Costache, dar era o femee de o natură curioasă, aprinsă, cu pofte pe carǐ nu le putea potoli nicǐ o dată, care îşǐ uita în acest moment că e mamă ci se rĕsbuna ca femee.</p>
+   <p> Miţa vedea toate persecuţiile acestea, simţia bine că de la o vreme mă-sa o urăşte, că nu-ǐ maǐ arăta mângâerile şi duioşia de altă dată, simţea în sufletul eǐ bun şi de înger o greutate mare cugetând la toate acestea, dar nu’şǐ putuse da seamă care să fie pricina că e pornită asu-pră-ǐ o urgie aşa de grozavă.</p>
+   <p> Intr’una din ȡile Costache o găsi cu ochiǐ plinǐ de lacrămǐ.</p>
+   <p> —    Ce aǐ Miţo de plângǐ? o întrebă el du-reros.</p>
+<p> —    Nimic.</p>
+<p> —    Cum nimic?</p>
+   <p> —    Zĕŭ, nimic.</p>
+   <p> —    De ce plângǐ atuncǐ?</p>
+<p> —    Lasă-mĕ Costache... Nu mĕ întreba... Lasă-mĕ în păcatele mele.</p>
+   <p> —    Ah! Miţo... Te ascunȡǐ de mine?... Asta ţǐ-e dragostea ce ziceaǐ că’mǐ porţǐ ?... Tu suferǐ și nu vreǐ să ştiŭ și eŭ ce aǐ ?! Poate că eŭ sunt pricina.</p>
+   <p> Şi într’adevĕr, el, fără să ştie că grăeşte ade-vĕrul, ghicea.</p>
+<p> —    Nu tu Costache.</p>
+<p> —    Dar cine atuncǐ?</p>
+<p> —    Mama.</p>
+<p> —    Ce ? iar a început ?</p>
+   <p> —    Da, m’a bătut adineaorǐ din nimic, facên-du-mĕ de treǐ parale. Nu’ǐ greşesc cu nimica şi nu ştiŭ ce are cu mine.</p>
+<p> Costache pricepu care să fie causa.</p>
+   <p> Se temu să spue adevĕrul Miţi, căută cu vorbe dulcǐ să o liniştească şi reuşi.</p>
+<p> Zilele se strecură înainte... Tudora crăpa de necaz, pe care începu să şi’l verse asupra luǐ Costache.</p>
+   <p> Vedea ea bine că nu’ǐ de făcut nimic, că co-piiǐ se iubesc.</p>
+<p> Se hotărî să dea afară din casă pe Costachet să nu’l maǐ ţie la eǐ.</p>
+   <p> Într’una din ȡilele Crăciunuluǐ ea cu Nicolae, bărbatu-sĕŭ, plecă să mănânce la una din vecine.</p>
+<p> Costache rĕmase cu Miţa acasă.</p>
+   <p> Se simţiaŭ fericiţǐ ca doǐ fluturǐ că aŭ putu scăpa de ochiǐ de şerpoaică aǐ Tudoriǐ.</p>
+   <p> Toată ȡiua o trecură în sărutărǐ şi strânsorǐ nevinovate.</p>
+<p> Seara trebuia să vie Tudora şi Nicolae.</p>
+   <p> Eǐ aşteptară până târziŭ, dar de geaba, nu se maǐ întorceaŭ. Atuncǐ eǐ hotărîră să se culce.</p>
+   <p> Mița trecu în odaia de alĕturǐ, iar Costache râmase să doarmă la locul luǐ.</p>
+   <p> Trecuse o jumĕtate de ceas de la despărţirea lor, când Costache simţi o săgeată caldă care ǐ străbate şira spinăriǐ, o furnicătură prin tot cor-pul şi, nestăpân pe el, cu ochiǐ eşiţǐ afară din orbite, trecu în odaia unde Miţa, desbrăcată, tocmaǐ se întindea în pat.</p>
+<p> Când Costache intră, fata speriată, ruşinată, se acoperi cu plapoma.</p>
+   <p> El se apropie de ea, îǐ spuse multe şi mărunte ce un suflet plin de foc şi patimă ştie să înşire, o trase spre peptu-ǐ şi pe când fata se smucea şi nu voia să cedeze dorinţelor luǐ, el o strânse maǐ tare, o sărută maǐ tare, părând că o rupe.</p>
+   <p> Şi dimineaţa îǐ găsi pe amêndoǐ dormind duşǐ, cu ochiǐ secaţǐ, ea cu faţa istovită şi galbenă, el obosit de lupta de peste noapte.</p>
+<p> Miţa perduse, saŭ, maǐ bine, dase tot ce avea maǐ preţios: fecioria.</p>
+<p> Şi el, fără să ştie, fără să poată judeca păca-tul ce’l făcuse, că trecuse de la mamă la fată.</p>
+   <p> Deşteptarea Miţiǐ a fost o grozăvie.</p>
+<p> Plânsul nu i se putea conteni ; nicǐ că îndrăs-nea să privească spre Costache.</p>
+   <p> El o linişti, îǐ făgădui că va tăcea, că nimenǐ n’o să afle ceea ce a fost între eǐ.</p>
+   <p> Tocmai pe la prânz sosiră a-casă părinţiǐ.</p>
+   <p> La petrecere, ca la petrecere, chefuiseră şi se chercheliseră ţapăn. Şi ast-fel aŭ rĕmas să doar-mă la vecina unde se duseseră.</p>
+   <p> Tudora când intră, bănui par’că ceva vĕȡênd pe Miţa plânsă şi trasă la faţă.</p>
+   <p> Şi coprinsă de bănuelǐ începu să vegheze maǐ bine.</p>
+   <p> Se strecurară vre-o treǐ săptămânǐ şi Vlădina, mama luǐ Costache, se îmbolnăvi greŭ.</p>
+   <p> I se scrise să vie acasă şi el plecă. Durerea Miţiǐ la despărţire a fost de nedescris. I se părea bieteǐ copile că nu’l va maǐ vedea, că această despărţire este pentru vecie.</p>
+   <p> Boci o noapte întreagă, îşǐ simţea că sufletul i se rupe de durerere, că nu o să poată să maǐ trăiască dacă el o pleca.</p>
+   <p> Toată ȡiua ce urmă o trecu în grijurǐ şi su-ferinţe.</p>
+   <p> Se întâlni cu el şi când se vĕȡurâ singurǐ, îǐ căȡu dupe gât şi începu să plângă ca o nebună.</p>
+   <p> —    Ce ’ţǐ-e Miţo, îǐ zise el cu glasul muiat şi cu ochiǐ roşiǐ de lacrămǐ.</p>
+<p> Dar ea începu să plângă maǐ tare.</p>
+   <p> Cu toate mângâerile luǐ, cu toate sărutările carǐ îǐ uscaŭ faţa de lacrămǐ, ea plângea ne-curmat, suspinând adânc.</p>
+   <p> —    Tacǐ Miţo, tacǐ!... îǐ şopti el.</p>
+   <p> —    Când plecǐ Costache ? îl întrebă ea înecată în suspine.</p>
+<p> —    Mâine Miţo...</p>
+   <p> —    Vaǐ, nenorocita de mine!...</p>
+   <p> —    De ce vaǐ ?</p>
+<p> —    N’o să maǐ pot trăi... 0 să mĕ omor...</p>
+   <p> —    Ce vorbeştǐ aşa? par’că mĕ duc pe vecǐ-nicie.</p>
+<p> —    Cine ştie dacă ne-m maǐ vedea!</p>
+   <p> —    Cum să nu. Copilă maǐ eştǐ!</p>
+   <p> —    Când te întorcǐ?</p>
+   <p> —    Peste cincǐ-şase ȡile negreşit.</p>
+   <p> —    Nu ştiŭ ce presimţire am Costache...</p>
+<p> —    Ce presimţire?</p>
+   <p> —    Pare-mǐ-se că nu o să te maǐ vĕd.</p>
+   <p> —    Aşǐ... fleacurǐ... Să se facă maica sănătoasă şi vom fi iarăşǐ împreună.</p>
+   <p> Pe când vorbiaŭ eǐ, Tudora care băgă de seamă că lipseaŭ, se strecură binişor lângă uşă şi as-cultă tot ce eǐ îşǐ şopteaŭ. Acum ea înţelese toate.</p>
+   <p> —    Costache, începu din noŭ Miţa.., o să mor dacă nu te-ǐ întoarce. Nu ţǐ-am spus ceva.</p>
+<p> —    Ce?</p>
+   <p> —    Mǐ-e ruşine...</p>
+   <p> —    De mine tccmaǐ?</p>
+<p> —    Costache, am...    '</p>
+<p> —    Ce frate ?</p>
+   <p> —    Am rĕmas însărcinată.</p>
+<p> Copilul-tată se cutremură.</p>
+   <p> Ca toate că nu pricepu nicǐ el bine înţelesul acestor vorbe, totuşǐ o ruşine îl coprinse.</p>
+   <p> Aplecă ochiǐ şi îǐ fu teamă să privească în ochiǐ fetiǐ.</p>
+<p> Tăcură ast-fel maǐ multe minute.</p>
+   <p> Tudora la auȡul acestor vorbe se cutremură. Un simţimênt noŭ se născu în acel moment, care, pe lângă gelozia sa fără marginǐ, era adăo-gat şi cu groaza că fie-sa a fost siluită şi e mamă urma relaţiunilor cu Costache, care fusese aman-tul eǐ.</p>
+   <p> Iǐ veni pentru moment să intre înăuntru, să’l rupă cu unghiele pe el, care ştia bine acestea, iar pe ea să o gonească dinnaintea ochilor eǐ ca pe o nelegiuită.</p>
+<p> Dar se potoli repede.</p>
+<p> Se gândi că nu era fiică-sa de vină. Poate că ea nicǐ ştiuse nimic din cele ce avuseră loc între ea şi Costache.</p>
+<p> Plecă de lîngă uşe, sdrobită de cele ce auzise şi se culcă, doar în mijlocul viselor să uite cele ce îǐ sunaseră la ureche ca un bălăngănit de clopot de cimitir.</p>
+   <p> Costache şi Miţa, după ce maǐ vorbiră multe, îşǐ luară noapte bună, jurându-se să caute a se întâlni cât maǐ curând.</p>
+<p> A doua zi de dimineaţă, Costache pornea că-lare spre casă.</p>
+   <p> In urma luǐ douĕ femeǐ priveaŭ.</p>
+   <p> Una cu ochiǐ înecaţǐ în lacrimǐ.</p>
+   <p> Alta cu eǐ plinǐ de scânteǐ de ură.</p>
+   <p> Şi el ajunse acasă unde maică-sa zăcea greŭ bolnavă. Ajunse acasă pentru ca în urmă-ǐ să se petreacă o mare nenorocire, care să’l facă trist pentru tot-d’a-una de câte orǐ îşǐ amintea.</p>
+   <p> La ţară ajuns, cu toată frăgezimea vîrsteǐ sale, dar ticăloşiile şi viţiurile prea de timpriŭ îl îmbătrânise aşa că, maică-sa nicǐ că-l maǐ cunoştea.</p>
+   <p> Se hotărî să stea pînă la îndreptarea maicǐ-sale, iar în urmă să se reîntoarcă la Tecuciŭ.</p>
+<p> Nu doar dorul de a învăţa era care ’l împin-gea la aceasta, dar dorul, dragostea pentru Miţa.</p>
+   <p> Fata îl legase prea mult de ea şi pentru a-ceasta întâiele zile carǐ se strecurară de la ple-care îǐ părură un chin.</p>
+   <p> Lipsa eǐ îǐ era peste fire de grea, el, obici-nuit să o zărească în fie-care minut, să ’ǐ strângă mâna, să o sărute.</p>
+   <p> Ceǐ aǐ caseǐ se mirară că’l găsiră prea trist pentru vîrsta luǐ, el copil atât de vesel şi nea-stîmpărat altă dată.</p>
+   <p> Şi se strecurară vre o douĕ săptămânǐ în care vreme Vlădina se îndreptă zi cu zi pînă ce se făcu aproape teafără.</p>
+<p> Costache însă era foarte îngrijat.</p>
+   <p> Când se despărţise de Miţa se hotărise ca să ’şǐ scrie unul altuia.</p>
+   <p> Trecuseră atâtea zile, el îî trimisese douĕ scri-sorǐ şi, nicǐ un rĕspuns...</p>
+   <p> Nu ’şǐ putea închipui ce să fie.</p>
+<p> Să fi fost oare bolnavă şi ea?</p>
+<p> Să ’l fi uitat?</p>
+   <p> Scrisorile să fi căzut în alte mâinǐ de cât în ale eǐ şi ast-fel să nu le fi citit?</p>
+   <p> Şi miǐ de miǐ de gândurǐ felurite îl canuneaŭ.</p>
+   <p> Se hotărî decǐ să plece la Tecuciŭ. Işǐ şi adu-nase lucrurile, când într’una din dimineţe, sosi în ograda casiǐ un om din sat.</p>
+<p> —    Ce facǐ bade Gheorghe, îl întrebă Costache.</p>
+   <p> —    Bine bădie. Viŭ din Tecuciŭ.</p>
+   <p> Costache se cutremură la pomenirea acestuǐ nume.</p>
+<p> —    Aǐ fost la Niculae Cojocaru? îl întrebă eǐ nerăbdător.</p>
+<p> —    Am fost, săracu!</p>
+<p> —    Cum săracu? zise tremurând Costache.</p>
+   <p> —    Nu ştiǐ ce i s’a întâmplat ?</p>
+<p> —    Nu bădie... Spune repede.</p>
+<p> —    Miţa...</p>
+<p> —    Eǐ!., ce e cu Mița?</p>
+<p> —    A murit.</p>
+<p> Costache se îngălbeni şi o sudoare rece ca ghiaţa îǐ curse pe frunte. Stete câte-va minute ca eşit din fire uitându-se năuc, ca şi cum n’ar fi înţeles grozăvia acestor vorbe.</p>
+   <p> —    S’a otrvit biata fată, adăogă ţĕranul care apoǐ, după ce maǐ vorbi cât-va, plecă.</p>
+   <p> Costache plânse ca un nebun. Lipsi toată ziua de acasă, alergă ea un eşit din minţǐ peste câmpurǐ, se hotărî, pentru moment, să se ucidă şi el, ne-măǐ putând trăi fără Miţa.</p>
+   <p> Tocmaǐ seara târziŭ veni acasă.</p>
+<p> Vlădina bănui că trebue să fie ceva la mij-loc, când văzu starea desperată a luǐ Costache.</p>
+<p> Să vedem acum ce se întâmplase în strada Focşa din Tecuciŭ, în casa luǐ Niculae Cojocaru, după ce plecase Costache.</p>
+   <p> Toată ziua ce urmă plecăriǐ acestuia Miţa era tulnică. Nu mâncă, nu băŭ, cu ochiǐ mereŭ în-notând în lacrimǐ, suspinând şi plângênd mereŭ.</p>
+<p> Pe de altă parte Tudora muncită de grozăvia celor ce auzise turba de necaz şi ură.</p>
+<p> Cum ? Ea să fi fost amanta luǐ Costache, co-pil încă, şi, câte-va lunǐ în urmă, să audă că fata eǐ este îngreunată, că rodul ce purta în pân-tece este al luǐ Costache ?..</p>
+<p> Crima aceasta o cutremură.</p>
+   <p> Cu toate că nu era tocmaǐ o femee sfîntă, to-tuşǐ nu putea ca mustrarea să nu o stăpânească cu ghiarele-ǐ ascuţite...</p>
+   <p> Şi, încetul cu încetul, un fel de sentiment noŭ o coprinse, o ură amestecată cu milă.</p>
+   <p> Işǐ ura copila de moarte, o ura fîind-că din causa eǐ Costache o uitase; îǐ era milă de ea, gândind că poate nu ştia nimica şi făcuse toate acestea din pricină numaǐ şi numaǐ că Costache o smintise.</p>
+   <p> Dar mila care o coprinse la început se topi, dispăru încetul cu încetul şi ura care la înce-put nu era tocmaǐ mare, crescu, o copleşi.</p>
+   <p> Acum, când Costache nu maǐ era acolo, în-cepu să ’şǐ verse tot necazul pe fată.</p>
+<p> Aceasta disperase.</p>
+   <p> I se urîse viaţa; bătăile şi înjurăturile ce mai-că-sa o făcea să sufere zilnic, se uneaŭ cu tris-teţea despărţireǐ de iubitul eǐ Costache şi cu grijea că, de şi el îǐ făgăduise că îǐ va scri, to-tuşǐ nu primise încă nicǐ o scrisoare, de oare-ce le oprise Tudora.</p>
+<p> Şi în această stare de jale sufletească se ca-nunia biata copilă.</p>
+<p> Intr’una zile Tudora era ca turbată.</p>
+<p> Fără să ştie ce maǐ face, fără să ţie soco-teală de fiă-sa începu să o batjocorească, fără nicǐ o milă.</p>
+   <p> —    Scroafă ce eştǐ, îǐ zicea ea, te-aǐ întristat fiind-că ţi-a plecat amantul? Ce crezǐ că nu ştiu eŭ tot.</p>
+<p> La aceste vorbe Miţa se cutremură.</p>
+<p> Aşa dar aflase că ea iubise pe Costache.</p>
+   <p> —    Şi, nu numaǐ atâta, dar ştiŭ şi că eştǐ îmborţoşată...</p>
+   <p> Ca un leşin căzu pe sufletul copileǐ... Se cu-tremură şi era să cadă când, o lovitură şi maǐ groaznică, veni să o sdrobească de tot.</p>
+   <p> —    Ştiaǐ că e amantul meŭ, ticăloaso, îǐ zise Tudora îngrijată, şi de aceea mi l’aǐ luat... eŭ l’am avut întâiŭ...</p>
+   <p> La aceste vorbe fata căzu în lungul odăiǐ maǐ moartă.</p>
+<p> Tudora rînjind eşi afară lovind-o cu piciorul şi blestemând-o.</p>
+   <p> Câte-va ciasurǐ se trecurară în vreme ce Miţa era leşinată.</p>
+   <p> Când se deşteptă şi îşǐ aduse aminte de cele ce aflase începu să plângă cu sughiţ.</p>
+<p> Care va să zică ea, ea fusese amanta aceluia care fusese şi amantul mami-si!</p>
+<p> Ea purta în pântece un rod care îǐ era şi co-pil şi frate.</p>
+   <p> Acum pricepu ea pentru ce maică-sa o per-secuta aşa de grozav, acum înţelese ea din ce pricină veneaŭ înjurăturile şi bătăile.</p>
+<p> Durerea se mări grozav.</p>
+<p> O scârbă de viaţă o coprinse; nimic n’o maǐ împăca...</p>
+<p> Se hotărî să moară.</p>
+   <p> Ştia că taică-săŭ ţine în cutia mesi nişte şo-ricioaică pentru stârpirea şobolanilor.</p>
+<p> Intră pe nesimţe în odae şi luă prafu.</p>
+<p> II turnă în pahar şi se găti să bea.</p>
+   <p> In momentul de a duce paharul la gură o jale grea o coprinse. Îşǐ aduse aminte de Cos-tache.</p>
+<p> Cum ? Să se despartă de el.... ea care ’l iubea atât de mult ?..</p>
+<p> Dar, gândind la ticăloşia ce el făptuise se ho-tărî să moară.</p>
+   <p> Băŭ în întregime paharul...</p>
+   <p> Nu trecu mult şi durerǐ îngrozitoare o co-prinseră.</p>
+   <p> Tăeturǐ ascuţite o loveaŭ peste pântece ; ma-ţele păreaŭ că’ǐ ard pe cărbunǐ.</p>
+   <p> Durerile din ce în ce se măreaŭ.</p>
+<p> Nu maǐ simţi nimic.</p>
+<p> Leşinase...</p>
+<p> De o dată i se păru că aude o muzică ce-rească, că se află pe o mare strvezie, că se scaldă în apele cristaline ale eǐ, că apoǐ sboară.</p>
+<p> Se simţea maǐ uşoară, maǐ fericită.</p>
+<p> Se ridică de odată în sus şi suspinând lung şopti :</p>
+<p> — Costache...</p>
+<p> Murise.</p>
+   </div>
+   <div type="chapter" n="5">
+<head> CAP. V.</head>
+<head>In Dobrogea.</head>
+   <p> Orǐce durere îşǐ are marginele eǐ.</p>
+   <p> Suferă cine-va în momentul când nenorocirea îl isbeşte de crede că o să cadă sub loviturile nemiloase ale soarteǐ, dar, încetul cu încetul, durerea i se face prietenă, se obicinueşte cu ea şi îǐ devine o a doua natură.</p>
+   <p> Costache, după cum ziseiŭ, fu ca mort câte-va zile.</p>
+   <p> Cu fata ǐ slăbită de chinurile şi durerile ce ǐ pricinuiseră vestea îngrozitoare a morţiǐ Miţiǐ, îǐ apărea necontnit fata, şi chiar maǐ frumoasă ca pînă acuma, maǐ gingaşă ca în tot-d’auna.</p>
+   <p> I se părea că viaţa luǐ întreagă i s’a rupt o dată cu moartea fetiǐ, că de acum înainte nu va maǐ simţi nicǐ o bucurie, nicǐ o fericire.</p>
+   <p> Vlădina, maică-sa, îl înţelese, îǐ ghicise gân-durile şi pricina durerilor sale fără de marginǐ şi căută să l mângâe, să’l facă a uita.</p>
+<p> Şi, încetul cu încetul, rana se închise, uita-rea se depuse peste amintirele dureroase. Apoǐ, era şi în vîrsta când se uită uşor, când durerile sunt ca un vînt de toamnă, puternic dar tre-cător.</p>
+   <p> Aniǐ se strecurară cu mersul lor fără de o-prire.</p>
+   <p> Costache crescu în mijlocul satuluǐ, îngrijea de ale casiǐ şi era harnic şi gospodar.</p>
+   <p> Sorţiǐ se apropiaŭ. Implinise ceǐ 21 de anǐ şi decǐ, trebuia să părăsească casă şi masă spre a merge ca să ’şǐ facă datoria: să apere ţara luǐ.</p>
+   <p> Aniǐ cât maǐ stete acasă, Costache se îndelet-nici cu vînătoarea aşa că se făcuse un trăga-ciŭ minunat.</p>
+   <p> Rătăcia de dimineaţa pînă seara prin pădurǐ stufoase, fluera şi par’că plângea în şueratul ce scotea, se pierdea în mijlocul sălbătăcieǐ fără marginǐ ce’l înconjura.</p>
+   <p> Seara, înoptat, se întorcea acasă cu geanta plină cu vînaturǐ şi ostenit, prăpădit mânca şi se culca pînă în a doua zi, când începea aceiaşǐ viaţă de rătăcire.</p>
+   <p> In sfîrşit în 1883, Februarie, trase sorţiǐ în Tecuciŭ şi fu găsit ca bun pentru oştire.</p>
+   <p> După dorinţa sa, fu trimis în Dobrogea la că-lăraşǐ.</p>
+   <p> Avea o groază de armată. Nicǐ el nu ştia de ce, dar simţea bine că n’o să poată suferi multă vreme starea cea nouă în care intra. Ştia bine că în armată este o asprime nepomenită, că le-gile şi regulamentele sunt grele şi anevoioase, că, maǐ mult de cât orǐ ce, este o grozăvie în privinţa bătăiǐ şi înjurăturelor la carǐ sunt su-puşi ceǐ micǐ la grad.</p>
+   <p> Ajunse în Dobrogea la regimentul sĕŭ, care se afla tocmaǐ în Tulcea.</p>
+<p> Chiar din întâia zi se îngrozi.</p>
+   <p> Soldaţiǐ eraŭ înghiontuiţǐ, căprariǐ strigaŭ, îǐ înjuraŭ, se necăjaŭ pentru cel maǐ mic lucru.</p>
+   <p> Injurăturile curgeaŭ ca ploaia, bătăile ca ra-zele soareluǐ.</p>
+   <p> El fu dat în compania unuǐ ofiţer tînĕr, rău-tăcios și fără de suflet.</p>
+   <p> — Cum te chiamă mĕ? îl întrebă răstit ofiţerul. </p>
+   <p>  Costache Tănase Dragoş.</p>
+   <p> —    Nu se rĕspunde aşa pezevenghiule strigă furios ofiţerul şi îǐ trase o palmă.</p>
+<p> Dragoş rĕmase ca trăsnit.</p>
+   <p> —    Când te întreb se zice : să trăiţǐ d-le ofi-ţer... Ce crezǐ că vorbeştǐ cu mă-ta?</p>
+   <p> Aceasta fu prima lecţie ce căpătă el intrând în cea maǐ înaltă instituţiune : armata,  baza şi tăria ţĕrilor, pentru care se cheltueşte miloane de francǐ, în vreme ce şcolile şi altele trebuin-cioase sunt părăsite.</p>
+<p> Aci trebueşte să spun câte-va vorbe despre ar-mată.</p>
+   <p> Armata cum este astă-zǐ alcătuită este un mare răŭ şi o cheltuială zădarnică.</p>
+   <p> Inainte vreme când nu pătrunsese razele soa-reluǐ civilisăriǐ în popoare, când omul nu era ca astă-zǐ: aşezat, cu dor şi dragoste de aǐ luǐ şi de ale luǐ, pre atuncǐ viaţa noastră nu era sigură din minut în minut căcǐ, pe fie-care clipă, te puteaǐ aştepta ca veciniǐ să năvălească asu-pră-ţǐ, ca să te măcelărească, să’ţǐ răpească a-vutul.</p>
+   <p> Astă-zǐ însă lucrurile s’aŭ schimbat.</p>
+   <p> Fie-care îşǐ vede de ogorul luǐ, e mulţumit ca să aibă linişte şi să-l are în pace, la toamnă să ’șǐ-l secere, să ’șǐ adune bucatele și să se în-grijească pentru iarnă. Şi tot aşa şi moş Stan, moş Ilie, badea Gheorghe, toţǐ într’un cuvînt.</p>
+   <p> Dacă se găseşte câte un nebun pre icǐ pre colo, apoǐ acela ce poate face faţă cu atâţǐ oa-menǐ cuminţǐ.</p>
+   <p> Dacă aceasta este pentru oamenǐ, nu e maǐ puţin adevĕrat că tot aşa este şi pentru po-poare.</p>
+   <p> Oameniǐ din fie-care ţară sunt fericiţǐ când pacea domneşte căcǐ atuncǐ fie-care îşǐ poate vĕ-dea în pace şi cu dragoste de ale luǐ, poate să îngrijească avuţiile.</p>
+   <p> Şi toate popoarele vĕd că e o prostie, un ce fără de lege a se bate unul cu altul, a ne omorî unul pe altul, când toţǐ fie că suntem românǐ, francesǐ, turcǐ, ovreǐ, grec saŭ orǐ ce altă naţie de pe lume, toţǐ suntem fraţǐ, fie-care avem tot acelaşǐ trup, aceleaşǐ măruntae, acelaşǐ creier cu care gândim, aceiaşǐ ochiǐ cu carǐ privim. Dar, pe uniǐ ne-a lăsat soarta într’un loc şi am luat un fel de obiceiurǐ, pe alţiǐ într’alt loc şi am luat alte felurǐ de obiceiurǐ. Şi așa s’aŭ născut popoare numeroase şi felurite.</p>
+   <p> Şi apoǐ chiar, spre pildă, dacă ne uităm la noǐ, nu vedem că chiar în Ţara Românească sunt românǐ fel de fel ?...</p>
+   <p> Negreşit că alt-fel e limba Moldoveanuluǐ, altfel, pe icǐ pe colea, a munteanuluǐ, alt-fel a transilvăneanuluǐ.</p>
+<p> Dacă într’o singură ţărişoară şi sunt diferinţe, dar încă în lumea întreagă?!...</p>
+   <p> Prin urmare ese d’aci alb ca ziua că toţǐ oa-meniǐ suntem fraţǐ şi decǐ, toţǐ trebueşte să ne iubim şi cinstim.</p>
+   <p> Ce sunt dară acele rĕsboaie crâncene în care ne ucidem unul pe altul fără măcar ca Gheor-ghe, curcan în regimentul de Vasluǐ, să fi cu-noscut pe Mustafa, pe care l’a împuşcat într’un şanţ la Plevna?</p>
+<p> De ce glanţele să fie trimise din puştile ghin-tuite și omorîtoare în carnea unor fiinţe nevi-novate, care, sub nişte ordine oarbe şi nemilos-tive, merg înainte, împuşcând în dreapta şi stânga ?</p>
+   <p> A, dacă ar fi ca turcul saŭ muscalul să vie împotriva noastră, ca să vrea a ne da afară din ţară, ca să ne măcelărească să ducă pe alţiǐ în robie, atuncǐ se schimbă vorba... Fie-care om se va apăra unul pe altul, căcǐ este în joc viaţa noastră şi a rubedeniilor noastre.</p>
+   <p> Dar, este ştiut, că maǐ toate rĕsboaiele crân-cene se fac după placul unor oamenǐ, carǐ nu represintă de cât voinţa Regeluǐ saŭ Impăratu-luǐ, carǐ sunt departe de a avea milă de bietul popor, de a se gândi că Niţă Ciobanul, care a plecat în resbel, dacă va muri, vor rĕmâne în urma luǐ cincǐ surorǐ nemăritate, treǐ frăţiorǐ micǐ, o mamă bătrână şi oarbă, o nevastă tî-nără cu doǐ copilaşǐ micuţǐ. Eǐ nu vor a gândi la toate acestea, nu vor a cugeta că acele fiinţe vor ajunge muritorǐ de foame, saŭ, cine ştie, şi maǐ răŭ, ci eǐ îl trimit înainte, îl daŭ pe bie-tul băiat, d’abea de 22 de anǐ, pradă gurelor omorîtoare şǐ pline de foc ale tunurilor.</p>
+   <p> Am ajuns, cred, că orǐ-ce suflet de om cu min-tea sănătoasă, care va citi aceste rândurǐ, să vază lămurit că resbelele sunt fără nicǐ un ca-păt, că ele, în loc să aducă vre un bine pentru aceia carǐ se lupt, din potrivă, îǐ omoară, îǐ ră-pesc de la munca câmpuluǐ, aduc boale şi obi-ceiurǐ rele, sărăceşte tara.</p>
+<p> Dacă dar resbelele nu sunt bune, atuncǐ ar-mata ce e ea ?</p>
+   <p> Ce însamnă a lua pe om, tocmaǐ atuncǐ când d’abea se face bun de lucru, când vrea să’şǐ des-chiză pr ăvălie, saŭ să ’şǐ înceapă meşteşugul, a’l duce departe peste 50 —100 de poşte, a’l băga în vreme de 3 anǐ ca într’o puşcărie, a’l face din om cu voinţă şi graiŭ liber un păpuşoiŭ, care să se mişte atuncǐ când e tras de sfoară, să nu aibă odihnă cum se cade, să nu maǐ fie om ? ?</p>
+   <p> Şi treǐ anǐ, ceǐ maǐ frumoşi aǐ vieţeǐ, şi-ǐ trece în această stare, în fundul uneǐ cazarme întu-necoase, supus la toate greutăţile şi muncile, în-jurat, pedepsit, bătut la fie-care pas!!</p>
+<p> Iată viaţa de cazarmă, viaţă tristă şi înfio-rătoare...</p>
+   <p> Şi bietul ţĕran, care pleacă din rădăcina mun-ţilor, unde e aşezat satul luǐ, cu obiceiurǐ cu-rate, cu inima deschisă, ajunge în oraş, se mo-lipseşte de toate ticăloşiile şi fără de legile oră-şenilor şi se conrupe, se putrezeşte prin atingere.</p>
+   <p> Şi când ceǐ treǐ anǐ de slujbă s’aŭ isprăvit, atuncǐ el, care acum s’a schimbat cu totul, nu maǐ gândeşte a se întoarce acasă la coarnele pluguluǐ; munca câmpuluǐ îǐ pare grea, viaţa de oraş îǐ vine maǐ bine la socoteală şi, în loc ca să se ducă acolo unde e fericirea şi sănăta-tea, îl vezǐ că ajunge un slugoiŭ pe la vre-o casă boerească, că ’şǐ lapădă frumoasa şi curata luǐ îmbrăcăminte ţărănească, luând nişte strae proaste şi strâmte.</p>
+   <p> Ţarina, aşa fel, rĕmâne nelucrată, proprietariǐ şi arendaşiǐ, ca să nu păgubească, în lipsa ţĕra-nilor românǐ, aduc ungurǐ şi ruşǐ, carǐ prind rădăcină şi rĕmân pe pământul românesc, for-mând sate întregǐ de ungurǐ, cum, spre pildă, se află chiar în judeţul Tecuciŭ.</p>
+   <p> Iată dar o mică parte din însemnatele rele ce le face armata; în situaţia de astă-zǐ a o-menireǐ.</p>
+   <p> Negreşit că pe vremea luǐ Mircea saŭ Ştefan, treburile eraŭ alt-fel, lucrurile se petreceaŭ în alt mod. Pe atuncǐ soldatul era numaǐ soldat, trebuia să şi fie căcǐ Turciǐ năvăleaŭ mereŭ, nu ca astă-zǐ când popoarele sunt prea ocupate în interiorul Ţĕriǐ lor, ca să maǐ aibă vremea să facă răsboaie.</p>
+   <p> A, aşǐ înţelege armată, dacă armata ar fi constituită alt-fel. In loc să egziste regimentul de roşiorǐ, călăraşǐ, tunarǐ etc. etc. să fie al croitorilor, cismarilor, dulgherilor etc. Băiatul intrat în armată, pe lângă instrucţia care ar face-o câte un ceas, douĕ pe zi, să înveţe şi un meşteşug, aşa că, eşind din armată să fie meş-teşugar deplin şi reîntorcându-se la ţară să poată omul să facă, pe lângă munca câmpuluǐ şi câte meserie care să ’ǐ producă ceva, îmbunătăţindu-se ast-fel traiul omenesc, atât de amărît astă-zǐ.</p>
+   <p> Pentru fiǐ pe boerǐ, carǐ aŭ carte maǐ multă, în loc să fie înregimentaţǐ la croitorǐ, să fie daţǐ la snulptorǐ, zugravǐ, strungarǐ etc, aşa ca şi el, la o vreme de nevoe şi sărăcie, să nu a-jungă saŭ hoţ, saŭ cerşetor, saŭ să se omoare.</p>
+<p> Aceasta ar fi singurul fel de armată aşa cum o înţeleg şi eŭ şi orǐ-ce om de bine.</p>
+   <p> Altminterǐ, se cheltueşte mulţime de banǐ, se întrerup meşteşugurǐ şi se paralisează activităţǐ.</p>
+   <p> Cine şte când va veni acel timp fericit, când aceste oştirǐ numeroase se vor înmormânta în întunerecul uităreǐ, unde aŭ perit atâtea şi atâ-tea lucrurǐ nefolositoare!</p>
+   <p> Pentru moment nu trebueşte altă armată de cât ca, tineriǐ carǐ ajung la vârsta de 21 de anǐ să fie instruiţǐ în fie-care Duminecă câte-va cia-surǐ. Ar ajunge atâta... In schimb însă să cău-tăm a avea câte-va sute de oficerǐ bunǐ de stat-major, carǐ, în vreme pace, să se ocupe, ca şi acum , în facere de hărţǐ, ridicărǐ de pla-nurǐ etc. etc.</p>
+<p> Şi, să vedem dacă atuncǐ fie-care nu o să moară bucuros apărând cu dragoste şi sfinţenie moşioara şi avutul părintesc.</p>
+   <p> Acestea le aveam de zis în potriva armateǐ actuale.</p>
+<p> Acum să ne reîntoarcem la Dragoş, pe care îl lăsarăm în cazarma călăraşilor din Tulcea, batjocorit şi urgisit chiar de la întâia zi când intră în armată.</p>
+   </div>
+   <div type="chapter" n="6">
+<head> CAP. VI.</head>
+<head>Desertarea.</head>
+   <p> Suferinţele ce le îndură Dragoş eraŭ din ce maǐ marǐ. El, obicinuit cu viaţa câmpenească, liberă şi fără nicǐ un hotar,  acum era închis între zidurile Cazarmeǐ înjurat şi lovit, nemân-cat şi nedormit.</p>
+   <p> Toată ziua trebuia să frece caiǐ, să îngrijească de grajdiurǐ, ba, el voinic să sfărâme piatra în mână, acum trebuia să frece şi scândurile ca femeile cele maǐ slabe.</p>
+<p> Simţea că nu maǐ poate să ducă această viaţă ticăloasă.</p>
+   <p> Zilele se strecurară anevoiase, greoaie, fără nimic în ele de cât acelaș și acelaș cântec al trompeteǐ, aceleaşǐ marşurǐ şi eserciţiǐ.</p>
+   <p> Căprariǐ şi sergenţiǐ eraŭ năbădăioşǐ, zurbagiǐ. Ofiţeriǐ nemiloşǐ şi, vaǐ de mama celuia care îndrăznea să cârcnească!</p>
+   <p> Treǐ lunǐ de zile aproape nu i se dase voe să iasă în oraş. Luna cea d’ântâiŭ, fiind-că eraŭ recruţǐ şi trebuiră să stea în cazarmă a se dedea cu obiceiurile şi viaţa militărească, în urmă, fiind-că făcuse o greşeală, fără ca să gândească mă-car, îl pedepsiră şeapte zile închisoare fără să ’ǐ de să mănânce de cât pâne şi apă şi neeşire în oraş douĕ lunǐ.</p>
+<p> Aşa se strecură vremea până pe la începutul luǐ Iunie.</p>
+   <p> In Iunie vremea era caldă şi frumoasă. Eser-ciţiurile se făceaŭ pe fie-care zi. Calul pe care Dragoş călărea era cu nărav. Se căsnise el în zadar să’l potolească, nu îǐ reuşiseră toate sfor-ţările.</p>
+   <p> Intr’una din zile Joǐ, făceaŭ mişcărǐ afară din oraş, unde alergaŭ în fuga mare.</p>
+   <p>  Dragoş, care ştia bine să călărească, când trecu în dreptul ofiţeruluǐ, îşǐ simţǐ calul că în-cepe să sae în sus şi, fără de veste, trase cu co-pita o lovitură ofiţeruluǐ.</p>
+<p> Acesta căzu jos grămadă.</p>
+   <p> Noroc că calul nu’l isbise de cât uşor aşa că i nu i se frânse nicǐ un os, ci numaǐ    piciorul îǐ sângera grozav.</p>
+   <p> Acesta se sculă furios peste câte-va minute şi crezând că Dragoş a făcut-o dinadins,    ordonă unuǐ căprar să’l bată.</p>
+   <p> Dragoş fu adus înaintea ofiţeruluǐ.</p>
+   <p> Căprarul se apropiă de el să îǐ tragă palmele poruncite. In sufletul luǐ Dragoş se petrecu ceva ce în orǐ-ce suflet maǐ înalt se petrece, nu putu să rabde ca să fie lovit în faţa tuturor.</p>
+   <p> Când căprarul vru să ridice mâna, Dragoş îǐ strigă furios :</p>
+   <p> —    Nu da, d-le Căprar, că e rĕŭ...</p>
+   <p> —    Ce? strigă ofiţerul îndârjit... Aǐ îndrăznit să zicǐ ceva ticălosule ?... Ce aǐ zis?..</p>
+   <p> —    Să trăiţǐ d-le ofiţer, am zis să nu dea...</p>
+<p> —    Cum să nu dea când am poruncit eŭ?</p>
+<p> —    De ce să mă bată de geaba.</p>
+<p> —    Căprar, strigă furios ofiţerul.</p>
+   <p> —    Porunciţǐ !</p>
+   <p> —    Intide-l jos şi trage-ǐ 50 la spete.</p>
+   <p> —    Am înţeles; zise acesta şi făcu semn la treǐ soldaţǐ să se apropie.</p>
+   <p> Dragoş nu maǐ putu răbda.</p>
+<p> Se întoarse spre căprar şi strigă :</p>
+   <p> —    Să nu’mǐ facǐ ceva că omor...</p>
+   <p> —    Aşa... Staǐ atuncǐ, zise ofiţerul... şi se a-propie de el ca să’l lovească.</p>
+<p> Răsună o palmă.</p>
+<p> In loc ca ofiţerul să o dea, o căpătase.</p>
+   <p> In toțǐ soldaţiǐ se făcu o mişcare mare.</p>
+   <p> Cum?.., Să îndrăsnească un soldat să lovească pe un ofiţer?... Cine ştie ce pedeapsă grozavă îl aşteaptă... Câţǐ anǐ de închisoare...</p>
+   <p> Aşa e; dacă un biet soldat, într’un minut de nestăpânire, loveşte pe un ofiţer, iată-l închis pe vecie, în vreme ce ofiţeriǐ bat şi schinjuesc pe aceştia.</p>
+   <p> Maǐ mulţǐ soldaţǐ, la comanda ofiţeruluǐ tur-bat, ca să sae pe Dragoş, se repeziră pe el şi-l culcară jăs.</p>
+   <p> Apoǐ îl duseră în închisoarea cazarmeǐ, unde îl închiseră.</p>
+<p> Se lăţi sgomotul în tot regimentul şi se ho-tărî ca judecata luǐ să fie cât de curând şi să se facă cât de aspră. Negreşit că nicǐ nu l’ar trecut alt-fel.</p>
+   <p> In închisoare Dragoş era lăsat aproape să piară de foame. Pâinea care i se dădea era vĕ-che de d’abea o putea rupe şi era mică. Nicǐ nu’ǐ ajungea la o măsea.</p>
+<p> Trecură ast-fel vre-o cincǐ zile.</p>
+<p> Intr’una din dimineţe, soldatul care era de gardă, intrând la el îǐ zise :</p>
+   <p> —    Dar bine frate, ce Dumneȡeŭ te-a pus că baţǐ pe domnul ofiţer?</p>
+<p> —    Dar ce să fac? să las să mă bată cioara ceia de căprar?</p>
+   <p> —    Eǐ, râbdaǐ o palmă şi asta.</p>
+   <p> —    Ba, foarte ’ţǐ mulţumesc...</p>
+<p> —    Dar aşa ?!</p>
+<p> —    Ce e?</p>
+<p> —    O să te judece.</p>
+   <p> —    Eǐ şi?</p>
+<p> —    Şi or să te bage în puşcărie.</p>
+<p> —    Să vedem.</p>
+<p> —    Cum să vedem!</p>
+<p> —    Bine.</p>
+<p> —    Cum bine, nu te înţeleg.</p>
+<p> —    Adică pînă la judecată nu maǐ sunt încă destule zile?</p>
+<p> —    Ba da.</p>
+   <p> —    Atuncǐ ce ’mǐ pasă.</p>
+   <p> —    Cum ce ’ţǐ pasă?</p>
+<p> —    Bine, ce ’mǐ pasă, pînă atuncǐ poate să scape cine-va dacă vrea.</p>
+<p> —    Să fugă...</p>
+   <p> —    Eǐ, e uşor de zis dar greŭ de făcut... Nu vezǐ ce bine eştǐ păzit! Şi apoǐ...</p>
+<p> —    Ce ?</p>
+   <p> —    Nu o să fugǐ tot în ţara Românească?</p>
+<p> —    Bine.</p>
+   <p> —    Or să te prinză şi atuncǐ o fi şi maǐ răŭ... Zăŭ dacă nu te jelesc, bădie. Păcat de tinereţele tale să le trecǐ în mijlocul puşcărieǐ.</p>
+<p> —    Ia nu mĕ maǐ jeli, îǐ zise Dragoş necăjit, ci maǐ bine ascultă.</p>
+   <p> —    Ce vreǐ ?</p>
+   <p> —    Să ’mǐ ajuţǐ să fug.</p>
+<p> Soldatul se cruci și zise :</p>
+   <p> —    vreǐ să mĕ bagǐ şi pe mine în belea ?...</p>
+   <p> Nu e destul că o să suferi tu de ce să maǐ facǐ răŭ și la alte suflete.</p>
+   <p> —    Staǐ, fricos ce eştǐ... Nu te boci ca muerile prefăcute... E vorba să nu te bagǐ în foc, ci să scap numaǐ eŭ.</p>
+<p> —    Cum atuncǐ.</p>
+   <p> —    Te învoeştǐ ?</p>
+   <p> —    Dacă nu mĕ amestecǐ, atuncǐ da.</p>
+   <p> —    Ascultă. La spatele casiǐ, jos în curte unde dă fereastra de la odaia asta, e santinelă ?</p>
+<p> — Nu e...</p>
+<p> —    In ce loc e de aci ?</p>
+   <p> —    La vre-o douĕ-zecǐ de paşǐ.</p>
+   <p> —    Tu pînă când eştǐ de gardă acǐ ?</p>
+<p> — Pînă mâne seară.</p>
+   <p> —    Atuncǐ mâne când te-oǐ duce să cauţǐ să te strecorǐ prin curte şi, fără să te vază nimenǐ, să puǐ o scară, orǐ cum o fi, la fereastră.</p>
+   <p> —    Dar dacă n’oǐ găsi scară ?</p>
+   <p> —    Puǐ o prăjină de la gimnastică.</p>
+<p> —    Şi pe urmă ?</p>
+   <p> —    Pe urmă o să mĕ scobor eŭ cum oǐ pu-tea maǐ bine.</p>
+<p> —    Dar gratiile de la fereastră ?</p>
+   <p> —    Când oǐ pleca de la post să ’mǐ împru-muţǐ baioneta ca să le depărtez cu ea.</p>
+   <p> —    Fie că prea multe îmǐ cerǐ...</p>
+   <p>  — Fă pentru mîne bădie că nicǐ eŭ n’oǐ fi nerecunoscător... Oǐ să fac şi eŭ maǐ mult de cât îţǐ pocǐ închipui.</p>
+   <p> —    Bine frate Dragoş... Fac căcǐ mi-ǐ milă că bunătatea de om să sufere în închisoare, cine ştie câta vrîme.</p>
+<p> Apoǐ, după ce maǐ aranjară cât-va se des-părţiră.</p>
+<p> A doua seară soldatul de gardă se schimbă.</p>
+<p> Dragoş dase la o parte gratiile de la fereastră aşa în cât să fi putut încăpea printre ele.</p>
+<p> Nu trecu multă vreme după ce noaptea se lăsa în tăcere spre pământ şi Dragoş auzi o hârjială pe lângă ferestre. Apoǐ, se liniştiră lucrurile. El înţelese că scara îl aştepta. Se sculă dupe patul în care sta trântit şi se ridică la fereastră ca să privească.</p>
+   <p> Intr’adevĕr căpătâele scărǐ ajunseseră la mar-ginea ferestriǐ.</p>
+<p> Dragoş se închină şi şiopti:</p>
+<p> —    Doamne ajută!</p>
+   <p> Apoǐ, dintr’o săritură în vîrful picioarelor a-junse pe fereastră. Se băgă binişor prin gaura ferestriǐ şi se strecură în afară. Iată’l sus, pe jumătate liber, liber de puşcăria unde ajunsese și unde trebuia să’șǐ treacă, dacă ar fi fost con-damnat, toată viaţa poate.</p>
+<p> Aerul rece îl isbi în faţă.</p>
+   <p> Era tocmaǐ seara de 13 Iunie 1883 când fugi el.</p>
+   <p> Trecu din curtea temniţeǐ afară şi o luă spre bariera oraşuluǐ.</p>
+   <p> Eşi din Tulcea îndreptându-se spre Galaţǐ.</p>
+   <p> Ajunse la marginea Dunăriǐ unde îşǐ schimbă hainele şi porni pe jos spre Galaţǐ.</p>
+<p> După ce trecu Dunărea ajunse în oraş. Aci stete maǐ mult, lucrând la port ca hamal.</p>
+<p> In urmă, după ce strânse câţî-va leǐ, se ho-tărî să meargă ăcasă.</p>
+<p> O şi porni.</p>
+   <p> Ajunse în Hânteştǐ noaptea.</p>
+   <p> Ceǐ de acasă se mirară groaznic de sosirea luǐ. Nu ’şǐ putea nimenǐ închipui că el va de-serta.</p>
+   <p> Le istorisi totul, în vreme ce toţǐ eraŭ în-groziţǐ.</p>
+   <p> —    Dacă te-o prinde, îǐ zise Vlădina cu ochi în lacrimǐ.</p>
+<p> —    Eǐ?</p>
+<p> —    Or să te bage în puşcărie.</p>
+   <p> —    Nu ’ţǐ fie teamă. O să ’mǐ păzesc eŭ pielea.</p>
+   <p> —    Ce-aǐ de gând să facǐ acuma ?</p>
+<p> —    Nimic. O să trăesc din vânat.</p>
+   <p> —    Or să te vază oameniǐ satuluǐ !</p>
+<p> —    O să mĕ păzesc.</p>
+   <p> —    Tot cu noǐ o să staǐ?</p>
+   <p> —    De ce mĕ întrebǐ?</p>
+   <p> —    Să ştiŭ.</p>
+<p> —    Dar ce, ţi-e frică?</p>
+<p> —    Nu pentru mine... Dar mĕ tem să nu te afle şi atuncǐ să nu se dea de ştire.</p>
+   <p> —    Nu vĕ fie teamă... Să tăceţǐ pînă mâne seară. Am să plec spre Ţepu unde am un tova-răş şi prieten bun.</p>
+<p> —    Pe cine ?</p>
+<p> —    Pe Mănăilă.</p>
+   <p> —    Şi aǐ tu încredere în el ?</p>
+<p> —    Ca într’un frate.</p>
+   <p> —    Să de Dumneȡeŭ, măiculiţă... Dar mǐ-e teamă grozav.</p>
+   <p> A doua seară Costache Dragoş o porni spre Ţepu, comună nu departe de Hânţeştǐ, unde lo-cuia Mănăilă.</p>
+   </div>
+   <div type="chapter" n="7">
+<head> CAP. VII.</head>
+<head>Mănăilă.</head>
+<p> Mănăilă se născuse în Ţepu, cu vre-o patru anǐ înaintea luǐ Dragoş.</p>
+   <p> O natură sălbatecă, copil încă şi foarte rătă-cios, hoţ, stricat peste fire, negreşit că el pro-mitea ca, fâcându-se om, să fie o făptură rea, vicleană şi periculoasă semenilor sĕǐ.</p>
+   <p> Incă de tînăr fusese condamnat la închisoare pentru furturile comise în diferite rândurǐ.</p>
+   <p> Aşa, în 1882, cu sentinţa No. 38, la doǐ anǐ, în 83 cu sentinţa No. 313 la 4 lunǐ.</p>
+   <p> Dar ştiuse să se ferească ca să nu fie prins de autorităţǐ.</p>
+   <p> Viaţa şi-o ducea rătăcind din sat în sat, fu-rând vite şi vânzându-le icǐ şi colo, jefuind câte un ungurean bogat saŭ câte un ovreiŭ maǐ fricos.</p>
+<p> Dragoş îl cunoscuse de mult.</p>
+   <p> Amândoǐ vânaŭ şi, de multe orǐ Mănăilâ îǐ istorisea din isprăvile pe carǐ le făcuse.</p>
+   <p> Dragoş, căruia nu’ǐ plăcea hoţia, îl ţinea de rĕŭ.</p>
+<p> Şi acum, plecând de acasă, Dragoş ajunse la el ştiindu-l că e în Ţepu.</p>
+   <p> Ajungând în sat întrebă pe maǐ mulţǐ oamenǐ de el, dar nimenǐ nu ’ǐ putu da un rĕspuns bun. Ba că a plecat de maǐ multe lunǐ, ba că l’a în-chis deja, ba că a părăsit satul; uniǐ îǐ spuneaŭ una, alţiǐ alta.</p>
+   <p> Dragoş se întoarse spre Hânteştǐ.</p>
+<p> Mergea şuerând şi nepăsător.</p>
+<p> De o dată, pe drumul mare, se isbi piept în piept cu un om, care bufni de rîs.</p>
+   <p> —    Dar bine bădie, ce te-aǐ liberat din armată?</p>
+<p> —    Mănăilă! strigă Dragoş!</p>
+<p> —    Eŭ... Daă iute trecură ceǐ treǐ anǐ!...</p>
+   <p> —    Ia tacă-ţǐ gura, şugubeţule.</p>
+<p> —    Fie, că repede...</p>
+<p> — Ascultă.</p>
+<p> —    Poruncă.</p>
+   <p> —    Ștǐ de unde viŭ.</p>
+   <p> — Zăŭ că nu’s ghicitor.</p>
+<p> —    Din Ţepu.</p>
+<p> —    Şi ?</p>
+<p> —    Te căutasem pe tine.</p>
+<p> —    Pe mine ?</p>
+   <p> —    Tocmaǐ.</p>
+<p> —    Şi ce dragoste saŭ trebuinţă e ?</p>
+<p> —    Mare de tot.</p>
+<p> —    Bravo ţie Sfinte Sisoe... S’o auzim.</p>
+   <p> —    Haǐ, colo, la stânga să stăm sub fag şi să ’ţǐ povestesc.</p>
+<p> —    Haidem.</p>
+<p> Se îndreptară spre un fag stufos şi după ce se aşezară jos pe iarbă, Dragoş povesti luǐ Mă-năilă toată viaţa sa de cazarmă, bătăile suferite şi chestia cu ofiţerul, cum l’a închis şi, în sfâr-şit, fuga sa din temniţă.</p>
+   <p> —    Heǐ, zise Mănăilă, nu vĕ spuneam eŭ...</p>
+<p> —    Aşa a şi fost. </p>
+<p> —    Şi acum ce-o să te facǐ?</p>
+<p> —    Aci e aci.</p>
+<p> —    Negreşit că o să te prinză. Şi atuncǐ!</p>
+   <p> —    Ştiŭ.</p>
+   <p> —    In Hânteştǐ nu pocǐ sta.</p>
+   <p> —    Negreşit: De aceia am venit şi spre tine. Să ’mǐ daǐ ceva sfaturǐ.</p>
+<p> Mănăilă se gândi cât-va timp şi, după câtă-va vreme, ca coprins de o idee măreaţă, îǐ zise :</p>
+   <p> —    Ascultă Costache. Tu eştǐ vânător bun. Aşa e ?</p>
+<p> —    Nicǐ vorbă. Ochiesc pasărea din sbor.</p>
+   <p> —    Haǐ să trăim din vânătoare.</p>
+<p> —    Şi, par’că nu o să ne afle.</p>
+<p> —    Am eŭ o ascunzătoare bună.</p>
+<p> —    Atuncǐ mĕ încred ţie frate Mănăilă.</p>
+<p> —    Haidem.</p>
+   <p> Şi porniră amândoǐ spre pădurea de la Ne-grâleştǐ. Umblară maǐ multe ceasurǐ, trecură rîul Bârlad şi ajunseră în pădure.</p>
+<p> Aci, după ce străbătură maǐ jumătate din în-tinsa pădure, intrară într’un crâng foarte des, nestrăbătut de picior omenesc.</p>
+   <p> —    Iată-ne ajunşǐ, zise Mănăilă.</p>
+<p> —    Dar bine acum vara înţeleg. Dar la iar-nă? Ce o să ne facem?</p>
+   <p> —    Ia te uită bine!.. Nu zăreştǐ nimic?.. Nicǐ un bordeiŭ pe aci?</p>
+<p> Dragoş privi în toata părţile.</p>
+<p> Nimic şi iar nimic.</p>
+<p> —    Ce să văd de cât frunză şi iarbă.</p>
+   <p> —    Eǐ, aşa îmǐ place... Dacă ochiǐ tĕǐ nu pot găsi ascunzătoarea, apoǐ ce să maǐ zic de ceǐ alţǐ. Vino cu mine şi aǐ să vezǐ numaǐ de cât.</p>
+   <p> Il trase după el şi ajunseră în faţa unuǐ co-pac scorburos.</p>
+<p> —    Ia priveşte aci.</p>
+<p> —    Nu cum-va?...</p>
+<p> —    Chiar aşa.</p>
+   <p> —    Fie Mănăilă, nicǐ prin minte nu mi-a fi trecut... Tare eştǐ măiastru.</p>
+<p> —    Nevoia m’a învăţat. Ea mi-a fost dascăl.</p>
+<p> —    Şi cum?... Numaǐ în scorbura asta?...</p>
+   <p> —    Ba... Aibǐ răbdare... intră după mine.</p>
+   <p> Mănăilă trecu încet în scorbura grosuluǐ co-pac. Incăpeaŭ şi doǐ oamenǐ de o dată.</p>
+<p> Apoǐ chemă şi pe Dragoș.</p>
+   <p> Intrând înăuntru deteră la o parte nişte frunze uscate şi, iată’ǐ lângă un capac de lemn. II ri-dicară în sus şi o deschizătură mare se vĕzu.</p>
+   <p> —    Haǐ în bordeiŭ zise Mănăilă, care intră întâiŭ. </p>
+<p> Se scoborîră înăuntru.</p>
+<p> Intunerecul domnea cu desăvârşire.</p>
+<p> Mănăilă scăpără şi aprinse o lumânare de ceară.</p>
+   <p> Inăuntru era o groapă cam de un stânjen de mare, acoperită pe de lăturǐ cu păturǐ groas-şi la un colţ un pat.</p>
+<p> Dragoş se uită mirat.</p>
+   <p> —    Eǐ ce zicǐ Costache ?</p>
+   <p> —    Nu ştiŭ zăŭ ce să maǐ zic!... Marǐ sunt minunile tale... Şi cum aǐ putut frate s’o sapǐ? Cum aǐ încăput prin scorbura copaculuǐ, cum aǐ putut să daǐ pământul afară ?</p>
+   <p> —    Staǐ jos, îǐ zise Mănăilă şi-ǐ istorisi cum şi ce fel a făcut bordeiul.</p>
+   <p> —    Minunat eştǐ, zise Dragoş dupe ce sfârşi istorisirea.</p>
+<p> —    Eǐ, aşa e că nu maǐ avem nicǐ o grije?</p>
+<p> —    Nicǐ vorbă.</p>
+   <p> —    Atuncǐ rĕmânem amêndoǐ?</p>
+<p> —    Negreşit.</p>
+   <p> —    Brava ţie Dragoş, zise bucuros Mănăilă strângêndu-ǐ mâna.</p>
+<p> —    Bine, dar ce-om mânca?...</p>
+   <p> —    D’asta ţǐ-e teamă...</p>
+   <p> —    Veȡǐ bine, cum suntem deochiaţǐ?..</p>
+   <p> —    Eǐ ascultă : o să vânăm şi...</p>
+   <p> — Şi ce?... o să murim de foame cu vênatu.</p>
+   <p> —    Staǐ frăţioare!... Lasă-mĕ să sfârşesc... O să furăm...</p>
+<p> Dragoş încreţi fruntea...</p>
+<p> Nu ’ǐ prea plăcea aceasta.</p>
+   <p> —    Ce, nu ’ţǐ place? îǐ zise Mănăilă.</p>
+   <p> —    Veȡǐ bine că nu... Să fiŭ hoţ...</p>
+   <p> —    Eǐ ?</p>
+   <p> —    Şi încă hoţ de caǐ!...</p>
+   <p> —    Cine ’ţǐ spune să fiǐ hoţ de caǐ?</p>
+<p> —    Păǐ alt ce-va ce ?</p>
+   <p> —    N’aǐ de cât să furǐ şi altele maǐ bune...</p>
+   <p> —    Greŭ, Mănăilă, greŭ..... M’am săturat de puşcărie... Ce vreǐ s’o iaŭ iar de la capăt?...</p>
+   <p> —    Bine dar eştǐ copil?... N’aǐ de cât să’ţǐ pă-zeştǐ pielea şi o să scapǐ din orǐ-ce primejdie. Cine te poate prinde dacă o să te păzeştǐ...</p>
+<p> —    Aşa e...</p>
+   <p> — Te învoeştǐ dar...</p>
+<p> —    Să mĕ maǐ gândesc.</p>
+<p> —    Bine.</p>
+   <p> Ziua o trecură stând de vorbă. Seara se cul-cară de vreme. Dragoş nu putu dormi. Se tot gândea la trecut. In mintea luǐ i se înfăţişă i-coana vie a trecutuluǐ împreună cu ce el conţi-nea. Işǐ aduse aminte de copilărie, de mergerea luǐ în Tecuciŭ, de dragostea luǐ cu Tudora, de iubirea luǐ pentru Miţa, de moartea luǐ tat-sĕŭ şi, în sfêrşit, partea cea maǐ tristă, moartea Miţi.</p>
+<p> Acum, când era cu mintea coaptă, când putea judeca lucrurile aşa cum ele eraŭ, aşa cum se petrecuseră. Simţi realitatea.</p>
+<p> Dacă n’ar fi putut fugi din temniţa din Tul-cea?... Cine ştie la ce osîndă grea ar fi fost condamnat!... Negreşit că l’ar fi aşteptat puşcă-ria pe viaţă.</p>
+   <p> Şi acum, acum trebuia să înceapă o nouă viaţă, un traiŭ care să’l expună pe fie-care ȡi ca să fie prins, ca să cadă în mâinele poliţieǐ...</p>
+<p> Dar cu cât cugeta se simţi maǐ înseninat.</p>
+   <p> I se părea că în bordeiŭ o lumină oare-care se rĕspândeşte de jur împrejur, că aude o mu-zică cerească care ’ǐ sună la ureche.</p>
+   <p> — Şi adică de ce n’aşǐ fi şi hoţ?... îşǐ zise el. Da, voiŭ fi, dar nu hoţ de caǐ, ci hoţ de banǐ. Sunt destuǐ săracǐ carǐ trebuesc ajutaţǐ, destule fete marǐ carǐ nu aŭ zestre. Eŭ am să jefuesc pe ceǐ cu dare de mână, pe ceǐ în lada cărora a ruginit banul şi să daŭ, să ajut în dreapta şi în stânga.</p>
+<p> Apoǐ, prins de veselie, deşteptă din somn pe Mănăilă.</p>
+<p> Acesta se deşteptă speriat şi somnoros strigă:</p>
+<p> —    Ce e?... Ce, ne-a prins?</p>
+   <p> —    Tacǐ fricosule, nu e nimica.</p>
+<p> —    Atuncǐ de ce maǐ deşteptat?</p>
+   <p> —    M’am hotărît Mănăilă... O să fiŭ hoţ...</p>
+   <p> —    Bine bădie... dar te hotărăştǐ noaptea cu bufniţele?... Fie, noroc să dea D-ȡeŭ... Haǐ să ne culcăm căcǐ pic de somn.</p>
+<p> —    Haide mĕ somnorosule.</p>
+<p> —    Noapte bună.</p>
+<p> —    Noapte bună.</p>
+   <p> Şi, adormiră fericiţǐ amêndoǐ.</p>
+   <p> De a doua ȡi viaţa începu maǐ veselă ca de obiceiŭ.</p>
+   <p> Insă nimica mare nu putură fure, ci se măr-giniră la caǐ, pe carǐ îǐ găsea icǐ şi colo şi pe carǐ, prin un tovarăş al lor care era acasă în Ţepu, îǐ vindeaŭ în têrg.</p>
+   <p> Pe tovarăşiŭ îl chema Nicolae Serea.</p>
+   <p> Aşa, în Iulie 1884, Costache a furat dintr’o vale de lângă pădurea Mândreştǐ doǐ caǐ.</p>
+<p> El ştia că pe acolo era un păzitor prost şi cam smintit.</p>
+   <p> Intr’una din ȡile se apropie de el şi după ce îǐ dete bună ȡiua, se uită prin erghelia de caǐ ca să ’ǐ aleagă pe ceǐ maǐ bunǐ.</p>
+   <p> —    Dar ce vreǐ să cumperǐ caǐ ? îl întrebă prostu.</p>
+   <p> —    Nu bădie... Dar vreaŭ să ’ţǐ cunosc şi eŭ herghelia.</p>
+   <p> Dupe ce Dragoş ochi pe ceǐ maǐ bunǐ şi maǐ frumoşǐ nu ştia cum să păcălească pe prost ca să ’ǐ poată fura.</p>
+<p> —    Cum te chiamă frate ? îl întrebă Dragoş.</p>
+<p> —    Ion...</p>
+   <p> —    Frumos nume... Dar pare-mi-se eştǐ cam bolnav.</p>
+   <p> —    Eŭ?...</p>
+<p> —    Da, mata.</p>
+   <p> —    Ferească-mĕ D-ȡeŭ. Sănătos tun.</p>
+<p> —    Dar eŭ îs şi maǐ sănătos.</p>
+   <p> —    Aşǐ, vorbe...</p>
+<p> —    Eŭ fug ca iepurele...</p>
+<p> —    Laudă-te gură.</p>
+   <p> —    Ce, adică creȡǐ că m’aǐ întrece în fugă?</p>
+<p> —    Maǐ e vorbă.</p>
+<p> —    Haidea, dacă e aşa să facem prinsoare.....</p>
+<p> —    Aida.</p>
+   <p> —    Veȡǐ colo tufa aceea, zise Dragoş.</p>
+   <p> —    O vĕȡ.</p>
+   <p> —    Haideţǐ să vedem care o ajunge maǐ repede.</p>
+   <p> —    Eŭ, zise Ion, cât oǐ numĕra 100 o ajung.</p>
+   <p> —    Eŭ, răspunse Dragoş, cât oǐ numĕra 50.</p>
+<p> —    Atuncǐ să alergăm.</p>
+   <p> —    Nu, aleargă d-ta întâiŭ şi eŭ o să numĕr. Apoǐ o să alerg eŭ şi o să numerǐ matale.</p>
+   <p> —    Haideţǐ, zise Ion, şi o porni la fugă.</p>
+<p> —    Când apropie tufa fugind ca un nebun, în-toarse capul să zărească pe Dragoş.</p>
+<p> —    Acesta însă pierise.</p>
+   <p> —    Heǐ vere, unde eştǐ ? strigă el.</p>
+<p> Şi se reîntoarse de unde începuse să fugă.</p>
+<p> Nu-l găsi.</p>
+   <p> — Pe semne, îșǐ zise el, ’ǐ-a fost frică și a fugit.</p>
+   <p> Trecu toată ȡiua şi tocmaǐ seara vĕȡu el că’ǐ lipseşte doǐ caǐ. Atuncǐ înţelese şi, mergênd la primăria din sat, istorisi totul.</p>
+   <p> S’a dresat proces-verbal, fără să se ştie numele hoţuluǐ.</p>
+   </div>
+   <div type="chapter" n="8">
+<head> CAP. VIII.</head>
+   <head>Prădarea Perceptoruluǐ.</head>
+<p> Pe la sfârşitul luǐ Iulie Dragoş spuse într’una din dimineţe luǐ Mănăilă :</p>
+<p> —    Mĕ bădie...</p>
+<p> —    Ce e?</p>
+<p> —    Am să te întreb ceva.</p>
+<p> —    Spune.</p>
+   <p> —    Numaǐ noǐ singurǐ tot nu putem face mare lucru... Am gândit mult şi bine şi m’am hotă-rît să maǐ luăm tovarăşǐ.</p>
+   <p> —    Bine, să şi luăm, dar unde găseştǐ ?</p>
+<p> —    Unu e Niculae Serea.</p>
+   <p> —    0 să vrea el să ’şǐ lase casa?</p>
+<p> —    Cred că o să se învoiască.</p>
+   <p> —    Bine dar ceǐ alţǐ ?</p>
+   <p> —    Cunosc eŭ încă vre-o treǐ patru carǐ or să voiaseă.</p>
+   <p> —    Bine trimite-le vorbă să vie aci şi să ne învoim cu eǐ.</p>
+   <p> A doua zi Serea veni pe la bordeiŭ.</p>
+<p> —    Bună ziua voinicilor, le zise el.</p>
+<p> Dragoş istorisi luǐ Serea gândul luǐ de a for-ma o bandă. Serea se învoi curând.</p>
+   <p> Apoǐ, după ce maǐ vorbiră, Serea plecă ca să aducă pe ceǐ treǐ carǐ îî spuse Dragoş.</p>
+   <p> Pe seară sosiră treǐ voinicǐ şi cu Serea patru.</p>
+   <p> Dragoş, care îǐ cunoştea dinainte, le vorbi prietenos şi le spuse gândul.</p>
+   <p> —    Să vedeţǐ cum o să trăiţǐ... Nu aşa tică-los ca pînă acuma... Ce era viaţa ceia amărîtă? Aci o să fiţǐ liberǐ ca vântul, o să faceţǐ ce oţǐ vrea, o să mâncaţǐ ce-oţǐ voǐ, o să vă culcaţǐ când v’o place... Nicǐ stăpân, nicǐ poruncă... Veţǐ fi voǐ stăpâniǐ codruluǐ.</p>
+<p> Ceǐ treǐ se învoiră.</p>
+<p> Apoǐ, Serea spuse în gura mare tuturor.</p>
+   <p> —    Băeţǐ, ne trebueşte un căpitan care să ne sfătuiască, care să ne fie frate maǐ mare.</p>
+   <p> —    Aşa, strigaŭ toţǐ.</p>
+   <p> —    Eǐ, să ne fie Dragoş zise Mănăilă întin-zând mâna luǐ Dragoş care i-o strânse puternic.</p>
+   <p> Se învoiră cu toţǐ unde şi cum să se întâl-nească. Tovărăşiǐ luǐ Dragoş trebuiaŭ să stea de o cam dată pe la casele lor, şi, când o fi să îǐ cheme să fie în toată vremea gata.</p>
+   <p> Plecară cu toţiǐ şi liniştea se lăsa în crângul întunecos.</p>
+   <p> A doua zi hotărîră să se mute din bordeiŭ maǐ aproape de Hânţeştǐ. Acum nu’ǐ maǐ era teamă luǐ Dragoş că se va întâmpla ceva, de oare-ce ceǐ din sat îl credeaŭ mort.</p>
+   <p> Şi se mutară, lăsând totuşǐ bordeiŭ în bună stare pentru cine ştie ce vreme rea, când să se adăpostească într’însul.</p>
+   <p> In dimineaţa zileǐ de 20 August, Dragoş o pornise pe şoseaua Buciumenilor, fiind-că că Per-ceptorul Petrache Ionescu a trecut prin Hânţeştǐ cu nişte banǐ.</p>
+   <p> Aşteptă, pitulat după un copac, câtă-va vreme şi, într’adevĕr, perceptorul trecea călare prin dreptul luǐ.</p>
+<p> Dragoş se apropie de el şi ’ǐ dete ziua bună.</p>
+   <p> —    Ce vreǐ, îǐ zise răstit perceptorul, care mǐ ’l cunoştea.</p>
+<p> —    Nimic de cât banǐ.</p>
+<p> —    Fugi d’aci că te împuşc.</p>
+   <p> —    O fi... ia să vedem aǐ cu ce ?</p>
+   <p> Perceptorul băgă mâna în geantă, dar ochiǐ ’ǐ scânteiaŭ de frică...</p> 
+   <p> Revolverul nu era acolo.</p>
+   <p> Dragoş avusese grijă că, pre când el mânca la o cârciumă în Hânţeştǐ să i’l fure...</p> <p>Perceptorul era mâniat foc.</p>
+   <p> —    Hei... nu mĕ împuştǐ zise Dragoş rîzînd.</p>
+   <p>Apoǐ scoase din buzunar revorverul percepto-ruluǐ şi ’ǐ zise.</p>
+   <p> —    Vezǐ să nu te împuşc eŭ acuma...</p>
+      <p> Perceptorul văzu că nu e de glumă cu a-cest hoţ.</p>
+   <p> —    Câţǐ banǐ vreǐ ?</p>
+   <p> —    Câţǐ aǐ ?</p>
+   <p> —    Dar nu te gândeştǐ că nu’s aǐ meǐ?</p>
+<p> —    Cu atât maǐ bine.</p>
+<p> —    Cum cu atât maǐ bine?... Dar puşcăria nu mĕ aşteaptă în urmă ?</p>
+   <p> —    Nu face nimic. Te odihneştǐ, destul aǐ muncit pînă acuma.</p>
+   <p> —    Fie-ţǐ milă creştine... Să ’ţǐ daŭ 100 de francǐ.</p>
+<p> —    Ne bocim ca babele.</p>
+   <p> —    Iţǐ daŭ 200.</p>
+   <p> —    Ia tacǐ... Par’că eştǐ ovreiŭ, aşa te toc-meştǐ...</p>
+   <p> —    Ţine’ǐ dacă e aşa zise el şi ’ǐ dete geanta.</p>
+   <p> —    Vezǐ, te înţeleg acuma. vĕd că nu eştǐ tocmaǐ greŭ de cap.</p>
+   <p> —    Dămǐ revorverul, zise perceptorul.</p>
+   <p> —    Ba vorbă... Iţǐ maǐ cer ceva.</p>
+<p> —    Ce?</p>
+   <p> —    Ciasornicul... Tot n’am ceas... Şi tare vreaŭ să ştiŭ şi eŭ cum şi cât e ceasu?... D-ta mergi in oraş mereŭ. Nu te temǐ de nimenǐ şi poţǐ să’țǐ cumperǐ orǐ când.</p>
+   <p> Perceptorul îǐ dete şi ceasul.</p>
+   <p> —  Acum, zise Dragoş, dacă îţǐ trebueşte îţǐ daŭ şi chitanţă de primirea banilor, ca să nu fiǐ bănuit că i-aǐ furat d-ta.</p>
+   <p>— Aşa e... dă-mǐ, zise perceptorul.</p>
+   <p> —    Să numĕrăm baniǐ ca să nu mĕ înşelǐ zise Dragoş şi numĕră baniǐ şi hârtiele din geantă.</p>
+   <p> —    Tocmaǐ 400 de francǐ.</p>
+   <p> — Aşa e. Ţine acuma şi îǐ scrie o chitanţă cam că el Dragoş a prădat pe perceptor de 400 de leǐ pe carǐ i-a găsit în geantă.</p>
+   <p> —    Acum să plecǐ frumuşel, îǐ zice Dragoş şi să fi om de treabă. Gândeşte-te că sunt multe suflete de ajutat cu baniǐ ăştia... Şi chiar noǐ suntem 6 inşǐ aşa că avem multe cheltuelǐ... Stătu ce pierde... Nimica...</p>
+   <p> Perceptorul o luă înainte dând goană caluluǐ.</p>
+   <p> Dragoş se întoarse la Mănăilă şi-ǐ istorisi totul.</p>
+   <p> A doua zi se svoni în satele de prin prejur jefuirea perceptoruluǐ şi că Costache Tănase Dra-got este hoţul.</p>
+   <p> Toţǐ se mirară.</p>
+   <p> Dragoş dete tovarăşilor câte 80 francǐ.</p>
+   <p> Ceǐ alţi banǐ îǐ opri el ca să fie la îndemâna pentru cheltuelǐ maǐ marǐ.</p>
+   <p> Intr’una din zile Serea îǐ spuse că a fost prin Hânțeștǐ.</p>
+   <p> —    Ce maǐ fac aǐ meǐ, îl întrebă Dragoş.</p>
+   <p> —    Sănătoşǐ tun...</p>
+   <p> —    Dar veciniǐ?</p>
+<p> —    Gheorghe e necăjit foc.</p>
+<p> —    Cum aşa ?</p>
+<p> —    I-a murit treǐ boǐ... Şi n’are bietul ce să pue la plug.</p>
+<p> Dragoş îǐ spuse luǐ Serea că chiar a doua seară se cheme pe Gheorghe ca să ’ǐ spue ceva.</p>
+   <p> Işǐ deteră întâlnire la marginea satuluǐ.</p>
+   <p> Gheorghe veni şi când vĕzu pe Dragoş nu se putu opri să nu strige cu bucurie :</p>
+<p> —    Ce maǐ facǐ bădie Costache... Fie că de mult nu ne văzurăm.</p>
+<p> —    Ascultă bădie Gheorghe... Am auzit că ţi-a murit 3 boǐ.</p>
+   <p> —    Aşa e, zise ţĕranul oftând.</p>
+   <p> —    Ţine 100 de francǐ să ’ţǐ cumperǐ alţiǐ.</p>
+<p> Gheorghe, cu lacrimele în ochiǐ, privi la el cu recunoştinţă.</p>
+   <p> —    Bădie Costache, n’o să uit în toată viaţa ce mǐ-aǐ făcut... M’aǐ ajutat când credeam că o să mĕ înec... Să ’ţǐ dea D-ȡeŭ tot binele...</p>
+<p> —    Ascultă ce-va acum, zise Dragoş.</p>
+<p> —    Spune tot...</p>
+   <p> —    Să ’mǐ jurǐ că nu o să spuǐ nimica din ce s’a întêmplat acum...</p>
+   <p> —    Să mĕ trăsnească D-ȡeŭ de oǐ scoate o vorbă.</p>
+   <p> —    Nicǐ chiar femeeǐ tale?</p>
+<p> —    Nicǐ.</p>
+   <p> —    Căcǐ ştiǐ că femeea e cu vorba pe vêrful limbeǐ. Nu şǐ-o poate ţine mult şi trebue să o dea în vileag.</p>
+<p> —    Aşa e bădie...</p>
+   <p> —    Du-te acuma şi veȡǐ, cumpără-ţǐ boiǐ.</p>
+   <p> —    Să ne vedem cu bine... zise bătrânul şi orǐ-când  o să aǐ nevoe nu te îndoi că o să caut să mĕ fac luntre şi punte ca să rĕsplătesc cele ce mǐ-aǐ făcut.</p>
+<p> Serea se miră de bunătatea luǐ Dragoş.</p>
+<p> —    Fie căpitane, zise el vesel, că nu credeam să aǐ o inimă aşa de bună.</p>
+<p> Dragoş surîse şi tăcu.</p>
+   </div>
+   <div type="chapter" n="9">
+<head> CAP. IX.</head>
+   <head>Omorul Ungureanuluǐ.</head>
+   <p> Mănăilă când auzi că Dragoş a dat baniǐ luǐ Gheorghe ca să ’şǐ cumpere boiǐ, ţinu pe Dra-goş de rĕŭ.</p>
+   <p> —    Bine, de ce nu te gândeştǐ că o să ne trebuiască şi nouĕ?</p>
+   <p> —    Tacǐ Mănăilă... M’aţǐ ales ca maǐ mare. Lasă-mĕ să fac ce’mǐ place...</p>
+<p> —    Aşa e, dar...</p>
+   <p> —    Eŭ nu sunt hoţ de codru. Vreaŭ să fur de la uniǐ şi să daŭ la alţiǐ...</p>
+   <p> —    Bine, dar noǐ?</p>
+   <p> —    Noǐ?.. Te încredinţez că, cât o să fiǐ cu mine, nu o să morǐ de foame..</p>
+<p> Mănăilă eşi necăjit şi furios din casă.</p>
+<p> O luă spre şosea şi merse înainte.</p>
+   <p> Iǐ părea par’că răŭ c’a luat de tovarăş pe Dra-goş şi, maǐ cu seamă, că l a numit căpetenia lor.</p>
+<p> Viaţa care o ducea înainte, pe când era sin-gur, îǐ răsărea acum maǐ frumoasă.</p>
+   <p> Apoǐ, gândind aşa, ajunse la coasta lunceǐ.</p>
+   <p> Acolo păzea o turmă un ungurean, despre care mersese vorba că e bogătaş. Mănăilă se gândise de mult la prădarea ungureanuluǐ, dar nicǐ o dată nu spusese luǐ Dragoş. De ce? Nicǐ el nu’şǐ deduse seama.</p>
+   <p> Ajuns la turmă, ungureanul îǐ eşi înainte cu vre-o treǐ câinǐ marǐ, ciobăneştǐ. Nu văzuse până atuncǐ pe Mănăilă.</p>
+   <p> —    Bună ziua bacǐule, îǐ zise Mănăilă.</p>
+<p> —    Bună vreme voinice... Ce te-aduce pe aci?</p>
+<p> —    Ia, urâtu de lume.</p>
+<p> —    Şi ţi-e ’n gând că aci e bine.</p>
+<p> —    Am plecat din oraş şi vreaŭ să intru slugă la mata.</p>
+   <p> —    Păǐ, ce-o să mănîncǐ la mine când nicǐ eŭ n’am ce?</p>
+   <p> —    Eǐ, fie, om mînca amândoǐ sărăcia.</p>
+<p> Şi din vorbă la vorbă se învoiră. </p>
+   <p> Ziua trecu în linişte. Mănăilă cercetă prin toate părţile doar şi doar va afla unde ungu-reanul ţine baniǐ, unde ǐ-a ascuns... Nu putuse afla nimica. Se hotărî să’ǐ facă de petrecanie şi să ia pe urmă ce-o găsi.</p>
+   <p> Ungureanul avea la brîŭ un cuțit mare şi tă-ios. Mănăilă se gândi că trebue maǐ întâǐŭ să cate a-ǐ lua cuţitu şi în urmă să sae asupră-ǐ.</p>
+<p> Pe seară se puseră la masă.</p>
+   <p> Ungureanu făcuse o mămăligă frumoasă şi galbenă ca aurul, o deşertase pe un taler de lemn, alăturase lângă ea două străchinǐ una cu lapte bătut şi alta cu lapte dulce şi maǐ colo o bucată de brînză dulce...</p>
+   <p> Luǐ Mănăilă îǐ era foame.. Şi aburiǐ ce scotea mămăliga îǐ gâdilaŭ nările nasuluǐ.</p>
+   <p> Se gândiră maǐ întâiŭ să mănânce şi în urmă să trimeaţă pe ungurean, dacă n’o vrea să’ǐ dea banǐ, pe lumea cea-laltă... Să fie cel puţin cu pântecele pline.</p>
+   <p> Ungureanu era de alt-fel viouǐ, şăgalnic şi vorbăreţ. Istorisea la masă o mulţime de snoave plăcute şi hazliǐ, care făcură pe Mănăilă să rîdă cu hohot.</p>
+   <p> In vreme ce mâncaŭ eǐ Mănăilă începu să’l întrebe despre banǐ, dacă are, căcǐ el a auzit că are multe parale strânse.</p>
+<p> Ungureanul spuse că’s toate vorbe... Nicǐ că are nimic.</p>
+   <p> Atuncǐ Mănăilă îǐ ceru cuţitu să tae o ceapă ca să o mănînce. Ungureanu, fără să cugete la ceva răŭ, i’l dete.</p>
+   <p> Dintr’o săritură Mănăilă îǐ strînse în mâinǐ beregata.</p>
+<p> —    Aǐ înebunit, urlă ungureanu,..</p>
+   <p> —    Nu, n’am înebunit.. dar să’mǐ spuǐ unde ți’s baniǐ!.</p>
+<p> —    N’am nicǐ un ban.</p>
+   <p> —    Minţǐ şoanghere.. Minţǐ... Unde ţi’s baniǐ ?.</p>
+<p> —    Lasă-mĕ că mor.. Mĕ înnec.</p>
+   <p> —    Unde ţi’s baniǐ spune.</p>
+<p> —    Lasă-mĕ... să suflu... mĕ... înnec...</p>
+<p> Mănăilă îǐ maǐ dădu drumu.</p>
+<p> Ungureanu se smuci o dată şi scăpă din mâ-nele luǐ Mănăilă. Puse într’o clipă mâna pe cu-ţit şi, dintr’o învîrtitură, îl repezi spre capu luǐ Mănăilă.</p>
+<p> Acesta însă prinse de veste.</p>
+   <p> Cuţitu, în loc să’ǐ spintece ţeasta în două, după cum era îndreptat, trecu alăturǐ şi ’ǐ sgârie u-mărul stâng.</p>
+   <p> Mănăilă se repezi asupra ungureanuluǐ şi ’l strînse iar de gât..</p>
+   <p> —    Stăǐ liftă spurcată... stăǐ..</p>
+<p> —    Mor., lasă... mĕ.. Mor.</p>
+   <p> —    Spune unde ’s baniǐ că te strâng de gât..</p>
+   <p> —    Lasă-mĕ, că’ţǐ spun.</p>
+<p> —    Spune saŭ te strîng maǐ tare!..</p>
+<p> —    N’am...</p>
+   <p> —    A.. N’aǐ.. Ţine dacă ’ǐ aşa, strigă Mănăilă şi mânele sale se înfipseră cu totul în beregata ungureanuluǐ.</p>
+   <p> Acesta horcăi lung şi, fără să maǐ sufle, căzu lungit la pămênt.</p>
+   <p> Mănăilă care, după cum îǐ spusese ungureanu, ştia că din clipă în clipă or să sosească tova-răşiǐ acestuia, să grăbi să plece. Scotoci pe un-gurean şi găsi vre-o 10 napoleonǐ, maǐ căută în fugă prin casă, luĕ un revolver, maǐ multe lucrurǐ şi o porni spre Dragoş.</p>
+   <p> Cînd ajunse şi istorisiǐ totul, Dragoş îl ţinu de rĕŭ.</p>
+<p> — N’aǐ făcut bine ce aǐ făcut Mănăilă... Aǐ adus moarte de om,</p>
+<p> — Dar, ce era să fac?. Să mĕ las să’mǐ spin-tece capul?...</p>
+<p> Dragoş tăcu.</p>
+   </div>
+   <div type="chapter" n="10">
+<head> CAP. X</head>
+<head>Prinderea luǐ Dragoş.</head>
+   <p> In comuna Brăhăşeştǐ; aşezată pe malului drept al Berheciuluǐ era proprietar d-1 Genoiŭ.</p>
+   <p> Proprietatea sa era întinsă şi vorba se lăţise cum că are banǐ destuǐ, aşa că Dragoş se gândi că ar putea să ia din eǐ fără să facă pagube marǐ stăpânuluǐ lor.</p>
+   <p> Chemă tovarăşiǐ şi le spuse planul.</p>
+   <p> Se învioră cu toţǐ.</p>
+   <p> In seara de 15 Septembre plecară, luând-o fie-care pe alte cărărǐ şi cu înţelegere să se în-tîlnească la spatele casiǐ.</p>
+<p> Noaptea era senină şi liniştită.</p>
+   <p> Când ajunseră la casa proprietaruluǐ vĕzură lumină în toate odăile şi auziră lăutarǐ.</p>
+   <p> Boerul tocmaǐ avea prietenǐ la moşie şi pe-treceaŭ cu toţiǐ.</p>
+   <p> Dragoş chemă pe tovarăş şi le spuse ca nu e nimica de făcut, căcǐ dacă ar încerca ceva ar fi prinşǐ şi atâta le-ar trebui.</p>
+   <p> Se hotărîră să meargă la casa vechiluluǐ Ni-culae Sterea, ce şedea în apropriere, ca, cel pu-ţin, să se aleagă cu ceva de acolo.</p>
+<p> Dragoş se învoi.</p>
+<p> Intrară în casa luǐ.</p>
+<p> El lipsea fiind la curte. Singură nevastă-sa era acolo. Răscoliră prin casă, dar nu găsiră nimica. Luară numaǐ două revolvere şi plecară.</p>
+   <p> Svonul se lăţi în tot judeţul despre călcările luǐ Dragoş. Deja dinainte fură trimise maǐ multe potere ca să ’ǐ prinză, dar nicǐ una nu reuşise să ’ǐ  dea de urmă, aşa de bine se ascundea şi se ferea.</p>
+   <p> Intre poterile ce eraŭ pe urma luǐ, era acea a locotenentuluǐ Kopeski din regimentului 6 de călăraşǐ.</p>
+   <p> In maǐ multe rîndurǐ credea că a pus mâna pe el, dar în tot-d’auna îǐ scăpa ca prin ure-chile aculuǐ.</p>
+   <p> Când veni Caterina, nevasta vechiluluǐ de la Brăhăşeştǐ şi’ǐ aduse veste de călcarea luǐ, se ho-tărî ca, cu orce preţ să pue mâna pe hoţ.</p>
+<p> Imprăştiea potera prin toate părţile de ală-turea şi făcu o inspecţie amănunţită prin toate cârciumele unde Dragoş s’ar fi putut ascunde.</p>
+   <p> Nicăerǐ nu găsi nicǐ cea maǐ mică urmă de bănuială.. Dragoş era prea dibaciŭ ca să se dea aşa plocon luǐ Kopeski.</p>
+<p> O porneşte în ziua de 18 Septembre împreună cu Berea, Vasile Rotaru şi Cristache Alexan-drescu zis şi Niţă Stănescu, Mănăilă rămăsese acasă, spre Iancu Tătaru, cârciumar pe şoseaua Nicorestilor, aproape de via d-luǐ Niculae Ghelţ.</p>
+   <p> Când ajunseră la cârcǐumă, Mihalache Fili-mon, văcar între cantonul 217—218, care era spionul luǐ Dragoş prin locurile acelea, veni într’o fugă spre Dragoş.</p>
+<p> —    Ce s’a întâmplat ? îǐ zise Dragoş.</p>
+<p> —    Căpitane, potera e pe aci.</p>
+   <p> —    De unde ştiǐ?</p>
+   <p> —    Am vĕȡut pe primaru Pamfile cu o groază de oamenǐ.</p>
+<p> —    Era şi locotinentul ?</p>
+<p> —    Nu... El trebue să fie în urmă.</p>
+   <p> —    Bine.. Ce e de făcut?.. Nu ştiǐ pe aci vre-o ascunzătoare unde să ne pitulăm de ochiǐ po-teriǐ ?</p>
+<p> Văcarul se gândi cît-va şi zise:</p>
+   <p>— In via luǐ Ghelț.</p>
+   <p> —E ceva?</p>
+   <p> —    Da, e o căsoae... Acolo o sa puteţǐ sta bine pînă or trece eǐ.</p>
+<p> —    E cineva la vie?</p>
+   <p> —    Da, sunt boieriǐ.</p>
+   <p> —    Bine... pleacă şi fi de treaba ca pînă a-cuma. Rĕsplata o să te mulţumească.</p>
+<p> Văcarul plecă.</p>
+<p> Dragoş, spuse tovărăşilor totul.</p>
+<p> Ce era de făcut?</p>
+   <p> Nu maǐ stară la vorbă de fel şi plecară cu toţiǐ spre căscioara luǐ Ghelţ.</p>
+   <p> Iancu Tătaru, care cunoştea pe Dragoş de co-pil, vĕzu pe ceǐ patru oamenǐ ce se îndreptară spre via luǐ Ghelţ.</p>
+<p> Inţelese că nu e lucru curat, maǐ cu seamă cînd recunoscu pe Dragoş. Eşi afară din casă şi se pitulă după un copac, uitându-se în cotro merg eǐ.</p>
+   <p> După ce ocoliră prin vie, îǐ vĕzu că intrară în căscioara care era goală.</p>
+<p> Tătaru se hotărî să spue luǐ Ghelţ aceasta cînd iată şi primara Pamfile cu vre-o zece oa-menǐ.</p>
+   <p> —    Bine că aǐ venit, ȡise Tătaru, Dragoş e aci.</p>
+      <p> —    Ce spuǐ ?</p>
+<p> —    Da..</p>
+<p> —    El singur?</p>
+<p> —    Nu, cu încă cu treǐ..</p>
+<p> —    E la d-ta în casă.</p>
+<p> —    Nu.</p>
+<p> —    Dar unde ?</p>
+<p> —    In vie la Ghelţ...</p>
+<p> —    De mult aŭ fugit ?</p>
+   <p> —    Maǐ adineaurǐ... De veneaǐ îǐ luaǐ de aci...</p>
+<p> —    Ce-or fi cătînd acolo?</p>
+   <p> —    Nicǐ eŭ nu ştiŭ... Vor să calce pe semne pe Ghelţ.</p>
+   <p> Pamfile dete ordine la oameniǐ şi toţǐ cu puş-tile încărcate ocoliră via, strângând rîndul din ce în ce aşa că ajunseră să facă o horă îm-prejurul căsoaiǐ.</p>
+   <p> Dragoş, când se vĕzu înconjurat spuse tova-răşilor sĕǐ:</p>
+   <p> —    Să nu daţǐ foc..</p>
+<p> —    Or să ne prinză...</p>
+<p> —    In or ce fel o să fim prinşi. Cel puţin să nu facem moarte de om.</p>
+   <p> —    Bine, Dragoşe, ȡiseră ceǐ alţǐ.</p>
+<p> Pamfile se aproprie de căsoaie şi strigă luǐ Dragoş să se predea ca să nu se întîmple cine ştie ce...</p>
+   <p> Dragoş eşi afară şi după el şi ceǐ alţǐ.</p>
+   <p> Fură legaţǐ bine şi, după ce sosi şi locote-nentul Kopeski în urmă, fură duşi la Tecuciŭ.</p>
+   <p> Vestea că s’a prins Dragoş se lăţi prin Te-cuciŭ.</p>
+<p> Intre ceǐ ce auziră fu şi Tudora, amanta de altă dată a luǐ Dragoş.</p>
+   <p> Iǐ păru bine par’că că el sufere acuma, el care o făcuse şi pe ea să sufere atîta.</p>
+   <p> Dragoş şi tovarăşǐ sĕǐ fură întemniţaţi în puş-căria din Tecuciŭ.</p>
+<p> Fu dus numaǐ de cât şi fotografiat la foto-graful Luis Eduard din oraş.</p>
+   <p> Autorităţile se gătiră cu tot dinadinsul ca să ’ǐ facă actele cuvenite spre a’l judeca cât maǐ curînd şi a’l condamna, după cum un hoţ me-rita.</p>
+<p> Mănăilă, care auzise de prinderea lor, se bu-cura par’că că Dragoş a fost prins şi că el va putea de acuma înainte să lucreze singur.</p>
+   <p> Luǐ nu’ǐ plăcuse purtarea luǐ Dragoş, care a-vea inima prea largă. In sufletul sĕŭ de ade-vĕrat Tâlhar nu se vedea buna-voinţa şi dragostea către fraţiǐ de suferinţe. El ar fi voit să prade, să ucidă numaǐ şi numaǐ ca să ’şǐ umple bu-zunarele cu banǐ.</p>
+   <p> Banul îǐ sta înainte, şi puţin îǐ păsa de mij-locul ce ar fi întrebuinţat ca să’l aibă.</p>
+<p> Acum trebuia să se ferească, ca, doamne fe-reşte, să nu cadă şi el în cursa întinsă de po-teră, ca să păţească şi el ce a păţit Dragoş.</p>
+   <p> Tecuciul rĕsufla liber. Acum n’avea grije că se va maǐ întîmpla vre-o călcare prin împreju-rimile luǐ.</p>
+   <p> Procororul îşǐ gătea actul de acusare când într’o bună dimineaţă, se lăţi vestea în oraş ca Dragoş dispăruse...</p>
+   </div>
+   <div type="chapter" n="11">
+<head> CAP. XI.</head>
+<head>Fuga luǐ Dragoş.</head>
+<p> Dragoş era trist mereŭ.</p>
+   <p> In zadar Nicolae Serea, care era om vesel, se cerca să’l îmbărbăteze, să’ǐ dea speranţe de fugă, el totuşǐ rĕmânea pe gândurǐ...</p>
+   <p> El, care urîse în tot d’auna închisoarea, el care fugise cu greutate din temniţa din Tulcea, ia-tă’l acuma iarăşǐ prins, ca mîne judecat, şi, cine ştie, la câţǐ anǐ condamnat.</p>
+   <p> Iǐ părea totuşǐ bine că a scăpat Mănăilă... Cel puţin, poate, că se va gândi la mijloace ca să le dea un ajutor de scăpare.</p>
+   <p> In noaptea de lunǐ, 24 Decembrie 1884, Dra-goş şedea într’un colţ al temniţeǐ, cu lanţurile greoae de picioare şi fuma un muc de ţigară.</p>
+   <p> Nicolae Serea, care pînă atuncǐ stase de vorbă cu ceǐ-alţǐ, veni spre Dragoş şi ’ǐ spuse încet.</p>
+<p> —    Căpitane.</p>
+<p> —    Ce e Sereo?</p>
+   <p> —    Aǐ rĕmas prea pe gândurǐ.. Ce ţǐ-e ?</p>
+   <p> —    Nimica., dar nu gândeştǐ că aşa e căpri-orul sĕlbatec când ’l prinzǐ?., jalnic că nu maǐ poate alerga în voia luǐ ?!</p>
+   <p> —    Bine... aǐ dreptate. Dar dacă aǐ putea în curînd să alergǐ?...</p>
+<p> —    Poate pe lumea cealaltă? Aşa da.</p>
+<p> —    Ba vorbă... Chiar pe lumea asta.</p>
+   <p> —    Când? După ce-oǐ face 10—20 de anǐ de ocnă?.. Foarte ’ţǐ mulţumesc.</p>
+<p> —    Nu, Dragoşe nu...</p>
+<p> —    Atuncǐ mĕ gândesc la o cârje şi ca într’o chilie de mănăstire întunecoasă..</p>
+   <p> —    Căpitane, ia ascultă serios.. Vreǐ să fugim?</p>
+<p> Dragoş tresări ca muşcat de şearpe la această întrebare.</p>
+   <p> Ochi-ǐ luară o lucire puternică, buzele ’ǐ se des-chiseră... Se uită lung la Serea şi îǐ zise:</p>
+   <p> —    Vorbeştǐ serios Sereo?</p>
+<p> —    Negreşit căpitane.</p>
+   <p> —    Atuncǐ ce mĕ maǐ întrebǐ ? maǐ lesne orbul n’ar vrea să vadă lumina, mutu să nu vorbea-scă, surdu să n’audă de cât eŭ să nu maǐ vreaŭ să fug.. Ce viaţă este asta aşa încărcată în lan-ţurǐ, par’că aşǐ fi un hoţ, eŭ goşgogea voinic cu sînge în vine!.. Sereo, mĕ gândeam şi erǐ seara la fugă.... dar aşa cum sunt legat şi fe-recat, ce aşǐ putea să fac?.. Şi apoiŭ gardiştiǐ carǐ ne pândesc, carǐ nu aşteaptă de cât o miş-care ca să dea semnalul. Spune repede Sereo cum e vorba să fugim? Spune-o!...</p>
+   <p> —    Ascultă căpitane, respunse Serea, m’am înţeles cu Ghiţă Nicolae, gardianul de aci, ca să ne dea o pilă... I-am făgăduit 100 de francǐ să îǐ dăm când om scăpa.</p>
+<p> —    Bine, şi în urmă?</p>
+   <p> O să ’ţǐ taǐ lanţurile, o să fiǐ liber; şi tu şi tovarăşiǐ noştri, o să facem o gaură în tavan şi, odată în pod, scăparea e gata.</p>
+<p> —    Cheamă pe Nicolae, zise Dragoş.</p>
+<p> Serea se duse şi veni cu gardianu.</p>
+   <p> —    Bădie, îǐ zise Dragoş, fă-ne treaba asta şi o să ’ţǐ rĕmênem îndatoraţǐ toată viaţa. O să aǐ o sută de francǐ, ba şi maǐ mulţǐ.</p>
+   <p> —    Dragoşe, zise Nicolae, nu o fac pentru suta ce mǐ-a zis Serea că ’mǐ dă, ci de dragul a te scăpa d’aci... Ştiŭ că facǐ şi bine că nu ieǐ de la ceǐ săracǐ.</p>
+   <p> —    Atuncǐ pe lucru băeţǐ.</p>
+<p> —    Ţine pila, zise gardianul, şi îǐ dete o pilă bună de oţel.</p>
+   <p> Dragoş începu să’şǐ pilească cătuşele.</p>
+   <p> Dupe vre-o jumĕtate de ceas ele eraŭ arun-cate la pământ. In vremea aceasta ceǐ-alţǐ se liberară şi eǐ de fiare şi începură să facă o gaură în tavanu odăiǐ.</p>
+   <p> Se urcaseră unul pe altul aşa că, cel de al treilea, ajunsese tavanu, pe care începu să’l cu-reţe de var, apoiŭ dând peste scândurǐ le sfă-rîmă şi, încet, încet, rupse şi pardoseala podu-duluǐ aşa că se făcu o gaură de putea să încapă un om prin ea în bună pace.</p>
+<p> După ce sfîrşiră aceasta se hotăriră să plece.</p>
+   <p> Chemară pe gardian, îǐ făgădui înc’o dată că ’l vor ajuta orǐ când şi cu orǐ ce, se sfă-tuiră cu toţǐ ce şi cum să fugă şi începură ia-răşǐ a se înălţa unul peste altul pînă la gaură.</p>
+   <p> Serea fu al cel d’ântăǐŭ care intră în pod.</p>
+   <p> In urmă se puse şi gardianu pînă ce eşi pe gaură Vasile Rotaru. Atuncǐ ceǐ doǐ de sus lă-sară jos nişte brâurǐ groase şi Cristache Ale-xandrescu zis şi Niţă Stănescu se urcă pe ele pînă sus unde fu luat şi aridicat de umerǐ.</p>
+   <p> Rĕmase Dragoş, care cu uşurinţa uneǐ pisicǐ se sui sus.</p>
+   <p> De acolo strigă gardianuluǐ:</p>
+   <p> —    Bădie Ghiţă, eşi afară şi închide uşa. Staǐ jos pe scândurǐ ca şi cum aǐ dormi greŭ... Nu te deştepta pînă mâne când or să schimbe garda... Atuncǐ or să te deştepte, fă-te că te speriǐ. Când vor vedea că am fugit şi te-or în-treba cum aǐ adormit, spune-le că aǐ fumat o ţigare ce ţi-am dat-o eŭ şi că, pe dată, te-aǐ simţit prins de somn, fără putere şi aǐ căzut gramadă afară.. Eǐ or să crează că, cine ştie ce lucrurǐ am pus eŭ în ţigare, n’are se te bă-nuiască că ne-aǐ ajutat fuga şi aşa o să scapǐ uşor... Aǐ înţeles bădie!.</p>
+<p> —    Rine Dragoşe... bine...</p>
+   <p> Dupe ce se vĕzură în pod se deteră jos prin lemnărie şi o luară prin partea din fund a tem-niţeǐ. Săriră zidurile şi iată-ǐ liberi ca vîntul...</p>
+   <p> Când se vĕzură departe de arest toţǐ, de o dată, îşǐ strînseră mânele.</p>
+   <p> Se îndreptară spre pădurea Dumbraveǐ unde se odihniră câtva timp, apoiŭ o luară iar la drum ajungênd spre ziuă la Troian.</p>
+   <p> Intrară în păpuşoiul de pe marginea drumuluǐ şi, fiindcă eraŭ sdrobiţǐ de oboseală, se culcară dormind duşǐ.</p>
+   <p> Pe la prînz, Dragoş se deşteptă şi merse spre Vizureştǐ de unde fură 4 caǐ pe carǐ îǐ aduse tovarăşilor sĕǐ.</p>
+   <p> Aceştia se deşteptară şi încălicând plecară cu toţǐ spre pădurea din Brăhaseştǐ.</p>
+   <p> Dragoş duse caiǐ înapoǐ în Vizureştǐ şi reîn-torcêndu-se căuta în toate părţile pă Mănăilă.</p>
+   <p> Tocmaǐ pe seară se găsiră cu el.</p>
+<p> Acesta, când îǐ văzu, rĕmase ca trăsnit.</p>
+   <p> —    Ce voǐ sunteţǐ ?</p>
+   <p> —    Noǐ frate Mănăilă.. noǐ.. Ce credeaǐ că eǐ or să umple puşcăria cu noǐ ? Lasă să stea acolo tonţiǐ carǐ n’aŭ ce mânca şi bea. Să’ǐ hrănească pe eǐ., nu pe noǐ oamenǐ sănătoşǐ.</p>
+<p> Apoǐ istorisiră fuga lor.</p>
+   <p> Merseră câte şi cincǐ la un pădurar din va-lea Troian de unde luară o puşcă. De acolo se îndreptară spre altul, de la marginea de apus a pădureǐ şi luară şi de la aceasta o puşcă.</p>
+   <p> Se auzi îndată un sgomot. Neştiind ce este se îndreptară spre via luǐ Tache Brumă din Hânţeştǐ unde rĕmaseră ascunşǐ.</p>
+   </div>
+   <div type="chapter" n="12">
+<head> CAP. XII.</head>
+<head>Călcarea d-luǐ Anastase Batin.</head>
+   <p> In seara de 27 Septembre se îndreptară spre casele proprietaruluǐ din Brăhăieştǐ, d-l Anastasie Batin, un voinic ca de 38 de anǐ şi iubit foarte mult de ţĕranǐ de prin părţile sale.</p>
+   <p> Dragoş aflase că îǐ sosiseră nişte banǐ din Tecuciŭ, aşa că or fi venit tocmaǐ la timp a-tuncǐ, prea nu aveaŭ eǐ nicǐ o para în pungă, nicǐ arme, nicǐ merinde...</p>
+   <p> Domnul Batin era în odaia de culcare și discuta tocmaǐ cu d-l Petrache Şendrea, un pri-eten al sĕŭ, care venea foarte des să’l viziteze..</p>
+   <p> Vorbeaŭ tocmaǐ despre mersul politiceǐ, când între ciasurile 10 şi 11 noaptea se pomeniră cu o bătae uşoară în uşe..</p>
+<p> —    Cine e? întreabă repede d. Anastase Batin?</p>
+   <p> —    Eŭ cóne se auzi un glas piţigăiat.</p>
+<p> D-l Batin, care era foarte curagios, se duse i deschise ușa..</p>
+<p> Intră înăuntru Serea cu o scrisoare în mână.</p>
+   <p> _ — Cine eştǐ mĕ! îl întrebă restit boerul.</p>
+   <p> —    Eŭ? Sunt Serea cóne Năstăsache.</p>
+   <p> —    Nu ştiŭ de numele ăsta.. Ce vreǐ acum noaptea.</p>
+<p> —    Ia o scrisoare.</p>
+<p> —    De la cine?</p>
+   <p> —    Poftiţǐ citiţi-o şi veţǐ vedea.</p>
+<p> D-l Batin luă scrisoarea şi o ceti împreună cu d-l Şendrea.</p>
+<p> Iată ce scria în ea.</p>
+<p>Coane Năstăsache, </p>
+   <p>Vĕ rog fiţǐ bun şi ne împrumutaţǐ cu 300 de francǐ, pe care viǐ voiŭ înnapoia fiind-că am mare necesitate.</p>
+<p>Căpitan C. Dragoş.</p>
+   <p> Ceǐ doǐ boerǐ rĕmaseră ca trăsniţǐ...</p>
+   <p> Se uitară lung unul spre altul şi vorbiră fran-ţuzeşte, zicându-şǐ ca să caute să împace lucru-rile ca să nu fie la mijloc cine ştie ce întâm-plare rea..</p>
+   <p> Apoiŭ, adresându-se luǐ Serea, d-l Batin zise:</p>
+<p> —    Unde e Dragoş, băete?</p>
+<p> —    Afară cucoane.</p>
+<p> —    E el singur?</p>
+   <p> —    Ba, cu alţǐ treǐ tovarăşǐ.</p>
+<p> —    Cheamă-l încoa!..</p>
+<p> —    Prea bine.</p>
+<p> Peste câte-va minute Dragoş intră.</p>
+   <p> —    Noapte bună boerilor, zise el scoţîndu-şǐ cu respect căciula...</p>
+<p> —    Dar bine Dragoşe aǐ scăpat din temniţă?...</p>
+<p> —    De cone Năstăsache... Mi se urîse în ga-ura ceia.</p>
+   <p> —    Şi tocmaǐ pe mine vreǐ să mĕ calcǐ?</p>
+<p>*). A se vedea Dosarul fila 336.</p>
+   <p> —    Ba, ferească D-ȡeŭ... vreaŭ să mǐ împru-muţǐ ceva banǐ...</p>
+<p> —    Dar dacă n’am ?</p>
+<p> —    Pentru mine o să aǐ d-ta.</p>
+<p> — Zău n’am...</p>
+<p> —    Dă’mǐ 200 măcar boerule..</p>
+   <p> —    N’am nicǐ 50 cu toţiǐ.. I-am dat acun 2—3 ciasurǐ proprietaruluǐ moşiǐ din susul sa-tuluǐ.</p>
+   <p> Dragoş încreţǐ sprîncenile.</p>
+<p> —    Care va să zică nu ne daǐ nimic?.</p>
+   <p> —    Ba îţǐ daŭ. Am 40 de francǐ. Uite doua hârtiǐ... Se facem pre din douĕ...</p>
+   <p> —    Fie că prea mare sărăcie.. Nicǐ că mĕ maǐ sculam eŭ noaptea pentru 20 de francǐ.</p>
+<p> —    O să vă daŭ şi mâncare..</p>
+<p> —    Bună e şi asta.</p>
+   <p> Ceǐ alţǐ tovarăşǐ fură chemaţǐ și duşǐ în so-fragerie unde mâncară şi băură bine.</p>
+   <p> După aceia plecară cu toţǐ.</p>
+   <p> După ce eşiră din ograda d-luǐ Batin se ho-tărâră să meargă la d-l Genoiŭ din cătunu To-flea, comuna Brăhăseştǐ, ca să’l prădeze.</p>
+   <p> Ajunseră aproape de case când câiniǐ, sim-ţind oamenǐ streinǐ, începură să latre.</p>
+   <p> Şerban Crivăţ, un bătrîn de vre-o 60 de anǐ, auzind pe afară sgomot şi lătrăturile câinilor, eşi cu puşca ’n mână şi, vĕȡând oameniǐ trase spre eǐ.</p>
+   <p> Tot atuncǐ descărcară şi ceǐ din banda luǐ Dragoș şi un glonţ răni pe Grivăț.</p>
+   <p> Atuncǐ ceǐ din bandă plecară.</p>
+   <p> După ce se reîntoarseră iar spre Troian, Se-rea se căi amar că s’a făcut hoţ.</p>
+<p> Incepu să se simtă coprins o frică adâncă şi, fără ştie de ce, ca o mâna necunoscută, îl împinse departe de banda luǐ Dragoș.</p>
+<p> Fuge din Troian şi ajungând spre casă merse d’a dreptul la Primărie şi se predă..</p>
+   <p> De ce a făcut această faptă nicǐ el nu’şǐ putu da seama..</p>
+   <p> Dragos vĕȡu dispariţia luǐ Serea... Nu înţe-lese pricina.</p>
+<p> Luară în locu luǐ pe Miron Fieraru.</p>
+   <p> In seara de 5 Octombrie sparseră cârciuma luǐ Matache Gheorghiu din Nicoreştǐ, luară de ale mâncăreǐ şi bĕutureǐ iar din teşghea vre-o 40 de francǐ ce găsiră înăuntru.</p>
+   <p> La 9 Octombrie se hotărâră a prăda pe Va-sile Grigoriţă, primarul din Cosmeştǐ, căruia îǐ merse svonul că e bogat.</p>
+<p> Despre această călcare se învoiseră eǐ dina-inte, când Serea făcea parte din banda lor.</p>
+   <p> Acesta, dându-se pe mâna autorităţilor, isto-risi şi călcarea ce o să o facă eǐ la Cosmeştǐ.</p>
+   <p> Locotenentul Kopeski, auzind de aceasta, în-cepu să’şǐ concentreze toate forţele luǐ prin îm-prejurime aşa ca să poată pune mâna pe hoţǐ.</p>
+<p> In noaptea aceia de 9 Octombrie, era o vreme ploioasă şi urîtă.</p>
+   <p> Dragoş cu ceǐ-alţǐ veniră încet.</p>
+   <p> Unul din bandă sări peste gard ca să vadă cum staŭ lucrurile şi să dea veste tovarăşilor.</p>
+<p> Se aproprie de casă şi privi pe fereastră.</p>
+   <p> Unul din soldaşǐ, cu toate că avea ordin să fie toţǐ liniştiţǐ, făcu vuet şi hoţul, care simţi că e ceva la mijloc se îndreptă spre gard sâ’l sară.</p>
+   <p> Locotenentul Kopeski îǐ strigă:</p>
+   <p> — Staǐ saŭ te împuşc!..</p>
+<p> Hoţul însă fugea maǐ nebun.</p>
+   <p> Atuncǐ se auzi detunătura uneǐ arme şi, câte-va clipe în urmă, un corp căzu jos greoiŭ spre pământ. </p>
+<p> Cel mort era Stănescu...</p>
+<p> Ceǐ din afară auzind detunătura înţeleseră că nu  e ceva curat la mijloc şi o porniră de acolo.</p>
+   <p> Dragaş rĕmase singur cu Mănăilă de oarece celalțǐ tovarăşǐ ǐ-a părăsit.</p>
+   </div>
+   <div type="chapter" n="13">
+<head> CAP. XIII.</head>
+   <head>Omorârea luǐ Iancu Pucher.</head>
+   <p> După moartea luǐ Stănescu şi fuga celor-alţǐ doǐ tovarăşǐ Dragoş şi cu Mănăilă se aşezară într’o rarişte de pe lîngă şoseaua Ţepu.</p>
+   <p> In dimineaţa zileǐ de 16 Octombrie amândoǐ şedeaŭ pe marginea şoseleǐ vorbind.</p>
+   <p> Mĕ Dragoşe, zicea Mănăilă, eŭ credeam că tu să fiǐ alt-fel de om..</p>
+   <p> — Ce spuǐ!</p>
+   <p> —Zĕŭ aşa.</p>
+<p> —    Şi ce fel să fi fost?..</p>
+   <p> —    Maǐ harnic.</p>
+<p> —    Adică-te nu ’s destul?.</p>
+   <p> —    Oǐ fi dar vĕd că o să murim aproape de foame cu toată hoţia noastră şi cu toate că ne punem viaţa în primejdie.</p>
+<p> —    Bine eŭ îs de vină?</p>
+<p> —    Negreşit.</p>
+   <p> —    Adică de ce eŭ? N’am mers cu toţǐ la Batin crezând că va fi avînd banǐ şi când în colo nu ne-a dat nimic?.. Nu e aşa?</p>
+<p> —    Aşa e acolo.</p>
+   <p> —    Dar atuncǐ ce te maǐ vaiţǐ?..</p>
+   <p> —    Fiind-că tu nu ţiǐ baniǐ ce avem pentru noǐ.</p>
+   <p> —    Cum nu-ǐ ţiŭ?..</p>
+   <p> —    Bine. Iǐ eǐ şi daǐ în dreapta şi stânga... De ce aǐ dat 200 de francǐ luǐ Toader Butna-rul ? Dar 50 luǐ Moş Stănică... Dar 175 vădaneǐ Mariţa?. Ce crezǐ Dragoşe că nu ştiŭ toate..</p>
+   <p> —    Mănăilă... Mănăilă!. Te credeam om maǐ cu judecată... De am dat banǐ în dreapta şi stânga mĕ întrebǐ?.</p>
+<p> —    Da.</p>
+   <p> —    Eǐ bine ţi-o spune.. Luǐ Toader Butnarul îǐ murise viţelu, venea stăpânirea să ’ǐ vênză totul că nu plătise dările.. Luǐ Moş Stanică ǐ-am dat să ’şǐ cumpere un plug.. Vădanieǐ Mariţa să ’şǐ mărite fata...</p>
+   <p> —    O fi, nu zic.. Dar noǐ să murim de foame?</p>
+   <p> —    N'aǐmurit până acuma?.</p>
+<p> —    Dar dacă nu maǐ facem nimica de acu înainte?</p>
+   <p> —    O să fur eŭ să ’ţǐ daŭ ţie.</p>
+<p> —    Dar la iarnă?</p>
+<p> —    Să trăim pînă atuncǐ...</p>
+   <p> —    Ba, îţǐî foarte mulţumesc... M’am săturat</p>
+   <p> —    Atuncǐ lasă-mĕ... Despărteşte-te de mine dacă nu’ţǐ maǐ plac.</p>
+<p> —    O s’o fac.</p>
+<p> —    Fă-o..</p>
+<p> —    Mănăilă era furios.</p>
+   <p> Ochiǐ îǐ sîngereaŭ grozav, mînele i se încleş-taŭ strînse şi nervoase.</p>
+<p> De o dată se vede venind din spre Ţepu o căruţă.</p>
+   <p> Mănăilă ridică capul şi vede doǐ oamenǐ în căruţă.</p>
+   <p> Când se apropie de eǐ, se repede strigând să oprească caiǐ. Eǐ nevoind el se repede spre u-nul din eǐ şi ’l culcă la pământ cu o lovitură de puşcă.</p>
+<p> Acela moare numaǐ de cât.</p>
+   <p> Era un evreŭ Iancu Pohăr, care mergea cu tovarăşul sĕŭ Iţic Şapira.</p>
+   <p> Celalt cum vĕȡu se dă jos din căruţă şi fuge.</p>
+<p> Dragoş când vedu ce a făcut Mănăilă se în-grozi.</p>
+<p> Veni spre el şi îl mustră amar..</p>
+<p> —    Lasă-mĕ Dragoşe... Nicǐ eŭ nu am ştiut ce fac... Nu maǐ vedeam nimic când l’am omorît..</p>
+   <p> Atuncǐ amândoǐ luară mortul şi îl puseră la marginea drumuluǐ, se suiră în căruţă şi mer-seră la Ticla unde deteră marfă din căruţă în păstrare luǐ Miron Feraru şi Sandu Popa, arseră căruţa şi deteră drumu caluluǐ.</p>
+<p> Zilele din urmă le trecură în pace.</p>
+   <p> Lucrurile furate le vêndură bine aşa că luară pe ele vre-o 300 de francǐ.</p>
+   <p> La 25 Octombrie 1884 se hotărîră să pră-deze pe păzitoriǐ evreǐ din pădurea Negrileştǐ carǐ, pe vremea aceasta, îşǐ luaŭ leafa.</p>
+   <p> Dragoş şi Mănăilă se îndreptă spre căsuţa locuită de eǐ şi îǐ găsiră tocmaǐ la masă.</p>
+<p> Dragoş care îǐ cunoştea le zise:</p>
+   <p> —    Heǐ bună ziua jupân Şaber.. Ce şi d-ta chir Leiba ?</p>
+<p> —    Cine sunt ăştia întreba Leiba pe Şmil Şaber...</p>
+   <p> —    Nu ştiŭ zise încet el, sculându-se de la masă. Apoǐ adresându-se celor doǐ hoţǐ le zise:</p>
+   <p> —    Ce poftiţǐ?</p>
+   <p> —    Nu mĕ cunoştǐ d-le Şmil?. Iǐ zise Dragoş..</p>
+<p> —    Eŭ?. Nu...</p>
+<p> —    Ia te uită bine...</p>
+   <p> —    Zăŭ că nu.</p>
+<p> —    Nicǐ n’aǐ fi auzit de mine..</p>
+<p> —    Ia nu glumi frate, zise ebreul tremurând prin mintea căruia se strecură o bănuială.</p>
+   <p> —    Ştǐ cine sunt?</p>
+<p> —    Nu.</p>
+<p> —    Eǐ bine, sunt Dragoş..</p>
+   <p> Leiba care tocmaǐ ducea lingura la gură se înfricoşă aşa fel că îǐ căzu şi lingura jos.</p>
+   <p>   — Nu vĕ speriaţǐ ci daţi-ne ceva banǐ..</p>
+<p> —    N’avem nimic.</p>
+   <p> —    Să vĕ caut!</p>
+<p> —    Caută-ne..</p>
+   <p> Dupe ce Dragoş îǐ căută şi vĕzu că n’aŭ ni-mic, pune mâna pe nişte puştǐ si revolvere pe carǐ le luă..</p>
+   <p> —    Maǐ aveţǐ ceva puştǐ!</p>
+<p> —    Nicǐ un...</p>
+   <p> —    Vĕ juraţǐ?.</p>
+<p> —    Pe viaţa noastră.</p>
+   <p> —    Bine, vĕ cred.. Rĕmâneţǐ sănătoşǐ.</p>
+<p> Apoǐ eşi cu Mănăilă..</p>
+<p> —    Nu ne merse bine zise Mănăilă..</p>
+   <p> —    Nu.. Ce-o să fac.. Or veni şi gâşte grase.</p>
+   <p>Când eşiră pe soşea iată că nu merseră mult şi deteră faţă ’n faţă cu o căruţă mânată de un alt ovreŭ.</p>
+   <p> —    Staǐ jupâne strigă Dragoş.</p>
+<p> Acesta nu stătu.</p>
+<p> —    Să’l împuşeăm, zise Mănăilă.</p>
+   <p> —    Nu pe el ci calul, şi trăseră o puşcă care calcă calul la pămênt.</p>
+   <p> Dragoş şi Mănăilă deteră fuga spre evreŭ, pe ’l chema Iţic Caner din Bârlad şi care era strîngător de vite.</p>
+   <p> II căutară frumuşel în buzunare luându-ǐ 460 de francǐ pe care îǐ avea în geantă.</p>
+   <p> In urmă îǐ deteră drumul.</p>
+   <p> —    Vezǐ Mânăilă, nu îţǐ spuneam eŭ ?</p>
+<p> —    Aşa e, zise acesta.</p>
+   <p> Cu baniǐ luaţǐ trăiră împărăteşte aproape o lună.</p>
+   <p> Dragoş trimise din eǐ vre-o 100 unuǐ bătrên căruia îǐ murise un flăcăŭ.</p>
+   <p> Pe la 17 Noembrie merg la Cosmeştǐ şi se îndreptară spre casa luǐ Vasile Grigorică, pri-marul satuluǐ, unde maǐ fuseseră atuncǐ când a fost omorît Stănescu.</p>
+<p> Acesta era unul din ceǐ maǐ bogaţi aǐ satuluǐ</p>
+<p> Il chemară afară şi îǐ cerură 1000 de leǐ</p>
+   <p> —    Dar bine Bădie Dragoşe, îǐ zise acesta, n’am 1000..</p>
+<p> —    Dă-ne 100..</p>
+   <p> —    N’am nicǐ atît.. Ştiţǐ că nu ţiŭ baniǐ la mine.</p>
+<p> —    Atuncǐ cât ne daǐ.</p>
+   <p> —    Patru zecǐ.</p>
+   <p> —    Du-te şi adu-ǐ.</p>
+   <p> Grigoriţă intră şi aduse 2 hârtiǐ de 20.</p>
+<p> —    Mulţumim frate Vasilache.. De astă data nu maǐ fu Kopeski care să te apăre..</p>
+<p> —    Aşa e.</p>
+<p> —    Noapte bună.</p>
+<p> —    Cale bună.</p>
+<p> Și plecară.</p>
+   </div>
+   <div type="chapter" n="14">
+<head> CAP. XIV.</head>
+   <head>Călcarea de la Ghelţ şi rĕsbunarea pe Chiriac Rarinca.</head>
+   <p> Baniǐ se sfârşiseră si Mănăilă făcea mereŭ gură.</p>
+   <p> —    Tot nu eştǐ de treabă frate Mănăilă, îǐ zicea Dragoș.</p>
+   <p> —    Cum să fiŭ dacă n’avem ce mânca.</p>
+<p> —    Eǐ bine, o să avem.</p>
+<p> —    Cum?</p>
+<p> —    Mâne seară călcăm pe Niculae Ghelţ.</p>
+<p> —    Eǐ, aşa înţeleg. Și crez că o să luăm ceva bun.</p>
+<p> —    Aşa cred.</p>
+<p> —    Să te auză Dumneȡeŭ.</p>
+   <p> In seara de Vinerǐ 23 Noembrie 1884 Dragoş şi Mănăilă se îndreptară spre casa d-luǐ Nicu-lae Ghelţ, proprietar mare pe la Nicoreştǐ. Casa sa se compunea din un cerdac mare pe unde era intrarea, cancelaria, casa slugilor şi bucă-tăria. Apoiŭ sofrageria din care dedeaǐ într’un iatac de acolo intraǐ în casa mare.</p>
+<p> D-l Ghelţ şedea cu soţia d-luǐ în sofrage-rie când se pomeniră cu o bâtae în uşe.</p>
+<p> —    Intră zise dânsul şi Dragoş intră cu Mănăilă</p>
+<p> D-l Ghelţ, care ’l cunoştea, nu se sperie şi îl pofti pe scaun.</p>
+<p> Mănăilă se aşeză pe pat.</p>
+   <p> —    Ce vreţǐ? îǐ întrebă el.</p>
+   <p> —    Intâǐŭ mâncare şi în urmă banǐ.</p>
+   <p> —    Treceţǐ la masă.</p>
+   <p> Amândoǐ se aşezară şi mâncară vorbind şi glumind.</p>
+   <p> După ce sfîrşiră masa Ghelţ îǐ întrebă cu câţǐ banǐ se mulţumesc.</p>
+   <p> — Cât maǐ mulţǐ, cucoane.</p>
+   <p> Ghelţ scoase un portofel ce’l purta în buzunar şi le dete vre-o treǐ sute de francǐ.</p>
+<p> —    Vĕ ajunge? întrebă el.</p>
+   <p> —    De o cam dată da... Te rugăm coane Ni-culae să nu spuǐ nimănuǐ despre prădarea asta.</p>
+   <p> —    Bine, fi-vĕ pe voe.</p>
+<p> Şi într’adevăr d. Ghelţ nicǐ n’a spus.</p>
+<p> De acolo se îndreptară spre Ţepu la Nicolae Rarinca.</p>
+   <p> Acesta le făcuse într’o zi una boacănă. Dacă nu se fereaŭ, cădeaŭ, din pricina luǐ, în mâna potereǐ.</p>
+<p> Ajungând în Ţepu rugară pe Gavril Popa să spue luǐ Rarinca că a văzut un lup la margi-nea satuluǐ şi să meargă împreună să’l omoare.</p>
+   <p> Gavril făcu tocmaǐ aşa şi, peste vre-o jumă-tate ceas se reîntoarse cu Rarinca.</p>
+<p> Acesta când dădu cu ochiǐ de Dragoş şi Mă-năilă vru s’o ia la fugă.</p>
+   <p> — Stăǐ bădie... Ce te-aǐ speriat, zise Dragoş,. şi făcu semn luǐ Mănăilă. Amândoǐ îl apucară şi începură să’l bată ţeapăn.</p>
+   <p> Apoǐ se făcură că fără voe le scapă după ce’îǐ luă puşca.</p>
+   <p> Bietul Rarinca fugea de-ǐ sforăia tălpile.</p>
+   </div>
+   <div type="chapter" n="15">
+<head> CAP. XV.</head>
+   <head> Furarea caseǐ de banǐ din Buciumenǐ</head>
+   <p> Buciumenǐ este una din cele maǐ marǐ co-munǐ din plasa Nicoreştǐ. Acolo se afla cassa comunală în localul Primărieǐ.</p>
+   <p> Dragoş şi Mănăilă de multă vreme îşǐ puse-seră în gând să o prădeze, dar, în tot-d’a-una până acuma, par’că în necaz, eraŭ de gardă oamenǐ în carǐ nu puteaŭ avea încredere ca să se poată apropia.</p>
+   <p> In ziua de 14 Decembre se întâlniră pe şosea cu miliţieniǐ Ion Vîlcu şi Ion Păduraru carǐ e-raŭ din Hânţeştǐ.</p>
+   <p> Dragoş întrebându’ǐ unde merge acştia îǐ res-punseră că sunt de gardă la Primărie.</p>
+   <p> Atâta aşteptă Dragoş ca să intre în vorbă maǐ largă cu eǐ, să le spună verzǐ şi uscate şi, în sfârşit, să’ǐ aducă acolo unde voia el, adică să se asocieze ca să prădeze cassa comunală.</p>
+   <p> In noaptea de 14—15 Decembrie Dragoş, Mă-năilă, Roseanu şi Chirilă eraŭ pe la miezul nop-țeǐ la Primărie.</p>
+<p> Vîlcu şi Păduraru eraŭ acolo.</p>
+<p> Odaia în care era cassa de fier, era zăbrăluită.</p>
+   <p> Dragoş se gândi puţin şi trimise apoǐ un om la moara de de-vale a d-luǐ Alecu Radovicǐ de unde luară nişte fiare cu carǐ să depărteze ză-brelele și să poată sparge şi cassa de fier.</p>
+<p> Fiarele le dete Gheorghe Gavrilă.</p>
+<p> Mănăilă şi  cu Dragoş intrară în odae.</p>
+   <p> Acolo luară cassa şi o deteră celor de afară după ce Dragoş scrise, la lumina uneǐ lumânărǐde ceară</p>
+<p>Casa de banǐ eŭ am luat'o.</p>
+   <p>D. locotenent Copeski mi-a luat baniǐ.</p>
+<p>C. Dragoş.</p>
+   <p> Dupĕ ce scoaseră afară cassa o luară şi se în-dreptară cu ea spre pădurea Pruncu care e la depărtare de Buciumenǐ, la vre-o doǐ kilometri, unde o sparseră.</p>
+<p> In cassă găsiră vre-o 2122 de leǐ, parte în hârtie, parte în argint.</p>
+   <p> Ion Vilcu şi Păduraru, carǐ veniseră după eǐ, se învoiră să spuie că ’ǐ-a prins hoţiǐ şi ’ǐ-a le-gat aşa că nu maǐ putură face nimica. De ase-menea să nu spue pe aceiaşǐ tovarăşǐ ci numaǐ pe Mănăilă şi Dragoş.</p>
+   <p> Dragoş, după ce ascunse casa de banǐ în-tr’un tufiş se reîntoarse spre Buciumenǐ și legă cu nişte funiǐ pe Vîlcu şi Păduraru.</p>
+   <p> In urmă luă fiarele şi le duse înapoǐ la moară.</p>
+<p> Mănăilă venise şi el.</p>
+   <p> — Eǐ Mănăilă ce zicǐ ? îl întrebă Dragoș.</p>
+<p> —    Zic că de acum să avem numaǐ linişte.</p>
+<p> —    Şi să nu ne prinză cum-va Kopeski.</p>
+   <p> —    Nu ştiŭ ce, dar eŭ am o presimţire urîtă.</p>
+<p> —    Ce anume ?</p>
+<p> —    Că o să ne prinză.</p>
+<p> Şi nicǐ că greşea...</p>
+<p> Kopeski era în urma lor.</p>
+   </div>
+   <div type="chapter" n="16">
+<head> CAP. XVI.</head>
+   <head>Prinderea Bandeǐ.</head>
+   <p> Locotenentul Kopeski aflase că Dragoş se în-vârteşte pe lângă Buciumenǐ. Chiar în seara când eǐ sparseră cassa de banǐ a comuneǐ, în capul potereǐ locotenentul sosise în sat.</p>
+   <p> In dimineaţa zileǐ ce urmă spargerea, un să-tean trecu pe lângă Primărie şi văzu pe Vîlcu şi Păduraru legaţǐ fedeleşǐ de câte un stâlp al caseǐ.</p>
+   <p> Fiindu-ǐ teamă şi  bănuind ceva,  alergă la casa primaruluǐ, care şedea în apropiere.</p>
+   <p> —    Ce e de alergǐ aşa moş Toadere ? îl în-trebă un sătean.</p>
+   <p> —    Fuga la primaru... Miliţieniǐ sunt legaţǐ.</p>
+   <p> —    Ce miliţienǐ ?</p>
+<p> —    Ceǐ de gardă.</p>
+<p> —    De gardă, unde?</p>
+<p> —    La Primărie.</p>
+   <p> —    Eǐ, ce vorbeştǐ!...</p>
+<p> —    Chiar aşa, bădie.</p>
+<p> —    Nu e lucru curat.</p>
+<p> —    Şi eŭ cred tot aşa... Fuga la Primar.</p>
+<p> —    Să mergem.</p>
+   <p> Şi amândoǐ se îndreptară spre casa Primaruluǐ. </p>
+   <p> Acesta când află despre cele vĕute de moş Toader, se îmbrăcă într’o clipă şi o porni spre cazarma unda eraŭ poteraşiǐ.</p>
+<p> Ajunse numaǐ de cât şi chemă pe locotenen-tul Kopeski.</p>
+<p> —    Ce e d-le Primar? îl întrebă locotenentul.</p>
+<p> —    Ce e, nu e lucru curat.</p>
+<p> —    Cum aşa?</p>
+<p> — Pare-mǐ-se că Dragoș e pe aci.</p>
+<p> —    Unde?</p>
+   <p> —    In Buciumenǐ.</p>
+   <p> —    L’aǐ vĕȡut?</p>
+   <p>  — Nu... Dar dacă nu maǐ este, atuncǐ o fi fost. </p>
+   <p>— Spune că nu te înţeleg.</p>
+   <p> —    A venit adineaurǐ un sătean şi mǐ-a spus că miliţieniǐ ce eraŭ de gardă sunt legaţǐ la Primărie.</p>
+<p> —    Aşa e... Nu e lucru curat... Fuga la Pri-mărie.</p>
+   <p> Şi amândoǐ o luară în goană cu poterașiǐ după eǐ.</p>
+   <p> Ajunseră la Primărie şi găsiră pe ceǐ doǐ le-gaţǐ şi casa de banǐ lipsă.</p>
+   <p> Iǐ întrebară în zadar, eǐ spuseră ceea-ce se vorbiseră în ajun.</p>
+   <p> Locotenentul porunci să aresteze pe ceǐ doǐ miliţienǐ apoiŭ plecă prin sat. Cercetă toate lo-cuinţele dar nu găsi nimic.</p>
+   <p> Trecu prin împrejurimǐ şi găsi în pădure casa de banǐ.</p>
+   <p> Turba de necaz, când iată pe la prânz, că vine un om şi-ǐ spune că s’a întâlnit cu Dra-goş şi încă cu doǐ că mergeaŭ spre Ţepu.</p>
+   <p> Locotenentul dete numaǐ de cât ordin ca să se schimbe poteraşiǐ în haine ţĕrăneştǐ şi, sub zeghe, să ţie ascunsă carabina.</p>
+   <p> Apoǐ se îndreptară cu toţiǐ spre Ţepu.</p>
+   <p> Ajungând în sat, cercetă în dreapta şi stânga, dar nu află nimica... De o-dată vĕzură dintr’o casă eşind un copil plîngând.</p>
+   <p> —    De ce plângǐ ? îl întrebă locotenentul mân-gâindu-1.</p>
+<p> —    M’a bătut taica.</p>
+<p> —    De ce te-a bătut?</p>
+   <p> —    Fiind-că am stat în odae când s’aŭ as-cuns oameniǐ carǐ aŭ venit la noǐ.</p>
+<p> Locotenentul se cutremură de bucurie.</p>
+   <p> —    Nu cum-va o fi aci ce-va ?.. îşǐ zise el...</p>
+<p> Şi o porni în ograda casi în care şedea Ion Ciocanile.</p>
+<p> —    Bună zioa, zise locotenentul luǐ Ciocanile.</p>
+   <p> — Să trăiţǐ d-le locotenent, rĕspunse acesta tre-murînd puţin.</p>
+   <p> —    Ia ascultă, să scurtăm vorba... Unde ţiǐ pe Dragoş.</p>
+   <p> —    Vaǐ de mine.. Nicǐ că ştiŭ aşa ce-va.</p>
+   <p> —    Nu te maǐ preface că o păţǐ... Spune şi o se te iertăm.</p>
+<p> Dar Ciocanile nu spunea nimic.</p>
+   <p> Atuncǐ poteraşiǐ, la ordinul locotenentuluǐ, îl legară şi intrară în odae.</p>
+<p> Luară copilaşu şi’l întrebară unde sunt oa-meniǐ aceia. El îǐ duse într’o odae şi le arată în perete.</p>
+   <p> Intr’adevĕr, dete nişte scândurǐ la oparte, şi din ascunzătoarea aceia eşiră Dragoş, Mănăilă şi Costin Verde.</p>
+   <p> Fără nicǐ o împotrivire fură legaţǐ bine şi cu toţǐ împreună, trecând prin mijlocu satuluǐ cu-rios de a vedea hoţiǐ, o luară spre Tecuciŭ.</p>
+   <p> Fură duşǐ din noŭ spre temniţă, oraşul află iarăşǐ prinderea luǐ Dragoş şi, de astă dată, se credea cu siguranţă că nu o să se maǐ întâm-ple, ca întêiŭ, ca să fugă.</p>
+   <p> Şi, trecură peste 6 lunǐ în arest, în care vreme curtea cu juraţǐ  îşǐ  pregătea deschiderea ca să’ǐ  judece.</p>
+   <p> Tocmaǐ  la 3 Iunie 1885 se deschise sesiunea Curţeǐ cu jurǐ  din Tecuciŭ sub preşidenţia d-luǐ G. N. Nicolaŭ.</p>
+<p> Lume era atât de multă la acest proces în cât nu încăpea în sală.</p>
+<p> Procesul dură în zilele de 3, 4 şi 5.</p>
+<p> Procurorul general, d. Burada, citi actul de acuzare.</p>
+   <p> In fine, la 5 Iunie seara, se dete citire con-damnăreǐ lor.</p>
+<p> Mănăilă fu condamnat la ocnă pe toată viaţa, Dragoş la 10 anǐ de reclusiune, Nicolae Serea la 8, Ciocaneli la 5 anǐ muncă silnică, Gavrilă Popa la 6 anǐ reclusiune, Costin Verde la 5 anǐ munca silnică şi Chirilă la reclusiune.</p>
+<p> Lumea plecă acasă în linişte, fiind sigură că acum Dragoş a pierit pentru 10 anǐ cel puţin.</p>
+<p> Dar nu era aşa.</p>
+   </div>
+   <div type="chapter" n="17">
+<head> CAP. XVII.</head>
+<head>Fuga. — Hoţiile de la Velicu şi Alexandru Petrini</head>
+   <p> Când Dragoş se vĕzu singur cu Mănăilă, după ce sentinţa de condamnare fu citită, îşǐ făcură semn că vor să vorbească unul cu altul. </p>
+   <p>   Seara, când lumina se şterse în arest, Mă-năilă se apropie de Dragoş.</p>
+   <p> —    Ce e de făcut, îǐ zise Mănăilă ?</p>
+   <p> —    Nu maǐ ştiŭ nimic. Suutem prăpădiţǐ.</p>
+<p> —    Tu ca tu, dar eŭ toată viaţa munca silnică !</p>
+   <p> —    Eǐ, şi mie ce’mǐ folosesce ?...</p>
+<p> —    Trebue să scăpăm.</p>
+<p> —    Trebue ?... Să vedem om putea ?., Aci e vorba.</p>
+<p> —    Dragoş, mâne noapte să căutăm să ne scăpăm de fiare. Pe urmă să dăm lampa jos ca să ia foc arestu. Atuncǐ, în învălmăşală, să dăm năvală afară.</p>
+   <p> După ce maǐ vorbiră câte-va minute se cul-cară cu speranţa ca a doua zi vor fugi din temniţă şi decǐ, vor scăpa de ocnă.</p>
+   <p> Intr’adevĕr, a doua seară lanţurile de la pi-cioare abia se maǐ ţineaŭ. La cea maǐ mică mişcare ar fi putut fi rupte.</p>
+   <p> Pe la ceasurile nouă seara se auzi în tem-niţă ţipĕtul de foc.</p>
+   <p> Se făcu învălmăşeală mare şi în mijlocul ţi-petelor Dragoş şi Mănăilă se făcură scăpaţǐ, fără ca cine-va să bage de seamă fuga lor.</p>
+<p> Eşiră afară şi o porniră spre barieră.</p>
+   <p> Se vĕzură în mijlocul câmpuluǐ gâfâind de oboseală şi cu sudoarea curgând de pe eǐ.</p>
+<p> In urma lor lucrurile se sfârşiră nenorocit.</p>
+   <p> Focul se stinse cu repeziciune. Se făcu ape-lul condamnaţilor şi se vĕzu lipsa luǐ Dragoş şi Mănăilă.</p>
+   <p> Numaǐ de cât fură date ordine pretutindenǐ... dar zadarnic. Nimic, şi iar nimic. Locotenentul Kopeski în zadar cutreeră prin toate părţile cu potera, nu putu prinde pe nimenǐ.</p>
+   <p> Hoţiǐ merseră în Ţepu şi se aşeză la vechia lor gazdă, care nu putea fi bănuit şi şezură acolo ascunşǐ maǐ multe sĕptămânǐ.</p>
+   <p> Din vreme în vreme maǐ furaŭ câte un cal, o vită, aşa că puteaŭ trăi.</p>
+   <p> In seara de Miercurǐ 25 Septembrie 1885, pe la orele şase, D-l Dimitrie Velicu agricultor şi proprietar în Corbiţa, era în odae împreună cu soţia sa, citind o gazeta şi fumându-şǐ în liniştea ţigara.</p>
+   <p> De odată, în mijlocul tăceriǐ, se pomeniră cu uşa deschisă şi doǐ oamenǐ cu puştile întinse ve-nind spre eǐ.</p>
+   <p> Soţia D-luǐ Velicu, fără să-îǐ piarză cumpătul, se repezi spre puşca luǐ Dragoş şi o ţinu cu mâna.</p>
+<p> In vremea această Velicu eşi în privdor şi în-cepu a striga :</p>
+   <p> — Hoţiǐ, săriţǐ că aŭ venit Hoţiǐ.</p>
+   <p> Dar în zadar eraŭ strigătele sale, nimenǐ nu putea veni.</p>
+   <p> Dragoş îşǐ alcătuise o nouă bandă compusă din Năstase Niţă Pohrib, Neculaǐ Gavrilă şi Enache Bobârcă, carǐ rĕmăseră jos la argaţǐ, pe carǐ îǐ păzea ca nu cum-va să se mişte.</p>
+   <p> Vĕzând Velicu că nu vine nimenǐ şi fiindu-ǐ teamă de soţia sa se reîntoarse în odae şi în-trebă pe hoţǐ ce vor.</p>
+   <p> —    Banǐ boerule, respunseră eǐ.</p>
+<p> —    N’am de unde.</p>
+<p> In vremea aceasta se auzi un sgomot în curte.</p>
+   <p> Unul din servitorǐ scăpase şi chema satu în ajutor. Mănăilă şi Dragoş, temându-se ca nu cum-va să vie cine-va puseră mâna pe un cias de aur şi pe o puşcă cu două ţevi şi eşiră afară fluerând de treǐ orǐ aşa că se adunară ţoţǐ to-varăşiǐ lor.</p>
+<p> Plecară în fugă de acolo aşa că nu se întâm-plă nimica.</p>
+   <p> Se strecură după acesta aproape o lună de zile fără ca ceva noŭ să se întâmple. Vestea pră-dăreǐ D-luǐ Velicu se lăţi în tot judeţul care se înspăi-mântase de fuga acestuia şi de prădărila ce le-a început iarăşǐ.</p>
+   <p> La 20 Octombrie, pe la orele 5 seara, D-l A-lexandru Petrini proprietarul moşieǐ Borcea din plasa Bârlad, era în cancelaria proprietăţeǐ îm-preună cu comptabilul sĕŭ Heraşcu.</p>
+   <p> Acest comptabil spusese unora şi altora că, dacă s’ar întâlni cu Dragoş, nu-ǐ va da drumul până n’o muri cu el de gât.</p>
+   <p> Dragoş auzise de acesta şi acum, când se află faţă în faţă cu Herăscu, merse drept la dân-sul şi-ǐ zise:</p>
+   <p> —    Aǐ spus că d’o veni Dragoş nu daǐ banǐ şi nu te laşǐ pĕnă n’oǐ muri de gât cu el ?.,.</p>
+<p> —    Cine a spus? respunse acesta tremurând.</p>
+<p> —    Tu.</p>
+<p> —    Ferească Dumnezeŭ !!</p>
+   <p> —    Bine, te cred. Dă-mǐ ceva banǐ.</p>
+   <p> —    Zăŭ dacă am maǐ mult de cât 315 leǐ.</p>
+   <p> —    Dă ǐ încoa.</p>
+<p> Dragoş îl lăsă de-o cam dată şi merse spre D-l Petrini.</p>
+   <p> —    Boerule să-mǐ daǐ vre o 3000 leǐ.</p>
+<p> —    3000 !.... strigă acesta.</p>
+   <p> —    Nu te speria.... aǐ destuǐ şi apoǐ îţǐ cer în împrumut ’ţǐ dăm şi chitanţă de primire.</p>
+   <p> —    Caută-mĕ şi dacă aǐ găsi ceva i-aǐ</p>
+   <p> —    N’aǐ aci.... Haidem în odaia matale.</p>
+   <p> Şi o porniră cu toţǐ.</p>
+   <p> Ajunǐ în odae Dragoş, luă de perete o puşcă cu două ţevǐ şi un revolver cu şase focurǐ. Apoǐ trase un saltar în care găsi 563 de francǐ în argint, o broşă de aur şi două brăţele.</p>
+<p> Petrini începu să facă sgomot strigând ajutor.</p>
+   <p> Dragoş îl scoase afară în îmbrâncelǐ şi îl pălmui.</p>
+<p> Pentru prima oară Dragoş a făcut bătae.</p>
+   <p> Heraşcu, vĕzând că stăpânul săŭ este maltra-tat, de teamă, spuse că maǐ are 80 de leǐ.</p>
+   <p> —    Aşa.pezevenghiule ?... Ţine să te învĕţǐ minte să maǐ minţǐ altă dată !....</p>
+<p> Şi începu să-l bată şi pe acesta.</p>
+   <p> Puse pe Mănăilă să păzească pe ceǐ doǐ şi el intră într’o odae de alăturǐ unde găsi pe d-na Smaranda Petrini, soţia proprietaruluǐ.</p>
+   <p> După vre-o jumĕtate de cias Dragoş şi cu ceǐ-l’alţǐ se îndreptară spre grajdurile curţeǐ.</p>
+<p> —    Am trebuinţă de un cal bun.</p>
+   <p> Şi, intrând înăuntru, alese din toţǐ caiǐ unu negru.</p>
+   <p> Apoǐ, porunci celor doǐ jefuiţǐ să meargă fru-muşel în casă şi să nu cheme slugile căcǐ e d’a-surda, de oare-ce ele îs toate legate fedeleş.</p>
+<p> Ceǐ doǐ îl ascultară.</p>
+   <p> Dragoş flueră de două orǐ şi toţǐ aǐ seǐ veniră.</p>
+   <p>—  Toţǐ băeţǐ ? îǐ întrebă el.</p>
+   <p> —    Toţǐ Dragoşe.</p>
+<p> —    S’a întâmplat ceva?</p>
+<p> —    Nimica.</p>
+<p> —    Bravo. Atuncǐ haidem.</p>
+<p> Şi plecară.</p>
+   </div>
+   <div type="chapter" n="18">
+<head> CAP. <sic>XVIII.</sic></head>
+<head>Rănirea luǐ Dragoş. </head>
+   <p> După hoţia de la Petrini, potera locotenentu-luǐ Kopeski se împrăştia prin toate părţile doar şi doar va da de urma îndresneţuluǐ hoţ.</p>
+   <p> Petrini promisese o rĕsplată însemnată aceluǐ care va pune mâna pe hoţ.</p>
+      <gap unit="figure"/>
+<p>RĂNIREA luǐ DRAGOŞ</p>
+<p> Dar în zadar.</p>
+   <p> Maǐ multe zile trecură fără să se poată afla ceva.</p>
+   <p> Intr’una din zile, pre când Dragoş se afla găsduit la Nărtăşeştǐ, în casa luǐ Petrache Soare, locotenentul află că acesta este acolo împreună cu Mănăilă.</p>
+   <p> Chemă poteraşiǐ şi îǐ împrăştiă prin împre-jurimǐ, le comandă ca, dacă hoţiǐ nu vor voǐ să stea când eǐ vor striga staǐ! să dea foc fără nicǐ o cruţare.</p>
+   <p> Apoiŭ chemă pe primarul satuluǐ şi îl întrebă unde se află Dragoş.</p>
+<p> Primaru, care era prieten cu Dragoş şi care ştia unde el este ascuns, spuse că nu ştie dar să întrebe pe ajutor.</p>
+   <p> Trecu în odaia de alăturǐ şi chemă pe un român.</p>
+<p> —    Bădie.</p>
+<p> —    Ce e d-le Primar?</p>
+<p> —    Intr’o fuga la casa luǐ Petrache Soare.</p>
+<p> —    Prea bine.</p>
+   <p> —    Şi spune-ǐ că locotenentul e aci.</p>
+<p> —    Am înţeles.</p>
+   <p> —    Şi că poteraşiǐ sunt prin sat.</p>
+   <p> —    Iǐ spun toate. Şi românul plecă.</p>
+<p> Petrache Soare când află chemă pe Dragoş şi îǐ spusese.</p>
+<p> Dragoş se sfătui cu Mănăilă. Acesta luă un cal şi o porni prin josul satuluǐ, iar Dragoş se sui într’o căruţă uşurică a luǐ Petrache Soare şi plecă.</p>
+   <p> Kopeski, dupe ce maǐ vorbim primarul plecă spre poteraşǐ, când iată că, la marginea satuluǐ vede o căruţă alergând în goana cailor.</p>
+<p> Când privi bine recunoscu pe hoţ.</p>
+<p> — Dragoş! strigă el.</p>
+   <p> Apoiŭ într’o fugă alergă spre poteraşǐ şi dete ordin ca să se dea focurǐ.</p>
+   <p> Salve de puştǐ rĕsunară. Dragoş păru că se cleatenă, apoiŭ, caiǐ se speriară şi o luară într’o fugă nebună pe sosea.</p>
+<p> Când ajunse la marginea unuǐ crâng Dragoş sări din căruţă şi se afundă în pădure, iar caiǐ se depărtară în fugă nebună.</p>
+   <p> Locotenentul turba de necaz că nicǐ de astă dată nu l’a putut prinde viŭ saŭ mort.</p>
+<p> Dragoş, care era puţin rănit, se duse Ţepu unde trebuea să se întâlnească cu Mănăilă.</p>
+   </div>
+   <div type="chapter" n="19">
+<head> CAP. XVII.</head>
+<head>Prinderea şi moartea luǐ Dragoş.</head>
+   <p> In anul 1885 banda luǐ Dragoş maǐ făptui vre-o două treǐ spargerǐ, aşa că toată forţa po-liţienească era în căutarea luǐ.</p>
+   <p> In zadar se încercă locotenentul Kopeski să ’ǐ afle urma căcǐ nu maǐ putu da cu ochiǐ de el de când cu rănirea, pre când trecea cu căruţa prin Nărtăşeştǐ.</p>
+<p> Așa trecu anul 1885.</p>
+   <p> Tocmaǐ prin toamna anuluǐ 1886 fu scrisă prinderea şi moartea luǐ Dragoş.</p>
+   <p> Intr’una din zile, pre când el împreună cu toţǐ ceǐ-alţǐ în Ţepu, la Ilie Pohrib, Locotenen-tul Kopeski află că Dragoş era pe acolo.</p>
+   <p> — Acum, spuse locotenentul, primaruluǐ din Ţepu, trebueşte să prind cu orǐ ce preţ pe hoţ.</p>
+   <p> Trimise îndată un călăraş în goana caluluǐ în Tecuciŭ ca să dea de veste subprefectuluǐ Hasnaş ca să vie numaǐ decât împreună cu maǐ mulţǐ agenţǐ.</p>
+<p> Ioan Ungureanul, cel care trădase pe Dragoş spunând că se află în Ţepu, a venitt chiar în ziua aceia împreună cu Hasnaş subprefectul şi cu comisarul Iancu Boghin, din poliţia de Tecuciŭ.</p>
+   <p> Indată se deteră ordinile cele maǐ stricte, se puse strajă împrejurul arieǐ luǐ Pohrib, şi dete ordine ca orǐ cine se va arăta, dacă n’o să stea la ordin, să fie împuşcat fără nicǐ o vorbă.</p>
+   <p> Pohrib fu arestat şi cercetat unde se ascun-sese Dragoş împreună cu ceǐ-alţǐ.</p>
+   <p> El, neputând alt-fel, spuse că s’aŭ pitulat în-tr’o clae de fân în mijlocul arieǐ.</p>
+   <p> Atuncǐ poteraşiǐ, în cap cu Kopeski şi Hasnaş, se apropiarâ din ce în ce de arie.</p>
+<p>  Când ajunseră la clae cu fân, Kopeski strigă în gura mare:</p>
+   <p> —    Dragoşe, daţi-vĕ prinşǐ că e răŭ. Facem omor.</p>
+   <p> Dragoş eşi din clae şi, împreună cu el, toţǐ ceǐ alţǐ.</p>
+   <p> —    Puneţǐ mâna pe eǐ, strigă Hasnaş.</p>
+   <p> Intr’o clipă toţǐ fură legaţǐ fedeleş şi duşǐ într’o casă din sat.</p>
+   <p> —    In sfârşit, zise Kopeski, bine că am pus pe voǐ.</p>
+<p> Locotenentul se duse în sat de se odihni şi seara mâncă împreună cu sub-prefectul.</p>
+   <p> —    Eǐ ce zicǐ d-le sub-prefeet, zise locotenen-tul, ne-o maǐ scăpa eǐ acuma?</p>
+<p> —    Să ne scape ?.</p>
+   <p> —    Eǐ, nu e mirare...</p>
+<p> —    Cum aşa?</p>
+<p> —    Păǐ, rândul trecut nu a scăpat?..</p>
+   <p> —    M’aşǐ împuşca locotenente de s’ar întâm-pla aşa ceva... Ţi-o spun.</p>
+<p> —    De, nu e de glumit cu Dragoş, zise co-misarul Boghin.</p>
+   <p> —    Aţǐ pus poteraşǐ destuǐ împrejurul casiǐ întrebă Haşnas ?</p>
+   <p> —    Vre-o treǐ zecǐ.</p>
+   <p> —    Hoţiǐ sunt legaţǐ.</p>
+<p> —   Nicǐ că se pot mişca.</p>
+<p> —    Atuncǐ nu e nicǐ o frică.</p>
+   <p> —    Zăŭ, nu ştiŭ cum, zise locotenentul, dor până nu i-oǐ vedea în temniţa din Tecuciŭ par’că nu o să mĕ pot linişti.</p>
+<p> —    Locotenente o să te scap eŭ de grija asta... fi sigur..</p>
+<p> —    Cum aşa ?</p>
+   <p> —    O să vezǐ îndată. Şi piecă.</p>
+   <p> Ajunse în odaia unde Dragoş zăcea pe pământ legat în lanţurǐ grooaie de fier.</p>
+   <p> Acesta, cum vĕzu pe subprefect, zise :</p>
+<p> —    D-le subprefect, ordonă să mi se dea pu-ţină apă căcǐ crăp de sete.</p>
+<p> —    Apă vreǐ.</p>
+<p> —    Da.</p>
+<p> —    Ţine apă, zise subprefectul şi o armă de-tună în odae.</p>
+<p> Dragoş, fără să zică vre-o vorbă, fără să răc-nească, bătu aerul cu mâinele şi căzu jos trăsnit.</p>
+<p> Subprefectul se îndreptă spre casa unde era locotenentul şi, ajuns înăuntru, strigă în gura mare:</p>
+<p> —    Nu trebue să vă maǐ frică de Dragoş.</p>
+<p> —    Cum aşa, strigară de o dată ceǐ doǐ din odae.</p>
+<p> —    L’am împuşcat..</p>
+   <p> Toţǐ se cutremurară..</p>
+<p> Dragoş a fost îngropat într’o rîpă din apro-pierea satuluǐ Matca.</p>
+   <p> Şi astă-zǐ săteniǐ îşǐ aduc aminte de el.</p>
+   <p> Nimenǐ nu’ǐ bleastemă memoria.</p>
+<p> Era hoţ, dar era şi un om milostiv.</p>
+   <p> Fapta subprefecutuluǐ Hasnaş a fost o crimă. Ar fi trebuit tras înaintea Curţeǐ cu juraţǐ ca să se pedepséscă un asemenea omorîtor de ómenǐ</p>
+<p> Dragoş fura... Hasnaş a ucis.</p>
+<p> Dragoş a fost hoț...Hasnaş omorîtor.</p>
+<trailer>SFÂRȘIT</trailer>
+   </div>
+</body>
+  </text>
+</TEI>

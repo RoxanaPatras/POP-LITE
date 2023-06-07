@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HAIRO_PopescuND_MiulHaiducul" xml:lang="ro">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Miul Haiducul : ediție HAIRO</title>
+    <author> Popescu, N. D.</author>
+    <respStmt>
+     <resp>Codare TEI</resp>
+     <name>Roxana Patras</name>
+    </respStmt>
+    <respStmt>
+     <resp>Recorectat și citit de </resp>
+     <name>Alexandra Olteanu</name>
+    </respStmt>
+    <principal>
+     <name>Patraș, Roxana</name>
+     <name>Galleron, Ioana</name>
+    </principal> 
+   </titleStmt>
+   <extent>
+    <measure unit="words"></measure>
+    <measure unit="pages"></measure>
+   </extent>
+   <publicationStmt>
+    <publisher>Proiect HAIRO (U. "Alexandru Ioan Cuza"/ U. Sorbonne-Nouvelle)</publisher>
+    <pubPlace>Iași</pubPlace>
+    <pubPlace>Paris</pubPlace>
+    <date>2020</date>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by-nc/4.0/legalcode.ro">Distributed
+      under a Creative Commons Attribution-NonCommercial 4.0 Unported License</licence> 
+    </availability>
+    <idno type="handle">11280/8742a119</idno>
+    <distributor>NAKALA
+     <ref>www.nakala.fr</ref>
+    </distributor>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>Popescu, N. D.</author>
+     <title>Miul Haiducul. Nuvela originala</title>
+     <pubPlace>Brasov</pubPlace>
+     <publisher>Editura librariei Ciurcu</publisher>
+     <publisher>Tipografia A. Muresianu</publisher>
+     <date>1893</date>
+     <settlement>BCU Iasi</settlement>
+     <idno>103289</idno>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>Ediție electronică pregatită în cadrul proiectului franco-român HAIRO, PHC Brâncusi, 43462ZG.</p>
+    <p>This work was supported by a grant of the Romanian Ministry of Research and Innovation, CCCDI - UEFISCDI, project number PN-III-P3-3.1-PM-RO-FR-2019-0063 / 13 BM ⁄ 2019, within PNCDI III.</p>
+   </projectDesc>
+   <editorialDecl>
+    <p>Adnotarea efectuată se concentrează pe diviziunile structurale ale romanului (părți și capitole). Imaginile au fost omise.</p>	
+   </editorialDecl>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="ro">Româna</language>
+   </langUsage>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2018-09-28">Prima versiune TEI</change>
+   <change when="2020-08-07">Completare header și titlePage. Asociere cu schema TEI-all.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:lang="ro">
+  <front>
+   <titlePage>
+    <note>Biblioteca istorică populară română</note>
+    <titlePart type="main">MIUL HAIDUCUL</titlePart>
+    <titlePart>NUVELĂ ORIGINALĂ</titlePart>
+    <docAuthor>DE <lb/>N. D. POPESCU</docAuthor>
+    <note>ILUSTRATĂ CU 4 GRAVURI.</note>
+    <figure/>
+    <docImprint>
+     <publisher>EDITURA <lb/>Librăriei CIURCU</publisher>
+     <pubPlace>Brașov</pubPlace>
+     <pb/>
+     <publisher>Tipografia A. Mureșianu Brașov 1893</publisher>
+    </docImprint>
+   </titlePage>
+  </front>
+<body>
+ <div type="chapter" n="1">
+  <head>I. Banchetul apăsătorilor.</head>
+ <p>Într’una din serile de primăvară ale anuluĭ 1764, pe la ora în care poporul Bucurescĭlor sě zăvorea în case de frica arnăuților domnescĭ și de gróza pârcălabilor visterieĭ, trântorĭ în folosul cărora sě despoia săracul și vĕduva, sě adunau într’o casă din apropierea palatuluĭ la banchetul ce le da amanta luĭ Ștefan Vodă Racoviță. Gemea poporul, suspina vĕduva, plângea orfanul, însă Măria Sa petrecea bȇnd și chiuind în orgiĭ și desfrânărĭ, tocmaĭ în acele óre în care era dator să lucreze pentru binele comun și pentru interesele tronuluĭ ce ocupa. Și pentru ce să nu petrecă Vodă și favorițiĭ sĕĭ: Ștefan și Capuchehaiaoa Stavracoglu? pentru ce să nu benchetuiască și să nu sě îmbete ? Baniĭ nu eraŭ scoșĭ din punga lor, și după o nopte de beție urmeză totd’auna o zi de turlăcie, în care domniĭ și favorițiĭ sě întrec a subscri cu capetele amețite de vin decrete de noĭ contribuțiĭ, de noĭ greutățĭ și de noĭ resurse.</p>
+<p>Strâlucitóre era lumina ce eșia din ochiurile ferestrelor aceleĭ case, și mândră era mobilarea cămărilor sale, dar cu mult maĭ strălucită re, cu mult maĭ mândră era masa care sta întinsă într’una din cămărĭ. Vasele eraŭ de argint și ibricele de aur, iar mâncările eraŭ compuse din tot ce a avut maĭ gustos și maĭ aromatic bucătăria grecescă, iar běuturile din tot ce s’a găsit maĭ vechĭ, maĭ limpede și maĭ parfumat între vinurile ce produce dealurile Drăgășanilor și ale Odobescĭlor. Da mâna mesenilor să ospeteze așa de bine și să facă atâtea grele cheltuelĭ pentru orgiĭ, fiĭnd-că poporul de jos în mare parte sě culcase nemâncat.</p>
+ <p>Casa în care sě afla masa întinsă era mare și spațiósă peste měsură, dar golul în ea nu sě vedea nicăirĭ; perețiĭ eraŭ acoperițĭ de covóre scumpe, arme lucióse, oglindiĭ magnetice, draperiĭ  bogate și armoriurĭ pline de strălucitóre argintăriĭ; parchetul era peste tot ascuns sub alese chilimuri turcescĭ mol și odihnitóre pentru picior, iar laturile cameriĭ eraŭ împodobite cu nisce lavițe scump tapițate, pe care sě legănaŭ a lene fericițiĭ convivĭ împrejurul uneĭ mese plină de tâte scumpeturile.</p>
+<p>Fisionomiĭ bărbătescĭ care de care maĭ urîte, care de care maĭ respingătore, care de care maĭ străine tipuluĭ românesc, încunjuraŭ acestă masă bogată. Icĭ în capul mesei vedĭ un om gros și burtos cu nas mare și pleoștit, cu ochĭ micĭ pe jumětate închișĭ, cu buze late și pălite și cu fălcĭ gróse; el prin trăsurile luĭ îți spune că e de origine asiatică, mongolă saŭ tătară; cine scie ce turc l’o fi făcut să sě nască prin infectele înfundăturĭ ale Fanaruluĭ! dincoa lângă el cțărescĭ o ființă cu pěrul rar și roșu, cu capul țuguiat și nasul ascuțit, cu bărbia asemenĭ și cu gura armata cu un etern surîs sarcastic, care represintă via imaginară a lui Mefistofeles, în care recunoscĭ pe fanariot în totă puterea cuvântuluĭ; lângă el altă creatură ornată cu tote nuanțele tipuluĭ bulgar; maĭ încolo alțiĭ nu maĭ puțin urîțĭ și străinĭ tipuluĭ roânesc și în fine în capul meseĭ Ștefan Vodă astfel cum ni-l arată perețiĭ unei bisericĭ ridicată de rudele lui. Nicăirĭ acel frumos și nobil chip al Românuluĭ, nicăirĭ acea marțială și impuitóre înfățișare a boeruluĭ pământean. Sermană țeră, în ce timpurĭ ajunseseșĭ!</p>
+<p>Printre aceĭ șese saŭ șepte bărbațĭ, eraŭ preserate tot atâtea femeĭ, însă pe cât eraŭ de urîțĭ ceĭ dinteiŭ, pe atâta de frumóse eraŭ cele din urmă; cu totă degradarea lor de femeĭ întreținute, tot păstra acea frumsețe românescă remarcabilă în tot orientul. Tote eraŭ drăgălașe, tote fragede, tote pline de lipiciŭ; dar cea maĭ mândră, cea maĭ încântătore, cea mai frumósă era aceia ce sta lângă Ștefan și să rězima de umerile sěŭ, adecă Florica, amanta lui Vodă.</p>
+<p>Când am pětruns, iubite lector, în acest Eldorado al vițiuluĭ, masa era pe sfîrșit, bucatele în mare parte mâncate și multe ulcioră cu vin deșertate. Deja fumul vinuluĭ sě suise în creeriĭ celor maĭ mulțĭ din ospeți și fălcile celor maĭ tăcuțĭ sě descieștase. Să-ĭ ascultăm cu atențiune.</p>
+<p>— Mě jur, iubita mea, mě jur pe stema și buzduganul meŭ, striga Vodă legănându-sě răzi-mat pe umeriĭ iubiteĭ luĭ, că de-mĭ veĭ cere toți baniĭ ce vor fi strâns pârcălabiĭ de treĭ septemânĭ pănă adĭ, toțĭ vor fi aĭ teĭ ca să aĭ cu ce să-țĭ cumperi case, caĭ și moșiĭ, spre a fi vrednică de ceea ce eștĭ.</p>
+<p>— Îțĭ mulțumesc, dragul meŭ iubit, rěspunse amanta sa sărutându-l, îțĭ mulțumesc de averea ce-mĭ făgăduescĭ, dar....</p>
+<p>— Dar ce? draga sufletuluĭ meŭ.</p>
+<p>— ’mĭ este teamă că nu veĭ bine-voi a încuviĭnța gândul meŭ.</p>
+<p>— L’am încuviĭnțat maĭ dinainte; spune-l acum.</p>
+<p>— Mai bine decât să risipesc baniĭ pe caĭ, trăsurĭ, case și scumpeturĭ, bunurĭ trecětòre, aș fi bucurósă să ridic pe cósta unui munte și să îndestrez ca p’o mireasă aleasă o sfântă mănăstire.</p>
+<p>— Ha, ha, ha! esciamară în cor bărbațiĭ și femeile pufnind de rîs. Eștĭ neprețuită lele Flóreo; audĭ mănăstire ? Ce gând frumos! ce evlavie!</p>
+<p>— Tu? dise Vodă, tu o fată de lume, tu o copilă a nebuniĭlor, tu să clădescĭ mănăstirĭ?</p>
+<p>— Da, mărite Dómne, eŭ, aș voi, când ar fi și voința Mărieĭ Tale.....</p>
+<p>— Spune-mĭ ca vréĭ să-țĭ cumperĭ diamante, șalurĭ și palate, că vreaĭ să risipescĭ aur pe nimicurĭ și să arunci baniĭ pe fereastră, că te cred și îțĭ încuviințez nebunatica ta dorință, dar ca să clădescĭ tu o mănăstire!.... aș face o nerodie chiar dacă mĭ-așĭ închipui că e cu putință.</p>
+<p>— Intr’adevěr ar fi o nebunie dacă ar fi pentru mine, rěspunse curtesana mângâind cu albele sale mânĭ barba lui Ștefan; dar nu iubitule, nu o fac pentru mine ci pentru slava numeluĭ těŭ, pentru mântuirea sufletului teu. Voiŭ 50 de femeĭ să sě róge în genunche ziŭa și nóptea pe lespe-dele góle pentru sufletul těŭ.</p>
+<p>— Ce potrivită este astă hotărîre, observă rînjind Stavrache, cu o nópte de petrecere și plăcerĭ! Ia lasă pustiĭ lele Flóreo asemenea hotărîre, și spune-ne că vreĭ să adunĭ stare mare; aĭ dreptate să cerĭ asemenea lucru. Dóră nu eștĭ de surda iubita Măriĭ Sale și dóră M. Sa nu este de surda Domn peste astă țéră și stăpân pe averea sa și a noroduluĭ sěŭ.</p>
+<p>— Câțĭ banĭ îtĭ trebue, Florico? întrebă Vodă</p>
+<p>— De-o-camdată 5000 de pungĭ cu banĭ răspunse Florica acoperind cu nenumărate săruturi și desmerdărĭ pe Amphitronul sěŭ.</p>
+<p>— Stavrache, cât are să ne aducă Spiridon?</p>
+<p>— Doŭă miĭ de pungi M. Ta.</p>
+<p>— Numaĭ atâta? Rěmășița s’o rěspundĭ din Cămărășia mea.</p>
+<p>— Nu e maĭ mult decât 1000 de pungĭ.</p>
+<p>— Atuncĭ tu vistiere Ianache să împlinescĭ</p>
+<p>neajunsul din visterie.</p>
+<p>— Nu e decât atât cât trebue să trăiască slujitoriĭ lefegiĭ treĭ dile.</p>
+ <p>— Atuncĭ Vornice Androne, dă poruncĭ în județe d’a face cislă dreaptă peste boerĭ și brăslașĭ pentru 2000 de pungĭ; iar pentru 1000 de pungĭ gândește-te la o noŭă dajdie. La draciĭ pentru ce ne numim maĭ mariĭ asteĭ țěrĭ dacă nu va plăti ea plăcerile și nebuniĭle nóstre? Acum eștĭ mulțumită frumușica mea? adăógă adresându-sě cătră amanta sa.</p>
+<p>— Măria Ta, eștĭ un mare Domn, strigă curtesana radiósă; M. Ta facĭ ca și D-deŭ să-și aibă parte din folósele ce țera îțĭ aduce.</p>
+<p>— Eu sunt drept, împart fericirea mea cu ceĭ ce sunt împrejurul meu.</p>
+<p>După ce amanta ceru și amantul acordă, începu să sě audă în sală maĭ înteiŭ șopte între femeĭ și bărbațĭ, apoĭ chestionărĭ și în line vociferărĭ tempestuóse, carĭ semâna cu o curată ceartă. Icĭ audia-ĭ plângerĭ, suspine și imputărĭ, dincoa lingușirĭ, mângăerĭ și îtnbunărĭ, dincolo ordine și rugăciunĭ; în sfîrșit zarvă mare.</p>
+<p>— Dar asta ce-o mai fĭ? strigă Vodă smâcindu-sě din desmerdătorele brațe ale amanteĭ luĭ.</p>
+<p>— Ce să fie Măria Ta? rěspunse Stavracoglu; ia darul ce milostivirea Măriĭ Tale a hărăzit iu-M. Tale, a băgat sămență de zîzanie între femeĭ și pacea va fi prea amarnică pentru pungile nostre.</p>
+<p>— Ce e? replică Ștefan suridend?; vor și ele câte un dar? vor și ele a dura câte o mănăstire.</p>
+<p>— Noĭ M. Ta, rěspunse una din ele, suntem prea mici ca să ridicăm tocmaĭ nisce mănăstirĭ? dar nisce schitulețe.....</p>
+<p>— Spre pildă ca acesta în care vě chinuițĭ acum înaintea acesteĭ mese spre lauda Domnuluĭ? replică Vodă.</p>
+<p>— Cam așa, M. Ta, rěspunse femeile rîdend.</p>
+<p>— Ei bine, fie azĭ o zi de veselie și fericire pentru toțĭ; nu voĭŭ să věd nici o frunte încrețită. Vornice Androne, cisla și dajdia să sě înmulțească încă cu 3000 de pungĭ, 300 de fie-care, ce zicețĭ?</p>
+<p>— Să trăeștĭ, M. Ta, rěspunse femeile săltând de bucurie.</p>
+<p>După ce totă lumea sě împăca cu dărnicia domnescă, cupele reincepură a circula din mână în mână și vinul iar începu să curgă ca un isvor nesecat îu gâtul ospeților. Pustiul de vin însă nu este ca apa; el nu umple numaĭ folele ci merge prin óse, sě preumblă prin vine, circulă prin sânge și maĭ ales decât tote sě gogoță drept la creerĭ omuluĭ, unde face o învălmășelă și o neorendu-elă, încât omul sě face neom. Vicleanul de vin după ce hoinări prin tot corpul ospeților noștri, se suise și la creerî și zăpăcise pe bmeni așa de reu încât, iubite lector, dacă ar fi stat d’o parte în realitate, cum stai acum prin imaginațiune și te-ai fi uitat la ei al fi zis; „ce nebuni buni de legat copiĭ!“ ai fi vețut într’o parte pe Măria Sa sărind, jucând și serutându-se cu jupâniĭ și ju-pânesele; ai fi vezut într’altă parte pe marele Ca-puchehaia, Postelnicul Stavracoglu, numai în meși, ceacșirî și ilec, jucând giamparalele cu una din favorite și aruncând cu fesul în sus. Al fi vezut într’un loc pe marele vistiernic legat la cap cu șalul iubitei lui, bând șerbeturi și vin dintr’un papuc femeesc ; al fi vezut în alt loc pe marele vornic îmbrăcat femeesce, cu fața-ĭ zugrăvită cu fel de fel de boîele, făcend felurite scălâmbăturî demne de un comic de piață. ai fi vezut multe lucruri minunate și deșențate dacă ai fi văzut și pe femei, dar să ne oprim d’a spune ceva și despre ele și că le scuzăm săracele, gândindu-ne....., căci aiĭ băut d’o potrivă cu bărbațiĭ.</p>
+ </div>
+ <div type="chapter" n="2">
+<head>II. Prădătoriĭ prădătorilor.</head>
+<p>Nóptea înaintase și cu dênsa și orgia, încât pe la 10 óre europene toțĭ meseniĭ eraŭ bețĭ topițĭ și pe lângă eĭ începuse a sě îmběta și slugile. Pe când desordinea și desfrâul în acestă casă era la culme, în curtea domnescă, intrară prin diverse porțĭ doĭ òmenĭ înfășurațĭ în gióse mantale, din care unul călare pe un cal plin de spumă și asudelă.</p>
+<p>— Unde este Măria Sa? zise cel pedestru adresându-sě cătră un arnăut ce sta de santinelă la portă.</p>
+<p>— A eșit cu Postelnicul și maĭ mulțĭ boerĭ și nu s’a maĭ întors păn’acum, rěspunse acesta.</p>
+<p>— Vodă s’a culcat? întrebă celălalt pe un copil de casă ce moțăia în anticameră.</p>
+<p>— Ba nu, s’a dus la petrecere cu curtenĭ, rěspunse acesta reinchidênd ochiĭ.</p>
+<p>— Este la Florica, dise celălalt ducêndu-șĭ calul la grajd; mă duc să-l întâlnesc și să-ĭ spun ce mi-s’a întâmplat.</p>
+<p>— Alerg să-ĭ istorisesc aceia ce am pățit murmură celălalt.</p>
+ <p>Aceștĭ doĭ necunoscuțĭ eșind din palat pe unde aŭ întrat, se îndreptară spre casa unde Vodă sě lua la întrecere cu favorițiĭ sĕĭ luptându-sě cu beția și desfrânarea. La pórtă sě întâlniră față în față ți scóse câte o mică esciamație de mirare.</p>
+ <p>Aceștĭ doĭ necunoscuțĭ eraŭ unul Comisul Spiridon și celălalt spătarul Spanopolu; după ce sě salutară și îșĭ poftiră unul altuia séra bună, intrară înăuntru împreună și deschidênd ușa cămăriĭ în care era masa întinsă, remase în loc împetriț vědênd tabloul de disordine și de desfrîŭ ce li-sě presenta înainte. Sala de mâncare sě transformase într’un locaș infernal și meseniĭ într’un stol de demonĭ, carĭ nu maĭ cunosceaŭ nicĭ un sentiment de rușine și cuviĭnță omenéscă. Fiĭnțele care sě tăvăleaŭ în astă destrăbălată conrupțiune aveaŭ corpurile acoperite abia cu nisce strențe din vestmintele ce le avusese când s’aŭ pus la masăr iar restul strențelor gemiaŭ sortite de vin și alte běuturĭ pe jos pe unde le aruncase aceia, ce în paroxismul bețieĭ îșĭ sfâșiase hainele. Nu maĭ esista nici pudórea secsuale, nicĭ distindiiune ierarhică; Vodă, boerĭ, țiitóre, slugĭ, slujnice toțĭ într’una amestecătură sě svârcoleaŭ sub îmboldirea îndobitócitoreĭ bețiĭ. Pe masă nu maĭ rěmăse decât scândurile gle; talere, vase, lingurĭ, cuțite, pahare, cupe, ibrice, tipsiĭ, blidurĭ, tóte fusese întrebuințate ca proiectele de împroșcare spre a fi aruncate în oglindĭ, în giamurĭ și în tot ce s’a găsit maĭ scump și mai frumos în acest cuib al desfrânăriĭ. Când a intrat noiĭ venițĭ, împroșcarea, era în furia sa și Vodă striga cât îi lua gura.</p>
+<p>— Aruncațĭ, băețĭ, că mâne le fac și maĭ frumóse; dațĭ de foc și trăiască vinul, cheful și veselia.</p>
+<p>— Măria Ta, obiectà favorita, care, cu tótă beția, tot simțea părere de rěŭ pentru stricăciunile ce i-sě causa.</p>
+<p>— Ce tânjeștĭ.... fa Florico? balbutea Vodă věrsând o cupă cu vin mai mult pe haine decât, în gură; țĭ-e milă de ce sě răpune ? Să n’aĭ témă fata mea..... lasă-ne să chefuim, că mâĭne.... cum am spus, le veĭ avea și maĭ mândre.... Vaca e lăptósă....</p>
+<p>— Nu tânjesc, iubitule, dar ’mĭ-e milă.</p>
+<p>— Ba nu, îțĭ este témă că va înțărca?... Nu aĭ grije; cât va fi Cehan în Bucureștĭ și Turciĭ la Țarigrad, vaca nu va înțărca. Cel d’aicĭ va mulge-o... și ceĭ d’acolo va suge-o...; să trăiască plóconele și bacșișurile...</p>
+<p>— Să trăiască Țéra Românéscă, esclamă céta bețivilor, deșertând cupele cu vin și aruncându-le în cotro apuca.</p>
+<p>— De, vornice, că mě lovescĭ! bagă de semă și deschide ochiĭ, obiectă unul din noiĭ venițĭ.</p>
+<p>— Cine eștĭ mojice?... îngână Andronic voind să sě scole și cădênd pe sofa lêngă ibricul ce ținea în brațe.</p>
+<p>— Rěŭ te-a luat sfântul! nu mě maĭ cunoscĭ ? Dar ce’mĭ stric eŭ vorba de giaba; nu e chip sě ne cunoscețĭ în halul în care vě găsițĭ; nu putețĭ nici să vě dațĭ cu degetele în ochĭ.</p>
+<p>— Unde e M. Sa? întrebă celălalt pe Stavrache.</p>
+<p>— Ce dicĭ?... de unde viĭ Huseine?... și eŭ, cum vezĭ bine pace... acesta fu rěspunsul mareluĭ Capucbehaia.</p>
+<p>— Aicĭ e iadul, esciamă Spiridon.</p>
+<p>— Eĭ chefuiaŭ, pe când eŭ mort de fome gemeam de groza morțiĭ! murmură suspinând Popanopolu.</p>
+<p>— Ce? ți s’a întêmplat și ție ce mi s’a întêmnlat si mie?</p>
+<p>— Ce, óre aĭ pățit și tu ce-va?</p>
+<p>— D’apoĭ! n’aĭ ghicit după starea în care mě vedĭ?</p>
+<p>— In halul în care sunt aceștia nu vedeam nimic de cât mișelia lor; ia să căutăm și noĭ pe aicĭ ce-va de mâncare și băutură, și, ospětând intrăm colț, să ne povestim întâmplările. O fi destul post o ajunare de doŭě dile.</p>
+<p>— Și treĭ nopțĭ, replică Spiridon, scoțênd dintr’un dulap câte-va tipsiĭ pline cu bucate și câ-te-va ibrice pline cu vin, carĭ, mulțumită slugilor, scăpase în dulap de sortea celorlalte.</p>
+<p>— Istorisesce-mĭ maĭ întâiu D ta, iubite Comise, dise Spanopolu, umplându-șĭ lăcomesce gura cu bucatele ce i sě puse înainte; spune-mĭ așa să trăescĭ ce întâmplare nenorocită te-a făcut să te înfățișezĭ la Curte la ăst ceas și în halul în care te věd?</p>
+<p>— Eĭ! esciamă suspinând Comisul, din ce primejdie m’a scăpat Sfântul Spiridon! ce era să pat! când mě gândesc uite mi sě sburlesce părul de groză. Să vedĭ frate, din porunca domnescă plec prin județele muntene să priveghez asupra sțrângětorilor de dăjdiî și să mă încredințez despre plângerea unor moșnenĭ pentru împlinirea unor lude nedrepte.</p>
+<p>— Te veĭ fi apucat să daĭ dreptate opincarilor și ceĭ strânșĭ în ușe... vědênd că ghelilurile li-sě duce, s’o fi apucat să te piségâscă.</p>
+<p>— Așĭ! țĭ-aĭ găsit; feréscă D-deŭ: eram nebun să daŭ nas mojicilor? din potrivă am găsit plângerea nedreaptă și vrednică de o globire însemnată, și fiĭnd-că sě întêmplase să iaŭ din greșeală pecetia caseĭ domnescĭ cu mine, îndemnat de uniĭ și alțiĭ, ca să astup gurile unor cĭocoĭ a căror credință îmĭ era trebuinciósă.....</p>
+<p>— Aĭ meșteșugit câteva pitacurĭ de lude orĭ scutelnicĭ, și mocofaniĭ de țeranĭ aŭ îndrăsnit să sě crédă nedreptățiți șĭ aŭ.....</p>
+<p>— Nu, săraciĭ, ei au mîrăit puțin dar aŭ plătit ca popa. Astă împlinire iconomicósă, pe lângă 3000 de pungĭ drept al visterĭ ei, a adus caseĭ domnescĭ 4000 de pungĭ, ciocoilor meĭ peste 2000 și chiseleĭ mele.....</p>
+<p>— Vre-o șése miĭ?</p>
+<p>— Tocmaĭ; veniam împreună cu astă sumă care se odihnia în chichița butceĭ mele, liniștit și mângâiat în sufletul meŭ, că am avut noroc să fiŭ folositor țěreĭ și Domnuluĭ meŭ; mě uĭtam pe ferestrele trăsureĭ la pământurile cele góle de sěmănăturĭ și la livedile cele mai lipsite de róde și finețe și diceam în mine: De unde să fi adunând astă glótă de mojicĭ mulțimea banilor ce sě cheltuesc pentru îndeplinirea plăcerilor nóstre? Pămêntul nu le maĭ dă róde; par’că și Dumnedeŭ s’a mâniat pe eĭ de când noĭ.... eram să maĭ zic ceva, dar fuĭ întrerupt de un glas gros și sělbatic care îmĭ tuná la ureche: — Opresce saŭ eștĭ mort. Vizitiul opri și dete dosul într’un tufiș, asemenea și cĭocoiĭ dela spate, iar eŭ mě uĭtaĭŭ înfiorân-du-mě în juru-mĭ să věd ce e și unde eram. Intrasem într’o limbă de pădure întunecósă și tocmai coteam să suim un muscel încunjurat de locurĭ prăpăstióse. Sórele asfințise și umbra înde-sându-sě, începuse a sě schimba într’un adevărat întunerec; cu tóte astea nu era încă nópte, puteam să věd în destul de bine tot ce era împrejurul meŭ. Ce era! mě sbîrlesc când mě gândesc: era maĭ întêĭŭ la o ușe a butceĭ o namilă mare de mocan vênos și mustăcios ca un cleft de Te-salia, era încă șépte opt, nu tocmaĭ de talia luĭ, dar îndestul de îngrozitorĭ la spatele luĭ și, la cealaltă ușe și înaintea cailor maĭ era..... o mulțime de arme, puscĭ și măciucĭ înfierate carĭ luceau în mânile unor uriașĭ. Tote astea vezendu-le înmărmurim și în inima mea dăduĭ dreptate vizitiuluĭ și celor doi arnăuțĭ dela codîrlă, că aŭ fugit de groza lor și s’aŭ răsnit prin pădure; ași fi făcut și eŭ ca eĭ, dacă ași fi avut răgaz.</p>
+<p>— „Dă-mĭ baniĭ ce aĭ asupră-țĭ ciocoiule și gătesce-țĭ pelea pentru scuturare, urlă ca un tunet nămila cea mare, scoțêndu-mě val-vertej din butcă.</p>
+<p>— „N’am banĭ, rěspunseiŭ eŭ, mě jur.</p>
+<p>— Nu minți cocliĭnțule că te schilodesc; jurămintele în gura ta sunt ca laudele în gura unuĭ șarlatan; scote baniĭ.</p>
+<p>— „Am avut baniĭ stăpâniriĭ, dar nu-ĭ maĭ am la mine.</p>
+<p>— „Ia scotețĭ băețĭ fiarele și ațițați focul.</p>
+<p>Cum auziŭ astă poruncă îngrozitore, înădușiiŭ rece și ne maĭ sciind ce să fac, dăduiŭ cu mâna mea toți banișoriĭ; și p’aĭ visterieĭ și p’aĭ luĭ Vodă, oh! și p’aĭ meĭ afurisituluĭ de tâlhar care nu sě mulțumi numaĭ cu baniĭ ce mĭ-a furat, ci mĭ-a muiat și ósele cu vre-o câteva ciomege. După părerea unora din tâlharĭ eram să fiŭ chiar spânzurat, însă hoțul cel mare nu s’a înduplecat la acesta, ci mĭ-a dat drumul în halul ce mě vezĭ.</p>
+<p>— „Sunt marele Comis, strigaiŭ eu cŭ mânie, după ce scăpaiŭ din mânile lor, vețĭ vedea voĭ ce vě va aduce nerușinarea ce a-țĭ avut a vě atinge de un boer de rangul meŭ.</p>
+<p>— „A! eștĭ mare comis! strigă hoțul, lipitóre maĭ mare decât credeam; punețĭ iar mâna pe el și după ce îl vețĭ așterne iară la pămênt, maĭ dați-ĭ vr’o 25, ca să afle Ștefan. Vodă, cum Miu haĭducul pedepsesce pe streiniĭ carĭ sě fac marĭ și tarĭ în țera luĭ. Nebunia ce avuseiŭ d’a mě lăuda cu rangul meŭ, aduse încă o ploie de cĭomege pe spinarea mea; după ce mile dete și pe acestea mě făcură scăpat și mě lăsară a me tîrî pe jos pănă aicĭ.</p>
+<p>— Aĭ pățit’o întocmaĭ cum am pățit’o și eŭ tot dela acelașĭ tâlhar.</p>
+<p>— Și Dumneata?</p>
+<p>— Tocmaĭ, cu mică deósebire că eŭ eram trimis să adun zaherele pentru împěrăția turcescă.</p>
+<p>— Ce? Turciĭ aŭ rěsboiŭ cu cineva?</p>
+<p>— Nu sciŭ și nu cred, M. Sa mĭ-a dat poruncă în ast chip, trebue să fi avênd vre-o noimă porunca sa.</p>
+<p>— Spre pildă vre-un plocon.</p>
+<p>— De ce nu merinde pentru cămara sa și a boerilor sěĭ?</p>
+<p>— Saŭ marfă, care, dusă la Brăila și vendută la Turcĭ, să se facă banĭ gata numai într’o clipă? Dar nu-țĭ uita vorba.</p>
+<p>— Veniam călare pe calul ce lăsaiŭ adineaorĭ la palat înaintea a 12 pandurĭ tot unul și unul și în urma a vr’o 20 de carě încărcate sciĭ colea doldora cu unt, slănină, păsěrĭ, vițeĭ, nucĭ,  porcĭ, venaturĭ, lână, mĭere; mi-sě rupe inima când mě gândesc, fiĭndcă șése carě încărcate cu  tot ce era maĭ bun le iconomisisem pentru mine și prieteniĭ meĭ! Insă la un gât de munte, între un perete drept ca zidul și o prăpastie întunecósă, carele statură, boiĭ se dejugară și țěraniĭ fugiră gonițĭ de vre-o treĭ-decĭ de necurați de haĭducĭ carĭ aveaŭ în frunte-le tot o namilă mustăciósă, ca ceia care te-a bușit pe D-ta....</p>
+<p>— Era póte tot el! tot el și pe D-ta!</p>
+<p>— Așa, alaltă-erĭ....</p>
+<p>— Și pe mine erĭ....</p>
+<p>— M’a despoiat.....</p>
+<p>— Ca și pe mine și tot ca pe mine te-a cotonogit.</p>
+<p>— Hoțiĭ de pandurĭ, în care mě încredeam ca în nisce adeverați smeĭ de vitejie, aŭ fugit rîdend de mine; ba încă cum am priceput s’aŭ dat în partea lor.</p>
+<p>— Ce sa te aștepțĭ dela nisce mojicĭ de Români!? aŭ eĭ vr’o rază de evghenie saŭ omenie? De câte-orĭ i-am dis luĭ Vodă ca să desfiĭnțeze și astă urmă de óste românescă.</p>
+<p>— Abia am scăpat din mânile lor rupt de ostenélă și pisăgélă și mě puseiŭ pe alergătură într’una prin munțĭ pănă ajunseiŭ aici.</p>
+<p>— Și aicĭ iată ce găsișĭ.</p>
+ <p>— Vaĭ! în loc d’a fi la minut isbândit de rușinea ce am pățit; de despuere, prădare, bruftu-ială și huĭduială, acela ce a fost chemat de hoțĭ fățișĭ la luptă, veiți-l, să tăvălesce cu aĭ sĕĭ în tină....</p>
+<p>— Cam aŭ dreptate câte-odată mojiciĭ de Românĭ; noĭ pe noĭ ne perdem. în loc d’a strânge banĭ albĭ, pentru dile negre, iată pe ce sě clieltuesc baniĭ!</p>
+<p>— Ce să dicĭ frate? reluá după puțină gândire Comisul, este dulce bunul traiŭ, și vinul dealurilor ăsteĭ țěrĭ este atât de gustos și limpede încât nicĭ o fire, fie chiar de schimnic, nu póte a sě înfrâna d’a nu gusta. Cum să nu beaĭ pănă să aruncĭ cu fesul în sus? adăogà el uitându-sě la un pahar pe jumětate plin; par’că este chihlibar topit saŭ nisip de aur, nu poțĭ să nu beaĭ frate....</p>
+<p>— Aĭ dreptate, rěspunse Spătarul imitând pe Comis; traiul bun este drăgăstos și běutura plăcută, maĭ ales după ceia ce ni s’a întâmplat noă; însă și întregimea mințiĭ ne este trebuinciósă în o țéră ca asta unde tot ce este păměntean ne urăște.</p>
+<p>— Ah ! bănișoriĭ meĭ! esciamá suspinând Comisul după ce běŭ o cupă întrégă, dacă i-aș fi scăpat, aș fi plecat cu eĭ în Țarigrad spre a mě mântui de atâta grije și frică.</p>
+<p>— Ah! merindele mele cele gustóse! murmurá Spătarul sugênd pănă în fund tot vinul dintr’un ibric, dacă le-așĭ fi făcut banĭ mě îmbogă-țiam în destul ca să scap și pe nepoțĭ de calicia strămoșiască.</p>
+<p>Pe când aceștĭ noĭ óspeți continuaŭ d’a mânca, d’a bea și de a presěra desele lor libațiunĭ cu nenuměrate regreturĭ de cele ce aŭ perdut și cu neaudite blasteme pentru ceĭ ce i-aŭ jefuit,  boeriĭ împreună cu femeile, slugile și însășĭ M. Sa, obosițĭ de împroșcaturile, sbieretele și tote nebuniĭle la care-ĭ împingea beția, sě lăsase a fi învinșĭ de obóseală și adormise pe unde apucase să cadă; într’ast timp Spătarul și Comisul beaŭ într’una și prin desele închinărĭ începuse și eĭ să se apropie de starea stăpânuluĭ și a cămărazdlor lor, și să înceapă a vedea stele verdĭ înaintea ochilor și a vorbi peste câmp.</p>
+<p>— Comise, dise Spătaru, ciocnind cu paharul, închin în sănătatea ta.</p>
+<p>— Ba în a M. Sale.</p>
+<p>— Pentru Domnĭ.... să nu închinĭ decât când aude; M. Sa.... acum....</p>
+<p>— Bine dicĭ; atuncĭ dar închin, ghîcĭ pentru cine ?</p>
+<p>— Apoĭ.... doiă nu pentru Miu.</p>
+<p>„M. H.“</p>
+<p>— Tocmaĭ pentru el, pentru Miu haĭducul, prădătorul.....</p>
+<p>— Prădătorilor, întrerupse Comisul bênd ca și Spătarul paharul pană în fund și rîdênd ca toțĭ bețiviĭ, adecă ca un năuc.</p>
+ </div>
+ <div type="chapter" n="3">
+<head>III. Sora și amanta.</head>
+<p>Vodă fu cel dintâĭ, care dete semnalul de deșteptare din toropeala bețieĭ. Florica îl urmă îndată, iar ceĭlalțĭ boerĭ făcură ore-care mișcărĭ și scóse ore-care sunete nearticulate fără să sě deștepte. Aburiĭ vinuluĭ încă nu eraŭ împrăștiațĭ din jurul creerilor M. S.; ochiĭ sěĭ tot nu vedeaŭ lucrurile cum eraŭ; cu tote astea privirea lor sě ațintiră, pote din întâmplare, spre ceĭ doĭ boerĭ dațĭ de curênd în brațele bețieĭ, și vědêndu-ĭ că staŭ încă în picióre i-sě păru ceva straniŭ, și după ce sě uită la eĭ o clipă într’un mod zăpăcit, sě frecă la ochĭ ca un om sculat după somn și apoĭ dse :</p>
+<p>— Eĭ! hâĭ! dar cine e acolo?</p>
+<p>Boeriĭ audind vocea detunătóre a stăpânuluĭ, să înfiorară și desmetecindu-sě pe jumětate rěspunseră apropiĭndu-sě.</p>
+<p>— Noĭ suntem, M. Ta.</p>
+<p>— Cine suntețĭ voĭ?</p>
+<p>— M. Ta nu binevoesce a ne cunosce?</p>
+<p>— Nu, să vě ved.</p>
+<p>— Eu sunt spătarul Spanopolu.</p>
+<p>— Și eŭ comisul Spiridon.</p>
+<p>— Așa, da, voĭ suntețĭ, rěspunse Vodă căscând; unde ațĭ fost voĭ mișeilor? Nu v’am vědut. de mult.</p>
+<p>— Nu-șĭ aduce aminte M. Ta, dise comisul că am fost trimis din porunca M. Tale să prive-gliez și să aduc baniĭ după dăjdiĭ?</p>
+<p>— Da, da, îmĭ aduc aminte.</p>
+<p>— Și că eŭ, rěspunse Spătarul, am fost orênduit să merg a strînge zalierea împěrătescă.</p>
+<p>— Mĭ-aduc aminte bine; unde sunt baniĭ? unde e zahereaŭa?</p>
+<p>— Oh! Măria Ta!</p>
+<p>— Aiĭ! stăpâne!</p>
+<p>— Ce fel pěcătoșilor? n’ațĭ putut să strângețĭ nimic? o să puĭ să vě spânzure.</p>
+<p>— Ertare, M. Ta, strigară amêndoi cădênd în ghenunchĭ și desbătându-sě cu totul după ce audi măgulitorea promisiune ce le făcu Vodă'.</p>
+<p>— Am adunat maĭ mult decât mě așteptam zise Comisul, însă am avut pe drum o rea întêlnire; vestitul hoț Miu mĭ-a eșit înainte, a pus în gonă toțĭ slujitoriĭ de care eram ocolit și mĭ-a luat tot, tot tară să-mĭ dea nimic.... ba mě înșel, mi-a dat destule; spinarea mea pote mărturisi.</p>
+<p>— Te-a bătut?</p>
+<p>— Da, M. Ta.</p>
+<p>— Bine țĭ-a făcut; dar nu, nu cred să fie un lioț așa de îndrăsneț încât să sě atingă de averea mea, avere doinnescă; maĭ bine spune drept, hoțule, că ia-ĭ ascuns tu baniĭ cu gând d’a mă amăgi; te-aĭ amăgit însă singur, sărace; voĭ sci eŭ să te fac să-ĭ scoțĭ chiar din gaură de șarpe.</p>
+<p>— M. Ta, iartă-mě, nu mě învinovăți pe nedrept, dacă i-așĭ fi oprit eu n’aș fi îndrăsnit să mě înfățișez înaintea M. Tale, căcĭ sciam bine că mă așteptă gâdea și ștreangul, ci fugeam peste hotar la Turcĭ sau la Nemțĭ.</p>
+<p>— Destul; dar tu Spătare, și tu aĭ fost jefuit?</p>
+<p>— Da, M. Ta, rěspunse Spătarul atingend cu fruntea parchetul.</p>
+<p>— Și bătut?</p>
+<p>— Da, M. Ta.</p>
+<p>— Tot de Miu?</p>
+<p>— Tot. Ah! M. Ta, nu numaĭ că am fost despuiat și bătut, dar și huĭduit, eŭ și M. Ta, de tâlhar, de tovarășiĭ luĭ și de toțĭ țěraniĭ și poterașiĭ ce mě însoțiau, carĭ m’au părăsit ca nisce mișeĭ.</p>
+<p>— Cine e ăsta Miu haĭducul? strigă cu voce detunătóre Vodă ridicându-sě în sus; ăst Miu care nu sě sfiește d’a înfrunta drepta mea mânie și d’a jefui avutul meŭ?</p>
+<p>Atuncĭ când audĭ vorbele lui Ștefan și numele lui Miu, Florea sě desmetici cu totul din letargia bețiĭ și simțind fiorĭ recĭ prin tot corpul, ascultă cu atențiune aceea ce avea să maĭ vorbescă.</p>
+<p>— Este un țěran, M. Ta, rěspunse Comisul, un Român prost un opincar, care împreună cu vr’o 20 ca el s’a ridicat cu arma împotriva stăpâniriĭ și a Grecilor, și prin codriĭ, munțě, strîmtorě și drumurĭ marĭ, fac un crâncen resboĭ cu toțĭ omeniĭ stăpânireĭ și cu toți greciĭ ce întêlnesce.</p>
+<p>— Și nimenĭ nu l’a pedepsit pănă acum?</p>
+<p>— Cine pote? el este iubit de țeranĭ, ocrotit de Românĭ și chiar de boeriĭ pămêntenĭ, fiĭndcă lor nu le face nici un rěŭ.</p>
+<p>— Așa dar acel obrasnic s’a ridicat numaĭ împotriva Grecilor? Apoĭ nu scie el că cine se ridică împotriva Grecilor, împotriva mea să ridică și cine se ridică împotriva mea cu amar piere? Audițĭ, boerĭ D-v. audițĭ că un mojic s’a ridicat cu arma în mână ca să sě rěsboiască cu mine și nu vě sculațĭ ?</p>
+<p>— Ba încă, adaogă Comisul, v’a chemat la luptă în codrul munteluĭ Crinul, zicêndu-mĭ: „Du-te de spune Domnului těŭ dela oraș, că Domnul Codrilor îl chiamă la luptă ca să sě scie, care e maĭ tare, adecă maĭ vrednic d’a domni.“</p>
+<p>— Audițĭ afronturĭ ! urmă Vodă aspumând de mânie, va să zică suntem luați în rîs, batjocorițĭ, huĭduițĭ și jefuițĭ, și voĭ boerĭ nu vě sculațĭ? Aide nătîngilor; lăsați beția și lenea, și ridicați-vě cu mic cu mare și apěrați-ně, isbândiți-mě, că pe voĭ vě apěrațĭ și isbândițĭ.</p>
+<p>Ast apel puse în picióre pe tbtă fiĭnța vie din acea cămară.</p>
+<p>— Luați orĭ-ce armă, urmă Vodă, adunați-vě prietiniĭ, slujitoriĭ și scutelniciĭ, și în faptul zileĭ fițĭ gata de drum că am de gând să fac o vênătóre prin munțiĭ Crinuluĭ. Florico, și tu veĭ merge cu noĭ; veĭ fi alăturĭ cu mine, veĭ fi apěrătorea mea, copilul meŭ de casă, paěza mea. Voiŭ ca mâna ta de femeie să ucigă pe acel obrasnic nerușinat.</p>
+<p>— Mě iartă, Mărite Domne, rěspunse amanta căcțend la ghenunchele luĭ Vodă cuprinsă de un tremur nervos; eŭ.... cum scie M. Ta.... cum a binevoit M. Ta să-mĭ dea voe, mâne plec la Mănăstirea dintr’un lemn ca să staŭ acolo pănă după sfânta înălțare, spre a milostivi pe sfânta Fecioră asupra pěcatelor mele.</p>
+<p>— Veĭ merge după întorcere.</p>
+<p>— După ce mě voiŭ mânji de sânge? după ce mě voiŭ îngreuna cu un pěcat și maĭ neertat ?...</p>
+<p>— Pentru ce tremurĭ așa? o întrebă Vodă mângăind’o, te silesc; sciĭ că voile tale sunt și ale mele. Ce să zicĭ? femeie și las’o în pace! Așa sunt tote.</p>
+<p>— Ba mě iartă Măria Ta, rěspunse una din femeĭ, nu sunt tote așa ; eŭ voiŭ merge d’așĭ scĭ că mě voĭŭ înămoli în sânge pănă la ghenunche.</p>
+<p>— Și eŭ, și eŭ, rěspunse tote femeile.</p>
+<p>— Atuncĭ fițĭ tote gata d’a încăleca pe caĭ mâne la nămezĭ, dise Vodă; tu Floreo du-te unde vreĭ ; pănă atuncĭ să plecăm pe la sălașele nostre ca să ne maĭ odihnim, și poimâne seară... . în munțiĭ Crinuluĭ.</p>
+<p>— În munțiĭ Crinuluĭ, rěspunse în cor mulțimea.</p>
+<p>— Eŭ voĭŭ fi înaintea vostra, murmură Florica îndată ce rěmase singură. Neagule, Neagule, adăogă bătend cu putere din palme în prada uneĭ agitațiunĭ nervóse.</p>
+<p>O ușe ascunsă sě deschise și un alt om înalt, voĭnic și mustăcios sě înfățișă înainte-ĭ.</p>
+ <p>— Neagule, urmă Flbrea, fratele meŭ, și căpitanul těŭ, este în primejdie mare. Vodă și aĭ sĕĭ s’aŭ jurat să-l răpue; te îndurĭ tu ca să-l lașĭ să piară?</p>
+<p>— Ferâscă Dumnedeŭ, rěspunse Neagu, mor eŭ maĭ bine decât să piară el.</p>
+<p>— Atuncĭ credinciosul meŭ prietin, pune șelele îndată pe doĭ din ceĭ maĭ iuțĭ caĭ de călărie, pe ceĭ ce mi i-a dăruit Miu, și scoteĭ afară din curte lângă porta din grădină. Tebue ca pănă mâne seară să fim în munțiĭ Crinuluĭ ' măcar d’am plesni și noĭ și caiĭ de sub noĭ.</p>
+<p>— Vom fi, stăpână....</p>
+ </div>
+ <div type="chapter" n="4">
+<head>IV. Codru Crinului.</head>
+ <p>Să lăsăm pe Ștefan Vodă și pe boeriĭ sĕĭ să sě culce cu tignă în paturile lor de rěpaus ; să lăsăm și pe Florea să alerge cu credinciosul sěŭ. Neagu în găna focoșilor lor fugacĭ spre partea unde o ducea dorul sěŭ, și să suim cu ncprege-tare întortocliĭatele și primejdiósele plaiurĭ, carĭ conduc la culmea Crinuluĭ, spre a face cunoscință cu aceĭ cutezătorĭ muntenĭ, carĭ au îndrăsnit să răpescă jafurile domnescĭ chiar din mânile iluștrilor prădătorĭ.</p>
+<p>Culmea Crinuluĭ, nu este tocmaĭ o culme de munte, ci numaĭ un verf de muscel, însă acel verf este apěrat parte de o mulțime de prăpăstiĭ și de potecĭ alunecóse, parte de torente repedĭ și spumegóse, parte de bolovanĭ de stâncĭ și de trunchiurĭ de copacĭ aruncațĭ în cale, și parte de-o pădure virgină bětrână ca și muscelul pe care crescuse. Arboriĭ acesteĭ speluncĭ întunecóse d’o grosime nepomenită formaŭ din neměsuratele lor crăcĭ ce să întâlneau și să împreunaŭ încolăcindu-sě cu crăcile vecine, și din desele lor frunze, un acoperemînt așa de des și așa de umbros, în cât prin el nu putea pětrunde nicĭ rază de sbre nicĭ spic de plăie.</p>
+<p>In partea cea maĭ întunecâsă a acestuĭ obscur colnic, a doŭa nopte după orgia domnescă, staŭ rěsturnațĭ pe iarbă vr’o 12 inșĭ încunjurând un foc mare, d’asupra căruia sě frigea un berbece. Fisionomiĭle astor indivisĭ, în loc d’a ti urîte, bărbóse, crunte, îngrozitóre și sělbatice, cum sunt descrise fisionomiĭle companionilor luĭ Robert Maker, Fra Diavolo, Pujoletc., eraŭ frumóse, vesele și pline de vioiciune, ca cum ar fi fost ale unor bravĭ voluntarĭ carĭ vědênd patria suferindă, aŭ lăsat case, părințĭ, surorĭ, logodnice, neveste și copiĭ spre a lua în  mânĭ armele ca să gonescă pe străinul usurpător. Toțĭ aceștĭ indivizĭ pănă acum noŭě necunoscuțĭi eraŭ înalțĭ și bine făcuțĭ, cu lungul lor per peptănat, cu mustățile lor (mari sau mici după etate), bine îngrijite, cu bărbile lor bine rase și cu vestmintele lor țărănescĭ simple dar forte curate. Fie-care dintr’inșiî aveau mijlocul încins cu câte un brîu roșu, albastru sau verde, și fie-care brîu avea înfipt pe lângă copse câte un cuțit mare și lat vîrît în teacă și câte trei patru pistole umplute cu glonțe și cu cremene la oțele.</p>
+<p>Pe lângă aste arme, se mai zărea câte o pușcă mare cu câte două țevi ră^ămată de arborul ce era mai aprope de stăpânul ei și câte o dolofană de gliĭogă sciî tocmai bună de dat la mir. Acești îndizî era o parte din ceata lui Miu Haiducul.</p>
+<p>în minutul când am introdus pe lector în tabăra lor, căpitanul lipsea, prin urmare dânșiĭ vorbiau mai cu multă libertate și mai cu lesnire își deschideau băerile inimilor lor. Să-î ascultăm :</p>
+<p>— Gras berbec avem pe foc astă nopte, măĭ vere Ghinea! dise unul din haĭducĭ înțepând cu vârful cuțituluĭ sěŭ pelea cea rumenă a fripturei, ce sě învârtea pe cărbunĭ ; par’că ar fi fost însășĭ căpitanul pe la stâne. Cum s’a întâmplat d’aŭ fost ciobaniĭ astă seară maĭ darnicĭ ca altă dată?</p>
+<p>— Eĭ, eĭ ! rěspunse Ghinea, rěsucindu-șĭ mustața și arătându-șl dințiĭ ca cum ar fi vrut să surîdă, cerbicia și sgârcenia sě maĭ încovoie și ele câteodată înaintea nevoi.</p>
+<p>— Cum ? obĭectară haĭduciĭ rîdând, ăst grăsun?</p>
+<p>— Era păstrat de bacĭul cel mare pentru sěmânță.</p>
+<p>— Și tu l’ai cĭordit? replică cel ce făcuse prima întrebare.</p>
+<p>— Omul hotărăsce dar Dumnedeŭ împlinesce.</p>
+<p>— Ce spuĭ? l’aĭ făcut pul de gĭol? întrebă al doilea haĭduc.</p>
+<p>— Ba nu l’am luat pe sub ipingea, cu tote beheiturile luĭ, l’am junghiat, l’am spintecat și după ce l’am cusut la loc cu pele cu tot, l’am tras într’astă frigare de corn.</p>
+<p>— Și.... l’aĭ pus să sě frigă; dar căpitanul ce va dice?</p>
+<p>— Va mânca, îșĭ va linge degetile, va lăuda dărnicia bunilor luĭ mocanĭ și va suge o dușcă de vinișor.</p>
+<p>— Dar dacă va afla c’a mâncat lucru de furat ?</p>
+<p>— Sě va gândi că nu i-sě întâmplă acum pentru înteia dată și va tăcea. La dracu n’o fl pănă într’atât nebun căpitanul să pue în lucrare pedeapsa cu care ne-a îngrozit ; nu sě crapă așa lesne capul unuĭ voinic ca mine când el sě află între frați ca voĭ. Și pentru ce ar face-o ? Pentru că am luat aceea ce era să mi-sě dea? Nu avem și noĭ dreptul d’a pune la globă din când în când câte nițel pe ăștĭ nenumerațĭ mocanĭ, care s’aŭ adunat ca spusa în jurul nostru spre a fl scăpațĭ, prin groza numeluĭ nostru, de globirile greceștĭ și împerătescĭ?</p>
+<p>— Așa este, are dreptate Ghinea, rěspunse haĭduciĭ în cor.</p>
+<p>— Să cam trece și căpitanul nostru cu poruncile luĭ câte-odată, dise un haĭduc ce se numia Zorilă; parc’ar vrea să ne facă ușe de biserică! Dacă. am fi avut gust noĭ de una ca asta am fi apucat calea mănăstireĭ spre a ne afunda în leneșa viață călugărescă, iar nu ne-am fĭ pus să înfruntăm atâtea trude, atâtea lipse și atâtea primejdiĭ.</p>
+<p>— Negreșit; afirmă în cor ciata.</p>
+<p>— Înțeleg, adaogă un alt haiduc numit Ghior-lanul, înțeleg să ne oprescă d’a jefui la drumul mare pe țăran și pe tîrgovețul Român, care abia. își scapă pielea de lăcomia grecească; ce să tțicî sunt frațiĭ noștri, să le credem și să-I ajutăm dacă nu putem să-i scăpăm de ordia streină; dar să, ne oprescă d’a ne îndulci de grăsuniĭ stânelor vecine, dintre care cel mai mulțl nu sunt nici Români nici creștini, ci nisce proclețl de Săcui; sau d’a ne împărtăși de bogatele jafuri ce am dobândi dela falniciĭ boeri, cari au ațâța bani cât per avem noi în cap, fiĭnd-că aceștia sunt Români, nu-mî vine la socotelă. Dacă sunt Români de ce cu starea și regulele ce au nu scapă pe frațiĭ lor opincarî de nevoile ce-î apasă? pentru ce suferă pe Greciĭ? pentru ce nu vine icea la noi și nu ne tțice: „Fraților, noi avem inimă și bani, voi aveți inimă și curaj ; să ne armăm cu toțiĭ, să facem să se cutremure munțiĭ de sunetele buciumului vitejiĭ, să chiemăm sub arme pe toți cel ce sufer din partea Grecilor, spre a scăpa țera de streini, și apoi să trăim în pace, bogat cu sărac d’o potrivă, fără a ne împila și fără a ne nedreptăți unul pe altul?“Ce zicețl, fraților?</p>
+<p>— Așa ar trebui, răspunse un alt haiduc, însă nu fac așa; boeril sufere pe Greci; boeriî s’au grecit; să rabde dar și boeril ca și Greciĭ tot ce le va veni dela aceia, ce vor să fie și să rămâie Români.</p>
+<p>— Astea și d’aldeastea să spunem căpitanului când va veni de unde e, și pe urmă fiți siguri că nu vom fi opriți d’a da busna pe la ale belșuguri boeresci.</p>
+<p>Ast svat fu dat cetei de cel mai bătrân dintre ei, de ceaușul lor Mirilă Vulpea, vărul lui Miu.</p>
+<p>— Așa, așa, să-i spunem, strigă ceata puintl mâna pe arme.</p>
+<p>— Să-l spunem să ne lase a jefui pe ciocoi, strigă Ghiorlanul.</p>
+<p>— Să ne lase a fi haiduci, iar nu călugări, vociferă Zorilă.</p>
+<p>— Să ne lase a mânca mieiĭ și berbeciĭ ciobanilor, sbieră Ghinea.</p>
+<p>— Să ne lase a da cu praștia prin fetele și nevestele megiașilor, țipă cel mai june dintre hoți care să nuinia Nițu Mustățea, fiĭnd-că n’avea nici un fir de per pe buză.</p>
+<p>— Să facem tot ce vrem. tot ce trebue să facă un adevărat hoț, un adevărat voinic de codru, urlă în cor ceata haiducilor care se sculase în picióre și să agita ca și liniștita apă a unul eleșteu când e bătută de vânturi tempestóse.</p>
+<p>— Așa, fraților, să facem, răspunse un alt haiduc ce să zări printre arbori întrând în cercul de lumină al focului, să facem totd’auna ce am făcut eu acum.</p>
+<p>— Ce al făcut? ce al acolo? strigară confrațiĭ lui încunjurându-l, ce al în acel dăsagî?</p>
+<p>— Vedeți, ascultați-me și apoi rîdețl. Iată pastramă, pesce sărat și șese luminări de său în o desagă; iată și o pereche de iminei, una de pantofi vechi și un mănunchîu de luminări de cera în cealaltă, ba mai e ceva în fundul sacului; o sa1v ă de parale și irmilicl de aur.</p>
+<p>— Ce mai hoție, strigară hoțiĭ cu desgust.</p>
+<p>— Curată borfășerie, obiectă Ghinea.</p>
+<p>— diceți mai bine potlogărie de rend, replică Ghiorlanul strîmbând din nas.</p>
+<p>— Scii tu, măi Frunză, cțise Zorilă uitându-se crunt la camaradul seu, că purtarea ta necinstesce, neinjósesce pe noi ăștia care ne resboim cu ar-năuțiĭ domnescĭ spre a ajuta pe cel săraci? Să jefuescî tu un serman opincar, care nu are decât pastramă și pantofi în desagă; ce neomenie!</p>
+<p>—Di mai bine murdărie rușinósă! esciamâ micul Mustățea.</p>
+<p>— Nu escĭ vrednic de noi; strigară haiduciĭ.</p>
+<p>— Ho, ho! răspunse cu o voce detunătóre Frunză, ați vecfut ce v’am arătat; ascultați acum  să vă spun și ce aveam de gând să vă povestesc, iar nu sbierațl ca nisce îndrăciți. Luarea ăstor dăsagl este o curată glumă pe care mâne dimi-neță am s’o răsplătesc cu o bună sumuliță de beslicî ce am de gând să dau împreună cu aste nimicuri sărmanului dela care le-am luat. Inchi-puiți-vă că veniam spre culme suind în pace potecile; luna lumina frumos pe cer și eu mergând loviam cu ciomagul pietricelele ce întâlniam în  cale; la o răspântie văd o umbră neagră miș-cându-să ca cum s’ar furișa; eu întâiu am crefiut că e un lup și am scos un chiuit de volnic, dar pe urmă înțelegând că era umbră de om, am alergat spre acea parte și am strigat: „Cine e? stal că dau.“ Ml-era teamă de vr’un spion. Ajungând la desișul unde zărisem umbra, am văzut aste desage alături cu o fiĭnță omenescă răsturnată la pământ care tremura ca varga. Văjând acea fiĭnță căzută jos că nu e îmbrăcată în haine țărănescĭ, am lăsat’o locului îngrozind’o cu vârful cuțitului meu și am lăsat desagele crețend c’am pus mâna pe vr’o mană mare. Vedeți ce ispravă am găsit.</p>
+<p>După astă esplicare hoțiĭ împăcați în amorul lor propriu, rîse puțin de isprava camaradului lor și apoi să întinse din nou pe iarbă ca să oco-lescă focul.</p>
+<p>Abia se așezară si iară se sculară îndată ce auzirâ în depărtare un grosnic fluerat. Ast fluer goni somnul din ochiĭ multora si puse armele în mânile tuturor; al doilea fluer îi linisciră.</p>
+<p>— E căpitanul, zise fie-care din ei reașe-zându-să.</p>
+<p>După câte-va minute verful muscelului se umplu de lume, căpitan Miu venise cu mai bine de 20 de camarazî, fie-care încărcat cu câte o sarcină grea ce purta în spinare înfășurată în. câte o legătură.</p>
+<p>— Ceauș Mirilă, fjise Miu, ia astea și așeză-le în magazie pănă la împărțelă.</p>
+<p>— Sa punem masa căpitane? întrebă Ghinea. cu timiditate.</p>
+<p>— Pune-o, răspunse căpitanul cu flegmă.</p>
+<p>— Mi-să pare căpitane, zise Gherlanu jucân-du-să cu mânerul unui cuțit, că astă nopte a fost înănăsă.</p>
+<p>— Ca si unuia din voi, răspunse căpitanul cu asprime. Să jefuiască un biet sărac! un cer-sitor, care după ce s’a milogit cum a putut pănă a căpătat o bucată de pastramă si o pereche do iminei, a avut parte să cadă în mânile unuia din haiduciĭ lui Miu! Frumósă ceată mai are si căpitan Miu! de ispravă omeni sunt aceia care haiducesc sub densul. Cine a fost acel neomenos?</p>
+<p>— A aflat procletul! murmură Frunză înfio-rându-să; m’am topit, spiridușul dracului! Mă iartă, ie, zise apoi cu voce tare, eu am șeguit 1 sărman om si el a luat lucrurile ca de eamă; nu sunt eu ci el a fost de vină că a ricoșat așa de mult. Mă jur însă, căpitane, că am voit să-mî îndreptez greșeala; mâne eram să mă întorc în vale; întrebă și pe tovarășiĭ mei.</p>
+<p>— Destul, aĭ călcat legile ce domnesc în ăst codru, trebue să-țĭ iaĭ pedeapsa. Descaltă-te.</p>
+<p>— Căpitane, iartă-mě murmură Frunză.</p>
+<p>— Nu crîcni.</p>
+<p>— Căpitane, nu mě înjosi, strigă hoțul holbind ochiĭ.</p>
+<p>— Iartă-l căpitane, strigară haĭduciĭ în cor.</p>
+<p>— Nu e treba vostră a ve amesteca în drepturile mele; cărați-vě d’acĭ, mergețĭ de mâncațĭ.</p>
+<p>— Căpitane, strigară îndârjițĭ haiduciĭ, puind mâna pe pistole; iartă pe Frunză saŭ de nu vaĭ de tine !</p>
+<p>Mișcarea ce făcură aceștĭ selbaticĭ fiĭ aĭ munteluĭ nedeprinșĭ cu frîul legilor, ar fi îngrozit pe omul cel maĭ curajios; pe Miu însă nu-l des-concentră.</p>
+<p>— V’ațĭ rěsvrătit, strigă el, vrețĭ să mě omorîțĭ? omorîți-mě dar, adăogă desfăcendu-șĭ cămașa la pept. Descărcați-vě armele; ce stațĭ? nu e greŭ de omorît un singur om când se află între 40 de ucigașĭ; vě codițĭ, fricoșilor? Nicĭ unul nu este vrednic d’a fi căpitan în locul meŭ! un căpitan de haĭducĭ nu trebue să scie ce este frica de morte.</p>
+<p>— Ertare, căpitane, ertă-ne murmurară hoțiĭ rușinațĭ și îmblânzițĭ ca nisce mieĭ.</p>
+<p>— Dați-mĭ pedeapsa de care sunt vrednic, zise Frunză desculțându-sě.</p>
+<p>— Du-te de înapoiază ce aĭ luat și dă 100 de leĭ din partea mea săraculuĭ, care plânge colo în vale asceptând dreptatea mea; dar pădesce-te d’aĭ face vremn rěŭ, căcĭ Miu nu iartă de două ori.</p>
+<p>— Îĭ voiŭ da 500 de leĭ dela mine, căpitane, numaĭ să nu fi supěrat, zise Frunză puiĭnd o pungă în desagĭ și croind’o spre vale cu desagiĭ la spinare.</p>
+<p>— Loviți-mě, adăogà desfêcendu-șĭ cămașa la piept, nu este greŭ de omorît un om, când se află între 40 de ucigașĭ, (pag. 30).</p>
+<p> — Voĭŭ uita tot când v’ați jura că nu vețĭ maĭ face una ca asta.</p>
+<p>— Jurăm, strigară haĭduciĭ în cor.</p>
+<p>— Eĭ băețĭ, băețĭ! adăogá căpitanul așezân-du-sě pe un buștean; cât de ușureĭ suntețĭ voĭ la minte și cu câtă nepăsare vě rîdețĭ de numele vostru de haĭducĭ, nume de care ar trebui să vě mândrițĭ, înfrumsețându-l cu fapte mărețe iar nu înegrindu-l cu asemenea mârșeviĭ! Scițĭ voĭ proștilor ce suntem noĭ, ce e  haĭducul? Haĭducul nu este hoț, nu este tâlhar care omòra și jefuesce spre a aduna comorĭ; haĭducul este un soldat care pe căĭ bune saŭ rele, cum găsesce la îndemână, prin mijlòce legiuite, saŭ nelegiuite, cum pòte, merge să sdrobéscă pe străiniĭ ceĭ fără de lege care aŭ cotropit moșia lor și sě sîrguesce ca să stărpească sěmênța tuturor dușmanilor neamuluĭ Românesc. El este apărătorul celor drepțĭ împotriva celor nedrepțĭ, al celor împilațĭ împotriva împilătorilor; el ia cu o mână dela veneticiĭ îmbogățițĭ prin hrăpirĭ ca să întòrcă săraculuĭ o parte din ce i-s’a hrăpit. Toțĭ haĭduciĭ câțĭ aŭ fost n’aŭ jefuit pentru sine, ci aŭ luat numaĭ ca să dea înapoĭcelor jefuițĭ și apăsațĭ. Dela Bujor și Pădureanu cariĭ aŭ globit pe străinĭ cu miliòne, n’au rěmas pentru moștenitorĭ nicĭ 50 de pungĭ de banĭ, însă mulțĭ țěranĭ aŭ fost scăpațĭ de fòmete, multe fete înzestrate, mulțĭ însurățeĭ  făcuțĭ cu car și boĭ, mulțĭ nenorocițĭ apěrațĭ de sărăcie și multe věduve mânuite de lipsă. Rěĭ aŭ fost rěŭ aŭ făcut, judece-ĭ Dumnedeŭ; țéra însa e datóre să le rěmâie recunoscětòre, fiĭndcă numai eĭ aŭ ținut vie, sănătósă și nesecată sěmênta vitejiei străbune, și numaĭ eĭ o va ținé astfel pana ce un ales binecuvêntat al luĭ Dumnedeŭ va veni spre a buciuma prin munțĭ și prin văĭ cântecul de deșteptare, și după ce va aduna în jurul steaguluĭ Românesc pe toțĭ Româniĭ din tòte unghiurile, va merge însoțit de totă țera, ca să redobendescă cu arma în mână vechile drepturĭ strămoșescĭ. Iată ce e haĭducul, iată care e datoria luĭ, iată ce e fala luĭ; cine din voĭŭ nu va maĭ vrea să fie haĭduc, apěrător în astfel de chip al străvechilor nostre drepturĭ, scolă-sě, plece cu tot ce a strâns pănă acum și mânia mea nu-l va urma.</p>
+<p>— Căpitane, strigară haĭduciĭ miscațĭ, haĭducĭ suntem, haĭducĭ vrem să fim, haĭducĭ vrem să murim; să trăiască haĭduciĭ.</p>
+<p>— Eĭ, vezĭ asa vě voĭŭ: Românĭ vercțĭ și cu inimă dreaptă și bărbată, rěspunse Miu strângând mânile celor maĭ aprope de el, și așa ar trebui să fie toțĭ frațiĭ voștri ca să ne scăpăm de Grecĭ.</p>
+<p>— Căpitane, auzit’aĭ? dise Gruia, pădurea a urlat de sunetul unuĭ fluerat venit din depărtare.</p>
+<p>— încă unul, adăogă alt haĭduc numit Florea Corbeanu, încă unul audiiŭ.</p>
+<p>— Al treilea fluerat! replică Ghiorlanu.</p>
+<p>— Le-am audit pe câte trele rěspunse Miu; cine să fie? ce prietin de-aprope ne sósesce?</p>
+<p>— O fi Neagu? dise Mirilă.</p>
+<p>— Nu e numaĭ el, ci sunt și eŭ, rěspunse o voce femeiască la spatele lor.</p>
+<p>- Florea! soru-mea! strigă căpitanul îmbrătisând cu dragoste nespusă pe noŭa venită.</p>
+<p>- Florica neichiî! Florica moșuluĭ osclamară haĭducĭ după starea etățiĭ fiecăruia, înconjurând pe sora căpitanuluĭ.</p>
+<p>— Da eu, fețĭ meĭ rěspunse Florea cu o voce obosită, ea și fratele vostru Neagu.</p>
+<p>„M. iĭ."</p>
+<p>— Bine aĭ venit frate, bine aĭ venit vericule, adăogară haĭduciĭ năpădind pe Neagu.</p>
+<p>— Bine v’am găsit, rěspunse acesta apěrându-sě, dar pănă una alta dați-mĭ pace că mě năbușițĭ.</p>
+<p>— Ce vânt te-a abătut, soro, pe la noĭ? întrebă căpitanul.</p>
+<p>— Vent rěŭ, vânt de crivěț, rěspunse Florea cu întristare; însă pănă să vě spun pricina,lăsați-mě puțin să rěsuflu și să mě odihnesc.</p>
+<p>— óre Ștefan?.....</p>
+<p>— Da.... el.</p>
+<p>— A îndrăsnit să te lase?</p>
+<p>— Nu, ci voesce să te piardă pe tine; grăbesce frate de ia měsurĭ, că acum este pe cale d’a veni aci să te pedepsescă pentru îndoita răpire a hasnaleĭ domnescĭ și a zahereleĭ împěrăteseĭ ce ai săvârșit maĭ în aceiașĭ di.</p>
+<p>— Vine să mě smulgă din culcușul meŭ ? rěspunse Miu rîdênd cu dispreț ; anevoe să smulge ursul din visuina sa.</p>
+<p>— E însoțit de o ceată numěrósă, o oștire întrâgă, și cum mi-sě pare, de fiĭnțe vândute care cunosc potecile.</p>
+<p>— Mulțumită ție, dragă soră, eĭ aci nu vor găsi decât numaĭ peirea lor.</p>
+<p>— Miule. strigă soră-sa înfiorându-sě, óre vreĭ sa pendĭ pe Ștefan? Veĭ fi perdětorul suroreĭ tale.</p>
+<p>— Nu te teme, dragă soro, rěspunse căpitanul, voiŭ numaĭ să-ĭ arět Mărieĭ Sale cine este Miu. Strângețĭ tot ce aveți aicĭ fraților, adaoga adresându-sě cătră camaradĭ luĭ șsi fuga sus în culmea Vulturuluĭ, acolo vețĭ primi poruncĭ de maĭ departe urmare.</p>
+<p>După ce sě schimbară maĭ multe fluerăturĭ modulate începură să sě strîngă tâte armele, uneltele și catrafusele de prin bunget și într’o clipă haĭduciĭ luĭ Miu periră din culmea Crinuluĭ ca nisce năluce.</p>
+ </div>
+ <div type="chapter" n="5">
+<head>V. Pisica în cursa sorecelui.</head>
+<p>Miezul nopțiĭ este ora în care totă natura reclamă liniscea și repaosul, în care chiar rîurile, torentele și cascadele să silesc a schimba voiosul lor sgomot într’un murmur dulce și șoptitor, pentru ca cu apărarea auroril, viața să pară că se deșteaptă mai animată, mai sprintenă. In acea oră solemnă păsărele nu mai cânt, animaiele nu mai strig și chiar fiarele prădătóre să retrag în culcușurile lor pentru a lăsa pământul să se repause în mijlocul unei tăceri odihnitore. Numai suflarea vânturilor și adierea zefirilor întrerup în acea oră universalul silențiu, pentru ca să-l facă să devie și mai imposant; aceste sunete nu sunt alt decât cântecul duios cu care muma își adorme copil săi.</p>
+<p>De acest dar etern avea drept să să bucure și munțiĭ din vecinătatea culmei Vulturului în noptea a cărei seară descriserăm mai sus, Miu însă nu voi astfel, și voinței sale să supuse însăși natura. înainte d’a spune cum ast redutabil haiduc se resboia chiar cu legile firei, permite-mî, indulgente lector, a descrie ce fel era acea culme cu nume așa de falnic; culmea Vulturului.</p>
+<p>România seamănă cu un gigantic amfiteatru; câmpul de luptă este întinsa vale a Dunărei, și locurile spectatorilor sunt munțiĭ Oarpați. Nimic nu să pote asemăna cu locurile reservate pentru spectatoriĭ dintr’un teatru saă circ ca munțiĭ țărei nostre; mai înteiu d’asupra câmpiĭlor vin dealurile și potgoriele de vil, ele formeză primele galeriĭ; după densele, d’asupra lor, urmeză muscelele tapetate cu bogate fânețe și obscure păduri; pe urmă d’asupra acestora, se înalță șirurile munților înverzite de fagiĭ cei înalț! și braviĭ cel totd’auna înfrumțiți, și d’asupra tuturor vin crestele cele albe și ascuțite, acele culme care’și scaldă pleșuvele lor verfurî în aburiĭ norilor. Din acestă înălțime, precum și după celelalte care sunt în josul ei, superba natură se uită cu mândrie la fiĭ sel care jos, pe arena cea mare a câmpiĭlor, se luptă cu barbarismul, sciăvia și ignoranța, pentru a face să triumfe civilisațiunea, munca și lumina.</p>
+<p>Culmea Vulturului este una din cele mai înalte cime ale Carpaților; mai multe verfurî îl formează creasta și mai multe poverniturî, dealuri și șghiaburl îl formează basa; pe una din înălțimile sale interióre care îșl ridică fruntea drept sub pleșuva burtă a gigantului; omul nu se pbte sui decât trecend sucitele și periculósele poteci ce brăsdeză întunecbsa inimă a culmei Crinului. BraZiî cel mai înalți, fagiĭ cel mai frunzoși, obstacolele cele mai variate ascund de privirile curioșilor aceste cărări misterióse. Verful astei coste se numesce bungetul Șoimului. Acolo se retrăgea. Miu și al sel când asilul Crinului devenia primejdios ; iar când pericolul era și mai eminent, atunci se urca agățându-se ca caprele sălbatice sărind din piatră în piatră pănă pe creasta Vul unde nu se mai temea de nici o putere omt</p>
+<p>Miu înteia dată dăduse ordin să se sut în culme, însă când se veZu pe povîrnitu schimbă ideia, trimise sus numai patru din cei tineri cu instrucțiuni particulare, iar el cui ai sel,</p>
+<p>se opri în pădurea după c6stă ca să pue în lucrare planul ce concepuse suindu-să.</p>
+<p>— Să-mî răsturnați la păment vr’o patru-zecl din copaciĭ cel mai groși, cțise el haiducilor săi; să-mî tăi ați cu ferăstrăul rădăcina la toți fagiĭ ce vor cădea pe linia din dreptul Verfulul pârlit de sus pănă la povârnitura d’asupra culmei Șoimului, să lăsați la fie-care copaciĭ! netăiat atâta lemn cât pote să ție în picîbre copaciul, să-mî desrădăci-națl vre-o 50 de bolovani de piatră și să-i așetjațl pe astă creastă spre a fi gata a-î rostogoli în jos când vă voiu porunci; să așezați apoi bușteniĭ răsturnați în dreptul copacilor ce veți reteza cu ferăstrăul, și după aceea să stați locului ca să așteptați noul porunci.</p>
+<p>— Pănă când să fie gata, căpitane? întrebă Plorea luând săcurea în mână.</p>
+<p>— Pănă la ivitul zorilor. La lucru copil.</p>
+<p>După ast ordin urmă un sgomot mai variat, mai confus și mai răsunător decât acela ce prici-nuesc diavoliĭ când serbează infernalul lor sabat. Atunci ecoul care adormise legănat pe aripile zefirilor, ascultând dulcele murmur al unul isvoraș din vecinătate, să deșteptă tresărind și începu să geamă dureros, precum gemiau stâncile, care să deslipeau de sînul părintelui loi' spre a să transporta în loc străin, precum gemeau arboriĭ care se despărțiau cu jale de tulpina lor ca să moră pe locul ce ramurile lor magnetice umbrise de secole, și precum gemea chiar natura întregă, care plângea cu jale au (jind cum sunetul toporelor și rănțăiturile ferăstraelor goneau din juru’l paclni-cul repaos. Era grandios și înfiorător spectacolul acestei scene luminate de faclele lucrătorilor, era grandios și înfiorător sunetele ce ecoul transmitea de repețite ori din munte în munte, era grandios și înfiorător sgomotul ce producea zopoitul bolovanilor și trosni tul copacilor, era grandios și înfiorător țipătul de groză al paserilor ce fugea din culcușul ce li-să dărîma împreună cu arboriĭ de care era agățat; dar mai grandios și mai înfiorător era acel om atât de mic în talie, care privind cu nepăsare la destrucțiunea și gemetele puternicei naturi, scotea din slabele sale mâni opere de ruină așa de mari!....</p>
+<p>Când se lumină de ziua și natura își reluă aspectul seu de sgomot și activitate, muscelele Șoimului, ca prin farmec, reintrară într’o tăcere mormentală. Intr’acest timp Vodă și boeriî săi desbătați și reinviorați se strîngeau la palat. Partea cea mai mare din ei uitase ce vorbise noptea trecută; Vodă însă nu. Lui îi sta cuîu în inimă acele pungi de bani și acele proviziĭ bogate pe care îi le răpise tâlharul, și era prea grabnic d’a pedepsi cu o oră mai curend pe acel insolent bandit, care îndrăsnise să-l jefuiască pe el, care dăduse atâția bani la Stambul spre a jefui legal pe toți. Boeriî însă mai buni la inimă, după ce li-să aduse aminte începură să se codescă, să pretexteze că dânșiĭ ar fi buni creștini și cu frica lui Dumnezeu, pe care legea nu-I iartă să facă ren; adevărul era că ei se temeau forte de a cădea în urgia groznicului haiduc; însă îndărătnicia lor o înfrânse Vodă numai cu aceste cuvinto:</p>
+<p>— Dacă vom lăsa nepedepsiți pe acești tâlhari, ei vor urma d’a ne răpi dăjdiĭle ce vom aduna și ori-ce venituri, care să cuvine Domniei nostre; atunci de unde vă veți înmulți voi averile? de unde veți cheltui pentru petreceri? cu ce veți ține ighemoniconul vostru și pe al meu ?</p>
+<p>Nu ve rușine să ajungeți voi și cu voi și eu, săraci lipiți pământului, calici ca nisce cerșitorl și gol ca nisce orbeți, de rîs fiĭnd boerilor pământeni, târgoveților și chiar opincarilor?</p>
+<p>— Departe de noi una ca asta, strigară boeriî scoțându-și din teacă jungliĭurile ce purtau la brîu; mbrte jefuitorului, mbrte lui Miu.</p>
+<p>— Bravo, așa ve voiu, tjise Vodă coborîn-du-se după treptele tronului; să tragă caiĭ la scară, chiar astă seră vom pleca.</p>
+<p>— Ura, să trăiască M. S., morte lui Miu, strigară boeriî aruncând cușmele și fesurile în sus.</p>
+<p>— M. Ta, M. Ta, veste bună; strigă Stavra-coglu intrând, v'am adus un giuvaer, care o să ne fie de mult ajutor.</p>
+<p>— Ce e? Ce o fi? întrebă boeriî între sine.</p>
+<p>— Iată, M. Ta, adăogă Spătarul, arătând un mocan seciu cu figura urîtă și nespălată pe care-l ținea de mână și-l tîra după sine, acesta este un om care pote să ne ducă în cuibul lui Miu.</p>
+<p>In noptea acelei tjile sgomotul curțiĭ din București se transportase de acolo într’o dumbravă verde și frumósă dintre capitală și Tîrgoviște; acolo conăcise M. Sa ca să cineze și să dorină cu curteniĭ și suita sa. în sera zilei d’a doua sgomotul acestei curți tapagióse trecuse Tîrgoviștea și se înșiruise pe potecile ce duce la muscelul cu pricina. îndată ce ajunse sub densul, ca prin farmec acel sgomot încetă, gurile bavarde tăcură, lăudăroșil amuțiră, caiĭ conteniră d’a juca și te-cele spadelor d’a suna; cal și călăreț într’o profundă tăcere mergeau liniscițl după acela ce le servea de călăusă. Eroiĭ noștri spunea șoptind că astă subită transformare era dictată de prudența ce le inspira scopul d’a prinde șoreciî în cursă: adevărul însă era că frica produsese astă minune.</p>
+<p>În deșert fură luate tote precauțiunile, în deșert se împărțiră cavaleriĭ grupe grupe ca la o bătălie și pedeștriĭ ocupară tote potecile ce li-să indicase de călăuză, în deșert împrumutară ușu-rimea pasuluĭ căprioreĭ când suiră cărările; în deșert totă bătaia de cap și tătă ostenela, pentru că, când se suiră d’asupra culmeĭ Crinuluĭ pe potecuța arětată de mocan, căcĭ pe culme nu găsiră nimic alt decât urme de foc și óse aruncate pe iarbă. Vědând asemenea lucru neașteptat, mocanul și alțĭ șese companionĭ aĭ sěĭ pe care-i luase din vale, fluerară, boeriĭ înjurară, și Vodă!... o! M. Sa era făcut foc.</p>
+<p>— Am să vě fac bucățĭ, strigă el adresându-sě cătră mocaniĭ ce o sfeclise; voĭ m’ațĭ amăgit, suntețĭ din blěstămata luĭ ceată, am să vă frig de viĭ.</p>
+<p>— Nu veĭ fi drept, Ștefan Vodă, rěspunse o voce de d’asupra capuluĭ sěŭ, dintre arboriĭ, ce acopereaŭ înalta costă a munteluĭ celuĭ mare; aceștĭ omenĭ sunt nisce adevěrațĭ vendětorĭ care aŭ fost nemulțumițĭ de bunătatea mea; eĭ v’aŭ adus aci la locul ce aĭ dorit; iată-mě, iată Miu; vendiětoriĭ cată acum să-șĭ primescă rěsplătirea pentru binele ce v’a făcut.</p>
+<p>După aste cuvinte urmă o salvă de puscĭ și după risipirea fumuluĭ boeriĭ vědură lungițĭ morțĭ la păment pe ceĭ șepte mocanĭ și doĭ din aĭ lor. Asta-ĭ îngrozi.</p>
+<p>— Alergați copiĭ, suiți-vě după eĭ, omorîtĭ fără milă, strigă Vodă, scoțend hangerul.</p>
+<p>— Pe unde să ne suim M. Ta? rěspunse unul din boerĭ; avem dinainte-ne un zid pe care fiĭnța omenescă nu-l pote sui.</p>
+<p>— Pe unde vețĭ sci, rěspunse Ștefan afară din sine, numaĭ să mi-l aducețĭ viŭ saŭ mort.</p>
+<p>— Nu te firosi, Ștefane, rěspunse aceiașĭ voce; eștĭ în mâna mea, tu și omeniĭ těĭ; pisica a cădut în cursa șâreceluĭ; nu eștĭ norocos la isbȇnde. Nu este dat tuturor, maĭ ales celor ca tine, a câștiga biruințe pe câmpul lupteĭ; încercațĭ d’a cerca prin sîlă să mě supěrațĭ că nu vețĭ isbuti cu nimic, suntem maĭ sus decât pote bate puscile vostre. Dacă voițĭ să ne despărțim cu bine și prietinĭ, vino sus la mine, tu și unul din aĭ těĭ, ca să ne înțelegem, iar de nu vreaĭ, teme-te că sunt puternic aicĭ ca și un Dumnezeŭ în cer, pot să vě și trăsnesc, pot să vě și șterg după fața aceluĭ0 muscel.</p>
+<p>— Audițĭ acele afronturi îngrozitore, boeri și nu vă mișcațl? strigă Cehan esasperat; nu e sânge în vinele vbstre și rușine în sufletul vostru? nu apucați armele vostre cele nobile ca să pedepsiți pe cel nerușinați?....</p>
+<p>— Morte lor, strigară boeriĭ descărcându-șĭ armele în desimea arborilor după cbstă.</p>
+<p>Acesteĭ provocațiunĭ, nu urmă un rěspuns de acelașĭ soiŭ, ci un simplu fluerat după care urmă un sgomot maĭ tare decât mugetul tunuluĭ și un fum maĭ des decât un nor. îndată după acel sgomot și fum urmă un trăsnet îngrozitor și după trăsnet un țipet general: după costă să cobora în rotilațiunĭ gigantice o mulțime de bolovanĭ și buștenĭ, care surpa arborĭ ce întâmpina în cale, desrăděcina pietrile înfipte în păment și cu tote împreună alergaŭ, urmate de un nor gros de praf, spre capetele boerilor și omenilor lor. La vederea ăstuĭ catâclism oribil, totă fiĭnța vie începu să sě curemure și să apuce fuga care încătrăŭ putea; sinistrul însă nu voi sě-șĭ părăsescă prada, ci după ce ajunse pe culmea Crinuluĭ făcu o săritură gigantică și sě năpusti dincolo de densa acoperindu-ĭ costele cu miriade de sfârîmăturî. Câțĭ fura. ajunșĭ de aceste sfârîmăturĭ căzură la păment și lipsițĭ de viață sě precipitară spre vale ca și lovitura produsă de eĭ să causeze morte cuiva.</p>
+<p>— Pace, pace, învoială, strigă Ștefan afară din sine, rěmâind singur pe culme, și alergând de colo pănă colo ca să scape de groznicele lor isbutirĭ; pace, iertare, mě supun la învoială, însă încetațĭ.</p>
+<p>— Așa te învață, rěspunse Miu apărând lângă el: stațĭ copiĭ; nu maĭ avețĭ vrăjmașĭ ci prietinĭ. Eĭ, M. Ta, ce dicĭ de puterea mea? adăogă haĭducul așețându-sě pe un buștean lângă Vodă; așa e că am și eŭ ore-cere urmă de virtute? Ce aĭ vězut însă? dacă îmĭ desfășuram totă puterea, zěŭ nu rěmânea fiĭnță vie.</p>
+<p>— A maĭ scăpat vre-unul viŭ ? murmură Ștefan tremurând.</p>
+<p>— Slavă Domnuluĭ nu s’aŭ omorît toțĭ; a rěmas încă mulțĭ neucișĭ; putem aduna aci o sumă frumósă de boerĭ d’aĭ Dumitale, cu care să Intrăm la învoială, căcĭ să-țĭ spun drept sunt forte voĭnicĭ la fugă, maĭ iuțĭ decât trăsnetele mele. Să-ĭ chemăm cu tdte acestea. Băețĭ aducețĭ cu cinste câțĭ boerĭ vețĭ găsi în vale; avem nevoe de luminile evghenielor lor.</p>
+<p>Ștefan nu maĭ dise nimic, ci sě uită la Miu privindu-l de sus pănă jos cu un fel de groză și mirare.</p>
+ </div>
+ <div type="chapter" n="6">
+<head>VI. Domnul orașelor și Domnul codrilor.</head>
+<p>Aceia ce scăpară de sinistru fură maĭ numěroșĭ decât spera Vodă; maĭ toțĭ boeriĭ ceĭ iubițĭ, între care și Stavragoglu, fură adușĭ de haĭduciĭ luĭ Miu înaintea luĭ, fiĭndcă denșiĭ ca nisce vitejĭ ce eraŭ, cum audise fiueratul cel rěŭ prevestitor o rupse,d’a fuga și scăpase de primejdie. Infățișându-sě înaintea luĭ Miu, boeriĭ cu tote asigurările redutabiluluĭ căpitan că nu vor păți nimic, tot par’că staŭ pe ghimpĭ și cu inimile sărite în tr’acest curios loc de deliberațiune și voiaŭ cât maĭ curând și prin orĭ-ce sacrificiĭ să scape d’a-colo. Nicĭ Ștefan nu era maĭ puțin nerăbdător.</p>
+<p>— Spune maĭ iute, strigă el luându-șĭ inima, în dințĭ, ce aĭ în gând să facĭ cu noĭ ? vreĭ să ne perdĭ saŭ să ne vindĭ viața? dă-ne lămurirĭ, care îțĭ este gândul?</p>
+<p>— Măria Ta, rěpunse Miu liniștit, eŭ nu-țĭ voiŭ rěul precum nicĭ unul din aĭ mei, nicĭ M. Tale, nicĭ omenilor M. Tale; eŭ cu M. Ta n’am de gând să mě port cum M. Ta te-aĭ fi purtat cu mine dacă aș fi fost nenorocos d’a cădea în mânile M. Tale; eŭ vě voiŭ binele' eŭ voiŭ să vě dobȇndesc prieteșugul, și d’o vrea Dumnedeŭ să ne și rudim.</p>
+<p>— Tâlharule! strigă Ștefan indignat, nu-țĭ bate joc de omul neputincios, căcĭ norocul e ca o rotă.</p>
+<p>— M. Ta, rěspunse lioțul cu sânge rece, asemenea cuvinte ar fi trebuit să sě zică luĭ Ștefan Racoviță Vodă, care de patru lunĭ îșĭ bate joc în chipul cel maĭ rușinos de neputința sěraculuĭ și a věduveĭ, iar nu mie, care-țĭ vorbesc ca unuĭ prĭetin și te poftesc lângă mine ca pe-un mosafir; stai jos. M. Ta și lasă-țĭ armele să stea unde le porțĭ; băețĭ da-țĭ armele ce a-țĭ luat dela evgheniștiĭ boerĭ, căcĭ voĭŭ să staŭ la sfat putere cu putere adăogă adresându-sě cătră aĭ săĭ. Acum să-țĭ spuiŭ ce am în inimă.</p>
+<p>— Vorbesce, murmură, Vodă deconcentrat, așezându-sě cam cu îndoială pe bușteanul pe care sta Miu. </p>
+<p>— Te-aĭ mirat, urmă Miu scoțând din gură rotile de fum, dintr’un mic ciubucel ce purta în mână drept paloș, te-aĭ mirat când m’aĭ auzit dicându-țĭ că avem să ne rudim? pentru ce M. Ta să te mirĭ?</p>
+<p>— Cum gândeștĭ c’o să mě rudesc eŭ cu un?.... rěspunse Ștefan gângăind și făcând o pausă care să suplinescă epitetul ce gândea să dea haĭduculuĭ.</p>
+<p>— Cu un hoț nu e așa? îl întrerupse căpitanul. Prea slăvite Domne, să nu te prinză mirare. Ascultă o istorie. Era într’o mahala din Bucurescĭ o fetiță de 14 anĭ frumósă, forte frumbsă dar cinstită; ea era mângăerea bětrânețelor uneĭ mume neputinciósă și mândria unuĭ frate, care nu era iubit maĭ de nimenĭ. Acea fată trăi liniștită în mica sa căsuță pănă într’o zi, când vědŭ doĭ streinĭ trecând pe la ferestra căměruțeĭ eĭ, cariĭ cum o zăriră la geam stătură în loc ca s’o privescă. Din aceea zi acea copilă fu răpită cu d’a sila dela sînul maiciĭ sale de bostangiĭ Domnescĭ și dusă... Dumnedeŭ scie unde. Sunt dece anĭ d’atuncea, era pe tron Constantin Bacoviță fratele M. Talc. Când s’a reivit acea fată nu maĭ era ce era, nu maĭ era o fecioră, nu maĭ era un înger; era o femeie de lume, o fiĭnță maĭ fără de rușine, un trup fără suflet, un suflet perdut; era țiĭtorea frateluĭ luĭ Vodă,..... eare îĭ smulsese din inimă tot ce era frumos și de cinste și o îndopase cu tote relele apucăturĭ: cu bețiĭ, neinfrânărĭ, nepăsare și desgust. Vederea asteĭ femeĭ perdute omorî pe mamă și trimise în codru pe frate. Măria Ta, acea copilă cădută este țiĭtorea M. Tale; iat’o, adăogă scoțend pălăria și lăpědând ipingeaŭa unuia din ceĭ ce sta pe lângă el.</p>
+<p>De sub acel deghisăměnt apărù înaintea luĭ Ștefan fiĭnța cea maĭ puțin așteptată, iubita luĭ, amanta lui, frumósa Flóre pe care acum o ținea că este pe drumul mănăstireĭ dintr’un lemn. Věděnd’o Vodă scóse un țipet de spaimă și împreună cu el toțĭ boeriĭ se trase înapoĭ surprinșĭ.</p>
+<p>— Fratele eĭ, urmá Miu, a găsit’o pe drum mergênd nu sciŭ unde, la o mănăstire ca să sě róge să i sě ierte pěcatele câte a fost nevoită sě facă; el atuncĭ uitând jurămêntul ce făcuse d’a o perde, a adus’o aicĭ pentru a-ĭ face eù dreptată. Vědênd că nu e stînsă în ea tótă raza de aplicare spre bine, am jurat a o aduce pe calea cea dreaptă, d’a o da îndărăt lumiĭ cum a fost maĭ înainte, adecă, în loc de o fată bună și cinstită,o bună și cinstită femeie, și însuflețit de ăst gând, o aduc înaintea înșelătoruluĭ eĭ și îĭ dic: Ștefane-Vodă, astă copilă a fost curată ca argintul strecurat și tu aĭ acoperit’o cu tóte murdăriĭle; spal’o,</p>
+<p>curăț’o și ia-o de soție.</p>
+<p>— De soție eŭ? strigá Ștefan tresărind; eù un domn cu o fată de rênd! nicĭ-odată.</p>
+<p>— Ia-o, saŭ gătesce-te de mórte, strigă haĭducul cu o voce detunătóre.</p>
+<p>— Maĭ bine mort decât înjosit.</p>
+<p>— Nu te crede înjosit, dómne al orașelor, cu o asemenea soție; ea este sora domnuluĭ Codrilor, este sora mea....</p>
+<p>— Sora luĭ Miu! murmurá boeriĭ în cor.</p>
+<p>— Da boerĭ Dumneavóstră, da, cinstițĭ ipochimenĭ, este sora mea; așa e că de acum nu vě mai credețĭ rușinațĭ că a-țĭ ciocnit împreună paharele în ciasurile de bețiĭ și desfrânate? Veĭ face-o dómna M. Tale, de față cu mine, adăogá Miu adresându-sě cătră Vodă, saù de nu ... munțiĭ și pădurile iar vor începe să se clătéscă spăimên-tate de atâtea nelegiuirĭ.</p>
+<p>— M. Ta! strigá boeriĭ îngrozițĭ.</p>
+<p>— Ce veĭ câștiga dacă-țĭ veĭ perde zilele? obiectá Stavri.</p>
+<p>— Fie-țĭ milă de copiĭ noștri, replică un boer în vêrstă.</p>
+<p>— Frate, iertare, strigá Flórea cădênd în genunche la piciórele luĭ Miu, nu-l perde frate, fie-țĭ milă de tinereța luĭ, nu-l sili să facă aceia ce nu-l lasă inima.Maĭ bine să trăesc eŭ nenorocită în munțiĭ teĭ, decât el să móra.</p>
+<p>— Tacĭ femeie, strigá hoțul îmbrâncind’o puțin cam brutal, tu nu sciĭ ce dicĭ, nicĭ ce facĭ.</p>
+<p>— Ridică-te Flóreo, dise Vodă dându-ĭ mâna și nu mai plânge, căcĭ de azi încolo eștĭ femeia mea. Nu amenințările tale Miule, adăogá uĭtându-sě cu mândrie în ochiĭ căpitanuluĭ, ci rugăciunea ce țĭ-a tăcut astă copilă m’a îndemnat d’a face ceea ce fac.Boerĭ, vě înfățișez pe dómna vóstră; cum vom ajunge în Bucurescĭ, vom sěrbători nunta.</p>
+<p>— Să trăiască M. Sa Dómna, strigară boeriĭ și hoțiĭ descoperindu-sě.</p>
+<p>— Maĭ aĭ acum ceva cu noĭ Miule? zise Vodă luând pe Flórea de mână.</p>
+<p>— Ca frate, rěspunse acesta, numaĭ doùě cuvinte, doùě dorințe: să facețĭ nunta chiar astăzĭ, la pólele ăstuĭ munte, în biserica satuluĭ și să vě cununațĭ de față cu mine și ceata mea.</p>
+<p>— Bine, îțĭ voĭŭ îndeplini și astă dorință murmurá Vodă cam cu ciudă; afară de astea ma pretindĭ încă ceva?</p>
+<p>— Ca frate nu, dragă cumnate, dar ca căpitan al haĭducilor meĭ, am încă multe de dis.</p>
+<p>— Să le ascult și pe astea, rěspunse domnul reaședându-sě.</p>
+<p>— Iată ce dic omeniĭ meĭ, urmă căpitanul ședend și el; astă țâră- e a Românilor, Româniĭ trebue s’o și stăpânescă, așa cere dreptatea, dar în fiĭnță nu e așa. Greciĭ pușĭ de Turcĭ au răpit drepturile strămoșescĭ și ține tronul țěreĭ cu japca, supune țera la birurĭ și angarale, și țera și omeniĭ eĭ nu trag nicĭ un folos; tronul, prin urmare, este stăpânit de o haită de hoțĭ; ce să dicĭ? judecată haĭducescă!.... Noĭ, urmeză eĭ a judeca, suntem haĭducĭ, am luat cu topuzul în stăpânire codrurile, munțiĭ și drumurile cele marĭ, cum Greciĭ aŭ luat tronul țăriĭ fără voia eĭ; noĭ, ca și eĭ, globim și punem la bir pe cine găsim, în puterea aceleiașĭ legĭ carĭ îĭ îndreptățesce pe eĭ d’a globi și pune la bir: legea celuĭ maĭ tare. Pentru ce dar, dacă suntem d’acelaș soiŭ, adecă confrațĭ, să nu ne bucurăm și noĭ de ceia ce sě bucură eĭ ? de dreptul d’a ne face meseria nepedepsițĭ? de ce să nu fim și noĭ legiuițiĭ Domnĭ aĭ codrilor, cum sunt ei legiuițiĭ Domni ai orașelor? Noĭ avem un drept maĭ mare d’a ne bucura de ăst hatîr; noĭ prădăm pe bogat, iar pe sěrac ajutăm.; pentru ce dar să fim noi mai urgisițĭ? Vedĭ M. Ta, că dacă te gândescĭ maĭ departe cam aŭ o fărîmă de dreptate haĭduciĭ meĭ. Prietinesce vorbind, saŭ cum am zice între rude, noĭ și M. Ta facem aceiasĭ meserie, suntem tot un soiŭ de haĭducĭ care prin putere răpim munca celor slabĭ și ne însusim cu d’a sila dreptul altuia; pentru ce să nu ne ajutăm ca confrațĭ? pentru ce să nu ne apěrăm și să nu ne sprijinim uniĭ pe alțiĭ? Jefuesce M. Ta, jefuesce orașele și câmpiĭle, dar lasă-ne și noŭă un colțișor de țeră: munțiĭ și văile luĭ, și, trăind în pace, ajutându-ne, apěrându-ne, ne vom întări și ne vom înmulți.</p>
+<p>Astă propunere va părea de sigur cetitorilor curiósă și semeață; boerilor grecĭ însă nu păru tocmaĭ astfel. Eĭ îndată ce audiră că ceia ce vor răpi vor stăpâni nesupěrațĭ de nimenĭ, că de aci încolo nu vor maĭ fi furațĭ ca până acum de cetele lui Miu, ci din contră vor iĭ apěrați la vremĭ critice, sě adunară în jurul luĭ Vodă și după o mică deliberațiune îl convinse că astă propunere era maĭ mult în avantagiul luĭ.</p>
+<p>— Mě învoesc, rěspunse Ștefan după puțină gândire, îțĭ făgăduesc ca tu să fi mare și tare în haĭducie, cât voiŭ fi eŭ mare și tare în domnie, însă sub următorele îndatorirĭ: Să nu jefuescĭ nicĭodată pe omeniĭ meĭ de casă, să nu furĭ averea domniei mele, să nu prădezĭ moșiĭle domnescĭ după munte sau câmpiĭ; în colo fă cu țera ce veĭ putea; furățĭ neamul cum veĭ voi și păzesce-te de-a fi prins de ceĭ furațĭ, că altminterĭ ești perdut.</p>
+<p>— Mě învoesc rěspunse Miu, învoesce-te și M. Te la paza următorelor puncturĭ: să nu sě prade nicĭ odată omul sărac decât cu cât dice legea, să nu sě ia din casa săraculuĭ cel din urmă mijloc de hrană pentru birurĭ, să nu sě globescă nicĭ unul din omeniĭ meĭ, să cinstescĭ și să iubescĭ pe soția M. Tale și să nu calcĭ nicĭ una din învoelile de sus, căcĭ altminterĭ avutul M. Tale va fi răpit și chiar tronul și viața M. Tale vor fi smulse din ghiarele M. Tale. Nu te îngriji de mijloce; am prea multe, și ca să te încredințez de puterea mea, la cea dinteiŭ călcare a învoeleĭ te voĭŭ prevesti saŭ prin mine saŭ prin alțiĭ, d’aĭ fi chiar în sînul pământuluĭ.</p>
+<p>Ștefan primi învoiala, jură ca și Miu pe sfânta cruce, că va pădi tot ce s’a făgăduit și apoĭ sě sărută cu haĭducul frățesce, el și suita luĭ.</p>
+<p>În seara aceleĭ zile, Ștefan Vodă sě cunună la o bisericuță de lemn din vale cu amanta luĭ Florica, și a doua zi pe seară plecă spre Bucurescĭ împreună cu soția și curteniĭ sěĭ.</p>
+ </div>
+ <div type="chapter" n="7">
+<head>VII. Dracul.</head>
+<p>Fatală și rușinósă pentru Românĭ fu epoca Fanarioților, dar cea maĭ fatală și maĭ rușinósă parte din acea epocă fu scurta domnie a luĭ Ștefan Celian, domn slab și afemeiat, lacom și risipitor, poltron cu ceĭ maĭ tarĭ și fără îndurare cu cel maĭ slab ca el. Sermanul român era prada tuturor veneticilor, tuturor hrăpitorilor, tuturor tâlharilor ! avutul luĭ era al celor ce aveaŭ maĭ multă putere și câte odată maĭ multă îndrăsneală d’a i-l răpi, și viața luĭ jucăria capriciurilor orĭ-căruĭ grecoteĭ. Streiniĭ pusese mâna pe tote arterele sale vificătóre și le strângeaŭ și le storceaŭ de nu maĭ rěmânea în ele nicĭ un pic de putere, nicĭ o scânteie de viață.</p>
+<p>Boeriĭ sě atrofiase ca și poporul și ceĭ ce nu suferiaŭ să îndure jugul cel rușinos alergaŭ în pădure și sě făceau haĭducĭ; haĭducul ajunsese să apere viața, averea și onorea bĭetuluĭ Român; să nu vě surprindă dar pactul ce a făcut Miu haĭducul cu Ștefan Vodă, nicĭ să-l luațĭ drept o glumă saŭ scornitură; nedreptățile făcute de Fanarioțĭ eraŭ atât de săritóre în ochĭ, încât revoltaŭ chiar pe aceia ale căror inimĭ eraŭ învârtoșate de vărsări de sânge.</p>
+<p>„M. H.“</p>
+<p>Miu nu credu drept glumă pactul ce făcuse cu Vodă, ci sě puse cu tot dinadinsul d’a păzi condițiunile ce a jurat și d’a veghia ca și cealaltă parte să sě fie de vorbă. El prăda și jefui ca și maĭ nainte pe arendașiĭ împilătorĭ, pe neferiĭ hrăpitorĭ și pe bogătașiĭ streinĭ, care din calicĭ se făcuse omenĭ cu stare, dar de baniĭ domnescĭ nu sě maĭ atinse și carěle cu zacherale (proviziĭ) împěrătescĭ nu maĭ fură puse la bir. El pe când jefuia, schingiuia și omora fără de cruțare pe orĭ-ce străin îl cădea pe mână, dar totdeodată veghea, ca săracul să nu fie nedreptățit de omeniĭ stăpânireĭ, îngrijea ca strângetoriĭ de lude să nu ia mai mult decât li-sě cuvenia și sě lupta ca adunătoriĭ de birurĭ în natură să nu dea cu pleșca prin sate și să ia ce nu era cu drept.</p>
+<p>El credea că Ștefan sě ținea de vorbă și sě legăna în brațele asteĭ ilusiĭ, din causă că nu maĭ vedea pe nicĭ un sěrac înfruntând ca maĭ nainte întunecimea codrilor și asprimea munților, ca să vie pănă la el să sě jeluiască. Unul din haĭduciĭ luĭ însă într’o zi îl scóse din astă amăgeală și îl făcu să vadă prin propiĭ sěĭ ochĭ tristul adevěr.</p>
+<p>— Ia ascultă căpitane, dise el, de când prinseșĭ pe Vodă și boerĭ colea în codru nostru și în loc d’aĭ pune la globă sdravěnă ca să-șĭ cumpere viața, te puseșĭ sa facĭ cu el o învoială al căruĭ cuprins nu-l scim, veniturile nostre s’aŭ împuținat într’un chip simțitor. Nu maĭ dăm japca prin veniturile domnescĭ și carěle pline cu bogatele zăhărele merg nesupěrate pe drumurile cele marĭ ca să sature lăcomia pașalelor dela Diĭŭ și Giurgiŭ. Ce folos am tras noĭ din tote astea?</p>
+<p>— Noĭ nimic, dar sărăcimea forte mult.</p>
+<p>— Da de mult! strigă haĭducul pufnind de rîs.</p>
+<p>— Să cunsóce că n’aĭ glagorie d’o para măĭ Corbene, dise Miu cam înțepat; adĭ slujitoriĭ domnescĭ nu maĭ ia cenușa din vatra sěraculuĭ nicĭ vaca din bătătură ci numaĭ dreptul lor.</p>
+<p>— Cine țĭ-a spus aste nagode?</p>
+<p>— Cine? maĭ vedĭ glótele de jeluitorĭ năbuind munțiĭ noștri, ca să sě plângă de miĭle de nedreptățĭ?</p>
+<p>— Să cunósce că n’aĭ eșit de mult din codru, ca să te plimbĭ prin ale sate și orașe.</p>
+<p>— Tu mě speriĭ Corbene! strigá Miu sărind din locul unde ședea; ce fel a îndrăsnit Vodă să calce una din învoelele ce a încheiat cu mine? să nesocotéscă făgăduiala ce mĭ-a dat și să-șĭ calce jurămêntul ce a făcut?</p>
+<p>— Ba bine că nu, replicá Corbeanu.</p>
+<p>— Numai una? numaĭ doŭě? zise Mirilă; tóte, tóte pănă la una sunt călcate și nesocotite.</p>
+<p>— Dovediți-mĭ, dovediți-mĭ iute, strigá căpitanul furios, și vețĭ vedea cum scie Miu să-șĭ rěs-plătéscă împotriva călcătorilor de jurămênt.</p>
+<p>— Ia osteneală căpitane, rěspunse Mirilă, de te preumblă puțin prin sate și orașe și veĭ vedea cât de bine Vodă îșĭ ține cuvêntul; veĭ audi chiar prunciĭ țipând în pântecile mumelor de gróza pârcălabilor și vistierielor. Sunt în unele locurĭ ómenĭ care aŭ fost apucațĭ de zece orĭ să plătéscă ca-pitația legiuită în puterea unor lude mincinóse.</p>
+<p>— Voiŭ pleca, voiŭ pleca chiar din ăst minut, replicá Miu, voiŭ alerga pretutindenĭ, voiŭ merge pănă în Bucurescĭ, și încredințându-mě, vai lor!</p>
+<p>— Ce le veĭ face? căpitane, ce le veĭ face cu 40 de brațe?</p>
+<p>— Cu 40 de credincioșĭ ca voĭ, strigá fratele Floricheĭ, voĭ nimicnici 4000 de cochințĭ.</p>
+<p>— Dar 40,000 cu ce-ĭ veĭ birui ?</p>
+<p>— Pilda buna deștéptă simțirĭ amorțite, și baniĭ și făgăduele înviază pe ceĭ îndoelnicĭ și lacomiĭ. Sunt încredințat că voĭŭ isbuti fraților, sunt sigur; să vě găsesc sănětoșĭ, în curênd vețĭ avea veștĭ despre mine; aide cu mine Zorilă; deocamdată numaĭ ajutorul těŭ îmĭ este trebuincios.</p>
+<p>— Să nu te cunóscă cineva, căpitane, strigară haĭduciĭ încunjurând pe șeful lor ca să-șĭ ia adio; feresce-te să nu te dea cineva de gât.</p>
+<p>— N’avețĭ grije, rěspunse el stringendu-le mânile pe rênd. Mirilă, te las pe tine în locul meŭ: adu-țĭ aminte că eștĭ Român; fětul meŭ; lucrează ca un Român când veĭ pedepsi strâm-bătatea și veĭ ajuta nenorocirea; fiĭ ca și mine bun cu Româniĭ și rěŭ cu străiniĭ prigonitorĭ.</p>
+<p>Cincĭ minute după pronunțarea astor cuvinte Miu nu maĭ era între camaradiĭ sěĭ.</p>
+<p>Sórele apunea după un deal când întră în satul Gherghița doĭ grecĭ urmațĭ de vr’o șépte arnăuțĭ călărĭ ca și eĭ; venirea lor fŭ precedată de o mare mișcare în sat, și de vociferărĭ iuțĭ și sperióse: „fugițĭ că vin Turciĭ” strigaŭ toțĭ din tóte părțile eșind din casă și fugind spre pădure sperioșĭ.</p>
+<p>— Ah bostan de Vlah! strigá unul dintre grecĭ vědênd că presența lor a pustiĭt satul întreg, aŭ fugit eĭ, însă eŭ voiŭ sci să-ĭ silesc a sě întórce îndată din bajenărit. Arnăuțĭ, dațĭ raita prin pădurea vecină șĭ orĭ-ce suflet omenesc vețĭ găsi p’acolo aduceți-l încoa; tu ciauș scapără într’ur mototol de câlț și-l aruncă aprins pe învělitórea bisericiĭ.</p>
+<p>— Evghenis, murmurá ciaușul.</p>
+<p>— Supune-te, strigá fiul pléveĭ Stambuluĭ cruntând sprânceana; asemenea și voĭ, adăogá adresându-sě cătră arnăuțĭ. Acum după ce am rěmas singurĭ, vere Polilironie, să descălicăm și să mergem a rěscoli prin case.</p>
+<p>— Eŭ nu eram de părere să dăm foc bisericeĭ, rěspunse Polihronie, descălicând; de! este biserică ortodoxă și noĭ ca ortodoxĭ.....</p>
+<p>— Ce staĭ tu de vorbescĭ? întrerupse celălalt; Vodă nu scie de ortodoxie, nicĭ de biserici; el cere banĭ și noĭ asemenĭ; mojicul nu ese din cuiburile lupilor unde s’a vîrît prin nicĭ un mijloc pănă nu vede că casa Domnului este în primejdie.</p>
+<p>— Fă ce sciĭ, replicá Polihronie plecând capul în jos, eŭ n’am poruncit, eŭ îmĭ spăl mânile ca Pilat.</p>
+<p>După terminarea ăstuĭ dialog, legaliĭ agențĭ aĭ fisculuĭ întrară prin case întocmaĭ ca nisce voinicĭ din ceata lui Miu, adecă rupênd încuetorĭ și spărgênd ușĭ, și ca și eĭ procedară la strângerea dărilor ce pretindeaŭ, stricând lăcate și brosce, descuind lădĭ, tronurĭ și dulapurĭ și luând tot ce găseaŭ fără să întrebe pe nimenĭ și fără să prețuiască, împreună cu cineva din ceĭ interesațĭ, valorea lucrurilor luate. După ce făcură un maidăr de deósebite obiecte și scule, deteră un semnal ore-care și îndată se ivi un car condus tot de un grec; acest grec aruncă într’insul tote obiectele percepute după legea codrilor și apoĭ plecă de unde a venit. Acestă procedare legală era luminată de ultimele raze ale sorelui și de primele flăcărĭ ale foculuĭ ce cuprinsese clopotnița bisericuțeĭ.</p>
+ <p>Îndată ce sě rěspândi turbilionele de fum în aer și limbile de foc începu a cuprinde cu devastătorele lor brațe șindrila cea uscată de pe biserică, un țipet îngrozitor se audi eșind din pădurea vecină și după el sě ivi o mulțime mare de omenĭ, femeĭ bětrânĭ și copiĭ alergând țipând spre direcția bisericeĭ Fără nicĭ un instrument, fără topóre și maĭ fără apă, aceștĭ înfocațĭ iubitorĭ ai vetriĭ lor și ai bisericiĭ lor stinseră focul în câteva minute.</p>
+<p>După ce isbutiră să năbușescă incendiul, fiecare să îndreptă spre casă ca sě vadă ce le-a rěmas nejefuit de lăcomia grecăscă, dar deodată arnăuțiĭ eșiră din pădure pe unde-ĭ cătase în zadar și puse mâna pe maĭ mariĭ satuluĭ.</p>
+<p>— Pentru ce ațĭ fugit mojicilor când ne-ațĭ vědut? strigă camaradul luĭ Polibronie încolăcindu-șĭ piciorele pe un covor ce puse să-ĭ aștemă-pe o prispă.</p>
+<p>— Ne ertațĭ M. Ta rěspunse un moșneag bětrân căděnd în genunche, ne-aŭ mințit că vin turciĭ și noĭ biet de frică am voit să ne mântuim copiĭ.</p>
+<p>— Și dacă veneaŭ Turciĭ? ce era?</p>
+<p>— O! M. Ta! Turcul e păgân spurcat, el n’are milă.</p>
+<p>— Dar pentru ce v’ațĭ întors când ațĭ vědut biserica aprinsă?</p>
+<p>— Pentru că am cunoscut că nu sunt Turciĭ carĭ aŭ venit; Turcul pradă, omoră, jefuesce, caută, rěscolesce pădurea, apoĭ pârjolesce satul și tocmaĭ la urmă biserica.</p>
+<p>— Ce voĭ credețĭ că noĭ am dat foc la biserică? suntețĭ greșițĭ; popa de grabă ca să fuga maĭ iute, a lăsat vr’o luminare nestinsă....</p>
+<p>— Și luminarea a aprins tocmaĭ învělitorea bisericiĭ! întrerupse cu un ton ironic un individ îmbrăcat țěrănesce, care de câteva minute apăruse între țěranĭ.</p>
+<p>— Tacĭ tu mojicule; strigă încruntându-sě grecul; nimenĭ nu te bagă în vorbă. Dacă nu eram noĭ și arnăuțif noștri, urmă densul adresându-sě cătră bětrânĭ, biserica vostră ardea cu totul și pe lângă ea tot satul. Suntețĭ datorĭ să rěsplătițĭ cu 100 de turaliĭ pe aceștĭ vitejĭ care v’a mântuit avutul și legea.</p>
+<p>— Săraciĭ de noĭ! strigară țěraniĭ scărpinându-sě în cap, asta e curată năpaste; noĭ singurĭ ne-am stins focul, iar nu omeniĭ M. Tale ? de unde tătariĭ să maĭ scotem acum atâțea banĭ?</p>
+<p>— Nu crâcnițĭ neinulțămitorilor; faceți îndată cislă și numěrați colea baniĭ; pe lângă asta vețĭ maĭ plăti un bacșiș de 40 turaliĭ pentru că aŭ împrăștiat din acest sat o ceată de hoțĭ ce v’a prădat casele în lipsa văstră; mi-sě pare că eĭ eraŭ din ceata lui Miu.</p>
+<p>— Vaĭ de noĭ! suntem și prădațĭ! suspinară biețiĭ Românĭ.</p>
+<p>— Nu de tot, fiĭnd că am venit noĭ din vreme. Pe lângă astă sumă, adăogațĭ aceia ce ni sě cuvine pentru 300 de lude, pentru ploconul isprăvnicieĭ, ploconul sămeșiĭ, sfertul dajdiĭ, oerituluĭ și vinărituluĭ, sfertul pentru găleată, și pentru oia secă, pogonăritul, văcăritul și ierbăritul pe un an întreg, și peste astea tote 30 de talere globă pentru zăbava ce a-țĭ făcut de-a plăti capitația, bez atâtea pentru că v’ațĭ arětat rěsvrătitorĭ și nesupușĭ porunciĭ stăpânescĭ.</p>
+<p>— Aulio măiculiță! strigară sîrmaniĭ muncitorĭ acoperindu-șĭ fețele cu mânile; ce nevoĭ maĭ sunt și astea! alaltăerĭ plătirăm de ne-am spetit.</p>
+<p>— Tăcețĭ mocârțanilor și nu vě întindeți maĭ mult că vě rup spetele; a-țĭ plătit deunădĭ capitația pentru haraciul împěrătesc, pentru ploconul baiaramuluĭ, pentru goștină și.... și a-țĭ maĭ dat pentru zahereaua ce sě adună pentru curtea împěrătescă: unt, brândă și puĭ. Aia e altă dare, alta este asta ce vĭ cerem acum.</p>
+<p>— Dar după care pravilă și după care poruncă, cinstițĭ boerĭ împilatĭ pe biețiĭ omenĭ cu asemenea dărĭ despuitore? zise cu o voce sonoră necunoscutul țěran puindu-sě în fața evghenistuluĭ, care fuma pe covor în mijlocul mulțimeĭ de omenĭ ce plângeaŭ și se jeluiaŭ.</p>
+<p>— Nu este treaba ta mojicule, rěspunse grecul cu flegmă; nu este datoria vostră să întrebațĭ pentru ce plătițĭ, ci să plătițĭ; tacă-țĭ dar gura dacă vreaĭ să nu mănâncĭ o păruială ce n’aĭ gustat de când eștĭ.</p>
+<p>— Zěŭ! de grabă țĭ-o fi ? rěspunse acesta cu sânge rece, ia fă bunătate de scăte la ivelă porunca domnescă, în puterea căria punețĭ birurĭ pe norod.</p>
+<p>— Ia umflați-l strigă grecul, adresându-sě cătră arnăuțĭ.</p>
+<p>— Nu vě apropiațĭ, că vě sdrobesc țestele, strigă streinul scoțend doŭě pistole dela brîŭ și îndreptându-le spre arnăuțĭ; nu maĭ plângețĭ fraților adăogă streinul, căcĭ străin era pentru sătenĭ acest om al luĭ D-deŭ, ci armați-vě cu ce putețĭ ca să gonițĭ din bătătură aste lifte lacome si fricóse.</p>
+<p>— Nicĭ o mișcare de energie nu rěspunse acestui apel eroic; toțĭ sě retrase la o parte tremurând de frică.</p>
+<p>— Mișeilor! esciamă străinul indignat, voĭ nu maĭ suntețĭ Românĭ; frica v’a amorțit chiar inima; dacă nu vrețĭ voĭ să mě ajutațĭ, am la cine alerga eŭ.</p>
+<p>— Înhățați-l, strigară greciĭ cătră arnăuțiĭ, care sě fereaŭ de gurile pistălelor.</p>
+<p>— La mine vitejiĭ meĭ, strigă streinul fluerând, la Miu; sunt eŭ căpitanul vostru, eŭ Miu care vě chem.</p>
+<p>Un fluerat depărtat, acela al luĭ Zorilă, care era ascuns în pădure rěspunse acestuĭ apel curagios și după el o generală aclamațiune.</p>
+<p>— Trăiască Miu, trăiască căpitanul haĭducilor, morte grecilor, eși din pepturile țěranilor și cu toțiĭ năvăliră spre arnăuțĭ; biețiĭ omenĭ îndată ce audiră de Miu, prinseră curagiŭ și goniră din inimile lor ghețul friceĭ.</p>
+<p>Nu maĭ e de vorbit să vě spun că greciĭ cu arnăuțĭ cu tot aŭ tulit'o chiar din minutul când a audit că Miu era lângă eĭ; asemenea a dispărut și căpetenia haĭducilor în învălmășela entusiasmuluĭ.</p>
+<p>Ștefan Vodă în aceiașĭ zi chemase în juru-ĭ pe toțĭ favorițiĭ curțiĭ sale, adecă pe ceĭ maĭ lacomi grecĭ ce venise cu sine din Constantinopole spre a pune trebile țěreĭ, adecă ale lor la cale.</p><p>Pe când sě petrecea unele ca cele descrise maĭ sus prin lăcașurile mojicilor de sătenĭ, în lăcașul aceluia ce le provoca, adecă în palatul luĭ Ștefan Vodă Racoviță, era adunat un sfat mare însoțit de petrecerĭ și zaiafet. Ceĭ ce venise maĭ de vreme așteptaŭ în anticameră pănă să le vie rândul să sěrute pola M. Sale, când sě va scula din pat, și aceia ce eșise din iatacul domnesc, cum am zice ceĭ maĭ intimĭ, trecuse într’o cămară laterală ca sě vorbescă între sine, să sě consulte și să sě întrebe despre motivul acesteĭ chemărĭ. După ce sě termină ceremonia sărutăriĭ poleĭ, trecu și M. Sa, în acestă cameră și după câteva dialogurĭ neinsemnate schimbate cu uniĭ boerĭ, zise adresându-sě cu voce tare cătră toțĭ:</p>
+<p>— V’am chemat, cinstițĭ boerĭ și prietinĭ să ne sfătuim despre multe păsurĭ ce bântue domnia nostră și țera ce domnim; maĭ înteiŭ despre mijlocul prin care să înlăturăm fără de rěutate de lângă persona nostră fiĭnța, pe care ani fost nevoit s’o primesc sub numele de domnă a mea într’un minut de primejdie și amețire cunoscut de Dumneavostră, si apoĭ spre a ne sfătui în privința chipuluĭ prin care să stîrpim pe acel tâlhar îngrozitor, care a ajuns spaima țěreĭ întregĭ. Aștept să sósescă Stavri și pe urmă să ne întrunim cu toțiĭ în camera Spătărieĭ și să ne adunăm tote înțelepciunile și ispitirile la un loc spre a găsi un mijloc repede și puțin primejdios, prin care să dobândim stârpirea țěreĭ întregĭ.</p>
+<p>— Postelnicul Stavri, anunță un copil de casă.</p>
+<p>— Deschide ușile cămăreĭ tronuluĭ, rěspunse Vodă, și lăsațĭ să între aceĭ ce ne așteptă. Să-ĭ urmăm și noĭ boerĭ, adăogă sculându-sě și îndreptându-sě spre una din ușĭ.</p>
+<p>Pe când Vodă și boeriĭ întră pe ușa cea mare a săliĭ Tronuluĭ, pe altă ușe care comunica cu haremul, eși un om călcând în degete și închidend ușa fără sgomot întocmaĭ ca o nălucă.</p>
+<p>— Dați-vě părerile, iubițiĭ meĭ, adăogă M. Sa, oprindu-sě aprope de tron, sfătuiți-vě maĭ înteiŭ și pe urmă luminați-mě și arătați-mĭ cum să vě fac pe deplin fericițĭ, cum să vě pot da maĭ multe averĭ și ghelilurĭ și cum să vě apěr de tâlhariĭ aceia ce v’am dat?</p>
+<p>— Să ne armăm cu mic cu mare, noĭ și slujitoriĭ noștri și să călcăm fără veste munțiĭ unde se ascunde haĭta luĭ Miu, îșĭ dete părerea unul.</p>
+<p>— Să punem preț mare pe capul asteĭ căpeteniĭ de tâlharĭ, obiectă altul.</p>
+<p>— Să cumpěrăm unul dintr’aĭ luĭ, zise al treilea.</p>
+<p>— Să punem birurĭ și angarale grele pe sate ca să ni-l prindă și să ni-l dea pe mână viŭ saŭ mort, opină un al patrălea.</p>
+<p>— Să formăm și noĭ o bandă de tâlharĭ, rěspunse al cincelea, leită la năravurĭ și îmbrăcăminte ca a luĭ Miu, astă bandă să prade satele moșnenilor bogațĭ și pe boeriĭ pământenĭ, să sě împretinească cu ceata luĭ Miu, să sě pue chiar sub poruncile luĭ și odată, când le-o veni bine, să pue mâna pe el și să-l piardă; atuncĭ ceata luĭ sě va împrăștia și.... aceea ce acum întră în punga luĭ, atuncĭ va întră într’a nostră.</p>
+<p>— Bun pentru frate, rěspunse Vodă, dar pentru soră?</p>
+<p>— Pentru M. Sa domna? murmură uniĭ uitându-sě în juru-le cu frică.</p>
+<p>— Nu e vorbă aci de domnă, eŭ nu sunt însurat; o jucărie făcută la umbra unul munte și nebine-cuventată de un arhiereŭ nu e cununie domnescă recunoscută de Dumnedeŭ. Prea sfinția sa Metropolitul mi-a spus’o.</p>
+<p>— A avut dreptase Prea o sfinția sa, rěspunse Stavri.</p>
+<p>— Este o înclinare trecětore, urmă Vodă, mi s’a urît cu acea înclinare; voiŭ să mě însor ca un domn; Domnul Moldoveĭ mĭ-a vorbit de fie-sa și de doŭě milione de talere.</p>
+<p>— Astă sumă nu e de lăpědat M. Ta, zise un velit, învoiți-vě stăpâne și cât pe cealaltă..... mănăstirile nu sunt făcute de geaba.</p>
+<p>— Pe lângă mănăstirĭ, întrerupse altul, maĭ se întrebuințeză pe la soroce nisce běuturi, care adorme și nu deșteptă.</p>
+<p>— Nu voiŭ să o omor, rěspunse Vodă. dar voiŭ să i-sě ștergă numele; stațĭ jos cinstițĭ boerĭ și chibzuițĭ pănă să găsițĭ un mijloc.</p>
+<p>Aste cuvinte le zise îndreptându-sě spre tron ca să ședă pe el, dar suind o treptă stătu în loc și cu mirare luă după perna tronuluĭ un petec de pergament.</p>
+<p>— Ce va să zică una ca asta? zise el! cine a pus astă hârtie pe tronul meŭ; vedĭ logofete Apostolache ce este scris pe ea?</p>
+<p>Logofětul, după ce salută făcând o profundă, temenea, ceti cele următore:</p>
+<p>„Miu, Domnul codrilor, cumnatuluĭ sěŭ Ștefan, Domnul orașelor. “</p>
+<p>„Iubite cumnate,</p>
+<p>„Aĭ călcat multe din alcătuirile învoeleĭ nostre și îțĭ „daŭ cea dinteiŭ însciĭnțare; sěracul sě prădeză, nevinovatul sě năpăstuesce, věduva și sărmanul sě apasă; bagă de „seamă căcĭ dacă nu veĭ face să înceteze unele ca astea, „Miu sě ține de cuvent, el are acum sub poruncile luĭ „20,000 de omeni și mâne 200,000; el sě bucură de mijloce puternice, care ajung pănă în cămara de culcare a„M. Tale; păzesce-te, și scuipă-țĭ în sîn, căcĭ dacă acum te pedepsesc numaĭ prin pagubele ce-țĭ voia pricinui, te prevestesc că cu al doilea prilej voiŭ fi nemilos. “</p>
+<p>— Soră-sa l’a pus aicĭ, zise unul din boerĭ</p>
+<p>— Nu, soră-sa este dusă de doŭě sěptěmâni la o mănăstire de peste Olt, rěspunse Vodă.</p>
+<p>— Vre-un credincios al eĭ.</p>
+<p>— Toțĭ sunt dușĭ cu ea. Comise numaĭ tu poțĭ a ne lămurĭ mai bine.</p>
+<p>— Măria Ta, rěspunse Comisul, scie bine că am încuiat tote cămările haremuluĭ și cheile le-am dat în mâna M. Tale, p’acolo n’a putut întră nimenĭ ; asemenea nicĭ pe ușa cea mare care am descuiat’o înaintea Postelniculuĭ Stavrache, nicĭ pe ușa pe unde a-țĭ intrat M. V.; ușa despre harem, cum vedețĭ este încuiată.</p>
+<p>— Cine dar a adus astă scrisore? strisă Vodă supěrat</p>
+<p>— M. Ta, rěspunse Comisul uitându-sě cu băgare de seamă la scrisore, pbte că dracul a adus’o după cum glăsuesce chiar astă carte. „Nu „te gândi cum am pětruns pănă aci, dice Miu, „nicĭ cum pot pětrunde ori unde; eŭ sunt dracul, „înainte-mĭ tote ușile sě deschid?</p>
+<p>— Pote să fie; dise unul scuipându-și în sîn.</p>
+<p>— Nu e de mirare, replică altul fâcendu-șĭ cruce.</p>
+<p>— Este maĭ tare decât puterea lovitureĭ nostre! esciamâ un al treilea clătind capul.</p>
+<p>— Să răbdăm și să ne supunem, urmă un al patrălea suspinând.</p>
+<p>— Nu cred să fie așa puternic, zise cu něcaz Vodă; să cercăm a-ĭ lovĭ maĭ cu tărie căcĭ pote să eșim biruitorĭ.</p>
+<p>— De prisos orĭ-ce cercare M. Ta, rěspunse boeriĭ înfiorându-sě; a sě lupta cineva cu omeniĭ, calea-valea, dar cu dracul.... bîrr!....</p>
+<p>— Fricoșilor, ripostă Ștefan cu dispreț; eșițĭ nu maĭ am nevoe de voĭ; mě voiŭ scăpa eŭ de el cum voiŭ sci și aceea ce voiŭ câștiga nu voiŭ maĭ împărți cu voĭ.</p>
+<p>Boeriĭ suriseră cu neincredere auind astă amenințare și eșiră binișor din palat.</p>
+<p>— Doŭă milione! să perf doŭă milione talere? strigă Vodă rěmâind singur, apoĭ să rěmâĭ și cu o iubire stinsă pentru vecie! nu sě pote; Miule fi om, orĭ drac, nu-mĭ pasă, eŭ tot te voiŭ birui.</p>
+ </div>
+ <div type="chapter" n="8">
+<head>VIII. Florica.</head>
+ <p>În timp de 2 lunĭ Dracul, saŭ maĭ bine Miu, care singur în personă pusese pe scaunul domnesc primul avertisment, ca unul ce avea un al doilea esemplar din tote cheile suroriĭ sale, s’a ținut de vorbă; a prădat și jefuit tote bunurile domnescĭ ce-ĭ căduseră în mână, a răpit toțĭ baniĭ ce sě adusese la curte de sameșĭ și vistierieĭ după lude și alte dăjdiĭ, a călcat tote nămestiĭle Comisieĭ cele maĭ bine apěrate și a trecut sub foc și sabie tot ce a fost maĭ iubit de câtră Cehan și consilieriĭ sĕĭ. Vodă însă, nu șĭ-a schimbat purtarea, n’a încetat d’a apěsa și împila biata sěrăcime și nu a consimțit a pune frâŭ abusurilor și strâmbătăților.</p>
+<p>Un țipet de groză eșia din tâte pepturile, un suspin de durere din tote inimile: nu era Român, bogat saŭ sărac, care să nu sufere vr’o nedreptate din partea guvernuluĭ și a Grecilor luĭ; părea că sunase ora cea din urmă a acesteĭ țěrĭ atât de binecuventată de Dumnedeŭ și așa de maitratată de omenĭ.</p>
+<p>Afară de acest flagel sě adăogă încă unul: orde întregĭ de Turcĭ, de Bulgarĭ și Arnăuțĭ comandațĭ de câte o căpetenie treceaŭ Dunărea, jefuiaŭ și robiaŭ pe locuitoriĭ din vecinătate și apoĭ treceaŭ dincolo încărcațĭ de vite și sciavĭ fără să fie apărațĭ de oamenĭ stăpânireĭ. Aceștia nu numaĭ vedeaŭ și tăceaŭ, dar și le daŭ ajutor ca să dobândească har înaintea prea Puternicilor Pașele după lângă Dunăre. Nenorocitul țěran spăĭmentat de aceste călcărĭ sărăcitóre și omorîtbre începuse a năpusti casă, câmp și orĭ-ce avere ca să-șĭ scape viața sa și a familiĭ sale prin prăpăstiĭle munților; dar nicĭ acolo nu găsea pace! Aci era globit de strângětorul de lude, aci jefuit de cătră bande de pârcălabĭ mincinoșĭ, care îĭ despoiau pe față ziŭa nămiezea mare cu legea în mână, aci prădat de nenuměrate bande de hoțĭ, hoțĭ în puterea cuvântuluĭ, care ucideaŭ și despoiaŭ pănă la piele pe sěrac și bogat, pe Român și pe străin, și sub numele luĭ Miu, comiteaŭ cele maĭ marĭ nelegiuirĭ. Din aste bande, unele eraŭ subvenționate de grecime și compuse din tot ce a avut Bulgaria și Turcia maĭ înjosit și maĭ fără de lege, iar altele jefuiaŭ pe comptul lor și eraŭ compuse din streinĭ, care vědând că dincoa de munțiĭ lor e sat fără cânĭ, ei trecuse ca să sě plimbe fără ciomag. O panică oribilă domnia pretutindenĭ! Sârmana Românie devenită prada tuturor veneticilor, ajunsese să fie apărată numaĭ de o mână de omenĭ: de banda luĭ Miu, o ceată de haĭducĭ.</p>
+<p>Ce făcea guvernul? Ce făcea boeriĭ țereĭ? Ce făcea poporul? Guvernul ca străin, nedurându-l inima de păsurile țěreiĭ, bea, mânca și subsemna ordine peste ordine scornitóre de imposite; boeriĭ, ca totd’auna după obiceiul lor, năpustise țera pe mâna grecilor și îșĭ risipea imensele lor averĭ stăruind pe lângă curțile streine, ca să dobȇndească tronul țěreĭ prin banĭ și intrige și poporul, sermanul! el nu scia ce să facă, încătrăŭ să apuce și unde să sě adăpostescă, de câte nevoĭ eraŭ pe capul sěŭ; în inima sa abătută de atâtea suferințe, sě stinsese maĭ tot simțěmântul omenesc.</p>
+<p>În acel timp de groză citat de istoricĭ între cele maĭ oribile din câte aŭ fost, rěmăsese numaĭ un cap și câte-va brațe, care să apere pe Românĭ de urgia streinilor și a creaturilor lor, un om, care n’avea nicĭ sciință nicĭ capacitatea unuĭ conducětor, și nu dispunea de mijloce legale spre a practica acea curagiósă apěrare! Însă acel om, acele brațe eraŭ în destul de puternice ca să pue pe gândurĭ pe puterniciĭ dileĭ și pe aceia ce eraŭ tolerațĭ d’a comite fără-de-legĭ, pentru că domnia în consciĭnța lor o credință nestrămutată că-șĭ făceaŭ datoria de bunĭ Românĭ. De multe orĭ numele luĭ Miu a oprit pe Ștefan a dicta vre-un nou ordin apăsător, de multe orĭ spaima luĭ Miu a înfrânat lăcomia Grecilor, de multe orĭ fantoma luĭ Miu a înfiorat pe ucigașiĭ poporuluĭ și i-a silit să redea aceia ce jefuise prin îngrozire și împilare. Pe fie-care zi sě audia cumcă un sat călcat și împresurat de bande de incursorĭ streinĭ, a fost mântuit de Miu și omeniĭ luĭ, carĭ ca o furtună venită din senin, au cădut peste împresurătorĭ și i-a risipit ca p’o colonă de fum; pe fie-care zi sě ducea vestea că un oraș a fost scăpat prin Miu de o numěrósă ceată de streinĭ vagabondĭ; pe fie-care zi sě împrăștia scirea că prin Miu s’aŭ alungat mulțĭ perceptorĭ mincinoșĭ, care cădeaŭ năpaste pe vre-o plasă din țeră spre a îmbogăți cine scie pe ce influent al zileĭ; de multe ori chiar omeniĭ Domniĭ! aŭ fost oprițĭ de Miu d’a comite abusurĭ și escesurĭ.</p>
+<p>„M. iĭ." 6</p>
+<p>Astă conduită nedemnă de un hoț, a cărei misiune e d’a face numai reu și strâmbătațl, atrase asupra neințelesului cap de haiduci, ura tuturor acelora ce se temeau de el. Greciĭ, or-dele incursorilor de peste Dunăre, bandele de tâlhari îșl dete cu toțiĭ mâna ca să piairză pe acest om, care le causa multe neajunsuri. Cel puternici din Bucurescî, să jurară a-l nimici cât mai curend și mai curend a pune în lucrare ceea ce hotărîse la svatul din sala tronului, fiĭndcă poporul Român începuse a se agita în toropeala somnului seu și a da semne de o curendă deșteptare. Din multe părți ale țerei începu a se auzi murmure de nemulțumire și cercări de resistență; aste simtome provocate în general numai de omeniĭ lui Miu, care din ce în ce îșl înmulți a forțele, era demne d’a nelinisci pe aceia ce voiau ca Româniĭ să dormă în etern spre a putea să fie esploatați în voe.</p>
+<p>Miu se informă de tote manoperile inimicilor sel și de cualițiunea lor secretă, și, ca să le de-joce planurile, se decise a da fie-căruia inimic pe neașteptate și succesiv câte o lovitură țepănă. Ștefan fu pus mai înteiu de toți pe listă.</p>
+<p>Pe când Miu discuta cu cel mai intimi camarazi al sel planul prin care se ajungă la scop, Curtea lui Ștefan Vodă se muta din capitală la una din moșiĭle Măriĭ Sale și petrecea în veseliĭ de tot felul la umbra unor ziduri țapene r fortăreață ce încunjurau un palat de vară. palat era terminat de curend prin nenum brațe de Români, care fusese luate de beiĭ fusese durat, fortificat cu parapeturî gróse și șanțuri adencî dinadins, ca să serve domnitorului de refugiu în timpuri grele; arta însă a unor archi-tedĭi faimoși, sciuse a da solidului o eleganță demnă d’a goni urîtul din sufletul unui prisonier. Eleganța architecturei și frumsețea grădinilor ce o încunjura se întreceau între ele pentru ca sa facă pe omul, care era acolo să se crează în mijlocul paradisului. Cu cât sânge o mai fi fost frământat varul ce cimenta pîetrile și cărămizile astei zidiri! cu câte sudori or fi fost udate florile și arboriĭ, cu câte lacrime o fi fost amestecată apa ce cădea din basinurl în plole de diamant!</p>
+<p>Vodă într’una din primele zile de tbmnă ale anului 1765, sta într’o rină pe o sofa ce era așezată într’un cochet chioșc dintr’un desișl al gră-dinel și bȇnd cafea și fumând dintr’un lung ciubuc, vorbea cu Stavrache cam în modul următor:</p>
+<p>— Nu te-aĭ maĭ dus postelnice pe la Țarigrad, să afli ce sě petrece p’acolo? Aĭ părăsit capuchehaiatul de când am venit eŭ în țâră și abia odată aĭ maĭ dat p’acolo, nu seim ce o fi zicend vi șirul și pașalele de noĭ.</p>
+<p>— Măria Ta, rěspunse favoritul, să n’aibĭ teamă de vizir și pașale, eĭ sunt ca rotele caruluĭ: nu scârțăe câtă vreme sunt unse. M. Ta, îțĭ împlinescĭ datoria cât se pote de bine, pentru ce să maĭ murmure?</p>
+<p>— Maĭ sciĭ pentru ce? ce e drept ploconele și bacșișurile sě împart la Constantinopole cu grămada; mě ține maĭ bine de 20,000 de pungĭ pe fie-care an, însă Turcul e lacom și nemulță-niĭtor, vinde pentru un preț maĭ mare pe acela ce îl îmbuibă cu maĭ multe bunătățĭ.</p>
+<p>— Fiĭ pe pace M. Ta; nicĭ-odată nu pbte da cel ce umblă cu jind pe lângă stup maĭ mult decât cel ce are stupul în mână.</p>
+<p>— Așa e, dar maĭ sunt nădejdele și făgă-duelele.</p> 
+<p>5'</p>
+<p>— Turcul scie proverbul mojicilor de Românĭ; maĭ bine adĭ un oŭ decât mâne un boŭ și sě ține de el!</p>
+<p>— Să dea Dumnedeŭ, dise Ștefan suspinând însă, nu sciu de ce, de câtă-va vreme mi-sě bate ochiul stâng, care mĭ-a băgat o frică în inimă de mě face să visez fel de fel de bazagoniĭ înfiorătore.</p>
+<p>— Jucăriĭ d’ale nopțiĭ stăpâne.</p>
+<p>— Nu sciŭ ce să cred, însă drept îțĭ spuiŭ, mĭ-e frică c’o ajunge până la Sultanul murmurile acestor nemulțămițorĭ de Românĭ și mĭ-o aduce asupra capului vr’o urgie neașteptată.</p>
+<p>— Nu te teme de nimic din acea parte stăpâne; cât veĭ avea banĭ, Turciĭ sunt mieĭ.</p>
+<p>— Oh! pentru ale sătura lăcomia și a scăpa de vremurĭ rele, am făcut ce am făcut pănă acum spre a aduna banĭ. Credĭ că dacă n’așĭ fi fost silit de astă nevoe, m’aș fi purtat așa de rěŭ cu locuitoriĭ acesteĭ țěrĭ, care m’aŭ înălțat și îmbogățit? Nu, din potrivă m’aș fi silit să fiu iubit de el, cel puțin cât este Miu.... un tâlhar!....</p>
+<p>— Să părăsim aste gândurĭ, stăpâne, dise confidentul sculându-sě repede după divanul pe care sta; ele sunt prea posace, v’a întristat fața; să vorbim maĭ bine de altceva, spre pildă de sora ăstuĭ haĭduc.</p>
+<p>— De Florica! de Domna mea?</p>
+<p>— Domna M. Tale! escianiâ rîzând Fanariotul.</p>
+<p>— La dreptul adevěr e Domnă, dise Vodă oftând, și ar avea drept, sermana fată, să porte ăst nume în fața lumiĭ întregĭ, căcĭ mě iubesce și numaĭ eĭ datorez viața.</p>
+<p>— Și mortea tot eĭ o datoraĭ dacă frate-sěŭ voia să te piardă, căcĭ ea ne-a vândut.</p>
+<p>— Nu sě scie, hoțiĭ a prins’o pe drumul mare fără s’o cunoscă.</p>
+<p>— Să cunosce stăpâne că tot o iubescĭ, căcĭ îĭ crezĭ tote poveștile ce-țĭ spune; eu în locul M. Tale, aș avea teamă să iubesc o soră de hoț, prin mijlocul căria pote a intrat superstiția în boerĭ că frate-sěŭ e însușĭ dracul.</p>
+<p>— Tacĭ gură rea, dise Vodă cu ore-care umor; ce putea ea să facă din Rîmnic în Bucurescĭ?</p>
+<p>— Ce nu sě pote să facă o șoĭmană de mu-ere hotărîtă ca ea?</p>
+<p>— Tacĭ, îțĭ dic, repetă stăpânul sěŭ puindu-ĭ mâna la gură; iat’o că vine încoa; am maĭ spus odată că nu pot să mě despart de densa, nu pot să trăiesc o zi fără s’o věd, am prins slăbiciune de ea, prin urmare voiŭ să n’o mâhnesc, ci s’o socotesc, dacă nu ca p’o domnă, cel puțin ca p’o țiĭtore.</p>
+<p>Pe când Vodă și confidentul sěŭ termina acest dialog, Florica strecurându-sě cu un pas ușurei printre boșchete și florĭ, ajunse la ferestra chioșchiuluĭ și apucând capul soțuluĭ sěŭ între mânĭ îĭ depuse pe frunte o sărutare înfocată și apoĭ îĭ dise:</p>
+<p>— Măria Ta, căpitanul arnăuților vě caută pretutindenĭ ca să vě spue ceva.</p>
+<p>— Și a găsit un copil de casă frumos ca tine, zise Vodă suridend, ca să-șĭ spue dorința luĭ? de când aĭ intrat sub poruncile mareluĭ Comis, fru-mosa mea porumbiță?</p>
+<p>— De când este trebuință d’a sě priveghia asupra zilelor M. Tale maĭ mult ca orĭ când, rěspunse sora luĭ Miu, cuprinzend mânile lui Ștefan cu micele și grăsuliele eĭ mânĭ.</p>
+<p>— Ce fel? strigă Vodă suridend și înfiorându-sě deodată, are vre-un amestec cu viața mea acel raport al căpitanuluĭ meŭ?</p>
+<p>— Da, așa zise el, rěspunse Florea.</p>
+<p>— Să vie încoa ca să aflu în ce grozavă primejdie sě află bietul meŭ cap? zise Vodă rîdend.</p>
+<p>— Nu rîde, M. Ta, nu rîde, strigă amanta luĭ cu aprindere; nu te juca cu o viață care îmĭ este atât de scumpă.</p>
+<p>— N’aĭ teamă, copilă, rěspunse iubitul eĭ mângăind’o pe cap; voiŭ lua orĭ-ce měsuri de apěrare ce veĭ crede tu că sunt de cuviĭnță.</p>
+<p>După câteva minute căpitanul arnăuților era înaintea luĭ Vodă.</p>
+<p>— Ce voeștĭ? dise Ștefan ofițeruluĭ, scoțând imomeaua ciubucului din gură și încruntând sprâncenele.</p>
+<p>— M. Ta, un trimis al spătaruluĭ Spanopolu așteaptă împreună cu 100 lefegiĭ în dreptul poduluĭ cetățueĭ porunca d’a întră înăuntru.</p>
+<p>— Ce vrea el și omeniĭ ce-l însoțesc? replică domnul aruncând o ochire spre Stavrache.</p>
+<p>— Voesce, M. Ta, să fie înfățișat înaintea M. Tale, spre a-șĭ îndeplinĭ sarcina ce i-a încredințat marele Spătar.</p>
+<p>— Portă cu densul vre-o scrisore? întrebă Capuchehaiaoa.</p>
+<p>— Da.</p>
+<p>— Să aducă scrisorea aci și să aștepte nouĭ poruncĭ.</p>
+<p>— Spune că are poruncă d’a o da singu mânile Măriei Sale.</p>
+<p>— Să vie încoa singur, răspunse Vodă însoțitoriĭ lui să aștepte afară.</p>
+<p>Ordinul domnesc fu esecutat și curierul Spătaruluĭ, fu întrodus înaintea luĭ Vodă.</p>
+<p>— Ce aĭ să-mĭ spuĭ ? dise acesta, reluând imo-meaoa ciubuculuĭ între dințĭ.</p>
+<p>— Măria Ta, rěspunse noul venit, care era un oștean înalt la statură cu fața pârlită de sóre și cu pěrul peste tot albit de anĭ, îngrijitóre vorbe sună prin oraș; vrășmașiĭ Mărieĭ Tale și prieteniĭ Ghiculescĭlor aŭ început să ridice capul din pulberea unde zăcea de maĭ bine d’un an și să scótă la ivélă vorbe rěsvrătitóre.</p>
+<p>— Astfel e învěțul nemulțumiților scoșĭ din pâne, dise într’un mod sentențios Stavrache.</p>
+<p>— Aĭ să-mĭ spui altceva? întrebá Ștefan.</p>
+<p>— Da, Măria Ta, sě vorbesce cu încredințare că s’ar ti plătit capul Mărieĭ Tale de cătră rudele boerilor isbițĭ de dreptatea Mărieĭ Tale și că ucigașiĭ nu sunt departe de Măria Ta!</p>
+<p>O tresărire nervósă trecu prin corpul Flóreĭ, când audi aceste cuvinte.</p>
+<p>— Alt? întrebá Ștefan fără a sě arăta că sě turbură.</p>
+<p>— Nimic decât astă scrisóre, rěspunse curierul închinându-sě și înmânând lui Stavrache o epistolă sigilată.</p>
+<p>— Căpitane Grivas, dise Vodă adresându-sě cătră căpitanul arnăuților, du-te de ospětează pe noul venit după cuviĭnță și așteptațĭ în spătărie pănă ce ve voiŭ chema. Căpitanul sě supuse și după ce eșiră ceĭ doĭ căpitanĭ, Vodă zise postelniculuĭ :</p>
+<p>— De cine este scrisă pisania?</p>
+<p>— Pe înveliș este scrisă cu însușĭ condeiul luĭ Spanopolu, rěspunse postelnicul, asemenea și pecetea e tot a luĭ.</p>
+<p>— Bine cetesce.</p>
+<p>— „Măria Ta, citi Stavrache pe epistola ce „desfăcŭ, o mare primejdie aternă asupra sfân-„tiluĭ cap al M. Tale; am descoperit cu sigurip-„senie, ca arnăuțiĭ ce păzesc cetățuia cu căpitan „cu tot, sunt vênduți luĭ Scarlat Ghica, care umblă să răpáscă tronul M. Tale ; dovedile le voiŭ „aduce eŭ însumĭ îndată ce m’oiŭ vindeca de bóla „ce mě ține în pat. N’am încredințat nimuruĭ taina „decât căpitanului ce vě aduce astă carte, fiĭnd-că „nu puiŭ temeĭ de bună credință în nimenĭ afară „de el. Dacă voiescĭ ca cel rěŭ să nu iasă biruitor, poruncesce d’a scóte din cetate pe toțĭ ar-„năuțiĭ, saŭ d’aĭ pune la închisóre și orânduesce „în locul lor, ca să te păzéscă pe noiĭ venițĭ cariĭ „sunt aleșĭ din ceĭ maĭ credincioșĭ supușĭ aĭ tro-„nuluĭ M. Tale.“</p>
+<p>„Al M. Tale prea supusă slugă „Spătaru Spanopolu.11</p>
+<p>— Ce părere îțĭ daĭ arhon Postelnice? întrebă Vodă privind scrisorea ce luase din mâna confidentului sěŭ.</p>
+<p>— Acestă carte este în întreg scrisă de Spanopolu, și spătarul este cel maĭ credincios din slujitoriĭ M. Tale.</p>
+<p>— Nu l’o fi mușcat șarpele de inimă să dea mâna cu vrășmașiĭ meĭ?</p>
+<p>— M. Ta, este cu neputință, rěspunse Stavrache cu aprindere; maĭ lesne aș crede că arhanghelul Gavril va lăsa pe Dumnedeŭ spre a-șĭ da cotele cu Luțifer, decât Spanopolu să lase pe Măria Ta spre a se uni cu aĭ luĭ Ghica.</p>
+<p>— Mĭ-e târnă să nu sě adeverescă o zicătóre vechie Românâscă: corb la corb nu scote ochiĭ, dise Ștefan adencindu-sě într’o melancolică re-fledĭiune, și altul latinesc care nu prea spune lucrurĭ frumóse despre credința grecescă (Fides graeca nulla fides).</p>
+<p>— Mě jur pe capul meŭ, rěspunse Fanariotul cu necaz, că una ca asta nu sě va întâmpla. Greciĭ te iubesc ca pe un grec, fiĭndcă și M. Ta i-aĭ iubit pe eĭ și ceĭ maĭ mulțĭ te cred fiŭ al Fanaruluĭ după mila ce aĭ avut pentru eĭ....</p>
+<p>— Și ura ce am arětat pentru frațiĭ meĭ de un sânge, nu este așa? replică domnul surizând cu amărăciune; aŭ dreptate să mě iubescă eĭ și să mă urască ceștilalțĭ; născut și crescut în Fanar; am uitat că tată-měŭ a fost Moldoven născut pe apa Rachoveĭ, prin urmare sunt Grec; Greciĭ trebue să mě iubescă; mě încred ție; tu m’aĭ suit pe tron, nu mě voiŭ plânge dacă mě voiŭ coborĭ prin tine. Tu să daĭ semă de bine sau de rěŭ. Chiamă-țĭ pe căpetenia amăuților și pe noul venit.</p>
+<p>Pănă să-șĭ împlinescă ordinul ce primise, Stavraclie dise:</p>
+<p>— Mie mi-sě pare că n’ar fi bine să ne luăm după părerea ce-șĭ dă spătarul, pentru a ne scăpa de astă ceată răsvrătitore; prin numărul lor el pot sparge ușile unei temnițe, dacă i-aș închide și ne-ar împresura frumușel cetățuia, dacă i-am da afară cu urgie; maĭ bine e să-ĭ trimitem la Bucurescĭ cu cinste fără a ne arěta că bănuim ceva.</p>
+<p>Vodă aprobă acestă procedare ca una ce conținea mult tact, și când căpitanul să înfățișă împreună cu soțul sěŭ de arme făcu semn Iul Sta-vracoglu să vorbească și acesta luând cuvântul dise:</p>
+<p>— Căpitane, temerile Dumitale aŭ fost lipsite de temeiŭ; din potrivă ne vin scirĭ vestitóre de pace prin cartea ce ni s’a trimis dela Spătărie. Măria Sa, Induratul nostru Domn, în minutul în care a primit așa veste veselitbre, voesce a rěsplăti cu dărnicie pe ceĭ ce i-aŭ slujit cu credință.</p>
+<p>Dumneata și arnăuțiĭ de sub Dumneata sunt ceĭ dînteâŭ, care sě vor bucura de harul Mărieĭ Sale. Ceata Lefegiĭlor, care a sosit cu vestitorul din Bucurescĭ, sě va opri aci ca să ve ție locul, iar Dumneavostră vețĭ merge în oraș spre a vě îndulci de bine-facerile odihneĭ și folosul feluritelor chiverniseli ce vě sunt hărăzite. Să trăiască M. Sa.</p>
+<p>— Trăiască Măria Sa! strigă căpitanul cu entusiasm, neputându-șĭ ascunde bucuria ce simția d’a sě întorce în capitală și d’așĭ vedea de chiverniselele hărăzite de domnie, cum s’a esprimat Postelnicul.</p>
+<p>O oră și câte-va minute după acesta, o surlă, și o tambură a anunțat locuitorilor din cetățue, că arnăuțiĭ aŭ eșit dintre zidurile eĭ și lefegiĭ aŭ intrat în locu-le.</p>
+<p>A treia zi cam pe sub seară, sorele sfinția după un nor ca arama roșită și un vent ușor sufla printre frunzele ce începuse a îngălbmi; Ștefan gonit de o rěcóre cam umedă din chioșchiul sěŭ favorit, sě retrăsese în iatacul selamniculuĭ sěŭ și fuma în linisce uitându-sě după turbilionele de fum ce eșia din gura sa și amestecând cu densele nisce gândurĭ și maĭ fugitive decât densele. Era singur și o tăcere lină și adormitóre îl ajuta, ca să rătăcâscă cu mintea în haosul închipuirilor. Pe când era maĭ mult adencit în aste visurĭ de om deștept, un ușor sunet de păsurĭ pětrunse până la urechile sale și-ĭ făcu să-șĭ abată vaga-ĭ privire din diredĭiunea rotilațiunilor de fum spre diredĭiunea uneĭ ușĭ; înaintea luĭ era un om, ba nu,' o umbră, o fantasmă, geniul seu cel rěŭ, dracul, Miu haĭducul în haine de căpitan de slujitorĭ. Singură astă vedenie fu în stare să gonescă tote celelalte vedeniĭ imaginare și să facă pe Vodă să sară după sofa pe parchet drept în piciore. Instinctiv mâna sa sě îndreptă spre brîu unde-repausa un junghiŭ cu doŭě ascuțișurĭ, însă stafia sa persecutóre după ce făcu doĭ pașĭ spre el sě opri și îĭ dise într’un chip desprețuitor:</p>
+<p>-— Nu te osteni, voĭnicule, d’ațĭ căuta arma; ea nu pote apěra pe ceĭ învăscuițĭ în rele cum eștĭ tu; sus în cer a sunat ceasul těŭ cel din urmă, ceasul rěsplătireĭ; voia celuĭ de sus se va împlini cu tote armele și sbiriĭ těĭ. Cum țĭ-am maĭ zis eŭ sunt dracul, nicĭ o armă nu mě pote răni.</p>
+<p>— La mine căpitanul meŭ, la mine lefegiĭ meĭ, strigă Vodă retrăgendu-sě într’un colț cu desasperare și lipindu-sě de perete ca să sě potă apăra cu înlesnire.</p>
+<p>Un hohot de rîs rěspunse astuĭ apel, hohot eșit din peptul luĭ Miu.</p>
+<p>— Chemĭ pe căpitan și pe lefegiĭ? dise el cu ironie; vreaĭ să-ĭ vezĭ? iată-ĭ.</p>
+<p>— După ce pronunță aste cuvinte scose din buze un rěsunător fluerat și apoĭ dise:</p>
+<p>— Privesce.</p>
+<p>Cele trei ușĭ ce comunica cu iatacul sě deschise și apăru în cadrul lor o trîmbă compactă de omenĭ armațĭ carĭ purtaŭ costumele lefegiĭlor și căciulile haĭducilor și care țineaŭ săbiĭle destecate gata d’a reteza capul luĭ Ștefan. Nefericitul principe, cunoscând în trăsurile acelora ce-l amenința cu armele, fisionomiĭle credincioșilor luĭ apărătorĭ, îșĭ puse manile la ochĭ murmurând:</p>
+<p>— Sunt perdut.</p>
+<p>— Da, așa e, aĭ dreptate rěspunse Miu; te-aĭ recunoscut singur vrednic d’o pedeapsă perdětore, veĭ suferi-o fiĭnd-că n’aĭ voit a te abate din calea ce aĭ apucat. M’aĭ luat ânteiŭ drept un hoț prost și te-aĭ învoit cu mine ca un hoț prost, nu te-aĭ ținut de învoială; m’aĭ recunoscut apoĭ de un om care sunt ceva mai mult ca atât, țĭ-am arětat calea ce aĭ jurat să urmezĭ, n’aĭ urmat’o și aĭ voit să fi aĭ Grecilor și vrășmaș al Românilor, înainte d’a sci cum îșĭ vor arěta ura Româniĭ, să-țĭ spun cum îșĭ arět iubirea Greciĭ: Spătarul sě plimba însoțit de câțĭ-va d’aĭ lui împrejurul Bucurescĭlor; venia mi-sě pare dela o petrecere câmpenéscă; eŭ am pus să mi-l aducă în pădurea Căldărușanilor unde conăcisem cu ceata mea și porunca mea s’a împlinit fără ostenélă. Cum l’a poftit, arětându-ĭ gura unuĭ pistol, să scrie scrisórea ce țĭ-am adus eŭ sub chipul de bětrân căpitan, el fără să zăbovéscă țĭ-a scris cartea aceea care te-a dat întreg în mâna mea. Un Român nu făcea ce a făcut el; murea și pe stăpânul sěŭ nu vindea; cu tóte astea, tu sânge de Român, fugĭ de Românĭ maĭ amarnic ca un străin! numaĭ mórtea este mântuirea ta.</p>
+<p>— Omóră-mě, strigá Vodă cu resignațiune, eŭ îmĭ voiu spăla pěcatele mele, iar tu ucigașule nu veĭ îndeplini gândurile tale; eŭ voiŭ muri și în locul meŭ să va pune tot un strein și de inimă și de sânge și așa va urma în veciĭ vecilor spre ciuda tuturor celor cu capete secĭ ca d’al de tine.</p>
+<p>— Ce o fi maĭ apoĭ e tréba viĭtoruluĭ, tu să-țĭ primescĭ drépta rěsplătire, zise Miu întindênd spre Ștefan gura pistoluluĭ sěŭ.</p>
+<p>— Opresce-te frate, strigá o voce de femeie la spatele sěŭ, nu te atinge de dênsul, el e soțul  meù.</p>
+<p>— Dă-te la o parte femeie, strigá Miu, smăcind cu brutalitate brațul ce sě agățase de brațul luĭ cel armat; ce tot îmĭ staĭ în cale și-mĭ oprescĭ brațul orĭ de câte ori voesc să îndeplinesc voința luĭ Dumnezeŭ? La furcă, iar nu aicĭ este tréba ta.</p>
+<p>— Datoria mea, rěspunse Flórea, acoperind cu corpul sěŭ pe Ștefan și uĭtându-sě cu mândrie spre fratele eĭ, este d’a ti acolo unde primejdia amerință pe bărbatul meŭ; lasă arma jos saŭ fi de doŭě orĭ ucigaș.</p>
+<p>— Nenorocit’o! ce fac! ? zise Miu lăsând arma în jos, ăst om nu este vrednic de nicĭ o milă.</p>
+<p>— Nu-mĭ pasă, rěspunse ia, este bărbatul meù.</p>
+<p>— Ast om, urmá haĭducul cu căldură, a sěvêrșit tóte nelegiuirile; a nedreptățit věduvele și sêrmaniĭ, a jefuit sěrăcimea, a ucis nevinovăția, a despoiat chiar mănăstirile; Dumnezeŭ și ómeniĭ l’aŭ osândit.</p>
+<p>— Nu sciŭ eŭ, urma ea a rěspunde, el e soțul meŭ; dacă o fi să móră el, mor și eŭ.</p>
+<p>— De nu va muri el, voiŭ muri eŭ.</p>
+<p>— Dumnezeŭ aibă milă de tine, frate, însă de bărbatul meŭ eŭ nu mě despart pe viață saŭ pe mórte.</p>
+<p>— Ticălóso! strigá indignat haĭducul; voescĭ maĭ bine să mor eŭ, fratele těŭ, care te-am iubit așa de mult și te-am ajutat scoțěndu-te din nămolul rușineĭ, în care te aruncase acest om?</p>
+<p>— Acésta e datoria femeiĭ d’a uita tot pentru bărbat.</p>
+<p>— Femeia e totdéuna póle lungĭ și minte scurtă, dise Miu ridicând din umere cu ciudă; imĭ eștĭ soră n’am ce-țĭ face; sciŭ că mâne ăst om, care pănă azĭ a ascuns de lume numele de soție ce porțĭ, te va face să verșĭ lacrămĭ cât pumnul, dar ce-mĭ pasă? asta îțĭ va fi pedeapsa ta. Ștefane îțĭ hărăzesc și de astă dată viața, dar c’o îndatorire: Greciĭ te-a dat pe mâna mea fără teamă de pěcat; dămi-ĭ și tu mie măcar o di căcĭ de nu, uite, pe legea mea de haĭduc mě jur, uit că am soră și vě aird pe amendoĭ în ăst palat ca pe nisce șorecĭ.</p>
+<p>— Ce vrei dela mine? întrebă Ștefan cu o voce întunecăsă.</p>
+<p>— Puțin lucru, să seri și să iscălesc un hrisov ce-țĭ daŭ eŭ și să staĭ fără să crâcnescĭ închis în locul unde te voiŭ încuia eŭ.</p>
+<p>După ce ascultă cuprinsul ce vrea a-ĭ dicta Miu, fața luĭ Racoviță sě ilumină de o rază de bucurie infernală ca cum ar fi simțit satisfacția rěsbunăriĭ și după aceea scrise și subsemnă cu grăbire hrisovul și apoĭ dise:</p>
+<p>— Sunt prinsul těŭ, unde mě ducĭ?</p>
+<p>— Te las aicĭ, în camera ta.</p>
+<p>— Rěmâĭ și eŭ aicĭ, căcĭ nu voiŭ să mě despart de densul strigă Fldrea, lĭpindu-sě de soțul sěŭ.</p>
+<p>— Fă cum vreĭ, rěspunse Miu.</p>
+<p>După ce Vodă sě închise în camera sa și patru slujitorĭ rěmase de pază la ușe, Miu chemă pe unul din omenĭ! sěĭ și-ĭ dise:</p>
+<p>— Mustățe-o pănă mâne seră să fi în Bucurescĭ și să daĭ astă carte spătaruluĭ ca din partea luĭ Vodă.</p>
+<p>— Într’o clipă mě schimb în cel maĭ împelițat copil de casă, rěspunse Mustăția, luând scrisorea.</p>
+ </div>
+ <div type="chapter" n="9">
+  <head>IX. Pădurea Vlăsiei.</head>
+<p>Spătarul Spanopolu îndată ce primi scrisorea domnescă dată luĭ chiar printr’un copil de casă al Măriei Sale, trimise îndată veste la toțĭ boeriĭ ceĭ fruntașĭ ca să vie în grabă la densul căci are să le comunice ceva important. Boeriĭ alergară spărioșĭ la spătărie credând că are se afle vr’o veste rea și le veniră inima la loc și rîseră singurĭ de frica lor aflând cumcă Vodă îĭ poftea să purceadă chiar de a doua zi cu coconele și du-ducele lor la palatul de vâră al Mărieĭ Sale, ca să ia parte la serbarea strălucitóre ce sě va da peste treĭ zile în onorea logodneĭ sale cu fiica luĭ Scarlat Vodă Ghica, fost domn al Moldoveĭ.</p>
+<p>— Am scăpat de Miu și de soră-sa; strigă comisul Spiridon bătend din palme plin de bucurie.</p>
+<p>— Și de frica d’a fi jefuițĭ în cămările ndstre, replică Spanopolu; acu Ștefan o să-șĭ deschidă ochiĭ și să ia měsurile cuviĭncióse spre a da perdăriĭ pe acest tâlhar primejdios, fără să maĭ aibă lângă el p’aceia ce ne nimicnicesce tote alcătuirile nostre dându-le de gol frateluĭ sěŭ.</p>
+<p>— Ce e de făcut acum? întrebă unul din boierĭ.</p>
+<p>— Să ne pregătim în grabă ca mâne în zorĭ să fim cu toțiĭ gata de ducă.</p>
+<p>— Să ne luăm și nevestele?</p>
+<p>— Maĭ e vorbă? o să fie și petrecere mare; a venit din Moldova o sumă de boerĭ și de cocone; ce vrețĭ să ne lăsăm noĭ maĭ pe jos de eĭ?</p>
+<p>— Nu, ferescă Dumnezeŭ.</p>
+<p>— Eŭ am să-mĭ îmbrac nevasta ca o domnă, zise Spiridon, îĭ iaŭ tote sculele ca să sě gătescă și să crepe de ciudă Moldovencele.</p>
+<p>— Eŭ, rěspunse Spanopolu, o să iaŭ cu mine și o sumă însemnată de banĭ, ca să daŭ bacșișurĭ bogate pe la slujitorĭ, să sě ducă vestea de dărnicia Muntenească.</p>
+<p>— Și eŭ, și eŭ, și eu strigară toțĭ boeriĭ.</p>
+<p>— Să ne îngrijim însă că mâne dimineță să ne adunăm cu toțiĭ la un loc ca să plecăm cu toțiĭ deodată, zise Spiridon.</p>
+<p>— Negreșit, replică Spanopolu, drumurile nu prea sunt sigure și maĭ bine petrece omul când călătoresce cu maĭ mulțĭ.</p>
+<p>— Când s’o crăpa de diŭă eŭ sunt aicĭ în curtea spătărieĭ, zise unul din boerĭ.</p>
+<p>— Și eŭ, și eŭ, rěspunse toțĭ.</p>
+<p>— Dar să ne înțelegem cu ce mergem? cu rădvanele de drum saŭ în calescĭ? întrebă Spiridon.</p>
+<p>— Maĭ e vorbă de întrebat? cu calescele, rěspunse cam cu ciudă spătarul ? vreaĭ să ne facă Moldoveniĭ mojicĭ dela țeră; pănă la palatul luĭ Vodă e numai câte-va poște.</p>
+<p>— Bine zicĭ; atuncĭ ne-am înțeles, mâne în zorĭ de zi cu coconele, sculele și calescĭle nostre cele maĭ scumpe în curtea spătărieĭ.</p>
+<p>— În curtea spătărieĭ, strigară toțĭ boeriĭ grăbindu-sě d’a alerga maĭ iute acasă ca să spue nevestelor și fetelor vestea cea bună.</p>
+<p>Astă veste fú un eveniment memorabil pentru cocónele și coconițele din Bucurescĭ. maĭ ales într’acea epocă când petrecerile cu nevestele și fetele la un loc eraŭ cât să póte de rare. Tótă ziŭa sě petrecú numaĭ pe stropolelĭ, cumpěrărĭ și pregătirĭ. Sepeturile cele strămoșescĭ fură scóse din tainițele unde stătuse ascunse de marĭ de anĭ, și scuturate de praf și descuiate ca să iasă dintr’insele bogățiĭ de scule prețióse cu care să sě împobéscă cocónele; boltașiĭ lipscanĭ din hanul sfâtului Gheorghe fură năpădițĭ fără veste de o leotă de cumpěrătorĭ de fel de fel de mărunțișurĭ</p>
+<p>„M. H.-‘ 6</p>
+<p>costisitóre și ovreiĭ zarafi dela Bărăție nu maĭ putea prididi cererile de împrumuturĭ, ce le făcea o parte mare din boeriĭ prăpăditorĭ, care cheltuiaŭ maĭ mult decât câștigaŭ.</p>
+<p>A doŭa zi din zorĭ de diminéță doŭă-zecĭ de carîte sclipitóre de aur și frumsețe, trase de ceĭ maĭ frumoșĭ caĭ din Slam, Râmnic și Ialomița, eșiră din curtea spătărieĭ înconjurate de o mulțime de slujitorĭ călărĭ armațĭ până în dințĭ și sě îndreptară spre bariera Mogoșóieĭ. Pe la prânz caravana cea numěrósă ajunse la Săftica și sě opri în capětul uneĭ dumbrăvióre plina de verdéță ca să sě odihnéscă puțin și să îmbuce ceva. într’o clipă butcile se deșertară de mulțimea lumiĭ ce conținea și o dróie de bărbațĭ și femeĭ tinerĭ și bětrânĭ, cocóne și coconițe, frumóse și urîte sě împrăștiară voióse și sgomotóse ca un stol de vrăbiĭ pe pajiștea cea verde. O masă imensă fú întinsă pe iarba cea móle și o rótă de fiĭnțe omenescĭ o încunjurá și începú să consume cu repeziciune mulțimea fripturilor ce avea înainte-le. Cât ținú masa, plosca circulà din mână în mână și după ce sě săturară și cam prinse meseniĭ la chef, ceĭ maĭ în vîrstă sě întinse pe iarbă spre a sě da puțin somnuluĭ păn’o mânca slugile și s’o sbegui tineretul. Cam pe la patru după amiazĭ boeriĭ sě sculară tiriachiĭ și dete slugilor ordin să pue caiĭ la trăsurĭ și să sě pregătescă de plecare, căcĭ sera aveaŭ să mîe la mănăstirea Țigănescĭlor, care era dincolo de pădurea Vlăsieĭ cea vestită prin mulțimea hoților ce adăpostea și jafurile îndrăsnețe ce sě comiteaŭ într’insa.</p>
+<p>Pe când visitiĭ puneaŭ hamurile pe caĭ, sě ivi în drumul mare un cerșitor bětrân și trențăros viĭnd abia răzămându-sě într’un gros toiag despre Potigraful și oprindu-sě înaintea boerilor conăcițĭ, îșĭ scóse din cap căciula sa cea jerpelită cu o mână tremurândă și îndreptând’o spre eĭ începu să sě milogească și să zică:</p>
+<p>— Miluiți-mě, cinstițĭ boerĭ și cocone, că sunt bětrân și neputincios și am în vatra bordeiuluĭ meŭ treĭ nepoțeĭ fără de tată și fără de mumă, care mor de fonie.</p>
+<p>Uniĭ din boerĭ îl goniră cu rěsteală și dete slugilor ordin ca să-l alunge încolo, alțiĭ fură maĭ miloșĭ și-ĭ aruncară câte-o lăscae în căciulă; maĭ cu seamă femeile, multe din ele îi dădură leite întregĭ, iar o jupânăsă maĭ învârstită înduplecă pe bărbatul sěŭ să fie maĭ îngăduitor, și dete poruncă la slugĭ ca să-ĭ dea de mâncare.</p>
+<p>Într’ast timp caiĭ se înhămară, lucrurile ce servise la poposire sě așezară pe la locurile lor și trăsurile gata de plecare eșiră în drumul mare și trase în dreptul loculuĭ unde eraŭ grupațĭ boeriĭ și coconele.</p>
+<p>— Să plecăm, strigă Spătarul, că sě apropie sorele de sfințit.</p>
+<p>— Să plecăm, strigă mulțimea repedĭindu-sě spre trăsurĭ.</p>
+<p>— Dar tu unchiașule, întrebă pe cerșitor, care încă îmbuca dintr’un codru de pâne ciujdit la răděcina unuĭ tufan, cocona ce-l ospětase, tu ce te faci?</p>
+<p>— Eŭ, jupânăsă, rěspunse el întrerupându-sě din mâncare, mě duc la bordeiul meŭ cu ceia ce mĭ-a biârăzdt mila Mărieĭ Tale, ca să daŭ și sěrmanilor meĭ nepoțeĭ să îmbuce câte un co-druleț de pâne!</p>
+<p>— Dar unde ședĭ tu? întrebă buna coconă.</p>
+<p>— În satul Țigănescĭlor.</p>
+<p>— Dacă e așa ciocoiul să treacă în dosul calesceĭ, iar tu șuete pe capră lângă vizitiul meŭ căcĭ eștĭ bětrân, și dac’aĭ merge pe jos, pănă veĭ ajunge tu, copiĭ pot muri de fome.</p>
+<p>Bărbatul voi să sě opue, dar femeia care devine omnipotentă împotriva soțuluĭ celuĭ maĭ rebel când vrea să facă bine, îl îmblânzi prin doŭě treĭ cuvinte desmerdătore, și bětrânul unchiașiŭ fu aruncat pe capră.</p>
+<p>Drumul pe atuncĭ nu era ca în palmă cum e acum, căcĭ pe acea vreme nicĭ nu era pomenelă de șósele, ci era sěmânat de rovine și bolovanĭ, care făceaŭ calea cât sě pote de anevoiâsă pe vreme bună și maĭ imposibilă pe timp de ploe. De aceea boeriĭ pănă când însera, nu putu merge maĭ departe decât dincolo de Tîncăbescĭ, astfel ca intrară în pădure tocmaĭ când sě înopta.</p>
+<p>Femeile ca maĭ fricóse voiră să sě întorcă înapoĭ și să dormă în Tîncăbescĭ neavând curagiŭ să pětrundă prin pădure în timpul nopțiĭ; bărbațiĭ însă maĭ cu curagiŭ bisuindu-sě pe nădejdea armelor ce purtaŭ servitoriĭ care-ĭ însoțeaŭ, dete ordin să meargă înainte.</p>
+<p>Jumětate din pădure fu trecută în totă liniștea și fără să sě întâmple cel maĭ mic incident ; însă tocmaĭ când multe din femei începură să rîză cu bărbațiĭ lor de frica ce avusese la început, tocmai când curagiul reintrase în tote inimile, un fluerat ascuțit rěsună în pădure fără de veste într’un chip cobitor eșind chiar din mijlocul trăsurilor și într’acelașĭ minut neputinciosul unchiaș sări ca un ed sprinten după capră și sě afundă în pădure.</p>
+<p>Astă întâmplare produse între călětorĭ o mare confusiune: multe femeĭ leșinară, mulțĭ bărbațĭ inimoșĭ începură să tremure ca varga și câtp’aci sa facă ca ele, însă ceĭ ce maĭ rěmase cu un pic de bărbăție în pept, dete ordin visitiĭlor să mâne în galop, măcar de s’ar rupe trăsurile și ar plesni caiĭ. Ordinul sě esecută, trăsurile începură să sbóre ca nisce vârtejurĭ de praf gonite de vent și arboriĭ păduriĭ să fugă ca un șir de umbre într’o lume de năluce, dar deodată trăsurile din cap sě opriră și cele din urmă le imitară cu tot ordinul de mânare ce da îutr’una evgheniștiĭ boerĭ.</p>
+<p>— Mână, mână, că suntem apibpe de sat, striga Spiridon din totă puterea plămânilor.</p>
+<p>— Nu maĭ putem Măria ta, rěspunse vizitiul din nainte, căcĭ este săpat d’a curmezișul drumuluĭ un șanț lat și adenc.</p>
+<p>— Cotesce la dreapta saŭ la stânga.</p>
+<p>— Nu sě pote, căcĭ șanțul sě prelungesce pănă în pădure.</p>
+<p>— Atuncĭ întorcețĭ înapoĭ la Tîngăbescĭ pănă maĭ e vreme.</p>
+<p>— De surda orĭ-ce cerere, rěspunse un slujitor care venia din partea dinapoĭ, căcĭ podinele de pe puntea ce trecurăm adinéorĭ s’a ridicat ca prin minune de mânĭ necunoscute și în locul lor a rěmas un șanț lat și adânc ca și acesta. Ba încă ceva maĭ mult, bětrânul cerșitor era un hoț prefăcut; el a fluerat adinéorĭ și a sărit ca o minge după capra butceĭ care l’a adus păn’ aci.</p>
+<p>— Va să zică noĭ înșine ne-am adus peirea! strigà bietul spătar frângendu-șĭ mânile cu désperare.</p>
+<p>— Ce ne facem acum? murmură biata spătărésă plângând.</p>
+<p>— Să ne apěrăm pănă la cea din urmă picătură, strigà spătarul sărind din trăsură și scoțênd din teacă hangerul sěŭ de paradă, care nu fusese nicĭodată ascuțit. Să-șĭ  pregătéscă slujitoriĭ flintele și să vie lângă mine.</p>
+<p>— Să trăescĭ Dumneata cocóne, rěspunse slujitorul, căcĭ tovarășiĭ meĭ cum aŭ audit flueratul aŭ dat dosul sărind peste șanț, și eŭ mě duc să-ĭ ajung; vě las în plata Domnuluĭ.</p>
+<p>După ce dise aste cuvinte, sări în pădure și dispărŭ în desișul copacilor.</p>
+<p>Situațiunea era din cele maĭ teribile: încunjurațĭ din tóte părțile de nisce obstacole ce nu sě puteaŭ înțelege, părăsițĭ de slujitorĭ în carĭ îșĭ pusese speranțele, în mijlocul uneĭ pădurĭ dese și a uneĭ nopțĭ fără de stele, asceptând întovărășițĭ de o mulțime de femeĭ carĭ prin țipetele lor ațâța și maĭ mult frica, o primejdie care era îndoit maĭ spălmentătóre fiĭnd necunoscută; tóte aceste întêmplăr grămădite la un loc făcea să-șĭ piarză capul ómeniĭ ceĭ maĭ cu sânge rece.</p>
+<p>Pe când femeile țipaŭ, frunzele arborilor fașiaŭ și caiĭ sforăiaŭ, bărbațiĭ sě dădură jos din trăsurĭ, și curagioșiĭ la un loc cu fricoșiĭ sě strânseră în mijlocul drumuluĭ, și luându-șĭ inimile în dințĭ, începură să sě sfătuiască și să se gândéscă la ceea ce era de făcut.</p>
+<p>Nimenĭ nu-șĭ da socotélă despre mărimea pericoluluĭ, nimenĭ nu putea prevedea tot ce avea să sě întâmple și nimenĭ nu scia ce trebuia să facă sprea a scăpa de impas. Uniĭ maĭ curajliĭ începuse să strige că s’aŭ speriat de surda și sě îndemnaŭ uniĭ pe alțiĭ se între în pădure ca să tae crăcĭ de copacĭ cu care să astupe șanțul ca să mérgă înainte; tocmaĭ însă când inimoșia sě comunicase și în sufletul codacilor, un cortegiŭ de umbre sinistre apărură în ambele părți ale pădureĭ, și o sciipitură de arme lucitóre ca licărirea de fulger, trecu pe dinaintea ochilor boerilor îngrozițĭ.</p>
+<p>— Nu vě mișcațĭ, nici vě cercațĭ a vě apěra, căcĭ suntețĭ cu totul în manile luĭ Miu, strigă o voce detunătóre eșind din pădure.</p>
+<p>Boeriĭ audind acest ordin, băgară iarășĭ în brîŭ auritele pistele cari nu vězuseră cremene și iarbă de când le făcuse fabricantul și începu să sě ia la întrecere cu femeile în văităturĭ, tremurăturĭ și rugăminte. Trec sub tăcere mulțimea în-jositorclor cuvinte de milogire ce rostiră în acele momente ăștĭ fii aĭ Fanaruluĭ, carĭ eraŭ atât de aspri și orgolioșĭ, când sě aflaŭ la largul lor.</p>
+<p>— Deși suntețĭ veneticĭ, zise acela ce vorbise maĭ întâiŭ, care nu era altul decât sěrmanul cerșitor cu nepoțeĭ muritori de fóme, saŭ maĭ bine dibaciul Miu; deși ar trebui să vě daŭ pe toțĭ perzăriĭ ca uniĭ ce suntețĭ nisce lipitori lacome ce sugețĭ sângele bietuluĭ Român, dar vě fâgăduesc că vě dăruiesc viața, dacă vețĭ da de bună voie tot ce avețĭ asupră-vě și nu vețĭ cerca a vě atinge de un fir de pěr din capul nostru.</p>
+<p>— Dăm, dăm tot, strigară femeile din tóte părțile, numaĭ cruțați-ne viața.</p>
+<p>— Vě făgăduim dacă vețĭ fi de treabă; aide Sbanciog, Mustățeo, Ghiorlane și tu Zorilă, venițlĭ după mine, aide să mergem din butcă în butcă ca să strângem secerișul, și dacă vețĭ simți pe cineva că ascunde ceva, ucideți-l fără milă, căcĭ și eĭ ucid pe aĭ noștri când nu le daŭ cât cere.</p>
+<p>Sbanciog, Mustățea și ceilalțĭ camaradĭ aĭ lor, sě duse precedațĭ de Miu din butcă în butcă, strânse baniĭ, hainele și sculele ce le daŭ coconele și boeriĭ de voe bună, și la lumina unor torțe de rășină ce aprinse haĭduciĭ în grabă, maĭ luară și ceia ce nu li-sě dăduse, dar pe care le văzuse că le purtau pe dânșiĭ boeriĭ și coconele, maĭ cu semă arme și scule.</p>
+<p>Unul din boerĭ nu vru să-șĭ dea pistolele sub pretecst că eraŭ un suvenir părintesc.</p>
+<p>— Lasă cocone, dise Grhiorlanul, că maĭ cu cinste le vom purta noĭ decât D-ta, căcĭ noĭ ne vom slujiĭ cu ele ca și rěposatul D-tale părinte, adecă apěrându-ne țera de năvălitorĭ.</p>
+<p>Când ajunse în dreptul butciĭ pe capra căreia venise păn’acolo bětrânul cerșitor. Miu dise camarazilor sěĭ:</p>
+<p>— Nu vě atingețĭ de nimic din ceia ce sě află într’această caleașca, căcĭ stăpâna eĭ a avut milă de bětrânul neputincios și de copiĭ luĭ muritorĭ de fome; să ne fie și noŭă milă de ea și să-ĭ cruțăm avutul. Cine va îndrăsni să calce porunca mea va peri de mânile mele.</p>
+<p>Jaful dură maĭ multe ore, căcĭ pleașca era bogată, și poverele grele aveaŭ nevoe d’a fi transportate la fie-ce minut în pădure unde păsceaŭ caiĭ încărcațĭ cu desagiĭ. Intr’acest timp boeriĭ stătură în loc ca împetrițĭ și femeile daŭ plângând aceia ce mumele lor le dăduse de zestre în ziŭa de cununie.</p>
+<p>După ce nu maĭ rěmase nimic neluat, haĭduciĭ deshămară caiĭ dela butcĭ, îĭ luară cu eĭ și Miu dise spătaruluĭ:</p>
+<p>— Spătare, să spuĭ lui Vodă că Domnul Codrilor e maĭ puternic ca el și ca toțĭ sfetniciĭ luĭ; povățuesce-l să fie cu minte și să înceteze d’a nedreptăți pe norod, căcĭ dacă nu sě va astâmpěra, am să viŭ nămiezia mare în palatul Domnesc, ca să-ĭ fac luĭ ceia ce v’am făcut voŭě. Na acuma aceia ce mĭ-ațĭ dat adineorĭ de pomană, ca să vě hrănițĭ pănă vețĭ ajunge la Bucurescĭ; dacă e puțin să nu mě învinovățițĭ pe mine ci dărnicia vostră.</p>
+<p>După aceste cuvinte, Miu încălecă pe un cal, sări șanțul dinainte-ĭ și sě afundă în pădure urmat de o mulțime de haĭducĭ și de caĭ luațĭ dela butcele boerescĭ. Numaĭ unul Dumnezeŭ scie cum petrecură biețiĭ jefuițĭ acea nopte de jale, și cum sě întorse pănă la Bucurescĭ cu calescĭle fără caĭ. Mult rîse norodul când vědu defilând pe dinainte-ĭ lungul convoiŭ ce cu câte-va zile plecase așa  de falnic și înfruntător, care acum sě întorcea așa de umilit și cu trăsurile trase de boĭ.</p>
+<p>Haĭduciĭ dela teatrul evenimentelor descrise maĭ sus, trase drept la palatul de vară al luĭ Ștefan, și Miu după ce-ĭ deschise ușa cameriĭ în care stătuse Vodă închis îĭ dise:</p>
+<p>— Aide, Măria Ta, du-te unde te-o lumina Dumnezeŭ; ia-țĭ și femeia și adu-țĭ aminte că ea țĭ-a mântuit zilele. Dacă voiŭ auzi că iar vreaĭ s’o lașĭ saŭ să-ĭ faci zile amare, să sciĭ că eŭ sunt spiriduș și aflu. Maĭ adu-țĭ aminte și de învoiala ce am făcut și gândesce-te, gândesce-te îțĭ zic; ca nu maĭ apoĭ să te căescĭ cu amar.</p>
+<p>Ștefan plecă din palatul sěŭ cu capul în jos, părăsit și urgisit de aceĭ cu carĭ împărțise pănă aci puterea și mărirea; eși din cuprinsurile sale pe jos și sprijinindu-sě numaĭ de brațul aceleia pe care cu câte-va zile maĭ nainte voise s’o go-niască fără de îndurare.</p>
+<p>— Acum copiĭ meĭ, dise Miu, după ce Vodă și Florea dispăru dincolo de un stufiș de copaciŭ, tâbărîțĭ, și prin foc și topor dărîmați-mĭ acest palat ale căruĭ cărămizĭ au fost frământate în sânge și al cărui var a fost stins in lacrămĭ, ca pănă mâne dimineță să nu rěmâe piatră peste piatră din el.</p>
+<p>A doŭa zi primele raze ale soreiuĭ, în loc d’a sě oglindi în învěitdrea sumptuosuluĭ palat, lumina o tristă grămăjue de cenușe și ruine.</p>
+ </div>
+ <div type="chapter" n="10">
+<head>X. Resmirița.</head>
+<p>Câte-va zile după petrecerea faptelor descrise maĭ sus, într’o căsuță din fundul uneĭ curțĭ din cea maĭ mărginașe parte a Bucurescĭlor, opt bărbațĭ, opt boerĭ marĭ cu bărbile lungĭ și cărunte, staŭ pe nisce lavițe lungĭ dinaintea uneĭ mese  marĭ încărcată cu felurite cărțĭ și hârtiĭ și vorbiaŭ încetinel între eĭ, ca cum s’ar ti sfiĭt d’a fi audițĭ de o ureche indiscretă. Numaĭ licărirea uneĭ candele lumina acel trist interior.</p>
+<p>— Am audit că s’a maĭ iscălit încă o carte de osândă, dise unul din boerĭ; opt capete din ale nostre, pote chiar ale nostre tremură d’asupra, umerilor lor.</p>
+<p>— Eŭ sunt încredințat că nu sě va sěvârși astă noŭă nelegiuire, rěspunse altul; pașa dela Rusciuc ne-a făgăduit că va seri la Pórtă.</p>
+<p>— Multe făgăduesc pașalele, dar puțin fac esclamà oftând un al treilea. Noĭ parale n’avem îndestule, ne-am sleit averile cu atâtea jelbĭ și plocóne ce tot am trimis pe la streinĭ; dacă nu vom pune mâna pe domnie maĭ în grabă ne calicim de istov.</p>
+<p>— Așa e! murmurà un al patrulea; dacă n'o veni iară Scarlat Ghica la scaun, ajungem la selemet!</p>
+<p>— Mavrocordat numaĭ, póte să ne scape replicà al cincelea.</p>
+<p>— Țéra vrea un domn Român, întrerupse cel d’al șaselea boer. un urmaș al Basarabilor.</p>
+<p>— Străin saŭ Român, zise al șéptelea, nu ne pasă, numaĭ banĭ să ne dea; de banĭ avem trebuință ca să ne întărim.</p>
+<p>— Așa e; adăogà al optelea.</p>
+<p>— Dar cum să-l résturnăm ? cum să scăpăm de acest afurisit de Celian? strigá cel d’ânteiŭ cu něcaz; asta trebue să aflăm, despre ăst mijloc să ne înțelegem, iar nu despre cine să-ĭ ia locul; urmașĭ sunt destuĭ.</p>
+<p>— Așa e rěspunse toțĭ în cor.</p>
+<p>— Să ne ducem la Pórtă, zise unul, și să cădem în genunche înaintea Vizirului ca să sě îndure de noĭ.</p>
+<p>— Uimitele lui Stavracoglu vor pune să ne dea afară pe brânci îĭ rěspunse cel d’ânteiŭ.</p>
+<p>— Să ne vindem avutul nostru și al nevestelor nóstre, opiná alt boer, și să ne ducem la Nemțĭ sau Muscalĭ ca sa căpětăm câte-va miĭ de oștire cu care să punem mâna pe tron.</p>
+<p>— Vom întră în urgia Turcilor, care ne vor perde îndată ce Muscaliĭ ori Nemțiĭ ne vor părăsi, rěspunse tot cel dinteiŭ.</p>
+<p>— Ce vom prinde din avutul nostru, replicá al patrulea, să dăm pe la puterniciĭ din Țarigrad și după lângă Dunăre, și cu ast chip biruim.</p>
+<p>— Ce avem e prea puțin, rěspunse tot boerul d’ânteiŭ; ne trebue o mulțime de banĭ ca să săturăm lăcomia tuturor.</p>
+<p>— O asemenea sumă ne-a făgăduit necunoscutul acela, care a fost adus între noĭ de Cornețeanu acum treĭ zile; obiectá al cincelea.</p>
+<p>— Unde e acel om ? întrebá primul boer.</p>
+<p>— Astă seară vine.</p>
+<p>În acel minut se auzi o încetnică bătětură la ușe și după ce sě deschise unicul canat, un om întrá înăuntru; era Miu.</p>
+<p>— Iată-l, strigá acela care vorbise de el.</p>
+<p>— Ațĭ vorbit de mine, cinstițĭ boerĭ?</p>
+<p>— Da, rěspunse acela ce vorbise maĭ mult ca toțĭ evgheniștiĭ, și așteptăm a primi lămuriri despre făgăduelile ce ne-aĭ făcut d’a ne ajuta să scăpăm țéra de tirănia, care ne apasă. Cum credĭ Dumniata să ajungem la asemenea fericit sfârșit?</p>
+<p>— Maĭ înainte d’a vě face cunoscută părerea mea, voiŭ să sciŭ cum credețĭ Domnia Vóstră că vom putea isbuti, obiectá haĭducul.</p>
+<p>— Între noĭ sunt doŭě părerĭ, uniĭ cred să sě scape de năpaste prin rěsboiŭ și alțiĭ prin dare de banĭ; uniĭ cred să alunge pe Cehan prin armele Nemților și Muscalilor și alțiĭ prin harul Turcilor.</p>
+<p>— Dar prin Românĭ, nimenĭ din Domnia Vóstră nu crede că póte isbuti? întrebá cu un ton amar Miu; pe Lupu Mehedințeanu care a ridicat armă de răsvrătire și a adunat tótă Oltenia sub el, nu punețĭ nicĭ un temeiŭ?</p>
+<p>— Româniĭ! esciamà boerul cu un ton luător în rîs; dar ce vor putea eĭ, săraciĭ, să facă împotriva ăstor orde de streinĭ care i-a copleșit dela cap pănă la picióre, ce va putea acel Lup cu mâna luĭ de ómenĭ împotriva ianicerilor domnescĭ?</p>
+<p>— Să vě spun eŭ ce vor putea, strigá cu un ton detunător Miu; eĭ pot să împrăștie numaĭ într’o clipă ca o suflare de vênt astă pleavă de apăsătorĭ streini pe care  bunătatea inimeĭ lor o îndură de atâta vreme. Păměntul Român sě va curăța sub astă suflare bînăfăcětóre, și vremile cele frumdse, vremile mândrieĭ românescĭ vor reinvia din mormântul ce i-a săpat vrăjmașiĭ sě. Porta, de frica unuĭ popor întreg ridicat în piciăre ca un singur om, sě va muia și negreșit sě va îndupleca a ne reda vechile drepturĭ.</p>
+<p>— E frumósă astă alcătuire, dise tot boerul întrebător, frumósă de tot, dar anevoie de pus în lucrare ; cum să însuflețescĭ ? Cum să ridicĭ ca un singur om, ăștĭ omenĭ carĭ abia aduc dumicatul la gură ca să mănânce, și abia schincesce când îl lovesc prin atâtea strâmbătățĭ?</p>
+<p>— Îmĭ iaŭ asupră-mĭ îndatorirea d’aĭ deștepta, rěspunse Miu ; vě voiŭ arěta eŭ, dacă voițĭ D-vostră, care-ĭ ocărîțĭ într’un chip așa de amar, D-vostră care vě porecliți de surda cu numele de Românĭ, că Româniĭ nu sunt ca D-vostră, că Româniĭ sunt rěŭ judecațĭ de D-vostră numaĭ pentru că vorbind, de eĭ, luațĭ de pildă inimile D-v. cele molipsite. Când vețĭ audĭ clopotele metro-polieĭ și ale tuturor bisericilor din oraș rěsunând, atuncĭ să scițĭ că Româniĭ nu maĭ sunt nisce fiĭnțe fără simțire omenâscă, ci nisce omenĭ carĭ îșĭ cer cu puterea adevěruluĭ drepturile lor. Atuncĭ sculați-vě și D-vdstră, dacă suntețĭ Românĭ și lucrațĭ românesce, sigurĭ fiindcă Lupu Mehedințean e în mijlocul vostru.</p>
+<p>— D’apoĭ pe urmă cu Porta cum ne vom împăca?-replică boerul.</p>
+<p>— Îi vom vîrĭ în gâtlej 2.000,000 talere cu care voiŭ împrumuta eŭ noŭa domnie, care banĭ mi-ĭ va plăti atuncĭ când va putea, fără a apăsa-pe norod.</p>
+<p>— Bine, rěspunse boeriĭ, primim ; dea cerul să isbutescĭ.</p>
+<p>— Voiŭ isbuti, rěspunse Miu eșind.</p>
+<p>— E un visător ! murmură borul cel dinteiŭ cu un ton luător în rîs ; săracul ! sě va duce pe copcă!</p>
+<p>Peste treĭ zile un sóre de tomnă cald dar stâmpărat, aci splendid, aci întunecat de cătră un nor pasager, lumina una din primele zile ale luniĭ Octomvre din anul mâatuireĭ 1765. Austrul sufla, când maĭ tare când maĭ încet și praful stradelor Bucurescĭlor sě întrecea cu foile gaibine ce căduse din arborĭ spre a forma turbilione vagabonde și a alerga gonite de suflarea vântuluĭ, orbind pe trecětorĭ și alungând spre case pe pacĭ-niciĭ locuitorĭ. Vântul și praful îndemna pe Bucurescenĭ să sě ascundă prin case, însă în aceea zi puținĭ sě supuneaŭ îndemnărilor lor. Grupe, grupe de individe, carĭ maĭ de care maĭ numěróse, care de care maĭ mult îngroșate prin noĭ venițĭ sě zăreaŭ maĭ pretutindenĭ mergând cu pașĭ cam repedi și într’o atitudine tăcută spre Metropolie. între acele grupe sě zăreaŭ maĭ multe figurĭ cunoscute noŭě, nisce individĭ cu plete lungĭ, cu spete late, cu mușchĭ de adlețĭ, cu nisce costume maĭ uniforme și pe sub zăbunul, care le acoperea umeriĭ cu un  arsenal de arme de foc, hangere și cuțite. Aceĭ omenĭ numai șopteaŭ câte ceva la urechile camaradilor lor și aceia daŭ din cap încruntând sprâncenele, strângându-șĭ pumniĭ și scrâșnind din dințĭ.</p>
+<p>Pe când sě ivia acele grupe prin o parte din suburbiele capitaleĭ, în acelașĭ timp, pe la aceiașĭ oră, adecă îndată după rěsărirea soreluĭ, alte grupe tot atât de compacte eșiaŭ din Palatul Domnesc și din casele Aliniștrilor ca să sě împrăștie spre deósebite destinațiunĭ. Unele din acele grupe eraŭ compuse din omeniĭ Visterieĭ, carĭ sě năpusteaŭ spre locuitoriĭ orașului ca să strângă dela poporul desculț- nenumăratele biruri ce datoreau pe sfertul trecut, altele erau formate de slujbașiĭ Vor-niciei, cari plecase ca să năpădescă peste brăslașiî neguțători spre a-I supune la nenumărate zeciuell și angarale, și  altele înțesate de arnăuțl ai spătăriei, care la rândurile lor mergeau să-și ia contingentul din pleașca ce să proiectase cu o zi mai nainte să cază peste orășeniĭ Bucurescĭlor. Aceștia aflase chiar de cu seară de sorta ce-I aștepta și convingendu-să prin ore-care elocuențl esplicatorl, că dările ce li-să cereau erau nedrepte și abusive, fiĭndcă aceia ce erau datori să dea, plătise toți pănă în păr, după cum glăsuiau biletele ce aveau la mână, au liotărît să nu să supună la plata acelor pretențiunl nelegitime, și a face prin orl-ce mijloce să înceteze pentru totdeauna asemenea abusurl.</p>
+<p>Animați de asemenea resoluțiunî, birnic.il să sculară de dimineță, goniră cu urgie bmenil stăpânire!, să adunară grupe grupe, să înțeleseră între sine, să uniră cu alte grupe, luară orî-ce arme pósedau și ascuntjendu-le pe lângă el, formară din mai multe grupe, cete compacte și sub comanda câte unuia din acel necunoscuțl încurajatori, porniră spre Metropolie ca de acolo să mergă în număr mare la Palat și să ceră cu energie ușurarea birurilor și gonirea Grecilor din țeră.</p>
+<p>Lupiĭ goniți din terg să repeziră spre mahalale și negăsind oile p’acasă începură a sparge uși și ferestre ca să pătrumjă prin forță acolo unde nu să afla nimeni, însă să opriră d’a urma înainte cu ilegala lor procedare, fiĭndcă auziră în depărtare un muget ca acela ce ese din peptul leului când să deșteptă. Acel muget, muget ce scote poporul când se scolă din letargia suferințelor ca să scuture lanțurile cu care l’a încătușat tirănia, era eșit din pepturile a miĭ de Români, cari chemau la resculare pe acei ce rămăsese co-dacî. Maiestosul sunet al clopotelor Metropoliei unit cu al tuturor bisericilor din capitală, da acestui tumult un aspect și mai imposant, încât făcea să treacă prin pepturile apăsătorilor nisce cumplite fiori de spaimă și surprisă, care le îngheța sângele în vine. Aucfindu-l Greciĭ mai na-inte d’al sci semnificațiunea, gîciră că nu pote fi decât funestul lor și se grăbiră a alerga la Palat îngroziți.</p>
+<p>Ast strigăt general, astă invocare a dreptățiĭ, astă voce a lui Dumnezeu pătrunse pănă la urechile Tronului: aceste urechi surde de câte ori ce cerea dreptatea prin rugăciuni, aucfise mai na-intea tuturor impuitorul voim ce pronunța poporul în acea zi. Un curier trimis de marele Agă comunică Măriei Sale și Miniștrilor Măriei Sale adunați în sala tronului, că poporul s’a resvrătit și că vine cu mic cu mare într’un număr considerabil spre palat ca să ceară abolirea birurilor îtn-povărătóre și gonirea grecilor din țeră.</p>
+<p>— Cine este în capul acestor obrasnicî răs-vrătitorî? întrebă Vodă încruntând sprâncenele.</p>
+<p>— Unul numit căpitan Miu, răspunse curierul.</p>
+<p>— Ce fel de om e?</p>
+<p>— Un om de statură înaltă, bine legat, lat la spete, cu frunte mare, sprâncene dese și r binate, mustăți negre și lungi și gura mare ce cam buzată.</p>
+<p>— El! tot el! murmură Ștefan în sine; sunt perdut dacă vor afla boeriî și arnăuțiĭ. Cum îl privesce drumașiî? adăogă Vodă.</p>
+<p>— Ca pe un Dumnezeu, răspunse omul agiei; în fie-care minut strigă într’un glas: Trăiască M. S. Miu, jos birurile, jos Greciĭ.</p>
+<p>— M. S. Miu! zise Vodă scrâjnind din dinți; astă seră va bănănăi în vîrful ștreangului, iar supușiĭ săi vor umplea pușcăriĭle sau șanțurile dela Colintina. Spătare, dă poruncă să se anneze slujitoriĭ și pușcașiĭ; slujitoriĭ întrarmați să încunjóre palatul, iar arnăuțiĭ să alerge înaintea resvrăti-torilor spre a-î nimici ca pleva bătută de vent.</p>
+<p>— Ce-mi poruncescĭ M. Ta! strigă spătarul retrăgându-se cu un pas înapoi plin de spaimă.</p>
+<p>— Ce te speriĭ Spătare? replică Vodă, arun-cându-I o privire desprețuitore, ce ori voescî să fac pe voia golanilor? n’al decât să ml-o spui; ei cer să le dăm în mână pe Greci; vrei să încep cu Dumneata drept recunoscință că m’ai dat deunăzi pe mâna lui Miu?</p>
+<p>— Milostive Domne! strigă Spanopolu, că-cțend în genunche și lovindu-șl fruntea de parchet.</p>
+<p>— Așa e că nu vrei? adăogă Racoviță po-somorându-se; nici eu nu voiu să te pedepsesc că m’ai dat de gât; fiĭndcă știu că ai fost îngrozit de gura unul pistol. Aide dar du-te de-mî împlinesce poruncile.</p>
+<p>— Alerg, M. Ta.</p>
+<p>— Aș fi de părere să mai întârziem cu luarea de măsuri aspre, obiectă Stavracoglu șoptind la urechile lui Ștefan.</p>
+<p>— Crezî că facem bine? replică acesta ul-tându-se la el cu ironie; am fi înțelepți când ne-ani da pe mâna adunăturilor după uliță, așteptând bunul lor plac fără a lua cel puțin ore-care măsuri de apărare pentru vremi primej-dióse?</p>
+<p>— Nu 4ic asta, ci.....</p>
+<p>— Să-l lăsăm să vie pană aci ca să ne facă o gălăgie nesuferită?</p>
+<p>— Sunt în dreptul lor d’a cere ușurări și noi îndatorați d’a-I asculta măcar dacă nu, d’a le împlini rugăciunea.</p>
+<p>— Bine, fie voia ta; să se oprescă arnăuțiĭ d’a se năpusti pe uliți și orl-ce slujitor d’a întrebuința armele pănă nu vor primi noi porunci.</p>
+<p>Să lăsăm puțin pe popor să tragă clopotele bisericilor, să lăsăm și pe ațițătorî ca să vocifereze; să lăsăm pe toți cei resculați să înainteze, să mai stea, să se consulte, să se încuragieze uniĭ pe alțiĭ și să mergă spre palat în tocmai ca un flucs de mare aci înaintând și aci retrăgendu-să; să lăsăm în fine și pe cei dela putere ca să ia tote măsurile de apărare contra agresiune! acelora, ce s’au săturat de nedreptățile lor și să ne aruncăm ochiĭ în treacăt spre cele petrecute cu o zi două înainte d’acea zi sgomotbsă, adecă spre cele ce s’au petrecut după hotărîrea luată în căsuța cea dosnică.</p>
+<p>De o săptămână de zile să vedeau prin Bu-curescî nisce figuri necunoscute de nimeni, însă cu o înfățișare care impunea tăcere orî-cărei guri rele și înfrânare la orî-ce mică curiositate. Acele figuri necunoscute întră prin prăvăliĭle celor mai de frunte brăslași, întreba de stăpânul casei și după ce da ochi cu el, să ascundea cu densul în cea mai retrasă cămară din dosul prăvăliei și după ce trăgea zăvorul la ușe zicea:</p>
+<p>— Vezi nevoile, care apasă pe bietul Român, vezi nenumăratele pacostî și sataralele cu care ni să răpesce avutul ca să să îmbogățiască streinul; tote acestea ne vin dela Grecul cel nesăturat; ca unul ce ești Român, ești lovit de aste nedrepte angarale! Vrei să te scapi tu de ele?</p>
+<p>Neguțătorul cârmea mai înteiu și se codea a răspunde positiv, temendu-să de ore-care manopere de spionagiu; atunci necunoscutul scotea, atunci o cruce din sîn și cțiciea acestea:</p>
+<p>— Me jur în numele Tatălui și al Fiului și al Sfântului Duch, că nu sunt nici spion, nici străin, nici unealtă a Domnului, nici vre-unul poftitor de Domnie, ci sunt Român neaoș cu dor de țeră, care în numele unul Român cu gânduri bune pentru tot fratele de un neam și de un sânge, vine a zice celor ce sufere: Voițl să nu mai su-feriți? Voițl să nu mai fiți stăpâniți de Greci? Voițl să fiți scăpațl de nedreptate pentru vecie? Ascultați-mă atunci pe mine, lăsațl frica și sfiala la o parte aduceți-vă aminte că sunteți urmașiĭ lui Mihal Viteazul și veniți acolo unde vi-să va arăta.</p>
+<p>— Cum să numesce acela ce vorbesce astfel? întreba neguțătorul animat de un foc ce de mult nu mai încălzise sângele său.</p>
+<p>— Căpitan Miu împuternicitul lui Lupu Me-hedințeanu, răspundea necunoscutul.</p>
+<p>— Viu, striga brăslașul, aruncând din ochiĭ o scântee de entusiasm; spune-mi unde ?</p>
+<p>După ce i-să spunea locul, necunoscutul pleca și brăslașul mergea să comunice prin acelaș mod misterios conbrăslașilor săi nuvela cea bună.</p>
+<p>Sunt sigur că a-ți ghicit, iubiți lectori, cine erau acel apostoli misterioși ai unul asemenea mesia? Erau vechil haiduci al lui Miu; el la umbra codrului și la adăpostul orașelor prin care să împrăștiase de câte-va luni, sub conducerea abilului lor căpitan uitase cu totul că erau nisce</p>
+<p>tâlharĭ; învețase a se respecta, a simți Româ-nesce ca strămoșiĭ lor în timpurile cele mai bune și a înțelege ce este un partisan, un luptător al libertățiĭ contra tirăniei.</p>
+<p>Ce pecat! ei erau numai 40! D’ar fi fost încă de zece ori atâta de mulți, ar fi încetat de-atuncî d’a domni peste Români Fanarioțiĭ. Erau numai 40 aceia ce erau legați de el prin aderarea spon-taneă la tote principiĭle lui, iar nu prin interes sau frică, cum erau 2 sau 300 de subalteni, acei cari formau contingentul flotant al bandei; erau numai 40 și cu tote astea în ziua hotărîtă ei aduseră la Metro polie mai bine de 20,000 adepți gata d’a se pune sub ordinele lor.</p>
+<p>în dimineța zilei descrisă mai sus, acei 20,000 îndată ce aințiră sunând clopotele bisericilor, tre-săriră de bucurie și impaciență; bărbațiĭ își sărutară soțiĭle, părințiĭ își îmbrățișară copiĭ și cu toțiĭ fără a scdte măcar un gemet de durere plecară să se întâlnescă cu veciniĭ și conmeseriașiî lor în linisce și bună orânduială. Astfel merse pănă la Metropolie unde primiră între dânșiĭ pe Miu ca pe un triumfător și cu el în frunte porniră spre Palat!</p>
+<p>Boeriĭ pământeni, adecă tocmai scornitoriĭ reșmiriței, se făcură într’acea zi teacă de pământ, lăsară lui Miu totă latitudinea de a-și pune planul în esecutare, și ei nu se aretară pe nicăirî, nici la Metropolie, nici la Palat, nici pe strade; trimise însă emisariĭ lor să se amestece printre mulțime cu ordine d’ai înforma din oră în oră. despre tote fasele mișcăriĭ. Acei emisari vezură ovațiunea făcută lui Miu, aințiră aclamațiunile ce-î adresa poporul, și simțind că ăst agitator devenia prea periculos ambițiunilor stăpânilor lor, alergară să încunosciĭnțeze pe cinstiți! veliți, ca să ia măsuri grabnice.</p>
+<p>Aceștia, cum aurțiră, se adunară în pripă, cotisară o sumă ore-care, și o dete emisarilor ca prin bani și promisiuni se semene discordie, neincredere și temere între popor.</p>
+<p>Emisariĭ sburară ca ventul și găsiră poporul adunat într’un număr enorm înaintea Palatului. Porțile reședinței domnescĭ erau încuiate și d’a-supra zidurilor nenumărate tunuri erau îndreptate cu gurile spre el, gata d’al sdrumica la un semnal dat cu ucigătdrele lor mitraliĭ. Fitilele ardeau și cremenele puscilor așteptau să scoță scânteia omo-rîtore, dar poporul vedea tote astea și nu se sfia, ci scotea din când îu când mugete de mânie și aclamărî entusiaste.</p>
+<p>— Fraților, zise Miu mulțime!; ca să dobândim dreptate, trebue să fim drepți; ca să silim pe Vodă a respecta voința nostră, să ne silim și noi a ne face respectați prin înțelepciunea nostră. Nici să ne sfiĭm d’acele arme streine ce ne amenință capetele, dar nici să le nesocotim în vreme neprinciósă. Atunci când vom avea drept d’a ne plânge de ceva, să suflăm asupră-le ca să nu mai fie. Dacă domnia nu va vrea să ne asculte, atunci numai să nu mai ascultăm și noi decât glasul dreptățiĭ.</p>
+<p>— Așa, așa! trăiască Miu, strigă poporul aruncând căciulile în sus.</p>
+<p>— De aceia stațl astâmpărați pe loc și așteptați răspunsul lui Vodă.</p>
+<p>— Miu și-a dat cotele cu Greciĭ, șopti unul din emisariĭ vecinilor săi; nu trebue să ne mulțumim cu ceia ce ne zice Miu, nu trebue să așteptăm nici să avem îndurare pentru Vodă și</p>
+<p>Greciĭ lui; cel reu la primejdie, lagăduesce multe, iar când se vede în undele lui uită tot. Ve încredințez că Miu și-a dat coatele cu ei și adunarea nostră aici e numai o jucărie vrednica de rîs.</p>
+<p>— Miu să-și dea coatele cu Greciĭ? obiectă unul din popor, ia nu mai crede!</p>
+<p>— Ascultă ce-ți spun eu, reluă emisarul, pentru ce să nu crezi? nu e el cumnat cu Ștefan Vodă? Corb la corb nu-și scote ochiĭ.</p>
+<p>— Te închină, o fi! murmură unul din asistenți.</p>
+<p>— Ce nu e cu neputință! esciamă un altul.</p>
+<p>— A simțit șiretul că boeriî au isbutit la Divan să dobȇndescă carte de mazilie, adăogă emisarul și și-a pus pe cumnatul seu să ne adune aici ca să cerem în gura mare, nu căderea lui Vodă ci ușurarea birurilor și gonirea Grecilor. Greciĭ îmbuibați de bunătăți se vor duce la urma lor cu bucurie și alți venetici mai flămânzi și mai lacomi ca ei vor veni să se facă cârduri împrejurul tronului și să ne sugă mult mai cumplit.</p>
+<p>— la pecate! cțise în sfârșit și unul din popor oftând; încătrău ne învârtim noi tot nicovale suntem! E sfântă zicătorea Românescă: schimbarea Domnilor, bucuria nebunilor.</p>
+<p>Cu aceste cuvinte și unele ca acestea împrăștiate cu abilitate de emisari boerescĭ, începu să se introducă în părțile lăturașe ale mulțime! germeniĭ îndoelei. Murmure de descuragiare transportate din gură în gură se răspândiră în câte-va. minute în inimile multora din cei slabi de îngeri cariĭ se mișcase numai prin comoțiunea galvanică a entusiasmului; îndată ce entusiasmul fu sdrun-cinat prin asemenea manopere, sângele reincepu a se reci și curagiul a slăbi.</p>
+<p>Centrul mulțimeĭ însă, adecă masa cea maĭ compactă a revoltanților, nu era încă pătrunsă de astă  molimă ucigătâre. Ea strigă într’una dreptate și nu înceta d’așĭ reclama cu  voce tare drepturile, până ce nu vězŭ apărând în balconul palatuluĭ domnesc pe însușĭ Ștefan Vodă, însoțit de curteniĭ sěĭ. Infățișarea luĭ cea cruntă și aerul sěŭ cel arțăgos nu era prevestitor de pace pentru rěsculătorĭ; eĭ simțiră și începură a șopti între dânșiĭ și a sě sfătui, dar nu-șě perdură de loc cumpětul.</p>
+<p>Înainte d’a descieșta fălcile capul Statuluĭ spre a comunica reclamanților resultatul cereriĭ lor, să ne transportăm repede în sala tronuluĭ, spre a sci ce s’a petrecut acolo de când s’a asediat palatul de popor. Toțĭ Greciĭ influențĭ, Metropolitul, unul din episcopĭ, deósebițĭ arhiereĭ și egumenĭ, Grecĭ saŭ grecițĭ și eĭ ca toțĭ demnitariĭ țěreĭ din acea epocă, sě adunase în jurul luĭ Vodă ca să delibereze. Ștefan, ațițat de caracterul sěŭ înrăutățit dar franc, era de părere ca fără nicĭ un menajament să îndrepteze tunurile în popor și să împrăștie prin věrsare de sânge pe rebelĭ. Greciĭ, cu Stavrache în frunte opinaŭ că e mult maĭ bine d’a evita o șansă așa de nesigură și c’ar fi maĭ cu minte să împrăștie poporul prin promisiunĭ și imbunărĭ, pe care e liber a nu le realisa nicĭ-odată, iar o mică parte din boerĭ de origină pământenĭ și strecurațĭ pe lângă tron prin elasticitatea caracteruluĭ lor, găsiră cu cale că pentru siguranța tronuluĭ și triumful bineluĭ, ar trebui birurile ușurate, streinĭ înfrânațĭ și abuzătoriĭ pedepsițĭ. Florica care, contra tuturor opunerilor ce înțempina din partea Grecilor, eșise din micul apartament unde locuia ca esilată și intrase în sala de deliberațiunĭ, avu curajul d’a striga.</p>
+<p>— Înduioșază-sě învertoșarea inimeĭ tale, Mărite Domne; aplăcă-sě urechile tale spre rugăciunile supușilor, audă cu bună voință cuvintele de pace și milostivire ce aŭ rostit uniĭ din sfetniciĭ M. Tale și gonesce de de-asupra capetelor supușilor nenorocirile cu care duhul cel rěŭ voesce a-ĭ stinge. Adu-țĭ aminte că aĭ sânge, că aĭ carne, că aĭ viață pe care le iubeștĭ cu scumpete; nu te îndura dar a věrsa sânge, a măcelărĭ carne și a smulge viața acelora ce le-aŭ căpětat’o ca și M. Ta prin mila Dumnezeiască. Adu-țĭ aminte că aĭ avut mumă, că aĭ fost fiŭ, că poțĭ fi tată și că durerile de fiŭ și părinte sunt împungětóre și nu te îndura d’a răpi fiĭ dela mume, pe părințĭ dela fiĭ și pe copiĭ dela aceia ce i-a născut, prin secera morțiĭ și tară de vină. Indurare și milostivire, Domne, adăogă fosta curtesană cu un ton sublim cădend la genunchele soțuluĭ sěŭ, ertare și dreptate stăpânul meŭ.</p>
+<p>— Scolă-te, Floreo, dise Ștefan puțin mișcat; n’ar fi trebuit tu femee, adăogă maĭ cu asprime, să calcĭ pragul asteĭ cămărĭ; scolă-te îți dic și eșĭ maĭ nainte d’a-mĭ aduce aminte că aceste turburărĭ îmĭ vin dela Miu și că tu ești sora luĭ.</p>
+<p>— Și pote unealta sa, adăogă Stavrache apropiĭndu-sě.</p>
+<p>— Nu mě scol, strigă ea, măcar de m’ațĭ omorĭ, pănă ce povețele rěŭ voitorilor nu vor fi șterse prin lacrămile adevěrului. Dacă voeștĭ să nu fie Miu biruitor, nu te face omorîtor, Ștefane Vodă, piciore.</p>
+<p>— Scotețĭ-o d’aicĭ, dise cu bruscheță Racoviță, îndreptându-sě spre balcon.</p>
+<p>Când Florea eși prin forță din sala de consiliŭ, Vodă apăru d’asupra balconuluĭ înaintea poporuluĭ; cum îl vězură tote gurile tăcură și fără a scote un strigăt de aclamare îșl ațintiră privirile spre dânsul.</p>
+<p>— Bucurescenĭ, dise Vodă în grecesce și după el un dragoman în Românesce, (Ștefan cunoscea limba română ca un Român ce era, dar o ura și o desprețuia maĭ rĕŭ decât un Fanariot); am auzit strigările ce rĕsvrătitele vostre glasurĭ a adus pănă la mine, și din cele auzite am înțeles că vĕ plângeți de Greciĭ meĭ și de birurile ce vi-sĕ cer; ascultațĭ acum și rĕspunsul meŭ: pe Greci nu-ĭ gonesc fiĭnd-că sunt adușĭ de mine și-ĭ iubesc; cine sĕ plânge de eĭ afle că eŭ, ca și Iliaș Vodă, cred că de mine sĕ plânge și de aspră pedeapsă e vrednic.</p>
+<p>— Trăiască Măria Sa, strigară Greciĭ din sala palatuluĭ.</p>
+<p>— Cât pentru birurĭ, adăogă Ștefan, tot prin gura dragomanuluĭ, voiŭ lua mĕsuĭ ca să dobândițĭ ore-care ușurărĭ și să fițĭ apĕrați de lăcomia slujbașilor; astă cerere e dreaptă, dreptatea este legea mea, vĕ iert un sfert din tote dările, adecă cel din urmă sfert al anuluĭ curgător; Dumnezeŭ fie cu voiŭ.</p>
+<p>— Mĕ iartă Domne, dise Miu, suindu-sĕ pe o piatră ca să domine mulțimea; nu vĕ retragețĭ așa iute căcĭ maĭ avem câte ceva de zis; noĭ ne plângem mai puțin de birurĭ decât de iubițiĭ Grecĭ aĭ M. Tale. Dacă eștĭ părinte cu dor de inimă și vraciŭ iscusit, vindecă rana cea maĭ durerósă și maĭ adâncă, scapă-ne de Grecĭ, căcĭ eĭ prin strâmbătățile lor fac ca legiuitele dărĭ să apese cumplit grumajiĭ bietuluĭ norod. Așa e fraților, adăogă el adresându-sĕ cătră popor, că de Greci să scăpăm maĭ ântâiu?</p>
+<p>— Da, da, strigă mulțimea, de Grecĭ să scăpăm, ducă-sĕ Greciĭ, piară din țeră, moră, crape.</p>
+<p>— Greciĭ nu sĕ vor duce din țeră câtă vreme voiŭ domni eŭ, rĕspunde Ștefan.</p>
+<p>— Amuțească-vĕ gura, adăogă Stavracoglu, dacă voițĭ să nu v’o amuțescă tunul.</p>
+<p>— Audiți, fraților, ce ne rĕspund ceĭ îndatorațĭ d’a ne face dreptate? strigă Miu cătră popor, ne nesocotesce legiuita nâstră cerere și apoĭ ne gonesce ca pe cânĭ prin amerințărĭ; suntețĭ mulțămițĭ ?</p>
+<p>— Nu, nu, morte Grecilor, morte străinilor, jos Ștefan Vodă, trăiască Miu! strigă glota agitându-sĕ ca talazurile uneĭ mărĭ bătute de vânt.</p>
+<p>— Jos Ștefan a-țĭ zis? strigă Miu sărind jos după piatră și scoțând sabia, să mergem să-l rĕsturnăm; cine vrea sĕ biruiască, să nu sĕ codescă; la porțĭ, la porțĭ.</p>
+<p>— Foc! strigă o voce de d’asupra zidurilor.</p>
+<p>Anevoie e de descris învălmășala, amestecătura și îngrozitorul tabloŭ ce produse astă singură strigare. maĭ ântâiŭ de tote sĕ vĕzu o limbă de foc ca săgeta unuĭ fulger repezindu-sĕ spre popor de de-asupra zidurilor, apoĭ o isbucnitură de fum negru și înecăcios și pe urmă un trăsnet teribil, care sgudui pământul și sparse giamurile palatuluĭ și caselor dimprejur. Acel sgomot oribil sĕ amestecă cu un țipet de durere și mânie mult maĭ oribil și care avu un rĕsunet mult maĭ înspăimântător. Sângele roși pământul, numĕr mare de cadavre acoperi terenul și un numĕr și maĭ mare de vulnerațĭ începură să sĕ tăvălescă pe jos.</p>
+<p>— Înainte, înainte, strigă Miu și omeniĭ sĕĭ; curagiŭ fraților; trăiască dreptatea și România; nu vĕ temețĭ de morte, moșia este maĭ scumpă decât viața.</p>
+<p>— Fugițĭ, fugițĭ striga emisariĭ partisanilor schimbăriĭ de domnĭ; amăuțiĭ ne ia pe la spate, Miu e un tâlhar, el vrea să vĕ bage în foc ca pe urmă el să sĕ retragă cu aĭ sĕĭ și să sĕ năpus-tescă spre casele vostre pustiĭ spre a vĕ prăda averile și măcelăriĭ soțiĭle și copiĭ.</p>
+<p>— Trăiască Miu!</p>
+<p>— Trăiască Scarlat Ghica Vodă!</p>
+<p>— Trăiască Ștefan Vodă.</p>
+<p>Atâtea vociferări contrazicetore, încuragierile și înspăimentările succesive, lipsa de un principiu bine stabilit și împărtășit de tot poporul, renu-mele lui Miu cel puțin demn de încredere și neințelegerea în privința dorințelor fie-căruia, contribui a reci entusiasmul și a slăbi curagiul. O mare parte începu a se pune la adăpost de mitraliĭle ce curgeau ca ploia după crestele zidurilor, alțiĭ da dosul în fuga mare, alțiĭ se ascundeau pe unde găseau și chiar o parte din cei mai hotărîți lăsară pe Miu și omeniĭ sĕi d’asupra porțiĭ palatului ce căzuse fărâmată în bucățele spre a alerga pe-acasă să-și pue avutul la siguranță. Mulțimea se împrăștia tocmai atunci, când era gata d’a se proclama triumful și când Ștefan și curteniĭ sĕi descuragiați se pregăteau a capitula. Astă lașitate descuragiâ pe Miu și-l sili a se retrage și el. Vedend acest succes neașteptat cei mai lași decât toți, adecă asediațiĭ, ca să-și spele rușinea umiliriĭ, din fricoși solicitatori de grație, se transformară îndată în crucți persecutori și se năpustiră cu toțiĭ spre oi aș ca să-și sature setea de resbunare în sânge și jaf.</p>
+<p>Fu o zi teribilă pentru Bucurescenĭ acea zi, dar nu fu tocmaĭ infructuósă; deși nu avu fru-mosa sortă a acelora ce urmă după mișcarea luĭ Tudor Vladimirescu, adecă redobândirea vechilor drepturĭ de autonomie și alegerea unul principe pământean, deși făcu să averteze mișcarea luĭ Lupu Mehedințeanu, care era maĭ competinte d’a obține un resultat maĭ bun, putu cel puțin să informeze pe Pârtă, despre suferințele ce îndura Româniĭ din partea luŭ Ștefan și să-l rĕstorne după tron.</p>
+ </div>
+ <div type="chapter" n="11">
+<head>XI. Sultan Mezat.</head>
+<p>în urma maziliĭ cu care Pârta a pedepsit pe Ștefan Racoviță, tronul Românieĭ s’a ocupat de Scarlat Vodă Ghica, care maĭ domnise încă odată ; venirea luĭ în țeră fu întâmpinată cu ore-care semne de simpatie de cătră o parte din boeriĭ țĕreĭ, care nu renunțase încă d’a lua parte la luptele poliuice și la intrigele de palat, dar poporul rĕmase cu totul indiferent și descuragiat. Ca orĭ ce Domn din noiĭ venit și care scie să concentreze interesele luĭ cu pretensiunile acelor ce-ĭ putea fi utilĭ pentru aș întări scaunul, Scarlat Vodă primi bine pe toțĭ, promise tuturor concesiunile cele maĭ măgulitóre și chiar poporuluĭ îĭ acordă ore-care ușurărĭ, dar conduita lui cea relativ blândă dictată negreșit d’o prudentă înțelepciune și de temerea sorteĭ luĭ Ștefan și a favorituluĭ sĕŭ Stavracoglu, care muri în vârful ștreanguluĭ îndată ce ajunse în Țarigrad, uscâ cu totul în inima Românilor sĕmânța ce sĕ cercase Miu d’a face să încolțescă. Aceia ce maĭ bine de un secul zăcuse în amorțeală și apathie și sĕ deșteptase un moment ca să-șĭ redobândescă facultățile lor de fiĭnțe inteligente, reintrară numaĭ decât în vechia lor inerție și Lupn Mehedințeanu avu durerea d’a sĕ vedea părăsit de oșteniĭ sĕĭ și d’a merge orbesce spre o catastrofă sigură.</p>
+<p>Miu, perdend orĭ-ce speranță d’a maĭ putea, să-ĭ rĕscole, renunță cu mâhnire la misiunea sa de reformator, lăsă pe compatrioțiĭ sĕĭ să-șĭ sufere sorta ce merita și plecă acolo unde îl ducea dorința sa de rĕsbunare.</p>
+<p>Ștefan la plecarea sa din țeră îl amărî prin-tr’o noŭă insultă, care fu maĭ durerósă ca tote; el când sĕ sui în trăsura ce avea să-l ducă la Giurgiŭ spre a eși din țeră, goni prin vorbe gróse pe Florica de lângă sine, îĭ luă tot ce densa avea maĭ de valóre în banĭ, scule și vestminte și o respinse pălmuind’o cu brutalitate. Sermana femeie cădu leșinată pe pământ și dintre omeniĭ disgrațiatuluĭ satrap nimenĭ n’avu omenia d’a o smulge de sub piciorele cailor și d’ai da vre-o îngrijire. Animaiele fură maĭ cu inimă, ele sĕ feriră d’a călca peste un corp neinsuflețit și din instinct o ocoliră fără a-ĭ face cel maĭ mic rĕŭ.</p>
+<p>Când s’a deșteptat Florea, sĕ vĕdu aședată pe prispa uneĭ case încunjurată de verdeață, pe un pat mole și curat și la capul eĭ o bătrână cu căutătura blândă, care o îngrijea și o privegia; era muma luĭ Neagu servitorul eĭ cel credincios.</p>
+<p>— Unde sunt eŭ? murmură ea deschizând ochiĭ.</p>
+<p>— La buna ta Despa, rĕspunse bĕtrâna, la țeră unde câmpia e verde, aerul rĕcoros și omeniĭ bunĭ și iubitorĭ.</p>
+<p>— Dar fratele meŭ n’a maĭ venit?</p>
+<p>— Vezi acel nor de praf? el este ridicat în văzduh de copitele calului lui.</p>
+<p>— A venit și eŭ nu l’am vĕzut și sĕ duce și eŭ nu l’am strâns în brațe, înainte d’a muri ! dar unde fuge el? cine-l gonesce?</p>
+<p>— Sĕ duce la Țarigrad să rĕsplătescă după cuviĭnță pe acela, ce s’a purtat mișelesce cătră o fiĭnță bună ca dumneata.</p>
+<p>— S’a dus să-l omore?! strigă ea sculându-sĕ repede în sus. Unde e Neagu? chiamă iute pe Neagu.</p>
+<p>— Ce vreaĭ să facĭ? strigă bĕtrâna spăimentată, ce copilărie vreaĭ să săverșescĭ?</p>
+<p>— Nu mĕ întreba, ci alărgă după Neagu în clipă.</p>
+<p>— Căpitan Miu te-a lăsat sub îngrijirile fiuluĭ meŭ și fiul meŭ sub ale mele, suntem rĕspundătorĭ de tot ce veĭ face ...</p>
+<p>— Femeie! strigă Florea cu energie, dă-te înapoĭ, și lasă-mĕ în pace dacă nu vreaĭ să mă dlujescĭ. Am fost Domnă și sunt soră de haĭduc fiĭnță ca mine nu sĕ pote țină în prinsore ; dă-mĭ drumul saŭ mĕ omor acum înainte-țĭ.</p>
+<p>— Doamne Sfinte! esciamă biata bĕtrână îngrozită, să nu facĭ una ca asta că iată-mĕ, iată alerg să caut pe Neagu.</p>
+<p>Neagu fu într’o clipă înaintea Floreĭ.</p>
+<p>— Neagule, zise ea, în totdeauna mĭ-aĭ zis ca-mĭ escĭ credincios pe viață și pe morte, și de miĭ de orĭ mĭ-aĭ jurat, că veĭ îndeplini orbesce poruncile mele și că mĕ veĭ urma pănă la marginile pământuluĭ; să te vĕd acum cum te țiĭ de cuvent. Dacă îmĭ escĭ credincios cum te-aĭ jurat, du-te de schimbă ăst inel în banĭ, cumpĕră cu parte din eĭ doĭ caĭ sprintenĭ, iar rĕmășița păs-îreaz’o pentru cheltuială. Avem să facem o lungă călĕtorie.</p>
+<p>— Mă duc să înșel caiĭ, rĕspunse Neagu și să iaŭ din casă banĭ, căcĭ avem și caĭ și banĭ; ia-țĭ dar inelul înapoĭ că e de prisos, pune-l iar în degetul de unde l’aĭ scos și pregătesce-te de drum că eŭ viŭ îndată.</p>
+<p>— Bunul meŭ prietin murmură sora luĭ Miu înduioșată.</p>
+<p>— Caiĭ și baniĭ sunt gata, dise Neagu apĕrând peste câteva minute lângă stăpâna sa, care deja era gata de ducă. Unde plecăm?</p>
+<p>— La Țarigrad, rĕspunse Florea încălecând.</p>
+<p>***</p>
+<p>Peste un an după ceea ce nararăm maĭ sus, principaliĭ noștriĭ eroĭ eraŭ de mult stabilițĭ în capitala Turcieĭ, regina mărilor și grădina Europeĭ ; Ștefan Racoviță ocupa o casă mare din Fanar somptuos mobilată și populată de mulțimea creaturilor sale. Miu locuia într’o mică căsuță lipită de casa cumnatuluĭ sĕŭ și Florica cu fidelul sĕŭ Neagu spiona tote mișcările în aceste case, din dosul cafasurilor uneĭ cămăruțe situată din fața palatuluĭ soțului eĭ. Ștefan nu avea cunos-cință că Miu și Florica eraŭ așa de aprope de pașiĭ sĕĭ, nicĭ Miu că sora sa îĭ spiona mișcările.</p>
+<p>într’o zi eși din curtea palatuluĭ Racoviților o mulțime de ciohodarĭ lucsos învestmântațĭ și încunjurară un cal mare și frumos; acel cal era ținut de o parte a dîrlogilor de un seiz, de cealaltă parte alt seiz și pe lângă fie-care picior dinainte saŭ dinapoĭ sta apropiat câte un seiz, astfel că bietul cal nu putea merge decât numaĭ la pas, călcând cu piciorele numai la locul ce-ĭ indica numĕroșiĭ luĭ conductorĭ. Pe când lângă ăștĭ seizĭ, peste doĭ-spre-zece ciohodarĭ mergeaŭ la pas și în neregulă, ținendu-șĭ bastonele uniĭ pe umere, alțiĭ în sus ca nisce steagurĭ, alțiĭ atingendu-le de pământ și mĕsurând cu ele pașiĭ, ca cu un adevĕrat baston și alțiĭ târându-le după eĭ ca pe nisce săbiĭ, iar în mijlocul lor, d’asupra bietuluĭ armăsar care îșĭ potolea impaciența mușcându-șĭ zăbalele, sta Ștefan Racoviță aședat  comod și într’un mod molatic pe o grósă șea turcescă, acoperită cu un valtrap de catifea roșie cu ciucurĭ și florĭ de aur. îndată ce trecu de ferestrele locuințeĭ luĭ Miu astă pompósă caravană, eși după portița aceleĭ case un ciohodar mustăcios, îmbrăcat ca și camaradĭĭ sĕĭ și sĕ amestecă printre eĭ fără să bage cineva de semă că el a venit maĭ târziŭ; îndată ce eși acel ciohodar din locul sus indicat, portița caselor de peste drum se deschise și lăsă să trecă pragul alți doĭ ciohodarĭ aidoma cu ceĭ dinteiŭ, unul în verstă și altul cu mustața abia mijindă. Aceștia, după ce închise portița după eĭ, merseră ca și celălalt să sĕ amestece cu cortegiul luĭ Ștefan.</p>
+<p>În palatul mareluĭ Vizir la rândul de jos era un apartament în care sĕ aduna toțĭ fundiionariĭ superiorĭ aĭ Porțiĭ, toțĭ favorițiĭ influenț și toțĭ samsariĭ Grecĭ și Evreĭ, carĭ populaŭ într’un mare numĕr anticamerele pașalelor. Acolo sĕ precupețea grațiĭle și favorurile, acolo sĕ vindea și sĕ cumpĕra privilegiĭle și imunitățile, acolo chiar elciĭ marilor puterĭ, dobândeaŭ pentru ore-care sumă de banĭ, realisarea pretențiĭlor lor care pe calea legală a formulelor rĕmânea în stare de pretențiĭ anĭ întregĭ. Când cererea era mică, samsariĭ sĕ întâlneaŭ în anticameră cu servitoriĭ magnaților marelui devlet și după bună tocmeală urmată la minut de plată în monedă sunătore, hârtia de grație saŭ teșchereaŭa de chiverniseală întră în sînul samsaruluĭ și baniĭ în chiseaŭa magnaților.</p>
+<p>Dacă afacerea era maĭ grasă saŭ maĭ însemnată, samsariĭ eraŭ introdușĭ în cabinete particulare, da ochĭ cu marele pașale și tocmeaŭ ca la obor sorta vre-unuĭ muritor, averea cuiva saŭ însășĭ dreptatea; însă când era vorba să sĕ pue la tocmeală postul de vre-un pașe, vre-un gubernator, vre-un satrap saŭ de domn al Românieĭ orĭ al Moldoveĭ, atuncĭ însășĭ Luminăția Sa marele Vizir părăsia molele divan, pe care sta óre întregĭ rĕsturnat în mijlocul unor droae de huriĭ, sĕ cobora cu un pas încet și legănat pană în apartamentul samsarilor și acolo da vorbă cu însușĭ pretendențiĭ; în asemenea ocasiune era une-orĭ asistat chiar de cătră un representant al Mareluĭ Sultan. Atunciĭ să te fi ținut la o parte și să fi ascultat prin ce termenĭ sĕ făcea tocmeala, cum sĕ lăuda marfa de vendătorĭ și cum sĕ critica de cătră cumpĕrătorĭ!</p>
+<p>Într’una din acele zile, chiar într’aceea în care Ștefan Racoviță eșia din palatul sĕŭ cu atâta sal-tanat, era pus la mezat chiar tronul țĕrei Românescĭ. Ne vom permite dar a Introduce pe iubitul nostru lector în apartamentul samsalîculuĭ, ca să dăm ochi cu marele Vizir și să aflăm și noĭ ce sĕ petrece p’acolo.</p>
+<p>Luminăția Sa sta turcesce în mijlocul unuĭ mole și bogat divan, pe când patru eunuchĭ muțlĭ îĭ făcea vent cu lungĭ apĕrătorĭ de pene de păun; într’acest timp ilustrul personagiŭ fuma dintr’o lungă nerghelea și scotea din gură aci norĭ groșĭ de fum, aci câte-o vorbă pe care o adresa repre-sentantuluĭ Sultanuluĭ, care ședea tot ca densul pe o sofa maĭ pitică decât divanul și îșĭ neteza stufdsa și alba sa barbă. Afară de aceștĭ doĭ înalțĭ demnitarĭ, maĭ eraŭ în acea cameră treĭ individe;</p>
+<p>„M. iĭ.“ 8</p>
+<p>dar aceștia după atitudinea lor cea umilită ce-șĭ luase pe covorașele, pe care staŭ îngenunchiațĭ nu sĕ cunoscea dacă sunt sciavĭ sau eunuchĭ; acele treĭ individe sĕ num ia Alexandru Ghica, Grigorie Ghica și Alexandru Mavrocordat; câte-șĭ treĭ aŭ fost domnĭ, saŭ elcĭ pe lângă Portă și câte-șĭ treĭ eraŭ compețitorĭ pentru tronul Românieĭ.</p>
+<p>— Țera e bogată, zise în turcesce representantul Sultanuluĭ cu o voce trăgănată, locuitoriĭ sunt blândĭ și darnicĭ, pămentul este roditoi’, ghelilurile multe și avaeturĭ destule; într’o lună un om dibaciŭ adună milione; acest otcup prețuesce maĭ bine de una sută de miĭ de pungĭ cu banĭ.</p>
+<p>— O milostive stăpâne! suspină unul din compețitorĭ, de unde să fie una ca asta? De unde să sĕ scoță atâta sumă de banĭ? Omeniĭ saŭ făcut îndărătnicĭ și leneșĭ, pămentul stă maĭ nelucrat, nămestiĭle domnescĭ sunt jefuite de soldațiĭ din Giurgiŭ și Brăila și chiar de însășĭ locuitoriĭ pământuluĭ sunt jumulițĭ de neferĭ.</p>
+<p>— Pașalele după lângă Dunăre ne prigonesc cu zeciuelele și haraciurile ce ne cere, adăogă al doilea compețitor, slujbașiĭ împĕrăteseĭ ne sărăcesc cu ploconele și strângerile pentru zaherale și maĭ presus de toțĭ hoțiĭ pămentescĭ ne ia și cenușa din vatră.</p>
+<p>— Dar omeniĭ noștri! replică cel d’al treilea, dar ciraciĭ casei nostre, dar samsariĭ și cămătariĭ cum ne despoie! Trebue să-ĭ îndopăm pe eĭ maĭ înteiŭ, ca apoĭ să fim sigurĭ că vom rĕmânea la putere și vom fi slujițĭ cu credință.</p>
+<p> — Sunt vremurĭ de foc, adăogă câte treĭ în cor.</p>
+<p>-- Numaĭ ca să îndeplinim buna plăcere a Măriĭ Vostre, adăogă cel dinteiŭ, am maĭ îndrăsnit a ne pune avutul și viața nostră în primejdie, spre a ne sui încă odată pe acel blăstĕmat de tron,</p>
+<p>— Sfîrșițĭ cu văetăturile de orbețĭ, întrerupse Vizirul cruntându-sĕ, căcĭ cunosc eŭ viclenia vos-tră. Acea țeră e pământul făgăduințeĭ, din ea curge miere, lapte și unt, cum zice proorocul: cel ce o stăpânesce halal de capul luĭ; spunețĭ maĭ curând ce dațĭ ca să dobândițĭ atâtea bunătățĭ?</p>
+<p>— Eŭ aș da 10,000 de pungĭ, dacă s’ar milostivi Măria Vostră să-mĭ dea firman întărit că voiŭ domni treĭ anĭ neintrerupt, zise cu timiditate cel dîntâiŭ.</p>
+<p>— Eŭ aș da 30,000 pentru o domnie de doĭ anĭ și jumĕtate, dise cel d’al doilea.</p>
+<p>— Patru-zecĭ de miĭ daŭ pentru doĭ anĭ de putere, murmură cel d’al treilea.</p>
+<p>— Fie 50,000, suspină cel dintâiŭ.</p>
+<p>— Daŭ pănă la 60,000, adăogă al doilea.</p>
+<p>— Urc pănă la 70,000, zise al treilea, dar maĭ mut nu daŭ un florentin măcar.</p>
+<p>— Atâta dăm și noĭ, dise deodată ceilalțĭ doĭ.</p>
+<p>— Nu dațĭ maĭ mult? întrebă Vizirul rĕstit.</p>
+<p>— Nu putem, rĕspunse pretendențiĭ plecând capetele în jos.</p>
+<p>— Întrebă pe Negiub dacă a venit Ștefan Racoviță, zise Vizirul trimisuluĭ Sultanuluĭ.</p>
+<p>Acesta sĕ aplecă cu respect, bătu în palme de treĭ orĭ și zise eunuculuĭ ce apăru:</p>
+<p>— A sosit Ștefan Racoviță? Eunucul făcu din cap semn că da; bagă-l înăuntru, adăogă acesta făcând semn sciavuluĭ să plece.</p>
+<p>Ștefan fu introdus și, după ce făcu .salutarea usitată, se așeză și el pe un covor în o postură maĭ umilită decât camaradiĭ sĕĭ. Pană să sĕ așeze el pretendențiĭ zise viziruluĭ: </p>
+<p>— Facă-sĕ voința strălucireĭ Vostre, dăm 100,000 de pungĭ.</p>
+<p>— E prea târdiŭ acum, rĕspunse Vizirul, și maĭ ales de tote tronul e unul și voĭ treĭ, rĕmâne a sĕ sci cine dă maĭ mult. Tu, Ștefane aĭ fost doritor d’a te întorce în țera de unde aĭ venit; ce daĭ ca să-țĭ recapețĭ tronul?</p>
+<p>— Una sută cincĭ-zecĭ miĭ pungĭ banĭ gata pentru un an de domnie, rĕspunse Ștefan.</p>
+<p>— Una sută șase-zecĭ, murmură oftând primul concurent.</p>
+<p>— Una sută opt-zecî strigă suspinând cel d’al doilea.</p>
+<p>— Una sută noŭă-decĭ, îngână cel d’al treilea și nimic maĭ mult.</p>
+<p>— Doŭă sute cincĭ-zecĭ de miĭ, strigă Ștefan cu un aer triumfător.</p>
+<p>— Noĭ nu putem da atâta, măcar de ne-am vinde nevestele și copiĭ, strigară în cor ceĭ treĭ pretendențĭ.</p>
+<p>— Atuncĭ Ștefan Racoviță este domn în locul luĭ Scarlat Ghica, care nu a fost în stare să trimită ploconul Bairamuluĭ; aceste cuvinte fură pronunțate de cătră Vizir în ciuda celor treĭ pretendențĭ, carĭ îșĭ mușcaŭ buzele de nĕcaz.</p>
+<p>Vestea despre resuirea luĭ Ștefan Racoviță pe tron sĕ lăți îndată prin anticamere și de acolo în tot orașul cum sĕ vede treba, astă casă de conferințe secrete, avea la disposiție nu sĕ scie cum, urechĭ forte vigilente. Ștefan fu purtat în triumf și când coborî cele opt trepte ale scăriĭ ce eraŭ ridicate de-asupra pământuluĭ, maĭ mulțĭ din ciohodariĭ fostuluĭ domn întinseră mânile ca să-l ție de subțiorĭ; ceĭ maĭ fericițĭ fură de-o parte mustăciosul, care eșise din casa de lângă palatul luĭ Racoviță și tânărul ce trecuse pragul caseĭ de peste drum.</p>
+<p>Când sĕ vĕdu scăpat de servitoriĭ saraiuluĭ carĭ sĕ grămădise în juru-ĭ spre a căpĕta bacșiș, Ștefan zise Omenilor sĕĭ cu bucurie mare:</p>
+<p>— Voiŭ domniĭ iarășĭ copiĭ meĭ.</p>
+<p>— Nu veĭ domni, strigă mustăciosul înfigându-ĭ un pumnal mare în pept și dând apoĭ dosul.</p>
+<p>Doŭĕ țipete sĕ audiră deodată după astă lovitură, unul eșit din peptul victimeĭ, care cădu mort în lacul de sânge ce eșia din rană pe lângă cușit și altul din al ciohodaruluĭ, cel care susținuse umĕrul cel stâng al ucisuluĭ. Acest din urmă cădu îndată după Ștefan peste cadavrul sĕŭ cu un cuțit înfipt de însășĭ mâna sa în mijlocul peptuluĭ.</p>
+<p>Lumea amețită lăsă pe asasin să scape și alergă în ajutorul celor doĭ nenorocițĭ, pe carĭ îĭ transportă iute într’o cămară; uniĭ alergară după un medic, alțiĭ după poliție și nimenĭ după ucigaș ; asemenea întâmplărĭ eraŭ prea obicĭnuite în acele timpurĭ prin Constantinopole.</p>
+<p>Doctorul, după ce spălă rănile celor isbițĭ de cuțite, declară că amândoĭ eraŭ morțĭ, unul din eĭ însă era o femeie.</p>
+<p>Omeniĭ lui Racoviță recunoscură în acea femeie pe Florica fosta lor stăpână, și pe cuțit citiră teribilul nume al luĭ Miu.</p>
+ </div>
+ <div type="chapter" n="12">
+<head>XII. Parola boerescâ și resplata domnescâ.</head>
+<p>Câte-va lunĭ după sângerosa scenă descrisă maĭ sus, care avu drept resultat menținerea pe tronul Românieĭ a luĭ Scarlat Ghica ca, un individ mergea cu un pas încet pe stradele Bucurescĭlor; acel individ avea o înfățișare abătută, o căutătură stinsă, fața slăbănogită și pĕrul capuluĭ și al barbeĭ cărunțit maĭ mult de întristare decât de influența timpuluĭ. îmbrăcămintea luĭ ca și trăsurile chipuluĭ sĕŭ eraŭ în disordine și pĕrul capuluĭ în cea maĭ mare neingrijire. Acest individ necunoscut tocmaĭ intra în capitală prin bariera târguluĭ de afară și sĕ îndreptă spre piață; umblând pe stradă el mergea cu capul în jos, fără să vadă unde calcă și pe lângă cine trece. Pe când trecea prin dreptul bisericeĭ Răsvan, sĕ deșteptă deodată tresărind căcĭ simțise că ore-cine îl bătuse pe umere și aruncă în juruĭ o căutătură speribsă. Un individ era în fața luĭ.</p>
+<p>— Ce vreaĭ? zise el încruntându-sĕ, ce aĭ cu mine?</p>
+<p>— Nu mĕ cunoscĭ, căpitane? zise acel individ.</p>
+<p>— Nu, nu te-am vĕdut nicĭ-odată.</p>
+<p>— Ce spuĭ căpitane Miu ? nu maĭ cunoscĭ tu pe vechiĭ tĕĭ băețĭ? Saŭ pote că te temĭ d’a ne cunosce de frică să nu fi aruncat în temniță ca ceilalțĭ frațĭ?</p>
+<p>— Ceilalțĭ frațĭ! rĕspunse Miu, fiĭnd-că densul era, ceĭlalțĭ frațĭ? adăogă el puind mânile la cap ca cum ar fi voit să gonească din jurul cre-erilor sĕĭ un nor gros; a! mĭ-aduc aminte, eram căpitan de haĭducĭ, aveam o ceată credinciósă, eram iubit de băețiĭ meĭ; eram tare și vârtos în ziua când, după ce pedepsiiŭ un nelegiuit, am aflat din locul unde mĕ ascunsesem că am înfipt cuțitul omorîtor în însușĭ carnea mea, în peptul Florichiĭ sorioreĭ mele!</p>
+<p>Pe când pronunță aceste din urmă cuvinte, doŭĕ șirăie de lacrămĭ isvorîră din occhĭ sĕĭ ceĭ aprinșiĭ și începură să curgă de-alungul obrazuluĭ sĕŭ. Acestă roŭă a dureriĭ, ușură greutatea ce-ĭ apĕsa peptul și-l făcu să sĕ maĭ desmeticescă.</p>
+<p>— Căpitane, zise fostul luĭ camarad înduioșat, iartă-mĕ că te-ain bănuit un minut că aĭ vrut să te lapedĭ de noĭ, iartă-mĕ și vino cu mine îcĭ într’o căsufă retrasă ca să ne spunem în isichie păsurile. N’aĭ să te temĭ de mine, Florea Cor-beanu nu țĭ-a voit rĕul nicĭ-odată; din potrivă el te-a iubit ca pe tatăl sĕŭ. Aide căpitane te rog, aci e arșiță și urechĭ gata de ascultat.</p>
+<p>Miu urmá pe conducĕtorul sĕŭ într’un chip mașinal și după ce întră împreună cu el într’o cămăruță umedă și întunecósă dar curată, scóse un lung oftat și apoĭ dise:</p>
+<p>— Tocmaĭ acum mintea mi-s’a luminat încât să pot înțelege ce e împrejurul meŭ; tocmaĭ acum te cunosc frate Floreo; de când am ucis pe Racoviță, pe necinstitorul numeluĭ de Român și de frate, și de când am audit că soră-mea șĭ-a ridicat viața pentru dênsul neprecurmat zi și nópte, urlă la urechile mele ceva ca o morișcă ce huruie neincetat; têmplele mele svecnesc fără conteneală, fruntea îmĭ arde de un foc nemistuit și printr’aceea uruială par’că aud o șoptire gróznică, care mereŭ îmĭ zice : Tu eștĭ ucigașul sorióreĭ tale. De atuncĭ sunt încunjurat de o pară de flăcărĭ: tot ce vĕd, văz în roșu și tot ce aud îmĭ pare că este un țipet de mórte. Sêrmana Florică! eŭ am omorît’o; orbirea mâniĭ m’a oprit d’a înțelege că ea iubia pe gâdele sĕŭ mai pre sus ca viața sa! Dela mórtea eĭ numai acum simț puțină rĕcorélă și pot înțelege ceva; spune-mĭ ce s’a ales de frațiĭ meĭ ? Spune-mĭ maĭ curênd pănă ce nu sĕ va coborĭ peste sêrmaniĭ meĭ ochĭ vĕlul cel sângeros care îmĭ răpesce vĕdul și simțirea; spune tot ce sciĭ despre eĭ.</p>
+<p>— Biețiĭ noștri frațĭ! dragă căpitane, rĕspunse Florea oftând, zac în obezĭ.</p>
+<p>— În obezĭ?! strigá Miu sărind în sus, cine i-a ferecat?</p>
+<p>— Eĭ cine ? ómeniĭ stăpânireĭ; numaĭ eŭ am scăpat pănă acum.</p>
+<p>— Ce aŭ făcut eĭ în lipsa mea?</p>
+<p>— Nimic căpitane, nimic care să ațițe în potriva</p>
+<p>lor mânia domnescă; se așezase în oraș ca nisce omeni de ispravă, sĕ apucase fie-care de câte o meserie, îșĭ speculau baniĭ ce dobândise din îm-părțelă cum puteau; uniĭ pusese în gând să se căsătorescă ca să trăiască în isichie; însă ca din senin căzu asupra lor o urgie neașteptată; mulțime de arnăuțĭ sĕ năpustiră prin oraș, le călcarâ casele într’o nopte la toțĭ și toțĭ fură tîrîțĭ în temniță. Eŭ am scăpat fiĭnd-că lipseam de-acasă; să vede că Dumnezeŭ a vrut ca să trăesc spre a rĕmânea cineva, care să pedepsescă pe vendĕtor.</p>
+<p>— A fost la mijloc vre-o vendare.</p>
+<p>— Apoĭ cum nu? Cine era să spue arnăuților unde șade voiniciĭ lui Miu, care a băgat groză în Crecĭ?</p>
+<p>— Sub ce vină i-a închis?</p>
+<p>— Sub vină că aŭ călcat și omorît pe un grec strîngĕtor de birurĭ, care după cum sĕ aude a fost omorît și jefuit de un alt grec tovarăș al lui fugit acum peste Dunăre.</p>
+<p>— Dar venzătorul; venzătorul ?</p>
+<p>— Mirilă Vulpe a fost; însă șĭ-a luat el drepta osândă: cum l’am vĕzut la un loc sciĭ tocmaĭ bun, departe de lume, l’am chitit cu vechiul meŭ pistol și l’am culcat lat la păment. Ticălosul, după cum am aflat maĭ în urmă, el se ducea pe la foștiĭ sĕĭ frațĭ de cruce sub cuvânt că vine să-l mângăe, le spunea că tu căpitane i-aĭ vândut și îĭ povățuia ca la judecată să spue și ce scie și ce nu scie în paguba ta. Săraciĭ! eĭ credeaŭ, cred și acum că țĭ-aĭ dat coatele cu boeriĭ și sunt hotărîțĭ la judecată a te afunda cum e maĭ rĕŭ.</p>
+<p>— Mișeiĭ! Murmură Miu, s’aŭ îndoit eĭ de credința mea? Eŭ însă nu mĕ voiŭ îndoi nicĭ cel puțin o clipă d’amĭ pune viața în primejdie pentru eĭ; te las cu bine, mâne veĭ audĭ de mine.</p>
+<p>Din mica căsuță Miu alergă la cămara ce ocupase el alta-dată pe vremea rĕsmirițeĭ, care cămară era situată într’o suburbie depărtată. Cum ajunse acolo sĕ îmbracă cu vestmintele cele maĭ bune, încălecă pe fidelul sĕŭ armăsar și merse urmat de Neagu, cu care sĕ întorsese dela Constantinopole, la palatul Vorniculuĭ Preda, unul din ceĭ maĭ de frunte conjurațĭ în contra luĭ Racoviță, care îĭ promisese ajutor, protedĭiune și banĭ cât va voi și care atuncĭ era în fundiiune pe lângă noua domnie, ca toțĭ ceilalțĭ conjurațĭ. Când sĕ înfățișă Miu la ușa anticameriĭ, evghenia sa sta rĕsturnat pe o sofa în camera de repaos și lua cafea și ciubuc.</p>
+<p>Audind numele redutabiluluĭ haĭduc boeru sĕ cam înfioră, dar nu-șĭ perdu de tot cumpĕtul și dete ordin să-l poftescă înăuntru. Cum îl vĕzu marele Vornic sĕ prefăcu că simte o mare bucurie că-l vede, și numaĭ decât îl pofti să ședă lângă el.</p>
+<p>— Căriĭ norocite întâmplărĭ sunt dator bucuria ce-mĭ aduce cercetarea Domniĭ-tale? zise Vornicul, după ce ciocoiul aduse dulcețuri și cafele.</p>
+<p>— Am să-țĭ fac o rugăciune, arhon Vornice, rĕspunse Mia.</p>
+<p>— O rugăciune! Vreaĭ să zicĭ o datorie pe care voiŭ îndeplini-o orĭ cât voiŭ trăi; n’ai decât să poruncescĭ și îndată eŭ și avutul meŭ suntem aĭ Domniĭ-tale.</p>
+<p>— Mulțumesc de atâta bunătate, eu nu viu însă să cer o chiverniseală, am cu ce trăi; viu numai să te rog ca prin puterea și trecerea ce ai, să se îndrepteze o nedreptate. Nisce prietin! ai mei, foști! mei tovarăși, aceia cari! prin puterea, și bărbăția lor a făcut să cadă Ștefan Racoviță și să vie la putere domnia de față, sunt închiși în urma unei pâri nedrepte. Un tovarăș al lor împins de ură și lăcomie de bani, i-a învinovățit că ar fi ucis și jefuit un pârcălab. Pe viul Dumnezeu, vă jur, că nu este adevărat; omeniĭ mei nu erau tâlhar! și omorîtorl, ei nu ucidea decât pe asupritori! ce-I arătam eu cu degetul, dar nici odată pe omeniĭ legiuiți a! stăpâniriĭ. De când am eșit eu din țeră, mai ales, el s’aiĭ lăsat cu totul de haiducit, s’au apucat de meseriĭ și negoț și să hotărîse a trăi ca omeni de ispravă.</p>
+<p>— Cum să pote să să facă una ca asta? strigă Vornicul jucând minunat pe omul cuprins de mirare; alerg la logofătul cel mare să-l întreb pentru ce face unele ca acestea fără scirea mea și îți făgăduesc că să va face dreptate omenilor Domniĭ-tale, măcar d’așl sci că mă duc pănă la Vodă. Pentru ce nu te duci și d-ta la palat? M. R. te iubesce și îl pare rău că nu te-ai arătat de-odată la curte, ca să îți răsplătescă după vred-cie iubirea ce simți pentru țeră și domnia sa; dacă nu vreai să mergi singur, am să me duc din adins ca să-î cer îndreptățirea bmenilor Dom-niĭ-tale și o isprăvnicie pentru Domniata.</p>
+<p>— Îțĭ mulțămesc, arhon Vornice, eŭ nu voiŭ nimic; îmĭ place să trăesc retras pe lângă munțiĭ unde am crescut. Eŭ am să mĕ duc în Moldova și să mĕ așez pe una din fășiele de pământ ce a stăpânit dela moșĭ strămoșĭ părințiĭ meĭ și pe-care mi le-a răpit nedreptatea omenescă.</p>
+<p>— Lasă, lasă-mĕ pe mine să fac ce sciŭ că este drept și nu maĭ fi năzuros. Mâne vino să afli isprava alergăturilor mele.</p>
+<p>A doŭa zi Miu fu la ora fixată în palatul marelui Vornic. Evghenia sa îl primi cu aceiașĭ bună voință și îĭ zise:</p>
+<p>— Gătesce-te să mergĭ la palat că M. Sa te așteptă cu nerăbdare. Cât despre prietiniĭ Domniĭ-tale acum trebue să fie slobozĭ, îțĭ daŭ cuvântul meŭ de cinste, că am vĕdut hârtia iscălită și pe aprod plecând spre Vornicia temnițeĭ, ca să le dea drumul.</p>
+<p>— Îțĭ mulțumesc și încredințat pe cuvântul de cinste ce mĭ-aĭ dat, mĕ duc acasă liniștit; cât pentru mergerea la palat me închin până la pământ înaintea tronuluĭ M. Sale și nu primesc nicĭ o rĕsplătire, ne credendu-mĕ vrednic.</p>
+<p>— Să mĕ vezĭ mort dacă nu veĭ merge; ce pîrdalnicul, nu mergĭ la spânzurătore. Neprimind, pote că Vodă s’ar crede înfruntat și maĭ sci minune. Greciĭ ăștia sunt superstițioșĭ.</p>
+<p>În fine, după maĭ multe rugăminte și lingușirĭ, Miu sĕ decise a merge la palat și a primi tot ce i-s’ar oferi, cu gând d’a demisiona îndată; ce ar vedea pe amiciĭ sĕĭ afară din pericol. Sĕ pusee dar în butca Vorniculuĭ alături cu dânsul merse la palat, întră înăuntru pe scara cea mare și fu primit în sala tronuluĭ cu nisce onorurĭ demne de un boer însemnat. Ajuns acolo, făcu temeneaua obĭcinuită înaintea tronuluĭ Domnesc, și M. Sa, cu o bunătate de inimă rară, îĭ dete mâna să i-o sărute și apoĭ vorbi cu fostul căpitan într’un mod forte măgulitor. Miu cu tote aste manifestațiĭ de bună voință, fără să înțeleagă pentru ce, sĕ simțea jenat, cuprins de un neastempĕr neașteptat și de nisce gândurĭ negre, în fine impacient și doritor de a sĕ vedea cât maĭ curend scăpat d’acolo.</p>
+ <p>După ce fu pus să ședă pe un jeț în rend cu boeriĭ de clasa a doŭa, iĭ sĕ ceti un ofis prin caresĕ numia mare Comis și altul prin care sĕ numia Ispravnic în județul Saacul. După cetirea pitaculuĭ doĭ copiĭ de casă îl luară de subțiorĭ și-l duse înaintea M. Sale care sĕ sculă din jeț, coborî doŭĕ din treptele tronulĭ și îmbrăcă pe Miu cu conteșul noiĭ sale demnitățĭ. Atunci sĕ auziră surlele meterlianeleĭ intonând un marș triumfal în sala vecină și boeriĭ ceĭ marĭ veniră pe rend de-l îmbrățișară frățesce, iar ceĭ micĭ de-ĭ sărutară mâna.</p>
+<p>Îndată ce sĕ termină ceremonia, Vodă sĕ retrase în apartamentele sale, iar marele Vornic luă de mână pe noul prefect și-l porni spre sala spătărieĭ ca să-l supue unor noĭ ceremoniĭ; îndată ce sĕ deschise o ușe care da într’un coridor lung, trecu maĭ înteiŭ Vornicul, apoĭ doĭ ciohodarĭ, pe urmă craĭnicul și după el noul Ispravnic. Acest din urmă abia făcu doĭ pași dincolo de prag și îndată sĕ clăti, sĕ retrase înapoĭ cu spaimă, întinse mânile, le crispă ca cum ar fi voit să apuce ceva și pe urmă cădu jos fără suflare, cu un șirat subțire de mătase înfășurat împrejurul gâtuluĭ.</p>
+<p>Greciĭ de spaimă ca să nu maĭ pată ce a pățit Ștefan dela acest rĕsvrătitor de popor, îl sugrumase, îl mâncase fript după zicătorea proverbuluĭ Român.</p>
+<p>A doŭa zi treĭ-zecĭ și noŭă de capete eraŭ înfipte în țepe d’asupra porților palatuluĭ; eraŭ capetele companionilor luĭ Miu; capul căpitanuluĭ lor era înfipt într’o țepâ mai înaltă. Sĕ adună mult popor să privescă astă esposițiune oribilă, dar când uniĭ alțiĭ începură d’a eși din rolul de spectatorĭ și începură a murmura și a regreta sortea acestor vitejĭ, fură împrăștiațĭ de arnăuțĭ prin loviturĭ de code de sulițĭ.</p>
+<p>Șezură astfel espuse trei zile nefericitele capete, și tocmaĭ a patra zi fură aruncate împreună cu corpurile lor, pe câmpul Colintineĭ spre mâncarea cânilor. Câniĭ nu-ĭ mâncară, fiĭnd-că Neagu și Florea care scăpase de persecuțiunea Grecescă, veniră noptea cu câțĭ-va hingherĭ țiganĭ bine plătițĭ și-ĭ îngropară pe câmpul unde maĭ apoĭ sĕ edifică biserica Tirchilescĭ.</p>
+<p>Capul luĭ Miu însă nu fu înmormântat ci păstrat de ceĭ doĭ fidelĭ servitorĭ ca o relicuă sfântă.</p>
+<p>Greciĭ omorîră pe Miu și pe aĭ sĕĭ, dar de haĭducĭ nu scăpară; Neagu și Florea întrară în codru, strânseră fie-care câte o bandă din ceĭ afiliațĭ cu ceata principală a luĭ Miu, și sub legile acestuĭ căpitan, din generațiune în generațiune, susținură contra Grecilor un resboĭ înverșunat pănă ce mișcarea luĭ Tudor ucise cu desăvârșire hidosul monstru numit domnia Fanarioților, și tot-de-odată înmormântă pentru tot-deauna era haĭducilor.</p>
+<trailer>FINE</trailer>
+</div>
+</body>
+<back>
+ <div><head>TABLA DE MATERiĭ:</head>
+<p>Pag</p>
+<p>Banchetul apăsătorilor.........3</p>
+<p>Prădătoril prădătorilor.........9</p>
+<p>Sora și amanta...........18</p>
+<p>Codru crinului............22</p>
+<p>Pisica în cursa șorecelui........35</p>
+<p>Domnul orașelor și Domnul codrilor .... 42</p>
+<p>Dracul...............49</p>
+<p>Plorica...............63</p>
+<p>Pădurea Vlăsiel...........78</p>
+<p>Resmirița..............90</p>
+<p>Sultanul mezat............108</p>
+<p>Parola boerescă și răsplata domnescă . . . .117</p>
+ </div>
+ <pb/>
+ <div>
+<p>Editura Librăriei Ciurcil, Brașov.</p>
+  <!-- missing list here -->
+ </div>
+</back>
+</text>
+</TEI>

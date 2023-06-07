@@ -1,0 +1,1681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HAIRO_StoenescuTM_DragusinHaiducul" xml:lang="ro">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title> Drăgușin haiducul : ediție HAIRO</title>
+    <author>Stoenescu, T. M.</author>
+    <respStmt>
+     <resp>Ocerizare și codare TEI</resp>
+     <name>Roxana Patraș</name>
+    </respStmt>
+    <principal>
+     <name>Patraș, Roxana</name>
+     <name>Galleron, Ioana</name>
+    </principal> 
+   </titleStmt>
+   <extent>
+    <measure unit="words"></measure>
+    <measure unit="pages"></measure>
+   </extent>
+   <publicationStmt>
+    <publisher>Proiect HAIRO (U. "Alexandru Ioan Cuza"/ U. Sorbonne-Nouvelle)</publisher>
+    <pubPlace>Iași</pubPlace>
+    <pubPlace>Paris</pubPlace>
+    <date>2020</date>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by-nc/4.0/legalcode.ro">Distributed
+      under a Creative Commons Attribution-NonCommercial 4.0 Unported License</licence> 
+    </availability>
+    <idno type="handle">11280/dc2381a9</idno>
+    <distributor>NAKALA
+     <ref>www.nakala.fr</ref>
+    </distributor>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>Stoenescu, T. M.</author>
+     <title>Drăgușin Haiducu. Istorie adevărată</title>
+     <pubPlace>Bucuresti</pubPlace>
+     <publisher>Editura librăriei H. Steinberg</publisher>
+     <date>1894</date>
+     <settlement>BCU Iași</settlement>
+     <idno>81/94</idno>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>Ediție electronică pregatită în cadrul proiectului franco-român HAIRO, PHC Brâncusi, 43462ZG.</p>
+    <p>This work was supported by a grant of the Romanian Ministry of Research and Innovation, CCCDI - UEFISCDI, project number PN-III-P3-3.1-PM-RO-FR-2019-0063 / 13 BM ⁄ 2019, within PNCDI III.</p>
+   </projectDesc>
+   <editorialDecl>
+    <p>Adnotarea efectuată se concentrează pe diviziunile structurale ale romanului (părți și capitole). Imaginile au fost omise.</p>		
+   </editorialDecl>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="ro">Româna</language>
+   </langUsage>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2018-09-28">Prima versiune TEI</change>
+   <change when="2020-08-07">Completare header și titlePage. Asociere cu schema TEI-all.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:lang="ro">
+  <front>
+   <titlePage>
+    <docAuthor>T. M. STOENESCU</docAuthor>
+    <titlePart type="main">DRĂGUȘIN HAIDUCU</titlePart>
+    <titlePart type="desc">ISTORIA ADEVĂRATĂ</titlePart>
+    <docImprint>
+     <pubPlace>BUCURESCI</pubPlace>
+     <publisher>EDITURA LIBRĂRIEI H. STEINBERG
+      <address>
+       <addrLine>Ștrada Șelari, No. 18</addrLine>
+      </address>
+     </publisher>
+    </docImprint>
+    <docDate>1894</docDate>
+   </titlePage>
+   <pb/>
+   <pb/>
+   <figure/>
+   <p>DRĂGUȘIN HAIDUCUL.</p>
+   <pb/>
+   <div type="liminal">
+    <p>PREFAȚĂ.</p>
+<p> Acum câți-va ani, D-nu Al. A. Macedonscki, făcuse o mică nuvelă, intitulată «Cârjaliul». — Intrându-mi pe mână, cerui voe autorului să desvolt subiectul seu și să'l continuu, făcend ast-fel o nuvelă, care să formeze un volum și în care se se desfășure tote peripețiile numitului haiduc. — Eu am botezat nuvela mea «Drăgușin Haiducul», pentru că am descoperit, că adevăratul nume al haiducului era Drăgușin, și că Cârjaliul este un nume ce și’l adoptase el, înainte de a deveni fiul codrilor. — Am crezut de datoria mea a spune acestea, pentru a nu mi se atribui de cât reala mea lucrare.</p>
+<signed>T. M. Stoenescu.</signed>
+   </div>
+  </front>
+<body>
+ <head>DRAGUSIN HAIDUCUL</head>
+ <div type="chapter" n="1">
+<head>CAPITOLUL I.</head>
+<p>De când s’aŭ întemplat cele ce ’m propunea povesti în cursul acesteĭ scrierĭ, sunt aprope
+sese-zecĭ si nouă de anĭ.</p>
+<p>In acele vremurĭ, satele nu eraŭ ne populate ca astă-dĭ căcĭ, orĭ-ce s’ar dice, proprietariĭ eraŭ
+pe atuncĭ mult maĭ omenoșĭ de cât  ceĭ de acum. Mare parte dintr’ânșiĭ locuiaŭ la țară și
+ajutaŭ pe sătenĭ să poarte grelele poverĭ ce le impunea stăpânirea. De aceeți orașele eraŭ
+aprope deșerte, și lipsa era mult maĭ simțită la orașe de cât la sate, carĭ, eraŭ cu tote
+acestea, atât de populate.</p>
+<p>Intr’unul din aceste sate din districtut Iașĭ, trăia boerul de nem Gostache Dăscălescu, dimpreună
+cu soția sa și cu frumosa Smărăndița, o teneră copilă de vr’o patru-spre-clece anĭ, fruct alacesteĭ fericite căsătoriĭ.</p>
+<p>Costache Dăscălescu, iubea fără îndoială pe Smărăndița, dar el ar fi iubit’o și maĭ mult, dacă ar
+ fi fost băiat.</p>
+<p>Intr’adevĕr, cea maĭ mare dorința a sa, fusese ca să aibă un fecior. Din nenorocire însă,
+destinul merge tot-d’a-una in potriva dorințelor noastre; ast-fel că se întâmplă forte adesea,
+tocmaĭ ceia-ce n’am dori să ni se întâmple.</p>
+<p>Doreștĭ ca în cutare di să fia vreme frumosă ? Gerul se înnoreză. Vreĭ să te înveseleștĭ, să
+rîzĭ, să petrecĭ?... o droie de împrejurărĭ supĕrătore îșĭ daŭ mâna că să’țĭ strice vioiciunea.
+Doreștĭ să te însorĭ cu tot dinadinsul?... Rămâĭ flăcăŭ. In fine, eștĭ însurat și vreĭ să aibĭ
+un băiat ?... Cucoana ’țĭ dă o demoazelă!...</p>
+<p>Ast-fel se întâmplase și bietulu boerĭ Dăscă-leseu.</p>
+<p>Cn toate acestea, Dăscălescu, nu dispera încă, de și era destul de înaintat în etate. După cât am
+înțeles și eŭ de la bătrânĭ, era în al șese-țlecelea an, fiind-că se însurase cu pĕrul aprope
+alb. O escepțiune, de ore ce, pe atuncea, bărbațiĭ se însura pe la etatea de 20 de anĭ și chiar
+de 18, fără ca pentru aceasta, lucturile să mergă maĭ rĕŭ ca astă-dĭ. Chiar din potrivă. Lumea
+era mult maĭ fericită și traiul mult maĭ sănĕtos și maĭ bun.</p>
+<p>Dăscălnscu însă, se însurase bătrân, dar el, ca toțĭ bĕtrâniĭ din timpii aceia, era mult maĭ
+ tânĕr de cât mulțĭ tinerĭ din epoca noastră.</p>
+<p>De aceea și Descălescu nu desnădăjduia de a avea un moștenitor al numelui sĕŭ, și, fie că cerul
+făcu o escepțiune în favoarea sa, ca pentru bĕtrânul Zaharia ') din Istoria sacră, fie din
+în-timplare, dorința luĭ se îndeplinĭ tocmaĭ în aniĭ aceia, când bărbațiĭ se gândesc maĭ mult
+ la mormânt de cât la procreare. Noul Ion Botezătorul fu botezat întru Hristos și primi, ca și
+acest apostol al luĭ Isus, numele de Ion.</p>
+<p>Se vede treba că, dându’ĭ acest nume, Dăscălescu se gândise la Zaharia, pentru care cerul făcuse
+o minune de acelașĭ fel, având în vedere negreșit sfințenia luĭ.</p>
+<p>Înainte de a trece maĭ departe, suntem silițĭ în interesul acesteĭ povestirĭ, să spunem
+întîm-plarea ce avu loc, în noptea naștereĭ fiuluĭ luĭ Dăscălescu.</p>
+<p>Dăscălescu de cu seră poruncise să i se pună caiĭ la trăsură, ca să aducă de la Iașĭ, care era în
+forte mare apropiere de proprietatea sa, pe un doctor și o moșă.</p>
+<p>Gând se uită însă, în dungă, vĕdu decep-tiune că n’are banĭ de ajuns ca să întâmpine chieltuelile
+naștereĭ.</p>
+<p>Gu ce era să plăteccă, bietul om, doctorul, moșa și doctoriile, din treĭ nenorocițĭ galbenĭ ce
+avea ?...</p>
+<p>Intre acestea caiĭ ședeaŭ înhămatĭ la trăsură și se înopta din ce în ce mai mult, fără ca
+Dăs-călescu să fi luat încă vre-o deciziune.</p>
+<p>Pe când bătrânul cugeta la greua sa pozițiune ușa de la odaia în care se afla dimpreună cu fiica sa Smărăndița se deschise cu iuțeală și un om intră.</p>
+<p>Era înalt, chipeșŭ și voinicŭ ; putea să aibă 25 de anĭ; purta un pieptar roșu, lucrat cu fiorĭ
+de mătase și fir; ciorecĭ albĭ și strimtĭ în pi-ciore, cusutĭ cu găitan albastru, în cap
+căciulă de piele de oie negră, din care un pĕr negru și stufos scăpa pe umeriĭ sĕĭ, peste care
+era asverlită o șubă albastră, ce-ĭ încadra de minune peptarul sĕŭ cel roșu și întregul sĕŭ
+bust. Mijlocul îĭ era încins cu un lat brâŭ roșŭ, în îndoiturile căruia, maĭ multe cuțite cu
+mânere scump lucrate și maĭ multe pistole eraŭ înfipte.</p>
+<p>In partea stângă atârna un iatagan; în pici-dre purta cisme până la genuchĭ.</p>
+<p>Ast-fel era înfățișarea nouluĭ sosit. La vederea luĭ, Smărăndița, făcu o mișcare de surprindere
+și de admirațiune, iar Dăscălescu mirat:</p>
+<p>— Ge vreĭ băete și cine eștĭ?... întrebă el cu supĕrare.</p>
+<p>— Ce vreaŭ !.. Vreaŭ banĭ! cine sunt?.. Sunt Drăgușin. Drăgușin!.. Acest nume este forte bine
+cunoscut, maĭ cu semă peste Milcov. Ceĭ ce aŭ trăit în timpiŭ luĭ se înfiora chiar acum
+pronunțându’l.</p>
+<p>Drăgușin era un vestit haiduc, venit la noĭ din Turcia. Uniĭ susțineau că este Albanez, alțiĭ
+Bulgar saŭ Șerb, și în fine alții afirmaŭ că ar fi Român trăit de copil în țara turcească.</p>
+<p>Orĭ cum ar fi, omul care se introdusese la Dâscâlescu în casă într’un mod atât do neașteptat și
+îndrăsneț, era Drăgușiu, vestitul Drăgușin!</p>
+<p>La audul acestui nume Dăscălescu începu să tremure,’ iar Smărăndița se Stăpânea cât putea să
+nu’șĭ peardă cunoștința.</p>
+<p>— M’aĭ audit! repetă Drăgușin cu un glas aspru și amenințător; ’mĭ pare că voĭ cestia des-poiațĭ
+îndestul norodul pentru ca să avețĭ banĭ.</p>
+<p>Dăscălescu cădu în genunchĭ.</p>
+<p>_ Nu striga așa tare, dise el cu un glas rugător. Nevasta mea este în odaia de, alaturĭ in
+muncile nașteriĭ. Cât despre banĭ, n’am pe cât acești treĭ galbenĭ, adaogă el, scoțând punga
+din po-sunar și arătându-i-d: ia-ĭ și Dumnedeŭ, să te ajute.</p>
+<p>Fața luĭ Drăgușin se îndulci ca printr un faimec.</p>
+<p>_N’ai de cât treĭ galbenĭ ? dise el cu blândețe ; dar cum o să întâmpinĭ cu această sumă
+cheltuelile ce o să fiĭ silit să facĭ ?...</p>
+<p>_ Tocmaĭ la aceasta mĕ gândeam și eŭ reluă Dăscălescu cu disperare.</p>
+<p>_Liniștește-te dise Drăgușin, întingând mâna bătrânuluĭ și rădicându’l de jos, liniștește-te și
+nu țĭ maĭ fie teamă de nimic. Eŭ am venit să’ți cer banĭ, dar fiind-că n’aĭ și te găseștĭ
+într’o asemenea împrejurare, Drăgușin va fi acela c are ’țĭ va da cât ’țĭ trebue.</p>
+<p>Dăscălescu și Smărăndița rĕmaseră înmărmuriț.
+-Ține dise el scoțînd o pungă din peptarul sĕŭ, am o sută de galbenŭ; jumĕtate sunt aĭ teĭ.</p>
+<p>Si cu o mișcare vărsă în mâna tremurătore a Dăscălesculuĭ c am la jumătate din străluci-torele
+bucățĭ de aceĭ ce conținea punga.</p>
+<p>Ochiĭ bătrânuluĭ și aĭ copileĭ se umplură de lacrămĭ.</p>
+<p>-Cucone, dise în acest moment o servitore deschizând ușa odăeĭ în care se află soția
+ Dăscălesculuĭ, cucone, să’țĭ trăiască feciorul.</p>
+<p>— Ce? să fie cu putință!... strigă cu veselie Dăscălescu, uitând scena ce se petrecuse si pe
+Drăgușin.</p>
+<p>— Poftim înăuntru dacă nu mă credĭ.</p>
+<p>A se repezi în odae cu iuțela fulgeruluĭ fu pentru Dăscălescu durata uneĭ secunde.</p>
+<p>Smărăndița remase singură în fața frumosuluĭ haiduc, aplecă ochiĭ cu timiditate în jos si se făcu
+roșie ca para foculuĭ, simțind scânteetorele privirĭ a le luĭ Drăgușin, ațintate asupra eĭ.</p>
+<p>-- Nu cum-va că te-am speriat? dise Drăgușin uimit de frumusețea eĭ.</p>
+<p>Copila voi să îngâne un respuns, dar emo-țiunea ĭ tăiă vorba.</p>
+<p>Această emoțiune era departe de a fi din eausa spaimeĭ; era produsul unuĭ simțimânt tainic care
+ nu o turburase încă penă atuncĭ, în fața unuĭ alt bărbat.</p>
+<p>Drăgușin se apropiă de dânsa și șeclu pe o laviță.</p>
+<p>Scoțând apoĭ din degetul sĕŭ un inel de aur înpodobit cu o piatră de rubin., luă mâna copileĭ
+înainte de a avea timp so tragă înapĭ si ’1 petrecu în deget.</p>
+<p>— Păstreadă’l frumoasa mea copilă, ca aducere aminte de la mine, dise el cu un glas ale căruĭ
+refiecțiunĭ eraŭ armonioase ca sunetele uneĭ harpe.</p>
+<p>— Privindu’l ’țĭ veĭ aduce aminte câte odată de Drăgușin.</p>
+<p>In acel moment ușa se deschise și Dăscălescu intră cu fața strălucitoare de bucurie, ținând în brațele sale pe noul născut.</p>
+<p>_ Dacă e așa mă poftesc la cină, clise vesel</p>
+<p>Drăgușin.</p>
+<p>_ Bravo ! strigă Dăscălescu cărui ’ĭ trecuse totâ spaima. Vom sĕrbătorĭ înpreună nașterea fiului
+ meŭ.— Fără să știe pentru ce, Smăr undița simți o mulțumire adâncă în
+ sufletul sĕĕ despre rămânerea lui Drăgușin.</p>
+<p>Peste un ceas, Dăscălescu, Smărăndița și Dră-gușin, serbaŭ dinaintea uneĭ mese încărcata cu
+ bucate, nașterea prunculuĭ ce avea sa se numească Ioan.</p>
+<p>Cina se termină prin închinarea luĭ Drăgușin în sănătatea lui Dăscălescu, părinte la 60 de
+ anĭ.</p>
+<p>In acea noapte Drăgușin remase în gasdă acolo.</p>
+ </div>
+  <div type="chapter" n="2">
+<head>CAPITOLUL II.</head>
+<p>Trecuseră 6 luni de la noaptea în care vestitul haiduc se introduse în casa Dăscălesculuĭ.</p>
+<p>Sera se întindea peste câmpurĭ și în depărtare se audea dulcele sunete ale fluerelor ciobanilor,
+ carĭ așeclațĭ împrejuruĭ a câte unuĭ foc cântau doine melancolice, pe când
+ turmele strânse în-prejurul lor, adormeaŭ liniștite la auriul acestor
+ cunoscute sunete.</p>
+<p>Luna se înălța strălucitoare pe azurul ceruluĭ răsipind în micĭ bucățele dantela norilor alburiĭ
+ce întâlnea în cale. Câmpia era luminata ca ziua</p>
+<p>In apropiere se afla casa Dăscălesculuĭ, care părea a fi afundată în cea maĭ deplină liniște, și
+aceasta era natural, de oare-ce, la țară, proprietariĭ și țăraniĭ se culcă
+maĭ de vreme.</p>
+<p>Smărăndița locuia o mică odăiță dosnică. Pe când însă toțĭ dormeaŭ, ea singură părea că veghează,
+căcĭ ferestrele odăeĭ sale eraŭ luminate.</p>
+<p>Dar lucru straniŭ, acele ferestre eraŭ întredeschise și un murmur con fus de vocĭ eșea din
+năuntrul odăeĭ.</p>
+<p>— Vin’o, dicea o voce bărbătească, vin’o iubita inimeĭ mele și’țĭ jur că’mi veĭ fi soție.
+Părințiĭ tĕĭ, carĭ n’ar vrea să ne unească astă-zĭ cu nicĭ un preț, ne vor
+erta după ce vom fi unițĭ.</p>
+<p>— Ce dici ? respunse o voce tânără, dar spăi mântată să părăsesc pe mama, pe tata ?... Să le
+pricinueasc la bătrânețe o durere alât de mare ?... O! aceasta ’mĭ e cu
+neputință și n’o voiŭ face nicĭ o dată!... Chiar aceea ce am
+făcutprimin-du-te în vremea acesta în odaia mea mi se pare un lucru foarte
+vinovat. Dar am făcut’o fiind-că te iubesc și pentru că ’mi scriaĭ că mĕ
+iubeștĭ...</p>
+<p>— Mĕ iubeștĭ ! reluă vocea bărbătească cu un ton nedescris. Mĕ iubeștĭ, și te înpotriveștĭ a mĕ
+face fericit, nu vreĭ să rescumperĭ sufletul omuluĭ de care zici că’l
+iubeștĭ și care este perdut prin faptele sale, prin fără de legile sale. Mĕ
+iubeștĭ și te tragĭ înapoĭ înspăimântată când voiŭ ca să’țĭ iaŭ mâna! Nu,
+tu, nu mĕ iubeștĭ și eŭ nu fac să nască în inima ta o altă simțire de cât
+ aceea a grozeĭ. O! puterea lui Dumnedeŭ e mare și ceea ce mi se întîmplă nu
+este de cât drept. Sunt atât de vinovat în cât orĭ-ce pedepsă ar vrea să
+trămită asupra mea mi s’ar părea prea mică.</p>
+<p>— Tacĭ, tacĭ dtise tremurătorea, vocea feme-iască. Asemenea vorbe ’mi sfâșie inima. Zicĭ că mĕ
+împotrivesc la fericirea ta, eŭ care, me simt turburată până în suflet
+când’țĭ întâlnesc privirea.</p>
+<p>Zicĭ că’mĭ trag mâna mea dintr’a ta, pentru că ’mĭ pricinueștĭ spaimă, când strângerea maneĭ tale
+reservă în sufletul meŭ o dulce bucurie și când n’o trag înapoĭ de cât
+pentru că simt că nu e bine aceea ce fac.</p>
+<p>In acest moment adiera vântuluĭ deschise fereastra și stinse lumânările.</p>
+<p>Pentru prima oră buzele frumosuluĭ Drăgușin se contopiră cu ale tinereĭ copile într’o arză-tore
+și lungă sărutare de amor.</p>
+<p>Gât timp a ținut beția lor nu o pote ști de cât acea propice adiare a vântuluĭ.</p>
+<p>Tot ce se știe însă, este că, în versatul zorilor, un armăsar negru și repede ducea în fuga mare
+departe de acele locurĭ, pe un tânăr chipeș și voinic, al căruĭ peptar
+roșu, strălucea la primele raze ale soreluĭ, și pe frumosa copilă ale căreĭ
+brațe albe ca zăpada strângea mijlocul mândruluĭ călăreț.</p>
+<p>Acesta se petrecea pe Ia începutul anuluĭ 1820 care fu un an de lacrămĭ pentru părințiĭ
+Smărăndițeĭ și un an de fericire pentru tânăra copilă care devenise soția
+frumosuluĭ Drăgușin.</p>
+<p>Retrasă dimpreună cu dânsul .într’un mic sat din Basarabia Rusească, viața lor era o întregă desmierdare.</p>
+<p>Drăgușin care jurase o ură neinpăcată marilor pământuluĭ și maĭ cu seamă Turcilor, uitase cu totul și viața sa trecută și jurământul sĕŭ. Atât e de adevĕrat că o femee
+pote să facă dintr’un om tot ceia ce voește!</p>
+<p>Din nenorocire o întâmplare neașteptată veni să redeștepte în sufletul sĕŭ, ura un moment
+ amorțită.</p>
+<p>Să știe că în acele timpurĭ, țara ca și astă-zĭ gemea de mulțimea veneticilor, cu diferința numaĭ
+că atuncea veneticiĭ erau Turciĭ și Fanarioțiĭ, pe când în dile noastre,
+ceĭ veneticĭ sunt numaĭ nemțiĭ, și dacă ne e permis să întrebuințăm o
+espresiune a unuĭ vechiŭ general român sunt capetele de urs de la nordul
+Germanieĭ. Se revenim la nsfația nostră.</p>
+<p>'Orăgușin și Smărăndița trăiaŭ dar fericițĭ în-tr’un sat din Basarabia rusească. Un singur nor
+însă venea din când în când să încrețească mar-morea frunte a Smărândițeĭ;
+părințiĭ sĕĭ nu’ĭ dedese încă bine-cuventarea, n’o iertase,</p>
+<p>Intr’o di însă ea primi de la mamă-sa o scrisoare prin care o chiâma lângă dânsa, căcĭ tatăl sĕŭ
+fiind greu bolnav dorea s’o vadă înainte de a’șĭ da cea din urmă suflare.
+De Dragușin, nu se făcea în scrisore nicĭ o vorbă.</p>
+<p>A decide pe soțul sĕŭ la o despărțire nu era lucru ușor; a pleca cu dânsul înpreună ar fi fost
+a’l espune la blestemele tatăluĭ sĕŭ murind, și a risca de a vedea potera
+punând mâna pe el căcĭ capul sĕŭ se pusese la preț.</p>
+<p>Dar o femee pote tot ce vrea, și maĭ cu semă o femee iubită.</p>
+<p>Intr’o dimineață ploiosă și tristă, Smărăndița se sui într’o chibitcă înhămată cu patru caĭ,
+ surugihairă, caiĭ porniră, clopotele începură să străngăne și Drăgușin cu
+ buzele încă umede de sărutarea despărțireĭ, cu ochiĭ plinĭ de lacrămĭ
+rĕmase mult timp în acelaș loc, urmărind chibitca cu ochiĭ și făcând să
+fâlfâiească batista sa în aer, în semn de adio, până ce o vĕdu dispărând în
+depărtare.</p>
+<p>Și când se deșteptă din uimirea luĭ și când se vĕdu că a rĕmas cu adevĕrat singur și cu acesta
+despărțire n’a fost un vis el îșĭ acoperi fața cu mâinile sale și se puse
+să plângă ca un copil...</p>
+<p>Dacă unul din vechiĭ luĭ tovarăși de haiducie l’ar fi vĕdut într’acel minut nu l’ar fi putut
+recunoște de sigur.</p>
+<p>Către seră el se întoarse cu pașiĭ încețĭ către căscioara în care locuia, dar cănd călcă pragul
+ușeĭ spre a intra în odăĭ, inima luĭ se strânse și maĭ mult intrând însă în
+năuntru, ochiĭ luĭ se umplură din noŭ de lacrămĭ.</p>
+<p>Nimic nu e mai dureros de cât de a reintra în casă după plecarea vreune ființeĭ iubite. Tote
+odăile ți se par puștiĭ. Aĭ toate și de toate și’țĭ lipsesște tot!
+ Pretutindenĭ este acelaș gol ca și în inima ta! Apoĭ, când îțĭ aruncĭ ochii
+împrejur și vedĭ, colo, un fotoliŭ păstrând încă forma corpuluĭ, dincolo,
+un trandafir ce s’a desprins din costița sa la momentul plecărei și a
+alunecat pe covor, mai departe, cartea sa favorită din care se exală încă
+profumul buzelor sale, acea carte, care conține întreaga poemă de amor și
+pe care aĭ răsfoiat’o atât de adesea împreună cu densa, întrerupând
+necontenit cursul citireĭ prin pasionate sĕrutărĭ, și făcend ast-fel cu lusiunea să deviă o realitate; când vedĭ tote acestea, si când cele maĭ
+micĭ gesturĭ, cele maĭ micĭ fapte ale aceleĭ ființe îțĭ revin în memoria, o! atuncea simțĭ cu adevĕrat totă dururea uneĭ despărțirĭ.</p>
+<p>Nu clicem că, Gârjaliul vĕdu cele expuse, dar, intrând în odaia de culcare dări pe o mescioră de
+chiparos ghitara Smărăndițeĭ; acestă ghitară era totă lucrată cu sidefurĭ
+și cu florĭ de argint. Cârjaliul ’i-o dedese în diua cununieĭ lor. El o
+avea de la tatăl sĕŭ ținea forte mult la densa, maĭ cu semă că avea
+superstițiunea că portă noroc.</p>
+<p>Gu câte-va dile înainte, Smărăndița voind să cânte, o scăpase din mână și căclând jos se
+spărsese.</p>
+<p>A doua di priimi și vestea prin care mumă-sa o chiămă să vie cât mai în grabă.</p>
+<p>— Vaĭ, dise atuncĭ Gârjaliu către Smărăndița, șghitara nu s’a spart zadarnic. Acesta e un semn
+rĕŭ; ce-va ’mi spune că drumul ce vrei să faci dacă ’ți vei îndeplini
+dorința, o să’mĭ pricinu-eșcă mari durerĭ, marĭ suferințĭ!</p>
+<p>Când după plecarea Smărăndițeĭ zărĭ acea ghitară sfărâmată...</p>
+<p>— Inima mea e sfărâmată ca și dânsa! strigă, el cu disperare. Fie ca presimțirile mele sa nu se împlinească, adăugă el.</p>
+<p>Și pentru prima oră de cincĭ-spre-dece anĭ cădu în genunchĭ, făcu semnul cruceĭ și înălțând ochiĭ
+ în sus se rugă.</p>
+<p>Când ieși din odaie, înoptase; dar rugăciunea ’ĭ deduse putere...</p>
+  </div>
+ <div type="chapter" n="3">
+<head>CAPITOLUL <sic>II</sic>.</head>
+<p>Nu vom urma pe Smarândița in călĕtoria sa, ci ne vom transporta în lașĭ unde ajunsese fata nicĭ o
+întâmplare însemnatore ca de acolo să trecă la moșia tatălui sĕŭ. Dar aci
+tu sdila să se opresca o di, căcŭ puteriŭ o părăsiră cu desăvârșire.</p>
+<p>Ajungând în vechia capitala a Moidov-ĭ Smârăndița porunci surugiilor s'o duca la hanul ce va fi
+maĭ bun.</p>
+<p>In aceĭ timpĭ, Iașiĭ fiind inca capitala, eraŭ mult maĭ populațĭ ca aslâ-dĭ și o mare afluența de
+călĕtorĭ veneaŭ să umple hotelurile saŭ maĭ bine dis hanurile, fiind pe
+atuncĭ la modă limba turcescă și grecescă, după cum cu câțĭ-va anĭ in urmă,
+era la modă limba franțuzescă, și după cum astădĭ este cea nemțească.</p>
+<p>Astfel hotelurile de atuncĭ se numeaŭ hanurĭ la urma hanurile se numeaŭ hotelurĭ și astă-dĭ în
+fine, hotelurile, se intitula cu armonidsa denumire de Gasthauser!</p>
+<p>Acesta digresiune încheiată aci, cată să spunem câ Smărăndița putu cu mare greutate să găsescă o odaie golă.</p>
+<p>Hanul în care se scobori Smărăndița era în mare parte ocupat de Zamet-bey și de suita sa.
+Zamet-bey era trimis de către pdrtă în misiune secretă pe lângă scaunul
+Moldoveĭ. Cu tote acestea incognitul sĕŭ nu era de loc bine păzit, căcĭ un
+turc nu pote călători fără o întregă armată de servitorĭ după dânsul, și
+știm că acestă clasă de omenĭ este departe de a fi discretă.</p>
+<p>In momentul când chibitca Smărăndițeĭ se o-prea d’inaintea porții hanuluĭ, Zamet-bey, care
+prânzise, sta lungit a lene pe un divan în pridvorul din fața ulițeĭ și’șĭ
+fuma ciubucul.</p>
+<p>El părea a fi un om ca de șese-decĭ de anĭ. Figura părea că nu era repulsivă, dar desfrâul șĭ
+imprimase asupra trăsurilor sale neștersul sĕŭ sigil. Ochiĭ ’ĭ eraŭ aprope
+stinșĭ; obrazul galben și sbârcit ca pergamentul, barba senină, încurcată,
+hidosă, și nasul lung și cădut pe buze. A-cesta despre fisic; cât despse
+moral îl ghicește orĭ-cine. In cap purta o cilma ca tote cialmalele
+turceștĭ, adică multicoloră, galbenă, roșiă și mai cu semă verde,—ca
+steagul lui Mahomet! Hainele sale se compuneaŭ dintr’un fel de anteriu lung
+șt îmblănit pe margini de colore albastră, iar șalvarii sei erau atât de
+largi în cât ar fi putut să încapă într’enșiĭ țlece copăĭ. Doĭ arapĭ cu
+iataganele trase ședeaŭ stâlpĭ, de-a drepta și de-a stânga divanuluĭ, pe
+când mai mulțĭ robĭ se îmbulzea înprejur, care cu ciubuce, care cu cafele,
+șer-bete și alte obiecturî orientale.</p>
+<p>In fața divanuluĭ sta secretarul luĭ Zamet-bey, aĭ căruĭ ochĭ mobilĭ denotaŭ falșitatea
+carecteruluĭ sĕŭ și micșorimea inimei sale. Acest secretar se numea
+Mehmed-Efendi.</p>
+<p>El sta drept, și cu mâinile la pept, într’o a-titudine plină de umilire, și de câte orĭ Zamet-bey
+aĭ vorbea, făcea câte o temenea până la pământ, ducend mâna drepta la
+frunte și la pept, iar cu cea stângă lua pulpa anteriuluĭ luĭ Zamet și o
+ săruta.</p>
+<p>Zamet fuma din lungul sĕŭ ciubuc sorbind din timp în timp și dintr’o ciașcă de cafea fără mâner,
+ pusă într’un zarf de argint, când trăsura. Smărăndițeĭ se opri la pdrta
+  hanuluĭ. Gârbovulŭ bey ’șĭ aruncă ochiĭ cu distracțiune ca să vadă -ce
+călătorĭ sosesc și vĕdend chipul frumoseĭ Smărândițe fu cât p’aci să’ĭ
+scape ceașca de cafea din mână. In ochiĭ luĭ ceĭ strânșĭ fulgerară câ-te-va
+scânteĭ și întorcându-se către Mehmed. Uite-te, clise el; aĭ maĭ vĕdut
+vre-o altă hurie ca acesta copilă?</p>
+<p>— Alah să vĕ dea dile lungĭ și fericite. Ea ar fi demnă chiar de haremul Padișahuluĭ.</p>
+<p>---Âșa dar cred că nu ’i-ar ședea rĕŭ nicĭ într’al meŭ!</p>
+<p>— Luminele tale sunt maĭ marĭ ca lumina soreluĭ, stăpâne; cuvintele tale sunt înțelepte ca
+versetele din Coran. Ghiaura e frumoasă și se va face după cum vețĭ
+porunci.</p>
+<p>_ Alah kerim ! (Dumnezeŭ să ne ajute). Nu uita însă Mehmed, că am isprăvit treburile și că plecăm
+ mâine seră. Eŭ până atuncea cum veĭ ști maŭ bine, pentru ca să se
+ înplinească dorința mea. Ghiaura, după cum aĭ dis, e frumoasă și simt în
+  pieptul meŭ bătând din noŭ patimile tinerețiĭ...</p>
+<p>_ Voi face așa precum vĕ e voia stăpâne; ghiaura va pleca mâine dinpreună cu noĭ.</p>
+<p>In timpul ce se urma dialogul acesta, în privorul hanuluĭ, Smărăndița se scoborâse din chibitcă
+și intrase înăuntru. Pe dată ce hangiul ’ĭ deschise ușa singureĭ odăĭ ce se
+afla goală, ia se aruncă pe pat ca să se odihnească, poruncind hangiului
+să’ĭ aducă caĭ de poștă a doua zi dimineța</p>
+<p>Intre acestea se inserase de tot.</p>
+<p>Mehined-Efendi chiămă pe hangiŭ’l întrebă când plecă noua sosită, și aflând că țlisese să’ĭ fie
+caiĭ gata în diua, porunci hangiuluĭ să spună că nu ’ĭ-a fost cu putință să
+găsească.</p>
+<p>A doua di de dimineață când Smărăndița se deșteptă și chemă pe hangiŭ, acesta ’ĭ spuse că n’a
+putut să gâsescă caĭ de poștă.</p>
+<p>Orĭ-cine îșĭ poate închipui supărarea și neliniștea eĭ însă neputând să facă alt-fel, fu silită
+să tacă și să aștepte</p>
+<p>Diua se scurse lungă și agitată pentrn Smărăndița care ardea de dorință de așĭ revedea părinții
+ și locurile unde crescuse.</p>
+<p>Ea se revedea deja în acea casă unde copilărise, lângă mamă șĭ tatăl sĕŭ, în mijlocul tuturor
+ acelor ființe care o iubiseră și o legănaseră pe brațele lor, și în fine,
+ochĭĭ sĕĭ dărea deja acele delurĭ albăstriĭ cari apăreaŭ in depărtare ca
+spuma norilor diminețeĭ, și acele văĭ frumose umbrite de bradĭ saŭ de
+ștejarĭ și smălțate cu o mândrețe de florĭ felurite ce îmbată respirați
+unea și uimește vederea.</p>
+<p>Acolo șĭ petrecuse și copilăria și primiĭ anĭ aĭ junimeĭ sale j sub umbra acelor bradĭ ea
+începuse să viseze pentru prima oară, în acele văĭ încântătoare se ducea să
+se răcorească de un foc ce’ĭ ardea peptul să cugete cu nerăbdare la a-cele
+ locurĭ și să se uimescă în fața suvenireĭ lor.</p>
+<p>Și în adevĕr, Smărăndița, se lăsa a fi luată de aceste gândurĭ și ochiĭ se umpleaŭ de dulcĭ si
+căldurose lăcremiore.</p>
+<p>Pe când ea visa deșteptă în modul ce am descris, ușa odăiĭ se deschise și un om de credință ce
+Drăgușin ’ĭ dedese pe drum ca să 1 aibă drept protector la vreme de nevoe,
+intră înăuntru.</p>
+<p>— Stăpână, dise el speriat, Zamet-bey, care locuește tot în acest han, a pus la amândouĕ uși ale
+ ganguluĭ care duce la odaia d-tale, câte duoĭ arapĭ de caraulă, care nu
+lasă să intre nici sa iasă nimenĭ; eŭ abia am putut intra în gang pe o
+terestră.</p>
+<p>_Ce dicĭ Dobre ? strigă Smărăndița înfricoșată.</p>
+<p>_ Dic că e întocmaĭ cum spuseiŭ, stăpână. Ba ceva maĭ mult: se vorbește că Zamet-bey ar avea de
+gând să te ducă cu densul în țara turcescă.</p>
+<p>Biata Smărăndița începu să’șĭ frângă mâinile de jale și de durere, când ușa se deschise din noŭ
+ și hangiul apăru în prag cu un aer res-pectos.</p>
+<p>— Cuconiță, în sfârșit a dat Dumnezeŭ să găsesc caĭ și am pus de 'ĭ-a înhămat la o butcă a mea,
+căcĭ chibicta cu care ațĭ venit sa fient când am vrut s’o bag sub
+ șopron.</p>
+<p>Smărăndița nu maĭștiu de bucuria, iar Dobre sta prostit în mijlocul casiĭ neștiind că să esplice
+o asemenea întâmplare.</p>
+<p>Intr’un minut se adunară tote câte eraŭ prin odaiă, și Smărăndița, Dobre și hangiul scoborâră
+scara.</p>
+<p>Geea-ce numise hangiul butcă și ceea-ce pe atuncĭ se numea ast-fel, era o imensă caretă cu
+zonturĭ și cu arcurĭ, văpsită pe din afară cu galben și în loc de geamurĭ
+ la ușĭ, avea un fel de gelosele care se puteaŭ imobilisa după voință..</p>
+<p>Surugii eraŭ călărĭ cu biciurile în mână gata. de pornire.</p>
+<p>Ușa butceĭ se deschise de către hangiŭ si Smărăndița intră înăuntru. Dobre se pregătea s’o
+urmeze, dar hangiul fără ca să’ĭ dea timp închise ușa cu repeziciune, sări
+înlăturĭ și surugiĭ plesnind din bice porniră în fuga mare, lăsând pe
+hangiŭ frecându’șĭ mâinile de mulțumire și pe Dobre înmărmurit lângă
+el.</p>
+<p>Zamet-bey cu suita porni peste un ceas după. Smărăndița și ajungend o afară din oraș se urca
+lângă densa și peste câte-va dile trecură cu toțiĭ Dunărea în valayetut
+Dobrogeĭ.</p>
+<p>Dobre fu aprope de a fi omorît de arapiĭ luĭ Zamet, pe care hangiul îĭ asmuțea asupra luĭ ca să
+cape de un om ce’l se părea primejdios pentru viitor.</p>
+<p>Plecarea grabnică a luĭ Zamet îl scăpă însă, și el putu să ia drumul către Basarabia, unde și
+sosi în curând la satul în care locuia Drăgușin.</p>
+<p>Cât despre hangiŭ, Mehmed-Efendi, secretarul beiuluĭ, ĭĭ numără două miĭ de mahmudele de aur.</p>
+ </div>
+ <div type="chapter" n="4">
+  <head>CAPITOLUL IV</head>
+<p>Era în anul 1821. Tudor Vladimirescu peste Olt, ridicase stindardul libertățeĭ. La vocea luĭ
+satele și orașele, văile și delurile, munțiĭ și cătunele săltaseră de
+amorțelă în care staŭ cufundate cu rușine de maĭ bine de un secol.</p>
+<p>Tudor înainta către Bucureștiĭ cu iuțela fulgeruluĭ si ajunse la Colentina unde se opri.</p>
+<p>Trecuseră două sĕptămânĭ de la răpirea Smarăndițeĭ.</p>
+<p>A doua di dedimineță, un tânăr eu părul negru și creț, ocheș și frumos la față, se presentă
+dinaintea cortului luĭ Tudor. Era Drăgușin. El aflase prin Dobre cele
+întâmplate și voia să șĭ resbune. Nu spuse luĭ Tudor nicĭ că 1 chiamă
+Drăgușin nici de unde vine ’i spuse numaĭ că vrea să slujească țara și
+ast-fel fu primit în oștire.</p>
+<p>Peste cât-va timp, Tudor, având trebuință de un om care să știe limba turcescă pentru a’l trimite
+la poartă cu a doua deslușire despre revoluțiune, Drăgușin îĭ se înfățișă
+îndată.</p>
+<p>Fața luĭ avea darul să insufle tuturor încredere, afară de acesta el avea să maĭ aibă alțĭ
+câțĭ-va tovarășĭ, oamenĭ bine cunoscuți de Tudor.</p>
+<p>Eroul român hotărâ să trimeță pe Drăgușin cu ceĭ-l-alțĭ ca tâimaciŭ.</p>
+<p>O dată ajuns la Constantinopoli, Drăgușin întrebuința toțĭ baniĭ ce maĭ avea ca să afle dacă
+Zamet-bey locuesce acolo în ce parte a orașuluĭ. Gheltueala și ostenelile
+luĭ nu fură zadarnice Zamet-bey care era de o familie însemnată și ocupase
+funcțiunile cele maĭ înalte, nu putea în adevĕr să locuească de cât în
+capitală, căcĭ care este turcul ce sar afla în pozițiunea lui Zamet și as
+părăsi Stambulul ?</p>
+ </div>
+ <div type="chapter" n="5">
+<head>CAPITOLUL V</head>
+<p>Dimineața apăruse și razele soreluĭ loveaŭ în-ti un mod feeric ferestrele și acoperișurile
+caselor Stambululuĭ, sub care se ascundea, într’unele mistere nepĕtrunse,
+într’altele atâtea plăcerĭ desfătătoare ; iar în cele maĭ multe suferința
+și miseria de care nu'șĭ poate închipui omul născut în libertate.</p>
+<p>Palatul luĭ Zamet-bey era zidit pe țărmul Bosforuluĭ. Aci, radele argintiĭ ale soreluĭ
+precipi-tându-se în gemurile multicolore, veneaĭ să se scâlde apoĭ în
+undele Bosforuluĭ, formând pe suprafața luĭ reflecte de iote nuanțele
+tremurând în sus și în jos albia apelor.</p>
+<p>Un cor de femeĭ, al căruĭ ecoŭ se auțleaim-preunându-se cu toasul măreŭ, te făcea să remâĭ
+înmărmurit, neștiind de unde e sorgintea luĭ. Dacă însă aĭ fi coborât în
+vale, spre țărm, te-aĭ fĭ urcat într’o barcă și aĭ fi tăiat apa canaluluĭ
+pe lângă zidurile palatului luĭ Zamet, aĭ fi audit că acel cor îngeresc
+eșea dintr’o fereastră deschisă radelor soreluĭ, eare străbătea aci în
+mă-nunchiu de aur.</p>
+<p>Cântecele nu încetară. O femeie apăru la terestră. Era frumoasă, ca și dimineța, în care apărea.</p>
+<p>Cu fața rezemată de mâin privea marea... o privea...' si ochiĭ eĭ păreaŭ că nu se maĭ satură..
+are că ar fi așteptat pecine-va. Privirea eĭ lungă și obosită după ce
+nbrățișă tot coprinsul maneĭ,' se aplecă cu durere într’un punct fix, și
+ la lumina diminețeĭ lăcrărnile albăstriĭ se zăreaŭ curgând pe obrajiĭ
+frumoșeĭ cadâne.</p>
+<p>— Cine era ore?</p>
+<p>Pe cine aștepta ea?...</p>
+<p>Lăcrărnile ce căutaŭ pe frageziĭ eĭ obrajĭ?...</p>
+<p>Sermana Smărăndița, căcĭ era dânsa, de cîte orĭ se scula dimineța întreba marea, întreba cerul,
+întreba totul în fine, dacă Drăgușin a ui-tat’o—dacăva maĭ veni s’o scape.
+Dar adurul ceruluĭ cu și undele mureĭ nu ĭ daŭ nicĭ un semn de
+speranță;—Smărăndița îșĭ îneca durerea în lacrămĭ și ast-fel în tote
+diminețele, când femeile sale veneaŭ să ĭ cânte în cor deșteptarea, ea
+privea... eștepta... ș’apoĭ plângea!..</p>
+<p>Erau 8 de dimineță, când femeile și eunuciĭ dațĭ de Zamet în slujba Smărăndițeĭ, după ce și
+înpliniseră fie-care sarcina se retraseră în anticameră.</p>
+<p>Smărăndița singură, sta pe gândurĭ... și la fie ce moment ’ĭ se părea că vede pe Zamet intrând la
+ densa ca să’ĭ vorbească de destrămatul luĭ amor, ca să’ĭ desfășure înainte
+ poftele neomendse, care o turburaŭ și’ĭ sfâșiaŭ inima.--Cu capul aplecat pe
+brațul uneĭ sofale, tânăra româncă adormise, aprope prada gândurilor și a
+speranțelor încă licărinde.</p>
+<p>De-o-dată ușa se deschise și intră un eunuc urmat de o femee, care purta pe brațe vestminte
+scumpe, lucrate numaĭ în fir.</p>
+<p>--Inălțimea Sa Beiul, clise eunucul, a trimis pe această femeie să vĕ alegețĭ de prețiosele
+podobe ce portă.</p>
+<p>Smărăndița tresări din somnul sĕŭ aruncă o privire mâniosă asupra eunuculuĭ care venea să’ĭ
+turbure pacea. Dar neguțătoresa urmă numaĭ de cât:</p>
+<p>— Nu vĕ supărațĭ, stăpână, am aci lucrurĭ atât de frumose, în cât vețĭ rĕmânea forte mulțumită
+alegând câte-va din ele.</p>
+<p>_ Nu’mĭ trebue, dise Smărăndița, întorcând capul.</p>
+<p>— Ascultă, urmă femeea, apropiindu-se de ureche Smărăndițeĭ de și sunt vestminte turceștĭ clar
+ele sunt cusute de mâna creștinească.</p>
+<p>Aceste cuvinte inmuiară voința Smărăndițeĭ, care întorcendu-se, privi lung, pe femeea din gura
+căreia eșeaŭ asemenea cuvinte.</p>
+<p>— Bine, dise ea..., să vedem și făcu un semn eunuculuĭ, care eși.</p>
+<p>— Iată, stăpână, privește cât sunt de frumose !</p>
+<p>— Și dicĭ că sunt lucrate de mâua creștinescă?</p>
+<p>Da !...</p>
+<p>Și la această afirmare, femeea se uită spre tote ușile, ca cum s’ar fi temut să nu asculte
+cine-va. Apoĭ apropiindu-se cu grăbire de Smărăndița, ’ĭ dise:</p>
+<p>— Ia sema !... Am venit să te scap.</p>
+<p>Să ’mĭ asculțĭ sfaturile și în scurt timp veĭ fi în brațele lui Drăgușin.</p>
+<p>_ Drăgușin! esclamă Smărăndița. O! spune-mĭ cine eștĭ și ce planurĭ unelteștĭ?... Fi-veĭ ore
+spioană care viĭ să ’mĭ turburĭ liniștea și sa mĭ reaprindĭ durerea?...
+_</p>
+<p>_Te încredințez! Sunt femee de credință a luĭ Drăgușin. El a scăpat viața unuĭ frate al meŭ și 'ĭ
+sunt devotată. Am luat aceste haine spre vândare, numaĭ ca să pot pătrunde
+până la D-ta. </p>
+<p>—Dar Drăgușin... unde este Drăgușin?...</p>
+<p>— Liniștește-te... și nu vorbi așa tare... ne pote audi cine-va, Drăgușin este în Stambul. El a
+enit aicĭ numaĭ și numaĭ ca să te scape!</p>
+<p>— Oh !... Nu mĕ îndoiam de iubirea luĭ.</p>
+<p>Dar spune’mĭ ce e de făcut.</p>
+<p>Invață-mĕ! vreaŭ să scap de aci... vreaŭ să scap... mă înțelegĭ ?...</p>
+<p>— Aibĭ răbdare. Cată să avem multă îngrijire in plănuirea nostră, căci altminterĭ suntem
+perduțĭ.</p>
+<p>— Ascult. Spune. Dacă e vorba să revĕd pe Drăgușin, voiŭ suferi orĭ ce, voiŭ trece prin foc dacă
+va trebui.</p>
+<p>— Peste câte-va momente eŭ voiŭ pleca și la eșire voiŭ spune eunucilor că nu ’țĭ-a plăcut nimic
+din podobele ce am, și că ’mi-aĭ poruncit să ’țĭ aduc mâine altele maĭ
+frumose. Ast-fel, mâine la ora când totĭ eunuciĭ și tote cadânele vor fi
+lângă D-ta eŭ voiŭ veni.</p>
+<p>Pe când D-ta veĭ alege, eŭ voiŭ respândi vorba printre cadâne că știŭ să ghicesc. D-ta ’mĭ veĭ da
+voe să le ghicesc fie-căreia pe rând, începând maĭ întâiŭ de la D-ta.
+Dintr’o sticluță cu o licore ce voiŭ pregăti, voiŭ da fie-căreia să
+ mi-rosă, sub cuvânt de a le ghici maĭ bine și în dece minute vor adormi,
+lăsându-ne stăpâne pe noĭ și libere de a pleca.</p>
+<p>Ințelegĭ că tote acestea nu trebue să ajungă la urechile Beiuluĭ, să nu să știe de cât de noĭ și
+de aceste didurĭ care ne ascultă.</p>
+<p>— Despre asta fiĭ încredințată! Pe urmă ?...</p>
+<p>Pe urmă vom eși frumos, fără ca nimenĭ să ne ceară socotelă.</p>
+<p>Eŭ voiŭ aduce pe ascuns un rând de haine ca ale mele, cu care te voiu îmbrăca; ’ți voiŭ pune
+marfă pe brațe, astfel că eșind pe poarta Seraiuluĭ, nimenĭ nu ne va cere
+socoteală.</p>
+<p>— Dar dacă mĕ vor recunoște servitoriĭ din curte ?...</p>
+<p>— La orĭ-ce întâmplare, Drăgușin va fi pe aprope cu câțĭ-va oamenĭ de-aĭ luĭ bine armațĭ și
+ast-fel orĭ-ce primejdie va fi înlăturată.</p>
+<p>— De minune, strigă Smărăndița frângân-du’și mâinile de bucurie.</p>
+<p>— Și odată eșițĭ în stradă, suntem scăpațĭ pentru tot-d’a-auna. Drăgușin va fĭ al d-tale și d-ta
+al luĭ.</p>
+<p>— Oh! ce bucurie! Ce fericire!...</p>
+<p>— Acum, aibĭ răbdarep ână mâine. Ascundețĭ bucuria ca să nu se bănuiască ceva. Fiĭ cu minte... Pe
+mâine.</p>
+<p>Și neguțătoresa eși, întâmpinată fiind de eunuc, care o petrecu până la scâră.</p>
+<p>— Eĭ, ce-a plăcut hanâniĭ? întrebă eĭ.</p>
+<p>---Nimic din tote acestea. ’Mi-a poruncit să’ĭ aduc mâine altele; spune că astea sunt cu prea
+puțin fir.</p>
+<p>— Mașala! esclamă eunucul. Semn bun ! Semn bun!... Asta o să facă mare plăcere Beiuluĭ.</p>
+<p>— Mâine să viĭ negreșit! aĭ auzit.</p>
+<p>Să nu uițĭ, că pe urmă... aĭ înțeles ?</p>
+<p>— Ințeles... înțeles... repetă femeea coborând scările și afectând in vorbele eĭ un făl de
+ironie, pe care turcul n’o înțelese.</p>
+<p>Ziua o petrecea Smărăndița cu multă greutate, căcĭ orele ’ĭ păreaŭ anĭ și noptea tot nu se maĭ
+ivea. In fine, vălul misterics al nopțeĭ se întinse și pe când totă
+suflarea se odihnea, Smărăndița încă nu închisese ochiĭ.</p>
+<p>Zamet, care penă la meciul nopțiĭ ’și fumase ciubucul la piciorele eĭ, fu jinduit de tote
+plăcerile luĭ! căcĭ Smărăndița ’1 încredințase că e bolnavă și că are nevoe
+de odihnă. In fine, cu multă greutate, turcul plecase în apartamentul șĕŭ,
+pentru a nu se deștepta de cât a doua-di. Smărăndița nu dormea, ci inima eĭ
+se îmbătă dinainte de fericirile ce o așteptau a două di. Zorile dileĭ se
+arăîaseră și tenera copilă, cu o-chiĭ spre ferestră, privea la tote
+schimbările nopțeĭ, pene ce în fine diua albă veni să bată la ferestrele
+eĭ.</p>
+<p>Cum se lumină bine, sări din pat, sună, ceru să se îmbrace și, ca nicĭ odată, înainte de-aĭ cânta
+corul deșteptareĭ, ea se aședă la ferestră cu o carte în mână și fără a
+descifra un cuvent măcar, lasă privirile să ’ĭ fluture pe luciul măreĭ.</p>
+<p>Gând cadânile și eunuciĭ intrară în camera Smărăndițeĭ, ziua deja înaintase și nu după mult timp
+apăru și neguțătoresa cu hainele de fir.</p>
+<p>Atuncĭ toțĭ voiră a se retrage, dar Smărăndija ’ĭ oprĭ, spunendu-le că dorește să împărtă-șescă
+și gusturile lor, întru ceea ce privește pre-țiosele costume ale
+neguțătoreseĭ.</p>
+<p>Peste o oră planul, precugetat cu o ții maĭ nainte, era și pus în lucrare, și când tote acele
+creaturĭ molatice amorțiseră sub forța licoreĭ narcotice, Smărăndița
+îmbrăcă cu precipitare hainele ce ’ĭ adusese neguțătoresa, și pentru un
+moment, amândouă scoboraŭ scările saraiuluĭ, fără a fi oprite de
+nimenĭ.</p>
+<p>In momentul însă de a coborî ultima treptă o voce se auțli strigând prin coridor, care resuna așa
+de tare, în cât toțĭ servitoriĭ dimpreună cu Zamet, într un moment fură în
+piciore.</p>
+<p>Vocea era a unuĭ eunuc, care întârziase d’a in ti a la stăpâna sa și sosind maĭ în urmă, găsĭ pe
+toțĭ eunuciĭ adormițĭ și pe smărăndița nicăerĭ. Neștiind ce să facă, începu
+a striga cât îĭ lua gura.</p>
+<p>Sermana Șmărăndița!... încă un moment și ar fi fost scăpată! Din nefericirea ei toțĭ servitoriĭ
+ alergară și aprope de poartă ambele femeĭ fură oprite de a eși.</p>
+<p>Intr’un moment și ca un fulgei' Drăgușin însoțit de treĭ voinicĭ se repedi înăuntru si o luptă
+-crâncenă se încinse între eĭ și servitoriĭ Beiuluĭ, cari se repecleaŭ în
+van cu hangerile lor, căcĭ tote loviturile eraŭ înlăturate cu agerime de
+Drăgușin si tovarășiĭ luĭ.</p>
+<p>In mijlocul acesteĭ lupte apăru Zamet armat cu două pistole. La primul foc, unul din tovarășiĭ
+luĭ Drăgușin șovăĭ și căclu la pământ.</p>
+<p>— Fugĭ stăpâne strigă românul murind, căcĭ decă veĭ trei, veĭ găsi poate un alt mijloc s’o
+scapĭ.</p>
+<p>Zemet avend să se apare de loviturile vrășmașilor nu auțli cuvintele muribunduluĭ.</p>
+<p>Drăgușin însă care’ĭ înțelese, vădându-se în fata a 50 servitorĭ si el numaĭ cu doi tovarășĭ ai
+sĕĭ, cugetă că dacă ar lupta până la moarte ar fi fără de folos și că
+Smărăndița tot nu va fi scăpată.</p>
+<p>Atuncĕ dând ordin conluptătorilor sĕĭ începură a înlătura loviturile, retragendu-se mereŭ spre
+portă, și când ajunseră în stradă, până să iasă turciĭ în urma lor, eĭ și
+se dederă după un colț și se făcură nevĕțuțĭ, fără ca Zamet, în acea
+încurcătură, să aibă timpul a’ĭ se întipări în minte chipul lui
+Drăgușin.</p>
+<p>Gând Zamet reintră în curte însoțit de servitoriĭ sĕĭ, găsi pe Smărăndița leșinată pe petre, iar
+pe neguțatoreasă scăldată în sânge lovită fiind de hangerul unuĭ
+servitor.</p>
+<p>In zadar Zamet, voi să readucă la viață pe acea femee, ca să poată descoperi ceva de la dânsa :
+ea expiră la piciorele luĭ, fără să scoată un cuvânt măcar.</p>
+<p>Smărăndița fu dusă în camera eĭ, în care dormeaŭ încă femeile și toțĭ eunuciĭ, și peste cât-va
+timp de îngrijire deschise ochiĭ împreună cu amorțițiĭ, care se deșteptară
+rând pe rând și eșiră afară sub privirile furioase ale luĭ Zamet. Prima
+mișcare o făcu Smărăndița, călcând jos din pat... dar desamorțindu-se bine,
+zări în fața eĭ pe Zamet.</p>
+<p>--O!... strigă ea cu orore și se ascunse tocmaĭ într un colț al camereĭ, acoperindu’și fața cu mâinile.</p>
+<p>--L-aĭ omorât călâule, răcni ea printre dințĭ. </p>
+<p>— Nu, dise beiul, ghiaurul ’mĭ a scăpat fără cel puțin să’l pot cunoaște. Dar
+tu ’mĭ-aĭ rĕmas. Tu ’mĭ veĭ spune totă viclenia.</p>
+<p>O ideie trecu prin mintea Smărăndițeĭ.</p>
+<p>-- A scăpat ! cugetă ea; — și nu ’la cunoscut!—Bine!... Atât maĭ bine!...</p>
+<p>— Eșĭ din colț, femee ipocrită, răcni turcul și spune-mĭ ce te-a făcut să ’mĭ turburĭ liniștea ?
+Cine ei a acea femee? Cine eraŭ aceĭ ghiaurĭ!. </p>
+<p>_ O! nu fiĭ rĕŭ, se rugă Smărăndița, i’țĭ voiŭ spune totul... Am fost amăgită.</p>
+<p>— Amăgită?... Și cum?</p>
+<p>_ Femeea, care a venit cu haine, ’mĭ-a spus cum că un pașă, care este șeful înălțimeĭ tale, s’a
+înamorat de mine; și că dacă nu voiŭ consimți să fug la densul, pașa ne va
+perde pe amendoĭ.</p>
+<p>--Șĭ cine „este acel pașă, care se numește șeful meŭ? Eu nu am mcĭ un șef.</p>
+<p>--N’a voit să ’mĭ spună numele.</p>
+<p>— Pe urmă?</p>
+<p>— Eŭ, nevoind să ’țĭ pricinuesc rĕŭ, și pote chiar mortea... am consimțit a fugi mai bine din
+Saraiul teu de cât să ’ți fac o asemenea nenorocire. Dar ’țĭ  mărturisesc
+că n’avem de gând să mĕ duc la Pașa, ci aveam de gând să mĕ ucid singură
+saŭ să mĕ arunc în Bosfor.</p>
+<p>— Dar aceĭ ghiaurĭ? Cine era aceĭ ghiaurĭ?</p>
+<p>— Acea femee mĕ înșelase.—Ea mĕ răpea nu pentru Pașa, ci pentru dânșiĭ. Nu ’i-am vĕdut nicĭ o
+dată în viața mea... nu’ĭ cunosc!...</p>
+<p>Vorbele Smărăndițeĭ însuflară atâta încredere turcului, că acesta din totă furorea lui se simți
+înduioșat.</p>
+<p>— Biata copilă! murmură el.—A! Acea sgrip-țoră de femee... dacă n’ar fi murit aș fi pus s’o frigă de vie.</p>
+<p>— Ea m’a amăgit. Ițĭ cer ertare, înălțime.</p>
+<p>--Bine, te ert astă dată. Dar să știĭ că mortea ’ți va fi ertarea pentru a doua' oră. Acum te las
+să te maĭ linișteștĭ. Când îțĭ veĭ venĭ în fire să trimețĭ să mĕ
+chieme.</p>
+<p>Și turcul eși, cu un aer aprope posomorât, rostind ultimele cuvinte cu tonul unuĭ stăpân’ care a
+ertat  culpa servului sĕŭ, dar care n’a uitat’o încă.</p>
+<p>Smărăndița, cum rĕmase singură, ’și ridică ochiĭ spre cer ca semn de recunoștință.</p>
+<p>— Ițĭ mulțumesc Domne!.. El a’scă'pat! Oh! Sunt sigură, nu me va lașa în mâinile acestor
+miserabilĭ.</p>
+<p>Cinci dile în urma acesteĭ întâmplări, Zarnet-hey șĭ schimbă locuința într’un alt palat al sĕŭ.
+situat pe malul stâng al Bosforuluĭ.</p>
+<p>O dată cu acestă mutare Drăgușin perdu urmele soțieĭ sale. Tote cercetările luĭ, ca să afle noua
+locuință a luĭ Zamet, fură zadarnice. Disperarea și ura turculuĭ creșteaŭ
+din di în di în nima luĭ Drăgușin, care de astă dată ar fi preerat sa moră,
+de cât să lase aĭ scăpa din mâinĭ femeea mult iubită, Smărăndița, singura
+ființă pentru care maĭ trăia pe acest păment.</p>
+ </div>
+ <div type="chapter" n="6">
+<head>CAPITOLUL VI</head>
+<p>Un samsar grec, căruia Dragușin îĭ promisese o sumă bunicică, dacă va descoperi locuința Iui
+Zamet veni într’o seră să bată la ușa luĭ.</p>
+<p>— Intră, dise Drăgușin.</p>
+<p>_ Am găsit ce cauțĭ, dise el cu bucurie.</p>
+<p>_Unde? In ce loc?... Du-mĕ la minut.</p>
+<p>_ Zamet-bey locuește într’un palat de vară răpitor, zidit pe malul stâng al Bosfoiuluĭ.</p>
+<p>— Când ’l-aș putea întâlni prin oraș ? întrebă Drăgușin crunt.</p>
+<p>_ Nicĭ odată, cacĭ de când s’a mutat nu maĭ ese nicĭ diua nicĭ noptea; ci ’șĭ trece viața la
+piciorele uneĭ tinere Moldovence pe care a a-_ dus’o cu dînsul din țara
+Moldovenescă. Drăgu-sin încreți fruntea și crâșni din dințĭ.</p>
+<p>— Haidem, clise el.</p>
+<p>Și eșiră.—Grecul ’1 duse prin niște ulițĭ pustiĭ și întunecose până ’1 scose în fine pe malul
+Bosforuluĭ pe unde nu eraŭ de cât cate-va rarĭ palate.</p>
+<p>Noul palat al luĭ Zamet era depărtat pe mal și în mijlocul uneĭ grădinĭ, dar după malul pe care
+se afla Drăgușin și cu grecul ce ĭ servea ca conducător, apărea, scăldat de
+iimpedile ape ale Bosforuluĭ, un chioșc de o eleganță rara și luminat de un
+milion de candelĭ cu felurĭ de culorĭ ale căror scânteĭ feerice aureaŭ
+suprafața canaluluĭ.</p>
+<p>Acest chioșc era păstrat plăcerilor si orelor de repaos ale luĭ Zamet-bey.</p>
+<p>In acest moment, chiar el se afla înăuntru genuchiat lângă divanul pe care, golă și adormita,
+ședea întinsă Smărăndița. Beiul ’ĭ da în-ĭ tote serile oâte o doză de opium
+pentru a’s satisface patima luĭ cea brutală.</p>
+<p>Fie presimțimânt instinctiv, că are sâ afle pe Zamet m acel chioșc, fiă dorința de a se apropia
+cât se va putea rnai mult de casa ce conținea pe soția sa și pe omul ce ura
+mai Fmult m lume, Drăgușin la vederea aceluĭ chioșc strălucitor de lumină,
+chiămă un kaicgi și intra singur în luntre, asvârlind greculuĭ o pungă ce
+conținea cincĭ-zecĭ de mahmudele.</p>
+<p>După ordinul ce dete, kaicgiui stătu sub ferestrele aceluĭ chioșc, apoĭ, apucându-se cu mâna de o
+balustradă, de piatră ajunse cu capul la nzvelul ferestreĭ și sfărămândule
+dintr’o lovitură de iatagan intr-o mie de bucaiĭ se precipita inauntru.</p>
+<p>O a doua lovitură dată cu iuțela fulgeruluĭ culca la pământ plin de sânge pe bătrânul si
+miserabilul Zamet-bey. Luă apoĭ în brațe pe Smărăndița se repedi cu ea pe
+erestră și intră ără a întâmpina vre-o împotrivire dimpreună cu dânsa în
+barca kaicgiuluĭ înmărmurit de câte văzuse.</p>
+<p>— Mână, dise el, și ’țĭ voi da o suta de mahmudele.</p>
+<p>`~Și vĕdend că frica ’ĭ tăiase puterile, apuca singur lopețile și începu să despice repede
+ valurile Bosforuluĭ adormit.</p>
+<p>’ Peste ’câte-va dile Drăgușin se întorse în Basarabia cu frumosa Smărăndita; dar sărmana, copilă era nebună.</p>
+<p>Rĕsbunarea ’1 sfătui în curând să între m lupta cu Țuiciĭ și vru să se reintorcă la oștea
+domnuluĭ Tudor, dar află pe drum peirea acestuĭ nenorocit erou la
+Târgoviște.</p>
+<p>Indârjit în contra streinilor, care devastaŭ tera si sugeaŭ munca bietuluĭ român, Dragușm se
+ botărî a îmbrățișa din noŭ haiducia și cum veni primă-vara, ’șĭ mută
+locuința de oraș m mijlocul fiarelor sălbatice, în codrul, sub a căruĭ
+răcore petrecuse mulțĭ anĭ din tinerețea luĭ. Insoțit de o cetă de peste
+150 voinicĭ hotărațĭ a murĭ pentru el, avend lengă densul și pe ma răndita,
+respira dulcele aer al păduriloi prejma Goteștilor.</p>
+<p>Pe cât era de bun pentru ea și pentru tovarășiĭ luĭ de codru, pe atât devenise de crud cu
+streiniĭ, carĭ cădeaŭ în ghiarele'ĭ ferose.</p>
+<p>Pădurea Goteștilor, brăsdată de munțĭ înalțĭ și de văĭ profunde, este unul din acele cuiburĭ în
+care omeniĭ de meseria luĭ Drăgușin n’aŭ să porte nicĭ o grije că vor fi
+descoperițĭ.</p>
+<p>Cărarea numită «a Cucului» care se per de sub iarbă, după o întindere de aprope trei chilome-tre, se coboră în profunditatea unei văî stâncose umbrită pe ambele maluri de aluni gigantici și stufoși.</p>
+<p>Această potecă, pentru cei ce n’o cunoșteau, se oprea îascoborârea în vale și nimeni n’ar fi cre-dut că înainte mai pote călca picior omenesc. Haiducii lui Drăgușin însă coborau cu atâta înlesnire în acea vale și se perdeau printre stânci așa de repede cum nu’și pote închipui cine-va. In fundul văii printre bușteni și mici arbuști se deschidea o peșteră săpată de mâinile naturei.</p>
+<p>Intrarea era de o mărime cât pote încăpea un. om. înăuntru însă, adâncă, spațiosă și despărțită în camere, lăsa să se înțelegă că mai fusese locuită de suflete omenești.</p>
+<p>In fund o ușe între-deschisă întrerupea co-- municațiunea între cele alte camere și cea pe care o ascundea. Aici era culcușul lui Drăgușin. în care Smărăndița, într’o profundă melancolie, petrecea cea mai mare parte din vreme. Un moș-neg cu pârul albit, veghia lăngă densa în tot timpul cât lipsea Drăgușin.</p>
+<p>Când vremea era frumosă, moșnegul se așecla la gaura pesterĭ si povestea Smaraditeĭ nenumarate
+lupe.</p>
+<p>Sĕrmana copila'l asculta cu atentir, dar nu intelegea nimic din cele ce'ĭ
+spunea bĕtranul. Din cand in cand il intrerupea pentru a'ĭ spune voirbe
+fara sir, efecte ale nebunieĭ care faceaŭ pe bietul mosneag sa'sĭ simta
+ochiĭ udati de lacrimĭ.</p>
+<p>Sarmana copilita!.... murmura el, si iarasĭ urma hasmul ca sa inlature
+aiurarile nebuniei. Dar in dadar!. cacĭ Smarabdita cadea in melancolie
+incepea sa planga, sa ida, isĭ ficsa ochiĭ asupra uneĭ pete si privind'o
+lung, incapea sa strige.</p>
+<p>--Dragusin!.. Uite Dragusin!...</p>
+<p>In tote dilele se repeta maĭ aceasĭ scena, si Dragusin de cate orĭ se
+intorcea a casa, crud si neimpacat cum fusese in intreprinderile luĭ, in
+fata nenorociteĭ Smarandite inima se induiosa ĭ lua mainile, ĭ-le sĕruta, o
+striga pe nume dar ea cu o voce respingatoare'l departa dicand: </p>
+<p>--Fugĭ!... Fugi!... Aĭ omorat pe Dragusin!...</p>
+<p>Apoĭ rugatore cadea in genunchĭ dinaintea luĭ:</p>
+<p>-- Reda-mi-l! Sa'l vĕd numaĭ odata,,, si voiŭ fi sclava ta pana la morte.</p>
+<p>Dragusin miscat pana la lacrimĭ o chema pe nume:</p>
+<p>-- Smarandito iĭ dise el cu o voce plangatoare.</p>
+<p>Nebuna ca desteptata dintr'un vis, recunoscand pe iubitul eĭ, scotea un țipăt
+de bucurie și se arunca de gâtul luĭ care o strângea la pept și plângea ca
+un copil.</p>
+<p>Apoĭ obosită și fără simțire, o așeza în patul eĭ, în care rămânea cu ochiĭ ficsațĭ într’un punct
+până ce adormea.</p>
+<p>Era una din acele dile de primă-vară în care totul vorbea de iubire. Freamătul frunzelor,
+murmurul isvorelor, ventul ușor care culca iarba în dese unde, tote eraŭ
+într’o poetică armonie. Drăgușin așeclat pe un buștean în lata peștereĭ,
+avea lângă dânsu pe Smărăndița, care ou capul aplecat pe brațul luĭ
+dormise.</p>
+<p>Drăgușin o iubea; dar nicĭ o dată n’o iubise cu atâta înfocare.</p>
+<p>Smărăndița cu tote acestea era maĭ rece ca o stâncă.</p>
+<p>— Te iubesc, îĭ dicea soțul eĭ.</p>
+<p>Ea zîmbea și se uita la dânsul cu o privire rătăcită.</p>
+<p>Sermanul Drăgușin, câte durerĭ nu simțea în fața aceleĭ statuĭ care vorbea, umbla, avea aparența
+ uneĭ ființe omeneștĭ, dar a căreĭ simțire se distruse o dată cu conștiița
+de sine.</p>
+<p>— Respunde’mĭ copilul meŭ, ce aĭ?... Unde te dore?... o întrebă Drăgușin, cu o voce blândă după
+ce se deșteptă.</p>
+<p>— Să nu mi’l eĭ; — respunse nebuna; sunt așa de bine lângă dânsul.</p>
+<p>— Lângă cine?</p>
+<p>— Lângă el!</p>
+<p>Care el?...</p>
+<p>— Bărbatu meŭ! O! Nu’l cunoștĭ... era așa de bun... Azĭ diminețâ când am prins Auturile, o albină
+era să mĕ mușce... dar eŭ am înjun-ghiat’o cu cuțitul.</p>
+<p>— Smărăndițo!...</p>
+<p>— O!... avea un cuțit mare... și... la minut a și murit!... Dar eŭ am sburat... când cucul cânta
+în pădure moș Grigore cânta cu Auerul...</p>
+<p>— Ce să mĕ fac!... Cum s’o scap!... se gândea bietul Drăgușin; iar Smârăndița, sărind de lângă
+densul, începu să alerge printre arborĭ strigând:</p>
+<p>— Drăgușin!... Drăgușin!... Unde eștĭ?...</p>
+<p>Drăgușin, care o urmărea de aprope, o lăsa in acesta aiurare, ca nu cum-va întrerupând o să ’ĭ
+facă vre-un rĕŭ. Apoĭ încetul cu încetul apropiindu-se de ea, îĭ dise:</p>
+<p>— Iată-mĕ, Smărăndițo, eŭ sunt, Drăgușin al tĕŭ.</p>
+<p>— A! Tu eștĭ!... Să fugim...</p>
+<p>Este încă vreme!</p>
+<p>Și lăsându-se pe brațul luĭ, se lăsa a fi condusă în peșteră, în care după obiceiŭ, în urma
+aiurărilor, cădea în melancolie și apoi adormea.</p>
+<p>De astă dată Drăgușin, așezat la căpătâiul patului ei, plângea din adâncul inimeĭ și privind’o cu
+durere ’șĭ amintea totă fericirea primelor timpurĭ de căsătorie.</p>
+<p>De o dată un sgomot confus se aușli afară și un haiduc intră in camera luĭ Drăgușin.</p>
+<p>— Căpitane, dise el grăbit, o pleșcă bună de jumulit.</p>
+<p>Intr’o clipelă de ochiŭ lacrimile luĭ Drăgușin se uscară și fața’ĭ căpătă un aer fioros și
+amenințător.</p>
+<p>— Bine!... Fițĭ gata!... și haiducul eși.</p>
+<p>Drăgușin privi puțin pe Smărăndița adormită, apoĭ ’șĭ luă armele din cuĭ și eși, lăsând loc de
+intrare bĕtrânuluĭ care veghea pe Smărăndița și trecu pe drumul cel mare
+din marginea pădureĭ.</p>
+<p>Intr’un minut Drăgușin se afla în mijlocul voinicilor sĕĭ.</p>
+<p>— Eĭ, ce este, întrebă el?...</p>
+<p>— Căpitane, reluă câțĭ-va, o caravană întocmită de vre-o șepte ciocoĭ, între care este și un pașă
+turcesc, urmațĭ de nenumĕrate slugĭ.</p>
+<p>— Drum bun să le dea cel de sus, țlise căpitanul.</p>
+<p>— Cum drum bun, întrerupseră haiduciĭ în cor.</p>
+<p>— Negreșit!... Lor drum bun și nouă is-bândă bună!</p>
+<p>— Așa! așa!... Isbândă bună!</p>
+<p>— Și... diceațĭ că e și un turc cu eĭ?...</p>
+<p>— Da!...</p>
+<p>— Atât maĭ bine!...</p>
+<p>— De ce atât maĭ bine?...</p>
+<p>— Voiŭ merge in fruntea vostră !...</p>
+<p>— Căpitane... e de prisos...</p>
+<p>— Nicĭ un cuvĕnt!... știți foarte bine, când e vorba de turcĕ, nu daŭ voe nimănuĭ să le fie
+nașul... Voesc ca toțĭ turciĭ câțĭ ne vor intra în mâinĭ să mdră de cuțitulmeŭ, am dis’o!</p>
+<p>— Bine, căpitane !</p>
+<p>— Dar să nu întârziem că timpul e scurt și marginea pădureĭ nu e tocmai aprope. Tre-bue să le
+eșim înainte pe marginea cea laltă.</p>
+<p>— Să mergem !... strigară toțĭ voiniciĭ cu armele în mâinĭ.</p>
+<p>— Oho!... Suntețĭ prea mulțĭ !... Cam câțĭ sunt dușmaniĭ la numer?.,.</p>
+<p>— Să întrebăm santinela, respunse un haiduc cu mustățile lungĭ până la urechĭ.</p>
+<p>— Să întrebăm, dise Drăgușin.</p>
+<p>Santinela cea maĭ apropiată era numaĭ la vre-o câți-va pașĭ.</p>
+<p>--Eĭ santinelă, câțĭ sunt dușmaniĭ la numĕr ?</p>
+<p>In treĭ minute întrebarea merse, ca pe sârmă, din santilă in santinelă, până ce ajunse în
+marginea pădureĭ, și maĭ în acelaș timp respun-sul sosi.</p>
+<p>-- Ca la o sută de capete, raportă santinela.</p>
+<p>— Nu vĕ spuneam? Suntem prea mulțĭ! Două-decĭ și cincĭ suntem destuĭ. Patru stârpiturĭ de voinic.
+ Aidem!.!..</p>
+<p>Ceĭ l’alțĭ rămâneți pe aicĭ.</p>
+<p>— Bine căpitane, strigară glasurile și întrega cetă se despărți în douĕ: Una care înconjură pe
+Drăgușin și alta care reintră în peșteră pentru a’șĭ depune armele.</p>
+<p>Când ceĭ din peșteră eșiră, ca să se rĕspândescă prin pădure, uniĭ ca să se plimbe și să culegă
+alune; iar alțiĭ ca să se culce sub răcorea vre-unuĭ copac, căpitanul și
+dispăruse cu cete luĭ.</p>
+<p>Din toĭ voiniciĭ numaĭ vre o cincĭ rĕmăseseră lângă peșteră și staŭ la vorbă.</p>
+<p>— Ia ascultă Căline, dise cel maĭ în verstă, care se numea Cordea, de tote îngrijirăm, dar de ale
+stomaculuĭ, ba!</p>
+<p>— Că bine dicĭ frate, reluă ceĭ patru.</p>
+<p>— Apoĭ s’o punem la cale și pe asta.</p>
+<p>— Nicĭ vorbă, urmă Călin sculându-se. Să pârjolim meiul ce ’l-a adus Vlăduță astă-dimi-neță. E
+tocmaĭ bun d’o gustare.</p>
+<p>— Dar d’o întreba Vlăduță de densul?</p>
+<p>---Eĭ, ’ĭ vom da doĭ în schimb. Ș’apoĭ el e cu căpitanul. La mieĭ se maĭ gândește el?</p>
+<p>--- Așa e, urmă Năsdrăvanu, un haiduc spân și cu căciula îndesată pe ceafă.</p>
+<p>--- Să începem, dise Călin depărtându-se.</p>
+<p>— Eŭ mĕ duc s’adun găteje, ca să facem focul, dise Stefănică un alt haiduc, plecând prin
+pădure.</p>
+<p>Peste vr’o cincĭ minute Călin se întorcea cu mielul junghiat. In urma luĭ veni și Stefănică, cu
+brațele încărcate de lemne. Făcură focul, în-fipseră mielul într’o frigare,
+și câte-șĭ cincĭ aședațĭ turcește în jurul foculuĭ, așteptaŭ friptura,
+ingându’șĭ buzele.</p>
+<p>— Fie, că miel gras ca ăsta, a rare orĭ mi s’a întâmplat să vĕd, reincepu Bănică, unul din eĭ,
+care pân’aci vorbise forte puțin.</p>
+<p>— De bine să ’țĭ fie, dise Vidrașcu; vorbeștĭ rar și gustos. Nu deschidĭ gura de cât când e vorba
+de mieĭ grașĭ, de vin bun și de părăluțe lucitore. Eștĭ om sănătos, ’țĭ
+plac lucrurile pipăite; nu umbli după frunze verdĭ.</p>
+<p>— Ce să dicĭ, frate, sunt fiul tatu-meŭ... Fio ’ĭ țĕrîna ușoră... mâncă cât treĭ și bea cât
+șepte. Era un român zdravăn la burtă. Știĭ vorba aia: Ce naște din pisică
+șoreci mănâncă.</p>
+<p>— Halal să ’țĭ fie, ’ĭ respunse Stefănică învârtind frigarea. Mĕ prind, că d’ar maĭ fi douĭ mieĭ
+                         ca ăsta, tot nu te-aĭ mai sătura.</p>
+<p>— Cam așa’ĭ. Dar n’aĭ ce ’ĭ face: om pentru om trebue să trăiască. Dacă ’mĭ-aș pune eŭ singur
+                         mintea cu dihania din frigare, voĭ ce ațĭ maĭ mânca ? Ș’apoĭ care din voĭ
+                         n’ar fi în staro să mămânce singurĭ un miel? doar nă’țĭ fi coconițe!
+                         Aoleŭ!... am uitat ceva.</p>
+<p>— Ce? întrebară ceĭ patru.</p>
+<p>— Meiul e gras, și fără udătură ințelegețĭ că...</p>
+<p>— Nu ducețĭ grijă. Am îngrijit și de asta, dise Călin. Știțĭ, butea ce am jerelit’o
+                         cârciu-maruluĭ grec maĭ septĕmâna trecută.</p>
+<p>— Știm. Eĭ, și...</p>
+<p>— Am oprit dintr’ensa vr’o treĭ sticle și le-am ascuns într’un buștean. Alerg să vĕd dacă maĭ
+                         sunt.</p>
+<p>— Bravo ție ! dise Codrea. Dute de vedĭ.</p>
+<p>Și Călin sculându-se, reveni cu două sticle în mâinĭ și cu alta la subțioră.</p>
+<p>Mielul se fripsese, decĭ destupară sticlele.</p>
+<p>— La lucru, voinicilor, strigă Cordea.</p>
+<p>Si toțĭ începură a rupe din miel cu o fome de lup.—Era cam pe la isprăvenie, maĭ remă-sese o
+                         sticlă ne golită, când din pădure se audi un gemăt omenesc și două vocĭ
+                         carĭ strigaŭ și înjuraŭ într’una.</p>
+<p>— Cine să fie ? întrebă Vidrașcu ascuțind urechea.</p>
+<p>— Sgomotul vine din drepta și căpitanul a apucat spre stânga.</p>
+<p>— Aș ! Nu e căpitanul, $ise Ștefănică.</p>
+<p>Și vocile se apropiaŭ din ce în ce.</p>
+<p>— Dar cine să fie?... întrebă cei l’alțĭ comesenĭ.</p>
+<p>— Să vedem, dise Bănică, sculându-se și ui-tându-se spre drepta.</p>
+<p>_ O fi prin aĭ noștri vre-un puiŭ de fana riot. — Nicĭ nu încape vorba, nu audițĭ gemete?...</p>
+<p>— Nu e asta, dise Bănică. Stancu și cu Neculaĭ care aduc un biet creștin.</p>
+<p>— De unde știĭ că e creștin? reluă Cordea. D’abia ’l-aĭ zărit și 1-aĭ cunoscut.</p>
+<p>— Se cunoște cât de colo că nu e păgân, măĭ frate, n’audițĭ cum se vaită. Ascultațĭ graiul.</p>
+<p>— Așa e, bre !... Ce-a fi avend cu densul?...</p>
+<p>Și în acelaș timp ambiĭ haiducĭ, purtând în spinare desagi și alte prade, se apropriară cu
+                         victima lor.</p>
+<p>— Da de unde ’1 aducețĭ, măĭ fârtate ? întrebă Cordea.</p>
+<p>— Ia din ăl drum mare !... respunseră haiduciĭ.</p>
+<p>— Dar ce lighionă de nem este?...</p>
+<p>— Român, Turc, Grec, pentru noĭ e tot una. Tot tâlharĭ ne dice nouă.</p>
+<p>— Român dicĭ nelegiuitule?... S’ațĭ îndrăsnit a sĕverși o asemenea faptă?</p>
+<p>Și picând acestea, Cordea ’șĭ încrucișase mâinile și-ĭ privea cu o furie înspăimântătore.</p>
+<p>— Da de când te-aĭ făcut așa de nelegiuit, măĭ nea Cordeo ?... reluă Stancu.</p>
+<p>— Perițĭ de pe fața pământuluĭ, urmă Cordea.—Când v’o afla căpitanul e vaĭ de voĭ!</p>
+<p>— Căpitanul!...</p>
+<p>Și amândoĭ îngălbeniră ca turta de ceară.</p>
+<p>Bietul român, prădat și chinuit, audind cumintele luĭ Cordea, ’șĭ luă curagiŭ și începu să’ĭ
+roge:</p>
+<p>— Fie-vĕ milă, omenĭ bunĭ, am nevastă și șeapte copiĭ. — D-deŭ știe cum îmĭ agonisescŭ
+ trebuinciosele. — Luați-mĭ tot dar dați-mĭ drumul. -— Nu mĕ chinuitĭ; că
+ bun e cel de sus, ’mĭ voiŭ agonisi la loc ce ’mĭ ațĭ luat.</p>
+<p>— Ascultă omule, Jise Cordea, noĭ nu’țĭ putem da drumul până ce n’o veni căpitanul: fi-ind-că
+ plecând de aicĭ, adĭ, de unde știm că mâine n’oĭ veni cu potera să-ĭ arățĭ
+ drumul.</p>
+<p>— Pe ceĭ șepte copiĭ ce am, pe numele sfinteĭ Feciore, vĕ încredințez că nu va eși o vorbă din
+gura mea.</p>
+<p>— Asa o fi creștine, dar aibĭ răbdare.—Maĭ odihnește-te până o veni căpitanul. — El este milos
+pentru româniĭ cu suflet creștinesc.—Și voĭ neghiobilor, care nu v’ațĭ
+sfiit a chinui un asemenea om, pierițĭ, saŭ facețĭ ce vețĭ putea să
+dobândițĭ ertarea căpitanuluĭ.</p>
+<p>Maĭ în acelașĭ timp soseŭ și cĭi 25 cu căpitanul în frunte, încărcațĭ de prade, ducend cu denșiĭ
+o mulțime de prizonierĭ și toțĭ haiducii rĕspândițĭ prin pădure veniră
+întru întâmpinarea căpitanuluĭ.</p>
+<p>— Cine e ăst om? întrebă căpitanul, vĕdend pe nenorocitul chinuit de ceĭ doĭ haiducĭ.</p>
+<p>— Să fim ertațĭ căpitane, reluă Stancu.</p>
+<p>Eŭ și cu Niculae am crezut că e vr’un fanariot și...</p>
+<p>— Român eștĭ prietene?... întrebă căpitanul adresându-se cârciumaruluĭ.</p>
+<p>— Român, să trăițĭ, căpitane!</p>
+<p>— Și ațĭ îndrăsnit mizerabililor? Ar trebui să vĕ arunce de viĭ în gropa morților. — Aide,
+pierițĭ din ochiĭ meĭ! Să nu se maĭ întâmple a doua oră asemenea fapte,
+căcĭ Iadul ve înghite pe toțĭ! — M’ațĭ audit ?...</p>
+<p>— Ertare căpitane ! Se rugară ceĭ doĭ haĭducĭ.</p>
+<p>— Plecațĭ! Treĭ dile să nu ve vĕdŭ în fața mea!</p>
+<p>Apoĭ întorcendu-se spre cârciumar ’ĭ dise:</p>
+<p>— Și ce aĭ suferit om bun?..</p>
+<p>— Nimic căpitane.—Te rog și eŭ să-ĭ erțĭ; căcĭ n’aŭ știut ce fac.</p>
+<p>— Bine!... Dar te-aŭ jefuit, nicĭ vorbă.</p>
+<p>— Toată avuția mea, iat’o în această desagă și în acest chimir.—’Mi-aŭ înapoiat’o așa cum mĭ-o
+luaseră;</p>
+<p>— Să ved și eŭ care-ĭ averea ta ?</p>
+<p>— 600 de leĭ, căpitane, și în aceștĭ desagĭ am târguelĭ pentru prăvălia mea. Locuesc în
+ Gășunenĭ... și am șeapte copiĭ.</p>
+<p>— Ai șepte copiĭ !</p>
+<p>— Da!.. D-deu știe cum îngrijesc de eĭ!</p>
+<p>Drăgușin băgă mâna în buzunar și scoțend un pumn de aur, numĕră monedele și le dete jefuituluĭ
+dicându’ĭ:</p>
+<p>— Iată sunt aicĭ 70 de lire; aibĭ grije de copiĭ teĭ. — Dar ia sema, un cuvent să nu’țĭ iasă din
+ gură, căcĭ nu scapĭ de mine nicĭ în gaură de șarpe.</p>
+<p>— O dată cu moartea căpitane !... Nu voiŭ descoperi nimic!</p>
+<p>— Bine! Mĕ încredințez în tine. — Gavrilâ, condu pe acest creștin până la marginea pădureĭ ca să
+nu ĭ se întâmple ceva.</p>
+<p>— Lumea vĕ dice tâlharĭ, urmă cârciumarul, dar voĭ suntețĭ maĭ miloșĭ de cât mulțĭ omenĭ
+cinstițĭ.—Dac’ar fi mulțĭ ca voĭ nu ne-ar maĭ jefui fanarioțiĭ.</p>
+<p>— Privește, dise Drăgușin arătând prizonieriĭ, cu aceștia nu vom face tot ca cu tine. Aste vipere
+sug sângele bietuluĭ român, și’ĭ vom trimite pe cea-l’altă lume.</p>
+<p>— Dar... eĭ sunt români: Sunt fanarioțĭ!...</p>
+<p>— Fanarioțĭ căpitane?... Așa le trebue !... A! vipere veninose, ațĭ intrat in capcană!</p>
+<p>— Apoĭ adresându-se căpitanuluĭ și haiducilor:</p>
+<p>— Dumnezeu să vĕ dea bine !...</p>
+<p>Si bietul cârciumar luându-șĭ desagĭ porni însoțit de Gavrilă.</p>
+<p>— Acum, porunci căpitanul haiducilor, descărcațĭ prățdile și ducețĭ pe aceștĭ nelegiuițĭ.</p>
+<p>După ce vĕ vețĭ face daotria, prăvăliți’ĭ în prăpastie.</p>
+<p>— Bine, căpitane ! și haiduciĭ eraŭ gata să pornească cu toțĭ prizonieriĭ.</p>
+<p>— Lăsațĭ turcul aicĭ, ca să’l socotesc eŭ, zise Drăgușin.— A!... Am uitat ceva; — Căruțile aŭ
+ remas la marginea pădureĭ; temă ’mi-e să nu ne dea potera în urmă.</p>
+<p>— Am îngrijit eŭ de asta, dise un haiduc înalt si voinic.— Am dat bice cailor, așa că acum trebue
+să fie departe cu o poștă de pădure.</p>
+<p>— Bine.—Nu maĭ avem nicĭ o grije : Plecațĭ.</p>
+<p>Si haiduciĭ plecară cu prizonieriĭ, să’ĭ ucidă și să’ĭ arunce într’o prăpastie vecină, adâncă și
+stâncosă, unde aruncaŭ de obicei tote victimile haiducilor.</p>
+<p>— Heĭ, liftă spurcată, răcni Drăgușin turculuĭ, așa-e că este maĭ bine în seraiŭ de cât în
+mijlocul pădureĭ.—Cum ți se pare ?... Ia să’mĭ spuĭ câte suflete de creștin
+aĭ cătrănit?... Câte fete de românĭ aĭ nenorocit si câțĭ bărbațĭ aĭ lăsat
+fără de neveste și copiĭ fără de mume?...</p>
+<p>— Alah să mĕ păzească, îngână pașaua: n’am făcut în viața mea asemenea lucrurĭ.</p>
+<p>— Se înțelege!... Aĭ venit in țară la noĭ, numav de dragoste!... Ga să ne facĭ vr’un bine!..</p>
+<p>— Eŭ am fost tot-d’auna prietenos pentru ghiaurĭ.</p>
+<p>— Mințĭ nelegiuitule!.. Vorbele tale merită o pedepsă mult maĭ mare de cât acea ce ’țĭ
+pregătisem. — In loc să’țĭ recunoștĭ păcatele maĭ aĭ ancă nemernicia să le
+tăgădueștĭ ?.. Să vie Năsdrăvanu, porunci Drăgușin câtor-va haiducĭ ce era
+pe aprope. — Așteptă fiară înveninată, te voiŭ chinui până ’țĭ-o eși limba
+d’un cot.— Mortea grabnică ar fi prea dulce pentru tine!...</p>
+<p>Năsdrăvanu sosise.</p>
+<p>— Pe Mahometl Ițĭ jur că n’am făcut nicĭ odată cele ce dicĭ.</p>
+<p>— Să nu crâcneștĭ!... Năsdrăvane, să facețĭ un moșoroiŭ de jeratic și să’mĭ prăjițĭ piciorele
+ turculuĭ, până ce-o da untu din ele.</p>
+<p>— Numaĭ de cât căpitane!...</p>
+<p>— Aicĭ, în fața mea!.. Mirosul de friptură, maĭ cu semă cel de turc, îțĭ dă poftă de mâncare.</p>
+<p>Focul se făcu și Pașa legat de mâinĭ și de piciore cu lanțur~, fu așezat dupĕ porunca
+ căpitanuluĭ.</p>
+<p>— Până s’o face friptura, tu Bănică, adu un clește și smulge-ĭ barba!... Să nu rămâe nicĭ un fir
+ !..</p>
+<p>Poruncile luĭ Drăgușin se îndepliniră în tocmai... și turcul țipa și mugea de urla valea.</p>
+<p>— Trântiți-ĭ un căluș în gură!</p>
+<p>— Ba maĭ bine să-ĭ tăiăm limba, țlise Năsdrăvanu.</p>
+<p>— Nu, căcĭ tot va striga!... Lăsațĭ tăeturile maĭ la urmă.—Acum puneți-ĭ călușul!</p>
+<p>Și turcul rĕmase mut peste vre-o cincĭ minute.</p>
+<p>Barba-ĭ se smulsese și piciorele începuseră a sfârăi, când Drăgușin dete nouĭ poruncĭ.</p>
+<p>— Luați-l acum! dise el!..</p>
+<p>Haiduciĭ îl deteră la o parte de la foc.</p>
+<p>--Scoteți-ĭ călușul.—Eĭ turcule maĭ mințĭ?. Ia maĭ spune vre-o minciună!.. Câțĭ omenĭ ai lăsat în
+sapă de lemn ?..</p>
+<p> — Mulțĭ, rĕspunse de astă-dată turcul d’abia vorbind.</p>
+<p>— Bravo!.. Ai început a te pocăi...</p>
+<p>-- Câțĭ copiĭ ai lăsat desculțĭ în mijlocul erneĭ ?...</p>
+<p>— Nu-ĭ am numĕrat, maĭ dise turcul.</p>
+<p>— Atât maĭ bine!.. Acum și tu eștĭ desculț: dar nu e iarnă; cu tote acestea friptura de la
+piciore îțĭ va servi de zăpadă. — Aidețĭ, pune-ți’l pe piciore și dați-ĭ
+gonă prin pădure!.. Luați un biciŭ din peșteră și de n’o vrea să rnergă,
+ardeți’l câte o dată să’i țâșnească sângele!..</p>
+<p>— Nu mĕ chinuițĭ, se rugă Pașa, — fie-vĕ milă, sunt și eŭ om ca și voĭ!..</p>
+<p>— Ha!... Ție nu ți-a fost milă sĕ chinueștĭ atâtea suflete nevinovate și noĭ să ne milostivim
+de-o viperă ca tine!.. Dacă vre-unul din noĭ ar fi cădut în mâinile tale,
+o! sunt sigur că nu ’l-aĭ fi poftit la pilaf... Luați’l!.. Ce maĭ așteptațĭ
+!... Sandu și cu Năsdrăvanu să rămâe aicĭ.—Voĭ plecațĭ.</p>
+<p>Si ceĭ l’alțĭ plecară cu turcul să egzecuteze porunca șefuluĭ lor.</p>
+<p>Apoĭ căpitanul urmă către ceĭ doĭ haiducĭ. </p>
+ <p>— Infigețĭ colea o țepă, cât se va putea de înalta și ascuțita.</p>
+<p>Intr’un sfert de oră țepa era pregătită și în momentul când o înfipsesera în păment, apăiu și
+ haiduciĭ aducând pe turc, maĭ mult mort de cât viu.</p>
+<p>— Lighionă spurcată, dise căpitanul, vezĭ țepa asta?... E pregătită pentru tine. Un lucru numaĭ
+te pote scăpa. — Române la tine să voeștĭ saŭ ba.</p>
+<p>— Care?... întrebă turcul holbând ochiĭ și vĕdend că are o scântee de speranță.</p>
+<p>_ Veĕ vedea numaĕ de cât.—Hotârăștete numaĕ să’mĕ' respundĭ la tote întrebările, și să mĭ
+ mărturiseștĭ ce te voiŭ întreba.</p>
+<p>— Iți voiŭ spune tot, numaĭ nu mĕ chinuițĭ. Nu mĭ omorâțĭ, — spune ce vreĭ de la mine?...</p>
+<p>_ Respunde-mĭ maĭ întâĭ de unde veneaĭ?</p>
+<p>_ De la Viziru, un sat nu departe de Brăila.</p>
+<p>— Și ce făceaĭ acolo?...</p>
+<p>— Locuința mea este în Brăila; dar tote averile mele sunt în acel sat.—Credinciosul meŭ Hagi
+ Panaiotaki, un grec de bună credință, lo-cuește în acel sat.—Luna din urmă
+ a petre-cut’o acolo.</p>
+<p>— Și ce cătaĭ în mijlocul aceleĭ caravane ?</p>
+<p>— Petreceam pe un Grof ungur până la hotarele Ungarieĭ, care fusese în gazdă la noi.</p>
+<p>— Și acel Grof?</p>
+<p>— Era între prisonieriĭ ce-ațĭ trimes să’ĭ omore.</p>
+<p>— Păcat!... Ne-am cam grăbit. Trebuia să’țĭ dăm un tovarăș. — Un turc și un ungur! A, ce pereche
+bună de înfipt în țepă!...</p>
+<p>La cuvântul de țepă turcul se înfioră și dințiĭ începură a clănțăni.</p>
+<p>— Vino’țĭ în fire, urmă Drăgușin, dacă veĭ spune tot, nu veĭ maĭ suferi nimic.</p>
+<p>-- Spuiŭ tot, tot ce mĕ veți întreba. Numai nu mĕ omorâți!...</p>
+<p>— Si din ce se compune averea ta la Vidiru?</p>
+<p>— La ce’țĭ folosește asta? întrerupse turcul.</p>
+<p>— Țepa!.., dise Drăgușin cu intențiune.</p>
+<p>— Oh !... Uitasem că trebue să spuĭ tot !...</p>
+<p>Averea mea se compune din banĭ, caĭ de tote rasele, aurăriĭ, argintăriĭ, sclavĭ și alte
+ mărunțișurĭ, care se urcă, «toptan bazar», aprope Ia 100,000 de lire.</p>
+<p>— Si tote astea din pielea bietuluĭ român!</p>
+<p>Si unde se află acum baniĭ sunătorĭ?...</p>
+<p>-- Baniĭ ?... și aci turcul se opri, nevoind a maĭ spune.</p>
+<p>— Ia sema turcule 1... răcni Drăgușin !... </p>
+<p>-- Banii, urmă Pașa, sunt îngropațĭ sub dușumea în odaia mea de culcare,—în
+colțul din drepta lângă o ferestră.</p>
+<p>— Bine!... Și câțĭ sclavĭ aĭ?..</p>
+<p>— Ca la opt-decĭ și cincĭ.</p>
+<p>— Acum să ne spuĭ intrările în saraiul tĕŭ, atât cele cunoscute cât, și cele ascunse.</p>
+<p>— Cele necunoscute sunt douĕ: două porțĭ marĭ, în fața seraiuluĭ și alta în spatele luĭ. In
+fundul grădineĭ sunt douĕ ușĭ secrete, ale căror cheĭ sunt ascunse sub
+droturile palatuluĭ din o-daia mea. Venind din grădină, la spatele
+ seraiului se află o mică pivniță ; intrând aicĭ, în stânga este o mică
+scară; d’asupra eĭ se află o uscioră prin care poțĭ pĕtrunde în odaia cu
+baniĭ; în drepta se află o altă scară, tot cu o uscioră prin care poțĭ
+asemenea pătrunde în odaia cadânelor.—Acestea sunt tote secretele care le
+cunosc eŭ. Cele-l’alte le știe Hagi Panaiotaki.</p>
+<p>— Si unde se află ei acum?...</p>
+<p>— La Viziru, chiar în seraiŭ!...’L-am lăsat spre îngrijirea avuțieĭ și a femeilor.</p>
+<p>— Si câte femeĭ aĭ, liftă nesățiosă?...</p>
+<p>— Două-spre-clece românce și șepte cadâne.</p>
+<p>— Douĕ-spre-clece românce ?...Fete răpite, nicĭ vorbă.—A, ce bine-ai făcut de-ai cațlut în
+mâinile nostre ! Acele ființe nenorocite voi' fi scăpate.</p>
+<p>Prea bine turcule; dacă ne veĭ fi spus adevĕrul nu veĭ muri; iar . de ne’ĭ fi mințit vaĭ de
+sufletul tĕŭ.</p>
+<p>— Cum, căpitane, protestară câțî-va haiduci, vrei să’i lași viața?</p>
+<p>— Asta nu e treba vostră, se resti Drăgușin. Acum luați’l și ’1 închideți în vizuina Ursului 1) penă ve voiu da noui porunci!—Așeclațî stânca țeapăn la intrare, ca nu cum-va să ne scape turcul... Așterneți’i o pătură și dați’i ceva de mâncare, căci avem nevoe de el.</p>
+<p>— La ce ceas se culcă servitorii tei ? întrebă din nou pe pașă.</p>
+<p>Turcul însă nu mai putea vorbi, sângele care curgea din bărbia și fălcile lui, din causa perului smuls cu cleștele, ’i astupase nasul și ’i inunda gura.—Cu tote acestea la o nouă între' bare a lui Drăgușin, turcul bolborosi:</p>
+<p>— La 10 cesuri.</p>
+<p>— Spălați’i și ungeți’l cu nițel spirt, porunci Drăgușin, ș’apoi ’I închideți.</p>
+<p>Haiducii plecară spre îndeplinirea poruncei, iar Drăgușin remase cu o parte din ei.</p>
+<p>— Si ce ai de gând cu lighiona asta? întrebă Cordea.</p>
+<p>— Putem afla multe de la dânsul; de aceea sa nu’l omorâm încă.</p>
+<p>Acum băeți, avem mult de lucru. Vom face o</p>
+<p>1) La venirea haiducilor în acele locuri au găsit un urs în acea vizuină, pe care ’l-au omorât,
+ și din culcușul lui făcuseră ca un fel de închisore, pentru prizonierii ce
+  nu voiai! să’i omorc. a în rare de vom reuși, fie-caredin întreprindere, m
+  are ne</p>
+<p>VOl?sSem gȚ'căpitane. Poruncește și vom</p>
+<p>int2preaCmulte,evorbe!... Faptele să vă fie umflate, vorbele pot să fie ei mai cumpătate. A-</p>
+<p>tU Ascultați-me acum.—Mâine In flori de fl™»> tu Bănică vei lua cu tine pe Stoica șl pe Ignat, veți merge in eatul vostru, și veți Închiria 5 care cu' câte patru boi.-Negreeit că ve veți deebraca de hainile haiduciei.—Le veți Încarce, culemne si veți porni cu ele spre eatul Viziru. A^l septe" voinici îmbrăcațî cu haine de cărăuș, ve</p>
+<p>;„Pr însoți cu toții veți f. flece: câte do, de fie-care car. Pe dedesubt puteți fi bine armați. A- unsî în Viziru veți căuta să vindeți lemnele lui Hagi Panaiotache, să potriviți ca descărcarea să se facă spre seară, și înoptând sa cere ivoe să dormițî în curtea seraiului. Mâine nopte tu Bănică, te vei strecura in grădină, vei intram pivnița cu scările, te vei urca pe cea stanca intrând în odaia cu cheile, le vei lua dm r -</p>
+<p>turile patului. La miedul nopței vei veni la murii gradinei si deschizând ușile secrete, ne vei lașa să intrăm. Cei din curte să fie gata a ori-ce împrejurare.—Deci mâine veți face tot ce v a spus.—Âlegeți-ve dar, care mergeți ?...</p>
+<p>_ Noi, noi, căpitane? se auriră glasuri</p>
+<p>mUl!iaenpSr VOini?' 86 desPârtirăde cel faltl</p>
+<p>- anei .. Acum alegeți-ve patru-decl care</p>
+<p>veți merge cu mine. ’ ®</p>
+<p>— Greu de ales căpitane, fîe-care vrea să mearga la așa întreprindere, ^ise Cordea.</p>
+<p>— Nu vreau să ve nedreptățesc !—Veți trao-e sorți și care va cădea va fi bun ales. ' °</p>
+<p>Ve învoițî ?</p>
+<p>— Ne învoim!...</p>
+<p>Cordeo, ca mai betrân, ai se facă șiretenie la sorți.</p>
+<p>grijea să nu</p>
+<p>— Bine, Căpitane.</p>
+<p>In câte-va minute ceata de patruzeci se alese. - Tot unul și unul!... esclamă Drăgusin,</p>
+<p>Bine!... Pe mâine dar... ‘</p>
+<p>Și haiducii se retraseră. In acelas timp sosiseră și cei cu îngrijirea pașei și a prisonieri-lor și cu toții se răspândiră din noii prin pădure.</p>
+<p>Mâine!... cugetă în sine Drăgusin!... Iată o întreprindere nu tocmai primejdiosă dar ane-voe de îndeplinit. - Ne-am hotărât cu tote a-cestea! frebue să urmăm.—De la pădurea Co-teștilor până la Vizirul!... Un drum destul de lung!... Ei, dar ce’mi pasă!... Vom merge până acolo respândiți și cine-va bănui, că suntem haiducii, de care tremură tote liftele streine ce</p>
+<p>cutreeră țara!...</p>
+<p>In mijlocul acestei reflecsiuni ale lui Drăgusin apăru Smârăndița din gura peșterei Însoțită</p>
+<p>de moș -Grigore. Drăgușin veni lângă ea, și ’i luă mâinile.</p>
+<p>— Ce mai faci copilul meu?...</p>
+<p>E rău de tot, respunse în locui moș Grigore. i</p>
+<p>— Rău!... și eu care nădăjduiam ca timpul să’i aducă vindecarea!... O nu... ascultă tată Grigore, numai pot suferi s’o văd în asemenea stare.</p>
+<p>Nebunia ei îmi face așa de reu, în cât simt că o să înebunesc și eu... In tot minutul nu me gândesc de cât la acestă nenorocire !...</p>
+<p>In întreprinderile nostre, în faptele cele mai crude chiar ce trebue să săvârșim în meseria nostră ’mi-e gândul tot la ea. — Si cu tote a-cestea, în fața tovarășilor mei trebue să ascund acestă suferință.—M’am gândit c’ar fi mai bine s’o căutăm mai cu tot dinadinsul, că doar i-om dade leac.—D-ta care nu mai poți mânui armele, bătrân cu perii albiți, poți prea bine în mijlocul orașelor să treci drept un om cinstit ; noi ăști-l’alți, am putea fi bănuiți, eu mai cusemă...</p>
+<p>Sunt ațâți care mă cunosc !... Ast-fel că mergând la București bunioră, vei lua-o cu D-ta.</p>
+<p>Vei trece acolo drept un proprietar din Basarabia și prin ajutorul doctorilor, vom fi pote norociți s’o vindecăm.</p>
+<p>— Dar cum voiu putea trece drept proprietar, când semăn cât de colo după vorbă că sunt om trăit în pădure ?</p>
+<p>-— E, betrânule; câți proprietari mai sălbatici.</p>
+<p>ca d-ta, cu tote astea sunt proprietari avuți;— ba încă ceva mai mult, tae și spândură pe cine vor ei.</p>
+<p>— Apoi, căpitane, ăl de sus să ne ajute!...</p>
+<p>Me duc peste nouă mări și peste noue teri numai de mi’i porunci, cu tote bătrânețile mele!..;</p>
+<p>— Iți mulțumesc tată Grigore.—Ar fi bine să plecați cât se va putea mai curând ; — chiar mâine.—Reul crește din ce în ce și ’mi-e temă ca nu cum-va...</p>
+<p>— Mergi prea departe căpitane!... Ți D-^eu să ne ajute și fii pe pace!</p>
+<p>— Să ne ajute, moșule, că mi se rupe inima, când veci pe această copilă în asemenea stare.</p>
+<p>Ser mana Smărăndița, în obijnuita-i melancolie, se așezase pe un bușten, și cu fruntea rezemată pe mână ședea nemișcată.</p>
+<p>— Privește-o, urmă a $ice Drăgușin, cine-ar putea spune că în acest corp bate o inimă; cine ar putea crede că simțimentele cele mai sfinte au locuit vre-o dată într’ânsa.</p>
+<p>— Așa e căpitane!... Pare că e opeatră!... Ți se rupe inima când o privești.</p>
+<p>— Guragiu însă, Domnul e bun. — Mâine dar veți pleca, nu este așa ?...</p>
+<p>— Mâine Căpitane,—Vom pleca de dimineță, — ca să ne ajungă vremea.</p>
+<p>— Ține astă pungă; în ea se află ca la 500 de galbenĭ.— Cred că’ĭ de ajuns ca să întâmpinĭ tote
+cheltuelile.</p>
+<p>— Așa cred și eŭ căpitane !</p>
+<p>— Veĭ înbrăca un rând de haine dintr’ale pri-sonierilor de astă-dĭ, veĭ avea ast-fel înfățișarea
+ unuĭ adevărat boer. Și fiind-că maĭ aĭ nevoe de cine-va ia pe cel maĭ tînĕr
+din haiducĭ, pe Lic-sandru bunioră, ’țĭ va ține loc de servitor.—Vețĭ
+coborĭ în Coteștĭ și vețĭ găsi pe cine-va care să vĕ ducă până în Bucureștĭ
+— cată să fie caiĭ mai sprinteni și nu vețĭ duce nici o grijă.—</p>
+<p>Ne-am înțeles, nu este așa!...</p>
+<p>— înțeles, căpitane ?...</p>
+<p>Apoĭ Drăgușin șeclu lângă Smărăndița, care nu eșise din profunda’ĭ melancolie.</p>
+<p>— In curând veĭ putea să mĕ recunoștĭ iubita mea.—Oh!... cât de fericită va fi cliua în care ’mĭ
+veĭ vorbĭ cu mintea senină !...</p>
+<p>Smărăndița, deșteptată la glasul lui Drăgușin îl privi lung și ochiĭ’ĭ se umplură de lacrămĭ,
+pare că un presimțiment ascuns ’ĭ spunea că o să se despartă de locurile în
+care se deprinsese, de omeniĭ ce o înconjurau, de și în realitate a-cestă
+despărțenie pentru densa nu era nimic întristător.</p>
+<p>Drăgușin mișcat până în adâncul inimeĭ, simți că nu maĭ are putere a lupta cu suferința.</p>
+<p>— Ia-o moș Grigore, condu-o înăuntru !... îmĭ face rĕŭ vederea eĭ!...</p>
+<p>Moșnegul o luă de mână și’șĭ îndreptă'pașiĭ spre năuntru peștereĭ; dir Smărăndița, mergând după
+cum o conducea bătrânul ei tovarăș,—’sĭ întor-sese privirile spre Drăgușin,
+împietrit in loc și cu mintea abătută.</p>
+<p>Când Smărăndița dispăru în peșteră, Drăgușin, ca cum și-ar fi luat o hotărâre :</p>
+<p>— Ce naiba !... om sunt eŭ?... Așa inimă plăpândă într’un pept de bandit!... Haide!... Curagiŭ !
+M’ar rîde voĭniciĭ dacă m’ar vedea ast-fel.</p>
+<p>Si venindu’și în fire, luă pușca pe umerĭ și se per du printre arborĭ.</p>
+<p>A doua di de dimineață nicĭ o suflare ome-nescă nu era în jurul peștereĭ haiducilor. Dacă potera
+ar fi pătruns până în profunzimea văiĭ, n'ar fi descoperit o singură urmă
+de esistență a unuĭ cuib de bandițĭ: așa de bine eraŭ acoperite tote
+semnele de locuitoriĭ acestuĭ loc.</p>
+<p>Drăgușin la plecarea luĭ cu ceĭ patru-decĭ de-dese voe la toțĭ cei l’alțî să se ducă fie-care
+prin satele lor să’și rânduiască trebile poruncindu-le ca până în seră să
+se întorcă toți în codru.— Un singur haiduc rămăsese, ca să îngrijească de
+pașa turcesc închis în «vizuina Ursului».</p>
+<p>Drăgan, așa se numea cel rămas, după plecarea haiducilor spiona cu multă băgare de semă, dacă a
+maĭ remas vre-unul prin pădure.—Incredințin-du-se bine, că e singur, se
+duse cu pașĭ repezĭ spre vizuina in care era închis turcul.</p>
+<p>— Grăb'ește-te, ’ĭ dise ei. — Saŭ dus toțĭ!</p>
+<p>Să plecăm, penĕ suntem stăpânĭ pe noĭ!...</p>
+<p>— Să plecăm dise turcul d’abia târându-se pe piciore. Tu veĭ fi bogat, și nu veĭ maĭ a-vea
+trebuință să haiducești în mijlocul acestor pădurĭ.</p>
+<p>— Arz’o focul de haiducie, m’am săturat de ea. Maĭ bine la oraș. Dar să plecăm!</p>
+<p>Si sprijinind pe Pașă ’1 scose din vizuină.</p>
+<p>— Reazămă-te de mine și să mergem.</p>
+<p>— A!... să scap de aci odată !ĭ.. Voiŭ spânzura pe toțŭ câniŭ aceștia carŭ m’au prăjit ca pe o
+ știucă !. .</p>
+<p>Si turcul reclemându-se de trădătorul, care abusa de încrederea căpitanuluĭ sĕŭ pe prețul auruluĭ
+ și al promisiunilor, se îndreptă spre marginea pădureĭ de unde atârna
+ scăparea luĭ. Cu greŭ însă înaintau fugariĭ. — Turcul d’abia putea umbla și
+sprijinitorul sĕŭ, până să urce valea, ostenise.—Era cam pe la miedul dileĭ
+când d’abia ajunseră la marginea pădureĭ.—De aci se îndreptară spre un sat
+ vecin, să ia un cărăuș, ca să’ĭ ducă cât mai repede la Viziru; dar toțĭ
+ țĕrani eraŭ la muncă.—D’abia spre tocă, într’o căruță cu patru caĭ, putură
+ă pornească. Dar era prea târdiŭ căcĭ până la Vidiru le trebuia o ții
+întregă în gona mare.</p>
+ </div>
+ <div type="chapter" n="7">
+<p>CAPITOLUL VII. LUPTA DE LA VIZIRU</p>
+<p>Se înserase.—Ceĭ dece haiducĭ descărcaŭ încă lemnele in curtea pașeĭ; iar Hagi Panaiotaki, veni
+ să plătescă.</p>
+<p>— Lasă, boerule, n’eĭ plăti mâine. Astă seră asă-ne să mânem cu carele în ograda d-tele; că în
+ sat, de, ce să dicĭ... stăm pe cheltuială...</p>
+<p>— Bine, rmânețĭ... dar mâine cine o să vĕ plătescă... eŭ mĕ scol cam târziŭ...</p>
+<p>— Om aștepta boerule; că dacă n’eŭ plăti în sera asta, răsbim pe la cârciumă, ș’am vrea ca tot
+omul, să ducem baniĭ sdravenĭ acasă.</p>
+<p>— Fie, dise Hagiul fanariot și se depărtă.</p>
+<p>— Ne veĭ plăti și în noptea asta spurcatule, murmură Bănică, și încă scump de tot!..</p>
+<p>Ceĭ dece, după ce împărțiră pae boilor, se a-ședară lângă unul din care, făcură focul și puseră
+ de mămălică.—Cu toțiĭ se așezară înprejur și așteptaŭ noptea să
+ înainteze.</p>
+ <p>Maĭ era un ceas până la miezul nopțiĭ. — Toțĭ servitoriĭ adormiseră. Seraiul se odihnea sub o
+ adâncă tăcere.—O lumină se maĭ zărea în odaia Hagiului; dar și ea se
+ stinse.</p>
+<p>— Acuma e vremea, șopti Bănică tovarășilor sĕĭ.—Eu mĕ duc... Voi fițĭ cu luare aminte.</p>
+<p>Și picând acestea, haiducul se strecură prin nopte și dispăru.</p>
+<p>Un ceas după aceea Drăgușin însoțit de ceĭ patru-decĭ, apăru la ușa secretă din fundul
+ grădineĭ.</p>
+<p>— Ce-’ĭ p’aicea Căline? întrebă el.</p>
+<p>— Pace, căpitane. — Toțĭ dorm dușĭ.</p>
+<p>E întuneric peste tot; dar în odaia cadînelor se aude vorbind. — Se vede că ’șĭ spun basme pe
+întuneric.</p>
+<p>— Atât maĭ bine. — Nu le vom deștepta din somn. — Acum venițĭ cincĭ cu mine; ceĭ-l’alțĭ
+apropiați-vĕ în vĕrful degetelor și luațĭ sema. Cincĭ întorceți-vĕ la
+marginea satuluĭ și vedețĭ să fie căruțele gata.</p>
+<p>Porunca se împlini și ceĭ cincĭ, înpreună cu Călin, pășiră în urma căpitanuluĭ.</p>
+<p>In două minute Drăgușin ajunse la scara, care urca în odaia cu baniĭ. Ceĭ cincĭ haiducĭ rămaseră
+la scară, cu armele în mâinĭ; iar Drăgușin însoțit de Călin, urcă în odae.
+— Aci, pășind cu multă băgare de semă, ajunse în colțul de lângă fere-stră;
+și căutând cu mâinile pe parchet, dete de o mică adâncătură; închipuindu’șĭ
+că acĭ e capacul, ridică ușor în sus și dibui cu mâinile o sumedenie de
+pungĭ pline cu banĭ sunătorĭ.—Le dete una câte una în mâna luĭ Călin și
+acesta la rândul sĕŭ le înmâna celor care așteptaŭ la scară. — Avu multă
+osteneală bietul Drăgușin,. căcĭ multe eraŭ pungile turculuĭ.—După cele
+ridică pe tote, lăsă încet capacul și coborând scările, închise și capacul
+care unea pivnița cu odaia. — Venind lângă tovarășiĭ din capul scăreĭ, ’ĭ
+găsi pe câte-’șĭ cincĭ cu brațele încărcate de pungĭ.</p>
+<p>— Trebue să fie pline cu icusarĭ, șopti Drăgușin, căcĭ cu aur prea ar fi mult.</p>
+<p>— Las’ că’ĭ bine căpitane, rĕspunse unul din haiducĭ, și ăștia sunt bunĭ.</p>
+<p>— Acum repeziți-vĕ cu pungile la marginea satuluĭ și le punețĭ în căruță; și alțĭ cincĭ să vie în
+locul vostru; saŭ nu, să vie dece. Ne vom urca în odaia femeilor. — Toțĭ
+ ceĭ alțĭ să stea gata, la gura pivnițeĭ.</p>
+<p>Eșind ceĭ cincĭ, cu pungile în mâinĭ, într’un minut intrară alțĭ dece.</p>
+<p>— Urmați-mĕ! le porunci Drăgușin. Tu Gordeo eștĭ maĭ dibaciu, vino maĭ lângă mine.</p>
+<p>Apoĭ se apropiară de scara care pătrundea în odaia cadînelor. O scârțietură de chee se audi și ca
+ un fulger, Drăgușin urmat de ceĭ dece voinicĭ, intrară în odaia în care
+femeile de astă dată eraŭ adormite.</p>
+<p>Ele n’avură vreme să strige; căcĭ o lumînare se aprinse repede și fie-care voinic se repidi la
+ câte una din voluptosele cadâne și astupându-le gura, coborâră cu ele în
+ brațe scăricica pe care o urcaseră cu atâta ușirință.</p>
+<p>Din nefericire însă voiniciĭ eraŭ un-spre-țlece cu Drăgușin; iar femeile, nouĕ-spre-dece. Ast-fel
+că cele rămase începură să țipe cât le lua gura.</p>
+<p>Un noŭ rând de voinicĭ reintrară și când era să și facă datoria, un sgomot se audi in tot seraiul
+ și ușile se trânteaŭ cu putere în tote părțile.</p>
+<p>— Grăbiți-vĕ copiĕ, răcni Drăgușin, penĕ e vreme!</p>
+<p>Printr o grăbire nedescrisă haiduciĭ răpiră și femeile ce maĭ rĕmăseseră și coborâră scara;
+a-jungând însă în grădină o luptă crâncenă se încinsese între haiduciĭ și
+sclaviĭ seraiuluĭ care în numĕr mare, eșiseră așa cum se aflaŭ, apucând
+armele; le eșiseră înainte și alergaseră în grădină, de unde se auțlea
+ sgomotul.</p>
+<p>--Duce-țĭ femeile în căruțe, răcni Drăgușin.</p>
+<p>Și o parte din haiducĭ alergară cu ele în brațe la marginea satuluĭ, pe când cei-l’alțĭ luptaŭ cu
+înverșunare contra sclavilor armațĭ cu arme de totă mâna.</p>
+<p>Drăgușin în fruntea luptătorilor sĕĭ, lovea de strîngea înainte’ĭ când un foc apucă pe vrășmașĭ
+ de la spate!—Ceĭ nouĕ haiducĭ, care veniseră cu lemnele, audind sgomotul
+ lupteĭ și găsind momentul poprice, se repeziră ca niște leĭ în spatele
+ sclavilor, și decimĭ de trupurĭ zăceaŭ la păment, scăldate în sângele
+lor.</p>
+<p>Cei l'alțĭ înspăimântați o luară la fuga pe unde vădură cu ochii, lăsând pe Drăgușin și cu ai sĕĭ
+liberĭ de a pleca.</p>
+<p>Din nefericire, douĭ din voiniciĭ luĭ Drăgușin zăceaŭ morțĭ, între care era și vitezul Cordea.
+ Drăgușin simți și el o slăbiciune în vine, și pi-păindu-se simți peptul
+udat de sânge : era rănit la umĕr.</p>
+<p>— Eștĭ rănit, căpitane? întrebară haiduciĭ.</p>
+<p>— Puțin de tot. Ridicațĭ pe aceștĭ douĭ nenorocițĭ și să mergem...</p>
+<p>Cadavrul luĭ Cordea și al celuĭ alt haiduc fură luate în cârcă și cu toțiĭ se grăbiră spre
+ marginea satuluĭ unde așteptaŭ ceĭ-l’alțĭ cu femeile și cu căruțele.</p>
+<p>— Pe drum băețĭ, strigă căpitanul cum ajunseră la marginea satuluĭ.</p>
+<p>Se urcară cu toțiĭ grămadă în căruțe și porniră in gona mare.</p>
+<p>Nu trecu mult de la plecarea lor și tot satul se sculă în piciore.—Țĕranii alergară la seraiul
+ pașeĭ și se înfiorară vĕdend dezastrul ce rĕmase in urma aprigilor
+ bandițĭ!</p>
+<p>— Drăgușin trebue să fi fost!... esclamau uniĭ cutremurându-se.</p>
+<p>— Așa le trebue păgânilor! diceaŭ alțiĭ.</p>
+<p>Bine le-aŭ făcut, că destul ne-aŭ supt munculiță nostră !...</p>
+<p>— De-ar fi pus mâna pe spurcatul de turc ! murmură altul.</p>
+<p>Așa că în inima lor, maĭ toțĭ săteniĭ eraŭ mulțumițĭ de ceea ce se întâmplase.</p>
+<p>Numai Hagĭ Panaiotaki, care era greŭ rănit la cap, se văita și gemea de urla seraiul.</p>
+ </div>
+ <div type="chapter" n="8">
+<head>CAPITOLUL VIII. REÎNTOARCEREA ÎN CODRU</head>
+<p>Totă noptea merseră haiduciĭ în gona cailor. Cincĭ căruțe cu câte patru caĭ iuțĭ, mergeaŭ de
+sfârăiaŭ rotele pe drumul spre Bălboaca. Nu începuse încă a se lumina de
+diuă, când drumețiĭ trecuseră acest orășel și eraŭ aprope de niște bălțĭ
+stufose, în care puteaŭ să se ascundă tot așa de bine ca și într’o
+pădure.</p>
+<p>— Mânați repede, dise Drăgușin, să ajungem în bălțĭ penĕ s’o face diuă.</p>
+<p>Deteră bice cailor, și când zorile începură a se ivi, căruțele ajunseră la marginea unuĭ stufiș
+ des și înalt. Aci se coborâră cu toțiĭ, afară de aceiĭ care stateŭ în
+căruțe neindrăsnind a scote un cuvânt măcar și tremurând de frică. Luară
+ caiĭ de frâne, intrară prin stuf până ce fură siguri că nimeni nu va putea
+să’ĭ dibuiască în mijlocul acelor bâltoce.</p>
+<p>Cântară un loc maĭ urcat și deshumară căiĭ, lăsându’ĭ să se odihnesca. .</p>
+<p>---Bravo băețĭ! dise Dragușm vesel.</p>
+<p>Atĭ fost voinicĭ ca niște leĭ. </p>
+<p>Suntețĭ demnĭ de numele ce purtațĭ. Imĭ pare rĕŭ numaĭ de bietul Cordea șl de Bucur.</p>
+<p>Aŭ inchis ochiĭ fără să se bucure și eĭ de isbânda noastra. Dar Dumnedeŭ sa'ĭ
+erte!</p>
+ <p>---Dumedeŭ sa'i erte, repetară haiducĭ in cor.</p>
+<p>-- Codrea a fost lovit in inima, căpitane, piveste'l, s'a inghetat sangele
+ pân si pe sucman</p>
+<p>Și haiducul care vorbea ast-fek desvelise cadavrul luĭ Codrea, plin de sânge
+ pe obraz, de nu se maĭ cunostea, iar in dreptul inimeĭ sângele colcotind se
+ îngețase o data cu mortea luĭ.</p>
+ <p>-- Așa i-a fost scris, fratilor, să ne mulțumim cu atât.</p>
+<p>--- Drept să spun, căpitane, urmă Bănică, frumose femeĭ avea spurcatul
+turc.</p>
+<p>-- Trebuie să fie multe românce printre ele.</p>
+<p>Ia dați-le jos.</p>
+<p>Nouă-spre-zece la numĕr, tote fură aduse inaintea căpitanuluĭ.</p>
+<p>De-o dată maĭ multe glasurĭ îngereștĭ din mijlocul lor se rugară:</p>
+<p>-- Fie-vĕ milă de noĭ! Suntem nevinovate.</p>
+<p>-- Nu vĕ temetĭ copilele mele, le dise Drăgușin, noi v’am scăpat din mâinile
+nelegiuților ca să vĕ înapoiam părinților voștri.</p>
+<p>— N’am părințĭ, dise una, ’i-aŭ omorât turcul și pe eĭ și pe frațiĭ meĭ!..</p>
+<p>— Vipera înverșunată! Ghicisem prea bine faptele luĭ.</p>
+<p>Româncele, la audul acestor cuvinte, se liniștiră și în locul spaimeĭ bucuria se întipări pe fața
+lor.</p>
+<p>Cele șepte turcoice însă tremurau ca varga și nu îndrăsneŭ să dică nicĭ un cuvent.— Una din
+creștine, care părea maĭ deșteaptă, dise luĭ Drăgușin :</p>
+<p>— Avețĭ milă și de aste nenorocite ; ele n’aŭ făcut nimenuĭ nicĭ un rĕŭ.—Cu ele am împărțit tote
+nenorocirile nostre.</p>
+<p>— Fițĭ încredințate; vom fi bunĭ și pentru densele.</p>
+<p>Haiduciĭ se așeclară să se odihnească; iar privirile lor sburaŭ nesățiose spre voluptosele
+cadîne, care șĭ maĭ veniseră în fire, la blândele vorbe ale luĭ
+Drăgușin.</p>
+<p>Diua întregă o petrecură în mijlocul aceluĭ stufiș și cum se înoptă, scoseră căruțele din baltă
+și porniră iarășĭ în gona mare spre pădurea Goteștilor. Maĭ era un ceas
+până la cliuă, când haiduciĭ ajunseră în marginea pădureĭ. Se cobo-râră
+jos, luară femeile și baniĭ; iar câți-va din eĭ remaseră în căruțe, ca să
+le ducă într’un sat vecin de unde le închiriaseră și unde eraŭ cu-noscuțĭ
+destul de bine de sătenĭ, dar care nu îndrăsniseră nicĭ o dată să scotă un
+cuvânt măcar.</p>
+<p>Se îndreptară cu toțiĭ prin deșișul pădureĭ și ajunseră la gura văiĭ.</p>
+<p>Santinelile recunoscură rând pe rând pe căpitanul lor și când se opriră la gura peștereĭ, toțĭ
+voiniciĭ rămașĭ ’ĭ eșiră înainte turburațĭ și nedomerițĭ.</p>
+<p>— Ce e! ce însemnedă neorânduiala asta?... Ce vi s’a întâmplat?...</p>
+<p>— A fugit turcul căpitane !...</p>
+<p>— Vorbe !... dor nu ’i-o fi crescut aripĭ!...</p>
+<p>— Adevĕrat, căpitane.—Drăgan ne-a trădat.</p>
+<p>Lăsat fiind în paza turculuĭ s’a înțeles cu densul și aŭ fugit împreună.—Stânca vizuineĭ este
+ridicată, hainile luĭ Drăgan asverlite alăturĭ și eĭ nu se află nicăerĭ.—Nu
+maĭ încape îndoială că ne-a trădat!...</p>
+<p>— Mișelul!... Eĭ, și v’ațĭ înfricoșat ?</p>
+<p>— De sigur, că Drăgan va servi potereĭ de călăuză.</p>
+<p>— Si ce ne pasă!... Suntem destuĭ ca să ne luptăm cu o oștire întregă, dar cu o poteră.—</p>
+<p>Fițĭ inimoși băetĭ si nu tremurațĭ la suflarea fiecăruĭ vent răpcigos.</p>
+<p>— Nu’țĭ fie temă, căpitane, am arătaf în dese rândurĭ ce putem!</p>
+<p>— Bine!...Așa vĕ vreaŭ!...</p>
+<p>Se luminase de cliua. — Drăgușin intrase în peșteră să se culce puțin, obosit de greutățile
+întreprindereĭ ce avusese.</p>
+<p>Haiduciĭ întinseră o masă lungă și se așezară cu toțiĭ în jurul eĭ, ospătând și ciocnind
+oalele.</p>
+<p>— In sănătatea căpitanuluĭ, închină Călin ri-dicându-se.</p>
+<p>— Și intr’a isbândeĭ de ierĭ nopte, reluă un altul!...</p>
+<p>----Trăiască căpitanul, seauțli spre capul meseĭ.</p>
+<p>Isprăviseră de mâncat și închinaŭ într’una până începură să amețescă.</p>
+<p>—- Da de unde aĭ adus butea asta, măĭ Vlăduță, întrebă Vidrașcu.</p>
+<p>— Am cumpărat’o, măĭ fârtate....</p>
+<p>— Ierĭ ducându-mĕ a casă, mĕ gândiĭ ce surprindere să vĕ fac pe diua de astă-dĭ; căcĭ mi se pare
+că v’am spus, astă-dĭ înplinesc 27 de anĭ.</p>
+<p>— Ceĭ mulțĭ înainte! repetară în cor haiduciĭ.</p>
+<p>— Dacă nu’mĭ spuneai acum, eu nicĭ gând n’aveam că adĭ e diua naștereĭ tale. — Și picând acestea,
+Vidrașcu, ridică 61a, se sculă în picore și închină.</p>
+<p>— Fraților, să bem în sănătatea lui Vlățluță, care împlinește astă-dĭ 27 de anĭ. — Cât o trăi
+sănătate să ’ĭ dea cel de sus ; iar când o muri să’ĭ fie țărâna ușioră!</p>
+<p>— Să’ĭ fie!... repetă haiduciĭ, golind olele</p>
+<p>— Amin, dise Vlăduță rĕmânend maĭ la urmă și zimbind la urarea lui Vidrașcu.</p>
+<p>Peste o oră eraŭ amețițĭ, așa că parte din eĭ d’abia puteaŭ să mai vorbescă.</p>
+<p>— Bun îțĭ fuse vinul, măĭ nea Vlăduță!</p>
+<p>— Tocmaĭ cum se prinde de gura haiduculuĭ, rĕspunse acesta.</p>
+<p>— Tote bune, dar vinul cere veselie și veselia cere dragoste.</p>
+<p>— Lucrul e lesne, respunse Vidrașcu haiduculuĭ care vorbea ast-fel. S’aducem cadînele turculuĭ să
+ ne veselim cu ele, că doară n’o fi dracul...</p>
+<p>Ia vedĭ Vlăduță, tu eștĭ maĭ sprinten ș’apoiŭ adĭ e și diua ta.</p>
+<p>Intr’o clipă Vlăduță se sculă și intră într’una din despărțirea peștereĭ în care eraŭ femeile
+răpite.— Aci nenorocitele creaturŭ, parte se gândeaŭ, iar parte vorbiaŭ de
+sorta nemilosă ce ’ĭ urmărea la fie ce pas.</p>
+<p>Peste cât-va timp Vlăduță eși cu cele șepte cadâne. De românce nu cutezase a se atinge: ’ĭ era
+târnă de mânia căpitanuluĭ, cu tote că și aceea ce făcuseră nu putea să
+placă lui Drăgușin.</p>
+<p>— Bravo Vlăduță!... strigară haiduciĭ vĕdendu’l apărând cu cele șepte cadâne înspăimântate de
+ mulțimea ce vĕdură în fața lor.</p>
+<p>— Adu una și lângă mine, strigă Năsdrăvanu dând ochiĭ peste cap și întințlâudu-se.</p>
+<p>— Ba nu zeŭ!.. Lângă mine, că sunt maĭ tinerel!... strigă un altul.</p>
+<p>Toțĭ cereaŭ în tote părțile, așa că eraŭ a-prope să se ia la ceartă.</p>
+<p>— Stațĭ, dise Vidrașcu, fie-care ’șĭ va avea părticică.—Să tragem la sorțĭ și cine va cădea,
+fericit să fie.</p>
+<p>— Ba e vorbă!.. Eu nu mĕ învoesc.</p>
+ <p>-- Nu e drept.—Orĭ toțĭ să se bucure orĭ nicĭ unul</p>
+<p>— Așa !... Așa !... repetară glasurile aprinse ale voinicilor.</p>
+<p>— Atunci să tragem sorți pe rândurĭ, care vor fi cei d’ântâĭ fericițĭ și care ceĭ din urmă.,</p>
+<p>— Prea bine !</p>
+<p>— V’ațĭ cam grăbit, tâmpiților!.. strigă Dră-gușin apărând in gura peștereĭ.</p>
+<p>— Căpitanul!... îngânară haiduciĭ, desbătațĭ pe jumătate!...</p>
+<p>— Ațĭ uitat că este unul maĭ pe sus de voĭ care o să vĕ ceară socoteală.</p>
+<p>Ienăchiță, unul dintre haiducĭ, amețit de vin se apropiă de Drăgușin și ’ĭ întinse o oală:</p>
+<p>— Bea căpitane și lasă vorba, că doar...</p>
+<p>— Ticălosule, răcni Drăgușin indignat.</p>
+<p>— Eĭ, eĭ, prea te înfigĭ, pare c’aĭ fi...</p>
+<p>Nu termină bine, și o palmă dată de Drăgușin din totă greutatea mâineĭ, culcă la pământ, pe
+  îndrăsneț...</p>
+<p>Ceĭ alțĭ hainuciĭ se aplecară asupra luĭ ; dar Ienăchiță nu maĭ suflă.</p>
+<p>— Căpitane!... protestară haiduciĭ încruntând frunțile.</p>
+<p>— Luațĭ seama, mișeilor!... Vĕ înghite pământul !...</p>
+<p>— Ne-aĭ omorât un frate.</p>
+<p>— Vĕ omor pe toțĭ de vețĭ fi cutedătorĭ ca el.</p>
+<p>Și privirile înflăcărate și amenințătore ale luĭ Drăgușin bravă totă mulțimea, care’l amenințase
+ puțin maĭ înainte.</p>
+<p>— Aceĭ care încă n’aŭ perdut recunoștința și supunerea ce’ĭ datoresc să vie lângă mine ;
+ce’-l’alțĭ remâe la o parte.</p>
+<p>— Intr’un moment totă ceata înconjură pe Drăgușin.</p>
+<p>— Ce fel?... nu maĭ e nimenĭ care să ridice glasul in potriva mea !...</p>
+<p>— Ertare căpitane! se rugă mulțimea des-bătată cu desăvârșire.</p>
+<p>. — Și ce aveațĭ de gând cu aceste nenorocite?</p>
+<p>— Ertare căpitane, repetară haiduciĭ.</p>
+<p>— Bine! Suntețĭ ertațĭ.—Dar respunde-mĭ tu Vidrașcule în locul lor care vĕ fusese planul ?</p>
+<p>— Să vedĭ căpitane, adĭ e Ziua nașteriĭ luĭ Vlăduță ne adusese o bute cu vin și după masă n’am
+ știut ce mai facem; ne-am gândit că femeile nu le-am răpit ca să ne uităm
+  la ele...</p>
+<p>— Așa e, nu le-ațĭ răpit ca să vĕ uitațĭ la ele; dar gândituv’a-țĭ bine la fapta neomenoasă ce
+ puserățĭ in lucrare. — O sută cincĭ-decĭ de gliganĭ... și într’o singură
+di.</p>
+<p>M’am gândit și eŭ la asta; ear trebue să fițĭ omenĭ de omenie.</p>
+<p>Vĕ vețĭ alege în rândurĭ de câte șepte, și fie care rând le va servi de
+ bărbațĭ câte-o singură dĭ; ast-fel că în timp de 20 de dile, vețĭ fi cu
+toțiĭ fericițĭ și fără să suferițĭ imputarea că ațĭ săverșit o crimă.—V’ațĭ
+învoit?</p>
+<p>— Ne-am învoit căpitane !</p>
+<p>— Alegeți-vĕ acum, câte șepte, cum vĕ vețĭ ințelege între voĭ.</p>
+<p>Și ceata se retrase la o parte pentru atrage la sorțĭ rândurile ce trebuia să
+aleagă.</p>
+<p>— Bine-o să trăim, măĭ vere Ignate, vorbi Vlăduță!—cu tote astea eŭ maĭ bine
+m’aș învoi cu o româncă de-ale nostre, de-ale din peșteră, cât sunt de
+mândre și bune de îndrăgostit; româncă măĭ nu glumă... colea... știĭ...</p>
+<p>— Da lasă măĭ vere, nu vedĭ și turcoicele cât sunt de pline... trăite în
+belșug... grase și frumose!...</p>
+<p>— Fie-țĭ de bine, dise Vlăduță râmând și se amestecă prin mulțime.</p>
+<p>Drăgușin remase în peșteră, îi privi și cugetă :</p>
+<p>— Iată ce sunt inimele sleitei... Nu gândesc de cât la plăcerĭ
+înjositorel</p>
+<p>Și mintea luĭ sbura către smărăndița, care era departe de densul, neavend în
+acele momente nicĭ chiar dulcea mângâere de-a o privi.</p>
+<p>Spre seră, toțĭ voiniciĭ eraŭ grămădițĭ împrejurul căpitanuluĭ și așteptaŭ
+ordinile luĭ.— Cele 12 fete românce eraŭ lângă dânsul; bucuria se citea pe
+fețele lor.</p>
+<p>— Le vețĭ duce pe fie-care aprope la casele lor și vĕ vețĭ lua drumul
+ înapoĭ.</p>
+<p>— Am înțeles căpitane, respunseră câțĭ-va haiducĭ, gătițĭ de drum.</p>
+ <p>— Și voĭ copilele mele, mergâhd pe la casele vostre, nu vețĭ spune nicĭ odată
+cine v’a scăpat și nu vețĭ descoperi nimenuĭ locurile pe unde v’am dus.</p>
+ <p>Apoĭ Drăgușin luă șese pungĭ cu banĭ, ce pregătise, maĭ dinainte le împărți
+pe fie-care în douĕ și le dete celor 12 fete, dicându-le </p>
+<p>— Iată, turcul v’a nenorocit, eŭ vĕ înzestrez ; dar tot cu baniĭ luĭ, faptul
+ce săvârșesc pentru mine este un lucru de mică greutate, dar rĕsplata vi se
+cuvine și eŭ nu’mĭ fac de cât datoria. — Luațĭ aceștĭ banĭ și fițĭ
+fericite! — Plecațĭ acum și Dumnedeĕ să vĕ dea bine I...</p>
+<p>Peste o jumĕtate oră bietele fete răpite de nelegiuitul turc și înapoiate
+părinților de Drăgușin plecară spre marginea pădureĭ însoțite de cei
+câțĭ-va haiducĭ, însărcinațĭ de Drăgușin să le conducă.</p>
+<p>Trecuseră treĭ dile în urma acestor întâmplărĭ, și în tot timpul căpitanul
+ repetase haiducilor sĕĭ:</p>
+<p>— Fițĭ cu luare aminte băețĭ, fițĭ tot-d’auna armațĭ și gata de luptă ;
+ dormițĭ epurește, căcĭ potera nu va întârzia să ne surprindă.</p>
+<p>— Să schimbăm locuința, ’ĭ spusese unul din haiducĭ.</p>
+<p>Drăgușin însă nu voise să’l asculte.</p>
+<p>In urma celor treĭ dile grija haiducilor începuse a pieri.</p>
+<p>— Și-o fi luat sema!.. pliceaŭ eĭ; nu le-o fi dând mâna să se lovescă piept
+în piept cu noĭ.</p>
+<p>— Așa ’mĭ închipuesc și eŭ, dicea căpitanul.— S’o fi speriat de piciorele
+fripte ale pașeĭ!..</p>
+ <p>Aceste reflecțiunĭ îșĭ făceaŭ haiduciĭ din codrul Coteștilor și idea că vor
+fi surprinșĭ dispărea din ce în ce.</p>
+ </div>
+ <div type="chapter" n="9">
+<head>CAPITOLUL IX. POTERA</head>
+<p>Să urmăm puțin pe Drăgan și pe pașa turcesc, care în fuga cailor se îndreptaseră spre. Brăila, ca
+de-acolo cu putere să se ducă în Viziru să împedice pe haiducĭ de a’ĭ prăda
+seraiuj și să’ prindă.—Din nenorocirea lor însă ajunseră prea târziŭ, căcĭ
+știm ceea ce s’a întâmplat in Viziru, fără ca făptuitoriĭ să fie
+împiedicațĭ de cât de fricoșiĭ sclavĭ, care în cele din urmă fură nevoițĭ,
+după cum am vĕdut, s’o croiască la fugă.</p>
+<p>D’abia a doua di pe la prândz, în urma nopteĭ dedastruluĭ, Mahmud Pașa, căcĭ așa se chema turcul,
+ajungea în Vidiru cu o ceată de poterașĭ și de deliĭ, însoțit și de
+trădătorul Drăgan.</p>
+<p>Aci el găsi țipete și vaete ; averea și cadânele nicăirĭ; iar pe Hagi Panaiotaki greŭ rănit după
+cum îl lăsaseră haiduciĭ în urma lupteĭ, din grădină.</p>
+<p>In van răcnia și blestema Pașa, căcĭ el tot prădat rămăse și nu’ĭ maĭ rămânea de cât resbunarea,
+pe care o medită cu multă icstețime.— Unica luĭ țintă era să vadă pe
+ Drăgușin și pe ai sĕĭ spândurațĭ în mijlocul târguluĭ.</p>
+<p>A doua zi dimineață o poteră numeroasă, condusă de Drăgan înainte pe drumul care duce în pădurea
+ Coteștilor.—După o di și jumătate ajunseră în Coteștĭ, — aci se odihniră
+puțin și înainte de-a pleca, căpitanul potereĭ se sfătui cu Drăgan, care
+ cunoștea tote cotiturile și tote secretele haiducilor :</p>
+<p>— Să eĭ sĕma ’ĭ dise căpitanul potereĭ, să nu ne înfundĭ unde-va, că e vai de tine.</p>
+<p>— Fiĭ pe pace, căpitane, doar n’am trăit eŭ cu dânșiĭ de florĭ de măr!... Știŭ cotituri pe care
+ nu le-a cunoscut nimenĭ din eĭ. — Poteca pe care vom intra noĭ în vale am
+ descoperit’o numai eŭ, în partea aceea nu sunt santinele;— din potecă
+ coborâm într’o vizuină iarașĭ necunoscută haiducilor, acestă vizuină duce
+ în fundul peștereĭ și respunde în odaia luĭ Drăgușin: un zid de pământ ca
+ de două palme desparte vizuina de peșteră.—Acest drum ’1 am descoperit
+într’o ții când curățăm odaia căpitanuluĭ. Dincolo de acel zid un urs îșĭ
+făcuse culcușul. Măturend, audiĭ mormăiturile ursuluĭ; am săpat puțin locul
+și am respuns, printr’o gaură cât încape mâna, în vizuină.—Ursul speriat
+eși mor-moind din gură, iar eŭ am astupat cu îngrijire săpătura ce o
+făcusem. — N’am spus aceasta nimenuĭ, fiind-că nu intra în firea mea să
+spuiŭ altora aceea ce făceam eŭ.</p>
+<p>— Eĭ și prin acea vizuină ce putem face ?</p>
+<p>— Forte mult urmă trădătorul, ziua haiduciĭ nu staŭ în peșteră; armele insă sunt tote
+înăuntru.—Intrând dar din vizuină în peșteră, punem mâna pe arme și toțĭ
+haiduciĭ ni se vor preda.</p>
+<p>— Bun de tot!... strigă căpitanul potereĭ.— Să plecăm!...</p>
+<p>Lăsară caiĭ în Goteștĭ și porniră cu pașĭ repedĭ, pe drumul ce le arăta Drăgan.</p>
+<p>--Acum să vĕ vĕd ce putețĭ, zise căpitanul poterașilor, aprope îngrodițĭ de tufișurile pe unde-ĭ
+înfundă conducătorul lor.</p>
+<p>— Pe unde ne ducĭ ? întrebă căpitanul oprin-du-se. Pe aci nu maĭ pote pătrunde picior omenesc; să
+luăm pe altă parte.</p>
+<p>— Pe altă parte sunt numaĭ santinele.—Drumul ăsta e pericolos, dar singurul prin care putem
+ajunge la eĭ.—Valea ce vom cobora, e înclinată, dar pe brânci vom putea
+ajunge până jos.</p>
+<p>— Fie, zise căpitanul, ce-o fi să fie!... Dar estĭ sigur că nu vom avea nevoe să dăm focurĭ
+ ?...</p>
+<p>— Cum căpitane, nu te înțeleg.</p>
+<p>— Adecă, să nu ne batem...</p>
+<p>— Asta nu știŭ.., respunse Drăgăn.</p>
+<p>Căpitanul se cam înfricoșă înțelegând ca va trebui să întâlnească și haiduciĭ armați; căcĭ spusă
+luĭ Dragan că-ĭ va găsi fără arme îi păruse așa fără de socotelă, în cât
+ mersese până atunci ca la o nuntă.</p>
+<p>— Și agerĭ sunt la ochire frate Drăgane.</p>
+<p>— Cât despre asta, cam așa e... doar nu sunt de geba haiducĭ.</p>
+<p>— Pe viul D-deŭ, tu ’țĭ bațĭ joc de noĭ, să resti căpitanul punând mâna pe iatagan.</p>
+<p>— Ițĭ jur căpitane, că nicĭ nu m’am gândit!.</p>
+<p>— Bine vom vedea!...</p>
+<p>Si mergâud mereŭ ajunseră la marginea văiĭ înclinate — O coborâră cu multă băgare de semă, și
+când se vĕdură jos, uniĭ eraŭ jupuițî pe față și pe mâinĭ iar altora le
+atârnaŭ sdren-fcele hainelor ce se atârnaseră de tufe.</p>
+<p>— Maĭ avem câțĭ-va pașĭ până la vizuină, dise Drăgan.</p>
+<p>— Și cum vom intra în peștera haiducilor. </p>
+ <p>— Veĭ vedea numaĭ de cât.</p>
+<p>— Spune-mĭ acum, clise căpitanul, cată să cunosc tote planurile tale...</p>
+<p>— Nimic maĭ ușor. — săpând pămentul din fundul vizuineĭ! avem o ușă destul de mare ca să putem
+ intra în peșteră.</p>
+<p>— Te înțelegi — Dar vizuina trebue să fie forte strâmtă.</p>
+<p>— Aș !... încap treĭ omenĭ alăturea și tot maĭ rămâne loc.</p>
+<p>— Prea bine !... Pe lucru atuncĭ!...</p>
+<p>Dupe un pătrar de oră zidul pământos care răspundea în peștera haiducilor era dărâmat și o parte
+din poterașĭ intrară în odaia luĭ Drăgușin, în care nu găsiră pe nimenĭ. —
+ Drăgan urmat de o cetă năvăli asupra armelor, iar căpitanul în fruntea
+celor alțĭ poterașĭ se repe dĭ la gura peștereĭ, unde eraŭ răspândițĭ
+ haiduciĭ.</p>
+<p>Un răcnet de leŭ se audi, un sgomot, apoĭ un haos de strigăte îngrozitore.</p>
+<p>Ne învinșiĭ haiduciĭ încercară a se lupta cu armele ce aveaŭ asupra lor; dar in van; căcĭ
+cuțitele și pistolele nu maĭ aveaŭ nicĭ o putere în contra poterașilor,
+ bine armațĭ.</p>
+<p>Drăgușin, striga ca un disperat, lovind in dreapta și în stânga.</p>
+<p>— Morĭ trădătorule, strigă el, și Drăgan cădu întins, scăldat, în sânge...</p>
+<p>Ceĭ alțĭ voinicĭ se luptaŭ ca și Drăgușin, dar puterile le slăbiră din ce în ce. — Cădeaiŭ uniĭ
+ peste alțiĭ, secerațĭ de glonțele nemilose.</p>
+<p>— Dați-vĕ prinșĭ, strigă căpitanul potereĭ.</p>
+<p>— Mort, da !... Dar viŭ nicĭ o dată!</p>
+<p>O lovitură de iatagan însă-ĭ reteză degetele și arma ascuțită luĭ Drăgușin cădu la pământ!</p>
+<p>— A !.. blestemaților!... răcni el din fundul plămânilor.</p>
+<p>Și câțĭ-va poterașĭ apucându’l de spate, ’ĭ legară mâinile. — Ceĭ alțĭ haiducĭ, vĕdând sorta
+căpitanuluĭ lor, parte se strecurară printre arborĭ și fugiră; iar ceĭ maĭ
+ mulțĭ fură legațĭ și trântițĭ alăturea cu Drăgușin.</p>
+<p>Începuse a se însera când potera sosise în Coteștĭ cu haiduciĭ legațĭ cot la cot împreună cu
+ căpitanul Drăgușin.</p>
+<p>Toțĭ locuitoriĭ Coteștilor alergară să vațlă pe aceĭ bandițĭ cu nouĕ suflete, cum le diceaŭ eĭ,
+  de care tremuraseră toțiĭ călătorĭ prin acele locurĭ.</p>
+<p>A doua di dimineța plecară din noŭ și spre seră ajunseră în Boloboca, noptea o petrecură aci, și
+a doua di pe la tocă ajunseră în Brăila, unde resbunătorul pașă aștepta cu
+ nerăbdare să va$ă pe Drăgușin la piciorele luĭ.</p>
+<p>— Sa mi se aducă hoțul, porunci pașa deliilor sĕĭ, care veniseră să raporteze
+sosirea lor.</p>
+ <p>— Mahmud ședea pe o sofa molefumându’șĭ nerghileaua, când Drăgușin intră
+ urmat de doĭ deliĭ cu iataganele scose.</p>
+ <p>— Iată-te în sfârșit în mâniie mele, rânji Mahmut, cu mulțumire.</p>
+<p>— Am omorât destule lifte spurcate, respunse Drăgușin, ca să pot acum închide
+ochiĭ cu bucurie.</p>
+ <p>— A!... ’mĭ-aĭ fript piciorele ’mĭ-aĭ smuls barba în mijlocul pădurilor; eŭ
+voiŭ fi maĭ generos ;—te voiŭ spânzura în mijlocul târguluĭ.</p>
+<p>— Ițĭ sunt în putere; dar ea sema căcĭ cine știe...</p>
+<p>— Maĭ aĭ îndrăsneală tâlharul ?! Luațĭ’l: porunci Mahmud.</p>
+<p>— Ascultă-mĕ, dise Drăgușin, smulgându-se mâinele delielor. Să’ți spun numaĭ
+ căte-va cuvinte.</p>
+<p>— Maĭ lăsați’l, porunci Mahmud.</p>
+ <p>— Știĭ bine, că dupe un timp de lungă haiducie averea mea trebue să fie
+înzecită ca a ta și că înainte da a muri este de datorie a’mĭ face
+testamentul.</p>
+<p>Ochii lui Mahmud de veniră strălucitorĭ la au-dul acestor cuvinte.</p>
+<p>— Bine, fa țĭ testamentul maĭ în grabă, și chiar aci în fața mea!</p>
+<p>— Primesc!... dise, Drăgușin. Să’mĭ aducă hârtie și poruncește să’mi deslege
+mâinele, că destul sunt încătușat de picioare.</p>
+<p>Iĭ deslegară mâinele, șĭ se aduse hârtie și Mah-mut porunci deliilor să ’ĭ
+lase singurĭ, nevoind să știe și alțiĭ unde este ascunsă averea luĭ
+ Drăgușin.</p>
+ <p>Haiducul luase condeiul in mâna pentru a scrie, dar vĕdendu-se singur cu
+ inamicul sĕŭ, se prefăcu că îșĭ caută în sîn o hârtie, — Turcul nu departe
+ de masă aștepta să citească cele scrise de Drăgușin.</p>
+ <p>Asta însă, în loc de hârție, scose din sân un mic pistol și îndreptândul în
+ tâmpla turculuĭ, îĭ sbură creeriĭ.</p>
+ <p>Bietul pașă nu avu timp nicĭ să strige :—cățlu la pământ fără a maĭ resufla,
+ omorât ca de un trăsnet. Sgomotul pistoluluĭ fuse așa de înfundat în cât
+ deliĭ care se depărtaseră din sală, nu auriră nimic.</p>
+<p>Drăgușin, repede ca fulgerul, se în armă cu armele turculuĭ, si stricând
+brosca cătușelor cu un fer ascuțit, eși pe ușă cu un iatagan în mână și cu
+un pistol în cea-l’altă.</p>
+<p>In sală întâlni pe ceĭ doĭ deliĭ, care nu știaŭ ce se întâmplase și luându-ĭ
+pe neașteptate le înfipse câte o lovitură de iatagan, apoĭ dispăru prin
+sălile seraiuluĭ, și când se află afară din portă, porni cu iuțeală
+nedescrisă, necunoscut fiind de nimenĭ, căcĭ se înserase și pe ulițĭ lumea
+începuse a se rări.</p>
+<p>Astă dată Drăgușin nu apucă drumul codruluĭ pentru a reincepe meseria sa ;
+căcĭ cea maĭ mare parte din tovarășiĭ luĭ fuseseră omorâțĭ și prinșĭ; iar
+cei care fugiseră nu puteaŭ fi decât niște suflete fricose și degradate. El
+sbură spre codrul Goteștilor pentru a’șĭ lua averea și bogat să se îndrepte
+spre Bucureștĭ, unde ’1 chema dorul Smărăndițeĭ, și acolo, să se ceară
+sprijinul luĭ Ipsilante, pe prețul uneĭ sume colosale de aur.</p>
+<p>Trecuse o sĕptĕmână, când Drăgușin sosind în Bucureștĭ se înfățișă înaintea
+luĭ Ipsilante; și făcendu-șĭ confusiunea, acesta ’1 priirni, după cererea
+luĭ în rîndurile Eterieĭ condusă de densul.</p>
+<p>Drăgușin nu voise a se arăta Smărăndițeĭ penă ce nu va fi bine asigurat de
+viața luĭ.</p>
+<p>In curând însă puterile luĭ Ipsilante fură sfărâmate și Drăgușin trecu în
+Moldova, unde luă o glorioasă parte la bătălia de la Sculenĭ, făcând un
+mare măcel în rândurile Turcilor, dar sdrobițĭ la număr, luptătorĭ rĕmașĭ
+în viață din-preună cu Drăgușin trecură în Kișinăŭ.</p>
+<p>Pașa din Iașĭ, care după mortea luĭ Mahmud spânzurase pe toțĭ haiducĭ luĭ
+Drăgușin, ’1 reclamă și pe dânsul și ’1 obținu de la autoritățile ruseștĭ,
+dar și de astă dată înșelă gărziĭ și fugi.</p>
+<p>Nu mult însă după aceea fu prins și dat în mâna pașeĭ de la Iașĭ</p>
+<p>De astă dată Drăgușin nu maĭ avea nici o speranță de scăpare; moartea o privi
+ cu mândrie, dar singura Iui părere de reu, era că nu putuse să vațlă pe
+Smărăndița de la despărțirea lor din Codru, nu avusese acea enormă fericire
+’o asculte vorbind ca maĭ înainte cu mintea senină, să’ĭ spue că o
+iubește, și ea să răspundă cu vocea’i dulce de căldurosele luĭ cuvinte.</p>
+ <p>Dar și acestă părere de rĕŭ se stinse într’ân-sul o dată cu ora fatală în
+care vedea că ’ĭ se apropie spenzurătorea. Drăgușin uitase tot ce fusese
+lumesc pentru dânsul; uitase până și pe Smărăndița!...</p>
+<p>Ast-fel era Căpitanul codruluĭ de lengă Costeștĭ, când ’1 duceaŭ la
+pânzurătore.</p>
+ </div>
+ <div type="chapter" n="10">
+<head>CAPITOLUL X. SPENZURĂTOAREA ȘI MOARTEA</head>
+<p>Am vĕdnt pe moș Grigore plecând din codru cu Smărăndița, să’ĭ caute vindecarea în Bucureștĭ.</p>
+<p>In tot timpul celor întâmplate în urma lor,moș Grigore nu putuse afla nimic nicĭ de căpitanul,
+nicĭ de ceĭ din codru.</p>
+<p>Smărăndița se vindecase pe deplin, grație îngrijirilor ce puseră mediciĭ după acele timpurĭ. Când
+biată copilă se vĕdu cu mintea senină, și când putu să cunoscă tot
+împrejurul eĭ, nu știu ce să creadă, căcĭ nu ținea minte nimic din cele ce
+se întâmplase. Nebunia ei trecută ’ĭ se părea un simplu vis.</p>
+<p>Când Grigore ’ĭ spuse că Drăgușin trăește și că va veni s’o vadă cât maĭ curând, Smărăndița nu
+maĭ putea de bucurie, și diua mult dorită ’ĭ părea că nu se maĭ
+apropie.</p>
+<p>Moșneagul însă, cugetă că n’ar fi bine s’o ducă în mijlocul codruluĭ, să vadă și să recunoscă în
+Drăgușin pe căpitanul uneĭ cete de haiducĭ.—O lăsa decĭ în Bucureștĭ, la
+acestă locuință, în care petrecuse tot timpul boleĭ până ce se vindecase ’ĭ
+dete in slujbă o femee bĕtrână și el plecă însoțit de tânărul haiduc ce
+ venise cu dânșiĭ să vestească pe Drăgușin.</p>
+<p>Cât de amară ’ĭ păru însă vestea ce căpătă despre tote cele ce se întâmplaseră.—Aflase că
+ Drăgușin era în viață dar nu știa unde să ’l găsescă.</p>
+<p>In cele din urmă descoperi că se află la Iașĭ. Atunci porni repede spre Bucureștĭ și luând pe
+Smărăndița veni în Iașĭ să găsescă pe Drăgușin.</p>
+<p>In momentul când trecură prin târg, lumea se îmbulzea pe ulițĭ și târgul era plin de popor care
+aștepta să vadă aducându-se un condamnat la spânzurătore.</p>
+<p>Moș Grigore și Smărăndița înpinșĭ de curiositate se deteră jos din trăsură și înaintară prin
+mulțime, neștiind ceea ce se petrecea.</p>
+<p>Cât de mare fu însă nenorocirea, când ajunșĭ în fața. spânzurătoreĭ, recunoscură pe Drăgușin
+ atârnat in lanțul atât de îngrozitor.</p>
+<p>Smărăndila la vederea aceluĭ spectru hidros ce’ĭ apărea înainte, scose un țipăt sfâșietor, voi să
+se repeadă spre el, dar nu maĭ avea putere și cădu rece in mijlocul
+terguluĭ, sub privirile rătăcite ale bătrânului Grigore, care cădu aprope
+nebun pe cadavrul sermaneĭ Smărăndițe!</p>
+<p>— Cine să fie astă femee, se întrebaŭ curioșĭ ?</p>
+<p>— O fi ibovnica tâlharuluĭ, respunse uniĭ.</p>
+<p>— Fie-le țĕrâna ușoră, îngânară alțiĭ cu lacrămile în ochiĭ...</p>
+<trailer>FINE.</trailer>
+</div>
+</body>
+  </text>
+</TEI>
