@@ -2,88 +2,77 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HAIRO_PopescuND_BUJOR_HAIDUCUL" xml:lang="ro">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>Boierii haiduci : ediție HAIRO</title>
-    <author>Popescu, N.D. (1843-1921)</author>
+    <title>Bujor haiducul: ediție POPLITE</title>
+    <author>Popescu, N.D.</author> 
+    <respStmt>               
+     <resp>codare POPLITE</resp>
+     <name>Teodora Iuriusciuc</name></respStmt>   
     <respStmt>
-     <resp>Codare TEI</resp>
-     <name>Roxana Patraș</name>
+     <resp>corectură manuală</resp>
+     <name>Lucreția Pascariu</name>
     </respStmt>
-    <principal>
-     <name>Patraș, Roxana</name>
-     <name>Galleron, Ioana</name>
-    </principal>
+    <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
    </titleStmt>
-   <extent>
-    <measure unit="words">31921</measure>
-    <measure unit="pages">136</measure>
-   </extent>
    <publicationStmt>
-    <publisher>Proiect HAIRO (U. "Alexandru Ioan Cuza"/ U. Sorbonne-Nouvelle)</publisher>
-    <pubPlace>Iași</pubPlace>
-    <pubPlace>Paris</pubPlace>
-    <date>2020</date>
+    <publisher>UAIC</publisher>
+    <date></date>
     <availability>
-     <licence target="https://creativecommons.org/licenses/by-nc/4.0/legalcode.ro">Distributed
-      under a Creative Commons Attribution-NonCommercial 4.0 Unported License</licence> 
-    <p>Încorporat în ELTeC la <date>2019-08-28</date></p>
+     <licence target="https://creativecommons.org/licenses/by/4.0/"/>
     </availability>
-    <idno type="handle">11280/bbc3afd5</idno>
-    <distributor>NAKALA
-     <ref>www.nakala.fr</ref>
-    </distributor>
+    <ref type="doi" target="https://revistatransilvania.ro/mdrr/"></ref>
    </publicationStmt>
    <sourceDesc>
-    <bibl type="printSource">
-     <author>N.D. Popescu</author>
-     <title>Bujor haiducul. Nuvelă originală compusă de N.D. Popescu, ilustrată cu patru gravuri</title>
-     <pubPlace>Bucuresti</pubPlace>
-     <publisher>Depositul la librarul anticar H. Steinberg</publisher>
-     <date>1892 (1882)</date>
-     <ref target="http://doi.org/10.5281/zenodo.2648505">Facsimil pe zenodo</ref>
-   </bibl>
+    <bibl>
+     <author>Popescu, N.D.</author>
+     <title>Bujor haiducul. Nuvelă originală</title>
+     <pubPlace>București</pubPlace>
+     <publisher>DEPOSITUL LA LIBRARUL ANTICAR H. STEINBERG</publisher>
+     <date>1882</date>
+     <decoNote type="ilustratii" subtype="yes"/>
+     <dim unit="char" type="mare"/>
+     <extent>
+      <measure unit="word">31884</measure>
+      <measure unit="page" type="under_250"/>
+      <measure unit="foileton" type="under_65"/>
+      <measure type="complete"></measure>
+     </extent>
+    </bibl>
    </sourceDesc>
   </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme='https://opentheso.huma-num.fr/opentheso/api/theso/Typologie'>
+     <term type='domaine' ref="https://hdl.handle.net/20.500.11942/crteb7oodgosm">literatura</term>
+     <term type='factualite' ref="https://hdl.handle.net/20.500.11942/crt22aacdhvi7">fictiune</term>
+     <term type='forme' ref="https://hdl.handle.net/20.500.11942/crtnufdew1lfb">proza</term>
+     <term type='genre' ref="https://hdl.handle.net/20.500.11942/crthuyig1pxri">roman</term>
+     <term type='agencement' ref="https://hdl.handle.net/20.500.11942/crtbdm5xnc6io">foileton</term>
+     <term type='origine' ref="https://hdl.handle.net/20.500.11942/crtxolq1evsr9">opera originala</term>
+     <term type='discours' ref="https://hdl.handle.net/20.500.11942/crt4wma17ncnj">narativ</term>
+     <term type='public' ref="https://hdl.handle.net/20.500.11942/crthb4el4r5qc">non défini (public cible)</term>
+     <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
+    </keywords>
+    <keywords>
+     <term type="receptare" n="5"/>
+     <term type="republicare" n="2"/>
+     <term type="finished"></term> 
+    </keywords>
+   </textClass>
+  </profileDesc>
   <encodingDesc>
    <projectDesc>
-    <p>Ediție electronică pregatită în cadrul proiectului franco-român HAIRO, PHC Brâncusi, 43462ZG.</p>
-    <p>This work was supported by a grant of the Romanian Ministry of Research and Innovation, CCCDI - UEFISCDI, project number PN-III-P3-3.1-PM-RO-FR-2019-0063 / 13 BM ⁄ 2019, within PNCDI III.</p>
+    <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+    <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+     <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
+     <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
    </projectDesc>
-   <editorialDecl>
-    <p>Adnotarea efectuată se concentrează pe diviziunile structurale ale romanului (părți și capitole). Imaginile au fost omise, omiterea este semnalată prin gap.</p>
-   </editorialDecl>
   </encodingDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="ro">Româna</language>
-   </langUsage>
-  </profileDesc>
-  <revisionDesc>
-   <change when="2019-09-28">Generarea primei versiuni TEI si corectare manuala.</change>
-   <change when="2020-08-02">Asociere cu schema TEI-all. Completare si corectare a header-ului. In "front", schimbare de la "div type='titlePage'" la "titlePage".</change>
-  </revisionDesc>
  </teiHeader>
- <text>
-   <front>
-    <titlePage>
-     <titlePart type="main">BUJOR HAIDUCUL</titlePart>
-     <titlePart type="desc">NUVELĂ ORIGINALĂ</titlePart>
-     <docAuthor>COMPUSĂ DE<lb/> N.D. POPESCU</docAuthor>
-     <note>ILUSTRATĂ CU PATRU GRAVURI</note>
-     <docEdition>EDIȚIUNEA III <lb/>REVĂZUTĂ ȘI ADĂOGATĂ</docEdition>
-     <docImprint>
-      <pubPlace>BUCURESCI</pubPlace>
-      <publisher>DEPOSITUL LA LIBRARUL ANTICAR H. STEINBERG
-       <address>
-        <addrLine>Calea Rahovei No. 7</addrLine>
-       </address>
-      </publisher>
-     </docImprint>
-     <docDate>1892</docDate>
-    </titlePage>
+<text>
     <div type="liminal"><p>DE ACELAS AUTOR</p>
 <p>în ediție separată</p>
 <p>DEPOSITUL LA H. STEINBERG</p>
@@ -134,7 +123,6 @@
 <p>Colecțiuni de nuvele, ilustrate........6 volum</p>
 </div>
 </front>
-
 <body>
 <div type="chapter" n="1">
  <head>I. ȚERILE ROMÂNE IN SECOLUL AL XVIII-lea</head>
