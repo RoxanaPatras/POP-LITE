@@ -1,88 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:e="http://distantreading.net/eltec/ns"
-     xml:id="ROM026"
-     xml:lang="ro">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Bostan. Haiduc de peste Milcov: ediție ELTeC</title>
-            <author>Macri, P. Panait (1863-l932)</author>
+            <title>Bostan, haiduc de peste Milcov: ediție POPLITE</title>
+            <author>Macri, Panait</author>  
+            <respStmt>               
+               <resp>codare POPLITE</resp>
+               <name>Teodora Iuriusciuc</name></respStmt>   
             <respStmt>
-               <resp>codare ELTeC</resp>
-               <name>Alexandra Olteanu</name>
+               <resp>corectură manuală</resp>
+               <name>Lucreția Pascariu</name>
             </respStmt>
-            <respStmt>
-               <resp>Codare ELTeC</resp>
-               <name>Roxana Patras</name>
-            </respStmt>
+            <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
          </titleStmt>
-         <extent>
-            <measure unit="words">35076</measure>
-            <measure unit="pages">144</measure>
-         </extent>
          <publicationStmt>
-            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <publisher>UAIC</publisher>
+            <date></date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
-            <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-            <ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
-            <ref type="doi" target="https://doi.org/10.5281/zenodo.3543111">ELTeC-rom</ref>
-            <ref type="doi" target="https://doi.org/10.5281/zenodo.4662599">ELTeC-rom release 0.9.0</ref>
+            <ref type="doi" target="https://revistatransilvania.ro/mdrr/"></ref>
          </publicationStmt>
          <sourceDesc>
-            <bibl type="firstEdition">
-               <author>Panait P. Macri</author>
-               <title>Bostan. Haiduc de peste Milcov</title>
-               <pubPlace>Bucharest</pubPlace>
-               <publisher>Tipografia „Providența”</publisher>
+            <bibl>
+               <author>Macri, Panait</author>
+               <title>Bostan, haiduc de peste Milcov</title>
+               <pubPlace>București</pubPlace>
+               <publisher>TIPOGRAFIA PROVIDENȚA</publisher>
                <date>1899</date>
-               <ref target="http://doi.org/10.5281/zenodo.2642482">Facsimile on zenodo</ref>
+               <decoNote type="ilustratii" subtype="yes"/>
+               <dim unit="char" type="mic"/>
+               <extent>
+                  <measure unit="word">34741</measure>
+                  <measure unit="page" type="under_250"/>
+                  <measure unit="foileton" type="under_65"/>
+                  <measure type="complete"></measure>
+               </extent>
             </bibl>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc n="eltec-1">
-         <p>Encoding to ELTeC level 1</p>
-      </encodingDesc>
       <profileDesc>
-         <langUsage>
-            <language ident="ro"/>
-         </langUsage>
-         <textDesc>
-            <e:authorGender key="M"/>
-            <e:size key="short"/>
-            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-            <e:timeSlot key="T3"/>
-         </textDesc>
+         <textClass>
+            <keywords scheme='https://opentheso.huma-num.fr/opentheso/api/theso/Typologie'>
+               <term type='domaine' ref="https://hdl.handle.net/20.500.11942/crteb7oodgosm">literatura</term>
+               <term type='factualite' ref="https://hdl.handle.net/20.500.11942/crt22aacdhvi7">fictiune</term>
+               <term type='forme' ref="https://hdl.handle.net/20.500.11942/crtnufdew1lfb">proza</term>
+               <term type='genre' ref="https://hdl.handle.net/20.500.11942/crthuyig1pxri">roman</term>
+               <term type='agencement' ref="https://hdl.handle.net/20.500.11942/crtbdm5xnc6io">foileton</term>
+               <term type='origine' ref="https://hdl.handle.net/20.500.11942/crtxolq1evsr9">opera originala</term>
+               <term type='discours' ref="https://hdl.handle.net/20.500.11942/crt4wma17ncnj">narativ</term>
+               <term type='public' ref="https://hdl.handle.net/20.500.11942/crthb4el4r5qc">non défini (public cible)</term>
+               <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
+            </keywords>
+            <keywords>
+               <term type="receptare" n="5"/>
+               <term type="republicare" n="2"/>
+               <term type="finished"></term>
+            </keywords>
+         </textClass>
       </profileDesc>
-      <revisionDesc>
-         <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [’'] when used for contractions with '-'</change>
-         <change when="2022-03-02">Corrected errors in spacing</change>
-         <change when="2021-04-09">Converted by checkUp script for new release</change>
-         <change when="2020-11-14">Converted by checkUp script for new release</change>
-         <change when="2020-11-14">Checked by checkup script</change>
-         <change when="2019-11-11">Checked by releaseChecker script</change>
-         <change when="2019-09-21">Initial TEI version generated.</change>
-      </revisionDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
+            <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
+            </projectDesc>
+      </encodingDesc>
    </teiHeader>
    <text>
-      <front>
-         <div type="titlepage">
-            <p>Panait P. Macri</p>
-            <p>Ilustrat cu patru gravuri</p>
-            <p>Tipografia „Providența”, 26, STRADA SF. VINERI, 26</p>
-         </div>
-         <gap n="[missing]" unit="page" quantity="1"/>
-         <div type="liminal">
-            </div>
-      </front>
       <body>
          <p>
             <gap n="[editorial]" unit="graphic"/>Bostan în costum de munte</p>
