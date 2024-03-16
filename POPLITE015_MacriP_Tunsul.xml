@@ -1,100 +1,78 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HAIRO_MacriP_IoanTunsul" xml:lang="ro">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Ioan Tunsu: ediție HAIRO</title>
-<author>Panait MACRI</author>
-<respStmt>
-<resp>OCRizat de</resp>
-<name>Roxana Patraș</name>
-</respStmt>
-<respStmt>
-<resp>Corectat și anotat TEI de</resp>
-<name>Ioana Galleron</name>
-</respStmt>
-<principal>
-<name>Patraș, Roxana</name>
-<name>Galleron, Ioana</name>
-</principal>
-</titleStmt>
-<extent>
-<measure unit="words"/>
-<measure unit="pages"/>
-</extent>
-<publicationStmt>
-<publisher>Proiect HAIRO (U. "Alexandru Ioan Cuza"/ U. Sorbonne-Nouvelle)</publisher>
-<pubPlace>Iași</pubPlace>
-<pubPlace>Paris</pubPlace>
-<date>2020</date>
-<availability>
-<licence target="https://creativecommons.org/licenses/by-nc/4.0/legalcode.ro">Distributed under a Creative Commons Attribution-NonCommercial 4.0 Unported License</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<bibl>
-<author>MACRI Panait</author>
-<title>Ioan Tunsu, căpitan de haiduci</title>
-<pubPlace>Bucuresti</pubPlace>
-<publisher>Cultura Românească, Institut de editură, arte grafice și confecțiuni din hârtie</publisher>
-<date>1927</date>
-</bibl>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<langUsage>
-<language ident="ro">Româna</language>
-</langUsage>
-</profileDesc>
-<encodingDesc>
-<editorialDecl>
-<p>Adnotarea efectuată se concentrează pe diviziunile structurale ale romanului (părți și capitole). Imaginile au fost omise.</p>
-</editorialDecl>
-</encodingDesc>
-<revisionDesc>
-<change when="2018-09-28">Generarea primei versiuni TEI.</change>
-<change when="2020-08-03">Corectare manuala.</change>
-</revisionDesc>
-</teiHeader>
-<text xml:lang="ro">
-<front>
-<titlePage>
-<docTitle>
-<titlePart type="main" rend="bold">IOAN TUNSU</titlePart>
-<titlePart type="sub">CAPITAN DE HAIDUCI</titlePart>
-<titlePart type="desc">NUVELĂ ORIGINALĂ</titlePart>
-</docTitle>
-<docAuthor rend="bold">
-DE
-<lb/>
-PANAIT MACRI
-</docAuthor>
-<figure/>
-<docImprint>
-<pubPlace>BUCUREȘTI</pubPlace>
-<publisher>
-„CULTURA ROMÂNEASCĂ"
-<lb/>
-Institut de editură, arte grafice și confecțiuni din hârtie
-</publisher>
-<address>
-<addrLine>STRADA PITAGORA, 16-l8</addrLine>
-</address>
-</docImprint>
-<note>Two extra-marks on the page: E.O. between the lines of the title, and "Bibl. Univ. Cluj. No. 1649 1927" before the publication place.</note>
-</titlePage>
-<pb n="4"/>
-<ab>221840</ab>
-<pb n="5"/>
-<figure>
-<ab>IOAN TUNSU</ab>
-</figure>
-<pb n="6"/>
-<note>Stamp of the "Biblioteca Universitatii Cluj"</note>
-</front>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ioan Tunsul, căpitan de haiduci. Nuvelă originală: ediție POPLITE</title>
+				<author>Macri, Panait</author>
+				<respStmt>               
+					<resp>codare POPLITE</resp>
+					<name>Teodora Iuriusciuc</name></respStmt>   
+				<respStmt>
+					<resp>corectură manuală</resp>
+					<name>Lucreția Pascariu</name>
+				</respStmt>
+				<funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>UAIC</publisher>
+				<date></date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/"/>
+				</availability>
+				<ref type="doi" target="https://revistatransilvania.ro/mdrr/"></ref>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<author>Macri, Panait</author>
+					<title>Ioan Tunsul, căpitan de haiduci. Nuvelă originală</title>
+					<pubPlace>București</pubPlace>
+					<publisher>EDITURA ȘI PROPRIETATEA LITERARĂ TIPO-LITOGRAFIA DOR. P. CUCU</publisher>
+					<date>1887</date>
+					<decoNote type="ilustratii" subtype="yes"/>
+					<dim unit="char" type="mare"/>
+					<extent>
+						<measure unit="word">26167</measure>
+						<measure unit="page" type="under_250"/>
+						<measure unit="foileton" type="under_65"/>
+						<measure type="complete"></measure>
+					</extent>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<textClass>
+				<keywords scheme='https://opentheso.huma-num.fr/opentheso/api/theso/Typologie'>
+					<term type='domaine' ref="https://hdl.handle.net/20.500.11942/crteb7oodgosm">literatura</term>
+					<term type='factualite' ref="https://hdl.handle.net/20.500.11942/crt22aacdhvi7">fictiune</term>
+					<term type='forme' ref="https://hdl.handle.net/20.500.11942/crtnufdew1lfb">proza</term>
+					<term type='genre' ref="https://hdl.handle.net/20.500.11942/crthuyig1pxri">roman</term>
+					<term type='agencement' ref="https://hdl.handle.net/20.500.11942/crtbdm5xnc6io">foileton</term>
+					<term type='origine' ref="https://hdl.handle.net/20.500.11942/crtxolq1evsr9">opera originala</term>
+					<term type='discours' ref="https://hdl.handle.net/20.500.11942/crt4wma17ncnj">narativ</term>
+					<term type='public' ref="https://hdl.handle.net/20.500.11942/crthb4el4r5qc">non défini (public cible)</term>
+					<term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
+				</keywords>
+				<keywords>
+					<term type="receptare" n="5"/>
+					<term type="republicare" n="2"/>
+					 <term type="finished"></term>   
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+				<p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+			<p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
+                <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
+				</projectDesc>
+		</encodingDesc>
+	</teiHeader>
+<text>
 <body>
 <pb n="7"/>
 <div type="title" rend="bold">
