@@ -1,0 +1,1209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mina haiduceasca, fata codrilor. Nuvelă originală: ediție POPLITE </title>
+            <author>Baronzi, George</author>
+            <respStmt>
+               <resp>codare POPLITE</resp>
+               <name>Teodora Iuriusciuc</name></respStmt>   
+            <respStmt>
+               <resp>corectură manuală</resp>
+               <name>Lucreția Pascariu</name>
+            </respStmt>
+            <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>UAIC</publisher>
+            <date></date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+            <ref type="doi" target="10.5281/zenodo.7342136"></ref>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Baronzi, George</author>
+               <title>Mina haiduceasca, fata codrilor. Nuvelă originală</title>
+               <pubPlace>București</pubPlace>
+               <publisher>TIPO-LITOGRAFIA P. CUCU</publisher>
+               <date>1894</date>
+               <decoNote type="ilustratii" subtype="no"/>
+               <dim unit="char" type="mare"/>
+               <extent>
+                  <measure unit="word">31957</measure>
+                  <measure unit="page" type="under_250"/>
+                  <measure unit="foileton" type="under_65"/>
+                  <measure type="complete"></measure>
+               </extent>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme='https://opentheso.huma-num.fr/opentheso/api/theso/Typologie'>
+               <term type='domaine' ref="https://hdl.handle.net/20.500.11942/crteb7oodgosm">literatura</term>
+               <term type='factualite' ref="https://hdl.handle.net/20.500.11942/crt22aacdhvi7">fictiune</term>
+               <term type='forme' ref="https://hdl.handle.net/20.500.11942/crtnufdew1lfb">proza</term>
+               <term type='genre' ref="https://hdl.handle.net/20.500.11942/crthuyig1pxri">roman</term>
+               <term type='agencement' ref="https://hdl.handle.net/20.500.11942/crtbdm5xnc6io">foileton</term>
+               <term type='origine' ref="https://hdl.handle.net/20.500.11942/crtxolq1evsr9">opera originala</term>
+               <term type='discours' ref="https://hdl.handle.net/20.500.11942/crt4wma17ncnj">narativ</term>
+               <term type='public' ref="https://hdl.handle.net/20.500.11942/crthb4el4r5qc">non défini (public cible)</term>
+               <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
+            </keywords>
+            <keywords>
+               <term type="receptare" n="5"/>
+               <term type="republicare" n="2"/>
+               <term type="finished"></term>
+               
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
+            <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
+         </projectDesc>
+      </encodingDesc>
+   </teiHeader>
+
+<body>
+<div>
+<head>MINA HAIDUCEASA</head>
+<p>FATA CODRILOR</p>
+<p> </p>NUVELA ORIGINALĂ
+<p>LS</p>
+<p>DE</p>
+<p>MART. 1940 Biblioteca Universității Iași</p>
+<p>G. BARONZI</p>
+</div>
+<div>
+<head>
+<hi rend="italics">fi</hi></head>BUCUREȘTI
+<p>EDITURA TIPO-LITOGRAFIEI DOR. P. CUCU Bulevardul Elisabeta 121.</p>
+<p>1894.</p>
+<p></p>MINA HAIDUCEASA
+<p>FATA CODRILOR</p>
+<p>Toate fetele din povești sunt frumoase, dar ca Mina Haiduceasa care viețuia cam pe la începutul sutei a șapte-spre-zecea, nu era niciuna; toți haiducii sunt viteji, dar ca Mina fata codrilor nu e niciuna.</p>
+<p>Fiică unică a unui popă răspopit, care fusese spânzurat pentru fărădelegile ce făcuse în viața lui, ea rămăsese fără părinți și singură în toată lumea, pe când se afla copilă abia de doisprezece ani.</p>
+<p>Trăia într-o căsuță ce îi rămăsese după mortea mamei sale... Casa n-avea decât o încăpere și o tindă, o grădină împrejurul casei semănată cu flori și cu legume; o capră roșie, câteva găini și un câine, un dulău mare care o păzea mai bine decât ar fi păzit-o doi ostași și îi era mai credincios decât un frate din ziua de astăzi.</p>
+<p>Iată toată averea de care se bucura Mina în singurătatea în care viețuia de mai mulți ani.</p>
+<p>Ce mânca și ce bea ea?</p>
+<p>Capra ei îi da două oca de lapte pe zi, din</p>
+<p>care oprea o parte și altă parte o vindea în târgul Ploieștilor care era foarte aproape de locuința ei; cât pentru băutură, casa ei se afla chiar pe malul Prahovei, la marginea unui crâng de unde își procura lemne pentru iarnă și frunze pentru capra ei. Găinile ei îi dădeau ouă și grădina ei câteva legume, ceea ce făcea că nu-i lipsea niciodată hrana din toate zilele.</p>
+<p>Ar fi zis cineva că Mina era fericită în sânul cel liniștit și plin de farmec al naturii si în îndestularea de care se bucura?... Nicidecum... Ea împlinise al douăzecilea an și era încă nemăritată... Opt ani de zile trăise singură în căsuța ei fără să aibă pe nimeni alături cu dânsa ca să schimbe o vorbă, fără să vadă vreun chip de om, decât rareori când se întâmpla să treacă cineva pe-acolo, fiindcă locuința ei nu era în drumul cel mare, și când se ducea în oraș să își vândă laptele, restul vieții îl petrecea cu capra ei și cu dulăul care se culca totdeauna în pragul ușii sale.</p>
+<p>Și cu toate acestea, inima ei simțea nevoia de a iubi și a fi iubită... Frumusețile naturii care o împresurau, oricât de fermecătore erau ele, îi păreau reci și mute deoarece n-aveau cu cine să împărtășească dulceața lor.</p>
+<p>O fată de douăzeci de ani, nemăritată, e un lucru prea rar între fetele de la țară care se mărită adesea prea de tinere, apoi iar și mai de mirare pentru dânsa care era așa de frumoasă, cu ochii ei cei negri, cu sprâncenele ei cele dese și îmbinate, cu părul ei care, când îl despletea</p>
+<p>o acoperea peste tot ca o mantie negră de mătase !...</p>
+<p>Dar cine avea gurița mai mică, buze mai rumene, fața mai plăcută, un nas așa de încondeiat ca al ei și o frunte arcuită și netedă ca dânsa? Mina era răsărită la stat, plină, dar mijlocul ei se putea cuprinde între doue mâini bărbătești, deși niciun bărbat n-o atinsese încă, ci numai cu ochii.</p>
+<p>Ba, ca să nu mințim, de câteva zile începuseră doi flăcăi să se cam înfășure primprejurul casei sale, atrași de frumusețea ei pe care au descoperit-o odată pe când ea se întorcea din târg și pe când ei se duceau într-acolo...</p>
+<p>Ei nu știau dacă fata trăia singură sau avea pe lângă dânsa vreo mamă care o ținea deaprope sau vreo bunică țanțoșă și cârtitoare, de aceea nici că cutezau să-i intre în casă, știind că nechematul n-are scaun, dar se opreau adesea pitiți în vreun stuf, adesea în crângul vecin și pândeau să vadă apucăturile fetei și să cunoască bine locul asupra căruia se pregăteau a îndrepta cercetările lor.</p>
+<p>Era într-o Duminică, o zi de vară senină și plăcută.. Toate fetele din satul cel apropiat se găteau să meargă la horă, ca să-și arate ghetele cele scumpe și frumoase, cusute de mâinile lor și să învârtească hora în bătătura arendașului, care făcea în toate Duminicile și zilele cele mari asemenea petreceri în curtea locuinței sale.</p>
+<p>Mina vedea din pragul ușii trecând mai multe cete de flăcăi și de fete care se îndreptau spre locul unde se făcea hora și suspină în tăcere, deoarece ea nu putea să ia parte la veselia lor</p>
+<p>ca una ce era singură și nu avea pe nimeni care s-o însoțescă...</p>
+<p>★</p>
+<p></p>
+<p>Înserase de mult, și fiecare se întorcea pe la casa sa, afară de doi juni, aceea care văzuseră mai dinainte pe Mina și le plăcuse asa de mult.</p>
+<p>Amândoi păreau tineri... de la douăzeci până la douăzeci și doi de ani.</p>
+<p>Unul din ei era bălăior, cu părul galben și cu ochii albaștri, subțirel și cu chipul blând și senin. Celălalt era oacheș, cu ochii căprui, cu părul castaniu închis, cu o căutătură cruntă și cam ciupit de versat.</p>
+<p>-  Măi Căline, zise cel bălai când se apropie de locuința Minei, fata asta care șade în acea căsuță, nu știu cine o fi, dar simt că a aprins focul în inima mea, de nu pot s-o uit nici ziua, nici noaptea, din minutul când am văzut-o pentru întâia oară și până acum.</p>
+<p>Călin ascultă pe acela care își deschidea inima către dânsul și își încruntă sprâncenele fără a răspunde nimic.</p>
+<p>- Tu, nu mă înveți ce să fac, măi Căline.... eu îți spun focul meu și tu taci, parcă n-ai vrea nici să auzi ce îți spun eu.... Nu cumva ți-o fi plăcut și ție?... Când ar fi una ca asta, ar trebui să hotărâm între noi, care să fie al ei și care al morții.</p>
+<p>— Așa departe ți-a ajuns iubirea, Orodel, c-ai vrea mai bine să mori decât să trăiești fără dânsa? îl întrebă Călin.</p>
+<p>- Fără dânsa nicio zi, niciun minut n-aș</p>
+<p>putea trăi... Uite, din ziua când ne duceam amândoî spre târgul Ploieștilor și am întâlnit-o întorcându-se de-acolo, când am văzut-o așa de frumoasă, cu ochii ei cei negri și plini de focuri dulci, cu buzișoarele ei cele rumene de pe care pică mierea, cu ia ei cea nouă cusută cu fluturași și cu mătăsuri de mai multe fețe, cu marama ei mai albă decât laptele, aruncată pe cap și fâlfâind împrejurul părului său cel negru ca pana corbului, de i se părea că vezi ziua când se îngână cu noaptea.... apoi când mi-am aruncat ochii peste toată ființa ei și am văzut acele două piciorușe ca de păpușă, încălțate cu doi condurași roșii abia acoperiți de androcul ei de mătase albastră cu vergi galbene și încinsă cu o cingătoare de mărgelușe albe ca fața ei, și când în cea din urmă, deschise gura ei să vorbească cu capra ei și mă făcu să văd dinții ei ca două șire de mărgăritare, uite... mi-a amețit capul... mințile începură să mi se tulbure... picioarele mi se tăiară... mă cuprinse o tremurătura, parcă eram prins de friguri, și inima îmi batea,</p>
+<p>Îmi bătea, de ziceai că vrea să iasă din pieptul meu și să zboare alături cu al ei ... Căline, se vede că tu n-ai iubit niciodată, și de aceea m-asculți cu sânge rece, ca unul ce nu înțelege cuvintele ce le aude și care i se pare ca dintr-o limbă străină și necunoscută... Așa e că tu n-ai iubit niciodată, măi Căline? îl întrebă Orodel.</p>
+<p>- De unde poți ști aceasta? zise Călin ferindu-se de a întâlni căutăturile cele pătrunzătoare ale lui</p>
+<p>Orodel</p>
+<p>- Așa îmi vine să cred, răspunse acesta.</p>
+<p>- Oh! ardă-l-ar focul de iubit! zise Călin, smulgând o frunză de cireș și așezând-o între buzele lui.</p>
+<p>- De ce vorbești cu atâta ură de simțirea cea mai dulce și cea mai deplină de farmec care a lăsat-o Dumnezeu?</p>
+<p>- Mai bine ai lăsa bani mai mulți și mai puțină simțire de iubire.</p>
+<p>- Ții așa mult la bani? întrebă Orodel privind pe Călin cu ochi mari.</p>
+<p>- De ce n-aș ține? zise acesta; când ai bani, ai de toate, când n-ai, ce ai înțeles cu iubitul că nu te vrea nimeni. Încearcă-te și cere de soție pe aceea pe care o iubești, dar să-i spui tot adevărul că n-ai nici cu ce cumpăra doi boi și o căruță sau măcar o boscuță care să nu te lase să mori de foame, și că muncești și tu ca și mine, cu palmele ca să trăiești de azi până mâine, și atunci vom vedea ce-ți va răspunde ea. </p>
+<p>- Tu mă înspăimânți, Căline... ai vârât un fier ars în inima mea... Urâtă e sărăcia, ce e drept, și ea te face adesea din om neom... îți pierzi tot rostul... nu mai știi nici să vorbești! Le vezi toate pe dos, și chiar căile ți se încurcă pe unde vrei să umbli... dar ce e de făcut, dacă Dumnezeu n-a voit să dea avere la toată lumea, ci numai la o parte din oameni!...</p>
+<p>- Dacă n-a dat Dumnezeu, ca să și-o facă omul cum se pricepe... oare toți care au averi le-au primit din mâinile lui Dumnezeu?</p>
+<p>- De ce nu faci tu, dacă știi vreun mijloc?</p>
+<p>- Să facem amândoi dacă vrei, doi pot mai mult decât unul, și patru vor putea și mai mult decât doi.</p>
+<p>Și ce trebuie să fac pentru acesta? întrebă Orodel.</p>
+<p>— Să fii pe lângă mine, oriunde voi fi eu, să faci ce-ți voi zice eu fără să mă întrebi pentru ce și pentru cum: să vezi cu ochii mei, să auzi cu urechile mele, să umbli pe urmele mele: Când îți voi cere să faci cutare sau cutare lucru care va fi de trebuință a se face; astfel poți să fii încredințat că în puțin timp ne vom înavuți amândoi, și atunci vom putea cugeta cum să mulțumim și dorințele inimii noastre.</p>
+<p>— După cum înțeleg eu, vrei să mă dau rob la tine, zise Orodel nepricepând încă bine scopul ascuns al lui Călin.</p>
+<p>— N-am vrut se zic asta, răspunse acesta, dar judecă singur că dacă ostașii nu s-ar supune orbește la căpitanul lor când îi duce într-o bătălie, nu s-ar alege praf de dânșii și de căpetenia lor, iar când ar asculta...</p>
+<p>— Așa este, întrerupse Orodel, și sunt chiar de părerea ta, dar nu m-ai deslușit încă ce fel de întreprindere să fie aceea care vrei să o facem împreună, ca să știu dacă mă pot înhăma cu dânsa și eu.</p>
+<p>Drept orice răspuns, Călin începu să cânte din frunza ce o rupsese în gură cu câteva minute mai înainte. Era un cântec haiducesc care începea cu vorbele:</p>
+<p>«Iarba începe să încolțescă</p>
+<p>«Codru începe să înfrunzească...</p>
+<p>Si care avea de refren:</p>
+<p>«Bate-i, Doamne pe ciocoi,</p>
+<p>«Cum ne bat și ei pe noi...»</p>
+<p>Călin după ce cântă din frunză și din gură,</p>
+<p>se întinse pe iarba cea deasă care acoperea malul Prahovei pe care se aflau ei.</p>
+<p>Orodel vru și el să șeadă, dar mai înainte vru să se încredințeze dacă Mina era deșteptată sau se culcase... El își aruncă privirea deasupra locuinței sale, care nu era depărtată de locul unde se afla și zări pe fată stând pe prispă ca să răsufle răcirea serii între capra ei pe care o mângâia cu o mână și dulăul care era așezat la picioarele ei pe jumătate adormit.</p>
+<p>Luna care bătea drept în fața copilei făcu pe Orodel s-o vadă cu părul ei despletit unduind pe umerii ei albi și rotunzi și numai într-o camașă lungă de borangic, abia închisă cu un brâu roșu de lână, și desfăcută la piept ca să-l poată răcori mai bine...</p>
+<p>Orodel văzând-o astfel, avu o amețeală.... el se lăsă până unde ajunse de râu și își udă capul în apa lui cea rece...</p>
+<p>Când se urcă, eră pe mal și-și aruncă ochii din nou ca să mai privească o dată pe Mina cea frumoasă, ea nu mai era acolo... Ușa închisă și liniștea întunecoasă care domnea în jurul ei spuneau îndestul că ea se culcase în pacea conștiinței sale și sub protecția dulăului care se pusese la pază pe prispă lângă pragul ușii sale.</p>
+<p>Orodel suspină.... dar nu-i venea să se depărteze de casa unde toate cugetele și toată inima lui erau închise....</p>
+<p>— Pesemne că nu ți-e aminte să dormi noaptea asta, îi zise Călin văzând îndoiala în care se afla Orodel de a se duce la locuința sa.</p>
+<p>— Nu mi-e deloc somn, răspunse Orodel... dacă vrei, rămâi și tu cu mine. E o noapte așa de frumoasă și plină de răcoare, și locurile astea sunt așa de plăcute că nu mă îndur pentru</p>
+<p>bordeiul meu din sat. .</p>
+<p>- Ce lucru ți-a plăcut așa de mult aici?</p>
+<p>Frumusețea e mai înainte... mai e o cale ca de trei poște până acolo. Munții se înșiră unii după alții, acoperiți de păduri de brazi și de ștejari uriași... O potecuță pierdută sub o iarbă plina de flori te duce pe o coastă în sus până în creștetul munților unde își au vulturii cuiburile... și de acolo privești în văile cele mai adânci unde pasc turme de miorele și cirezi de vaci, și când te apucă setea n-ai decât să faci câțiva pași și dai de șipote din care curge apa cea mai limpede și rece, și când te găsește foamea, numai să ai o pușcă ghintuită și dreaptă la tras, poți să ai căprioare, iepuri și tot felul de vânat păsăresc... Dar daca ai vrea să ai și aur, tot cu pușca și cu o pereche de pistoale la brâu poți să-ți umpli buzunarele din când în când...</p>
+<p>Noaptea stai la pândă și ziua dormi la umbra unui stufiș... a doua zi îți ia altul locul, și tot așa... Acolo ești mai mare decât cei mari, deoarece te afli mai presus decât ei... ești chiar mai puternic, deoarece ești totdeauna armat și așezat la un loc bun, ascuns după bolovani sau în frunzișele cele dese ale copacilor... chiar urșii din vecinătate te știu de frică și nu se apropie de locul unde te afli... și acum zică cine-</p>
+<p>va orice ar zice, viata haiducească e mult mai plăcută decât viața muncitorilor cea amărâtă și decât viața boierescă cea trântoră și cu frica în sân... Să auzim de bine, vere Orodel.</p>
+<p>Și Călin se sculă iute de pe iarbă, își întinse amândouă brațele ca să-și dreagă nervii cele zgârcite de atâta ședere, apoi mai smulgând o frunză, o puse în gură și se depărtă cântând cântecul său de mai înainte.</p>
+<p>
+<hi rend="italics">***</hi></p>
+<p></p>
+<p>Orodel rămânând singur, cugetă la cele din urmă cuvinte ale lui Călin.</p>
+<p>Nu mai era nicio îndoială, el propunea libertatea și neatârnarea ce le află cineva într-o viață de haiduc... El puse într-o cumpănă domnia munților cu aurul câștigat de la călători și capul său într-alta... Poate dacă va scăpa acest cap de gloanțele poterei, și dacă va umple chimiul său cel gol cu destul aur, Mina cea frumoasă va consimți a-i fi soție, pe când dacă va rămânea tot cu degetul în gură, nevoit să muncească cu palmele, doară numai ca să nu piară de foame, ea îi va întoarce spatele și nu va voi să audă de numele lui...</p>
+<p>Orodel n-avea nici mamă, nici tată, dar avea un singur unchi dinspre tată-său, care era preot în satul Otopenii de lângă București, dar pe care nu-l mai văzuse de mulți ani, și nici că știa dacă mai trăiește... El adormi în mijlocul acestor cugetări care îi fărâmau capul fără a-l putea hotărî ce cale să apuce...</p>
+<p>Soarele nu răsărise încă bine, când zbieretul</p>
+<p>unei capre care trecea pe lângă dânsul îl făcu să se deștepte din somn...</p>
+<p>Era Mina cea frumoasă care se ducea cu cota să ia apă din râul din vale.</p>
+<p>Înaintea ei, la vreo zece pași, mergea capra ei, a cărei sete o făcea să-și iuțească pașii..</p>
+<p>Ce împrejurare priinciosă pentru Orodel ca să facă cunoștință cu aceea pe care o iubea!... Dar cum era să aducă vorba, bietul june nedeprins încă cu ale inimii!... Dacă cel ce a iubit mai de multe ori tot se arată la început sfiicios în fața ființei iubite de dânsul, cel ce simte pentru întâia oră flacăra amorului este cu atât mai mult stângaci și plin de temeri când se vede alături cu aceea căreia ar avea nevoie să-i declare patima sa. Astfel se întâmplă cu Orodel. El ar fi dat cea mai mare parte din viața lui, dacă Mina i-ar fi zis, sau cel puțin dacă i-ar fi făcut un semn care să-i dea să înțeleagă că nu i-ar părea rău să audă din gura lui că o iubește... Din parte-i, copila vîzându-l încă de departe</p>
+<p>așa tânăr și frumos în cămașa lui cea albă, în ițarii lui cei curați și cu pălărioara lui cea rotundă și legată cu o panglică roșie de mătase cusută cu fluturi ale cărei căpătâie erau lăsate pe spate și cu legătura sa cea albastră ce o purta la gât, simți pentru întâia oră o bătaie de inimă dulce cum n-a simțit-o niciodată până în minutul acela...</p>
+<p>Poteca de pe malul Prahovei pe care apucase</p>
+<p>Mina trecea pe dinaintea unui paltin sub care ședea Orodel pe iarbă... Văzând pe fată că se îndreaptă spre dânsul, el se sculă în picioare și când ea veni așa de aproape față în față unul</p>
+<p>cu altul, amândoi se priviră fără știrea lor și râseră fără voia lor, un rîs mut, dar plin de farmec... râsul bucuriei ce o simte cineva la o întâlnire plăcută, râsul plăcerii pentru cunoștința ce o făcură, râsul fericirii care trecu repede ca un fulger pe dinaintea ochilor acestor doi juni</p>
+<p>și care lasă în ei dorința de a o vedea realizată. Se înșela cel ce ar crede că Mina și-a urmat</p>
+<p>calea înainte unde își propusese să se ducă...</p>
+<p>Câteva minute trecură fără ca să se miște din locul ei... Râsul lor care era floarea sufletului lor se reînnoi din când în când pe buzele lor... El ținea locul vorbelor ce nu cuteza să iasă din gura lor, dar care spunea mai mult decât vorbele cele alese...</p>
+<p>Cu toate acestea, tăcerea lor fu întreruptă până în cele din urmă... Cel ce a început mai înainte să vorbească fu Mina.</p>
+<p>- Lasă-mă să mă duc să iau apă, zise ea cu surâsul cel mai încântător, cu glasul cel mai dulce și abia auzit.</p>
+<p>- Du-te... eu nu te opresc... răspunse junele cu un mic aer de triumf deoarece înțelesese că fata începuse să simtă pentru el.</p>
+<p>— Să mă duc, dar dacă nu mă lași, zise ea revărsând tot farmecul ochilor ei în ochii tânărului. </p>
+<p>- Atunci dă-mi mie cofa să ți-o umplu cu apă, zise Orodel. </p>
+<p>- Na-o, răspunse Mina, întinzându-i cofa. </p>
+<p>El o luă... mâinile lor se atinseră, două suspine ieșiră deodată din cele două inimi june și amândoi se apropiară de râu, unul ținând cofa și cealaltă conducându-și capra la adăpat.</p>
+<p>Pe celălalt mal se întindea o câmpie lungă și îngustă. Aici iarba era mai deasă și mai crescută; mai mulți puișori de copaci se vedeau răspândiți împrejurul altor copaci mai mari... ei erau încărcați de frunze și atrăgeau adesea privirile caprei care fusese lăsată dincolă ca să pască... Pe lângă acestea, locul era plin de flori de câmp care își legănau fruntea plină de rouă la razele soarelui ce răsărise...</p>
+<p>— Ah ! câte floricele au înflorit astăzi, zise copila, care nu-și putea lua ochii de pe ele.</p>
+<p>— Haideți să le strângem împreună, răspunse Orodel.</p>
+<p>Cum!... să trecem râul?...</p>
+<p>— Apa e foarte mică pe aici și vom păși din pietră în pietră... râul e plin de pietre ieșite peste luciul său și câte sunt acoperite de apă se pot zări ușor, fiind râul străvezitor.</p>
+<p>— Numai de n-aș aluneca, zise Mina făcând întâiul pas spre apă.</p>
+<p>— N-ai grijă... ține-te de mâna mea.</p>
+<p>Și zicând așa, Orodel apucă mâna fetei și călcând peste pietrele cele mai scose afară din apă, trecură amândoi la malul de dincolo.</p>
+<p>Mii de flori fură smulse de mâinile celor doi juni, și la fiecare flore ce o rupeau își udau mâinile în rouă, și își stropeau ochii unul altuia râzând...</p>
+<p>Erau fericiți!... Ei nu-și mai aduceau aminte de grijile lor din ziua aceea... Orodel datora o clacă proprietarului moșiei. Mina era așteptată în oraș unde ducea în toate zilele lapte de la capra ei cea roșie la o tânără femeie, soția unui judecător din Ploiești, care suferea de piept...</p>
+<p>Amândoi uitaseră datoriile ce-i reclamau... Un sunet neașteptat ce răzbi auzul lor le aduse aminte ceea ce uitaseră ei în amețela lor cea dulce... Era Călin care trecând malul opus și zărindu-i pe ei împreună dincolo, a scos o șuierătură hoțească, ca cum ar fi vrut să râdă de acei doi tineri. Apoi se făcu iar nevăzut.</p>
+<p>— Cine e acel om? întrebă Mina; parcă a vrut se ne ia în râs.</p>
+<p>— E un frate de lapte al meu, răspunse Orodel: dar așa este el, n-ai nicio grijă de dânsul.</p>
+<p>Câteva minute în urmă ei se întoarseră; Orodel duse cofa plină de apă până în tinda Minei. Ajungând acolo, tinerii își permișeră să se mai vadă cât de curând, să se iubescă totdeauna și să se ia îndată ce va trece postul Sfintei Mării... Era pe la începutul lui August.</p>
+<p>*</p>
+<p>
+<hi rend="italics">**</hi></p>
+<p>O săptămână după întâmplările ce le descriserăm, o trăsură cu doi cai vineți și două femei într-însa se opri dinaintea locuinței unde ședea Mina... Una din cele două femei era ca de vreo treizecî de ani, slabă și palidă la față, cu ochii mai stinși de suferințe și îmbrăcată într-o rochiță de</p>
+<p>mătase ca rugina, pe cap purta o bonetă albă de horbote și un șal negru pe umeri; cealaltă, care era mai matură, purta o scurteică lungă de lână albastră pe o fustă ca scorțișoara de același material și era legată la cap cu un tulpan alb cusut cu bibiluri de jur împrejur și cu două flonguri înnodate deasupra frunții.</p>
+<p>Îndată ce trăsura se opri, dama cea tânără zise ceva femeii care o însoțea, după care ea se dete jos din trăsură și intră în curte. Dulăul începu să latre... La zgomotul câinelui, Mina ieși pe prispă... Dama din trăsură văzând pe fată, îi face semn să vină spre dânsa... Ea se apropie...</p>
+<p>— Mă cunoști? zise dama.</p>
+<p>— Cum să nu te cunosc, îți aduc lapte în toate zilele, răspunse Mina.</p>
+<p>— Ți-e laptele prea bun, zise dama, dar mi-a zis doctorul care mă caută că mi-ar face mai bine la sănătate dacă l-aș lua la aer curat și în apropierea vreunei stâne de oi... Sunt oi pe aici pe aproape?</p>
+<p>— Chiar de vale, nu departe de aici pasc oile lui Badea Geană, răspunse Mina.</p>
+<p>— Așa e bine, că mi-a zis să fac și câteva băi de zer... Pe aici împrejur nu văd nicio casă... Dacă ai vrea să-mi închiriezi pe a d-tale pentru o lună de zile îți voi da o plată bună și te voi ajuta la măritiș îndată ce vei găsi un bărbat.</p>
+<p>Mina surâse și își plecă ochii la pământ.</p>
+<p>— Ce zici? o întrebă dama.</p>
+<p>— N-am decât o singură încăpere, zise fata după ce stătu să cugete un minut, dar fiincă e vorba de sănătate, ți-o las d-tale... eu mă voi culca pe prispă... acum e vară și nu mă tem de frig.</p>
+<p>— Dacă e așa, îți mulțumesc, și vei vedea c-ai se fii și d-ta mulțumită de mine... Dar vreun loc de bucătărie se află pe aici ?</p>
+<p>— Este o magazioară în dosul casei; acolo se poate face o vatră... cărămidă e destulă de</p>
+<p>când s-a dărâmat a doua încăpere de alături și n-am putut s-o fac la loc, că nu sunt mijloce deocamdată.</p>
+<p>— Vei avea, îți voi înlesni eu mijloacele de a-ți face casa mai frumoasă, zise dama cu un glas plin de bunătate, numai roagă-te la Dumnezeu să îmi văd sănătatea mai curând, și eu nu te voi lăsa în starea asta.</p>
+<p>— Dumnezeu să vă împlinescă dorința, și eu îl voi ruga cu toată inima mea, răspunse Mina.</p>
+<p>Dama se dete jos din trăsură și intră să vadă casa în care avea să șeadă... Ea avea, cum am zis, numai o încăpere, dar era destul de spațioasă și curată. Un pat lung și larg, așternut cu o velință făcută de Mina și cu mai multe perne și învelitori, o masă acoperită cu o pânză albă, două scaune de lemn vopsite, o perdea de stambă înflorită la singura fereastră ce aducea lumină în casă, câteva unelte de tors și de țesut, era tot mobilierul ce se afla în casă.</p>
+<p>Dama se întoarse atunci către femeia care o însoțea și îi zise să aducă ceea ce lăsase în trăsură. Peste un minut, ea veni cu o lădiță legată cu șine de fier, cu două perne de puf și cu o învelitoare de mătase roșie. Vizitiul dezlega dindărătul trăsurii un cufăr mare în care se afla albiturile și rochiile stăpânei sale și-l aduse în casă.</p>
+<p>Acum te poți întoarce acasă, Stane, îi zise dama, dar ai grijă să vii în toate zilele cu trăsura îndată ce vei auzi tocând la biserică și să-mi aduci tot ce-mi va trimite stăpânul-tău pentru ale mâncării, când nu va putea veni și d-lui dimpreună.</p>
+<p>- Înțeleg, zise Stan, și luându-și iar locul</p>
+<p>pe capră apucă pe drumul care ducea la Ploiești.</p>
+<p>Dama, instalându-se în noua ei locuință, însărcina pe femeia din casă să vadă de ale mâncării. Un pui fiert și altul fript, fu deocamdată prânzul cel frugal pe care îl procurase Mina dimpreună cu două ouă proaspete de la găinile ei. Vatra fu într-o clipă făcută chiar în ziua aceea de Orodel care venea în toate zilele să stea de vorbă cu Mina și să facă proiecte pentru viitorul lor...</p>
+<p>Orodel petrecea toată ziua cu aceea pe oare o iubea el și îndată ce însera, se întorcea acasă nevrând să facă pe fată de vorbă, daca ar fi aflat cineva că a dormit vreodată sub același acoperiș cu dânsa. Când el ieșea, la câțiva pași mai departe se întâlnea cu Călin care îl aștepta sa iasă și să bea cu dânsul un cinzec de rachiu la bordeiul din marginea satului vecin, unde se ținea de capul lui ca să insufle gustul haiduciei pentru care Orodel nu simțea cea mai mică aplecare.</p>
+<p>În seara care urmă după instalarea damei celei străine, în locuința Minei, Călin, care nu scăpă aceasta din vedere, nu mai încercă niciun demers pe lângă amicul său, dar se cufundă într-o tăcere cugetătore...</p>
+<p>La ce va cugeta el?... ce proiecte mai forma el pe care nu cuteza să le împărtășească lui Orodel?... Vom afla îndată.</p>
+<p>Despărțindu-se amândoi amicii spre a se duce fiecare la culcare, Călin se întoarse spre locuința Minei... făcu ocolul casei pe care o cercetă cu o căutătură pătrunzătoare în toate amănuntele</p>
+<p>ei încât întunericul nopții îi permitea, deoarece luna răsărea dinspre ziuă, apoi stătu în loc să cugete puțin, și fiindcă dulăul din curte, simțind apropierea unui străin, începu să latre, el se depărtă cu pași înceți spre a nu atrage vreun prepus asupră-i.</p>
+<p>A doua zi, Mina fu trimisă de dama cea străină ca să vorbescă cu vreunul din păstorii din vale pentru zerul de care avea nevoie, și temându-se de câinii de la stână, luă pe dulăul ei cu dânsa, care provocând alarmă între câini, era să deștepte pe păstori ca să viă înaintea ei.</p>
+<p>Călin privea toate acestea de după o claie de fân ce se afla din întâmplare tocmai în fața casei pe care el o spiona de vreo două zile... Dama cea străină dormea încă deși sorele răsărise de mult; femeia din casă se dusese în magazia din dos ca să facă focul si să pregătească dejunul stăpânei sale... Călin își luă inima în dinți și intră în curte cu aerul cel mai indiferent, apoi înaintă spre ușa casei, având mereu grijă să se uite cu coada ochiului pretutindeni și să tragă cu urechea ca să prindă cel mai mic zgomot... nicio mișcare nu se auzea, afară de aceea ce o făcea capra care păștea iarba de lângă gard și câteva rațe care măcăiau a ploaie... Apropiindu-se de ușă, Călin se opri să răsufle... Liniștea nu fu întreruptă nici aici... Călin își aruncă ochii în interiorul camerei... Dama cea străină dormea dusă cu fața la perete... el făcu câțiva pași înăuntru aruncându-și ochii în toate părțile. Deasupra mesei el zări cuferașul cel legat cu șine de fier.. Aici trebuia să fie lucrurile cele mai prețioase ascunse.</p>
+<p>Nicio îndoiala, niciun moment nu era de pierdut... împrejurarea era din cele mai favorabile pentru scopul ce-și propuse cutezătorul întreprinzător... El întinse mâna asupra obiectului care atrăsese luarea sa aminte, apoi ieși din casă, traversă curtea și se făcu nevăzut pe poartă fără a întâlni pe nimeni care să-l zărească.</p>
+<p>Zece minute în urmă, Mina se întorcea dimpreună cu un păstor și cu dulăul ei, care mirosind urme de pași străini începu a mârâi și a căuta să descopere pe acela ce poate se afla încă în curtea stăpânei sale.</p>
+<p>La intrarea celor doi indivizi, dama cea străină deschise ochii și își întoarse capul spre ușă.</p>
+<p>— Iată omul cu care vă veți putea înțelege despre ce aveți trebuință, zise Mina intrând.</p>
+<p>Dama cea străină intră atunci în vorbă cu păstorul, se învoi despre prețul zerului de care avea nevoie, apoi fiindcă trebuia să-i plătească acum la început o parte din prețul învoit, ceru să i se aducă cufărașul în care își avea banii puși, pe când ea căuta cheile de sub perna ei să-l deschidă.</p>
+<p>Mina căută cufărașul, dar nu-l găsi în locul unde i se spusese că se afla.</p>
+<p>Femeia din casă fu chemată și întrebată dacă</p>
+<p>știa unde era cufărașul căutat... Ea își aducea aminte că-l pusese pe masă, dar de aici încolo nu mai știa nimic.. Toată casa fu căutată în deșert... Toți fură încredințați că cufărașul era furat... Dar cine să-l fi luat! Dacă va fi intrat vreun străin, cum de nu l-a simțit nimeni.</p>
+<p>Mâhnirea damei era adâncă... Păstorul fu con-</p>
+<p>cediat până a doua zi, când se spera să vină soțul acelei dame și să-i aducă alți bani, dacă până atunci nu se va găsi cufărașul cel furat.</p>
+<p>Pe la toacă se auzii venind trăsura cu câteva provizii de-ale mâncării...</p>
+<p>Orașul era depărtat cale de o jumătate oră de la locul unde se afla dama cea străină...ea zise vizitiului să se întoarcă îndată și să vină cu bărbatul ei, deoarece i s-au furat toți banii cu sculele dimpreună.</p>
+<p>Trăsura porni iute. O oră și jumătate după aceea, ea se întoarse dimpreună cu soțul damei.</p>
+<p>Câteva cuvinte asupra acestei persoane.</p>
+<p>Soțul damei era un om ca de patruzeci și doi de ani: înalt, cu fața brună, părul negru, ochii castanii închiși, nasul cam lung și drept, gura buzățică, grăsuliu și cu fizionomie plăcută.</p>
+<p>El purta costumul epocii de pe atunci: o dulamă cafenie scurtă și încrețită, închis cu un cordon de piele care se încheia cu o cataramă de metal; pantalonii căzăcești largi și creți pe talia de o culoare de frântura fierului; o scurteică mică de catifea neagră cu postav cu fundul lat și înalt în pereți.</p>
+<p>Dinicu Graur - acesta era numele său - era boier judecător numit pentru județul Prahova: sentințele lui rămâneau definitive numai când amândouă părțile ce se aflau în litigii se arătau mulțumite de hotărârea pronunțată în privința lor, în caz contrariu sentința era apelată la tribunalul domnesc, care adresa era prezidat de Domnitorul țării... Vai de judecătorul acela care, după cercetarea ce se făcea sentința se descoperea că era nedrept!</p>
+<p>Nu numai mijlocirea mituirii și a părtinirii era cu asprime pedepsită, dar și neștiința judecătorului trebuia să îndure o penalitate oarecare. Pe de altă parte, dacă se constata că apelantul n-a avut dreptate să nu se mulțumească cu sentința ce s-a pronunțat, numai pielea lui știa ce era să pățească și pe lângă aceasta mai condamna să plătească adversarului său îndoite cheltuieli de judecată... Dar toată greutatea bietului judecător era acum ca să judece împrejurarea de care i se plânsese soția sa... Cum era sa facă el spre se feri de orice idee de părtinire deoarece</p>
+<p>era să se pronunțe între un membru a familiei sale, așa de aproape de dânsul, și un străin care făcuse furtul cufărașului și care nu se știa încă cine era.</p>
+<p>Părtinirea era să fie adevărată, mai ales că furtul era însemnat și nu se putea trece cu nepăsarea asupra lui... Într-adevăr, afară de o sumă rotundă de bani ce cuprindea cufărașul dispărut, se mai aflau într-însul și mai multe scule prețioase, toate diamantele soției sale de care ea nu voise să se desparță nici pentru timpul cât era să-și facă cura de zer,peste tot pierderea era evaluată la vreo două mii de galbeni...</p>
+<p>Judecătorul se mărgini dară într-o simplă cercetare ce o făcu, mai întâi pe fata în casa căreia se afla soția sa, și în cele din urmă în Orodel, care din întâmplare venise și el tocmai atunci.</p>
+<p>Numele Minei și ale lui Orodel fură însemnate pe o hârtie ca suspecte și judecătorul se întoarse la Ploiești să denunțe faptul cârmuitorului, care era cel mai competent în cazul de față.</p>
+<p>Chiar în sera aceea oamenii cârmuirii veniră și arestase pe Mina și pe Orodel în una din închisorile reședinței.</p>
+<p>După cele întâmplate, e bine înțeles că soția judecătorului nu putea să mai rămână în locuința ce-și alesese...</p>
+<p>Soțul ei veni dară a doua zi și îi găsi o altă casă în cel mai apropiat sat unde să își poată urma cura de care avea așa mare nevoie.</p>
+
+<p>Zece zile trecură de la arestarea celor doi nefericiți tineri, când într-o seară, plângând soarta lor cea tristă și neștiind ce viitor îi aștepta, ei ținură între dânșii următorea convorvire în închisoarea unde se aflau;</p>
+<p>- Mult are să mai trecă până să ne judece odată, zise Mina care ședea pe un scăunel cu capul între amândouă mâinile ei și cu ochii plecați la pamânt într-o stare de duioșie anevoie de descris.</p>
+<p>Orodel, căruia fură adresate aceste cuvinte, nu răspunse nimic.</p>
+<p>— Ce zi cu foc fuse aceea când veni și acea femeie pe capul meu, că după urma ei ni s-au tras nouă toate nevoile astea! adăugă ea peste un minut.</p>
+<p>Orodel sta în picioare rezemat de fereastra cea zăbrelită cu zăbrele îndoite de fier, ținând o mână sub fruntea sa sprijinită de crucea feres-</p>
+<p>trei și cealaltă pusă în brâul său cel verde și cu un picior ridicat în vârful degetelor și întors după celălalt.</p>
+<p>Ea rămase în aceeași tăcere ca mai înainte, privind în curtea închisorii cu ochii ațintiți, dar fără a se părea nici că vede, nici că aude.</p>
+<p>Mina urmă iar:</p>
+<p>Și vezi tu, Orodel, în ajunul celor ce mi s-au întâmplat, câinele urla toată noptea de nu puteam să-l fac să tacă cu niciun chip, urla a pustiu... credeam că adulmeca mortea cuiva!...</p>
+<p>Biata căsuța mea!... bietele mele păsări.... Capra mea, cine mai vede de toate astea!...</p>
+<p>Va fi murit biata capră!... atâtea zile... sau cine știe de oi mai găsi-o vreodată... Toate lucrurile mele în voia întâmplării... munculița mea de atâția ani!... E oare dreptate aceasta! ... Unul face și altul trage!... Care să fie îndrăcitul acela care ne-a aprins acel foc pe cap furând sculele și banii acelei femei!...</p>
+<p>- Și nu știi tu cine poate fi acela? zise Orodel întorcându-se cu fața spre Mina.</p>
+<p>— Când l-aș ști, îndată ce voi scapa de aici, dacă voi scăpa vreodată, cu mâinile i-aș suci gâtul... Dar tu cine crezi că este?</p>
+<p>- Și cine altul poate să fie decât Călin? răspunse Orodel.</p>
+<p>— Călin!...</p>
+<p>— D-apoi cine?.. Mai era cineva care venea din când în când să mă întâlnescă, așteptându-mă să ies de aici ca să mă facă să mă iau după vorbele lui și să mă apuc de lucruri care nu se lovesc cu firea mea?...</p>
+<p>- Și ce lucru te îndemna sâ faci?</p>
+<p>— Să mă apuc de haiducit.</p>
+<p>— Și cum de nu mi-ai spus nimic până acum?</p>
+<p>- La ce eram să-ți mai spun? Credeam că se va lăsa de asemenea drăcii... apoi așteptam ziua cununiei noastre ca să vadă și el, că nu mai poate să facă cu mine ceea ce voia el, și să înceteze o dată de a mai încerca să mă scoată din minți.</p>
+<p>- Dar de ce n-ai făcut cunoscut prepusul tău judecătorului la cercetarea ce-ți făcea?</p>
+<p>- Cum să nu-i fac cunoscut!...I-am spus toată șiretenia de la început, și cum umblase de atâtea ori să-mi ia ochii cu descrierea vieții haiducești pe care o umplea cu toate frumusețile din lume spre a mă face să cad orbește în cursa ce mi-o întindea.</p>
+<p>— Și el ce a zis?</p>
+<p>- N-a zis nimic, dar însemna pe o hârtie toate câte i le spuneam.</p>
+<p>- Și unde locuiește acel blestemat de Dumnezeu?</p>
+<p>— Călin?</p>
+<p>— Da.</p>
+<p>- La Bărcănești...Lucra și el cu palmele ca și mine, dar de la un timp încoace, de când i-a cășunat cu haiducia, nu mai făcea nimic, umbla hoinar toată ziua, petrecea pe la cârciumă mâncând și bând pe datorie și dormind ori pe unde îl apuca somnul... Îl auzeam de multe ori zicând: «De ce n-am eu o carabină și o pereche de pistoale, m-aș apuca de vânătoare și aș mânca numai vânat, iar ție nu și-aș da niciun oscior, trântore ce ești!...»</p>
+<p>- El e, el e, fără îndoială, zise Mina.</p>
+<p>- M-aș putea jura pe tot ce am mai scump că nu este altul, afară numai dânsul... cu mâna pe icoană m-aș jura.</p>
+<p>Acum veni rândul Minei să tacă... Pe când</p>
+<p>vorbea Orodel, că cugeta adâncită într-un noian de vise care succedau unele după altele, care reveneau iar înaintea ochilor ei, o făceau aici să surâdă, aici iar încrețeau seninul frunții sale, după cum apăreau ele a fi mai măgulitoare sau amenințătoare;... La ce cugeta ea?.. ce lucruri străine se petreceau în sufletul ei!... ce simțăminte necunoscute veneau să-i dispute inima ei?... Era ea în ajunul de a lua o hotărâre nouă, o hotărâre mare?... Dar ce putea tace în starea în care se afla, închisă într-o încăpere strâmtă de unde nu putea ieși și privegheată de oameni armați, vederea cărora ar fi nimicit cea mai mică încercare la care ar fi cugetat cineva... Dar cu toate acestea se putea înțelege după fiziono-</p>
+<p>mia Minei, după căutătura ei care se înflăcăra din ce în ce mai mult, după surâsul cel disprețuitor care îi încrețea buzele că ea nu s-ar fi dat în lături dinaintea niciunui pericol dacă ar veni vreo dată împrejurarea ca să pună în lucrare hotărârea ce părea că o luase.</p>
+<p>Poate că ne amăgim în vederile nostre, sau poate că ne-am grăbit a ne forma o convingere pripită, dar ceea ce se petrecea în sufletul fetei după toate regulile fizionomisticii, nu era decât răzbunarea...</p>
+<p>Într-adevăr, zece zile de închisoare în care zăcuse ea și alesul inimii sale erau destule ca să</p>
+<p>lucreze cu putere asupra unei ființe de o natură plină de energie și cu un caracter trufaș.</p>
+<p>Mina era prea natural să se revolte în contra nedreptăților ce suferise... Ea, așa de bună și îndatoritoare, care și-a dat singura ei cămăruță aceleia ce avea nevoie pentru căutarea sănătății sale, ea care trăise din copilăria ei și până atunci o viață singuratică, fără niciun ajutor de nicăieri decât acela al muncii sale neîntrerupte, ea care era în ajunul de a începe o viață mai fericită unindu-se cu omul ce o iubea și pe care îl iubea și dânsa, ce crimă făcuse ea ca să fie acum închisă pentru un prepus neîntemeiat ce-l atrăsese din partea celor ce sunt chemați a face cugetarea, dar care n-au fost în stare să cunoască pe adeverății culpabili!...</p>
+<p>Iată ceaa ce poate face adesea a șovăi virtutea și a înăspri caracterul cel mai blând si cel mai onest!...</p>
+<p>Multe zile mai trecură după acesta, când Orodel și cu Mina fură judecați pentru prepusul de furt ce se comisese în casa celei din urmă...</p>
+<p>Mina fu achitată.</p>
+<p>Orodel, deși nu se constatase faptul asupra lui, dar fiindcă declarase că cunoștea pe acela ce l-a comis, urma, după dreptatea de atunci, să mai stea în închisoare până se va descoperi autorul furtului, spre a se vedea dacă nu era și el în complicitate cu dânsul.</p>
+<p>Mina în loc să se bucure de libertatea ei, plânse amar văzându-se despărțită de Orodel!...</p>
+<p>Singura mângâiere ce o simțea era, că, fiind liberă acum, va putea încerca să mijlocească achitarea acelui june nefericit, asupra căruia, după toată instrucțiunea ce se făcuse, nu s-a putut constata nici cea mai mică vină.</p>
+<p>Mina fiind nevoită a se despărți de Orodel își luă ziua bună de la dânsul între două șiroaie de lacrimi ce îi umplură ochii...</p>
+<p>Ea observă, cu toate astea, un fel de răceală din partea aceluia pe care îl părăsea și cu care nu era să se vadă poate mult timp...</p>
+<p>Pe când era înecată în plânsul ei, ochii lui Orodel erau uscați... mâna lui pe care ea o strângea cu atâta frăgezime într-ale ei, era fără simțire, ca mâna unui mort... ceea ce mai da un semn de viață într-însul era numai fruntea pe care o încrețea și sprâncenele pe care le încrunta din ce în ce mai mult la mărturisirile de iubire ce i le arăta fata...</p>
+<p>Ea nu-i zise nimic, nu voii să îi împărtășească temerile ce îi cuprinseră inima la acea repede schimbare ce i se păru în purtarea amantului ei.</p>
+<p>Mina ieși din închisoare cu sufletul sfâșiat in prada unei presimțiri fatale... Cu toate acestea, se duse drept la femeia judecătorului, care era de curând întoarsă de la cura ei, ca să mijloacescă iertarea lui Orodel.</p>
+<p>Ea căzu în genunchi înaintea aceluia care cu câteva săptămâni mai înainte se arătase așa de binevoitore către dânsa.</p>
+<p>— Iertare! cer iertare pentru mirele meu, zise ea ridicând mâinile în sus.</p>
+<p>El nu s-a găsit culpabil întru nimic.</p>
+<p>Acela care a cutezat să intre în casă, pe</p>
+<p>când eu am lipsit un minut, se știe cine este... el e căutat de oamenii cârmuirii care nu vor întârzia de a-l descoperi..</p>
+<p>D-ta poți să-mi faci acest bine...</p>
+<p>Ai zis că vrei să mă ajuți la măritișul meu, nu vreau nimic, niciun fir de ață, dar ceea ce te rog este de a scăpa pe nefericitul Orodel care zace pe nedrept în închisoare... Scapă-mi-l în numele cerului, și Dumnezeu să-ți dea sănătatea ce o dorești și să-ți lungească zilele !...</p>
+<p>Drept orice răspuns, femeia judecătorului clăti din cap cu un aeru supărat, apoi văzând stăruința fetei în rugămintea ce i-o făcea:</p>
+<p>Să se mulțumească cu atâta, îi zise ea; și daca astăzi ți s-a dat drumul a fost după mijlocirea bărbatului meu care e așa de bun, dar era să fii trântită în temniță unde are să cadă acel păcătos la care nu știu ce ai văzut de ți l-ai ales să-ți fie de soț...</p>
+<p>— Orodel va fi dar pus în temniță? întrebă disperata fată sculându-se în picioare.</p>
+<p>— Până se vor găsi lucrurile furate sau acela care zici că le-a furat.</p>
+<p>— Și ce e de vină sărmanul Orodel în toate astea!... Nu cumva le-a furat el? sau poate c-a fost înțeles cu celălalt!...</p>
+<p>— Nu știu... nu mă privește asta pe mine.</p>
+<p>— Așadar nu e nicio dreptate în țara asta!...</p>
+<p> — Nu vorbi ce nu se cuvine, să nu capeți vreuna mai bună și să zici: de unde mi-a venit și asta!</p>
+<p>— Prea bine dacă e așa, zise Mina făcând doi pași spre ușă... Am crezut să găsesc îndată</p>
+<p>în inima omenească un suflet creștinesc dar...</p>
+<p>— Ieși afară! strigă soția judecătorului cu mânie.</p>
+<p>Mina ieși cu tulbarea în suflet... Ea umbla câteva minute rătăcită pe străzi, apoi se îndreptă spre casa cârmuirii... Ceru să vorbească cu cârmuitorul, dar a trebuit să aștepte mai bine de trei ore până să-i vadă înalta față.</p>
+<p>— Ce vrei? o întrebă el când îi dete voia să intre la dânsul.</p>
+<p>Mina căzu în genunchi și îi repezi rugămintea ce o făcuse soției judecătorului...</p>
+<p>Cârmuitorul puse să o dea afară cu brânci...</p>
+<p>— Ce lume e asta!... Ce fel de oameni trăiesc într-însa ?... cugetă fata care trăind până aici în singurătatea ei nu putuse să își facă o idea dreaptă despre societatea oamenilor cu care se puse în contact.</p>
+<p>Mina mai umblă de colo până colo plină de îndoială despre ceea ce îi rămânea de făcut, și negăsind niciun mijloc de a se împăca cu situația cea tristă în care se afla, ieși din oraș cu sufletul amărât de atâtea nefericiri ce i se întâmplase deodată...</p>
+<p>Soarele începea se apună când ea sosi la locuința ei...</p>
+<p>Intrând, ea zări un om care îi ieși înainte.</p>
+<p>— N-ai grijă de nimic, îi zise el apropiindu-se de fată; nu ți-a pierit niciun lucru din casă; eu am îngrijit de toate; capra ți-e sănătosă, păsările sunt toate; în păr, legumele ți le-am udat la timp, și florile la care ții așa de mult, adăugă el surâzând și uitându-se în ochii fetei, cu o privire amoroasă, sunt în starea cea mai frumoasă.</p>
+<p>Acela care vorbea astfel era un tânăr ca de vreo douăzeci și doi de ani al căruia portret ne-am încercat să-l schițăm la începutul istoriei nostre... El purta la brâu două pistoale lungi și un cuțit lat: o căciulă negră de oaie acoperea capul, pusă pe urechea dreaptă... Un cepchen alb de aba cusut cu șireturi negre, o legătură roșie care înfășură gâtul și de la care atârnau căpătâi lungi o pereche de ciorici asemenea albi cu cusături albastre și cu cizmele de teletin ai căror carâmbi se pierdeau în poturi, iată costumul acestui personaj... În casă, el mai avea o carabină ghintuită și o tolbă încărcată cu muniții.</P>
+<p>Mina se uită la dânsul lung, pe când el vorbea, apoi aducându-și aminte ca prin vis de fizinomia lui:</p>
+<p>— N-ai fi tu Căline? zise ea începând să tremure din toate vinele.</p>
+<p>— Nu mă cunoști? zise el; eu te cunosc de mai bine de o lună... chipul tău e întipărit adânc in inima mea și nu te pot uita așa lesne... și dacă nu ți-am vorbit nimic până acum de ceea ce m-ai făcut să simt pentru tine, a fost numai pentru că vedeam pe Orodel umblând să-mi șteargă bucățica de la gură, dar am zis așa: Lasă că mai curând sau mai târziu își va veni ea la cunoștință și va vedea cine e Orodel.</p>
+<p>— L-ai mâncat fript, sărmanul! exclamă Mina cu un ton care făcu pe Călin a se retrage cu un pas înapoi.</p>
+<p>— Eu l-am mâncat fript? zise el după ce îi trecu înteia impresie ce îi produsese tonul cel aspru cu care Mina pronunțase vorbele ei din urmă.</p>
+<p>— Dar cine altul? zise ea.</p>
+<p>— Și cum zici că l-am mâncat fript?</p>
+<p>— Pentru că dacă nu furai sculele și banii cunoanei care a stat la mine, el nu era să zacă astăzi la închisoare.</p>
+<p>— Asta e tot? răspunse Călin râzând cu hohot și schimbând căciula sa din dreapta pe frunte; dar eu stric dacă este așa de prost?...</p>
+<p>— De ce-l faci prost?</p>
+<p>— Pentru c-am vrut să fac un om dintr-însul și lui i-a plăcut mai bine să rămână ceaa ce a fost și să n-ajungă unde știi.</p>
+<p>— Și ce fel de om erai să faci dintr-însul? întrebă Mina cu un aer batjocoritor, un tâlhar de codru?</p>
+<p>— Un haiduc, nu tâlhar, răspunse Călin cu mândrie.</p>
+<p>— Haiducii nu fură și ei?</p>
+<p>— Nu e vorba de furat: fură ei și boierii cei mari, fură toată lumea, de la mic până la mare, dacă nu era furatul nu se făcea legea care să-i pedepsească.</p>
+<p>— Și cu ce sunt mai buni haiducii decât ceilalți hoți?</p>
+<p>— Hoțul fură pentru ca să fure... fură pentru dânsul.., fură pentru că îi e lene să muncească sau n-are nicio meserie din care să poată trăi... de multe ori fură numai din deprinderea de a fura... El e mișel cu cei mai tari decât dânsul și crud cu cei mai slabi... haiducul dacă se duce în haiducie, nu o face pentru că nu pote trăi altfel sau pentru că nu îi place să muncească, ci o face pentru că nu mai poate</p>
+<p>suferi nedreptățile ce i se fac; dacă ți-e femeia frumoasă, n-ai parte de ea, ciocoiul a pus ochii pe dânsa și ți-a șters-o; dacă ești clăcaș pe moșia ciocoiului, îți ia nouă piei din spinare și când nu vrei să-i dai și pe a zecea, te bate și te chinuiește ca pe un câine străin... Când se umple paharul de toate astea și de altele asemeni, îți iei lumea în cap și te duci se trăiești cu fiarele în munții cei râpoșî și în codrii cei fără lumină, și când îl vei prinde pe ciocoi în largul tău, îi faci și tu ce ți-a făcut el, îi întorci, cum am zice, faptă pentru faptă cu aceeași măsură, și apoi îl pui să plătească cheituielile judecății.</p>
+<p>— Ba îl și omori!</p>
+<p>— Ei, da, când vine asupra ta ca să îți ridice viața, atunci ești dator să-ți aperi pe a ta cum te vei pricepe.</p>
+<p>Mina tăcu... Mii de cugete rătăceau prin mintea ei, mii de simțăminte se deșteptau în sufletul ei, dar toate o lăsară amețită și nehotărâtă... Soarele scăpătase de mult... noptea își întinse aripile ei cele negre deasupra pământului și puținele stele ce începuseră să răsară se pierdură și ele în norii care se înălțau de la apus cu iuțeala ce le-o da vântul care bătea din ce în ce cu o furie crescândă.. Ploaia se aștepta din moment în moment...</p>
+<p>Am zis că Mina se afla nehotărâtă... La început îi venise de două ori să se arunce ca o leoică asupra acelui care fusese cauza nefericirii ce a suferit-o, apoi judecă cu mintea ei că întâiul ei îndemn în loc să ajungă la un scop mântuitor, ar fi stricat tot fără niciun folos...</p>
+<p>Dar cum să scape de acel om care îi cerea cu atâta stăruință inima ei pe care nu putea nici cu voia a o da altuia, deoarece era cuprinsă de acela pe care ea îl iubea și nicio putere omenească nu ar fi fost în stare să sfărâme simțirea care o lega așa de strâns cu cine a știut să-și așeze tronul într-însa !... Pe de altă parte, ceea ce îi spusese Călin despre nedreptățile suferite de unii oameni ce se văd nevinovați a se duce în haiducie nu-i rechema oare starea în care se afla și ea în acele momente și nu o făcea să simtă și ea nevoia de a-și răzbuna pe aceea ce o făcuseră să sufere pe nedrept !...</p>
+<p>În mijlocul acestor cugete sfâșietoare, ea nu s-ar fi descoperit mult timp încă, dacă ploaia cea repede care începuse să cadă deodată nu o făcea să revină în simțirile ei... Ea intră în casă și aprinse o lumânare la un tăciune pe care îl găsi arzând încă pe vatra ei... Călin veni după dânsa și se așeză pe un scaun.</p>
+<p>Mina se uită împrejurul ei.</p>
+<p>— Unde e dulăul meu? întrebă ea; nu l-am văzut nici în curte, nici în casă: ce s-a făcut el oare? Ursu! Ursu! strigă ea apoi.</p>
+<p>— Nu-l mai chema în deșert, zise Călin; numai el lipsește din tot ce ai avut.</p>
+<p>— Și ce s-a făcut?</p>
+<p>— Opt zile după ce v-ați dus de aici n-a mai vrut nici să mănânce nici să bea, ci a stat mereu cu botul pe labe plângând până mai deunăzi când a murit.</p>
+<p>— Bietul Ursu! dise Mina cu un glas plângător și cu o durere simțită, unde mai găsesc altul ca dânsul care să-mi fie așa de credincios!..</p>
+<p>— Mă vei avea pe mine mai credincios și mai supus decât un câine, răspunse Călin.</p>
+<p>Mina tăcu.</p>
+<p>— Nu te mulțumești să ai un om în locul câinelui ce l-ai pierdut?</p>
+<p>— Du-te a casă că voi să mă culc și eu acum, zise fata.</p>
+<p>— Eu n-am venit aici pentru ca să mă duc, zise Călin schimbând din nou posa căciulii sale în dreapta ca mai înainte.</p>
+<p>Ești cu mințile întregi? sau cum vorbești?</p>
+<p>— Sunt cu mințile prea întregi și vorbesc ceea ce simt, și simt ceea ce ai vrut să mă faci a simți. Eu ți-am păzit casa de nu ți s-a risipit nimic, cum vezi, că eram dator să fac aceasta dacă nu te iubeam?... Și acum vrei să mă gonești? Nu judeci că aceasta nu se poate? Eu când iubesc nu mă dau în lături, fii dinaintea oricărui om și oricărei amenințări... Mă vezi ce sunt?... Cu banii ce am prins de pe sculele cucoanei tale mi-am cumpărat arme, mi-am întocmit voinici și astăzi sunt căpitan de haiduci. Vezi fluierașul acesta? adăugă el scoțând un fluier ce-l avea ascuns în brâul său, n-am decât să fluier de trei ori într-însul și într-o clipă vei vedea douăzeci de inși năvălind la o chemare de ai zice că au ieșit din pământ, din iarbă verde, gata să mi se supună și să facă orice le voi zice eu, să treacă prin apă și prin foc fără să mă întrebe măcar pentru ce le-am cerut aceasta. Tabăra noastră e în munți. Aici am venit numai de câteva zile fiindcă mi-am adus aminte că ți-a rămas casa singură și am vrut să ți-o păzesc... Te așteptam cu patru ochi să te în-</p>
+<p>torci ca să-ți spun că te iubesc și că trebuie să fii a mea, numai a mea, mă înțelegi? iar nu a altuia... Dacă nu mă vei urma de bunăvoie, eu voi fluiera de trei ori, și oamenii mei care sunt răspândiți în crângul acela din fața noastră vor alerga îndată, te vor lua pe sus și te vor duce unde mă voi duce și eu, și de mine tot nu scapi.</p>
+<p>— Ba să nu faci așa că nu e bine, zise Mina cu ochii înecați în lacrimi.</p>
+<p>Nu voi face așa, dacă nu mă vei depărta de lângă tine, răspunse Călin și scoțând din tolba lui o ploscă plină cu rachiu trase jumătate dintr-însa fără să răsufle.</p>
+<p>Poziția Minei era destul de critică... Cum să scape din ghiarele acelui om care pe lângă patima cea smintită care-l orbea, adăugase și o mare parte de beție!... Niciun act de violență nu-i era permis... ea, o fată cu mâinile goale, și el un om armat de sus până jos... Apoi și oamenii ce i-ar fi chemat în ajutoru-i!... Toate acestea îi amenința capul, și după ce străbătu de câteva ori lungimea și lățimea încăperii sale, căzu pe marginea patului cu un gemet profund. Apoi întorcându-se către Călin care o urmărea cu ochii ca o fiară gata să se arunce pe prada sa:</p>
+<p>— Eu nu știu ce să cred din toate câte le spuseși până acum, zise ea; tu care erai ca un frate cu Orodel...</p>
+<p>— N-are ce căuta Orodel aici, întrerupse Călin; unde sunt eu nu poate fi el, nici oricare altul. Dacă zici că nu știu ce să crezi, crede că te iubesc, și atunci va fi pace între noi. Și hai-</p>
+<p>ducul se legăna pe scaunul său amețit de băutură și întorcându-și căciula când într-o parte, când într-alta.</p>
+<p>— Vai! ce văd! strigă deodată Mina sculându-se repede din locul ei și retrăgându-se într-alt loc mai depărtat.</p>
+<p>— Ce ai văzut de te-ai speriat așa tare? o întrebă haiducul silindu-se să-și regăsească echilibrul pe scaunul său, deoarece strigătul copilei îl făcuse să îl pierdă.</p>
+<p>— Acea carabină... rezemată de perete, zise Mina arătând cu degetul spre partea unde Călin își lăsase carabina.</p>
+<p>— Și de ce ți-era frică de ea? o întrebă Călin.</p>
+<p>— Cată să fie încărcată... și așa rezemată cum se află ea... poate să alunece peste noapte și să se descarce tocmai când voi fi adormită.</p>
+<p>— Nu te-ai teme să nu se descarce singură asupra ta?</p>
+<p>— Dracu n-are de lucru!...</p>
+<p>— Mă faci să râd cu copilăriile tale...</p>
+<p>— Nu râde, ci mai bine lasă-mă s-o pun culcată jos cu gura spre fereastră, astfel voi fi mai liniștită.</p>
+<p>— Ha! ha! ha! râse Călin căutând plosca să mai bea deoarece i se făcuse iar sete.</p>
+<p>Pe când el scotocea prin tolba lui, Mina se strecură binișor pe lângă carabină, o luă repede în mână și întinzând-o spre Călin:</p>
+<p>— Să stai locului, zise ea; să n-aud niciun strigăt, să nu văd nicio mișcare, că te culc îndată la pământ!</p>
+<p>— Ei, ei!... așa e vorba! răspunse haiducul</p>
+<p>silindu-se să se scoale de pe scaun și căzând iar în locu-i. Dacă e așa... apoi să vedem care pe care! și puse mâna pe unul din pistoalele lui de la brâu, dar mai iute decât mișcarea ce o făcu el, Mina trase asupra lui și-l nimeri drept în frunte. Călin căzu grămadă cu scaun cu tot. Atunci Mina se repezi la dânsul, îl dezbrăcă îndată de hainele lui, îl dezbrăcă de toate hainele pe care le așeză pe scaun lângă patul ei, scoase din tolbă o hârtie în care găsi câteva sute de galbeni înfășurați, apoi târî cadavrul afară și ducându-l în fundul gradinii din dos îl puse lângă gard ascuns între bozii de unde nu era chip să fie lesne văzut.</p>
+<p>Mina se întoarse apoi în casă și luând fluierașul lui Călin suflă de trei ori într-însul din pragul ușii sale.</p>
+<p>În mai puțin de cinci minute, douăzeci de haiduci ieșind din ascunzătorile lor, umplură curtea și casa.</p>
+<p>La vederea lor, Mina le ieși înainte și începu să plângă și să se vaiete.</p>
+<p>Ce este? ce s-a întâmplat? unde este căpitanul nostru? întrebă unii din ei.</p>
+<p>— Ce să fie, răspunse Mina neîncetând din plânsul ei, căpitanul vostru, care e și soțul meu, ieșind până afară, deodată se văzu împresurat de poteră... el a vrut să strige, dar ei nu i-au dat pas, ci legându-l cu funii l-au pus pe un cal și a pornit cu dânsul în fuga mare spre oraș. Când ieși după dânsul, văzu-i șase călăreți care mi-l luară de lângă mine!</p>
+<p>— Bine îi spuneam eu că nu era lucru înțelept să stea aici atâtea zile, zise unul din hai-</p>
+<p>duci, dar n-a vrut să m-asculte, și iată acum!</p>
+<p>— Ba nu așa, zise al doilea haiduc, noi care îi jurasem credință și supunere, ar fi cu drept să ne ducem să-l scăpăm din mâinile poterei.</p>
+<p>— Dar ei sunt călări și voi sunteți pe jos, zise Mina; e mai bine să nu facem lucru copilăresc... să lăsăm să treacă noaptea asta; voi întorceți-vă la locul vostru, iar mâine până în ziuă să vă duceți în oraș ascunzând armele voastre ca să nu vă cunoască cineva. Acolo să vă siliți să aflați cam câți ostași se află de pază în închisoare... vă veți împrăștia câte doi, câte trei, iar nu toți grămadă la un loc; apoi, după ce se va înnopta bine, veți da foc mai întâi unei clăi de fân care se află pe lângă grajdul cu cai... voi veți alerga în urmă să stingeți focul... în învălmășeala care va fi atunci, veți da năvală în încăperile închisorii, veți scăpa pe căpitanul vostru și vă veți întoarce în munții voștri. Eu voi vorbi cu voi mâine în oraș spre a vă da ajutor la fapta asta.</p>
+<p>— Dacă se va amesteca o femeie în întreprinderile noastre, mai rău ne va încurca și nu ne va merge bine, observă unul din haiduci.</p>
+<p>— Mă voiu îmbrăca bărbătește cu hainele soțului meu și mă voiu arma cu armele lui, zise Mina.</p>
+<p>— Ura!! strigară cei mai mulți dintre haiduci, să fii dară căpităneasă până vom scăpa pe căpitanul nostru!</p>
+<p>— Mă primiți dară astfel? întrebă fata adresându-se la mulțimea celor ce o împresurau.</p>
+<p>— Primim, primim! răspunseră ei!</p>
+<p>-— Atunci pe mâine băieți!</p>
+<p>— Să trăiești căpităneasă! zise cel mai bătrân dintre haiduci, care nu vorbise până atunci; dacă soțul d-tale, urmă el, ar fi avut atâta minte câtă ai d-ta, astăzi nu era să fie între mâinile poterei.</p>
+<p>Apoi se depărtă toți.</p>
+<p>*</p>
+<p>**</p>
+<p>Mina rămânând singură, încuie ușa, stinse lumânarea și se culcă cugetând la Orodel pe care era să-l scape a doua zi în locul căpitanului de haiduci.</p>
+<p>Închisorea în care se afla Orodel era aproape de bariera Câmpinei.</p>
+<p>Ea era o zidire veche, învelită cu șindrilă pe care crescuse un mușchi verde de mai mulți ani. Douăsprezece ferestre, zăbrelite cu fiare groase, aduceau lumina de afară și trei uși ferecate erau puse la trei distanțe, după care se înțelegea că zidirea avea trei despărțituri. De jur împrejurul închisorii se întindea o curte largă ocolită cu un gard de nuiele care se întrecea despre vechime cu locul închisorii pe care pretindea să-l apere. În față se vedea o poartă mare de scânduri care era totdeauna închisă și a cărei cheie era dată în păstrarea unui portar ce-și avea locuința chiar alături cu poarta. Într-o parte a curții se aflau câteva încăperi unde ședeau poterașii de gardă; în partea stângă erau grajdurile cu caii acestora, și între ele și gard era un loc unde se ținea fânul pentru nutrețul cailor.</p>
+<p>Înnoptase mai demult și în oraș domnea liniștea cea mai adâncă, când oamenii din ceata</p>
+<p>lui Călin, acum comandați de Mina, se văzură dând ocoale împrejurul închisorii, la o mică depărtare de dânsa, și așteptând, înfășurați în umbra nopții cea întunecoasă, realizare a planului pe care veniseră a-l pune în lucrare.</p>
+<p>Așteptarea lor nu fu lungă. — Deodată se văzu o flacără înălțându-se deasupra claiei de fân, care se comunică pe grajdurile învecinate și amenința să ajungă localul închisorii, urmând bătaia vântului care sufla spre partea aceea... Toți gardianii închisorii și ostașii aflați acolo de pază se deșteptară cuprinși de o spaimă foarte naturală... tulburarea și învălmășeala fu în culme la vederea înspăimântătorului element care se vedea crescând cu o mare repeziciune.... unii umpleau aerul cu strigătele lor repetate chemându-se în ajutor, alții alergau dintr-un loc într-altul neștiind, în amețeala lor, ce să facă și ce măsuri mai nimerite să ia... Porțile cele mari fură deschise și o parte din oamenii de serviciu se repeziră s-aducă apă de la o fântână din apropiere... Câțiva vecini din împrejur veniră să dea ajutor la stingerea focului, pentru ca să-și apere casele lor ce se vedeau expuse a deveni și ele prada flăcărilor... Printre aceștia din urmă își făcură loc și haiducii să intre dimpreună cu aceea care-i conducea.</p>
+<p>Dar tot ajutorul dinăuntru și din afară nu putu opri focul de-a se întinde... el cuprinse învelitoarea închisorii... încă puțin și era să ardă nefericiții arestați care se aflau în închisoare și care scoteau țipete sfășietoare la vederea pericolului ce îi amenința... Nu mai era de stat la îndoială, îngrijitorul dete ordin să le deschidă</p>
+<p>ușile... ei ieșiră cu cârdul căutându-și refugiul în locurile cele neatinse încă de foc.</p>
+<p>Mina care observase toate mișcările acestea, se repede într-o clipă la o cofă ce o găsi golă, o ia într-o mână și cu alta scoțând un văl de mătase, ce-l avea în sânul ei se strecoară pe lângă grupa arestanților și descoperind pe Orodel, îi dă cofa zicendu-i cu autoritate:</p>
+<p>— Ce stai și nu dai și tu mână de ajutor!</p>
+<p>- Na, îi șopti la urechi, dându-i vălul de</p>
+<p>mătase, înfășoară-ți capul să nu te cunoască și fugi, deoarece Mina a venit să te scape.</p>
+<p>Orodel făcu ce i se zise, apoi ieși pe poartă cu cofa în mână fără să atragă cel mai mic prepus asupra lui, și se făcu nevăzut. În acel moment, ieșeau și haiducii...</p>
+<p>Mina încredințată că Orodel va veni acasă la dânsa, își îndreptă și ea pașii spre locuința ei, nemaiîngrijindu-se de soarta celorlalți haiduci, care nu era să întârzie de a veni să găsească pe căpitanul lor pe care-l credeau scăpat.</p>
+<p>Era încă noaptea adâncă și noroasă ca în ajun, când sosi Mina acasă... Ea își batea capul acum ca să găsească ce minciună să spună haiducilor când vor veni și vor vedea pe altul scăpat în locul căpitanului lor... După mai multe răzgândiri, ea își alese să le spună că temându-se să se întoarcă într-un loc de unde fusese prins chiar în ajun, căpitanul a luat calea munților și că a însărcinat-o pe dânsa a le zice ca să se ducă fără întârziere după dânsul... O dată scăpată de ei, ea și-ar căuta un loc mai sigur în care să se retragă cu Orodel spre a fi la adăpostul răzbunării acelor oameni când vor</p>
+<p></p>
+<p>descoperi că au fost jucați de dânsa.</p>
+<p>În momentul acela, sosiră și haiducii!.. Mina</p>
+<p>ieși înainte ca să le spună cele ce combinase ea, când unul din ei nelăsându-î timpul de a vorbi:</p>
+<p>— Cine putea crede una ca acesta? zise el c-un glas dureros; și ce stricăm noi dacă fără știrea noastră și fără voia nostră a fost prins căpitanul, ca să se mânie astfel pe noi, și acum să nu mai voiască să audă de numele nostru!</p>
+<p>Era atâta adevărată durere în tonul cu care haiducul zisese aceste cuvinte, încât Mina avu o presimțire tristă în ceea ce o privea pe dânsa și acestă presimțire devenea și mai amară când se încredință că Orodel nu se afla în mulțimea aceea, deși ieșise înaintea lor din localul închisorii.</p>
+<p>— Dar ce s-a întâmplat? întrebă ea în fine pe nemulțumitul haiduc.</p>
+<p>— Apoi, răspunse el, daca ne-am dus spre căpitănul nostru ca să ne întoarcem împreună cu toții aici, văzurăm că apucă pe alt drum. Noi i-am spus că a greșit drumul și îi arătarăm pe cel adevărat pe care trebuia s-apuce, dar el nu vru să asculte de noi și își urma drumul înainte cu pași iuți.</p>
+<p>— Dar bine, căpitane, nu ne cunoști? îi ziserăm noi; suntem ai d-tale, venirăm să te scăpăm, și acum nu mai vrei să știi de noi!..</p>
+<p>— Duceți-vă la dracu și mă lăsați în pace! răspunse el cu mânie.</p>
+<p>Dar soția d-tale care ne-a adus aici ca să-ți înlesnim scăparea, vrei s-o lași plânsă și amărâtă...</p>
+<p>El nu mai răspunse nimic, ci se depărta în fuga mare până când îl pierdurăm din ochi. Oare înțelegi d-ta ce înseamnă purtarea asta? adăugă haiducul.</p>
+<p>— Nu cumva l-am dat noi pe mâna poterei? zise un altul.</p>
+<p>— Daca ne da semnalul fluierând de trei ori, am fi avut destul timp s-alergăm și l-am fi scăpat îndată, adăugă un al treilea.</p>
+<p>La toate astea, Mina nu răspundea decât prin lacrimile ei... De prisos își bătuse ea capul ca se cârpească minciuna când vor descoperi haiducii că au scăpat pe altul în locul căpitanului lor.... Dar bine că au luat ei pe Orodel drept celălalt! cugetă ea. Ceea ce învenina însă sufletul ei era purtarea cea neînțeleaptă a lui Orodel care nu mai voia se știe de dânsa... Atâta răceală și atâta nerecunoștință pentru dânsa care îl iubea și care își pusese viața în joc ca să-l scape din închisoare!.. La ce să atribuie această schimbare neașteptată!... Este adevărat că pe când urmau cercetările ce se făceau lui Orodel spre a se descoperi culpabilitatea sau complicitatea lui cu adevăratul autor al furtului obiectelor prețioase ale femeii lui Dinicu Graur, cârmuitorul îl supusese la mai multe bătăi și chinuri barbare pentru ca să-l facă să mărturisească adevărul, dar el nu lăsase niciodată pe Mina să înțeleagă aceste maltratări ce le suferise el, mândria caracterului său nu-i ierta această mărturisire a umilinței sale degradatoare... el se mărginise a tăcea și a ascunde rușinea lui de ochii ei, dar simțea un fel de ură care se născuse în pieptul său în contra aceluia care fusese</p>
+<p>cauza, deși involuntară a tuturor relelor ce le suferise el.</p>
+<p>Dar Mina, care nu știa nimic din toate acestea și care își vedea inima așa de rău răsplătită de către acela ce îl iubea așa de mult, se afla în culmea durerii sale... Nevoia de a-și răzbuna în contra nedreptăților ce le îndurase începu să tune în sufletul ei, mințile i se tulbură și totul într-însa anunța izbucnirea unui foc pe care în deșert se cercase a-l ascunde în inima sa.... ar fi zis cineva că un cer senin care după o lungă liniște secetoasă, văzându-se deodată năpădit de negura norilor care vin să-l tulbure, începe să-i sfâșie cu săgețile lui de foc și să-i spargă cu vânturile ce le asmute în contra lor până ce îi împrăștie sau îi silesc să cadă în ploaie...</p>
+<p>Mina fu smulsă din cugetele ei absorbitoare prin glasul unuia din haiduci care veni s-o întrebe ce rămânea acum de făcut cu dânșii...</p>
+<p>Acest glas o găsi încruntată, dar cu ochii uscați... Durerea cea mare nu are lacrimi... Ea se întoarse atunci către mulțimea haiducilor și plină de ultima hotărâre ce o luase, le vorbi astfel:</p>
+<p>- Ascultați băieți, dacă nu mai voiește căpitanul vostru să fie cu voi, eu vreau să-i iau locul. Poate mai târziu, cine știe, el își va lua seama și se va întoarce iar între voi! dacă nu, eu voi rămâne căpitanul vostru. Aveți destulă încredere în mine?</p>
+<p>Haiducii se consultară un minut între dânșii, apoi strigară în unanimitate:</p>
+<p>— Avem toată încrederea în căpităneasa nostră,</p>
+<p>deoarece văzurăm că e plină de inimă și de înțelepciune.</p>
+<p>— Dacă vă încredeți în mine, atunci să plecăm fără întârziere din aceste locuri și să ne așezăm unde ni se va părea mai bine, feriți de ochii celor ce ne-ar urmări.</p>
+<p>— La munți! la munți! strigară toți haiducii.</p>
+<p>— Fie la munți! zise Mina, apoi puse pe haiduci se prindă toate păsările ei ce le avea într-un coteț din curte, spre a avea pe drum de mâncare, și recomandă capra ei unuia dintr-înșii ca să i-o ducă vie la locul ce-și vor alege pentru retragerea lor.</p>
+<p>Mina încuie casa și luă cheia la dânsa, apoi trase poarta după dânsa, o propti cu un par, puse cuiul de lemn la locul său, și clătind din cap, ca și cum ar fi vrut a zice că erau de prisos toate măsurile acestea, porni cu ceata ei spre Câmpina urmând o cale lăturalnică și destul de cunoscută de haiducii ei.</p>
+<p>***</p>
+<p>Când se depărtară cale ca de vreo fugă bună de cal, începu a se revărsa de zori. Cerul era tot noros, drumul limpede... Pe câmp nu se zărea niciun om, deoarece câmpul era cules de semănăturile lui, și acum nu înfățișa decât un luciu îngălbenit și uscat, lăsat corbilor ca să-l spicuiască pe unde a mai rămas câte o sămânță rătăcită, sau berzelor care stau din distanță în distanță într-un picior și cu spatele umflat așteptând să zărească vreun șarpe ca să-l înhațe cu ciocul....</p>
+<p>Pe la amiază ajunseră la Câmpina... Mina</p>
+<p>zise oamenilor ei să-și ascundă armele, apoi văzând o pravălie unde se vindeau diferite obiecte de fierărie, se opri și cumpără douăzeci de coase pe care le împărți haiducilor ca să fie creduți de cositori tocmiți, să cosească o livadă care era mai înainte de acolo.</p>
+<p>Haiducii se mirau de prevederea fetei și de dreapta ei judecată. Între dânșii se afla unul mai ales care de la început părea așa de încântat, atât de bunele măsuri ce știa să ia căpităneasa lor la orice împrejurare, cât mai ales de frumusețea ei cea rară....</p>
+<p>Acesta era un om ca de vreo treizeci și doi de ani, de o talie de mijloc, dar îndesat și de o tărie extraordinară; avea ochii căprui și cam mici, dar plini de vioiciune, fața oacheșă, nasul puțin borcănat, părul negru și creț, gura largă, fruntea mică și mustățile lungi și subțiri, sprâncenele îmbinate și un aer totdeauna serios.</p>
+<p>Boilă Stroil era de peste Olt și purta constumul mehedințean care era al județului unde fusese născut. Caracterul său original și forța cea rară de care se bucura îl făcuseră iubit de toată ceata haiducească, și adesea el suplinea pe căpităneasa, care avea cea mai deplină încredere în bărbăția și priceperea lui...</p>
+<p>Ceata ajunsese a doua zi în munții de dincolo de Breaza.... Mina își alese un loc care i se păru mai bun pentru adăpostirea oamenilor ei... Acest loc era pe o înălțime ocolită de stânci și de piscuri ascuțite, având de dedesubt o vale adâncă; în fund curgea Prahova repede și spumegătoare, la spate se desfășurau, mai multe șiruri de munți</p>
+<p>plini de păduri umbroase și de izvoare reci... O potecă numită Pasul căprioarei, fiindcă era pe o coastă pietroasă și râpoasă, ducea la poiana unde haiducii așezară tabăra lor... Mai mulți brazi uriași mascau acea poiană de ochii trecătorilor, și grămada bolovanilor, răspândite în diferite locuri, le putea servi, la o împrejurare, ca un zid de apărare, din dosul căruia ar fi putut trage focurile lor, fără a fi atinși de ale poterei când s-ar încerca vreodată să-i atace.</p>
+<p>Mina puse să facă câteva bordeie în prevederea iernii ce nu era prea depărtată și se îngriji de cele trebuincioase pentru hrană, la caz când timpul cel rău sau alte cauze neprevăzute i-ar pune în neputință de a-și procura pe calea ordinară.</p>
+<p>*</p>
+<p>**</p>
+<p>Pe când Mina intra în noua viață care îi fusese scrisă de ursita ei, Orodel scăpând din închisoare și luându-și oarecum seama de răceala purtării sale către aceea căreia datora eliberarea sa, se întoarse din calea ce apucase, luă o cărare piezișă și cunoscută de el, ca să dea pe la Mina și să-și împace conștința care îl mustra pentru nerecunoștința cu care se arătase.</p>
+<p>Era încă noapte, și când ajunse cam în dreptul orașului de unde fugise, zări focul arzând încă și auzi glasurile cele amestecate ale oamenilor care se luptau în deșert în contra elementului ce se întinsese și asupra altei părți din oraș.</p>
+<p>Ajungând la locuința Minei, Orodel găsi poarta închisă; el vârî mâna prin deschizătura porții, trase cuiul, împinse parul de care era proptită</p>
+<p>și deschizând-o, intră în curte. Venind apoi la ușa tindei și găsind-o încuiată cu cheia, bătu în fereastră, strigă de mai multe ori pe Mina, dar nu primi niciun răspuns.</p>
+<p>— Ce să fie asta?... unde să se fi dus ea!... Nu văd nici câine, nici capră... Fără îndoială ea nu e acasă!...</p>
+<p>El se pregătea dară să plece, temându-se să nu-l apuce ziua acolo și să-l descopere cineva, când i se păru deodată că o umbră albă care se apropia cu pașii înceți, țiindu-se cu o mână de gard și cu alta de cap... Orodel se opri în loc, câteva fiori reci trecură prin sângele lui la vederea acelei arătări ce se mișca astfel în cămașa sa cea lungă, cu picioarele goale și cu capul descoperit pe care îl ținea mereu cu mâna sa.... Apoi văzând că venea spre dânsul, el se dete în lături, făcu trei cruci și își scuipă în sân... Cu toate astea, umbra înainta spre dânsul, și fiindcă îl văzu că se tot depărta către poartă:</p>
+<p>— Oricine vei fi, zise ea cu un glas mai stins, nu te depărta de mine.... nu mă lăsa să pier!</p>
+<p>Și după ce șovăi câteva secunde, căd.u lungit în mijlocul bătăturei.</p>
+<p>Orodel nu se mai îndoi că era un nefericit care avea nevoie de ajutorul său, și ducându-se spre dânsul, îi ajută să se ridice pe picioare, apoi îl duse până la prispă, îl așeză acolo cu capul rezemat de zid și îl întrebă ce are de își ținea fruntea cu mâna.</p>
+<p>— Ce aud! zise el, Orodel! nu ești Orodel?</p>
+<p>— Călin! strigă acesta cu mirare; dar ce ți s-a întâmplat?...</p>
+<p>dar pentru că nu avea timp să zică o vorbă, acesta îi astupă gura cu palma sa cea largă, și arătându-i pistolul la raza lunii care batea în terestră.</p>
+<p>— Să nu crâcnești sau să faci vreo mișcare, îi zise el, că te lungesc la pământ!</p>
+<p>— Ce vrei cu mine? întrebă Graur înspăimântat, silindu-se să cunoască pe acela care îl amenințase astfel.</p>
+<p>— Vorbește mai încet și vei afla îndată ceea ce vreau cu tine. N-am venit să-ți fac niciun rău, dar vreau să te strâng în chingi cu ștreangul acesta ca să nu-ți cadă șeaua pe drum, și apoi să te duc unde te așteptă doi ochișori șoimuleți care doresc să te vadă și să te mângâie cu focul lor cel dulce... Nu te mira, când îi vei vedea, îi vei cunoaște.</p>
+<p>— Dar nu poți să mă duci nelegat? ce înseamnă?...</p>
+<p>— Nu, că îi e frică să nu zboare puiul cu teiul tocmai când va fi temeiul.</p>
+<p>— Și cine e aceea care i s-a făcut dor de mine și eu nu știu nimic?</p>
+<p>— Hopa! zise haiducul aruncând pe Dinicu legat pe largii săi umeri.</p>
+<p>Îndată vei face cunoștință cu dânsa, adăugă el.</p>
+<p>Și ieșind cu dânsul în cârcă, apucă pe calea muntelui iuțind pașii ca s-ajungă mai curând.</p>
+<p>— Dar unde vrei să mă duci? încercă să mai întrebe nefericitul Graur, când văzu pe răpitorul său suind muntele cu dânsul.</p>
+<p>— Nu-ți spusei o dată că te duc la doi ochi care doresc să te vadă?</p>
+<p>— Sunt doi ochi care doresc să mă vadă legat!... N-am mai văzut așa iubire priponită cu frânghii! zise judecătorul în culmea duioșiei sale.</p>
+<p>Trecând pe lângă o șipotă, Boilă se opri să bea apă, deoarece simțea că i se aprinsese setea după atâta băutură de vin și de rachiu; el depuse sarcina sa pe iarbă, și după ce bău cât bău, își umplu pumnii de apă și veni la Graur.</p>
+<p>Na, bea și tu daca ți-e sete; e rece ca gheața, îi zise el.</p>
+<p>— Nu vreau să beau nimic, răspunse Graur privind cu dezgust la mâinile cele negre ale haiducului.</p>
+<p>— Cum îți va plăcea, zise acesta spălându-și mâinile cu apa din ele, apoi luându-și iar sarcina în spinare, își urmă calea înainte.</p>
+<p>— Se luminase de ziuă când ajunse Boilă înaintea Minei. Ea îl aștepta nerăbdătoare în ușa bordeiului ei, din care se vedea flacăra unei văpaițe licărind încă în umbra cea deasă a acelei vizuini unde lumina zilei nu străbătea niciodată.</p>
+<p>— Să trăiești, căpităneasă! zise Boilă oprindu-se în fața Minei, ți-am adus vânatul pe care-l doreai. Iată-l, e gras ca un mistreț hrănit cu ghindă.</p>
+<p>— Vânatul ei?... vor dară să mă mănânce nespălații aceștia! cugetă Graur înfiorându-se la astă ideee.</p>
+<p>Mina se apropie de el și privindu-l în față:</p>
+<p>- Așa e! zise ea, dar aș fi vrut mai bine să fie femeia lui... Mă cunoști? îl întrebă ea când îl văzu pus în picioare rezemat de trunchiul unui copac.</p>
+<p>— Nu te cunosc, răspunse Graur. Dar ce vreți cu mine, ce v-am făcut eu de m-ați adus aici?</p>
+<p>Toți haiducii veniră, împinși de curiozitate, să asiste la scena ce era să se petreacă.</p>
+<p>— Nu cunoști, urmă Mina, pe aceaa care, sunt câteva luni, venise se roage pe femeia ta să scape pe soțul ei din închisoare unde zăcea închis de florile mărului, fără să fi făcut niciun rău, și drept răspuns, a fost dat afară cu neomenie? Nu sunt eu care mi-am dat casa soției tale pentru căutarea sănătății sale, și drept răsplată m-ai pus și pe mine la închisoare, ceea ce m-a făcut să-mi năpustesc și casa și tot ce am muncit din copilăria mea și până atunci? Mă cunoști acum?</p>
+<p>— Îți voi plăti casa și tot ce zici că ai pierdut, dar dați-mi drumul de aici.</p>
+<p>— Nu-ți cer nicio despăgubire pentru câte m-ai făcut să sufăr... De vei cheltui toată averea ce o ai, nu vei răscumpăra fericirea pe care am pierdut-o cu soțul meu dimpreună.</p>
+<p>— Dar atunci, ce vrei ?</p>
+<p>— Vreau să-ți întorc cruzimea pentru cruzime, vreau să se afle în lume cum trebuiesc pedepsiți toți aceea care n-au inimă și suflet, că doară se vor îndrepta de frică dacă nu din aplecarea firească spre bine.</p>
+<p>— Vreți dar să mă ucideți! urlă Graur. Dacă aveți acest cuget, lăsați-mă mai bine să-mi răscumpăr viața cu aur. Cât cereți pe viața mea?</p>
+<p>— Viața ta pentru mine nu face nicio lețcaie. Dacă viața unui mișel s-ar prețui cu aur, cu ce s-ar plăti oare viața celor buni și cu frica lui Dumnezeu!</p>
+<p>— Atunci faceți cu mine ce vreți ca să mă leg o dată într-un fel, zise Graur, pierzându-și răbdarea.</p>
+<p>— Ceea ce aș face cu tine, răspunse Mina, ar fi să te țin la o închisoare atâtea zile câte a stat soțul meu și cu mine pe nedrept, dar fiindcă nu găsesc aici un loc așa de rău în care să te pun, voi zice oamenilor mei să te scuipe în față și apoi să-ți dea drumul.</p>
+<p>— Iartă-mă, zise Graur, lăsându-se să cadă în genunchi.</p>
+<p>— Nicio iertare pentru cel ce n-a voit să ierte! și făcând un semn haiducilor, ei veniră pe rând să aplice pe fața acelui nefericit insulta cea mai rușinosă și care e mai crudă și decât moartea.</p>
+<p>Graur fu în urmă dezlegat și i se dete voie să se întoarcă de unde fusese adus.</p>
+<p>***</p>
+<p>Când ajunse la cârciumă, Graur cătă pe arnăutul său, dar el se afla tot adormit sub masă unde fusese trăznit de somnul beției sale... Strigă pe cârciumar, care îi răspunse din camera sa că nu poate veni fiind ușa încuiată pe dinafară; el îi deschise ușa și află de la dânsul și de la femeie așa că un necunoscut, pe care nu-l mai văzuse până într-acea zi. Venise în ajun și după ce a băut cu arnăutul mai toată noaptea, a așteptat până i-a văzut pe toți adormiți, apoi a ieșit fără să plătească și a încuiat ușa pe dinafară, dar ce va fi făcut de aici înainte nu mai știa nimic, fiind adormit și cu ușa încuiată.</p>
+<p>— Bine, voi găsi ace pentru cojoacele tu-</p>
+<p>turor când mă voi întoarce acasă, răspunse el.</p>
+<p>— Câteva minute în urmă, el se puse în trăsura sa și plecă iar spre Ploiești.</p>
+<p>Mina după ce așteptă să se depărteze Graur din tabăra ei, prevăzând răzbunarea acestuia, care ar fi provocat fără îndoială trimiterea unei puteri armate în contra celor ce-l batjocoriseră cu atâta cruzime, crezu de cuviință să părăsescă îndată acele locuri și să caute un adăpost mai departe în care să se poată feri de orice urmărire.</p>
+<p>Chiar în ziua aceea, haiducii își strânseră boarfele lor, își ascunseră armele și luându-și instrumentele de cosit, plecară peste munți, căutând pe cât era putință, căile cele mai lăturașe și mai puțin umblate de oameni.</p>
+<p>— Unul la număr, zise Mina în sine după ce ieși din munții ei; mai sunt încă doi... cârmuitorul și... ea suspină neputând pronunța numele lui Orodel... Dacă știa, biata fată, era să adauge și numele lui Călin, dar nu-i trecea prin minte că el mai trăia pentru păcatele ei...</p>
+<p>Pe când se petreceau cele mai sus descrise, Orodel, după ce a umblat forfota mai mult timp prin locurile cele mai ascunse, ferindu-se de urmărirea celor ce ar fi umblat să-l prindă, ajunse în cele din urmă în starea cea mai păcătoasă și cea mai de plâns care putea să fie. Nemâncarea și răul trai ce îl dusese până atunci îl slăbiseră într-atâta încât, nemaiputând lupta în contra suferințelor și trăsurilor ce le încercase, căzu zdrobit de oboseală, la marginea unei păduri care se lega atunci cu nemărginita pădure a Vlăsiei, atât de renumită odinioră pentru nenumăratele</p>
+<p>tâlhării ce se petreceau sub umbra cea întunecoasă și nestrăbătută a copacilor ei seculari...</p>
+<p>Orodel căzu dară la marginea acelei păduri, alături cu drumul cel mare dintre București și Ploiești... El nu știa unde se află.... nu mâncase de trei zile, și apa era cam rară prin locurile acelea... el ar fi băut și din urma vitelor, dar nu plouase de mai multe zile și pământul era uscat de atâta secetă...</p>
+<p>— Cu fața trasă și galbenă, cu ochii în fundul capului și mai știnși, cu picioarele goale și rănite de țepi, cu o cămașă zdrențuită pe dânsul, Orodel semăna cu un ostaș căzut în bătălie care își da sufletul după ce fu dezpoiat de mâinile inamicului...</p>
+<p>În această stare duioasă, el își aduse aminte de trecutul său... Când viitorul fuge dinaintea ochilor unui nefericit, el își întoarce ochii spre trecut, cerându-i ultima mângâiere...</p>
+<p>Mina cea frumoasă, Mina pe care el o iubise așa de mult, de care fusese și el iubit odinioară, unde este ea!... Mai cugetă oare la dânsa?... El se cunoștea destul de greșit către dânsa și se mustra amar pentru că n-a știut să prețuiască un suflet așa de simțitor, o inimă asa de fragedă și credincioasă, care înfruntase toate pericolele pentru ca să-l scape din închisoare, biata copilă!... și el s-o părăsească fără niciun cuvânt, fără nicio mustrare de cuget, tocmai pe când ei își făceau cele mai frumoase proiecte pentru un viitor fericit!... Să fi fost toate astea un vis, care a fost urmat de o deșteptare așa de tristă, așa de amară!... Daca n-a fost vis, ce s-a făcut ea?... De ce a pierit din</p>
+<p>lume, lăsându-și casa în voia întâmplări și ducându-se să se ascundă de ochii oamenilor până unde n-ar putea pretinde ei!... Adevărat să fie oare că Mina s-a pus în fruntea haiducilor lui Călin și s-a închis cu dânșii în munții cei mai nestrăbătuți?... Apoi amintirea lui Călin, pe care îl găsise în ușa Minei și ceea ce îi spusese el despre dânsa, veniră să-i tulbure mințile, să-i răscolească sufletul; îndoiala cea neagră îi cuprinse inima... el închise ochii ca și cum n-ar fi vrut să mai vadă trecutul său spre care se întorsese cu atâta farmec... Ochii lor se umplură de lacrimi, pieptul lui se umplu de suspine, părea ca un om în agonia morții pe care n-a chemat-o el, dar de care nu voiește să fugă cu toate acestea...</p>
+<p>Pe când Orodel se zvârcolea astfel între diferitele simțăminte, ce se ciocneau în sufletul său, se auzi o bandă de lăutari care se apropia de locul unde se afla el... un cântec de veselie însoțit de mai multe chiote voioase îl făcură să se deștepte din letargia lui... el vru să se depărteze, dar încercările lui de a se scula din loc nu-l ajutară intru nimic. Un minut după aceasta, Orodel văzu trecând dinainte-i o grupă de flăcăi și de fete în costume de sărbătoare - era o zi de Duminică,— în mijlocul grupei erau doi tineri, mirele și mireasa ținându-se de mână, surâzându-și unul altuia, amândoi strălucind de veselie, amândoi juni și frumoși, gătiți cu flori și cu hainele lor cele scumpe... După dânșii veneau părinții lor dimpreună cu alți bătrâni și cu un preot care avea o barbă lungă și albă... Mirele era fiul unui locuitor cu dare de mână</p>
+<p>din satul Otopenii, iar mireasa era din satul Băneasa, amândouă satele în apropiere de capitală.</p>
+<p>Când ajunse convoiul nuntașilor până în dreptului Orodel, unul din bătrâni văzându-l în acea stare de ticăloșie și de suferință, se întoarse către preot și îi zise:</p>
+<p>— Ce e lumea asta, părinte! pe când unii se bucură, alții gem și se vaietă!.. și mira-m-aș dacă nu e aproape să-și dea sufletul sărmanul tânăr care zace întins colo pe iarbă! și arătă cu mâna în partea unde se afla Orodel.</p>
+<p>Preotul își arătă privirile asupra acelei nefericite ființe, se uită lung cu o căutătură curioasă, apoi fiindcă îl împiedica lumina soarelui de a vedea bine, puse mâna deasupra ochilor și încredințându-se că nu s-a amăgit:</p>
+<p>— Mergeți înainte că vă sosesc și eu îndată, zise el acelora pe care îi însoțea, și el se îndreptă către Orodel cu pașii pripiți.</p>
+<p>— Tu ești, Orodel? îl întrebă preotul când se apropie de dânsul.</p>
+<p>Orodel deschise ochii și se uită cu o privire rătăcită la acela ce îi vorbea.</p>
+<p>— Ce, mă, nu mă cunoști?... Uită-te bine la mine... Dar ce e asta pe capul tău! Nu-mi spui ce ți s-a întâmplat de ai ajuns în starea în care te găsești?... Scoală-te mai iute de acolo și hai acasă la unchiul tău... Nu sunt eu frate cu răposatul tată-tău? sau nu vrei să fii nepot?</p>
+<p>— Nu mă pot mișca, unchiule, răspunse Orodel după ce a încercat în deșert să se scoale.</p>
+<p>— Așteaptă dacă este așa și alergând spre ceata nuntașilor ceru o ploscă cu vin, se întoarse la nepotul său și îl făcu să înghită câteva sorbi-</p>
+<p>turi... Aceasta îi dete puțină vioiciune și, ajutat de preot care, cu toată bătrânețea lui avea încă destulă putere, se sculă în picioare.</p>
+<p>Satul Otopenii, de unde era preotul și către care se îndreptau nuntașii, se afla la vreo sută de pași de dânșii. Apropiindu-se de acel sat, preotul scoase un inel de argint ce-l avea în deget</p>
+<p>și dându-l lui Orodel:</p>
+<p></p>
+<p>— Ține inelul acesta, îi zise el, și du-te cu el acasă la mine, în curtea bisericii, arată-l preotesei care poate nu te va cunoaște, că nu te-a văzut de mult. Ea e pătimașă de picioare și o vei găsi acasă... Cere-i să-ți dea de mâncare și o haină să te îmbraci, după ce îi vei spune cine ești. Haide, du-te curând... pe la toacă mă întorc</p>
+<p>și eu.</p>
+<p> </p>
+<p>Preotul se duse apoi să se întrunească cu nuntașii care îl așteptau la părinții mirelui cu masa și cu lăutarii.</p>
+<p>La întoarcerea lui, găsi pe Orodel mai întremat și mai vesel; el spuse toate întâmplările lui, de la început și până s-a întâlnit cu unchiul său. Preotul cumpără de la un sătean un rând de haine noi și îmbrăcă pe nepotul său de sus până jos.</p>
+<p>— Și acum ce ai să faci? îl întrebă după ce l-a văzut îmbrăcat.</p>
+<p>— Ce să fac!..., nici eu nu știu... Ți-am spus că sunt fugit din închisoarea de la Ploiești și mă tem să nu umble după mine să mă prindă, răspunse Orodel.</p>
+<p>— Stai aici la noi, dacă ți-e frică să nu fii prins, zise preoteasa.</p>
+<p>— Aici nu pot sta, deoarece sunt chiar în</p>
+<p>drumul lor... Mai bine m-aș duce în vreun județ mai depărtat unde să nu fiu cunoscut, decât, ce să fac și acolo dacă n-am mijloace ca să mă apuc de ceva.</p>
+<p>— Și cum vrei să-ți știm de rost dacă te vei depărta de noi?</p>
+<p>— Vă scriu aicea câte o scrisoare din când în când.</p>
+<p>Bine zicea tată-tău, Dumnezeu să-l ierte! te-a pus la carte, vrând să facă un om cum se cade din tine, dar n-a apucat bietul să-și împlinească dorința, fiindcă chiar în anul acela a fost luat la oaste și a murit bătându-se cu turcii... Tu ai rămas mic, băiat de vreo 7 ani numai și nici mama ta nu trăia ca să te îngrijească, ci ai crescut mai mult prin mâini străine. Eu când te-am căutat să te iau la mine, fiindcă nu mi-a trăit niciun copil, tu erai dus în lume. Sunt acum doi ani de când te-am întâlnit aproape de Ploiești cu încă un flăcău de seama ta, dar atunci nu voiai să vii, ci ți-a plăcut să trăiești mai mult cu dânsul. Iată unde te-a dus nada cu astfel de om stricat!</p>
+<p>— Văd și eu unchiule, că ai dreptate, dar ce a fost n-are să mai fie, numai dacă m-ai ajuta să scap de starea în care m-ai găsit și să pot face ceva ca să mă căpătuiesc și eu într-un fel, sau să știu încaltea că nu e lumea făcută pentru mine și atunci...</p>
+<p>— Nu vorbi așa, întrerupse preotul, că păcătuiești, fătul meu. Dumnezeu nu lasă pe nimeni să piară.. Bine că te-a scos înaintea mea. Eu îți voi fi ca un părinte... Deocamdată, urmă ei scoțând un suspin profund și deschizând o ladă</p>
+<p>verde legată cu șine de fier, deocamdată... și preotul, întors cu spatele la nepotu-său, număra câteva monede în palma sa, silindu-se pe cât putea a le face să nu sune, ține acești bani, ce i-am pus în hârtia asta... Vezi, strânge-i bine să nu-i pierzi!... Cu ei te poți duce oriunde credi că vei putea fi mai ferit de cei ce te urmăresc, și totodată te poți apuca de ceva să-ți faci vreun rost. M-ai auzit?... Fii cu minte dacă vrei să mă ai ca pe părintele tău.</p>
+<p>Orodel sărută mâna unchiului său și preotesei, apoi își luă ziua bună de la dânșii.</p>
+<p>— Nu stai să petreci noaptea la noi? îl întrebă preotul.</p>
+<p>— Nu, unchiule, fiindcă noaptea pot umbla, ziua mă tem să nu fiu cunoscut. Și se depărta.</p>
+<p>Când se văzu singur, se dete laoparte și numără banii ce-i primise... erau treizeci de galbeni de aur.</p>
+<p>— Asta e o avere! zise Orodel în sine... Bietul meu unchi... eu îl și uitasem dacă mai trăia pe lume!..</p>
+<p>El merse câtva timp tot cugetând la mica sa avere și făcând mii de proiecte despre chipul întrebuințării banilor săi, până când văzu că noaptea era prea înaintată pentru ca să poată merge mai departe... Unde să doarmă el, mai ales când se știa și cu banii la dânsul!... Se uită împrejurul său și văzu o lumină la o casă ce nu părea prea departe de locul unde se afla el... Se îndreptă spre dânsa... Era o cârciumă... el intră într-însa și ceru să i se aducă o litră de vin. Pe când se așeza pe un scaun ca să-și bea vinul, el auzi doi oameni vorbind într-o</p>
+<p>încăpere de-alături... ei ședeau la o masă mică unde mâncaseră și acum stăteau de vorbă între două sticle de rachiu.</p>
+<p>Deodată Orodel se opri din băutura sa... El recunoscu glasul unuia din acei doi convorbitori și acum trăgea cu urechia ca să asculte la aceea ce vorbeau.</p>
+<p>Iaca ce ziceau ei:</p>
+<p>— «Eu nu cred să fi părăsit ei locul unde erau așa de bine ascunși, zicea unul.</p>
+<p>— «Cârciumarul din vale, unde se duceau ei adesea să bea și să mănânce, răspunse celălalt, m-a încredințat că sunt zece zile de când nu s-a mai văzut niciunul dintr-înșii pe la cârciuma lui, ba încă mai spunea că a doua zi, după cele întâmplate judecătorului, i-a întâlnit niște săteni îndreptându-se spre locurile astea.</p>
+<p>— «Călin! zise Orodel în sine. Dar ce va fi căutând el pe aici?...Cine să fie celălalt?...</p>
+<p>— «Și câți oameni ai, căpitane? întrebă acesta.</p>
+<p>— «Patruzeci de poterași, răspunse întrebatul, dar mi s-a dat voie să ridic satul tot dacă va fi trebuință.</p>
+<p>— Călin, căpitan de poteră! Ce minune să fie asta! cugetă Orodel.</p>
+<p>Cei doi convorbitori își reluă șirul vorbii.</p>
+<p>— «Și unde sunt oamenii, că nu-i văd pe aici? întrebă acela ce nu era cunoscut lui Orodel.</p>
+<p>—«Sunt în curtea din dos, răspunse Călin, le-am dat voie să se culce, fiind-ă au umblat toată ziua astăzi, și mâine am să-i scol pe la revărsatul zorilor ca să ne punem pe lucru.</p>
+<p>—«O vom împresura, o vom tăia, îi vom da</p>
+<p>foc, nici eu nu știu ce vom avea să facem, dacă nu vom putea pune altfel mâna pe ei.</p>
+<p>— «Greu, căpitane!</p>
+<p>—«Pentru ce zici că e greu?</p>
+<p>—«Pentru că, după cum spun unii alții care cunosc lucrurile mai bine, ei au în fruntea lor o femeie de căpităneasă, care e numai dracul gol, plină de deșteptăciune, de prevedere și de bărbăție, apoi, ce mai e de însemnat, este că e dreasă, cum am auzit.</p>
+<p>— «Dreasă! râse Călin; când n-aș cunoaște-o de aproape aș crede și eu câte se zic despre ea, dar se cheamă că ne cunoaștem, și încă cum!...</p>
+<p>—«O cunoști dar așa de bine?</p>
+<p>—«E așa de frumoasă că eram aproape să-mi pierd viața pentru dânsa, într-o seară când am găsit-o singură acasă la ea.</p>
+<p>Orodel își simți inima pătrunsă de un fier ars.</p>
+<p>—«Dar ea n-a fost măritată niciodată? întrebă celălalt.</p>
+<p>— «Nicioadată, răspunse Călin.</p>
+<p>Acest răspuns încurcă mințile celui ce îl primi... El știa că Mina, după cum spusese ea, era femeia lui Călin, pe când acesta era căpitan de haiduci, cum dară acela care era soțul ei spunea acum că ea n-a fost niciodată măritată!...</p>
+<p>Ei mai vorbise despre alte lucruri, mai băură câte un pahar, apoi fiindcă era târziu, străinul se sculă, chemă pe cârciumar, plăti cheltuiala toată și întorcându-se către Călin:</p>
+<p>— Să auzim de bine, căpitane, zise el.</p>
+<p>— Sărut mâna, părinte, răspunse Călin, și se întinse pe un pat de alături să se culce, deoarece era învins de somn și de băutură.</p>
+<p>Străinul care ieși din camera lui Călin era</p>
+<p>de o talie de mijloc, alb la față, cu barba și cu mustățile rase de curând, cu un nas lung pe care îl mângâia mereu cu mâna, astfel că ar fi zis cineva că îi era teamă să nu cadă și se silea să-l țină la loc. Ochii lui erau ascunși după niște ochelari verzi foarte mari, pe cap purta o pălărie neagră rotundă cu marginile întoarse pe amândouă tâmplele lui. Îmbrăcămintea lui era a unui preot catolic, cu un toiag într-o mână și cu niște mătănii de os negru într-alta.</p>
+<p>Văzându-l Orodel, se uită lung la dânsul silindu-se să-l cunoască, dar nu-și aducea aminte să-l mai fi văzut vreodată... Din parte-i, străinul, intrigat de curiozitatea cu care-l privea Orodel și temându-se ca nu cumva să-l fi cunoscut acesta:</p>
+<p>— De ce te uiți așa la mine? îl întrebă el.</p>
+<p>— Mă uit, răspunse el încet, fiindcă te-am auzit vorbind cu celălalt niște lucruri care m-au pus în mare grijă.</p>
+<p>Străinul dase din umeri și se pregătea să iasă.</p>
+<p>— Ia nu te duce încă, zise Orodel, te văd după port că ești un om curios, și asta mă îndeamnă să-ți vorbesc fără sfială.</p>
+<p>— Și ce ai să-mi spui?</p>
+<p>— Hai cu mine până afară, zise Orodel îndreptându-se spre ușă, aici nu putem vorbi, deoarece mă tem să nu mă audă cineva.</p>
+<p>Orodel vorbise cu atâta mister, fizionomia lui părea așa de tulburată, încât străinul se interesă să audă ceea ce avea să-i spună el.</p>
+<p>Amândoi ieșiră afară și, după ce se depărtase câțiva pași pe drumul cel mare:</p>
+<p>— Acum spune-mi mai curând că mă grăbesc, zise străinul.</p>
+<p>- Voiam să știu dacă aceea care este căpităneasa haiducilor se află în adevăr în pădurea Vlăsiei cu ceata ei.</p>
+<p>- De unde vrei să știu eu, de ce mă întrebi?</p>
+<p>După cele ce spuneai celuilalt, pare că știi.</p>
+<p>- Și ce te face să vrei să afli dacă haiducii sunt în Vlăsia sau nu?</p>
+<p>- Nu mi-e de haiduci, ci de căpităneasa lor, răspunse Orodel.</p>
+<p>Străinul îl privi lung în tăcere.</p>
+<p>- Poate că te ferești de mine, urmă Orodel, văzând îndoiala străinului, dar n-ai la ce te feri, n-am niciun cuget rău... m-aș putea jura pe Sfânta Cruce... ba încă dacă aș ști unde se află ea, m-aș duce acum îndată s-o încredințez despre ceea ce o amenință pentru ziua de mâine.</p>
+<p>- Mâine, cine știe de nu va găsi în pădure numai iepuri și vulpi, răspunse străinul cu un râs batjocoritor, și se depărta cu grăbire.</p>
+<p>Orodel se uită după dânsul până când îl pierdu din vedere, apoi se întoarse la cârciumă unde ceru să i se dea un loc de culcare numai pe seama lui, fiindcă nu voia să dea ochi cu Călin.</p>
+<p>***</p>
+<p>A doua zi, pe când potera, cu căpitanul ei în frunte, se ducea să calce pădurea și să prindă pe haiduci dimpreună cu Mina căpităneasa lor, Orodel deșteptându-se din somnul său, care fusese întrerupt de mii de temeri și tulburat de mii de vise urâte, și văzând că nu mai remăsese niciunul din aceea de care nu voia să fie</p>
+<p>văzut, plecă și el, fără să știe unde se ducea, dar negreșit nu spre partea unde văzuse că apucase potera.</p>
+<p>După ce umblă mai bine de o oră și jumătate, se văzu în fața unui oraș mare... Deodată se opri în loc... Oare nu era Ploiești la care se întorcea el fără să știe!... Pe cine să întrebe!... Mai făcu câțiva pași înainte, se uită împrejurul său, când iată un om călare venind în buestrul calului dinspre partea locului.</p>
+<p>- Măi nene, ce oraș este acela de unde vii? îl întrebă Orodel.</p>
+<p>— București, punga scuturești, îi răspunse călărețul și se depărtă.</p>
+<p>— Răspunsul ce-l primi Orodel nu prea era de natură a-l încuraja să intre într-un oraș care-l va scutura de bani. Cu toate acestea, el se mulțumi că nu era Ploiești de care se temuse și hotărî să meargă înainte.</p>
+<p>— București e un oraș mare, cugetă el; acolo nu cunosc pe nimeni și nimeni nu mă va cunoaște... Apoi, cine știe, poate voi găsi ceva de făcut ca să pot trăi prin acea lume multă! și intră în capitală.</p>
+<p>El găsi străzile pline de oameni, circulând în toate părțile, bărbați, femei, în diferite costume. Toți treceau pe lângă dânsul fără a-și arunca ochii asupra lui, ceea ce-l făcea să se mire de atâta nepăsare din partea lor, pe când se știa că avea treizeci de galbeni în chimirul său și era îmbrăcat într-un port nou, de abia de ieri cumpărat... Dar mulțimea trăsurilor îl cam încurcau adesea și îl împedicau de a umbla pe unde voia el... După un umblet destul de lung, el se</p>
+<p>simți cam ostenit și se uită să vadă vreun loc de șezut... La dreapta sa era o bancă dinaintea unei case cu câțiva tei de curând sădiți,.. Se apropie de acea bancă să șeadă, când aruncându-și privirea înăuntru, văzu mai mulți oameni așezați la câteva măsuțe și bând din niște cești pe care le aducea dinaintea lor un băiat însărcinat cu acest serviciu. Orodel crezu că era o cârciumă și intră și el să ceară de băut.</p>
+<p>— Nu ținem vin aici, îi răspunse băiatul la care se adresase; aici e cafenea; dacă vrei să-ți aduc o cafea sau o dulceață, dar vin nu se găsește la noi.</p>
+<p>— Atunci dă-mi un pahar cu apa că nu mai pot de sete, zise Orodel.</p>
+<p>— Apă fără dulceață nu se dă, răspunse băiatul.</p>
+<p>— Adu-mi dar cum se dă, dacă nu se poate altfel.</p>
+<p>Băiatul îi aduse o dulceață și un pahar de apă. Orodel bău apa și plăti dulceața fără a se atinge de ea.</p>
+<p>— Bre! dar scumpă mai e apa în acest oraș, se mira el. Și cu toate astea am auzit că Dâmbovița îl îneacă de multe ori cu prisosul apelor ei.</p>
+<p>— D-ta nu ești de aici? îl întrebă cineva care sta alături la o altă măsuță și care avea aerul unui negustor de a treia mână.</p>
+<p>— Sunt de la țară, răspunse Orodel; astăzi am venit pentru întâia oară aici.</p>
+<p>— Poate că ai vreo judecată cu cineva? îl întrebă negustorașul.</p>
+<p>— Ba m-a ferit Sfântul! Am venit să încerc</p>
+<p>dacă aș putea întreprinde ceva ca să-mi țin viața.</p>
+<p>— Ca ce lucru ai vrea să faci?</p>
+<p>— Nici eu nu știu bine... ori și ce... vreau să muncesc ca să trăiesc cu munca mea... m-aș pricepe la orice m-ar pune cineva... sau m-aș apuca de vreo speculă... Am auzit că cine se apucă de vreo negustorie se umple de bani.</p>
+<p>— Este prea adevărat, numai să fie cineva deștept și cu credință și să n-aibă darul beției.</p>
+<p>— Astea nu scrie la mine... vreau să muncesc cu omenie și să fiu întotdeauna cu fața curată ... numai de-aș găsi, de-aș ști ce să fac...</p>
+<p>— Sunt multe de făcut, bunăoară, iată... mie mi-ar trebui un om așa ca d-ta pentru o speculă ce vreau să fac.</p>
+<p>— Ce fel de speculă?</p>
+<p>— Am vreo cinci sute de capete de porci îngrășați pentru vânzare... Dacă ai vrea să te tocmești la mine ca se mi-i duci la Brașov, acolo cumpărătorii sunt gata, cum vei sosi, banii ți se vor număra îndată. Dar fiindcă potae nu știi bine seama, mă vei aștepta cu ei la Predeal, aproape de vamă; eu voi veni îndată, ne vom duce împreună, și orice câștig vom prinde din vânzarea lor, a patra parte va fi a d-tale.</p>
+<p>— A patra parte! atunci suntem învoiți, zise Orodel cu un aer mulțumit.</p>
+<p>— Rămâne numai un lucru de împlinit, mai înainte de a începe întreprinderea noastră, zise negustorașul.</p>
+<p>— Care lucru?</p>
+<p>— De, nu trebuie să te superi, dar fiindcă nu te cunosc bine, deși vorbele ți-au fost</p>
+<p>destul de frumoase, însă nu e de ajuns aceasta pentru ca să-ți încredințez o marfă de mai multe sute de galbeni.</p>
+<p>— Dar ce trebuie să fac pentru ca să ai încredere în mine că nu te voi înșela?</p>
+<p>— Daca cunoști pe cineva, cum am zice un negustor de frunte sau un proprietar, care îi să stea bun pentru d-ta, atunci mi-ar pieri orice frică, orice îndoială. Așa e regula pe la</p>
+<p>noi.</p>
+<p>— Dar pe cine să am? nu cunosc pe nimeni aici... sunt cu totul străin...</p>
+<p>— Îmi pare destul de rău... Dar oare... să vedem... poate că ar fi chip să facem și almin-</p>
+<p>teri.</p>
+<p>— Și cum?</p>
+<p>— Când ai avea niscaiva bani cu care să mă asiguri dându-mi-i în păstrare până voi veni să te găsesc la Predeal, și atunci, fiindcă ne vom duce împreună, ți-i voi înapoia îndată ce voi sosi acolo.</p>
+<p>— Am vreo treizeci de galbeni, răspunse Orodel, care nu voia să piardă frumoasa ocazie ce i se înfățișa, dar am stricat numai unul ca să plătesc mâncarea mea de ieri.</p>
+<p>— Treizeci de galbeni! zise speculantul, ca cum ar fi vorbit în sine... Treizeci de galbeni ca să asiguri o marfă de treizeci de ori mai scumpă !... Dar ce să zici! fiindcă nu ai mai mult decât atât, fie... îi ai la d-ta?</p>
+<p>— Îi am la mine, zise Orodel scoțând din brâul său o chârtie cu douăzeci și nouă de galbeni și câteva bucăți de argint. Apoi nu-</p>
+<p>mărând monedele de aur în palma speculantului, le</p>
+<p>opri pe cele de argint și le puse la loc în brâul său. — Am oprit numai cât să-mi ajungă de cheltuială pe drum, adăugă el.</p>
+<p>— Cheltuiala drumului mă privește pe mine, zise speculantul, punând banii în buzunarul său. Dar acum iată ce e de făcut ca să nu pierdem timpul, fiindcă aș vrea să pleci chiar de astăzi cu porcii... Unde să te găsesc?</p>
+<p>— Vin cu d-ta, răspunse Orodel sculându-se.</p>
+<p>— Așa... e mult mai bine cum zici... Atunci mă duc să-mi iau căruța din dos și vin să te iau să mergem împreună acasă la mine unde îți voiu da porcii în primire cu număr ca să știi câți ai primit... Lucru curat și lămurit. Nu e mai bine asa?</p>
+<p></p>
+<p>— Ba e mai bine.</p>
+<p>— Așteaptă-mă dară că vin acum.</p>
+<p>Și zicând așa, el ieși pe ușa din dos ca să se ducă la căruța ce zisese că o avea acolo.</p>
+<p>Orodel remânând singur, începu să socotească în mintea lui banii care avea să-i câștige... El mai ceru un pahar de vin, dar băiatul îi aduse un pahar de apă și o a doua dulceață.</p>
+<p>— La dracu ! zise el în sine, aici de câte ori ceri vin, tot apă îți aduce; se vede că nu crește viile prin locurile astea, ori că păstreză vinul pentru când se grijesc.</p>
+<p>Trecu aprope o oră de când plecă negustorul de porci, și el nu se întoarse încă... Orodel se uita la toți câți intrau în cafenea crezând să vadă pe acela ce-l aștepta, dar el nu se vedea încă... Timpul înainta, soarele începuse să scapete și nici o vorbă despre întoarcerea speculantului... Orodel își pierdu răbdarea. Oarecare</p>
+<p>temeri începură să-l cuprindă... să n-o fi pățit-o cu omul acela, care i-a șters banii și acum nu mai vine?... Dar să mă încred așa lesne într-un om neștiut și nevăzut până în ziua de astăzi, ba încă fără să-i cunosc nici numele, nici locuința!... El strigă pe băiatul din cafenea... acesta alergă îndată cu o dulceață și cu un pahar de apă.</p>
+<p>— Fugi cu apa, că-mi gâlgâieși acum în gât, îi zise Orodel; te-am chemat numai să te întreb daca cunoști pe acel cu care m-ai văzut vorbind odinioară la masa asta.</p>
+<p>— De unde să cunosc eu pe toți câți intră aici în cafenea! zise băiatul cam cu toane.</p>
+<p>— Acela, mă, care i-am numerat niște bani?...</p>
+<p>— Daca îl voi mai vedea vreodată, se face două cu asta, răspunse ei și se depărtă.</p>
+<p>Nemulțumit de acest răspuns, Orodel mai întrebă pe vreo doi sau trei alții pe care îi văzu jucând cărți la o masă.</p>
+<p>Nimeni nu știa de cine voia să întrebe păcălitul tânăr, și el se retrase într-un colț mustrându-se amar de greșeala sa.</p>
+<p>Orodel mai așteptă până ce înnoptă de tot, apoi plecă să-și caute un loc de dormit. A doua zi îndată ce se deșteptă din somn, el se întoarse iar la cafenea, se uită la toți oamenii ce-i văzu intrând unul după altul, dar niciunul din ei nu era acela pe care îl căuta el... Mai așteaptă până la amiază... până la toacă... până seara, dar el nu se mai văzu deloc. Acum nu-i rămase nicio îndoială despre mârșăvia acelui om care îi a pus la mână cu atâta dibăcie cum nu-și putea închipui niciodată... Toate proiec-</p>
+<p>tele lui pieriră ca o nălucă... Niciun ajutor de îndreptare....</p>
+<p>Cine să-l mai ajute în starea în care ajunsese iar?... Unchiul său?... Dar cu ce curaj era să se mai înfățișeze înaintea lui și cum să-i spună neiertata greșeală ce o făcuse, ușurința cu care se încrezuse într-un om văzut pentru întâia oară de dânsul?... cu toate acestea, altă scăpare nu-i mai rămânea.</p>
+<p>El se duse dară la bătrânul preot din Otopeni, îi spuse toată împrejurea și căzându-i în genunchi:</p>
+<p>— Tată unchiule, îi zise cu lacrimile pe ochi, ucide-mă, spânzură-mă, dar nu mă lăsa că sunt pierdut, și alt sprijin nu mai am după Dumnezeu,</p>
+<p>Iar bine că bunul preot s-a intîmplat să aibă un suflet bun compătimitor! îndată ce auzi nefericirea întâmplată nepotului său, el gemu din adâncul inimii sale, îi făcu câteva mustrări părintești, apoi crezând și rugămintelor preotesei, care nu înceta de a striga din fundul patului ei:</p>
+<p>— Iartă-l, părinte; e un copil încă... ce strică el daca l-a dus păcatele să intre în mâinile unui pungaș!... Nu știi ce sunt Bucureștii? care s-a dus acolo și s-a întors teafăr?... și altele asemenea.</p>
+<p>— Scoală-te și sărută mâna preotesei și îi mulțumește pentru că m-a rugat să te iert, zise pbeotul lui Orodel care sta încă îngenunchiat.</p>
+<p>Orodel făcu ce îi zise.</p>
+<p>Atunci unchiul deschise încă o dată lada sa cea verde și mai numără încă treizeci de gal-</p>
+<p>beni nepotului său; apoi punând mâna sa uscată și osoasă pe umărul acestuia:</p>
+<p>- Deschide-ți ochii bine, îi zise el, că dacă te vei mai lăsa să te înșele unii și alții ca pe un nătărău, nici să te mai cerci să vii la mine că nu mai vreau nici să știu, nici să aud că-mi ești nepot.</p>
+<p>— O dată, cine nu se poate înșela în viața lui? răspunse Orodel, dar a doua oară nu mă mai prinde, fie dracul măcar.</p>
+<p>Preoteasa tăcu trei cruci și își scuipă în sân când auzi numele necuratului. Orodel sărută mâna ei și a preotului și ieși hotărât a-și îngriji singur de viitor de aici înainte fără a se mai încrede in nimeni altul.</p>
+<p>Să-l lăsăm a-și căuta soarta cum se va pricepe</p>
+<p>și să ne întoarcem la Mina și haiducii ei.</p>
+<p>**</p>
+<p>*</p>
+<p>Omul cel îmbrăcat în costum de preot catolic, despărțindu-se de Orodel în noaptea când ieșiseră amândoi din cârciuma unde lăsaseră pe Călin cu ceata poterașilor săi, se îndreptă la casa unui sătean din marginea Otopenilor; acolo bătu în poartă care i se deschise, își dezlegă calul legat de un par de la gard, dase o monedă săteanului, se aruncă pe cal și se duse în fuga mare spre pădurea Vlăsiei, care era la o mică depărtare de acolo.</p>
+<p>Ajungând până la o distanță oarecare din pădure, el puse două degete în gură și făcu să se audă o șuierătură lungă și ascuțită... Deodată se simți o mișcare în pădure... Câțiva haiduci se văzură alergând la semnalul ce li se</p>
+<p>dăduse... apoi alții urmară după cei dintâi...</p>
+<p>Între aceștia din urmă, se auzi un glas de femeie întrebând.</p>
+<p>— Ce mai nou ne aduci, Boilă?</p>
+<p>— Când ar fi numai nouă, n-ar fi nimic, dar</p>
+<p>sunt patruzeci și nouă astă dată, răspunse acela care purta numele de Boilă și care nu era altul decât cel îmbrăcat în port de preot catolic.</p>
+<p>— Va să zică nu e de glumit? repetă acel glas.</p>
+<p>— Dacă n-ai cu cine! Ei nu prea știu de glumă, după cum îi simți, și sunt de părere să ne cam strângem catrafusele, dacă n-om vrea să ne jucăm, mâine dimineță de-a calda cu dânșii și cu alții vreo sută de săteni care îi vor însoți.</p>
+<p>— Atunci, pe drum, băieți? zise Mina care se grăbi să-și ia armele și capra de unde era legată.</p>
+<p>— Câteva minute după aceasta, ceata haiducilor ieșea din pădurea Vlăsiei și luă calea spre Argeș.</p>
+<p>Ei merseră astfel mai multe zile, sau, ca să zicem mai bine, mai multe nopți, deoarece ziua stau ascunși, care pe unde putea, și numai noaptea umblau după ce se liniștea lumea împrejurul lor.</p>
+<p>Erau aproape de mănăstirea Curtea de Argeș, când unul din Haiduci, rămas în urmă ca să privegheze mișcările poterei de care se temea să nu fie urmăriți, veni într-un suflet să aducă știre că a văzut cu ochii lui potera ieșind din</p>
+
+<p>să-l ajungă după socoteala lui, ea putea să fie numai la câțiva pași depărtare de dânșii.</p>
+<p>— Iuțiți pasul la mănăstire! zise haiduceasa făcând la dreapta împrejur spre locul arătat.</p>
+<p>Ei ajunseră în cele din urmă la poarta măreței mănăstirii Curții de Argeș... Poarta era încuiată, deoarece era aprope de miezul nopții... Cerul era întunecos și nicio stea nu se vedea, fiind peste tot acoperit de nori... Mina bătu de mai multe ori în poartă până auzi portarul și veni să întrebe cine bătea la acea oră înaintată.</p>
+<p>— Suntem niște călători, răspunse Mina, dar deschide-ne mai curând, fiindcă suntem urmă-</p>
+<p>riți de niște făcători de rele care s-au luat după noi și vor să ne prade.</p>
+<p>— Mă duc să spun părintelui econom, zise portarul.</p>
+<p>— Du-te mai curând și nu întârzia, că suntem pierduți, adăugă Mina.</p>
+<p>Economul înștiințat de portar, veni îndată și făcu pe haiduceasa să-i repete aceleași vorbe ce le zise portarului. În acel timp, se auzi zgomotul unor pași de oameni care se apropiau de mănîstire, ținând câte o torță aprinsă în mână ca să-și lumineze calea.</p>
+<p>— Îi vezi părinte cum vin! zise Mina: ei vorbeau între dânșii ca să prădeze și Sfânta mănăstire.</p>
+<p>Egumenul dase ordin să deschidă poarta.</p>
+<p>— Ascunde-ți armele! șopti căpităneasa haiducilor ei. Ei și le ascunseră și intrară pe rând până la cel din urmă... și Poarta fu abia închisă când iată și potera sosită... Căpitanul ei bătu și el în poartă cerând să i se deschidă.</p>
+<p>— Depărtați-vă de aici, zise economul din dosul porții; voi nu sunteți oameni buni și nu vă deschid.</p>
+<p>— E potera! răspunse cel ce a bătut în poartă. Am venit să prindem o ceată de haiduci pe care i-am văzut intrând aici înăuntru.</p>
+<p>— Haiduci! strigă economul uitându-se cu spaimă la cei ce intraseră.</p>
+<p>— Nu-i crede părinte, zise Mina, ei sunt tâlharii, iar nu noi, dar umblă să te amăgească pentru ca să te facă să le deschizi și când vor intra, să dea foc mănăstirii cu torțele ce și le-au aprins pentru acel scop.</p>
+<p>Economul nu știa pe cine să creadă... Vreo cinci sau șase călugări care se aflau în mănăstire, deștepându-se din somnul lor la zgomotul ce-l auziră, veniră să vadă ceea ce se întâmpla.</p>
+<p>— Vezi, părinte, să nu te căiești, repetă căpitanul poterei; suntem oameni ai stăpânirii trimiși să prindem pe haiducii pe care i-ați primit în mănăstire și nu se cade să ne faci vreo împiedicare.</p>
+<p>-— Oricine veți fi, eu nu vă pot cunoaște acum, răspunse economul. Așteptați până la ziuă ca să putem alege neghina din grâu la lumină mare, dar acum și părintele episcop e dus la București și nu pot face mai mult decât am făcut.</p>
+<p>— Așa e, așa e, ziseră vreo doi din călugări.</p>
+<p>— Aceasta e răspunsul cel din urmă pe care ni-l dai părinte? întrebă căpitanul poterei.</p>
+<p>— V-am spus tot ce puteam spune, răspunse economul.</p>
+<p>— Bine dacă e așa; vom vedea ce are să fie la urmă, zise căpitanul, și plecă cu ceata lui ca să ocolească mănăstirea de jur împrejur spre a vedea dacă se află vreun loc mai bun de urcat în curtea mănăstirii. Alt loc nu găsiră decât ferestrele caselor de jos, dar ele erau întărite cu fiare groase; se puseră cu tot dinadinsul să le scoată din loc... Atunci se dase alarma că tâlharii se încearcă să intre cu forța pe ferestre... Călugării năvăliră în casele de sus cu pietre și cu buturugi pe care le azvârliră în capul acelora cei credeau de făcători de rele... Mina puse doi oameni la poartă ca să nu lase cu niciun chip s-o deschidă cineva și să intre potera în mănăstire, apoi luând pe ceilalți, intră cu ei în camerele de sus și de jos pe unde încercau poterașii să intre, și comandă foc asupra lor...</p>
+<p>Poterașii neașteptându-se la atâta cutezare din partea haiducilor, și fiind cu toții grămădiți sub ferestre ocupați cu scoaterea ferestrelor, văzură mai mulți căzuți dintr-ai lor și se retraseră să-și apere viața... Erau vreo unsprezece cei căzuți până atunci... Aceasta îndârji pe căpitanul lor și el ordonă oamenilor lui să răspundă și ei prin focuri...</p>
+<p>De o parte și de alta focul începu viu și bine întreținut; el ținu mai bine de o oră; dar poterașii dau în ziduri, pe când haiducii trăgeau în carne vie și făceau a se împuțina din ce în ce numărul adversarilor lor.</p>
+<p>— Am rămas puțini de tot căpitane! zise unul din poterași arătând cadavrele care zăceau împrejurul său.</p>
+<p>— Câți mai sunteți ? întrebă căpitanul.</p>
+<p>— Din treizeci, abia am rămas unsprezece cu d-ta împreună.</p>
+<p>— Al dracului lăudăros! zise în sine Boilă care auzi vorbele poterașilor; el spunea că avea patruzeci de oameni cu dânsul.</p>
+<p>— Na! încă patru s-au mai dus! strigă poterașul; dacă vom mai sta aici, pierim cu toții fără niciun folos.</p>
+<p>— Spurcații! urlă căpitanul, uitând că cu puțin mai înainte .... Fusese în fruntea acelora pe care acum îi făcea spurcați.</p>
+<p>Șapte inși mai rămâneau în stare să se lupte care erau de trei ori mai mulțî la număr de cât denșii !...</p>
+<p>Căpitanul poterei scotea spume de turbare dar văzând neputința de a urma o luptă așa de smintită, se retrase cu rămășița oamenilor lui...</p>
+<p>Liniștea se restabili îndată după plecarea poterașilor... Călugării umblau forfota de colo până colo, întrebându-se între ei care să fi fost din acele două cete a haiducilor și care a poterașilor, la care ei nu răspundeau decât înălțând din umeri ca să arate neștiința lor.</p>
+<p>Cu toate acestea, Mina dase ordinele cele mai aspre oamenilor ei să nu se atingă de cel mai mic lucru de-ale Sfântului locaș, dar fiindcă unii din ei se adresară la un călugăr ca să îi ceară puțină apă de băut, acesta se duse și le aduse două cofe pline cu vin, drept mulțumire că le-au apărat mănăstirea de făcătorii de rele care amenințaseră s-o prade... vorbă să fie!...</p>
+<p>Începu a se face ziuă... Haiduceasa rămase încremenită când își aruncă ochii pe fereastă și</p>
+<p>văzu mulțimea cadavrelor zăcând sub zidurile mănăstirii... Nicio temere prin urmare nu putea s-o mai țină închisă acolo... Ea își luă ziua</p>
+<p>bună de la econom și de la ceilalți călugări, mulțumindu-le pentru primirea ce le-a făcut sub acoperământul lor și după ce dase câțiva bani economului ca să-i împartă la călugării cei săraci, ieși pe poartă și se duse să-și caute un alt loc de adăpostit.</p>
+<p>După plecarea haiducilor, unul din călugării care nu se putea mira îndestul de purtarea acestora:</p>
+<p>— Eu m-aș prinde, părinte econoame, zise el, că acești oameni nu pot fi făcători de rele.</p>
+<p>— De! ce să zic! răspunse economul încrețindu-și fruntea cu un aer cugetător, n-am auzit niciun drac să fi făcut vreo biserică, dar am văzut mulți păcătoși aprinzând câte o lumânare la icoane.</p>
+<p>***</p>
+<p>Trecură aproape doi ani de când Mina îmbrățișase viața haiducească, trăind, precum văzurăm, prin munți și prin codri fără niciun scop de a se înavuți și fără a cugeta încă să se întoarcă în societatea oamenilor din lume de care ea se despărțise poate pentru totdeauna. Haiducii ei nu prădau, ci, după cum spune Boilă, luau cu împrumutare, o împrumutare forțată, ce e drept dar fără chinuri și mai ales fără ucideri, ei nu ucideau decât numai când se vedeau atacați și nu puteau face într-alt chip.</p>
+<p>Astfel numele Minei haiducesei se lăți în</p>
+<p>toată țara... Nimeni nu mai vorbea decât de</p>
+<p>asemănase cu a niciunui dinhai ducii care au trăit înaintea ei.</p>
+<p>Cu toate acestea, rușinea ce o pățise de la dânsa Dinicu Graur aprinse așa de mult setea răzbunării în sufletul acestuia încât se duse îndată drept la Domnitorul țării, și căzându-i la picioare, îl rugă să ia măsuri pentru pedepsirea acelei cutezătoare ce a râs cu atâta cruzime de un boier ca dânsul care se bucura de înalta favoare a Măriei Sale prin postul de judecător ce îi încredințase... În urma acestei plângeri, capul haiducesei fu pus la preț... O mie de galbeni erau hotărâți pentru cine ar fi prins-o și ar fi dat-o în mâna autorității vie sau moartă... Mai mulți doritori de a câștiga acest preț mare încercaseră toate mijloacele de a ajunge la acest scop, dar toate încercările lor se pierdeau în vânt înaintea măsurilor prevăzătoare cu care Mina știa să nimicească planurile lor.</p>
+<p>Între aceștia din urmă erau patru mai ales care neputând reuși fiecare în parte, se hotărâră a-și întruni puterile și a lucra într-un comun acord pentru realizarea scopului lor... Ei urmăreau dar pe haiduceasa pas la pas de câtva timp, ori pe unde se ducea ea, pândea momentul favorabil ca să poată pune mâna pe ea.</p>
+<p>Era tocmai a cincea zi după sângeroasa întâmplare de la Curtea de Argeș, pe când căpitanul puterii se întorcea cu sfărămăturile cetei sale ca să urmărească de departe mișcările haiducilor și să descopere locul în care se duceau să se adăpostească, deoarece să mai încerce vreo luptă cu dânșii, aceasta nici că îi trecea prin minte cu o mână de oameni ce îi rămăsese...</p>
+<p>Călin ar fi putut să ceară alte ajutoare de brațe de la stăpânire dacă nu făcea nebunia de a-și expune ceata lovirilor haiducimii care trăgea ca dintr-o cetate asupra oamenilor lui aflați în mijlocul câmpului fără cea mai mică apărare. El dar își bătea capul cum să găsească vreun mijloc de a îndrepta greșeala ce o făcuse și care îl costase pierderea celui mai mare număr al ostașilor lui.</p>
+<p>Preocupat de aceste griji, el se întinse pe malul Argeșului, la umbra unui anin stufos, croind planuri peste planuri, pe care le lepăda spre a face loc altora fără ca să se oprescă la niciunul din ele... Apropierea unor oameni ce veneau spre dânsul îl făcu să tresară în miijlocul cugetărilor de care fusese absorbit... Erau cei patru urmăritori ai Minei, care văzând pe Călin întins pe iarbă, cunoscându-l, veneau să-l întâlnească.</p>
+<p>— Ești singur, căpitane? dar unde îți sunt oamenii? întrebă unul dintr-înșii.</p>
+<p>— Sunt la pândă... i-am trimis in urmărirea haiducilor să descopere ascunzătoarea lor, răspunse Călin.</p>
+<p>— Daca nu știi încă unde s-au retras ei, atunci îți vom spune noi, de aceea ne-am abătut pe aici când te-am văzut.</p>
+<p>— Și știți voi unde se află ei?</p>
+<p>— O împrejurare neașteptată ne-a făcut să aflăm fără voia noastră unde s-au adăpostit ei deocamdată.</p>
+<p>— Cum deocamdată! zise Călin.</p>
+<p>— Am zis deocamdată fiindcă auzirăm doi oameni vorbind într-o cârciumă din deal că se așteaptă să treacă astăzi cârmuitorul din Prahova, care se întoarce de la Craiova, unde se dusese să-și vadă părinții...</p>
+<p>— Cârmuitorul va trece pe aici! întrerupse Călin îngălbenind la această auzire.</p>
+<p>— Da, și noi așteptându-l să-l vedem trecând, avurăm tot timpul să auzim ceea ce vorbeau acei doi oameni între dânșii.</p>
+<p>— Și ce spuneau ei?</p>
+<p>— Ei vorbeau foarte încet, dar ceea ce puturăm auzi fu că unul zicea celuilalt: „Haideți să înștiințăm pe căpităneasa despre trecerea cârmuitorului până mai este timp.“ Apoi se făcură într-o clipă nevăzuți.</p>
+<p>— Și n-ați putut pune mâna pe dânșii, deoarece nu e nicio îndoială că trebuie să fi fost din ceata baiducească?</p>
+<p>— N-am avut când, deoarece îndată ce am înțeles ce fel de oameni erau, pare că au intrat în pământ, așa de iute pieriră din ochii noștri, și așa de grăbiți se arătară ca să dea căpitănesei lor de știre despre așteptarea câmuitorului, ceea ce ne-a făcut să presupunem că ei trebuie să fi și plecat de unde se aflau, temându-se să nu fi auzit noi vorbele lor și să descoperim ascunzătoarea lor.</p>
+<p>— Și unde credeți că se țineau ei ascunși?</p>
+<p>— Fără îndoială în pădurea din fața cârciumei, fiindcă alt loc nu mai e primprejur mai bun de adăpostit.</p>
+<p>Pe când ei vorbeau astfel, unul din poterașii trimiși de Călin la pândă, se întoarse să anunțe căpitanului său sosirea cârmuitorului de Prahova.</p>
+<p>— Pe unde l-ai întâlnit? întrebă Călin sculându-se în picioare.</p>
+<p>— S-a oprit în dreptul cârciumei din deal ca să facă popas și să mănânce caii grăunțe, răspunse poterașul.</p>
+<p>— Mai era cineva cu dânsul?</p>
+<p>— În trăsură era numai singur.</p>
+<p>- Te întreb dacă mai avea ceva oameni pe</p>
+<p>lângă dânsul?</p>
+<p>— Mai avea doi călăreți pe lângă trăsură și fecior pe capră.</p>
+<p>— Te-a văzut?</p>
+<p>— Nu cred să mă fi văzut.. nu s-a uitat la mine.</p>
+<p>— Du-te de spune și celorlalți să stea laoparte până va trece... Nu trebuie să vă vadă că sunteți aici. M-ai auzit?</p>
+<p>— Am auzit... Mă duc să le spun; și poterașul se depărta îndată.</p>
+<p>- Nu înțeleg pentru ce ai luat măsura asta,</p>
+<p>zise unul din cei patru nou veniți.</p>
+<p>- Vreau să mă feresc de a da ochi cu cârmu-</p>
+<p>itorul, răspunse Călin, deoarece sunt două luni de când cutreier țara în goana haiducilor și el când m-a făcut căpitan de poteră, fiindcă îi jurasem că numai eu sunt în stare să îi prind, mi-a zis că dacă într-o lună nu mă voi întoarce cu dânșii prinșii, are să pună să mă spânzure ca unul ce l-am amăgit.</p>
+<p>- Și acum ce ai să faci numai cu șapte oameni care ți-au rămas.</p>
+<p>— Acum iată care e planul meu, tocmai mi-a venit ideea asta. Dar haideți mai departe de unde are se treacă el, deoarece avem să stăm mai mult de vorbă.</p>
+<p>Și zicând aceasta, Călin se sculă și urmat de ceilalți patru, se afundă într-o dumbravă de mesteacăni ce se înălța la spatele lui.</p>
+<p>- Să-ți auzim planul, zise atunci acela care vorbise de la început cu Călin.</p>
+<p>Iată-l care este, răspunse acesta așezându-se pe iarbă alături cu ceilalți, la umbra deasă a copacilor. Dar mai înainte de a vi-l spune, urmă el, aș vrea să-mi jurați că nu vă veți atinge de haitaa haiducesei, mai târziu vă voi spune pentru ce vă cer aceasta. Vreți dară să-mi jurați?</p>
+<p>— Jurăm! răspunseră ei.</p>
+<p>- Vedeți că sunteți patru și noi suntem opt!... Dacă voi simți cea mai mică trădare din parte, vă dau mâna cu haiducii și atunci...</p>
+<p>- Dar nu-ți mai strica vorbele de surdă, ai uitat ce interes ne leagă împreună?</p>
+<p>— Aveți dreptate, dar eram dator să vă vorbesc astfel... Acum iată planul meu: Am zis că suntem opt și cu voi ne facem doisprezece...</p>
+<p>— Așa ai zis.</p>
+<p>- Ne vom face o ceată de doisprezece haiduci...</p>
+<p>- Aveți răbdare. Vom intra, îndată ce va însera, în pădurea unde ziceți că se află ei sprijiniți...</p>
+<p>— Dar dacă vor fi plecat de acolo, după cum presupunem?...</p>
+<p>— N-aveți grijă, sunt drăcii de-ale lor... Acei doi oameni pe care i-ați auzit în cârciumă că voiau să se ducă să dea de știre căpitănesei despre venirea cârmuitorului, au fâcut-o cu scop ca să credeți voi că ei vor fugi de frica aces-</p>
+<p>tuia, ca la întâmplare de a avea mai mulți oameni armați cu dânsul, să nu încerce să calce în deșert pădurea, știindu-i pe ei fugiți.</p>
+<p>— Nu e de mirare să fie și așa.</p>
+<p>- Dar să lăsăm acestea... Eu, care vă vorbesc, am văzut multe și am pățit multe... Spuneam dară că îndată ce va însera, vom intra în pădure ca haiduci și vom umbla în toate părțile până vom da peste vreunul din ei. Atunci ne vom repezi la dânsul, îl vom pune la mijloc și îi vom cere bani.</p>
+<p>— Dar bine?...</p>
+<p>— Am zis să m-ascultați cu răbdare.</p>
+<p>— Urmează dacă e așa.</p>
+<p>- Dacă nu va voi să ne dea, noi îl vom</p>
+<p>amenința cu armele... n-ar strica să mai dăm și câteva focuri în vânt ca să audă ceilalți, dar mai cu seamă cel prădat de noi va alerga îndată să încredințeze pe căpităneasa cetei, care aflând cine suntem și câți suntem, nu se va sfii de a veni cu oamenii ei să ne vadă și poate să se înțeleagă cu noi... Atunci noi îi vom propune ca decât să haiducim unii într-o parte și alții într-alta, ar fi mai nimerit să dăm mâna și să ne unim cu toții. Primindu-se aceastea, cum nu mă îndoiesc, vom fi cu toții amestecați la un loc... azi așa, mâine așa, până ne-o veni bine într-o noapte, când ei vor fi scufundați în somnul cel mai dulce, — noi să ne prefacem a dormi, — apoi fiecare să ucigă câte unul sau doi dintr-înșii până vom scăpa de toți. Ce ziceți de planul meu?</p>
+<p>— Ce să zicem! răspunse unul din cei patru străini cu un aer de îndoială.</p>
+<p>— Eu văd că vă codiți, zise Călin după ce observă această îndoială pe fizionomiile lor.</p>
+<p>— Nu ne codim... dar dacă primirăm să-ți dăm tot ajutorul nostru a fost pentru...</p>
+<p>— Pentru prețul care a fost pus pe capul haiducesei, nu e așa? întrerupse Călin.</p>
+<p>— Ba așa.</p>
+<p>— Ei bine, nu veți pierde nimic. Nu vă închipuiți că dacă îi vom ucide oamenii ei, atunci toate averile lor vor cădea în mâinile noastre? Vom face dară cinci părți din ele, din care patru vor fi pe seama voastră și una va rămâne pentru mine, ceea ce va face pentru fiecare mai mult decât prețul după care umblați, și fără ca să fiți siguri că-l veți căpăta vreodată.</p>
+<p>— Cu tocmeala asta ne unim, răspunseră ei.</p>
+<p>— Daca vă uniți, dați mâna încoa.</p>
+<p>Ei își deteră mâna.</p>
+<p>— Acum s-a hotărât, zise Călin. Diseară vă aștept aici, chiar într-acest loc, dimpreună cu oameni mei.</p>
+<p>— Vom fi câte și patru aici.</p>
+<p>— Eu voi rămâne la marginea pădurii, deoarece căpităneasa mă cunoaște și n-aș vrea să se deoache planul nostru și să stricăm totul... Daca vă veți putea descotorosi chiar în noaptea asta de dânșii, ceea ce ar fi mult mai bine, trimiteți pe cineva să mă înștiințeze, iar dacă veți vedea că lucrul cere oarecare întârziere, mă veți găsi la cârciuma din deal, unde voi aștepta să văd ce ați făcut.</p>
+<p>— Fie și așa; ziseră cei patru inși sculându-se.</p>
+<p>— Unde vă duceți acum? îi întrebă Călin.</p>
+<p>— Ne ducem să căutăm ceva de mâncare până va însera.</p>
+<p>— Și eu mă duc să-mi adun oamenii de pe unde i-am împrăștiați.</p>
+<p>— Și se despărțiră unii de alții.</p>
+<p>Pe când Călin pregătea punerea în lucrare a planului său, de care părea așa de încântat, cârmuitorul se plimba pe marginea drumului așteptând întoarcerea oamenilor lui, care se duseră cu caii la adăpat, puțin mai la vale unde curgea Argeșul.</p>
+<p>Soarele era aproape de scăpătat, când un țăran oprindu-se înaintea sa își luă căciula de pe cap și dându-i o hârtie zbârcită și cu pete de noroi pe dânsa:</p>
+<p>— Mărite stăpâne, îi zise el, fiindcă d-ta știi carte și eu nu pot citi, fă-mi atâta bine de îmi spune ce scrie pe hârtia asta... Am găsit-o la rădăcina unui pom, vârâtă pe jumătate în pământ, cum o vezi, și parcă aș ghici eu ce trebuie să fie...</p>
+<p>Ei, destulă vorbă acum. dacă vrei să ți-o citesc, zise cârmuitorul apucând hârtia de un colț între două degete și silindu-se a o citi cu ochii.</p>
+<p>Țăranul se trase la o parte oftând și ținându-și mereu căciula în mână cu capul plecat la pământ.</p>
+<p>— Unde ai găsit hârtia asta? îl întrebă cârmuitorul după ce o citi.</p>
+<p>— Apoi aici la marginea pădurii, lângă un frasin, răspunse țăranul.</p>
+<p>— Știi tu ce e scris aici?</p>
+<p>— De unde să știu, săracul de mine, că dacă știam carte eram s-o citesc și nu te supăram pe d-ta.</p>
+<p>— Mă, aici e vorba de comoară, știi tu?</p>
+<p>— De o comoară: se miră țăranul căscând ochii mari, atunci tot bine îmi spunea răposatul tată-meu când era pe patul morții, adăugă el.</p>
+<p>— Și ce ți-a spus el?</p>
+<p>— Iată cum s-a întâmplat, răspunse țăranul după ce tuși de câteva ori: tată-meu a fost văcar pe moșia asta... era tocmai pe când năvăliseră turcii în țară de tăia și jefuia lumea... Atunci, stăpânul moșiei vrând să-și ascundă averea, care era mare, și să nu cadă în mâinile Turcilor, veni să o îngroape aici în pădure, l-a văzut dintr-un tufiș unde se ascunsese. Apoi boierul plecă de acolo, plecă și de la moșie și nu se mai văzu nici până în ziua de azi... Poate că l-au prins Turcii, nu putem ști, dar tată-meu văzând că nu se mai întoarce, a vrut să dezgroape el comoara, dar n-a mai știut sub care frasin era îngropată, decât, când era aproape să-și dea sufletul, mă chemă pe mine și îmi spuse ceea ce spusei și eu, dar fiindcă nici eu nu știam unde să găsesc acel afurisit de frasin, am lăsat lucrul baltă până când, din întâmplare, trecând acum pe lângă pădure, am dat cu ochii de pustia asta de hârtie...</p>
+<p>— Iată ce scrie ea, zise cârmuitorul, și citi cuvintele următoare:</p>
+<p>«Ori și cine vei fi tu, care vei găsi comoara asta, ascunsă de mine sub acest frasin, te jur pe credința ta să zidești o biserică, pe care</p>
+<p>s-o închini Sfântului Vasile, fiindcă și eu mă numesc astfel și roagă-te pentru sufletul meu.»</p>
+<p>Țăranul zgâi ochii și surâse cu un aer de o veselie îndoită.. Amândoi se priviră unul pe altul fără a zice nimic, așteptând fiecare să audă de la celălalt ceea ce era hotărât să facă... Țăranul fu cel dintâi care ieși din această tăcere.</p>
+<p>— Oare ce mă înveți să fac acum? întrebă el pe cârmuitor: cum zice legea la asemenea împrejurare?</p>
+<p>— Legea... vom vedea mai târziu ce zice ea, dar aș vrea să știu unde e acel frasin sub care e îngropată comoara? e departe de aici?</p>
+<p>— Ba e chiar aproape de marginea pădurii... Câțiva pași... Dacă vrei să iei osteneala să vii până acolo să vezi singur și apoi să hotărăști cum e de făcut...</p>
+<p>— Mergi înainte, eu vin după tine.</p>
+<p>Și cârmuitorul se luă după țăran, fără a avea aerul că îl urmeză și cugetând la mijocul de a pune mâna pe acea comora, a cărui însemnătate o exagerase țăranul așa de mult.</p>
+<p>Ei merseră o bucată bună fără să dea încă de frasinul ce-l căuta.</p>
+<p>— Dar nu mai ajungem odată? Întrebă cârmuitorul care, văzând că se înfundase prea mult în pădure începu a se cam îngriji.</p>
+<p>— Încă vreo sută de pași și vom fi acolo, răspunse țăranul.</p>
+<p>— Spuneai că e la marginea pădurii..</p>
+<p>— La marginea de dincolo, nu la asta.</p>
+<p>Cum! să trec prin toată pădurea până mă va scoate dincolo! N-ai fost tu prost, ci eu care m-am luat după tine. Și zicând aceasta, făcu o mișcare înapoi spre a se întoarce de unde a plecat.</p>
+<p>— Ce umbli să faci? îl întrebă țăranul cu un ton așa de înspâimântător, că tot sângele îngheță în vinele bietului cârmuitor. El se uită la țăran cu ochii speriați, cu fața pierită și tremurând ca un prins de friguri. Țăranul scoase un pistol și îndreptându-l spre dânsul:</p>
+<p>— Să nu scoți niciun strigăt, zise el, că numai eu răspund de viața ta!</p>
+<p>— Dar ce vrei să faci cu mine? îl întrebă el cu un glas mai stins de frica ce o simțea.</p>
+<p>— Eu nu vreau să fac nimic, dar este cineva care dorește să-ți facă cunoștința.</p>
+<p>— Vrei să mă ucizi poate?...</p>
+<p>— N-am ce face cu pielea ta... de-ai fi vreun lup, să mai zic că mi-ar ține de iarnă cald, dar în pelea ta n-aș vrea să fiu.</p>
+<p>— Dacă vrei bani, spune-mi să-ți dau îndată și apoi să-mi dai drumul de aici.</p>
+<p>— Dacă ar fi vorba de bani, te ușuram de ei fără să aștept să mi-i dai.</p>
+<p>Bietul cârmuitor nu înțelegea dar ce voia să facă țăranul acela cu dânsul, deoarece nici pielea lui, nici banii lui nu erau în joc!... El fu nevoit prin urmare să meargă tot înainte, pe unde îi zicea conducătorul său să apuce... la dreapta !... la stânga!... până când auzi cuvântul: «Oprește aici!»</p>
+<p>Locul unde i se zise să oprească era împresurat cu copaci uriași de curând taiați și răsturnați unul peste altul, formând un fel de gard înalt și anevoios de pătruns. Mai multe guri de carabine se vedeau înșirate de jur împrejur, care păreau a rânji printre crăpăturile gardului... fiecare purta mortea în sânul ei.</p>
+<p>Țăranul scoase o mică fluierătură și îndată se văzu deschizându-se un fel de poartă, ca acelea ce opresc vitele de a intra în vreo grădină sau în vreun loc ce voiește cineva să-l ferească de ele.</p>
+<p>Intră, zise țăranul.</p>
+<p>Cârmuitorul intră fără a mai zice nimic.</p>
+<p>— Dumnealui este care doreai să-l vezi, zise țăranul adresând aceste cuvinte căpitănesei haiducilor care se grămădiseră împrejurul noului venit, privindu-l unii cu o mirare sălbatică, alții dându-și coate la vederea lui și alții ascunzându-și râsul în palmele ce le țineau la gura lor.</p>
+<p>— Mă miram eu să se întoarcă Boilă cu mâinile goale! zise unul din ei.</p>
+<p>Tăcere! strigă căpităneasa, apoi venind în fața cârmuitorului:</p>
+<p>— Bine ai venit, zise ea. Cred că nu m-ai uitat, și îți aduci aminte de aceea care a venit o dată să-ți cadă în genunchi, ca la icoane, rugându-te să-i faci dreptate, iar tu, care ești plătit ca să faci fiecăruia dreptate, ai pus să mă dea cu brânci afară! Așa e că n-ai uitat acea purtare sălbatică către o fată, care te ruga, care plângea rugându-te, care se târa la picioarele tale și le umplea de lacrimile ei?...</p>
+<p>— Dacă vrei viața mea, ia-o mai curând, dar nu mă judeca pe când nu pot să mă apăr, zise el deodată pierzând toată răbdarea.</p>
+<p>— Nu te voi judeca eu, ci te las în judecata acestor oameni, să hotărască ei ceea ce ți se cuvine, zise Mina.</p>
+<p>— Să se spânzure! strigară vreo câțiva haiduci.</p>
+<p>— Să i se dea o sută de nuiele la spate! ziseră alții.</p>
+<p>— Să se scuipe de către toți noi! fu părerea celor mai mulți.</p>
+<p>— Auzi ce zic ei? zise fata codrilor adresându-se către acela care asculta sentința sa, mai mult mort decât viu.</p>
+<p>— Iertare! iartă-mă! răspunse el căzând în genunchi înaintea aceluia care se desfăta de umilința sfârșietoare a acelui nefericit.</p>
+<p>— Iertare! ... zise ea; mi-ai dat-o mie când ți-o ceream cu lacrimile pe ochi! Așa te-a învățat să te porți, cine ți-a dat puterea în mână pentru păcatele poporului, ce erai chemat să-l cârmuiești?</p>
+<p>— Iertare... mă voi îndrepta de aici înainte, răspunse el cu un glas duios, dar cu un aer care făcea să se cunoască turbarea ce îi sfâșia sufletul.</p>
+<p>Dați-l cu brânci afară, cum m-a dat el pe mine, și mulțumească cu atâta! zise Mina către oamenii ei.</p>
+<p>Haiducii îl îmbrânciră până într-un loc mai depărtat unde îl lăsară în mijlocul pădureț și al întunericului nopții care era de mult înaintată, și se întoarseră la locul lor. Mina îi aștepta să le dea ordin de plecare. Prevăzătoarea copilă nu rămânea niciodată acolo unde comitea câte un fapt de acelea ce ar fi putut să atragă asupra ei o vijelie în contra căreia n-ar fi avut destulă putere să lupte. Ea știa până unde se întinde puterea unui cârmuitor, deși nu era din acel județ, și profitând de întunecimea nopții, ieși din</p>
+<p>pădure în mijlocul haiducilor ei, care luară din nou calea munților.</p>
+<p>Nefericitul cârmuitor, după ce rătăci câtva timp căutând o eșire din acea pădure blestemată, fu deodată izbit de mai multe glasuri care făceau să răsune pădurea de cântecele și râsetele lor.</p>
+<p>— Nu se poate să fie haiduci aceștia, cugetă el, deoarece ei n-ar face atâta zgomot care i-ar descoperi îndată, dar cată să fie niscaiva muncitori întârziați, care se întorc de la munca câmpului .. Când m-aș duce înainte ca să pot ieși cu dânșii din îndrăcita asta de pădure!...</p>
+<p>Și el înaintă spre partea de unde i se păru zgomotul acelor cântece și râsete.</p>
+<p>Abia făcu vreo cincizeci de pași și se simți apucat de un braț țeapăn care îl ținu în loc.</p>
+<p>Cine ești? mă sugrumi, nu mă strânge așa tare! strică el când se văzu cu gâtul strâns de acea mână de fier.</p>
+<p>— Bani! strigă unul la urechea lui.</p>
+<p>— Ce! iar voi sunteți! Mă credeam scăpat din mâinile voastre...</p>
+<p>— Din mâinile noastre! zise unul din ceata cea veselă; da când ai mai fost în mâinile noastre?</p>
+<p>— Ce fel! nu sunt nici douăzeci de minute de când m-ați judecat ca pe Cristos, și abia v-ați îndurat să-mi dați drumul.</p>
+<p>— Cine ești? îl întrebă ei.</p>
+<p>— Sunt... un călător care mi-am pierdut drumul prin întunecimea asta, și acum nu știu pe unde să ies.</p>
+<p>— Dar bine ce cauți în pădure ca să te rătăcești?</p>
+<p>— Ei, ce căutam! pe naiba l-am căutat și pe naiba l-am găsit; dar faceți bine de mă scoateți de aici, dacă sunteți niscaiva oameni buni.</p>
+<p>— Să-i dăm pace, zise unul din ei către ceilalți; nu vedeți că nu e cine credeam noi; e un păcătos care nu știe nici drumul pe unde să iasă. Apoi întorcându-se către cârmuitor:</p>
+<p>— Caută-ți de drum, îi zise el, dar du-te mai curând să nu ți se întâmple vreun neajuns.</p>
+<p>— Să mă duc... asta vreau și eu, dar de unde știu pe unde să apuc?</p>
+<p>— Iată apucă pe cărarea asta din stânga și mergi pe ea drept înainte, că te scoate tocmai în drumul cel mare.</p>
+<p>El mulțumi și se duse pe cărarea ce i se arăta. Dar și aici soarta lui îi păstrase o altă surpriză... În adevăr, abia ajunse la marginea pădurii când văzu pe cineva ieșindu-i înainte și tăindu-i drumul.</p>
+<p>— Ce ați făcut? îl întreba el, v-ați cortorosit de dânșii?</p>
+<p>Și altul acuma! zise cârmuitorul trăgându-se înapoi de spaima ce-i făcuse acel om neașteptat.</p>
+<p>— Dar nu-mi răspunzi la ce te-am întrebat? adăugă necunoscutul apropiindu-se de el.</p>
+<p>— E, ei!... pe legea mea... parcă aș cunoaște acest glas care îmi vorbește! zise cârmuitorul, venind în fața acelui om pe care se silea să-l distingă mai bine:</p>
+<p>Nu ești tu Călin, acela pe care l-am făcut căpitan de poteră? adăugă el.</p>
+<p>— Eu sunt, răspunse acesta, neputând să se ascundă dinaintea cârmuitorului care îl recunoscuse.</p>
+<p>— Dar unde-ți sunt oamenii, deoarece abia am scăpat din viață din mâinile haiducilor pe care te-ai legat să-i prinzi?</p>
+<p>— De capul lor mă țin de atâtea zile, și în noaptea asta cred că-mi va ajuta Dumnezeu să pun mâna pe dânșii, după măsurile ce le-am luat, răspunse Călin neștiind cum să se îndrepteze.</p>
+<p>Cârmuitorul dete din cap cu un aer de nemulțumire și de puțină încredere ce-i insuflau cuvintele lui Călin, apoi întorcându-se către dânsul, îi zise cu tonul cel mai aspru și cel mai hotărât:</p>
+<p>— Dacă de astăzi până în zece zile, nu-mi vei aduce pe acea îndrăcită de haiduceasă în fine atunci să știi că vei răspunde cu tatăl tău pentru neîndeplinirea datoriei tale!...</p>
+<p>Nicio vorbă mai mult! adăugă el văzând pe căpitanul de poteră îngânând câteva cuvinte de apărare.</p>
+<p>Cinci minute după aceasta, el se aruncă în trăsura sa care îl aștepta de cu seara cu caii înhămați, și porni spre Pitești în fuga mare a cailor săi.</p>
+<p>***</p>
+<p>
+<p>Amenințările cârmuitorului căzură ca un trăznet în sufletul lui Călin... Să prindă pe Mina și se i-o ducă în față!... dar aceasta ar însemna să o dea în mâna călăului!... și el care credea că poate cu timpul se va întorce inima fetei cu iubire către dânsul!... Toți ce iubesc se leagănă de asemenea credință, și Călin nu pierduse încă de tot pe a sa. Dar acum ce fel era să împace el</p>
+<p>dorul inimii sale cu ceea ce-i ceruse cârmuitorul într-un mod așa de hotărâtor și nestrămutat!... Pe Mina sau capul său!... Poziția lui era din cele mai critice, și nu-i rămânea decât o singură cale pentru ca să iasă din acest impas ... Călin nu se îndoi niciun minut de a pune mâna pe dânsa.</p>
+<p>Această cale era aceea care îl conducea la Mina ca să-i propună astă dată o sinceră unire între ceata sa și a ei... Cu chipul acesta, el ar forma o trupă de haiduci mai numeroasă, care ar fi hotărâtă a-și vinde viața cât de scump, în caz de a fi amenințată din partea urmăririi ce le-ar veni de undeva.</p>
+<p>Cu alte cuvinte, Călin propune o capitulare, la capătul căreia nu era să lipsească respectiva împlinirii dorinței sale. Cât pentru cei patru aspiranți la prețul ce se puse pe capul haiducesei, el ar fi găsit cum să mulțumească lăcomia lor de bani; nu rămânea decât cei șapte poterași, pe care Călin era sigur că-i va lega de soarta lui, mai ales când le-ar face cunoscut hotărârea cârmuitorului de a-i spânzura și pe ei dacă se vor întoarce înainte de a sfărâmă ceata haiducească.</p>
+<p>Întărit de fericita idee ce i-o inspirase poziția sa, Călin se întoarse în pădure, străbătu o parte dintr-însa, căută pretutindeni, la lumina zilei care începuse să pătrundă din mai multe părți, adăpostul haiducilor, dar nu găsi decât locul împresurat cu trunchii copacilor tăiați...</p>
+<p>Aici este ascunzătoarea lor, zise el; dar unde pot fi ei!... Nici ai mei nu se văd! Apoi începu să fluiere de mai multe ori, dar nu primi niciun răspuns, nu se văzu niciun suflet de om...</p>
+<p>Călin înaintă fără a ști unde se ducea... Câțiva săteni intrau atunci în pădure cu carele lor ca să taie lemne... Călin se duse înaintea lor să-i întrebe dacă nu s-au întâlnit cu vree seamă de oameni în drumul lor. Ei răspunseră că s-au întâlnit cu câțiva cositori, dar câți erau și unde se duceau nu i-au întrebat.</p>
+<p>— E mult de când i-ați întâlnit? întrebă Călin.</p>
+<p>— Ba nu e mult, abia dacă se vor fi depărtat de o fugă de cal.</p>
+<p>— Pe care drum au apucat?</p>
+<p>— Calea munților, zise sătenii râzând între ei.</p>
+<p>Călin nu mai stătu la vorbă; plecă, turbând de mânie, pe calea ce-i spuseseră sătenii, sigur fiind că nu puteau fi alții aceia ce i-au întâlnit ei decât haiducii, pe care Mina nu-i lăsa să stea mult la un loc.</p>
+<p>***</p>
+<p>
+<p>Câteva zile în urma celor ce arătarăm mai sus, unsprezece inși intrau într-o cârciumă din satul Dragoslavele, care e în apropiere cu Rucărul în Muscel.</p>
+<p>Cârciuma se afla pe drumul cel mare și era întreținută de un cârciumar și femeia sa... Văzând pe cei unsprezece inși care intrau la densul, negreșit ca să’i ceră de mâncat și de beut, cârciumarul se bucură.</p>
+<p>— Astăzi mi-a ieșit cu plin, zise el surâzând.</p>
+<p>— Pentru ce zici că ți-a ieșit cu plin ? îl întrebă unul din noii veniți.</p>
+<p>— Pentru că abia ieșiră acum vreo douăzeci de inși, care mâncară și băură, parcă n-au mâncat și n-au băut de o săptămână, așa de flămânzi erau, și iată acum că veniți și d-voastră, apoi n-am dreptate să zic că mi-a ieșit cu plin?</p>
+<p>Cei unsprezece inși se uitară unii la alții, dar nu ziseră nimic ... Ei cerură să mănânce și să bea ... Cârciumarul ieși să le aducă vin din pivniță, pe când cârciumăreasa se duse să le facă ceva de mâncare.</p>
+<p>Rămânând singuri, unul din acei unsprezece inși se întoarse către ceilalți și le zise astfel:</p>
+<p>— Nu se poate oameni mai nebuni în toată lumea asta decât noi!</p>
+<p>Și eu zic tot așa, răspunse un al doilea.</p>
+<p>— De când am zis-o și noi! zise al treilea și al patrulea.</p>
+<p>Ceilalți șapte, care se aflau așezați la o masă mai depărtată, nu lua parte la convorbirea celor patru de mai sus.</p>
+<p>— Dacă toți zicem că suntem niște nebuni, urmă cel dintâi, nu știu pentru ce n-am face cum e mai bine și să nu mai umblăm după icre verzi cum umblarăm până acum!</p>
+<p>— De mult voiam să mă întorc acasă și să-mi caut de sărăcie, Pârvule, dar așteptam să văd ce faci și tu, zise cel de-al doilea.</p>
+<p>— Eu ți-am spus părerea mea, răspunse Pârvu, și alta nu pot avea în starea în care ne găsim astăzi. Ai tu vreuna mai bună, Mericene?</p>
+<p>— De unde vrei să am? răspunse Mericenu; dar atunci de ce nu o punem în lucrare mai curând, deoarece abia ne-a rămas cu ce să plătim mâncarea de astăzi, și mâine vom fluiera cu degetele în gură... Și băieții aceștia care au rămas pe spinarea noastră... adăogi el arătând cu degetul tot pe cei șapte poterași de alături.</p>
+<p>- Greu, zise Pârvu; nu vă spuneam eu că nu</p>
+<p>era de făcut nimic cu planurile lui Călin? Iată că Mina, la care ținea el așa de mult, de nu voia să îi atingă niciun fir de păr, s-a dus în lume... Noi ne-am ținut după ea până aici, și acum dacă s-a închis în munții de peste Rucăi, unde caută neapărat să se fi dus, pas de o descuibeză de acolo sau pune în lucrare planul cel nesăbuit al lui Călin!... Nu e mai bine cum ziceam? suntem unsprezece voinici, avem destule arme, munți și codri sunt de ajuns în toată țara, care viață e mai dulce decât viața de haiduc!...</p>
+<p>Pârvu abia termină aceste cuvinte, când un om de o statură înaltă, mustăcios și cu părul roșcovan, îmbrăcat într-o uniformă ostășească,</p>
+<p>intră în cârciumă pe neașteptate. El aruncă o uitătură fulgerătoare asupra lui Pârvu, ale cărui cuvinte părea că le-a auzit, tuși de câteva ori, apoi ieși până în pragul ușii și se uită neclintit, ca cum ar fi așteptat venirea cuiva. Aceea pe care îi aștepta el nu întârzie de a-i sosi; ei era o nouă ceată de vreo șaizeci de poterași, al cărora căpitan era el. Îndată ce se apropiară de cârciumă, acesta le făcu semn se oprescă și le dete ordin să înconjoare cârciuma și să nu lase pe nimeni să intre sau să iasă dintr-însa.</p>
+<p>După ce luă aceste dispoziții, căpitanul se întoarse și adresându-se către aceia ce-i crezuse de haiduci, după vorbele ce-i auzise vorbind:</p>
+<p>— Dați armele îndată! le zise el, sau de nu, voi pune oamenii mei să vă măcelărescă pe toți!</p>
+<p>Ei încercă să îngâne câteva cuvinte de apărare, dar ele nu fură ținute în seamă, și se văzură nevoiți a-și depune armele în mâinile celui ce-i somase.</p>
+<p>În timpul acesta, unul din cei șapte poterași care stau laoparte, se sculă și venind în fața acelui căpitan, făcu un salut militar zicându-i:</p>
+<p>— Să trăiești, căpitane, noi nu suntem haiduci, ci suntem, precum ne vezi, ostași ai țării. Din care ceată sunteți? îi întrebă semețul</p>
+<p>— Din ceata căpitanului din Ploiești.</p>
+<p>— Unde e căpitanul vostru?</p>
+<p>— Nu știm, ne-a lăsat de mai multe zile și s-a făcut nevăzut.</p>
+<p>Vreți voi să intrațî în ceata mea?</p>
+<p>— Vrem, să trăiești, căpitane, fiindcă nu mai aveam ce mânca și umblăm rătăciți prin aceste locuri necunoscute.</p>
+<p>— Cei patru rămași înăuntru căzură atunci în genunchi și rugară pe cel ce i-a dezarmat să-i primească și pe ei în rândurile lor, jurându-se că ei nu erau haiduci, dar că voiau să se facă astfel numai ca să câștige prețul ce era pus pe capul ei.</p>
+<p>Nu se poate ști până la ce punct vorbele lor fură crezute de căpitanul poterei, dar el având nevoia să mărească numărul ostașilor lui, îi înrola și pe dânșii pe lângă ceilalți, apoi își așezară tabăra în acel sat, unde așteptau să le vină o altă ceată de poterași din Pitești ca să pornească cu toții dimpreună în descoperirea haiducilor ce se credeau adăpostiți în munții de primprejur.</p>
+<p>Femeia cârciumarului rămânând numai cu băr-</p>
+<p>batul ei, și simțindu-se cuprinsă de spaima haiducilor ce se zicea că se aflau în vecinătatea lor.</p>
+<p>— Doamne! Doamne! ce o mai fi și asta? zise ea cu un aer de învederată îngrijire.</p>
+<p>— Trebuia să te aștepți la asta, răspunse soțul ei.</p>
+<p>— De ce să mă aștept?</p>
+<p>— Apoi, ieri când am fost în oraș, iată ce se vorbea pe acolo, că mai deunăzi, trecând cârmuitorul de Prahova pe drumul dintre Câmpulung și Pitești, a fost prins de niște haiduci dintr-o pădure de aproape, care l-au bătut, l-au chinuit și l-au jefuit până în piele, și că îndată ce a scăpat din mâinile lor, s-a dus la Pitești și s-a plâns la cârmuirea de acolo și a mai scris și la cea din Câmpulung, după care apoi s-au luat măsuri și s-a pus la cale să trimită câte o poteră și unii și alții ca să scape odată țara de răutățile ce le suferă, de doi ani aproape din partea acelor nelegiuiți. Iată ce mai spuse un negustor din oraș ieri când mă dusesem să cumpăr butoiul cel nou de vin.</p>
+<p>Convorbirea lor fu întreruptă de venirea unui țăran, care aducea cu dânsul un șoim viu, legat cu o sforă de picioare și de aripi... era tocmai în momentul când se pregătea cârciumarul să închidă ușa cârciumei sale, fiindcă înnoptase mai demult și vorbele ce se răspândiră despre vecinătatea haiducilor nu-i inspirau vreo siguranță, cu toată puterea armată care se afla împrejurul său.</p>
+<p>— Ce șoim frumos! zise cârciumăresa; unde te duci cu el?</p>
+<p>- Vreau să-l duc cârmuitorului, răspunse țăranul, deoarece am aflat că a luat măsuri să ne scape județul de blestemații de haiduci care s-au pripășit de câteva zile pe aici, și știu că-i place vânătoarea cu șoimi.</p>
+<p>- De mult îl ai prins? întrebă cârciumarul venind și el să privească sălbatica pasăre.</p>
+<p>— Acum pe sub seară l-am prins, și îndată am și plecat cu el, dar ziceam să rămân noaptea asta aici, și mâine până în ziuă să pornesc spre oraș, că mă tem să umblu noaptea, să nu mă întâlnesc cu vreunul din acei lepădați de lege care țin drumul călătorilor.</p>
+<p>- N-ai nicio frică, în satul nostru sunt</p>
+<p>peste o sută de poterași care au venit astăzi în goana haiducilor, zise cârciumarul.</p>
+<p>— Știu... am aflat, răspunse țăranul, dar toată paza e aici în sat și ea nu se poate întinde la o depărtare mai mare.</p>
+<p>— Așa este.</p>
+<p>— Dacă este așa, și fiindcă mă primiți să petrec noaptea asta la d-voastră, dați-mi să beau, și dacă va fi și ceva de ros, n-ar strica deloc, că toată ziua azi n-am mâncat, umblând după afurisita asta de pasăre până am prins-o.</p>
+<p>Cârciumarul îi aduse o bucată de pastramă si o oca de vin.</p>
+<p>- Bine v-am găsit sănătoși, zise țăranul, înălțându-și paharul plin de vin și umplând cu mâna cealaltă două pahare pentru cârciumar și femeia lui.</p>
+<p>Ei mulțumiră și deșertară paharele lor, care fură din nou umplute.</p>
+<p>— Dar nu înțeleg, zise țăranul deodată,</p>
+<p>nu înțeleg de ce a tăbărât potera aici și nu se ducea mai bine să tăbărască la Rucăr, una că era mai aproape de locul unde se crede</p>
+<p>că s-au adăpostit haiducii, și alta că acolo ar fi fost mai trebuincioasă înfățișarea lor, fiindcă tot se mai găsesc câteva case de oameni cu dare de mână care ar fi atras lăcomia acelor jefuitori, pe când aici e sărăcia lucie, sunt toți niște suflă în pungă, nu-i știu eu!</p>
+<p>Poate la Rucăr să fie cum zici, răspunse cârciumarul care se simți oarecum atins în partea ce-l lega cu satul său natal, dar eu mă prind că toți chiaburii din Rucăr nu fac cât unul singur din Dragoslavele pe care îl cunosc eu.</p>
+<p>De cine vrei să zici? întrebă țăranul râzând cu hohote de laude ce o făcea cârciumarul satului său.</p>
+<p>— De preotul nostru de aici, răspunse el.</p>
+<p>— Popa?...</p>
+<p>- Ei, da, popa Stan. Îl cunoști?</p>
+<p>— Care șade...</p>
+<p>— La spatele bisericii sale.</p>
+<p>— Într-o căsuță...</p>
+<p>— Cu o portiță roșie și cu o fântână între doi brazi peste drum de portiță.</p>
+<p>- Jigăritul acela să aibă el atâția bani câți nu se găsesc la toți Rucărenii! ha! ha! ha! mai auzi una și astăzi: râse țăranul cu un aer batjocoritor.</p>
+<p>— Să știi d-ta, zise cârciumăreasa, care văzând pe soțul ei că se depărtează cam supărat, rămase ca să susțină onoarea persoanei ce o lăudase până aici.</p>
+<p>- Popa Stan e un bancher dară, după cum spuneți! zise țăranul mai golind un pahar de vin.</p>
+<p>- De patruzeci de ani de când îl știu bă-</p>
+<p>trânii noștri! de aici că se află preot la biserica din Dragoslavele, el a tot adunat, și-a făcut case, și-a cumpărat vilă, și-a luat moșie pe care o lucrează singur, cu toată bătrânețea lui. Nu vezi d-ta ce poate strânge un om în patruzeci de ani, care muncește cât zece și nu cheltuiește nici cât unul!</p>
+<p>- Dar omul acesta nu mănâncă, nu bea,</p>
+<p>n-are femeie, copii pe care să-i hrănească și să-i îmbrace! Ce stai d-ta să-mi spui mie!...</p>
+<p>— Nimic din câte ai zis, el trăiește singur singurel, preoteasa i-a murit demult și copii n-a avut niciodată; de mâncat, mănâncă pe la unii și pe la alții; iarna doarme fără foc și nu se îndură să aibă măcar o umbră de om pe lângă el pentru vreo împrejurare de boală sau... mai știi ce se poate întâmpla unui om?</p>
+<p>- Fie, că și așa viață canonită, mai bine</p>
+<p>lipsă de toți banii lui! zise țăranul, care aflase; mai mult decât dorea să afle; apoi întinzându-se pe lavița pe care ședuse până atunci, își căută de somn.</p>
+<p>- Te las să te culci, fiindcă văd ca ți-e</p>
+<p>somn, zise cârciumăreasa retrăgându-se și ea să se culce.</p>
+<p>— Somn ușor, lele cârciumăriță, zise țăranul cu ochii jumătate închiși.</p>
+<p>O oră după aceea, țăranul auzind sforăiturile cârciumarului și a femeii sale care dormeau într-o cămăruță din fund, se sculă bini-</p>
+<p>șor, deschise ușa din față și ieși, după ce avu îngrijirea să tragă ușa după el la loc.</p>
+<p>La vreo cincizeci de pași de la cârciumă, țăranul se opri lângă un șanț, deasupra căruia se înălța un gard acoperit cu mărăcini și din fundul căruia doi oameni pitiți între buruienile cele mari care erau crescute până în fața drumului, ieșiră îndată ce se încredințară că acela ce se oprise acolo era dintr-ai lor. El le făcu semn să vină după dânsul... Ei îl urmară în tăcere și silindu-se să facă cel mai puțin zgomot cu pașii lor... Acela ce-i conducea stătu deodată în loc să se orienteze, apoi zărind turnul bisericii, făcu semn cu mâna celorlalți doi să se ia după dânsul... Ei mai merseră o bucată până ajunseră la acea biserică... conductorul lor o ocoli, și găsind căsuța cu portița roșie.</p>
+<p>— Aici este, șopti el.</p>
+<p>Totul era liniștit în jurul lor... nici umbră de om nu se vedea, niciun lătrat de câine nu se auzea de nicăieri...</p>
+<p>Ei încercară portița, dar găsind-o încuiată, se duseră pe la spatele casei... Acolo era un gard de nuiele care împresura o livadă de pruni... Ei sărind gardul trecură prin livezi, intrară în curte și se opri la ușa casei... ea era asemenea încuiată, dar o fereastră de alăturî fiind lipită cu hârtie, ei o dezlipiră și vârând mâna pe dinăuntru, deschiseră fereastra și intrară unul câte unul în tindă.</p>
+<p>— Unde o fi dormind el? se întrebară ei încet, apoi punând urechea la o ușă din dreapta,auziră un sforăit de om... și ușa asta era încuiată... paza preotului nu era proastă! Cu toate</p>
+<p>acestea, până aici îi fusese și lui... Cei trei indivizi temându-se să nu simtă preotul, dacă ei ar întârzia cu lucrarea lor, hotărâră să nu-i dea pas să strige și să scoale satul care ar sări să-i prindă.... Ei împinseră dară ușa cu putere și scoțând-o într-o clipă din țâțâni, se repeziră la preot care se gătea să sară din pat, îi astupară gura ca să nu strige și îl ținură astfel până când îl legară țeapăn de piciorul patului cu brâul sfinției sale.</p>
+<p>— Să nu sufli părinte, îi zise atunci unui dintr-înșiî, că iată ce te așteaptă! și îi arătă, la lumina candelei, un cuțit lung și lat, care făcu pe bietul preot să clipească din ochi.</p>
+<p>— Lăsați-mă că nu fac nimic, dar ce vreți cu mine! zise el.</p>
+<p>— Am venit să ne dai nescare-va bani cu împrumutare, că am auzit că ai mulți, răspunse ei.</p>
+<p>— Dar eu n-am dat niciodată bani cu împrumutare, răspunse preotul uitându-se lung la dânșii să vadă dacă nu-i cunoaște.</p>
+<p>— Daca n-ai dat niciodată, să dai acum și cât de curând fiindcă nu putem aștepta.</p>
+<p>— Precum înțeleg, voi vreți o împrumutare cu de-a sila!</p>
+<p>— Haide, iute, nu ne ține cu vorba, că mă jur pe barba Sfinției tale că nu-ți voi da pas să mai crâcnești o vorbă măcar, zise cel ce juca cuțitul pe dinaintea lui.</p>
+<p>— Luați ce veți găsi dacă e așa... cheia e sub pernă colo... lada e lângă pat... Luați și vă săturați de munca și de sudorile altuia...</p>
+<p>Dumnezeu să vă țină faptele în seamă, zise</p>
+<p>preotul gemând cu cea mai vie durere pe care a simțit-o vreodată.</p>
+<p>În acest timp, cei trei meseriași de noapte scotociră prin ladă și luară tot ce găsiră în vreo cinci săculețe pline de diferite monede, apoi mai strânseră legăturile preotului ca să nu poată mișca din loc, îi legară gura bine spre a nu striga și încuind ușa pe dinafară, luară cheia și se făcură nevăzuți.</p>
+<p>A doua zi, fiind o zi de sărbătoare și nevăzând pe preot să vină ca totdeauna la biserică, dascălul alergă la dânsul să vadă ce are, dar găsind ușa încuiată și auzind gemetele lui, chemă vreo câțiva oameni din sat, care sparseră ușa și-l găsiră în starea în care îl lăsasară despuietorii lui... El le spuse atunci cele întâmplate și se duse să înștiințeze pe căpetenia poterii că l-au călcat în noaptea aceea trei haiduci și i-au luat tot fără nicio temere de puterea lui.</p>
+<p>Cutezarea celor trei bandiți, care nu s-au sfiit de o poteră așa de numeroasă ca să vină sub ochii ei să calce casa preotului și să-l jefuiască, întocmai cum ar fi făcut-o într-o pădure sau în vreun loc pustiu, această cutezare era privită ca o batjocură din partea căpeteniei poterașilor... Un huiet mare se ridică în tot satul... fiecare se îngrijea de viața și de averea sa, și veniră cu grămada înaintea casei căpitanului...</p>
+<p>— Oh! Doamne, zise cârciumăreasa vorbind cu o vecină a ei, dar eram mai bine feriți de asemeni călcări, înainte de a veni potera să ne păzească, și acum că s-a umplut satul de dânsa, iată ce se întâmplă.</p>
+<p>Cârciumarul arătă și el căpitanului poterei</p>
+<p>că în ajun venise un țăran la dânsul cu un șoim, pe care zicea că vrea să-l ducă cârmuitorului, și că rămânând se petreacă noaptea în cârciuma lui, s-a sculat, pe când el dormea și femeia lui asemenea, și a fugit lăsând acolo șoimul, dar fără să plătească mâncarea și băutura sa...</p>
+<p>Toate acestea făcură pe căpitanul poterei a hotărî ca, îndată ce îi va sosi ajutorul ce îl așteaptă, să plece fără nicio amânare în urmărirea acelor fără-de-legi.</p>
+<p>Sătenii fură nevoiți a se mulțumi cu acestă promisiune și se retraseră care pe unde avea să se ducă.</p>
+<p>**</p>
+<p>*</p>
+<p>Pe când căpitanul poterei aștepta ajutoarele ce erau să-i vină de la Pitești, mărginindu-se deocamdată în trimiterea câtorva oameni mai aleși din ceata sa, ca să descopere locul în care se aflau haiducii adăpostiți, Mina, înștiințată de oamenii ei, aceea ce prădaseră pe preotul din Dragoslavele, despre puterea armată ce se concentrase la o distanță nu prea depărtată de unde se așezase ea, făcuse toate pregătirile putincioase pentru a se apăra în contra năvălirii lor.</p>
+<p>Poziția ce își alesese haiduceasa oferea toate avantajele unei defensive îndelungate. Ocolită pretutindeni de munți râpoși, de stânci locuite numai de șoimi și de vulturi, împresurată de păduri uriașe și dese, de unde ceata ei putea să descarce mii de focuri, să rostogoalescă mii de bolovani și de trunchiuri de copaci fără a fi văzuți și atinși de poteră, ea se credea ca într-o cetate întărită, de unde era mai fără putință a o descuiba...</p>
+<p>Cu toate acestea, ea se simți, pentru întâia oară poate, cuprinsă de un simțământ nu de frică. Ea nu cunoscuse frica până atunci, dar de un început de dezgust pentru o viață care nu era făcută pentru dânsa... Mai multe amintiri din trecutul ei veniră să se desfășoare înaintea ochilor ei... Ce fericită fusese ea odinioră în căsuța ei între pomii și florile ei, în societatea caprei și a păsărilor ei care îi țineau de urât, și a câinelui ei care o păzea cu atâta credință!</p>
+<p>Ce plăcute zile erau acelea pe care le trăia în pacea conștiinței sale, într-o singurătate pe care știa s-o umple cu năluci încântătoare pentru viitorul ce își îl pregătea în închipuirea ei jună și încrezătoare!... Amintirea lui Orodel nu se stinsese din sufletul ei... Orodel june și frumos care o iubise, pe care îl iubea și ea, care îi jurase că o va lua de soție, care o făcea să uite lumea întregă în momentele pe când sta cu dânsul seara de vorbă pe prispa ei, la lumina lunii care mângâia chipurile lor copilărești, la răcoarea serii înstelate care săruta cu adierea ei cea dulce frunțile lor pline de cugetări amoroase, sau, dimineața, pe malul Prahovei, în cristalul căreia se oglindeau adesea cu un farmec nespus, făcând malurile ei să răsune de dulcile lor șoapte sau de suspinele lor fugitive!.. Apoi își aduse aminte de acea femeie, care venise să-i ocupe casa, căreia i se furaseră sculele și banii... Închisoarea lui Orodel și a ei... Îm-</p>
+<p>pietrirea sufletelor acelora pe care se duse să-i roage pentru iertarea mirelui ei... Călin; îndrăcitul Călin, care o silise să facă un omor pentru ca să-și apere onoarea și credința ei către Orodel... Eliberarea acestuia din închisoare cu riscul ei de a-și pierde viața... nerecunoștința lui, care a părăsit-o poate pentru totdeauna, fiindcă cine ar încredința-o că el mai trăiește, că nu s-a cununat cu alta!... și când ar fi chiar în viață și ar mai cugeta la dânsa, i-ar mai fi cu putință să dea ochii cu el?... Când? Unde? Ea, fugită din lume, ducând o viață ca de fiară sălbătică, ce se ascunde ziua de lumină și de oameni și iese numai noaptea să-și caute hrană. Păcătoasă, udată de sânge... Cât are să mai țină viața asta, care a început s-o obosească din ce în ce mai mult? ....</p>
+<p>Pe când ea cugeta astfel așezată pe o stâncă de unde privea undele Dâmbovicioarei, rostogolindu-se la picioarele ei între doi munți înalți, care o închideau ca între două ziduri uriașe, oamenii ei se ocupau împrejuru-i cu lucrările lor de întăriri, după cum se pricepea fiecare. Aceste lucrări care îi sileau adesea să treacă pe lângă dânsa, împiedicau șirul cugetărilor la care se detese cu un farmec atât de neînvins. Ea simți nevoia de a și le urma încă într-o liniște neîntreruptă de niciun lucru care să-i amintească prezentul... Mina se sculă din locul ei și făcu câțiva pași înainte... În dreapta ei se afla o potecuță ca un fel de scară cu trepte formate din lespezile de piatră ce erau grămădite unele peste altele.... Ea se coborî pe acele trepte care o conduseră într-o vale îngustă ce se întindea</p>
+<p>pe malul cel neregulat al Dâmbovicioarei... Niciodată Mina, de când îmbrățișase viața haiducească, nu cugetase să facă o preumblare singură și departe de ceata ei...Ea umblă câteva minute pe malul cel râpos al râului, încercând să reia șirul amintirilor ei de mai înainte... Dedată simți ea niște pași care veneau după dânsa... își întoarse capul, dar nevăzând pe nimeni, își urmă calea înainte... Abia se depărta puțin, și i se păru iară același zgomot de pași, ca de cineva care calcă pe uscături sau pe un pietriș.. Mina se mai uită, dar nici astă dată nu văzu nimic... Cu toate acestea, stătu puțin în loc și se căută la brâu să vadă dacă își avea pistoalele la dânsa.... găsi două pistoale în dreapta și alte două în stânga, ascunse în cutele brâului și acoperite de chepengul ce-l purta pe dânsa...</p>
+<p>„Dacă ar fi vreo fiară care și-ar pune mintea cu mine, am cu ce mă apăra”, cugetă ea, și merse iară... Pentru a treia oară, ea simți zgomotul de mai înainte, însoțit de acela ce-l face cineva când depărteză crăcile unor copaci ca să-și facă drum să treacă... Mina se uită împrejurul ei și nu zări nici acum pe nimeni... În dreapta ei era un suiș care conducea într-o peșteră. Ea se urcă pe acel deal, de unde credea că va putea vedea mai bune pe cine o urmărea,om sau fiară... Lăsându-și ochii în vale, ea văzuse pe Boilă mergând liniștit pe coasta cealaltă..</p>
+<p>— Ar crede cineva, Boilă, că ți-e teamă de mine să nu fug și să vă las, îi zise haiduceasca când îl văzu apropiindu-se până în dreptul ei.</p>
+<p>— Lasă căpităneasă, răspunse haiducul, eu nu mă tem de ce zici d-ta, dar am un miros de copoi care m-a pus pe urmele unui urs aici de vale, și zău aș crede că m-am născut sub o stea fericită când l-aș întâlni... Iarna trecută m-a cam zgârcit frigul, și acum aș vrea să mă îngrijesc de o blană pentru cea viitoare.</p>
+<p>— Să-ți ajute Dumnezeu! zise Mina, apoi înaintând spre peșteră. — Bietul Boilă, zise ea, și un suspin ieși fără voia ei din adâncul inimii sale.</p>
+<p>Soarele nu apusese încă, deși nu se mai vedea în dosul unui munte care îl ascunsese de ochii Minei... Ea mai avea destul timp să vadă acea peșteră lăudată pe care n-o văzuse încă... Intră dară în peșteră și voia să înainteze, când i se păru că o umbră care se mișca alături cu dânsa. Își întoarse ochii spre partea unde zări umbra și îndată scoase un țipăt înfiorător, văzându-se față în față cu Călin... Călin, pe care îl știa mort, deoarece îl ucise ea cu mâna ei. Călin, despre care era convinsă că era demult putrezit și despre care nu mai auzise vorbindu-se de doi ani aproape, deoarece chiar haiducii ei care îl recunoscuseră pe când cu lupta de la Curtea de Argeș, nu voiseră să-l descopere haiducesei, temându-se să nu intre iară pe mâinile lui și să piardă pe căpităneasa lor la care țineau așa de mult. Acel Călin se afla acum înaintea ei, fulgerând-o cu privirile lui înflăcărate de un amestec de amor și de răzbunare, înfiorând-o cu râsul cel drăcesc care încrețea buzele lui învinețite, arătându-i chipul său uscat și galben, ca ceara, care îl făcea să semene ca ieșit dintr-un mormânt.</p>
+<p>Fără îndoială, nu putea fi Călin în viață, de-</p>
+<p>oarece toată înfățișarea lui era ca de un strigoi... Iată ce făcuse pe Mina să scoată acel țipăt la vederea cea neașteptată a acelei arătări.</p>
+<p>— Te-ai speriat de mine așa de tare! îi zise Călin. Oare m-ai crezut că sunt mort pentru o zgârietură ce mi-ai făcut la frunte, și care mă amețise dimpreună cu rachiul ce-l băusem? te-ai amăgit, Mino, dacă ai crezut așa; iată-mă în carne și în oase, după ce te-am căutat prin toți munții și prin toți codrii ca să te găsesc și să-ți spun că îți este capul pus la preț și că acum ești amenințată să cazi în mâinile poterei, care vine într-un număr de peste o sută de inși să te prindă vie sau moartă. Și că numai eu sunt în stare să te scap, dacă vei hotărî astă dată să fii a mea, sau de unde nu, atunci am să-mi răzbun pentru toate relele câte mi-ai făcut să sufăr... Nu te încerca să faci nicio mișcare sau să chemi pe cineva în ajutor; oamenii mei sunt apropiere de aici... te vei pierde fără niciun folos. Vin-o dar cu mine care te iubesc,</p>
+<p>fiindcă ar fi păcat de tinerețile tale dacă vei face vreo nebunie care să te coste viața. Vino, adăugă el făcând un pas spre dânsa spre a o lua de mână.</p>
+<p>— Nu mă atinge! zise Mina retrăgându-se dinaintea acelui om; pentru mine ești mort, și vei fi mort cât voi trăi eu.</p>
+<p>Mino, zise Călin cu un ton prin care pătrundea un început de disperare, sunt aproape doi ani de când umblu după tine... m-am făcut hoț, pentru ca să strâng o ceată de haiduci cu banii ce i-am furat și pentru ca să adun avere cu care să te fac fericită... Tu ai vrut să mă omori...</p>
+<p>apoi mi-ai luat tot ce ai găsit la mine, și m-ai azvârlit ca pe un câine sub gardul grădinii tale... puteam să pier acolo, dacă nu se găsea un creștin ca să-mi ajute să scap... pe urmă mi-ai luat voinicii mei și mi i-ai înstrăinat de mine... Am fost nevoit să mă fac căpitan de poteră ca să mă pot apropia mai ușor de tine... Te-am urmărit un timp îndelungat pas la pas, până mi-a ajutat Dumnezeu să descopăr urmele tale, dar cum te găsesc? în loc să-mi fii recunoscătoare pentru că te-am iertat, după ce ai vrut să mă omori, în loc să fii mai simțitoare la atâta iubire ce ți-am arătat, tu stăruiești în cruzimea ta cea sălbatică de mai înainte. Ce te face să fii astfel? Dacă crezi că Orodel mai visează la tine, te amăgești. Unde este el? De ce nu-l văd alături cu tine? Mai știți ceva unul de altul? Nimic! Uitare, receală, nepăsarea, iată cu ce te răsplătește el! Iubirea, nebunia, turbarea, iată ce mă aduce la picioarele tale pe mine, care mă vezi așa de disprețuit în inima ta!... Mino, să știi că oricât de mare e focul pe care l-ai prins în inima mea, oricât de nebună e patima care m-a orbit, oricât de nevindecat va fi dorul meu, dacă te voi pierde și acum, tot așa de mare simt că mi-e setea de răzbunare, dacă mă voi vedea și acum respins cu atâta ură de tine... Aștept dar să-mi spui cel din urmă cuvânt, ca să știu dacă îmi vorbește Dumnezeu sau dracul prin gura ta.</p>
+<p>Nu amesteca nici pe Dumnezeu, nici pe necuratul, acolo unde omul e singur stăpân pe voința sa, răspunse Mina. Tu știi că inima mea</p>
+<p>e de mult dată altuia, și dacă acela care mi-a câștigat-o nu o mai voiește, atunci ea va fi dată morții, iar niciodată altui bărbat!... Poate că dacă te întâlneam înainte de a întâlni pe Orodel, aș fi rămas cu tine și nu aș mai visa la dânsul, dar s-a întâmplat altfel, și numele tău n-a fost scris în cartea ursitei mele. Vezi dară că e de prisos a mai stărui în patima care te orbește, fiindcă e cu neputință a mă schimba din ceea ce sunt.</p>
+<p>— Acesta e cuvântul tău din urmă?</p>
+<p>— Ți-am spus.</p>
+<p>— Ești tânără, Mino, și ar fi păcat să-ți chemi singură moartea...</p>
+<p>— Nu mă tem de ea, deoarece am înfruntat-o de mai multe ori și deoarece aștept s-o întâlnesc la fiecare pas, în fiecare minut.</p>
+<p>— Mino ... încă o dată îți zic... ia seama bine...</p>
+<p>— Destul, și lasă-mă în pace să mă duc, că nu mai pot sta aici cu tine, zise haiduceasa făcând un pas spre gura peșterei.</p>
+<p>— Pe viul Dumnezeu, nu te voi lăsa să ieși de aici! urlă Călin punându-se în fața ei și scoțând din sânu-i un lung cuțit de vânătoare. Ai vrut să-mi ridici viața, urmă el, acum îmi vei plăti cu capul tău pentru ceea ce ai vrut să-mi faci.</p>
+<p>Și făcu doi pași spre Mina care se retrăsese într-un colț al peșterei, unde se pregătea să-și scoată armele spre a-și apăra viața, dar deodată Călin se simți strâns cu putere între două brațe de fier, care luându-l de mijloc și ridicându-l în aer, îl lăsară să cadă în fundul unei rovine adânci, la o distanță de câțiva pași mai</p>
+<p>jos de peșteră. Era credinciosul și devotatul Boilă, care auzind țipătul Minei de la început, alergase la dânsa, deoarece înțelesese că se afla amenințată de un pericol mare, și acum sosise tocmai la timp.</p>
+<p>El se întorcea acum la peșteră ca să ia pe haiduceasa și s-o ducă la locul ei, sub paza credincioșilor ei haiduci, când la cotitura unei poteci umbrită de câțiva copaci deși, se simți rănit într-o coastă din dreapta de un pistol ce fu descărcat asupra lui de o mână nevăzută... Boilă căzu fără simțiri... Mina auzind detunarea armei ucigătoare, alergă îndată să vadă ce s-a întâmplat, dar patru inși ieșindu-i înainte și, fără a-i da pas să cugete la vreo apărare, puseră mâna pe dânsa, îi legară gura ca să nu cheme vreun ajutor și intrând cu dânsa în păduricea în care fuseseră ascunși, dezlegară patru cai ce-i aveau legați de un pom, puseră pe Mina încremenită pe un cal, pe care îl încălică unul din ei și făcând și ceilalți trei asemenea, plecară în fuga mare, ajutați de întunericul nopții care sosise demult și de singurătatea acelor locuri neumblate de oameni într-o asemenea oră.</p>
+<p>Trecură ca la vreo douăzeci de minute, când Boilă își veni puțin în simțiri după rana ce o primise... El se simți plin de sânge, se sculă cum putu, se coborî la râu, își spălă cu apă rece locul rănit și-l legă cu mânecile pe care le rupse de la cămașa lui, apoi se duse la locul unde erau adăpostiți haiducii și unde credea că va găsi pe Mina întoarsă.</p>
+<p>— Căpităneasa nu e aici, răspunseră haiducii la întrebarea ce le-o făcuse Boilă.</p>
+<p>— Cum se poate! zise acesta în culmea mirării sale, și fără a considera starea în care se afla, se întoarse repede la peșteră, o căută pretutindeni, o strigă de mai multe ori în deșert și văzând că nu primea niciun răspuns, luă drumul care duce spre Rucăr, deoarece o presimțire urâtă îi spunea că Mina era răpită de oamenii pe care Călin îi ascunsese în pădurice și care au tras asupra lui să-l omoare.</p>
+<p>Pe când el se ducea astfel, fără să știe unde putea să găsească pe capităneasa lui și cum era să facă spre a o scăpa, ea zări de departe, la lumina zilei care începuse a se ivi o mulțime de poterași cu căpitanii lor în frunte, care înaintau spre cuibul haiducilor... Boilă se ascunse după niște bolovani și îi lăsă să treacă, apoi își urmă drumul.</p>
+<p>Să lăsăm pe credinciosul Boilă să meargă în descoperirea căpitănesei sale și să asistăm la lupta ce era să înceapă între poterași și ceata haiducilor, acum rămasă fără căpetenie și fără sprijinul celui mai curajos și mai viteaz dintre dânșii.</p>
+<p>La vederea poterei, care se apropia într-un număr așa de mare, haiducii se pregătiră a-i primi cu armele încărcate. Poterașii începură să urce dealurile pe mai multe poteci, uitându-se pe toate culmile munților ca să zărească pe adversarii lor. Aceștia îi lăsară să mai înainteze, apoi rostogoliră câțiva bolovani de piatră asupra lor, care făcură să cadă mulți dintre dânșii, zdrobiți de acele mase care târau și altele după.</p>
+<p>ele... Acesta aduse oarecare dezordine între poterași.</p>
+<p>— Înainte, băieți! strigă atunci căpitanul lor, care tocmai sosea și el cu o parte din ostași.</p>
+<p>Poterașii năvăliră din toate părțile... Câteva focuri de carabine culcară la pământ pe cei dintâi care cutezară să înainteze, dar nimeni nu cugeta să dea dosul... Ei mai urcară un deal... Alte focuri îi acoperiră și aici, fără ca ei să fi descărcat nicio armă până acum, deoarece haiducii stau pitiți după bolovani și după copaci și nu se puteau vedea... Iată-i acum ajunși pe culmea muntelui, luându-se după focurile care i-au condus la ținta lor... Ei împresurară toată poiana aceea care era ocolită de grămezi de pietre și de copaci, din dosul cărora se țineau haiducii, și le strigară de trei ori să dea armele. Drept răspuns, haiducii mai deșertară un rând de pistoale și de carabine, apoi ieșind din ascunzătorile lor, năvăliră cu paloșele în mână și cu chiote asurzitoare asupra poterașilor. O luptă crâncenă începu atunci între poterași și haiduci, luptă turbată și sângerosă, în care niciunul nu se mulțumea când putea să rănească pe adversarul său, ci nu-l lăsa din mâini până nu-l vedea mort.</p>
+<p>Dar în cele din urmă, puținii haiduci ce mai rămăseseră în picioare au trebuit să cedeze numărului mult mai mare al poterașilor și a le lăsa un triumf, care cu toate astea i-a costat așa de scump. Ei se întoarseră mândri de biruința lor și mulțumiți că au putut sfărâma ceata acelor bandiți, cu care niciunul, înaintea lor, nu putuse să să măsoare până atunci. Singura lor părere de rău era că n-au putut pune mâna pe căpităneasa lor, nu știau încă ce s-a făcut și pentru prinderea căreia se așteptau la o răsplată mai mare din partea guvernului țării.</p>
+<p>*</p>
+<p>**</p>
+<p>Ce făcea Mina în momentele acestea?</p>
+<p>Nefericita copilă, îndată ce răpitorii ei ajunseră aproape de satul Rucăr, pe un drum lăturaș, deoarece ei se feriseră de întâlnirea poterei care se ducea într-acolo, ea vru să vorbească. Unul din răpitorii ei îi dezlegă gura.</p>
+<p>— Ce ai să vorbești? îi zise ei; vorbește mai curând că ne grăbim.</p>
+<p>— Unde mă duceți? întrebă ea cu un aer rătăcit.</p>
+<p>— Ce-ți pasă, vei vedea când vom ajunge acolo, răspunse unul dintr-înșii.</p>
+<p>— Eu știu unde vreți să mă duceți, zise Mina: dorința de a câștiga prețul care e pus pe capul meu v-a îndemnat la fapta asta.</p>
+<p>Mare va li câștigul vostru când îl veți împărți între patru inși! Dar dacă capul meu prețuiește ceea ce credeți că veți lua pe dânsul, apoi rămâne cine dă mai mult pe el. Sunt în mâinile voastre și vreau să mă răscumpăr cu îndoit preț. Ce ziceți despre aceasta?</p>
+<p>Cei patru inși se priviră între dânșii, ca cum ar fi vrut să afle unul de la altul de ce părere era.</p>
+<p>Nimeni nu răspunse nimic... nu știa ce să răspundă... Pe de o parte, lăcomia de a câștiga o îndoită sumă i-ar fi îndemnat să primească tocmeala ce li se propunea, dar pe de alta, se</p>
+<p>îndoia de sinceritatea vorbelor Minei. Aceasta stăruia să i se dea un răspuns hotărât. Atunci unul din ei se trase la o parte și făcu semn celorlalți a se apropia. Ei se așezară la umbra unui carpen, puțin mai departe de captiva lor, pe care nu o pierdeau din vedere. Cu toate acestea, își ținură între dânșii următoarea convorbire cu un glas încet, spre a nu fi auziți de dânsa.</p>
+<p>— Ce zici tu, Pârvule? întrebă unul din ei.</p>
+<p>— Eu aș zice ce aș zice, răspunse Pârvu, dar daca nu ne vom duce cu ea la stăpânire, atunci cine ne mai scapă? cu căpitanul poterei nu mai putem da ochi, deoarece, când i-a cerut Călin să îi dea câțiva oameni ca să răpească pe haiduceasa, dicându-i că știe de bună seamă unde se află ea, noi ne-am arătat inimoși rugând pe căpitanul să ne dea pe noi. Acum dacă vom înșela și stăpânirea, când va afla că am dat drumul haiducesei din mâinile noastre, cum</p>
+<p>mai rămâne cu noi?</p>
+<p>— Ei, negustorul fricos...</p>
+<p>— Nu pierde niciodată, întrerupse Pârvu.</p>
+<p>— Dar nici de câștig nu are parte.</p>
+<p>- Nu zic altfel, Mericene, dar ia stai să mai spun una.</p>
+<p>— Ce lucru?</p>
+<p>De unde suntem încredințați că ea se va putea ține de cuvânt? fiindcă dacă i-ar avea la dânsa, atunci cine ne oprește de a-i lua noi și pe lângă ei să nu pierdem nici prețul ce e pus pe capul ei.</p>
+<p>- E bună părerea ta, Pârvule; haideți să pipăim lucrul mai de aproape, și ridicară infama lor ședință.</p>
+<p>— Ei bine? zise Mina când ei se întoarse spre dânsa.</p>
+<p>— Ai banii aici? o întrebă Pârvu.</p>
+<p>— Aici, unde? cum ai crezut să port la mine patru mii de galbeni, cum ar purta cineva o mână sau două de bani!</p>
+<p>— Dar unde îi ai?</p>
+<p>— Nu sunt departe, numai să ne învoim mai înainte.</p>
+<p>— Zi că suntem învoiți, cum să facem atunci?</p>
+<p>— E prea ușor: să se ducă unul din voi să-i ia de unde îi am ascunși și să-i aducă aici să îi împărțim; cred că trei bărbați, care vor rămâne, sunt destui pentru ca să păzească o femeie.</p>
+<p>Pârvu cugetă un minut, apoi întorcându-se către Mina:</p>
+<p>— Haide, spune mai curând, dacă e așa, unde sunt banii ascunși, zise el, că văd că ne trece timpul numai cu vorbe.</p>
+<p>— Cine se însărcinează să-i aducă? întrebă Mina.</p>
+<p>— Orișicine... Mă duc eu, răspunse Pârvu.</p>
+<p>— Atunci fii cu omenie, am zis jumătate și jumătate; nu uitați că sunt patru mii de galbeni...</p>
+<p>— Două și două, dar nu ne-ai spus unde sunt.</p>
+<p>— Voi ați trecut pe lângă un stejar cu icoana Maicii Domnului bătută într-însul... e ca o fugă de cal de aici până acolo... cum mergi, pe mâna dreaptă.... Mă pricepeți unde zic?</p>
+<p>— Cu o cruce acoperită alături?... zise Pârvul.</p>
+<p>— Între crucea aceea și icoană, dacă vei săpa numai de o palmă, vei găsi într-o oală legată cu piele banii mei. Ia oala cu totul și te întoarce mai curând cu ea.</p>
+<p>Pârvu dete să plece, dar întorcându-se iară:</p>
+<p>— Dar dacă nu voi găsi nimic? întrebă el cu oarecare îndoială.</p>
+<p>— Dacă nu va fi precum am spus, capul meu să mi se ia când te vei întoarce. Sunt în mâinile voastre.</p>
+<p>Pârvul se depărtă.</p>
+<p>Două minute trecură abia după plecarea lui, și Mina începu să se vaiete și să se lovească cu pumnii în cap.</p>
+<p>— Uituca de mine! zise ea, parcă am fost amețită, smintită nu știu cum să zic! Închipuiți-vă că uitasem că acuma o lună mai bine, am scos banii de unde spusei că-i îngropasem, deoarece aflasem că era să se facă un puț chiar pe locul acela, și i-am ascuns tocmai peste drum, alături cu un copac trăznit! O să creadă că i-am mințit, că i-am purtat cu vorbe... Cine știe!... Dacă n-are cine se duce să-i spună până a nu se întoarce, că mi-am pus capul în joc, săraca de mine!</p>
+<p>— Nu e nimic, rămâneți voi doi și mă duc eu să-l înștiințez despre aceasta, zise Merișeanu; dar pe răspunderea voastră, adăugă el către ceilalți doi. Eu mă arunc pe un cal ca să nu întârzii.</p>
+<p>Și aruncându-se pe deșelate pe unul din cei patru cai ai lor, o porni în fuga mare.</p>
+<p>Mina rămânând numai cu doi din răpitorii ei, trase într-o clipă două pistoale ce le avea ascunse la brâul ei, și le descarcă in capetele lor, pe când ei se uitau după camaradul lor care fugea cu calul înainte.</p>
+<p>Când îi văzu căzuți pe amândoi, ea dispriponi unul din caii rămași, sări pe dânsul și apucă drumul munților unde credea să găsească pe haiducii ei, dar abia se depărta de unde plecase, când se întâlni cu Boilă în drum.</p>
+<p>Boilă plin de pulbere, cu fața aprinsă de atâta drum ce-l făcuse, cu sudoarea curgând de pe fruntea lui, de-abia umblând și ținându-se cu mâna de coasta lui rănită, văzând pe Mina și recunos-</p>
+<p>când-o:</p>
+<p>- Unde mergi? îi strigă el.... te-am cautat... dar lasă că îți voi spune altă dată, acum haideți înapoi, adăugă el întorcând calul de dârlogi. Dar haiducii noștri! întrebă Mina cu mirare.</p>
+<p>Nu mai întreba de ei... sunt pitiți cu toții, dar s-au bătut bărbătește, și atâta mângâiere ne-a rămas. ,</p>
+<p>- Biata mea capră! șopti ea. Și acum unde ne ducem? adăugă Mina. Eu abia am scăpat de doi din răpitorii mei, și mai sunt încă doi cari mă vor căuta fără îndoială...</p>
+<p>- Las pe mine, căpităneasă, zise Boilă abia suflând de osteneală și de durere, dar deocamdată haideți la Rucăr că e mai aproape.</p>
+<p>- Urcă-te pe cal cu mine că te văd prea obosit.</p>
+<p>- Mă voi urca numai ca să ajungem mai curând.</p>
+<p>Peste cinci minute ei se aflau în Rucăr; Boilă dete drumul calului să meargă în voia lui, apoi</p>
+<p>se duse să cumpere de la o femeie un costum pentru Mina și după ce o văzu îmbrăcată în portul ce se cuvenea sexului ei:</p>
+<p>— Acum iată-te iară așa cum te-am văzut pentru întâia oară în căsuța d-tale de pe malul Prahovei, îi zise el.</p>
+<p>— Și câte întâmplări grozave au trecut de atunci și până acum peste capul nostru! răspunse Mina între două suspine dureroase.</p>
+<p>— Dar niciuna mai grozavă, întâmpină Boilă, decât aceaa când te-am crezut pierdută pentru totdeauna.</p>
+<p>— Și ce erai să faci daca aflai că eram într-adevăr pierdută? întrebă Mina fără a-și da seama.</p>
+<p>— Ce eram să fac! și ce îmi rămânea de făcut decât să mă urc într-un vârf de munte și să mă prăvălesc în fundul unui pripor unde să-mi zdrobesc capul cu viața dimpreună!</p>
+<p>— Grozavă moarte, Boilă! mi-o închipuiesc și mă ia fiori.</p>
+<p>— Așa ți se pare, dar până să ajungă cineva jos, el e mort mai dinainte și nu mai simte grozăvia căderii sale.</p>
+<p>Mina tăcu; ea cugeta la vorbele lui Boilă; apoi văzându-l că i se tăiau puterile din ce în ce mai mult:</p>
+<p>— Dar tu suferi așa de tare de rana ce ai primit-o că abia mai poți umbla, bietule Boilă, îi zise ea.</p>
+<p>- Las’ pe mine, căpităneasă, că doară mi-o trece... numai fiindcă începe să însereze, ar fi bine să găsim o casă undeva să petrecem noaptea asta până mâine.</p>
+<p>Și zicând acestea, Boilă își aruncă ochii asupra unei femei tinere care sta la o parte și privea la dânșii.</p>
+<p>— Ce frumoasă ți-e surata! zise ea când ei se apropiară de dânsa.</p>
+<p>— Nu mi-e surată, răspunse Boilă, dar e o biată creștină, care nefiind de aici și necunoscând pe nimeni, caută un loc unde să se adăpostească noaptea asta.</p>
+<p>— Să vină la mine, că am destul loc s-o primesc, zise acea femeie, și invită pe Mina să intre la dânsa.</p>
+<p>— Atunci te las aici, și mâine dimineață vin să te iau ca să te duc la casa d-tale, zise Boilă către Mina.</p>
+<p>— Așa vei face, răspunse ea, și intră cu femeia cea tânără în casă.</p>
+<p>Noaptea veni; oaspea Minei chemă o fată, pe care o avea în serviciul ei, și îi zise să vadă de masă, apoi se puseră amândouă să mănânce. La masă ea întrebă pe Mina dacă era măritată.</p>
+<p>— Nu m-am măritat, răspunse ea, mă tem de bărbați.</p>
+<p>— Eu sunt măritată numai de trei luni, și mi se pare că sunt numai de trei zile de atunci.</p>
+<p>— Se vede că iubești prea mult pe soțul d-tale.</p>
+<p>— Oh! da, prea mult.</p>
+<p>— Și dânsul?</p>
+<p>— Mă pierde din ochi... O zi dacă lipsește de lângă mine i se pare că a trecut un an... Și eu pentru întâia oară m-am despărțit ieri de dânsul... pare că mă tem că n-am să-l mai</p>
+<p>văd... E așa de tânăr și frumușel, că mă uit la dânsul ca la lumina soarelui.</p>
+<p>— Și unde e dus de ieri și până acum? întrebă Mina ca să țină vorba.</p>
+<p>— S-a dus cu potera să prindă niște haiduci care s-au pripășit aici în munți de câteva luni de zile... Bărbatul meu e unul din căpitanii de poteră, adăugă ea cu oarecare simțământ de mândrie... Dar ce ai, că ți-a pierit fața? oare te simți că ți-e rău? adăugă ea văzând pe Mina îngălbenită și încetând de a mânca.</p>
+<p>— N-am nimic, răspunse aceasta, dar vorbeai de haiduci, și sunt cam fricoasă de felul meu.</p>
+<p>— N-ai pentru ce să te temi, astăzi am primit știre de la bărbatul meu că cea mai mare parte din haiduci sunt uciși și vreo cinci care remăseseră vii sunt prinși și au să-i aducă legați în fiare.</p>
+<p>— Și când are să se întoarcă soțul d-tale? întrebă Mina cu oarecare temere de care nu-și putea da seama.</p>
+<p>Dacă nu la noapte, dar mâine până în ziuă îl aștept negreșit.</p>
+<p>Ele mai vorbiră câteva minute, apoi se despărțiră spre a-și vedea de culcare.</p>
+<p>Mina rămase să se culce în încăperea unde mâncase cu oaspea ei. Ea se întinse pe un pat așteptând să vină somnul, care nu se lipea de ochii ei. Evenimentele trecute, nesiguranța ei pentru viitorul ce o aștepta, mii de alte dureroase amintiri veneau necontenit să-i tulbure repaosul și să alunge somnul departe de dânsa...</p>
+<p>cându-și aminte de acea femeie care o primise cu atâta bunătate în casa ei:</p>
+<p>— Biata femeie! cugetă ea, așa de tânără și frumușică, și ce suflet bun și îndatoritor la dânsa!... Și cum își iubește bărbatul?... Fără îndoială că și el cată s-o iubească!... Cât de fericită e!... Ce fericiți sunt amândoi! Și cu toate astea, ce nedreaptă e soarta pentru unii oameni și cât de aspră e legea aceea care a ursit pe unii să fie fericiți și pe alții să sufere mii de chinuri și mii de rele nespuse! cum aș dori și eu să fiu odată la casa mea, dar să trăiesc cu dânsul, deoarece nimeni altul n-ar fi în stare să mă facă fericită!... Boilă mi-a spus o dată că l-a întâlnit aproape de București... Se întorcea de la un unchi al său care l-a ajutat cu bani... De m-aș duce la dânsul... aș îngenunchea înaintea lui, i-aș spune că și eu am fost fată de preot... El m-ar vedea că sunt tânără și frumoasă, că am și eu o casă cu toate cele trebuincioase într-însa, și nu mă îndoiesc că va primi să mă cunune cu nepotul său!...</p>
+<p>În mijlocul acestor vise plăcute, acestor proiecte încântătoare, Mina scoase un suspin dulce, apoi închise ochii și adormi.</p>
+<p>Somnul ei fu neintrerupt până dinspre ziuă, dar nu se luminase încă bine, când un zgomot ce se auzi în tindă o făcu să se deștepte... Era cineva care venea... Cine altul poate fi decât soțul acelei femei care era așteptat să vină! cugetă ea. Apoi i se păru ca o sabie zdrăngănind pe pardoseala din tindă... O ușă se deschise... Se auzi două glasuri întâmpinându-se între ele... Pe urmă sunetul a două scrutări dulci, apoi ușa se deschise iară și nu se mai auzi nimic.</p>
+<p>— Negreșit e bărbatul său... bine am judecat eu! zise Mina, și fiindcă acum soarele începuse să răsară, ea se sculă și se îmbrăcă iute.</p>
+<p>Câteva minute după aceasta, oaspea Minei intră la dânsa și o rugă să nu plece încă.</p>
+<p>— A venit bărbatul meu, îi zise ea, și mă duc să-i îngrijesc de mâncare, fiindcă spunea că n-a mâncat de ieri dimineață...</p>
+<p>Vei sta să mâncăm împreună, ca să vezi și d-ta ce frumos mi-e soțiorul.</p>
+<p>Mina făcu oarecare greutăți de a primi invitarea, dar văzând multa stăruință a oaspei sale, hotărî să rămână. Ea îi mulțumi și ieși sprintenă ca o căprioară ca să vadă de dejunul soțului ei.</p>
+<p>Acesta, aducându-și aminte că împușcase în ajun două turturele pe care le pusese în tolba sa, și fiindcă auzise gura femeii sale în camera de alături, veni să-i aducă acel vânat, dar în locul femeii sale, el găsi pe alta... Femeia lui nu-i spusese că mai era o străină la dânsa.... El recunoscând pe Mina, rămase ca un trăznit.</p>
+<p>— Orodel! strigă deodată Mina vrând să se arunce în brațele acestuia.</p>
+<p>— Nefericită copilă ce vrei să faci! sunt însurat, zise el, întinzând brațul spre a opri avântul care îmbrâncea pe fată către dânsul.</p>
+<p>— Însurat! strigă Mina ca ieșită din minți; tu Orodel, însurat cu alta!... și eu care am suferit, care am părăsit lumea pentru tine, care te-am așteptat un timp îndelungat dezmierdându-te în visele mele și punându-mi toată fericirea în tine; care mi-am jucat capul de atâtea ori</p>
+<p>pentru tine, te găsesc acum însurat! Oh! fii blestemat de ceruri și blestemat de toți oamenii, cobe rea a vieții mele!</p>
+<p>Uită tot și iartă-mă, zise Ororel, căzând în genunchi și plângând. Te credeam pierdută, pentru totdeauna... Am plâns... era să înnebunesc de dorul tău...</p>
+<p>— Mișelule!</p>
+<p>— Eram să-mi dau moartea singur...</p>
+<p>— Ticălosule!...</p>
+<p>— Dar în cele din urmă am zis așa: ce a înțeles ea dacă mă voi omorî, ce bine i-aș face cu asta!</p>
+<p>— Suflet de câine! binele pe care mi l-ai făcut a fost ca să-ți calci jurământul și să iei pe alta de soție? inimă de fiară!</p>
+<p>În momentul acesta, ușa se deschise și soția lui Orodel intră pe neașteptate. Ea văzu pe soțul ei îngenunchiat înaintea Minei și pe dânsa stând ca o statuie a mustrării în fața lui :</p>
+<p>— Ce va să zică asta! întrebă ea ținându-se de spatele unui scaun ca să nu cadă de tulburarea ce o simți la această vedere neașteptată.</p>
+<p>— Asta va să zică, răspunse Mina, că soțul d-tale, până a nu se însura, mi-a jurat mie credința sa și apoi a călcat-o în picioare. Acum s-a căit de ceea ce a făcut, dar căința lui e târzie!... Iartă-mă, surioara mea, pentru supărarea ce ți-am făcut-o, dar a fost fără voia mea. Și acum rămâi sănătoasă și... fericită!</p>
+<p>Mina după aceste cuvinte, ieși repede din casă.</p>
+<p>Soția lui Orodel plecă și ea cu lacrimile pe</p>
+<p>ochi să se plângă la părinții ei, care se aflau într-acel sat, de purtarea soțului ei.</p>
+<p>În acel minut sosea și Boilă. El întrebă de Mina, și Orodel îi spuse tot ce s-a petrecut și cum a plecat ca o nebună din casa lui.</p>
+<p>— Oh! acum înțeleg unde s-a dus ea! zise Boilă, dar dacă ai un suflet, ajută-mă s-o scăpăm.</p>
+<p>Orodel plecă cu Boilă, fără a judeca dacă făcea bine să-l însoțească și să dea mai multe prepusuri femeii sale.</p>
+<p>Ei merserâ iute, întrebând pe câți îî întâlneau dacă au văzut pe aceea ce o căutau ei și încotro a apucat.</p>
+<p>Unul care o întâlnise spuse că a văzut-o urcându-se pe muntele cel mai înalt dimprejurul satului, și le arătă muntele cu mâna.</p>
+<p>Boilă alergă în fuga mare într-acolo.</p>
+<p>Orodel îl urmă și el cu grăbire.</p>
+<p>Ei ajunseră la poalele muntelui și erau gata să se urce după fugară, când li se păru ca zgomotul unui vultur care bate vântul cu aripile lui când se repede în zbor de pe o culme înaltă pe o pradă ce o zărăște în vale.</p>
+<p>Amândoi ridicară deodată ochii în sus, și ceea ce văzură era o femeie cu părul fâlfâind în aer și căzând într-o prăpastie adâncă!...</p>
+<p>Boilă scoase un urlet sălbatic și rupând legăturile de la rana sa, lăsă să-i curgă sângele șiroaie, apoi căzu și el fără suflare.</p>
+<p>Orodel vărsă câteva lacrimi, după care se întoarse acasă.</p>
+<p>Acolo găsi pe soția sa întoarsă și pe părinții ei.</p>
+<p>El le spuse duioasa scenă ce se petrecu sub ochii săi, și totul rămase aici...</p>
+<p>Moartea acelei nefericite copile făcu pe soția lui Orodel să uite durerea geloziei sale, și convingerea lor nu mai fu tulburată în urmă de această amintire tristă.</p>
+<p>FINE.</p>
+</div>
+</body>
+<back><div><p></p></div></back>
+</text>
+</TEI>
