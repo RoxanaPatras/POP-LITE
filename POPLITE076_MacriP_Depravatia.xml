@@ -1,0 +1,639 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Depravația pentru aur și depravația pentru pâine! Roman de moravuri: ediție POPLITE </title>
+            <author>Macri, Panait</author>
+            <respStmt>
+               <resp>codare POPLITE</resp>
+               <name>Teodora Iuriusciuc</name></respStmt>   
+            <respStmt>
+               <resp>corectură manuală</resp>
+               <name>Lucreția Pascariu</name>
+            </respStmt>
+            <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>UAIC</publisher>
+            <date></date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+            <ref type="doi" target="10.5281/zenodo.10781442"></ref>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Macri, Panait</author>
+               <title>Depravația pentru aur și depravația pentru pâine! Roman de moravuri</title>
+               <pubPlace>București</pubPlace>
+              <publisher>TIPOGRAFIA GRIVIȚA M.M. ANTONESCU</publisher>
+               <date>1903</date>
+               <decoNote type="ilustratii" subtype="no"/>
+               <dim unit="char" type="mare"/>
+               <extent>
+                  <measure unit="word">13000</measure>
+                  <measure unit="page" type="under_250"/>
+                  <measure unit="foileton" type="under_65"/>
+                  <measure type="complete"></measure>
+               </extent>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme='https://opentheso.huma-num.fr/opentheso/api/theso/Typologie'>
+               <term type='domaine' ref="https://hdl.handle.net/20.500.11942/crteb7oodgosm">literatura</term>
+               <term type='factualite' ref="https://hdl.handle.net/20.500.11942/crt22aacdhvi7">fictiune</term>
+               <term type='forme' ref="https://hdl.handle.net/20.500.11942/crtnufdew1lfb">proza</term>
+               <term type='genre' ref="https://hdl.handle.net/20.500.11942/crthuyig1pxri">roman</term>
+               <term type='agencement' ref="https://hdl.handle.net/20.500.11942/crtbdm5xnc6io">foileton</term>
+               <term type='origine' ref="https://hdl.handle.net/20.500.11942/crtxolq1evsr9">opera originala</term>
+               <term type='discours' ref="https://hdl.handle.net/20.500.11942/crt4wma17ncnj">narativ</term>
+               <term type='public' ref="https://hdl.handle.net/20.500.11942/crthb4el4r5qc">non défini (public cible)</term>
+               <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
+            </keywords>
+            <keywords>
+               <term type="receptare" n="5"/>
+               <term type="republicare" n="2"/>
+               <term type="finished"></term>
+               
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
+            <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
+         </projectDesc>
+      </encodingDesc>
+   </teiHeader>
+ <text>
+  <body>
+<p>DEPRAVAȚIA PENTRU AUR</p>
+<p>         și         </p>
+<p>DEPRAVAȚIA PENTRU PÂINE</p>
+ <div type="chaper" n="1">
+<p>Văduva din Strada Vulturului</p>
+<p>În strada Vulturului e o căsuță pitulată în fundul unei mari curți. Partea din stânga a casei e ceva mai lăsată și pare că se va surpa dintr-un minut în altul: De altfel două pârghii de lemn susțin această aripă.</p>
+<p>Să intrăm acum puțin în interiorul acestei căsuțe. Sunt două odăi, una mică de tot, la mijloc e o sală și la dreapta o cameră ceva mai mare. Peste tot se vede cea mai neagră sărăcie, în schimb însă e o curățenie exemplară.</p>
+<p>Lângă o masă e o femeie ca de 45 de ani și o fată de 14 ani. Amândouă cos niște cămăși. Pe un scăunel, lângă o mașină, în care licărește puțin foc, stă o fetiță ca de 12 ani.</p>
+<p>— Luxandro, zise femeia, mama celor două fete, mai pune un lemn în foc, că s-a făcut frig și mi-au înghețat degetele.</p>
+<p>— N-au mai rămas decât două bucăți, răspunse Luxandra, fetița de 12 ani.</p>
+<p>Femeia nu mai răspunse nimic și peste câteva minute adresându-se fiicei sale mai mari, care îi ajuta la lucru, îi zise:</p>
+<p>— Grăbește-te Voichițo, să isprăvim mai curând, că la 9 ceasuri se închide prăvălia și nu avem nici un ban.</p>
+<p>— Cât ai să iei mamă după lucrul ăsta? întrebă Voichița.</p>
+<p>— Eu am cerut un franc si jumătate, așa mi-a plătit întotdeauna, Moritz însă ținea la un franc, zicând că e criză mare;— voi vedea acum.</p>
+<p>— Dragă mamă, continuă Voichița; dacă-i lua un franc și jumătate, să-mi dai și mie trei bani să-mi cumpăr un caiet. Astăzi m-a certat profesoara că nu mi-am scris compoziția.</p>
+<p>— O să-ți dau. Trebuie să cumpăr și puține lemne, nu vezi ce frig este?</p>
+<p>Abia pronunță ultimul cuvânt și Maria, astfel se numea această femeie, începu să tușească, o tuse seacă și înecată, ca și când ar fi ieșit dintr-un piept gol.</p> 
+<p>— Ai răcit mamă, îi zise Voichița.</p>
+<p>Maria nu răspunse și oftă adânc.</p>
+<p>— De ce nu mai iei un hap din cele care ți-au dat alaltăieri la spital? continuă Voichița. Nu e așa că te simți mai bine cu ele?</p>
+<p>— Da, ceva mai bine, îngână Maria.</p>
+<p> *</p>
+<p>* *</p>
+<p>Era pe la începutul lunii lui Decembrie, anul 1900. De câteva zile se lăsase un frig mare, iar în seara aceea viscolea cumplit. Zăpada, bătând neîncetat în geamuri, se depusese în mare cantitate și ajunsese până aproape de ferestrele căsuței, pe când vântul, urlând înfiorător, se izbea cu putere de pereți, voind parcă să-i dărâme.</p>
+<p>Pe la ceasurile 9 și jumătate seara Maria se întorcea spre casă, venind de la magazinul de albituri, unde predase lucrul. Sărmana femeie ținea îh brațe vreo 10 kilograme do lemne, o pâine și un mic pachet cu niște tărguieli de la o băcănie.</p>
+<p>Vântul și zăpada o băteau în față și cu toate silințele pe care le depunea Maria, era silită la fiecare 20-30 de pași, să se oprească pe loc, să se repauzeze puțin și apoi să-și continue drumul prin mijlocul vijeliei.</p>
+<p>Ajunse acasă pe la ceasurile 10 și căzu pe pat ca și zdrobită.</p>
+<p>Voichița aprinse numaidecât focul în mașină și desfăcu pachetul în care găsi orez, puțină untură și câteva bucățele de zahăr. Ea puse o tigaie pe mașină și făcu puțin pilaf, care în realitate nu era decât simplu orez fiert.</p>
+<p>Maria, după ce gemu câtva timp, ațipi cu mâna apăsată pe piept și cu gura întredeschisă, spre a înghiți mai mult aer, căci simțea că se sfârșește la fiecare minut.</p>
+<p>Când masa fu gata, Voichița sculă pe mama ei ca să mănânce.</p>
+<p>— Mâncați voi, răspunse dânsa;— mie nu mi-e foame. Fă-mi mai bine o ceașcă de ceai. Mai fierbe odată pe cel de azi dimineață, cred că o să aibă putere,— ține-l mai mult pe foc.</p>
+<p>Peste noapte Maria fu apucată de o fierbințeală mare și a doua zi nu putu să mai părăsească patul.</p>
+</div>
+ <div type="chaper" n="2">
+<p>La casa Terezei</p>
+<p>Vijelia se liniștise puțin. Voichița plecă de dimineață la scoală. Ea era o fată silitoare, urmna în clasa I de la externat și ar fi fost poate cea mai bună elevă, dacă ar fi avut tot ce-i trebuie. Adeseori însă îi lipsea o carte sau un caiet, iar seara, în loc să-și învețe lecțiile, era nevoită să ajute mamei sale la cusut.</p>
+<p>Tatăl Voichiței murise demult, de vreo 10 ani aproape și Maria, rămasă văduvă, își crescu cele două fetițe lucrând pe la diferite case, iar alte ori luând de cusut de pe la magazinele de lenjerie din București.</p>
+<p>De vreo doi ani biata femeie se îmbolnăvi și în iarna anului 1900, când se duse la spitalul Colțea, medicul care o examină, dădu din cap și-i prescrise niște hapuri cu creozot.</p>
+<p>— Ce am, d-le doctor? întrebă atunci dânsa pe medicul de la spital.</p>
+<p>— Ai răcit, îi răspunse acesta;— să te păzești de frig și să iei hapurile astea. Dacă se poate, să bei lapte cât de mult.</p>
+<p>— Și am să scap, o să mă fac bine? Am două fetițe și mi-e frică să nu rămână singure, pe drumuri, reluă sărmana femeie cu ochii udați de lacrimi.</p>
+<p>— Te faci bine, dar să te păzești, îi răspunse scurt doctorul.</p>
+<p>Abia însă Maria ieși din camera de consultații și medicul zise către un intern al spitalului:</p>
+<p>— Peste vreo două săptămâni se duce și asta. E pisică și are copii mici care stau cu dânsa, dorm cu dânsa! Iată adevărata mizerie...</p>
+<p>La orele 12 Voichița se întorcea spre casă, veselă că știuse lecția și profesoara o lăudase. Ea își iuțea pasul ca să ajungă mai curând, nerăbdătoare să vadă ce face mama sa, dacă a ieșit prin oraș să găsească de lucru, căci un leu și 50 bani pe care îi luase, se cheltuise deja și a doua zi cu ce era să trăiască?</p>
+<p>Dacă Voichița și-ar fi aruncat însă ochii de mai multe ori înapoia ei, ar fi văzut o femeie care o urmărea pas cu pas chiar de la poarta școlii.</p>
+<p>Această femeie o examina în același timp, cu deamănuntul. Și dacă cineva ar fi putut să citească în sufletul ei, ar fi văzut că simte o bucurie infernală pentru faptul că Voichița umbla prin zăpadă fără șoșoni, cu ghetele rupte și era îmbrăcată, în mijlocul iernii, pe un frig ca acela, cu o rochiță de stambă.</p>
+<p>Când fata ajunse în dreptul bulevardului Ferdinand, femeia aceasta se apropie de dânsa și-i zise:</p>
+<p>— Unde te duci, drăguță?</p>
+<p>— Acasă, răspunse Voichița.</p>
+<p>— Și nu ți-e frig, îmbrăcată așa subțire?</p>
+<p>— Nu nu-e frig.</p>
+<p>— Ai tată, mamă?</p>
+<p>— Am numai mamă și soră.</p>
+<p>La auzul acestor din urmă cuvinte, ochii misterioasei femei scânteiară de o bucurie și mai mare, ca și când ar fi găsit ceva ce urmărea de mult timp.</p>
+<p>— De unde vii, de la școală? continuă dânsa să întrebe. </p>
+<p>— Da, de la școală, răspunse Voichița.</p>
+<p>— Și mama d-tale ce face?</p>
+<p>— Lucrează și ne ține pe noi: Azi dimineață am lăsat-o însă bolnavă și nu știu dacă s-o fi făcut bine.</p> 
+<p>— Biata femeie! și ce lucrează, coase?</p>
+<p>— Da, coase, câteva zile n-am avut însă de lucru și am dus-o cam rău. Acum de s-o îmbolnăvi, nu știu ce-o să ne facem.</p>
+<p>— Sora d-tale este mai mare?</p>
+<p>— Nu, e mai mică, de 12 ani.</p>
+<p>— D-ta câți ani ai?</p>
+<p>— Eu, 14 ani.</p>
+<p>Misterioasa femeie încetă cu întrebările și continuă să meargă, amândouă tăcute, pe bulevardul Ferdinand.</p>
+<p>După ce făcură o distanță oarecare, tot ea se adresă Voichiței cu aceste cuvinte:</p>
+<p>— De ce nu vii puțin până la mine, nu stau departe de aci, aș putea să vă dau ceva de lucru și să câștigați bune parale.</p>
+<p>— Aș veni, răspuse Voichița cu un aer de naivitate și veselă că va putea să ducă mamei sale de lucru;— numai să nu întârzii, o fi ceasul acum 12 și jumătate și la două trebuie să fiu înapoi la școală.</p>
+<p>— N-ai deloc de ce să întârzii. Ș-apoi, e pentru binele d-tale. ,</p>
+<p>Voichița primi propunerea și coti numaidecât, împreună ou misterioasa femeie, pe o stradă lăturalnică. De acolo intrară într-o altă stradă și se opriră la casă cu înfățișarea destul de bună.</p>
+<p>Înainte de a intra inauntru, Voichița întrebă pe însoțitoarea sa să-i spună cum se numește.</p>
+<p>— Eu mă numesc Tereza, răspunse dânsa. Ai să vezi în curând că norocul te-a scos înaintea mea, căci n-ai să mai suferi, n-ai să mai fii ce ai fost până acum.</p>
+<p>Zicând aceste cuvinte, femeia Tereza, cu care vom face numaidecât cunoștință mai de aproape, apăsă pe butonul soneriei și o servitoare, curat îmbrăcată, deschise ușa.</p>
+<p>Voichița, nedumerită, neștiind chiar dacă nu visează, intră înăuntru împreună cu Tereza.</p>
+</div>
+ <div type="chaper" n="3">
+<p>Femeia-șarpe</p>
+<p>Voichița fu lăsată câteva minute singură, într-un salonaș din mijlocul caselor, iar Tereza trecu Într-o cameră de-alături. Acolo era o altă femeie, anume Elena, care întrebă Tereza îndată ce-o văzu:</p>
+<p>— Ai venit cu cineva?</p>
+<p>— Sa nu te amesteci deloc, am adus un vânat bun de tot și trebuie băgare de seamă ca să nu ne scape, răspunse infernala femeie, pe care de aci înainte vom numi-o ,,femeia-șarpe".</p>
+<p>— Și unde ai găsit vânatul? întrebă Elena, pe fața căreia se zugrăviră câteva trăsături de bucurie.</p>
+<p>— Sunt 6 zile de când îl urmăresc, răspunse femeia-șarpe. O să ne aducă bune parale și știi ceva, ascultă-mă pe mine, cu el putem scăpa de multe belele. Dacă vreodată ar veni cineva să ne închidă casa, să ne dea în judecată, cu fata pe care am adus-o acum, scăpăm de orice nevoie. Afurisita, e de o frumusețe fermecătoare și bine făcută. Fie oricine, când îi voi arunca pe fata asta în brațe, se face la minut miel.</p>
+<p>— Ce vârstă are?</p>
+<p>— A împlinit 14 ani.</p>
+<p>— Ascultă, Terezo, când o veni comisarul, să i-o arăți și lui. Dacă este cum spui, cu dânsa am putea să scăpăm bacșișurile.</p>
+<p>— Asta nu e pentru comisar, răspunse femeia-șarpe. La nevoie am s-o trimit să se roage pentru noi de altcineva, mai puternic. Tu nu știi, eu fac demult meseria asta și am trecut prin multe. Deocamdată să trimiteți pe cineva să Înștiințeze pe bătrânul care a venit alaltăieri. Îți aduci aminte, a zis că plătește 500 de lei.</p>
+<p>— Când sâ-i zic să vie?</p>
+<p>— Oricând, căci mai întâi trebuie să mă tocmesc bine cu el, să fie ceva sigur, că de unde nu, găsesc numaidecât pe un altul. Dar ascultă, ce-a făcut nevasta avocatului? Trebuia să vină la 11.</p>
+<p>— A venit numai Negrescu, și a așteptat-o pană mai adineauri. Să treci pe la dânsa și să-i spui să nu mai facă pe oameni s-o aștepte degeaba. Ș-apoi n-ai văzut-o rândul trecut? Se tocmea pentru 20 de lei, parcă noi am fi slugile ei. Să ne slăbească; iată, Negrescu s-a supărat astăzi și mi-e frică să nu-l pierdem de mușteriu.</p>
+<p>— Da, răspunse femeia-șarpe; trebuie să lucrăm cu băgare de seamă și să mulțumim pe toți mușterii, că nu mai e ca înainte, acum s-au făcut o mulțime de case ca ale noastre, nici n-ai unde să te întorci de ele. Haide, eu mă duc la vânatul meu. Nu uita să înștiințezi pe bătrânul de care-ți vorbii.</p>
+<p>Voichița era într-adevăr o fată de o frumusețe fermecătoare. O față puțin prelungă; bărbia mică; obrazul alb și plin de tinerețe; o gură mică, cât o fragă; ochi mari albaștri, visători; gene dese; un păr lung, negru și buclat.</p>
+<p>Dacă ai fi privit-o stând în picioare, rămâneai uimit. Părea că era un corp sculptat: pieptul mare, bine dezvoltat; sânul abia răsărit; talia subțire, s-o cuprinzi cu 4 degete; piciorul așa de mic, încât nu puteai să nu te miri cum de susține corpul, puțin cam înalt pentru vârsta de 14 ani.</p>
+<p>Voichița, rămânând singură, se uită în toate părțile și fără să știe de ce începu parcă să-i fie frică.</p>
+<p>Prea i se părea misterioasă casa; prea bine-voitoare i se arătase acea femeie, pe care n-o cunoștea; prea era tăcere în jurul ei, iar din când în când auzea prin camerele lăturalnice șoapte ce nu se puteau distinge și niște suspine cum dânsa nu mai auzise până atunci.</p>
+<p>Se zice că la 14 ani fetele au judecata mai dezvoltată decât a băieților. La această vârstă deja, ele nu mal sunt copile, ca raționament, ci femei.</p>
+<p>Voichița, mai era și foarte inteligentă.</p>
+<p>În clasă era a cincea sau a șasea la clasificație, ea care nu avea pe ce să învețe, nici vreme când să citească. </p>
+<p>Pe când biata față începea șă-și facă fel de fel de gânduri, ușa se deschise și femeia-șarpe intră. Ea luă un scaun și se așeză lângă Voichița, ‘</p>
+<p>— E târziu, zise fata, și mă grăbesc. Trebuie să se mire mult mama văzând că n-am sosit încă și la două trebuie să fiu înapoi la școală. Dacă ești bună, arată-mi ce este de cusut, sau de brodat, că eu brodez foarte bine,— și să plec mai curând.</p>
+<p>— Ascultă, fetițo, zise atunci femeia-șarpe; tu nu ești proastă, te cunoști după ochi. Ia spune-mi zău, nu este păcat ca o fată frumoasă ca tine să se chinuie cusând toată noaptea pentru un franc sau doi? Munca asta a lăsat-o Dumnezeu pentru fete nenorocite, care n-au ce să facă, cărora D-zeu nu le-a dăruit frumusețea ta. Iată, cunosc un moșier, e cam bătrân, dar bogat de tot. El m-a rugat să-i găsesc o fată frumoasă, cu care să trăiască. Eu, cum te-am văzut, m-am gândit la tine. Ce zici, nu e bine să nu scapi norocul când îți iese în cale?</p>
+<p>Voichița, confuză și rușinată la auzul unei asemenea propuneri, ea care nu știa încă ce e amorul, lăsă ochii în jos și răspunse:</p>
+<p>— Vino de spune mamei, eu nu pot să fac decât ce-o zice dânsa.</p>
+<p>— Ei, draga mea, tu nu știi cum sunt mamele. Dânsa o să pretindă ca să te măriți cu el și asta nu se poate, pentru că moșierului îi este rușine să afle lumea că la vârsta lui ia o fată așa de tânără. În afară de asta, nici tu nu te poți mărita până nu vei împlini 16 ani. Ar trebui atunci să mai aștepți 2 ani. Treaba e asta. În doi ani poate își schimbă gândul, sau găsește vreo altă fată, sau poate chiar să moară bătrânul. Dimpotrivă, draga mea, ar trebui ca tu singură să te ferești, să nu știe nimeni de ceea ce faci, căci moșierul e bătrân, și o să moară curând, iar averea ți-o lasă toată ție. Atunci poți să te măriți cu cine vei dori, poți să iei un bărbat tânăr, după placul tău. Când ești frumoasă și ai și avere... he, ce zici ?...</p>
+<p>— Eu nu pot să zic nimic, nu mă pricep la asta, răspunse copila neîndrăznind să ridice ochii de jos.</p>
+<p>Femeia-șarpe se apropie și mai mult de dânsa și continuă:</p>
+<p>— Nu fi proastă, draga mea. Norocul nu vine de două ori la om. Cunoști tu pe cucoana Sevastița din calea Călărașilor? A fost tot o fată săracă ca tine, a luat-o un boier bătrân, a trăit vreo patru ani cu dânsa și pe urmă a murit lăsându-i ei toată averea, că așa sunt bătrânii ăștia. Astăzi o vezi pe cucoana Sevastița! Are trăsuri de casă, slugi, guvernantă, s-a măritat cu un doctor mare, trăiește ca o împărăteasă! Dacă când era mică n-ar fi trăit cu acel bătrân, ce era să ajungă ? Nimica toată, o nenorocită, o slujnică. Ia gândește-te bine, draga mea, că eu nu-ți vreau răul, poate că mai târziu, când vei fi bogată și fericită, o să-ți aduci aminte de mine.</p>
+<p>Spunându-i aceste cuvinte, femeia-șarpe fixă pe Voichiță, căutând să citească în sufletul ei, să vadă impresia ce-i produce. Biata fată, auzind pentru întâia dată niște asemenea vorbe, sângele i se ridică în față, i se părea că tavanul cade peste dânsa și nu dorea altceva decât să scape de acolo și să fugă la mama ei.</p>
+<p>Femeia-șarpe înțelese această mișcare sufletească a copilei și rânji diabolic. Avea dânsa destulă experiență, Voichița nu era cea dintâi victimă. Odată prinsă în mrejele ei, știa că nu-i mai scapă prada.</p>
+<p>— Mă duc acasă, răspunse scurt Voichița și voi să se scoale.</p>
+<p>Femeia-șarpe o apucă de mână și o reținu zicându-i:</p>
+<p>— Dar nu-mi dai nici un răspuns? Dacă nu vrei să mă asculți, o să găsesc o altă fată și tu o să pierzi norocul. Bătrânul o să-ți dea numaidecât bani mulți, o să-ți faci rochii de mătase, o să te duci la școală cu sania, iar nu ca acuma, să umbli prin zăpadă cu ghetele rupte. Iată, vrei să-i cer eu o sută de lei să ți-i dau îndată ce te vei culca cu el? Și după aceea, câte sute n-o să mai iei!...</p>
+<p>— Lasă-mă să plec, sau încep să strig! zise fata, sculându-se in picioare și tremurând de frică, de groaza care-i intrase în suflet.</p>
+<p>Femeia-șarpe, speriată de această atitudine neașteptată, neobișnuită la o fată de 14 ani, se retrase puțin și privirile ei să întâlniră cu privirile Voichiței.</p>
+<p>— Să strigi! îi zise apoi dânsa cu un ton blând;— dar pentru ce? nu te las ca să pleci? te țin aici cu sila? Eu am voit să-ți fac un bine, nu vrei, du-te cu D-zeu, draga mea, că în București sunt destule fete sărace. Cu toate astea, vezi, gândește-te bine, nu spune la nimeni nimic, nici măcar la mama ta, căci șade urât pentru o fată de 14 ani să vorbească de măritat, — și dacă îți vei schimba gândul, vino la mine. Eu sunt întotdeauna gata să te ajut.</p>
+<p>Cu aceste cuvinte femeia-șarpe deschise ușa: Voichița ieși afară și o luă la fugă.</p>
+</div>
+ <div type="chaper" n="4">
+<p>Pe drumuri.— Plânsul orfanei</p>
+<p>Voichița găsi acasă pe mama ei tot bolnavă în pat. Luxandra îi pregătea puțin ceai și biata fetiță plângea pe ascuns.</p>
+<p>— Ce ai mamă? o întrebă Voichița aplecându-se lângă dânsa.</p>
+<p>— Nimic, răspunse ea; mă cam îneacă tusea. Aș fi vrut să mă mai duc la spital și n-am putere ca să mă scol. Ia uită-te în cutiuța aia, mai sunt hapuri?</p>
+<p>Voichița deschise o cutiuță pe care i-o dăduse de la spital și zise :</p>
+<p>— Mai sunt două, vrei să iei unul acuma?</p>
+<p>— Dă-mi, poate mi-o face mai bine.</p>
+<p>Maria se ridică puțin sprijinindu-se cu mâna de pernă și își luă doctoria,acea slabă consolare.</p>
+<p>Tusea o apucă apoi din nou, dar de astă dată fu mult mai slabă, nu ținu decât 2 până la 3 secunde.</p>
+<p>Voichița se bucură puțin, crezu că boala merge scăzând, că mama ei se va face bine și va părăsi patul.</p>
+<p>Ea n-a putut să observe însă cum se umfla pieptul sărmanei femei, care căuta aer, aer cât de mult, aer, singura-i scăpare.</p>
+<p>Maria lăsă capul pe pernă și închise ochii pe jumătate.</p>
+<p>— Cum te simți acum mamă ? o întrebă Voichița.</p>
+<p>— Mai bine... răspunse ea cu o voce tărăgănită și slabă că abia se distingea.</p>
+<p>Apoi, întinzând mâna apucă pe Voichița și atrăgând-o lângă dânsa, îi zise:</p>
+<p>— Mai aveți azi ceva de mâncare? Caută în buzunarul rochiei, mi-au mai rămas patru bani, cumpără ceva de la băcănie, dă-i și Luxandrei, îngrijește de sora ta...</p>
+<p>Pronunțând aceste cuvinte, din ochii Mariei curgeau șiroaie de lacrimi și mâna ei se încleștă de mâna Voichiței. Sărmana mamă, ar fi voit să-i mai spună ceva, să-i vorbească mai mult, dar nu avu putere.</p>
+<p>Voichița își alipi capul de umărul ei, o sărută și începu și să plângă. Erau lacrimile mamei și ale fiicei care se amestecau scăldând perna pe care zăcea bolnava.</p>
+<p>Peste câteva minute i s-a părut că mama ei a adormit. Atunci s-a depărtat încetișor, a dat Luxandrei bucata de pâine care era într-un dulap și puțin orez fiert rămas din ajun, iar cu cei patru bani pe care îi luă din buzunarul rochiei, mai cumpără puține lemne de la băcanul din colț.</p>
+<p>— Voichițo, îi zise Luxandra; dar tu nu mănânci? mie mi-ajunge jumătate din pâinea asta, ia și din orez, că nu mi-e așa foame.</p>
+<p>— Eu am mâncat la școală cu o prietenă a mea, răspunse Voichița; mănâncă tu și vezi să nu se stingă focul, că știi ce-a spus doctorul, să se ferească de răceală.</p>
+<p>După amiază Voichița nu se mai duse la școală. Mama ei era în aceeași stare, nu se văita de nimic și cu toate astea se sfârșea pe fiecare minut.</p>
+<p>«Lapte, să bei lapte cât de mult» îi mai zise doctorul de la spital. Dar unde să găsească laptele?</p>
+<p>Voichița se duse la băcanul de unde târguia, îi spuse că mama ei este greu bolnavă și-l rugă s-o împrumute cu un leu, până s-o scula, să găsească de lucru și i-l dă înapoi.</p>
+<p>Băcanul era un bulgar, un om rău, fără inimă, fără frică de D-zeu.</p>
+<p>El îi zise că-i face bine, că-i dă un leu, dar sa-i lase vreun amanet.</p>
+<p>Ce amanet să-i dea? Ce putea să se găsească în acea casă săracă, în care domnea mizeria cea mai neagră?</p>
+<p>Voichița luă pe furiș, fără să vadă mama ei, cele două scaune de paie, singura mobilă din casă și le duse la băcan. El le primi și dete fetei un leu și 20 de bani, în loc de 1 și 50, cât ceruse dânsa acuma.</p>
+<p>Fără să piardă vreme, sărmana fată dete fuga în piață, umplu o sticlă cu lapte, se întoarse repede acasă, îl fierse și dete mamei sale să bea.</p>
+<p>Maria înghiți o ceașcă de lapte și întrebă pe Voichița de unde are bani. Ii spuse atunci că s-a împrumutat de la băcan.</p>
+<p>— Bine ai făcut... îngână femeia și căzu eu capul pe pernă.</p>
+<p>Dacă ar fi fost un medic acolo, ar fi văzut ca minutele acestei bolnave sunt numărate, că viața se stinsese cu totul în pieptul ei. Cele două fetițe ce puteau însă ca să știe ? Ele așteptau dintr-un ceas în altul să se facă mama lor bine, căci nici nu puteau să-și închipuie altfel, când nu aveau pe nimeni altul în lume decât pe această mamă!</p>
+<p>Patru zile au trecut. În vremea asta Voichița a dus și masa de lemn alb, pe care mâncau, la băcanul din colț. Ea își mai vându de asemenea, la un anticar de pe bulevard, cărțile de la școală. Ce era să facă? Să ceară la vecini? Dar unde găsești vecini, când ești sărac lipit? Ș-apoi, nu cunoștea pe nimeni în acea stradă în care se mutase de puțină vreme.</p>
+<p>Era vineri dimineața. Maria chemă lângă patul ei pe Luxandra și o sărută.</p>
+<p>— D-zeu să-ți dea viață și noroc... zise bolnava cu o voce mai mult șoptită.</p>
+<p>Făcu după aceea semn Voichiței să se apropie.</p>
+<p>Sărmana fată alergă numaidecât la mama sa și căzu în genunchi lângă marginea patului. </p>
+<p>Maria o privi fix mai mult timp și o mângâia cu mâna pe față. Vorba o obosea prea mult și voia parcă să-i spună ceva cu privirea.</p>
+<p>În cele din urmă îi zise cu glasul pierdut, așa încât abia se puteau înțelege cuvintele:</p>
+<p>— Voichițo... să îngrijești de sora ta... să vă rugați amândouă lui D-zeu... o să mă rog și eu...</p>
+<p>Și tăcu, nu se mai auzi nici un cuvânt, doar buzele se mai mișcau.</p>
+<p>Voichița rămase în genunchi lângă pat, își acoperi fața cu mâinele și izbucni într-un plâns jalnic.</p>
+<p>Când ridică capul, văzu pe mama ei cu ochii tot deschiși, dar nemișcați, fără clipire, fără viață.</p>
+<p>Voichița avu un moment de groază. Apucă numaidecât mâna mamei sale; nu era rece, dar rămânea pe loc unde o puneai, ca un corp inert. O pipăi atunci pe față, îi mișcă capul, care se clătină și rămase apoi tot în poziția de mai înainte. Repede ca fulgerul duse mâna la piept. Inima nu mai bătea.</p>
+<p>Atunci se auzi un țipăt sfâșietor:</p>
+<p>— Mamă! mamă! a murit mama! </p>
+<p>Luxandra căzu și ea în genunchi și amândouă orfanele începură să plângă.</p>
+<p>Afară era vifor, ningea cu putere.</p>
+</div>
+ <div type="chaper" n="5">
+<p>Păcatul</p>
+<p> După ceva timp Voichița începu să-și adune, puterile și să-și dea bine seama de situația în care se afla.</p>
+<p> Mama ei trebuia înmormântată. Pentru aceasta era nevoie do o mulțime de formalități. Cine să le facă? Cine să alerge ? :</p>
+<p> În afară de asta, Voichița nu mai avea nici un ban, bietele fete nu gustaseră nimic toată ziua precedentă; din casă dăduseră tot. Și iarna era dintre cele mal aspre, sufla crivățul dinspre Nord și adese ori, pe lângă zăpada care cădea  mai ridica, de jos, în formă de nori, alta zăpadă.</p>
+<p> Unde să se ducă biata Voichița, un copil de 14 ani? De la cine să ceară ajutor? În casă nici un lemn, nici o bucățică de pâine, nici apă măcar, căci și ea înghețase.</p>
+<p> Căci vreun ceas stătu Voichița aplecată cu  capul pe pieptul înghețat al mamei sale, apoi sa îmbrobodi și ieși</p>
+<p> Ea dădu în bulevardul Ferdinand, o luă pe o stradă întunecoasă, coti apoi la dreapta și intră în casa femei-șarpe, unde fusese cu câteva zile mai înainte.</p>
+<p> Când o vezu Tereza, o scutură numai de cât de zăpadă și-i zise:</p>
+<p> — Iată, acum ești fată înțeleaptă, te-ai încredințat, nu-i așa, că e mai bine  să fii bogată, de cat să trăești în sărăcie.</p>
+<p> Voichița isbucni în lacrimi și zise femei-sarpe: </p>
+<p> — Mi-a murit mama...</p>
+<p> — Când? o întrebă Tereza.</p>
+<p> — Chiar azi și nu am  nici un ban, nu știu cum să o îngrop. </p>
+<p> - Vezi, vezi... zise femia-șarpe cu un aer de satisfacție dacă mă ascultai pe mine de atunci, astăzi aveai parale, bătrânul nu te lăsa pe drumri. </p>
+<p> - D-ta ai zis ca-mi vrei binele, reluă Voichișa, ajutâ-mă acum să o pot îngropa pe mama și pe urmă te voi asculta, o să trăiesc cu bătrânul de care mi-ai vorbit.</p>
+<p> — Da, draga mea, răspunse femeia-șarpe; eu nu am bani în casă, dar vino pe seară și vom face tot ce se poate; — mi-e nădejdea tot la bătrânul acela.</p>
+<p> Apoi băgă mâna în buzunar și continuă: .</p>
+<p> — Iată, ia doi franci să ai până diseară și nu te îngriji, este vreme, înmormântarea se face peste trei zile. </p>
+<p> Voichița luă cei doi lei și plecă. Când ieși din casă, femeia-șarpe o mai întrebă odată: .</p>
+<p> - Spune-mi, vii diseară, ca să știu să te aștept. . ;</p>
+<p> — Viu, viu, răspunse fata și se pierdu în viforul de afară.</p>
+<p> Când ajunsese acasă, Voichița avea în mână patru lumânări de ceară pe care  le aprinse la capul mamei sale.</p>
+<p> Cumpără apoi puține lemne, o pâine și brânză pentru sora ei mai mică. </p>
+<p> - Mănâncă, Luxandro, îi zișe ea; și nu mai plânge, Dumnezeu o să îngrijească și de noi. </p>
+<p> — Nu mi-e foame Voichițo, răspunse copila; - mă gândesc la mama, la draga mea mamă... Noi nu o să omai vedem...</p>
+<p> S-a înserat și în tot timpul zilei nu intrase nimeni în casa aceea. Câti-va vecini aflaseră despre nenorocirea întâmplată, dar fiecare ăși căuta de nevoile lui, pe o iarnă așa de aspră.</p>
+<p> Pe la 6 seara, Voichița se duse la femeia-șarpe. Teresa o aștepta.</p>
+<p> - Ai noroc, îi zise dânsa; am găsit pe bătrân și i-am spus toată împrejurarea. El mi-a făgăduit să trăiască cu tine, să-ți ia casă mare și frumoasă cu chirie, să-ți facă haine, tot, tot ce-ți trebuie. Acum o să-ți dea 100 de lei, cu banii ăștia poți să o înmormântezi pe mama ta, îți trimit eu un om care știe tot ce trebuie de făcut, o să-i dai acolo câțiva franci pentru osteneală,'pentru sanie. </p>
+<p>  Voichița nu răspunse nimic, și ce-ar fi putu să spună sărmana copila?</p>
+<p> Femeia-șarpe deschise după aceea o ușă din rund și invită pe Voichița să intre în acea cameră.</p>
+<p> Fata se supuse.</p>
+<p> Era o cameră mică și foarte frumos mobilată, cu dantelă la cearceaf, cu plapumă de mătase, cu un polog scump, iar pe pereți mai multe tablouri.</p>
+<p> - Ascultă, îi zise femeia-șarpe; trebuie să te dezbraci, să-ți despletești părul și să-l lași pe spate, să fii așa, în cât să orbești cu frumusețea ta pe bătrânul care va veni acum.</p>
+<p> Voichița deschise niște ochi mari sperioși și începu să tremure. </p>
+<p> - Ce-mi zici să fac! ... îngână dânsa.</p>
+<p> - Cum, ce să faci, -parcă ai fi copil de trei ani, -nu trebuie să te culci in seara asta cu bătrânelul?</p>
+<p> - Doamne! Doamne! zise Voichița isbucnind în lacrimi; mama e moartă pe pat și eu să-mi pângăresc corpul!? Dar îndură-te! ai avut poate și d-ta o fată, o soră, ai avut mama! ai milă!...</p>
+<p> - Hei, draga mea, răspunse rânjind femeia-șarpe; -morții cu morții, să îngrijim de noi acum. Cum vrei să-ți dea bătrânelul suta de lei, dacă nu te culci cu dânsul? Trebuie să fii nebună! Ce, așa se găsesc sutele, pe drumuri? Nu te gândești că și oamenii și Dumnezeu o să te ierte, căci ceea ce faci e de nevoie și nu este nici un păcat.</p>
+<p> - Nu! răcni fata , mă duc acasă să mă omor și eu lângă mama!</p>
+<p> — Numai o nebună poate face fapta asta, când ai mijlocul să trăiești bine. Și apoi, mi-ai spus că nu ești singură, ai o soră mai mică, cum rămâne cu dânsa? Crezi oare că dacă te vei omorî și un bătrân ar propune surorii tale să doarmă cu dânsul pentru ca să îi dea bani, să vă îngroape pe voi, ar mai sta dânsa la îndoială? Hei, frumușico, în lume nu se trăiește așa cum gândești...</p>
+<p> Voichița începu să tremure, cea mai teribilă groază îi cuprinse sufletul.</p>
+<p> Luxandra, sora ei mai mică, ce se va face? Da, da, avea dreptate femeia-șarpe. Pe patul de moarte, mama sa i-a zis : «îngrijește de sora ta, căci nu mai are pe nimeni în lume». :</p>
+<p> Voichița ridică ochii plini de lacrimi către cer și exclamă:</p>
+<p> - Doamne! Doamne! fie-ți milă!..</p>
+<p> Femeia-șarpe se apropie de dânsa, o mângâie și-i zise:</p>
+<p> - Așa e draga mea, nenorociri se întâmplă la toată lumea, e fericit însă acela care poate să treacă peste ele. Ia să vezi, peste câteva zile o să fii veselă. La toți ne mor mamele și se uită. Nu ești tu singura pe lume.</p>
+<p> Femeia-șarpe își dădea toate silințele șă convingă pe Voichița ca să rămână în seara aceea cu bătrânul. Ea știa bine că nici un mort nu rămâne neîngropat. Dacă ar*fi trecut, două-trei zile, n-ar mai fi putut pune mâna pe Voichița. Ar fi intrat servitoare la vre o casă, ar fi luat și pe sora sa cu dânsa, ar fi muncit ziua și noaptea, numai să nu-și pângărească corpul.</p>
+<p> Tereza, femeia-șarpe, știa toate astea, avea destulă experiență și de aceea trebuia ca păcatul sacrificiului, să se săvârșească în noaptea aceea.</p>
+<p> - Ce faci? întrebă din nou femeia-șarpe; trebuie să te dezbraci, că nu putem pierde vremea.</p>
+<p> Voichița stătea în picioare, ca împietrită, fără să răspundă nimic.</p>
+<p> Tereza se apropie atunci de dânsa și începu să o dezbrace.</p>
+</div>
+ <div type="chaper" n="6">
+<p> Oribila crimă </p>
+<p> Cam un sfert de ceas trecu și Voichița era dezbrăcată. Nu rămăsese pe dânsa de cât cămașa.</p>
+<p> Femeia-șarpe o privi lung și rânji din nou. I se părea că este pacalită. O dovadă mai mult despre asta, e că dânsa gângăni între dinți:</p>
+<p> - El! dacă nu ar fi criză!...</p>
+<p> Și după o scurtă contemplare, ea zise Voichiței:</p>
+<p> - Iată-te mireasă! Ginerele tău nu e tocmai frumos și nici tânăr, dar e bogat. Să-l primești frumos ca pe un bine-făcător, ca pe omul care te scapă de la orice nevoie. În pieptul unui bătrân, găsești adese ori o inimă mai caldă decât la un tânăr...</p>
+<p> Voichița nu răspunse nimic. Ea stătea nemișcata, ca mai înainte. Părea a fi un corp neînsuflețit.</p>
+<p> Femeia-șarpe continuă:</p>
+<p> - Așa, așa, draga mea. Scoate acum și cămașa. Corpul tău e prea frumos, pentru ca să-1 ascundă o pânză.</p>
+<p> Și femeia-șarpe începu să-i deslege șiretul de la gâtul cămășii.</p>
+<p> În momentul acela rușinea făcu o sforțare supra-naturală asupra nenorocitei fete: ea apucă pe femeia-șarpe de gât și o strânse cu atâta putere, încât o doborî la pământ și-i puse piciorul în piept.</p>
+<p> — Vrei să mă omori ! îngână Tereza abia răsuflând.</p>
+<p> - Vreau să te zdrobesc ca pe o scorpie! strigă Voichița. — Tu ești femeia iadului! tu ești dracul, care vrea să-mi ia sufletul! .</p>
+<p> Cu aceste cuvinte, Voichița apăsă și mai tare cu piciorul pe pieptul femei-șarpe.</p>
+<p> În momentul acela însă, o ușă de lânga se deschise și intră Elena.</p>
+<p> - Ce este aici? strigă această complice a infernului.</p>
+<p> Apoi, fără să piardă vremea, se repezi la Voichița și îi dădu o palmă așa de tare, că o răsturnă pe pat.</p>
+<p> Tereza se sculă de jos: Voichița fu pe jumătate nebună.</p>
+<p> Amândouă femeile ieșiră apoi din acea cameră lăsând pe Voichița singură.</p>
+<p> În salonașul din mijloc aștepta un bătrân, trecut de 50 de ani,cu niște ochelari negri la ochi.</p>
+<p> Femeia-șarpe cu îl văzu se apropie de el și-i zise cu o voce lingușitoare:</p>
+<p> — Știi ce porumbiță este? nici nu s-a văzut așa ceva. Mititica, e nevinovată de tot; ce să-i faci, nu are de cât 13 ani!</p>
+<p> Ochii bătrânului scânteiară sub ochelarii negri. Cu o voce răgușită el întrebă!</p>
+<p> — Adevărat ?...</p>
+<p> — Ai să o vezi acum, zău dacă nu mi-e milă de dânsa! Să fii delicat, parcă e o păpușă...</p>
+<p> Bătrânul băgă atunci mâna în buzunarul de din înăuntrul hainei, scoase un portofel și luă din el cinci bilete de băncă a cate 100 de lei unul, pe care i le dă femei-șarpe. </p>
+<p> - Poftim făgăduială, îi zise el; - și te-aș ruga să nu o dai la alții pe această fată, eu am de gând să mai viu pe aici.</p>
+<p> —Foarte bine, foarte bine, -răspunse femeia-șarpe strecurând în buzunar cele 5 bilete de bancă. </p>
+<p> După aceea ea deschise ușa camerei din fund și introduse pe desfrânatul bătrân.</p>
+<p> Voichița era culcata pe pat, avându-și fața acoperită cu mâinile.</p>
+<p> Când, văzu bătrânul acel corp sculptat, cu forme perfecte, trandafiriu și tânăr, avu o satisfacție ca aceea care se vede la o fiară sălbatică când pune ghiarele pe o pradă.</p>
+<p> El se apropie de nenorocita copilă și-i ridică mâinile de pe față. La vederea acelui chip încântător, rămase uimit. Voichița deschise ochii ei mari, albaștri și cu o privire tristă, rugătoare, părea a-i zice: </p>
+<p> — Fie-ți milă de mine, cruță o copilă, a cărei singură avere, singura nădejde, e numai onoarea.</p>
+<p> Bătrânul se aplecă spre dânsa și o sărută.</p>
+<p> — Domnule! exclamă atunci Voichiță; - mama e moartă acasă, gândește-te la Dumnezeu! </p>
+<p> - Lasă dragă, răspunse mizerabilul; noi nu putem ca să-i dăm viață.</p> 
+<p> Apoi o cuprinse în brațe și-i înăbuși vocea într-un lung șir de sărutări.</p> 
+<p> În casa femei-șarpe se petrecea o crimă din cele mai oribile.</p>
+<p> Afară vremea se înăsprea tot mai mult și în flueratul vântului, în mugetul vijeliei, părea că se aude blestemul lui Dumnezeu. </p>
+<p> La ora 12 noaptea, Voichița, plângând cu hohote, mergea prin mijlocul viscolului, spre casa din strada Vulturului.</p>
+<p> Dânsa ținea în mână un bilet de bancă de 100 lei, prețul tinereței, al cinstei, al vieții sale... </p> 
+</div>
+ <div type="chaper" n="7">
+<p> În fața cadavrului</p>
+<p> Când Voichița ajunse acasă, găsi pe sora ei Luxandra singură, în genunchi, lângă corpul mamei sale.</p>
+<p> Avu atunci un fel de zbucium, picioarele nu au mai putut să o susțină. Îi era rușine de sora sa mai mică și i se părea că mama ei prinde viață și o întrebă:</p>
+<p> — Nenorocito! ce-ai făcut?</p>
+<p> Mașinalicește ea se apropia de cadavru, îngenunchează lângă Luxandra și rămase ca împietrită.</p>
+<p> Cine ar putea oare să descrie torturile ce îndură această copilă? Singură, orfană în lume, cu corpul pângărit, ce nădejde putea ca să mai aibă.</p>
+<p> Ea săvârșise cel mai mare păcat în noaptea aceea. Pentru o sută de lei își vânduse corpul, când cadavrul mamei sale nu se răcise încă bine ! Dar, era oare de vină? Nu, nici oamenii, nici Dumnezeu nu puteau să o condamne.</p>
+<p> După ce trecură câteva minute, Voichița se deșteptă puțin și începu să se roage. </p>
+<p> Ea cerea iertare, căci tot ce făcuse a fost pentru sora ei, ca să-și asigure o bucată de pâine, ca să o  smulgă din brațele desfrâulul, în care mizeria, foamea ar fi aruncat-o.</p>
+<p> Cine, dacă nu dânsa, ar fi îngrijit de mica Luxandra? Ce-ar fi devenit această copilă, aruncată pe drumuri, la vârsta de 12 ani? Și cum putea Voichița să o ajute, dacă nu-și vindea corpul?</p>
+<p> Dumnezeu îi dăruise fermecătoarea frumusețe și ea a fost pentru dânsa cea mai teribilă otravă. Cu această avere trebuia să plătească ajutorul ce-1 cerea. Și de aici înainte, pâinea pe care o va da surorii sale, va fi cumpărată cu prețul desfrâului, cu ani din viața sa.</p>
+<p> Aceste reflexii o linișteau pentru moment, se gândea că este datoria împinsă până la sacrificiul săvârșit, mintea i se întuneca și tot corpul începu să îi tremure. </p>
+<p> Vântul se auzea vâjîind afară, copacii înghețați trosneau în curte.</p>
+<p> Era în puterea nopții, era trecut de ora 2, când de odată i se păru Voichiței că mama sa se scoală de pe patul ei de moarte, că deschide ochii și gravă, cum era dânsa în viață, întinde mâna spre ea și o întrebă:</p>
+<p> - Nelegiuito, ce-ai făcut?!...</p>
+<p> Copila scoase un țipăt înfiorător, se ridică în picioare și se retrase spre peretele din fund.</p>
+<p> Luxandra, îngrozită, se sculă din genunchi unde ațipise și alergând spre sora ei, îi căzu în brațe zicându-i:</p>
+<p> - Voichițo, ce este? ce vezi tu? mi-e frică!...</p>
+<p> - Ce văd! ce văd! îngână Voichița cu fața galbenă, cu privirea rătăcită, nebună de spaimă: — dar iată, nu e mama noastră care se uită la noi, care ne vorbește? Tu nu auzi nimic?...</p>
+<p> - Taci! taci! Voichițo, nu te mai uita acolo! răspunse plângând Luxandra și strânse și mai tare în brațe pe sora ei.</p>
+<p> O! dacă conducătorii lumii de azi ar fi văzut această scenă inimile lor s-ar fi topit de milă și ar fi îndrumat altfel societatea care se tăvălește în mizerie și desfrâu!... Dacă puternicii zilei ar fi privit la torturile care zguduiau sufletele acestor două copile de 14 și 12 ani, de sigur că nu am mai fi întâlnit pe stradă femei, pe care păcatul și infernul le trimite înaintea ființelor nevinovate, nu ar mai putea să-și exercite meseria o ticăloasă de femeie-șarpe...</p>
+<p> Dar, în lume nu se aude decât cuvântul celui tare, celui bogat. Plânsul muribundului de foame și țipătul orfanei, le înăbușește mizeria și le înghesuie uitarea...</p>
+</div>
+ <div type="chaper" n="8">
+<p> Depravația pentru păine</p>
+<p> Este anul 1901. Pe Voichița și pe Luxandra nu le-am mai văzut după înmormântarea mamei lor. Unde o fi ele oare? O fi murit, sau se află ascunse undeva? </p>
+<p> Să le căutăm pretutindeni, prin toate părțile, prin toate colțurile Capitalei.</p>
+<p> Să străbatem, deocamdată, casele cu firmă. E ceasul 10 seara, avem încă destulă vreme.</p>
+<p> Să trecem mai întâi pe străzile Crucea de Piatră și Nerva Traian. Trebuie să fie, după nume, niște străzi în care domnește moralitatea și virtutea. Crucea este simbolul creștinismului, este apropierea omului de Dumnezeu, este semnul credinței. Nerva Traian, este numele marelui împărat roman, care ne-a adus pe aceste plaiuri, care a creat România, este numele acelui biruitor, care ocupă cea mai frumoasă pagină din istoria lumii. </p>
+<p> Cu toate astea, în străzile Crucea de Piatră și Nerva Traian sunt cele mai decăzute cuiburi de desfrâu. </p>
+<p> Observați, la ferestrele tuturor caselor sunt perdele roșii; pe jumătate trase. La fiecare din aceste ferestre este câte o fată. Asta, de la casa din colț, e frumușică. lată, ea bate în geam; ne cheamă. Să intrăm înăuntru, poate vom găsi aici pe Voichița sau Luxandra.</p>
+<p> Abiane apropiem și ușa se deschide.</p>
+<p> — Ho! stați fetelor, nu vă îngrămădiți cu toate peste mine! zisei la vreo 10, 12 fete, care pană atunci stăteau tolonite în jurul unei mese, iar îndată ce mă văzură intrând, săriră asupra mea.</p>
+<p> Ele se retraseră numai de cat, unele așezendu-se pe scaune, altele stând în picioare, toate însă privindu-mă.</p>
+<p>La urmă, una din ele, o brună, îmi zise:</p>
+<p> — Haide, alege, care îți place dintre noi?</p>
+<p> Toate acele fete, erau de vânzare. Pentru un leu, pentru o pâine, ele își dădeau corpul. îșț batjocoreau sufletul.</p>
+<p> În fund, pe o canapea, stătea răsturnată o femeie în vârstă, grasă și urâtă. Ea era așa, zisa țața » fetelor. Dintr-un leu pe care-1 luau acele nenorocite, jumătate trebuia să-i dea țaței, care este stăpână absolută, având, autorizația primăriei și concursul poliției ca șă facă acest, comerț, să vândă corpuri de fete tinere...</p>
+<p> Mă uitai la toate, n-am recunoscut printre ele nici pe Voichița, nici pe Luxandra.</p>
+<p> De odată aud un zgomot de palme și un țipăt, care, veneau dintr-o odaie din spre fundul curții. Era de sigur vreun ordinar, care venise beat și în loc să dea francul nenorocitei fete, o lua acum la bătaie.</p>
+<p> Țața» se sculă numai de cât și se duse într-acolo.</p>
+<p> Rămânând singur cu fetele, le-am întrebat:</p>
+<p> — Nu cumva e aici cu voi, una care se numește Voichița ?</p>
+<p> — Voichița... Voichița... răspunse una din ele;— da, da, a fost, dar acum e la spital.</p>
+<p> Să fie adeverat? e posibil; fetele astea însă mint și când le întrebi de vreo altă fată, ca să te facă să n-o mai cauți, îți răspund numai de cât: «e la spital.»</p>
+<p> — Dar de o fetiță, mică de tot, de vreo 13 ani, anume Luxandra, n-ați auzit? întrebăi din nou.</p>
+<p> — Nu am auzit, răspunseră de odată vreo doue-trei.</p>
+<p> — Vrei să fie de 13 ani? îmi zise una care stătea mai la o parte și care purta cel mai decoltat costum. Ia-mă pe mine și eu n-am de cât 14 ani.</p>
+<p> Mă uitai la dânsa, era întradevăr o fetiță.</p>
+<p> — Si cum ai ajuns aici ? o întrebăi. </p>
+<p> - Ce era să fac? M-a înșelat un boier și am fugit de acasă. El m-a lăsat la hotel, plătindu-mi camera și masa pe 10 zile și s-a dus la Iași, zicând că se întoarce, dar nu l-am mai văzut. Când m-au dat afară de la hotel, am venit aici, unde era să mă duc? Și sunt datoare vândută, căci ca să fiu primită, a trebuit să dea țața doi poli comisarului sanitar și alți doi poli comisarului de la secție.</p> 
+<p> — Pentru ce ? </p>
+<p> — Pentru că aveam numai 14 ani.</p>
+<p> Conversația noastră fu întreruptă, căci intră țața cu o fată care plângea. Era aceea care se auzise țipând. </p>
+<p> Când intrară înăuntru femeia groasă o mai luă și ea de păr și începu să o scuture. </p>
+<p> — Împielițato ! îi zicea dânsa; dacă nu știi să te porți cu mușterii, să nu mai stai la mine, să te duci să te bagi slujnică.</p>
+<p> După ce îi smulse câteva fire de păr din cap și-i mai dă-du și câteva ghioante, tot fata luă mâna țaței și o sărută.</p>
+<p> Indignat de ceea ce văzui, îmi trântii pălăria pe cap și am ieșit afară.</p>
+<p> Trecui de acolo într-o casă de alături, unde mi s-a părut că sunt mai multe fete, căci stăteau îngrămădite și la geamul ferestrei și la cel al ușii.</p>
+<p> În realitate nu erai însă decât vreo șase și se îngrămădiseră cu toate ca să atragă mai multi clienți.</p>
+<p> Ele aveau rochiile scurte, lăsând să li se vadă pulpele picioarelor. Unele fete erau bine făcute și n-ar fi fost urâte dacă le lipsea de pe față acele trăsuri caracteristice, semnul mizeriei și al depravației. </p>
+<p> Când mă văzură, care mai de care încercă să fie mai provocatoare.</p>
+<p> — Aici e o fată Voichița? le-am întrebat.</p>
+<p> — Nu mai e aici, s-a dus la spital. răspunse una din ele.</p>
+<p> — Dar o altă fată, Luxandra, nici ea nu se găsește aici?</p>
+<p> — E tot la spital, mi s-a răspuns.</p>
+<p> — Ascultă, vino să-fi spun ceva, mă chemă o blondă..</p>
+<p> Nu răspunse nimic si plecai și de acolo.</p>
+<p> Intrai pe rând în toate casele din Crucea de Piatră și Nerva Traian, cercetând că doar voiam da de urmă celor două copile, dar fu peste putință.</p>
+<p> Fără să pierd vremea, mă dusei în strada Egalitatea. Nume frumos, ai crede că acolo domnește pacea și fericirea, că locuitorii din acea stradă au ajuns idealul, că duc o viață liniștită, lipsită de mizerie, că nu e bogat și sărac, că toți sunt de același fel.</p>
+<p> În realitate însă, e cel mai hidos contrast.</p>
+<p> Intrai în cea dintâi casă. În salonașul din mijloc, cu mobilă veche de tot, găsii trei fete. Ca vârstă, cea mai mare nu avea mai mult de 18 ani, dar ți se părea că a trecut de 30. În obrazul lor nu se mai vedea picătura de sânge și ochii erau în fundul capului.</p>
+<p> Stăpâna lor, văzând că le privesc lung, îmi zise:</p>
+<p>- Poftim, domnule, stai jos, așteaptă puțin că am fete mai frumoase, o să vină numaidecât</p>
+<p> Nu am avut vreme să-i mai răspund, căci într-o cameră de alături se auzi un zgomot infernal de țipete de groază.</p>
+<p> Crezând că este iarăși vreun sălbatic care bate vreo nenorocită, deschisei repede ușa din fund și mă dusei spre camera aceea.</p>
+<p> Era ceva înfiorător. Un mizerabil dormise cu una din acele fete și la urmă, ca să-i fure și bucata de pâine, aprinse un chibrit și pe ascuns îi dădu foc.</p>
+<p> Nenorocita fată se pomeni deodată cuprinsă de flăcări. Nelegiuitul profită de aceasta și fugi afară.</p>
+<p> Toți din acea casă de toleranță săriră în ajutor și izbutiră să stingă focul. Cea mai mare parte din corpul nenorocitei fete era însă ars și când au vrut să-i deslipească de pe piept cămașa, se ridică cu carne cu tot. </p>
+<p> Sergentul de stradă puse pe sărmana fată într-o birjă și o duse la spital.</p>
+<p> Plecai de acolo îngrozit de ceea ce văzusem. Intrai prin celelalte case, căutând pe Voichița și Luxandra, dar nimic nici o știre.</p>
+<p> Faptul acesta mă bucură, căci Dumnezeu le păzise ca să ajungă la niște asemenea localuri, într-o așa stare.</p>
+<p> Dar totuși, doream să știu unde sunt, dacă trăiesc ori au murit.</p>
+<p> Scosei carnetul din buzunar, și citii: strada Justiției.</p>
+<p>Acilea, cel puțin, ar trebui să fie mai multă umanitate. Intr-o stradă numită a Justiției, nu poate să troneze cruzimea, să se petreacă barbarii ca cele ce văzurăm. Justiția, e cumpăna dreptății și nelegiuirea nu-și găsește loc.</p>
+<p> Dimpotrivă, în această stradă găsii cele mai păcătoase cuiburi de desfrâu. </p>
+<p> Văzui o casă la ferestrele căreia nu se zărea nicio fată. Îmi închipui că e ceva mai retras, mai ascuns și că poate Voichița s-ar afla acolo.</p>
+<p> Intrai înăuntru. Era un scandal nemaipomenit. Vreo șapte fete tăbărâseră pe una, cea mai mică și mai frumoasă dintre ele, și-i cărau la pumni c-o umpluseră de sânge pe față.</p>
+<p> Ce se întâmplase?</p>
+<p> Patroana, țața lor, fusese chemată la secție, astfel că fetele rămaseră singure. </p>
+<p> Un trecător veni la ele și-i plăcu mai mult Aurica, fata cea mică și frumoasă.</p>
+<p> După plecarea trecătorului, celelalte fete: Liza, Florica, Mița, Ioana, Frusica, Tudorița și cu Vilma o luară la bătaie.</p>
+<p> — Nu știi cum e regula? îi zicea Tudorița izbind-o cu palma peste față.</p> 
+<p> — N-ai voie să ieși înaintea mușteriului și să-l tragi de mână, cu sila! adăugă Mița.</p>
+<p> - El venise pentru mine! striga Liza smucind-o de păr.</p>
+<p> - Auzi colo! abia a venit de câteva zile și este cea mai țanțoșă! replica Ioana cărându-i la ghionți.</p>
+<p> Nenorocitele! ele se băteau pentru bucata de pâine, fără să mai țină socoteală de corpul, de sănătatea, de viața lor.</p>
+<p> Când mă văzură intrând se liniștiră și se apropiară de mine.</p>
+<p> — Ascultă fetițo, zisei celei bătute: de ce mai stai aici, de ce nu te bagi la un stăpân? Acolo ai mâncare și o leafă, fie cât de mică.</p>
+<p> — Ai dreptate, d-le, îmi răspunse fata plângând; - dar am fost înșelată și adusă aici. Mi s-a spus că o să trăiesc bine și o să câștig bani mulți, așa ca să nu mai am nevoie să muncesc la bătrânețe. Acum ce să fac? sunt datoare și nu pot să plec. Ar trebui să se găsească cineva care să mă cumpere de la țața, să-mi plătească datoriile. Cine e acela? Mai bine ar fi să mă ia D-zeu. </p>
+<p> Ești desigur nerăbdător, cititorule, să afli ce a făcut Voichița. Ai dreptate. Să lăsăm la o parte pe nenorocitele ființe care se tăvălesc în cea mai neagră mizerie pentru ca să câștige o pâine, - pâine scumpă, plătită cu părți din viață.</p>
+<p> Iată, să mergem repede cât mai avem vreme, pe la oțelul Duca, prin străzile Domnița Anastasia, Berzei, Sf. Ionică, Teilor, Modei, Dogari, Polizu, prin calea Victoriei. </p>
+<p> Mă urmărești, vezi că intru din casă în casă, întreb, cercetez, și despre Voichița nu aflu nimic. </p>
+<p> Să dăm o fugă și pe la berăriile din calea Griviței. </p>
+<p> Vai, ce figuri ieșite parcă din mormânt. La o masă e Ghiță Știrbu, care stă cu mâna după gâtul Anicuței. Dincolo e Tasi cu Sofița. Fata aceea care se ceartă cu Jerpelea, se numește Lica. A fost adusă servitoare la oțel și acum i se exploatează corpul. </p>
+<p> Să plecăm și de aici, încep să se adune pungașii, zăresc pe Mitu, pe Tasi, pe Ionel, pe Satana. Fiecare din aceștia au de amantă pe câte una din fetele care se văd la mese. Dacă ele n-ar avea bani să le dea, ca să aibă de băutură, o să fie bătaie.</p>
+</div>
+ <div type="chaper" n="9">
+<p> Depravația pentru aur.</p>
+<p> Mai e o speranță: să căutăm pe Voichița în localuri mai mari, acolo unde depravația se face pentru aur.</p>
+<p> Să mergem mai întâi în strada Turcului. Vezi casa asta, cu transperantele lăsate ? E un loc de întâlnire al femeilor de clasa a doua. Na! na! a pățit-o d-na! Domnul care o îmbrâncește, o bărbatul ei, un cunoscut funcționar. A surprins-o! Cu toate astea se urca amândoi în birjă, se-duc la domicilml conjugal! Are s-o ierte desigur. Ce încurcătură! Iată că iese și tânărul, este amantul ei.</p>
+<p> Acum nu mai putem cerceta aici, vom veni altădată. </p>
+<p> Să ne oprim puțin în calea Plevnei. Vezi acea clădire? pare a fi un castel. Aici venea d-1 X, un fost magistrat. Să încerc dacă pot să intru.</p>
+<p> Sun, ușa se deschide și o femeie pare a fi guvernantă, îmi iese înainte.</p>
+<p> - Mă rog, zisei; prietenul meu, d-l X, mi-a spus să vin aici, e vorba să am o întâlnire cu o d-nă.</p>
+<p> — Poftiți sus, d-le, îmi răspunse guvernanta, ca s-o numesc așa. </p>
+<p> Urcai scările și intrai într-un salon de un lux uimitor. Tablouri scumpe, oglinzi de cristal, covoare de Persia, mobila cea mai modernă.</p>
+<p> Acolo găsii pe stăpâna, casei, o femeie ca de 30 de ani, frumușică,  îmbrăcată într-o rochie deschisă, de mătase din cea mai fină.</p>
+<p> Îi spusei că sunt de la Ploiești și că prietenul meu X, mi-a recomandat să vin acolo, unde pot avea întâlnire cu d-ne frumoase și de oare-care oondiție.</p>
+<p> Dânsa ne privi puțin, voind să mă examineze, îmi puse câteva întrebări, apoi trase un sertar, scoase un album parfumat și dându-mi-l, îmi zise: </p>
+<p> - Poți să alegi, d-le, fiecare fotografie are și prețul ei.</p>
+<p> Deschisei albumul. Prima fotografie era a unei doamne tinere. Intr-un colț era însemnat: «100 lei». ’</p>
+<p> Mă uitai la a doua fotografie. O cunoscui, era nevasta unui om bogat și cu oarecare vază în București. Mi s-a părut curios de tot. Îmi aruncai repede privirea la preț, erau 200 de lei. </p> 
+<p> Trecui la a treia fotografie, era o d-nă de mijloc care se vindea pentru 150 de lei. </p>
+<p> La a patra fotografie văzui prețul de 300 lei. Mă uitai bine la ea. Nu părea deloc a fi o femeie frumoasă și nici tocmai tânără. </p>
+<p> Lucrul acesta m-a ispitit și întrebai pe patroana să-mi explice pentru ce dumneaei care este și mai urâtă și mai înaintată în vârstă ca celelalte, cere un preț așa de mare.</p>
+<p> — Dar știi d-ta cine este această d-na? îmi zise dânsa.</p>
+<p> — Nu știu, îi răspunsei.</p>
+<p> Atunci se apropia de urechea mea și încet, misterios, ca și când i-ar fi fost teamă ca nu cumva pereții să audă, îmi șopti:</p>
+<p> — Este soția d-lul...</p>
+<p> La auzul numelui pe care-l pronunță această «țață» din lumea galantă, mă sculai în picioare și esclamai:</p>
+<p> — Nu se poate! Nu cred niciodată!</p>
+<p> — D-ta te poți convinge oricând d-le; treci pe la acea casă, caută să poți zări pe această doamnă și în urmă spune-mi mie să-ți aranjez întâlnirea aici. Vei vedea dacă ești înșelat.</p>
+<p> Nedumerit de ceea ce auzeam, întrebai din nou:</p>
+<p> - Dar bine, ce o face pe dumneaei ca să dea astfel de întâlniri? eu știu că este destul de bogată?</p>
+<p> — Adevărat, cu toate astea nu e nimeni care să nu dorească să aibă tot mai mult. Niște doamne de rangul acestora pe care le-ai văzut în album, au  cheltuieli mari, e luxul, diferite capricii, jocul de cărți... Bărbații lor au averi, ce e drept, dar bugetul soțiilor e limitat și nu se ajunge. O femeie, să mă crezi pe mine, are totdeauna nevoie de aur, de mult aur. În afară de asta, mai e și altceva. O doamnă ca (dânsa-mi șopti din nou numele la ureche) nu poate să se întâlnească cu oricine. Trebuie să fie cineva, o persoană cu oarecare greutate. Dar cum poate dânsa să știe cine este acela care dorește această favoare? Când e vorba de un nume cunoscut, foarte bine; - când însă se prezintă un străin, cum ești d-ta de pildă, atunci?... Punând o taxă mare, tot este oarecare garanție. </p> 
+<p> Ascultai cu multă atenție această logică, această motivare a depravației pentru aur. </p>
+<p> Pe când colo, fete tinere, orfane, își vând corpul pentru o bucată de pâine, aici e capriciul, e luxul, e jocul de cărți care fac pe doamne să-și înșele bărbații, să păteze patul conjugal, să se dedea la tot felul de orgii, la cel mai mare desfrâu!...</p>
+<p> Și dacă ai vorbi la vreuna din acestea despre nenorocitele de mai sus,  și-ar întoarce capul cu scârbă și ți-ar răspunde că sunt gunoaie ale societății!... Se înțelege; cele dintâi își vând tinerețea și viața pentru pâine, pe când dumnealor vând onoarea soților și sfințenia conjugală, pentru aur...</p>
+<p> Plecai de acolo, zicând că voi veni cu prietenul meu, d-l X. </p>
+<p> M-am dus după aceea la alte case a căror însemnare aveam din strada Verde, strada Țăranilor, Popa Tatu, strada Căprioarei, calea Victoriei, calea Moșilor, strada Carol și strada Poliției.</p>
+<p> Nicăieri n-am putut să găscsc pe Voichița sau pe Luxandra.</p>
+<p> În schimb, am dat de urma unor doamne pe care le cunoșteam, le respectam și pentru care mi-aș fi pus capul că nu e cu putință să se coboare din locuințele lor, din sânul familiei, în niște lupanare.</p>
+<p> Dar, ce mare deosebire! Aici desfrâul nu mai era însoțit de ghionți și lacrimi, ci scăldat în șampanie și criminale măguliri.</p>
+<p> Într-una din case am surprins patru doamne. Erau Cleo, Amalia, Nelli și Clara. </p>
+<p> Stăteau toate în jurul unei mese și lângă fiecare câte un bărbat. Asta îmi că ele erau prietene.</p>
+<p> Priveam de pe fereastra antreulul.</p>
+<p> -Nelli, zise Clara; eu nu pot să mai iau niciun pahar.</p>
+<p> În vremea asta, ea închise ochii pe jumătate, privind provocator, pe un tânăr, cu mustața în vânt, care turna în pahare din spumoasa șampanie. </p>
+<p> - Moi aussi, ma chere, răspunse Amalia. </p> 
+<p>  Cleo se prefăcea că este obosită și-și rezema capul de umărul tânărului care o ținea de mijloc. </p> 
+<p> Nelli, pe de altă parte, amețită, în adevăr, de șampanie, începu să-și desfacă corsetul. </p> 
+<p> Puțin mai în urmă, d-nele cu amanții lor s-au dedat la niște adevărate orgii. Să închidem ochii, căci e rușine să mai privim pe aceste femei, care a doua zi vor jura, desigur, credință sărmanilor soți!... </p> 
+</div>
+ <div type="chaper" n="10">
+<p> Zâmbet seducător — suflet otrăvit </p>
+<p> E pe la sfârșitul lunii lui Mai.Într-o Duminică, pe la ceasurile 9 și jumătate dimineața, o fată îmbrăcată simplu, dar cu mult gust, venea, de la șosea, pe calea Victoriei.</p>
+<p> Era Voichița.</p>
+<p> Un an trecuse doar și frumusețea-i începuse a se vesteji.</p>
+<p> După ce ocoli mai multe străzi, ea intră într-un pension de fete.</p>
+<p> - Am venit să vă rog, zise dânsa directoarei, să dați voie surorii mele să iasă pentru câteva ore din pension.</p>
+<p> - Are toată voia, răspunse directoarea; diseară să se întoarcă însă devreme, ca să nu piardă meditația.</p>
+<p> — Cum merge cu lecțiile ? mai întrebă Voichița.
+<p> - Bine, Luxandra e o fată silitoare și cuminte. Toate profesoarele o  iubesc.</p>
+<p> - Am să vă mai dau un rest de 130 lei. </p>
+<p> — Da, accentuă directoarea.</p>
+<p> — Să mă așteptați încă vre o câteva zile. Omul cu care trăiesc a început să se facă tot mai zgârcit; poate fiindcă o să ne cununăm.</p>
+<p> — Vă cununați?</p>
+<p> — Da, cât de curând.</p>
+<p> Voichița mințea. Nu trăia cu nimeni. Ea își petrecea nopțile mergând la casele de întâlnire, sau chiar la cele cu firmă și câștiga 10-20 de lei, alteori mai mult și uneori nimic. </p>
+<p> Pe sora ei o pusese în pension, de altfel nici n-ar fi avut unde s-o țină, căci Voichița locuia la hotel. Cu banii pe care îi câștiga vânzându-și corpul, plătea pensionul, îi cumpăra cărți și haine. Dar, și directoarea și Luxandra credeau că ea trăiește cu vreun om bogat, cu care se va cununa mai curând sau mai târziu. </p>
+<p> Amândouă surorile ieșiră din pension. Voichița o privea cu nesaț, căci atât, doar o dată pe săptămână putea s-o vadă. Luxandra se făcuse și mai frumoasă, se îngrășase puțin și crescuse că era aproape sî ajungă pe sora ei. </p>
+<p> Ieșind din pension, Voichița o luă pe o stradă lăturalnică și merse astfel mai mult timp, tot prin străzi tăcute și singuratice. Sărmana fată, se ferea să treacă pe calea Victoriei, ca să nu compromită pe sora ei. </p>
+<p> După ce ocoliră mai multe străzi, ieșiră în calea Dorobanților și se duseră la un fel de birt-cârciumă, aproape de barieră, cu firma «La roata lumii.» Acolo nu le-ar fi cunoscut nimeni, căci de ordinar nu se adunau, decât mărginașii și oamenii de afară. Voichița ceru să i se dea o cameră singură unde luă masa cu sora ei.</p>
+<p> Pe când mâncau, Luxandra văzu că ochii Voichiței se scaldă în lacrimi. Se apropie atunci de dânsa și sărutând-o de mai multe ori, o întrebă ce are.</p>
+<p> — Nimic, nimic... răspunse Voichița.</p>
+<p> — Nu se poate, dragă surioară, îi zise Luxandra. Ți-am văzut lacrimile și nu știu de ce te ascunzi, sau crezi oare că nu te iubesc, că nu-mi dau seama de sacrificiile pe care le faci pentru mine?</p>
+<p> Voichița privi lung pe sora el și-i destăinui tot adevărul. Mai curând sau mat târziu, l-ar fi aflat ea singură și atunci și-ar fi făcut o idee rea despre dânsa, i-ar fi părut rău de ajutorul ce i-a dat, poate că ar fi blestemat-o chiar.</p>
+<p> Ș-apoi, acuma avea o făgăduială, o speranță, care dacă se îndeplinea, era să fie fericită.</p>
+<p> — Luxandro, îi zise Voichița, eu sunt o ticăloasă! Îmi câștig hrana în modul cel mai mizerabil, sunt nevoită să-mi vând corpul la unul și la altul ca să iau câțiva lei! Pentru aceasta trebuie să caut să fiu veselă, când inima-mi plânge; trebuie să primesc pe bărbați cu cel mai seducător zâmbet, când sufletu-mi e otrăvit! Toată lumea mă condamnă și mă va condamna, dar tu o să mă ierți, căci crede-mă, tot ce fac e pentru tine. Dacă soarta m-a aruncat pe acest drum al pieirii, să te scap cel puțin pe tine, să îndeplinesc rugăciunea mamei noastre de pe patul de moarte. Ce ai fi devenit tu, la vârsta de 12 ani, dacă o plecai prin lume? Nu s-ar fi găsit nimeni care să-ți cruțe tinerețea, să-ți respecte castitatea, să aibă milă de frumusețea ta...</p>
+<p> Luxandra, auzind aceste cuvinte, îmbrățișă pe sora ei și înduioșată o sărută din nou. </p>
+<p> - Mi-ai zis că trăiești cu un bătrân bogat, care în curând o să te ia de nevastă? zise după aceea Luxandra. </p>
+<p> - Am mințit atunci, răspunse Voichița; - dar acum am o nădejde, e un tânăr cu care am făcut cunoștință de o lună. Pare a avea o inimă bună, i-am destăinuit tot trecutul meu și dânsul m-a compătimit. Săptămâna trecută mi-a zis că mă va lua de nevastă și l-am cunoscut că e hotărât la aceasta. Dar vai, dragă surioară! o doamnă din societatea înaltă, o doamnă măritată, vrea acum să mi-l răpească! Tremur de mânie când mă gândesc! i-am văzut pe amândoi ieșind de la o casă, unde se plămădește păcatul. Dacă mă înșală acuma, cum o să se mai cunune cu mine? Mă va uita, desigur, pentru dânsa; ea știe să robească cu luxul, cu averea; faptul că e măritată tentează mai mult, - eu, eu sunt o ticăloasă... </p>
+<p> Voichița izbucni într-un plâns jalnic.</p>
+<p> Luxandra se încerca să-i facă curaj și o mângâia zicându-i:</p>
+<p> — Nu te întrista, dragă surioară, D-zeu care cunoaște inima ta, care vede tot ce faci, nu te va lăsa pe drumuri. </p>
+<p> — Sunt câteva zile, îngână Voichița; de când acest tânăr n-a mai venit la mine. În vremea asta eu a trebuit să îmi vând corpul la unul și altul, să sufăr cele mal groaznice torturi. Luxandro, am o presimțire neagră, mi-e teamă că am să plec, că n-am să te mai văd! Ce o să faci tu când vei rămâne singură? </p>
+<p> - Și unde vrei să te duci? întrebă Luxandra.</p>
+<p> — La mama... răspunse Voichița.</p>
+<p> — Taci, nu mai vorbi așa! zise tremurând sărmana-i soră.</p>
+<p> - Aș vrea să pot să sufăr cât de mult, reluă Voichița; dar nu cred să mai am putere, durerea mea va birui. Ascultă Luxandro, ți-am spus lucruri pe care nu trebuia să le știi, dar eram nevoită să fac asta. Îți dau un sfat: dacă voi muri, să te rogi de directoare să te țină în pension, să lucrezi în schimb — o să aibă nevoie de o fată în casă — și să înveți în vremea asta, până te vei face mare... poate să ai noroc, dacă vei fi cuminte. Restul de 130 lei am să i-1 dau cât mai curând, ca să nu rămână nici o datorie...</p>
+<p> Luxandra se îngrozi. Ea înțelese tot gândul surorii sale. .</p>
+<p> La orele 4 Voichița duse pe sora ei la pension. Ochii Luxandrei erau roșii, se. cunoștea că plânsese mult.</p>
+<p> Pe seară, pe la ceasurile 6, Voichița se plimba pe calea Victoriei, îmbrăcată într-un frumos costum de primăvară. Tinerii se uitau, la dânsa și ea le zîmbea, aruncându-le priviri seducătoare.</p>
+<p> Vai! câtă dreptate avea poetul când a zis : «Gură de om, gură de câine, cere pâine...»</p>
+</div>
+ <div type="chaper" n="11">
+<p> Cărturăreasa.</p>
+<p> Într-o stradă — cine voiește să afle adresa, o poate găsi la poliție — e o cărturăreasă.</p>
+<p> Voichița se duse acolo și dădu 5 lei ca să i se spună viitorul, norocul.</p>
+<p> Cărturăreasa întinse cărțile pe masă și începu să vorbească:</p>
+<p> — D-ta iubești. E un bărbat tînăr și oacheș. Iată, gând la gând cu bucurie, și el ține la d-ta. Vă cunoașteți de mult. ’ :</p>
+<p> — Nu tocmai de mult, întrerupse Voichița privind cărțile cu un aer de naivitate. </p>
+<p> — Atunci vă iubiți mult, răspunse cărturăreasa, care căuta să pătrundă în sufletul fetei. O să faceți un drum, o să treceți peste o apă, .</p>
+<p> — Ia vezi, zise Voichița, el mă iubește în adevăr? </p>
+<p> Cărturăreasa mută câteva cărți și răspunse: </p>
+<p> — Să nu te îndoiești deloc, nici nu-ți închipui cât de mult ține la d-ta.</p>
+<p> Biata fată se înveseli și întrebă din nou:</p>
+<p> — Nu poți să afli dacă a mai iubit pe vreo altă femeie? Dacă are vreo legătură de inimă?</p>
+<p> — Da, da, a iubit, dar acuma a uitat-o, e o femeie bogată la care nu se mai gândește. Damă de ghindă... ești d-ta, bre! E nebun de dragoste! Vrea să vină să te vadă! Cărțile astea doar că nu vorbesc!</p>
+<p> O bucurie tainică, o bucurie nespusă se zugrăvi pe fața Voichiței. Ea credea toate cuvintele cărturăresei, căci ceea ce auzea, era dorul, era visul, era mântuirea ei. </p>
+<p> Amară deziluzie însă. Deodată se deschise o ușă din fund, dar care se reînchise la moment.</p>
+<p> În acea clipă, Voichița zări pe tânărul pe care-1 iubea și pe doamna cu care știa c-o înșală.</p>
+<p> Fără să se gândească, fără să mai facă vre o reflexiune, intră repede în camera aceea.</p>
+<p> — Domnule! zise dânsa tânărului; mi-ai dat o făgăduială și te-ai jurat să nu o calci. N-am niciun drept să-ți fac reproșuri, dar țin să-ți spun că după ce eram nenorocită, acum sunt și nebună! Ai fost prea crud când ai lovit într-un suflet deja zdrobit!...</p>
+<p> — Cine este această fată? întrebă doamna cu un ton de indignare.</p>
+<p> — Am întâlnit-o la un oțel, răspunse tânărul. </p>
+<p> — Este adevărat, reluă Voichița; m-am dus la oțel, ca să am ce să mănânc în seara aceea; — d-ta însă, îți înșeli soțul și calci peste o sfântă datorie, ca să-ți faci un capriciu! și să-mi răpești liniștea, mângâierea, singura nădejde ce-mi rămânea. Am scrisoarea pe care i-ai trimis-o, i-am luat-o din buzunarul hainei, așa că ștu totul. I-ai interzis să mă mai vadă, i-ai vorbit de divorț... Eu sunt o nenorocită, dar d-ta ești o mizerabilă!...</p>
+<p> Doamna nu răspunse nimic și plecă repede. Tânărul o urmă fără să se uite măcar la Voichița.</p>
+</div>
+ <div type="chaper" n="12">
+<p> Moartea Voichiței</p>
+<p> Câteva zile mai în urmă s-a publicat prin ziare că o fată tânără a încercat să se sinucidă bând esență de oțet. Comisarul secției respective o trasportase la spital. După declarația pe care o făcuse însăși fata, a fost trecută în procesul verbal sub un alt nume. Voichița n-a voit să se știe cine este pentru ca să nu rămână nicio pată asupra surorii sale. </p>
+<p> Trecură 24 de ore, în care timp starea otrăvitei se agravase de tot. Toate încercările medicilor ca s-o scape cu viață, fură zadarnice.</p>
+<p> Când simți că este pe sfârșit, trimise pe ascuns, pe un om de la spital căruia îl dase 10 lei, ca să se ducă să înștiințeze pe sora sa la pension și să vie numai decât cu dânsa.</p>
+<p> O jumătate de ceas, în urmă, Luxandra fu acolo. Când intră în spital, începu să tremure. Acel șir lung de paturi, gemetele bolnavilor, mirosul de acid fenic toate astea o îngrozeau.</p>
+<p> Luxandra, condusă de servitorul cu care venise, se opri la un pat din fundul salonului.</p>
+<p> Voichița ghicise parcă după pași căci deschise ochii și privirile ei stinse se opriră asupra surorii sale. -</p>
+<p> — Ce ai? ce ți s-a întâmplat dragă soră? zise Luxandra aplecându-se încet și sărutând-o pe față.</p>
+<p> — Nimic, să ai curaj, îngână Voichița cu o voce care abia se auzea: — eu nu pot să mai stau în lumea asta. Viața mi-ar fi fost o povară și o rușine pentru tine. Acuma o să mă duc la mama...</p>
+<p> Luxandra începu să plângă. Voichița, obosită, tăcu câteva minute, apoi continuă:</p>
+<p> — M-am tăvălit în noroi, mi-am vândut, fără voie, și corpul și sufletul! A fost un moment când am crezut că o să scap, că o să trec și eu în rîndul femeilor cinstite, că n-o să-ți mai fie rușine să spui că-mi ești soră. O femeie bogată, o femeie cu bărbat, mi-a răpit și această nădejde. Ea mi-a luat amantul și odată ou dânsul și viața...</p>
+<p> Muribunda fu nevoită să se oprească din nou, niște dureri atroce o făcură să scârșnească din dinți.</p>
+<p> Dar criza aceasta fu de scurtă durată. Moartea apropiindu-se, omora parcă și durerile. .</p>
+<p> — Iată o scrisoare, zise după aceea Voichița întinzând mâna. Păstrează-o, este de la d-na care mi-a răpit pe tânărul ce iubeam. Vezi cum mă insultă! De câte ori vei voi să mă blestemi, citește această scrisoare...</p>
+<p>— Voichițo! Voichițo! întrerupse Luxandra plângând.</p>
+<p>— Să-ți faci curaj. Tu poți, tu ai dreptul să trăiești.</p>
+<p>Apoi, băgând mâna sub pernă, scoase un portofel și-l dete surorii sale zicându-i:</p>
+<p>— Sunt aici 84 de lei. Ține-i, să ai câteva zile de cheltuială. Să nu-ți faci doliu, să nu știe nimeni că ai avut o soră....</p>
+<p>Voichița nu putu să mai vorbească. Ea duse amândouă mâinile la piept și apăsă cu putere, închizând ochii.</p>
+<p>Câteva minute mai trecură și îngrijitoarea spitalului veni la Luxandra și-i zise:</p>
+<p>— D-ră, nu mai e voie să stai aici.</p>
+<p>Apoi o luă de mână și o duse afară.</p> 
+<p>În vremea asta doi oameni de serviciu intrară în acel salon cu patul pe care se transportă morții.</p>
+</div>
+ <div type="chaper" n="13">
+<p>Răzbunarea</p>
+<p>Luxandra găsise că sora ei a murit. De aceea o dăduse afară îngrijitoarea spitalului, de aceea veniseră cei doi oameni cu patul pe care se pun morții.</p>
+<p>Ea o plecă singură pe străzi fără să știe unde se duce. Câteodată o apuca un plâns jalnic, dar se reculegea numaidecât, își făcea curaj.</p>
+<p>Voichița a fost o martiră pentru dânsa, a îngrijit-o ca o mamă și ca să-i asigure un viitor mai bun, ca să fie ferită de săgețile veninoase ale lumii, o pusese în pension.</p>
+<p>Luxandra se gândea la toate astea și cu tot curajul ce-și făcea, o apuca plânsul.</p>
+<p>Mergând în neștire, din stradă în stradă, ajunse la Mitropolie.</p>
+<p>Acolo îngenunchea înaintea bisericii și vărsând șiroaie de lacrimi, se rugă mai bine ca o jumătate de ceas.</p>
+<p>Când se scula din genunchi, era parcă mai liniștită. D-zeu îi dăduse putere ca să poată lupta.</p>
+<p>Gânditoare, cu un pas încet, ea plecă de la biserică.</p>
+<p>Când fu în vârful dealului, se opri deodată și-și aruncă privirile asupra Bucureștilor.</p>
+<p>Era în amurgul serii, cele din urmă raze ale soarelui se luptau, cu umbra nopții. De sus, din dealul Mitropoliei, o frumoasă panoramă se înfățișa înaintea ochilor. Case înalte, clădiri gigantice se amestecau cu căsuțe mici pitulate, cu numeroase biserici ale căror turnuri se înălțau spre cer.</p>
+<p>Luxandra privi lung, în extaz si zise:</p>
+<p>-Oraș în care clocotesc patimi și nelegiuri; unde mizeria și depravația îngenunchează virtutea! oraș în care domnește puterea și avuția alături cu mizeria cea mai neagră; unde mila și credința sunt izgonite pentru a face loc capriciului; unde atâtea soții bogate se tăvălesc în noroi, răpind pâinea: orfanei, viitorul și nădejdea! oraș care ai omorât pe sora mea, dacă aș avea o putere, ți-aș da foc din toate părțile, ca să nu mai rămână nimic din tine, până și cenușa s-o spulbere vântul!....</p>
+<p>După acest blestem, pe care durerea și indignarea i-1 punea pe buze, Luxandra reveni numaidecât și privind peste întinsa cetate, continuă:</p>
+<p>— Cu toate astea, câte suflete inocente nu se găsesc în sânul tău, oraș frumos și liniștit! câte pilde mărețe n-ai dat tu până acuma! Cine altul a ridicat ca tine atâtea spitale, în care se alină suferințele și atâtea biserici, în care se păstrează credința! Nu; focul nu trebuie să cadă asupra ta, ci asupra celor răi. Sora mea a murit, eu am să trăiesc până voi putea s-o răzbun!...</p>
+<p>Suntem în anul 1903. D. Inspector de poliție Vlădescu-Olt se duce, într-o noapte, în strada Căprioarei si arestează pe două femei, Tereza și Elena, a căror meserie era să ademenească fete sărace de la școală și să le vândă la bătrâni.</p>
+<p>Aceste ticăloase au și fost înaintate judecătorului de instrucție de la cabinetul 1, care a dat in contra lor mandate de arestare.</p>
+<p>D. Vlădescu-Olt a făcut acea descoperire grație unei scrisori anonime.</p>
+<p>Era un scris de femeie.</p>
+<p>Pe Luxandra n-o mai găsim acum în pension. Ea este servitoare la o casă bogată, dintr-o stradă principală din București. Stăpâna ei este o femeie tânără și frumoasă. Dacă am privi-o bine, am recunoaște-o numai de cât. Este doamna pe care am întâlnit-o anul trecut la cărturăreasa unde se afla și Voichița.</p>
+<p>E într-o joi, orele 4 după amiază. Trei prietene veniră la doamna aceasta. Ele erau tot de aceeași condiție socială.</p>
+<p>Câteșipatru aceste doamne se închseră într-un salonaș și începură să vorbească în taină.</p>
+<p>Am descoperit un loc retras, zise una dintre ele. Acolo nu ne poate vedea, nu ne poate bănui nimeni.</p>
+<p>— În ce stradă? întrebă o a doua doamnă</p>
+<p>— În strada Uranus, sus pe dealul Spirei.</p>
+<p>— Mi se pare că am fost eu odată pe acolo, zise stăpâna casei.</p>
+<p>- Nu se poate, reluă doamna cea dintâi. E o casă particulară, o ține o femeie care este și dânsa măritată. Asta face mult.</p>
+<p>- Dar știi care sunt condițiile? întrebă a treia doamnă.</p>
+<p>— Proastă trebuie să fii, răspunse doamna cea dintâi. Dar eu am aranjat totul, am dat încă de acum câteva zile fotografiile voastre, am pus un preț mai ridicat și iată, astăzi am primit răspunsul ca mâine, la ceasurile 6, să fim acolo. Ne așteaptă patru tineri, frumoși și cu parale.</p>
+<p>— Bieții bărbați! exclamă una din doamne cu un aer de satisfacție; dacă ar ști ei ce coarne poartâ....</p>
+<p>— Nu te îngriji de asta, răspunse stăpâna casei; și ei ne înșalâ pe noi, una pentru, alta. Când ai putința să te dedai plăcerilor și să iei și bani în același timp, de ce să n-o faci?</p>
+<p>Pe când aceste doamne țineau conversația de mai sus și aranjau modul întâlnirii, o fată asculta la ușă cu cea mai mare atenție. Era Luxandra, servitoarea din casă.</p>
+<p>A doua zi stăpânul ei primi o scrisoare, tot anonimă, cu următorul coprins:</p>
+<p>Domnule,</p>
+<p>„Soția d-tale te înșală. Ea îșî vinde corpul și cinstea casei pentru o sută de lei pe seară. Astăzi, la ceasurile 6, du-te în strada Uranus No. .... ai s-o găsești acolo în brațele unui tânăr.”</p>
+<p>Alte trei scrisori identice au fost înaintate și celorlalți soți, ale căror neveste au întâlnire.</p>
+<p>Stăpânul Luxandrei, când citi scrisoarea, nu putu să creadă la început, apoi fu cuprins de o adevărată furie.</p>
+<p>El dete fuga la poliție, unde găsi pe un domn inspector, îi arătă scrisoarea și-l rugă să-i aresteze nevasta.</p>
+<p>La 6 ceasuri o trăsură se opri în colțul străzii Uranus.</p>
+<p>Inspectorul și cu domnul de mai sus o luară pe jos și se opriră la casa arătată.</p>
+<p>Cele patru doamne se găseau în brațele tinerilor respectivi.</p>
+<p>Inspectorul luase și doi sergenți de oraș.</p>
+<p>După ce se încredință despre orgia care se petrecea în casa aceea, intră repede înăuntru și surprinzând pe cele patru doamne, le zise:</p>
+<p>— În numele legii, sunteți arestate!</p>
+<p>In același moment apărură și soții lor, cari veniseră în urma scrisorilor primite.</p>
+<p>Rareori s-a văzut un zbucium, o spaimă mai mare. Soțiile adultere căzură jos, leșinate.</p>
+<p>A doua zi, sâmbătă, în zorile zilei, găsim pe Luxandra îngenuncheată pe mormântul surorei sale, peste care presără flori de câmp și liliac.</p>
+<p>— Voichițo, zise dânsa, te-am răzbunat! Facă D-zeu ca moartea ta, iubită soră, să vindece sufletele decăzute și să ferească pe alte ființe ca să aibă soarta pe care ai avut-o și tu....</p>
+</div>
+ </body>
+ </text>
+</TEI>
