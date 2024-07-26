@@ -10,7 +10,7 @@ Roxana Patras
 # Editors
 Loredana Cuzmici, Lucretia Pascariu, Alexandra Olteanu, Oana Ionescu 
 
-#Contributors
+# Contributors
 ......
 
 # Citation suggestion: 
