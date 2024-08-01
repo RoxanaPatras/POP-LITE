@@ -11,9 +11,12 @@
                 <respStmt>               
                     <resp>codare POPLITE</resp>
                     <name>Teodora Iuriusciuc</name></respStmt>   
+                <respStmt>               
+                    <resp>verificare codare POPLITE</resp>
+                    <name>Lucreția Pascariu</name></respStmt>   
                 <respStmt>
                     <resp>corectură manuală</resp>
-                    <name>Lucreția Pascariu</name>
+                    <name>Maria Magdalena Hriscu</name>
                 </respStmt>
                 <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
             </titleStmt>
@@ -73,18 +76,21 @@
         </encodingDesc>
     </teiHeader>
 <text>
+    <front>
+        <p> EPISOD DIN ISTORIA RĂZBOIULUI INDEPENDENȚEI ROMÂNIEI</p>
+        <p>SORA DE CARITATE</p>
+        <p>NUVELĂ ORIGINALA</p>
+        <p>Compusă de</p>
+        <p>N. D. POPESCU</p>
+        <p>ILUSTRATĂ CU DOUĂ GRAVURI</p>
+        <p>EDIȚIUNEA II-a</p>
+        <p> Revăzută și adăugată</p>
+        <p>BUCUREȘTI</p>
+        <p>EDITURA LIBRĂRIEI H. STEINBERG — CALEA RAHOVEI — </p>
+        <p>1892</p>
+    </front>
 <body>
-<p> EPISOD DIN ISTORIA RĂZBOIULUI INDEPENDENȚEI ROMÂNIEI</p>
-<p>SORA DE CARITATE</p>
-<p>NUVELĂ ORIGINALA</p>
-<p>Compusă de</p>
-<p>N. D. POPESCU</p>
-<p>ILUSTRATĂ CU DOUĂ GRAVURI</p>
-<p>EDIȚIUNEA II-a</p>
-<p> Revăzută și adăugată</p>
-<p>BUCUREȘTI</p>
-<p>EDITURA LIBRĂRIEI H. STEINBERG — CALEA RAHOVEI — </p>
-<p>1892</p>
+
 <div type="chapter" n="1">
 <p>I</p>
 <p> Fereastra palatului!</p>
