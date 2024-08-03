@@ -11,6 +11,9 @@
                 <respStmt>               
                     <resp>codare POPLITE</resp>
                     <name>Teodora Iuriusciuc</name></respStmt>   
+                <respStmt>               
+                    <resp>verificare codare POPLITE</resp>
+                    <name>Lucreția Pascariu</name></respStmt> 
                 <respStmt>
                     <resp>corectură manuală</resp>
                     <name>Lucreția Pascariu</name>
@@ -74,7 +77,8 @@
     </teiHeader>
   <text>
       <body>
-<div type="chapter" n="1">
+<div type="part">
+<div type="section" n="1">
                   <p>I.</p>
                <p>Necunoscuta.</p>
                <p>Trecuse miezul nopții.</p>
@@ -88,7 +92,7 @@
                <p>Era așadar după miezul nopții și noi ședeam mai mulți inși în jurul unei mese, când deodată ușa cafenelei se deschise și pe prag apăru figura unei femei, care își îndreptă pașii spre masa nostră.</p>
                <p>La vederea acestui oaspete neașteptat am rămas cu toții încremeniți și cu gurile căscate.</p>
             </div>
-<div type="chapter" n="2">
+<div type="section" n="2">
                   <p>II.</p>
                <p>Necunoscuta.</p>
                <p>Știu și sunt convins că o să-mi dați crezământ, când vă asigur sus și tare, că eu știu ce-s gurile căscate.</p>
@@ -100,7 +104,7 @@
                <p>Nu, iubite cititoare și iubiți cititori, să nu presupuneți doar că măresc, când susțin aserțiunea de mai sus. O nu, n-am nici un interes să spun ceva, ce nu corespunde adevărului curat, cu atât mai vârtos nu, că acest fenomen șod a fost însoțit de așa împrejurări extraordinare încât chiar și o căscare mai mare ar fi nu numai verosimilă, mai din contră probabilă și n-ar putea decât să adaug la caracterul misterios, misterios în sensul strict al cuvântului, a acelei femei, care își îndreptă în acea noapte, după miezul nopții, acolo pe la o oră sau o oră și jumătate, dar negreșit înainte de două, pașii spre masa nostră, făcându-ne să încremenim la vederea ei și se rămânem cu gurile căscate.</p>
                <p>Și cum ședeam noi așa, această ființă, venită parcă din o altă lume, lăsa să rătăcească asupra noastră o privire jalnică, o privire gânditoare, din care se putea citi un roman întreg de un cuprins din cale afară tragic.</p>
             </div>
-<div type="chapter" n="3">
+<div type="section" n="3">
                   <p>III.</p>
                <p>Necunoscuta.</p>
                <p>Dacă n-aș fi literat conștiincios, literat concis de miza sublimă, ce ni s-a încredințat nouă oamenilor de la gazete, nouă hârtienilor, cum ne numea mai sâmbăta trecută un avocat tânăr, cu care am petrecut împreună cu câțiva alți cunoscuți lângă niște pahare de vin, cu ocazia cărei petreceri mi s-a dat un vast prilej de a putea face unele constatări foarte momentoase cu privire la influența, ce o deprinde vinul asupra creierilor omenești, acest organism miraculos, a cărui funcționare, oricât ne-am căzni totuși n-am fi în stare s-o înțelegem, dat fiind, că mintea noastră e mărginită, din care motiv eu nici nu fac nicicând deosebiri subtile, ci mă restrâng totdeauna la ceea ce e chiar de lipsă, și cum am zis deja la începutul acestui capitol, care ne va da o binevenită ocazie să aruncăm o privire în viața sufletească a unui spirit prigonit de ursita nemiloasă, dacă zic, n-aș fi om conștiincios, aș putea să croiesc din privirea femeii palide, care își îndreptase pașii spre masa noastră, un roman senzațional cu detalii înfiorătoare, dar eu raportez totdeauna numai cea ce aud, văd și simt și nu adaug nimic, ci scriu totdeauna ceea ce muza binevoitoare îmi dictează în pană așa încât de multe ori nici eu nu știu cum o să se sfârșească multe perioade.</p>
@@ -114,6 +118,7 @@
                <p>Iată, dar iubită cititoare și iubiți cititori, în scurte cuvinte viața unei nefericite femei, care neînțelesă a trăit și a murit poate deja, fără ca din totă mândria ei să mai fi rămas alta, decât numele ei pierdut prin praful cronicelor gălbinite de vremi ale veacurilor trecute: Sfinx.</p>
                <p>Chloroform</p>
                </div>
+</div>
       </body>
   </text>
 </TEI>

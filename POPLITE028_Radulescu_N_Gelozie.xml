@@ -10,10 +10,13 @@
                 <author>Rădulescu-Niger, N. G.</author>  
                 <respStmt>               
                     <resp>codare POPLITE</resp>
-                    <name>Teodora Iuriusciuc</name></respStmt>   
+                    <name>Teodora Iuriusciuc</name></respStmt> 
+                <respStmt>               
+                    <resp>verificare codare POPLITE</resp>
+                    <name>Lucreția Pascariu</name></respStmt>   
                 <respStmt>
                     <resp>corectură manuală</resp>
-                    <name>Lucreția Pascariu</name>
+                    <name>Oana Alexandra Ghermănescu</name>
                 </respStmt>
                 <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
             </titleStmt>
@@ -74,6 +77,7 @@
     </teiHeader>
  <text>
 <body>
+    <div type="part" n="1">
 <p>GELOZIE</p>
 <p>Memoriei lui Alexandru Odobeseu.</p>
 <p>PARTEA ÎNTÂI</p>
@@ -1344,6 +1348,8 @@
 <p>La vorbele acestea, fruntea lui Costin se încreți. Iși amintise de Maria și-i apăruse înaintea ochilor, la brațul lui Riga.</p>
 <p>Se despărți de prietenii săi, dându-le întâlnire pentru ceasul pornirii la gara de Lyon, căci voia să treacă prin Marsilia, să salute Veneția, să treacă pe la Fiume și Pesta și să intre în țară pe la Predeal.</p>
 <p>In ziua de 30 Octombrie porni din Paris, orașul petrecerilor și al studiului, orașul civilizațiunii și al științei, după o ședere de opt ani într-însul.</p>
+</div>
+        <div type="part" n="2">
 <p>PARTEA A DOUA</p>
 </div>
 <div type="chapter" n="22">
@@ -2580,6 +2586,7 @@ de a-mi încredinţâ îngrijirea medicală a copiilor dumitale iubiţi...</p>
 <p>— Nu, Mario, sau, chiar de aș mai fi... aș fi, cu cumpătare.</p>
 
 <p>FINE</p>
+</div>
 </div>
 </body>
 </text>

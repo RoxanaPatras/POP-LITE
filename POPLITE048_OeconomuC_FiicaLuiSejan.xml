@@ -10,10 +10,13 @@
                 <author>Oeconomu, Ciru</author>  
                 <respStmt>               
                     <resp>codare POPLITE</resp>
-                    <name>Teodora Iuriusciuc</name></respStmt>   
+                    <name>Teodora Iuriusciuc</name></respStmt>  
+                <respStmt>               
+                    <resp>verificare codare POPLITE</resp>
+                    <name>Lucreția Pascariu</name></respStmt> 
                 <respStmt>
                     <resp>corectură manuală</resp>
-                    <name>Lucreția Pascariu</name>
+                    <name>Sorina Iuliana Rîndașu</name>
                 </respStmt>
                 <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
             </titleStmt>
@@ -74,8 +77,9 @@
     </teiHeader>
     <text>
   <body>
-<p>FIICA LUI SEJAN</p>
+
   <div type="chapter" n="1">
+      <p>FIICA LUI SEJAN</p>
 <p>I</p>
 <p>În palatul Cesarilor, de pe muntele Palatin, — într-o sală imensă ca interiorul unui templu, cu columne canulate, ale căror acante sprijineau un tavan format din grinzi aurite, încins printr-o galerie circulară, cu stâlpi de alabastru, — Tiberiu, așezat într-un solium de bronz, cu spatele înalt, sta afundat în gânduri.</p>
 <p>El primise, chiar în ziua aceea, printr-un trimis special, știrea despre moartea lui Germanicus, decedat la Epidafne, lângă Antiohia, în Siria, și acest eveniment da de lucru spiritului lui bănuitor și nepătruns.</p>
@@ -973,9 +977,11 @@
 <p>De altmintrelea, el însuși nu mai trăi mult după aceasta, căci, în anul 37, aflându-se la Misona, bolnav, fu înăbușit sub perne de Macron, pe care îl făcuse prefect al pretoriului în locul lui Sejan și care comise această crimă pentru a merita noi onoruri de la acela ce trebuia să îi urmeze.</p>
 <p>În locul lui, se sui, pe tronul Coșurilor, Caiu, fiul cel mai mic al lui Germanicus, supranumit Caligula, același care, după cum se știe, spăimântă lumea prin smintenia și prin desfrânările sale, care începu prin a lega relații incestuoase cu câteși trele surorile sale și termină prin a își face calul Consul.</p>
 </div>
-<p>DE ACELAȘI:</p>
-<p>Cronici și legende. - Aquarele (versuri), 1890...................1 vol.</p>
-<p>Răzbunarea lui Anastase. — Linda — Un jubileu literar, 1896......4 vol.</p>
         </body>
+        <back>
+            <p>DE ACELAȘI:</p>
+            <p>Cronici și legende. - Aquarele (versuri), 1890...................1 vol.</p>
+            <p>Răzbunarea lui Anastase. — Linda — Un jubileu literar, 1896......4 vol.</p>
+        </back>
     </text>
 </TEI>

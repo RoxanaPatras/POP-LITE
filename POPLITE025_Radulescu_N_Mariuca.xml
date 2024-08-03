@@ -11,9 +11,12 @@
                 <respStmt>               
                     <resp>codare POPLITE</resp>
                     <name>Teodora Iuriusciuc</name></respStmt>   
+                <respStmt>               
+                    <resp>verificare codare POPLITE</resp>
+                    <name>Lucreția Pascariu</name></respStmt>   
                 <respStmt>
                     <resp>corectură manuală</resp>
-                    <name>Lucreția Pascariu</name>
+                    <name>Ana Maria Pandelea</name>
                 </respStmt>
                 <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
             </titleStmt>
@@ -74,12 +77,13 @@
     </teiHeader>
   <text>
 <body>
+    <div type="part" n="1">
 <p>FOIȚA ZIARULUI «ZIUA»</p>
 <p>1</p>
 <p>MĂRIUCA</p>
 <p>DE</p>
 <p>N. G. RĂDULESCU-NIGER</p>
-<div type="chapter" n="1">
+<div type="section" n="1">
 <p>I</p>
 <p>Pe malul Bistricioarei îi moara Măriucăi.</p>
 <p>Harnică-i moara, harnică Măriuca.</p>
@@ -120,12 +124,14 @@
 <p>Fața Măriucăi se înoură ; ochii i se rourară , parc’o înecă un oftat lung și apăsat, iar gândurile o furară.</p>
 <p>(Va urma)</p>
   </div>
-<div type="chapter" n="2"> 
+    </div>
+<div type="part" n="2"> 
 <p>FOIȚA ZIARULUI «ZIUA»</p>
 <p>2</p>
 <p>MĂRIUCA</p>
 <p>DE</p>
 <p>N. G. RĂDULESCU-NIGER</p>
+    <div type="section" n="1">
 <p>— Mare, Vlad al d-tale, Moș-Trohine, grăi Măriuca dup’o clipă, două,—nu se mai gândește el la o morăreasa ca mine... He-hei! ... la târg sunt duducuți de celea gătite frumos care i’or fi sucit de mult mințile. Da cum socotești! Altmintrelea și-ar mai aduce aminte că trăim și noi pe astă lume, colea, pe ist mal al Bistricioarei...</p>
 <p>— Ia taci, Măriuco bre, că se gândește el, n'ai grijă; da știi tu, omu-i din fire îndărătnic și uneori îl ia apa făr de veste...Iar când îi vine oleacă de minte și stă și să gândește, vede c’o rămas, din toate cele trecute, cu urletul morii și cu bătaia vântului... Vorba-i, fa Măriuco, eu nu l`ași vrea pe Vlad să se lovească cu capu de toate și să rămâie multă vreme amețit... Dac’am iscondi ceva, mare, care să-i aducă mintea la cap mai din vreme ? Hai ? cum dai gându, Măriuco ? Tu ești isteață foc și pe urmă ești muiere... Dac’ai stârni tu ceva? Ia vezi, bre, Măriuco, ia vezi...</p>
 <p>— Apoi m’oi gândi, Moș-Trohine...</p>
@@ -148,6 +154,8 @@
 <p>Măriuca ’i mai spunea, Măriuca ’i tot rădea, iar moraru turna afânat, afânat...</p>
 <p>Apa clocotea la scoc; moara să’nvârtea; făina curgea pic, pic... în sacu pus la teică...</p>
 <p>Era alt român la rînd...</p>
+    </div>
+        <div type="section" n="3">
 <p>III</p>
 <p>Moș-Trohin fusese cel mai strașnic plutaș pe vremea lui.</p>
 <p>Din sus de Hangu, cine știe de pe unde, pornea cu două plute care erau ale lui, și hai, hai, da în Siret iar de acolo în mândra de Dunăre...</p>
@@ -160,11 +168,15 @@
 <p>Baba ’i murise; fecioru-său era amu la carte în școlile din Iași, la care trecuse din Piatra.</p>
 <p>Ca să nu i se urască singur, iacă tot muncea moșneagul, pentru sat și pentru nevoile alor lui, care ascultau de cuvântul lui, cu mic, cu mare.</p>
 <p>(Va urma)</p>
+        </div>
+</div>
+    <div type="part" n="3">
 <p>FOIȚA ZIARULUI «ZIUA»</p>
 <p>3</p>
 <p>MĂRIUCA</p>
 <p>DE</p>
 <p>N. G. RĂDULESCU-NIGER</p>
+        <div type="section" n="3">
 <p>Un lucru nu i odihnea sufletul, în toată odihna bătrineților lui.</p>
 <p>Se potrivise popei Matei și dascălului Lisandru Ionescu și nu se mulțumise cu cartea ce învățase Vlad în sat.</p>
 <p>Popa: dă’l la târg mă creștine;</p>
@@ -203,11 +215,16 @@
 <p>— Apoi bine, dascăle, că s’o nimerit, răspunse Moș-Trohin, cu chipul nu tocmai senin. Și la ce vă îndemna cugetul către mine ?</p>
 <p>— S’o făcut că n’ai vrut să mai fii primar est-timp, taică,— luă cuvînt popa Mateiu; da vorba d-tale când ’i pune-o se ține în seamă, că toată lumea de bun și drept te cunoaște...</p>
 <p>(Va urma)</p>
+        </div>
+    </div>
+    
+    <div type="part" n="4">
    <p>FOIȚA ZIARULUI «ZIUA»</p>
    <p>4</p>
    <p>MĂRIUCA</p>
    <p>DE</p>
    <p>N. G. RĂDULESCU-NIGER</p>
+        <div type="section" n="3">
 <p>Eu și cu dascalu Lisandru ne-am sfătuit, taică, să facem ce-om face și uite, să clădim școală nouă, ca să fie spre mândria satului și spre cinste... Grăiește dumneata, Moș-Trohine, cu primaru, ostenește-te până la Piatra de grăiește cu boierii din cel comitet județean, cum îi zice; grăiește cu prefecțul, cu toți, Moș-Trohine, cu toți și hai să ne vedem visul cu ochii...</p>
 <p>— Apoi, Sfinția-ta, bine-ai plănuit și spre laudă îți este, iar mie mare cinste mi se face și bucuros facem’oi și eu luntre și punte pentru izbânda lucrului.</p>
 <p>— Ba încă dascălul Lisandru s’o gândit și la o școală pentru fete, că de! Moș-Trohine, adică de ce nu s’ar lumina și săracele fetele satului? Eu am auzit că sunt școli pentru fete în multe sate... Adică de ce n’ar fi și la noi?...</p>
@@ -235,15 +252,20 @@
 <p>In seara aceea cu dascălu Lisandru și cu părintele Mateiu, alcătuiră scrisoare lui Vlad, povățuiră pe dascălul potrivit cu planul Măriucăi și râseră cu poftă de ce-avea să se întâmple.</p>
 <p>A doua-zi Moș-Trohin se porni la Piatră și dascălul Lisandru la Iași.</p>
 <p>(Va urma)</p>
+        </div>
+    </div>
+    
+    <div type="part" n="5">
    <p>FOIȚA ZIARULUI «ZIUA»</p>
    <p>5</p>
    <p>MĂRIUCA</p>
    <p>DE</p>
    <p>N. G. RĂDULESCU-NIGER</p>
+        <div type="section">
 <p>Popa rămase să strângă mână de la mână pentru școală, ca să vadă cel din târg cât dor avea românii să aibă o clădire cumsecade...</p>
 <p>Iar Măriuca măcina toată ziulica... Apa clocotea la scoc... moara se’nvârtea mereu...</p>
 </div>
-<div type="chapter" n="3">
+<div type="section" n="3">
 <p>III</p>
 <p>Vlad a lui Moș-Trohin se afla în gazdă la o cucoană văduvă, pe lângă biserica Vulpe.</p>
 <p>Nu știu cum făcuse, nu știu cum dresese că acolo dcscălecase la venirea lui în Iași.</p>
@@ -273,12 +295,16 @@
 <p>Și ’n fel de fel de chipuri i se năluceau și una și alta în cașurile când nu’l îndemna cugetul să facă altceva.</p>
 <p>Degeaba cucoana Frăsinița îi grăia deschis de tot, vorba aceea: cu ochii bazaconii cu enile sprâncenile, cu gura știrbătura, că murea, că se topea de dorul lui, Vlad nu lua în seamă, cum lumina lunii nu ia în seamă lumina unei stele afundată în cine știe ce depărtare a întunericului nopții.</p>
 <p>(Va urma)</p>
+</div>
+    </div>
 
+<div type="part" n="6">
    <p>FOIȚA ZIARULUI «ZIUA»</p>
    <p>6</p>
    <p>MĂRIUCA</p>
    <p>DE</p>
    <p>N. G. RĂDULESCU-NIGER</p>
+    <div type="section" n="3">
 <p>Dar iacă pe vară, după ce Vlad sfârși școala, de bucurie că dăduse bun examen, vru să se pornească undeva din Iași numai vreo patru, cinci zile, ca să mai răsufle, că pe urmă era să dea examenul cel mare de bacalaureat, cum îi zice. S’ar fi repezit la Măriuca în sat la el, dar era prea departe, vezi...</p>
 <p>Numai cât află cucoana Frăsinița și i se cutremură inimioara, la un gând năprasnic ce-i scăpără prin minte.</p>
 <p>Fuga la el în odaie într’o dimineață, ca să’l prindă acasă și’l pofti, cu glasul cel mai dulce, la vie la dumneaei.</p>
@@ -303,7 +329,7 @@
 <p>iar la Măriuca nu se mai gândea o clipă toată vremea i-o prindea slujba și cucoana Frăsinița, cucoana Frăsinița și slujba</p>
 <p>Și iacă, mare, așa mersese lucru cu bietul Vlad, până ce se făcu înțelegerea ceea între Moș-Trohin, Popa Matei și dascălul Lisandru.</p>
 </div>
- <div type="chaper" n="4">
+ <div type="section" n="4">
 <p>IV</p>
 <p>Cucoana Frăsinița, cu floare la ureche numai în capot, veselă nevoie mare, sta la o fereastră care da în ogradă. Cosea lui Vlăduleț cu părul creț o cămașă cu brodărie și cânta, ca o păsăruică pe-o cracă, într’un crâng.</p>
 <p>Iacă atunci pe poartă un român bărbos, înalt, cam adus de umeri. Vezi-că stăteau călare pe el șaizeci și mai bine de ani. Era dascălul Lisandru.</p>
@@ -312,12 +338,17 @@
 <p>Dascălu Lisandru își luă pălăria.</p>
 <p>— Apoi, cucoană, caut pe Vlad a lui Moș-Trohin care învață carte aici în Iași... Și parc’aici îl numărul de casă la care locuiește Vlad...</p>
 <p>(Va urma)</p>
+ </div>
+</div>
+    
+    <div type="part" n="7">
 
    <p>FOIȚA ZIARULUI «ZIUA»</p>
    <p>7</p>
    <p>MĂRIUCA</p>
    <p>DE</p>
    <p>N. G. RĂDULESCU-NIGER</p>
+        <div type="section" n="4">
 <p>Cucoana Frăsinița se cam înfioră iar... Pentru ce adică îl căuta omul ăsta tocmai din sat de-acolo ? Nu-i mirosi ei a bine și prinse a descoase pe dascăl.</p>
 <p>— Da cine ești dumneata ?</p>
 <p>— Eu sunt învățătorul școalii din satul cela și fiindcă tot era să trec prin Iași, m’o rugat Moș-Trohin să vin pe la Vlad să-i aduc scrisoare...</p>
@@ -355,12 +386,17 @@
 <p>— D’apoi de m’ași lăsa pe grija ta! — gândi dascălul, — și porni.</p>
 <p>În ogradă văzu pe slujnică cum întindea tocmai lângă poartă, niște albituri spălate.</p>
 <p>Îi tună prin cap una și bună dascălului. Dacă ajunse în dreptul fetei, îi dădu bună ziua, și pe urmă se opri și se lovi repede peste pălărie.</p>
-
+<p>(Va urma)</p>
+        </div>
+    </div>
+    
+    <div type="part" n="8">
    <p>FOIȚA ZIARULUI «ZIUA»</p>
    <p>8</p>
    <p>MĂRIUCA</p>
    <p>DE</p>
    <p>N. G. RĂDULESCU-NIGER</p>
+        <div type="section" n="4">
 <p>— Na! c’am uitat unde’ mi-o spus cucoana să găsesc pe domnul Vlad...</p>
 <p>— La Credit, creștine... acolo are slujbă cuconașu nostru.</p>
 <p>— Așa, bine zici. Mulțumesc, fetița moșului. Ei, vezi, cutra, se gândi dascălul, îl teme de mine pe Vlad... Și are slujbă, cuconașul dumnealui? Săracul Moș-Trohin, te-i mira să’l mai vadă adus în sat de-amu...Bre ce ți-i cu târgurile astea mari!</p>
@@ -389,12 +425,16 @@
 <p>«D’apoi cum socotești!...Că văd eu măre băiete; sunt mai dârz eu în iarna bătrânețelor mele, decât tine în primăvara tinerețelor tale...</p>
 <p>«Era să nu’ți dau știință de ist pas al meu; dar apoi m’o mlădiat părintele și cu dascălul.</p>
 <p>(Va urma)</p>
-
+        </div>
+    </div>
+    
+    <div type="part" n="9">
    <p>FOIȚA ZIARULUI «ZIUA»</p>
    <p>9</p>
    <p>MĂRIUCA</p>
    <p>DE</p>
    <p>N. G. RĂDULESCU-NIGER</p>
+        <div type="section" n="4">
 <p>«Amu, dacă-i pofti să’mi cari apă cu ciuru la nuntă, iacă vin-o și cară’mi, fătul meu; iar de nu, pace bună între noi. Poate o vrea Dumnezeu să’mi dea roade amu la bătrânețe, ca să fie cine să’mi închidă ochii când m-o chema Domnu la el...</p>
 <p>«Eu și părintele Matei te blagoslovim și te sărutăm cu părintească dragoste.</p>
 <p>Tatâni-tău</p>
@@ -418,7 +458,7 @@
 <p>Iar dascălul prinsese la putere, ca de flăcău în toiul tinereții: îți ridica ușor, ca pe niște pene, lucrurile lui Vlad și le așeza în haraba.</p>
 <p>După o jumătate de ceas, în casa cu păcatul, rămăsese cucoana Frăsinița leșinată, slujnica s’o stropească cu oțet și cotoiul Fideluș să latre pe de-alături.</p>
 </div>
-<div type="chapter" n="5">
+<div type="section" n="5">
 <p>V</p>
 <p>Moara se hodinea... Apa curgea pe sub capacul iezăturii, ciur! ciur !... încetișor. Era duminică și încă a Floriilor.</p>
 <p>Bătătura morii era măturată și curată ca în palmă.</p>
@@ -436,11 +476,16 @@
 <p>Care vrea să zică, dacă venise și venise Vlad, cum auzise că moșneagul de tată-său vrea s’o ia pe dânsa,—apoi tot mai avea la inimă, flăcău...</p>
 <p>Și nu’și mai găsea loc, sărăcuța și nu știa să plângă, ori să cânte? s’alerge la Moș-Trohin, ori să lase să se întâlnească cu dânșii la biserică?...</p>
   <p>(Va urma)</p>
+</div>
+    </div>
+    
+    <div type="part" n="10">
    <p>FOIȚA ZIARULUI «ZIUA»</p>
    <p>10</p>
    <p>MĂRIUCA</p>
    <p>DE</p>
    <p>N. G. RĂDULESCU-NIGER</p>
+        <div type="section" n="5">
 <p>Cum o să se uite Vlad la dânsa ?</p>
 <p>— Ce o să zică ?</p>
 <p>Pentru ce adică n’alergase de cu seara la ea, la moară? Ce plan învârtea moșneagul?</p>
@@ -475,12 +520,17 @@
 <p>Câteva clipe încă, și era să dea Dumnezeu să se poată apropia de Măriuca...</p>
 <p>Da a fost chip, socotiți, și după miruială?</p>
 <p>(Va urma)</p>
-
+        </div>
+    </div>
+    
+    
+    <div type="part" n="11">
    <p>FOIȚA ZIARULUI «ZIUA»</p>
    <p>11</p>
    <p>MĂRIUCA</p>
    <p>DE</p>
    <p>N. G. RĂDULESCU-NIGER</p>
+        <div type="section" n="5">
 <p>Că unde a început a se strânge toți românii din sat împrejurul lui și a-i ura bună venire, și a-i arăta bucuria și dragostea cea mai curată că venise în satul lor de sărbători...</p>
 <p>Ar fi fost mândru, un împărat, de-așa întâmpinare.</p>
 <p>— E hei, feții mei, le grăi Moș-Trohin, ba de-amu, mătincă, Vlăducu meu o să fie al nostru, a tuturor, că între noi o să rămâie...</p>
@@ -521,8 +571,10 @@
 <p>— Iacă amu zic și eu că am feciori... strigă Moș-Trohin.</p>
 <p>— Apoi, așa ar fi și cu cale tătucă, si învățăm, să știm toți carte și să rămânem în breasla noastră. Atunci toate felurile de meșteșuguri ar merge departe și ale vieții s’ar câștiga mai cu ușurință. Ia să vezi tu, Măriuco, ce-o să facem noi amândoi cu moara ta... O să-i meargă vestea!...</p>
 <p>— Mare, meargă vestea de moară, meargă însă vestea și de dragostea voastră, grăi Moș-Trohin. Dragostea cată să stea temelie casei românului. Și ca să vă fie cu noroc, băieți, hai să bem aldămașu târgului că uite mi s’a uscat gâtița ca în luna lui Cuptor. Și-apoi, vorba aceea, feții mei; vinul înviorează sufletul și pecetluiește bucuria românului.</p>
-<p>Iar apa curgea mereu... ciur! ciur!... ușor alene...(Fine)</p>
+<p>Iar apa curgea mereu... ciur! ciur!... ușor alene...</p>
+            <p>(Fine)</p>
 </div>
+    </div>
 </body>
   </text>
 </TEI>
