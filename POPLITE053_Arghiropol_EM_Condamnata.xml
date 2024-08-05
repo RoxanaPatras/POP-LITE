@@ -11,9 +11,12 @@
                 <respStmt>               
                     <resp>codare POPLITE</resp>
                     <name>Teodora Iuriusciuc</name></respStmt>   
+                <respStmt>               
+                    <resp>verificare codare POPLITE</resp>
+                    <name>Lucreția Pascariu</name></respStmt>   
                 <respStmt>
                     <resp>corectură manuală</resp>
-                    <name>Lucreția Pascariu</name>
+                    <name>Andreea Iacob</name>
                 </respStmt>
                 <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
             </titleStmt>
@@ -73,20 +76,10 @@
         </encodingDesc>
     </teiHeader>
     <text>
-
-   <front>
-<p>No. 1.</p>
-<p>JURNAL PENTRU TOȚI</p>
-<p>Publicațiune ilustrată a D. Emanuel Arghiropol.</p>
-<p>1/13 Ianuarie 1868. Iese de două ori pe lună. Anul I.</p>
-<p>Abonamentele se făcu: In Iași la biroul redacțiunii, Strada St. Teodor, No. 2, la Librăria nouă, Strada mare și la D. O. Hildebrand, casele Băncii; în București la Librăria D-lui George Ioanid și Comp. Strada Lipscanilor No. 18.</p>
-<p>Prețul abonamentului: pe anul 28 lei noi, pe jumătate de an 15 lei noi, pe trei luni 8 lei noi. Un număr 1 leu nou și 50 bani.</p>
-<p>Familia Sulin.</p>
-<p>Sumar: Romanțe și nuvele: Condamnata. Tăcere in viață, iertare în oara morții.— Științe: Studii asupra dreptului. —Varietăți: Apropo de primăvară. O seară la Slănic. Către Lectori. — Anunțuri.</p>
-<p>CONDAMNATA.</p>
-   </front> 
         <body>
-<div type="chapter" n="1">
+<div type="part" n="1">
+<p>CONDAMNATA.</p>
+<div type="section"  n="1">
 <p>I.</p>
 <p>Familia Sulin</p>
 <p>Mergând spre satul din Basarabia (partea Rusiei) cel mai frumos spectacol se desfășura înaintea ochilor. In față, un deal acoperit de livezi și vii îmbelșugate, în sânul cărora se zăresc micile căsuțe ale satului, albe și vesele ca o zi de primăvară; la dreapta puțin in depărtare pădurea, a cărei verdeață negrindă, aduce călătorului o boară răcoroasă din profunzimile codrilor ei; la stânga și pe o vălicică din cele mai romantice, se-nalță biserica satului, a cărei turn albind dominează valea, lăsănd la vederea trecătorilor crucea sa sclipind, care cu cât te apropii de sat mărește pe după dealul asupra căruia se întinde drumul.</p>
@@ -110,7 +103,7 @@
 <p>Fericită viață, unde simplicitatea alungă tot ce este fals, și unde imaginațiunea nu are alt țel decât binele !</p>
 <p>Dar vai! cum noi simpli muritori vom trece acest pahar, ce se numește durere, și de care nici singur Crist nu au putut scăpa!!</p>
 </div>
-<div type="chapter" n="2">
+<div type="section"  n="2">
 <p>II.</p>
 <p>Unde lectorul face cunoștința cu doue 2 personaje noi.</p>
 <p>Acum că am făcut cunoștință cu această parte a familiei Sulin, permite-ne lectorul nostru, a ne permuta în târgul Chișinău, spre a face cunoștința a două personaje noi ce au a juca un rol principal în istoria noastră.</p>
@@ -146,8 +139,8 @@
 <p>—Eu? însă tu știi bine, că nu am în măna mea, decăt aceia ce-mi lași tu pentru hrană.</p>
 <p>—Așa este, replică Codrat, a cărei  ochi cercetători, căuta a străbate până în interiorul lui Simion, dar cu economiile tale ?...</p>
 <p>—Economii ? Dar pentru ca să poată cineva economisi trebuie să aibă mai întâi de unde? Iată acum două săptamâni de cănd am adus acele una sută carboave ce ne mai rămâne capitali și din care mi-ai dat numai cincisprezece; ce ai făcut tu cu rămășița de optzeci și cinci?</p>
-<p>__Cheltuite ! răspunse Codrat cu un ton sec.</p>
-<p>__Cheltuite exclamă bietul Simion, aproape a se sugruma cu legătoarea ce tocmai atunci o trece pe după gât, cheltuite, optzeci și cinci de carboave în două săptămăni! și mie care le-am adunat cu atâta sudoare, care mă uitam la ele ca la viața mea, mi se cere economii de cincisprezece carboave ! Ceri economii de la mine, tu, care arunci banii pe ferestre? </p>
+<p>- Cheltuite ! răspunse Codrat cu un ton sec.</p>
+<p>- Cheltuite exclamă bietul Simion, aproape a se sugruma cu legătoarea ce tocmai atunci o trece pe după gât, cheltuite, optzeci și cinci de carboave în două săptămăni! și mie care le-am adunat cu atâta sudoare, care mă uitam la ele ca la viața mea, mi se cere economii de cincisprezece carboave ! Ceri economii de la mine, tu, care arunci banii pe ferestre? </p>
 <p>-Destul mă rog! reluă cu asprime Codrat. Tu știi că la mine nu se trec acestea. Bani! îți spun că-mi trebuiesc economiile tale.</p>
 <p>Simion astă dată nu avu curajul să mai răspundă. Suspinând luă de sub perinile capului, o pungă unsuroasă, din care scoase un tablou și câteva monede de argint, pe care le puse pe masa ce-l despărțea de fratele său. Codrat cu cea mai mare răceală, se apropie de masă, și luănd dublonul, restul îl împinse către Simion.</p>
 <p>—Ține, pentru cheltuiala ta, și acum du-te de vezi pe unde mai poți lua bani si pe la asfințitul soarelui să fii neapărat acasă. În astă noapte vom pleca la drum. Zicând aceste, Codrat ieși repede din casă și apucă spre piață.</p>
@@ -162,9 +155,12 @@
 <p>-Voi fi! răspunse Simion depărtându-se, fără a ști ce voia să facă fratele său pe acea vreme. </p>
 <p>(Urmare în numărul viitor).</p>
 <p>Em. Arghiropol.</p>
-<p>Sumar: Romanțe și nuvele: Condamnata. Sibila. Voiaj în odaia mea. — Științe: Studii asupra dreptului. — Izvoare istorice: Despre Moldova.— Varietăți: Nemulțumire de viață. Originea cuvântului toast. Doamnei, pe un album dat la anul nou. La D-ra 8.... D-nei Ana, Dorul de patrie. Logogrifu. Curiosități: Piatra care umblă. Țintirimul israeliților din Botoșani. Bibliografie.</p>
+    </div>
 </div>
-<div type="chapter" n="3">
+<div type="part" n="2">
+    <p>Condamnata</p>
+    <p>(Urmare).</p>
+<div type="section"  n="3">
 <p>III.</p>
 <p>Proiectarea Crimei.</p>
 <p>Noaptea acoperise pământul cu manta neagră, de vreo jumătate de oră; luna se-nalță încet pe bolta steloasă; greierele cântă în culcușul său; cănd o răuchezare depărtată adusă de vântul ce suflă de la nord, ajunse la urechile lui Codrat, care șezând pe o movilă, ținea calul său de căpăstru.</p>
@@ -213,7 +209,7 @@
 <p>Drept orice răspuns, Codrat dând pinteni calului său, porni în mare galop pe cărărușa ce era înaintea lor, făcând să sară scânteile pe urmele cursierului său.</p>
 <p>Două minute mai pe urmă, aruncând blesteme, contra naturii lui Codrat, și scoțând un profund suspin, Simion la rândul său, împungând coastele calului se lăsa ca fulgerul pe urmele lui Codrat.</p>
 </div>
-<div type="chapter" n="4">
+<div type="section"  n="4">
 <p>Răpirea.</p>
 <p>—Dar bine, ce ai tu Mario, de nu te împacă nimica de azi dimineață? întrebă Iacov pe nevasta lui care, de două ore mai bine era așteptată pentru biserică; Ai tu vreo supărare, pe care nu o știu eu, spune?</p>
 <p>Ce să am dragă? nimic care să merite îngrijirea ta; răspunse ea cu o neliniște.</p>
@@ -286,11 +282,12 @@
 <p>Era în astă epoca ceva mai mult decât un an de când Marchisul și Marchisa de Ferias pierduse unul după altul, în interval de câteva zile, pe nora lor Julie de Vergnes, creatură angelică, care nu trăise între dânșii decât timpul de a se face adorată și de a fi plânsă, și unicul lor fiu, Christian, conte de Ferias, june om grav, plăcut și delicat, pe care o convulsiune de durere-l zdrobi. Nu e rar, în ăst timp de simțibilități maladive, și de slabe credinți, ca astfel de loviri să facă din cei loviți niște disperați. Marchisul și Marchisa de Ferias scăpase de ăst dezastru moralii: cu toate aceste îi erau două inimi natural delicate până la febleță, și care simțiră sfâșierea lor în toată rigoarea sa incomparabilă; dar ei se susținură prin credință, prin sprijinul unei afecțiuni reciproce, ce anii nu făcură, decât a mai restrânge, în fine prin sentimentul datoriei, ce le rămânea a împlini lângă leagănul ieșit din mormânt.</p>
 <p>II. Familia de Beaumesnil.</p>
 <p>O vecină de țară, ce se numea D-na de Beaumesnil, găsise în catastrofa ce zdrobise casa de Ferias o fericită ocazie de a exersa talentele ce-i plăcea a-și recunoaște pentru rol de consolatoare. E cunoscută istoria acelui chirurg care pentru a avea practici mutilatorii prin răsuflătoare de la pivnița sa. Femei de asemenea caracter sunt foarte multe, și D-na de Beaumesnil, exemplu lor, simțea atâta trebuință a vărsa tezaurul ei caritabil, depus de natură în sânul său, încât s-ar putea că dorea și ești chiar, fără a le provoca, nenorocirile aproapelui ei. Pentru o persoană animată de un devotament așa activ, facerea dureroasă și două morți mai fără veste succesiv urmate sub acoperământul unui amic într-o perioadă de cinci spre șase ani.</p>
-<p>Sumariu: Romanțe și nuvele: Condamnata. Sibila. Voiaja în odaia mea. — Biblioteca națională: Principele Grigorie Ghica. —Științe: Studiuri asupra dreptului.— Revista literară.— Diverse.— Varietăți: Scrisoare de Amor. La densa. Logogrifu.— Seniorul de Logan.—Anunțuri.</p>
+</div>
+</div>
+<div type="part" n="3">
 <p>CONDAMNATA.</p>
 <p>(Urmare).</p>
-</div>
-<div type="chapter" n="5">
+<div type="section"  n="5">
 <p>V.</p>
 <p>Crâșma moșului Iftime.</p>
 <p>Era noapte. Tăcerea adâncă ce domnea, nu era întreruptă decât de mugetul furtunii ce se pregătea. Întunecime desevărșită, în care satul era învelit ca-ntr-o manta neagră. Singurele două lumini, asemăna cu două stele, prin slaba lor sclipire, da oarecare semn de viață acest pașnic cătun.</p>
@@ -389,20 +386,14 @@
 <p>Simion, cam de voie cam de nevoie, urmă fratelui său, și după câteva momente, se găsiră amândoi lângă gardul casei lui Iacov, in partea din dos. Aici, fără a descălica, prinse mai întâi caii cu frâurile lor, de coama spinoasă a gardului, se sculase în picioare, pe șeile cailor și putură astfel sări gardul, care în partea dinafară, era foarte înalt.</p>
 <p>Un sfert de oră mai în urmă, Simion apără cel dintâi pe coama gardului, de pe care se aruncă pe cal; apoi mai îndată, Codrat la rândul lui, urcă gardul, în a cărui spiniș se opri drept în picioare, întinzând lui Simion unu ce care tind in brațul stâng și după care sări și el pe șa.</p>
 <p>Acel ceva, care Codrat întinsese fratelui său Simion, pănă ce va sări gardul, dar pe care-l reluă, din momentul ce se văzu pe cal, nu era altă, decât mica Elena, care fusese atât de crud răpită, din culcușul ei, pe când furtuna deschisese fereastra de la odaia sa.</p>
-<p>(Urmare în numărul viitor).</p>
-<p>Em. Arghiropol</p>
-<p>SIBILA.</p>
-<p>(Urmare).</p>
-<p>IV. Nebunul Sibilei.</p>
-<p>Vara, când aurora s-a ivit strălucitoare într-un azur nepătat, cele întâi ore ale zilei au o puritate și o liniște ce s-ar crede eternă. Cu toate aceste vânturi nebune se ridică deodată, înclină ierburile și zguduie frunzele; nourașii albii se-ncrucișează pe cer, de la un orizont la altul, ca valuri deodată întinse de mâini nevăzute. Și se poate prea bine, ca peste zi să vie o vijelie.</p>
-<p>Nici o retorică nu poate să ne arate așa de exact, ca astă veche imagine nouă fașă, în care se arata că intră copilăria Sibilei după cinci sau șase ani de o desăvârșită serenitate pe care am cercat a descrie. Dispozițiunea ei deodată se schimbă, într-un fel neregulat. Câteodată avea momente așa de vesele, aproape de nebunie; adesea ori o suflare necunoscută părea a zgudui juna ei inimă, și atunci, pleca capul său blond, tocmai ca unui spic. Totodată o poezie ne-nțeleasă căuta la urechea sa și-i venea uneori un gust bizar pentru singurătate. Atunci târa pe nutricea sa in pădurea, ce se-ntindea în jurul parcului de la Ferias și nu se-ntorcea la castel decât seara.</p>
-<p>— Ce face ea-n pădure? Cu ce petrece ea acolo ? întrebă întâi, pe nutrice, D-nul de Ferias îngrijindu-se de aste ciudate preumblări.</p>
-<p>— D-nule marchis, răspunse nutricea, iată ceea ce se petrece. Mai întâi ne preumblăm o bucată  bună în care timp damicella e înțeleaptă ca o sfăntă. Dar cum nu a zărit marea printre copaci se schimbă cu totul, ea bate din mâini și începe a striga: „Marea! nutrice, iaca marea apoi mă apucă de mănă și mă</p>
-<p>Sumar; Romanțe și nuvele: Condamnata. Sibila. Voiaja, in odaia mea.—Științe: Studiuri asupra dreptului. — Repertoriu teatral: Omul leacului.— Varietăți: Corespondință amoroasă a ui Napoleon Bonaparte. — Logogrifu. — Seniorul «l Logan. — Anunțuri. — Fraze ascunse.</p>
+    <p>(Urmare în numărul viitor).</p>
+    <p>Em. Arghiropol</p>
+    </div>
+</div>
+            <div type="part" n="4">
 <p>C 0 N D A M N A T A.</p>
 <p>(Urmare).</p>
-</div>
-<div type="chapter" n="6">
+<div type="section"  n="6">
 <p>VI.</p>
 <p>Providența nu doarme.</p>
 <p>Lectorii noștri ne vor ierta, întorsătura ce am fost siliți a face în capitolul trecut, numai pentru a ne pune iarăși pe urmele fraților Salin, mai înainte de a-i părăsi pentru totdeauna.</p>
@@ -451,7 +442,7 @@
 <p>— Ce voi face? Zise buna femeie; voi ține-o cu mine, și voi crește-o, întocmai ca pe copilul meu. Nu vedeți voi, că această copilă fără părinți, și muritoare de foame, este trimisă de bunul Dumnezeu? A-și putea eu rămâne surdă la plângerile ei? Dumnezeu n-ar ierta una c-asta niciodată și luând copila în brațele ei. Nu mai plânge copila mea; nu! căci de astăzi înainte, vei avea o mamă, și această mamă voi fi eu.</p>
 <p>— Bine faci! bine faci Rucsandă! strigă cu bucurie Agapi, știam eu că, strângând această mititică de pe uliți, o aduceam la mama ei.</p>
 </div>
-<div type="chapter" n="7">
+<div type="section"  n="7">
 <p>VII. După 18 aui.</p>
 <p>Optsprezece ani se strecurase; în optsprezece ani se facu la oameni atătea prefaceri, încăt abia dacă se mai cunoscu. Odată ca ieșim din anii copilăriei și intrăm in marele ocean al vieții, toate bucuriile, precum și supărările noastre de altă dată, dispar cu trecutul, către care, nu putem a ne întoarce decât, pe aripile viselor noastre!</p>
 <p>Sărmana părăsită care găsise scaparea ei în casa bunului Agapi, devenise acum o fetiță frumușică, care număra douăzeci și trei ani. Ea fusese crescută cu atâta iubire, de către Rucsanda, încăt toată nenorocirea ei, pierise ca și cum nu ar fi mai fost.</p>
@@ -494,11 +485,15 @@
 <p>— E! da pripit mai ești, moș Ioane! strigă Agapi, aruncându-se pe ușă afară după butnariu. Ce dracu! stai să ne înțelegem?</p>
 <p>Însă în zadar toate, căci Ion fără să mai piardă vreme, își înhămase calul la căruța lui și urcăndu-se într-ănsa, ieși pe poartă, răspunzând cu râsul lui Agapi.</p>
 <p>— După Paști, în luna lui April, voi fi nun mare! Ne-am ințeles.</p>
-<p>Sumar: Romanțe și nuvele: Condamnata. Sibila. Voiaja în odaia mea. — Științe.: Studiuri asupra dreptului. — Reflecțiuni proprii și împrumutate.— O aventură în drumul de fier—Varietăți: Șarpele sub flori. Barcarolă. Steaua mării. — Frase ascunse. — Șarada. — La un cortel. Anunțuri.</p>
+    <p>(Urmare în numărul viitor).</p>
+    <p>Em. Arghiropol</p>
+</div>
+            </div>
+<div ana="part" n="5">
 <p>CONDAMNATA.</p>
 <p>(Urmare)</p>
-</div>
-<div type="chapter" n="8">
+<div type="section"  n="8">
+<p>VIII</p>
 <p>Visuri de fericire.</p>
 <p>In vreme ce Ioan Butnariu întrebuința silințile lui lângă bunul Agapi, atât de ușor învins; Andrei și Elena, nu erau mai puțin încurcați în singurătatea lor de la vie. Era mult timp de când, prin otăculă și comună dorințe, ei simțeau necesitatea unei asemenea singurătăți.</p>
 <p>Un amant are totdeauna, atătea lucruri se spună iubitei lui!... Amanta pe de altă parte, simte atăta trebuințe a le ascultai.... Încât la sosirea momentului așa de mult dorit, atunci cănd se găsescu unul lăngă altul, fără martori, departe de acea lume rece și nepăsătoare, cănd nimic nu se mai opune fericirii lor; tocmai atunci turburarea, covârșește puterea inimii, și se văd mai intimidați în fața lor decât înaintea lumii întregi.</p>
@@ -545,7 +540,7 @@
 <p>— Andrei, zise Elena cu lacrimile în ochi; pentru ce aceste idei negre, într-o zi așa de frumoasă ca astăzi?...</p>
 <p>— Pentru că după fericire vine și-ntristare, după viață și moarte!!!</p>
 </div>
-<div type="chapter" n="9">
+<div type="section"  n="9">
 <p>IX.</p>
 <p>Plecarea.</p>
 <p>— Cine vorbește acolo, de moarte? zise deodată o voce de după copaci. Andrei și Elena sări în picioare. Era Ioan Butnariu.</p>
@@ -573,20 +568,13 @@
 <p>După câteva momente, Elena prezentă logodnicului ei pălăria, și acesta-i mulțumi cu-n dublu sărut aplicat pe ambii obraji. Astfel pregătit, Andrei sări în căruța lui Ioan și plecă.</p>
 <p>(Urmare in numărul viitor).</p>
 <p>Em. Arghiropol.</p>
-<p>SIBILA.</p>
-<p>(Urmare).</p>
-<p>VI. Sibila ieșită din sânul bisericii.</p>
-<p>Cu toate acestea generoasa determinațiune a D-lui de Ferias în privința Missei O’Neil, de îndată răspăndită comentată în provincie prin limba cu întreit acu a D-nei de Beaumesnil, în genere facu puțină onoare judecății bătrânului marchis, și nu făcu mai multă nici preotului, însemnat ca complicele său. Însă trebuie a conveni, că lumea, care delocu nu intră în detalii și care judecă lucrurile din punctul de vedere absolut, era scuzabilă ,de a găsi bizar și neregulat cel puțin pentru faptul, ce era în ast moment supusa apreciaței sale. D-nul de Ferias, el însuși, odată cea întâi mișcare a entuziasmului său liniștită, luă în băgare de seamă cu o adevărată incertitudine responsabilitatea, cu care el se însărcinasă dând nepoatei sale o instructiță eretică. Cât pentru preot el avu, pe deasupra bănuielilor publicului și neliniștea conștiinței sale, dezagrementul de a primi la astă ocaziune complimentele împăciuitorului ăstui canton, bătrân, de o credință rece, care considera pe Voltaire ca pe un D-zeu, a cărui profet părea a se crede.</p>
-<p>Două sau trei zile după sosirea Missei O’Neil, abatele Renaud se ducea la castelul de Ferias, și în drum, avu nenorocirea de a suferi laudele ecuivoace a magistratului volterian. El își urmă drumul, fruntea plecată, și întâlnind pe marchiz făcea preumblarea de dimineață într-o alee de castani, și încredință oare întristarea și remușcările sale.</p>
-<p>-Domnul meu amic, îîi răspunse D. de Ferias, te pot încredința că și eu nu mă găsesc într-o situație fericită, aud că și d-neata supărătoare murmure a opiniunei, convin și eu că sufragiul împăciuitorului e o simtomă de o rea natură, în adevăr, după tristețea amiclior noștri, aceea de care noi trebuie mai mult să ne temem, zice înțeleptul, este bucuria inamicilor noștri. Dar numai puțin, scumpul meu abate, voi ține pe Miss O'Neil, căci în cursul îndelungatei mele vieți am remarcat, că inspirațiunele inimei, mult mai grele de urmat decât acele a unei prudenți egoiste și banale, sunt totdeauna defăimate de lume, dar adeseori binecuvântate de Providență. Însă trebuie să ne ajutăm unul pe altul pentru ca Dumnezeu să ne ajute, și noi datorim a nu neglija nimica, D-ta și eu, demnul meu amic, pentru ca să ieșim cu glorie din delicata tentativă în care ne-am angajat, adică pentru a menaja Sibilei o educație foarte și variată ce Miss O’Neil pare foarte capabilă de a i-o da, mănțiind totodată copila în toată integritatea credinței părinților săi.</p>
-<p>Pentru a ajunge mai sigura asta dublu scop, și de și după ani trebuie încă să se strecoare înaintea epocii fixate pentru cea întâi comunicare a Sibilei, fu convenite, că abatele Renaud va începe chiar în acea zi o serie de conferinți având pentru obiectiv de a așeza pe base nemișcate ortodoxia d-celei de Ferias. Împreună și Miss O’Neill va proceda fără pericol, trebuia să se flateze cu asta la cultura intelectuală și morală a Sibilei — Ana. Miss O’Neil se va conforma cu fidelitate,— D-nul de Ferias nu se-ndoia despre asta un singur moment, — La recomendația formală ce-i fusese dată de a nu trata niciodată chestiunele religioase cu eleva sa decăt din puntul de vedere a moralei generale; dar dacă în fine, — căci trebuia a se prevedea totul, — Miss O’Neil, înșelând dureros speranțele D. de Ferias și cedând la mânie de proselitism, ce caracterizase secta sa, ar cuteza într-o zi să scoată din buzunarul ei o Biblie și să intre in polemică, abatele Renaud nu va fi el acolo, totdeauna cu luare aminte, îngrijit chiar, gata a constata de la primele apariții rătăcirea Missei O’Neil?</p>
-<p>D-nul de Ferias pe lăngă aste precauțiuni alătura și aceea de a asista regulata câtva timp la lecțiunele Irlandezei sau marchisa să-i ție locul; dar nu zebăvi a se îngreuna de o preveghere ce-i păru totodată zadarnică și-njurătoare, cu cât el mai bine putu aprecia, în intimitatea vieții comune, caracterul cu scrupulositate onestă a Missei O’Neil. — In adevăr, zicea marchisul, mai degrabă mă pot aștepta să văd delicatul lacom vârându-se de odată intr-o mlaștină glodoasă ca cel mai de nimic animal din curțile noastre, decăt să mă tem de umbra unei urmări viclene din partea Augustei-Mary. — Astfel era convincțiunea marchisei, și astfel și însuși a preotului. Asti trei onesti oameni, scapați atunci de toată ne-ncrederea, ce turmenta conștiința lor, putură a se bucura cu o ripire fără amestec de zborul ce lua puțin câte puțin fericitele facultăți a Sibilei sub bagheta feerică a Missei O'Neil. În adevăr, astă rară inteligență se-nalța spre lumină , cu o ardoare ce nu ar fi fost fără pericol dacă n-ar fi fost temperată și povățuită de un gust sigur și de o metodă prudentă; dar Miss O’Neil era la culmea îndatoririi sale.—A-și putea sporindu-i încă puțin învățăturile, se făcu o minune, zicea ea D-nului de Ferias; dar îmi place mai bine să o rețin și să o facem deosebită. La care cu toate aceste nu voi avea mare merit, căci ast mic cap cu părul de aur e ca o colivie plină de păsări impaciente, cărora n-am decât o osteneală de a le da zborul.</p>
-<p>D-nul și D-na de Ferias, încântați de zelul și progresul nepoatei lor, nu se aplaudau mai puțin de plăcuta schimbare ce putură observa în caracterul ei din ziua in care studii positive și regulate ocupase cugetarea sa. Fără să-nceteze de a fi o fetiță cu o seriozitate și o dignitate demnă de însemnat, Sibila pierduse gustul acelor adânci și confuze cugetări, cărora ea se abandona altă dată cu o singulară plăcere, și care mai totdeauna răspândeau pe fruntea sa o melancolie necunoscută la vârsta ei. Frumosul ei râs copilăresc, fraged și tare ca cascadele pădurilor, înveselea atunci mai adesa echo a vechilor coridoare. Ea arăta încă adeseori în intimitatea familiei o plăcută dispoziție de spirit care se schimba căteodată în nebunie. Astfel de veselie, cănd zbucnea cu iuțeală la D-cela de Ferias, forma cu gravitatea obișnuită a fizionomiei sale, un contrast, ce nu era fără grație. Dacă nu ar fi fost îmblânzit de multa bunăvoință naturală, astă plecare a caracterului ei lesne ar fi degenerat în dispoziție satirică; căci Sibila, ca o mică vicleană din cele fine cum era, de sub măna ei înțeleaptă și liniștită, avea talentul de a înțelege cu o vie pătrundere nepotrivitele, ce treceau sub ochii săi. Gustul ei pur cunoștea numai decât ridicolul, precum o ureche delicată cunoaște disonanțele. Ea abia avea un creion în degete, și ast talent a spiritului său se descoperi în planuri informe, dar expresive într-un chip comic. D-nul de Ferias trebuie chiar într-o zi s-o dojenească destul de aspru la ocaziunea unui tablou de felul acesta în care, mustețele nevinovate a D-nei de Beaumesnil și nasul roman a cavalerului Teodor figurau în proporțiuni nesuferite.</p>
-<p>D-na de Beaumesnil cu toate că nu știa astă întâmplare, nu lua, fără îndoială, decât o prea slabă parte la plăcutele emoțiuni ce succesul instrucțiune! Missei O’Neil făcea să domnească în castelul de Ferias. Nu doar că nu era încredințată în inima ei, dacă se credea ceea ce spunea, că evenimentul înșelă prevederile sale; dar în adevăr se aflau oameni, care erau mai fericiți decât merita. Cu toate acestea nu-i bun sfârșit prin rele mijloace, și în fine cel de pe urmă cuvânt încă nu era zis. „Și vei vedea, părinte, că într-o zi sau alta are să se întâmple ceva nu știm ce; dar are să se întâmple ceva, care va smeri orgoliul Feriasilor, căci în fine bunul D-zeu e just, și nu ar fi dacă ar îngădui până în sfârșit o îndărătnicire așa de nesocotită, și o caritate așa de rău întrebuințată. Cât pentru D-neta părinte, nu te defaim, motivele D-tale erau pure,o știu: sperai a întoarce la credință pe astă, nenorocită creatură ; dar între noi vorbind, eu cred că speranțele d-tale sunt de mult pe apă in jos... hăi? Mărturisește sărmanul meu preot?“</p>
-<p>Protul adeveri. Cu sigurul instinct de</p>
-<p>Sumar : Condamnata. — Sibila. — Frumoase arie. — Voiaj în odaia mea. — Lumea Ilustrată.— Studiuri asupra dreptului. — Varietăți. — La un poet. — La.... Logogrifuri. — Aventură în drumul de fier. — Fraze ascunse. — Anunțuri.</p>
+</div>
+</div>
+            <div type="part" n="6">
 <p>CONDAMNATA.</p>
 <p>(Urmare).</p>
+                <div type="section" n="10">
+<p>X</p>
 <p>Toporașul căzut.</p>
 <p>După cum făgăduise seara era acasă. Achitându-se cu multă exactitate de comisionul lui, către Ion Butnariu, se grăbi a rămăne singur cu logodnica lui, sau mai bine zicând cu viitoarea lui pereche. Elena din parte-i nu dori mai mult: însă cu toată buna lor voință, și cu toate silințile lor trebuiră să mai rabde. Toată lumea era acasă și-n picioare; prin urmare nu era chip să se ascundă de privirile uimănui. Cu toate aceste mulțumită nenumăratelor mijloace ce amorul totdeauna dă inimilor ce-l poartă, ei găsi în de-ajuns o casiuni, pentru a-și strecura la ureche căteva vorbe pe furiș, care s-ar fi putut ghici nu mai d-un ochi bine exersat de pe roșeața vie ce colora obrajii fetei, de căte ori s-apropie prea mult de Andrei. În fine cum făcuse, cum drese, nu putem afirma tocmai pozitiv,— amorul are pre multe cămări, ca să putem străbate pe toate. Totul este că, pe la miezul nopții o fereastră de la odăița din fund tot încetișor, ș-o figură apăru atunci senină ca și luna, ce tocmai atunci trecând printr-un nouraș să fixas în fața ferestrei și ca și cum n-așteptase a decât acest magnet pentru a scăpa de sub vălul ce-o ascunde.</p>
 <p> Mai în același timp Andrei se prezentă la fereastra deschisă.</p>
@@ -611,7 +599,7 @@
 <p>— Te iubesc! zise acesta co voce tulburată. </p>
 <p>— Andrei, iubitul meu Andrei! zise Elena, după căteva momente, c-o voce întreruptă, e seama să nu calci în picioare, toporașul ce a căzut!</p>
 </div>
-<div type="chapter" n="10">
+<div type="section"  n="11">
 <p>XI.</p>
 <p>Doliul.</p>
 <p>A doua zi mama Rucsanda, care se sculase mai dimineață decât toți în casă; se miră foarte mult găsind pe Elena dormind încă, cănd de ordinar ea se sculă de la toacănit. Un cerc vânăt se desemna împrejurul pleoapelor junei fete, a cărei somn se părea foarte tulburat, de niște tresăriri provocate poate de oarecare vise urâte. Dar ceea ce miră mai mult pe bătrâna Rucsanda iara fereastra deschisă, pe care se strecura un dulce vuiet de primăvară ce se juca cu veselie în părul auriu al Elenei, ș-apoi pălăria lui Andrei ce zăcea jos lăngă pat. Cu toate aceste, buna femeie se păcii foarte mult, de-a strica somnul fetei, precum și d-a cerceta cauzele acelei dezordini, ea se mulțumi d-arunca pălăria afară, și d-a închide fereastra încetișor, după care se retrase și ea singură.</p>
@@ -624,7 +612,7 @@
 <p>Zilele nu mai treceau cu acea repeziciune și căldura de altă dată, o răceală de gheață abia le mișca. Soarele ce strălucea a doua zi nu mai aduce dulceața și speranța, pierdută d-acele trei inimi atât de sfășiete; fiece raze a lui sporeau și mai mult acel deșert crud, care ne spune că neantul nu-ntoarce niciodată ce a primit. În fine luna lui Mai sosi, și cu dânsa drept orice flori sau zâmbete veni destrucțiunea generală. Adiere velitului care altă dată transmite din eco în eco, vocea veselă a omului, acuma îngâna tristul sunet al clopotelor, brazdele verzi se răsturnau pentru ca să primească în sânul lor pe cei care, cu o zi în urmă poate, făcuse dintâi mai, pe acea iarbă ce va înveli mormintele lor! Într-un cuvânt, Iașul infățișa o tristă priveliște; ar fi zis cineva că în acest oraș nu se respira decât moartea! Lumea spăimântată, fugea care pe la vii, care pe la țară, în fine o completă pustiire se vedea în toate părțile.</p>
 <p>Ioan Butnariu mărturisi la toate aceste, și care văzuse căzând ca spicele împrejurul lui, amici, cunoștiințe și vecini, se hotărî și el a se retrage la vie, cu tinerii lui tovarăși. Ideea fu comunicată lui Andrei și Elenei, care plecară chiar in acea zi; dar Butnariu rămase tot în oraș până în a doua-zi dimineață, ca să pregătească toată proviziunea de care puteau să aibă nevoie, pe cât timp vor sta la vie.</p>
 </div>
-<div type="chapter" n="11">
+<div type="section"  n="12">
 <p>XII.</p>
 <p>Moartea lui Andrei.</p>
 <p>Pe când viața noastră e atăt de bântuită, de fiece evenimente ce se repetă, natura, ce-și urmează cursul ei regulat. Ziua următoare doliului se ivi pe orizont tot în aceleași haine strălucitoare ca și după o noapte de bal. În fiece raze a soarelui se vedea ca și altădată, focul scănteietor si plin de viață, aerul era tot așa de parfumat și voluptos ca ș-acel de ieri, răndunelele precum și toate celălalte păsăerici veneau și se duceau, făcându-și cuiburile lor prin crengile cele mai stufoase, de unde trimiteau plăcuta lor ciripire. Toate în fine păreau un zâmbet al primăverii.</p>
@@ -661,20 +649,12 @@
 <p>— Moș Ioane!.... moș Ioane!.... Andrei moare!.. vino în ajutorul nostru!..</p>
 <p>(Urmare în numărul viitor).</p>
 <p>Em. Arghiropol.</p>
-<p>SIBILA.</p>
-<p>(Urmare).</p>
-<p>VII. Barca.</p>
-<p>Cele întâi zile de toamnă sosise: într-o duminică, D-nul și Doamna de Ferias care pândeau în acea zi la parohie, trimisese îndărăt trăsura, cu ordin, să vie a-i lua după vicernie. Câteva minute înainte de ora indicată, trăsura se oprea, după obicei, în singura uliță a satului; Sibila se pogorî din trânsa. Ea profitase de întoarcerea trăsurii, ca să vie să admire de pe înălțimea stăncelor unul din marele refluxuri a anului, a cărui efect trebuia să fie îndoit de violentul uragan care din o parte a nopții vuiau cu turbare pe coastă. Copila, cam slabă, urca cu osteneală coasta stâncii; ajunse in vârf de tot gâfâind, și trecând sub zidul cimitirului, înaintă spre câteva stânci proieșite, care însemnau drumul cel mai aproape de țărmul mitrei. În mijlocul astor stânci, ea zări figura familiară a lui Iacob Feray: el ședea cu coatele pe genunchi, capul între mâini și privea marea. Sibila atinsă umărul. Nebunul, tulburat în meditațiunile sale, arunca o căutătură furioasă, care se îmblânzi de îndată ce o recunoscu: se trase puțin, ca pentru a-i face loc și apoi își reluă posa cu serenitate; Sibila se puse cu seriozitate lângă dânsul:—înaintea lor se întindea venetul ocean, vuind umflat, teribil; legioane de valuri, înălțând creștetele lor spumegânde, se precipitau pe stănci, și mușcau temelia cu confuze și sălbatice zgomote, la care s-amestecau plângerile pătrunzătoare a vuietului și în intervaluri câteva fragmente de psalmodii sfânte ce se ridicau din biserica vecină. Un gros cer de toamnă unde fugeau în dezordine grămădi de nori asemenea fumurilor de incendii săvârșea de a răspândi pe asta scenă un caracter de o melancolie și chiar de o desolație pătrunzătoare.</p>
-<p>După câteva momente de contemplațiune tăcută, Sibila luă încetișor una din mâinile nebunului, care inturnă îndată spre ea căutătura-i îngrijită.—Sărmanul meu Iacob, zise ea, suntem foarte nenorociți, Iacob Feray îi făcu din cap un trist semn de aprobare.-D-zeu ne-a părăsit, sărmanul meu Iacob! — Privirile lui Iacob s-ațintiră asupra ei cu o expresiune de profundă surpriză, — Și pe D-ta! zise el cu o voce groasă.—Da, m-a părăsit, răspunse copila.—Iacob fără a se scula se întoarse spre mica biserică, căreia îi arătă pumnul: apoi, dând din umeri se puse iarăși în prima sa atitudine. Sibila, strângându-și mantela pe pieptu-i ce tremura, s-afundă în posomorâta-i cugetare.</p>
-<p>Dar fu repede desceptată de strigătele unor femei, ce se auzeau îndărătul ei din partea cimitirului. Sibila se scula repede și vâsli mișcându-se c-un aer de dezordine și de spaimă mica grupă de credincioși, care neputând găsi loc în biserică, staționa după obicei lângă pragul pridvorului. Unii, erau suiți pe morminte, alții pe zidul cimitirului, și toți zirigeau spre luciul marii priviri pline de groapă și curiozitate. Sibila descoperi cu rând obiectul astei spaime; era o mare barcă de pescuire, care se ivea la unghiul unei stânci, și care părea a se lupta cu greutate contra violenței venturilor și a mării. Pierduse o parte din pânzele ei, și arată alte semne de adevărată primejdie chiar și pentru ochiul cel mai puțin exersat. Astă barcă trebuia să fie din oarecare port vecin, micul port de la Ferias neputând adăposti în dosul murelor grămădi de pietre uscate decât șalupe de acele mai mici, care toate se și refugiase acolo din ajun. Cu toate acestea însă de la Ferias putea oferi fără îndoială o siguranță relativă, grație unei serii de stânci și de locuri ce ajungeau la suprafața mării și care o închideau dintr-o parte, și-i formau, înaintându-se în marea, un fel de grămezi naturale. Deși acoperite pe trei părți de fluxuri, astă linie de stânci și bănci de nisip nu proteja mai puțin acest punct al țărmului în contra valurilor mării. Acesta era punctul cel mai de aproape ale astor șiruri de stânci, pe care barca ce era în vedere se silea de a pluti în ast moment, cu intențiune învederată de a căuta în portul de la Ferias singurul refugiu, ce de aici înainte putea spera.</p>
-<p>Dar la vuietul evenimentului biserica fusese deșertată, o mulțime zgomotoasă, în mijlocul căreia figura însuși preotul; investit încă de ornamentele cultului, se grămădea pe marginea stâncii, și comenta cu aprindere manevrele disperate a bărcii în pericol. Atunci se vedea lămurit cei trei sau patru oameni ce erau în ea, unii silindu-se a așeza rufele de pânză, ce le mai rămase, ceilalți părând a deșerta găleți pe deasupra marginilor, toți dezvelind o activitate convulsivă. Se credea chiar din când în când, că s-ar auzi strigătele lor. D-nul de Ferias și preotul, profund mișcați de acest spectacol rugară pe pescarii satului de a pune o șalupă pe mare, de a cerca să dea ajutor astor nenorociți; dar cele mai liberale promisiuni a marchisului nu izbutiră; cea mai bună luntre din port se răspunse, ar fi întors în loc și răsturnat pe un timp ca acela; tânguiau pe acești nenorociți oameni, dar nu voiau să se piardă cu dânșii.</p>
-<p>De o bună jumătate de oră, barca primejduită se menținea cu multă osteneală la înălțimea micului cap fără a-l putea trece, cănd deodată două sau trei mișcări mai fericite o duseră dincolo de astă margine fatală, care singură părea a o desparte de salvare.Se auzi pe stâncă un țipăt de bucurie, care după un moment se schimba într-o exclamație de teroare și milă : barca fu aruncată chiar pe vârful capului. În timp de două sau trei minute, ea se izbi înfricoșată cu partea d-indărăt și cea mai de jos de ascuțișurile stăncoase, care însemnau marginea vadului; apoi sări cu un val, și pica iute pe coastă ca un animal lovit, și nu se mai ridică. Ea nu fu ferită de o sfărâmare imediată decât prin câteva șiruri de stânci invizibile între care quilla ei părea a fi încurcată; dar fiecare lovire a mării care atunci o izbea, acoperind-o de spume, părea că trebuie să ia lucrurile plutitoare. În mijlocul acestei dezordini, se puteau încă distinge oamenii echipajului, unul din ei culcat pe parmaclăc de pe marginea podului ceilalți animați de catarguri. Nu mai rămăsese decăt de a dori un grabnic deznodământ la agonia ăstora infortunați, pierduți pe astă ruină între abisul clocotind, care-i despărțea de țărm și posomorâta întindere a oceanului pe care se răspăndeau deja umbrele serii.</p>
-<p>Printre mulțimea, care asista din înălțimea stăncii la astă crudă dramă,- se făcusă tăcere: nu se auzea altă decât plânsetele a căteva femei. Una din ele zise deodată cu o voce tare și pe un ton rugător: — Domnule preot domnule preot! — Cugetarea ei fu îndată ințeleasă, un murmur de aprobațiune se auzi apoi toți oamenii își descoperiră capetele și mai toți îngenunchiară. Sibila, care urmărise cu toată ardoarea sufletului său cele mai mici detailări a astei scene, fu minunată de caracterul imposant ce lua deodată simpla fizionomie a bătrânului preot. El se suise pe stânca pe care ea însuși șezuse câteva minute mai înainte: vântul îi agita pe frunte-i pârul său sur, și palidul lui obraz, întins spre ceru.</p>
-<p>Sumar: Condamnata. — Banditul Chirtoacă.— Toader și Maria. — Catedrala din Florența. — Memoarele mele sau eu în persoană. — Fetele de Marmură.— Logogrifu.— Pe un album. — Un vis. — Sibila. — Studii asupra dreptului. — O aventură la drumul de fier. — Fraze ascunse. — Anunțuri.</p>
+</div>
+            </div>
+ <div type="part" n="7">
 <p>CONDAMNATA.</p>
 <p>(Urmare).</p>
-</div>
-<div type="chapter" n="12">
+<div type="section"  n="13">
 <p>XIII</p>
 <p>Mărturisirea</p>
 <p>Moartea neașteptată a lui Andrei, căzu ca un trăsnet, în mijlocul fericirii la care s-aștepta Elena. Lovitura era cu atât mai crudă, cu cât ea unea tot ce putea s-o facă mai bine simțită. Ea iubea pe Andrei, cu toată pasiunea și puterea unei inimi așa de simțitoare ca a ei; ea sperase la unirea lor pentru totdeauna și mai înainte c-această unire să fie îndeplinită, să vadă din nou condamnată de soarta-i fatală, la o viață mai amară decât totdeauna; acuma nu mai era o copilă, ca să nu înțeleagă toată greutatea poziției în care se găsea: străină, fără niciun mijloc de viețuire, zdrobită pănă în cele mai adânci simțiri ale ei; unde va merge ea? Și ce scuză va da fructului ce  lăsase Andrei în sânul ei?</p>
@@ -699,7 +679,7 @@
 <p>— Pentru că acest timp, v-aduce curând ziua în care voi fi mumă fără să fi fost soție! răspunse Elena năbușind-o lacrimile, ș-acoperindu-și figura cu mâna, spre a-și ascunde roșeața ce se suia pe frunte ca o pată ce nu putea înlătura.</p>
 <p>O tăcere de moarte succedară acestor vorbe, în care timp nu s-auzeau decât suspinele înecate a nenorocitei.</p>
 </div>
-<div type="chapter" n="13">
+<div type="section"  n="14">
 <p>XIV. Reperațiunea.</p>
 <p>În tot cursul istorisitei noastre, de câte ori a fost vorba de Ion Butnariu, am trecut foarte ușurel asupra lui, fără a-l considera mai cu de-amănuntul; pentru că alte evenimente mai proaspete trebuia să fie narate mai întâi. Dar astăzi, credem c-a sosit timpul, în care urmează să ne alăturăm cât se poate mai mult de această bătrână cu figura blândă și cu inima îndurătoare.</p>
 <p>Ion Butnariu, pe la epoca holerii din 1848 avea vârsta de cincizeci și trei ani trecuți. Viața lui toată o petrecuse în holteie. Deviza i-a fost munca, și niciodată nu s-a gândit a străbate în dulcele și fermăcătoarele secrete ale amorului, cu atât mai mult acum, când supusa pasiunii cunoscută la vârsta matură, căta cum să-și asigure un trai bun pentru bătrânețe.</p>
@@ -708,7 +688,7 @@
 <p>D-zeul meu! ce de mai speranță pe care omul de atâtea ori le pierde, fără să se învețe a nu mai conta pe ele!</p>
 <p>Cu toate acestea optzeci de ani se strecurase, în care timp gospodăria lor n-avusese cea mai mică vijelie, afară de pierderea copilului ce Elena născu mort; eveniment ce dispăru în ghiarele timpului, precum se împrăștie un nouraș după ploaie în dulcele senin.</p>
 </div>
-<div type="chapter" n="14">
+<div type="section"  n="15">
 <p>XV.</p>
 <p>Un obicei ciudat.</p>
 <p>-Unde mi-ai fost leli Casandră ?</p>
@@ -779,11 +759,13 @@
 <p>Acolo în sat era un flăcău anume Toader fiu a unui gospodar fruntaș care se căsătorise cu o frumoasă fată de la Apus și era fericită. Intrând în gospodărie, el avea nevoie de un tovarăș care să-l ajute în afacerile lui precum și in amănunțimile casnice. El sfătuia pe Filip să cerce norocul; căteva mii de dolari era tot capitalul ce se cerea.</p>
 <p>Filip avea șapte mii de dolari în fonduri publice; vându tot, scutura colbul de pe picoarele lui părăsind mitropolia mare, și in mai puțin de 15 zile răspunse amicului în persoană la scrisoarea lui.</p>
 <p>Virgina Moor simți lipsa plăcutei companii a vărului ei, precum și profunda lui adorațiune cu care era obișnuită; însă un bogat Spaniol, bătrân și slut, venise la târg și ea se găsea înconjurat de concurenți. Să părăsim pe Virginia Moor, și să ne întoarcem la acea singurătate de l-apus unde oarecare fetițe părea mai fermecătoare în rochia ei de merinosu albastră, și cu ghirlanda ei de flori sălbatice, decât cealaltă gătită cu toate diamantele ei.</p>
-<p> (Em. Arghiropol</p>
+<p> (Em. Arghiropol)</p>
+</div>
+ </div>
+            <div type="part" n="8">
 <p>CONDAMNATA.</p>
 <p>(Urmare).</p>
-</div>
-<div type="chapter" n="15">
+<div type="section"  n="16">
 <p>XVI.</p>
 <p>Bețivului și dracu iese cu oca înainte.</p>
 <p>Ilie era unul din acele caractere îndereptnice și zburlite, după cum zic românii, care neavând îndestulă putere asupra lor, se depărtează de orice rațiune, pentru a se da cu totul pasiunilor ce le domină. Totdeauna supuse, temperamentului lor furtunos, mai curând se aplică la rău decât la bine. Dacă ele bubuiesc, atunci când nimeni nu le atinge, apoi ce trebuie să fie când mai sunt și zădărite?</p>
@@ -800,7 +782,7 @@
 <p>— Nu da, căci precum ai zis, dacă venim rar, nu ne ducem niciodată de la d-neata, pănă ce nu ne-am odihnit bine o noapte întreagă. Dar ia spune-mi dacă-i slobod câinele, a cărui prieteșug cu toate silințele mele, nu l-am putut căpăta ?</p>
 <p>— E legat, n-ai grijă. Apoi tot era să închid dugheana; face-ți împrejur, că vin îndată pe dindos, să vă deschid poarta. După căteva momente, poarta scârțâi pe țiținele ei, și drumeții intrară într-o ogradă, în cuprinsul unei îngrădituri de o înălțime destul de considerabilă. Răscoliră fânul din căruță, la care fu legat calul, apoi intrară în odaie, unde nu târziu îl însoți Ilie, care depuse pe masă, pâine, uscături și vin. Mai înainte însă de a se așeză la masă, Ilie trecu în ogradă și după obicei dezlegă câinele, care cel puțin din partea lui, se împăca cu caracterul stăpânului său, care-l iubea de rău ce era.</p>
 </div>
-<div type="chapter" n="16">
+<div type="section"  n="17">
 <p>XVII</p>
 <p>Dorința lui Ilie se îndeplinește, mai mult decât nu se aștepta el singur.</p>
 <p>Oaspeții atât de bine primiți de către Ilie, erau, un bătrân cu părul și barba sură de tot, în vârstă ca de șaizeci ani, și o femeie cu figură gălbie și osoasă, ce nu putea să aibă mai mult de patruzeci pănă la patruzeci și doi de ani. Așa pe deasupra, se arătau oameni de încredere și de bună prietenie. Purtarea lor cu Ilie, proba legăturile unei vechi cunoștințe.</p>
@@ -843,7 +825,7 @@
 <p>— Afurisit câine turbat ca și stăpânul său! zicea cu jumătate voce Ioan, târând cadavrul ucisului către unul din colțurile odăii. Ascultă Elenă, reluă el tare, oprindu-se puțin din operațiunea lui; ascultă, ce s-a făcut, s-a facut! nu-i vreme de pierdut; ia lumânarea și treci în dugheană la tejghea! mai înțeles?</p>
 <p>Poza acelui bătrân îngenuncheat, și cu mâinile rezemate de pieptul ucisului, cruzimea de omoritor ce era împrăștiată în toată ființa lui; îl făcea atât de îngrozitor, încât un tremur ș-o gălbeneală de moarte apucă pe biata femeie, care fără să zică un cuvânt, și asemenea unei fantome neînsuflețite, luă lumânarea de pe masă și trecu în dugheană.</p>
 </div>
-<div type="chapter" n="17">
+<div type="section" n="18">
 <p>XVIII.</p>
 <p>O Veghere nocturnă.</p>
 <p>Sunt câțiva ani acuma, un vestit politic și mare diplomat, de pe înălțimea tribunelor trimite Iașilor următoarea felicitațiune: voiesc să văd crescând iarbă verde pe străzile acestui oraș.</p>
@@ -906,7 +888,7 @@
 <p>— Alergă repede, după comisarul di-jurne, zise el soldatului. Spune-i că s-au intămplat un omor aici.</p>
 <p>Soldatul plecă la goană. În jumătate de oră casa lui Ilie se umplu. Pe când doctorii prin autopsie, constată starea cadavrului, din a cărui interior se probă că moartea urmase în momentele de beție; justiția din partea ei adună corpurile delictului, ca pe niște moaște ce urmau a fi invocate la timp de către ministerul public.</p>
 </div>
-<div type="chapter" n="18">
+<div type="section"  n="19">
 <p>XIX.</p>
 <p>Instrucțiunea Causei.</p>
 <p>Culpabilei aduși înaintea justiției, era bătrânul și femeia găzduiți de Ilie.</p>
@@ -938,17 +920,13 @@
 <p>Res. Nu voiam să fugim, dar ne era frică și ne ascundeam.</p>
 <p>Din toată instrucțiunea făcută, noi reproducem aici, numai ceea ce poate interesa cursul istoriei noastre, și pe cât ne putem aduce aminte, după doi ani de cănd am auzit o verbală repetată de mai multe guri; totul este, că delictul fiind de natura acelor atribute juriului, cauza se trimise înaintea camerei de punere sub acuzațiune; iar pe acuzați la casa de opreală a curții de apel din Iași.</p>
 <p>(Urmare in numărul viitor), Em. Arghiropol.</p>
-<p>Banditul Chir-Toacă.</p>
-<p>(Urmare.)</p>
-<p>II.</p>
-<p>Prinderea.</p>
-<p>Pe moșia Baimaclia, se găsește o întinsă pădure, cu ascunse poieni, pe care banditul nostru  cunoștea ca pe degete. Era de multa acuma, că acele locuri nu revăzuse pe fiara lor sălbatică. Cu toate aceste, D. Prunca urma a se ține în brava și stăruitoarea sa hotărâre. Tot satul Baimaclia avea ochiul la pândă, și cea mai mare parte din locuitori cunoșteau figura omului lor. Însă banditul, era prea abil în întreprinderile lui, ca se poată fi, așa ușor prins.</p>
-<p>Furtul și omuciderea, nu se poate ascunde niciodată. Făptuitorul mai curând sau mai târziu, tot cade în mâinile</p>
-<p>Sumar. Condamnata.—Familia Luntrașului— Studii asupra dreptului. — Călătorii in Insulițe Ioniene.— Jam'era de a trăi bine in lume.-—Varietăți: Fidela baladă.—Enigmă.— Fraze ascunse. — Acte de mulțumire.</p>
-<p>CONDAMNATA.</p>
 </div>
-<div type="chapter" n="19">
-<p>(Urmare.) XX.</p>
+            </div>
+            <div type="part" n="9">
+<p>CONDAMNATA.</p>
+<p>(Urmare.)</p>
+<div type="section"  n="20">
+<p>XX.</p>
 <p>O seară la penitenciar.</p>
 <p>Noi am văzut contrazicerea ce exista între cele depuse de bătrânul Butnariu și între faptele adevărat petrecute. Urmând spuselor de dânsu, Elena nu putea fi considerată decât de, partașe cu deplină știință la uciderea lui Ilie. Crima eră premeditată, și săvârșită cu cea mai mare stăruință; mai mult însă, Elena nu ccntestase deloc, incriminările aruncate asupra-i. Dacă ea s-ar fi găndit un moment măcar, la împrejurările care o incunjurau, negreșit ar fi luat pe bărbatul ei drept un nebun; dar ea nu s-a gândit la nimic altă decăt, a urma lui, oriunde, fie chiar și la moarte. Și pentru aceasta, avea rezoanile ei, adâncu săpate în inima și sufletul ei. Ion Butnariu fusese pentru dânsa, mai mult decăt un părinte. Nu era ea, acea femeie părăsită, în mijlocul unei lumi necunoscute: fără părinți, fără rude, fără amici?</p>
 <p>Nu era ea acea femeie prostituată, condamnată a purta veșnic pata dezonoarei ei? Și ce-i păsa ei dacă toată acea lume, privea astăzi la Ion Butnariu ca la un monstru! Ea nu va fi mai puțin respinsă din sânul ei, chiar dacă ar desminți pe protectorul său, și ar dovedi nevinovăția sa pană la evidențe! Pentru lume este de ajuns un cuvânt, pentru ca să trimită în întuneric pe nenorocitul asupra căruia a căzut.</p>
@@ -1035,16 +1013,12 @@
 <p>Ziua următoare aduse Elenei o nouă lovitură. Temniceriul venea s-o caute, spunăndu-i cu cea mai mare răceală, că bărbatul ei, Ion Butnariu, murise chiar în acea noapte.</p>
 <p>(Finitul in numărul 11).</p>
 <p>Em. Arghiropol.</p>
-<p>FAMILIA LUNTRAȘULUI (Urmare).</p>
-<p>IV. — Ben Perkins.</p>
-<p>A doua zi după înturnarea tatălui ei, Alisa Wild cercă noul ei degetar, punându-se la lucrul rochiei de merinos. Această rochie, și toate celelalte fără îndoială, erau tăiate după moda ce se purta cu patruzeci ani în urmă, scurte sub brațe; cu cingătoare pe talie; bască pănă la gât; cu mâneci largi crețe și scurte; o fustă strâmtă și fără malacof. Părul ei îmbelșugat, când nu-l lăsa să cadă în valuri de aur împrejurul gâtului, era strâns într-un fel ciudat care în cele din urmă se deosebea din găteala ei. Avea aerul unei frumuseți din timpul trecut. Neavând nici idee macar că moda veche s-a inlocuit cu baloanele de astăzi, după croială, ea adună, cei trei lăți înguste care, fiind încheiați, lăsa să se vadă frumoasele ei glezne, ca în acel moment, cu piciorușele încălțate în niște scarpi ce se arătau de sub rochia ei de bumbac.</p>
-<p>Filip Moor chiar de ar fi avut cât de puțină idee despre arta croitoriei și de avea modeluri după ce din urmă modă, tot nu arăta gazdei lui niciuna din acele schimbări, atâtu îi venea de bine și frumos așa cum era. Dar n-o lăsă să lucreze așa cu multă sârguință în acea zi. El dorea să cerceteze vecinătatea casei, și ea fu călăuzul lui gata și inteligenta.</p>
-<p>Ei apucară in pădure, uudc din timpu in timpu trăsnirea unui copacu, ce cădd, făcea un zgomot asemeni cu al tunetului; pentru că o mulțime de oameni se găseau puși la tăierea brazilor ca să facă o plută pe care Filip urma să se întoarcă la Centreville. Trebile lui nu-l ierta să șadă mai mult de trei sau patru zile, dar nu se grăbea deloc să plece, voia să pescuiască și să facă puțină vânătoare.</p>
-<p>Sumar. Condamnata. — Sibila. — Studii asupra dreptului. — Istro-Românii. — Moartea unei femei sarace. — Meditațiune — Judecata lut D-zeu. — Anecdote. — Amor«Z. — Note pentru Canto și Piano.</p>
+</div>
+            </div>
+            <div type="part" n="10">
 <p>CONDAMNATA.</p>
 <p>(Urmare și fine.)</p>
-</div>
-<div type="chapter" n="20">
+<div type="section"  n="20">
 <p>XXI.</p>
 <p>O consultațiune!</p>
 <p>Murind Ioan Butnariu, toată instrucțiunea procesului se întoarse numai în contra Elenei. Lucrurile merse astfel, pană ce ajunse înaintea juraților, și în ziua de nouă Mai 1867, ajunul zilei determinată pentru judecata ei, să văd chemată de directorile penitenciarului. Acolo în greun un om necunoscut Elenei, o aștepta. Era D-l Alccsandru Botezu, avocatul numit din oficiu pentru apărarea ei.</p>
@@ -1056,7 +1030,7 @@
 <p>— Mâine se vor sfârși toate! și suspinul ei se pierdu în glasul santinelei care tocmai se schimba.</p>
 <p>Mâine!.....Cât este de lung acest mâine, pentru acel care de doi ani de zile, n-a văzut la deșteptarea lui decât zidurile reci ale temniței sale!</p>
 </div>
-<div type="chapter" n="21">
+<div type="section"  n="21">
 <p>XXII.</p>
 <p>De câte ori ne apropiem noi de lucrul ce voim, și tocmai când trebuie să ne oprim, noi ne ducem.</p>
 <p>Dacă s-ar fi interesat cineva, putea să vadă de câtva timp pe unele străzi ale Iașului un ciudat personaj, Zicem ciudat în privirea portului său, care nu era nici ca acel care poartă românii noștri de țară, nici ca al târgoveților, cât despre figura lui, gălbie și slăbită, n-avea altceva mai de însemnat decât o nemărginită tristețe. Nimeni n-avea nicio cunoștință despre acest om rătăcitor care avea aerul a căuta ceva, fără cât numai un zidov de pe Bahlui, la care găzduise cu trei ani în urmă. Acel jidov, intrigat mai cu seamă de rublele ce necontenit ieșeau din buzunarul necunoscutului, puse toate silințele, și află că el este de peste Prut și că venise să caute o copilă pierdută cu numele Elena. În zadar cercetase el mai întâi cu bătrânul pascariu care îl adusese în Iași, și apoi singur, căci nu află nici o urmă care să-l pună pe cale a afla ceva despre acea copilă. Trei luni de zile șezuse el la acel jidov, apoi plecase iarăși peste Prut mai deznădăjduit de cum venise.</p>
@@ -1113,19 +1087,7 @@
 <p>De atunci nu s-a mai aflat nimic despre această condamnată. Bătrânul Simion află despre soarta Elenei, tocmai în momentul morții lui, din gura fetei Soltana, care mulțumită lecțiilor ce primise în penitenciarul de la femeia Ioana, scăpase numai cu o pedeapsă corecțională, și acuma devenise femeia nisiparului la care găzduise Simion. Moartea acestuia ne pune în neputință de a da, vreo știință despre nemânghiata Maria. Vom adăuga numai vreo căteva cuvinte, asupra băiatului Gavril, care totodată vor servi de exemplu la curiozitatea unora de o seama lui. Desele lui prezențe la diferite cauze criminale, avură urâtul efect, de a-l trage și pe dânsul în cursă. Toți acuzații achitați, în mintea lui necultivată erau ca scăpați de pedeapsă sau ca iertați, iar nicicum ca nevinovați. Astfel, într-o zi găsi cu cale, aș apropie un surtucu ce-i căzuse sub mână, dar asta-i aduse o inchisoare de câteva luni, după care băietul nostru făcu jurămănt, să nu mai aibă curiozitate de a vedea, nici bucuria nici mâhnirea altuia.</p>
 <p>(Reproductiune oprită.)</p>
 <p>Em. Arghiropol.</p>
-<p>SIBILA.</p>
-<p>(Urmare.) III. — Raul.</p>
-<p>D-șoara de Ferias nu era așa cu totul pierdută în rolul ei de providență casnică, încât să uite delicata chestiune personală care o aduce la Paris și care câta să se hotărască căt se poate mai în avantajul ei. Tocmai această chestiune o ocupa foarte din mai multe puncte de vedere. Cea întâi, că în ospelul de Vergnes ea se simțea înlănțuită la un fel de existență, care nu se potrivea nicicum cu plăcerile sale și care împiedică chiar libertatea afecțiunelor ei; ea vedea în mariajul său o eră de independență relativă, care i-ar permite de a dispune de sineși mai după plăcerea-i și de a se împărți câteodată între Paris și Ferias. Căsătoria pentru spiritul ei serios și puternic disciplinat se arăta mai mult ca o mare lege a vieții morale, ce trebuie să se îndeplinească la timp, pentru a scăpa de suferința ce simte cineva când este afară din calea adevărului și a ordinii. In fine și mai presus de toate, astă copilă serioasă purta în secretul inimei sale toate tinerele dorinți a femeii: nici distracțiunele Parisului, nici plăcerile intelectuale, cu gust în el, nici datoriile ce și le făcuse, nu fusese în stare a îndeplini toate dorințele ei, care sub forma unei liniște stăpânită, erau foarte vii, foarte simțitoare și foarte pasionate. Ea avea profunde tristeți a cărora dulceață molesitoare n-o putea respinge cu tot curajul ei. Izvorul acelor lacrimi misterioase, care le vărsase altădată în fântâna solitară de la Ferias părea a se fi deschis iarăși în ochii săi. Cu toate înfocatele închipuiri a vârstei sale, ea a fost format un tip eroic, căruia-i oferea, plângând de tandrețea purii flăcări, ea ardea în sânul ei. Și închipuise într-un fel vag o ființă demnă de aste sacrificiuri pregătite în sufletul său, și mâna sa se-ntindea, inima sa, suflarea și viața ei se repede către acel dulce ideal. </p>
-<p>Asemenea amoruri neexplicate ale tinerilor fete, sunt totdeauna sublimă, însă mai totdeauna aduc rezultate rele. Cel întâi om, ce muma lor le permite de a-l considera cu interes lesne înfățoșad  ochii lor, splendoarea visului lor; abia altarul le este arătat de o mână respectată, și inima lor, de demult preparat zboară acolo orbește, stă și se aprinde. Acele care sunt lăsate mai libere în alegerea lor nu sunt deloc mai dibace nici mai fericite; romanțul lor interior aruncă raze cam după întâmplare și adeseori acoperă cu o aureolă celestă, fruntea văsluitorului lor obișnuită.</p>
-<p>Sibila pe lângă viile sale simțiri de juneți posedă o fineță de judecată și o tărie de rezonamente care trebuiau s-o ferească de astă comună amăgire, care, trage după sine atât de amare suferinți; dar rarele calități a spiritului său, scăpând-o de ast pericol, păreau a o înarma cu o pătrundere și o neîncredere mai excesivă. Ea simțea că astă alegere, de la care vor atârna fericirea și dignitatea întregii sale vieți, se găsea cu desăvârșire lasată la înțelepciunea ei. D-nl și D-na de Vergnes cu toate că în adevăr au voit s-o ajute în astă cercare periculoasă, se păreau însă dirijați în apreciațiunea lor de niște motive atât de ușoară și atât de defectuoase, că ea hotărâse în secret de a nu se încrede decât în judecata sa proprie, sau cel puțin în consfătuirea Misei O'Neil. Contele de Vergnes, care se desfăta a defila înaintea nepoatei sale ceea ce el numea batalionul de pețitori, era cel întâi a acoperi de ridicol tot personalul acelui interesant legion; bănuiala Sibilei de greutatea ce arăta în alegere și lua în râs pretențiunele ei extraordinare.— Știi ce voiești, scumpa mea? îi zicea el; vrei un domn, care se fie frumos, avut, nobil, pictor, muzicant bun călăreț, de spirit și religios. Ei bine! în zadar vei căuta, căci nu vei găsi o asemene amestecătură!</p>
-<p>— E! D-zeul meu! nu! răspundea Sibila; nu cer atâta... vreuun om, pe care să-l iubesc, iată totul!</p>
-<p>— Ta! ta! ta! începea iarăși contele, ești o mititică nărăvită... Ce va să zică toate astea?... Să ne gândim la lume cum este ea, scumpa mea copilă... Iată natura, iată adevărul... Ei bine?</p>
-<p>— Ei bine! ce, bunule?</p>
-<p>— Ei bine! crezi d-ta, că Eva a făcut atâtea marafeturi?... D-zeul meu! îi prezentară pe Adam, care era un om de tot simplu,... cel întâi venit,.. și ea zise: „Foarte bine! Iată natura!</p>
-<p>Astfel de argumente, ce erau familiare contelui de Vergnes și care-l încântau profund, n-aveau decât foarte mică-nchipuire asupra sentimentelor și a ideilor D-celui de Ferias. Persoana și exemplul bunului său aveau mult mai multă putere de a-i inspira reflecțiuni, care adăugau încă tulburările sale. Afară de asta ea nu izbăvise a recunoaște, că obiceiurile matrimoniale a D-lui și D-nei de Vergnes n-aveau nimic excepțional, și că erau, în diverse grade, regulat stabilite în moravurile societății lustruite. Inima Sibilei se sfărma și rațiunea-i se revolta la cugetarea de a contracta una din aste însoțiri, a cărei fatală consecință părea a fi, după o perioadă de timp mai mult sau mai puțin îndelungată, un fel de incurcală reciprocă, de separațiune amicală și de divorț social.</p>
-<p>Supnâdu-se unei plecări caracteristice a superiorității spiritului, Sibila avea pătrunderea ideilor generale; ea nu-nceta dar de a generaliza observațiunile sale, poate peste măsură, și căutase în singularitatea astor căsătorii scandalizate o cauză generală, ce ia credit chiar a descoperi. Diversele probe de moravuri, ce culegea în cursul vieții sale in lume, câteva cuvinte, care profund o lovise în apărarea răzbunătoare a D-nei de Vergnes, și mai ales scumpele suvenire de la Ferias,— o ajutase puțin căte puțin a-și forma asupra ăstui misterios subiect o opiniune care nu era, departe de adevăr asta opiniune, în țări tă prin sancțiunea Misei O’Neil, luă în spiritul D-celei de Ferias o profundă statornicie și urma să aibă o influență mare asupra soartei sale. Ca să interpretăm aici cu oarecare concesiune, vom fi siliți de-a întrebuința un limbaj care nu putea fi acela a Sibilei, dar care cel puțin va arăta cu exactitate substanța astei cugetări.</p>
-<p>Unirea marchisului și a marchisei de Ferias in strinsa ei intimitate totdeodată plină de gravitate și plăcere, și mai multa restrânsă decăt destinsă de mâna timpului, imprimase în imaginațiunea sa un fel de tip ideal despre căsătoria creștină. Dacă cel mai mare număr din însoțirile, ce în toată ziua avea sub ochii săi lăsau să se vadă un caracter așa deosebit, nu era oare pentru că erau lipsite de singura legătură, ce nici cum nu părea legătura religiunii? Ea avea ceva din senzațiunea suflării materialiste, ce curge în vinele acestui secol, și de care societatea franceză, părea cu deosebire infestată. Ea vedea instituția căsătoriei persistănd ca o literă moartă de la care spiritul s-a retras: se căsătoreau pentru a se supune obiceiului, deprinderi, și pentru de a avea beneficiile unei situațiuni legale; era o rutină ce o urmau, dar fără convicțiune: se însoțeau cu un nume, o zestre, un loc, căteodată cu umere frumoase. Legături așa curate omenești nu puteau ține, și aste însoțiri se găsea fără-ndoială prin simpla posesiune a obiectului, ce le determinase.  În loc de a fi femeia d-tale, zisese D-na de Vergnes bărbatului său, n-am fost decât metresa d-tale de o zi!— Viața Parisului n-are îndestul respect pentru urechile și ochii junelor fete, pentru ca o astfel de vorbă să pice  în spiritul cel mai curat, Sibila o înțeleasă o ținuse minte și o comentase. Cât pentru dânsa, ea nu-nțelegea a fi metresa bărbatului său; ea voia a fi companioana sa iubită și fidelă în toată viața. Mai puțin amor i-ar fi sfâșiat inima și i-ar fi revoltat măndria. Ea-și zicea, că mariajul, pentru ca să poarte adevăratele sale fructe, trebuia să-și aibă rădăcini nu numai în cele două inimi ce el le unește dar și în religiune, care i-au instituat și care-l consacrează. Sentimentul religios, odată comun, fraternitatea credințelor înalte și a speranțelor eterne, singure puteau da slabelor amoruri din astă lume ceva din soliditatea și prelungirea amorurilor divine.</p>
-<p>Astfel erau pe scurt cugetările Sibilei, și, cum ea învățase a pune cu tărie în conduita sa tot ce credea just și bun, s-a fost determinat a nu se însoți decât cu un om, care cu seriozitate va fi de credința sa. Astă idee, care în sine poate nu era rea, avea defectul de a nu fi nicicum prea praticată și biata copilă o simți. De și ie dat timpului nostru de a respecta în câteva nume ilustre, alianța celor mai înalte facultăți a inteligenței și acelor mai fierbinți convincțiuni religioase, se poate zice că, în ordinea lumească, aste excepțiuni sunt atât de rare, pe cât sunt eminente, și că extrema emancipație a cugetării, spiritul de critică, de-ndoială, de negațiune,</p>
+</div>
 </div>
         </body>
     </text>
