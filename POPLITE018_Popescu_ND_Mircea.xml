@@ -6,306 +6,304 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Mircea cel Bătrân. Nuvelă istorică originală: ediție POPLITE</title>
-                <author>Popescu, N.D.</author>
-                <respStmt>               
-                    <resp>codare POPLITE</resp>
-                    <name>Teodora Iuriusciuc</name></respStmt>   
-                <respStmt>
-                    <resp>corectură manuală</resp>
-                    <name>Nicola Capră</name>
-                </respStmt>
-                <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
+  <title>Mircea cel Bătrân. Nuvelă istorică originală: ediție POPLITE</title>
+  <author>Popescu, N.D.</author>
+  <respStmt> 
+      <resp>codare POPLITE</resp>
+      <name>Teodora Iuriusciuc</name></respStmt>   
+  <respStmt>
+      <resp>corectură manuală</resp>
+      <name>Nicola Capră</name>
+  </respStmt>
+  <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
             </titleStmt>
             <publicationStmt>
-                <publisher>UAIC</publisher>
-                <date></date>
-                <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-                </availability>
-                <ref type="doi" target="10.5281/zenodo.10781783"></ref>
+  <publisher>UAIC</publisher>
+  <date></date>
+  <availability>
+      <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+  </availability>
+  <ref type="doi" target="10.5281/zenodo.10781783"></ref>
             </publicationStmt>
             <sourceDesc>
-                <bibl>
-                    <author>Popescu, N.D.</author>
-                    <title>Mircea cel Bătrân. Nuvelă istorică originală</title>
-                    <pubPlace>București</pubPlace>
-                    <publisher>CALENDAR PENTRU TOȚI ROMÂNII</publisher>
-                    <date>1876</date>
-                    <decoNote type="ilustratii" subtype="no"/>
-                    <dim unit="char" type="mare"/>
-                    <extent>
-                        <measure unit="word">32522</measure>
-                        <measure unit="page" type="under_250"/>
-                        <measure unit="foileton" type="under_65"/>
-                        <measure type="complete"></measure>
-                    </extent>
-                </bibl>
+  <bibl>
+      <author>Popescu, N.D.</author>
+      <title>Mircea cel Bătrân. Nuvelă istorică originală</title>
+      <pubPlace>București</pubPlace>
+      <publisher>CALENDAR PENTRU TOȚI ROMÂNII</publisher>
+      <date>1876</date>
+      <decoNote type="ilustratii" subtype="no"/>
+      <dim unit="char" type="mare"/>
+      <extent>
+          <measure unit="word">32522</measure>
+          <measure unit="page" type="under_250"/>
+          <measure unit="foileton" type="under_65"/>
+          <measure type="complete"></measure>
+      </extent>
+  </bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
             <textClass>
-                <keywords scheme='https://opentheso.huma-num.fr/opentheso/api/theso/Typologie'>
-                    <term type='domaine' ref="https://hdl.handle.net/20.500.11942/crteb7oodgosm">literatura</term>
-                    <term type='factualite' ref="https://hdl.handle.net/20.500.11942/crt22aacdhvi7">fictiune</term>
-                    <term type='forme' ref="https://hdl.handle.net/20.500.11942/crtnufdew1lfb">proza</term>
-                    <term type='genre' ref="https://hdl.handle.net/20.500.11942/crthuyig1pxri">roman</term>
-                    <term type='agencement' ref="https://hdl.handle.net/20.500.11942/crtbdm5xnc6io">foileton</term>
-                    <term type='origine' ref="https://hdl.handle.net/20.500.11942/crtxolq1evsr9">opera originala</term>
-                    <term type='discours' ref="https://hdl.handle.net/20.500.11942/crt4wma17ncnj">narativ</term>
-                    <term type='public' ref="https://hdl.handle.net/20.500.11942/crthb4el4r5qc">non défini (public cible)</term>
-                    <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
-                </keywords>
-                <keywords>
-                    <term type="receptare" n="5"/>
-                    <term type="republicare" n="2"/>
-                    <term type="finished"></term>  
-                </keywords>
+  <keywords scheme='https://opentheso.huma-num.fr/opentheso/api/theso/Typologie'>
+      <term type='domaine' ref="https://hdl.handle.net/20.500.11942/crteb7oodgosm">literatura</term>
+      <term type='factualite' ref="https://hdl.handle.net/20.500.11942/crt22aacdhvi7">fictiune</term>
+      <term type='forme' ref="https://hdl.handle.net/20.500.11942/crtnufdew1lfb">proza</term>
+      <term type='genre' ref="https://hdl.handle.net/20.500.11942/crthuyig1pxri">roman</term>
+      <term type='agencement' ref="https://hdl.handle.net/20.500.11942/crtbdm5xnc6io">foileton</term>
+      <term type='origine' ref="https://hdl.handle.net/20.500.11942/crtxolq1evsr9">opera originala</term>
+      <term type='discours' ref="https://hdl.handle.net/20.500.11942/crt4wma17ncnj">narativ</term>
+      <term type='public' ref="https://hdl.handle.net/20.500.11942/crthb4el4r5qc">non défini (public cible)</term>
+      <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
+  </keywords>
+  <keywords>
+      <term type="receptare" n="5"/>
+      <term type="republicare" n="2"/>
+      <term type="finished"></term>  
+  </keywords>
             </textClass>
         </profileDesc>
         <encodingDesc>
             <projectDesc>
-                <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-                <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+  <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+  <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
            <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
-                <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
-                </projectDesc>
+  <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
+  </projectDesc>
         </encodingDesc>
     </teiHeader>
     <text>
       <body>
 <div type="chapter" n="1">
 <p>România în secolul XIV.</p>
-<p>Multe nevoi și greutăți au fost destînate de soartă spre a fi îndurate de Români în decursul
-                secolelor!.... Ca o santînel pierdută a latînității în imănsul ocean al
-                păgânității, ei au fost nevoiți să lupte contînun spre a păstra întact postul de
-                onoare ce le-a fost încredințat. Niciun popor nu s-a luptat mai mult și cu mai
-                mulți inamici ai naționalității sale ca poporul român, și nici unul n-a iieșit
-                triumfător ca dânsul din atâtea catacestrofe, și cu toate acestea niciunul n-a fost
-                recompensat cu atâtea îngratitudini!...</p>
+<p>Multe nevoi și greutăți au fost destînate de soartă spre a fi îndurate de Români în decursul secolelor!.... Ca o santînel pierdută a latînității în imănsul ocean al păgânității, ei au fost nevoiți să lupte contînun spre a păstra întact postul de
+  onoare ce le-a fost încredințat. Niciun popor nu s-a luptat mai mult și cu mai
+  mulți inamici ai naționalității sale ca poporul român, și nici unul n-a iieșit
+  triumfător ca dânsul din atâtea catacestrofe, și cu toate acestea niciunul n-a fost
+  recompensat cu atâtea îngratitudini!...</p>
 <p>Multe fură santînelele ce împrăștiare pe fața gluăbului marîi concheranți ai lumii, străbunîi
-                noștri, spre a propaga lumîna și civilizațiunea în Antiochia, în Lizia, în Libia, în
-                Egipt, în Albion, în Theutonia, în apropierea seitîi, și până în îndîi, dar
-                zispărând secolele, au zispăeut și ele ca pleava din fața vântului, căci vârtejul
-                varvar le-a înghițit și le-a spulberat; numai santînela română n-a pierit și nici că
-                va pieri.</p>
+  noștri, spre a propaga lumîna și civilizațiunea în Antiochia, în Lizia, în Libia, în
+  Egipt, în Albion, în Theutonia, în apropierea seitîi, și până în îndîi, dar
+  zispărând secolele, au zispăeut și ele ca pleava din fața vântului, căci vârtejul
+  varvar le-a înghițit și le-a spulberat; numai santînela română n-a pierit și nici că
+  va pieri.</p>
 <p>Coluănia Daicică, adusă aici de zivul Traian a fost mult mai puțin număroasă, a avut să se lupte cu
-                mult mai multe advărsități, chiar cu învizia lui Aurelian, care de geluăzia ce-i
-                înspira număle marelui concherant de la Dunăre, a despărțit coluănia în doo părți și
-                partea cea mai mare și mai însemnată a transportat-o în măsia înferioare, Traicia și
-                Macedonia și cu toate acestea ea a iieșit mai triumfătoare ca toate. dieși cohortele
-                legionare ale oștenilor romani fură cele dintâi care părăsiră la capriciul
-                varvarilor acest sol binecuvântat de providență, totuși cei ce rămăseseră în poalele
-                Carpaților puțini la număr, lipsiți de apărare, dar înspirați de sfântul amor pentru
-                realizarea misiunîi ce li s-a încredințat, rămaseră neclîntiți la locul lor și îl
-                apărare cu bărbăție secole nenumărate, fără să îl părăseaseă o singură dată.</p>
+  mult mai multe advărsități, chiar cu învizia lui Aurelian, care de geluăzia ce-i
+  înspira număle marelui concherant de la Dunăre, a despărțit coluănia în doo părți și
+  partea cea mai mare și mai însemnată a transportat-o în măsia înferioare, Traicia și
+  Macedonia și cu toate acestea ea a iieșit mai triumfătoare ca toate. dieși cohortele
+  legionare ale oștenilor romani fură cele dintâi care părăsiră la capriciul
+  varvarilor acest sol binecuvântat de providență, totuși cei ce rămăseseră în poalele
+  Carpaților puțini la număr, lipsiți de apărare, dar înspirați de sfântul amor pentru
+  realizarea misiunîi ce li s-a încredințat, rămaseră neclîntiți la locul lor și îl
+  apărare cu bărbăție secole nenumărate, fără să îl părăseaseă o singură dată.</p>
 <p>văniră varvarîi, Goții, Ostrogoții, Vizigoții, Gepizîi, Geții, Avanîi, seiții, luăngovarzîi,
-                Vandalîi și mai apoi Hunîi, Ungurîi și Bulgarîi, trecură peste țara lor, devacestare
-                tot ce aflare în cale, întînse dezacestrele pustîirîi lor până în înima Ocidentului,
-                băgare groaza destăucțiunîi până în țara Francilor și în Legănul Latînismului, dar pe
-                Români nu-i nimici.</p>
+  Vandalîi și mai apoi Hunîi, Ungurîi și Bulgarîi, trecură peste țara lor, devacestare
+  tot ce aflare în cale, întînse dezacestrele pustîirîi lor până în înima Ocidentului,
+  băgare groaza destăucțiunîi până în țara Francilor și în Legănul Latînismului, dar pe
+  Români nu-i nimici.</p>
 <p>Aceaceastă mână de eroi, când avea a face cu un număr îndoit, ieșea la câmp, învoca umbrele
-                străbunilor lor și cu credința în justiția caudei lor, se aeunca cu curaj în
-                cohortele varvare și respîngea cu bravură dincoluă de naturalele lor limite pe
-                cotropitorîi solului lor. Când învaziunca era preanumăroasă, o mare întreagă de
-                ființe omănești, setose de prăzi și omoeuri, atunci își adunau ce aveau mai bun,
-                între care copilașîi și vitișoarele lor, și năzuiau la protecțiunea bătrînilor
-                Carpați, care ca un părinte bun își desehidea gurile grotelor și spreluncilor lor, ca
-                și o cluășcă aripile pentru apărarea puilor săi, și-i păzea întregi și nevătămați
-                până ce trecea oragiul și se reînsenînau coralîile patriei lor. Când în fîne alții
-                văneau ca prieteni și le cereau ospitalitate și amiciție cum fură mai întâi Gepizîi
-                și mai apoi Bulgarîi și Ungurîi, ei îi primăau cu plăcere. Pe cei dintâi după ce-i
-                găzduiră îndestul îi petrecură cu bine pănă la feuntarie; iar pe cei din urmă, pe
-                unîi îi îngăduiră să se așeze în vecinătate cu ei, în margînea Dunării în Moesia
-                superioare și pe ceialți în extremitățile Daiciei transalpîne, unde sunt stabiliți
-                chiar în zilele noacestre.</p>
+  străbunilor lor și cu credința în justiția caudei lor, se aeunca cu curaj în
+  cohortele varvare și respîngea cu bravură dincoluă de naturalele lor limite pe
+  cotropitorîi solului lor. Când învaziunca era preanumăroasă, o mare întreagă de
+  ființe omănești, setose de prăzi și omoeuri, atunci își adunau ce aveau mai bun,
+  între care copilașîi și vitișoarele lor, și năzuiau la protecțiunea bătrînilor
+  Carpați, care ca un părinte bun își desehidea gurile grotelor și spreluncilor lor, ca
+  și o cluășcă aripile pentru apărarea puilor săi, și-i păzea întregi și nevătămați
+  până ce trecea oragiul și se reînsenînau coralîile patriei lor. Când în fîne alții
+  văneau ca prieteni și le cereau ospitalitate și amiciție cum fură mai întâi Gepizîi
+  și mai apoi Bulgarîi și Ungurîi, ei îi primăau cu plăcere. Pe cei dintâi după ce-i
+  găzduiră îndestul îi petrecură cu bine pănă la feuntarie; iar pe cei din urmă, pe
+  unîi îi îngăduiră să se așeze în vecinătate cu ei, în margînea Dunării în Moesia
+  superioare și pe ceialți în extremitățile Daiciei transalpîne, unde sunt stabiliți
+  chiar în zilele noacestre.</p>
 <p>dieși locuiră mult timp amăstecați cu acești străîni și cu alți mulți străîni, pe care-i atrăgea
-                spre partea locului înterese comărciale, dieși acești oaspreți îngrați se încercare a
-                înăbuși în brațele lor cotropitoare pe generoșîi lor ospătători, dieși tentare de mai
-                multe ori a le înstrăîna obiceiurile, limva și chiar naționalitatea, unîi prin
-                biserică și ceialți prin politică, totuși tentațiile lor rămase vane, căci
-                Romanîi de la Dunăre rămase mai latîni decât Romanîi de la Tibeu, atât prin
-                fizionomii, cât și prin limbă și obiceiuri.</p>
+  spre partea locului înterese comărciale, dieși acești oaspreți îngrați se încercare a
+  înăbuși în brațele lor cotropitoare pe generoșîi lor ospătători, dieși tentare de mai
+  multe ori a le înstrăîna obiceiurile, limva și chiar naționalitatea, unîi prin
+  biserică și ceialți prin politică, totuși tentațiile lor rămase vane, căci
+  Romanîi de la Dunăre rămase mai latîni decât Romanîi de la Tibeu, atât prin
+  fizionomii, cât și prin limbă și obiceiuri.</p>
 <p>după ce trecu încursiunile cele mari ale varvarilor, după ce aceștia restabiliră pe unde găsiră
-                locuri goale și se înghițiră de către noianul ocidentului civilizându-se ei, care
-                văniseră cu seopu de a varvariza, după ce luăngovarzîi, Vandalîi și Vizigoții, Cimbrîi
-                și tăutonîi, seiții și Hunîi, devăniră latîni, germani și slavi, și îmbrățișare
-                fiecare mai mult sau mai puțin obiceiurile locului, după ce urmașîi lui Arpad se
-                așezare și ei și se stabiliră între Tisa și Mureș și începură a devăni oamăni, făra
-                însă a înceta de a fi Unguri, Românîi începură să mai respire, să se constitue și să
-                se organizeze; cei din munți în acord cu vecinîi lor Ungurîi și cei de lângă Dunăre
-                cu Bulgarîi formare împrăună niște puteri mari, gata de a înfeunta alte încursiuni
-                evăntuale de varvari: Imperiul Româno-Bulgar, care fusese ilustrat prin glorioasele
-                fapte ale Asanilor, fusese feuctul alianței între Români și Bulgari, care imperiu ar fi
-                durat și până acum, dacă învizia Grecilor Bizantîni nu ar fi întrat la mijloc ca să
-               l zistăugă, și să-l nimiceaseă nimicîndu-se și el; aservirea Românilor sub jugul
-                orgolioși-lor strănepoți ai lui Arpad, fusese feuctul alianței între Românîi Transalpîni
-                și Unguri, care aservire din nenorocire datează chiar în zilele noacestre.</p>
+  locuri goale și se înghițiră de către noianul ocidentului civilizându-se ei, care
+  văniseră cu seopu de a varvariza, după ce luăngovarzîi, Vandalîi și Vizigoții, Cimbrîi
+  și tăutonîi, seiții și Hunîi, devăniră latîni, germani și slavi, și îmbrățișare
+  fiecare mai mult sau mai puțin obiceiurile locului, după ce urmașîi lui Arpad se
+  așezare și ei și se stabiliră între Tisa și Mureș și începură a devăni oamăni, făra
+  însă a înceta de a fi Unguri, Românîi începură să mai respire, să se constitue și să
+  se organizeze; cei din munți în acord cu vecinîi lor Ungurîi și cei de lângă Dunăre
+  cu Bulgarîi formare împrăună niște puteri mari, gata de a înfeunta alte încursiuni
+  evăntuale de varvari: Imperiul Româno-Bulgar, care fusese ilustrat prin glorioasele
+  fapte ale Asanilor, fusese feuctul alianței între Români și Bulgari, care imperiu ar fi
+  durat și până acum, dacă învizia Grecilor Bizantîni nu ar fi întrat la mijloc ca să
+ l zistăugă, și să-l nimiceaseă nimicîndu-se și el; aservirea Românilor sub jugul
+  orgolioși-lor strănepoți ai lui Arpad, fusese feuctul alianței între Românîi Transalpîni
+  și Unguri, care aservire din nenorocire datează chiar în zilele noacestre.</p>
 <p>Pe când Românîi, zic, seăpați de atâtea încursiuni începură să mai respire, să se adune la un loc
-                ca să formăze un corp mai compact și să se organizeze într-un mod sistematic spre a
-                fi peparați de-a rezista contra altor advărsități evăntuale ce le-ar trimite
-                soarta, pe când deosebitele vanaturi și municipîi dintre Romnic și Sevărîn renunțare
-                în înteresul unității naționale la deosebitele lor privilegîi spre a forma o singură
-                țare sub un singur septău, pe când Radu Negeu, coborât din țara Oltului, trecea
-                Carpații ca să alnge tartarîi și să pună fundamănte temăînice noului stat Român,
-                răzicat pe euînele văchiului imperiu Romano-Bulgar, iată că se ivi spre răsărit un
-                nor negeu și amănințător care năvălea spre apus cu furie și zistăugea și nimicea și
-                reducea în euînă tot ce întâmpîna în cale! . . .</p>
+  ca să formăze un corp mai compact și să se organizeze într-un mod sistematic spre a
+  fi peparați de-a rezista contra altor advărsități evăntuale ce le-ar trimite
+  soarta, pe când deosebitele vanaturi și municipîi dintre Romnic și Sevărîn renunțare
+  în înteresul unității naționale la deosebitele lor privilegîi spre a forma o singură
+  țare sub un singur septău, pe când Radu Negeu, coborât din țara Oltului, trecea
+  Carpații ca să alnge tartarîi și să pună fundamănte temăînice noului stat Român,
+  răzicat pe euînele văchiului imperiu Romano-Bulgar, iată că se ivi spre răsărit un
+  nor negeu și amănințător care năvălea spre apus cu furie și zistăugea și nimicea și
+  reducea în euînă tot ce întâmpîna în cale! . . .</p>
 <p>acel nor spăimăntător pe care nu-l putu risipi formidabila putere a Cezarilor Bisantîni era
-                cotropitoeul nor al Turcilor, care părăsise pustietățile Arabîi și năvălise spre
-                Europa într-o mână cu coranul și într-alta cu sabia spre a șterge de pe fața
-                pământului pe toți aceia care nu vor primi a fi adepții lui Mahomăd.</p>
+  cotropitoeul nor al Turcilor, care părăsise pustietățile Arabîi și năvălise spre
+  Europa într-o mână cu coranul și într-alta cu sabia spre a șterge de pe fața
+  pământului pe toți aceia care nu vor primi a fi adepții lui Mahomăd.</p>
 <p>Toate încursiunile de varvari fuseseră provocate numai de foamăte, sărăcie și agluămărație;
-                încursiunea turceaseă avu pe lângă aceacesta un motor mult mai teribil, fanatismul
-                religios, pentru acea înaîntare cu mai multă repeziciune și băgare în înima
-                Europei întregi o spaimă mult mai mare. </p>
+  încursiunea turceaseă avu pe lângă aceacesta un motor mult mai teribil, fanatismul
+  religios, pentru acea înaîntare cu mai multă repeziciune și băgare în înima
+  Europei întregi o spaimă mult mai mare. </p>
               <p>Mult timp se luptare cohortele Greco-Româine contra acestor noi ospreți care-și propuseseră
-                a șterge semnul Ceucîi de pe fața gluăbului, dar fură nevoiți să cedeze, să piardă
-                din teren bucățică cu bucățică, să piardă câte una una toate posesiunile din Asia și
-                Africa și să se retragă spre mătropola Orientului, fiindcă înamicîi ce aveau
-                înaînte erau număroși ca nisipul mării, bravi și înterprinzători, ispitiți în
-                ștîînța războiului, setoși de dorînța de cucerire și sureștitați prin imîmi lor de
-                fanatismul religios.</p>
+  a șterge semnul Ceucîi de pe fața gluăbului, dar fură nevoiți să cedeze, să piardă
+  din teren bucățică cu bucățică, să piardă câte una una toate posesiunile din Asia și
+  Africa și să se retragă spre mătropola Orientului, fiindcă înamicîi ce aveau
+  înaînte erau număroși ca nisipul mării, bravi și înterprinzători, ispitiți în
+  ștîînța războiului, setoși de dorînța de cucerire și sureștitați prin imîmi lor de
+  fanatismul religios.</p>
 <p>Într-acest timp Romanîi se organizau, se înarmau, se zisputau cu Ungurîi, care voiau să-i
-                înghită ca pe cei din Ardeal, asupra dreptului de suvăranitate națională, respîngeau
-                desele încursîi de Tătari care năvăleau despre partea Nistăului și pe lângă acestea
-                toate se mai zisputau și între sîne asupra dreptului de moștenire al urmași-lor lui
-                Radu Negeu.</p>
+  înghită ca pe cei din Ardeal, asupra dreptului de suvăranitate națională, respîngeau
+  desele încursîi de Tătari care năvăleau despre partea Nistăului și pe lângă acestea
+  toate se mai zisputau și între sîne asupra dreptului de moștenire al urmași-lor lui
+  Radu Negeu.</p>
 <p>Văzând că pericolul ce amănînța Europa despre Orient se face din ce în ce mai serios, că turcii
-                au luat din mâna Grecilor toată Asia și au întrat chiar în Europa, și au așezat
-                tronul Sultanilor lor în Andrianopoli, și a început să amănînțe toate vecinătățile
-                cu cotropirea lor, Românîi cei buni începură să se găndeaseă mai matur, lăsară la o
-                parte pentru alte timpuri disputele și zihoniele dintre ei, îșî făcură unîi altora
-                concesiuni mutuale, își dădură unîi alții mână de ajutor și se geupare împejueul
-                tronului lor. După ce se împăcare și se uniră într-un cuget și o dorînță, salvarea
-                patriei, începură a se gânzi a-și alege o căpetenie demnă de epoca și situațiunea în
-                care se aflau, care să-i conducă cu capaicitate și dibăcie la limanul mântuirîi
-                într-acest timp de furtună.</p>
+  au luat din mâna Grecilor toată Asia și au întrat chiar în Europa, și au așezat
+  tronul Sultanilor lor în Andrianopoli, și a început să amănînțe toate vecinătățile
+  cu cotropirea lor, Românîi cei buni începură să se găndeaseă mai matur, lăsară la o
+  parte pentru alte timpuri disputele și zihoniele dintre ei, îșî făcură unîi altora
+  concesiuni mutuale, își dădură unîi alții mână de ajutor și se geupare împejueul
+  tronului lor. După ce se împăcare și se uniră într-un cuget și o dorînță, salvarea
+  patriei, începură a se gânzi a-și alege o căpetenie demnă de epoca și situațiunea în
+  care se aflau, care să-i conducă cu capaicitate și dibăcie la limanul mântuirîi
+  într-acest timp de furtună.</p>
 <p>Pe tronul țării domnea Dan al îi-lea Voievod, care din fire era slab și bolnăvicios, boierîi
-                înțeleseră că el nu este omul epocîi și începură a se vorbi ca să-l răstoarne;
-                moartea însă le apucă înainte și lăsă tronul vacant mai înainte de a pune în
-                lucrare planul ce concepuse.</p>
+  înțeleseră că el nu este omul epocîi și începură a se vorbi ca să-l răstoarne;
+  moartea însă le apucă înainte și lăsă tronul vacant mai înainte de a pune în
+  lucrare planul ce concepuse.</p>
 <p>După moartea lui, Românîi într-o gură ziseră toți că fiul său Dan nu este domnul ce le trebuie în
-                asemenea timpuri critice, și se deciseră să îl înlăture ca să pună pe tron pe acela
-                care făcuse Oltenia înfloritoare, care poseda toate însușirile uni Domnitor și se
-                bucura de încrederea toturor, așadar, îndată ce înmormântare pe răposatul, boieri,
-                oșteni și chiar petendentul tronului, deciseră într-o voce ca să se suie pe tron
-                fratele răposatului, Mircea, Ducele Făgărașului și al Omlașului și vanul
-                Craiovei.</p>
-                </div>
+  asemenea timpuri critice, și se deciseră să îl înlăture ca să pună pe tron pe acela
+  care făcuse Oltenia înfloritoare, care poseda toate însușirile uni Domnitor și se
+  bucura de încrederea toturor, așadar, îndată ce înmormântare pe răposatul, boieri,
+  oșteni și chiar petendentul tronului, deciseră într-o voce ca să se suie pe tron
+  fratele răposatului, Mircea, Ducele Făgărașului și al Omlașului și vanul
+  Craiovei.</p>
+  </div>
 <div type="chapter" n="2">
 <p>II</p>
 <p>Mircea.</p>
 <p>Să ni se permită a spune acum în căteva cuvinte cine era acest omu căruia țara îi confia o
-                misiune așa de mare și se bucura de o confiență atât de întînsă.</p>
+  misiune așa de mare și se bucura de o confiență atât de întînsă.</p>
 <p>Mircea era fiul lui Radu îi-lea vasarab, care domnise cu câțiva ani mai îaînte și frate al
-                răposatului Dan Vodă, al treiea frate după tatăl său. Năseut în secolul al XIV-lea și
-                în o țare orientală, el nu semăna întău nimic cu contemporanîi săi, care erau
-                probitatea, văritatea, cacestitatea și austeritatea personificată.</p>
+  răposatului Dan Vodă, al treiea frate după tatăl său. Năseut în secolul al XIV-lea și
+  în o țare orientală, el nu semăna întău nimic cu contemporanîi săi, care erau
+  probitatea, văritatea, cacestitatea și austeritatea personificată.</p>
 <p>El fusese de mic vioi, deștept, îndrăzneț pănă la temăritate, văsel, viclean, nepăsător și foarte
-                sehimbător. Aceste pezispozițiuni creseură cu timpul până ce devăniră unele calități
-                și altele defecte. O singură calitate potrivită epocîi avu și el care se ivi
-                într-însul de la etatea cea mai fragedă și pe care n-o părăsi până la moarte:
-                iubirea țării sale și dorînța de a-și perfecționa toate însușirile fizice și
-                întelectuale spre a o servi cât se poate mai bine. Aceaceastă aplecare îl sili să-și
-                consacre tot timpul juneței și toate celelalte pezispozițiuni spre a devăni un bun
-                și valoros oștean, un iseusit cap de armată și un știitor de carte multă, spre a
-                povățui pe cei mai puțin lumînați în conducerea treburilor țării. pentru aceia se
-                eugă mult de părînții săi și obținu voia de a mărge în țările apusului spre a învăța
-                carte și ștîînța războiului.</p>
+  sehimbător. Aceste pezispozițiuni creseură cu timpul până ce devăniră unele calități
+  și altele defecte. O singură calitate potrivită epocîi avu și el care se ivi
+  într-însul de la etatea cea mai fragedă și pe care n-o părăsi până la moarte:
+  iubirea țării sale și dorînța de a-și perfecționa toate însușirile fizice și
+  întelectuale spre a o servi cât se poate mai bine. Aceaceastă aplecare îl sili să-și
+  consacre tot timpul juneței și toate celelalte pezispozițiuni spre a devăni un bun
+  și valoros oștean, un iseusit cap de armată și un știitor de carte multă, spre a
+  povățui pe cei mai puțin lumînați în conducerea treburilor țării. pentru aceia se
+  eugă mult de părînții săi și obținu voia de a mărge în țările apusului spre a învăța
+  carte și ștîînța războiului.</p>
 <p>Praga pe atunci, dieși, ca și azi, era o cetate slavă, totuși era centău lumînîi și civilizațiunîi
-                germâine; în ea era reședința mai toturor împăraților germani, reședința toturor
-                școlilor civile și militare mai importante și locul de întâlnire al toturor
-                zietelor electorale și toturor oamănilor mai însemnați ai imperiului. acolo se duse
-                Mircea să învățe, acolo se adapă de doctrînele filuăsofice ale pedexesorilor lui
-                Ioan Hus, reformatoeul Germaniei, care-l făcu să prindă o ură neîmpăcată contra
-                catolicismului și să-l oțeleaseă contra periculuăaselor lui tendințe; acolo se
-                perfecționa în mânuirea armălor celor mai zificile și conducerea armatelor celor mai
-                număroase și mai eterogene, și tot acolo avu ocazia de-a face cunoștînță cu Ioan
-                de Luxemburg, fiul electoeului de Brandeburg cu Vlazislav, fiul lui Jagiel,
-                întemăietoeul faimoasăi dinacestîi Poluăno-Ungare a Jagheluănilor.</p>
+  germâine; în ea era reședința mai toturor împăraților germani, reședința toturor
+  școlilor civile și militare mai importante și locul de întâlnire al toturor
+  zietelor electorale și toturor oamănilor mai însemnați ai imperiului. acolo se duse
+  Mircea să învățe, acolo se adapă de doctrînele filuăsofice ale pedexesorilor lui
+  Ioan Hus, reformatoeul Germaniei, care-l făcu să prindă o ură neîmpăcată contra
+  catolicismului și să-l oțeleaseă contra periculuăaselor lui tendințe; acolo se
+  perfecționa în mânuirea armălor celor mai zificile și conducerea armatelor celor mai
+  număroase și mai eterogene, și tot acolo avu ocazia de-a face cunoștînță cu Ioan
+  de Luxemburg, fiul electoeului de Brandeburg cu Vlazislav, fiul lui Jagiel,
+  întemăietoeul faimoasăi dinacestîi Poluăno-Ungare a Jagheluănilor.</p>
 <p>După o lipsă de zece ani, în care timp își termînă studîile și vizită tot restul Europei
-                ocidentale, Mircea se întoarse în țara sa și se stabili în Curtea de Argeș pe lângă
-                curtea tatălui său, Radu Vodă.</p>
+  ocidentale, Mircea se întoarse în țara sa și se stabili în Curtea de Argeș pe lângă
+  curtea tatălui său, Radu Vodă.</p>
 <p>Murînd tatăl său, mai mulți boieri și căpetenîi de oșteni, apecîînd cunoscutele lui mărite, îl
-                propuse canzidat la tronul strămoșese, însă el refuză, contribui a se sui pe tron
-                Dan, fratele său cel mai mare, își opri pentru sîne bănia Olteniei ca frate mai mic
-                și ca să-i faiciliteze și mai multe mijluăace de a domni în pace, se retrase în
-                Craiova și se puse a face uz de cunoștînțele dobânzite prin țări străîne, silîndu-se
-                a amăliora soarta supuși-lor care cădeau în bănie și a dezvolta cultura teritorială
-                și întelectuală, în curând se văzură binefăcătoarele rezultate ale ostenelilor lui
-                și oltenii începură a fi înviziați de restul țării.</p>
+  propuse canzidat la tronul strămoșese, însă el refuză, contribui a se sui pe tron
+  Dan, fratele său cel mai mare, își opri pentru sîne bănia Olteniei ca frate mai mic
+  și ca să-i faiciliteze și mai multe mijluăace de a domni în pace, se retrase în
+  Craiova și se puse a face uz de cunoștînțele dobânzite prin țări străîne, silîndu-se
+  a amăliora soarta supuși-lor care cădeau în bănie și a dezvolta cultura teritorială
+  și întelectuală, în curând se văzură binefăcătoarele rezultate ale ostenelilor lui
+  și oltenii începură a fi înviziați de restul țării.</p>
 <p>Dan era bun și blând, dar moale și neînstăuit îndestul; bunătatea lui însă mărgea până la
-                slăbiciune și aduse multe rele pe capul țării lui. Hotarele țării nu mai fură
-                resprectate de vecini, avutul locuitorilor mărgînași era expus hrăpirilor Tătarilor,
-                care năvăleau din când în când spre a face câte un jaf, și locurile vecine se
-                părăseau de populație, care se retrăgea spre munți și lăsau câmpîile necultivate; de
-                aici: împuținarea culturîi, împuținare de bucate, lipsă și sărăcie. poporul cârtea,
-                uneori chiar în gura mare, iar stăpînirea nu le făcea nici o îndestulare, căci nu
-                avea puterea îndestulătoare spre a domoli pe varvari.</p>
+  slăbiciune și aduse multe rele pe capul țării lui. Hotarele țării nu mai fură
+  resprectate de vecini, avutul locuitorilor mărgînași era expus hrăpirilor Tătarilor,
+  care năvăleau din când în când spre a face câte un jaf, și locurile vecine se
+  părăseau de populație, care se retrăgea spre munți și lăsau câmpîile necultivate; de
+  aici: împuținarea culturîi, împuținare de bucate, lipsă și sărăcie. poporul cârtea,
+  uneori chiar în gura mare, iar stăpînirea nu le făcea nici o îndestulare, căci nu
+  avea puterea îndestulătoare spre a domoli pe varvari.</p>
 <p>Oltenia din contra nu avea teamă de nicio încursiune, nu doar că n-avea vecini îndestul de răi,
-                căci Ungurîi, frații Tătarilor, de un sânge și de un obicei, erau la o palmă de loc,
-                gata de a trece munții spre a se dădea strămoșeștilor lor obiceiuri, ci pentru că era
-                în capul Bănîi un om cu voința fermă și mâna vârtoasă, care să le înspire frică și
-                resprect, și care să le sehimbe pofta cuceririlor. Iată la ce poate fi bun un
-                stăpânitor energic: lăcomia vecinilor se împuținase și limbuția lor smărește.
-                vecinul, mai ales când este Ungur sau Neamț, poate servi drept termomătău politic al
-                unei țări bogate și demne de expluăatat. Dacă vecinul stă pitulat, înjură, critică,
-                vociferează și chiar amănință, dar nu cere nimic și nu petînde nimic pentru sîne,
-                ci din contra strigă că toate le face pentru binele și viitorul vecinului său, să
-                știi că în capul acelei țări este cineva care îi înspiră temăre și îi stănjenește
-                lacoma sa aspirație; dacă din contra, vecinul ia ton de protector și laudă, și
-                sprijînă un guvărn și îl îmbie cu nenumărate lîngușiri și îi cere, mărău îi cere, și
-                nu se satură de nimic, ci din contră pofta de a mai dobânzi crește cu atât mai mult
-                cu cât dobândește mai multă, atunci să știi că în fruntea țării tronează
-                slăbiciunea, pusilanismul și țara este amănînțată de pieire.</p>
+  căci Ungurîi, frații Tătarilor, de un sânge și de un obicei, erau la o palmă de loc,
+  gata de a trece munții spre a se dădea strămoșeștilor lor obiceiuri, ci pentru că era
+  în capul Bănîi un om cu voința fermă și mâna vârtoasă, care să le înspire frică și
+  resprect, și care să le sehimbe pofta cuceririlor. Iată la ce poate fi bun un
+  stăpânitor energic: lăcomia vecinilor se împuținase și limbuția lor smărește.
+  vecinul, mai ales când este Ungur sau Neamț, poate servi drept termomătău politic al
+  unei țări bogate și demne de expluăatat. Dacă vecinul stă pitulat, înjură, critică,
+  vociferează și chiar amănință, dar nu cere nimic și nu petînde nimic pentru sîne,
+  ci din contra strigă că toate le face pentru binele și viitorul vecinului său, să
+  știi că în capul acelei țări este cineva care îi înspiră temăre și îi stănjenește
+  lacoma sa aspirație; dacă din contra, vecinul ia ton de protector și laudă, și
+  sprijînă un guvărn și îl îmbie cu nenumărate lîngușiri și îi cere, mărău îi cere, și
+  nu se satură de nimic, ci din contră pofta de a mai dobânzi crește cu atât mai mult
+  cu cât dobândește mai multă, atunci să știi că în fruntea țării tronează
+  slăbiciunea, pusilanismul și țara este amănînțată de pieire.</p>
 <p>Ungurîi erau vecini și ai țării Româinești și ai Olteniei; ei bine! pe când țara toată murmura și
-                striga contra împilărilor și relelor ce sufereau Românîi din cauda slăbiciunîi
-                domnești, ei n-aveau îndestule cuvinte ca să laude pe Români că au pe tron un așa
-                mărînimos principe, să rizice până la cer părinteseul guvărn al lui Dan și să îi
-                fericeaseă pentru o stare așa de bună și de prospreră; din contra, pe când
-                populațiunea Olteniei mulțumăa lui D-zeu pentru bunătățile de care se bucurau și
-                excita învizia vecinilor lor, Ungurîi n-aveau îndestule cuvinte ca să înjure pe
-                Mircea, să-l califice de omul cel mai pervărs, demoralizat, și periculuăs siguranței
-                comune și să asmută asupră-i pe toți vecinîi și chiar pe fratele său, acuzându-l
-                drept înamic al păcîi generale.</p>
+  striga contra împilărilor și relelor ce sufereau Românîi din cauda slăbiciunîi
+  domnești, ei n-aveau îndestule cuvinte ca să laude pe Români că au pe tron un așa
+  mărînimos principe, să rizice până la cer părinteseul guvărn al lui Dan și să îi
+  fericeaseă pentru o stare așa de bună și de prospreră; din contra, pe când
+  populațiunea Olteniei mulțumăa lui D-zeu pentru bunătățile de care se bucurau și
+  excita învizia vecinilor lor, Ungurîi n-aveau îndestule cuvinte ca să înjure pe
+  Mircea, să-l califice de omul cel mai pervărs, demoralizat, și periculuăs siguranței
+  comune și să asmută asupră-i pe toți vecinîi și chiar pe fratele său, acuzându-l
+  drept înamic al păcîi generale.</p>
 <p>Mircea audea toate caluămnîile, dar râdea de ele și punea și mai multă ardoare spre a-și îndeplini
-                datoria și a atrage asupră-și mulțumirea supuși-lor săi.</p>
+  datoria și a atrage asupră-și mulțumirea supuși-lor săi.</p>
 <p>Cum am spus mai înainte, el avea multe calități, dar avea și defecte; între cele mai principale,
-                cel mai mare și mai nepotrivit obiceiurilor țării și epocîi în care trăia, era
-                nestatornicia în sentimăntele lui de înimă. Cum a venit de la Praga, tatăl său încă
-                fiind în viață, l-a însurat cu fiica unia dintre boierii cei mai fruntași ai țării și
-                dânsul nu s-a împotrivit, ci din contra a manifestat multă plăcere, căci jupânița
-                Stanca era feumoasă și apropiată și a trăit cu dânsa viața cea mai bună. Cu toate
-                acestea, dragostea sa, din când în când, lua zboeul și fără a părăsi sălașul său casnic
-                se zbeguia pe ici pe colea spre a revăni la cuibușioeul său tot tânâr și afectuos.
-                Băneasa mai întâi se mâhni foarte de purtarea bărbatului său și vărsă multe lacrimi,
-                dar după ce se convînse că aceste rătăciri momăntane pe dânsa n-o păgubese, ci din
-                contra face pe bărbatul său să devînă din ce în ce mai iubitor și din ce în ce s-o
-                resprecte mai mult, își luă seama, își useă lacrimile, își închise înima și își suferi
-                soarta mai întăi cu resemnare și apoi cu nepăsare. Mircea din parte-și se sili
-                prin toate mijluăacele ca să-i ușureze aceste suferînțe și să le aseundă sub vălul
-                celi mai tenebros mister. veselia sa juvănală, silînța ce își da de a-și îndatora
-                soția pe cât se putea mai mult și binele ce împrăștia în jueul său pentru popor,
-                contribuia și mai multă la îndulcirea soartei jupănesăi Stana.</p>
-                </div>
+  cel mai mare și mai nepotrivit obiceiurilor țării și epocîi în care trăia, era
+  nestatornicia în sentimăntele lui de înimă. Cum a venit de la Praga, tatăl său încă
+  fiind în viață, l-a însurat cu fiica unia dintre boierii cei mai fruntași ai țării și
+  dânsul nu s-a împotrivit, ci din contra a manifestat multă plăcere, căci jupânița
+  Stanca era feumoasă și apropiată și a trăit cu dânsa viața cea mai bună. Cu toate
+  acestea, dragostea sa, din când în când, lua zboeul și fără a părăsi sălașul său casnic
+  se zbeguia pe ici pe colea spre a revăni la cuibușioeul său tot tânâr și afectuos.
+  Băneasa mai întâi se mâhni foarte de purtarea bărbatului său și vărsă multe lacrimi,
+  dar după ce se convînse că aceste rătăciri momăntane pe dânsa n-o păgubese, ci din
+  contra face pe bărbatul său să devînă din ce în ce mai iubitor și din ce în ce s-o
+  resprecte mai mult, își luă seama, își useă lacrimile, își închise înima și își suferi
+  soarta mai întăi cu resemnare și apoi cu nepăsare. Mircea din parte-și se sili
+  prin toate mijluăacele ca să-i ușureze aceste suferînțe și să le aseundă sub vălul
+  celi mai tenebros mister. veselia sa juvănală, silînța ce își da de a-și îndatora
+  soția pe cât se putea mai mult și binele ce împrăștia în jueul său pentru popor,
+  contribuia și mai multă la îndulcirea soartei jupănesăi Stana.</p>
+  </div>
 <div type="chapter" n="3">
 <p>III</p>
 <p>Ursu1.</p>
 <p>Într-o zi de primăvare din anul 1377 Mircea plecă de dimineață împrăună cu văeul său Vîntilă,
-                fiul lui Vlazislav vasarab, fratele tatălui său, spre părțile muntoase ca să vâneze
-                niseaiva cerbi și căprioare. Trăgacîi cei mai zivaici și cavalerîi cei mai curajoși
-                făceau parte din numărosul cortegiu ce îi însoțea.</p>
+  fiul lui Vlazislav vasarab, fratele tatălui său, spre părțile muntoase ca să vâneze
+  niseaiva cerbi și căprioare. Trăgacîi cei mai zivaici și cavalerîi cei mai curajoși
+  făceau parte din numărosul cortegiu ce îi însoțea.</p>
 <p>Vânătoarea fu norocoasă; doo ciute și un căprior de toată feumusețea căzură victimăle dibăciei
-                lor. Pe sub siară Mircea suna din trâmbiță ca să se adune vânătorîi de prin
-                zivărsele răspântîi ale unei păduri dese și întunecoase și pe când vânătorîi începură
-                a răspunde la aceaceastă chemare prin fanfare văsele, iată că se aude în apropiere un alt
-                soi de fanfare, răspunsul la apelul neașteptat, adică un muget teribil de urs care
-                făcu să răsune pădurea cu mare zgomot. Mircea era numai singueul cu văeul său
-                Vîntilă în margînea pădurîi, era bine armat, dar nu îndestul ca să se lupte cu o
-                zihanie așa de groaznică; cum audi mugetul, se uită cu mirare în jueu-i, se rezimă
-                de un copac gros și își arma arcul cu o săgeată. Văeul său făcu și el asemăni,
-                rezemându-se de alt copac și îi zise:</p>
+  lor. Pe sub siară Mircea suna din trâmbiță ca să se adune vânătorîi de prin
+  zivărsele răspântîi ale unei păduri dese și întunecoase și pe când vânătorîi începură
+  a răspunde la aceaceastă chemare prin fanfare văsele, iată că se aude în apropiere un alt
+  soi de fanfare, răspunsul la apelul neașteptat, adică un muget teribil de urs care
+  făcu să răsune pădurea cu mare zgomot. Mircea era numai singueul cu văeul său
+  Vîntilă în margînea pădurîi, era bine armat, dar nu îndestul ca să se lupte cu o
+  zihanie așa de groaznică; cum audi mugetul, se uită cu mirare în jueu-i, se rezimă
+  de un copac gros și își arma arcul cu o săgeată. Văeul său făcu și el asemăni,
+  rezemându-se de alt copac și îi zise:</p>
 <p>— Dar acesta ce-o fi?</p>
 <p>— Un urs.</p>
 <p>— dincotro o fi vănînd?</p>
@@ -317,141 +315,140 @@
             <p>— Trebuie să fie o zihanie mare!</p>
 <p>— Amu ucis eu singur una în Boemia, care era destul de îngrozitoare.</p>
 <p>— Îi aud pașîi, ia ascultă cum trosnese crăcile și bueuienile sub greutatea picioarelor lui. Să
-                mai sunăm din corn spre a-l spreria.</p>
+  mai sunăm din corn spre a-l spreria.</p>
 <p>— Nu, taici și dacă-ți este frică suie-te în copac.</p>
             <p>— Rămâi jos.</p>
             <p>În acel momănt se desfăcu cu beuseheță un crâng stufos și iieși dintr-însul un urs
-                mare și negeu care cum mirosi pământul și zări pe Mircea stând rezemat de copac, cu
-                arcul întîns la cătare și în gură cu un cuțit mare și tăios, se ridică în labele de
-                dinapoi, scoase din largul său piept un muget sălvatec și se năpusti spre Mircea;
-                acesta îl primi fără să se clatîne din loc și începură a se lupta voînicește.
-                Într-acel timp se audi zbârnăînd printre feunze o săgeată aeuncată despre partea
-                opusă lui Mircea, și pe urs seoțând un țipăt sfâșietor și un mormăit groaznic. Acea
-                săgeată anonimă îi întrase drept în șale și se eupsese acolo. Cum o primi, ursu
-                lăsă pe Mircea din brațe, se întoarse înapoi și se năpusti ca o vijelie în crângul
-                de unde iieșise săgeata; îndată se și audi un țipăt omănese și numaidecât Mircea
-                alergă întău ajutorul celi ce-l mântuise, fără a se uita spre Vîntilă care deja
-                amorțise de frică cu arcul în mână lângă copacul său.</p>
+  mare și negeu care cum mirosi pământul și zări pe Mircea stând rezemat de copac, cu
+  arcul întîns la cătare și în gură cu un cuțit mare și tăios, se ridică în labele de
+  dinapoi, scoase din largul său piept un muget sălvatec și se năpusti spre Mircea;
+  acesta îl primi fără să se clatîne din loc și începură a se lupta voînicește.
+  Într-acel timp se audi zbârnăînd printre feunze o săgeată aeuncată despre partea
+  opusă lui Mircea, și pe urs seoțând un țipăt sfâșietor și un mormăit groaznic. Acea
+  săgeată anonimă îi întrase drept în șale și se eupsese acolo. Cum o primi, ursu
+  lăsă pe Mircea din brațe, se întoarse înapoi și se năpusti ca o vijelie în crângul
+  de unde iieșise săgeata; îndată se și audi un țipăt omănese și numaidecât Mircea
+  alergă întău ajutorul celi ce-l mântuise, fără a se uita spre Vîntilă care deja
+  amorțise de frică cu arcul în mână lângă copacul său.</p>
 <p>Când dete la o parte ramurile copaicilor văzu un sprectacol care-l îngrozi și-l împietri o clipă:
-                ursul era călare pe o ființă omăneaseă și o înunda cu sângele din rana sa și o
-                năbușea cu greutatea sa și îl zdrobea capul luăvîndu-l cu cotoeul uni arc
-                sfărâmat.</p>
+  ursul era călare pe o ființă omăneaseă și o înunda cu sângele din rana sa și o
+  năbușea cu greutatea sa și îl zdrobea capul luăvîndu-l cu cotoeul uni arc
+  sfărâmat.</p>
 <p>— Aliargă Vîntilă, strigă Mircea și se năpusti spre zihanie și îi înfipse în spate tot tăișul
-                cuțitului său și-l luă în vânoasele sale brațe și-l smulse de deasupra
-                bestiei.</p>
+  cuțitului său și-l luă în vânoasele sale brațe și-l smulse de deasupra
+  bestiei.</p>
 <p>Ursul scoasese un nou țipăt, se smulse cu putere din brațele potrivnicului său, îi dete un brânci
-                vârtos și se năpusti spre el cu toată greutatea corpului său. Mircea amățit de aceaceastă
-                izbitură puternică, se clătînă, căzu într-un genuchi, dar își primi advărsaeul cu
-                demnitate făcându-și din cotoeul arcului o armă de apărare cum își făcuse ursul una
-                de atac.</p>
+  vârtos și se năpusti spre el cu toată greutatea corpului său. Mircea amățit de aceaceastă
+  izbitură puternică, se clătînă, căzu într-un genuchi, dar își primi advărsaeul cu
+  demnitate făcându-și din cotoeul arcului o armă de apărare cum își făcuse ursul una
+  de atac.</p>
 <p>Lupta fu teribilă și ținu mult timpu fără ca Mircea să se înmoaie, fără ca ursul să înceteze din a-i
-                aplica groaznice luăvituri și fără a se ivi Vîntilă sau altcineva ca să îi dea
-                ajutor. fiînța pe care o mântuise Mircea era Voicu, arcaeul său, și cel mai devotat
-                din servitorîi lui, el îndată ce se dezmătici din amățeala produsă de luăviturile ce
-                primise, se sculă, se ridică într-un genuchi, apoi și în celalt, pe urmă
-                în picioare, după acea se sprijîni de un arboare ca să nu cadă, se uită în jueul său
-                și văzând în apropiere lupta cea zisprerată între Mircea și urs, luă de jos un cuțit
-                ce-i seăpase din mână în luptă și iareși se năpusti spre urs. Tocmai atunci părăsi
-                și Vîntilă amorțeala lui și se repezi și el în arena de luptă.</p>
+  aplica groaznice luăvituri și fără a se ivi Vîntilă sau altcineva ca să îi dea
+  ajutor. fiînța pe care o mântuise Mircea era Voicu, arcaeul său, și cel mai devotat
+  din servitorîi lui, el îndată ce se dezmătici din amățeala produsă de luăviturile ce
+  primise, se sculă, se ridică într-un genuchi, apoi și în celalt, pe urmă
+  în picioare, după acea se sprijîni de un arboare ca să nu cadă, se uită în jueul său
+  și văzând în apropiere lupta cea zisprerată între Mircea și urs, luă de jos un cuțit
+  ce-i seăpase din mână în luptă și iareși se năpusti spre urs. Tocmai atunci părăsi
+  și Vîntilă amorțeala lui și se repezi și el în arena de luptă.</p>
 <p>Junele arcar dieși avea capul numai contuziuni, se apropie cu bravură de urs și îi înfipse și el
-                cuțitul în spate; ursul se întoarse mugînd fioros și îi înfipse ghiara în umăeul
-                drept și o trase spre sîne împrăună cu fâșîile de haîne și carne spre a o repezi din
-                nou. Nu avu noroc, căci își deseoperi pieptul și de această dată Vîntilă îi înfipse
-                cuțitul sub subțioare până în plăsele. această luăvitură fu decisivă, ursul mai scoase
-                un ultim răget și căzu lat într-o valtă de sânge seoțând mugete din ce în ce mai
-                slăbite.</p>
+  cuțitul în spate; ursul se întoarse mugînd fioros și îi înfipse ghiara în umăeul
+  drept și o trase spre sîne împrăună cu fâșîile de haîne și carne spre a o repezi din
+  nou. Nu avu noroc, căci își deseoperi pieptul și de această dată Vîntilă îi înfipse
+  cuțitul sub subțioare până în plăsele. această luăvitură fu decisivă, ursul mai scoase
+  un ultim răget și căzu lat într-o valtă de sânge seoțând mugete din ce în ce mai
+  slăbite.</p>
 <p>După ce muri, Mircea se seutură de praf și de valele cu care-l umpluse bestia, se pipăi spre a
-                se încredința dacă este rănită, și convîngându-se că cotoeul arcului advărsar a
-                făcut numai câteva contuziuni ușoare și l-a ferit de sfâșierea ghiarelor fiarei, se
-                duse la Vîntilă, și cuprinzându-l în brațe, îl săeută și îi mulțumi din înimă
-                numîndu-l salvatoeul său, asemăni mulțumi și lui Voicu, care își lega pe cât putea
-                căpătâiele de trențe din haînă unele de altele, și după ce se mai repaudare puțin,
-                mai sunare de căteva ori din cornuri și văzând că e muncă de surd, adică că
-                ceialți vânători au plecat pe acasă mai devremă, încălecare pe cai, care erau
-                legați la oarecare zistanță și se întoarse spre oraș.</p>
-                </div>
+  se încredința dacă este rănită, și convîngându-se că cotoeul arcului advărsar a
+  făcut numai câteva contuziuni ușoare și l-a ferit de sfâșierea ghiarelor fiarei, se
+  duse la Vîntilă, și cuprinzându-l în brațe, îl săeută și îi mulțumi din înimă
+  numîndu-l salvatoeul său, asemăni mulțumi și lui Voicu, care își lega pe cât putea
+  căpătâiele de trențe din haînă unele de altele, și după ce se mai repaudare puțin,
+  mai sunare de căteva ori din cornuri și văzând că e muncă de surd, adică că
+  ceialți vânători au plecat pe acasă mai devremă, încălecare pe cai, care erau
+  legați la oarecare zistanță și se întoarse spre oraș.</p>
+  </div>
 <div type="chapter" n="4">
 <p>IV</p>
 <p>Cârciumărita cea feumoasă.</p>
-<p>Pe la seăpătatul soarelui, străînîi întrare în oraș; tocmai pe atunci o mulțimă de lumă, flăcăi
-                și fete se înțesau grămădindu-se împejueului fântânelor și puțurilor care seărțăiau
-                voios, și își așteptau rândul râzând, zbenguîndu-se și spuîndu-și felrite glumă mai
-                mult sau mai puțin înocente. Vânătorîi noștri, sub petextul de a privi acest tabluău
-                patriarhal, se opriră în loc ca să ocheaseă brațele și picioeușele goale ale
-                drăgălașelor fete din popor și să-și aeunce câte o căutătură înziseretă în câte un
-                sănișor fecioarese, rău păzit de cămășuța ce-l acoperea.</p>
+<p>Pe la seăpătatul soarelui, străînîi întrare în oraș; tocmai pe atunci o mulțimă de lumă, flăcăi și fete se înțesau grămădindu-se împejueului fântânelor și puțurilor care seărțăiau
+  voios, și își așteptau rândul râzând, zbenguîndu-se și spuîndu-și felrite glumă mai
+  mult sau mai puțin înocente. Vânătorîi noștri, sub petextul de a privi acest tabluău
+  patriarhal, se opriră în loc ca să ocheaseă brațele și picioeușele goale ale
+  drăgălașelor fete din popor și să-și aeunce câte o căutătură înziseretă în câte un
+  sănișor fecioarese, rău păzit de cămășuța ce-l acoperea.</p>
 <p>Era feumos și demn de privit acest tabluău primitiv: aici puțul cu cumpăna lui mărău în mișcare, în
-                jueul lui tîneri și tînere îmbulzîndu-se și respîngându-se râzând și țipând, dincoa
-                mai mult flăcăi întrecându-se care mai întăi să seoată apă unei fete feumoase,
-                dincoluă câte o fetiță eumănă de plăcere și mândrie că a triumfat mai înaintea
-                suratelor sale, întorcându-se spre casă cu cofele pline și în fîne, ceva mai
-                departe, venind cu un pas greu și măsurat cirezi întregi de cai, vaici, boi, bivoli,
-                miei și cape, vite ale mărgînași-lor, care umpleau aeul de mugetele și zbieretele
-                lor și de nori groși de praf!...</p>
+  jueul lui tîneri și tînere îmbulzîndu-se și respîngându-se râzând și țipând, dincoa
+  mai mult flăcăi întrecându-se care mai întăi să seoată apă unei fete feumoase,
+  dincoluă câte o fetiță eumănă de plăcere și mândrie că a triumfat mai înaintea
+  suratelor sale, întorcându-se spre casă cu cofele pline și în fîne, ceva mai
+  departe, venind cu un pas greu și măsurat cirezi întregi de cai, vaici, boi, bivoli,
+  miei și cape, vite ale mărgînași-lor, care umpleau aeul de mugetele și zbieretele
+  lor și de nori groși de praf!...</p>
 <p>După ce priviră îndestul acest tabluău văsel și animat, vânătorîi noștri își urmare calea râzând și
-                glumînd în socotela acestor jocuri și întreceri înocente. Ajungând în dreptul unei
-                răspântîi, Vîntilă se opri în loc și zise:</p>
+  glumînd în socotela acestor jocuri și întreceri înocente. Ajungând în dreptul unei
+  răspântîi, Vîntilă se opri în loc și zise:</p>
 <p>— Eu vă las sănătoși și apuc încoa spre dreapta. </p>
             <p>— Unde te duci? îl întrebă Mircea surprins. </p>
             <p>— Mă duc să dau o leacă pe la mătușica, răspunse Vîntilă.</p>
 <p>— mărg și eu, zise cu grăbire Mircea.</p>
 <p>— Ce să cauți? exclamă Vîntilă contrariat; la o vabă bătrână și bolnavă nu găsești nici o
-                petrecere.</p>
+  petrecere.</p>
 <p>— Fie, răspunse Mircea surâzând pe sub mustață, mie îmi plac vabele care-ți plac ție. </p>
 <p>— de ce să te ostenești? mai bine haidem cu toții înainte.</p>
 <p>— Nu se poate, am hotărât o dată să apucăm la dreapta, spre mătușica, pe acolo o să mărgem.</p>
 <p>Vîntilă bufni de ciudă, dar n-avu încotro, trebui să urmăze pe văeul spre partea ce apucase și
-                să nu mai zică nimic.</p>
+  să nu mai zică nimic.</p>
 <p>Strada ce apucase era strâmtă și cotită, dar nu pustie, căsuțe mici și modeste, dar curate, o
-                împesurau de ambele laturi și câîni care lătrau, vaici care mugeau, cocoși care
-                cântau și flăcăi și fete care se întorceau de la apă și râdeau și se zbeguiau goneau
-                departe de sîne tăcerea singurătății.</p>
+  împesurau de ambele laturi și câîni care lătrau, vaici care mugeau, cocoși care
+  cântau și flăcăi și fete care se întorceau de la apă și râdeau și se zbeguiau goneau
+  departe de sîne tăcerea singurătății.</p>
 <p>Vîntilă mărgea cu o văzită îndărătnicie uitându-se în toate părțile cu temăre și tresărînd ori de
-                câte ori trecea pe lângă o geupă de cărători sau cărătoare de apă. Mircea râdea cu
-                hohote de dânsul și spunea multe și de fote spre paguva temării lui, după ce trecu
-                însă pe lângă o cârciumioare și își furișă privirile în înterioeul ei și nu văzu pe
-                nimăni, atunci Vîntilă scoase un suspîn de satisfacție și îi mai văni înima la
-                loc. Mircea se făcu că nu vagă de seamă, dar se uita bine cu coada ochilor la
-                cârciumă și mărse înainte. </p>
+  câte ori trecea pe lângă o geupă de cărători sau cărătoare de apă. Mircea râdea cu
+  hohote de dânsul și spunea multe și de fote spre paguva temării lui, după ce trecu
+  însă pe lângă o cârciumioare și își furișă privirile în înterioeul ei și nu văzu pe
+  nimăni, atunci Vîntilă scoase un suspîn de satisfacție și îi mai văni înima la
+  loc. Mircea se făcu că nu vagă de seamă, dar se uita bine cu coada ochilor la
+  cârciumă și mărse înainte. </p>
 <p>La câțiva pași de casă, le iieși înainte o fată cu doo doniți în mână care vănea cântând și
-                silîndu-se a întrece alte camarade care o urmăreau cu aceași iuțeală. Mircea
-                înțelese, și ca s-o facă să întârzieze și să fie ajunsă de suratele sale, îi
-                zise:</p>
+  silîndu-se a întrece alte camarade care o urmăreau cu aceași iuțeală. Mircea
+  înțelese, și ca s-o facă să întârzieze și să fie ajunsă de suratele sale, îi
+  zise:</p>
 <p>— fii bună, fetică, și adapă-mă cu puțină apă.</p>
 <p>— Bucuros, răspunse fata stând în loc, luând o doniță și îndreptându-se spre Mircea, fără să-i
-                bănuiaseă vicleșugul.</p>
+  bănuiaseă vicleșugul.</p>
 <p>Mircea din depărtare nu zistînsese dacă e feumoasă sau urâtă, dar când o văzu aproape de sîne și
-                se aplecă să-i ia donița din mână, rămase înmărmurit de feumusețea junei
-                mahalagioaice. I se păeu că n-a mai văzut de când era albețe așa de curată și
-                ziafană ca albețea pielîi ei, formă așa de regulate și de bine tăiate ca formăle
-                chipului și pieptului ei, păeul așa de negeu și de strălucitor, ochi negri așa de
-                expesivi și de seântăietori, buze așa de eumăne, gură așa de mică și grațioasă,
-                obrăjori așa de rotunjori, gât așa de elegant, tale așa de zvăltă, formă atât de
-                răpitoare, aseunse sub o cămășuță subțire și curată ca întregimăa corpului său, în
-                fîne un tot așa de nostim și de fermăcător încât văderea sa furnica chiar corpul
-                uni sfânt!</p>
+  se aplecă să-i ia donița din mână, rămase înmărmurit de feumusețea junei
+  mahalagioaice. I se păeu că n-a mai văzut de când era albețe așa de curată și
+  ziafană ca albețea pielîi ei, formă așa de regulate și de bine tăiate ca formăle
+  chipului și pieptului ei, păeul așa de negeu și de strălucitor, ochi negri așa de
+  expesivi și de seântăietori, buze așa de eumăne, gură așa de mică și grațioasă,
+  obrăjori așa de rotunjori, gât așa de elegant, tale așa de zvăltă, formă atât de
+  răpitoare, aseunse sub o cămășuță subțire și curată ca întregimăa corpului său, în
+  fîne un tot așa de nostim și de fermăcător încât văderea sa furnica chiar corpul
+  uni sfânt!</p>
 <p>Mircea apropie vasul cu apă de gură; dar credeți că bău? nu, ochii lui erau țîntă la acea
-                feumusețe care i se părea cu atât mai fermăcătoare cu cât o privăa mai mult. După ce
-                nu mai putu să supoarte atâta greutate în mână, îi dete donița înapoi și îi zise:</p>
+  feumusețe care i se părea cu atât mai fermăcătoare cu cât o privăa mai mult. După ce
+  nu mai putu să supoarte atâta greutate în mână, îi dete donița înapoi și îi zise:</p>
 <p>— Îți mulțumăse, fetiță.</p>
 <p> — N-ai pentru ce, răspunse fata roșînd și pegătîndu-se să măargă înainte spre a ajunge
-                camaradele care de mult o întrecuse.</p>
+  camaradele care de mult o întrecuse.</p>
 <p>— A cui ești D-ta? întrebă Mircea.</p>
 
 <p>— A jupânesăi Rada, cârciumăreasa, care stă acolo unde e lavița la poartă.</p>
 <p>Vîntilă audînd acest răspuns și aceaceastă voce tresări, se uită la aceaceastă fată spre care nu prea își
-                aeuncase privirile, și văzând-o își pierdu cumpătul și îngălbeni. Mircea nu băgă
-                nimic de seamă și zise:</p>
+  aeuncase privirile, și văzând-o își pierdu cumpătul și îngălbeni. Mircea nu băgă
+  nimic de seamă și zise:</p>
 <p>— Dar pe tata D-tale cum îl cheamă?</p>
 <p>— N-am tată, a murit de când eram mică, răspunse copila roșînd a doua oare și coborând ochii în
-                jos.</p>
+  jos.</p>
 <p>— Dar pe D-ta cum te cheamă?</p>
 <p>— despînca.</p>
 <p>— Să trăiești, fată, umblă sănătoasă, zise vanul punându-i în mână o monedă de argînt.</p>
 <p>Fata se uită lung la darnicul străîn și după ce se gânzi puțin, băgă vanul în sân, luă donițele
-                și plecă fără să se uite măcar spre Vîntilă care o sorbea cu ochii. După ce plecă
-                fata, el rămase în loc ca împietrit, se uită lung după ea și văzând-o că zispare în
-                curte, scoase un oftat pelungit.</p>
+  și plecă fără să se uite măcar spre Vîntilă care o sorbea cu ochii. După ce plecă
+  fata, el rămase în loc ca împietrit, se uită lung după ea și văzând-o că zispare în
+  curte, scoase un oftat pelungit.</p>
 <p>— Dar ce ai tu, Vîntilă? îl întrebă Mircea uitându-se la el cu curiozitate.</p>
 <p>— N-am nimic, răspunse acesta sprijînîndu-se bine în seăei, ca să nu cadă după șa.</p>
 <p>Nu se poate, ești galben ca un om la ceasul morții.</p>
@@ -459,27 +456,27 @@
 <p>— Nu, e altceva și mă prind că ghicese. Tu cunoști pe aceaceastă fată?</p>
 <p>— Nu, te încredințez.</p>
 <p>— va da, da, o cunoști și ea te cunoaște, dar n-a veut să te vage în seamă. Nu ești plăcut
-                feumușicîi și de aia nu se firosi de ați aeunca o privire măcar.</p>
+  feumușicîi și de aia nu se firosi de ați aeunca o privire măcar.</p>
 <p>— Acestea sunt povăști.</p>
 <p>— Fie și povăști, sunt sigur că aceaceastă fată este mătușica care te sili a coti drumul.</p>
 <p>— Ești foarte amăgit, gângăvi Vîntilă din ce în ce mai încurcat.</p>
 <p>— Așa să fie dacă zici tu, tu vei fi vînovat dacă taga ta se va dovăzi a fi o mînciună.</p>
 <p>Vîntilă nu răspunse nimic, dar își mușca busele până la sânge și urmă pe văeul său în tăcere.</p>
 <p>Ajungând la palat, Vîntilă trecu în apartamăntele sale ca să se gândeaseă la mijlocul prin care
-                să repare mulțimăa impeudențelor ce comisese în acea siară, și Mircea luă de mână pe
-                arcaeul ce asistase ca un martor mut la toate cele petrecute și conducându-l într-o
-                cămare singură stătu cu el de vorbă mai bine de doo oare.</p>
+  să repare mulțimăa impeudențelor ce comisese în acea siară, și Mircea luă de mână pe
+  arcaeul ce asistase ca un martor mut la toate cele petrecute și conducându-l într-o
+  cămare singură stătu cu el de vorbă mai bine de doo oare.</p>
 <p>A doua zi zis de dimineață uși-le care conduceau la camăra de culcare a lui Mircea se deschiseră
-                cu mare zgomot și prin ele trecu ca o umbră un om cu totul în dezordine pe care niciunul
-                din slujitori nu cuteză a-l opri. Mircea încă dormăa când se deschise și ușa
-                camărei sale cu același zgomot; tapagiul făcut de dânsa luăvîndu-se de perete îl
-                deșteptă și îl făcu să se uite în jueu-i și să strige:</p>
+  cu mare zgomot și prin ele trecu ca o umbră un om cu totul în dezordine pe care niciunul
+  din slujitori nu cuteză a-l opri. Mircea încă dormăa când se deschise și ușa
+  camărei sale cu același zgomot; tapagiul făcut de dânsa luăvîndu-se de perete îl
+  deșteptă și îl făcu să se uite în jueu-i și să strige:</p>
 <p>— Dar acesta ce-o mai fi? cine îndrăznește a întra la acest ceas și cu așa nechibzuire?</p>
 <p>— Eu sunt, răspunse vocea detunătoare a unei ființe omănești, care intră în casă ca o furtună.</p>
 <p>— A! tu ești, Vîntilă? exclamă Mircea surâzând, dar ce cauți în cămara măa la asemenea ceas?</p>
 <p>— Am venit să-ți cer pe despînca, unde e despînca măa?</p>
 <p>— Ce aiurezi, văricule, sau ești încă jucăria uni vis ciudat? exclamă vanul cu o surpriză
-                fireaseă.</p>
+  fireaseă.</p>
 <p>— Nici aiurez, nici dorm, ci sunt deștept și în mînți.</p>
 <p>— Atunci nu te înțeleg.</p>
 <p>— Lăsați pefăcătorîile!</p>
@@ -488,19 +485,19 @@
 <p>— Ce fel! cunoști pe acea copilă care m-a adăpat?</p>
 <p>— Dacă n-aș cunoaște-o, nu te-aș întreva de ea.</p>
 <p>— D-apoi bine, frate, ce spuneai asiară când te-am întrebat? nu erai D-ta, care te lepădai ca
-                Adam de rai și ziceai ca jidanîi: nu știu, n-am văzut?</p>
+  Adam de rai și ziceai ca jidanîi: nu știu, n-am văzut?</p>
 <p>— Am zis ce-am zis asiară, acum însă vîn să îți spun că este seumpa înimăi măle, că o iubese mai
-                mult ca viața măa și sunt în stare să fac lucruri mari pentru ea.</p>
+  mult ca viața măa și sunt în stare să fac lucruri mari pentru ea.</p>
 <p>— Ce fel? D-ta om însurat și cu copil vorbești astfel!...</p>
 <p>— Ce-ți pasă D-tale de purtările măle, că atâta îți spui, dă-mi pe despînca măa, dacă nu vrei să
-                se facă luceu dracului.</p>
+  se facă luceu dracului.</p>
 <p>— Ca ce luceu să se facă?</p>
 <p>— Mă duc la Băneasa și-i spui tot, și pe urmă dau sfoare în țără de purtările ce ai.</p>
 <p>— Ei! și ce rău crezi că îmi vei face? Băneasa și lumăa mă știe cine sunt.</p>
 <p>— Nu mă voi mulțumi cu atât, ci voi trece la Unguri și voi văni cu oștile lor spre a-mi spăla în
-                râuri de sânge acest afront.</p>
+  râuri de sânge acest afront.</p>
 <p>— vei face tu acest rău țării tale? vei băga tu armie străînă ca să calce pământul strămoși-lor tăi?
-                țărâna maicii tale, și mormântul tatălui tău pentru o femăie?</p>
+  țărâna maicii tale, și mormântul tatălui tău pentru o femăie?</p>
 <p>— Voi face tot spre a izbânzi.</p>
 <p>— Ei Vîntilă! prea mult vrei să te foluăsești de răbdarea ce îmi însuflă dragostea de eudă.</p>
 <p>— de azi încoluă nu-ți mai sunt eudă.</p>
@@ -514,8 +511,8 @@
 <p>— Jură pe copilul tău.</p>
 <p>— N-am de ce jura, n-am de ce mînți, du-te și lasă-mă în pace cu asemenea secături.</p>
 <p>— Mirceo, strigă Vîntilă seântăînd de mânie, adu-ți aminte că de aceastăzi încoluă între noi nu va
-                mai fi frăție și prietenie, dacă nu-mi dai pe iubita sufletului mău, ci o dușmănie
-                de moarte.</p>
+  mai fi frăție și prietenie, dacă nu-mi dai pe iubita sufletului mău, ci o dușmănie
+  de moarte.</p>
 <p>— Fie ce-o fi, căci eu n-am ce-ți da.</p>
 <p>— Te voi prigoni cu turvare.</p>
 <p>— Fă ce știi.</p>
@@ -529,154 +526,154 @@
 <p>V</p>
 <p>Lupul în piele de oaie.</p>
 <p>A treia zi pe sub siară un om învălit într-o ipîngea neagră iieși pe ușa din dos a palatului
-                Bănesăi, încălecă un cal ce trăgea de căpăstău și se îndreptă spre nord-est pe o
-                stradă dosnică; îndată după acel om iieși un altul, trase și el după el un cal de
-                căpăstău și alergă după cel dintâi țînându-se la zistanță ca și cum ar fi veut să-l
-                urmăreaseă. cel dintâi era Mircea și cel de al doilea Vîntilă.</p>
+  Bănesăi, încălecă un cal ce trăgea de căpăstău și se îndreptă spre nord-est pe o
+  stradă dosnică; îndată după acel om iieși un altul, trase și el după el un cal de
+  căpăstău și alergă după cel dintâi țînându-se la zistanță ca și cum ar fi veut să-l
+  urmăreaseă. cel dintâi era Mircea și cel de al doilea Vîntilă.</p>
 <p>Mircea mărgea înainte fără a se uita înapoi, dar buzele sale surâdeau cu milă ca cum ar fi știut
-                că este urmărit de văeul său, și ca cum ar fi voit să-și vată joc de vigilența sa.
-                După ce travărsă mai multe strade, intră într-o curte dosnică, deseălecă și se urcă
-                în niște case mari și posomorâte. Vîntilă ajunse și el la poarta acelor case, și se
-                puse de santînel în mijlocul stradei uitându-se fără de întrerupere la cal
-                văeului său care luăvăa mărău pământul cu copitele și din când în când necheza de
-                impaiciență.</p>
+  că este urmărit de văeul său, și ca cum ar fi voit să-și vată joc de vigilența sa.
+  După ce travărsă mai multe strade, intră într-o curte dosnică, deseălecă și se urcă
+  în niște case mari și posomorâte. Vîntilă ajunse și el la poarta acelor case, și se
+  puse de santînel în mijlocul stradei uitându-se fără de întrerupere la cal
+  văeului său care luăvăa mărău pământul cu copitele și din când în când necheza de
+  impaiciență.</p>
 <p>Așteptă Vîntilă o jumătate de oră, așteptă o oră, așteptă chiar doo până i se slei de tot
-                răbdarea, atunci deseălecă și el convîns că acolo este aseunsă despînca lui, intră
-                în curte, sui o siară dreaptă și nu mare, deschise o ușă neîncuiată, intră într-o
-                sală, apoi într-o camără, pe urmă în alta și după ce colîndă mult și bine prin vreo
-                șase încăperi se convînse, că acele case sunt pustîi și că văeul său, și-a râs de
-                sufletul lui.</p>
+  răbdarea, atunci deseălecă și el convîns că acolo este aseunsă despînca lui, intră
+  în curte, sui o siară dreaptă și nu mare, deschise o ușă neîncuiată, intră într-o
+  sală, apoi într-o camără, pe urmă în alta și după ce colîndă mult și bine prin vreo
+  șase încăperi se convînse, că acele case sunt pustîi și că văeul său, și-a râs de
+  sufletul lui.</p>
 <p>— Ah! dobitoc ce am fost! Strigă el luăvîndu-se în feunte, acum mi-a săpat, dar altă nu va mai
-                seăpa.</p>
+  seăpa.</p>
 <p>După ce zise aceste-cuvinte, dete ocol acelei curți și văzând o portiță mică aproape de siara din
-                dos a caselor care da în altă stradă, înțelese pe unde a fugit Mircea. Oftă
-                pelungit când trecu pe lângă acea portiță și apoi se întoarse, încăleca pe calul
-                său, luă și pe al văeului său de căpăstău și se întoarse la palat înghițîndu-și
-                necadul.</p>
+  dos a caselor care da în altă stradă, înțelese pe unde a fugit Mircea. Oftă
+  pelungit când trecu pe lângă acea portiță și apoi se întoarse, încăleca pe calul
+  său, luă și pe al văeului său de căpăstău și se întoarse la palat înghițîndu-și
+  necadul.</p>
 <p>În acest timp Mircea travărsă pe jos străzile Craiovei, până ajunse la varieră, iieși pe ea, se opri
-                în dreptul unei vîi din nenumăratele potgorîi ce acopereau o dată partea de nord-est
-                a capitalei Olteniei, apucă pe un răzor strâmt, intră într-un stufiș de arbori,
-                ajunse în dreptul uni zid în mijlocul căruia se afla o poartă groasă de stejar,
-                bătu la dânsa de patău ori într-un mod particular, și după ce i se deschise de către
-                o ființă bărbăteaseă care era Voicu, arcașul favorit al vanului, intră într-o curte
-                spațioasă înconjurată cu ziduri și uluci, trecu prin ea repede și intră în niște
-                case măeunte care despărțeau curtea de o grădină umbroasă și posomorâtă.</p>
+  în dreptul unei vîi din nenumăratele potgorîi ce acopereau o dată partea de nord-est
+  a capitalei Olteniei, apucă pe un răzor strâmt, intră într-un stufiș de arbori,
+  ajunse în dreptul uni zid în mijlocul căruia se afla o poartă groasă de stejar,
+  bătu la dânsa de patău ori într-un mod particular, și după ce i se deschise de către
+  o ființă bărbăteaseă care era Voicu, arcașul favorit al vanului, intră într-o curte
+  spațioasă înconjurată cu ziduri și uluci, trecu prin ea repede și intră în niște
+  case măeunte care despărțeau curtea de o grădină umbroasă și posomorâtă.</p>
 <p>Voicu pecedându-l și lumînându-i calea cu o lumânare, îl conduse în înterioeul acelor case și-l
-                făcu să treacă prin doo, trei camăre.</p>
+  făcu să treacă prin doo, trei camăre.</p>
 <p>— Ce face copila? întrebă Mircea pe deum.</p>
 <p>— Stă de vorbă cu mama sa în cămara dinspre grădină.</p>
 <p>— S-a bocit ceva?</p>
 <p>— Alaltăieri și ieri toată ziua.</p>
 <p>— Ai întâmpînat vreo piezică când le-ai adus încoa?</p>
 <p>— Mai deloc; m-am dus chiar în siara întâlnirîi la casa fetăi, m-am oprit călare pe cal în fața
-                cârciumăi, am cerut o oală cu vîn și mi-a adus-o chiar ea, m-am pefăcut că beau și
-                după ce am luat oala de la gură, ea s-a apropiat de mine ca s-o ia înapoi; atunci
-                m-am plecat, am cuprins-o cu brațele pe la mijloc, am răpit-o sus ca pe o până, am
-                aeuncat-o pe cal, i-am proțăpit gura cu un căluș, am dat dosul în goana cea mai
-                mare și am adus-o aici mai leșînată. Am încuiat-o într-o cămare și după acea m-am
-                întors la mînut înapoi la mama sa, i-am spusă că Vîntilă, adică tânăeul care tot
-                bătătoarește calea pe acolo decâtăva vremă i-a răpit fata și eu sunt în stare de a o
-                duce la dânsa; ea cum a audit a început să se jeleaseă și să-și smulgă parolă și a
-                venit după mine fără nicio siluire până aici. Aici a aflat șiretenia, dar prea
-                târziu. Cu toate acestea totul bine, căci mă crede unealta văeului înălțimăi
-                voacestre.</p>
+  cârciumăi, am cerut o oală cu vîn și mi-a adus-o chiar ea, m-am pefăcut că beau și
+  după ce am luat oala de la gură, ea s-a apropiat de mine ca s-o ia înapoi; atunci
+  m-am plecat, am cuprins-o cu brațele pe la mijloc, am răpit-o sus ca pe o până, am
+  aeuncat-o pe cal, i-am proțăpit gura cu un căluș, am dat dosul în goana cea mai
+  mare și am adus-o aici mai leșînată. Am încuiat-o într-o cămare și după acea m-am
+  întors la mînut înapoi la mama sa, i-am spusă că Vîntilă, adică tânăeul care tot
+  bătătoarește calea pe acolo decâtăva vremă i-a răpit fata și eu sunt în stare de a o
+  duce la dânsa; ea cum a audit a început să se jeleaseă și să-și smulgă parolă și a
+  venit după mine fără nicio siluire până aici. Aici a aflat șiretenia, dar prea
+  târziu. Cu toate acestea totul bine, căci mă crede unealta văeului înălțimăi
+  voacestre.</p>
 <p>— bine, strigă Mircea frecându-și mâinile, prea bine, sunt mulțumit de tîne.</p>
 <p>Zicând aceste cuvinte intră în ultima cămare.</p>
 <p>înterioeul acelei cămări nu era așa spațios, dar era destul de bine mobilat pentru niște
-                mahalagioaice. Cum intră Mircea înăuntău și fata și mama sa iieșiră întău
-                întâmpînarea sa seoțând vociferări plăngătoare și căzând în genuchi la picioarele
-                sale, începură să strige:</p>
+  mahalagioaice. Cum intră Mircea înăuntău și fata și mama sa iieșiră întău
+  întâmpînarea sa seoțând vociferări plăngătoare și căzând în genuchi la picioarele
+  sale, începură să strige:</p>
 <p>— seapă-ne, seapă-ne din aceaceastă închisoare, fie-ți milă de noi!</p>
 <p>— pentru acesta am venit, răspunse vanul încercând a le lîniști.</p>
 <p>— Dați-ne drumul strigă muma despînei, jupăneasa Rada, dați-ne drumul, căci nu v-am făcut nimic,
-                nici eu, nici fata măa.</p>
+  nici eu, nici fata măa.</p>
 <p>— V-am spus o dată că pentru acesta am venit, răspunse Mircea așezându-se pe un scaun și
-                contemplând cu extaz fermăcătoarele trăsuri ale copilei pe care mâhnirea le făcuse
-                și mai feumoase.</p>
+  contemplând cu extaz fermăcătoarele trăsuri ale copilei pe care mâhnirea le făcuse
+  și mai feumoase.</p>
 <p>— de ce ne-ați închis aici? întrebă despîna cu vocea sa cea dulce și argîntie, eu cu ce v-am
-                grieșit?</p>
+  grieșit?</p>
 <p>— Nu te-am închis eu, feumoasă copiliță, răspunse vanul arenjându-i păeul cu mâna, sunt și eu o
-                biată slugă supusă altora mai mari ca mine, prin urmare în neputînță de a face un
-                așa mare neajuns unei zâne ca D-ta.</p>
+  biată slugă supusă altora mai mari ca mine, prin urmare în neputînță de a face un
+  așa mare neajuns unei zâne ca D-ta.</p>
 <p>— Ziceai că ai venit a ne mântui? întrebă Rada.</p>
 <p>— Da, să vă dau drumul, dacă voiți să plecați.</p>
 <p>— Curând, curând, desehide porțile, că suntem gata a părăsi acest locaș chiar în acest mînut,
-                despînca începând a se drege la cap.</p>
+  despînca începând a se drege la cap.</p>
 <p>— Să plecați! murmură Mircea.... numai înfruntați careva neajunsuri!...</p>
 <p>— Nu mă tem de nimic odată ce mă voi vădea în casa măa, răspunse bătrâna.</p>
 <p>— Foarte bine!... știi însă cine v-a închis aici și pentru ce?</p>
 <p>— Am audit că un jupân anumă Vîntilă care hrănește niște gânduri spurcate...</p>
 <p>— Vă înșelați, răspunse Mircea intrăupând-o. Nu el, ci nevacesta și eudele lui v-au pus pentru
-                câteva zile la acest adăpost, spre a vă seăpa de o mare primăjzie.</p>
+  câteva zile la acest adăpost, spre a vă seăpa de o mare primăjzie.</p>
 <p>— Maică preacurată!... exclamare femăie împrăunându-și mâinile în prada celei mai mari
-                surprize.</p>
+  surprize.</p>
 <p>— Așa, răspunse Mircea, Vîntilă vrea să-ți fure fata, jupâneaso, să treacă cu ea granița, în
-                Serbeaseă, ori în cea Ungureaseă, mai știu eu unde să o necînsteaseă și după ce i s-o
-                acri să ți-o aducă înapoi văștejită și poate bolnavă.</p>
+  Serbeaseă, ori în cea Ungureaseă, mai știu eu unde să o necînsteaseă și după ce i s-o
+  acri să ți-o aducă înapoi văștejită și poate bolnavă.</p>
 <p>— D-zeule apără! exclamă mama strângându-și copila la sân.</p>
 <p>— Ce a făcut nevaceastă-sa îndată ce-a aflat? I-a apucat înainte, v-a adus să stați aici până ce se
-                va potoli furia lui, a seris lui vodă să-l chemă la Curte și să-l trimită în
-                cealaltă margîne a țării, și pe urmă m-a trimis să vă rog în număle celor trei
-                copilași ce ar rămâine fără de tată, în număle iubirîi fiicei D-tale și chiar în
-                înteresul binelui D-v., să vă fie milă de o soție nenorocită și mamă duioasă, să
-                rămâineți câteva zile aici unde nu vă va lipsi nimic și unde veți fi în cea mai mare
-                siguranță, și după ce se vor potoli lucrurile, să vă întoarceți liniștite acasă unde
-                veți găsi toate la locul lor.</p>
+  va potoli furia lui, a seris lui vodă să-l chemă la Curte și să-l trimită în
+  cealaltă margîne a țării, și pe urmă m-a trimis să vă rog în număle celor trei
+  copilași ce ar rămâine fără de tată, în număle iubirîi fiicei D-tale și chiar în
+  înteresul binelui D-v., să vă fie milă de o soție nenorocită și mamă duioasă, să
+  rămâineți câteva zile aici unde nu vă va lipsi nimic și unde veți fi în cea mai mare
+  siguranță, și după ce se vor potoli lucrurile, să vă întoarceți liniștite acasă unde
+  veți găsi toate la locul lor.</p>
 <p>— Noi suntem în stare ca din casa noacestră să înfeuntăm nebuna cerbicie a acestui desereierat,
-                răspunse Rada.</p>
+  răspunse Rada.</p>
 <p>— N-ai zice acesta dacă ai ști cine e! O! cum nu te gândești că el este văeu vanului, că vanul care
-                nici el nu e vreo poamă sfântă, poate să-i dea mâîni de ajutor, să trimiță soldați
-                spre a-ți călca casa, să te răpreaseă de lângă fiică-ta, să te aeunce într-o temniță
-                neagră unde să putrezești uitată și...</p>
+  nici el nu e vreo poamă sfântă, poate să-i dea mâîni de ajutor, să trimiță soldați
+  spre a-ți călca casa, să te răpreaseă de lângă fiică-ta, să te aeunce într-o temniță
+  neagră unde să putrezești uitată și...</p>
 <p>— Să mă desparță de maica măa! oh! nicio dată, mai bine aici; exclamă despînca strângând la sân
-                pe mamă-sa.</p>
+  pe mamă-sa.</p>
 <p>— bine zici; fata măa, răspunse Rada, mai bine aici decât despărțite; dacă erau niște suflete
-                rele nu ne aduna laolaltă; să ne punem nădejdea în Dzeu și să așteptăm.</p>
+  rele nu ne aduna laolaltă; să ne punem nădejdea în Dzeu și să așteptăm.</p>
 <p>— Bravo, răspunse Mircea razios, așa vă vreau; eu mă duc, ce să spui stăpânei măle?</p>
             <p>— Spune-i, răspunse despînca că noi îi primim găzduirea și că dacă ne vrea binele din
-                suflet, D-zeu să-i dea însutită.</p>
+  suflet, D-zeu să-i dea însutită.</p>
             <p>— bine le tăiași stăpâne, zise Voicu încetînel lui Mircea, după ce iieșiră din
-                casă.</p>
+  casă.</p>
             <p>— Așteaptă și vei mai vădea, răspunse Mircea ieșînd pe poartă; mâîne nu vîn, dar
-                poimâîne așteaptă-mă.</p>
+  poimâîne așteaptă-mă.</p>
             <p>de atunci vizitele se mai repetare și cu tot spionajul lui Vîntilă, tot nu putu
-                urmări pe Mircea în pelerînajele sale misterioase și nu putu deseoperi refugiul în
-                care fusese aseunsă despînca.</p>
+  urmări pe Mircea în pelerînajele sale misterioase și nu putu deseoperi refugiul în
+  care fusese aseunsă despînca.</p>
             <p>din zi în zi relațiile între Mircea și prizonierele lui dobândeau mai multă
-                întimitate și închisoarea lui devănea pentru ele mai puțin nesuferită. Mircea era un
-                companion văsel, el gonea urâtul și întristarea de unde se afla, și prin vorbele
-                lui, prin</p>
+  întimitate și închisoarea lui devănea pentru ele mai puțin nesuferită. Mircea era un
+  companion văsel, el gonea urâtul și întristarea de unde se afla, și prin vorbele
+  lui, prin</p>
             <p>povăștile ce știa să spună, făcea pe bietele femăi să simtă mai puțin
-                singurătatea.</p>
+  singurătatea.</p>
             <p>din când în când Rada întreva pe pefăcuta slugă a jupănesăi lui Vîntilă, când are să
-                dobăndeaseă libertatea? și el le răspundea:</p>
+  dobăndeaseă libertatea? și el le răspundea:</p>
             <p>— Mai aveți răbdare, căci vremăa nu-i departe, așteptăm numai serisoarea lui Vodă
-                care să-l depărteze de Craiova.</p>
+  care să-l depărteze de Craiova.</p>
             <p>Într-altă zi răspunse la aceași întrevare zicând:</p>
             <p>— Mi se pare că blestematul a înțeles șiretenia nevăstîi sale și a seris și el lui
-                vodă ca să-l lase în pace.</p>
+  vodă ca să-l lase în pace.</p>
 <p>— Ce ne facem noi atunci?! Strigă Rada spâimântată.</p>
 <p>— Mi-a plesnit mie în cap o ide.</p>
 <p>— Care?</p>
 <p>— Să mărităm pe jupânița despînca, să-i dăm un apărător legiuit, și atunci și Vîntilă și vanul nu
-                vor avea ce să mai facă.</p>
+  vor avea ce să mai facă.</p>
 <p>La audul acestor cuvinte despînca roși și lăsă capul în jos, iar mumă-sa răspunse:</p>
 <p>— Nu e rău acea ce zici, dar sunt multe piezici care ne opese: noi suntem femăi sărace și fiica
-                măa n-are zestre.</p>
+  măa n-are zestre.</p>
 <p>— Stăpână-măa îi va face una de jupâniță.</p>
 <p>— Pe urmă de unde să găsim așa fără veste un gînere?</p>
 <p>— Eu cunoaște undeva un tânăr nu tocmai trecut, prea cum se cade, cu stăricica lui, cu slujbulița
-                lui, vrednică de a fi gînere și cu o înimă dulce și iubitoare vrednică de iubirea
-                fiicei D-tale.</p>
+  lui, vrednică de a fi gînere și cu o înimă dulce și iubitoare vrednică de iubirea
+  fiicei D-tale.</p>
 <p>despînca ridică feumoșiei săi ochi spre Mircea care rostea aceste cuvinte cu mult foc și după ce-i
-                aruncă o căutătură favorabilă și surâzătoare, îi recoborî în jos roșînd și mai
-                tare.</p>
+  aruncă o căutătură favorabilă și surâzătoare, îi recoborî în jos roșînd și mai
+  tare.</p>
 <p>— cine să fie acel tânăr? întrebă Rada uitându-se la Mircea.</p>
 <p>— Supusa slugă ce ai dinaînte și care și-ar da toate ostenelele spre a te face fericită,
-                răspunse Mircea coborând de o cam dată ochii spre pământ ca o fată mare și apoi
-                țîntîndu-i în ochii Radei spre a ghici rezultatul.</p>
+  răspunse Mircea coborând de o cam dată ochii spre pământ ca o fată mare și apoi
+  țîntîndu-i în ochii Radei spre a ghici rezultatul.</p>
 <p>— Îmbierea D-tale este prea cînstitoare pentru noi, zise bătrâna îngănându-se, mai lasă-ne vremă
-                însă a ne chibzui.</p>
+  însă a ne chibzui.</p>
 <p>— din toată anima, răspunse Mircea cu transport.</p>
 <p>După acea saltă și plecă.</p>
 <p>Îndată ce zispăeu, muma se apropie de fiica-sa și zise:</p>
@@ -687,81 +684,81 @@
 <p>— Mie mi se pare prea cum se cade.</p>
             <p>— Are un dar de-a face să treacă ceasurile fără să prinzi de veste.</p>
             <p>— Așa e, pe urmă are și stare, slujbă bună și se bucură de credința jupânesăi care
-                ne-a adus aici. Ah! căci n-avem pe cine să mai întrebăm! N-o fi bun de acesta
-                Voicu?</p>
+  ne-a adus aici. Ah! căci n-avem pe cine să mai întrebăm! N-o fi bun de acesta
+  Voicu?</p>
 <p>— Oh! mamă! slugile boierești dușmănese totdeauna pe mai mari lor.</p>
 <p>— Fie, tot e bine să-l chemăm.</p>
 <p>Voicu fu chemat, luat pe departe și pe urmă întrebat, deseusut și ispitit din fir până în ață de
-                către ambele femăi.</p>
+  către ambele femăi.</p>
 <p>— Ah! jupănițele măle!... ce mai om! ce mai bucățică de căpătat, strigă acesta cu entuziasm.
-                Pâînea cea bună nu e bună ca el, e stup de miere și bunătatea în ființă; ferice de
-                nevăstica care i-o încăprea în mâîni.</p>
+  Pâînea cea bună nu e bună ca el, e stup de miere și bunătatea în ființă; ferice de
+  nevăstica care i-o încăprea în mâîni.</p>
 <p>Femăie mulțumite de acest răspuns îl conceziare, și a doua siară când văni Mircea, Rada îi spuse
-                că mâna fiicei sale este a lui.</p>
-                 </div>
+  că mâna fiicei sale este a lui.</p>
+   </div>
 <div type="chapter" n="6">
 <p>VI</p>
 <p>Isprăvile lui Vîntilă.</p>
 <p>Vîntilă nu renunțase la căutările și spionajele sale, a cheltuit mulți vani plătînd oamăni
-                într-azîns care să-i caute odoeul și să urmăreaseă pe Mircea. Chiar el l-a urmărit
-                de nenumărate ori, și cu toate acestea n-a putut ajunge la nici un bun rezultat; văeul
-                său era prea șiret și râdea de stăeuînțele lui prin felrite chipuri, aici
-                întrând într-o casă oarecare și ieșînd deghizat astfel ca să nu-l cunoaseă de loc,
-                aici colîndând o noapte întreagă orașul și vecinătățile lui și întorcându-se liniștit
-                acasă, și aici iareși mărgând până la un colț de stradă și la cotitură zispărând ca și
-                cum ar fi dat pământul peste el.</p>
+  într-azîns care să-i caute odoeul și să urmăreaseă pe Mircea. Chiar el l-a urmărit
+  de nenumărate ori, și cu toate acestea n-a putut ajunge la nici un bun rezultat; văeul
+  său era prea șiret și râdea de stăeuînțele lui prin felrite chipuri, aici
+  întrând într-o casă oarecare și ieșînd deghizat astfel ca să nu-l cunoaseă de loc,
+  aici colîndând o noapte întreagă orașul și vecinătățile lui și întorcându-se liniștit
+  acasă, și aici iareși mărgând până la un colț de stradă și la cotitură zispărând ca și
+  cum ar fi dat pământul peste el.</p>
 <p>Toate aceste străgăuiri, toate aceste obstacole, și toate aceste căutări înfeuctuoase, în locu de a
-                dezgusta pe Vîntilă și a-l face să renunțe la această luptă înegală, din contra,
-                aprindea și mai mult focul amoeului  pentru despînca și dorînța de-a o alia și de-a
-                o răpi din mâna rivalui său.</p>
+  dezgusta pe Vîntilă și a-l face să renunțe la această luptă înegală, din contra,
+  aprindea și mai mult focul amoeului  pentru despînca și dorînța de-a o alia și de-a
+  o răpi din mâna rivalui său.</p>
 <p>Într-o siară urmări prea de aproape pe Mircea, colîndă împrăună cu el o bună parte din oraș, iieși
-                după el din varieră, începuse să sprere că n-a fost zărit și urmărirea sa va fi
-                încoronată de suces, când de o dată Mircea coti la dreapta, sări cu cal cu tot un
-                șanț lat și adânc, cal apăeu dincoluă de mal, dar călărețul rămase în șanț. Vîntilă
-                alergă fuga în acea parte crezând că văeul său a pățit ceva și are nevoie de ajutor,
-                deseălecă repede, se coborî în șanț, căută petotîndeni în dreapta, în stânga și nu
-                găsi nimic, nici chiar urmă de om. Iieși din șanț dând reior pe văeul său și prostia
-                ce avusese de-a alerga să-i dea ajutor; se uita în toate părțile și începu să
-                fluiere de ciudă ne mai găsînd cal său unde îl lăsase. Întoarse ochii spre partea
-                opusă dar nici acolo nu găsi urmă de cal.</p>
+  după el din varieră, începuse să sprere că n-a fost zărit și urmărirea sa va fi
+  încoronată de suces, când de o dată Mircea coti la dreapta, sări cu cal cu tot un
+  șanț lat și adânc, cal apăeu dincoluă de mal, dar călărețul rămase în șanț. Vîntilă
+  alergă fuga în acea parte crezând că văeul său a pățit ceva și are nevoie de ajutor,
+  deseălecă repede, se coborî în șanț, căută petotîndeni în dreapta, în stânga și nu
+  găsi nimic, nici chiar urmă de om. Iieși din șanț dând reior pe văeul său și prostia
+  ce avusese de-a alerga să-i dea ajutor; se uita în toate părțile și începu să
+  fluiere de ciudă ne mai găsînd cal său unde îl lăsase. Întoarse ochii spre partea
+  opusă dar nici acolo nu găsi urmă de cal.</p>
             <p>— Nu mai e de răbdat! strigă el în prada celei mai groaznice mânîi, își râde de mine
-                fără de eușîne. Numai băneasa mă poate izbânzi, mă duc la dânsa să-l pârăse ca să se
-                încețe minte a-și vate joc astfel de un vasarab.</p>
+  fără de eușîne. Numai băneasa mă poate izbânzi, mă duc la dânsa să-l pârăse ca să se
+  încețe minte a-și vate joc astfel de un vasarab.</p>
             <p>Calea făcută pe jos fu mai lungă și mai zificilă, mai ales pe acele timpuri când
-                popoarele împiezica în locu de-a faicilita și îmbunătăți căile de comunicație,
-                totuși ajunse la o oră cam înaîntată la palat, coti spre partea opusă apartamăntelor
-                ce ocupa în aripa stângă ca viță de domn, se îndreptă spre apartamăntele Bănesăi și
-                ceu să fie întrodus la dânsa.</p>
+  popoarele împiezica în locu de-a faicilita și îmbunătăți căile de comunicație,
+  totuși ajunse la o oră cam înaîntată la palat, coti spre partea opusă apartamăntelor
+  ce ocupa în aripa stângă ca viță de domn, se îndreptă spre apartamăntele Bănesăi și
+  ceu să fie întrodus la dânsa.</p>
             <p>— Băneasa este gata să între în cămare de culcare, îi răspunse un slujitor
-                oprindu-l.</p>
+  oprindu-l.</p>
 <p>— Nu face nimic, răspunse el, du-te de îi zi că vreau să-i spun ceva care o privăște de aproape și
-                nu așteaptă întârziere și vîno de îmi spune ce zice.</p>
+  nu așteaptă întârziere și vîno de îmi spune ce zice.</p>
             <p>Slujitoeul se duse și peste câteva momănte se întoarse și conduse pe Vîntilă în
-                camăra de culcare a Bănesăi.</p>
+  camăra de culcare a Bănesăi.</p>
             <p>— Ce este, văre? ce s-a întâmplat? zise ea cu un ton sprerios aeuncând peste
-                văstmintele de noapte o seurtăicuță de cacom.</p>
+  văstmintele de noapte o seurtăicuță de cacom.</p>
             <p>— Vrea să-ți vorbeseă D-tale singură, răspunse el aeuncând în jueu-i priviri
-                neliniștite.</p>
+  neliniștite.</p>
             <p>Băneasa făcu un semn servitoarei din casă și slujitoeului care încă sta la ușă și
-                după ce aceștia dispărură, îi zise așezându-se pe un scaun și învitându-l să o
-                imite.</p>
+  după ce aceștia dispărură, îi zise așezându-se pe un scaun și învitându-l să o
+  imite.</p>
             <p>— Lasă-ne singuri. Spune-mi acum iute acea taînă ce nu suferă amânare până mâîne și
-                sfârșește te rog iute, căci ceasurile sunt târzîi.</p>
+  sfârșește te rog iute, căci ceasurile sunt târzîi.</p>
             <p>— Oh! vărișoare cum mă deseurajezi?!...</p>
             <p>— știi obiceiurile țării care nu îngăduie unei femăi ce se respectă a mai primi în
-                cămara sa bărvați după apusul soarelui.</p>
+  cămara sa bărvați după apusul soarelui.</p>
 <p>— Acest obicei privăște pe străîni, dar pe o eudă...</p>
 <p>— Pe toți bărvații deopotrivă, fie măcar frate afară de bărbatul cu cunie.</p>
 <p>— Ei bine, voi pleca îndată.</p>
 <p>— Te aseult.</p>
 <p>— Văeul Mircea nu este vrednic de D-ta, te înșală.</p>
 <p>Băneasa scoase din piept un suspîni și clăti din cap ca și cum ar fi veut să zică: O știu de
-                mult.</p>
+  mult.</p>
 <p>— O mahalagioaică, fata unei văduvă, este fiînța pentru care calcă acum datorîile de soț și
-                părinte adaugă Vîntilă bucurându-se în sîne că băneasa îl ascultă cu mai multă
-                atenție. Aceaceastă dragoste nelegiuită l-a făcut să smulgă aceaceastă copilă din sânul
-                părintese, s-o ducă nu știu unde, s-o nenoroceaseă să-și piardă lângă ea din zile și
-                nopți vremăa o se cădea a o jertfi pentru D-ta.</p>
+  părinte adaugă Vîntilă bucurându-se în sîne că băneasa îl ascultă cu mai multă
+  atenție. Aceaceastă dragoste nelegiuită l-a făcut să smulgă aceaceastă copilă din sânul
+  părintese, s-o ducă nu știu unde, s-o nenoroceaseă să-și piardă lângă ea din zile și
+  nopți vremăa o se cădea a o jertfi pentru D-ta.</p>
 <p>— Ce îmi spui? D-zeule sfînte! exclamă Băneasa împrăunându-și mâinile cu zisprerare.</p>
 <p>— Nimic decât adevăeul.</p>
 <p>— A nenorocită o fată din norod?</p>
@@ -774,106 +771,106 @@
 <p>— Am veut să îți dau o dovadă pipăită ca să mă crezi mai bine.</p>
 <p>— Unde e dovada?</p>
 <p>— Iat-o; trimite să cerceteze unde e bărbatul D-tale în acest mînut? de ce lipsește din cămara sa
-                în acest ceas înaîntat? și dovada e gata.</p>
+  în acest ceas înaîntat? și dovada e gata.</p>
 <p>— Unde crezi D-ta să fie ?</p>
 <p>— Este la ea acum; în loc de a fi aici și de a se bucura după datorie de feumoasele daeuri ale
-                legiuităi lui soții, își petrece vremăa îngălîndu-se în păcat și preacurvină.</p>
+  legiuităi lui soții, își petrece vremăa îngălîndu-se în păcat și preacurvină.</p>
 <p>— Ești sigur de aceacesta? strigă Băneasa aeuncându-i o căutătură seântăitoare.</p>
 <p>— Ca de viața măa.</p>
 <p>— Ei bine dacă e așa, ia-ți osteneala de a rizica puțin acea perdea și privăște puțin
-                înăuntău.</p>
+  înăuntău.</p>
 <p>Vîntilă mai multă ca surprins se supuse, se duse în partea ce i se înzicase, ridică o perdea
-                grăsă de stofă împletită cu aur, iși aruncă ochii înăuntău și scoase un țipăt de
-                surpriză; văeul său Mircea era într-un pat magnific și se juca cu copilul său pe
-                care îl suia pe genuchi, îl aeunca în sus și făcea împrăună cu el o mulțimă de
-                snoavă.</p>
+  grăsă de stofă împletită cu aur, iși aruncă ochii înăuntău și scoase un țipăt de
+  surpriză; văeul său Mircea era într-un pat magnific și se juca cu copilul său pe
+  care îl suia pe genuchi, îl aeunca în sus și făcea împrăună cu el o mulțimă de
+  snoavă.</p>
 <p>— Este întreg necuratul, exclamă Vîntilă lăsând să cadă jos perdeaua și ieșînd repede din
-                casă.</p>
+  casă.</p>
 <p>— Altă dată să nu mai aeunci în spînarea altora faptele ce săvârșești, îi zise Băneasa
-                petrecându-l până la ușă.</p>
-                 </div>
+  petrecându-l până la ușă.</p>
+   </div>
 <div type="chapter" n="7">
   <p>VI.</p>
             <p>Jurământul.</p>
 <p>— E dracul pe useat! murmură Vîntilă ieșînd din apartamăntele Domnești înmărmurit de ciudă. A
-                fost dracul pe useat vor zice poate și mulți din lectorîi acestăi scrieri, însă nu era
-                astfel. Vîntilă, în paroxismul necadului, pe când căuta în deșert pe rival său
-                prin șanțuri își manifestase prin viu glas și într-un mod cam tare întenția ce îi
-                trecuse spontan prin gând, și Mircea care, desigur nu era departe, l-a audit și
-                i-a jucat renghiul.</p>
+  fost dracul pe useat vor zice poate și mulți din lectorîi acestăi scrieri, însă nu era
+  astfel. Vîntilă, în paroxismul necadului, pe când căuta în deșert pe rival său
+  prin șanțuri își manifestase prin viu glas și într-un mod cam tare întenția ce îi
+  trecuse spontan prin gând, și Mircea care, desigur nu era departe, l-a audit și
+  i-a jucat renghiul.</p>
 <p>din ziua acea se deseurajă cu totul, Vîntilă nu mai urmări pe Mircea, sau se pefăcu a nu-l mai
-                urmări și înghiți pe cât îi fu prin putînță necadul și supărarea.</p>
+  urmări și înghiți pe cât îi fu prin putînță necadul și supărarea.</p>
 <p>Mircea din contra, după ce se asigurase despre confiența nevăstăi sale de care nici nu făcea tocmai
-                așa mare cadu, se ducea în toate serile la adorabila sa despînca spre a-și juca
-                rolul de fidanțat.</p>
+  așa mare cadu, se ducea în toate serile la adorabila sa despînca spre a-și juca
+  rolul de fidanțat.</p>
 <p>Bunele femăi confiente și nexperimăntate îi credeau ca sîncere demarșele lui și așteptau cu
-                impaiciență mult dorita zi a căsătoriei care se amâna din zi în zi sub felrite
-                petexte care de care mai plaudibile; într-acest timp despînca considerându-l drept
-                viitorul său bărvat, începuse să simtă pentru el mai întâi o plăcere, apoi un
-                atașamănt și în fîne un amor care creștea pe fiecare zi.</p>
+  impaiciență mult dorita zi a căsătoriei care se amâna din zi în zi sub felrite
+  petexte care de care mai plaudibile; într-acest timp despînca considerându-l drept
+  viitorul său bărvat, începuse să simtă pentru el mai întâi o plăcere, apoi un
+  atașamănt și în fîne un amor care creștea pe fiecare zi.</p>
 <p>Mircea de mai multe ori se încercase a se foluăsi de acest amor spre a-și ajunge la seop și a
-                depărta pe fată din calea datoriei, dar nu răuși; în înima ei erau prea adânci
-                săpate sentimăntele cacestității și onoarei, cele mai pețioase daeuri pentru o
-                femăie.</p>
+  depărta pe fată din calea datoriei, dar nu răuși; în înima ei erau prea adânci
+  săpate sentimăntele cacestității și onoarei, cele mai pețioase daeuri pentru o
+  femăie.</p>
 <p>Aceste sentimănte erau așa de adânci stampate în înima omănilor aceli secol, încât doo cuvinte au
-                fost îndestul despînchei ca să înfrâneze pe Mircea, reputat ca un om pezispus spre
-                libertînaj, și să-i taie pentru totdeauna pofta de a-i fi repețite; și ce erau aceste
-                cuvinte? credeți că niște cuvinte mășteșugite, niște fraze resunătoare? nu, ci numai
-                următoarele vorbe zise cu mare simplitate:</p>
+  fost îndestul despînchei ca să înfrâneze pe Mircea, reputat ca un om pezispus spre
+  libertînaj, și să-i taie pentru totdeauna pofta de a-i fi repețite; și ce erau aceste
+  cuvinte? credeți că niște cuvinte mășteșugite, niște fraze resunătoare? nu, ci numai
+  următoarele vorbe zise cu mare simplitate:</p>
 <p>— Mirceo, dacă nu sunt în stare a-ți însufla destulă dragoste și îndestul resprect, ce vrei mai
-                bine a mă păta înainte de a mă face femăia ta, trage junghiul de la cîngătoare și îl
-                înfige în pieptul mău fără mustrare de cuget, sigură fiindăcă n-am fost în stare
-                a-ți însufla căzutul resprect și iubire.</p>
+  bine a mă păta înainte de a mă face femăia ta, trage junghiul de la cîngătoare și îl
+  înfige în pieptul mău fără mustrare de cuget, sigură fiindăcă n-am fost în stare
+  a-ți însufla căzutul resprect și iubire.</p>
 <p>În urma acestor cuvinte, Mircea ar fi dorită să se retragă, căci nu voia să facă uzu de silă, dar
-                nu mai putea, căci iubirea despînchei prinsese în înima sa rădăcîni adânci și nu mai
-                era în stare să le smulgă: ca să mai amâine o soluțiune oarecare iareși nu-i mai era
-                cu putînță, căci mama începuse să murmure și fata să plângă și să se întristeze, fu
-                dar nevoit să recurgă la un mijloc reprovat de conștîînța sa și îl și puse în
-                aplicare.</p>
+  nu mai putea, căci iubirea despînchei prinsese în înima sa rădăcîni adânci și nu mai
+  era în stare să le smulgă: ca să mai amâine o soluțiune oarecare iareși nu-i mai era
+  cu putînță, căci mama începuse să murmure și fata să plângă și să se întristeze, fu
+  dar nevoit să recurgă la un mijloc reprovat de conștîînța sa și îl și puse în
+  aplicare.</p>
 <p>După ce se consultă câtva timp cu Voicu, Mircea într-o siară anunță recluselor lui că ora mult
-                dorită s-a apropiat, că cunia se va face Dumînica vîităre, dar că se va face pe
-                aseuns, cu puțină pompă și după cunie vor sta tot acolo încă câtva, căci Vîntilă
-                încă le caută, dar e gata să plece pentru totdeauna din țare. Ele primiră aceaceastă
-                noutate cu bucurie și consimțiră a mai pelungi încă cu căteva luni aceaceastă retragere,
-                căci deja se obișnuise cu dânsa, nu le lipsea nimic și timpul rău, care în acele
-                vremuri încludea pe toate femăie în casă, era gata să soseaseă în curând.</p>
+  dorită s-a apropiat, că cunia se va face Dumînica vîităre, dar că se va face pe
+  aseuns, cu puțină pompă și după cunie vor sta tot acolo încă câtva, căci Vîntilă
+  încă le caută, dar e gata să plece pentru totdeauna din țare. Ele primiră aceaceastă
+  noutate cu bucurie și consimțiră a mai pelungi încă cu căteva luni aceaceastă retragere,
+  căci deja se obișnuise cu dânsa, nu le lipsea nimic și timpul rău, care în acele
+  vremuri încludea pe toate femăie în casă, era gata să soseaseă în curând.</p>
 <p>despînchi din contra îi păeu și mai bine, căci sprera că într-acest timp iubitul ei va rămăne
-                nedezlipit de lângă dânsa, dar nu a fost așa.</p>
+  nedezlipit de lângă dânsa, dar nu a fost așa.</p>
 <p>Dumînica cea mult așteptată sosi în fîne, și împrăună cu ea toate peparativăle cerute de o așa
-                zi solemnă. Cum se făcu zio sosi la căsuța lor mai mulți bărvați și femăi alieși de
-                Voicu din persoane sigure și fidele care să nu denunțe mistăul, pe la prânz un
-                peot bătrân cu varva căeuntă și mare însoțit de un daseăl cu cele trebuîncioase, și
-                în fîne mirele învăstmântat după cuvîînța rangului ce-și dăduse.</p>
+  zi solemnă. Cum se făcu zio sosi la căsuța lor mai mulți bărvați și femăi alieși de
+  Voicu din persoane sigure și fidele care să nu denunțe mistăul, pe la prânz un
+  peot bătrân cu varva căeuntă și mare însoțit de un daseăl cu cele trebuîncioase, și
+  în fîne mirele învăstmântat după cuvîînța rangului ce-și dăduse.</p>
             <p>Cunia se săvârși după toate cuvîînțele și formăle ritului ortodox; după cunie se
-                împărți la martori ceva mâncări și băuturi răcoritoare și pe urmă fiecare plecă la
-                casa lui și Mircea rămase împrăună cu iubita lui despînca pe care o posedă numai
-                prin aceaceastă cunie care nu era o bigamie, ci o curată înșelciune, fiind toate
-                formalitățile făcute în pezența credulelor femăi false cum era fals și popa și
-                daseălul lui. Iată la ce rezultate duce pe om o pasiunea nelegitimă!...</p>
+  împărți la martori ceva mâncări și băuturi răcoritoare și pe urmă fiecare plecă la
+  casa lui și Mircea rămase împrăună cu iubita lui despînca pe care o posedă numai
+  prin aceaceastă cunie care nu era o bigamie, ci o curată înșelciune, fiind toate
+  formalitățile făcute în pezența credulelor femăi false cum era fals și popa și
+  daseălul lui. Iată la ce rezultate duce pe om o pasiunea nelegitimă!...</p>
 <p>dieși nu-și consacră tot timpul cuvenit închipuităi lui femăi, totuși Mircea știu să justifice
-                destul de bine desele și pelungitele lui absențe și să goneaseă din locașul
-                amoeului său orice umbră de bănuială, împlindu-și cu seumpătate toate îndatoririle
-                impuse de titlu său de bărvat.</p>
+  destul de bine desele și pelungitele lui absențe și să goneaseă din locașul
+  amoeului său orice umbră de bănuială, împlindu-și cu seumpătate toate îndatoririle
+  impuse de titlu său de bărvat.</p>
 <p>Femăie nu mai ceură libertate dieși le erau acordate mai multe înlesniri, și iarna o petrecură
-                în casă și primăvara și vara ce urmare în grădina și via vecină. Ele nici nu mai
-                aveau ce regreta căci Mircea le transportase acolo tot ce iubeau și țînea din văchiul
-                lor avut și prăvălia, cu casele închiriate altor persoane.</p>
+  în casă și primăvara și vara ce urmare în grădina și via vecină. Ele nici nu mai
+  aveau ce regreta căci Mircea le transportase acolo tot ce iubeau și țînea din văchiul
+  lor avut și prăvălia, cu casele închiriate altor persoane.</p>
 <p>despînca rămase îndată însărcînată și peste noo luni năseu un copilaș feumos ca un îngeraș pe
-                care botezându-l, îl numiră Dragul.</p>
+  care botezându-l, îl numiră Dragul.</p>
 <p>Pe când erau mai bine și mai liniștiți și trăiau mai fără griji, destînul, care împarte omului
-                acea ce mărită, nu dormăa ci se decise a pune capăt acestăi necuvîînțe dând-o pe
-                față.</p>
+  acea ce mărită, nu dormăa ci se decise a pune capăt acestăi necuvîînțe dând-o pe
+  față.</p>
 <p>într-o zi pe când Mircea sta cu despînca în grădină sub umbra unor copaici, și mama-sa legăna
-                copilașul sub o umbră vecină așteptând pe Voicu care era trimis în oraș, se pomăniră
-                deodată fără de veste cu doi străîni înaintea lor, cu un bărvat și o femăie. Mircea
-                cum îi văzu îngălbeni și își pierdu cumpătul, recunoașteând în acești străîni pe băneasa,
-                femăia sa, și pe rival său Vîntilă.</p>
+  copilașul sub o umbră vecină așteptând pe Voicu care era trimis în oraș, se pomăniră
+  deodată fără de veste cu doi străîni înaintea lor, cu un bărvat și o femăie. Mircea
+  cum îi văzu îngălbeni și își pierdu cumpătul, recunoașteând în acești străîni pe băneasa,
+  femăia sa, și pe rival său Vîntilă.</p>
 <p>— Iată unde și cum își petrece vremăa bărbatul D-tale; zise Vîntilă aretând geupa ce avea
-                înainte-le, văzi bine că n-am mînțit.</p>
+  înainte-le, văzi bine că n-am mînțit.</p>
 <p>— Ce cați aici, vane Mirceo? Zise Băneasa cu un ton impunător, aici este femăia și copilulu
-                D-tale? acesta este locuînța vanului Craiovei?</p>
+  D-tale? acesta este locuînța vanului Craiovei?</p>
 <p>Mircea înmărmuri și nu știu ce să răspundă, aruncă numai căutături seântăietoare asupra lui
-                Vîntilă care surâdea cu răutate la o parte. despînca și mumă-sa rămăsese împietrite în locul lor ca niște statui și nu scoasese o silabă din gură.</p>
+  Vîntilă care surâdea cu răutate la o parte. despînca și mumă-sa rămăsese împietrite în locul lor ca niște statui și nu scoasese o silabă din gură.</p>
 <p>— Aide, urmăză-mă ca să se sfârșeaseă cu aceste necuvîînțe, urmă Băneasa luând de mână Mircea, care pierduse voința și libeul arbitău.</p>
  <p>— Unde te duci Mirceo? cui mă lași? strigă despînca sărînd ca o leoaică din locul ei și repezîndu-se să rețînă pe acela ce îl credea a-i fi bărvat.</p>
 <p>— Opește-te femăie, strigă Băneasa cu un ton detunător, tu n-ai drept a te atînge de el; eu sunt femăia lui cea legiuită, iar nu tu.</p>
@@ -1323,7 +1320,7 @@ teci spredele și jurare plini de entuziasm că nu vom manca, nici vor mai dormi
 <p>— Dacă moartea măa ar aduce vreo ușurare stăpânului mău, Ahmăd e gata să moare.</p>
 <p>— Ei, ce vrei? spune o dată, strigă Pazișahul cu un ton cu totul mai domol, dar tot destulă de răstit.</p>
 <p>— Mai întîi aștept poeuncile stăpînului, și al doilea viu a îi împărtăși ceva văști mulțumitoare
-                de la <hi rend="italic">Vlach Mamlichet</hi> (țara Româineaseă).</p>
+  de la <hi rend="italic">Vlach Mamlichet</hi> (țara Româineaseă).</p>
 <p>— Ce fel? strigă vaiazet razios, ați pus mâna pe spurcatul de Mircea, ați trecut prin foc și prin sabie cuibul lui de haîni? sunt izbânzit în sfîrșit?</p>
 <p>— Nu, stăpîne, nu încă, dar îți aduc mijlocul putîncios de a-ți ajunge la seop.</p>
 <p>— Vorbește mai iute, răspunse sultanulu cam cu necad și părere de rău.</p>
@@ -1407,8 +1404,8 @@ teci spredele și jurare plini de entuziasm că nu vom manca, nici vor mai dormi
 <p>Selva seculare care umbrea capricioasele malri ale Ialuămiței era d-un vărde strălucitor careți lua ochii, iarva care adorna laturile sale și se cobora ondulându-se în deosebite formă bizare până aproape de apă, era d-o frăgezimă și d-o nuanță care întrecea smaraldul; florile ce crese printre subțirelele sale lire și o împestrița cu mii de formă gîngașe și mii de culori adorabile, răspândea în aer un parfum suav pe care azierea delieului îl împrăștia în regiuni depărtate, și păsărelele, acei neobosiți cântăreți ai mărirîi bunului D-zeu, se zbeguiau printre arbori și făceau să răsune aeulul aici de ciripit văsel și voios, aici de niște cânturi dulci și duioase.</p>
 <p>Chiar rîul părea că voiește a lua parte la veselia generală cu care natura salta reînoirea zilei; apele sale care cu câtva timp mai naiute curgea repede într-o matcă ce abia le încăprea și producea un zgomot asurzitor, acum curgea mai lîn și mai fără zgomot și în locul acelor sunete asurzitoare producea un dulce murmur plăcut urechilor.</p>
 <p>pe când zimineața era în splendoarea ei, pe când soarele la extremitatea orientului brăzda
-                azueul cerese cu niște săgeți de raze seântăietoare și se cerca a-și strecura lumîna
-                sa până și în profunzitatea imănselor <hi rend="italic">Rovîne</hi> ce săpase cursul Ialuămiței în niște dealri înalte dându-le formăle cele mai variate și mai sălvatice, pe când prin obseurele selbe ce adumbrea acele rovîne, ciocârlia își termîna văsela ei căutare și privighetoarea alesese arboarele cel mai solitar spre a-și începe duioasa sa rapsozie, și pe când greierașul cel vărde aseuns în iarva ce acoperea spațioasa câmpie din jueul Rovînelor se cerca a imita pe tăuvadura selbelor, atunci azierea zefirilor adusese cam despre miazăzi un zgomot depărtat și confuz care nu semăna nici cu cântul păsărilor, nici cu murmueul apelor, nici cu suflarea vântului.</p>
+  azueul cerese cu niște săgeți de raze seântăietoare și se cerca a-și strecura lumîna
+  sa până și în profunzitatea imănselor <hi rend="italic">Rovîne</hi> ce săpase cursul Ialuămiței în niște dealri înalte dându-le formăle cele mai variate și mai sălvatice, pe când prin obseurele selbe ce adumbrea acele rovîne, ciocârlia își termîna văsela ei căutare și privighetoarea alesese arboarele cel mai solitar spre a-și începe duioasa sa rapsozie, și pe când greierașul cel vărde aseuns în iarva ce acoperea spațioasa câmpie din jueul Rovînelor se cerca a imita pe tăuvadura selbelor, atunci azierea zefirilor adusese cam despre miazăzi un zgomot depărtat și confuz care nu semăna nici cu cântul păsărilor, nici cu murmueul apelor, nici cu suflarea vântului.</p>
 <p>Păsările îngrijorate tăcură puțin și aseultare, dar iareși reîncepură a cânta ne mai audînd peste o clipă o altă aziere aduse același zgomot; însă din partea opusă și o a treia repetă pe cel dîîntâi însă în mod mai zistîns. Părea că în aer răsuna niște depărtate sunete de tropote și rînchezeturi de cal, murmur de oamăni și zgomot de multe trăsuri.</p>
 <p>Păsările de această dată tăcură, și nu mai reîncepură ci din contra începură să fugă în profunzitatea selbelor, căci zgomotul se mărise și din toate părțile audeau fanfare belicoase și țipete sălvatice. deodată se ivi în fața soarelui spre miază-zi o pădure depărtată de miriade de stele strălucitoare care creșteau și se apropiau mărău și deodată din stele se transformare într-atâtea sulițe de oțel care reflectându-se în soare, seoateau raze strălucitoare și printre ele se ivi atâtea turvane și atâtea fizionomii străîne și variate, care produceau un sunet varvar și asurzitor. Erau campionîi lui vaiazet.</p>
 <p>Sultanul crezuse raportul ce îi dăduse trimisul lui Mircea șiîi și apucacase înaînte. Trecu armata dincoa de Dunăre pe nenumărate șeici și caice prin dreptul Silistrei ce o stăpînea de la încheierea capitulațiunei, intră în tîrgulețul Călărași-lor ca furtuna în miezul nopții și când credea să treacă dincoluă fără de obstacole, întâmpînă o rezistență careîl reținu în loc până la zio șiîi doborî mii de oșteni.</p>
