@@ -11,6 +11,9 @@
                 <respStmt>               
                     <resp>codare POPLITE</resp>
                     <name>Teodora Iuriusciuc</name></respStmt>   
+                <respStmt>               
+                    <resp>verificare codare POPLITE</resp>
+                    <name>Lucretia Pascariu</name></respStmt>   
                 <respStmt>
                     <resp>corectură manuală</resp>
                     <name>Adelina Arcan</name>
@@ -74,7 +77,13 @@
     </teiHeader>
     <text>
 <body>
-<div type="chapter" n="1">
+   
+    <div type="part" n="18">
+        <p>Foița ziarului LIGA ORTODOXĂ</p>
+        <p>18</p>
+        <p>LUPTA PENTRU MĂRIRE</p>
+        <p>Mare roman dramatic inedit</p>
+<div type="section">
 <p>CAPITOLUL IX</p>
 <p>Cum Effendi Panaiot se înțelegea cu sluga sa Osman</p>
 <p>- Poate să stea acolo mai multe zile fără să fie descoperit?</p>
@@ -86,7 +95,7 @@
 <p>Valetul se înclină și ieși.</p>
 <p>Panaiot se îmbracă și ieși și dânsul ducându-se la prefectură.</p>
 </div>
-<div type="chapter" n="2">
+<div type="section">
 <p>CAPITOLUL X</p>
 <p>Corabia „Killarnay“</p>
 <p>Era o zi senină! Un vânt dulce adie. Marea era liniștită.</p>
@@ -121,11 +130,15 @@
 <p>— Am găsit! am găsit! exclamă el plin de bucurie!</p>
 <p>D. CASELLI</p>
 <p>(Va urma)</p>
-<p>Foița ziarului LIGA ORTODOXA</p>
-<p>LUPTA PENTRU MARIRE</p>
-<p>MARE ROMAN DRAMATICO INEDIT</p>
 </div>
-<div type="chapter" n="3">
+    </div>
+        
+        <div type="part" n="20">
+            <p>Foița ziarului LIGA ORTODOXĂ</p>
+            <p>20</p>
+            <p>LUPTA PENTRU MĂRIRE</p>
+            <p>Mare roman dramatic inedit</p>
+            <div type="section">
 <p>CAPITOLUL XI</p>
 <p>Sir James Houston</p>
 <p>Nu pot să înțeleg întârzierea asta.</p>
@@ -182,12 +195,14 @@
 <p>Cu gândurile acestea el se îndrepă către casa vrăjitorului.</p>
 <p>D. CASELLI</p>
 <p>(Va urma)</p>
-<p>Foița ziarului LIGA ORTODOXA</p>
-<p>21</p>
-<p>LUPTA PENTRU MĂRIRE</p>
-<p>MARE ROMAN DRAMATICO INEDIT</p>
-</div>
-<div type="chapter" n="4">
+            </div>
+        </div>       
+            <div type="part" n="21">
+                <p>Foița ziarului LIGA ORTODOXĂ</p>
+                <p>21</p>
+                <p>LUPTA PENTRU MĂRIRE</p>
+                <p>Mare roman dramatic inedit</p>
+<div type="section">
 <p>CAPITOLUL XII</p>
 <p>Prin ce mijloace vrăjitorul Belachini înșeală pe clienții săi</p>
 <p>Daca ne coborâm din calea Perei și tranversăm ulița numită Socak intrăm într-o stradelă îngustă</p>
@@ -227,12 +242,14 @@
 <p>Prefectul se uită la aceste flăcări cu un zâmbet.</p>
 <p>D. CASELLI</p>
 <p>(Va urma)</p>
-<p>Foița ziarului LIGA ORTODOXA</p>
-<p>22</p>
-<p>LUPTA PENTRU MĂRIRE</p>
-<p>MARE ROMAN DBAMATICO INEDIT</p>
 </div>
-<div type="chapter" n="5">
+            </div>
+                <div type="part" n="22">
+                    <p>Foița ziarului LIGA ORTODOXĂ</p>
+                    <p>22</p>
+                    <p>LUPTA PENTRU MĂRIRE</p>
+                    <p>Mare roman dramatic inedit</p>
+<div type="section">
 <p>CAPITOLUL XII</p>
 <p>Dar după puțin timp, pereții începură a se încălzi de o lumină ca de foc și acele fenomene se apropiară și iar se depărtară de dânsul încât fu cuprins de o spaimă aparentă și rămase cu ochii holbați la aceste spăimântătoare figuri și sudorile îl curgeau șiroae pe frunte și pe tot corpul.</p>
 <p>Vocea vrăjitorului nevăzut se auzi:</p>
@@ -272,7 +289,7 @@
 <p>Dar domnul nu se lipește de dânsul...</p>
 <p>Obosit de atâta luptă, după multe ceasuri adormi....</p>
 </div>
-<div type="chapter" n="6">
+<div type="section">
 <p>CAPITOLUL XIII.</p>
 <p>Cum banditul Karamavraki introducându-se în casa cherului Apostol sub ușă ca unul Sir James Houston, ucide pe Casiothis.</p>
 <p>Era târziu noapte.</p>
@@ -283,13 +300,14 @@
 <p>Fața lui era zbârcită, toată tristă!</p>
 <p>D. CASELLI</p>
 <p>(Va urma)</p>
-<p>Foița ziarului LIGA ORTODOXA</p>
-<p>23</p>
-<p>LUPTA</p>
-<p>PENTRU MĂRIRE</p>
-<p>MARE ROMAN DRAMATICO INEDIT</p>
 </div>
-<div type="chapter" n="7">
+                </div>
+                    <div type="part" n="23">
+                        <p>Foița ziarului LIGA ORTODOXĂ</p>
+                        <p>23</p>
+                        <p>LUPTA PENTRU MĂRIRE</p>
+                        <p>Mare roman dramatic inedit</p>    
+<div type="section">
 <p>CAPITOLUL XIII</p>
 <p>O adâncă durere sufletească îl stăpânea și el își acoperi fața cu amândouă mâinile.</p>
 <p>Si așa sta dânsul multă vreme, uitând de prezent și cufundat numai în durerea sa.</p>
@@ -340,17 +358,21 @@
 <p>— All right!</p>
 <p>(Va urma)</p>
 <p>D. CASELLI</p>
-<p>Foița ziarului LIGA ORTODOXA</p>
-<p>24</p>
-<p>LUPTA PENTRU MĂRIRE</p>
-<p>MARE ROMAN DRAMATICO INEDIT</p>
 </div>
-<div type="chapter" n="8">
+                    </div>
+                        <div type="part" n="24">
+                            <p>Foița ziarului LIGA ORTODOXĂ</p>
+                            <p>24</p>
+                            <p>LUPTA PENTRU MĂRIRE</p>
+                            <p>Mare roman dramatic inedit</p>
+<div type="section">
 <p>CAPITOLUL XIII</p>
 <p>— All right! răspunse cu liniște James Houston.</p>
 <p>Omul acela îmbrăcat cu o manta militărească nu era nimeni altul decât prefectul Panaiot Effendi.</p>
 <p>Un zîmbet de mulțumire îi trecu prin față, când James Houston îi răspunse:</p>
 <p>— All right!</p>
+</div>
+    <div type="section">
 <p>CAPITOLUL XIV</p>
 <p>Cum scapă Olympia de dezonoare din mâinele consilierului Ibrahim Suley Pacha</p>
 <p>Ibrahim Suley Pacha așteaptă cu cea mai înfocată nerăbdare satisfacerea plăcerii sale, și a trebuit să rămână foarte surprins când văzu că fata fu adusă în acel mod înaintea lui.</p>
@@ -383,13 +405,14 @@
 <p>Negrii nu mai întâmpinau nicio rezistență din partea fetei.</p>
 <p>(Va urma)</p>
 <p>D. CASELLI</p>
-<p>Foița ziarului LIGA ORTODOXA</p>
-<p>25</p>
-<p>LUPTA</p>
-<p>PENTRU MĂRIRE</p>
-<p>MARE ROMAN DRAMATICO INEDIT</p>
-</div>
-<div type="chapter" n="9">
+    </div>
+                        </div>
+                            <div type="part" n="25">
+                                <p>Foița ziarului LIGA ORTODOXĂ</p>
+                                <p>25</p>
+                                <p>LUPTA PENTRU MĂRIRE</p>
+                                <p>Mare roman dramatic inedit</p>
+<div type="section">
 <p>CAPITOLUL XVI</p>
 <p>În ce mod Istrate găsește o veche cunoștință a lui pe care de atâția ani o credea moartă.</p>
 <p>Istrate se trezi din somnul lui.</p>
@@ -437,14 +460,14 @@
 <p>«Călătorim în India!</p>
 <p>Istrate dădu din cap în semn că a înțeles și sprinijit de către căpitan și de Carrich ieși din cabina sa, se urcă pe bordul corăbiei și după câteva minute se află instalat în cabina căpitanului.</p>
 <p>(Va urma)</p>
-<p>D. CASELLI</p>
-<p>Foița ziarului LIGA ORTODOXA</p>
-<p>26</p>
-<p>LUPTA</p>
-<p>PENTRU MĂRIRE</p>
-<p>MARE ROMAN DRAMATICO INEDIT</p>
 </div>
-<div type="chapter" n="10">
+                            </div>
+                                <div type="part" n="26">
+                                    <p>Foița ziarului LIGA ORTODOXĂ</p>
+                                    <p>26</p>
+                                    <p>LUPTA PENTRU MĂRIRE</p>
+                                    <p>Mare roman dramatic inedit</p>
+<div type="section">
 <p>CAPITOLUL XVII</p>
 <p>- Dacă te vei mișca de acolo, strigă ea, să știi că te voi împușca!</p>
 <p>— Ascultă-mă, doamnă am venit cu o rugăminte către d-ta, murmură Panaiot cu vocea duioasă.</p>
@@ -492,13 +515,14 @@
 <p>Palid de mânie, cu buzele murmurătoare Panaiot mai stătu un minut uitându-se la acea față candidă de înger, pe urmă părăsi repede camera fără a scoate un cuvânt.</p>
 <p>Stratonice căzu pe un scaun.</p>
 <p>(Va urma)</p>
-<p>D. CASELLI</p>
-<p>Foița ziarului LIGA ORTODOXA</p>
-<p>LUPTA.</p>
-<p>PENTRU MĂRIRE</p>
-<p>MARE ROMAN DRAMATlOO INEDIT</p>
 </div>
-<div type="chapter" n="11">
+                                </div>
+                                    <div type="part" n="27">
+                                        <p>Foița ziarului LIGA ORTODOXĂ</p>
+                                        <p>27</p>
+                                        <p>LUPTA PENTRU MĂRIRE</p>
+                                        <p>Mare roman dramatic inedit</p>
+<div type="section">
 <p>CAPITOLUL XVIII</p>
 <p>Cum vrăjitorul Bellachini dă să înțeleagă Stratonciei că soțul ei nu muri de o moarte naturală</p>
 <p>E noapte.</p>
@@ -561,12 +585,14 @@
 <p>Ea știa foarte bine că vrăjitorul era un om ciudat, fără pereche.</p>
 <p>(Va urma)</p>
 <p>D. CASELLI</p>
-<p>Foița ziarului LIGA ORTODOXA</p>
-<p>LUPTA</p>
-<p>PENTRU MĂRIRE</p>
-<p>MARE ROMAN DRAMATICO INEDIT</p>
 </div>
-<div type="chapter" n="12">
+                                    </div>                                        
+<div type="part" n="28">
+<p>Foița ziarului LIGA ORTODOXĂ</p>
+<p>28</p>
+<p>LUPTA PENTRU MĂRIRE</p>
+<p>Mare roman dramatic inedit</p>
+<div type="section">
 <p>CAPITOLUL XVIII</p>
 <p>Privirea cea pătrunzătoare a vrăjitorului nu scăpase cele mai mici schimbări operate pe fața soției bancherului.</p>
 <p>Zise:</p>
@@ -615,25 +641,26 @@
 <p>După trecerea însă a câtva ceasuri, văzând el că nu mai iese, pleacă din ascunzătoarea sa și se îndreptă către casa bancherului.</p>
 <p>(Va urma)</p>
 <p>D. CASELLI</p>
-<p>Foița ziarului LIGA ORTODOXA</p>
-<p>29</p>
-<p>LUPTA</p>
-<p>PENTRU MĂRIRE</p>
-<p>MARE ROMAN DRAMATICO INEDIT</p>
 </div>
-<div type="chapter" n="13">
+</div>
+<div type="part" n="29">
+<p>Foița ziarului LIGA ORTODOXĂ</p>
+<p>29</p>
+<p>LUPTA PENTRU MĂRIRE</p>
+<p>Mare roman dramatic inedit</p>
+<div type="section">
 <p>CAPITOLUL XVIII</p>
 <p>Nici nu-i venea să creadă când Lucia îi spuse că stăpâna ei se întoarse cu două ceasuri mai înainte decât dânsul.</p>
 <p>Fața lui se întunecă și el murmură:</p>
 <p>— Trebuie să fie făcut cauză comună cu diavolul de a putut ieși fără să o observ!</p>
 </div>
-<div type="chapter" n="14">
+<div type="section">
 <p>CAPITOLUL XIX</p>
 <p>Cum Olymphia se zvârcolea în carcerile stâncilor și cum consilierul Ibrahim Suley Pașa își petrecea orele sale în haremul său</p>
 <p>Când Olympia fu scoasă pe jumătate leșinată din iatacul consilierului Ibrahim Suley pașa, fu împinsă cu brutalitate în pivnițele seraiului.</p>
 <p>Pivnițele acestui serai, sunt niște peșteri umede și mucigăite, pline de broaște și de gângănii de tot felul.</p>
 <p>Strigătul de disperare al celor închiși acolo nu străbate niciodată afară!</p>
-<p>Până să ajungă la închisoarea sa, Olympia fu purtată prin mai multe ganguri, prin care trecând auzea strigăte ce veneau din toate părțile. '</p>
+<p>Până să ajungă la închisoarea sa, Olympia fu purtată prin mai multe ganguri, prin care trecând auzea strigăte ce veneau din toate părțile.</p>
 <p>Aceste strigăte proveneau de la nenorocitele ființe care au încercat a se opune dorințelor desfrânate a consilierului.</p>
 <p>Zbirii lui Ibrahim înadins o duceau așa de încet ca să audă toate acele strigăte.</p>
 <p>În sfârșit ajunse la închisoarea ei.</p>
@@ -662,14 +689,14 @@
 <p>Numai moartea poate să aducă aici scăparea!</p>
 <p>Obosită Olympia căzu pe podeaua celulei.</p>
 <p>(Va urma)</p>
-<p>D. CASELLI</p>
-<p>Foița ziarului LIGA ORTODOXA</p>
-<p>30</p>
-<p>LUPTA</p>
-<p>PENTRU MĂRIRE</p>
-<p>MARE ROMAN DRAMATICO INEDIT</p>
 </div>
-<div type="chapter" n="15">
+</div>
+    <div type="part" n="30">
+        <p>Foița ziarului LIGA ORTODOXĂ</p>
+        <p>30</p>
+        <p>LUPTA PENTRU MĂRIRE</p>
+        <p>Mare roman dramatic inedit</p>
+<div type="section">
 <p>CAPITOLUL XVIII</p>
 <p>Puterile-i erau istovite, membrele începură să-i tremure de frig. Fel de fel de fantome îi apărură din întunecimea celulei.</p>
 <p>Istovită de foame și sete, sleită de frig căzu leșinată jos pe podeaua mocirloasă.</p>
@@ -684,7 +711,7 @@
 <p>Drept orice răspuns, Ibrahim al cărui sânge ardea în minutul acesta, strânse cu un fel de frenezie lascivă pe fermecătoarea Fatma în brațele sale, acoperind buzele, ochii, pieptul cu sărutări înfocate, și caută să potolească pofta lui așa demult dorită.</p>
 <p>Bătrâna mamă nu pierdea nicio mișcare a tânărului ei fiu, și când dânsul își atinsese scopul mult dorit, un zâmbet de mulțumire, îi lumină fața.</p>
 </div>
-<div type="chapter" n="16">
+<div type="section">
 <p>CAPITOLUL XX</p>
 <p>Cum furtuna nimicește corabia Klliarnay și ucide pe un om</p>
 <p>Corabia Kjilarnay împinsă de un vânt favorabil tăia valurile cu iuțeala unei săgeți.</p>
@@ -718,13 +745,14 @@
 <p>Se părea că trecuse pericolul.</p>
 <p>(Va urma)</p>
 <p>D. CASELLI</p>
-<p>Foița ziarului LIGA ORTODOXA</p>
-<p>31</p>
-<p>LUPTA</p>
-<p>PENTRU MĂRIRE</p>
-<p>MARE ROMAN DRAMATICO INEDIT</p>
 </div>
-<div type="chapter" n="17">
+    </div>
+    <div type="part" n="31">
+        <p>Foița ziarului LIGA ORTODOXĂ</p>
+        <p>31</p>
+        <p>LUPTA PENTRU MĂRIRE</p>
+        <p>Mare roman dramatic inedit</p>
+<div type="section">
 <p>CAPITOLUL XVIII</p>
 <p>Marea era mai linștită în jurul corabiei.</p>
 <p>Strigătele de disperare încetaseră.</p>
@@ -761,7 +789,7 @@
 <p>Corabia Killarnay ajunsese în portul Bombay.</p>
 <p>Ea ajunsese la țința călătoriei sale.</p>
 </div>
-<div type="chapter" n="18">
+<div type="section">
 <p>CAPITOLUL XXI</p>
 <p>Cum era deja Panaiot să se ducă pe Stratonice prin mijlocirea Luciei</p>
 <p>În camera de culcare Stratonice stă culcată pe patul ei de mătase.</p>
@@ -772,13 +800,14 @@
 <p>Trandafirii erau florile de predilecție ai lui Stratonice.</p>
 <p>Va urma)</p>
 <p>D. CASELLI</p>
-<p>Foița ziarului LIGA ORTODOXA</p>
-<p>32</p>
-<p>LUPTA</p>
-<p>PENTRU MĂRIRE</p>
-<p>MARE ROMAN DRAMATICO INEDIT</p>
 </div>
-<div type="chapter" n="19">
+</div>
+    <div type="part" n="32">
+        <p>Foița ziarului LIGA ORTODOXĂ</p>
+        <p>32</p>
+        <p>LUPTA PENTRU MĂRIRE</p>
+        <p>Mare roman dramatic inedit</p>
+<div type="section">
 <p>CAPITOLLL XVIII</p>
 <p>Fără trandafiri nu era niciodată camera ei.</p>
 <p>Privirea lui Stratonice e îndreptată către ușă.</p>
@@ -834,14 +863,16 @@
 <p>Poate era cloroform?</p>
 <p>Sau un narcotic?</p>
 <p>(Va urma)</p>
-<p>D. CASELU</p>
-<p>Foița ziarului LIGA ORTODOXA</p>
-<p>33</p>
-<p>LUPTA</p>
-<p>PENTRU MĂRIRE</p>
-<p>MARE ROMAN DRAMATICO INEDIT</p>
+<p>D. CASSELI</p>
 </div>
-<div type="chapter" n="20">
+    </div>
+    
+    <div type="part" n="33">
+        <p>Foița ziarului LIGA ORTODOXĂ</p>
+        <p>33</p>
+        <p>LUPTA PENTRU MĂRIRE</p>
+        <p>Mare roman dramatic inedit</p>
+<div type="section">
 <p>CAPITOLUL XVIII</p>
 <p>Lucia puse tava cu limonadă pe o mescioară ce se află lângă patul lui Stratonice.</p>
 <p>Culoarea palidă a feței lui Panaiot se transformă deodată într-o culoare roșie deschisă văzând paharul cu limonadă.</p>
@@ -899,12 +930,14 @@
 <p>Era zâmbetul lupului prădalnic care ține în ghiarele sale oaia nevinovată.</p>
 <p>(Va urma)</p>
 <p>D. CASELLI</p>
-<p>Foita ziarului LIGA ORTODOXA</p>
-<p>LUPTA</p>
-<p>PENTRU MĂRIRE</p>
-<p>MARE ROMAN DRAMATICO INEDIT</p>
 </div>
-<div type="chapter" n="21">
+    </div>
+    <div type="part" n="34">
+        <p>Foița ziarului LIGA ORTODOXĂ</p>
+        <p>34</p>
+        <p>LUPTA PENTRU MĂRIRE</p>
+        <p>Mare roman dramatic inedit</p>
+<div type="section">
 <p>CAPITOLUL XVIII</p>
 <p>— De ce, draga mea, te-ai schimbat așa deodată? întrebă Panaiot apropiidu-se de Stratonice.</p>
 <p>«Eu nu am nicio intenție rea cu tine.»</p>
@@ -959,13 +992,14 @@
 <p>Frumosul custum de noapte, era făcut numai în zdrențe.</p>
 <p>(Va urma )</p>
 <p>D. CASELLI</p>
-<p>Foița ziarului LIGA ORTODOXA</p>
-<p>36</p>
-<p>LUPTA</p>
-<p>PENTRU MĂRIRE</p>
-<p>MABE ROMAN DRAMATICO INEDIT</p>
 </div>
-<div type="chapter" n="22">
+    </div>
+    <div type="part" n="36">
+        <p>Foița ziarului LIGA ORTODOXĂ</p>
+        <p>36</p>
+        <p>LUPTA PENTRU MĂRIRE</p>
+        <p>Mare roman dramatic inedit</p>
+<div type="section">
 <p>CAPITOLUL XXII.</p>
 <p>Puneau una și alta la locul lor.</p>
 <p>Karamavraki se uită la dânșii. Acum aruncă o privire iubitoare spre frumoasa Roxelana.</p>
@@ -1023,15 +1057,16 @@
 <p>Dar colo, spre apus, spre pădurea în care se refugiase tarafu de lăutari și o parte din banda bandiților, acolo puteau să se retragă, de acolo nu răsuna nicio împușcătură.</p>
 <p>Karamavraki văzu că ar fi fost ostenală zadarnică orice încercare de a-și reține oamenii.</p>
 <p>De altfel nici nu era obiceiul lui a da lupta la câmp deschis.</p>
-<p>(Va urma )</p>
+<p>(Va urma)</p>
 <p>D. CASELLI</p>
-<p>Foița ziarului LIGA ORTODOXA</p>
-<p>37</p>
-<p>LUPTA</p>
-<p>PENTRU MĂRIRE</p>
-<p>MARE ROMAN DRAMATICO INEDIT</p>
 </div>
-<div type="chapter" n="23">
+    </div>
+    <div type="part" n="37">
+        <p>Foița ziarului LIGA ORTODOXĂ</p>
+        <p>37</p>
+        <p>LUPTA PENTRU MĂRIRE</p>
+        <p>Mare roman dramatic inedit</p>
+<div type="section">
 <p>CAPITOLUL XXII.</p>
 <p>Când se bătea, trebuia să fie undeva în tufișuri, între stânci, sau vreo altă ascunzătoare.</p>
 <p>	Cu glasul răgușit ordonă bandiților ca să-l urmeze.</p>
@@ -1074,7 +1109,7 @@
 <p>Un glonț îl nimerise în piept.</p>
 <p>Karamavraki aruncă o privire plină de milă spre Osman și dispăru ca o umbră fără viață.</p>
 </div>
-<div type="chapter" n="24">
+<div type="section">
 <p>CAPITOLUL XXIII</p>
 <p>Cum scapă Olympia din carcerile Stâncilor.</p>
 <p>Olympia se deșteaptă din leșinul în care căzuse.</p>
@@ -1102,13 +1137,14 @@
 <p>Din ce în ce mai mult o cuprindea foamea.</p>
 <p>(Va urma)</p>
 <p>D. CASELLI</p>
-<p>Foița ziarului LIGA ORTODOXA</p>
-<p>38</p>
-<p>LUPTA</p>
-<p>PENTRU MARIRE</p>
-<p>MARE ROMAN DRAMATICO INEDIT</p>
 </div>
-<div type="chapter" n="25">
+    </div>
+    <div type="part" n="38">
+        <p>Foița ziarului LIGA ORTODOXĂ</p>
+        <p>38</p>
+        <p>LUPTA PENTRU MĂRIRE</p>
+        <p>Mare roman dramatic inedit</p>
+<div type="section">
 <p>CAPITOLUL XXIII</p>
 <p>Setea o ardea și mai mult.</p>
 <p>Disperată la culme Olympia mai încearcă să scoată fereastra de la locul ei.</p>
@@ -1168,7 +1204,7 @@
 <p>Începu să-i dea primul ajutor.</p>
 <p>Și când pieptul Olympiel dădu cel dintâi semn de viață, pescarul luă lopețile și vâslind, întoarse barca spre coliba sa.</p>
 </div>
-<div type="chapter" n="26">
+<div type="section">
 <p>CAPITOLUL XXIV</p>
 <p>Cum Panaiot seduce pe Stratonice și cum acesta se răzbună.</p>
 <p>Panaiot așează cu blândețe pe Stratonice în pat.</p>
@@ -1179,13 +1215,14 @@
 <p>Panaiot cu mișcări gingașe scoase de pe corpul lui Stratonice superbul costum de noapte, care era doar zdrențe.</p>
 <p>(Va urma)</p>
 <p>D. CASELLI.</p>
-<p>Foița ziarului LIGA ORTODOXA</p>
-<p>39</p>
-<p>LUPTA</p>
-<p>PENTRU MĂRIRE</p>
-<p>MARE ROMAN DRAMATICO INEDIT</p>
 </div>
-<div type="chapter" n="27">
+    </div>
+    <div type="part" n="39">
+        <p>Foița ziarului LIGA ORTODOXĂ</p>
+        <p>39</p>
+        <p>LUPTA PENTRU MĂRIRE</p>
+        <p>Mare roman dramatic inedit</p>
+<div type="section">
 <p>CAPITOLUL XXIV</p>
 <p>Corpul admirabil a lui Stratonice rămase descoperit în fața sa.</p>
 <p>Era beat de fericire.</p>
@@ -1250,13 +1287,14 @@
 <p>Panaiot o strânse cu înfocare la pieptul său pe frumoasa văduvă:</p>
 <p>(Va urma)</p>
 <p>D. CASELLI.</p>
-<p>Foița ziarului LIGA ORTODOXA</p>
-<p>31</p>
-<p>LUPTA</p>
-<p>PENTRU MĂRIRE</p>
-<p>MARE ROMAN DRAMATICO INEDIT</p>
 </div>
-<div type="chapter" n="28">
+    </div>
+    <div type="part" n="31">
+        <p>Foița ziarului LIGA ORTODOXĂ</p>
+        <p>31</p>
+        <p>LUPTA PENTRU MĂRIRE</p>
+        <p>Mare roman dramatic inedit</p>
+<div type="section">
 <p>CAPITOLUL XXV</p>
 <p>Lucia voia să vorbească.</p>
 <p>Dar Stratonice cu un gest poruncitor îi taia imediat pofta de vorbit.</p>
@@ -1308,16 +1346,17 @@
 <p>Cu priviri scurtătoare se uita la ea, parcă ar fi voit să pătrundă în ea și să vadă ce are acolo.</p>
 <p>Lucia stătea în genunchi întoarsă către Stratonice fără a face cea mai mică mișcare.</p>
 <p>Stratonice apucă iute cracifixul.</p>
-<p>Îl ridica în sus. |</p>
+<p>Îl ridica în sus.</p>
 <p>(Va urma)</p>
 <p>D. CASELLI.</p>
-<p>Foița ziarului LIGA ORTODOXA</p>
-<p>82</p>
-<p>LUPTA</p>
-<p>PENTRU MĂRIRE</p>
-<p>MARE ROMAN DRAMATICO INEDIT</p>
 </div>
-<div type="chapter" n="29">
+    </div>
+    <div type="part" n="32">
+        <p>Foița ziarului LIGA ORTODOXĂ</p>
+        <p>32</p>
+        <p>LUPTA PENTRU MĂRIRE</p>
+        <p>Mare roman dramatic inedit</p>
+<div type="section">
 <p>CAPITOLUL XXV</p>
 <p>— Apropie-te! ordonă dânsa.</p>
 <p>Lucia se apropia.</p>
@@ -1333,7 +1372,7 @@
 <p>Doamna Casiothis rămase în picioare, gânditoare și murmură printre dinți:</p>
 <p>— Oare-și va ține jurământul? ............</p>
 </div>
-<div type="chapter" n="30">
+<div type="section" n="30">
 <p>CAPITOLUL XXVI</p>
 <p>Cum gândea Panaiot să se răzbune asupra lui Stratornice.</p>
 <p>Într-un pat alb ca zăpada dormea un om suferind și palid la față.</p>
@@ -1373,12 +1412,14 @@
 <p>Cu gândul la Stratonice el adormi din nou.</p>
 <p>(Va urma)</p>
 <p>D. CASELLI.</p>
-<p>Foița ziarului LIGA ORTODOXA</p>
-<p>LUPTA.</p>
-<p>PENTRU MĂRIRE</p>
-<p>ROMAN DRAMATICO INEDIT</p>
 </div>
-<div type="chapter" n="31">
+    </div>
+    <div type="part" n="33">
+        <p>Foița ziarului LIGA ORTODOXĂ</p>
+        <p>33</p>
+        <p>LUPTA PENTRU MĂRIRE</p>
+        <p>Mare roman dramatic inedit</p>
+<div type="section">
 <p>CAPITOLUL XXVII</p>
 <p>Cum Istrate face cunoștință cu un Rajah Indian și cum acesta îl primește în serviciul său</p>
 <p>Orașul Bombay al Indiei engleze, este așezat pe o mică insulă în Oceanul Indian.</p>
@@ -1428,12 +1469,15 @@
 <p>- Bună seara, Alteță, zise Sir lacob Colcester, căci nimeni altul nu era decât dânsul unul din cei doi vizitatori nocturni.</p>
 <p>(Vu urma)</p>
 <p>D. CASELLI.</p>
-<p>Foiti ziarului LIGA ORTODOXA</p>
-<p>LUPTA.</p>
-<p>PENTRU MĂRIRE</p>
-<p>MARE ROMAN DRAMATICO INEDIT</p>
 </div>
-<div type="chapter" n="32">
+    </div>
+    
+    <div type="part" n="34">
+        <p>Foița ziarului LIGA ORTODOXĂ</p>
+        <p>34</p>
+        <p>LUPTA PENTRU MĂRIRE</p>
+        <p>Mare roman dramatic inedit</p>
+<div type="section">
 <p>CAPITOLUL XXVII</p>
 <p>— Bine ai venit! exclamă Multan Singh, căci acesta era numele Rajahulul indian.— Te-am așteptat cu nerăbdare.</p>
 <p>— Alteța voastră, trebuie să scuz, răspunse înclinându-se Colcester, deoarece afacerile...</p>
@@ -1476,15 +1520,17 @@
 <p>Stârșitul Volumului I</p>
 <p>(Va urma)</p>
 <p>D. CASELLI.</p>
-<p>Foița ziarului LIGA ORTODOXA</p>
-<p>35</p>
 
-<p>LUPTA</p>
-<p>PENTRU MĂRIRE</p>
-<p>MARE ROMAN DRAMATICO INEDIT</p>
-<p>Volumul II</p>
+
 </div>
-<div type="chapter" n="33">
+    </div>
+        <div type="part" n="35">
+                <p>Foița ziarului LIGA ORTODOXĂ</p>
+                <p>35</p>
+                <p>LUPTA PENTRU MĂRIRE</p>
+                <p>Mare roman dramatic inedit</p>
+            <p>VOLUMUL II</p>
+<div type="section">
 <p>CAPITOLUL I</p>
 <p>Cum cititorul face cunoștință cu un nou personaj în povestirea sa.</p>
 <p>Preotul Gaspar Marghinoff, ședea ta casa sa, care era cea mai frumoasă din satul Aias-Aga, și se retrăsese în odaia sa de lucru.</p>
@@ -1512,14 +1558,15 @@
 <p>Pe când ședea acum în odaia sa de lucru, era silit să se gândească neîncetat la dânsa și în cartea ce era deschisă în fața lui, pironia ochii în văzduh, pe când imaginea ei stătea înaintea spiritului său.</p>
 <p>(Va urma)</p>
 <p>D. CASELLI.</p>
-<p>Fonița ziarului LIGA ORTODOXA</p>
-<p>56</p>
-<p>LUPTA</p>
-<p>PENTRU MĂRIRE</p>
-<p>MARE ROMAN DRAMATICO INEDIT</p>
-<p>Volumul II</p>
 </div>
-<div type="chapter" n="34">
+        </div>
+            <div type="part" n="56">
+                <p>Foița ziarului LIGA ORTODOXĂ</p>
+                <p>56</p>
+                <p>LUPTA PENTRU MĂRIRE</p>
+                <p>Mare roman dramatic inedit</p>   
+                <p>Volumul II</p>
+<div type="section">
 <p>CAPITOLUL I</p>
 <p>Și cu toate acestea se silia ca să nu se gândească neîncetat la frumoasă femeie.</p>
 <p>— Ce este asta, își zicea el singur rezumându-și capul pe mâna, nu cumva s-o fi strecurat în inima mea un amor egoist? oare nu simț numai amiciție pentru ea ci și un alt sentiment? Nu, nu! exclamă el protestând, pe când se sculă de pe scaun, așa ceva nu poate să fie și nu trebuie să fie!</p>
@@ -1557,13 +1604,16 @@
 <p>Deodată el sări în sus scoțând un strigăt.</p>
 <p>(Va urma)</p>
 <p>D. CASELLI.</p>
-<p>Foița ziarului LIGA ORTODOXA</p>
-<p>58</p>
-<p>PENTRU MĂRIRE</p>
-<p>MARE ROMAN DRAMATICO INEDIT</p>
-<p>Volumul II</p>
 </div>
-<div type="chapter" n="35">
+            </div>
+        
+        <div type="part" n="58">
+            <p>Foița ziarului LIGA ORTODOXĂ</p>
+            <p>58</p>
+            <p>LUPTA PENTRU MĂRIRE</p>
+            <p>Mare roman dramatic inedit</p>
+            <p>Volumul II</p>
+<div type="section">
 <p>CAPITOLUL I</p>
 <p>— Pentru că administrația mă urmărește și tare mult ar avrea să pună mâna pe mine, răspunse cel întrebat, dar o să fiu sincer cu Sfinția Ta și-ți voi spune adevărul, fiindcă ți-ai făcut pomană cu mine.</p>
 <p>«Nu te speria, nu te da înapoi, nu mă respinge dacă-ți voi spune numele meu.»</p>
@@ -1596,13 +1646,15 @@
 <p>— Nu îngenunchia înaintea mea, zise el, numai înaintea lui Dumnezeu se cuvine să îngenuncheze omul.</p>
 <p>(Va urma)</p>
 <p>D. CASELLI.</p>
-<p>Foita ziarului LIGA ORTODOXA</p>
-<p>LUPTA</p>
-<p>PENTRU MĂRIRE</p>
-<p>MARE ROMAN DRAMATICO INEDIT</p>
-<p>Volumul II</p>
 </div>
-<div type="chapter" n="36">
+        </div>
+        <div type="part" n="59">
+            <p>Foița ziarului LIGA ORTODOXĂ</p>
+            <p>59</p>
+            <p>LUPTA PENTRU MĂRIRE</p>
+            <p>Mare roman dramatic inedit</p>
+            <p>Volumul II</p>
+<div type="section">
 <p>CAPITOLUL I</p>
 <p>În acest moment ușa se deschise binișor și văduva Arcarian păși pragul.</p>
 <p>— Ai săvârșit o faptă bună părinte, zise ea încet.</p>
@@ -1623,7 +1675,7 @@
 <p>În fantazia lui ele amândouă, Roxelană și frumoasa văduvă, se contopiră într-una și aceeași persoană.</p>
 <p>Și inima lui Karamavraki ducea în vis dorul acestei femei unice.</p>
 </div>
-<div type="chapter" n="37">
+<div type="section">
 <p>CAPITOLUL II</p>
 <p>În ce mod Olympia regăsește pe mama sa.</p>
 <p>Stratonice se sculase de dimineață în ziua următoare.</p>
@@ -1675,7 +1727,7 @@
 <p>Mama sa ședea mută de admirare în fața acestei tinerei fete.</p>
 <p>- Așa te vreau, fiica mea! zise Stratonice mulțumită.</p>
 </div>
-<div type="chapter" n="38">
+<div type="section">
 <p>CAPITOLUL III</p>
 <p>Pentru care scop Olympia consultă pe vrăjitorul Bellachini.</p>
 <p>În biroul său obișnuit, pe fotoliul acela mâncat de molii, ședea vrăjitorul Mohamed Ben Seid, adâncit în cartea sa, Chabala.</p>
@@ -1707,14 +1759,15 @@
 <p>Era Olympia.</p>
 <p>(Va urma)</p>
 <p>D. CASELLI.</p>
-<p>Foița ziarului LIGA ORTODOXA</p>
-<p>60</p>
-<p>LUPTA</p>
-<p>PENTRU MĂRIRE</p>
-<p>MARE ROMAN DRAMATICO INEDIT</p>
-<p>Volumul II</p>
 </div>
-<div type="chapter" n="39">
+    </div>
+    <div type="part" n="60">
+        <p>Foița ziarului LIGA ORTODOXĂ</p>
+        <p>60</p>
+        <p>LUPTA PENTRU MĂRIRE</p>
+        <p>Mare roman dramatic inedit</p>
+        <p>Volumul II</p>
+<div type="section">
 <p>CAPITOLUL I</p>
 <p>Vrăjitorul zise cu obișnuitele sale cuvinte:</p>
 <p>— Ce vrei, tu, străină ?</p>
@@ -1749,7 +1802,7 @@
 <p>După aceea plecă.</p>
 <p>Vrăjitorul o urmă până la poarta casei și se reîntoarse înapoi în biroul său, adâncindu-se din nou în studiul Cabalei.</p>
 </div>
-<div type="chapter" n="40">
+<div type="section">
 <p>CAPITOLUL IV</p>
 <p>Cum Olimpia în cârciuma criminalilor caută o urmă despre Istrate.</p>
 <p>Este noapte.</p>
@@ -1801,14 +1854,16 @@
 <p>Povestirea vizitiului se părea că-l interesează deoarece da o mare atenție.</p>
 <p>(Va urma)</p>
 <p>D. CASELLI.</p>
-<p>Foița ziarului LIGA ORTODOXA</p>
-<p>60</p>
-<p>LUPTA</p>
-<p>PENTRU MĂRIRE</p>
-<p>MARE ROMAN DRAMATICO INEDIT</p>
-<p>Volumul II</p>
 </div>
-<div type="chapter" n="41">
+    </div>
+    
+    <div type="part" n="60">
+        <p>Foița ziarului LIGA ORTODOXĂ</p>
+        <p>60</p>
+        <p>LUPTA PENTRU MĂRIRE</p>
+        <p>Mare roman dramatic inedit</p>
+        <p>Volumul II</p>
+<div type="section">
 <p>CAPITOLUL I</p>
 <p>Ca să nu atragă atenția celor doi inși el făcu un semn cârciumarului.</p>
 <p>Cârciumarul se apropia de dânsul.</p>
@@ -1820,7 +1875,7 @@
 <p>Străinul auzise destul.</p>
 <p>După plecarea celor doi prieteni el se sculă, plăti cârciumarului consumația și ieși repede din cârciumă. El aflase ceea ce voia.</p>
 </div>
-<div type="chapter" n="42">
+<div type="section">
 <p>CAPITOLUL V.</p>
 <p>Prin care mijloace indienii voiau să scape de sub englezi.</p>
 <p>După ce Sir lacob Colcester se despărți de Rajabul Indian și de fostul prefect Istrate-Eflondi, aceștia doi intrară în palat.</p>
@@ -1896,11 +1951,15 @@
 <p>— Forțele noastre se ridică aproape la 10.000 de soldați și 20 de tunuri, răspunse bătrânul șef. </p>
 <p>— Sunt puțini, zise Rajahul, dar nu face nimic, tot noi vom învinge cu toate că armata engleză e aproape de cinci ori mai mare decât a noastră.</p>
 <p>(Va urma)</p>
-<p>71</p>
-<p>LUPTA </p>
-<p>PENTRU MĂRIRE</p>
-<p>MARE ROMAN DRAMATICO INEDIT</p>
-<p>Volumul II</p>
+</div>
+    </div>
+    <div type="part" n="71">
+        <p>Foița ziarului LIGA ORTODOXĂ</p>
+        <p>71</p>
+        <p>LUPTA PENTRU MĂRIRE</p>
+        <p>Mare roman dramatic inedit</p>
+        <p>Volumul II</p>
+<div type="section">
 <p>Aventura fusese periculoasă și ar fi putul să-l coste viața pe curajosul brigand, însă fiindcă unul dintre fii țăranului în chestiune îi dăduse odată ajutor ca să scape de urmărirea jandarmeriei, Karamavraki la rândul lui a căutat să-și arate recunoștința scăpând pe tatăl său din ghiarele nemiloasei explozii.</p>
 <p>— Ai o inimă bună, Karamavrachi, zise văduva când ei isprăvi istorisirea, și cu toate că de multe ori ai vărsat sânge, eu nu mă sfiesc să strâng aceste mâini ca ale unui amic.</p>
 <p>— Numai ca amic, replică banditul și se sculă.</p>
@@ -1941,6 +2000,7 @@
 <p>(Va urma)</p>
 <p>D. CASELLI.</p>
 </div>
+    </div>
 </body>
     </text>
 </TEI>
