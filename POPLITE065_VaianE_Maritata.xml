@@ -11,9 +11,16 @@
             <respStmt>
                <resp>codare POPLITE</resp>
                <name>Teodora Iuriusciuc</name></respStmt>   
+            <respStmt>               
+               <resp>verificare codare POPLITE</resp>
+               <name>Lucreția Pascariu</name></respStmt>
             <respStmt>
                <resp>corectură manuală</resp>
                <name>Rita-Andreea David</name>
+            </respStmt>
+            <respStmt>
+               <resp>verificare corectură manuală</resp>
+               <name>Oana Ionescu</name>
             </respStmt>
             <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
          </titleStmt>
@@ -75,26 +82,11 @@
    </teiHeader>
   <text>
        <body>
-           <p> MĂRITATĂ </p>
-           <p>Acesta e numele noului roman pe care vom începe a-l publica in numărul zece, afara de cel început deja. </p>
-           
-           <p> MĂRITATĂ </p>
-           <p> este o exactă schițare a moravurilor noastre actuale, făcută de primul nostru redactor </p>
-           <p> EUGEN VAIAN </p>
-           <p> și a cărui putere de observație și de expunere o vor judeca cititorii noștri daca n-au avut încă ocazia de a citi nuvelele și schițele sale după natură. </p>
-           <p> Totodată, ascultând dorințele majorității cititorilor noștri, Direcțiunea „Săptămânei ilustrate“ a hotărât a face încă un nou și foarte mare sacrificiu și a adăuga la acest roman ilustrațiuni explicative, desemnate de </p>
-		   
-           <p>În numărul viitor vom începe publicarea noului roman, </p>
-		   <p>MĂRITATĂ! </p>
-		   <p>scris de D. Eugen Vaian anume pentru „Septămâna” și ilustrat de  Const. Jiquidi </p>
-		  
-           <p>Citiți în pagina a cincea noul roman </p>
-		   <p>MĂRITATĂ </p>
-		   <p>scris de D. Eugen Vaian anume pentru „Septămâna” și ilustrat de Const. Jiquidi </p>
-		   
-          <p>MĂRITATĂ!</p>
-      
-<div type="chapter" n="1">
+          <div type="part">
+             <p>Săptămâna iliustrată</p>
+             <p>MĂRITATĂ!</p>
+             <p>ROMAN NOU</p>
+<div type="section" n="1">
           <p> I </p>
 		   <p>Știri diferite </p>
 		   <p>Cînd deschise ochii, Emil Victorian, noul redactor la Republicanul, zări pe masa din mijloc ziarele de seara, care ședeau trîntite deauspra cărților, hîrtiilor și ziarelor vechi, uitate de săptămîni întregi în același loc. </p>
@@ -153,14 +145,14 @@
            <p>Voiam să știu. </p>
            <p>— Am pus «gentila Domnișoară» și felicitările, fiindcă am auzit că a luat o zestre... știi... </p>
            <p>- Da? </p>
-           <p>— Vre-o două sute do mii de lei!... Ori trei sute... </p>
+           <p>— Vreo două sute do mii de lei!... Ori trei sute... </p>
            <p>Da ? repetă Victorian. </p>
            <p>Reporterul puse țigara la gură și, între două fumuri, exclamă: </p>
            <p>— Ho! Ho! </p>
            <p>Făcu un semn care însemna că fostul coleg de redacție va duce de acum inainte o viata fericită. apoi, aruncînd deget la marginea jobenulni: </p>
            <p>— La revedere! sfîrși el, și trîntind ușa ca un om căruia nu-i pasa de nimic, plecă, zîmbitor. </p>
            </div>
-<div type="chapter" n="2">
+<div type="section" n="2">
            <p>II </p>
            <p>Noapte de nuntă</p>
            <p>Pregătirile, zgomotul fără margini care dura de mai bine de o săptămînă, îi ținea într-o amețeală nesfîrșită, o beție ciudata pe care pînă atunci nici ei nu căutaseră să o înlăture. </p>
@@ -173,8 +165,16 @@
             <p>—Lasă mă ! </p>
             <p>(Va urma). </p>
            <p>Eugen Vaian</p>
+</div>
+             </div>
+             
            
-           
+          <div type="part">
+             <p>Săptămâna iliustrată</p>
+             <p>MĂRITATĂ!</p>
+             <p>ROMAN NOU</p>
+             <div type="section" n="2">
+                <p> II</p>
            <p>Noapte de nuntă</p>
              <p>El rămase ca trăsnit.I se păru că se clatenă, că are să cadă, atît de deosebit era răspunsul pe care’l primise, de cel pe care’l aștepta. </p>
              <p>În sfîrșit, căutînd să’și stăpînească revolta, noînțelegînd ce însemnă această izbucnire de mînie neîndreptățită de nimic,  crezînd după o secundă că a fost numai o părere, făcu din nou un pas către dînsa. Zîmbi în silă și întrebă, căutînd accentele cele mai dulci, aproape înduioșătoare: </p>
@@ -207,6 +207,7 @@
              <p>Eugen Vaian </p>
              <p>(Va urma). </p>
              </div>
+          </div>
         </body>
   </text>
 </TEI>
