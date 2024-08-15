@@ -12,12 +12,15 @@
                <resp>codare POPLITE</resp>
                <name>Teodora Iuriusciuc</name></respStmt>   
             <respStmt>
+               <resp>verificare codare POPLITE</resp>
+               <name>Alexandra Olteanu</name></respStmt>   
+            <respStmt>
                <resp>corectură manuală</resp>
-               <name>Diana Brăilescu, Alexandra Irimescu, Aura Rezuș, Afrodita Tudorache</name>
+               <name>Diana Brăilescu, Alexandra Irimescu, Aura Rezuș, Afrodita Tudorache, Alexandra Iacob</name>
             </respStmt>
             <respStmt>
                <resp>verificare corectură manuală</resp>
-               <name>Alexandra Iacob</name>
+               <name>Loredana Cuzmici</name>
             </respStmt>
             <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
          </titleStmt>
@@ -77,13 +80,17 @@
       </encodingDesc>
    </teiHeader>
  <text>
+    <front>
+       <div type="titlepage">
+          <p>MISTERELE UNUI NABAB</p>
+          <p>ROMAN ORIGINAL PROLOG </p>
+          <p>CEI DOI MASCAȚI</p>
+          <p>1889</p>
+          <p>BUCUREȘTI</p>
+          <p>TIPOGRAFIA ISAC BINDER Str. BREZOIANU 1</p>
+         </div>
+    </front>
 <body>
-<p>1889</p>
-<p>BUCUREȘTI</p>
-<p>TIPOGRAFIA ISAC BINDER Str. BREZOIANU 1</p>
-<p>MISTERELE UNUI NABAB</p>
-<p>ROMAN ORIGINAL PROLOG </p>
-<p>CEI DOI MASCAȚI</p>
 <div type="chapter" n="1">
 <p>CAPITOLUL I.</p>
 <p>CONTELE ȘI FIUL SĂU </p>
@@ -3188,7 +3195,7 @@
 <p>Două zile după aceasta, Cathedrala sfântului Petru era plină de toată noblimea Romei. Toți asistau, la ceremonia religioasă a contelui Enrico de Carrino cu fiica principelui Cuniberti.</p>
 <p>O jumătate oră în urmă, Margareta era contesa de Carrino.</p>
 <p>FINALUL ROMANULUI</p>
-<p></p>
+   
 <p>— Două luni de la această dată, aceea pe care o iubeam dădu naștere unei ființe...</p>
 <p>Era o fetiță care moștenise în totul frumusețea și grația mamei sale.</p>
 <p>Chiar în acea seară, acela care mă conducea la femeia care mă făcuse fericit, veni la mine prezentându-mi pe mica ființă, împreună cu o scrisoare.</p>

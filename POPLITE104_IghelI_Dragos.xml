@@ -12,12 +12,15 @@
                <resp>codare POPLITE</resp>
                <name>Teodora Iuriusciuc</name></respStmt>   
             <respStmt>
+               <resp>verificare codare POPLITE</resp>
+               <name>Roxana Patraș</name></respStmt>   
+            <respStmt>
                <resp>corectură manuală</resp>
-               <name>Lucreția Pascariu</name>
+               <name>Mircea Dragomoir</name>
             </respStmt>
             <respStmt>
                <resp>verificare corectură manuală</resp>
-               <name>Mircea Dragomoir</name>
+               <name>Alexandra Olteanu</name>
             </respStmt>
             <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
          </titleStmt>
@@ -79,30 +82,19 @@
    </teiHeader>
           <text>
      <front>
-        <titlePage>
-        <titlePart type="main">DRAGOS <lb/>HOŢUL TECUCILOR</titlePart>
-        <titlePart type="desc"><sic>ROMAM</sic> CRIMINAL</titlePart>
-        <docAuthor>DE <lb/>ILIE IGHEL</docAuthor>
-        <docImprint>
-           <pubPlace>BUCUREŞTI</pubPlace>
-           <publisher>EDITURA LIBRĂRIEI H. STEINBERG
-              <address>
-                 <addrLine>7, CALEA RAHOVEI, 7.</addrLine>
-              </address>
-           </publisher>
-           <publisher>TIPO LITOGRAFIA DOR. P. CUCU.
-              <address>
-                 <addrLine>8, BUL. ELISABETA, 8.</addrLine>
-              </address>
-           </publisher>
-        </docImprint>
-        <docDate>1892</docDate>
-        </titlePage>
-        <pb/>
-        <figure/>
-           <p>Omorul ungureanuluǐ.</p>
+        <div type="titlepage">
+        <p>DRAGOS, HOŢUL TECUCILOR</p>
+        <p>ROMAM CRIMINAL</p>
+        <p>DE ILIE IGHEL</p>
+        <p>BUCUREŞTI</p>
+        <p>EDITURA LIBRĂRIEI H. STEINBERG</p>
+        <p>7, CALEA RAHOVEI, 7.</p>   
+        <p>TIPO LITOGRAFIA DOR. P. CUCU.</p>
+        <p>8, BUL. ELISABETA, 8.</p>
+        <p>1892</p>
+        </div>
         <div type="liminal">
-           <head>PREFAŢA</head>
+           <p>PREFAŢA</p>
    <p> Romanul acesta este o istorisire de actualitate. Întrebe-se oricine de prin părţile Tecuciluǐ cine a fost Dragoş, şi va răspunde că, de şi era hoţ, totuşi era mult iubit şi ocrotit chiar de cei săraci.</p>
 <p> El a fost un Grozea.</p>
    <p> Hoţ pentru cei cu dare de mână şi milos pentru cei scăpătaţi.</p>
@@ -113,17 +105,15 @@
 <p> Acela era un criminal ordinar.</p>
    <p> Tot ce voi scrie mai la vale sunt fapte culese din dosarele Tribunalului din Tecuci şi luate de pe buzele oamenilor pe care i-am pus să-mǐ povestească.</p>
    <p> Trebuie să mulţumesc aici d-lui Istrate,  arhivarul Tribunalului din Tecuci, care mi-a pus la dispoziţie, ca o deosebită amabilitate, dosarele privitoare la procesul lui Dragoş, pe care i-le am cerut în zilele de 20—23 Noiembrie 1891, când am fost în persoană la Tecuci, într-adins pentru chestia aceasta.</p>
-           <signed>
-              Ilie Ighel.
-              Bucureşti, Ianuarie 1892.
-           </signed>
+           <p>Ilie Ighel.
+              Bucureşti, Ianuarie 1892.</p>
         </div>
      </front>
 <body>
-   <head>DRAGOS</head>
+   <p>DRAGOS</p>
 <div type="chapter" n="1">
-   <head> CAPITOLUL I</head>
-<head>Costache Tănasă Dragoş.</head>
+   <p> CAPITOLUL I</p>
+<p>Costache Tănasă Dragoş.</p>
    <p> Prin primăvara anului 1860, în satul Vizureşti-Hânțeşti, care face parte din comuna Buciumeni, plasa Nicoreştilor, judeţul Tecuci, era primar al satului Tănasă Dragoş, un român bun la suflet şi la minte, sănătos şi voinic cât trei.</p>
    <p> Şi pe lângă că avea de toate şi casă şi masă, îi mai dase Dumnezeu şi un flăcău, pe Şerban, şi trei fete pe Frăsina, Maria şi Anica.</p>
    <p> Intr-una din zilele lui Aprilie 1860 era mişcare mare în casa lui Tânase; de ici şi până colo se învêrteau şi el şi vreo două babe.</p>
@@ -299,8 +289,8 @@ Se părea atât de vesel când auzi că copilul este băiat, încât mai că îi
    <p> Oraşul Tecuci (pământul) cu moşia înconjurătoare a fost în vechime proprietate domnească, după cum eraŭ toate şi maǐ pe urmă după vremǐ a trecut o parte către Nicolaǐ Chrisoverghi, Ioan Razu, Proorocul Samoil (spital în Focşanǐ), către familiile Roset, Constandache, Ghenea, Costache şi Conache până la 1839, când obştia oraşuluǐ a cumpĕrat de la Logofĕtul Costache Conache partea sa, iar partea prooroculuǐ Samoil a schim-bat-o cu moşiele : Cosmeştiǐ, Onceniǐ şi Joseniǐ, cumpărate tot de la Conache cu actul No. 87 din 14 Iunie 1839 şi în fine la 1841 a luat prin învoială şi partea luǐ Constandache, ast-fel că astă-ȡǐ moşia înconjurătoare oraşuluǐ este pro-prietatea obşteǐ oraşuluǐ.</p>
 </div>
    <div type="chapter" n="2">
-<head> CAP. II.</head>
-   <head>In Tecuciŭ.</head>
+<p> CAP. II.</p>
+   <p>In Tecuciŭ.</p>
 <p>   Gasda la care Costache fu dat era un cojocar, rudă de departe cu Tănase Dragoş şi care    şedea în strada Focşa.</p>
    <p>  Când căruţa cu ceǐ din Hânţeştǐ ajunse în mijlocul ogrăziǐ, Niculae, aşa îl chema pe  cojocar, le eşi înainte mirat de cine şi ce fel de mosafirǐ ’ǐ-aŭ sosit.</p>
    <p> —    Bună seara vere Niculae, strigă Tănase de  pe capra căruţiǐ.</p>
@@ -374,8 +364,8 @@ Se părea atât de vesel când auzi că copilul este băiat, încât mai că îi
    <p>  — Începutul e greŭ, îşǐ zise ea, într’una din serǐ.</p>
    </div>
    <div type="chapter" n="3">
-<head> CAP. III.</head>
-<head>Mama şi fica.</head>
+<p> CAP. III.</p>
+<p>Mama şi fica.</p>
    <p> Miţa, fata Tudoreǐ, intra pe al 16 an şi pă-rea o bucată de neauă aşa de albă era la faţă; cu părul auriŭ, ochiǐ albaştriǐ ca albastrul ceru-luǐ, piepţiǐ ca două portocale, eşiţǐ în afară, şi vorba-ǐ înceată, dulceagă te ţintuia par’că pe loc când vorbeaǐ cu dânsa.</p>
    <p> Tudora, cu toate că’ǐ era mamă, dar se sim-ţea de multe orǐ coprinsă de gelozie când pri-vea la fică-sa, şi o vedea că, pe zi ce mergea, se face maî frumoasă, că ea pe lîngă Miţa, a rĕmas în urmă, că ochiǐ tuturor nu se maǐ în-dreaptă spre dînsa ca altă dată.</p>
    <p> Şi nu e pentru întâia oară ca o mamă să fie geloasă de frumuseţea fetiǐ, maǐ cu seamă când mama este o femee maǐ nervoasă, care nu cu-getă ci se lasă supusă patimilor; care nu vrea să se gândească că periǐ îǐ sunt albǐ, saŭ sbâr-citurele aŭ eşit pe frunte, că laba gâştiǐ îǐ este tipărită lângă tâmple, ci se dă roabă plăcerilor trupeştǐ.</p>
@@ -443,8 +433,8 @@ Se părea atât de vesel când auzi că copilul este băiat, încât mai că îi
    <p> Şi cu pumniǐ strânşiǐ de mânie intră în casă, după ce ǐ văzu pe amândoǐ la poartă cum se sărutaŭ într’una din seri.</p>
    </div>
    <div type="chapter" n="4">
-<head> CAP. IV.</head>
-   <head>Moartea Mițiǐ.</head>
+<p> CAP. IV.</p>
+   <p>Moartea Mițiǐ.</p>
    <p> De a doua zi chiar, viaţa ce îndura sĕrmana fată fu un chin.</p>
    <p> Dacă până atuncǐ era certată şi ocărâtă, acum începu chiar să fie bătută şi toate acestea în faţa luǐ Costache, care îşǐ simţea sîngele că se sue în cap de ciudă.</p>
 <p> Tudora turba de necaz şi gelozie.</p>
@@ -617,8 +607,8 @@ Se părea atât de vesel când auzi că copilul este băiat, încât mai că îi
 <p> Murise.</p>
    </div>
    <div type="chapter" n="5">
-<head> CAP. V.</head>
-<head>In Dobrogea.</head>
+<p> CAP. V.</p>
+<p>In Dobrogea.</p>
    <p> Orǐce durere îşǐ are marginele eǐ.</p>
    <p> Suferă cine-va în momentul când nenorocirea îl isbeşte de crede că o să cadă sub loviturile nemiloase ale soarteǐ, dar, încetul cu încetul, durerea i se face prietenă, se obicinueşte cu ea şi îǐ devine o a doua natură.</p>
    <p> Costache, după cum ziseiŭ, fu ca mort câte-va zile.</p>
@@ -684,8 +674,8 @@ Se părea atât de vesel când auzi că copilul este băiat, încât mai că îi
 <p> Acum să ne reîntoarcem la Dragoş, pe care îl lăsarăm în cazarma călăraşilor din Tulcea, batjocorit şi urgisit chiar de la întâia zi când intră în armată.</p>
    </div>
    <div type="chapter" n="6">
-<head> CAP. VI.</head>
-<head>Desertarea.</head>
+<p> CAP. VI.</p>
+<p>Desertarea.</p>
    <p> Suferinţele ce le îndură Dragoş eraŭ din ce maǐ marǐ. El, obicinuit cu viaţa câmpenească, liberă şi fără nicǐ un hotar,  acum era închis între zidurile Cazarmeǐ înjurat şi lovit, nemân-cat şi nedormit.</p>
    <p> Toată ziua trebuia să frece caiǐ, să îngrijească de grajdiurǐ, ba, el voinic să sfărâme piatra în mână, acum trebuia să frece şi scândurile ca femeile cele maǐ slabe.</p>
 <p> Simţea că nu maǐ poate să ducă această viaţă ticăloasă.</p>
@@ -817,8 +807,8 @@ Se părea atât de vesel când auzi că copilul este băiat, încât mai că îi
    <p> A doua seară Costache Dragoş o porni spre Ţepu, comună nu departe de Hânţeştǐ, unde lo-cuia Mănăilă.</p>
    </div>
    <div type="chapter" n="7">
-<head> CAP. VII.</head>
-<head>Mănăilă.</head>
+<p> CAP. VII.</p>
+<p>Mănăilă.</p>
 <p> Mănăilă se născuse în Ţepu, cu vre-o patru anǐ înaintea luǐ Dragoş.</p>
    <p> O natură sălbatecă, copil încă şi foarte rătă-cios, hoţ, stricat peste fire, negreşit că el pro-mitea ca, fâcându-se om, să fie o făptură rea, vicleană şi periculoasă semenilor sĕǐ.</p>
    <p> Incă de tînăr fusese condamnat la închisoare pentru furturile comise în diferite rândurǐ.</p>
@@ -984,8 +974,8 @@ Se părea atât de vesel când auzi că copilul este băiat, încât mai că îi
    <p> S’a dresat proces-verbal, fără să se ştie numele hoţuluǐ.</p>
    </div>
    <div type="chapter" n="8">
-<head> CAP. VIII.</head>
-   <head>Prădarea Perceptoruluǐ.</head>
+<p> CAP. VIII.</p>
+   <p>Prădarea Perceptoruluǐ.</p>
 <p> Pe la sfârşitul luǐ Iulie Dragoş spuse într’una din dimineţe luǐ Mănăilă :</p>
 <p> —    Mĕ bădie...</p>
 <p> —    Ce e?</p>
@@ -1089,8 +1079,8 @@ Se părea atât de vesel când auzi că copilul este băiat, încât mai că îi
 <p> Dragoş surîse şi tăcu.</p>
    </div>
    <div type="chapter" n="9">
-<head> CAP. IX.</head>
-   <head>Omorul Ungureanuluǐ.</head>
+<p> CAP. IX.</p>
+   <p>Omorul Ungureanuluǐ.</p>
    <p> Mănăilă când auzi că Dragoş a dat baniǐ luǐ Gheorghe ca să ’şǐ cumpere boiǐ, ţinu pe Dra-goş de rĕŭ.</p>
    <p> —    Bine, de ce nu te gândeştǐ că o să ne trebuiască şi nouĕ?</p>
    <p> —    Tacǐ Mănăilă... M’aţǐ ales ca maǐ mare. Lasă-mĕ să fac ce’mǐ place...</p>
@@ -1151,8 +1141,8 @@ Se părea atât de vesel când auzi că copilul este băiat, încât mai că îi
 <p> Dragoş tăcu.</p>
    </div>
    <div type="chapter" n="10">
-<head> CAP. X</head>
-<head>Prinderea luǐ Dragoş.</head>
+<p> CAP. X</p>
+<p>Prinderea luǐ Dragoş.</p>
    <p> In comuna Brăhăşeştǐ; aşezată pe malului drept al Berheciuluǐ era proprietar d-1 Genoiŭ.</p>
    <p> Proprietatea sa era întinsă şi vorba se lăţise cum că are banǐ destuǐ, aşa că Dragoş se gândi că ar putea să ia din eǐ fără să facă pagube marǐ stăpânuluǐ lor.</p>
    <p> Chemă tovarăşiǐ şi le spuse planul.</p>
@@ -1232,8 +1222,8 @@ Se părea atât de vesel când auzi că copilul este băiat, încât mai că îi
    <p> Procororul îşǐ gătea actul de acusare când într’o bună dimineaţă, se lăţi vestea în oraş ca Dragoş dispăruse...</p>
    </div>
    <div type="chapter" n="11">
-<head> CAP. XI.</head>
-<head>Fuga luǐ Dragoş.</head>
+<p> CAP. XI.</p>
+<p>Fuga luǐ Dragoş.</p>
 <p> Dragoş era trist mereŭ.</p>
    <p> In zadar Nicolae Serea, care era om vesel, se cerca să’l îmbărbăteze, să’ǐ dea speranţe de fugă, el totuşǐ rĕmânea pe gândurǐ...</p>
    <p> El, care urîse în tot d’auna închisoarea, el care fugise cu greutate din temniţa din Tulcea, ia-tă’l acuma iarăşǐ prins, ca mîne judecat, şi, cine ştie, la câţǐ anǐ condamnat.</p>
@@ -1292,8 +1282,8 @@ Se părea atât de vesel când auzi că copilul este băiat, încât mai că îi
    <p> Se auzi îndată un sgomot. Neştiind ce este se îndreptară spre via luǐ Tache Brumă din Hânţeştǐ unde rĕmaseră ascunşǐ.</p>
    </div>
    <div type="chapter" n="12">
-<head> CAP. XII.</head>
-<head>Călcarea d-luǐ Anastase Batin.</head>
+<p> CAP. XII.</p>
+<p>Călcarea d-luǐ Anastase Batin.</p>
    <p> In seara de 27 Septembre se îndreptară spre casele proprietaruluǐ din Brăhăieştǐ, d-l Anastasie Batin, un voinic ca de 38 de anǐ şi iubit foarte mult de ţĕranǐ de prin părţile sale.</p>
    <p> Dragoş aflase că îǐ sosiseră nişte banǐ din Tecuciŭ, aşa că or fi venit tocmaǐ la timp a-tuncǐ, prea nu aveaŭ eǐ nicǐ o para în pungă, nicǐ arme, nicǐ merinde...</p>
    <p> Domnul Batin era în odaia de culcare și discuta tocmaǐ cu d-l Petrache Şendrea, un pri-eten al sĕŭ, care venea foarte des să’l viziteze..</p>
@@ -1372,8 +1362,8 @@ Se părea atât de vesel când auzi că copilul este băiat, încât mai că îi
    <p> Dragaş rĕmase singur cu Mănăilă de oarece celalțǐ tovarăşǐ ǐ-a părăsit.</p>
    </div>
    <div type="chapter" n="13">
-<head> CAP. XIII.</head>
-   <head>Omorârea luǐ Iancu Pucher.</head>
+<p> CAP. XIII.</p>
+   <p>Omorârea luǐ Iancu Pucher.</p>
    <p> După moartea luǐ Stănescu şi fuga celor-alţǐ doǐ tovarăşǐ Dragoş şi cu Mănăilă se aşezară într’o rarişte de pe lîngă şoseaua Ţepu.</p>
    <p> In dimineaţa zileǐ de 16 Octombrie amândoǐ şedeaŭ pe marginea şoseleǐ vorbind.</p>
    <p> Mĕ Dragoşe, zicea Mănăilă, eŭ credeam că tu să fiǐ alt-fel de om..</p>
@@ -1477,8 +1467,8 @@ Se părea atât de vesel când auzi că copilul este băiat, încât mai că îi
 <p> Și plecară.</p>
    </div>
    <div type="chapter" n="14">
-<head> CAP. XIV.</head>
-   <head>Călcarea de la Ghelţ şi rĕsbunarea pe Chiriac Rarinca.</head>
+<p> CAP. XIV.</p>
+   <p>Călcarea de la Ghelţ şi rĕsbunarea pe Chiriac Rarinca.</p>
    <p> Baniǐ se sfârşiseră si Mănăilă făcea mereŭ gură.</p>
    <p> —    Tot nu eştǐ de treabă frate Mănăilă, îǐ zicea Dragoș.</p>
    <p> —    Cum să fiŭ dacă n’avem ce mânca.</p>
@@ -1514,8 +1504,8 @@ Se părea atât de vesel când auzi că copilul este băiat, încât mai că îi
    <p> Bietul Rarinca fugea de-ǐ sforăia tălpile.</p>
    </div>
    <div type="chapter" n="15">
-<head> CAP. XV.</head>
-   <head> Furarea caseǐ de banǐ din Buciumenǐ</head>
+<p> CAP. XV.</p>
+   <p> Furarea caseǐ de banǐ din Buciumenǐ</p>
    <p> Buciumenǐ este una din cele maǐ marǐ co-munǐ din plasa Nicoreştǐ. Acolo se afla cassa comunală în localul Primărieǐ.</p>
    <p> Dragoş şi Mănăilă de multă vreme îşǐ puse-seră în gând să o prădeze, dar, în tot-d’a-una până acuma, par’că în necaz, eraŭ de gardă oamenǐ în carǐ nu puteaŭ avea încredere ca să se poată apropia.</p>
    <p> In ziua de 14 Decembre se întâlniră pe şosea cu miliţieniǐ Ion Vîlcu şi Ion Păduraru carǐ e-raŭ din Hânţeştǐ.</p>
@@ -1547,8 +1537,8 @@ Se părea atât de vesel când auzi că copilul este băiat, încât mai că îi
 <p> Kopeski era în urma lor.</p>
    </div>
    <div type="chapter" n="16">
-<head> CAP. XVI.</head>
-   <head>Prinderea Bandeǐ.</head>
+<p> CAP. XVI.</p>
+   <p>Prinderea Bandeǐ.</p>
    <p> Locotenentul Kopeski aflase că Dragoş se în-vârteşte pe lângă Buciumenǐ. Chiar în seara când eǐ sparseră cassa de banǐ a comuneǐ, în capul potereǐ locotenentul sosise în sat.</p>
    <p> In dimineaţa zileǐ ce urmă spargerea, un să-tean trecu pe lângă Primărie şi văzu pe Vîlcu şi Păduraru legaţǐ fedeleşǐ de câte un stâlp al caseǐ.</p>
    <p> Fiindu-ǐ teamă şi  bănuind ceva,  alergă la casa primaruluǐ, care şedea în apropiere.</p>
@@ -1615,8 +1605,8 @@ Se părea atât de vesel când auzi că copilul este băiat, încât mai că îi
 <p> Dar nu era aşa.</p>
    </div>
    <div type="chapter" n="17">
-<head> CAP. XVII.</head>
-<head>Fuga. — Hoţiile de la Velicu şi Alexandru Petrini</head>
+<p> CAP. XVII.</p>
+<p>Fuga. — Hoţiile de la Velicu şi Alexandru Petrini</p>
    <p> Când Dragoş se vĕzu singur cu Mănăilă, după ce sentinţa de condamnare fu citită, îşǐ făcură semn că vor să vorbească unul cu altul. </p>
    <p>   Seara, când lumina se şterse în arest, Mă-năilă se apropie de Dragoş.</p>
    <p> —    Ce e de făcut, îǐ zise Mănăilă ?</p>
@@ -1690,8 +1680,8 @@ Se părea atât de vesel când auzi că copilul este băiat, încât mai că îi
 <p> Şi plecară.</p>
    </div>
    <div type="chapter" n="18">
-<head> CAP. <sic>XVIII.</sic></head>
-<head>Rănirea luǐ Dragoş. </head>
+<p> CAP. <sic>XVIII.</sic></p>
+<p>Rănirea luǐ Dragoş. </p>
    <p> După hoţia de la Petrini, potera locotenentu-luǐ Kopeski se împrăştia prin toate părţile doar şi doar va da de urma îndresneţuluǐ hoţ.</p>
    <p> Petrini promisese o rĕsplată însemnată aceluǐ care va pune mâna pe hoţ.</p>
       <gap unit="figure"/>
@@ -1723,8 +1713,8 @@ Se părea atât de vesel când auzi că copilul este băiat, încât mai că îi
 <p> Dragoş, care era puţin rănit, se duse Ţepu unde trebuea să se întâlnească cu Mănăilă.</p>
    </div>
    <div type="chapter" n="19">
-<head> CAP. XVII.</head>
-<head>Prinderea şi moartea luǐ Dragoş.</head>
+<p> CAP. XVII.</p>
+<p>Prinderea şi moartea luǐ Dragoş.</p>
    <p> In anul 1885 banda luǐ Dragoş maǐ făptui vre-o două treǐ spargerǐ, aşa că toată forţa po-liţienească era în căutarea luǐ.</p>
    <p> In zadar se încercă locotenentul Kopeski să ’ǐ afle urma căcǐ nu maǐ putu da cu ochiǐ de el de când cu rănirea, pre când trecea cu căruţa prin Nărtăşeştǐ.</p>
 <p> Așa trecu anul 1885.</p>

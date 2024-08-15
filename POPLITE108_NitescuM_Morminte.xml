@@ -10,14 +10,17 @@
             <author>Nițescu, M. G.</author>
             <respStmt>
                <resp>codare POPLITE</resp>
-               <name>Teodora Iuriusciuc</name></respStmt>   
+               <name>Teodora Iuriusciuc</name></respStmt>  
+            <respStmt>
+               <resp>verificare codare POPLITE</resp>
+               <name>Roxana Patraș</name></respStmt>   
             <respStmt>
                <resp>corectură manuală</resp>
-               <name>Cosmina Aiftincăi, Andreea Boțu, Adelin Bolog, Nicoleta Ciobanu, Irina Dănăilă, Diana Biciușcă</name>
+               <name>Cosmina Aiftincăi, Andreea Boțu, Adelin Bolog, Nicoleta Ciobanu, Irina Dănăilă, Diana Biciușcă, Mircea Dragomoir</name>
             </respStmt>
             <respStmt>
                <resp>verificare corectură manuală</resp>
-               <name>Mircea Dragomoir</name>
+               <name>Loredana Cuzmici</name>
             </respStmt>
             <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
          </titleStmt>
@@ -78,10 +81,14 @@
    </teiHeader>
  <text>
     <front>
+       <div type="titlepage">
        <p>MORMINTE BLESTEMATE</p>
        <p>O PREFAȚĂ A AUTORULUI</p>
        <p>TIPOGRAFIA „VOCEA POPORULUI”. AL. AGAPIE Bulevardul Elisahela No. 51</p>
        <p>PREȚUL. 1 LEU</p>
+       </div>
+       
+       <div type="liminal">
        <p>Către publicul amator de lectură</p>
        <p>Dând la lumină această scriere, m-am silit a face o petrecere plăcută lectorului ales, care știe ca și mine că, lectura se poate privi ca cel mai bun amic, pentru că este inofensivă.</p>
        <p>În ideea dominantă ce am avut să public scrierea de față în limba care vorbim, atât de flexibilă în expresiuni, atât de frumoasă prin delicatele ei varietăți; am căutat a învinge orice obstacol — și dacă într-adevăr, cărțile sunt adevărata viață a națiunilor, adevărata glorie Națională a lor, după cum ne spune splendidul geniu literar. Aimee Martin, am credința că, orice lucrare folositoare și de felul acesta — în dulcea limbă a Țării, care s-a mai înzestrat cu o operă Românească mai mult, va fi primită cu mulțumire de lectorul amator, sperând că, bine voitorul concurs nu va lipsi din parte-i dăndu-i aprobarea</p>
@@ -90,9 +97,10 @@
        <p>Subiectul imaginar al acestei scrieri este lesne de înțeles. Un ostaș întru câtva instruit, dar needucat, ajunge repede la cel mai înalt grad în armată prin mijloace nepermise unui om de caracter. Lumea militară și civilă care avea necesitate de rezolvare a diferitelor chestiuni ce priveau la comandamentul său, mai totdeauna le primeau respinse sub ilegala concepțiune de care era predominat. Era pervers, pentru că n-avea educație. Se întâmplă ca în una din zile să se ia în armată tânărul Florică, fiul preotului Simion și al preotesei Smaranda. Florică era primul născut înaintea altor trei copile surorile lui mai mici. Preotul moare după un scurt timp de la luarea lui Florică în armată, și preoteasa văduvă rămâne cu cele trei orfane de tată, fără existență. Preoteasa Smaranda aleargă disperată la comandant, supuindu-i cazul nenorocit în care se află și implorând buna voință a lui pentru a elibera pe Florică, ca unic fiu de văduvă și ca sprijin ce mai rămase ei și celor trei orfane, dar comandantul îi respinge cu brutalitate cererea. Preoteasa Smaranda își aduce aminte că decedatul preot avea un demn prieten și alergând deznădăjduită la dânsul îi cere concursul său. Amicul preotului aleargă prin toate mijloacele posibile să elibereze pe Florică, în care interval de timp comandantul moare blestemat de preoteasă.</p>
        <p>Cu acest subiect, am căutat a sistematiza un idealism care are tendința a ridica resonul de asupra simțurilor și experienței. Preoteasa Smaranda imploră grația libertăți unicului ei fiu, dar este respinsă.</p>
        <p>Redusă la cea mai neagră mizerie sub apăsătoarea greutate a întâmplărilor trecute, ea crede că de aci înainte, după un șir de nesfârșite nedreptăți care o urmărește; viața sa în suspine și gemete nu-i mai e, trebuincioasă ; — atunci, amicul preotului intervine, și îi spune că în timpul modern în care trăim simțurile nobile și generoase se dezvoltă prin educație, moralitatea și confiența n-a dispărut precum amicul nu mai este un nume de pretenție tot asemenea distincție și onoare în societăți moderne nu se mai plătește prin dispreț Și înjurii. Legile nu mai sunt un capriciu și modestia nu mai este o nemulțumire generală;—prin urmare dar, trebuie să creadă că, nesfârșitele ei suferințe se vor preschimba intr-o bucurie neașteptată de care dânsa nu va fi străină, și o convinge că virtutea triumfa contra viciului, povățuind-o Să nu se creadă străină în țara sa!</p>
-       <p>Cavendemest ne in nostro patria peregrini atqve hospites esse videamur"> </p>
+       <p>Cavendemest ne in nostro patria peregrini atqve hospites esse videamur" </p>
        <p>Autorul</p>
-          <p>Să ne ferim de a părea străini în țara noastră.</p>
+        <p>Să ne ferim de a părea străini în țara noastră.</p>
+       </div>
     </front>
   <body>
     
@@ -341,6 +349,7 @@
 </div>
   </body>
     <back>
+       <div type="liminal">
        <p>DE ACELAȘI AUTOR</p>
        <p>SCRIERI PUBLICATE</p>
        <p>Arhitectura și constrncțiunea practică. — In trei volume:</p>
@@ -362,6 +371,7 @@
        <p>O infamie făptuită la casa Dotației Oastei. - Patriotul No. 145 901 Octombrie 10.</p>
        <p>Studiu matematic asupra reținerilor pe pensii.— Virtutea Militară.  No. 3, 4, 5, 6 șî 9 din 1905.</p>
        <p>În jurul memoriului ofițerilor veterani. Epoca No. 346 din 1910.</p>
+       </div>
     </back>
  </text>
 </TEI>

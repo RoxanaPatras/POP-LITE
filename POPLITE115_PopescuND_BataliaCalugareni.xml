@@ -10,10 +10,17 @@
             <author>Popescu, N.D.</author>
             <respStmt>
                <resp>codare POPLITE</resp>
-               <name>Teodora Iuriusciuc</name></respStmt>   
+               <name>Teodora Iuriusciuc</name></respStmt>
+            <respStmt>
+               <resp>verificare codare POPLITE</resp>
+               <name>Roxana Patraș</name></respStmt>   
             <respStmt>
                <resp>corectură manuală</resp>
                <name>Paula-Maria Curelar</name>
+            </respStmt>
+            <respStmt>
+               <resp>corectură manuală</resp>
+               <name>Loredana Cuzmici</name>
             </respStmt>
             <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
          </titleStmt>
@@ -73,18 +80,22 @@
       </encodingDesc>
    </teiHeader>
     <text>
+       <front>
+          <div type="titlepage">
+             <p>Bătălia de la Călugăreni</p>
+             <p>Roman istoric</p>
+             <p>Extras din cea mai glorioasă epocă a vieții lui</p>
+             <p>Mihai Viteazul</p>
+             <p>de</p>
+             <p>N.D. Popescu</p>
+             <p>Ilustrată cu trei gravuri</p>
+             <p>București</p>
+             <p>Editura Librăriei H. Steinberg</p>
+             <p>18, Strada Șelari, 18.</p>
+             <p>1894</p>
+          </div>
+       </front>
 <body>
-<p>Bătălia de la Călugăreni</p>
-<p>Roman istoric</p>
-<p>Extras din cea mai glorioasă epocă a vieții lui</p>
-<p>Mihai Viteazul</p>
-<p>de</p>
-<p>N.D. Popescu</p>
-<p>Ilustrată cu trei gravuri</p>
-<p>București</p>
-<p>Editura Librăriei H. Steinberg</p>
-<p>18, Strada Șelari, 18.</p>
-<p>1894</p>
   <div type="chapter" n="1">
 <p>I</p>
 <p>După primele victorii</p>
@@ -113,7 +124,7 @@
 <p>Sosind în Constantinopol și auzind de această hotărâre a sultanului, și convingându-se că ea era împărtășită și de Chehaiaoa funcției de mare vizir și de înalți demnitari ai regelui, Sinan pașa se mânie foc și se duse într-un suflet la sultan ca să împiedice la timp aducerea la îndeplinire a acestei hotărâri. El era vocea cea mai autorizată și mai autoritară a imperiului, pentru că era considerat ca sabia cea mai ageră, căpitanul cel mai însemnat, oșteanul cel mai capabil, eroul mahomedanilor. El nu spuse nimănui că dânsul, eroul, viteazul vitejilor, sabia cea nebiruită a semilunii, a fost ultragiat în modul cel mai rușinos și mai înjositor de către români, a fost jefuit și pus pe goană chiar în momentul în care se înturna de la câmpul de război aproape ca un triumfător, ci recurse la alte mijloace pentru a schimba părerile consilierilor Coronei. Ca să-și răzbune într-un mod teribil și să spele în torente de sânge afrontul ce i se făcuse, el se duse la palat unde era adunat întregul Devlet sub președința sultanului, se puse a escita amorul propriu și fanatismul compatrioților săi, care până atunci nu fusese de nimeni înfrânt, și ceru de la sultan, nu iertarea rebelului și o pace rușioasă cu beiul revoltat, ci o pilduire strajnică, o armată puternică cu care să zdrobească pe rebel, și prin exemplara lui pedeapsă să împiedice și pe alții de a-l imita. El se rosti faciă cu dadișahul cu atâta violență, îngâmfare și ton autoritar încât Sultanul, în loc de a-i da ascultare se supără pe el. Contra tuturor așteptărilor sale, încercarea sa nu dobândi efectul dorit, și sultanul, fiind captivat de Ferhad pașa rivalul lui Sinan și amicul lui Mihai, care se înturnase din exil numai de la suirea pe tron a noului sultan, nu primi propunerea lui Sinan, ci dimpotrivă în ziua de 4/13 februarie îl destitui din funcția de mare vizir și de general al oștilor, și puse în locu-i pe Ferhad, căruia îi dădu depline puteri de a face orice va găsi cu cale, fie prin puterea armelor, fie pe cale de împăciuire, iar pe dânsul îl trimese în exil la Malagara.</p>
 </div>  
 <div type="chapter" n="2">
-<p>CAP II.</p>
+<p>II.</p>
 <p> Puterea femeii</p>
 <p>Pe când se petreceau aceste scene sângeroase, eroii acestei nuvele își petreceau timpul departe de patrie în mâinile turcilor. Maria sta închisă în haremul lui Caraiman Pașa la Andrianopol, iar finanțatul său Mârzea se zbătea în ghearela lui Țicalidi.</p>
 <p>Patru luni stătu Maria în haremul lui Caraiman Pașa fără să vadă pe înfricoșatul său tiran și fără să poată gusta un minut de pace și de odihnă în colivia sa aurită. Într-acest timp încercase de mai multe ori să fugă prin gratiile de la ferestrele temniței sale, coborându-se jos în grădină prin ajutorul mai multor pânze înodate una de alta, și de multe ori rătăcise printr-un adevărat dedal de arbori și de alee, fără a putea să-și ajungă scopul, fiindcă mulțimea servitorilor care o păzeau și o pândeau, o găseau rătăcind prin acea grădină mare înconjurată de toate părțile de ziduri înalte și o reîntorceau în închisoarea ei; de mai multe ori încercase a muri de foame prin nemâncare, dar imboldurile naturii o sileau să renunțe la astfel de sinucidere și să se decidă a-și suferi soarta cu mai multă supunere, acceptând hotărârea ursitei.</p>
@@ -972,40 +983,44 @@
 <p>Cerul le dăruiră toate fericirile casnice, între care și binecuvântarea de a muri în adânci bătrâneți înconjurați de copii și nepoți, toți voinici, toți bravi, toți demni de părinții și moșii lor. Radu, fratele Marei nu se căsători niciodată, ci muri ca un brav pe câmpul luptei, în bătălia de la Gorosleu în Transilvania, unde se înfrânse cu totul cerbicia și orgoliul lui Sigismund Batori.</p>
 <p>Evenimentele politice ce se scurseseră în urma acestui mare eveniment național prin care românii cu o mână de oameni înfrânse cerbicia ungurescă se pot citi în altă nuvelă intitulată „Mihai domn al Daciei traiane”. </p>
 
-<p>CÂNTECUL LUI MIHAI VITEAZU</p>
-<p>Auzit-ați d-un oltean,</p> 
-<p>D-un oltean, d-un craiovean,</p>
-<p>Ce nu-i pasă d-un sultan?</p>
-<p>Auzit-ați d-un viteaz</p>
-<p>Care veșnic, șade treaz</p>
-<p>Cât e țara la necaz?</p>
-<p>Auzit-ați d-un Mihai</p>
-<p>Ce sare pe șeapte cai</p>
-<p>De striga Stambulul vai?!</p>
-<p>El e Domnul cel vestit</p>
-<p>Care în lume a venit </p>
-<p>Pe luptat și biruit.</p>
-<p>Spune râul cel oltean.</p> 
-<p>Spune valul Dunărean</p>
-<p>Și codrul Călugărean,</p>
-<p>Câte lupte a privit</p> 
-<p>Câte oști a mistuit</p> 
-<p>Câte oase a înălbit!</p>
-<p>Mulți ca frunzele de brad,</p> 
-<p>Ca nisipul de pe vad!</p>
-<p>Ca gemetele din iad!</p>
-<p>Spune corbii munților</p>
-<p>Și fiarele codrilor</p>
-<p>Care a fost nutrețul lor? </p>
-<p>Fost-au leșuri tătărești</p> 
-<p>Și turcești și ungurești</p>
-<p>Date în săbii românești!</p>
-<p>Alelei Mihai Mihai!</p>
-<p>Căci de noi milă nu ai</p>
-<p>Să ne scapi d-amar și vai!</p>
-<p>Găsit de marele poet V. Alecsandri în o psaltire foarte veche în bibliotecă Mănastirei Neamțului. Dedesubtul cântecului erau următoarele cuvinte scrise cu slovă călugăreasca: „Scris-au acest vers bătrân de mine ieroniomahul Paisie credincios rob al lui D-zeu, iar eu l-am auzit și l-am învățat de la răposatul, bunul meu Stoian Jolde armașelul”. E publicat în poezii populare ale românilor 1866.</p>
 <p>FINE.</p>
 </div>
 </body>
+       <back>
+          <div type="liminal">
+             <p>CÂNTECUL LUI MIHAI VITEAZU</p>
+             <p>Auzit-ați d-un oltean,</p> 
+             <p>D-un oltean, d-un craiovean,</p>
+             <p>Ce nu-i pasă d-un sultan?</p>
+             <p>Auzit-ați d-un viteaz</p>
+             <p>Care veșnic, șade treaz</p>
+             <p>Cât e țara la necaz?</p>
+             <p>Auzit-ați d-un Mihai</p>
+             <p>Ce sare pe șeapte cai</p>
+             <p>De striga Stambulul vai?!</p>
+             <p>El e Domnul cel vestit</p>
+             <p>Care în lume a venit </p>
+             <p>Pe luptat și biruit.</p>
+             <p>Spune râul cel oltean.</p> 
+             <p>Spune valul Dunărean</p>
+             <p>Și codrul Călugărean,</p>
+             <p>Câte lupte a privit</p> 
+             <p>Câte oști a mistuit</p> 
+             <p>Câte oase a înălbit!</p>
+             <p>Mulți ca frunzele de brad,</p> 
+             <p>Ca nisipul de pe vad!</p>
+             <p>Ca gemetele din iad!</p>
+             <p>Spune corbii munților</p>
+             <p>Și fiarele codrilor</p>
+             <p>Care a fost nutrețul lor? </p>
+             <p>Fost-au leșuri tătărești</p> 
+             <p>Și turcești și ungurești</p>
+             <p>Date în săbii românești!</p>
+             <p>Alelei Mihai Mihai!</p>
+             <p>Căci de noi milă nu ai</p>
+             <p>Să ne scapi d-amar și vai!</p>
+             <p>Găsit de marele poet V. Alecsandri în o psaltire foarte veche în bibliotecă Mănastirei Neamțului. Dedesubtul cântecului erau următoarele cuvinte scrise cu slovă călugăreasca: „Scris-au acest vers bătrân de mine ieroniomahul Paisie credincios rob al lui D-zeu, iar eu l-am auzit și l-am învățat de la răposatul, bunul meu Stoian Jolde armașelul”. E publicat în poezii populare ale românilor 1866.</p>
+          </div>
+       </back>
     </text>
 </TEI>

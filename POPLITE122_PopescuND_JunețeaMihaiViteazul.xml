@@ -10,7 +10,10 @@
             <author>Popescu, N.D.</author>
             <respStmt>
                <resp>codare POPLITE</resp>
-               <name>Teodora Iuriusciuc</name></respStmt>   
+               <name>Teodora Iuriusciuc</name></respStmt>
+            <respStmt>
+               <resp>verificare codare POPLITE</resp>
+               <name>Roxana Patras</name></respStmt>
             <respStmt>
                <resp>corectură manuală</resp>
                <name>Lucreția Pascariu</name>
@@ -74,27 +77,33 @@
       </encodingDesc>
    </teiHeader>
    <text>
+      <front>
+         <div type="titlepage">
+         <p>JUNEȚEA</p>
+         <p>LUI</p>
+         <p>MIHAIU VITEAZUL</p>
+         <p>NUVELA ISTORICĂ ORIGINALĂ</p>
+         <p>DE</p>
+         <p>N. D. POPESCU</p>
+         <p>ILUSTRATĂ CU TREI GRAVURI</p>
+         <p>EDIȚUNEA II </p>
+         <p>REVĂZUTĂ, CORECTATĂ ȘI COORDONATĂ CU NOILE IZVOARE ISTORICE DESCOPERITE DE LA PRIMA EDIȚIE INCOACE.</p>
+         <p>BUCUREȘTI</p>
+         <p>EDITURA LIBRĂRIEI H. STEINBERG 18, STRADA ȘELARI, 1895</p>
+         </div>
+         
+         <div type="liminal">
+         <p>De același autor în ediție separată, depozitul la H. Steinberg</p>
+         <p>Amazoana de la Rachova......... Banul Mărăcine..............</p>
+         <p>Bătălia de la Călugăreni, ilustrat...... Boerii haiduci ilustrat..........</p>
+         <p>Botezul de sânge, ilustrat......... Bujor Haiducul, ilustrat.......... Căpitanul Buzdugan, ilustrat........ Carte de basme, ilustrată......... Codreanu Haiducul, ilustrat....... Constantin Brâncoveanu, ilustrat..... Fala de la Cozia, ilustrat........ Iancu Jianu Zapciu, ilustrat........ Iancu Jianu Haiduc, ilustrat....... Istoria Resbelului Româno-Turc...... Junețea lui Mihai Viteazu, ilustrat..... Maria Putoianca, ilustrat........ Meșterul Manole, ilustrat........ Miul haiduc, ilustrat........... Moartea lui Bujor, ilustrat........ Mortea lui Iancu Jianu, ilustrat...... Moartea lui Radu Anghel, ilustrat..... Peneș Curcanu, ilustrat.......... Primul Rănit, ilustrat.......... Prisonierul de la Plevna, ilustrat..... Radu Anghel, ilustrat.......... Radu al III-lea cel frumos (Epuisat). . . . Războiul între haiduci și Ruși, ilustrat . . Santinela de La Grivița.......... Sora de caritate, ilustrat .........</p>
+         <p>Tunsu haiducul, ilustrat.........</p>
+         <p>Șî vor ieși în curând succesiv:</p>
+         <p>Alexandru Lăpușneanu, ilustrai............. Dumitrașcu Gantemir, ilustrat.............. Epoca Ghiculescilor, ilustrat.............. Epoca Derbedeilor, ilustrat................ Epoca Mavrocordaților, ilustrat.............. Epoca Nedumeriților, ilustrat............... Istoria uael dinastii, ilustrată............. Mihai Vitezul, domn al Ardealului, Moldovei și Țării Românești!. Mihnea cel rău, ilustrat................. Mircea cel bătrîn, ilustrat................ Mortea lui Mihai Viteazu, ilustrat............. Nicolae Mavrogheni, ilustrat............... Moscenitorii lui Radu Negru, ilustrat .......... Postelnicul Constantin Cantacusino, ilustrat........ Radu III-lea cel frumos, ediție nouă ilustrată....... Radu Negru și descălicătoarea, ilustrat.......... Radu Vodă de la Afumați, ilustrat............ Stefan Vodă cel mare, ilustrat.............. Testamentul lui Petru cel mare,' ilustrat.......... Colecțiune de nuvele, ilustrate . . ...........</p>
+         <p>Tipo-lithographia și Fonderia de litere, Dor. P. Cucu, Bul. Elisabetha, 121</p>
+         </div>
+      </front>
 <body>
-<p>JUNEȚEA</p>
-<p>LUI</p>
-<p>MIHAIU VITEAZUL</p>
-<p>NUVELA ISTORICĂ ORIGINALĂ</p>
-<p>DE</p>
-<p>N. D. POPESCU</p>
-<p>ILUSTRATĂ CU TREI GRAVURI</p>
-<p></p>
-<p>EDIȚUNEA II </p>
-<p>REVĂZUTĂ, CORECTATĂ ȘI COORDONATĂ CU NOILE IZVOARE ISTORICE DESCOPERITE DE LA PRIMA EDIȚIE INCOACE.</p>
-<p>BUCUREȘTI</p>
-<p>EDITURA LIBRĂRIEI H. STEINBERG 18, STRADA ȘELARI, 18 • 1895</p>
-<p>De același autor în ediție separată, depozitul la H. Steinberg</p>
-<p>Amazoana de la Rachova......... Banul Mărăcine..............</p>
-<p>Bătălia de la Călugăreni, ilustrat...... Boerii haiduci ilustrat..........</p>
-<p>Botezul de sânge, ilustrat......... Bujor Haiducul, ilustrat.......... Căpitanul Buzdugan, ilustrat........ Carte de basme, ilustrată......... Codreanu Haiducul, ilustrat....... Constantin Brâncoveanu, ilustrat..... Fala de la Cozia, ilustrat........ Iancu Jianu Zapciu, ilustrat........ Iancu Jianu Haiduc, ilustrat....... Istoria Resbelului Româno-Turc...... Junețea lui Mihai Viteazu, ilustrat..... Maria Putoianca, ilustrat........ Meșterul Manole, ilustrat........ Miul haiduc, ilustrat........... Moartea lui Bujor, ilustrat........ Mortea lui Iancu Jianu, ilustrat...... Moartea lui Radu Anghel, ilustrat..... Peneș Curcanu, ilustrat.......... Primul Rănit, ilustrat.......... Prisonierul de la Plevna, ilustrat..... Radu Anghel, ilustrat.......... Radu al III-lea cel frumos (Epuisat). . . . Războiul între haiduci și Ruși, ilustrat . . Santinela de La Grivița.......... Sora de caritate, ilustrat .........</p>
-<p>Tunsu haiducul, ilustrat.........</p>
-<p>Șî vor ieși în curând succesiv:</p>
-<p>Alexandru Lăpușneanu, ilustrai............. Dumitrașcu Gantemir, ilustrat.............. Epoca Ghiculescilor, ilustrat.............. Epoca Derbedeilor, ilustrat................ Epoca Mavrocordaților, ilustrat.............. Epoca Nedumeriților, ilustrat............... Istoria uael dinastii, ilustrată............. Mihai Vitezul, domn al Ardealului, Moldovei și Țării Românești!. Mihnea cel rău, ilustrat................. Mircea cel bătrîn, ilustrat................ Mortea lui Mihai Viteazu, ilustrat............. Nicolae Mavrogheni, ilustrat............... Moscenitorii lui Radu Negru, ilustrat .......... Postelnicul Constantin Cantacusino, ilustrat........ Radu III-lea cel frumos, ediție nouă ilustrată....... Radu Negru și descălicătoarea, ilustrat.......... Radu Vodă de la Afumați, ilustrat............ Stefan Vodă cel mare, ilustrat.............. Testamentul lui Petru cel mare,' ilustrat.......... Colecțiune de nuvele, ilustrate . . ...........</p>
-<p>Tipo-lithographia și Fonderia de litere, Dor. P. Cucu, Bul. Elisabetha, 121</p>
  <div type="chaper" n="1">
 <p>Limpezirea unei Legende.</p>
 <p>Precum am spus în Istoria unei dinastii publicată în «Calendaru pentru toți Românii» pe anul 1892, repet și acum în câteva cuvinte și ca o amintire, cum că la început familia Basarabilor care a întemeiat domnia statornică în țara Românească a fost compusă numai din o singură spiță : aceia a lui Radu Negru întemeitorul acelei dinastii și a domniei, că peste câtva timp după mortea sa ea s-a Împărțit în doue spițe: aceia a Dănescilor și aceia a Drăculescilor, că mai târziu cea din urmă aproape a nimicit pe cea dintâia prin fel de fel de ucideri, de războaie civile și de alte fapte crude, și că la urmă după mortea lui Țepeș, chiar familia biruitore, familia Drăculescilor, fu împărțită și ea în trei spițe.</p>
@@ -871,8 +880,9 @@
 <p>— Să fie cu putință? ce drumurile nu simt sigure noaptea? se prea poate; daca e așea lasă pe măne, dar să nu uiți să te duci de îndată ce s-o crăpa de ziuă.</p>
 <p>— Cum se pote să uit? tocmai porunca mării tale? crezi c-ar fi cu putință? Dinpotrivă ca să-ți dovedesc că de acum încolo dorul măriei tale e și al meu, o să încerc să me duc chiar astăseră, că baba nu se culcă de vreme, zise Ancuța cu voce tare părăsind camera stăpânei sale; apoi adaose încetinel când se văzu dincolo de prag: am cam întârziat, s-a înoptat de mult, de mai bine de un ceas, trebuc să me ascepte târgovețul meu. Mă reped ca să-i spui și lui ceva moși pe groși și să-i umflu cei cinci zeci de turali făgăduiți. Dacă ași mai căpăta și mai mulți?! ar fi prea cu putință; plăvițul, precum ved, iubesce la nebunie pe stăpână-mea, pe când ea mâre după oacheșu; el are bani mulți... cu puțină iscusință pot</p>
 <p>să pui mâna pe foc, să strâng o zestrișoră frumosă și... să mă văd și eu jupâneasă cu casa mea.</p>
+    
 <p>Iubiți cititori, dacă voiți să afiați aceia ce a făcut Ancuța precum și mișcătoarele urmări ale intrigelor ei, citiți volumul al doilea al acestei scrieri intitulat: Mihai și C..ul și fiți încredințați că timpul ce veți jertfi nu va nici de loc perdut.</p>
-<p>FINELE VOLUMULUI ÎNTÂIU</p>
+<p>FINELE VOLUMULUI ÎNTÂI</p>
 </div>
 </body>
  </text>

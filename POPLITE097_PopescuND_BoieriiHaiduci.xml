@@ -10,14 +10,17 @@
             <author>Popescu, N. D.</author>
             <respStmt>
                <resp>codare POPLITE</resp>
-               <name>Teodora Iuriusciuc</name></respStmt>   
+               <name>Teodora Iuriusciuc</name></respStmt> 
+           <respStmt>
+             <resp>verificare codare POPLITE</resp>
+             <name>Alexandra Olteanu</name></respStmt>   
             <respStmt>
                <resp>corectură manuală</resp>
-               <name>Mara Cojocaru. Georgiana Brașoveanu, Petru Svecicov, Cristina Dima, Elena Coman</name>
+              <name>Mara Cojocaru. Georgiana Brașoveanu, Petru Svecicov, Cristina Dima, Elena Coman, Daniela Crîșmaru</name>
             </respStmt>
            <respStmt>
              <resp>verificare corectură manuală</resp>
-             <name>Daniela Crîșmaru</name>
+             <name>Alexandra Olteanu</name>
            </respStmt>
             <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
          </titleStmt>
@@ -926,6 +929,7 @@
 
 </body>
     <back>
+      <div type="liminal">
       <p>TABLA DE MATERIE</p> 
       <p>I Lupta lui Nicolae Mavrogheni cu invadiunea.............Pag.3</p>
       <p>II Haiducii după resboiti....... 9</p> 
@@ -940,6 +944,7 @@
       <p>X Revolta in tabără......... 96</p> 
       <p>XI Boerii în tabăra haiducilor..... 105</p> 
       <p>XII Invatjiunea muscălească și ororile sale. 121</p> 
+      </div>
     </back>
  </text>
 </TEI>

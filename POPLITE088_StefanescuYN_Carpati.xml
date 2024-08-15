@@ -12,8 +12,15 @@
                <resp>codare POPLITE</resp>
                <name>Teodora Iuriusciuc</name></respStmt>   
             <respStmt>
+               <resp>verificare codare POPLITE</resp>
+               <name>Alexandra Olteanu</name></respStmt>   
+            <respStmt>
                <resp>corectură manuală</resp>
                <name>Ana-Maria Cazacu, Mălina Pomană, Theodora Todică</name>
+            </respStmt>
+            <respStmt>
+               <resp>verificare corectură manuală</resp>
+               <name>Loredana Cuzmici</name>
             </respStmt>
             <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
          </titleStmt>
@@ -74,9 +81,13 @@
       </encodingDesc>
    </teiHeader>
  <text>
+    <front>
+       <div type="liminal">
+       <p>N. ȘTEFĂNESCU-IACINT</p>
+       <p>Spre Carpați...</p>
+       </div>
+    </front>
  <body>
-<p>N. ȘTEFĂNESCU-IACINT</p>
-<p>Spre Carpați...</p>
 <div type="chapter" n="1">
 <p>I</p>
 <p>Printre nenumăratele probleme sociale care preocupau mintea lui Dragomir una îl atrăgea mai cu deosebire în timpul din urmă: problema națională a poporului din care făcea parte. Era și natural: fiu al României înfiripată de abia de o jumătate de secol, un crâmpei de țară numai,— trupul său sfâșiat fiind în cea mai mare parte pradă stăpânirei străinilor,— atenția sa fusese atrasă ușor de necesitatea unei întregiri, nu din motive sentimentale, ci pentru că vedea în rezolvarea acestei probleme un interes care privea însăși existența neamului și dezvoltarea lui pe calea civilizației. Și pentru că crâmpeiul de regat liber era în întuneric încă, cu o spoială de civilizație la suprafață, iar poporul în mizerie și ignoranță,— speculat de o clasă de politicieni și de un număr infim de latifundiari,— printre reformele pe care le cugetă pentru îndreptarea țării sale era și unirea acesteia cu Ardealul, partea cea mai înaintată în civilizație a neamului său. De ani de zile demonstrase posibilitatea regenerării țării sale prin această unire, arătând căile de urmat... Și visătorul hulit a fost fericit în ziua când stârnindu-se conflagrație generală a văzut apropiindu-se ziua mântuirii neamului.</p>
@@ -330,11 +341,11 @@
 <p>Dragomir plecă strigând ca un nebun: „ăsta e neam de eroi! La o parte cu acei care caută să-i falsifice destinele!”</p>
 </div>
 <div type="chapter" n="7">
-<p>>VII</p>
+<p>VII</p>
 <p>Întors acasă Dragomir se simțea pretutindeni stăpânit de sufletul eroului Gheorghe. Iși aminti de viața și moravurile societății orășenești pe care Ie cunoscuse în explorările recente și cât de mici și de ridicoli i se păreau eroii cafenelelor și cârciumilor față de voința vitejească curată a copilandrului de 19 ani care întrupa instinctiv voința și tăria unui neam întreg.</p>
 <p>Chemă într-o zi pe cunoscuții săi și le spuse că dorește să vorbească în public, iar lui Haim îi spuse între patru ochi, după ce își anunțase conferința: „adună pleava din cafenele, din cârciumi și din cluburi căci vreau să-i vorbesc și știu că dumneata ai multă trecere prin aceste localuri,— poți chiar determină un curent, după cum este obiceiul politicienilor. Adună-mi și toată lumea din piață, căci vreau să vorbesc la toți. Voi chema eu și puținele suflete curate... dumneata să ai grijă de rest”...</p>
 <p>Evreul crezând că Dragomir s-a țicnit căută să se eschiveze. Curios și tot cu gândul la afaceri, încercă să se intereseze de ceea ce a făcut Dragomir la vânătoarea... de căsătorie la care fusese invitat, dar neprimind nici un răspuns favorabil din partea acestuia înțelese că afacerea nu se poate face și că prin urmare nu trebue să piardă timpul. Nu știa cum să facă însă să scape de însărcinarea pe care i-o dăduse Dragomir, căci dacă avea Haim vreo parte slabă era aceea că fugea de rolul de agent electoral și aceasta din teama de a se amestecă în politică din cauza persecuțiilor.</p>
-<p>„Să nu mă dai de vre-un bucluc”, îi spuse el lui Dragomir... Și cu mare greutate îl convinse acesta că nu numai nu face asemenea afacere urâtă, dar că tocmai vrea să-și facă un merit din a lovi într-însa.</p>
+<p>„Să nu mă dai de vreun bucluc”, îi spuse el lui Dragomir... Și cu mare greutate îl convinse acesta că nu numai nu face asemenea afacere urâtă, dar că tocmai vrea să-și facă un merit din a lovi într-însa.</p>
 <p>Sala plină. Venise la conferința lui Dragomir lume din toate straturile societății: unii din curiozitatea de a-l ascultă vorbind, neavând altă distracție în seara aceea, mai cu seamă că era intrarea liberă, alții să-i caute vre-un cusur la vorbă, căci câțiva politicieni se speriaseră că le ia locul în partide și răspândiseră astfel tot felul de zvonuri rele la adresa lui.</p>
 <p>Corferința, tratând despre situația noastră internă și externă față cu marele război european,a terminat cu următorul fragment:</p>
 <p>„De aceea v-o repet: vă trebuie un ideal pentru care să luptați, căci numai din zbuciumul luptei și nădejdea de mai bine va răsări seninul zilelor de mâine. Vă trebuie o luptă pentru un vis, care să treacă pe de-asupra vieții meschine pe care o trăiți. Numai așa veți altoi viața cu sânge curat și o veți înălța acolo unde trebue să domnească. Numai așa veți fi și voi oameni și veți lăsă urmașilor voștri o moștenire de care omenirea să se simtă demnă. Fără vis în viață nu știți de ce trăiți și veți muri fără să fi înțeles vreo taină...”</p>

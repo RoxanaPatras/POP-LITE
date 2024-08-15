@@ -10,11 +10,15 @@
             <author>Sperantia, Th. D.</author>
             <respStmt>
                <resp>codare POPLITE</resp>
-               <name>Teodora Iuriusciuc</name></respStmt>   
+               <name>Lucreția Pascariu</name></respStmt>   
             <respStmt>
                <resp>corectură manuală</resp>
                <name>Claudia Surdu</name>
             </respStmt>
+            <respStmt>
+               <resp>verificare corectură manuală</resp>
+               <name>Alexandra Olteanu</name>
+            </respStmt>    
             <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
          </titleStmt>
          <publicationStmt>
@@ -74,19 +78,29 @@
       </encodingDesc>
    </teiHeader>
  <text>
+    <front>
+       <div type="titlepage">
+          <p>SAR și IONEL</p>
+          <p>TH. D. Speranția</p>
+          <p>Librăria Socec  Co., Societate Anonimă</p>
+          <p> Prețul Lei 12</p>
+       </div>
+       
+       <div type="titlepage">
+          <p>SAR și IONEL</p>
+          <p>Sar și Ionel e cel mai bun dar pentru copii.</p>
+          <p>Dacă-l vor citi și părinții va fi și mai bun.</p>
+          <p>BUCUREȘTI</p>
+          <p>Editura Librăriei Socec  Co., Societate Aaonimă</p>
+          <p>19 2 1</p> 
+       </div>
+       <div type="liminal">
+          <p>Toate  exemplarele vor purta semnătura autorului.</p>    
+       </div>   
+    </front>
    <body>
- <p>TH. D. Speranția</p>
-<p>Librăria Socec  Co., Societate Anonimă</p>
-<p> Prețul Lei 12</p>
-<p>SAR și IONEL</p>
-<p>Sar și Ionel e cel mai bun dar pentru copii.</p>
-<p>Dacă-l vor citi și părinții va fi și mai bun.</p>
-<p>BUCUREȘTI</p>
-<p>Editura Librăriei Socec  Co., Societate Aaonimă</p>
-<p>19 2 1</p>
-<p>Toate  exemplarele vor purta semnătura autorului.</p>
-<p>181782</p>
-<p>SAR și Ionel</p>
+<div type="part">
+      <p>SAR și Ionel</p>
 <p>Sar nume mare, titlu de împărat din vechime, din țările răsăritului: Sar-Danapal, Salmana-Sar, Nabueadne-Sar.</p>
 <p>Sar al nostru nu-i împărat, nu e nici om; e prietenul lui Ionel, Sar cățel.</p>
 <p>Sar și Ionel trăiesc în aceeași casă. Părinții lui Ionel îngrijesc și de Sar.</p>
@@ -2093,6 +2107,7 @@
 <p>Peste câțiva ani și Ionel o să fie mare. Anii trec. O să-1 vezi mare, o să-1 vezi și pe el tată, cu copii și o să-și aducă aminte să bage de seamă cum se cresc copiii.</p>
 <p>În timpul acesta chiar Ionel l-a sculat pe Sar în două picioare și-i strigă: Drepți!... Și Sar stă drept ca un soldat!...</p>
 <p>Sfârșit!</p>
+</div>
   </body>
  </text>
 </TEI>

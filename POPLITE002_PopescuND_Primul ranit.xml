@@ -19,6 +19,10 @@
                     <resp>corectare manuala</resp>
                     <name>Alexandra Ionela Cîrcu</name>
                 </respStmt>
+                <respStmt>
+                    <resp>verificare corectare manuala</resp>
+                    <name>Oana Ionescu</name>
+                </respStmt>
                 <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
             </titleStmt>
             <publicationStmt>
@@ -78,16 +82,20 @@
         </encodingDesc>
     </teiHeader>
     <text>
+        <front>
+            <div type="titlepage">
+                <p>EPISOADE DIN ISTORIA RĂZBOIULUI INDEPENDENȚEI ROMÂNIEI</p>
+                <p>PRIMUL RĂNIT</p>
+                <p>NUVELĂ ISTORICĂ CONTEMPORANĂ</p>
+                <p>DE</p>
+                <p>N.D.POPESCU</p>
+                <p>EDIȚIA I Revizuită și corectată</p>
+                <p>BUCUREȘTI</p>
+                <p>DEPOZITUL LA LIBRĂRIA H. STEINBERG 7, Calea Rahovei, 7</p>
+                <p>1890</p>
+            </div>
+        </front>
 <body>
-<p>EPISOADE DIN ISTORIA RĂZBOIULUI INDEPENDENȚEI ROMÂNIEI</p>
-<p>PRIMUL RĂNIT</p>
-<p>NUVELĂ ISTORICĂ CONTEMPORANĂ</p>
-<p>DE</p>
-<p>N.D.POPESCU</p>
-<p>EDIȚIA I Revizuită și corectată</p>
-<p>BUCUREȘTI</p>
-<p>DEPOZITUL LA LIBRĂRIA H. STEINBERG 7, Calea Rahovei, 7</p>
-<p>1890</p>
 <div type="chapter" n="1">
 <p>I</p>
 <p>În satul Izvoarele</p>

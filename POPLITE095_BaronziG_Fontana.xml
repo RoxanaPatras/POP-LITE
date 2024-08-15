@@ -10,11 +10,19 @@
             <author>Baronzi, G.</author>
             <respStmt>
                <resp>codare POPLITE</resp>
-               <name>Teodora Iuriusciuc</name></respStmt>   
+               <name>Teodora Iuriusciuc</name></respStmt>  
+            <respStmt>
+               <resp>verificare codare POPLITE</resp>
+               <name>Roxana Patraș</name></respStmt>   
             <respStmt>
                <resp>corectură manuală</resp>
                <name>Nicola Capră</name>
             </respStmt>
+            <respStmt>
+               <resp>verificare corectură manuală</resp>
+               <name>Oana Ionescu</name>
+            </respStmt>
+            
             <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
          </titleStmt>
          <publicationStmt>
@@ -76,7 +84,7 @@
    <text>
       <body>
          <div type="chapter">
-         <head>FONTANA ZINELOR</head>
+         <p>FONTANA ZINELOR</p>
          <p>In partea Basarabieǐ care a fost retrocedată Ru-sieǐ in urma rĕsboiuluǐ turco rus de la l877-l878, se află uă comună purtând poetica numire de <title>Fontâna ȡînelor</title>.</p>
          <p>De unde acéstă numire?</p>
          <p>De când sus ȡisa comună se numeșce ast-fel?</p>
@@ -1390,10 +1398,10 @@
          <p>In drépta și în stânga luǐ, se vedeaŭ maǐ mulțǐ ostașǐ înșirațǐ și armațǐ cu tot felul de arme.</p>
          <p>Sala era așa de puțin luminată că, dacă aceia ce era să fiă judecațǐ n-ar fi sciut maǐ dinainte câ judele lor cel mare era Radu, nu l-ar fi cu-noscut nicǐ uă dată în întunecimea cc domnea împrejurul lor; tótă sala era luminată numaǐ de uă lumînare.</p>
          <p>Cu tóte acestea unul din gardirniǐ carǐ înso-țiseră trăsura preveniților, și care fu recunoscut în urmă că era acela ce venise să le citéscă cele puse la cale de Domnitor, se urcă pe estrada unde se afla Radu șeȡênd pe scaun și scoțênd din sînu-ǐ uă chârtiâ citi cele următóre:</p>
-         <quote type="letter">
+         
             <p>«Noǐ, Bogdan Dragoș, Domn al țĕreǐ Moldoveǐ, încredințându-ne că supușiǐ noștriǐ Volbur, Ma-ria fiica sa și Vintil Sandomir, câte treǐ din satul Fontâna Zînelor, precum și femea Catrina care locuește cu maǐ sus numițiǐ, aŭ fost pe ne-drept pîrîțǐ că uneltesc resturnarea scaunuluǐ dom-nieǐ mele, cerênd pe sub mână ajutorul tătăresc, și fiind că acela care a adus asemenea pîră asupra numiților, a fost prins și în alte fapte mîrșave către fața nóstră și către țéră, am pus la cale pe de uă parte să pedepsim prin mórte pe acel mișel dupĕ faptele luǐ nelegiuite și uricióse luǐ Dumneȡeŭ și ómenilor, iar pe de alta să res-plătim pe sus numițiǐ Românǐ adevĕrațǐ pentru câte aŭ suferit eǐ, atât pentru binele țĕreǐ cât și de pe urma aceluǐ om cu suflet de fiară, care ’ǐ-a gonit tótă viața luǐ. Deci le dăm stăpî-nirea satuluǐ numit Fontâna Zînelor din preună cu curtea bolovănită și cu casele ce am pus să se înalțe peste cele zidite în pămênt, unde aŭ lucrat maǐ mulțǐ Românǐ bine voitorǐ pentru țéră, ca să fiă ale lor pe viață și a copiilor acestora, luând și din satul numit maǐ sus tot venitul pe séma lor și a copiilor din copii lor.»</p>
             <p>«Bogdan Dragoș.</p>
-         </quote>
+         
          <p>E cu putință a se descrie întipărirea ce pro-duse acésta nouă citire asupra acelora carǐ ve-neaŭ să-șǐ primească uă moarte sigură, și acum se vĕȡură de uă dată umpluțǐ de favoarea Domn-itoruluǐ și de uă miiă de bunătățǐ nevisate de dênșiǐ!</p>
          <p>Ușa săleǐ se deschise atuncǐ, și eǐ întorcên-du-șǐ capul vĕȡură pe marele căpitan Petrișan care venea spre dênșiǐ radios de veselie și le strînse mâna.</p>
          <p>La un semn ce făcu el, sala se lumină peste tot, și eǐ putură vedea ca acela pe care-l creȡu-seră de Radu, nu era de cât cadavrul acestuia căruia i se tăiase capul și se așeȡase la loc ast-fel că, în întunericimea ce se afla în sală, nimenǐ nu putea să cunóscă dacă era viŭ saŭ mort.</p>
@@ -1402,8 +1410,9 @@
          <p>Câte patru fiind flămânȡǐ de óre ce nu mâa-caseră din ajun, se puseră la masă cu cea maǐ mare fóme și statură pênĕ aprópe de ȡiuă.</p>
          <p>— Ast-fel scie Bogdan să facă dreptate, ȡi-cea Petrișan la masă.</p>
          <p>—S-aibă țéra parte tot de asemenǐ Domnitorǐ, rĕspunse Volbur, și toțǐ închinară în sănătatea luǐ Dragoș Bogdan.</p> 
+         
+         <p>Fine</p>
          </div>
-         <trailer>Fine</trailer>
       </body>
    </text>
 </TEI>

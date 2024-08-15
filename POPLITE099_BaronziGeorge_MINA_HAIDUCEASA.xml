@@ -10,14 +10,17 @@
             <author>Baronzi, George</author>
             <respStmt>
                <resp>codare POPLITE</resp>
-               <name>Teodora Iuriusciuc</name></respStmt>   
+               <name>Teodora Iuriusciuc</name></respStmt>  
+            <respStmt>
+               <resp>verificare codare POPLITE</resp>
+               <name>Alexandra Olteanu</name></respStmt>   
             <respStmt>
                <resp>corectură manuală</resp>
-               <name>Lucreția Pascariu</name>
+               <name>Daniela Crîșmaru</name>
             </respStmt>
             <respStmt>
                <resp>verificare corectură manuală</resp>
-               <name>Daniela Crîșmaru</name>
+               <name>Loredana Cuzmici</name>
             </respStmt>
             <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
          </titleStmt>
@@ -78,15 +81,19 @@
       </encodingDesc>
    </teiHeader>
    <text>
+      <front>
+         <div type="titlepage">
+      <p>MINA HAIDUCEASA</p>
+      <p>FATA CODRILOR</p>
+      <p>NUVELA ORIGINALĂ </p>
+      <p>BUCUREȘTI </p>
+      <p>EDITURA TIPO-LITOGRAFIEI DOR. P. CUCU Bulevardul Elisabeta 121.</p>
+      <p>1894.</p>
+         </div>
+      </front>
 <body>
-<head>MINA HAIDUCEASA</head>
-<p>FATA CODRILOR</p>
-   <p>NUVELA ORIGINALĂ </p>
-   <p>BUCUREȘTI </p>
-<p>EDITURA TIPO-LITOGRAFIEI DOR. P. CUCU Bulevardul Elisabeta 121.</p>
-<p>1894.</p>
-<p>MINA HAIDUCEASA</p>
-<p>FATA CODRILOR</p>
+   <p>MINA HAIDUCEASA</p>
+   <p>FATA CODRILOR</p>
 <p>Toate fetele din povești sunt frumoase, dar ca Mina Haiduceasa care viețuia cam pe la începutul sutei a șapte-spre-zecea, nu era niciuna; toți haiducii sunt viteji, dar ca Mina fata codrilor nu e niciuna.</p>
 <p>Fiică unică a unui popă răspopit, care fusese spânzurat pentru fărădelegile ce făcuse în viața lui, ea rămăsese fără părinți și singură în toată lumea, pe când se afla copilă abia de doisprezece ani.</p>
 <p>Trăia într-o căsuță ce îi rămăsese după mortea mamei sale... Casa n-avea decât o încăpere și o tindă, o grădină împrejurul casei semănată cu flori și cu legume; o capră roșie, câteva găini și un câine, un dulău mare care o păzea mai bine decât ar fi păzit-o doi ostași și îi era mai credincios decât un frate din ziua de astăzi.</p>
@@ -1162,6 +1169,5 @@
 <p>Moartea acelei nefericite copile făcu pe soția lui Orodel să uite durerea geloziei sale, și convingerea lor nu mai fu tulburată în urmă de această amintire tristă.</p>
 <p>FINE.</p>
 </body>
-<back><div><p></p></div></back>
 </text>
 </TEI>

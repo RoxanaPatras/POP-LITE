@@ -10,10 +10,17 @@
             <author>Olteo (Teodoru, Olimpia) </author>
             <respStmt>
                <resp>codare POPLITE</resp>
-               <name>Teodora Iuriusciuc</name></respStmt>   
+               <name>Teodora Iuriusciuc</name></respStmt>  
+            <respStmt>
+               <resp>verificare codare POPLITE</resp>
+               <name>Alexandra Olteanu</name></respStmt>   
             <respStmt>
                <resp>corectură manuală</resp>
                <name>Ionuț Alecu, Bianca Baltag, Claudia Enache, Alexandra Nanu, Nicoleta Maxim</name>
+            </respStmt>
+            <respStmt>
+               <resp>verificare corectură manuală</resp>
+               <name>Loredana Cuzmici</name>
             </respStmt>
             <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
          </titleStmt>
@@ -74,10 +81,14 @@
       </encodingDesc>
    </teiHeader>
  <text>
+    <front>
+       <div type="liminal">
+          <p>„IUBIRE FATALĂ“</p>
+          <p>ROMAN SOCIAL</p>    
+       </div>
+    </front> 
   <body>
-<p>„IUBIRE FATALĂ“</p>
-<p>ROMAN SOCIAL</p>
-<div type="chapter" n="1">
+     <div type="chapter" n="1"> 
 <p>CAPITOLUL I</p>
 <p>E 24 Ianuarie, România sărbătorește jumătate secol de la Unire.</p>
 <p>În piața Unirii din Roman, școlile de toate gradele, armată, lume, reprezentanții autorităților—întorși de la Tedeum — ascultă cuvîntarea unui veteran. Bătrînul arată partea ce luă orașul și județul Roman la opera Unirii, entuziasmul cu care marele act fu sărbătorit pe-același loc, cu 50 ani în urmă.</p>
@@ -1435,14 +1446,13 @@
 <p>Liniștea stăpânea lăcașul somnului etern. Vântul clătina firele de iarbă, pe mormântul Olgăi. La căpătâi se înălța frumoasa statuie de marmură albă. Pe fața ce da spre mormânt, o fetiță cânta din liră :</p>
 <p>Vei putea în lume, mult să rătăcești, Aur chiar, naive, ai să mai găsești. Inima ei insă n-ai s-o plămădești...</p>
 <p>Aruncați-i roze și crini pe mormânt— Inseși roză ieri, astăzi e pământ !</p>
-<p>Era chipul duios al Olgăi. Ochii ei priveau misterios în depărtare.'</p>
+<p>Era chipul duios al Olgăi. Ochii ei priveau misterios în depărtare.</p>
 <p>Același chip, pe cealaltă față a monumentului, cu aripi de înger, cu privirea spre Cer, ruga :</p>
 <p>O tainică solie</p>
 <p>Eu vin de pe pământ ;</p>
 <p>Dreptate și frăție</p>
 <p>Mai dă-i, o Tată Sfânt!</p>
-<p>— F [ N E —</p>
-<p> Personagii din «învierea», Tolsloi.</p>
+<p>— F I N E —</p>
 </div>
   </body>
  </text>

@@ -12,8 +12,15 @@
                <resp>codare POPLITE</resp>
                <name>Teodora Iuriusciuc</name></respStmt>   
             <respStmt>
+               <resp>verificare codare POPLITE</resp>
+               <name>Roxana Patraș</name></respStmt>   
+            <respStmt>
                <resp>corectură manuală</resp>
                <name>Lavinia Patraș</name>
+            </respStmt>
+            <respStmt>
+               <resp>verificare corectură manuală</resp>
+               <name>Alexandra Olteanu</name>
             </respStmt>
             <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
          </titleStmt>
@@ -74,16 +81,22 @@
       </encodingDesc>
    </teiHeader>
     <text>
+       <front>
+          <div type="titlepage">
+             <p>ÎNGROZITOAREA CRIMĂ DIN TABACI</p>
+             <p>PANAIT MACRI</p>
+             <p>BUCUREȘTI</p>
+             <p>ILUSTRAT CU 3 GRAVURI</p>
+             <p>FĂCUTE DUPP FOTOGRAFII ORIGINALE</p>
+             <p>EDITURA TIPO-LITOGRAFIEI DOR. P. CUCU</p>
+             <p>1896.</p>
+          </div>
+          <div type="liminal">
+             <p>ASASINUL ȘTEFAN VENESCU</p>
+             <p>ÎNGROZITOAREA crima din Tabaci</p>
+          </div>
+       </front>
          <body>
-<p>ÎNGROZITOAREA CRIMĂ DIN TABACI</p>
-<p>PANAIT MACRI</p>
-<p>BUCURESCI</p>
-<p>ILUSTRAT CU 3 GRAVURI</p>
-<p>FĂCUTE RUPE FOTOGRAFII ORIGINALE</p>
-<p>EDITURA TIPO-LITOGRAFIEI DOR. P. CUCI!</p>
-<p>1896.</p>
-<p>ASASINUL ȘTEFAN VENESCU</p>
-<p>ÎNGROZITOAREA crima din tabaci</p>
 <div type="chapter" n="1">
 <p>DESCOPERIREA CRIMEI</p>
 <p>Sâmbătă, la 3 Iunie, 1889, pe la orele 6 de dimineața, un băiat deschide poarta școlii comunale din Tabaci și intră înăuntru. Ușile de la clase erau încuiate.</p>

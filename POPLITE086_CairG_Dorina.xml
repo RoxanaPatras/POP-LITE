@@ -10,10 +10,14 @@
             <author>Caïr, George</author>
             <respStmt>
                <resp>codare POPLITE</resp>
-               <name>Teodora Iuriusciuc</name></respStmt>   
+               <name>Lucreția Pascariu</name></respStmt>   
             <respStmt>
                <resp>corectură manuală</resp>
                <name>Florentina Pocovnicu</name>
+            </respStmt>
+            <respStmt>
+               <resp>verificare corectură manuală</resp>
+               <name>Alexandra Olteanu</name>
             </respStmt>
             <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
          </titleStmt>
@@ -74,19 +78,28 @@
       </encodingDesc>
    </teiHeader>
     <text>
+       <front>
+          <div type="titlepage">
+             <p>DORINA</p>
+             <p>însemnările unei fete sincere </p>
+             <p>EDIȚIA II-a </p>
+             <p>BUCUREȘTI</p>
+             <p>Instit. de Arte Grafice Carol Gobl . S-ser I. SL Rasidescu</p>
+             <p>18, Strada Paris, 16 </p>
+          </div>
+          <div type="liminal">
+             <p>S-au tipărit din această — a doua — ediție, 2000 exemplare</p>
+             <p>Toate drepturile rezervate.</p>
+             <p>1916</p>
+             <p>Din prima ediție, care s-a tipărit tot în anul acesta, și s-a epuizat în răstimp de două luni,s-au tras 2000 exemplare, pe hârtie velină și 100, pentru bibliofili, pe hârtie cromo</p> 
+          </div>
+          <div type="titlepage">
+             <p>DORINA</p>
+             <p>- Însemnările unei fete sincere -</p>
+          </div>
+       </front>
          <body>
-<p>DORINA</p>
-<p>însemnările unei fete sincere </p>
-<p>EDIȚIA II-a </p>
-<p>BUCUREȘTI</p>
-<p>Instit. de Arte Grafice Carol Gobl . S-ser I. SL Rasidescu</p>
-<p>18, Strada Paris, 16 </p>
-<p>S-au tipărit din această — a doua — ediție, 2000 exemplare</p>
-<p>Toate drepturile rezervate.</p>
-<p>1916</p>
-<p>Din prima ediție, care s-a tipărit tot în anul acesta, și s-a epuizat în răstimp de două luni,s-au tras 2000 exemplare, pe hârtie velină și 100, pentru bibliofili, pe hârtie cromo</p>
-<p>DORINA</p>
-<p>- Însemnările unei fete sincere -</p>
+ <div type="part">
 <p>2 Septembrie 19...</p>
 <p>Sunt câteva luni de când am părăsit «Notre Dame de Sion» și figurile călugărițelor mă urmăresc încă!...</p>
 <p>În noaptea asta le-am visat iar...</p>
@@ -575,21 +588,26 @@
 <p>— Iată visul tău împlinit, îmi zise el, sărutându-mă pe frunte, vei avea automobilul!</p>
 <p>I-am smuls scrisoarea, am făcut-o bucățele mici, și i-am răspuns:</p>
 <p>— Nu’mi mai trebuie nimic, cel mai frumos dar l’am primit de mult!...</p>
-<p>DE ACELAȘ AUTOR</p>
-            <p>Urmașii Romei, Nuvele și schițe.</p>
-            <p>Ilustrațiuni de Costin Petrescu și JC. Mantu..</p>
-            <p>Din fumea gândurilor. Versuri.</p>
-            <p>Desenul copertei de JC. Dilontu.</p>
-            <p> Ca fulgu la vânt... Nuvele și schițe.</p>
-            <p>Ilustrațiuni de E. Sperfich.</p>
-            <p> Ca să-ți treacă de urât. Stihuri candrii.</p>
-            <p>(Jorj de Riac) </p>
-            <p>Farmec» .Proză și poezii.</p>
-            <p>Ilustrațiuni de CI. Murnu. Copertă în două culori,</p>
-            <p>Spre zări atbastre. Proză și poezii.</p>
-            <p>Ilustrațiuni de CL.Murnu.</p>
-            <p>Traista tui Adonis. Scrisori de pe lumea cea l'altă.— Poem fantastic.</p>
-            <p>Ca principatete librării, sau la autor, în București, Strada Luterană, 23,</p>
+ </div>
         </body>
+       <back>
+          <div type="liminal">
+             <p>DE ACELAȘ AUTOR</p>
+             <p>Urmașii Romei, Nuvele și schițe.</p>
+             <p>Ilustrațiuni de Costin Petrescu și JC. Mantu..</p>
+             <p>Din fumea gândurilor. Versuri.</p>
+             <p>Desenul copertei de JC. Dilontu.</p>
+             <p> Ca fulgu la vânt... Nuvele și schițe.</p>
+             <p>Ilustrațiuni de E. Sperfich.</p>
+             <p> Ca să-ți treacă de urât. Stihuri candrii.</p>
+             <p>(Jorj de Riac) </p>
+             <p>Farmec .Proză și poezii.</p>
+             <p>Ilustrațiuni de CI. Murnu. Copertă în două culori,</p>
+             <p>Spre zări atbastre. Proză și poezii.</p>
+             <p>Ilustrațiuni de CL.Murnu.</p>
+             <p>Traista tui Adonis. Scrisori de pe lumea cea l'altă.— Poem fantastic.</p>
+             <p>Ca principatete librării, sau la autor, în București, Strada Luterană, 23,</p>
+          </div>
+       </back>
     </text>
 </TEI>
