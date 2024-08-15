@@ -10,11 +10,18 @@
                 <author>Macri, Panait</author>  
                 <respStmt>               
                     <resp>codare POPLITE</resp>
-                    <name>Teodora Iuriusciuc</name></respStmt>   
+                    <name>Teodora Iuriusciuc</name></respStmt>
+                <respStmt>               
+                    <resp>verificare codare POPLITE</resp>
+                    <name>Roxana Patraș</name></respStmt>   
                 <respStmt>
                     <resp>corectură manuală</resp>
                     <name>Vlad-Florin Baciu</name>
                 </respStmt>
+                <respStmt>
+                    <resp>verificare corectură manuală</resp>
+                    <name>Loredana Cuzmici</name>
+                </respStmt> 
                 <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
             </titleStmt>
             <publicationStmt>
@@ -73,28 +80,22 @@
         </encodingDesc>
     </teiHeader>
 <text>
+    <front>
+     <div type="titlepage">
+         <p>IORGU COSMA</p>
+         <p>Roman original</p>
+         <p>de P. MACRI</p>
+         <p>CUPRINSUL:</p>
+         <p>Copilăria lui Iorgu Cosma.—Amorul.—Rănirea din Valea Ruzeului. Iorgu Cosma învinuit de crimă. — Mărioara!...— Arestarea lui Iorgu Cosma. — Instrucția.— În peștera munților.— Vrăjitoarea. Întâlnirea.— Sub teiul înflorii.— Triumful răului.—Despărțirea. Trei ani de durere.— Nădejde stinsă, suflet otrăvit.—La război. Disprețul pentru viață. —Un singur vis.—La mănăstirea Ciolanu. 10 Mai 1902.— Mărioara plânge pe catafalcul din biserica Sf.Gheorghe Nou .</p>
+         <p>PREȚUL 25 BANI.</p>
+         <p>BUCUREȘTI</p>
+         <p>Tipografia CLEMENȚA, Strada Câmpineanu, 16.</p>
+         <p>1902.</p>
+     </div>   
+    </front>
 <body>
-<p>CUPRINSUL:</p>
-<p>Copilăria lui Iorgu Cosma.—Amorul.—Rănirea din Valea Ruzeului. Iorgu Cosma învinuit de crimă. — Mărioara!...— Arestarea lui Iorgu Cosma. — Instrucția.— În peștera munților.— Vrăjitoarea. Întâlnirea.— Sub teiul înflorii.— Triumful răului.—Despărțirea. Trei ani de durere.— Nădejde stinsă, suflet otrăvit.—La război. Disprețul pentru viață. —Un singur vis.—La mănăstirea Ciolanu. 10 Mai 1902.— Mărioara plânge pe catafalcul din biserica Sf.Gheorghe Nou .</p>
-<p>PREȚUL 25 BANI.</p>
-<p>BUCUREȘTI</p>
-<p>Tipografia CLEMENȚA, Strada Câmpineanu, 16.</p>
-<p>1902.</p>
-<p>f</p>
-<p>IORGU COSMA</p>
-<p>CUPRINSUL:</p>
-<p>Copilăria lui Iorgu Cosma.—-Amorul.—Rănirea din Valea Buzăului. Iorgu Cosma învinuit de crimă. — Mărioara!... — Arestarea lui Iorgu Cosma.— Instrucția.— În peștera munților.—Vrăjitoarea. Întâlnirea. — Sub teiul înflorit.— Triumful răului. — Despărțirea. Trei ani de durere.—Nădejde stinsă, suflet otrăvit.—La război. Disprețul pentru viață. — Un singur vis. —La mănăstirea Ciolanu. 1O Mai 1902.— Mărioara plânge pe catafalcul din biserica Sf. Gheorghe Nou !</p>
-<p>PREȚUL 25 BANI.</p>
-<p>BUCURESCI</p>
-<p>Tipografia CLEMENȚA, Strada Câmpineanu, 16.</p>
-<p>1902.</p>
-<p>BCU Cluj-Napoca</p>
-<p>RBCFG2D2000839</p>
-<p>319337</p>
-<p>IORGU COSMA</p>
-<p>Roman original de P. MACRI</p>
 <div type="chapter" n="1">
-<p>Rănirea din valea Buzăului</p>
+<head>Rănirea din valea Buzăului</head>
 <p>Era într-o seară din anul 1869.</p>
 <p>Un tânăr, căruia abia îi ieșise mustața, venea, cu o sapă la spinare, de la munca câmpului spre satul Rusăvețul.</p>
 <p>El pășea alene și fredona acest cântec făcut de el:</p>
@@ -152,7 +153,7 @@
 <p>Rătăcit, fără să știe ce se petrece, Iorgu puse mâna pe sapă și se uită în jurul său, voind să cadă și el mort sau să omoare pe acela care trăsese cu pușca. Nimic însă, nici o urmă. Grigore se strecură în pădure și luă drumul spre valea Buzăului.</p>
 </div>
 <div type="chapter" n="2">
-<p>Iorgu învinuit de crimă</p>
+<head>Iorgu învinuit de crimă</head>
 <p>Pe lângă durerea și disperarea sărmanului lorgu, mai era acum și încurcătura în care se afla. Cum să o ducă el pe Mărioara până acasă la dânsa? Unde să spună părinților ei că a găsit-o?</p>
 <p>Nimeni din sat nu știa că frumoasa fată îl iubește pe lorgu și dacă părinții ei ar fi aflat aceasta, ar fi omorât-o în bătăi, căci Mărioara era logodită cu Grigore. Acesta singur bănuise ceva și urmărindu-l pe viitoarea-i nevastă, o surprinse cu lorgu, în acea seară, la marginea pădurii.</p>
 <p>El se aplecă spre frumoasa lui amantă și-i umplu fața de sărutări.</p>
@@ -207,7 +208,7 @@
 <p>— Nenorocitul, o să moară în pușcărie.</p>
 </div>
 <div type="chapter" n="3">
-<p>Arestarea</p>
+<head>Arestarea</head>
 <p>Pomoșnicul se numea Petrescu. Era un om în vârstă, fără multă cultură, dar cu mult bun simț.</p>
 <p>Iorgu Cosma fusese adus înaintea lui. La primărie se afla și Grigore. Într-o odaie de alături se auzeau vorbe, discuții. Erau țărani aduși de prin toate părțile satului.</p>
 <p>— Tu te numești Iorgu Cosma ? întrebă pomoșnicul pe tânărul legat și pe care vătășeii îl țineau încă de guler.</p>
@@ -265,7 +266,7 @@
 <p>— Trimete-l legat la tactul suprefecturii; când m-oi întoarce de la Buzău, să-l găsesc acolo.</p>
 </div>
 <div type="chapter" n="4">
-<p>La vrăjitoarea din peșteră</p>
+<head>La vrăjitoarea din peșteră</head>
 <p>Satul Rusăvățul e situat pe coasta muntelui Ursoii. Deasupra lui și în partea dreaptă se întind păduri mari de tufan. La vale curge râul Buzău, care vine șerpuind din vârful munților.</p>
 <p>Casele, aici mai rare, aici mai dese, sunt presărate pe toată acea coastă de munte. Puțin mai departe e un alt șir de case care formează cătunul Paliciu.</p>
 <p>Aici locuia mama lui Cosma, o bătrână văduvă, care nu avea decât pe Iorgu ca ajutor.</p>
@@ -303,7 +304,7 @@
 <p>Pleacă, pleacă, femeie! ori vedeniile mă înșală, ori eu am înnebunit...</p>
 </div>
 <div type="chapter" n="5">
-<p> Întâlnirea</p>
+<head> Întâlnirea</head>
 <p>Prevestirea vrăjitoarei s-a împlinit întocmai. Petrescu, subprefectul plășii, când se duse la Buzău, a avut grijă să vadă pe Mărioara. Ea era atunci mult mai bine și medicul care o îngrijea spuse că peste câteva zile poate să se întoarcă la satul ei. Mărioara nu stătuse la Buzău, în total, decât 11 zile, căci puțin după ce i se extrase glonțul, rana se închise și curând apoi se vindecă pe deplin.</p>
 <p>Subprefectul, după ce puse în cunoștință pe doctor că voiește să ancheteze cazul, rămase singur cu Mărioara și-i zise:</p>
 <p>— Iată, te-ai făcut bine și trebuie să știi că ai scăpat cu viață ca prin minune. Dacă glonțul te lovea în piept, ai fi murit pe loc.</p>
@@ -349,7 +350,7 @@
 <p>Atâta grăi Iorgu și înainta pe deal în sus, pe când Mărioara o luă la fugă spre vale.</p>
 </div>
 <div type="chapter" n="6">
-<p>Sub teiul înflorit</p>
+<head>Sub teiul înflorit</head>
 <p>Iorgu, părăsit, urgisit de toți ai săi, veni cel dintâi la locul întâlnirii, sub teiul înflorit.</p>
 <p>Și putea oare să întârzie de a sosi la locul unde știa bine că se găsește iubita lui ? Putea oare să piardă prilejul de a sta câteva minute lângă aceea pe care o adora și să uite, în acele dulci momente, și trecut și viitor ?...</p>
 <p>Soarele se înălța pe cer, păsărelele își scuturau aripele, ciripiri răsunau în toate părțile, iar florile, scăldate de rouă dimineții, se sărutau cu razele soarelui și îmbătau aerul cu parfumul lor.</p>
@@ -373,7 +374,7 @@
 <p>— De mi-o ajuta D-zeu să iau pe Mărioara de nevastă, aici, lângă acest tei, departe de zgomotul satului, am să-mi fac o căsuță ca să trăiesc cu draga mea.</p>
 </div>
 <div type="chapter" n="7">
-<p>Triumful răului</p>
+<head>Triumful răului</head>
 <p>Mărioara făcuse precum zisese. Chiar în seara aceleași zile tot satul vuia, toți țăranii șopteau :</p>
 <p>A pățit-o Grigore, s-a isprăvit cu nunta. Flăcăii, mai drăcoși, cum sunt ei din fire, râdeau pe înfundate și făceau tot felul de glume pe socoteala îndrăgostitului fără noroc. Fetele, pe de altă parte, nu mai vorbeau tot timpul decât de pățania lui Grigore și cele mai multe din ele o învinuiau pe Mărioara.</p>
 <p>Dar Grigore ce zicea el oare? Hotărâtu-s-a să-și răzbune pe fata pe care o iubea, cu care se logodise și care rupse acum de odată toate legăturile spunându-i că nu poate să—l vadă în ochi?</p>
@@ -394,7 +395,7 @@
 <p>Răul triumfase pentru ochii lumii, pentru dragostea care lega pe cei doi tineri. Grigore izbutise ca să depărteze pe Iorgu, să—i ucidă acea dragoste, dar în locul ei îi deschise o alta mai mare, mai puternică, dragostea de armată, dragostea de țară.</p>
 </div>
 <div type="chapter" n="8">
-<p>Despărțirea</p>
+<head>Despărțirea</head>
 <p>O zi și o noapte a stat sărmanul Iorgu închis la primărie. Bătrâna lui mamă îi aducea de mâncare și plângea numai când era singură, când venea pe drum. În fața lui, dimpotrivă, se încerca să—l îmbărbăteze.</p>
 <p>— Nu e nimic, dragul meu, îi zicea dânsa. Și tatăl tău a fost ostaș și-mi povestea lucruri frumoase de pe acolo. Soldații sunt veseli și viața nu e așa grea, cum se aude. În miliție, uită omul multe necazuri. Iată ce-mi spunea bietul tatăl tău. «Safto, tu nu știi ce e miliția, cine n-a fost ostaș, nu e om».</p>
 <p>Cu astfel de vorbe căuta bătrâna femeie să-și îmbărbăteze fiul ca să poată să sufere puternica lovitură, aceea de a se despărți de Mărioara. Și multe din cele ce spunea erau așa, le credea singură, căci fusese nevasta unui militar, pe vremuri, și voinic român.</p>
@@ -417,7 +418,7 @@
 <p>Nimeni nu știe, de atunci nimeni n-a mai văzut-o, nimeni n-a putut să-i dea de urmă, cu toate căutările primăriei și ale sătenilor.</p>
 </div>
 <div type="chapter" n="9">
-<p>Trei ani de durere</p>
+<head>Trei ani de durere</head>
 <p>Intrat în armată, Iorgu nu s-a mai gândit să scape, n-a mai încercat motive de scutire. El rămase soldat și fu unul dintre cei mai disciplinați.</p>
 <p>Mama lui venea adeseori de-l vedea. El o întreba întotdeauna dacă s-a mai aflat ceva despre Mărioara.</p>
 <p>— Nimic, nimic... îi răspundea bătrâna.</p>
@@ -453,7 +454,7 @@
 <p>Îi părea rău că se desparte de bunii săi camarazi, de șefii săi care îl iubeau și tresărea de bucurie, în același timp, gândindu-se că o să vadă vatra părintească.</p>
 </div>
 <div type="chapter" n="10">
-<p>Nădejde stinsă, suflet otrăvit</p>
+<head>Nădejde stinsă, suflet otrăvit</head>
 <p>Mâhnirea lui Iorgu Cosma crescu și mai mult, după ce se întoarse în satul său. Patru ani de-a rândul el cercetă prin toate părțile, doar o afla ceva despre Mărioara. Nimeni însă nu-i spusese nimic, nimeni nu dăduse vreodată de urma fetei dispărute.</p>
 <p>— S-a isprăvit, își zicea sergentul Iorgu Cosma; — Mărioara trebuie să-și fi curmat zilele.</p>
 <p>Era în toamna anului 1877. Iorgu Cosma plecă singur pe câmpiile întinse din jurul satului Rusăvățul. El trecu pe cărările pe unde rătăcia odinioară cu iubita lui; prin crângurile unde îl aștepta dânsa ; prin pădurea tăinuită, unde ascunși de lume, se pitulau printre copaci și culegeau la mure; prin desișul din vale, unde de atâtea ori a strâns-o la piept și a sărutat-o cu foc.</p>
@@ -477,7 +478,7 @@
 <p>În el se stinsese orice nădejde și sufletul său se otrăvise...</p>
 </div>
 <div type="chapter" n="11">
-<p>La război</p>
+<head>La război</head>
 <p>Dragostea pentru Mărioara se schimbă însă de odată într-o nețărmurită dragoste pentru țară.</p>
 <p>Se declară războiul între Rusia și Turcia și dincolo, peste Dunăre, începuse ca să curgă râuri de sânge.</p>
 <p>România, în urma insistențelor Rusiei, intră și ca în luptă.</p>
@@ -501,7 +502,7 @@
 <p>Și când cerul se însenină, sergentul Iorgu Cosma, tăcut, nepăsător, se așeză în mijlocul cadavrelor și încercă să-și astupe rănile din piept. Atunci însă sosi Domnitorul țării, Carol I, și pe rănile sângerânde îi puse „Virtutea militară”.</p>
 </div>
 <div type="chapter" n="12">
-<p>Disprețul pentru viața</p>
+<head>Disprețul pentru viața</head>
 <p>Când intri în război, nimic nu te mai impresionează. Camarazii tăi cad lângă tine și tu calci peste ei și treci înainte. Gloanțele îți șuieră pe la ureche și ți se pare că e o muzică, îți place chiar să-l auzi cât mai des acel șuierat. De vei trăi sau muri, puțin îți pasă, căci odată intrat în foc, ai un fel de dispreț pentru viață.</p>
 <p>Soldații români nu aveau decât un gând, o dorință: să iasă învingători. Strănepoți de eroi legendari, trebuiau să păstreze renumele, să mărească gloria. „Să murim, își ziceau bravii noștri soldați,—dar să învingem.</p>
 <p>Era o iarnă aspră, un ger cumplit. Colonelul Slăniceanu avea sub comanda sa un batalion din regimentul I de dorobanți, cu maiorul Burileanu; un batalion din regimentul IV, cu maiorul Giurescu; o companie din regimentul Ilfov, cu maiorul Ene ; un batalion din regimentul X Putna și R. Sărat, comandat de loc.-colonel Mărculescu, rămășițe din regimentul XV Neamț și Suceava, cu maiorul Burchi; o parte din cavalerie și artilerie.</p>
@@ -529,7 +530,7 @@
 <p>La toate aceste asalturi, sergentul Iorgu Cosma a fost în frunte, în mijlocul focului, dar D-zeu i-a cruțat viața. El n-a lăsat pe redute decât o parte din sângele său.</p>
 </div>
 <div type="chapter" n="13">
-<p>Un singur vis</p>
+<head>Un singur vis</head>
 <p>În ziua de 12 Februarie 1878 românii intrară ca biruitori în Vidin, iar oștirea turcească se retrase spre interiorul Turciei.</p>
 <p>Se încheiase pacea de la Sf. Stefano, totuși, armata română mai rămase pe câmpiile Bulgariei. Tocmai prin luna lui Aprilie sergentul Iorgu Cosma se întoarse în țară.</p>
 <p>Sufletul său era împăcat acum, el văzuse mântuirea neamului și luase parte la acele lupte fără seamăn. Soldații noștri desfășuraseră atâta vitejie, încât, în orice parte a pământului, cine zicea român, zicea viteaz.</p>
@@ -542,7 +543,7 @@
 <p>Dar Grigore, ce s-a făcut dânsul? Nenorocitul înnebunise....</p>
 </div>
 <div type="chapter" n="14">
-<p>La mănăstirea Ciolanu</p>
+<head>La mănăstirea Ciolanu</head>
 <p>În județul Buzău, în mijlocul munților, stă ascuns schitul Ciolanu.</p>
 <p>Data fondării acestui schit de călugări nu se cunoaște bine. După tradiție el este fondat de Doamna Neaga, pe la anul 1590. Pe atunci însă România era des prădată de turci, care invadau în țară.</p>
 <p>Mănăstirea Ciolanu, deși așezată într-o pozițiune din cele mai apărate, totuși n-a putut să scape de năvălirile barbare.</p>
@@ -559,7 +560,7 @@
 <p>Ghervasi era supus, dar câteodată, când vreun monah superior îl supăra prea mult, el își încrunta deodată sprâncenele și se uita așa de urât la el, încât superiorul începea să tremure. Ghervasi devenea atunci eroul Iorgu Cosma, care nu putea să sufere umilirea, nici să asculte observații absurde.</p>
 </div>
 <div type="chapter" n="15">
-<p>10 Mai 1902</p>
+<head>10 Mai 1902</head>
 <p>Sosi ziua de 10 Mai 1902. Era o întreită aniversare, care înveșmânta o solemnitate deosebită, pentru că se împlinise un sfert de veac de la proclamarea independenței României; 36 de ani de la urcarea pe tron a Domnitorului Carol I și 21 de ani de la încoronarea primului rege român.</p>
 <p>Da, în ziua de 10 Mai 1877, președinții Corpurilor legiuitoare, capii tuturor autorităților, președinții Curții de Casație și în frunte Mitropolitul Moldovei prezentară Domnului României libere felicitările și omagiile lor. Ei prezentau moțiunea prin care țara noastră se proclama stat independent.</p>
 <p>Cu 11 ani înainte, la 1866, când Suveranul nostru pusese pentru întâiași dată piciorul pe pământul României, a spus, între altele :</p>
@@ -598,7 +599,7 @@
 <p>Muzicile cântă imnul regal, pe când mulțimea izbucnește în nesfârșite aplauze.</p>
 </div>
 <div type="chapter" n="16">
-<p>Defilarea</p>
+<head>Defilarea</head>
 <p>Cei dintâi care defilează sunt elevii liceului Mihai Bravul.</p>
 <p>Urmează apoi școala de arte și meserii și elevii institutului Otescu.</p>
 <p>În depărtare se aud bubuituri de tunuri, pe când lumea aplauda necontenit.</p>
@@ -615,7 +616,7 @@
 <p>Mulțimea, care l-a văzut trecând în rasa sa monahală, în fruntea batalionului, i-a făcut frenetice ovațiuni.</p>
 </div>
 <div type="chapter" n="17">
-<p>Mărioara plânge pe catafalcul din biserica Sf. Gheorghe Nou!</p>
+<head>Mărioara plânge pe catafalcul din biserica Sf. Gheorghe Nou!</head>
 <p>De dimineață și până la ora 2 după amiază, călugărul Iorgu Cosma stătuse în ploaia care-l udase până la piele. Restul zilei, se învârti prin oraș, fără să mănânce nimic, căci bietul monah, eroul de la Grivița, Rahova și Vidin, nu avea niciun ban, iar seara fusese primit în Azilul săracilor ca să se culce.</p>
 <p>Înspre ziuă, la ora 4, Iorgu Cosma încetă din viață.</p>
 <p>Ce s-a făcut cu corpul acestui viteaz, care a înfipt drapelele țării sale pe redutele vrășmașului ?</p>
