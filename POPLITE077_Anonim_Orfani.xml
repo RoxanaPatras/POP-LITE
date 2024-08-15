@@ -11,13 +11,16 @@
             <respStmt>
                <resp>codare POPLITE</resp>
                <name>Teodora Iuriusciuc</name></respStmt>   
-            <respStmt>
+          <respStmt>
+           <resp>codare POPLITE</resp>
+           <name>Roxana Patraș</name></respStmt>   
+          <respStmt>
                <resp>corectură manuală</resp>
-               <name>Adina Agape, Mihaela Sfârnaciuc, Cosmina Vasilaș, Ana-Maria Zota, Tudor-Gabriel Gavril</name>
+               <name>Adina Agape, Mihaela Sfârnaciuc, Cosmina Vasilaș, Ana-Maria Zota, Tudor-Gabriel Gavril, Leonard Rotaru</name>
             </respStmt>
           <respStmt>
            <resp>verificare corectură manuală</resp>
-           <name>Leonard Rotaru</name>
+           <name>Alexandra Olteanu</name>
           </respStmt>
             <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
          </titleStmt>
@@ -42,7 +45,7 @@
                   <measure unit="word">38551</measure>
                   <measure unit="page" type="under_250"/>
                   <measure unit="foileton" type="under_65"/>
-                  <measure type="complete"></measure>
+                  <measure type="incomplete"></measure>
                </extent>
             </bibl>
          </sourceDesc>
@@ -79,11 +82,13 @@
    </teiHeader>
  <text>
   <body>
-  <p>FOIȚA ZIARULUI „OPINIA”</p>
-<p>ORFANI</p>
+<div type="part" n="1">
+<p>FOIȚA ZIARULUI „OPINIA”</p>
+<p>1</p>
+<p>ORFANI!</p>
 <p>PARTEA I-a</p>
 <p>CELE DOUĂ SURORI</p>
-<div type="chapter" n="1">
+<div type="section" n="1">
 <p>I</p>
 <p>O căsătorie în lumea mare.</p>
 <p>Pe la sfârșitul lui Martie 1887 toate ziarele pariziene publicau această noutate senzațională:</p>
@@ -122,6 +127,18 @@
 <p>Nu crâcnea, dar nu slăbea din ochi nicio clipă pe contele Gueranda, când un ușier strigă:</p>
 <p>— Domnul Primar!</p>
 <p>Se deschise o ușă, și, pe când toată lumea se sculă în picioare, ofițerul stării civile, încins cu eșarfa sa, înaintă, urmat de secretarul său.</p>
+<p>(va urma)</p>
+</div>
+</div>
+   
+   <div type="part" n="2">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>2</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="1">
+    <p>I</p>
 <p>O căsătorie în lumea mare.</p>
 <p>Luă loc la biuroul său; se închină înaintea nobilei adunări, apoi, cu glasul înăbușit și amestecând cuvintele, secretarul dădu îndată citire actelor.</p>
 <p>Odată citirea sfârșită, urmă o tăcere evlavioasă.</p>
@@ -158,6 +175,18 @@
 <p>Apoi, disprețuitoare și cu fruntea ridicată, ieși, la brațul baronului pe care scandalul îngrozitor îl încremenise de spaimă, în timp ce contele de Gueranda, cu ochii fulgerând de ură, rămase locului trăsnit și uluit.</p>
 <p>În acest timp, norodul care văzuse copilul fugind amețit și gemând și care aflase deja ce palmă zdravănă căpătase contele de la logodnica sa, norodul se pornise furios contra contelui, aclamând pe Adriana și umplând strada cu mii de strigăte badjocoritoare, cu mii de huiduieli pe seama contelui.</p>
 <p>Abia se arătă copila, fugind la brațul tatălui său, și toată lumea bătu din palme.</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="3">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>3</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="1">
+    <p>I</p>
 <p>O căsătorie în lumea mare.</p>
 <p>— Trăiască mireasa!... Trăiască mireasa !...</p>
 <p>Și aproape de dânsa se auzi vorbind o femeie către alta:</p>
@@ -198,6 +227,18 @@
 <p>— Vai!</p>
 <p>— Da, eu sunt... sora ta!</p>
 <p>— Nu, nu. Protivnica mea!... E îngrozitor! strigă bolnava făcând un gest cu mâna ca s-o respingă.</p>
+<p>(Va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="4">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>4</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="1">
+    <p>I</p>
 <p>O căsătorie în lumea mare.</p>
 <p>Dar Adriana o strânse-n brațe, apoi, acoperind-o de sărutări:</p>
 <p>— Nu, soră-ta Ioana. — Soră-ta și nimic alta — pentru totdeauna!... da, soră-ta care venind încoace credea că vine la o străină.... la o femeie nenorocită căreia voia să-i zică: „Nu mă învinui alături de mizerabilul acela... n-ai pentru mine același dispreț ca și pentru dânsul, căci eu nu știam nimic, căci în momentul când am aflat totul n-am voit să devin tovarășa lui și să-ți fur fericirea!</p>
@@ -233,8 +274,18 @@
 <p>Dar nu sfârși vorba și mizerabilul o șterse...</p>
 <p>Și cu genunchii obosiți pe pământ, copilul se rugă... bietul copil rămas singur pe lume... atât de curând azvârlit în miile de nenorociri și de chinuri ce-i păstra soarta!...</p>
 <p>Bietul copilaș!...</p>
+    </div>
 </div>
-<div type="chapter" n="2">
+   
+   <div type="part" n="5">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>5</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+<div type="section" n="2">
+<p>II</p>
+<p>ORFANII</p>
 <p>Două zile trecură de când, prin stăruințele surorii sale, sărmana Ioană, care necurmat chema pe acel care-o părăsise, fusese primită într-o casă de sănătate la Fontenay-sous-Bois.</p>
 <p>Două zile, de asemeni trecuse, de când tremurătoare și rugătoare, Adriana ținând de mână pe micul Mauriciu avusese îndrăzneala de a cere pentru dânsul mila tatălui său. Dar nemilosul baron n-avuse decât un cuvânt groaznic, un gest furios pentru a-și goni nepotul:</p>
 <p>— Pleacă, bastardule!</p>
@@ -275,6 +326,19 @@
 <p>— Un domnișor care a venit la dumneavoastră.</p>
 <p>— Cine, să-l vedem!</p>
 <p>— Iacă, băiețelul acesta.</p>
+<p>(Va urma)</p>
+</div>
+   </div>
+   
+   <div type="part" n="6">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>6</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="2">
+    <p>II</p>
+    <p>ORFANII</p>
 <p>Și fetica făcu loc tânărului musafir să intre.</p>
 <p>Doamna François se uită curios la dânsul și el, la rândul său, se uită la camera în care se afla, o locuință de țară bine căptușită și mobilată, cu mobile trainice; odaia avea două uși de sticlă în fund, despărțite printr-un canat de nuc; la mijloc — o masă mare; într-un unghi un bufet încărcat cu belșug; la stânga, la intrare, o scară ce duce spre odăile din rândul întâi și, de-a lungul pereților se înșirau: o pușcă, unelte de pescuit, de vânat etc.</p>
 <p>Cât despre femeia domnului François, dacă părea guralivă, avea în schimb zugrăvită multă bunătate pe față.</p>
@@ -310,6 +374,19 @@
 <p>După o clipă de tăcere, stăpânul reîncepu:</p>
 <p>— Iată cum o să fac! zise el cu asprime. Fiindcă n-am cum să-i hrănesc pe amândoi, am de ales între băiat și fată. Ei bine, vreau mai bine să-l țin pe băiat...</p>
 <p>— Nu mai vorbi, François, nu mai spune, răspunse femeia sa repede cu vocea tremurătoare. Nu-ți spun să nu primești pe Mauriciu, un biet copil nenorocit... Dar te a lașa inima să gonești pe Suzana care de zece ani traește din mila noastră!... cum ai avea curajul să arunci pe stradă pe biata copiliță care nu are și nu iubește pe nimeni afară de noi.</p>
+<p>(Va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="7">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>7</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="2">
+    <p>II</p>
+    <p>ORFANII</p>
 <p>— Dar la dracu, mă plictisești la urma urmei! răcni patronul spălătoriei trântind cu pumnul în masă. Plodul de fată, doar nu e fata mea, ce tot îmi cânți...</p>
 <p>— Dar nu și a noastră? răspunse iar cu repejune doamna François. N-a stat ea cu noi ca și cum ar fi fost copila noastră? Și la urmă dacă-ți pare rău că i-ai dat de mâncare, eu îți jur că a câștigat-o cu drept, sărmănica!</p>
 <p>— Nu-mi pare rău, dar vreau să se cărăbănească de aici.</p>
@@ -356,6 +433,19 @@
 <p>— Eu sunt, răspunse el deschizându-i ușa.</p>
 <p>Trecând pragul, necunoscuta părea că tresare ușor. Se uită repede împrejur și cu voacea tremurată zise :</p>
 <p>— O amică a mea mi-a dat o însărcinare foarte gingașă, care o să vă cam pună în mirare.</p>
+<p>(Va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="8">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>8</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="2">
+    <p>II</p>
+    <p>ORFANII</p>
 <p>Glasul îi tremura tot mai tare și ochiul arăta tot mai multă temere.</p>
 <p>— Amica de care vă vorbesc, astăzi foarte bogată, era odinioară atât de săracă, atât de nenorocită, încât, într-un moment de nebunie, mizeria o împinse să săvârșească o crimă, pentru care va avea o veșnică remușcare...Și-a părăsit copilul...</p>
 <p>Cu fruntea plecată ca și cum ar fi apăsat-o cea mai grea durere și rușine, ea-și pusese batista la gură pentru a înăbuși un gemăt.</p>
@@ -375,9 +465,11 @@
 <p>— Obrazul străinei, din zbârcit și posomorât, întinerise și se luminase de bucurie.</p>
 <p>— Ieri în sfârșit norocul mi-o redădu, iat-o!</p>
 <p>Și tremurând desfăcu o bucată de hârtie îngălbenită și citi cu vocea strânsă pe jumătate.</p>
+     
 <p>JEAN FHANÇOIS</p>
 <p>—spălător de rufe—</p>
 <p>la Ivry—sur—Seine</p>
+     
 <p>— Da da, — aici e în adevăr zise și domnul François citind biletul. Dar Suzana...</p>
 <p>— A murit! strigă necunoscuta speriată.</p>
 <p>— O, nu! Dar a plecat...</p>
@@ -397,6 +489,19 @@
 <p>— Dumnezeule, scap-o! Dă-i copilul îndărăt se rugă doamna François, plângând.</p>
 <p>Și deodată, când ea căuta încă să fugă, genunchii necunoscutei se frânseră; cu ochii închiși, grozav de palidă, ea rămăsese fără suflare în brațele doamnei François.</p>
 <p>Tremurând și palid de remușcări spălătorul ajunse dintr-o săritură pe malul Senei.</p>
+<p>(Va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="9">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>9</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="2">
+    <p>II</p>
+    <p>ORFANII</p>
 <p>— Colo, colo!... i se strigă arătindu-i-se fluviul.</p>
 <p>Valurile sclipeau de razele soarelui. Mica Suzana nu ne era decât o masă nelămurită, un punct negru pe care valul îl ducea cu repeziciune. Nu erau pe acolo decât femei și copii! Și François care nu știa înota, fugea pe țărmul fluviului chemând în ajutor, căutând vreo luntre.</p>
 <p>Dar nu era nici una?</p>
@@ -411,7 +516,7 @@
 <p>Și dintr-o săritură porni în fugă împreună cu mulțimea care nu vroia să scape nimic din vedere. Când ajunseră cu greu în dreptul locului unde trebuia s-o fi ajuns Mauriciu pe Suzana, rămăsese trăsnit nezărind nimic.</p>
 <p>— Sărmanii copii!... Sena i-a înghițit pe amândoi!... plânse lumea. Și amețit, stupid, spălătorul, cugetând la cei doi copii, orfani nenorociți care pieriră din pricina lui, rămase mult timp nemișcat și sigur, în același loc, privind valurile repezi.</p>
 </div>
-<div type="chapter" n="3">
+<div type="section" n="3">
 <p>III</p>
 <p>VIE SAU MOARTĂ</p>
 <p>Sărmană Suzană!</p>
@@ -435,7 +540,18 @@
 <p>— Suzană, te rog, zise el gemând. Gândește-te și la mine... gândește-te că te iubesc... da, te iubesc ca pe o soră!...</p>
 <p>— Și eu te iubesc!... Dar vezi bine că sunt de prisos în lumea asta. Adio!...</p>
 <p>— Nu, nu, Suzană! Ascultă... ascultă ce-ți spun. Să plecăm împreună, vrei? Să plecăm și să ne întovărășim pentru totdeauna. O să vezi ce curajos și ce tare am să fiu... și cum o să te iubesc. N-avem noi aceleași dureri și nevoi? Nu suntem orfani amândoi, tu care ai rămas fără mamă, eu care am o mamă nebună... Suzană, Suzană!... La ce te gândești? Mă înspăiminți...</p>
-<p>Dară nu sfârși... Ea sărise deodată... Un sunet surd de apă, un vârtej — atât a fost.</p>
+<p>Dar nu sfârși... Ea sărise deodată... Un sunet surd de apă, un vârtej — atât a fost.</p>
+<p>(Va urma)</p>
+</div>
+   </div>
+   
+   <div type="part" n="10">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>10</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="3">
 <p>— Ajutor! răcni Mauriciu. Ajutor! Ajutor!...</p>
 <p>Nimeni nu auzea. Și valurile duceau pe Suzana pe care cu privirea îngrozită o văzu apărând foarte departe, deja în largul apei.</p>
 <p>Atunci, deodată, copilul deveni bărbat și strigătele de alarmă abia începură a se auzi dinspre casa lui François când băiatul deja sărise în apă alergând în ajutorul disperatei.</p>
@@ -465,6 +581,17 @@
 <p>Împrejurul micii înecate era o tăcere de mormânt; afară însă mulțimea țipa, iar de-odată, ca un contrast îngrozitor, se auziră în mijlocul tăcerii lugubre din lăuntrul postului de ajutor, zgomote vesele, chiote și șuierături.</p>
 <p>Erau clopote, pocnituri de bici, râsete nebune, iar glasuri multe strigară:</p>
 <p>— Loc!... Loc!...</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="11">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>11</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="3">
 <p>Erau curse la Vincennes, și o trăsură elegantă, cu patru cai și condusă de doi vizitii, venea încărcată de oameni cu chef, bărbați și femei de petrecanie, dinspre o stradă vecină.</p>
 <p>Dar mulțimea era atât de deasă, că trăsura se opri de nevoie. Unul din trăsură întrebă ce se petrece.</p>
 <p>— Mica Suzană a fost scoasă din Sena, zise o mătușă bătrână pe care o întrebase.</p>
@@ -514,6 +641,17 @@
 <p>— Ea!... O nu mai are nevoie de nimic!... răspunse copila cu ochii înlăcrimați. Privește colea... v-o aduce îmi pare...</p>
 <p>Un fior trecu trupul femeii și puse mâna la gură ca să nu țipe.</p>
 <p>În adevăr înspre punte, chuul era plin de lume și femeia spălătorului zări îndată o targă dusă de doi oameni și urmată de o lume întreagă. Femeile toate în drum plângeau, bărbații se descopereau înaintea tărgii. Suzana era cu fața descoperită. Aproape de dânsa ținându-i mâna înghețată pașa Mauriciu, cu părul ud, lipit de tâmple, cu hainele ude leoarcă: plângea și ofta.</p>
+<p>(va urma)</p>    
+    </div>
+   </div>
+   
+   <div type="part" n="12">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>12</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="3">
 <p>Și convoiul sinistru se apropia din ce în ce când, desfăcându-se din mulțime, un om alergă în toată graba.</p>
 <p>Era Francois, vânăt de spaimă. Femeia sa îi ieși în cale :</p>
 <p>— Moartă!... E moartă!... strigă ea, gâfâind și pierdută.</p>
@@ -554,6 +692,16 @@
 <p>— Suzana!... Scumpa mea Suzana!... nu vei mai fi părăsită... nu vei mai suferi... Sunt mama ta!...</p>
 <p>Apoi la cuvântul acesta, tresări ea singură:</p>
 <p>— Da mama ta!... reluă ea cu putere. Mama ta pe care o vei ierta... mama ta care te iubește... care a suferit și ea...</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   <div type="part" n="13">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>13</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="3">
 <p>— Mamă ! strigă Suzana aruncându-și brațele împrejurul gâtului. Mamă!</p>
 <p>Și o lungă și nebună îmbrățișare avu loc între acele două ființe care atâta vreme fusese despărțite.</p>
 <p>Ce extaz pentru mamă, ce vis pentru copil în timp ce o prea mare emoție nu le îngăduia să rostească un cuvânt măcar.</p>
@@ -581,7 +729,9 @@
 <p>Apoi, în timp ce ea se îndreptă, tremurând și cu ochiul scânteitor, bărbatul, mai galben decât dânsa, se retrăgea, plecă fruntea...</p>
 <p>Era Fernand de Prades... omul zărit la postul de ajutor din Alfortville.</p>
 </div>
-<div type="chapter" n="4">
+<div type="section" n="4">
+<p>IV</p>
+<p>Tată și amant</p>
 <p>— D-ta. d-ta!... repetă Clotilda a cărei uimire părea că crește și ai cărui ochi scânteiau din ce în ce mai mult. D-ta aici!</p>
 <p>Și urmă o lungă tăcere în care timp se priviră.</p>
 <p>De zece ani nu se văzuse, din ziua de când Fernand de Prades, înspăimântat de nașterea Suzanei, părăsiră pe Clotilda, cum, mai târziu, contele de Guerande avea să părăsească pe Ioana.</p>
@@ -592,6 +742,17 @@
 <p>Căci în privirea aceasta era atâta disperare, atâta dispreț, indignare și mustrări, că nu le putea îndura.</p>
 <p>Dar îi era și milă pentru dânsul.</p>
 <p>Ce! Acesta era omul pe care odinioară îl iubise!... Acestuia era să-i sacrifice toată viața ei!... Și cu cât îl privea mai mult, se simțea mai umilită că l-a iubit, că fusese a lui!</p>
+<p>(va urma)</p>
+</div>
+   </div>
+   
+   <div type="part" n="14">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>14</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="4">
 <p>Căci n-avea nimic omul acela... nimic care acum i-ar fi putut plăcea o clipă, acum când nu mai era fata naivă de odinioară.</p>
 <p>Era un blond urâcios, fără sânge, cu privirea stinsă, cu fruntea goală de gânduri. Dar ceea ce lovi mai ales era culoarea închisă a feței, pleoapa învinețită și căzută,  mersul greoi și ostenit, oboseala omului corupt, stricat și ticălos.</p>
 <p>Și fiindcă tăcerea asta de gheață dura mult, ea începu:</p>
@@ -629,6 +790,17 @@
 <p>— În numele Suzanei ți-o cer!</p>
 <p>— Și eu în numele Suzanei ți-o refuz!... În numele ei te osândesc!</p>
 <p>O mânie din ce în ce mai violentă pe care ea abia putea s-o ascundă izbucnea în ochii ei.</p>
+<p>(va urma)</p>    
+    </div>
+   </div>
+   
+   <div type="part" n="15">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>15</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="4">
 <p>— A, îmi vorbești de uitare!.... de iertare-mi vorbești!... strigă ea cu putere și cu un gest atât de violent încât el se dădu îndărăt. A!.. astăzi mă rogi să șterg trecutul, să uit lașitatea și trădarea d-tale! Ești nebun ?... Cum poți crede una ca asta?... Nu vezi că tremur de indignare când redeștept în mine, fără voie, toate acele amintiri care mă zdrobesc, mă omoară!...</p>
 <p>„Să uit!... să iert!... Dar, d-ta, îmi vei reda oare bucuria, fericirea, viitorul ce mi-ai răpit !... Dar, d-ta, putea-vei să mă faci să-mi iert mie însămi și să-mi împac cugetul?... Putea-vei să ștergi crima pe care am săvârșit-o față cu copila mea, înebunită de disperare și de mizerie ?</p>
 <p>„Da, adu-ți aminte și d-ta... adu-ți aminte ! adăugă ea înfierbântându-se din ce în ce. Adu-ți aminte cât de încrezătoare eram și d-ta cât de mizerabil.</p>
@@ -667,6 +839,17 @@
 <p>Ea dispăruse în camera Suzanei pe când el stătea încă nemișcat în loc, foarte palid încă și aiurit.</p>
 <p>Era să se retragă, când, de-odată se opri.</p>
 <p>Prin peretele subțire care-l despărțea de camera fetiței el auzea glasul acesteia; î se părea că vorbește de dânsul.</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="16">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>16</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="4">
 <p>Atunci, apropiindu-se de ușă, se aplecă pentru a-și lipi urechea de gaura broaștei și uitându-se cu grijă împrejur, ascultă.</p>
 <p>Nu, se înșelase, era glasul Suzanei.</p>
 <p>— Cu cine vorbeai acolo! întrebă ea pe maică-sa. Mi s-a părut că am auzit un glas cunoscut, al unui om care se arătase foarte bun către mine... Nu era cumva domnul de Prades?...</p>
@@ -704,6 +887,17 @@
 <p>— Spui prostii!... Nu moare omul de-al de astea, zise Francois.</p>
 <p>— Ah, tu!</p>
 <p>— Eu ? Ce vrei să spui cu asta ?... Eu sunt mai liniștit decât tine și nu sunt un egoist... Eu dimpotivă sunt foarte mulțumit că biata copilă și-a regăsit pe adevarata sa mamă... Și, în această privință, întreb pe D. de Prades... Oare n-am dreptate ?... Dar în loc să-ți stingi sufletul din tine nu e mai bine să te te bucuri de fericirea Suzanei? Căci, să vedem, ce am fi făcut noi dintr-însa? O lucrătoare ca și voi, pe când așa o să fie o demoazelă și în loc să umble cu harabaua noastră, o să se plimbe numai în trăsuri de casă în Paris!</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="17">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>17</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="4">
 <p>Căci știți, domnule de Prades, zise Francois plecându-se la urechea lui Fernand, mama copilei are părăluțe !</p>
 <p>— E bogată ?</p>
 <p>— Foarte bogată!... Și dac-aș fi în locul D-tale...</p>
@@ -736,8 +930,19 @@
 <p>— Ah, acest om, murmură ea, acest om !... Pentru ce l-am revăzut iar ? Pentru ce s-a amestecat iarăși în vârtejul vieții mele?...</p>
 <p>Și mai cu foc, mai tare decât oricând, strângea pe Suzana la piept, ca și cum amândouă aveau să se apere și să se sustragă de la o primejdie necunoscută.</p>
 <p>Oare presimțirile triste ale doamnei Francois aveau să se îndeplinească?</p>
+     <p>(va urma)</p>
 </div>
-<div type="chapter" n="5">
+   </div>
+   
+   <div type="part" n="18">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>18</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+<div type="section" n="5">
+<p>V</p>
+<p>NEBUNA!</p>
 <p>Deci în acest mormânt care se numește o casă de sănătate, ispășea acum aceea care odinioară fusese frumoasa și radioasa Yvonne de Chancel,pentru păcatul de a fi iubit prea mult pe această ființă fără inimă, care se numea contele de Guerande.</p>
 <p>Această casă, după cum am spus, era situată la Fontenay și la doi pași numai de pădurea Vincennes.</p>
 <p>Compusă din două mari pavilioane care erau legate printr-un alt corp de case, unde erau instalate saloanele și sălile de recreație diferitele servicii, ele n-aveau deloc acest aer lugubru nici acest aspect îngrozitor pe care imaginația noastră îl dă caselor de nebuni.</p>
@@ -760,6 +965,17 @@
 <p>Pe mânile-i înghețate, simțise căzând o ploaie caldă de lacrimi. Deschise ochii, apoi, în privirea sa stinsă, străluci un fulger de mirare.</p>
 <p>Un copil era la picioarele sale.... copilul ei Maurice!</p>
 <p>Toată noaptea plânsese gândind la dânsa și, când se făcu ziuă, i-a fost peste putință să mai trăiască un singur ceas, fără s-o vadă, fără s-o mângâie.</p>
+<p>(va urma)</p>
+</div>
+   </div>
+   
+   <div type="part" n="19">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>19</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="5">
 <p>Și așa a rămas îngenunchiat dinaintea ei, plângând că o găsește încă cu aceeași privire deșartă, cu același surâs rece, de smintită.</p>
 <p>— Mamă, eu sunt, zise el cu multă duioșie și strângându-i cu putere mâinile pe care i le lăsa în voie, eu... fiul tău... Maurice pe care-l iubeai atât de mult!</p>
 <p>— Maurice ? zise nebuna.</p>
@@ -804,6 +1020,17 @@
 <p>— Charles, vino !... Charles, eu sunt!... femeia ta... logodnica ta!... vino!... vino !... Charles!...</p>
 <p>Și deodată, dintr-un capăt la celălalt al parcului, alte țipete furioase, alte strigăte sinistre răsunară... Celelalte nebune, care până atunci erau cuminți și liniștite, s-au speriat deodată, ațâțate brusc de țipetele îngrozitoare ale Yvonnei.</p>
 <p>Și cu toatele fugeau în voia întâmplării, cu fețele schimbate, privirile rătăcite ; cu părul despletit, când infirmierele alergară, palide și ele de groază.</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="20">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>20</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="5">
 <p>Apoi, pe când unul alerga prin parc urmărind nebunele din ce în ce mai înspăimântate, celelalte se luară după Yvonne, care le îngrozea și pe care n-o mai recunoșteai, atât de hidoasă și de înfricoșată devenise fața ei blândă și frumoasă.</p>
 <p>Și timp de câteva minute susținură o luptă grozavă, sălbatică, de nedescris!</p>
 <p>Cu spume la gură, cu ochii injectați de sânge, cu părul ei bălai curgând în valuri strălucitoare de aur peste umeri, sărmana nebună care părea să aibă o putere supraomenească, se agăța mereu de zăbrele cu o putere de neînvins, cu-o îndârjire neînduplecată.</p>
@@ -839,6 +1066,17 @@
 <p>— Ce infamie!</p>
 <p>— Așa, dar nebunia ei constă într-aceea că cheamă necontenit pe acela pe care-l așteptă și pe care-l tot spera...</p>
 <p>— Biata femeie!</p>
+<p>(Va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="21">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>21</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="5">
 <p>La fiecare moment, ea murmură numele lui, și nici odată n-am auzit ceva mai trist și mai mișcător decât această plângere care-ți îngheață inima...</p>
 <p>„În fiecare moment de asemenea, vine în locul unde o vezi, și cu ochii plini de lacrimi și cu glasul înecat de plâns continuă să scoată strigătul său de disperare și de nebunie...</p>
 <p>„Și se vede că va fi văzut trecând mai odinioară pe cineva care semăna cu acest mizerabil și nu i-a trebuit mai mult ca s-o aducă într-o stare de exaltație așa de îngrozitoare încât am crezut că o să trebuiască s-o punem în cămașă de forță. |</p>
@@ -881,6 +1119,17 @@
 <p>Până atunci abia îi întrevăzuse trăsăturile dar acum, când erau față în față, privirea sa era așa de rătăcită și</p>
 <p>începu să șovăiască de parc-ar fi fost amețit.</p>
 <p>Apoi își trecu deodată mâna pe frunte și urmă să privească pe Yvonne, se făcuse palid ca un mort, buzele îi tremurau, vorbe întretăiate îi ieșeau din gură pe care le murmura încet.</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="22">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>22</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="5">
 <p>O, această vedenie!... Această femeie! Oare visez? nu cumva înnebunesc și eu? Yvonne, Yvonne!... Nu, nu văd pe Margareta! Margareta reînvie în chipul ei!... Pe Margareta o am înaintea mea!... Și fața i se întuneca și mai mult.</p>
 <p>— Ce asemănare! îngână el însăși. Până și glasul e al ei! și glasul acesta m-a pătruns până în suflet!</p>
 <p>În sfârșit, nebuna fusese luată de infirmiere și el încă stătea acolo, neclintit, cu brațele încrucișate, tremurând dinaintea grilajului.</p>
@@ -896,9 +1145,7 @@ jurul său, și zări fațada albă a casei de nebuni... Atunci a înțeles totu
 <p>— O casă de nebuni! Și ea acolo ! Mă va fi zărit, își zise el. Apoi, cum țipetele deveneau  din ce în ce mal ascuțite și numele său răsuna din ce în
 mai cu furie și mai deslușit, se aplecă spre grilaj și tresări încă o dată. Era într-adevăr Yvonna, furioasă, hidoasă, îngrozitoare la vedere,
  cu părul despletit, cu mâinile uscate,  gesticulând amenințător și albă ca un spectru.</p>
-<p>Dar nu-i veni nici un cuvânt de compătimire; nu-i trecea prin gând că din pricina lui, prin infamia lui femeia aceasta așa de tânără, care era de o 
-frumusețe așa de răpitoare, când a avut nenorocirea să-l cunoască, 
-a ajuns o tristă ființă pe care nu poți s-o vezi fără să plângi.</p>
+<p>Dar nu-i veni nici un cuvânt de compătimire; nu-i trecea prin gând că din pricina lui, prin infamia lui femeia aceasta așa de tânără, care era de o frumusețe așa de răpitoare, când a avut nenorocirea să-l cunoască, a ajuns o tristă ființă pe care nu poți s-o vezi fără să plângi.</p>
 <p>Și să-și urmeze drumul liniștit când deodată sări în sus de mânie și de surpriză.</p>
 <p>Cineva apucase frâul calului și se răsti în fața lui. Era a doua victimă a sa... Fiul renegat, părăsit, aruncat pe drumuri... era Maurice! 
 El nu lăsă contelui timpul să se ferească, îi arată cu mâna casa de sănătate, apoi cu un accent plin de amărăciune, îi zise:</p>
@@ -917,8 +1164,19 @@ cu el!</p>
 și pe care mi-o ucizi pe zi, ce trece!...</p>
 <p>— Fugi, pleacă de aici, urlă contele!</p> 
 <p>— O, ea nu te cunoaște!.. zise iarăși Maurice cu amărăciune... Dacă te-ar cu-
-noaște!... dacă ar mai putea să judece cine ești, cum te-ar disprețui și cum nu i-ar părea rău că te-a pierdut! Dar Guerande îl întrerupse cu un 
-hohot de râs.</p>
+noaște!... dacă ar mai putea să judece cine ești, cum te-ar disprețui și cum nu i-ar părea rău că te-a pierdut!</p>
+<p>Dar Guerande îl întrerupse cu un  hohot de râs.</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="23">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>23</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="5">
 <p>— A, da știi că ești nostim, tinere! strigă el. Zi înainte!... poftim ! așa un mucos să-mi facă morală !</p>
 <p>— Tată !</p>
 <p>— Haide, hai, te ascult!...</p>
@@ -936,8 +1194,7 @@ obraz de începu să-l năvălească sângele.</p>
 <p>— Ah, m-am recorit! suspină greu contele tremurând încă de mânie. Dar începuse să râdă, cu râsu-i veninos și plin de răzbunare, când un om pe 
 care nu-l observase, veni deodată spre dânsul. Era trecătorul căruia infirmierele
  îi  arătaseră atâta respect., același care simțise văzând pe Yvonna așa o ciudată și adâncă milă.</p>
-<p>Dar numai era același  om ca mai adineaori, statura-i înaltă a devenit mai impozantă și ochii îl scânteiau. — Mă iartă, zise el întâmpinând pe dl. 
-Guerande, cum vă numiți:</p>
+<p>Dar numai era același  om ca mai adineaori, statura-i înaltă a devenit mai impozantă și ochii îl scânteiau. — Mă iartă, zise el întâmpinând pe dl.  Guerande, cum vă numiți:</p>
 <p>— Contele de Guerande, răspunse el obraznic și ce poftiți?</p>
 <p>— Te înșeli!</p>
 <p>— Cum ați zis ?</p>
@@ -965,7 +1222,18 @@ de Guerande cu un gest amenințător și își arunca ochii pe bilet.</p>
 Dar acum, pentru ce mi-ai făcut depeșa asta? Ceea ce aveai să-mi spui era așa grabnic?...</p>
 <p>— Eram nerăbdător să te văd și număram ceasurile...</p>
 <p>— Dar despre ce era vorba ?</p>
-<p>— Lasă că o să vezi, intră acolo și vom vorbi mai bine dejunând.</p>
+<p>— Lasă-o că o să vezi, intră acolo și vom vorbi mai bine dejunând.</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="24">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>24</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="5">
 <p>Și Fernand deschise ușa sufrageriei!, frumos mobilată, unde se servise un dejun cu mâncăruri reci. După ce s-au așezat zise:</p>
 <p>— Putem să vorbim în voie, aici zidurile n-au urechi...</p>
 <p>— Grădinarul tău ?</p>
@@ -1022,7 +1290,18 @@ că faptul că seamănă cu Clotilda, nu e simplă întâmplare, dar că e tocma
 <p>— Și inima ta de tată a fost mișcată?</p>
 <p>— Mă găsești ridicol?</p>
 <p>— Cam așa!</p>
-<p>— El da, dragul meu, mă mir de mine însumi dar am fost foarte tulburat de această descoperire... așa de tulburat chiar încât câteva 
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="25">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>25</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="5">
+<p>— Ei da, dragul meu, mă mir de mine însumi dar am fost foarte tulburat de această descoperire... așa de tulburat chiar încât câteva 
 zile de-a rândul mă muncea un fel de remușcare de trecut....</p>
 <p>— Atunci dacă e așa, zise iar cu ironie de Guerande, dacă ai regăsit și pe mama, ia-o !</p>
 <p>— Tocmai la asta mă gândeam.</p>
@@ -1054,11 +1333,8 @@ de ajutor al spitalului o lume enormă. </p>
  să iau, când, deodată, o văzui șovăind și devenind albă ca peretele..</p>
 <p>— O criză de nervi! </p>
 <p>— Nu, era serios, Guerande... așa de serios că m-a cuprins frica... </p>
-<p>— Și totuși n-a murit? — Nu, dar inima îl e tare slabă și nu i-ar trebui multe asemenea emoții ca s-o doboare, căci gândește-te, 
-scumpul meu; întâi bucuria că și-a revăzut fata, chinul
- îngrozitor când a văzut că o pierde iarăși, în fine, întâlnirea noastră în astfel de momente!</p>
-<p>„Și era să chem ajutor când mă rugă să nu fac nimic ca să nu sperii copila... Și cum vorbea așa cu o voce stinsă, cum murmara cuvinte ca pentru ea
- însăși, nu m-am putut împiedica să tresar și m-am făcut tot așa de palid ca și dânsa...</p>
+<p>— Și totuși n-a murit? — Nu, dar inima îl e tare slabă și nu i-ar trebui multe asemenea emoții ca s-o doboare, căci gândește-te, scumpul meu; întâi bucuria că și-a revăzut fata, chinul îngrozitor când a văzut că o pierde iarăși, în fine, întâlnirea noastră în astfel de momente!</p>
+<p>„Și era să chem ajutor când mă rugă să nu fac nimic ca să nu sperii copila... Și cum vorbea așa cu o voce stinsă, cum murmara cuvinte ca pentru ea  însăși, nu m-am putut împiedica să tresar și m-am făcut tot așa de palid ca și dânsa...</p>
 <p>— Dar ce ți-a spus așa grozav?</p>
 <p>--Na, și acum te îngălbenești!</p>
 <p>— Se poate!</p>
@@ -1066,17 +1342,25 @@ scumpul meu; întâi bucuria că și-a revăzut fata, chinul
 <p>— Ei ce-ți închipui, dragul meu, zise cam tulburat de Prades mi-a spus că Clotilda Didier, care nu era decât  o guvernantă,
  o fată săracă, dădacă de copil, e astăzi milionară!...</p>
 <p>— Milionară! strigă Guerande ai cărui ochi se luminară ca prin minune ! </p>
-<p>— Da, milionară!... de mai multe ori milionară! zise Fernand apăsând cuvintele. Și acum judecă de ce am fost surprins, de ce am rămas 
-înmărmurit! Ea milionară când eu n-am decât  datorii!...
- Arhimilionară când eu pentru a mai face față recurg la înșelăciuni și astfel când s-or încurca ițele, să mă sinucid.</p>
+<p>— Da, milionară!... de mai multe ori milionară! zise Fernand apăsând cuvintele. Și acum judecă de ce am fost surprins, de ce am rămas  înmărmurit! Ea milionară când eu n-am decât  datorii!...  Arhimilionară când eu pentru a mai face față recurg la înșelăciuni și astfel când s-or încurca ițele, să mă sinucid.</p>
 <p> De Guerande surâdea.</p>
 <p>— Te rog să primești scuzele mele, zise el. Acum înțeleg că nu erai nebun când te-ai gândit s-o iei.</p>
 <p>— Ți-o spun eu.</p>
 <p>— Nu cunoști pe Clotilda; cât mă urăște!</p>
 <p>— Ei, o să cauți și tu s-o înduioșezi și o să uite... o să te ierte....</p>
 <p>— Câteodată mai am nădejdea asta... alteori mă îngrijesc... s-o fi văzut s-o fi auzit !...</p>
-<p>— La urmă, toate femeile sunt  vani-
-toase, și Clotilda ta doară n’o fi făcînd excepție. O va măguli titlul tău de marchis.</p>
+<p>— La urmă, toate femeile sunt  vanitoase, și Clotilda ta doară n’o fi făcînd excepție. O va măguli titlul tău de marchis.</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="26">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>26</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="5">
 <p>— Titlul meu?... Ia lasă, nu prea pune mare temei pe dânsul, răspunse cu voinicie Fernand. Singurul caz serios ce-l putem avea în 
 jocul meu era copila...</p>
 <p>— Mititica e de partea ta ?</p>
@@ -1104,26 +1388,29 @@ te asculte și să te poftească să-ți iei tălpășița cât mai degrabă. Tu
 <p>— Naivă ar trebui să mai fie ca să creadă!</p>
 <p>— Atunci?</p>
 <p>— Fără să te uluiești, oricâte ți-aș  spune, tu stăruie și va trebui să ajungă să te creadă.</p>
-<p>„Apoi, binișor, ca dovadă de sinceritatea conversiunii tale încredințeaz-o că nu mai ai decât o singură dorință: s-o faci să uite tot răul 
-ce i-ai făcut și toate necazurile câte le-a tras din pricina ta,jertfindu-ți de acum înainte, toată viața ta pentru dânsa.</p>
-<p>O, cât de elocvent  ai putea fi, n-o s-o poți amăgi cu protestările tale, mă grăbesc să ți-o spun, adăugă cu vioiciune contele când văzu pe Fernand 
-că face o mișcare ca cum ar vrea să-l întrerupă.</p>
+<p>„Apoi, binișor, ca dovadă de sinceritatea conversiunii tale încredințeaz-o că nu mai ai decât o singură dorință: s-o faci să uite tot răul ce i-ai făcut și toate necazurile câte le-a tras din pricina ta,jertfindu-ți de acum înainte, toată viața ta pentru dânsa.</p>
+<p>O, cât de elocvent  ai putea fi, n-o s-o poți amăgi cu protestările tale, mă grăbesc să ți-o spun, adăugă cu vioiciune contele când văzu pe Fernand că face o mișcare ca cum ar vrea să-l întrerupă.</p>
 <p>E sigur c-o să priceapă numai decât că te atrage averea ei, că ceea ce te aduce la dânsa e gândul ascuns de a pune mâna pe milioanele ce le are...</p>
-<p> Tu atunci, arată-te foarte mâhnit de părerea proastă ce persistă a o avea despre tine și vorbește-i nu în numele tău, ci în numele Suzanei...
- în numele copilei noastre.... </p>
+<p> Tu atunci, arată-te foarte mâhnit de părerea proastă ce persistă a o avea despre tine și vorbește-i nu în numele tău, ci în numele Suzanei... în numele copilei noastre.... </p>
 <p>— Da, o să mă creadă ea așa mai curând ?</p>
 <p>— Poate!... Căci n-o să mai fie acum așa de sigură c-o minți.. o să-și închi-
-puie că dragostea ta către mititica te-a făcut să te mai îmbunezi... Nu iubeai tu pe Suzana pe când însă nu era decât o copilă părăsită?...
- Nu era ea bucuroasă să te întâlnească, și nu te ținea ea de prietenul ei ?... 
-In fine, când te duseseși la Franțois ca să mai afli ce face, puteai tu să bănuiești c-ai să te întâlnești cu Clotilda...
- și cu Clotilda, nu fata săracă de altă dată, ci milionara de azi? Nu, nici vorbă. E vădit asta pentru toată lumea și pe însăși Clotilda,
- oricât  de supărată ar fi pe tine... Iacă un teren mai solid și pe care, te sfătuiesc, să te ții... M-asculți?</p>
+puie că dragostea ta către mititica te-a făcut să te mai îmbunezi... Nu iubeai tu pe Suzana pe când însă nu era decât o copilă părăsită?... Nu era ea bucuroasă să te întâlnească, și nu te ținea ea de prietenul ei ?... In fine, când te duseseși la Franțois ca să mai afli ce face, puteai tu să bănuiești c-ai să te întâlnești cu Clotilda... și cu Clotilda, nu fata săracă de altă dată, ci milionara de azi? Nu, nici vorbă. E vădit asta pentru toată lumea și pe însăși Clotilda, oricât  de supărată ar fi pe tine... Iacă un teren mai solid și pe care, te sfătuiesc, să te ții... M-asculți?</p>
 <p>— Desigur !</p>
-<p>— Căci, acum te dai în lături, nu mai e vorbă de tine, ci de dânsa, de copila pe care n-o poate face răspunzătoare de greșelile tale, 
-și s-o lovească lovind în tine.</p>
+<p>— Căci, acum te dai în lături, nu mai e vorbă de tine, ci de dânsa, de copila pe care n-o poate face răspunzătoare de greșelile tale, și s-o lovească lovind în tine.</p>
 <p>O, de aș fi eu în locul tău, ce patetic aș mai fi și ce tiradă i-aș debita!</p>
 <p>„Copila!... Copila mea!... Copila noastră !... Sărmănica fără nume căreia se refuză pe al meu... al meu care e al ei!...
  mititica pe care vor s-o înstrăineze de tatăl ei... când el o adoră și nu cere decât să trăiască pentru dânsa!</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="27">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>27</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="5">
 <p>„Și i-aș da înainte, tot așa, mă înțelegi, de Prades ?... Aș întreba pe mama dacă are dreptul să jertfească fata pizmei și mâniei sale....
  I-aș arăta părerile de rău ce-și pregătește și remușcările ce-o așteaptă dacă rămâne neînduplecată în ura ei. În sfârșit, ce să-ți mai spun multe!
  înțelegi tu mai departe ce ai de făcut....</p>
@@ -1149,8 +1436,7 @@ In fine, când te duseseși la Franțois ca să mai afli ce face, puteai tu să 
 <p>— Cum ? amândouă?</p>
 <p>— Vezi bine, a ta cu Clotilda și a mea cu Adriana...</p>
 <p>— Poftim !</p>
-<p>— Ți-am spus: a mea cu Adriana, repetă contele răspicat. De ce te uiți la mine așa de speriat?.., Îți închipuiai că s-a sfârșit totul ?... 
-A, nu, dragul meu, toate încep de la început!</p>
+<p>— Ți-am spus: a mea cu Adriana, repetă contele răspicat. De ce te uiți la mine așa de speriat?.., Îți închipuiai că s-a sfârșit totul ?... A, nu, dragul meu, toate încep de la început!</p>
 <p>— Ce-mi tot stai de-mi spui! strigă de Prades mișcat. Cum! după un asemenea scandal s-ar mai putea înjgheba această căsătorie?</p>
 <p>— Foarte bine!</p>
 <p>— Cum! după rușinea grozavă ce ți-a făcut în mijlocul primăriei, d-na de Chancel ar consimți acum să pronunțe acel „da" solemn pe care cu atâta tărie 
@@ -1158,13 +1444,10 @@ a refuzat să-l spună acum câteva zile !</p>
 <p>— Te. mira asta atâta ?</p>
 <p>— Recunoști că am și de ce !</p>
 <p>— El bine, scumpul meu, zise contele pe când un fulger de triumf scânteia în
-ochii săi, acum toate mă fac să cred că acest „da" care trebuie să mă facă cel mai fericit dintre soți, că acest cuvânt care trebuie s-o facă contesa de 
-Guerande, d-ra de Chancel o să-l pronunțe...</p>
+ochii săi, acum toate mă fac să cred că acest „da" care trebuie să mă facă cel mai fericit dintre soți, că acest cuvânt care trebuie s-o facă contesa de  Guerande, d-ra de Chancel o să-l pronunțe...</p>
 <p>— Adevărat ? întrebă de Prades căruia nu-i venea să creadă....</p>
-<p>— Așa de adevărat că acuși n-o s-o mai recunoști vei  vedea-o că mă urmează la altar tot cu atâta blândețe și supunere, cu câtă indignare și 
-revoltă mă respingea înainte...</p>
-<p>— Atunci ce s-a petrecut? prin ce minune fata asta, care pare că are tăria de caracter, a ajuns să se resemneze așa de repede și să te primească 
-de soț și stăpân ?</p>
+<p>— Așa de adevărat că acuși n-o s-o mai recunoști vei  vedea-o că mă urmează la altar tot cu atâta blândețe și supunere, cu câtă indignare și revoltă mă respingea înainte...</p>
+<p>— Atunci ce s-a petrecut? prin ce minune fata asta, care pare că are tăria de caracter, a ajuns să se resemneze așa de repede și să te primească de soț și stăpân ?</p>
 <p>— De asta să întrebi pe tată-său, răspunse de Guerande cu un zâmbet de nepăsare.</p>
 <p>— Pe baronul de Chancel?...</p>
 <p>— Da. pe baronul de Chancel, care are și dânsul tărie de caracter și vrea ca această căsătorie să se facă... — Pentru ce?</p>
@@ -1173,14 +1456,23 @@ de soț și stăpân ?</p>
 <p>— Asta-i! sunt ruinat ca și tine, fără
 o lețcaie, totul e să mă căpătuiesc. Pe urmă, om vedea !</p>
 <p>— Noroc bun, atunci!</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="28">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>28</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="5">
 <p>— O, n-am nicio grijă... Ți-o spun, Adriana nu-mi mai scapă de astă dată... Ce nenoroc, când mă gândesc!... 
 Tocmai când să pun și eu în sfârșit, mâna pe bogata moștenitoare cu zestrea căreia am să mă mai dreg, trebuie să dau peste Yvonna, sora Adrianei!...
  Adevărat că asta nu prea mă stingherea, dar tot mă cuprindeau așa câteodată niște temeri, de altminteri foarte îndreptățite....</p> 
 <p>— Ștrengarul acela blestemat!</p>
-<p>— Tocmai în momentul când triumfez, în momentul când cred și eu că nu mai am de ce mă teme, uite ca-mi răsare în cale ștrengarul acela blestemat,
- care-mi distruge toate calculele și-mi ruinează toate combinațiile!...</p>
-<p>„Cu câtă plăcere l-am și ars de aceea
-pe obraz cu biciușca mea! rânji contele. Să fi văzut poghibală ! N-am râs niciodată cu atâta poftă ca odinioară când l-am văzut cum fugea și urla!</p>
+<p>— Tocmai în momentul când triumfez, în momentul când cred și eu că nu mai am de ce mă teme, uite ca-mi răsare în cale ștrengarul acela blestemat, care-mi distruge toate calculele și-mi ruinează toate combinațiile!...</p>
+<p>„Cu câtă plăcere l-am și ars de aceeape obraz cu biciușca mea! rânji contele. Să fi văzut poghibală ! N-am râs niciodată cu atâta poftă ca odinioară când l-am văzut cum fugea și urla!</p>
 <p>— Vasăzică l-ai întâlnit?</p>
 <p> — Cum ți-am spus... p-aici p-aproape și la doi pași numai de casa de sănătate pe care trebuie s-o cunoști... în care e închisă mă-sa...</p>
 <p>— Yvonna!</p>
@@ -1221,6 +1513,17 @@ zeci de ori, socotești c-ai să mă faci să dau înapoi!...</p>
 <p>— Nu! nu!.., Da nu te mai înfuria și stai de mă înțelege, replică cu vioiciune Fernand. Nu-ți  spun să te duci să-l ceri scuze.... </p>
 <p>— Noroc!</p>
 <p>— Dar dacă daravera asta s-ar putea aplana, ți-oi spun fără înconjor c-aș fi mai liniștit despre partea ta...</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="29">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>29</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="5">
 <p>— O, nu te îngriji de mine, zise cu viociune de Guerande de Belleroche al tău nu mă sperie, și oricât de temut adversar ar fi, am pretenția că nu-s 
 mai prejos decât dânsul...</p>
 <p>— Nu zic, te cunoaște fiecare, te știe că ești un pușcaș foarte îndemnatic și foarte primejdios... te-am văzut de mai multe ori pe teren și știu 
@@ -1259,6 +1562,17 @@ le Belleroche se schimbă de nu-l mai recunoscu nimeni, Când îl văzură toți
 De ce, el, totdeauna așa de vesel, așa de zgomotos chiar, se făcuse acum așa de tăcut ?... De ce acum când i vorbea cineva, părea că se 
 trezește brusc din vreun gând care-l stăpânea mintea ?,..Și, firește, fie-care făcu presupunerile care de care maî fantaziste, mai departe de adevăr.</p>
 <p>„Căci, adevărul, nimeni nu l-ar fi crezut, nimeni n-ar fi îndrăznit să și-l închipuiască....</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="30">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>30</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="5">
 <p>„Adevărul e că contele, care -și bătuse joc, care disprețuise dragostea fusese în sfârșit biruit dânsa!</p>
  <p>„Adevărul e că contele,care nu simțise niciodată inima bătându-i, era acum îndrăgostit nebun, în veci!</p>
 <p>— O vorbă ! întrerupse de Guerande: Si care era frumusețea care făcuse minunea asta?</p>
@@ -1295,10 +1609,20 @@ atâția ani de când a avut nenorocirea să fie despărțit de dânsa...</p>
 „Spre marea mea mirare recunoscu-i pe contele.</p>
 <p>„Dar era cu mintea așa de departe de tot ce-l înconjura și era așa de adânc cufundat în gândurile sale, că nici nu mă zări măcar...</p> 
 <p>„Știam deja istoria lui, și parcă ceva mă supusă numai decât să-l urmăresc.</p>
-<p>„Era deci în sfârșit să știu numele acestei femei pe care o iubise atâta... a acestei femei pe care o învăluia, pentru toți, o taină așa de nepătruns ! 
-„Cu capul plecat, contele îșl vedea de drum încet
- și eu îl urmăream de departe, ferindu-mă pe cât era cu putință să nu auză zgomotul pașilor mei.
- „După câteva minute contele ocoli brusc și intră într-o alee lungă mărginită de fiecare parte de monumente mărețe....</p>
+<p>„Era deci în sfârșit să știu numele acestei femei pe care o iubise atâta... a acestei femei pe care o învăluia, pentru toți, o taină așa de nepătruns !</p>
+<p>„Cu capul plecat, contele îșl vedea de drum încet și eu îl urmăream de departe, ferindu-mă pe cât era cu putință să nu auză zgomotul pașilor mei.</p>
+<p>„După câteva minute contele ocoli brusc și intră într-o alee lungă mărginită de fiecare parte de monumente mărețe....</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="31">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>31</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section">
 <p>„Era, dacă știi locul, la câțiva pași numai de mormântul sergenților din La Rochelle....</p>
 <p>„Mă țineam mereu pe urmele lui și nu l-am pierdut din ochi. „El făcu câțiva pași, apoi, în sfârșit, se opri.
  „Dar mirarea mea spori, căci istoria contelui devenea din ce în ce mai românescă!
@@ -1333,18 +1657,30 @@ Intră acolo... - In dulapul acela ?</p>
 <p>— E grădinarul tău. Era în adevăr grădinarul, vrea să anunțe pe contele pe Belleroche.</p> 
 <p>— Vin acum! răspunse de Prades. Du-l pe contele în salon. Apoi ieși, zicând încet lui de Guerande :</p>
 <p>— Bagă de seamă!... O să dăm acum de cheia enigmei!...</p>
+    </div>
+    <div type="section" n="7">  
 <p>VII</p>
 <p> CONTELE DE BELEROCHE</p>
 <p>Din locul unde se ascunse, de Guerande putea nu numai să auză tot ce s-o vorbi, dar să-și vază, printr-o crăpătură a dulapului, tot ce s-o petrece.</p>
 <p>Trecu puțin și contele de Belleroche apăru în prag urmat de Fernand.</p>
 <p>De Guerande, care în timpul altercației lor pe stradă n-apucase să observe bine trăsurile feței lui de Belleroche, era izbit acum de noblețea lor.</p>
 <p>— Așa-i, de Prades are dreptate, șopti el, omul ăsta nu arată să fie cel dintâi  venit ! Și oprindu-și răsuflarea trăgea cu urechea la ce se vorbea.</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="32">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>32</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="7">
 <p>Glasul contelui, pe care-l auzise numai vorbind de indignare și mânie, îl uimi de asemenea, atâta era de armoinos și blajin.</p>
 <p>— O să mă scuzați, domnule marchis, zise contele, după ce primise scaunul ce i-l  oferise c-un gest Fernand, pentru libertatea ce am îndrăznit să-mi iau de a mă prezenta la d-voastre... Eram nerăbdător să vă întâlnesc ca să capăt de la dv. unele informațiil, ce cred că mi Ie veți putea da; sunt de mare însemnătate pentru mine. Fernand se înclină, pe când de Guerande, din ce în ce mal intrigat, zicea în sine:</p>
 <p>—Ce informații o fi vrând el să ceară lui de Prades ?</p>
 <p>— E vorbă, zise iar contele de Belleroche de trista întâmplare de care vorbește toată lumea... de întâmplarea care a emoționat ieri populația din Alforville... În sfârșit e vorba de fetița nenorocită care era să se înece 
-și care-și datorează viața numai devotamentului și curajului 
-unul băiețaș cam de o vârstă cu dânsa...</p>
+și care-și datorează viața numai devotamentului și curajului  unul băiețaș cam de o vârstă cu dânsa...</p>
 <p>— Auzi! auzi! murmură contele de Guerande. îl interesează Suzana.— Lucrul devine din ce în ce mai curios.</p>
 <p>— Căci, pare-se, când s-a întâmplat accidentul, nu era nimeni care să dea ajutor sărmanei copile, continuă contele. 
 Nu erau pe mal decât femei și copii care in zadar strigau ajutor, în zadar se deznădăjduiau... 
@@ -1380,6 +1716,17 @@ numai să-i știți numele, îl cheamă Mauriciu de Chancel...</p>
 <p>Contele tresări deodată și îngălbeni.</p>
 <p>- Mauriciu de Chancel! zise iar contale cu-un glas aproape stins. Sunteți sigur că nu vă înșelați ?... 
 Cu numele ăsta nu e decât un om pe care l-am cunoscut foarte bine....</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="33">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>33</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="7">
 <p>— Baronul Eduard de Chancel.</p>
 <p>— Da, tocmai el... și n-avea băeți,ci două fete numai....</p>
 <p>— Yvonna și Adriana.</p>
@@ -1437,6 +1784,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>Și lăsând să cadă greu capul pe piept sta nemișcat, cu brațele îrcrucișate.</p>
 <p>Mai simțitor decât contele de Guerande nu era marchizul, dar pe fața lui de Belleroche, om așa de energic și voinic, se vedea în clipa aceea întipărită atâta durere și suferință că se simți și el înduioșat.</p>
 <p>Și foarte serios se uită contele.</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="34">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>34</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="7">
 <p>„De ce se interesa el oare așa de tare de Yvonna... de fiica baronului de Chancel?</p>
 <p>„De ce, când îi pronunța numele, lua glasul lui o inflexiune mai dulce, un accent mai duios?</p>
 <p>— Hotărât, murmură el, omul ăsta e din ce în ce mai ciudat, din ce în ce mai tainic!... Ce dracu o mai fi ascuns la mijloc!</p>
@@ -1477,6 +1835,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>— Curios! gândi marchizul, din ce în ce mai mirat.</p>
 <p>De ce o fi fost mulțumit?... Ce-o fi însemnând și asta?</p>
 <p>Apoi, foarte repede, merse până la drum să vadă dacă mai poate zări pe ciudatul de Guerande.</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="35">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>35</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="7">
 <p>Foarte departe, distinse un nor de praf.</p>
 <p>— El e! își zise Fernand. Da bine mai fuge!... unde dracu o fi alergat așa?</p>
 <p>Și când era să se întoarcă zări și pe contele de Belleroche, care se îndepărta din ce în ce mai iute.</p>
@@ -1517,6 +1886,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>În mijlocul acestei răspântii, unde te-ai fi putut crede la o sută de leghe departe de orice locuință, într-atât era de siguratic locul și într-atât de odincă tăcerea se ridica un elegant și cochet pavilion în care intrai urcând câteva trepte.</p>
 <p>Contele scoase o cheie din buzunar, sui repede scările, apoi, după ce a deschis ușa și a închis-o, cu băgare de seamă, se găsi într-o sală lungă, unde covoare groase înădușau zgomotul pașilor lui.</p>
 <p>De altminteri pășea așa de încet că ai fi zis că a intrat în vreun sanctuar unde cel mai mic zgomot ar fi o profanare.</p>
+<p>(va urma)</p>    
+    </div>
+   </div>
+   
+   <div type="part" n="36">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>36</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="7">
 <p>Sala era închisă la capăt de o perdea de catifea roșie pe care contele o ridică și o lasă să cadă după dânsul.</p>
 <p>Câteva clipe rămase nemișcat, ca și cum n-ar fi îndrăznit să facă un pas, ca și cum, trecând pragul, o emoțiune puternică s-a făcut stăpână pe întreaga lui făptură.</p>
 <p>Foarte mare și foarte vastă, camera în care se afla avea, de altminteri, ceva tainic într-ânsa.</p>
@@ -1546,12 +1926,25 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>Și așa era ori de câte ori revedea portretul... așa se repeta scena asta în fiecare dată.</p>
 <p>După o clipă însă durerea i se potoli, bătăile inimii se liniștiră.</p>
 <p>Ochii, în care străluceau încă lacrimi, se fixară iar pe imaginea aceasta pe care o privi mult, mult... și ciudata asemănare ce există între Yvonna și Margareta... asemănarea asta care-l surprinse, care-l tulburase așa de tare când se găsise în fața nebunei, îl izbi cu mai multă putere încă.</p>
+<p>(va urma)</p>
+     </div>
+    </div>
+   
+   <div type="part" n="37">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>37</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="7">
 <p>Atunci, foarte încet, murmură câteva cuvinte ... Ce spunea el?... Ar fi fost cu neputință de știut... Un nume pe care-l pronunța cu o nemărginită dragoste, se putea cu toate astea auzi... Era numele mamei lui Mauriciu... numele sărmanei femei care plătea așa de scump oarba încredere ce-o avuse în mizerabilul care se numea conte de Guerande... era numele Yvonnei!</p>
 <p>Și expresia privirii sale devenise așa de gravă; atitudinea așa de solemnă, că parea să dea moarții nu știu ce făgăduință, să-i facă nu știu ce jurământ.</p>
 <p>Mâna-i atinse iar rezortul secret, panoul se închise la loc și portretul dispăru.</p>
 <p>Apoi, deodată, se făcu într-însul o stranie metamorfoză.</p>
 <p>Nu mai era omul cu fața așa de blajină și de melancolică cum obișnuise lumea să-i cunoască... ci, cât ai clipi din ochi, devenise iar marele senior mândru despre care vorbise de Prades lui de Guerande; adică omul cu înfățișarea energică și impozantă ce fusese altă dată... Capul sus, privirea plină de voință, era, în adevăr, în clipa aceea, acel conte de Belleroche înaintea căruia odinioară cei mai îndrăzneți nu se prea simțeau în largul lor.</p>
 <p>Cu pași repezi străbătu camera, ridică perdeaua grea de catifea roșie care închidea sala, aruncă o ultimă căutătură în jurul său și ieși.</p>
+    </div>
+    <div type="section" n="8">
 <p>VIII</p>
 <p>Spovedania unei murinde</p>
 <p>Aproape în același ceas în care contele de Belleroche contempla încă o dată, cu o emoțiune adâncă, imaginea aceleia pe care o iubise atâta, o altă scenă care forma cu aceasta cel mai surprinzător contrast, se petrecea ân măreața și somptuoasa locuință ce-o avea chiaburul baron de Chancel în avenue Gabriel, în cel mai elegant și aristocratic cartier din Padris.</p>
@@ -1568,6 +1961,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>- A! Nici tu nu voiai să cedezi! strigă el, fața îngrozitor de contractată. A! și tu n-aveai pentru mine decât dispreț!... Cu toate astea a trebuit să te dai!... și fiica ta se va da, ți-o jur!.... Da macar de-ar trebui să o târesc la altar, fiica ta va fi contesa de Guerande cum tu ai fost baronesă de Chancel!</p>
 <p>Și cu dinții încleștați, adăugă:</p>
 <p>— Adevărat că m-ai pedepsit și te-ai răzbunat cum se cade!... Am dovada colea... da, o am!</p>
+ <p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="38">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>38</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="8">
 <p>Dintr-o săritură furioasă fu la bibliotecă și o deschise, puse mâna pe o geantă de piele neagră în care, pe lângă hârtiile de familie, își strângea hârtiile pe care voia să le păstreze, și scoțând o scrisoare o aruncă pe birou.</p>
 <p>Da, iat-o! iată dovada crimei tale! strigă el, întorcându-se către portret cu un gest amenințător.</p>
 <p>Se așezase la birou și ținea în mâinile sale tremurânde scrisoarea pe care o aruncase.</p>
@@ -1597,6 +2001,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>„ Mă iubea cu toate astea... eram bucuria și mândria lui... dar socotea de capriciu de copil, de capriciu de o zi neânvinsa scârbă ce-mi pricinuia bărbatul pe care voia să mi-l dea.</p>
 <p>„Și a trebuit să cedez!... și a trebuit ca, palidă și tremurând din tot trupul sub vălul meu alb, să mă pun în genunchi alături de omul acesta care abuzase de voința părintească ca să-mi fure fericirea... alături de omul acesta care, cu toate revoltele refuzurile mele, și avuse mândria să se retragă... alături de omul în fine, de care aveam o groază nețărmurită!...</p>
 <p>— Da, a trebuit să se spună, rânji baronul, și Adriana se va supune!...</p>
+ <p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="39">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>39</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="8">
 <p>„Și a trebuit să cedez!... și a trebuit ca, palidă și tremurând din tot trupul sub vălul meu alb, să mă pun în genunchi alături de omul acesta care abuzase de voința părintească ca să-mi fure fericirea... alături de omul acesta care, cu toate revoltele refuzurile mele, n-avuse mândria să se retragă... alături de omul, în fine, pe care aveam o ură grozavă nețărmurită!...</p>
 <p>„Și ce se făcu viața mea din acea clipă, unde să găsesc cuvintele pentru a ți-o spune, unde se găsesc cuvintele pentru a te face s-o înțelegi?</p>
 <p>„Baronul, care ar fi putut face să-mi schimb părerile despre dânsul, se făcu din potrivă călăul meu...</p>
@@ -1623,6 +2038,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>Îmbrăcată în negru de sus pînă jos, ca în ziua în care întâmplarea o făcuse să regăsească pe Yvonna în agonie, coborâse dintr-un cupeu și dispăruse pe o scară lungă care ducea la apartamentele sale.</p>
 <p>La vederea fiicei sale, baronul de Chancel, deja așa de vânăt, se făcu și mai vânăt, și fața-i capătă deodată o expresie de mânie înspăimântătoare.</p>
 <p>Copilul Yvonnei! reluă contele; dar cum a putut să se întâmple una ca aceasta?... Cum această fetiță care trebuia să fie intelegentă, onestă și mândră a putut să se lase să fie sedusă!... Cum baronul de Chancel care era dator să vegheeze asupra ei și asupra onoarei mumelui său, n-a apărat-o și n-a protejat-o mai bine?....</p>
+     <p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="40">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>40</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="8">
 <p>— Baronul nu iubea pe Yvonna, răspunse de Prades, căci era între dânșii un secret teribil....</p>
 <p>— Da, asta o știu, un secret pe care nimeni nu-l va cunoaște în veci...</p>
 <p>— Chiar într-una din zile a izgonit-o din casă.</p>
@@ -1645,6 +2071,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>Pentru ce, când îi pronunța numele vocea-i părea să devină maî dulce, să ia un accent mai duios?</p>
 <p>— Nici vorbă, murmură el; omul acesta e din ce în ce mai ciudat, din ce în ce mai misterios, oare ce s-o fi ascunzând și aici? Și deodată tresări, îl trecu ceva prin gând; Au nu cumva am descoperit acum secretul conteluî, își zise el, acest secret pe care altă dată tot Parisul a căutat să-l cunoască și nimeni nu l-a aflat? Nu cumva acum voi ști numele femeii pe care a iubit-o întru-atât încât nu trăia numai pentru dânsa, numele moartei necunoscute care doarme acolo în cimitirul Montparnasse? Nu cumva Yvonna, în loc să fie fiica baronului de Chancel e fiica contelui de Belleroche ?</p>
 <p>Totuși, abia îi trecuse prin minte acest gând și de Prades ezită, neștiind ce să creadă, căci, în adevăr, dacă unele fapte păreău să-i dea dreptate, erau altele, în schimb, împotrivă. Fără îndoială ura baronului de Chancel pentru Yvonna, ura unui tată pentru fiica sa, putea să pară inexplicabilă și monstruoasă, dacă n-ar fi avut acest motiv și totuși acest om al căruia inimă părea închisă pentru toate afecțiunile, n-a fost tot așa de aspru, tot așa de nesimțitor pentru Adriana, cealaltă fiică a sa. Negreșit că baronul care alungase pe Yvonna din casa părintească, n-a fost mai omenos nici cu Adriana când a silit-o să ia cu orice preț pe de Guerande pe care nu-l putea suferi și când cu riscul de a o nenoroci pentru, toată viața a vrut s-o facă să se încreadă într-un om care nu-l inspira decât cea mai nesuferită scârbă.</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="41">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>41</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="8">
 <p>În fine, cum Yvonna care până în ultimul moment a avut cea mai mare și cea mai desăvârșită încredere în amantul său, ar fi putut să nu se trădeze în unele momente de tristețe, să nu lase să-i scape secretul izgonirii sale?</p>
 <p>Nu, m-am înșelat... nu e asta,.. Dar atunci ce este? își zise în fine îndreptându-și iar ochii asupra contelui de Belleroche.</p>
 <p>Acesta își revenise, în sfîrșit, în fine, apoi zise, întinzând mâna lui Fernand.</p>
@@ -1674,8 +2111,18 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>— Atunci îl voi vedea mâine.</p>
 <p>— Prea bine, domnule conte.</p>
 <p>— Dar poate vei putea și d-ta să-mi dai o lămurire?...</p>
-<p>— Sluga d-voastră, domnule conte.</p>
-<p>De ce e vorba ?</p>
+<p>— Sluga d-voastră, domnule conte. De ce e vorba ?</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="42">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>42</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="8">
 <p>— E vorba de una din bolnavele azilului... de tânăra femeie pe care o apucase dimineața o criză așa de grozavă....</p>
 <p>— A, de cea nouă?....</p>
 <p>— Yvonna ?</p>
@@ -1702,6 +2149,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>Atunci, foarte încet, într-un murmur duios, un nume îl scăpa de pe buze.</p>
 <p>— Margareto, scumpă Margareta!...</p>
 <p>Apoi încet, foarte palid, înaintă spre peretele care era în fața ferestrei. Mâna sa apăsă un rezort ascuns într-o încrețitură de perdea și încet, se deschise un canat. Și în odaia rece și tristă se arătă deodată o aparțiune încântătoare și luminoasă !</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="42">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>42</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="8">
 <p>Canatul îndepărtat, se vedea un mare portret de femeie și niciodată n-a putut fi visată o captură mai frumoasă și mai divină!...</p>
 <p>Îmbrăcată cu o rochie de satin alb cu trenă lungă, cu o diademă de briliante ce străluceau în mărețul său păr blond auriu, era înfățișată sprijinită în cot pe un balcon și având la picioarele sale un vast orizont. Mâna dreaptă părea să se joace mașinal cu un evantai, și pe mâna stânga a lăsat să-i cadă încet obrazul.</p>
 <p>În măsura în care o privea sau mai bine zis contempla, contele avea în ochii săi o flăcară de mândrie, dar ce adânci și dureroase suspine îi ieșeau din piept! căci dacă admira această față, în care se oglindea atâta tinerețe, acești ochi ai căror privire puțin melancolică avea atâta grație, toate astea, vai, nu mai erau aevea, erau stinse, dispărute pe veci!</p>
@@ -1714,11 +2172,23 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>Și acum chinuri și sudori îl treceau, sudori de agonie îi scăldau fruntea. Contele își lăsă să-i cadă capul între mâini neputându-și stăpâni plânsul ce-l înăbușea. Și așa i se intâmpla ori de câte ori se uita la acest portret, ori de câte ori această scenă se reînoia. Totuși după un moment, marea durere ce o încercă contenise, inima îi bătea mai încet. Ochii săi în care străluceau încă lacrimile, se fixară din nou asupra acestei imagini pe care o privi lung... și căută asemănare ce există între Yvonna și Margareta... această asemănare care l-a tulburat așa de uiult, care l-a minunat într-atâta când s-a găsit în fața nebunei, îl lovi mai cu putere încă.</p>
 <p>Atunci, încet, murmură câteva vorbe... ce spunea?.... Ar fi fost imposibil s-o știe cineva... Totuși un nume pe care-l pronunța cu nemărginită duioșie, se auzea deslușit... Era numele mamei lui Maurice... numele sărmanei femei care a plătit atât de scump încrederea ce a avut-o în mizerabilul conte de Guerande... Era numele Yvonnei. Și expresia privirii sale deveni așa de serioasă, atitudinea sa atât de solemnă, încât părea să facă moartei nu știu ce promisiune, nu știu ce jurământ. Mâna sa atinse din nou rezortul și canatul se închise, portretul dispăru. Apoi deodată, o ciudată schimbare se făcu într-însul. Într-o clipă devenise marele senior măreț și mândru de care de Prades vorbise lui de Guerande adică un om cu un aer de energie și impozant, așa cum fusese altă dată.</p>
 <p>Cu părul iute străbătu camera, ridica ușa de catifea roșie care închidea coridorul, aruncă o ultimă privire în jurul său, apoi ieși.</p>
+     
 <p>VIII</p>
-<p>Spovedania unei murinde:</p>
+<p>Spovedania unei murinde</p>
 <p>Aprope în aceeași oră când contele de Belleroche contempla cu o așa de adâncă emoție imaginea aceleia pe care a iubit-o atât de mult, o altă scenă care făcea un contract vădit cu aceea, se petrecea în mărețul și luxosul castel al bogatului baron de Chancel din cei mai aristocratic cartier al Parisului.</p>
 <p>De câtva timp baronul intrase în cabinetul său de lucru și o mânie grozavă începu să fiarbă într-însul, căci aceea închise cu zgomot ușa și se puse să umble cu pași repezi și numărați pe când talia sa înaltă și privirea sa severă în care scânteia un foc ascuns trădau o neliniște adâncă.</p>
 <p>Apoi deodată pe buzele-i încleștate, apăru un râs așa de ciudat și niște exclamații surde care arătau o sete grozavă de răzbunare care-ți dădea fiori.</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="43">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>43</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="8">
 <p>Îi apăruse încă o dată dinaintea ochilor scena de la primărie, auzea încă refuzul Adrienei, palma ce i-a dat-o lui de Guerande... se gândea la acest scandal îngrozitor de care tot Parisul se ocupa încă. Și această revoltă a fiicei sale îi părea ceva așa de monstruos așa de neauzit,... curajul și refuzul energic de a-și lega viața cu acea a omului pe care-l alesese el îi părea o așa insultă adresată lui însuși, încât nu mai simțea pentru dânsa decât o ură neîmpăcată, o ură pentru care era în stare să facă cele mai grozave lucruri.</p>
 <p>— O, va ceda, o să se dea fetica! strigă el deodată, devenit vânăt de ciudă, o să se dea, căci asta e voința mea!...Și cum îngânând aceste vorbe, făcuse un gest de dispreț ridicând capul, deodată tresări.</p>
 <p>In fața lui, privirea-i întâlni portretul femeii sale, portretul mamei Adrianei și a Yvonnei... Așezat într-un colț întunecos, acest portret abia se deslușea și nu puteai întrevedea decât o figură melancolică și palidă, îmbrăcată în negru, cu un aer trist și cu un surâs resemnat.</p>
@@ -1738,6 +2208,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>„O, adu-ți aminte Robert !</p>
 <p>„Veneam cu obrajii rumeni de atâta cale ce făceam, și așa de mulțumită, atât de mișcată, și inima îmi bătea așa de tare, încât abia puteam îngâna câteva cuvinte....</p>
 <p>„Mă aruncam în brațele tale, și îmbrățișări nebune, sărutări fără număr și mii de dezmierdări ne îmbătau de fericire. Câteodată călare, rătăceam prin pădure, alte ori îți cântam din gură ori la pian cântecele tale favorite. Și aduți aminte de cele cincisprezece zile in care am putut fi a ta, numai a ta, în care timp nu ne-am despărțit! Atunci ai vrut să ai portretul meu... această capodoperă a unui artist de geniu în care voi trăi în veci. Vai, atâta doar îți va rămâne din toată existența mea: Mâine, în astă seară poate, ochii mici se vor închide pentru totdeauna. Mâine, inima mea care n-a iubit pe altul decât pe tine, va înceta să bată! O, Robert, plânge-mă, jelește-mă că mor așa de tânără, când credeam că voi mai trăi de fericire! Să mor când puteam să uit trecutul așa de dureros și când viața-mi surâdea de atâta fericire. A, e îngrozitor... e îngrozitor...</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="44">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>44</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="8">
 <p>Aci lipseau câteva rânduri, desigur șterse de lacrimile vărsate de muribundă... Și mai departe spunea:</p>
 <p>„Vai, tremur!... Mi se pare că aud pe cineva care privește după ușă... O, dacă ar intra baronul!... Dacă m-ar surprinde cu această scrisoare... dacă ar citi spovedania mea, mărturisirile de dragoste ce ți le-am făcut pentru cea din urmă dată. Și pe urmă, nici n-am isprăvit... trebuie să-ți mai vorbesc de dânsa... de copila noastră... Să cauți de dânsa căci e a ta!... Ție ți-o încredințez. Ai grijă de ea, ocrotește-o, fii pentru dânsa ce-i sunt eu, o mamă... Și dacă vreodată baronul ar afla secretul nostru... dacă vreodată va descoperi că Yvonna nu e copila lui, să o aperi!</p>
 <p>Adio!... ti-am..</p>
@@ -1752,6 +2233,8 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>Și uitase și nedreptatea sa față de Yvonna, pe care a făcut-o să ispășească așa de crud, greșeala de care nu era responsabilă! Și mai grozav fu faptul că nu socotea că n-avea dreptul să jertfească viața Adrianei, s-o arunce pradă unui om pe care nu-l iubea, unui mizerabil pentru care nu putea să aibă decât scârbă.</p>
 <p>Baronul aruncase scrisoarea într-unul din sertarele biroulul, apoi, deodată se sculă. Și gata la orice violențe, hotărât să întrebuințeze toate mijloacele pentru a învinge opunerea Adrianei murmură:</p>
 <p>— O să ne socotim, fiica mea, da, a venit momentul să ne socotim; și la aceste vorbe ieși.</p>
+    </div>
+    <div type="section" n="9">
 <p>IX</p>
 <p>PRĂPASTIA.</p>
 <p>De când soră-sa era internată în casa de sănătate, Adriana n-a lipsit nici o zi să n-o vadă și să nu petreacă ceasuri întregi lângă dânsa.</p>
@@ -1760,6 +2243,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>Câteodată, cu o privire stranie întreba pe Adriana:</p>
 <p>— Dar cine ești tu ?</p>
 <p>— Sora ta Adriana, sora ta care te iubește.</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="45">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>45</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="9">
 <p>— Sora mea?</p>
 <p>— Da sora ta... Adu-ți aminte... Mă iubeai și tu, ne jucam împreună, nu ne despărțeam niciodată. Iarna eram la Paris. Vara în Bretagne...Îți aduci aminte de vechiul castel pe malul mării?</p>
 <p>— Pe malul mării?... răspundea Yvonna. Nu, nu știu nimic.</p>
@@ -1783,6 +2277,18 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>— Asta-ți poruncesc! M-ai auzit? adăugă el scurt. Sper că-ți vei aduce aminte de cele ce ți-am spus și nu voi mai fi silit să-ți reamintesc voința mea.</p>
 <p>Baronul luă un scaun, se așeză în fața Adrianei, care abia îndrăznea să se uite în ochii lui, și zise:</p>
 <p>— Acum avem de vorbit mai serios și lucruri mai însemnate: Avem de vorbit de soțul pe care ți-1 destinez, de contele de Guerande...</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   
+   <div type="part" n="46">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>46</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="9">
 <p>— De d. de Guerande! strigă Adriana.</p>
 <p>— Da, de d. de Guerande care te iartă și care mai nădăjduiește să învingă rezistența d-tale... Nu știu dacă te va atinge o asemenea mărturisire de simpatie, dar, întrucât mă privește pe mine, nu-ți ascund că, cu cea mai vie mulțumire, am văzut pe contele că persistă în sentimentele sale. De altfel, ți-am făcut deja cunoscut ce gândesc eu în privința asta și aștept numai să-mi spui ce gîndești d-ta. Acum spune.</p>
 <p>— Nu stărui, tată, nu mă chinui! Astă căsătorie e imposibilă.</p>
@@ -1813,6 +2319,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>Nu scoase nici un țipăt dar dintr-o săritură se sculă, palidă, tremurând de indignare și strigă cu un glas amenințător:</p>
 <p>— Lovește, ucide-mă, ți-am dat ultimul meu cuvânt!</p>
 <p>Baronul făcea clăbuci la gură, strângea pumnii și tremura ca varga. Dar Adrianei nu-i mai era frică și nu mai tremura, dar acest act de o brutalitate nemaiauzită o revolta în adâncul sufletului și nu-și mai luă ochii de pe tatăl său, când altădată nu îndrăznea să-l privească în față.</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="47">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>47</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="9">
 <p>Așa stătură față-n față timp de câteva secunde plini de dispreț unul pentru altul, când baronul începu iar :</p>
 <p>— Am să te fac bucăți!... Voiesc să-mi ceri iertare în genunchi!... dar în genunchi! strigă el de se cutremură casă.</p>
 <p>Și din nou o apucă și într-o luptă turbată voi s-o strivească. Adriana se zbătea ca prada unei fiare și, cu vocea stinsă și întretăiată murmură: O, poți să mă omori! Dar pentru că m-ai silit, voi vorbi, și vei cunoaște pe mizerabilul pe care l-am pălmuit cu refuzul meu... pe nemernicul pe care mi l-ai ales de barbat!</p>
@@ -1834,6 +2351,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>— Tată, vorbele tale mă înspăimântă, nu înțeleg!</p>
 <p>— Vei înțelege altădată....</p>
 <p>Baronul se plimba prin odaie, enervat, palid, cu fața contractată, cu privirea cruntă, apoi veni drept spre Adriana care rămase înlemnită:</p>
+     <p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="48">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>47</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="9">
 <p>— A, ești nedumerită, și de mult te vei fi întrebat ce înseamnă toate astea, pentru ce lăsam totdeauna să te duci la cimitir, pentru ce mama ta nu se odihnește în cavoul familiei de Chancel, ci într-un mormânt aparte, fără o lespede măcar unde să fie însemnat numele ei, fără vreun epitaf sau vreo vorbă de regret. Ei bine, și eu îți voi destăinui astăzi aceasta, îți voi destăinui pentru ce am alungat pe Yvonna din casa mea, pentru ce nu voiesc s-o mai văd în ochi...</p>
 <p>— O nu, tată, nu, lasă-mă, nu-mi spune nimic.</p>
 <p>— A, începi a înțelege acum, zise plin de răutate baronul. Să știi atunci că mama ta a fost o adulteră..., o femeie mizerabilă care și-a bătut joc de cinstea conjugală, care m-a înșelat în chipul cel mai nedemn.</p>
@@ -1855,6 +2383,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>— O nu, nimic, nu ești nimic pentru mine, fă-mi dar plăcerea să nu te mai văd înaintea mea, zise ea cu dispreț. E de prisos orice vorbă, eu una îți spun: Oricare ar fi violențele ce voi avea să le sufăr din partea tatălui meu, oricare ar fi pentru mine urmările mâniei sale, niciodată nu-mi va smulge un consimțământ pe care cunoștința mea îl refuză!...</p>
 <p>— Cum din pricina mea v-a amenințat baronul? Din pricina mea ești așa de palidă, așa de ajutată și ai plâns? O, dacă ar fi așa aș fi și eu tot așa de indignat, căci decât să te cuceresc în așa chip, mai bine aș prefera să pierd orice speranță, să mă depărtez pentru vecie din calea d-tale. Căci orice idei ai avea despre mine, trebuie să fii convinsă că te iubesc... Râzi?</p>
 <p>— A, mi-e scârbă!...</p>
+<p>(va urma)</p>
+     </div>
+   </div>
+   
+   <div type="part" n="49">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>48</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="9">
 <p>— Se poate, dar nu te mint. Da, te iubesc și dacă nu te-aș iubi n-aș fi fost așa de laș să mai vin aici: dacă nu te-aș iubi, cum ți-aș fi putut ierta insulta pe care mi-ai făcut-o... Îți jur...</p>
 <p>— Destul, domnule, destul, du-te, nici o vorbă, fiecare cuvânt e o insultă și o pângărire pentru mine!</p>
 <p>— Adriana!</p>
@@ -1876,6 +2415,8 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>— Nu mă întreba mai mult pentru moment, am nevoie să mă mai gândesc și apoi îți voi spune totul. La revedere pe diseară!</p>
 <p>Rămas singur baronul izbucni intr-un hohot de râs:</p>
 <p>— A, strigă el. Adriana mă ruga să nu o părăsesc pe Yvonna, ei bine, îi voi face pe plac! De acum înainte eu voi avea grijă de dânsa!</p>
+    </div>
+    <div type="section" n="10">
 <p>X</p>
 <p>RĂPIREA</p>
 <p>Erau aproape unsprezece ceasuri seara când o trăsură de casă se opri dinaintea casei de sănătate de la Fontenay-sous-Bois.</p>
@@ -1886,6 +2427,16 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>Portarul îl conduse pănă la casă, îl introduse într-o cameră luminată și dispăru.</p>
 <p>Directorul fu foarte surprins de această vizită nocturnă, mai cu seamă că baronul nu venise niciodată să-și vadă fata. Nu-și închipuia ce ar putea să-i spună așa grabnic.</p>
 <p>— Domnule baron, zise el mirat, ce s-a întîmplat?</p>
+    </div>
+   </div>
+   
+   <div type="part" n="50">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>50</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="10">
 <p>— Nimic răspunse acesta, am venit să o iau pe fiica mea.</p>
 <p>— Yvonna! </p>
 <p>- Da.</p>
@@ -1940,6 +2491,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>— O, departe, departe... unde n-o vor mai găsi-o acei care vor s-o revadă, răspunse baronul, gândindu-se la contele de Belleroche.</p>
 <p>— Și ai trebuință de mine?</p>
 <p>— Ca să nu mă plictisesc. O călătotorie așa de lungă, cu așa un tovarăș ca dânsa, înțelegi... nu e tocmai plăcut.</p>
+     <p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="51">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>51</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="10">
 <p>— Numai să nu se întâmple nimic.</p>
 <p>- Ce?</p>
 <p>— Să n-o apuce vreo criză.</p>
@@ -1976,6 +2538,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>Ea nu se mișca.</p>
 <p>— Yvonna! repetă el apucând-o de mână.</p>
 <p>De astă dată tresări brusc, și privirea i se fixă asupra aceluiași punct.</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="52">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>52</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="10">
 <p>— Îți aduci aminte de contele de Belleroche? reluă baronul.</p>
 <p>De Guerande, ghemuit într-un colț, urmărea cu curiozitate această scenă.</p>
 <p>— Belleroche! murmură nebuna...</p>
@@ -2000,6 +2573,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>În creierul ei întunecat străbătu un fulger de lumină. Recunoștea oare pe baronul, călăul ei?</p>
 <p>Ajunseseră departe de tot de casa de sănătate, trăsura uruia în mijlocul Parisului. Din secundă în secundă lumina caselor lumina ca fulgerul trăsura. Într-unul din aceste momente, când străbatea lumina în trăsură, de Guerande întorcându-se puțin, nebuna îl recunoscu și scoase un țipăt atât de sfâșietor încât înghețară de groază amândoi:</p>
 <p>A, mizerabile! și tu! Ajutor, ajutor! striga ea!</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="53">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>53</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="10">
 <p>O groază nespusă o cuprinse. Dintr-o săritură ajunse la ușa și era cât pe ce să sară pe feareastră. Dar o mână de fier a cărei unghii i-au intrat în carne, o opri.</p>
 <p>— Yvonne!</p>
 <p>Era baronul care o aruncase pe scaunul din fața lui... baronul care îi strângea încheietura mâinii că o făcea să țipe de durere și care o amenința zicând:</p>
@@ -2016,10 +2600,24 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>Trenul șueră de două-trei ori și plecă...</p>
 <p>Baronul de Chancel izbucni într-un râs triumfător.</p>
 <p>— Acum, strigă el fără să se mai îngrijească dacă-l aude nebuna, acum, puternice conte de Belleroche, am reușit în fine să mă răzbun după atâta așteptare!.... Acum, conte, vei putea să cauți pe fiica ta și n-o vei mai regăsi!...</p>
+    </div>
+    <div type="section" n="11">
+<p>XI</p>
 <p>Visul lui Maurice.</p>
 <p>Micul Maurice se întoarse la Yvry cu inima plină de întristare. Dar această tristă dispoziție îl năvălea din ce în ce mai tare, deși nici întâlnirea sa cu mizerabilul său tată, nici brutalitatea acestuia nu era cauza acestei dureri.</p>
 <p>Cu toate că fruntea sa era vânătă încă și sângerată de lovitura grozavă de cravată cu care i-o croise cel mai pervers tată, copilul uitase de mult acea scenă. Dar era altă scenă pe care n-o putea uita și a cărei amintire îl înnebunea. Era vizita la casa de sănătate, trista intrevedere ce o avuse cu mama sa. Scena aceea, așa de dureroasă, îi revenea mereu în minte cu toate detaliile și îi sfâșia inima de dureroasele episoade.</p>
 <p>Ce decepție grozavă pentru dânsul! Ce lovitură nereparabilă! O, știu bine că nu se putea vindeca întru-un timp așa de scurt și că o va regăsi în aceeași stare în care fusese când a părăsit odăița mizerabilă din bulevardul Montmartre, atunci când fu condusă cu trăsura, între dânsul și Adriana, și când nu mai cunoștea nimic în calea ei.</p>
+<p>(Va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="54">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>54</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="11">
 <p>Nebună!... Era nebună ! Dar micuțul nu voia încă să creadă toate urmările și toată nenorocirea acestei lovituri grozave; în gândul lui trebuia să-și fi recâștigat mințile și el trebuia să nu mai fie un copil nenorocit, orfan și fără mamă!.....</p>
 <p>Această speranță doar îl mai ținea în viață și i-o făcea mai plăcută. De aceea, când a venit la dânsa, căci nu putea trăi un moment fără s-o revadă, cât de mult s-a încrezut în aceasta!</p>
 <p>Era să se arunce în brațele ei, s-o copleșească de sărutări, avea să fie o minune de duioșie! Dar vai, în zadar a chemat-o, în zadar i-a strigat de douăzeci de ori: — „Mamă, eu sunt Maurice!.... mamă! sunt fiul tău! ea nu l-a recunoscut! N-a recunoscut chipul lui, nu i-a recunoscut glasul și în fața lacrimilor și a durerii sale, ea care-l iubea atât de mult, n-a simțit nimic în inima ei.</p>
@@ -2042,6 +2640,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>— Taci, Maurice, nu vorbi așa, zise fata plângând și ea. Știi că te iubesc, că nu ești singur pe lume.</p>
 <p>— O, atât de singur... atât de singur, zise el cu adâncă durere.</p>
 <p>— Vai, Maurice, eu nu sunt nimic pentru tine? zise Suzana mirată... Știi bine că te iubesc... că nu ești singur în lume... Eu care-ți datorez viața, căci de nu erai tu eram moartă, nu sunt nimic pentru tine? Nu mă chinui cu astfel de vorbe!... Uită-te la mine...</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="55">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>55</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="11">
 <p>— A, nu mai am mamă!... nu mai mă recunoaște!... S-a isprăvit cu ea, e pierdută!... pierdută pe vecie!....</p>
 <p>— Nu, o să se vindece, și va veni iarăși la tine.</p>
 <p>— Nu, niciodată!</p>
@@ -2078,6 +2687,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>— Maurice; strigă ea mai tare, vorbește-mi!... Ce faci!,.. Mă înspăimânți!</p>
 <p>Auzi în fine că s-a sculat și a aprins luminarea.</p>
 <p>— Ți-e rău?... Să-ți dau ceva? De ce nu-mi răspunzi? zise ea și mai neliniștită încă.</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="56">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>56</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="11">
 <p>Dar s-ar fi speriat mai tare, dacă l-ar fi văzut. Era palid ca un mort, pe frunte îi curgea o sudoare rece, tot corpul îi tremura și cu ochii plini de groază, răscolea prin casă în jurul său.</p>
 <p>Și dacă n-a răspuus la chemarea Suzanei e că n-a putut să spună vorba, i se încleștase gura. După ce aprinse lumânarea, scoase un lung oftat, ca și cum s-ar fi ușurat de o greutate care-i zdrobea pieptul.</p>
 <p>În fine, trecându-și mâna pe frunte care era rece ca gheața:</p>
@@ -2116,6 +2736,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>—Colo, colo la Fontenay, în casa unde trebuia să fiu în momentul acesta...</p>
 <p>„Mama dormea, era noapte.</p>
 <p>„Deodată cineva se apropia de dânsa și o deștepta din somn.</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="57">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>57</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="11">
 <p>Un om o aștepta... Un om care m-a gonit, care m-a urgisit, pe care nu-l văzusem decât o dată, o singură dată, un om care ar fi trebuit să aibă milă de mine. Și fata lui atât de bine mi-a rămas în minte că l-aș cunoaște oriunde, oricând, atât de cruntă era privirea lui...</p>
 <p>— Acesta era tocmai baronul de Chancel....</p> 
 <p>— Baronul de Chancel?</p>
@@ -2187,7 +2818,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 Și vorbeau tot aceiași limbă ca mai înainte, neînțeleasă, aspră și aproape sălbatică.</p>
 <p>„Femeia nu răspundea un cuvânt și se mulțumea să dea din cap.</p>
 <p>La un gest al baronului, femeia dispăru ca o umbră.</p>
-
+<p>(Va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="58">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>58</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="11">
 <p>„Apoi deodată, întreaga scenă se schimbă. Nu mai vedeam decât pe mama.</p>
 <p>„Lucru ciudat, nu mai era sărmana inocentă a căreia vedere mi-a făcut ieri atâta rău...sărmana nebună ai căror ochi rărăcit îți spunea că gândirea e strinsă și memoria mopartă.</p>
 <p>„Palidă și grozav de tristă, ea se plimba pe o terasă lungă care domina castelul.</p>
@@ -2232,6 +2873,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p> „La altarul Maicii Domnului erau aprinse lumânările și preotul cununa doi tineri... În capelă, foarte puțini invitați,vreo cinci-șase persoane, și printe ele și contele de Gueraude...</p>
 <p>Tot el! întrerupse Suzana... </p>
 <p>—Da, iarăși am dat de el...și ori de câte ori își îndrepta privirea asupra miresei, avea pe buze un surâs barjocoritor și în ochii său un fulger de triumf.</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="59">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>59</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="11">
 <p>— Dar cu mama mea ce-i, Maurice? Vorbește-mi de mama, întrerupse fetița.</p>
 <p>— Apoi ea era, mama ta. </p>
  <p>— Cine? Mireasa? </p>
@@ -2263,6 +2915,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>Apoi se sculă deodată repede.</p>
 <p>Printr-o crapătură ușoară străbătea deja de câteva minute o rază subțire de lumină. Începea să se facă ziua.</p>
 <p>— O! tu ai dreptate, zise el, ar trebui să uit și eu acest infricosat vis care mă face să amețesc și să capăt friguri. Ar trebui să înțeleg și eu că asemenea lucruri nu se pot întâmpla, fiindcă sunt imposibile. În momentele acestea, mama mea pentru care tremur și mă înspăimânt, trebuie să doarmă foarte liniștită. Căci ce ar avea ea de temut? Ce pericol ar putea să o amenințe?</p>
+     <p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="60">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>60</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="11">
 <p>Dar deși îmi spun toate acestea, deși nu voia să dea nicio importanță acestui vis rău, există totuși ceva în mine care mă împinge să alerg spre ea. Pare că ar fi o voce care-mi strigă: Dute, Mauriciu, grăbește-te! Mama ta are nevoie de ajutorul tău! ...Ei bine, mă duc!... Adio, Suzano!</p>
 <p>— Încă odată îmi spui cuvântul acesta? zise ea sculându-se.</p>
 <p>— Nu, nu... la revedere.</p>
@@ -2281,7 +2944,9 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>- La revedere, Mauriciú! strigă ea...</p>
 <p>La revedere!</p>
 <p>Sărmanul copil!...</p>
-<p> XIII</p>
+    </div>
+    <div type="section" n="12">
+<p> XII</p>
 <p>BIETUL BĂIAT...</p>
 <p>Când Mauriciu, care fără să bage de seamă, merseră repede sosi la Fontenay-sous-Bois, totul dormea în casa de sănătate.</p>
 <p>El nu îndrăzni să sune ca să i se dea drumul, și începu să se plimbe încetișor pe dinaintea grilajului.</p>
@@ -2301,6 +2966,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>El nu ar mai revedea-o!</p>
 <p>Nu ar mai avea nici măcar amara bucurie de a-i auzi glasul, nici măcar chinuitoarea fericire de a o vedea aruncându-se asupra lui, dezlegându-i privirea de nebună!</p>
 <p>Și la această singură idee, nenorocitul copil simțea că i se strânge inima.</p>
+<p>(Va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="61">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>61</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="12">
 <p>Desigur, el iubea mult pe mica prietenă pe care hazardul i-o dăduse... iubea mult pe Suzana de vreme ce nu s-a oprit la gândul să-și pună viața în primejdie pentru ea!...Dar mama lui!... era mama lui!... Cultul și adorația întregii lui vieți!</p>
 <p>Și copilul, nemiscat și palid, privea cum țintă la casa de sănătate a cărei albă fațadă sclipea sub soarele care din ce în ce se mărea, din ce în ce devenea mai vesel.</p>
 <p>Ochii lui se opreau rând pe rând la fiecare fereastră, și se întreba care să fie fereastra ei.</p>
@@ -2331,7 +3007,19 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>- Am avut un așa vis reușit, că tremuram să nu fie bolnavă... Iată pentru ce am venit!...</p>
 <p>Dar tot fără să-i răspundă, infirmiera își grăbea pasul, adouă după ce suiră repede acele câteva scări care duceau în al doilea rând:</p>
 <p>- Aici e la domnul Director, zise ea. Intrați.Ea deschise o ușă, apoi imediat dispăru. Cu toate că era dimineață, doctorul Laval, directorul casei de sănătate din Fontenay-sous-Bois, era deja așezat la biroul său, și cum Adriana, pentru a înlesni micului Maurice intrările pe lângă mama sa, nu se sfii să-i povestească trista istorie a surorii sale, el nu putu, zărind copilul, să nu retrăiască o mișcare de milă și de compătimire.</p>
-<p>- Apropie-te, amice, îi spuse el încet, văzând cum copilul rămase timid și nemișcat lângă ușă. Ai venit să-ți vezi mama?</p>
+<p>- Apropie-te, amice, îi spuse el încet, văzând cum copilul rămase timid și nemișcat lângă ușă.</p>
+<p>Ai venit să-ți vezi mama?</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="62">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>62</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="12">
 <p>- Da, domnule, răspunse Mauriciu, privindu-l cu grijă. </p>
 <p>- Ea nu mai e aici, copilul meu.</p>
 <p>- Nu mai e aici</p>
@@ -2361,6 +3049,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>—Vă mulțumesc, zise el cu viociune, dar cu glasul încă tremurând, privindu-i pe rând pe director și pe infirmiere. Acum mă simt destul de puternic și pot să mă duc la ea!</p>
 <p>Dar la primul pas începu să se clatine.</p>
 <p>—Vezi bine că nu poți sta în picioare, strigă doctorul, care se aruncase asupra lui să-l sprijine. Vezi că poți să cazi în stradă. Aide, nu te îndărătnici și așteaptă aici până când vei putea pleca... Și apoi, mamă-ta nu e pierdută, pentru că ți-am spus că e la tatăl ei, la baronul de Chancel, unde astă seară poți să o găsești și să o vezi."</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="63">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>63</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="12">
 <p>—La baronul de Chancel! strigă micul Mauriciu pe care acestnume îăl făcu să tresalte. O! da! am să mă duc la el, căci de astă dată nu-mi mai inspiră spaimă și nici n-are să mai alunge!... </p>
 <p>„Dar nu la el o voi găsi-o, adaugă copilul făcând aluzie la strașnicul vis ce visase și care părea că se realizează; nu vo găsi-o la el! Și astă sară va fi poate deja prea târziu.</p>
 <p>—Prea târziu!...</p>
@@ -2393,6 +3092,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>„Mă absentez pentru câteva zile, nu fii îngrijită.”</p>
 <p>Și fără a se mira mai mult și fără a căuta ce era straniu și misterios în aceea neașteptată absență a baronului, Adriana plecase spre casa de sănătate unde ea credea să aibă trista fericire de a găsi pe Yvonna.</p>
 <p>Pe drum însă, fruntea i se încreți deodată și o adâncă melancolie îi cuprinse sufletul.</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="64">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>64</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="12">
 <p>Este ce-și amintise oribila scenă ce avuseră în ajun cu baronul de Chancel; e ce-și aducea aminte cu ce aer teribil și cu ce privire amentințătoare o oprise de a se mai întoarce la Fontenay-sous-Bois;e în fine ce tocmai își spunea cum că poate pentru cea din urmă oare avea să vadă pe Yvonne și că sărutarea ce-i va da va fi poate ultima sărutare!</p>
 <p>Și la această simplă gândire care-i sfâșia inima, Adriana tresări, palidă, în timp ce două mari lacrimi îi brăzdară fața.</p>
 <p>Căci ea iubise totdeauna mult și adânc pe aceasă soră mai mare. Căci chiar în timpul îndelungaților ani cât fusese despărțită de ea, nu lăsase să treacă un singur moment fără să evoace amintirea ei. Acum cunoștea pentru ce fusese alungată din casa părintească, pentru ce era repudiate de baron, și afecția ei departe de a slpbi sporea încă.</p>
@@ -2427,6 +3137,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>Zărind pe Adriena care dintr-o săritură alergă întru întâmpinarea lui, doctorul Laval nu putu să-și stăpânească o tresărire.</p>
 <p>—Dumneata ești!...zise el. Vino încoace repede.</p>
 <p>Apoi luând-o la o parte.</p>
+<p>(Va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="65">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>65</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="12">
 <p>—De ce ai venit? continuă el cu un accent plin de întristare,și mai cu samă într-un asemenea moment...când riscai, câteva minute mai înainte să ai sub ochi spectacolul sărmanului copil...al bietului Mauriciu care poate să moară!</p>
 <p>—Să moară! strigă Adriana cu spaime. A! Va să zică e adevărat!...el era prin urmare acela despre care am auzit vorbind!...</p>
 <p>—Da! e adevărat...el era...Mauriciu va muri poate din cauza tatălui dumitale!...</p>
@@ -2467,6 +3188,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>—Dar cum a putut el să făptuiască o asemenea nedreptate? Cum n-a înțeles el că voind să mă lovească pe mine, o lovește mai mult pe dânsa?</p>
 <p>—Pe ea și copilul ei! Pe ea și pe Mauriciu! Strigă doctorul.</p>
 <p>—Mauriciu?</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="66">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>66</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="12">
 <p>— Da, Mauriciu  care trage de moarte... Mauriciu care e în agonie și nu va ajunge până mâine poate!</p>
 <p>—Adevărat? Dumnezeule!...</p>
 <p>— Da, e adevărat, da; și numai printr-o minune dacă va putea scăpa! Dacă bietul copil moare, tatăl tău ar putea să-și ia asupra lui această greșeală... tatăl tău ar putea să spună că el l-a ucis! reluă cu mai multă putere doctorul.Căci ceea ce nu voi uita nici odată, e scena care s-a petrecut azi dimineață în cabinetul meu, când copilul veni să-mi ceară voie a vedea pe mamă-sa...Abia îi spusesem că ea nu mai era în stabilimentul meu...și că trebuia să se afle la d. baron, și de odată îl văd clătinându-se și căzând jos țeapăn parcă fusese trăsnit...</p>
@@ -2488,13 +3220,26 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>Căci, nu cunoști pe contele de Belleroche, doamnișoară, și poate că n-ai auzit niciodată vorbindu-se de el?</p>
 <p>— Ba da! a răspuns Adriana.</p>
 <p>— Atunci trebuie să știi despre contele că are inima cea mai bună și sufletul cel mai generos. Este o ființă deosebită, o ființă care suferă de toate durerile și de toate suferințele altora. Și când servitorii care trecuseră din întâmplare pe la locul unde căzuse Mauriciu pentru a doua oară leșinat, îl aduseră în agonie, el simți această teribilă emoție ca și cum ar fi fost vorba de propriul lui fiu.</p>
-<p>„El îngălbenește când îi spusei, ceea ce ți-am repetat dumitale, cum că numai printr-o minune neașteptată copilul ar putea scăpa, despre altminteri este pierdut!....</p>
+<p>„El îngălbeni când îi spusei, ceea ce ți-am repetat dumitale, cum că numai printr-o minune neașteptată copilul ar putea scăpa, despre altminteri este pierdut!....</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="67">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>67</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="12">
 <p>—Pierdut!...strigă tânăra fată. O! Nu spune acest cuvânt doctore! Nu spune acest cuvând care mă deznădăjduiește!</p>
 <p>—Ți-l spun pentru ca să știi bine și să nu-ți faci iluzii. Ți-l spun pentru a evita o și mai sfâșietoare durere...Da! Mauriciu suferă de o febră cerebrală care poate să-l omoare...o febră cerebrală cauzată de cumplita tulburare ce i-a cuprins negăsind pe mama lui.</p>
 <p>Muriva el astă-seară, sau o va mai duce până-n ziua, aceasta nu o voi putea spune. Dar ceea ce știu bine este că ceasurile lui sunt numărate, și că mâine pe la această vreme, sărmanul copil nu va mai căuta pe mumă-sa. Astfel de ce voiești să-l mai vezi încă o dată și să-l îmbrățișezi pentru ultima oară, atunci nu ai un minut de pierdut...</p>
 <p>—O da! Doctore! Răspunse Adriana nebușind-o plânsul, da. Să-l revăd! Să-l îmbrățișez și să înlocuiesc lângă dânsul pe aceea pe care el a iubit-o atât de mult!...</p>
 <p>—Aceea pe care a iubit-o până ce a murit pentru dânsa! Zise doctorul cu o adâncă emoțiune. Ei bine! Aide! Vino repedere! Voiesc să te conduc lângă dânsul; Să mergem la d. Belleroche!</p>
 <p>Și doctorul Laval luă repede cu el pe tânăra fată care mergând înădușea în batistă vuetul suspinelor ei.</p>
+    </div>
+    <div type="section" n="13">
 <p>XIII</p>
 <p>Două Datorii</p>
 <p>Dar dacă noaptea care trecusă a fost plină de visri rele pentru Mauriciu, și pline de îngrijire pentru Adriana, la rânmdul lui și contele de Belleroche nu dormise deloc. Până înspre zori de ziuă lampa din odaia sa a rămas aprinsă iar, silueta lui s-a văzut umblând necntenit. Cu mâinile încrucișate și capul plecate pe piept, el se gândea la convorbirea ce avuse câteva ore mai înainte cu marchisul de Prade...la acea convorbire care pe neașteptate îi schimbase încă odată viața.</p>
@@ -2511,6 +3256,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>Și tocmai cu intențiune de a o revedea, cu intențiune de a mărturisi totul doctorului Laval, se prezentase în ajun la casa de sănătate îndată ce ieșise de la Prada. Directorul era absent, dar se va întoarce azi și apoi Yvonna nu va mai rătăci ca un spectru printre ace nenorocită turmă de nebune a căror vedere ăi sfâșia inima...și Yvonna îi va fi redată.</p>
 <p>Redată! La gândul acesta ochii i se umpleau de lacrimi. Căci își reaminteacât suferise de a fi despărțit de dânsa, și cît îl martiriza aceasta.</p>
 <p>De câte ori în adevă, atunci pe când ea era încă în casa baronului de Chancel, nu se ascundea el când în unghiul unei strade când sub o paortă, spre a o putea vedea o secundă măcar: intervalul unui fulger!</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="67">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>67</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="13">
 <p>De câte ori n-a străjuit el prin jurul casei baronului, pentru a putea să audă sunetul vocii sale, să zărească măcar printre arborii grădinii, fuga ușoară a umbrei sale!</p>
 <p>Apoi mai târziu, în zadar așteptase, în zaear veghease, el nu o mai zări. Se reîntorcea aproape în fiecare zi...dar nimic...nimic...nimic nu mai putu afla despre dânsa!</p>
 <p>O! În acele momente, nimeni nu ar mai fi recunoscut în omul acesta așa de trist, pe mândrul conte de Belleroche de altădată.</p>
@@ -2537,6 +3293,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>—Nu pot să știu stăpâne!</p>
 <p>—Nu-l cunoaște nimeni dintre acei care vă escortau?</p>
 <p>—Adică nu i se știe numele și domiciliul, dar am auzit un om spunând că acesta e băiatul de la Alfortviille.</p>
+<p>(Va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="68">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>68</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="13">
 <p>—Micul băiat de la Alfortviille? Strigă contele.</p>
 <p>—Da domnule. Băiatul a fost văzut pe acolo zilele acestea.</p>
 <p>—De curând?</p>
@@ -2566,6 +3333,17 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>—O da! Zise încet contele.</p>
 <p>—Astfel se vede că micul MAuriciu avuse vreun vis rău...Un vis care-l cuprinsese de îngrijiri groaznice, căci  în ziua când l-a văzut venind la mine galben la față și tremurând. Dar,. coincidență curioasă, coindicență care ar fi înmărmurit pe oameni mai superstițioși decât mine, întâmplarea a făcut că tocmai visul lui cel rău să se realizeze.</p>
 <p>—Cum așa? Întrebă speriat contele ridicând capul în sus.</p>
+<p>(va urma)</p>
+    </div>
+   </div>
+   
+   <div type="part" n="69">
+    <p>FOIȚA ZIARULUI „OPINIA”</p>
+    <p>69</p>
+    <p>ORFANI!</p>
+    <p>PARTEA I-a</p>
+    <p>CELE DOUĂ SURORI</p>
+    <div type="section" n="13">
 <p>—Mumă-sa pe care ardea de dorință să o vadă, nu se mai afla la mine.</p>
 <p>—Nu mai e la d-ta! Strigă d. de Belleroche.</p>
 <p>—De ieri nu mai e la mine, căci a trebuit să o dau tatălui ei baronul de Chancel care a venit să o ia.</p>
@@ -2598,6 +3376,8 @@ care n-o va cunoaște nimeni niciodată...</p>
 <p>—Oare am auzit bine ceea ce mi s-a spus acum? Șoptea el punându-și mâna pe frunte. Oare e adevărat că Yvonna nu se mai află aproape de mine, și că nu voi mai vedea-o niciodată?</p>
 <p>Și acest om de o natură atât de energică, era gata să plângă ca o femeie, când deodată tresări.</p>
 <p>Era doctorul Laval care se apropia de dânsul.</p>
+<p>(Va urma)</p>
+    </div>
 </div>
   </body>
  </text>
