@@ -39,12 +39,12 @@
                <pubPlace>București</pubPlace>
                <publisher>INSTITUTUL DE ARTE GRAFICE „EMINESCU" </publisher>
                <date>1916</date>
-               <decoNote type="ilustratii" subtype="no"/>
-               <dim unit="char" type="mare"/>
+               <decoNote type="illustration" subtype="no"/>
+               <dim unit="char" type="big"/>
                <extent>
                   <measure unit="word">12259</measure>
                   <measure unit="page" type="under_250"/>
-                  <measure unit="foileton" type="under_65"/>
+                  <measure unit="feuilleton" type="under_65"/>
                   <measure type="complete"></measure>
                </extent>
             </bibl>
@@ -64,8 +64,8 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="5"/>
-               <term type="republicare" n="2"/>
+               <term type="reception" n="5"/>
+               <term type="print_count" n="2"/>
                <term type="finished"></term>
                
             </keywords>
@@ -73,8 +73,8 @@
       </profileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
             <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
             <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
          </projectDesc>
@@ -89,7 +89,7 @@
     </front>
  <body>
 <div type="chapter" n="1">
-<p>I</p>
+<head>I</head>
 <p>Printre nenumăratele probleme sociale care preocupau mintea lui Dragomir una îl atrăgea mai cu deosebire în timpul din urmă: problema națională a poporului din care făcea parte. Era și natural: fiu al României înfiripată de abia de o jumătate de secol, un crâmpei de țară numai,— trupul său sfâșiat fiind în cea mai mare parte pradă stăpânirei străinilor,— atenția sa fusese atrasă ușor de necesitatea unei întregiri, nu din motive sentimentale, ci pentru că vedea în rezolvarea acestei probleme un interes care privea însăși existența neamului și dezvoltarea lui pe calea civilizației. Și pentru că crâmpeiul de regat liber era în întuneric încă, cu o spoială de civilizație la suprafață, iar poporul în mizerie și ignoranță,— speculat de o clasă de politicieni și de un număr infim de latifundiari,— printre reformele pe care le cugetă pentru îndreptarea țării sale era și unirea acesteia cu Ardealul, partea cea mai înaintată în civilizație a neamului său. De ani de zile demonstrase posibilitatea regenerării țării sale prin această unire, arătând căile de urmat... Și visătorul hulit a fost fericit în ziua când stârnindu-se conflagrație generală a văzut apropiindu-se ziua mântuirii neamului.</p>
 <p>Amuțiseră toate glasurile. Glasul lui Dragomir a învins atunci tăcerea, arătând că românii au un ideal de îndeplinit.</p>
 <p>A fost într-adevăr o ezitare generală în acel timp; după bătălia de la Marna însă situația îndeplinirei idealului național român a fost pe deplin lămurită din punct de vedere extern și ceea ce îl preocupă de atunci pe Dragomir era cum să determine inăuntrul țării și față de conducătorii săi dubioși luarea marei hotărâri.</p>
@@ -107,7 +107,7 @@
 <p>- Îndrăznește vreun comisar să intre aici la mine? Îmi pare rău, d-le Dragomir, zicea de după tejghea cârciumarul, cu un gest de indignare,— nu-1 cunoști pe Părpătilă!... E mâna dreaptă în alegeri a lui. Svântă-pământ! Lasă votul meu, dar al lui socrul meu? Dar al lui nașul meu? Dar al lui loniță, care mi-e tovarăș la afacerea de lemne tăiate? Și câte nu mai poate să aducă prăvălioara asta a mea în timp dc alegeri? Aici e club în timp de alegeri, d-le Dragomir! Se cunoaște că nu ai idee de ele!</p>
 <p>Radios și întinzând mâinile prin prăvălie exclamă: „E plin locul acesta atunci... Și să-l vedeți pe d. Svântă-pământ vesel, dând paharul în mâna alegătorului si să-l auziți strigând de răsună prăvălia: „Să trăiți băieți!” E o plăcere domnule Dragomir, să mă crezi... Nu cunoști plăcerile acestea... Ce păcat! Ce mai treabă ai face și dumneata, dacă te-ai da cu un partid. Dar, de... ambiția d-tale, eu știu ce este, dar rău faci crede-mă, mă înțelegi, ce bine e să fii mare... Adu băiete câte un pahar la domnii, că doar mă vizitează rar,— strigă cârciumarul întrerupându-și vorba și mai mult spre a nu-i da ocazie lui Dragomir să-i răspundă la reproșuri.</p>
 <p>Dragomir a ținut să protesteze mai întâi împotriva paharului cu vin, pretextând un viciu al stomacului, adaugă totuși că nu a râvnit niciodată la mărirea lui Svântă-pământ și că i-o lasă pe seamă. Revenind la chestiune a observat cârciumarului că nu e bine să se pună la adăpostul abuzului de autoritate al unui speculant politic ordinar ca Svântă-pământ și că el ca om trebuie să caute să-și dea seama de ceea ce este bun și drept și să procedeze potrivit cu conștiința că servește dreptatea și omenia.</p>
-<p>- ,,Dacă dumneata,îi spuse Dragomir, constați că suspecții din hanul d-tale, au porniri care amenință viața și averea semenilor, dumneata să-i descoperi și să-i lovești!</p>
+<p>- Dacă dumneata,îi spuse Dragomir, constați că suspecții din hanul d-tale, au porniri care amenință viața și averea semenilor, dumneata să-i descoperi și să-i lovești!</p>
 <p>Cârciumarul râse cu mare poftă și-i spuse lui Dragomir că toate acestea sunt copilării... că, să nu se supere, dar mai auzise despre el că susține așa ceva, dar parcă tot nu-i venea să creadă...</p>
 <p>,,Cum se poate, adăuga cârciumarul, găsi un om care să dea cu piciorul interesului său? Dar ce sunt nebun? repeta întruna... Nebun curat aș fi... dacă mi-aș goni clienții! Auzi dumneata! Ba nu zău, dumneata așa ai face? Zău dacă n-ar râde cu haz d. Svântă-pământ, dacă i-aș spune-o!</p>
 <p>Samsarul Haim care până atunci ascultase discuția fără să zică un cuvânt intră în vorbă și el.</p>
@@ -144,14 +144,14 @@
 <p>- Să trăiești domnule Dragomir, răsună de după tejghea glasul dogit de băutură al cârciumarului... Așa te vreau... Să te dedai cu lumea că nu merge!</p>
 </div>
 <div type="chapter" n="2">
-<p>II</p>
+<head>II</head>
 <p>Întors acasă la miezul nopții Dragomir se simțea buimăcit de cele ce văzuse și auzise. Nu se aștepta la atâtea din dugheana aceea infectă. Această dugheană reprezintă realitatea, o realitate atât de dureroasă pentru năzuința sa în privința viitorului țării sale.</p>
 <p>A reflectat adânc asupra celor spuse de evreul Haim, pentru că spusele lui nu reprezentau numai o părere izolată ci era părerea cafenelelor și prăvăliilor pe care acesta le colinda zilnic. Cuvintele sale reprezentau așadar o opinie generală și... atunci în țară la noi, gândea el, e un adevărat dezastru moral, iar împrejurările războinice care au vindecat multe păcate în țările care se războiesc, la noi le-a înmulțit. Mai era însă o nădejde care licărea în sufletul său și aceasta îi dădea curaj. Gândul că mai sunt si alte realități în țara aceasta afară de aceea care i se înfățișase, îi lumina mintea. Se gândi la poporul de jos și mai cu seamă la poporul de la țară, iar amintirea înălțătoarei, a neîntrecutei conștiinți de datoriile cele mai sfinte de pe câmpiile Bulgariei, cu ocazia campaniei din 1913, îl făcea să se reîntoarcă la vechea sa credință că în cele din urmă tot conștiința dreptățoi va birui și că țara aceasta nu e pierdută. Cu aceeași încredere își a-minți apoi de elita intelectuală cinstită și modestă din țara aceasta, care cercetează și cunoaște tot și așteaptă cu resemnare și încredere prefacerea ei din temelii. Da, avem o elită intelectuală, își zicea, și este și aceasta o realitate. Ea formează astăzi adevărata opinie publică a țării la care s-au raliat unele partide politice din opoziție și o parte importantă a presei noastre. Sunt dar speranțe de izbândă iși zise Dragomir, căci există reazimul năzuințelor acestui popor. O forțare supremă căci pregătirea există.</p>
 <p>Totuși pe Haim nu putea să-l uite și se hotărî să-l urmeze într-o explorare a cercurilor cunoștințelor sale.</p>
 </div>
 <div type="chapter" n="3">
-<p>III</p>
-<p>Băcănia ,,la butoiul mare" este cea mai bună băcănie din orașul Dâmbu. Ii mergea însă numele acesta nu doar pentru că ar fi avut cele mai bune și convenabile articole, ci pentru că de acolo târguia elita orașului. Și cu toate că ceea ce se vindea într-însa era de calitate inferioară și mai scump, totuși lumea năbuia acolo ca să zică că face parte din elită.</p>
+<head>III</head>
+<p>Băcănia „la butoiul mare" este cea mai bună băcănie din orașul Dâmbu. Ii mergea însă numele acesta nu doar pentru că ar fi avut cele mai bune și convenabile articole, ci pentru că de acolo târguia elita orașului. Și cu toate că ceea ce se vindea într-însa era de calitate inferioară și mai scump, totuși lumea năbuia acolo ca să zică că face parte din elită.</p>
 <p>Patronul d. Nae Ciupitu, un băiat deștept și el, atrăsese lumea bună a orașului prin eleganța prăvăliei și prin purtarea sa elegantă. Știa apoi cum să cinstească „autoritățile" orașului cu care era astfel în termeni foarte buni, căci d. Nae Ciupitu avea în afară de băcănie și local de aperitive de la care câștiga tot așa de bine, deoarece era mare meșter în dresul băuturilor spirtoase.</p>
 <p>Pe la orele unsprezece dimineața începeau să-i vină mușterii la aperitive. La această oră Dragomir se înființă într-una din zile în băcănia la „Butoiul mare”. Îl găsi acolo pe Haim, stând de vorbă cu patronul. La intrarea lui Dragomir în prăvălie acesta fu prezentat de către Haim d-lui Nae Ciupitu, care nu-și putu ascunde bucuria că dobândește un nou client. Căută dar să-și afirme veselia comandând „un rând” după care comandă retrăgându-se cu toții în odaia specială de aperitive Haim și cu Dragomir luară loc la o masă.</p>
 <p>Rândul de pahare cu vin sosit, d. Nae Ciupim întrebă grațios pe mușterii dacă nu ar dori și ceva icre, căci i-au sosit cișituri proaspete. Dragomir care numai la „aperitive” nu se gândea îi lăsă lui Haim sarcina de a primi comenzile făcute de însuși patronul și de a le consuma.</p>
@@ -184,7 +184,7 @@
 <p>— Ce să fie? Altul a făcut-o și eu trag ponosul...: Intrebați-1 pe fostul primar Stinge-fonduri... El mi-a cerut să trec în state drept gardiști oameni care-i făcuse servicii la alegeri... -</p>
 <p>— Și primeau aceștia lefile respective. întrebă mirat Dragomir?</p>
 <p>— Asta nici vorbă,— răspunse Lung-de-mână,— dar de unde sunt eu vinovat pentru aceasta? Sub-altern mă 'nțelegi... Funcționar conștiincios... și-atât...</p>
-<p>0">revistatransilvania.ro/mdrrl 901-1932</p>
+
 <p>-- Dar cu paza orașului cum stăteam atunci?-- întrebă Dragomir.</p>
 <p>Ei, răspunse d. Năstase, paza orașului! ce vorbești și dumneata? dar când o fi să te fure hoții poate să te păzească și zece gardiști... Pe mine crezi că nu m-au furat pe când eram polițist?!...</p>
 <p>Și tot nu i-ați mai prins coane Năstase întrebă băcanul?</p>
@@ -231,8 +231,8 @@
 <p>Și cugeta că acea zi nu este departe și că o apropie și groaznicul incendiu pe care l’au aprins în Europa ungurii și germanii... incendiu care, prevcdeă că va fi stins și de poporul său, pentru ca neamul întreg să nu fie consumat de el...</p>
 </div>
 <div type="chapter" n="4">
-<p>IV</p>
-<p>Despârțindu-se de Dragomir, Haim, om practic, socotea folosul pe care din care poate aduce cele auzite la „Butoiul mare”. Descoperise două afaceri din care putea să câștige parale și'și trudea mintea cum să le ticluiască să poată reuși mai bine.</p>
+<head>IV</head>
+<p>Despărțindu-se de Dragomir, Haim, om practic, socotea folosul pe care din care poate aduce cele auzite la „Butoiul mare”. Descoperise două afaceri din care putea să câștige parale și'și trudea mintea cum să le ticluiască să poată reuși mai bine.</p>
 <p>Prima afacere, și pe care samsarul o socotea mai sigură eră acea cu rezilierea contractului de arendare al lui Istrătescu, care nu avea cu ce plăti arenda moșiei luată dela Nicol aidis. Sc temu un moment că Istrătescu va putea găsi cei 1o.ooo fr. trebuincioși cu împrumut, și, în cazul acesta afacerea eră pierdută. Iși aminti însă că arendașul nu mai are nici un credit din cauza patimei jocului de cărți și ca prin urmare poate să-și pună în aplicare planul cu toata siguranța succesului.</p>
 <p>Se duse deci drept acasă la Marinescu, amatorul să ia în arendă moșia lui Nicolaidis.</p>
 <p>Nu’i spuse nimic din cele petrecute în prăvălia d-lui Nae Ciupitu ci îl sondă numai în privința comisionului său pe care-1 pretindea cât mai mare față cu angajamentul pe care și’l luă să pună pe proprietar în situațiunea de a putea reziliă contractul.</p>
@@ -288,7 +288,7 @@
 <p>— Toți câți au știut să-și facă treburile,— vorbi d. Ghiță Clanță,— au rămas bine... Și vecinul d-lui Ispas, ce cusur are? Nu a încasat și el câteva sute de mii de lei din specula de cereale? A cumpărat câteva sute de vagoane de porumb pe când acesta eră eftin și le-a trecut peste graniță, vândute cu prețul întreit, grație protecțiunei unui înalt funcționar administrativ pe care l’a corupt cu bani.</p>
 <p>— Eu am auzit,— spuse Haim,— că a reușit să facă afacerea aceasta prin ginerele său făcut de curând, Remus Panaitescu, fiul deputatului Panaitescu.</p>
 <p>— Nici vorbă de asta,— întrerupse comisionarul de cereale. Căsătoria lui Remus Panaitescu cu fiica lui Ivanciu a urmat după realizarea acestei afaceri, care dacă nu s’ar fi făcut nu se făcea nici căsătoria... Cu sutele de mii de lei luate după porumb l’a făcut bulgarul Ivanciu ginere pe fiul deputatului Panaitescu!</p>
-<p>__ Ții!... și ce mai nuntă!...— exclamă Haim...</p>
+<p>—Ții!... și ce mai nuntă!...— exclamă Haim...</p>
 <p>— Boierească! — adăugă d. Clanța...</p>
 <p>— Nici n-am mai văzut până acum alta la fel,— vorbi și d. lordache...</p>
 <p>— Numai îmbrăcămintea miresei a costat zece mii de lei, — întâmpină comisionarul, care avea darul să exagereze toate lucrurile.</p>
@@ -312,8 +312,8 @@
 <p>Dragomir rămase într-adevăr un moment gânditor. Haim însă știa că întrucât Dragomir făgăduise d-lui lordache participarea sa, nu avea să mai revină. Nu se temea dar că spunându-i aceasta îl va da înapoi de la angajamentul luat. Stărui dar ca Dragomir să se ducă cu orice preț la vânătoare... spre a-i da ocazia ca să-l vadă însurat, grație lui... și sigur că prin mijlocirea sa efectivă, căci arendașul doar nu i-ar fi făcut lui Dragomir propunerea direct. Dar chiar și în acest caz Haini își socotea asigurat comisionul din partea lui Dragomir și de aceea luându-și rămas bun de la el își frecă mâinile de bucurie că a mai găsit încă o afacere bună.</p>
 </div>
 <div type="chapter" n="6">
-<p>VI</p>
-<p>Dimineața în care Dragomir a plecat la moșia „Bălțile'' să se achite de făgăduiala dată arendașului, era o dimineață geroasă dar senină a unei zile de pe la sfârșitul lunii Ianuarie. Sunt în decursul acestei luni unele zile de o frumusețe sclipitoare. Lumina soarelui și lumina zăpezii dau o strălucire fermecătoare atmosferei liniștite. Dragomir, ieșind la câmp, cu trăsura împreună cu un alt invitat tânăr, Ionică Procopescu, se resimți adânc de priveliștea câmpului sclipitor de zăpadă, și de soare. Aproape nu auzea ce îi vorbea tovarășul său de drum atât de absorbit era de tabloul care se desfășură înaintea ochilor săi. Se trezi din extaz numai când a intrat în sat.</p>
+<head>VI</head>
+<p>Dimineața în care Dragomir a plecat la moșia „Bălțile” să se achite de făgăduiala dată arendașului, era o dimineață geroasă dar senină a unei zile de pe la sfârșitul lunii Ianuarie. Sunt în decursul acestei luni unele zile de o frumusețe sclipitoare. Lumina soarelui și lumina zăpezii dau o strălucire fermecătoare atmosferei liniștite. Dragomir, ieșind la câmp, cu trăsura împreună cu un alt invitat tânăr, Ionică Procopescu, se resimți adânc de priveliștea câmpului sclipitor de zăpadă, și de soare. Aproape nu auzea ce îi vorbea tovarășul său de drum atât de absorbit era de tabloul care se desfășură înaintea ochilor săi. Se trezi din extaz numai când a intrat în sat.</p>
 <p>Satul „Bălțile are vreo trei sute de case așezate în șir de o parte și de alta a șoselei. Cele mai multe acoperite cu paie și coceni, îți dau impresia unei sărăcii cumplite. Copii gălbejiți și desculți se vedeau ici și colo prin tindele caselor de gard. Procopescu îi spuse că în acest sat bântuie paludismul din cauza bălților din jurul său.</p>
 <p>Nici o viață și nici o mișcare... In afară de acei copii Dragomir mai văzu o femeie desculță într-o bătătură, tăind pe zăpadă niște crăci cu toporul. Liniștea din sat și locuințele văruite îi dădeau impresia că se află într-un cimitir al mizeriei. Acum întelegeă Dragomir lauda lui Haini adresată arendașului în cafeneaua ,,Elitei'' că în cinci ani de arendășie acesta a pus la o parte patru sute de mii de lei. Totuși tăcu, căci dacă și-ar fi spus reflexiile lui Procopescu, ar fi fost luat în nume de rău. Dragomir pricepuse că aceasta era mentalitatea multora și că nu trebue să-și spună părerile indivizilor în parte ci obștei întregi. Se așteptă apoi la răspunsul că acesta este cazul general cu toate satele după moșiile arendășești sau proprietărești.</p>
 <p>Trecând prin fața localului primăriei și văzând o trăsură la intrare, Procopescu îi comunică lui Dragomir că este trăsura de ambulanță a judecătorului Dinescu și că acesta trebue să fie la primărie. Prieten bun cu el, Procopescu îi ceru lui Dragomir să coboare la primărie. Acesta primi bucuros.</p>
@@ -341,13 +341,13 @@
 <p>Dragomir plecă strigând ca un nebun: „ăsta e neam de eroi! La o parte cu acei care caută să-i falsifice destinele!”</p>
 </div>
 <div type="chapter" n="7">
-<p>VII</p>
+<head>VII</head>
 <p>Întors acasă Dragomir se simțea pretutindeni stăpânit de sufletul eroului Gheorghe. Iși aminti de viața și moravurile societății orășenești pe care Ie cunoscuse în explorările recente și cât de mici și de ridicoli i se păreau eroii cafenelelor și cârciumilor față de voința vitejească curată a copilandrului de 19 ani care întrupa instinctiv voința și tăria unui neam întreg.</p>
 <p>Chemă într-o zi pe cunoscuții săi și le spuse că dorește să vorbească în public, iar lui Haim îi spuse între patru ochi, după ce își anunțase conferința: „adună pleava din cafenele, din cârciumi și din cluburi căci vreau să-i vorbesc și știu că dumneata ai multă trecere prin aceste localuri,— poți chiar determină un curent, după cum este obiceiul politicienilor. Adună-mi și toată lumea din piață, căci vreau să vorbesc la toți. Voi chema eu și puținele suflete curate... dumneata să ai grijă de rest”...</p>
 <p>Evreul crezând că Dragomir s-a țicnit căută să se eschiveze. Curios și tot cu gândul la afaceri, încercă să se intereseze de ceea ce a făcut Dragomir la vânătoarea... de căsătorie la care fusese invitat, dar neprimind nici un răspuns favorabil din partea acestuia înțelese că afacerea nu se poate face și că prin urmare nu trebue să piardă timpul. Nu știa cum să facă însă să scape de însărcinarea pe care i-o dăduse Dragomir, căci dacă avea Haim vreo parte slabă era aceea că fugea de rolul de agent electoral și aceasta din teama de a se amestecă în politică din cauza persecuțiilor.</p>
 <p>„Să nu mă dai de vreun bucluc”, îi spuse el lui Dragomir... Și cu mare greutate îl convinse acesta că nu numai nu face asemenea afacere urâtă, dar că tocmai vrea să-și facă un merit din a lovi într-însa.</p>
 <p>Sala plină. Venise la conferința lui Dragomir lume din toate straturile societății: unii din curiozitatea de a-l ascultă vorbind, neavând altă distracție în seara aceea, mai cu seamă că era intrarea liberă, alții să-i caute vre-un cusur la vorbă, căci câțiva politicieni se speriaseră că le ia locul în partide și răspândiseră astfel tot felul de zvonuri rele la adresa lui.</p>
-<p>Corferința, tratând despre situația noastră internă și externă față cu marele război european,a terminat cu următorul fragment:</p>
+<p>Conferința, tratând despre situația noastră internă și externă față cu marele război european,a terminat cu următorul fragment:</p>
 <p>„De aceea v-o repet: vă trebuie un ideal pentru care să luptați, căci numai din zbuciumul luptei și nădejdea de mai bine va răsări seninul zilelor de mâine. Vă trebuie o luptă pentru un vis, care să treacă pe de-asupra vieții meschine pe care o trăiți. Numai așa veți altoi viața cu sânge curat și o veți înălța acolo unde trebue să domnească. Numai așa veți fi și voi oameni și veți lăsă urmașilor voștri o moștenire de care omenirea să se simtă demnă. Fără vis în viață nu știți de ce trăiți și veți muri fără să fi înțeles vreo taină...”</p>
 <p>„Vă mai trebuie și o puternică zguduire sufletească spre a trezi în voi sentimentele înalte...</p>
 <p>„Și idealul există dar nu-l înțelegeți, iar visul înălțător plutește dinaintea ochilor voștri care nu-l văd. De-l veți vedea vă veți uita ființa tăvălită în păcat și în rușine. Veți renaște răscumpărând trecutul și veți înalță viitorul...”</p>
