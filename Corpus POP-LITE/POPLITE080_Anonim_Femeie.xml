@@ -39,12 +39,12 @@
                <pubPlace>București</pubPlace>
                <publisher>FOIȚA ZIARULUI „UNIVERSUL”</publisher>
                <date>1916</date>
-               <decoNote type="ilustratii" subtype="no"/>
-               <dim unit="char" type="mare"/>
+               <decoNote type="illustration" subtype="no"/>
+               <dim unit="char" type="big"/>
                <extent>
                   <measure unit="word">81025</measure>
                   <measure unit="page" type="under_250"/>
-                  <measure unit="foileton" type="under_65"/>
+                  <measure unit="feuilleton" type="under_65"/>
                   <measure type="incomplete"></measure>
                </extent>
             </bibl>
@@ -64,8 +64,8 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="5"/>
-               <term type="republicare" n="2"/>
+               <term type="reception" n="5"/>
+               <term type="print_count" n="2"/>
                <term type="finished"></term>
                
             </keywords>
@@ -73,8 +73,8 @@
       </profileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
             <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
             <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma incompleta.</p>
          </projectDesc>
@@ -83,11 +83,10 @@
   <text>
 <body>
    <div type="part" n="1">
-<p>FEMEIE FĂRĂ SUFLET</p>
-<p>Urmare la „Drama din Constanța”</p>
+<head>FEMEIE FĂRĂ SUFLET</head>
+<head>Urmare la „Drama din Constanța”</head>
 <div type="section" n="1">
-<p>CAP. I.</p>
-<p>Pe marginea prăpastiei</p>
+<head>CAP. I. Pe marginea prăpastiei</head>
 <p>Ușa biroului comerciantului român George Vlasian, din Paris, se deschise și Jules intră brusc, cu o servietă în mână.</p>
 <p>George ridică puțin capul și examină, timp de câteva minute, cu o curiozitate neliniștită, fața întunecată a casierului.</p>
 <p>— Situația e gravă, — zise Jules, punând servieta pe biroul lui George, care stătea nemișcat și gânditor, cu coatele pe masă. N-am în casă banii care îmi trebuie ca să fac față cheltuielilor acestui sfârșit de lună. Am încercat azi dimineață să fac rost de parale dar merge greu. Acolo unde speram să găsesc numerar n-am căpătat decât politețe cu scadențe depărtate. Ca să n-o lungesc mult, ne lipsesc o sută de mii de franci.</p>
@@ -102,20 +101,18 @@
 <p>— Vorbește!</p>
 <p>O expresie de adâncă tristețe acoperi figura bătrânului casier.</p>
 <p>— Vrei să-ți vorbească prietenul tatălui d-tale acela care a văzut când te-ai născut și face parte de treizeci și cinci de ani din magazinul ăsta, sau te adresezi slujbașului a cărui muncă o plătești?</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    
    <div type="part" n="2">
-   <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-   <p>2</p>
-   <p>FEMEIE FĂRĂ SUFLET</p>
-   <p>Urmare la „Drama din Constanța”</p>
-   <p>MARE ROMAN DRAMATIC</p>
-   <p>PARTEA I</p>
+   <head>FOIȚA ZIARULUI „UNIVERSUL”. 2</head>
+   <head>FEMEIE FĂRĂ SUFLET</head>
+   <head>Urmare la „Drama din Constanța”</head>
+   <head>MARE ROMAN DRAMATIC</head>
+   <head>PARTEA I</head>
    <div type="section" n="1">
-      <p>CAP. I.</p>
-      <p>Pe marginea prăpastiei</p>
+      <head>CAP. I. Pe marginea prăpastiei</head>
 <p>— Mă adresez prietenului, devotatului meu prieten Jules.</p>
 <p>Fața bătrânului se lumină.</p>
 <p>— Cheltuelile generale sunt prea urcate — zise el — și luxul casei prea mare. Realizăm în fiecare an cincizeci de mii de franci beneficiu net, iar d-ta cheltuești de două ori pe atât.</p>
@@ -182,16 +179,15 @@
    </div>
    
    <div type="part" n="3">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>3</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
-      <p>Urmare la „Drama din Constanța”</p>
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA I</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>3</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
+      <head>Urmare la „Drama din Constanța”</head>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA I</head>
       <div type="section" n="1">
-<p>Partea I</p>
-<p>CAP. I</p>
-<p>Pe marginea prăpastiei</p>
+<head>Partea I</head>
+<head>CAP. I. Pe marginea prăpastiei</head>
 <p>— Cârpești rufele ca o lucrătoare, — zise el.</p>
 <p>— Ca să nu stau degeaba, și apoi, sunt unele mici economii de folos.</p>
 <p>— Ce bună esti tu, mamă!</p>
@@ -218,8 +214,7 @@
 <p>— A venit mama, — zise Suzana</p>
 </div>
 <div type="section" n="2">
-<p>CAP. II.</p>
-<p>Lucy Vlasian</p>
+<head>CAP. II. Lucy Vlasian</head>
 <p>Ea se înapoiase și, intrând în elegantul buduar îmbrăcat în satin, își scoase pălăria-i splendidă, garnisită cu albăstrele și care făcea să reiasă și mai în evidență păru-i bogat, de un auriu închis.</p>
 <p>Era mititică și albă: o sirenă cu ochi de catifea adumbriți de gene lungi, arcuite și foarte negre.</p>
 <p>Era îmbrăcată cu o jupă de sira și un corsaj la fel; mănuși foarte lungi împodobeau mânuțele ei cu degete subțiri.</p>
@@ -258,19 +253,18 @@
 <p> Pentru întâia oară însă George se revoltă, își impuse voința, nevoind ca fetelor lui să le fie din copilărie rușine de neamul Vlasian.</p>
 <p>De atunci izbucniră certuri între cei doi soți.</p>
 <p>Dar în curând George făcuse concesiuni, cedă din dragostea mare ce nutrea pentru Lucy.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="4">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>4</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
-      <p>Urmare la „Drama din Constanța”</p>
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA I</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>4</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
+      <head>Urmare la „Drama din Constanța”</head>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA I</head>
       <div type="section" n="2">
-<p>CAP. II</p>
-<p>Lucy Vlasian</p>
+<head>CAP. II. Lucy Vlasian</head>
 <p>Strălucirea de ochi </p>
 <p>Chiar astăzi văzând-o strălucind de drăgălășie, cu ochii mari, catifelați, luminând o figură blondină, așa de fină că vedeai sângele curgând sub piele, inima lui își iuți bătăile și, într-un avânt de duioșie, el o strânse nebun la piept.</p>
 <p>— Ce frumoasă ești tu — zise el, uitând de tot — și cât te iubesc, dulcea mea Lucy.</p>
@@ -297,7 +291,7 @@
 <p>I se părea că pânza ce-i acoperea ochii se rupsese, lăsând-o să zărească un viitor întunecos, un viitor de durere, ruină și rușine.</p>
 <p>Lucy, foarte liniștită, nici că păru să observe preocupările patroanei.</p>
 <p>Vorbi puțin, șărutând mereu pe Marcela, copila-i favorită, tot așa de blondă și frumoasă ca și dânsa.</p>
-<p>Cât despre Suzana, o _____ mai puțin: tot așa de fermecătoare și blondă ca și soră-sa, Suzana semăna mai mult cu tatăl ei, având ochii lui mari, albaștri.</p>
+<p>Cât despre Suzana, o (...) mai puțin: tot așa de fermecătoare și blondă ca și soră-sa, Suzana semăna mai mult cu tatăl ei, având ochii lui mari, albaștri.</p>
 <p>—Tu — spunea Lucy Marcelei — tu ai ochii negri și mândri ai Cawell-ilor; se vede bine că vlăstar al lustrei rase irlandeze din care fac parte eu.</p>
 <p>„Cât despre tine, Suzano, tu ești o Vlasian; ai ochii albaștri ai tatăiui tău“.</p>
 <p>Și, cu o mișcare bruscă, îndepărta de lângă ea pe Suzana.</p>
@@ -311,7 +305,7 @@
 <p>Octombrie era pe sfârșite, frigul și începuse să-și arate ghiarele, și focul duduia în soba mare, lângă care Lucy se ghemuise, cam tulburată.</p>
 <p>Gravitatea tristă a lui George o neliniștise și era cam nervoasă în seara aceea, deși se silea să nu pară.</p>
 <p>— Ei — zise ea când intră George — sunt nerăbdătoare să aud lucrurile grave pe care ai a mi le spune.</p>
-<p>— Intr-adevăr — răspunse el hotărât — sunt lucruri grave, foarte grave.</p>
+<p>— Într-adevăr — răspunse el hotărât — sunt lucruri grave, foarte grave.</p>
 <p>— A!</p>
 <p>— Țin să te previn de la început că totul se poate împăca.</p>
 <p>„Nu te necăji dar“.</p>
@@ -350,19 +344,18 @@
 <p>— Și unde vrei să ajungi? făcu ea cu ton agresiv și cu o privire de foc.</p> 
 <p>Falimentul a fost înlăturat, mânat dacă vrei; ei, ce vrei să mai fac si eu?</p>
 <p>Eu n-am nicio răspundere; eu nu știu nimic și nici că vreau să știu“.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
       </div>
    </div>
    <div type="part" n="5">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>5</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
-      <p>Urmare la „Drama din Constanța”</p>
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA I</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>5</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
+      <head>Urmare la „Drama din Constanța”</head>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA I</head>
       <div type="section" n="2">
-<p>CAP. II</p>
-<p>Lucy Vlasian</p>
+<head>CAP. II. Lucy Vlasian</head>
 <p>— Lucy!</p>
 <p>Și George se revoltă de această dată.</p>
 <p>— Nu vrei să știi nimic? Cu toate astea, sa mă asculți până la capăt.</p>
@@ -425,8 +418,7 @@
 <p>— A făcut Jules asta?</p>
       </div>
       <div type="section" n="3">
-      <p>CAP. III</p>
-      <p>În noapte...</p>
+      <head>CAP. III. În noapte...</head>
 <p>Cum rămase singură, Lucy se sculă, cu obrazul transfigurat, și, cu pas mărunt trecu într-o odăiță tapetată în trandafiriu, în care dormea Marcela, copila-i favorită.</p>
 <p>Auzi ceasul bătând nouă.</p>
 <p>Se pierdu în gânduri.</p>
@@ -436,19 +428,18 @@
 <p>Ea se culcă, foarte liniștită, și dormi adânc.</p>
 <p>A doua zi luă ca de obicei dejunul în familie.</p>
 <p>Nu se făcu nicio aluzie la scenele din ajun.</p>
-         <p>(Va urma)</p>
+         <trailer>(Va urma)</trailer>
       </div>
 </div>
    <div type="part" n="7">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>7</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
-      <p>Urmare la „Drama din Constanța”</p>
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA I</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>7</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
+      <head>Urmare la „Drama din Constanța”</head>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA I</head>
 <div type="section" n="3">
-<p>CAP. III</p>
-<p>În noapte...</p>
+<head>CAP. III. În noapte...</head>
 <p>— Mă ierți, spune, dulcea, mea Lucy?</p>
 <p>Lucy deschise ochii și din ochii-i sumbri țâșniră flăcări.</p>
 <p>Murmură:</p>
@@ -525,19 +516,18 @@
 <p>Incepuse să pice.</p>
 <p>Tocmai suna două.</p>
 <p>Lucy mergea iute, târând pe Marcela în mijlocul nopții, străbătând fără frică trotuarele pustii.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="9">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>9</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
-      <p>Urmare la „Drama din Constanța”</p>
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA I</p>   
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>9</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
+      <head>Urmare la „Drama din Constanța”</head>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA I</head>   
 <div type="section" n="4">
-<p>CAP. IV</p>
-<p>Lovitura de trăsnet</p>
+<head>CAP. IV. Lovitura de trăsnet</head>
 <p>— Se va regăsi copilul, — făcu Jules cu ton brusc — dar ceea ce nu se va regăsi sunt cele două sute de mii de franci pe care ni i-a furat astă noapte. Mă mir că d-ta, care ai fost întotdeauna așa de tare față de loviturile soartei, nu te gândești la catastrofa iminentă ce ne amenință pe toți, la pătarea numelui dumitale. </p>
 <p>A, să nu fi murit patronul...</p>
 <p>Ea îl privi îngrozită.</p>
@@ -602,26 +592,24 @@
 <p>Se sculă în zori de ziuă și se ocupa până seara cu stabilirea socotelilor creditorilor.</p>
 <p>După meditații îndelungate, se convinsese că s-ar putea înlătura falimentul: era vorba numai de o învoială care să nu fie respinsă de a obține un termen de amânare de la cel mai însemnat creditor, un chiristigiu bogat, care încheiase numeroase afaceri cu firma Vlasian de treizeci si cinci de ani.</p>
 <p>Era singura perspectivă de scăpare.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="10">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>10</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
-      <p>Urmare la „Drama din Constanța”</p>
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA I</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>10</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
+      <head>Urmare la „Drama din Constanța”</head>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA I</head>
       <div type="section" n="4">
-<p>CAP. IV</p>
-<p>Lovitura de trăsnet</p>
+<p>CAP. IV. Lovitura de trăsnet</p>
 <p>Misiunea era cam delicată, dar Jules și-o luă în spinare și, chiar la ziua aceea, se puse în legătu-ră cu chiristigiul.</p>
 <p>Dar vai, demersurile sale nu fură încoronate de succes și, după ce suferi nenumărate umilinți, se înapoiă seara la birou, aducînd un răspuns negativ.</p>
 <p>Falimeniul avea să se declare, era de neînlăturat.</p>
 </div>
 <div type="section" n="5">
-<p>Cap. V</p>
-<p>Zile negre</p>
+<head>Cap. V. Zile negre</head>
 <p>În casa lui George Vlasian, domnea adâncă tristețe și zilele se urmau lugubre.</p>
 <p>George se închidea ceasuri întregi în camera-i de lucru și nu ieșea decât ca să i-a masa, împreună cu mama și Suzana, care îl așteptau cu ochii roșii de lacrimi și o nerăbdare febrilă.</p>
 <p>Masa era tristă.</p>
@@ -673,19 +661,18 @@
 <p>Sarbas reluă:</p>
 <p>— Să nu-mi spui mie că nu mai ai credit.</p>
 <p>Cu siguranță că ai găsit bancheri destui care să-ți dea mână de ajutor.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
    </div>
    </div>
    <div type="part" n="12">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>12</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
-      <p>Urmare la „Drama din Constanța”</p>
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA I</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>12</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
+      <head>Urmare la „Drama din Constanța”</head>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA I</head>
       <div type="section" n="5">
-<p>CAP V</p>
-<p>Zile negre</p>
+<head>CAP V. Zile negre</head>
 <p>El se sculă. Dar, în loc să coboare la casă, cum avea adesea obiceiul să facă spre a isprăvi câte o lucrare, merse în cabinetul său, străbătând apartamentul lui și al Lucyei, care era încă plin de parfumurile preferate de tânăra femeie și unde domnea și acum dezordine.</p>
 <p>Trecând prin budoarul ei, simți o vie sfâșiere a inimei.</p>
 <p>I se părea că e într-o odaie mortuară, de unde tocmai se scosese cosciugul.</p>
@@ -755,19 +742,18 @@
 <p>Și copila, la capătul puterilor, cu frumoșii ei ochi umezi avu o criză de lacrimi.</p> 
 <p>George scoase atunci un strigăt și, luând-o în brațe, o strânse nebun la piept, izbucnind și el în hohote de plâns.</p>
 <p>Era, într-adevăr o lașitate să moară și să părăsească pentru totdeauna pe fetița aceea adorată și pe bătrâna mamă pe care risipele Lucyei o ruinaseră.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
          </div>
    </div>
    <div type="part" n="13">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>13</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
-      <p>Urmare la „Drama din Constanța”</p>
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA I</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>13</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
+      <head>Urmare la „Drama din Constanța”</head>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA I</head>
       <div type="section" n="5">
-<p>CAP. V</p>
-<p>Zile negre</p>
+<head>CAP. V. Zile negre</head>
 <p>Era o mișelie și îi fu rușine de sine însuși.</p>
 <p>În momentul acesta se auzi în odaia vecină zgomotul unei uși care se deschide și închide și bunica apăru.</p>
 <p>—O, mamă, sărmană mamă! — exclamă George, arătându-i fetița, care continua să plângă.</p> 
@@ -798,8 +784,7 @@
 <p>Peste câteva zile, firma Vlasian fu declarată în stare de faliment, numindu-se sindicul însărcinat cu lichidarea.</p>
 </div>
 <div type="section" n="6">
-<p>CAP. VI</p>
-<p>Charles Sarbas</p>
+<head>CAP. VI. Charles Sarbas</head>
 <p>După declararea falimentului casei Vlasian, chiristigiul Charles Sarbas se înapoiase grăbit în satul Kichompré în Vosgi.</p>
 <p>Prin regiunile acelea muntoase, luna Septembrie, adesea așa de frumoasă aiurea, e aproape întotdeauna mohorâtă și rece și mari bușteni de brad ard în vastele sobe ale caselor.</p>
 <p>Charles Sarbas era mulțumit de dânsul</p>
@@ -824,19 +809,18 @@
 <p>Fără să replice nimic, tânărul își continua lucrul: reglarea socotelilor lucrătorilor care aveau să vină în curând să-și ia leafa, fiind sfârșitul sâptămânii.</p>
 <p>Sarbas îi aștepta, voind, în ziua aceea, împotriva obiceiului său, să facă pe prietenosul.</p>
 <p> Cu toate astea, nu uită să cerceteze dacă socoteala fiecaruia e exactă, spre a nu se plăti cumva cuiva mai mult, convingându-se dacă s-au trecut în amenzile aplicate bieților oameni pentru câteva minute de întârziere dimineața sau la prânz.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="15">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>15</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
-      <p>Urmare la „Drama din Constanța”</p>
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA I</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>15</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
+      <head>Urmare la „Drama din Constanța”</head>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA I</head>
       <div type="section" n="6">
-      <p>CAP. VI</p>
-      <p>Charles Sarbas</p>
+      <head>CAP. VI. Charles Sarbas</head>
 <p>Din când în când își ridicau ochii către o pendulă splendidă, ca spre a vedea cât e ceasul, apoi, aproape imediat, se îndreptau spre două portrete atârnate în fața sobei și care semănau grozav: unul reprezentând pe un general bătrân de pe vremea imperiului și altul pe un tânăr locotenent de vânători.</p>
 <p>Erau chipurile unui părinte și unui fiu, păstrate de grija pioasă a unei soții și mame.</p>
 <p>Contesa de Clerc, deși trecuse de șaizeci de ani, era încă foarte frumoasă.</p>
@@ -889,19 +873,18 @@
 <p>Tânăra rusoaică tresări.</p>
 <p>— Nu-mi răspunzi — reluă bătrâna cu blândețe. Ești necăjită, nu-i așa? o văd bine. Tu care erai întotdeauna așa de oțelită, atât de curajoasă, te ofilești pe zi ce trece.</p>
 <p>Tăcu un moment, apoi continuă:</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
          </div>
    </div>
    <div type="part" n="16">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>16</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
-      <p>Urmare la „Drama din Constanța”</p>
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA I</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>16</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
+      <head>Urmare la „Drama din Constanța”</head>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA I</head>
       <div type="section" n="6">
-<p>CAP. VI</p>
-<p>Charles Sarbas</p>
+<head>CAP. VI. Charles Sarbas</head>
 <p>- Te amărăște tăcerea băiatului, a iubitului nostru Jacques? De ce nu mi-o spui imediat și nu-ți reverși în sufletul meu toată supărarea ce te roade? Aș plânge cu tine, te-aș consola. Nimeni mai bine ca mine, n-ar fi în stare să-ți spună cuvinte care să readucă în inima ta speranța; o știi prea bine.</p>
 <p>- O, mamă, mamă!</p>
 <p>Așa îi zicea fata adesea, și astăzi, mai mult ca oricând acest strigăt de iubire filială i-se înălța din inimă.</p>
@@ -938,8 +921,7 @@
 <p>Și, pe când mama se gândea la purtarea incalificatibilă a fiului adorat, Vladimira împletea firul amintirilor, reluând lucrul pe care-l lăsase pe genunchi.</p>
 </div>
 <div type="section" n="7">
-<p>CAP. VII.</p>
-<p>Vladlimira</p>
+<head>CAP. VII. Vladlimira</head>
 <p>Charles Sarbas stă nemișcat în locul unde pitise, cu ochii pironiți într-una pe ferestrele luminate ale „casei pădurei“, păstrându-și aceeași atitudine gânditoare de adineauri.</p>
 <p>Cugeta:</p>
 <p>— Ce fac ele în cămăruță aceea îmbrăcată în stofe deschise?</p>
@@ -954,19 +936,18 @@
 <p>Și deodată se ridică în picioare.</p>
 <p>Se rupsese parcă ceva întrânsul și o durere cumplită îi sfâșia inima.</p>
 <p>Nu-și dă bine seama ce simte, dar avea poftă să se repeadă în gâtul omului, să-l sugrume și să-i azvârle cadavrul într-o prăpastie.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="18">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>18</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
-      <p>Urmare la „Drama din Constanța”</p>
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA I</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>18</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
+      <head>Urmare la „Drama din Constanța”</head>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA I</head>
       <div type="section" n="7"> 
-<p>CAP.VII</p>
-<p>Vladimira</p>
+<head>CAP.VII. Vladimira</head>
 <p>— Mâine? Atunci pentru ce veniși? — Intrebă ea emoționată, cu un accent care tremura ușor.</p>
 <p>— Ca să-mi iau adio de la voi, plec din Paris peste opt zile.</p>
 <p>Și cu o forțare, adăugă:</p>
@@ -1027,15 +1008,14 @@
 </div>
    </div>
    <div type="part" n="21">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>21</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>21</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA I</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA I</head>
 <div type="section" n="8">
-<p>CAP. VIII</p>
-<p>Devotament</p>
+<head>CAP. VIII. Devotament</head>
 <p>O apucă pe dreapta, pe o potecă mică, dar nu făcu bine câțiva pași și șe opri, uluită, tulburată, găsindu-se în fața lui Jacques, care părea că o așteaptă.</p>
 <p>— Dacă vrei, să ne urcăm pe munte, să facem împreună o mică plimbare. Mergem până la Ramberchamp, dacă nu te supără. Aș fi fericit, până nu plec, să revăd cu tine locurile pe care le admiram atâta altădată, fiindcă cine știe câtă vreme îndelungată voi lipsi!</p>
 <p>Ea nu răspunse și o luă înainte, zveltă, grațioasă. Rochia ei neagră, cam scurtă, lăsa să se vadă piciorușele ei delicate și glezna foarte fină a unei gambe perfect modelată.</p>
@@ -1092,15 +1072,14 @@
 </div>
    </div>
    <div type="part" n="25">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>25</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>25</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA I</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA I</head>
 <div type="section" n="9">
-<p>CAP. X</p>
-<p>Răzbunare femeiască</p>
+<head>CAP. X. Răzbunare femeiască</head>
 <p>El se opri și, adresându-se; copilei, îi zise:</p>
 <p>— Haide, Marcelo dragă, vino cu mine. Mergem la Suzana, la bunica și la moș Jules. Haide, puișorule scump!</p>
 <p>Și cum Marcela se sculă, gata să fugă, Lucy izbucni într-un hohot de nebună, care făcu pe George să se înfioare.</p>
@@ -1135,8 +1114,7 @@
 <p>Dar, enervată, neputând răbda usturătoarea durere, leșină, căzând grămadă pe covor.</p>
 </div>
 <div type="section" n="10">
-<p>CAP. XI</p>
-<p>Durere</p>
+<head>CAP. XI. Durere</head>
 <p>George rătăci ca nebun o parte a nopții pe plajele pustii.</p>
 <p>Oricine l-ar fi zărit pe malul mării, în singurătatea întunericului, l-ar fi luat drept un nebun scăpat din cine știe ce balamuc. </p>
 <p>Adineauri, când femeia aceea era la disereția lui, n-ar fi fost mai bine s-o fi omorât? N-ar fi fost mai bine să-i fi smuls inima, făcând să i se scurgă sângele până la uitima picătură, sângele acela blestemat, murdar?</p>
@@ -1179,15 +1157,14 @@
 </div>
    </div>
    <div type="part" n="28">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>28</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>28</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA I</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA I</head>
 <div type="section" n="12">
-<p>CAP. XII</p>
-<p>Explicația</p>
+<head>CAP. XII. Explicația</head>
 <p>Îi era frică să nu afle c-a plecat, că s-a dus cu altul, părăsindu-și copila.</p>
 <p>Și ideea că n-o va mai găsi îl înebunea aproape.</p>
 <p>Repetă:</p>
@@ -1272,8 +1249,7 @@
 <p>— Jules ăla a mințit. Lucy nu e hoață și niciodată nu-i voi pomeni de învinuirea aceasta.</p>
 </div>
 <div type="section" n="13">
-<p>CAP. XIII</p>
-<p>Minciuni</p>
+<head>CAP. XIII. Minciuni</head>
 <p>Dar Lucy nu renunțase la ideea răzbunării și, înțelegând că nu se poate bizui pe complicitatea lui Jacques, se hotărâse să caute o combinație mai sigură. Trebuia întâi și întâi să găsească pe George. Poate că mai era la Havre, așteptând momentul îmbarcării pentru o destinație depărtată.</p>
 <p>A doua zi, îmbrăcată într-o toaletă sobră, cu fața acoperită de un văl des, se coborî în port, de unde personalul câtorva vapoare ce trebuiau să pornească în larg peste câteva zile continuau cu pregătirile.</p>
 <p>În toate părțile domnea activitatea cea mai mare.</p>
@@ -1316,19 +1292,18 @@
 <p>— Ne-ați putea primi și pe mine și pe bărbatu-meu?</p>
 <p>— Desigur.</p>
 <p>— Fără îndoială că vă fac curios întrebările ce vi le-am pus cu privire la omul acesta — spuse ea serioasă. </p>
-   <p>(Va urma)</p>
+   <trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="30">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>30</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>30</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA I</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA I</head>
       <div type="section" n="13">
-<p>CAP. XIII</p>
-<p>Minciuni</p>      
+<head>CAP. XIII. Minciuni</head>      
 <p>— Într-adevăr, doamnă.</p>
 <p>— Fac parte din familia. acelui nenorocit, oarecum un fel de soră. E cam nebun; nebunia lui constă în a mă crede nevastă-sa. Înțelegeți cât suntem de mâhniți, eu și cu bărbatul meu, fiind-ne teamă ca nebunia asta, până astăzi inofensivă, să nu i-a deodată un caracter grav. Ne temem chiar că va atenta, atunci, la viața noastră.</p>
 <p>— O, fiți liniștită, doamnă; în caz că ar deveni periculos, îl închidem și s-a isprăvit.</p>
@@ -1403,19 +1378,18 @@
 <p>— Nu cumva, maică nu vreți s-o primiți fiindcă nu e nobilă?</p>
 <p>— Absolut deloc doamnă, vă înșelați. Nu facem nicio deosebire între elevele care sunt de viță boierească și cele care n-au particulă la numele lor. Pe noi ne interesează puțin obârșia. Ceea ce ne preocupă e onorabilitatea persoanelor.</p>
 <p>-  Dar bine, maică, sunt o familie destul de amabilă.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
          </div>
    </div>
    <div type="part" n="31">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>31</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>31</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA I</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA I</head>
       <div type="section" n="13">
-<p>CAP. XIII</p>
-<p>Minciuni</p>
+<head>CAP. XIII. Minciuni</head>
 <p>Marcela sta pe un scaun larg și asculta cu mâinile împreunate și ochii plini de lacrimi.</p>
 <p>Pricepea de-acum, sărmana copilă, că suferințele începeau pentru dânsa și că viitorul îi rezervă triste umiliri.</p>
 <p>Se dase încetișor jos de pe scaun, merse la fereastră, se ascunse după perdele și prinse a vărsa șiroaie de lacrimi.</p>
@@ -1463,8 +1437,7 @@
 <p>Aflând de hotărârea luată de Lucy, contele de clerc se revoltă, dar ea știu să-i explice așa de bine motivele, că a doua zi amândoi se îmbarcară, în revărsatul zorilor, pentru New-York.</p>
 </div>
 <div type="section" n="13">
-<p>CAP. XIV</p>
-<p>Sărmana copilă!</p>
+<head>CAP. XIV. Sărmana copilă!</head>
 <p>Pachebotul pornește cu repeziciune, aflându-se în largul mării</p>
 <p>Pe chei o copilă stă și plânge, părăsită.</p>
 <p>La câțiva pași de ea, Paulina vorbește cu amorezul ei și râde, iar Marcela, uitată cu desăvârșire, își întinde mereu mânuțele către nava care-o duce pe mă-sa.</p>
@@ -1483,19 +1456,18 @@
 <p>Fericit muritor!</p>
 <p>Va merge de acum să-și bea cafeaua la vilă. Și va pofti pe prieteni prin cererile pe care Paulina are să le aranjeze; și vor veni neamurile. Și ce mai dușcă vor trage!</p>
 <p>Marcela nu-i auzea.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
    </div>
       </div>
    <div type="part" n="32">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>32</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>32</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA I</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA I</head>
       <div type="section" n="14">
-<p>CAP. XIV</p>
-<p>Sărmana copilă!</p>
+<head>CAP. XIV. Sărmana copilă!</head>
 <p>Marea o atrăgea cu puteri invizibile, și biata copilă voia și ea să călătorească pe apă.</p>
 <p>Paulina, care purta pe cap o basma roșie, se depărtase cu câțiva pași și se instalase în fața unei cafenele, cu o bandă de mateloți cu care bea și cânta.</p>
 <p>Marcela era singură acum, singură de tot și tristă, cu toată pălăria-i frumoasă de pâslă albă și toaleta-i drăguță, deschisă. Nimeni nu-i dădea atenție.</p>
@@ -1542,19 +1514,18 @@
 <p>Această sechestrare pentru ea era răzbunarea visată, fiind o precauțiune, destinată pentru orice incident supărător.</p>
 <p>Peste zece zile, la sosirea la New-York, George va fi liber. Ea va trebui atunci să-și caute de lucru, ca să-și realizeze planul, și cunoștea prea bine pe contele de Clerc ca să nu știe că Jacques nu va consimți să mijlocească pentru ajungerea nefericitului Vlasian într-un ospiciu de nebuni. Și, ca urmare a acestei flexiuni, fața-i se destinse într-un zâmbet fermecător pe frumoasele-i buze roșii. O expresie de blândețe apăru pe chipu-i superb. Continuă cu accent: </p>
 <p>— Știi ceva? Mă gândesc parcă ar fi mai bine să nu luăm precauțiuni așa de mici. Lasă-l în plata Domnului. La urma urmelor, mi-e frică de el și, dacă mă atacă, pot să mă apăr.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
       </div>
    </div>
          <div type="part" n="33">
-            <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-            <p>33</p>
-            <p>FEMEIE FĂRĂ SUFLET</p>
+            <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+            <head>33</head>
+            <head>FEMEIE FĂRĂ SUFLET</head>
             
-            <p>MARE ROMAN DRAMATIC</p>
-            <p>PARTEA I</p>
+            <head>MARE ROMAN DRAMATIC</head>
+            <head>PARTEA I</head>
             <div type="section" n="14">
-<p>CAP. XIV</p>
-<p>Sărmana copilă!</p>
+<head>CAP. XIV. Sărmana copilă!</head>
 <p>Pe lângă asta, contele de Clerc, ale cărui friguri sunt în descreștere. va reveni printre noi mâine. La brațul lui mă simt puternică și pot sfida toată lumea. </p>
 <p>— Ești mai curajoasă și mai bună decât îmi închipuiam — făcu, galant, căpitanul strângând mâinile Lucyei. E chiar de plâns bietul om și cred și eu că nu e bine să fie bruscat. Sechestrarea i-ar fi provocat, poate, crize dureroase.</p>
 <p>Și căpitanul se îndepărtă cu regret de Lucy, care nu-l opri.</p>
@@ -1586,8 +1557,7 @@
 <p>El nu mai spuse nimic și Lucy îl văzu dispărând în beznă. Ea se înapoie atunci, în cabină, în care Jacques, care se deșteptase, o aștepta de câteva clipe.</p>
 </div>
 <div type="section" n="15">
-<p>Cap. XV</p>
-<p>Furtună</p>
+<head>Cap. XV. Furtună</head>
 <p>Evenimentele erau menite să procure tinerei femei deznodământ pe care n-ar fi îndrăznit niciodată să-l nudăjduiască.</p>
 <p>Chiar în noaptea aceea o fierbere generală domnea pe vapor. Cerul care rămăsese albastru și curat de la plecarea din Havre, se acoperise deodată, răspândind pe mare umbrele plutitoare ale unei nopți fără sfârșit.</p>
 <p>Nu trecu mult și furtuna izbucni, teribil, și vaporul, ridicat la mare înălțime de valuri enorme, abia de mai mergea în direcția cârmii.</p>
@@ -1608,19 +1578,18 @@
 <p>O iubea, vasăzică, încă și acum pe mizerabila aceea. O mai putea iubi după mărturisirea oribilă ce-i făcuse. Ea îl strigase că nu l-a iubit niciodată, că nu e tatăl a două fetițe blonde, pe care le adorase ca pe niște copii.</p>
 <p>Era dar laș, nedemn și dornic de dispreț. Îi era rușine de el însuși. Să mai iubească pe femeia aceea? O, nu, niciodată! O văzuse la brațul lui Jacques și, cu toate acestea, inima îi bătu să se rupă. Apoi, deodată îi trecu înaintea ochilor icoana Marcelei. Ce o fi făcut cu ea? Și, gândindu-se la copilă, încremeni.</p>
 <p>Furtuna se dezlănțuia teribilă.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
          </div>
    <div type="part" n="34">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>34</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>34</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA I</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA I</head>
 <div type="section" n="15">
-<p>CAP. XV</p>
-<p>Furtună</p>
+<head>CAP. XV. Furtună</head>
 <p>A plecat pe bară, George, cu mintea plină de amintiri, ochii ațintiți în gol, se uita drept înainte, mașinalicește, fără să vadă nimic. În clipele acelea nici bătrâna ei mamă, nici Suzana, nici credinciosul prieten Jules nu mai existau pentru el.</p>
 <p>Toate gândurile ei lunecau spre aceea pe care o văzuse la brațul altuia și emoția sfâșietoare prin care trecuse îl ținea înlănțuit. Lucy îl stăpânea acum cu totul, și el își făcea chiar imputări că a amenințat-o.</p>
 <p>Said înainta în umbră ca o reptilă, alunecând din funie în funie. Ochii lui aruncau fulgere în întunericul nopții. Cu spinarea încovoiată, aștepta momentul prielnic. Cine o să-l vadă în noaptea aceea întunecoasă? Cine va auzi în vuietul elementelor dezlănțuite, ultimul țipăt al muribundului? Și înainta mereu târându-se cu băgare de seamă, întinzând mâinile, să-și apuce victima. </p>
@@ -1677,19 +1646,18 @@
 <p>Apoi, a doua zi, Paulinei îi părea rău de brutalitățile pe care le rostea, și, temându-se că s-ar putea, totuși, ca să se întoarcă contesa de Clerc, o tot ținea pe Marcela în mângâieri și în atențiuni pentru ea.</p>
 <p>— Du-mă la plajă — spunea ea întotdeauna.</p>
 <p>Și acolo, așezată pe pietre, singură-singurică, ceasuri stătea cu ochii ațintiți pe valuri care se încrucișau cu vasele. O, cum ar fi voit să poată ea să se îmbarce pe valurile acelea mari ca niște case!</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="35">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>35</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>35</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA I</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA I</head>
 <div type="section" n="16">
-<p>CAP. XVI</p>
-<p>Paulina</p>
+<head>CAP. XVI. Paulina</head>
 <p>Ar merge să se întâlnească cu mă-sa, acolo, departe, unde era în momentele acelea.</p>
 <p>Și ce fericită ar fi atunci!</p>
 <p>Doar această singură idee îi preocupa mintea, îmbătându-i visurile. </p>
@@ -1758,19 +1726,18 @@
 <p>Apoi începu să alerge, părându-i-se că e urmărită și că marsilieza o va prinde și o va bate, și inima-i bătu tare.</p>
 <p>Incotro mergea? Nu știa.</p>
 <p>În fața ei se întindeau câmpii înverzite, în care dormeau vacile cu tălăngi sonore, mândre, în iarba umedă de rouă.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="36">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>36</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>36</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA I</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA I</head>
       <div type="section" n="16">
-<p>CAP. XVI</p>
-<p>Paulina</p>      
+<head>CAP. XVI. Paulina</head>      
 <p>Din când în când se auzeau lătraturile câinilor treziți de pașii ușori ai copilei...apoi urma o tăcere greoaie, o singurătate desăvârșită.</p>
 <p>Ea coborî costișa în goană, părându-i-se că fuge din iad: un iad de foc ale cărui arsuri le simțea încă și acum pe carnea-i plăpândă.</p>
 <p>— O, mamă, mamițico!</p>
@@ -1820,19 +1787,18 @@
 <p>Se ridică, în cele din urmă, înaintând, încurcată în rochia lungă, neagră, care-i acoperea picioarele și făcea copiii să râdă.</p>
 <p>Biata fată era într-o stare jalnică: partea de jos, rochia pe care o căra de câteva zile prin praful șoselelor se făcuse zdrențe, iar tălpile i se subțiaseră într-atât, încât la fiecare pas, pietrele o loveau, intrându-i aproape în carne.</p>
 <p>Doar câteva căsuțe erau împrăștiate de fiecare parte a ulicioarelor , case cu ziduri înalte, după care se întindeau grădini vaste. Apoi nu mai vedea decât câmp și iar câmp.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
       </div>
    </div>
    <div type="part" n="37">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>37</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>37</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA I</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA I</head>
       <div type="section" n="16">
-<p>CAP. XVI</p>
-<p>Paulina</p>      
+<head>CAP. XVI. Paulina</head>      
 <p>Marcela se opri, neîndrăznind să înainteze spre camion, de unde se auzeau râsete și cântece. Zărea, pe ușa deschisă, fețe firave, aproape sinistre; femei în veșminte murdare sprijinindu-se de o masă unsuroasă și care mirosea a vin și cârnați.</p>
 <p>O, ce mai suferea biata Marcela!</p>
 <p>Și începu să regrete pe Paulina și tot ce părăsise: vila râzătoare, povârnișurile, orașul, cheiul și vapoarele frumoase care se legănau în port.</p>
@@ -1853,8 +1819,7 @@
 <p>Fu nevoită să se oprească și căzu, istovită, pe marginea drumului. Ochii i se închiseră și adormi.</p>
 </div>
 <div type="section" n="17">
-<p>Cap. XVIII</p>
-<p>Țața Fosard</p>
+<head>Cap. XVIII. Țața Fosard</head>
 <p>Ziua se înalță luminoasă; soarele începe a ieși din umbră; pânza întunericului se sfâșie; orizontul se luminează și nu trecu mult, și raze strălucitoare cad în lungi ciorchini de aur pe pământul care se deșteaptă.</p>
 <p>Copila continuă să doarmă.</p>
 <p>Cu căpșoru-i blond culcat pe iarbă și trupul chircit, părea moartă, moartă, din cauza buzelor albe și a culorii obrajilor.</p>
@@ -1892,19 +1857,18 @@
 <p>Mă gândeam să mă înapoiez la Marsilia, făcându-mă negustoreasă. Negoțul acesta nu cere parale și rentează bine. După aia, însă, mi-am schimbat părerea.</p>
 <p>— Da?</p>
 <p>— Să vezi de ce. Paulina ne-a făcut o reputație tristă.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="38">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>38</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>38</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA I</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA I</head>
       <div type="section" n="17">
-<p>CAP. XVIII</p>
-<p>Tata Fossard</p>
+<head>CAP. XVIII. Tata Fossard</head>
 <p>— Eh, și tot vrei să duci mititica? Ai face o prostie, știi, de-alea gogonețe. Las-o să se descurce cum s-o pricepe. Ce te priveșc pe d-ta afacerile ei? Și, dacă vrei să-mi asculți sfatul...</p>
 <p>— Să-l auzim și noi. Dacă-i bun, apoi nici eu nu vreau altceva decât să-l urmez.</p>
 <p>— Ia-o la d-ta pe sărăcuța asta de fată.</p>
@@ -1952,19 +1916,18 @@
 <p>Și, cu un gest amical, o atinse pe Marcela care continua să fie tristă.</p>
 <p>— Haide, zâmbește! — spuse ea, sărutând copilița. Trebuie să fii fericită că ne-ai întâlnit, cu atât mai mult s-ar putea prea bine să o găsești la Paris pe mama ta.</p>
 <p>— Păi sigur! — zise țața Fessard — altă treabă n-am decât s-o ajut să-și găsească pe mă-sa.</p>
-<p>(Va urma)</p>      
+<trailer>(Va urma)</trailer>      
       </div>
    </div>
    <div type="part" n="39">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>39</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>39</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA I</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA I</head>
       <div type="section" n="17">
-<p>CAP. XVIII</p>
-<p>Tata Fossard</p>
+<head>CAP. XVIII. Țața Fossard</head>
 <p>Ba n-am s-o trimit deloc prin cartierul Saint Antoine și o s-o păzesc ca pe ochii din cap. O iubesc de pe acum și vreau să rămâie la mine.</p>
 <p>Și spre a o răsplăti pe Marcela că le ajutase să facă un dever așa de bun, cele două femei o duseră la panoramă, o plimbară în călușei și o îndopară cu mâncare din belșug la han.</p>
 <p>Apoi înhămară iapa și plecară.</p>
@@ -1997,8 +1960,7 @@
 <p>Și căruciorul o porni ca vântul.</p>
 </div>
 <div type="section" n="18">
-<p>CAP. XIX</p>
-<p>În familie</p>
+<head>CAP. XIX. În familie</head>
 <p> Înserase de-a binelea când intrară într-un sat modest așezat în vârful unei coline. Ici-colea câteva bordeie și căsuțe acoperite cu olane, împrejmuite cu grădini vaste. O casă joasă, înconjurată de stufiș de păducei înfloriți, care umpleau aerul cu parfumul lor discret, le apăru în noaptea transparentă, după o perdea de arbori.</p>
 <p>— Iată-ne acasă — zise țața Fossard. Oamenii din sat nu sunt așa de curioși, dar, cu toate astea, dragă Marcelo, o să fii nevoită să stai cât mai ascunsă.</p>
 <p>Și văzând că copila s-a întristat, adăugă:</p>
@@ -2027,19 +1989,18 @@
 <p>— Stai acolo! Ascunde-te și nu sufla o vorbă! Paulina vine să te ia. Dacă faci cea mai mică mișcare, ești pierdută.</p>
 <p>Marcela auzi chepengul zăvorându-se după ea cu un sunet surd. O frică cumplită o apucă. Dinți-i clănțăneau și tremura din tot corpul.</p>
 <p>Cufundată într-un întuneric nepătruns, auzea ca susurul unui izvor zgomote nedeslușite, înfricoșătoare.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="40">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>40</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>40</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA I</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA I</head>
       <div type="section" n="18">
-<p>CAP. XIX</p>
-<p>În familie</p>
+<head>CAP. XIX. În familie</head>
 <p> Șoareci enormi, numeroși, alergau de colo până colo, atingând picoarele mititicii, agățându-i-se pe rochie. I, șoareceii, șoarecii! O groză nețărmurită o stăpânea. Și i se părea, în întuneric, că vede ochi mici, sclipitori, privind-o, atrăgând-o, fascinând-o. Voi să strige, dar nu putu. Se nădușea și-i părea că o mână de fier o strânge de gât.</p>
 <p>Guzganii deveneau tot mai îndrăzneți. Ea simțea o duhoare caldă trecându-i întreaga ființă. Și, uluită, căutând să scape de chinurile ce îndura, alerga în neștire, în noaptea neagră ca cerneala, cădea, se scula, cădea iar, lipsită de puteri și aproape nebună.</p>
 <p>În sala de sus Paulina intrase ca o furtună.</p>
@@ -2094,7 +2055,7 @@
 <p>Și, uitându-se la mâinile fetiței, scoase un strigăt. Șoarecii începuseră să se îndepărteze și sângele curgea alături. Ea luă atunci în brațe pe Marcela, o urcă în casă pe pat, o încălzi și-i turnă printre buzele albe picături de eter. Sforțări zadarnice!</p>
 <p>Marcela rămase în nemișcare și amorțire. </p>
 <p>Dar mișcările ușoare ale pleoapelor închise, bătăile inimii și lumina lămpii îi dăduseră o speranță.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    
@@ -2102,15 +2063,15 @@
    
    
    <div type="part" n="41">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>41</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>41</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA II</p>    
+      <head>MARE ROMAN DRAMATIC</head>
+         
 <div type="section" n="1">
-<p>CAP. I</p>
-<p>În care găsim cunoștințe vechi</p>
+	<head>PARTEA II</head> 
+<head>CAP. I. În care găsim cunoștințe vechi</head>
 <p>Era o seară umedă și caldă. Cerul, de o transparență de cristal, se ilumina, încetul cu încetul, sub lumina strălucitoare a stelelor.</p>
 <p>Nicio urmă de ceață nu întuneca atmosfera supra încălzită de căldura tropicală a unei splendide zile de iunie. Aburi dogoritori ieșeau din pământ, amestecându-se cu parfumurile pătrunzătoare ale pădurilor.</p>
 <p>Aleile lungi, tăcute, ale șoselei „Bois de Boulogne” erau brăzdate de splendide echipaje în care pariziencele din elită, întinse lenevos pe pernele bogate ale trăsurilor, gustau cu voluptate farmecul acelei seri frumoase. Un landou, venind de pe un drum pieziș și tăind în mod diagonal marea alee, apucă spre satul Boulogne. Apoi se opri și două persoane, un bărbat și o femeie, se coborîră. Femeia mărunțică, dar de o frumusețe admirabilă, seducătoare. pășea tăcută, alături de tovarăș.</p>
@@ -2173,19 +2134,18 @@
 <p>— Dar eu sunt însurat.</p>
 <p>— Ești însurat?</p>
 <p>— Da, dragă.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="43">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>43</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>43</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA II</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA II</head>
       <div type="section" n="1">
-<p>CAP. I</p>
-<p>În care găsim cunoștințe vechi</p>
+<head>CAP. I. În care găsim cunoștințe vechi</head>
 <p>Plimbările în locul acela o plictiseau.</p>
 <p>Nu mai regăsea acolo acele echipaje elegante cu care se încrucișa iarna, în fiecare zi, la orele patru, la înconjurul lacului. Și fiindcă Jcques o târa, în ziua aceea, cam departe, îl opri cu un gest.</p>
 <p>— Unde mergem ? întrebă ea. Drumul ăsta urcă și mă simt cam obosită.</p>
@@ -2256,19 +2216,18 @@
 <p>— Ajută-ne să transportăm rănitul acesta în trăsură — zise Lucy.</p>
 <p>Și aplecându-se din nou spre a examina pe victima accidentului, scoase o exclamare de surpriză. </p>
 <p>Rănitul se ridicase cu mare greutate de pe jos și se uita cu atenție la tânăra femeie.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
          </div>
    </div>
    <div type="part" n="44">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>44</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>44</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA II</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA II</head>
       <div type="section" n="1">
-<p>CAP. I</p>
-<p>În care găsim cunoștințe vechi</p>
+<head>CAP. I. În care găsim cunoștințe vechi</head>
 <p>— O, domnule, ce frică am tras din cauza dumitale! Ai stat leșinat peste o jumătate de oră. Dar slavă Domnului că ai revenit la viață. Voim să te ducem acasă.</p>
 <p>Adaugă peste puțin:</p>
 <p>— Buzele-ți erau acoperite de sânge, și asta ne-a speriat.</p>
@@ -2281,8 +2240,7 @@
 <p>O mustăcioară subțire adumbrea o gură fină: ochii mari. albaștri, melancolici luminau o fizionomie simpatică, sinceră. El se sui în trăsura contelui și fu dus acasă.</p>
 </div>
 <div type="section" n="2">
-<p>CAP. II</p>
-<p>Suzana</p>
+<head>CAP. II. Suzana</head>
 <p>După câteva zile de odihnă, tânărul se întremă complet. Își putu, prin urmare, relua studiile și termina pregătirile pentru examenul de doctorat în medicină. Fiu unic al unuia dintre cei mai bogați oameni din Vosgi, Gaston nu voise să lâncesească în trândăvie, nici să se bucure în tihnă de viață, cum fac de obicei fiii milionarilor. Urmase în toate punctele sfaturile Vladimirei Mendiew, și sfaturile acestea dăduseră roade bune. În timpul vacanțelor ea, mândra slavă, continua cu înălțătoarele ei lecțiuni și recunoștința și iubirea copilului pentru dânsa erau așa de adânci că, adesea îi spunea că o socoate ca o a doua mamă, zâna și călăuza întregii lui vieți.</p>
 <p>Mulțumită ei, nu stătuse niciodată cu mânile în sân hotărât a se instrui a trăi modest și a împrăștia în juru-i tot binele ce i-ar fi cu putință. </p>
 <p>Cu astfel de sentimente veni la Paris să urmeze cursurile școlii de medicină, neîntrerupându-și lucrul decât spre a se ceda plăcerii lui favorite, care consta în a face lungi plimbări călare. Aproape nu se mai gândea la accidentul ce suferise, când, într-o dimineață, primi de la Lucy aceste câteva rânduri:</p>
@@ -2327,19 +2285,18 @@
 <p>Dar nici privirile cu care o învăluia, nici zicerile lui nu-i puteau mișca inima. Cu toate astea, o aștepta în fiecare zi în fața Pantheonului și o vedea că vine de departe în rochia-i lungă, simplă, ținând o cutie de muzică înfășurată în piele neagră. Ea trecea pe lângă el fără să-l bage în seamă. Ce frumoasă era! Buclele de păr blond îi încadrau figura care arunca priviri candide și ochii mari, cu gene lungi, negre.</p>
 <p>O, cât o iubea!</p>
 <p>O urmărise de foarte departe, să vadă cine e.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="45">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>45</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>45</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA II</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA II</head>
       <div type="section" n="2">
-<p>CAP. II</p>
-<p>Suzana</p>
+<head>CAP. II. Suzana</head>
 <p>Află, astfel, că dă lecții de pian și în totdeauna iarna pe viscol, vara pe arșiță, o întâlnea urcând resemnată calvaru-i dureros. Apoi, deodată, n-o mai văzu. O aștepta zadarnic. Necunoscuta dispăruse. El fu cuprins de nespusă tristețe. </p>
 <p>Trecură astfel șase luni. Apoi, într-o zi, pe când se plimba prin grădina Luxembourg, o zări. Nu era singură. Alături de ea călca un bătrân mărunțel care purta la subțioară un pachet greu, voluminos. Din când în când se opreau. </p>
 <p>Gaston îi urmări și-i văzu străbătând piața Pantheonului, coborând strada Montagne-Sainte-Geneviéve și oprindu-se la numărul 10, în dreptul unei case cu înfățișare modestă. </p>
@@ -2379,8 +2336,7 @@
 <p>Viața se scurgea astfel aproape pelină între cele trei ființe pe care le uniseră nenorocul și lipsurile suferite în comun.</p>
 </div>
 <div type="section" n="3">
-<p>CAP. III</p>
-<p>Patroana</p>
+<head>CAP. III. Patroana</head>
 <p>În timpul mesei, Jules nu mai vorbi deloc. După ce Suzana, care se culcă devreme, se retrase, el închise cu băgare de seamă ușa și zise încet: </p>
 <p>— N-ai să ghicești niciodată pe cine am văzut astăzi.</p>
 <p>— Pe cine? — întrebă bătrâna cu voce tremurătoare.</p>
@@ -2393,19 +2349,18 @@
 <p>— Nu s-a schimbat deloc, tot așa frumoasă e.</p>
 <p>— Haide, spune-mi tot ce știi!</p>
 <p>— Ieri mă învârteam să-mi vând florile, bătând la toate ușile. În modul acesta am ajuns la ea, am văzut-o, am vorbit cu ea. I-am vândut două din buchetele splendide cu viorele. Când am văzut-o, primul gând a fost să fug, dar m-am gândit că poate o să văd pe Marcela.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="46">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>46</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>46</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA II</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA II</head>
       <div type="section" n="3">
-<p>CAP. III</p>
-<p>Patroana</p>
+<head>CAP. III. Patroana</head>
 <p>Dar n-am văzut-o. Am intrat într-o cafenea din dreptul casei ei, așteptând să iasă, tot din nădejdea că vreau să o văd pe Marcela. A ieșit însă singură. Am iscodit pe un chelner, și mi-a spus că contesa de Clerc, cum își zice acum, n-are copii. </p>
 <p>— O, Dumnezeule, ce s-o fi întâmplat cu Marcela? — exclamă bunica. Șă știi că mă duc s-o întreb. Trebuie să vorbească, să-mi răspundă.</p>
 <p>— Fii cuminte. Femeia asta e în stare să pună oameni să te dea afară.</p>
@@ -2473,19 +2428,18 @@
 <p>— Nu pot să-ți spun unde e Marcela, nu știu ce s-a făcut cu ea. Când am plecat, am încredințat-o unei servitoare în care aveam deplină încredere, dar când m-am înapoiat, n-am mai găsit-o. M-am interesat de ea mult. </p>
 <p>Pe Paulina am căutat-o, dar i s-au pierdut urmele.</p>
 <p>A fugit! A fugit! zise bătrâna, ridicând mâinile. Rătăcește prin lume după un codru de pâine. Suferă de foame.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="47">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>47</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>47</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA II</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA II</head>
 <div type="section" n="3">
-<p>CAP. III</p>
-<p>Patroana</p>
+<head>CAP. III. Patroana</head>
 <p>Poate că a ajuns, vai, în halul dumitale. D-ta singură ești răspunzătoare, în fața lui Dumnezeu, de această nenorocire. </p> 
 <p>— Am făcut tot ce-i omenește cu putință ca s-o găsesc, dar n-am dat niciodată nici peste cea mai mică urmă.</p>
 <p>Și, cu vocea cam schimbată tânăra femeie întrebă:</p>
@@ -2523,8 +2477,7 @@
 <p>Și bătrâna povesti scena dintre ea și Lucy.</p>
 </div>
 <div type="section" n="4">
-<p>CAP. IV</p>
-<p>Gaston</p>
+<head>CAP. IV. Gaston</head>
 <p>In timpul curselor normande, Lucy târî pe Jacques de Clerc la Deauville și acolo, pierdură și ce brumă mai aveau.</p>
 <p>Nenorocul acesta continuu nu înfricoșa deloc pe frumoasa contesă, care era sigură că-și va procura, peste puțin, la paris, mijloace ce nu-i oferea Deauville.</p>
 <p>Ea întâlni pe plajă pe Gaston Sarbas care venise să i-a câteva băi, având intenția să stea prea puțin, hotărât să petreacă o mare parte a vacanței în Vosgi, la tat-său.</p>
@@ -2594,15 +2547,14 @@
 </div>
    </div>
    <div type="part" n="49">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>49</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>49</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA II</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA II</head>
       <div type="section" n="4">
-<p>CAP. IV</p>
-<p>GASTON</p>
+<head>CAP. IV. GASTON</head>
 <p>— Dar vei recunoaște, sunt sigură, că și d-ta ești vinovat, prin straniile destăinuiri ce mi-ai făcut și pe care le regreți, desigur, astrăzi.</p>
 <p>— Nu regret nimic.</p>
 <p>— Vasăzica, tot mai susții ideea că iubești pe o fetișcană pe care n-o cunoști decât din vedere? N-am vorbit nimic lui Jacques, fiindcă m-ar fi dojenit că mă ocup așa de mult de d-ta. Dar am râs eu singură. Are haz, zău așa. D-ta, tînăr, învățat, pe cale să devii doctor eminent, să te pensionezi pentru o necunoscută, pe care n-o cunoști decât din vedere! Îmi închipuiesc că trebuie să aibă ochii de andaluză, nu-i așa:</p>
@@ -2616,8 +2568,7 @@
 <p>Și vizita ce-i făcu acum, înainte de plecare, n-avea alt scop.</p>
 </div>
 <div type="section" n="5">
-<p>CAP. V</p>
-<p>Tușa Ilda</p>
+<head>CAP. V. Tușa Ilda</head>
 <p>Gaston petrecu în Vosgi cele două luni de vacanță și sosi tocmai la timp ca să primească ultimul suspin al tușei Ilda</p>
 <p>De la moartea acestei sfinte femei, casa părintească îi părea goală și la chiristigerie domnea mare tristețe.</p>
 <p>Toți lucrătorii, copiii, nenorociții o iubiseră mult.</p>
@@ -2641,8 +2592,7 @@
 <p>— Să mă ierți, domnișoară, dacă profit de vizitele băiatului meu ca să viu și eu să te văd — spunea el rugător. Mă plictisesc grav de când a murit biata Ilda. Era sufletul casei.</p>
 </div>
 <div type="section" n="6">
-<p>CAP. VI</p>
-<p>Floarea Pădurii</p>
+<head>CAP. VI. Floarea Pădurii</head>
 <p>Era ora opt.</p>
 <p>Lucy, care nu'-și deschidea saloanele decât abia pe la zece seara, mai avea, dar, destulă vreme la dispoziția ei. Luă brațul lui Gaston Sarbas și, nici una nici două, îl iscodi asupra chipului cum își întrebuințase timpul în vacanță. Dar tânărul păstră, asupra acestui capitol, o tăcere încăpățânată. Vorbiră, atunci, alte lucruri. Fără îndoială, viața tânărului nu preocupa peste măsură pe prințesa de Clerc; ideile ei se îndreptau spre o cu totul altă direcție. O întrebare gravă și delicată îi rătăcea pe buze, dar nu îndrăznea s-o facă.   </p>
 <p>Iubea el pe Suzana?</p>
@@ -2651,19 +2601,18 @@
 <p>Vino — zise ea lui Gaston — te iau cu mine astă seară. Jacques nu mi-ar ierta nciodată că te-am lăsat să pleci fără să te fi adus la noi. Dealtminteri, îți rezerv o surpriză plăcută. </p>
 <p>— Haide — zise ea.</p>
 <p>Și-l târî radioasă în budoarul care era splendid mobilat și garnisit cu bibelourile cele mai rare.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="51">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>51</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>51</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA II</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA II</head>
       <div type="section" n="6">
-<p>CAP. VI</p>
-<p>Floarea pădurii</p>
+<head>CAP. VI. Floarea pădurii</head>
 <p>O ploaie măruntă începuse să cadă când ajunseră în strada Pompei.</p>
 <p>Își scoase blana, își trânti pălăria mare de pâslă, pe o mobilă, își potrivi părul și veni, voioasă, să se așeze nu departe de Gaston, pe un scaun scund, lângă sobă, in care ardea un foc vesel.</p>
 <p>Era fericită.</p>
@@ -2714,19 +2663,18 @@
 <p>Și se apropie de dânsa.</p>
 <p>Ce frumoasă era!</p>
 <p>Îi amintea de Lucy când era tânără de tot, atunci când o cunoscuse și iubise cu sacrificiul viitorului și vieții lui întregi.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
       </div>
    </div>
    <div type="part" n="52">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>52</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>52</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA II</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA II</head>
       <div type="section" n="6">
-<p>CAP. VI</p>
-<p>Floarea Pădurii</p>
+<head>CAP. VI. Floarea Pădurii</head>
 <p>Era necunoscuta pe care Jules și patroana o întâlniseră la „Bois de Boulogne”. Numele ei de „Floarea Pădurii” nu era un nume veritabil, ci o poreclă dintr-acelea cum le place fetelor frumoase să-și ia.</p>
 <p>Jacques o întrebă:</p>
 <p>— Jucați, fără îndoială, pe „Vijelia”?</p>
@@ -2749,8 +2697,7 @@
 <p>Unde va găsi, astăzi, suta de mii de franci ce datora negrului, și mâine douăzeci și cinci de mii?</p>
 </div>
 <div type="section" n="7">
-<p>CAP. VII</p>
-<p>Said</p>
+<head>CAP. VII. Said</head>
 <p>Imediat după plecarea lui Jacques de Clerc la curse, străinul din ajun, negrul căruia contele îi datora o sută de mii de franci, se prezentă la casa din strada Pompei, anunțându-se Lucy-ei.</p>
 <p>Pe cartea de vizită ce-i prezentă servitorul, ea citi acest nume:</p>
 <p> Said.</p>
@@ -2782,19 +2729,18 @@
 <p>Bine — zise Lucy. Du-te. O să ți se plătească. Îți făgăduiesc eu. </p> 
 <p>Negrul nu se mai urni din loc. Răspunse:</p>
 <p>— Aștept să se înapoieze contele.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="53">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>53</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>53</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA II</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA II</head>
       <div type="section" n="7">
-<p>CAP. VII</p>
-<p>Said</p>
+<head>CAP. VII. Said</head>
 <p>Nu rosti bine vorbele acestea, când ușa se deschise deodată și Jacques intră. Era galben ca ceara.</p>
 <p>— Ei, ce e? — întrebă Lucy.</p>
 <p>— Am pierdut tot.</p>
@@ -2828,8 +2774,7 @@
 <p>Nu întâlnea însă nicăieri pe Gaston, după cum nădăjduia.</p>
 </div>
 <div type="section" n="8">
-<p>CAP. VIII</p>
-<p>In jurul unei căsătorii</p>
+<head>CAP. VIII. In jurul unei căsătorii</head>
 <p>Într-o dimineață, Lucy se sculă mai de vreme ca de obicei.</p>
 <p>Trebuia să asiste, în biserica Sainte-Geneviéve, la cununia unei fete foarte bogate cu un secretar de ambasadă, prieten vechi și intim al lui Jacques și întru-cândva înrudit cu familia acestuia.</p>
 <p>Cu toată lipsa de bani în care se afla, Lucy, din vanitate femeiască, contractase din nou datorii la croitoreasă.</p>
@@ -2854,15 +2799,14 @@
 </div>
    </div>
    <div type="part" n="54">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>54</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>54</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA II</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA II</head>
       <div type="section" n="8">
-      <p>CAP. VIII</p>
-      <p>În jurul unei căsătorii</p>
+      <head>CAP. VIII. În jurul unei căsătorii</head>
 <p>Suzana se așeză lângă o sobiță de tuci. Părea foarte plictisită și, fără să rostească o vorbă, se uita distrată la flăcări. Niciodată nu se simțise așa de tristă și nenorocită. Parcă se rupsese ceva într-însa.</p>
 <p>Ar fi voit să plângă, să plângă mult.</p>
 <p>Intrebările bunică-sii o enervau. Se sculă și se refugiă la ea în odăiță.</p>
@@ -2888,8 +2832,7 @@
 <p>Și spre a o iscodi, cu intenția de a o feri să nu fie sedusă de un nemernic, stărui să-l însoțească într-o plimbare. Dar toate străduințele lui fură zadarnice, căci nu află nimic.</p>
 </div>
 <div type="section" n="9">
-<p>CAP. IX</p>
-<p>O sirenă</p>
+<head>CAP. IX. O sirenă</head>
 <p>— Ne-am înțeles, te iau cu mine — spusese Lucy, închizând ușa cupeului. Și, fie ca ești sau nu mulțumit, te țin toată ziua.</p>
 <p> Gaston nu-si putu stăpâni un gest de enervare.</p>
 <p>— Ai fost ridicolă, doamnă, permite-mi să ți-o spun.</p>
@@ -2927,19 +2870,18 @@
 <p>— Dacă ai fi bărbat ai păta cu sânge injuria aceasta, dar ești femeie și te disprețuiesc.</p>
 <p>Ea îl privi cum se depărtează și șopti:</p>
 <p>— Nu-i nimic. Du-te. Eu tot te ador. Ne-om mai întâlni noi și mă voi răzbuna pe insultele tale și îmbrățișările tale cele mai drăgăstoase.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="56">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>56</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>56</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA II</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA II</head>
       <div type="section" n="9">
-      <p>CAP. IX</p>
-      <p>O sirenă</p>
+      <head>CAP. IX. O sirenă</head>
 <p>Făcu semn Lucyei să iasă și rămase singur cu negrul.</p>
 <p>— Aștept banii — zise acesta.</p>
 <p>N-am nu i-am putut încă procura.</p>
@@ -2955,8 +2897,7 @@
 <p>Apoi își luă pălăria și pardesiul și ieși.</p>
 </div>
 <div type="section" n="10">
-<p>CAP. X</p>
-<p>Tot mai jos</p>
+<head>CAP. X. Tot mai jos</head>
 <p>Merse la gara Saint-Lazare, iar de acolo se îndreptă în grabă spre strada Romei. Se opri la numărul 67 și se urcă la etajul al cincilea.</p>
 <p>Pe ușa din dreapta era o firmă cu litere de aur:</p>
 <p>Stimer și C-o.</p>
@@ -3006,15 +2947,14 @@
 </div>
 </div>
    <div type="part" n="57">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>57</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>57</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA II</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA II</head>
 <div type="section" n="11">
-<p>CAP. XI </p>
-<p>Iubire pierdută</p>
+<head>CAP. XI. Iubire pierdută</head>
 <p>Intr-o seară, pe la cinci, pe când Gaston ieșea de la cursuri, zări pe o bancă de pe bulevardul Saint-Michel pe o fată îmbrăcată în negru. Se apropie și recunoscu pe Suzana.</p>
 <p>Ținea sulul de muzică pe genunchi și mâinile în manșon. Plângea. Zărind pe Gaston, se sculă, voind să fugă. Dar el, căpătând deodată curaj, o sili să șadă iar.</p>
 <p>— Suferi — îi zise el cu glas  blând — ochii îți sunt plini de larimi. De ce plângi?</p>
@@ -3069,22 +3009,22 @@
 <p>Apoi, cu voce mai înceată, continuă:</p>
 <p>— Speranța mea cea mai dulce a pierit de mult. Niciodată nu voi revedea pe Marcela, nici pe tata.</p>
 <p>— Cine știe! Ești abia de douăzeci de ani și ți-ai pierdut de pe acum nădejdea! — făcu Jules. Ești religioasă, cu toate astea. N-ar trebui dar să te îndoiești de providență. Eu am încredere în viitor și presimt că-ți rezervă mari bucurii. Cît despre tînărul pe care-l iubești, poate că e vrednic de tine. Copiii nu sunt răspunzători de greșelile părinților lor.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="58">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>58</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>58</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA I</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA I</head>
 <div type="section" n="11">
 <p>— Ah, bunul meu amic, cât mă fericesc vorbele tale! exclamă Suzana radioasă.</p>
+	<p>[text lipsa]</p>
 </div>
 <div type="section" n="12">
-<p>CAP. XII</p>
-<p>Datoriile nobleții</p>
+<head>CAP. XII.Datoriile nobleții</head>
 <p>Jacques de Clerc sosi la Kichompré în zorii zilei. De o lună, munții Vosgi erau acoperiți de zăpadă.</p>
 <p>El rămase câteva clipe locului, fermecat de poezia singurătății,gândindu-se la Vladimira care trăia acolo ca în exil, de atâția ani, inima-i se strânse dureros.</p>
 <p>Ca să nu fie obiectul de curiozitate al muntenilor, se hotărî s-o viziteze noaptea.</p>
@@ -3142,19 +3082,18 @@
 <p>— Așteaptă-mă aici până mă întorc — reluă ea. Mă duc la Sarbas să-i spun situația și să-l întreb cu prețul căror pretenții e gata să te salveze. Nu vreau să revin asupra trecutului, dar recunosc în fiecare acțiune a ta mâna blestemată care te-a condus în toate infamiile, la toate degradările sociale.</p>
 <p>— O, Vladimiro!</p>
 <p>— Crede-mă, nu gelozia îmi spuse țipărul acesta. E mult decând nu te mai iubesc. Din ziua în care mama ta a murit în brațele mele chemându-te în zadar, de-am disprețuit și din inima mea a dispărut orice sentiment pentru tine.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="59">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>59</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>59</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA II</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA II</head>
       <div type="section" n="12">
-<p>CAP. XII</p>
-<p>Datoriile bănești</p>
+<head>CAP. XII. Datoriile bănești</head>
 <p>— Nu eram pe atunci în Franța.</p>
 <p>— Știu. Plecaseși cu mizerabila aceea, părăsind fără milă și pe două nenorocite care te iubeau încă, așteptând reîntoarcerea ta cu o nerăbdare ce creștea pe fiecare zi. Ani de zile au sperat că te vei reîntoarce. Speranță zadarnică. Și dacă ai venit astăzi, n-a fost decât ca să aduci nenorocirea în casa aceasta în care trăiesc de atâția ani ca exilată, închisă aici ca într-un mormânt care trăise de atâtea ani ca exilată, închisă aici ca într-un mormânt. Toate astea sunt opera ta. Mi-ai răpit fără inima, tinerețea, tot ce era mai bun în mine. Deziluzia a fost amară și inima mea s-a închis pentru totdeauna. Și dacă vreau acum să implor în favoarea ta pe Charles Sarbas, e doar ca să salvez cinstea unui nume care îmi este scump.</p>
 <p>Ea își puse în cap un fâșiu de dantelă neagră, se învălui într-o blană și plecă.</p>
@@ -3213,15 +3152,14 @@
       </div>
    </div>
    <div type="part" n="60">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>60</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>60</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA II</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA II</head>
       <div type="section" n="12">
-<p>CAP. XII</p>
-<p>Datoriile bănești</p>
+<head>CAP. XII. Datoriile bănești</head>
 <p>Repeta:</p>
 <p>— O sută cincizeci de mii de franci! Nu se încurcă contele d-tale. Să plătesc eu banii ăștia! O, niciodată! Cu atât mai rău pentru imbecilul care i-a dat parale. Eu mă spăl pe mâini.</p>
 <p>— Foarte bine, domnule — zise ea cu voce tremurândă. Adio!</p>
@@ -3254,8 +3192,7 @@
 <p>Jacques de Clerc</p>
 </div>
 <div type="section" n="13">
-<p>CAP. XIII</p>
-<p>Sacrificiu</p>
+<head>CAP. XIII. Sacrificiu</head>
 <p>Ninge mereu.</p>
 <p>De o lună, frumoasa rusoaică e doamna Sarbas și de o lună veghează la căpătâiul unui muribund.</p>
 <p>La înapoierea de la biserică, unde se binecuvântase unirea lui cu Vladimira, Sarbas, zdrobit de o emoție prea violentă, căzuse la pat.</p>
@@ -3285,19 +3222,18 @@
 <p>Gaston tresări.</p>
 <p>— Te miră — reluă bolnavul — că un om ca mine care trăia cu zece mii de franci pe an, în care intră și întreținerea ta, a putut avea atâta bănet fără să-i cheltuiască. </p>
 <p>Gaston se gândi, cu adâncă tristețe, că omul acesta, deși milionar, avusese inima să declare falit pe tatăl Suzanei, tatăl fetei pe care o iubea.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="61">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>61</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>61</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA II</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA II</head>
       <div type="section" n="13">
-<p>CAP. XIII</p>    
-<p>Sacrificiu</p>
+<head>CAP. XIII. Sacrificiu</head>
 <p>Sarbas reluă:</p>
 <p>— Am făcut două parți din averea aceasta și n-o să fii supărat pe mine, nu-i așa? Prin actul de căsătorie, am recunoscut Vladimirei șase milioane.</p>
 <p>— Ai făcut bine, tată.</p>
@@ -3356,9 +3292,8 @@
       
       
 <div type="section" n="1">
-<p>PARTEA A TREIA</p>
-<p>CAP. I</p>
-<p>Începuturile unei dive</p>
+<head>PARTEA A TREIA</head>
+<head>CAP. I. Începuturile unei dive</head>
 <p>În seara aceea, luni, ea se îngrămădea la opera comică, unde se dădea „Haydee”, care ținea afișul de cincisprezece zile.</p>
 <p>Într-o lojă din avantscenă, o femeie tânără își făcu apariția, însoțită de un tânăr foarte distins, care puse jos, lângă dânsa, un buchet enorm de camelii albe.</p>
 <p>Toată lumea elegantă cunoștea pe frumoasa doamnă Sarbas, o văduvă bogată care cumpărase, pe aleea Gabriela, o casă splendidă, adevărată minune artistică.</p>
@@ -3370,23 +3305,22 @@
 <p>Într-o lojă din avantscenă din fața ei, un om tânăr încă, străin fără îndoială, o privea cu o admirație pe care nu căuta s-o ascundă.</p>
 <p>Primul și al doilea act fură superbe, și steaua serii, Floarea Pădurii, fu călduros aplaudată.</p>
 <p>Dar la actul al treilea, tocmai când intrase în scenă, căzu grămadă.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
 </div>
    <div type="part" n="63">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>63</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>63</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA III</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA III</head>
       <div type="section" n="1">
 <p>Pricepea bine acum că niciodată nu se va putea despărți de cele două femei.</p>
 <p>Rămase dar la Paris, cu atât mai mult cu cât direcția îi urcă salariul la douăzeci și cinci de mii de franci pe an.</p>
       </div>
 <div type="section" n="2">
-<p>CAP. II</p>
-<p>Declarația de război</p>
+<head>CAP. II. Declarația de război</head>
 <p>Tocmai se sculase când i se anunță vizita lui Gaston Sarbas. Era mult mai palidă ca în ajun. Nu putuse deloc dormi și se sculase si devreme.</p>
 <p>Când zări pe doctor, scoase o exclamare de bucurie. I se părea că fericirea a intrat în casa ei. El o examina surprins și neliniștit. Ce mult semăna dânsa cu Suzana! Și se împrieteni imediat cu tânăra artistă.</p>
 <p>Ea îl pofti să șadă lângă dânsa și zise:</p>
@@ -3452,19 +3386,18 @@
 <p>— Milă!— repetă ea batjocoritoare. N-am ce face cu ea. Ah blestemată fie ziua când te-am întâlnit la „Bois” și ți-am sărit într-ajutor.</p>
 <p>— Intr-adevăr, sunt în viață fatalități teribile.Crede-mă, doamnă, că și eu blestem ziua aceea. Ai intrat în viața mea tulburându-mi sufletul cu mărturisiri pe care nu le-am provocat și nici încurajat. Ai fost geniul meu rău, urmărindu-mă pas cu pas. Din fericire, am rezistat. Marea dragoste care mă însuflețește m-a scăpat.</p>
 <p>Ea îl privea uimită.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="64">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>64</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>64</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA III</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA III</head>
       <div type="section" n="2">
-<p>CAP. II</p>
-<p>Declarație de război</p>
+<head>CAP. II. Declarație de război</head>
 <p>— O, îmi sfâșii inima. Ești un mizerabil. N-ai să mă mai vezi niciodată. Dar bagă de seamă! O să mă răzbun teribil.</p>
 <p>își lăsă voalul pe obraz și se duse.</p>
 <p>Da în înserat. Cădea o ploaie măruntă.</p>
@@ -3516,8 +3449,7 @@
 <p>Și, punându-și iară blana pe umeri, se duse.</p>
 </div>
 <div type="section" n="3">
-<p>CAP. III</p>
-<p>Destăinuiri</p>
+<head>CAP. III. Destăinuiri</head>
 <p>După ce petrecu pe Lucy până la ușa cabinetului, Gaston ceru să i se aducă trăsura și, după câteva curse la dispensariile pe care avea obicei să le viziteze zilnic, porunci vizitiului să-l ducă acasă, unde Vladimira îl aștepta neliniștită.</p>
 <p>Cum îl văzu, scoase o exclamare de bucurie.</p>
 <p>— A, veniși în sfârsit! Ai întârziat, și, de câte ori întârzii, sunt îngrijorată.</p>
@@ -3545,19 +3477,18 @@
 <p>— Nimic. Vezi-te cu bunica Suzanei, cere-i pentru mine mâna nepoatei și vei vedea ce spune.</p>
 <p>— Voi știi eu să te apăr.</p>
 <p>— Și aș dori să-ți cer iertare de unele lucruri — reluă Gaston.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="66">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>66</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>66</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA III</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA III</head>
 <div type="section" n="4">
-<p>CAP. IV</p>
-<p>Ură veche; dragoste nenorocită</p>
+<head>CAP. IV. Ură veche; dragoste nenorocită</head>
 <p>„El e acela care voește să depună la picioarele nepoțicii d-tate toate milioanele ce i le-a lăsat tat-său.</p>
 <p>— Sarbas! — repetă bătrâna, ridicând brațele-i slăbite spre cer. Niciodată,  doamnă, niciodată Suzana n-ar putea iubi pe fiul omului aceluia. O, o cunosc bine și-i știu mai dinainte răspunsul.</p>
 <p>— Doamnă, eu sunt văduva lui Sarbas — zise Vladimira — și am dreptul să știu ce aveți să-i imputați.</p>
@@ -3603,8 +3534,7 @@
 <p>Rusoaica îi văzu silueta grațioasă pierind în ceață și se înapoie cu inima sfâșiată, la trăsură.</p>
 </div>
 <div type="section" n="5">
-<p>CAP. V</p>
-<p>Întâlnire</p>
+<head>CAP. V. Întâlnire</head>
 <p>Intră la Gaston înainte de masă. Tânărul ședea lângă foc, gânditor, cu capul plecat. Cum o zări, alergă spre ea cu mâinile întinse, dar își astâmpără repede avântul în fața figurii ei sobre.</p>
 <p>— Ei ce? — întrebă el. Mi-aduci o știre bună?</p>
 <p>Vladimira nu răspunse.</p>
@@ -3620,19 +3550,18 @@
 <p>— Mi s-au făcut amarnice imputări, care m-au dezarmat, deși eram gata să te apăr cu toată ener]gia, am tăcut.</p>
 <p>— Se vede că bunica Suzanei refuză să consimtă la unirea ce visăm.</p>
 <p>— Chiar ea. Hotărârea ei mi s-a părut irevocabilă, și nici Suzana nu se va mărita fără aprobarea bunicii.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="67">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>67</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>67</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA III</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA III</head>
       <div type="section" n="5">
-<p>CAP. V</p>
-<p>Întâlnire</p>
+<head>CAP. V. Întâlnire</head>
 <p>— S-a isprăvit dar? Suzana nu vrea să știe de mine?</p>
 <p>— N-aș putea spune asta, deoarece te iubește.</p>
 <p>— Mă iubește?</p>
@@ -3689,19 +3618,18 @@
 <p>— Vasăzică s-a golit punga — exclamă zgripțuroaica.</p>
 <p>— Cu totul, nu mai am nimic.</p>
 <p>— He, asta are haz! Ce ne facem? N-ai nimic și nici nu mai cânți.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
       </div>
    </div>
    <div type="part" n="68">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>68</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>68</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA III</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA III</head>
       <div type="section" n="5">
-<p>CAP. V</p>
-<p>Întâlnire</p>
+<head>CAP. V. Întâlnire</head>
 <p> Măcar de ți-ar reveni vocea, dar văd că nu revine deloc. Tușești toată noaptea și nici nu te îngrijești măcar.</p>
 <p>— La ce nevoie? — replică artista cu tristețe. Nu mi-e frică de moarte.</p>
 <p>— Dar ne e frică nouă. N-avem poftă să murim de foame. Dar tu ești egoistă, nu te gândești decât la tine.</p>
@@ -3760,19 +3688,18 @@
 <p>— N-o mai iubesc.</p>
 <p>— Nu te cred.</p>
 <p>— Nu simt ură împotriva ei, și n-aș putea explica sentimentul ce—l am pentru dânsa, atâta e limpede că n-o mai iubesc.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
       </div>
    </div>
    <div type="part" n="69">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>69</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>69</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA III</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA III</head>
       <div type="section" n="5">
-<p>CAP.V</p>
-<p>Întâlnire</p>         
+<head>CAP.V. Întâlnire</head>         
 <p>Vezi, Gaston, viața n-a fost atât de bună cu mine și, cu toate astea, am fost născută să fiu fericită. În fiecare seară eu și cu Suzana adormeam într-un leagăn de mătase. O femeie vrednică și nobilă veghea asupra noastră: bunica scumpă, care ne punea să ne rugăm în toate dimineațiie și serile. Apoi, într-o zi, toată fericirea aceasta a pierit și am fost despărțită de ființele dragi.</p>
 <p> Tăcu, nevoind să spună mai mult.</p>
 <p>Gaston se sculă cu inima strânsă.</p>
@@ -3844,19 +3771,18 @@
 <p>— Ne-am înțeles.</p>
 <p>Și se despărțiră.</p>
 <p>Lucy intră într-un restaurant cu reputație, unde luă masa.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="70">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>70</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>70</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA III</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA III</head>
       <div type="section" n="6">
-<p>CAP. VI</p>
-<p>Lanț sfărâmat</p>
+<head>CAP. VI. Lanț sfărâmat</head>
 <p>Apoi, spre a-și omorî timpul, merse de ascultă la operă un act din „Faust” și pe la zece jumătate se înapoiă acasă.</p>
 <p>Servitorii, foarte puțin numeroși acum, se culcaseră. Ea străbătu coridoarele pustii și intră în salonaș. De când plecase Jacques, se aruncase în vâltoarea vieții. Tot Parisul de petreceri o cunoștea. </p>
 <p>Pe la unsprezece zbârnăi clopoțelul, și, peste câteva clipe, Said fu introdus la dânsa de o servitoare care tocmai venise din oraș.</p>
@@ -3904,8 +3830,7 @@
 <p>— Ține. Te-am achitat. Du-te acum.</p>
 </div>
 <div type="section" n="7">
-<p>CAP. VII</p>
-<p>Preziceri de viitor</p>
+<head>CAP. VII. Preziceri de viitor</head>
 <p>Ce avea să facă acum spre a despărți pe artistă de Gaston? După toate aparențele, tânărul doctor era amantul Floarei Pădurii</p>
 <p>Și, totuși, ce prietenie curată între dânșii! </p>
 <p>Cu venirea zilelor frumoase, tusea artistei se mai potolise.</p>
@@ -3942,19 +3867,18 @@
 <p>Floarea Pădurii tremura spunând acestea.</p>
 <p>Își aruncase adineauri ochii pe cărți și i se păruse că vede câteva de ,,pica”, ce însemnează: lacrimi, boală, moarte. .</p>
 <p>Plăti cu dărnicie pe Olimpia care se duse.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="71">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>71</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>71</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA III</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA III</head>
       <div type="section" n="7">
-      <p>CAP. VII</p>
-      <p>Petreceri de viitor</p>
+      <head>CAP. VII. Petreceri de viitor</head>
 <p>Lucy o aștepta la câțiva pași de vilă.</p>
 <p>— Vii de la Floarea Pădurii? întrebă ea, apucând-o de braț.</p>
 <p>— Precum vedeți.</p>
@@ -4008,8 +3932,7 @@
 <p>Slujnica o introduse, dar în buduarul din care tocmai ieșise Floarea Pădurii.</p>
 </div>
 <div type="section" n="8">
-<p>CAP. VIII</p>
-<p>Rivale</p>
+<head>CAP. VIII. Rivale</head>
 <p>După câteva minute de așteptare, un pas ușor și foșnet de mătase se auziră pe covorul gros din încăperea vecină. Apoi intră diva. Radia de frumusețe, tinerețe și grație.</p>
 <p>—Privirile celor două femei se încrucișară o clipă și se îngălbeniră.</p>
 <p>Va trimis directorul meu, doamnă? — întrebă Floarea Pădurii.</p>
@@ -4037,19 +3960,18 @@
 <p>O furie surdă o năpădea la gândul luptei înverșunate ce va avea de dus împotriva frumuseței aceleia abia îmbobocite. </p>
 <p>Nu era oare mai bine să caute a mișca inima Divei? încercă. Zise, cu voce emoționată:</p>
 <p>— Fie-ți milă de mine. Nu mă chinui. Gaston nu mi-e amant, da îl iubesc la nebunie. Simt că o să mor de dragostea aceasta.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="72">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>72</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>72</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA III</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA III</head>
       <div type="section" n="8">
-      <p>CAP. VIII</p>
-      <p>Rivala</p>
+      <head>CAP. VIII. Rivala</head>
 <p>Emoționată de durerea aceea așa sinceră, Floarea Pădurii răspunse:</p>
 <p>— Dar, doamnă, Gaston nu mi-e decât prieten, prieten sincer, v-o jur. Și dacă vă mai îndoiți, vă fac cunoscut că iubește pe o adorabilă copilă, inocentă și curată, de o mie de ori mai frumoasă decât mine și decât dumneavoatră.Iubește pe Suzana.</p>
 <p>— Suzana! — repetă Lucy, aproape să leșine.</p>
@@ -4082,9 +4004,8 @@
       
       
 <div type="section" n="1">
-<p>PARTEA A PATRA</p>
-<p>CAP. I</p>
-<p>Agenția Said și Compania</p>
+<head>PARTEA A PATRA</head>
+<head>CAP. I. Agenția Said și Compania</head>
 <p>S-au scurs câteva luni de la evenimentele ce povestirăm.</p>
 <p>Un strat gros de zăpadă acoperea Parisul. Străzile erau pustii, tăcute. O trăsură coti încet după strada Saint-Denis, dispărând apoi în noapte.</p>
 <p>Nu era decât unu după miezul nopții și cu toate astea, nici cea mai mică fâșie de lumină nu străbatea prin ferestrele cafenelelor. Doar felinarele luminau slab covorul de zăpadă. Tăcerea era desăvârsită în cartierul acela comercial în care ziua e atâta zarvă. Birja despre care am pomenit mai sus se opri la numărul 130 din strada Saint-Denis, în dreptul unei case cu înfățișare suspectă.</p>
@@ -4157,15 +4078,14 @@
    </div>
    </div>
    <div type="part" n="74">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>74</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>74</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA IV</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA IV</head>
       <div type="section" n="1">
-      <p>CAP. I</p>
-      <p>Agenția Said și Compania</p>
+      <head>CAP. I. Agenția Said și Compania</head>
 <p>Aș fi fost iubită și adorată.</p>
 <p>Olympia nu luă în seamă imputarea, ci continuă:</p>
 <p>— Mai e apoi și inima de vițel care vă poate aduce pe acela pe care-l iubiți.</p>
@@ -4189,8 +4109,7 @@
 <p>— Da, acesta e și visul meu. Apoi, Lucy se duse.</p>
 </div>
 <div type="section" n="2">
-<p>CAP. II</p>
-<p>De dincolo de mormânt</p>
+<head>CAP. II. De dincolo de mormânt</head>
 <p>A doua zi, Said plecă de la club cum începu să însereze.</p>
 <p>Merse acasă de se înarmă cu un revolver, după care se îndreptă grăbit spre gara Bastillei, unde luă trenul pentru Nogent.</p>
 <p>Era șase.</p>
@@ -4239,19 +4158,18 @@
 <p>— Nu mai încerca să tăgăduiești și crede-mă că nu afirm nimic fără dovezi.</p>
 <p>— ei bine, fie, mărturisec. Dar o femeie m-a împins la crimă.</p>
 <p>— În schimbul unei plăți, bineînțeles.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="75">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>75</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>75</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA IV</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA IV</head>
       <div type="section" n="2">
-      <p>CAP. II</p>
-      <p>De dincolo de mormânt</p>
+      <head>CAP. II. De dincolo de mormânt</head>
 <p>— Mi-a dat cinci sute de franci.</p>
 <p>Un zâmbet de dispreț flutură pe buzele lui Vlasian.</p>
 <p>— Să uităm tot trecutul. Nu d-tale trebuie să-ți cer socoteală. Vreau să găsesc pe Lucy, ca s-o pedepsesc.</p>
@@ -4317,19 +4235,18 @@
 <p>— Ba rămân aici.</p>
 <p>— Preferi să aștepți pe Vlasian?</p>
 <p>— Mă privește.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
          </div>
    </div>
    <div type="part" n="76">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>76</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>76</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA IV</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA IV</head>
       <div type="section" n="2">
-      <p>CAP. II</p>
-      <p>De dincolo de mormânt</p>
+      <head>CAP. II. De dincolo de mormânt</head>
 <p>— Zi mai bine că tot mai ești îndrăgostită de Gaston Sarbas și din cauza lui ții să rămâi la Paris.</p>
 <p>— Ce-ți pasă?</p>
 <p>— Pentru ce-l tot urmărești? El iubește pe o fată frumoasă, de douăzeci de ani. O știe toată lumea.</p>
@@ -4354,8 +4271,7 @@
 <p>Acolo era aproape de graniță și, la cea mai mică vâlvă, putea să se refugieze în Italia.</p>
 </div>
 <div type="section" n="3">
-<p>CAP. III</p>
-<p>Vis realizat</p>
+<head>CAP. III. Vis realizat</head>
 <p>Floarea Pădurii părăsise cu mare regret vila de la Bellevue, instalându-se din nou în apartamentul din bulevardul Haus-mann. Își recăpătase vocea, dar sănătatea, cu toate îngrijirile, era tot așa de șubredă. Țața Fossard își reluase autoritatea și cheltuia în voie toți banii pe care îi câștiga cântăreața.</p>
 <p>Fire foarte dezinteresată, Floarea Pădurii îi dădea fără socoteală, tot ce-i cerea.</p>
 <p>Într-o dimineață, Gaston, venind mai devreme ca deobicei, o găsi încă culcată. Ea se sculă imediat cum i se anunță vizita lui. Își puse în grabă un capot și trecu în budoar. El privi lung, fără să vorbească.</p>
@@ -4406,19 +4322,18 @@
 <p>— Domnișoara Belon? </p>
 <p>— Etajul al patrulea, ușa din fundul coridorului.</p>
 <p>Marcela urcă încet scara.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
    </div>
       </div>
    <div type="part" n="77">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>77</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>77</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA IV</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA IV</head>
       <div type="section" n="3">
-      <p>CAP. III</p>
-      <p>Vis realizat</p>
+      <head>CAP. III. Vis realizat</head>
 <p>Picioarele îi tremurau acum.</p>
 <p>În dreptul unei uși citi firma aceasta:</p>
 <p>Lecții de solfegiu și pian</p>
@@ -4482,19 +4397,18 @@
 <p>Și, aruncându-se în brațele divei, o strânse cu pasiune.</p>
 <p>Artista spuse:</p>
 <p>— De acum nu ne vom mai despărți.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
       </div>
    </div>
    <div type="part" n="78">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>78</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>78</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA IV</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA IV</head>
       <div type="part" n="3">
-      <p>CAP. III</p>
-      <p>Vis realizat</p>
+      <head>CAP. III. Vis realizat</head>
 <p>Tu ai să te măriți și vei fi fericită. Iubește pe Gaston, iubește din tot sufletul! Acum te pot întreba pentru ce l-ai respins.</p>
 <p>— Să-ți spun. În copilăria noastră, un om cu numele Sarbas, tatăl lui Gaston, uitând de serviciile ce i s-au făcut, a declarat pe tata falit, aducându-ne pe toți la ruină. Bunica noastră, sfântâ care s-a stins în brațele mele, nu i-a iertat-o niciodată. Ura pe Sarbas din tot sufletul și era fatal ca ura ei să se răsfrângă și asupra fiului.</p>
 <p>— Copiii nu sunt răspunzători de greșelile părinților — obiectă Marcela.</p>
@@ -4509,8 +4423,7 @@
 
 </div>
 <div type="section" n="4">
-<p>CAP. IV</p>
-<p>Nimeni nu moare de bucurie</p>
+<head>CAP. IV. Nimeni nu moare de bucurie</head>
 <p>Marcela plângea ,emoționată.</p>
 <p>— Vii cu mine, chiar acum— zise ea.</p>
 <p>— La tine, scumpă surioară?</p>
@@ -4563,19 +4476,18 @@
 <p>Adeseori, pe când se simțea mai rău, chema lângă ea pe nepoată-sa și, în dorința de a o iscodi, spre a provoca o spovedanie intimă, îi vorbise cu blândețe de Gaston.</p>
 <p>Dar întotdeauna Suzana păstrase desăvârșit mutism, și bunica nu mai stăruise. Amintindu-și, acum, de toate acestea, fata pricepea care a fost ultima dorință a muribundei.</p>
 <p>Până a nu muri, „patroana” iertase pe Sarbas, iertase pe toți.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="79">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>79</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>79</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA IV</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA IV</head>
       <div type="section" n="4">
-      <p>CAP. IV</p>
-      <p>Nimeni nu moare de bucurie</p>
+      <head>CAP. IV. Nimeni nu moare de bucurie</head>
 <p>De sub abajurul de mătase verde, lampa resfrângea pe mobilele de lac reflecțiii aurii. Niciun zgomot nu pătrundea până la Suzana.</p>
 <p>Echipajele ce treceau pe calea Gabriel se afundau pe prundișul udat de ploaie.</p>
 <p>Fără scârțâitul produs de o poartă care se deschise și închise, ar fi domnit cea mai adâncă, tăcere.</p>
@@ -4609,8 +4521,7 @@
 <p>Și el sărută cu înflăcărare mânuțele Suzanei, exprimându-i toată dragostea într-o privire plină de duioșie. Dânsa nu se mai înapoiă în strada Clovis, ci se instală la Vladimira.</p>
 </div>
 <div type="section" n="5">
-<p>CAP. V</p>
-<p>În urmărire</p>
+<head>CAP. V. În urmărire</head>
 <p>Lucy nu părăsise bine casa ce ocupa pe bulevardul Strasbourg, când apăru George Vlasian</p>
 <p>— Doamana contesă de Clerc? — întrebă el pe portar.</p>
 <p>— Doamna contesă de Clerc ? A plecat chiar azi dimineață</p>
@@ -4647,19 +4558,18 @@
 <p>— Altceva?</p>
 <p>— Azi dimineață, dumnea ei care de obicei, nu se scoală decât foarte târziu, a fost pe picioare devreme de tot. Tocmai urcam scara când am văzut-o coborând. Părea tristă și, eu întrebând-o dacă a dormit bine, abia dacă mi-a răspuns. Mă uitai la ea cu coada ochiului. Avea o gentuță în mână. Aha, am înțeles, îmi zisei eu, se duce la Muntele-de-Pietate.</p>
 <p>Vlasian începu să râdă.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
    </div>
    </div>
    <div type="part" n="80">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>80</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>80</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA I</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <p>PARTEA IV</p>
       <div type="section" n="5">
-      <p>CAP. V</p>
-      <p>În urmărire</p>
+      <head>CAP. V. În urmărire</head>
 <p>— Da, domnule, s-o știi, femeile astea se duc regulat acolo la fiecare sfârșit de lună, și contesa de Clerc a fost adeseori acolo, în ascuns. Ea ne vestise că pleacă în ziua aceea, și patronul, din prudență, mă puse s-o urmăresc. De! Cu femeile astea te poți aștepta la orice. Mă luai, dar, după ea. Apucă pe bulevarde și se îndreptă spre piața Roquettei. Coti pe stânga, în direcția cimitirului, Pere Lachaise, merse pe o stradă, apoi pe alta, și uite-o la Munte, în dreptul unui ghișeu în fața căruia întinse un teanc de hârtii de bancă.</p>
 <p>— Eu mă pitii prin mulțime și o observam cu atenție.</p>
 <p>— Ai fi un excelent polițist. Urmează!</p>
@@ -4728,20 +4638,19 @@
 <p>După trecerea lor vei ști tot ce dorești să știi</p>
 <p>Luă o foaie de hârtie și scrise după dictarea lui Vlasian:</p>
 <p>Jules Belon, șapte zeci și doi de ani</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
          </div>
    </div>
    
    <div type="part" n="81">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>81</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>81</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA IV</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA IV</head>
       <div type="section" n="5">
-      <p>CAP. V</p>
-      <p>În urmărire</p>
+      <head>CAP. V. În urmărire</head>
 <p>„Doamna Vlasian, aceeași vârstă.”</p>
 <p>„Marcela si Suzana Vlasian, douăzeci de ani.</p>
 <p>— Domnule prefect — făgădui George — voi răsplăti larg pe agenții care vor descoperi familia pe care o caut.</p>
@@ -4807,19 +4716,18 @@
 <p>— Mizerabilo ... mizerabilo! </p>
 <p>Și mâna lui se abătu asupra Lucyei.</p>
 <p>— Aș putea să te ucid ca nimeni să observe dispariția ta, și te-aș ucide fiindcă minți.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
       </div>
    </div>
    <div type="part" n="82">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>82</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>82</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA IV</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA IV</head>
       <div type="section" n="5">
-      <p>CAP. V</p>
-      <p>În urmărire</p>
+      <head>CAP. V. În urmărire</head>
 <p>Minți, ca să mă chinuiești, ca să strecori îndoiala în sufletul meu. Da, minți!... Și, când îmi voi revedea fiicele, voi găsi cu siguranță pe chipurile lor trăsături de-ale neamului Vlasian.</p>
 <p>Lucy stă sfidătoare.</p>
 <p>George adăugă, cu același accent amenințător:</p>
@@ -4847,8 +4755,7 @@
 <p>Ea rânjea, la gândul că, cu o vorbă, ar fi putut face fericit pe omul acela. iar mizerabila tăcu, preferând să moară de foame decât să aducă un zâmbet pe buzele lui. Vlasian îi aduse alimentele necesare și o lăsă singură.</p>
 </div>
 <div type="section" n="6">
-<p>CAP.VI</p>
-<p>Pe câmpul de odihnă</p>
+<head>CAP.VI. Pe câmpul de odihnă</head>
 <p>El luă chiar în acea seară acceleratul de Paris. Cum sosi acolo, primul lui gând fu să meargă la prefectură. </p>
 <p>Prefectul îl primi îndată.</p>
 <p>— Tocmai voiam să-ți telegrafiez să te înapoiezi. E ceva nou. Ți-am găsit copiii. Am însă o știre tristă.</p>
@@ -4888,19 +4795,18 @@
 <p>— Da, și te-am plâns.</p>
 <p>— Voința lui Dumnezeu a fost, însă, ca să nu mor.</p>
 <p>Și George povesti pe scurt evenimentele din noaptea tragică în care fusese aruncat în mare de un om tocmit de Lucy.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
    </div>
    </div>
    <div type="part" n="83">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>83</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>83</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA IV</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA IV</head>
       <div type="section" n="6">
-      <p>CAP. VI</p>
-      <p>Pe câmpul de odihnă</p>
+      <head>CAP. VI. Pe câmpul de odihnă</head>
 <p>Îi povesti cum a scăpat, fiind scos, aproape cadavru, de niște pescari.</p>
 <p>— Prădat de banii ce-i aveam asupra mea de oamenii care mă scăpaseră fui nevoit să fac muncile cele mai aspre. Timp de doi ani fusei hamal. Mai fi întâlnit în porturi ducând în spinare greutăți colosale. Și viața asta dură patru ani. Patru ani de mizerie neagră, înspăimântătoare. De câte ori nu crezi că mi-a venit ideea de a mă sinucide, de a mă arunca în marea care mai era odată să mă înghită. Dar, în lupta asta teribilă, amintirea voastră mă susținea, redându-mi curajul.</p>
 <p>— N-ai scris niciodată — îl dojeni Jules.</p>
@@ -4946,8 +4852,7 @@
 <p>Cele două surori scoaseră un țipăt: unul din acele țipete pornite din inimă. Și amândouă căzură în brațele lui George. Sărmana moartă îi adunase pe toți în fața mormântului abia închis.</p>
 </div>
 <div type="section" n="7">
-<p>CAP. VII</p>
-<p>La vila „Speranța”</p>
+<head>CAP. VII. La vila „Speranța”</head>
 <p>De doua zile Marcela nu se mai înapoiase în bulevardul Haussmann.</p>
 <p>Țața Fossard, foarte intrigată și, totodată, neliniștită, se dusese la Opera-Comică să se intereseze de motivele lipsei ei.</p>
 <p>Numele divei care trebuia să cânte chiar în seara aceea la Haydea fusese scos de pe afiș și spectacolul se schimbase.</p>
@@ -4958,19 +4863,18 @@
 <p>Marcela îi înștiințase de cele întâmplate și frumoasa rusoaică simți o mare bucurie.</p>
 <p>O umbră însă întuneca fruntea lui Gaston...</p>
 <p>Vedea piedici ridicându-se deodată în fața unirii ce visa.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="84">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>84</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>84</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA IV</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA IV</head>
       <div type="section" n="7">
-      <p>CAP. VII</p>
-      <p>La villa „Speranța”</p>
+      <head>CAP. VII. La villa „Speranța”</head>
 <p>Suzana, deasemenea, cu toată bucuria, era oarecum neliniștită de hotărârea pe care ar fi fost s-o ia tat-său.</p>
 <p>Ce va spune el când îi va mărturisi amorul ei pentru fiul lui Sarbas?</p>
 <p>Floarea Pădurii gusta dar singură, pe deplin, fericirea ce-i hărăzise cerul.</p>
@@ -5006,8 +4910,7 @@
 <p>— O, da, tată!</p>
 </div>
 <div type="section" n="8">
-<p>Cap. VIII</p>
-<p>Reglare de socoteli</p>
+<head>Cap. VIII. Reglare de socoteli</head>
 <p>După ce diva fu la Operă, unde avu o lungă convorbire cu directorul asupra rezilierii angajamentului, se îndreptă spre locuința ce ocupa pe bulevardul Haussmann, unde trebuiau să vie și Vlasian și Suzana.</p>
 <p>Tața Fossard o aștepta.</p>
 <p>— Veniși în sfârșit!— exclamă ea.</p>
@@ -5043,19 +4946,18 @@
 <p>— Vine imediat. De aia mă și zăbovesc cu pregătirile de călătorie, și chiar mă mir că nu e aici. Fii liniștită însă. Se vede că o fi întârziind  din cauza consultațiilor. Am fost și la Vladimira și am vorbit mult de tine. Gaston te adoră. Vei fi fericită.</p>
 <p>— Dar tata are ceva împotriva neamului Sarbașilor.</p>
 <p>De câte ori aude acest nume se îngălbenește.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
    </div>
    </div>
    <div type="part" n="85">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>85</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>85</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA IV</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA IV</head>
       <div type="section" n="8">
-      <p>CAP. VIII</p>
-      <p>Reglare de socoteli</p>
+      <head>CAP. VIII. Reglare de socoteli</head>
 <p>Dar Gaston, care-i cel mai cinstit și mai bun băiat pe căre îl poți găsi, trebuie oare făcut răspunzător de actele tatălui său?</p>
 <p>— Nu, Suzănico dragă.</p>
 <p>— Și Jules îmi va pleda cauza, nu-i asa?</p>
@@ -5103,8 +5005,7 @@
 <p>El se retrase, fără să mai fi văzut pe Suzana. Se urcă în trăsură și porunci vizitiului să-l ducă în calea Gabriel, unde Vladimira, foarte liniștită, îl aștepta.</p>
 </div>
 <div type="section" n="9">
-<p>CAP. IX</p>
-<p>Lacrimi...</p>
+<head>CAP. IX. Lacrimi...</head>
 <p>După trăsăturile alterate ale lui Gaston, Vladimira înțelese ce se petrecuse.</p>
 <p>— Ei bine? — zise ea venind spre dânsul, cu mâinile întinse.</p>
 <p>— Totul s-a sfârșit, totul s-a sfârșit în adevăr; nu-mi mai rămâne nicio speranță!</p>
@@ -5126,19 +5027,18 @@
 <p>Nemișcat înaintea ei, el lăsă în jos capul.</p>
 <p>Noaptea se cobora încetul cu încetul.</p>
 <p>Un servitor veni să aprindă lămpile.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
    </div>
    </div>
    <div type="part" n="86">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>86</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>86</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA IV</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA IV</head>
       <div type="section" n="9">
-      <p>CAP. IX</p>
-      <p>Lacrimi....</p>
+      <head>CAP. IX. Lacrimi....</head>
 <p>Calea Gabriel era la acea oră pustie și tăcută. Gaston se apropie de o fereastră și-și lipi fruntea de geamul înghețat. Într-însul clocotea revolta, pe când din privirile lui țâșneau fulgere de mânie</p>
 <p>Stătu mult timp astfel, cu ochii fixați asupra parcului singuratic și a căii pustii, care se întindea departe, luminată, de ambele părți de puternice becuri electrice.</p>
 <p>Vladimira, așezată pe un scăunel, aproape de sobă, din care un foc vioi răspândea o căldură moleșitoare, stă gânditoare, cu frumosul ei cap sprijinit între mâini. Ceea ce o impresionă atât era mâhnirea lui Gaston.</p>
@@ -5184,19 +5084,18 @@
 <p>Și, căzând la picioarele frumoasei rusoaice, el își lăsă încet capul pe genunchii ei, plângând.</p>
 <p>— Plângi, plângi! — îi zise ea; lacrimile ușurează. Plângi, Gaston! </p>
 <p>Ea își amintea, de asemeni, de lacrimile vărsate în mica locuință de la Kichompré, departe, acolo, în singurătatea Vosgilor. Odinioară, aceeași durere îi sfâșiase și ei inima.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
          </div>
    </div>
    <div type="part" n="87">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>87</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>87</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA IV</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA IV</head>
       <div type="section" n="10">
-      <p>CAP. X</p>
-      <p>Plecarea</p>
+      <head>CAP. X. Plecarea</head>
 <p>Mâhnirea lui Gaston reînviă în inima Vladimirei multe amintiri dureroase care în momentul acesta îi stăpâneau gândurile.</p>
 <p>Desigur că nu uitase încă nimic; își amintea de disperarea ei când Jacques de Clerc o părăsise, preferând în locul ei altă femeie.</p>
 <p>Gaston însă nu era torturat de această îndoită durere; el știa că e iubit.</p>
@@ -5250,19 +5149,18 @@
 <p>Se așezară la masă. Jules, care de asemenea urma să plece cu ei, veni cel din urmă și luă și dânsul parte la cină. Întinerit parcă cu douăzeci de ani, stă drept, râzând și încercând a descreți frunțile tinerelor fete, care abia mâncau. De dimineață se dusese să mulțumească tuturor patronilor săi. Puțina marfă ce mai rămăsese fu vândută pe un preț de nimic. Sărmanul bătrân era încântat! Va putea în sfârșit să se odihnească, să fie fericit.</p>
 <p>O oră după aceea, acceleratul P. — L. — M. — îi ducea pe toți spre Nisa.</p>
 <p>Și țața Fossard, rămasă acum singură, făcea inventarul lucrurilor pe care Marcela i le lăsase cu multă dărnicie.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
    </div>
    <div type="part" n="88">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>88</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>88</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA IV</p>      
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA IV</head>      
 <div type="section" n="11">
-<p>CAP. XI.</p>
-<p>În captivitate</p>
+<head>CAP. XI.În captivitate</head>
 <p>După ce fu închisă, Lucy începu să strige, cerând ajutor. Lovea cu puterea ce-i dădea disperarea, în ferestre, în uși și ziduri, căutând în zadar o ieșire spre a fuge; deasemenea, în locurile acelea, pustii și nelocuite, nimeni nu o putea auzi. Ea rătăci ca nebuna prin subsol. </p>
 <p>În nopțile în care somnul nu se apropia de ea, stă în picioare, ore întregi, cu fruntea lipită de ferestrele zăbrelite ale tristei închisori, căutând să zărească un colț de cer albastru.</p>
 <p>De câte ori nu asculta, tremurând de arzătoare nerăbdare mii de zgomote nedefinite care se pierdeau misterios în tăcerea nopții.</p>
@@ -5318,19 +5216,18 @@
 <p>— O, izbucni Lucy — mizeria, mizeria!</p>
 <p>O cuprinse frica acum.</p>
 <p>— Și de aceea îți voi reda libertatea — reluă Vlasian.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
    </div>
    </div>
    <div type="part" n="89">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>89</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>89</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA IV</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA IV</head>
       <div type="section" n="11">
-      <p>CAP. XI</p>
-      <p>În captivitate</p>  
+      <head>CAP. XI. În captivitate</head>  
 <p>Ispășirea nu a venit încă, dar nu va întârzia.</p>
 <p>— Ah, puțin îmi pasă. Să fiu liberă, să fiu liberă — zise ea printre dinți. Să mă duc departe, foarte departe, peste mări; să nu vă mai mai văd, să nu vă mai aud.</p>
 <p>Și învinsă de data aceasta, căzu zdrobită pe un scaun, cu capul intre mâini.</p>
@@ -5358,8 +5255,7 @@
 <p>La gândul acesta, cu toate suferințele ce-i pricinuise denaturata mamă, simțea inima sfâșiindu-i-se de durere.</p>
 </div>
 <div type="section" n="12">
-<p>CAP. XII</p>
-<p>Încercare de evadare</p>
+<head>CAP. XII. Încercare de evadare</head>
 <p>Putea oare sa părăsească pe acea femeie care era mama ei, s-o lase să piară în închisoarea aceea nesănătoasă?</p>
 <p>Se hotărî s-o scape cu orice preț. Toată ziua se gândea la mijloacele ce ar putea întrebuința pentru aceasta.</p>
 <p>Și, ca și când Lucy ar fi presimțit generoasa hotărâre luată de Marcela, plânsetele si strigătele de ajutor de veniră din ce în ce mai dese și mai puternice.</p>
@@ -5395,19 +5291,18 @@
 <p>Luna răspândea o lumină în juru-i, inundând cu raze argintii mobilele și întreaga încăpere.</p>
 <p>Ascultă.</p>
 <p>Niciun zgomot nu se auzea în casă; toți dormeau adânc. Numai un vânt ușor murmura printre frunzele copacilor din parc.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
    </div>
    </div>
    <div type="part" n="90">
-      <p>FOIȚA ZIARULUI „UNIVERSUL”</p>
-      <p>90</p>
-      <p>FEMEIE FĂRĂ SUFLET</p>
+      <head>FOIȚA ZIARULUI „UNIVERSUL”</head>
+      <head>90</head>
+      <head>FEMEIE FĂRĂ SUFLET</head>
       
-      <p>MARE ROMAN DRAMATIC</p>
-      <p>PARTEA IV</p>
+      <head>MARE ROMAN DRAMATIC</head>
+      <head>PARTEA IV</head>
       <div type="section" n="12">
-      <p>CAP. XII</p>
-      <p>Încercare de evadare</p>
+      <head>CAP. XII. Încercare de evadare</head>
 <p>Era ora când totul se odihnea.</p>
 <p>Marcea simți un fior străbătându-i corpul. Nopțile sunt reci prin locurile acelea și foarte adeseori fatale pentru cei care suferă de piept.</p>
 <p>Se gândea:</p>
@@ -5476,7 +5371,7 @@
 <p>Ajunse lângă grilaj, cele două femei se opriră, cu frunțile pline de sudoare.</p>
 <p>O teamă le cuprinse.</p>
 <p>Dintr-o săritură Lucy fu lângă poartă, pe care încercă s-o deschidă.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
       </div>
       </div>
    <div type="part" n="91">
