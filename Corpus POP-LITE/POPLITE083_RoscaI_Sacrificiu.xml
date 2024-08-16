@@ -39,12 +39,12 @@
                <pubPlace>Otravița</pubPlace>
               <publisher>EDITUBA LIBRĂRIEI I. E. ȚIERANU</publisher>
                <date>1881</date>
-               <decoNote type="ilustratii" subtype="no"/>
-               <dim unit="char" type="mare"/>
+               <decoNote type="illustration" subtype="no"/>
+               <dim unit="char" type="big"/>
                <extent>
                   <measure unit="word">9713</measure>
                   <measure unit="page" type="under_250"/>
-                  <measure unit="foileton" type="under_65"/>
+                  <measure unit="feuilleton" type="under_65"/>
                   <measure type="complete"></measure>
                </extent>
             </bibl>
@@ -64,16 +64,16 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="5"/>
-               <term type="republicare" n="2"/>
+               <term type="reception" n="5"/>
+               <term type="print_count" n="2"/>
                <term type="finished"></term>
             </keywords>
          </textClass>
       </profileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
             <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
             <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
          </projectDesc>
@@ -98,8 +98,8 @@
     </front>
    <body>
 <div type="chapter">
-<p>Sacrificiu pentru sacrificiu.</p>
-<p>Prolog.</p>
+<head>Sacrificiu pentru sacrificiu.</head>
+<head>Prolog.</head>
 <p>Primăvara se ivise prea de timpuriu și, deși abia în aprilie, viața de oraș devenise aproape nesuferită și locuitorii capitalei se întreceau să emigreze, precum toamna păsările călătoare care fug la apropierea iernii.</p>
 <p>Obișnuit să părăsesc în toți anii Bucureștiul pentru câtva timp, tocmai mă gândeam în ce parte mi-aș fi putut îndrepta pașii, când amicul meu Aureliu Mugurelu veni să mă invite ca a doua zi să fiu gata de a-1 însoți la Mugurel, în sânul familiei sale, anunțând, totodată și apropiata lui cununie cu domnișoara Sofia Dumbrăveanu, al cărei logodnic știam că era.</p>
 <p>Propunerea lui venea tocmai la timp și, prin urmare, înțelegeți că nu mi-a trecut câtuși de puțin prin minte să n-o primesc, iar a doua zi, în revărsatul zorilor, părăsirăm Bucureștiul.</p>
@@ -113,7 +113,7 @@
 <p>Dar o întâmplare îngrozitoare era menită să tulbure pentru un moment liniștea acestei vieți câmpenești. Cititorii vor afla-o din capitolele ce urmează și prin care am încercat a reproduce, pe cât mi-a stat în putință, fazele acestei drame ale cărei pregătiri nimeni nu le-a putut observa, fiind toți distrași cu diferitele ocupatiuni și preparative reclamate de nunta Sofiei, și care dramă poate niciodată n-ar fi fost subiectul unei scrieri, fără stăruitorea învoire a eroilor ei.</p>
 </div>
  <div type="chaper" n="1">
-<p>I.</p>
+<head>I.</head>
 <p>Adesea sub aparențele cele mai liniștite se ascund dramele cele mai îngrozitoare, precum în petalele pline de farmec ale unei flori parfumate zace ucigătoarea otravă și în fundul cristalinelor fântâne ale unul oaze, călătorul obosit și înșelat care dorește să soarbă o picătură din apa cea răcoritoare, zăreșce crocodilul înspăimântător.</p>
 <p>Astfel era la Dumbrăveni, un cătun pitoresc, plin de amor și poezie, care se răsfăța la poalele munților, pe plaiul mănos și sub cerul de azur al României.</p>
 <p>Era în Mai, luna florilor, a parfumurilor și a dragostelor. Munții, văile, codrii, și în sfârșit toată natura, răsunau de cântece: munții de cavalele triste, ale păstorilor ce se tânguiau de dor; văile de glasurile argentine ale copilelor îndrăgostite ce încredințau vânturilor tainele lor; codrii de cântecelele păsărilor ce măreau dumnezeirea și în sfârșit toată natura de miile de ținuturi misteriose ce te fac să te oprești în loc căutând în zadar să ghicești de unde își iau nașterea. Chiar și una din numeroasele alei ale grădinii proprietarei răsunau de accentele melodiose, dar jalnice, ale unei voci femeiești.</p>
@@ -149,7 +149,7 @@
 <p>Ea, Matilda, într-o mână avea o carte: era Werther de Goethe; în cealaltă ținea o batistă cu care își ștergea lacrimile.</p>
 </div>
  <div type="chaper" n="2">
-<p>II.</p>
+<head>II.</head>
 <p>După câteva momente petrecute într-o mută contemplare, Matilda răsfoi cartea ce o ținea în mână.</p>
 <p>Nimeri tocmai acolo unde Werther, plin de emoție, citea Charlottei, cu o voce întreruptă, pasajul acesta din Ossian:</p>
 <p>„Suflare a primăverii, de ce me deștepți? Tu mă dezmierzi și-mi zici: Râuri cu picături din cer. Dar timpul ofilirii mele e aproape, că-ci aproape e furtuna care o să îmi smulgă frunzele! Mâine va veni călătorul, va veni acela care m-a văzut în frumusețea mea; ochiul său mă va căuta pe câmp de jur împrejur și nu mă va mai găsi”</p>
@@ -169,7 +169,7 @@
 <p>Dar asta este soarta muritorilor! Totul, până chiar și Dumnezeirea, pare că râde de nenorocirile noastre!</p>
 </div>
  <div type="chaper" n="3">
-<p>III.</p>
+<head>III.</head>
 <p>Credeam că, în timp ce Matilda va sta absorbită în negrele gândiri ce-o frământau, e bine ca cititorii să facă o cunoștință puțin mai întinsă cu dânsa.</p>
 <p>S-au făcut atâtea descrieri și atâtea comparații despre portretele eroinelor de romane, încât foarte cu greu am putea să găsim vreo descriere, vreo comparație care să fie ceva nou. Nihil novi sub sole! De aceia, temându-ne să cădem în ghiarele Z o i 1 i 1 o r care n-așteaptă decât să găsească cea mai mică asemănare cu vreo eroină din cutare și cutare autor, ca să strige pe toate tonurile: plagiat! ne vom mulțumi să fim cât se va putea mai comuni și mai simpli, ținându-ne numai și numai în limit ile adevărului.</p>
 <p>Românul are o vorbă care arată desăvârșirea fizică; această vorbă este: frumoasă. Eh, bine!</p>
@@ -211,7 +211,7 @@
 <p>Matilda era poetă: acestea erau însuși accentele inimii sale.</p>
 </div>
  <div type="chaper" n="4">
-<p>IV.</p>
+<head>IV.</head>
 <p>De mult timp Matilda se afla cufundată în dureroasele-i gânduri, când o voce răsunătoare, veselă ca ciripitul celei dintâi rândunele care, sosind primăvara din sânul străinătății, își regăsește cuibul părăsit, s-auzi cântând:</p>
 <p>Mult dorita primăvară</p>
 <p>Se reîntoarce-n scumpa-mi țară;</p>
@@ -263,7 +263,7 @@
 <p>Ajunsă aci, intră în camera ei, așeză buchetele în apă, în niște buchetiere de porțelan, și ieși pentru a se duce în camera Sofiei.</p>
 </div>
  <div type="chaper" n="5">
-<p>V.</p>
+<head>V.</head>
 <p>Cine ar putea să descrie răpitorul tablou ce aici se înfățișă ochilor Matildei? Sora ei, zburdalnica Sofia, se afla înaintea unei mărețe oglinzi de Veneția; mama și mătușa ei, ajutate de o fată din casă, se grăbeau care mai de care să facă tinerei mirese o toaletă care să nu rămână mai prejos de gingășia ei. Aci Sofia, nerăbdătoare, își ridica răpitoarele-i mănușițe rosalbe ferindu-le în undele părului ce-i acopereau acum umerii căzându-i până la picioare, întocmai ca beteala care puțin mai în urmă era să onduleze în valuri de aur pe umerii-i albi ca spuma valurilor, și împiedicând astfel pe cei ce voiau s-o gătescă: aici, dojenită de mama ei cu o seriozitate prefăcută, se lăsa indolentă în voia mâinilor ce-i împleteau cosițele. Numai dumneavoastră, doamnelor, care ați trecut prin această fază, cea mai fericită din viața unei femei, puteți să cuprindeți cu gândul un asemenea tablou ca acela ce se afla dinaintea ochilor Matildei. Numai dumneavoastră puteți să vă închipuiți nerăbdarea, veselia și miile de palpitații ce făcu să se zbată cu putere pieptul tinerei logodnice în ziua nunții.</p>
 <p>Această priveliște, plină de animație, oprise pe Matilda în loc. Ea privi cu admirație, cu o plăcere nedescrisă, scena ce se înfățișa privirii sale. Și cât de scump n-o costa pe dânsa această plăcere! . . . Numai inima ei ar fi putut-o spune și adânca expresie de durere care îndată înlocui trecătorul simulacru al plăcerii de un moment ce se arătase pe fața ei.</p>
 <p>Femeia însă, chiar când credem că e cea mai slabă, adesea e tot cea mai tare. Matilda își porunci să fie veselă și tristețea dispăru sau, mai bine zis, se prefăcu că dispare de pe figura ei.</p>
@@ -281,7 +281,7 @@
 <p>Toate fiind gata, porunciră a se înhăma caii.</p>
 </div>
  <div type="chaper" n="6">
-<p>VI.</p>
+<head>VI.</head>
 <p>Pe când fiecare era ocupat cu câte ceva, Matilda se coborî în curte aruncându-și privirile pe mulțimea argaților care alergau încoace și încolo având fiecare câte o poruncă de împlinit.</p>
 <p>În ochii ei un foc sinistru se vedea arzând; înfățișarea-i arăta o hotărâre neclintită.</p>
 <p>Ea își aținti privirea asupra unuia din argați; acesta era un flăcău chipeș, de o statură înaltă, falnic ca un brad de munte, a cărui cămașă despicată și cu mâneci largi, lăsa să se vadă un piept și niște brațe de atlet: păru-i negru ca și ochii-i plini de vioiciune, îi acopereau umerii cu umbroase plete care fâlfâiau în voia vântului și pe care pocita disciplină militară nu le atinsese încă.</p>
@@ -311,13 +311,13 @@
 <p>— Și Sandu plecă repede îndreptându-se spre mănăstirea Z . . .</p>
 </div>
  <div type="chaper" n="7">
-<p>VII</p>
+<head>VII</head>
 <p>Matilda, rămânând singură, părăsi și dânsa pavilonul spre a reintra în camera ei unde se așeză din nou la mescioara de scris. Condeiul alunecă pe hârtie întipărind pe dânsa ideile ce mintea și inima ei, amândouă tulburate de gravitatea momentului, îi dictau.</p>
 <p>Această scrisoare era destinată pentru Sofia; iaca ce cuprindea:</p>
 <p>„Sofio, iubită surioară, primește binecuvântările ce sufletul meu îți dă mai-nainte de a-și lua zborul de pe pământ. Trebuia negreșit o jertfă care să consfințească fericirea ta, și această jertfă, care trebuie să fiu eu, e gata a se îndeplini; când tu vei citi aceste rânduri ea deja va fi săvârșită. Mor însă veselă, știind că mă sacrific pentru fericirea unui înger ca tine. Mângâie pe părinții noștri și pe mătușa mea de pierderea aceleia care, trăind, ar fi fost o nenorocită stavilă pusă în calea fericirii tale. Primește, odată cu cel din urmă al meu adio, și buchetul pe care l-am format astăzi de dimineață pentru tine. Te înconjor, nu plânge! O mireasă nu trebuie să verse lacrimi, în ziua nunții, lacrimi de durere, ci lacrimi de fericire, mai cu seamă când nici eu, mireasa mormântului, nu plâng scriindu-ți.</p>
 <p>Încă o dată: Adio! Fii fericită!</p>
 <p>Matilda”</p>
-<p>După ce fini, luă buchetul de miosotis și-1 așeză lângă scrisoarea pe care o lăsă deschisă. Apoi se duse la pat, scoase pistolul de unde l-ascunsese și, cu destulă pază și grabă, se strecură din nou în grădină, străbătu din nou aleea cea mare, intră în același pavilion unde cu câteva momente mai-nainte tăinuise cu Sandu, și încuia ușa după dânsa, lăsându-se a cădea, ca zdrobită, pe un scaun.</p>
+<p>După ce fini, luă buchetul de miosotis și-l așeză lângă scrisoarea pe care o lăsă deschisă. Apoi se duse la pat, scoase pistolul de unde l-ascunsese și, cu destulă pază și grabă, se strecură din nou în grădină, străbătu din nou aleea cea mare, intră în același pavilion unde cu câteva momente mai-nainte tăinuise cu Sandu, și încuia ușa după dânsa, lăsându-se a cădea, ca zdrobită, pe un scaun.</p>
 <p>Pavilionul acesta era așezat pe o mică movilă acoperită de o iarbă mătăsoasă de o verdeață minunată; el era construit, din stâlpi de lemn de stejar, ridicați pe o bază octagonală, în care erau prinse locuri și cervele, asemenea de stejar, cu geamuri de diferite culori. Vârfu-i țuguiat, ca al unei glugi de coceni, se pierdea printre brazii cei tineri, îmbrăcișați de iederă, care, înălțându-și măreața frunte cu trufie, iși împreunau ramurile , formându-și astfel o cingătore de verdeață. Înăntru, de jur împrejurul pereților se întindea o laviță imobilă, construită din bucățele de lemn necioplit, prinse una lângă alta; în mijlocul pavilionului se afla o masă înconjurată de șase scaune toate de aceiași construcție pitorească precum era și lavița; pe jos, pardoseala era în parchete. </p>
 <p>Am zis mai sus că Matilda se lăsase a cădea pe un scaun; nu trecură câteva momente, însă și ea începu să cerceteze pistolul. După ce scoase dopul de hârtie ce se afla pus în vârful țevei, ridică cocoșul, — care deja era ridicat la pasul întâi,— la pasul al doilea, și examinându-1 cu atenție: arma era încărcată in toată regula, căci unul dintre obiceiurile domnului Dumbrăveanu, tatăl ei, era și acela de a-și avea întotdeauna armele încărcate.</p>
 <p>După aceea ridică unealta ucigătoare la înălțimea pieptului. Gata încă a o descărca, mâna îi tremură. Sărmana Matilda! Până aici nu crczuse că momentul cel din urmă e, totodată, și cel mai teribil din viața omului. Până aici ea privea moartea ca singura vindecare a suferințelor ei; acum însă, când o vedea în față, i se păru fioroasă. Așa este in întotdeauna; ne decidem foarte ușor să facem un lucru, fie chiar și să comitem o crimă; când însă e într-adevăr ca să-1 săvârșim, ezităm.</p>
@@ -325,7 +325,7 @@
 <p>Cu toate acestea, știa că a trăi era pentru dânsa ceva cu mult mai grozav chiar și decât moartea. Așa deci, decizia ce o luase, era luată, și apoi ideea că poate Sandu va fi ajuns la mănăstire și va fi dat scrisoarea la destinație, o întări din nou în hotărârea ce o slăbiră un moment. Da! Sandu poate va fi dat acelui domn Aureliu scrisoarea ce singură era să ridice mai în urmă un colț din vălul ce acoperea misterul pe care Matilda își pusese toate silințele pentru ca să-l țină tăinuit; scrisorea ce era menită să aducă un deznodământ acestei pasionate drame ce se urzea în sânul liniștei aparente a vieții câmpenești de la Dumbrăveni.</p>
 </div>
  <div type="chaper" n="8">
-<p>VIII.</p>
+<head>VIII.</head>
 <p>După ce Matilda sfârșise de a o găti pe Sofia, aceasta o chemară pe mama și pe mătușa sa ca să-și arunce amândouă cea din urmă privire asupra gătelii sale de mireasă, zicând, cu o nespusă grație, Matildei:</p>
 <p>— Acum, dragă surioară, mulțumindu-ți de frumoasa ținută pe care mi-ai făcut-o, te rog ca și tu, la rândul tău, să te duci să te gătești pentru nunta surioarei tale, și fă-te ... și fă-te cât se poate de frumoasă. Știu că nu ai trebuință de adjutorul nimănui, după cum îți place să te gătești întotdeauna singură, cu toate acestea indată voi veni și eu ca să-ți admir găteala.</p>
 <p>Și agățându-se de gâtul ei, o sărutase de mii de ori.</p>
@@ -356,7 +356,7 @@
 <p>Slujitorii, care nu putură înțelege nimic din această scenă ca și mută, stăteau mișcați: buimăciți de groaza ce se vedea întipărită pe fețele stăpânilor lor, nu știa, nici unul din ei, ce trebuie să facă.</p>
 </div>
  <div type="chaper" n="9">
-<p>IX.</p>
+<head>IX.</head>
 <p>în același moment domnul Dumbrăveanu se ivi pe pragul ușii.</p>
 <p>Acesta era un bărbat robust, tipul Românului verde, bine făcut, și plin de o inteligență care pătrundea totul.</p>
 <p>Mirat de priveliștea care i se-nfățișa ochilor, întrebă care era cauza până a nu i se răspunde însă și ca și cum ar fi vrut, să mărească confuzia, o detonare teribilă se auzi înspre partea grădinii, urmată de zgomotul unor geamuri care se  zdrobiseră.</p>
@@ -403,7 +403,7 @@
 <p>Toți, cuprinși de o vie admirație, își plecară frunțile-naintea ei.</p>
 </div>
  <div type="chaper" n="10">
-<p>X.</p>
+<head>X.</head>
 <p>Cititorii noștri, nedumeriți oare de rapida apariție a noului personaj ivit în scenă, ne vor întreba poate:</p>
 <p>— Cine era acest Aureliu și ce relații existau între el și Matilda?</p>
 <p>Ca să putem răspunde la această legitimă întrebare, suntem nevoiți a ne întoarce puțin mai în urmă.</p>
@@ -457,7 +457,7 @@
 <p>Cât despre Sandu, buimăcit și el cu totul de efectul ce produsese scrisorea adusă de dânsul, reluă gânditor drumul spre Dumbrăveni, frământându-se în zadar cu firea ca să-și dea cu socoteală de ceea ce putea să fie scris pe peticul acela de hârtie.</p>
 </div>
       <div type="chapter">
-<p>Epilog.</p>
+<head>Epilog.</head>
 <p>Când două inimi sunt destinate să fie una alteia, nimic nu le poate despărți; și ce putere s-ar opune oare destinului, această divinitate contra decretelor, căreia nici însuși lui Juoe anticii n-au cutezat să-i dea vreo putere?</p>
 <p>Astfel erau Matilda și Aureliu.</p>
 <p>Mugureii și Dumbrăvenii, fiind două proprietăți vecine, cele două familii, Mugurel și Dumbrăveanu, nu formau decât una, căci la țară prietenia e mai sinceră și mai strâns legată decât în orașe, unde ghețoasa etichetă străină a înlocuit curăția simțămintelor românești, înstrăinându-le inimile.</p>
@@ -475,7 +475,7 @@
 <p>În zadar Matilda porunci inimii ei, în zadar Aureliu încercă să înăbușe simțământul redeșteptatei iubiri prin cel al datoriei: ei erau născuți unul pentru altul.</p>
 <p>Am văzut teribila hotărâre ce o luase Matilda numai pentru că, trăind, se simțea necapabilă de a-și putea ucide inima și nu voia ca fericirea surorii sale să fie tulburată. Ea prevedea că și Aureliu care tot se stăpânea, nu va putea fi mai mult stăpân pe sine și nu voia ca iubirea ce Sofia avea pentru el să fie răsplătită prin trădare, și-și alese remediul ce singur putea, după părerea ei, să o facă pe Sofia fericită: sinucidul, blamabil în sine, dar măreț prin cauza ce-o făcea să se hotărască la asta: sacrificiul vieții ei pentru fericirea surorii sale.</p>
 <p>Un devotament mare găsesc întotdeuna imitatori in inimi frumose și dă întotdeauna rezultate fericite; exemplul îl avem în Sofia care știm cum, văzând toată măreția devotamentului Matildei, a renunțat la unirea ei cu Aureliu, și-n fericitul deznodământ al acestei întâmplări, căci nu trecu mult și Matilda fu vindecată de rana ce-și pricinuise: mâna-i de femeie, descărcând arma, tremurase, — țeava pistolului care era îndreptată spre inimă alunecase înlături și glonțul, zburând, trecu pe sub subțioară sfrelindu-i coastele și ieșise afară prin geamurile a căror zdrobire o cauzase. Întremată pe deplin, Matilda și Aureliu primeau binecuvântarea părinților și preotului în aceeași bisericuță a mănăstirii Z... unde era hotărât, cu puțin mai înainte să se săvârșească cununia Sofiei.</p>
-<p>Fine.</p>
+<trailer>Fine.</trailer>
       </div>
   </body>
  </text>
