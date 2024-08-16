@@ -39,12 +39,12 @@
                     <pubPlace>București</pubPlace>
                     <publisher>IMPRIMERIA TH. VAIDESCU</publisher>
                     <date>1864</date>
-                    <decoNote type="ilustratii" subtype="no"/>
-                    <dim unit="char" type="mare"/>
+                    <decoNote type="illustrations" subtype="no"/>
+                    <dim unit="char" type="big"/>
                     <extent>
                         <measure unit="word">30330</measure>
                         <measure unit="page" type="under_250"/>
-                        <measure unit="foileton" type="under_65"/>
+                        <measure unit="feuilleton" type="under_65"/>
                          <measure type="complete"></measure>
                     </extent>
                 </bibl>
@@ -64,16 +64,16 @@
                     <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
                 </keywords>
                 <keywords>
-                    <term type="receptare" n="5"/>
-                    <term type="republicare" n="2"/>
+                    <term type="reception" n="5"/>
+                    <term type="print_count" n="2"/>
                      <term type="finished"></term> 
                 </keywords>
             </textClass>
         </profileDesc>
         <encodingDesc>
             <projectDesc>
-                <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-                <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+                <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+                <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
                 <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
                 <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
                 </projectDesc>
@@ -83,9 +83,8 @@
 <text>
     <front>
         <div type="liminal">
-        <p>RADU AL III-lea CEL FRIMOS</p>
-        <p> BUCUREȘTI</p>
-        <p>CĂTRE LECTORI</p>
+        <head>RADU AL III-lea CEL FRIMOS</head>
+        <head>CĂTRE LECTORI</head>
         <p>Nu vă revoltați Stimabili Lectori, de cutezanța ce am avut de a vă oferi prefața inutilă înșiruitură de litere negre pe hârtie albă, care mai niciodată nu se citește; ceea ce vă ofer nu este pefața, ci dezvoltare istorică.</p>
         <p>Principele ce-mi am ales de erou al acestei modeste nuvele, Radu al III-lea cel frumos, este unul din Domnitorii asupra vieții și caracterului cărora sunt între diversele cronici, opîniile cele mai contradictorii. Unii cronicari îl considera ca fiu al lui Dragu Basarab nepotul lui Țepeș Vodă și frate lui Laiotă Basarabii; alții ca ,frate lui Țepoșu, alții ale lui Țepes și alții în fine îl confundă cu Radu cel mare , socrul și neîmpăcatul înimic al lui Stefan cel mare. Unii îl descriu ca afemăiat corupt, alții ca corupt tiran, alții ca tiran numai, alți ca un principe bun, pacific, dar slab ca și generațiunea în care trăia. Iată contradicțiunile capabile să dispere pe omul cel mai curajos și mai cumpatat !</p>
         <p>Ce ar trebuii să fac? Să aleg opinia celui mai demn de crezut. Asta am si făcut.</p>
@@ -94,6 +93,8 @@
         <p> Al domniei-Voastre devotat</p>
         <p> N.D. POPESCU.</p>
         <p> 1864 Octombrie</p>
+        <p> BUCUREȘTI</p>
+            
         </div>
     </front>
 <body>
@@ -807,9 +808,9 @@
 <p>— Scriptura lui! Strigă Maria desfăcând scrisoarea ce i se dase.</p>
 <p>— Citește, citește și vei vedea cine este Radu D-tale? — D-ar fi căzut trăsnetul lângă dânsa nu ar fi încremenit-o mai rău ca lectura acelei scrisori.</p>
 <p>Iată ce cuprindea:</p>
-<p>„Jupaniță Mario”</p>
-<p>„Mâine mă însor cu fata Căpitanului „Krizea, neam de neam fată de boier, nu ca de al-de noi călcâie crăpate. N-ar fi rău să faci și D-ta ca mine, dacă ai putea încurca în preajma ta vreun fecior de boieru, pentru că nu știu în ce chip am putea roade rugina mojiciei. Vino dar Duminică la cununia mea să vezi ce bine șade modărlanului când se boieresce”.</p>
-<p>„Al D-tale cu plecăciune „Radu Vlad.“</p>
+<p>Jupaniță Mario”</p>
+<p>Mâine mă însor cu fata Căpitanului „Krizea, neam de neam fată de boier, nu ca de al-de noi călcâie crăpate. N-ar fi rău să faci și D-ta ca mine, dacă ai putea încurca în preajma ta vreun fecior de boieru, pentru că nu știu în ce chip am putea roade rugina mojiciei. Vino dar Duminică la cununia mea să vezi ce bine șade modărlanului când se boieresce”.</p>
+<p>Al D-tale cu plecăciune „Radu Vlad.“</p>
 <p>— Nu e cu putință, zise în fine Maria, aruncând scrisoarea jos, nu e cu putință ca aceste cuvinte să iasa din inima lui, nu e cu putința ca el să fie autorul celor ce am văzut.</p>
 <p>— Nu-i cunoști scriptura?</p>
 <p>— Da! Sunt trăsurile mânii lui, dar nu sunt reproducțiunea inimii lui; inima sa e nobilă, frumoasă, încoruptă.</p>
@@ -890,19 +891,19 @@
 <p>— Să trecem la prima convorbire.</p>
 <p>— „Părinte, îmi zise murindul, după ce „am rămas singuri acest sul de hârtie conține „confesiunea mea și tot deodată misterul persoanei mele, ia-l dar nu-l deschide, decât atunci când vei fi foarte departe de acestă mică căsuță și de munții pe care repausă, nu-l desface chiar departe de ai fi, decât peste trei luni de la moartea mea. I-am promis, m-a pus să jur, am jurat și apoi a murit. Ieri au fost trei luni de la moartea sa, Târgoviștea este destul de departe de Cozia; aseară după cele ce convoibirăm, mi-am adus aminte de existența lor, am alergat iute acasă, le-am  desfăcut cu rapiditate și iată ce am citit:</p>
 <p>Zicând aceste vorbe scoase din sân un sul de hârtii și începu a citi. Radu mai mânca ci se apropiase de preotul plin de curiozitate și impaciență.</p>
-<p>„Mă numescu Dan, citi Popa Cozma, sunt fiul lui Vlad I fiul lui Mircea Vodă, al acelui principe atât de bun cu poporul, pe cât era de rău cu rebela nobilime al acelui principe care mânca și bea împeună cu cei mai de jos soldați în bivoacuri și se lupta ca un leu în războaiele independenței patriei sale, al acelui principe care zicea că: „Numai  poporulu este „națiunea, iar  boierul e vermele ce o sapă,că numai poporulu trebuie iubit iar boierul trebuie exterminat.“ Nu știu dacă tatăl meu a avut sau nu dreptate, istoria îl va judeca, știu numai că maica mea, fiică a aristocrației ii iubea pe boieri și începuse uite conduita tatălui meu. Crescut lângă maica mea, dotat cu același caracter, i-am moștenit slăbiciunile, afecțiunile și displăcerile sale. Războiul nu-mi plăcea, eram omul păcii, pentru aceea după ce tatăl meu căzut ucis de turci, eu împreună cu câțiva din servitori precum și cu oarecare avere ne retraserăm în Cetatea Albă din Moldova, lăsând tronul ce trebuia se moștenesc, în dispozitia nenumăraților pretendenți. Dragul fiul al lui Mircea fiu cel mai puternic, el se sui pe tron.“</p>
+<p>Mă numescu Dan, citi Popa Cozma, sunt fiul lui Vlad I fiul lui Mircea Vodă, al acelui principe atât de bun cu poporul, pe cât era de rău cu rebela nobilime al acelui principe care mânca și bea împeună cu cei mai de jos soldați în bivoacuri și se lupta ca un leu în războaiele independenței patriei sale, al acelui principe care zicea că: „Numai  poporulu este „națiunea, iar  boierul e vermele ce o sapă,că numai poporulu trebuie iubit iar boierul trebuie exterminat.“ Nu știu dacă tatăl meu a avut sau nu dreptate, istoria îl va judeca, știu numai că maica mea, fiică a aristocrației ii iubea pe boieri și începuse uite conduita tatălui meu. Crescut lângă maica mea, dotat cu același caracter, i-am moștenit slăbiciunile, afecțiunile și displăcerile sale. Războiul nu-mi plăcea, eram omul păcii, pentru aceea după ce tatăl meu căzut ucis de turci, eu împreună cu câțiva din servitori precum și cu oarecare avere ne retraserăm în Cetatea Albă din Moldova, lăsând tronul ce trebuia se moștenesc, în dispozitia nenumăraților pretendenți. Dragul fiul al lui Mircea fiu cel mai puternic, el se sui pe tron.“</p>
 <p>— Cronica îmi citești părinte ?</p>
 <p>— Ba nu, bine-voiți a nu mă întrerupe și veți înțelege ce înteres conține aceea ce v-am citit.</p>
-<p>„Trăiam prea fericit, urmă citind popa, departe de lumea cea mare, de intrigile și mizeriile sale; la tron nu mă gândeam deloc. Ce bine ar fi fost de nu s-ar fi schimbat lucrurile altfel! Aș fi fost intotdeauna fericit. Acolo mă însurasem cu fiica unui nobil Moldovăn, era o femeie sublimă, o femeie care te făcea să nu mai dorești fericirea paradisului, D-zeu pusese vărful acestei suave beatitutine prin nașterea unui copil, unei copile a maicii sale. Eram nebunui de bucurie, dar fericirea noastră ținu prea puțini atât vechii soldați ăi tatălui meu, atât bătrânii mei servitori căt și o mulțime din aceea care nu se învoiesc cu niciun principe, cărora nici un guvern nu le sunt pe plac, și care găsesc defectele cele mai patriotice și mai eroice domnii, care nu se mulțumesc de nimicul pentru cu nu iubesc nimicii, care totdeauna aleagă la străin, fiind singurii străini; o muulțime din aceste lighioane, zic, se strânseră în jurul meu; începuse sa-mi ațâțe dorința de putere și mărire, de amânunturi drepte si pretenție de a domni, de a mă eșcita contra usurpatorului, de a mă proclama de domn al țării Romănești și de a se arma împreună cu servitorii lor și o mulțime de mărcenări străini, ca să redobândesc tronul pierdut.</p>
-<p>„Deocamdată le refuzau propunerea; din experiență știam ce înseamnă un partizan, azi detronează pe unul și mă pune pe mine, mâine eu sunt detronat și altul mă succedă, ca și el, la cea mai mică, nemulțumire a sfărâmitorilor de tronuri, să dea locul altuia. Ce bine făceam de persistam în acest refuz al omulu din fire e slab, lingușirea este arma care-l învinge mai lesne decât toate armatele unuiversului. Am consimțit, și într-o dimineață prima rază a soarelui m-a văzul cum îmbrățișam pentru ultima oară femeia și copilașulu meu, și cum încălecau ca să alerg la pieire!</p>
+<p>Trăiam prea fericit, urmă citind popa, departe de lumea cea mare, de intrigile și mizeriile sale; la tron nu mă gândeam deloc. Ce bine ar fi fost de nu s-ar fi schimbat lucrurile altfel! Aș fi fost intotdeauna fericit. Acolo mă însurasem cu fiica unui nobil Moldovăn, era o femeie sublimă, o femeie care te făcea să nu mai dorești fericirea paradisului, D-zeu pusese vărful acestei suave beatitutine prin nașterea unui copil, unei copile a maicii sale. Eram nebunui de bucurie, dar fericirea noastră ținu prea puțini atât vechii soldați ăi tatălui meu, atât bătrânii mei servitori căt și o mulțime din aceea care nu se învoiesc cu niciun principe, cărora nici un guvern nu le sunt pe plac, și care găsesc defectele cele mai patriotice și mai eroice domnii, care nu se mulțumesc de nimicul pentru cu nu iubesc nimicii, care totdeauna aleagă la străin, fiind singurii străini; o muulțime din aceste lighioane, zic, se strânseră în jurul meu; începuse sa-mi ațâțe dorința de putere și mărire, de amânunturi drepte si pretenție de a domni, de a mă eșcita contra usurpatorului, de a mă proclama de domn al țării Romănești și de a se arma împreună cu servitorii lor și o mulțime de mărcenări străini, ca să redobândesc tronul pierdut.</p>
+<p>Deocamdată le refuzau propunerea; din experiență știam ce înseamnă un partizan, azi detronează pe unul și mă pune pe mine, mâine eu sunt detronat și altul mă succedă, ca și el, la cea mai mică, nemulțumire a sfărâmitorilor de tronuri, să dea locul altuia. Ce bine făceam de persistam în acest refuz al omulu din fire e slab, lingușirea este arma care-l învinge mai lesne decât toate armatele unuiversului. Am consimțit, și într-o dimineață prima rază a soarelui m-a văzul cum îmbrățișam pentru ultima oară femeia și copilașulu meu, și cum încălecau ca să alerg la pieire!</p>
 <p>Plecai din Cetatea Albă în capul unei armate destul de numerosă, pe care Alexandru Vodă, Domnul Moldovei, a mai înmulțit-o cu o ceată de panțici. Trecurăm în țara Românească și apucând calea munților, în câteva zile ajunserăm la saiul Băișoara din județul Argeș, unde am fost proclamați de partizanii mei și de satele și orașele megiase domn al țării Românești, sub nume de Dan al III-lea. Dragul, pe care noi în derâdere îl numeam Dracul, auzind astă faimă neașteptată, și-a adunat toată oastea și a pornit ca să ne întâmpine.Nu apucase să se măsoare cu mine, când un bastard al moșului meu, numit iarăși Dragu s-a ivit la Dunăre urmat de o armată considerabilă. Dragu Vodă pus între două focuri a alergat să stângă pe cel mai eminent; m-a lăsat pe mine să mă feresc cu numele ce adoptasem, să mă scald alene în moliciunea unei curți corupte, și să-mi nutresc egoismul cu niște visuri inofensive; aleargă la acela care nu vă duce gândul să se mulțumească ca mine numai cu domnia unui sat. Eu în loc de a porni atunci către Târgoviște, am stat locului și am trimis a cerșetori ajutor Sultanului Amurad, ceea ce a și primit, dar care ajutor nu a sosit decât atunci, când mincinosul Dragu fiind învins, Dragu Vodă mă lovise și-mi răpise ca praful și armată și curte, tron și domnie.</p>
-<p>„Văzându-mă singur, părăsit de toată lumea, de boierii care trecuse în partea inamicului, de mercenarii care luase fuga și de Moldovenii care plecasera înainte de atac; rămânând numai cu fidelii mei servitori, care cădeau cu grămada, alergam în toate părțile să aflu moartea. Aș fi murit negreșit, fiindcă inamicii mă căutau în toate părțile, dar un bătrân servitor mă opri.</p>
+<p>Văzându-mă singur, părăsit de toată lumea, de boierii care trecuse în partea inamicului, de mercenarii care luase fuga și de Moldovenii care plecasera înainte de atac; rămânând numai cu fidelii mei servitori, care cădeau cu grămada, alergam în toate părțile să aflu moartea. Aș fi murit negreșit, fiindcă inamicii mă căutau în toate părțile, dar un bătrân servitor mă opri.</p>
 <p>— Nu trebuie să mori, îmi zise el, trăiește pentru femeia și copiii Măriei Talie; una are necesitate de un protector, de un soț, celălalt de un mentor, de tată.</p>
 <p>L-am ascultat; am urmat consiliile lui,m-am îmbrăcat cu hainele mele un cadavru fără cap, i-am luat hainele și am plecat. M-am dus la Akerman, vai! Acolo n-am găsit nici soție, nici copilă, nici palat, nici avere; tot pierise, tot ca și numele meu se ștersese dintre cei vii. Nebun de disprerare, înconsolat, rătăcînd...umblam ziua și noaptea fără să știu unde, până ce în fine ajunsăi în Satul Volcan, unde m-am stabilit și, împreună cu haina-și obiceiurile țăranilor, am luat și numele de Drăgan.</p>
-<p>„Timpul care strică, șterge și sfărâmă tot, cu încetul șterse și din memoria mea orice umbră a trecutului; am uitat tron, avere, femeie, chiar și pe fiul a cărei urmă nu cunoaștem, m-am însurat cu fiica unui munten și cerl, împreună cu o femeie bună, simplă în dorințele ei, economă în menajulu casei, fragedă în afecțiunile sale, împeună cu o viață pașnică și chiar fericită, mi-a dăruit și doi copilași, a căror copilărie m-a făcut să simt mai puțin durerea pierderii mumei lor și a căror junețe mi-a îndulcit văduvia și mi-a ușurat bătrânețele.</p>
-<p>„Nimeni, nici femeia mea, nici copiii mei nici consătenii mei, nu cunosc originea nașterii mele din deosebita educație ce dam copiilor mei și din politele mele maniere, bănuiau ceva, dar nu erau siguri de nimic.</p>
+<p>Timpul care strică, șterge și sfărâmă tot, cu încetul șterse și din memoria mea orice umbră a trecutului; am uitat tron, avere, femeie, chiar și pe fiul a cărei urmă nu cunoaștem, m-am însurat cu fiica unui munten și cerl, împreună cu o femeie bună, simplă în dorințele ei, economă în menajulu casei, fragedă în afecțiunile sale, împeună cu o viață pașnică și chiar fericită, mi-a dăruit și doi copilași, a căror copilărie m-a făcut să simt mai puțin durerea pierderii mumei lor și a căror junețe mi-a îndulcit văduvia și mi-a ușurat bătrânețele.</p>
+<p>Nimeni, nici femeia mea, nici copiii mei nici consătenii mei, nu cunosc originea nașterii mele din deosebita educație ce dam copiilor mei și din politele mele maniere, bănuiau ceva, dar nu erau siguri de nimic.</p>
 <p>P. S. „Moartea fiului meu, lovit de ucigătoarea armă a unuia din aceia care dăduseră primul semnal de rebelie și primul semnal de defecțiune, mi-a scurtat viața și a apropiat de mine mormântul. Voi muri cu o singură părere de rău, cu aceea că nu mai rămâne pe pămănt niciun protector, care să îngrijească de soarta fiicei mele.“</p>
-<p>„Dragan sau Dan III”</p>
+<p>Dragan sau Dan III”</p>
 <p>— Îți rămâne unul, venerabile bătrân, strigă Radu cu entuziasm, unul care deși fiu al inamicului tău, a jurat însă la marginea mormântului tău că o va proteja și care nu o va abandona până ce va muri. Mă duc.</p>
 <p>- Unde alergi?</p>
 <p>Mă duc se deschid cu mâinile mele temnița ei și să-i anunța libertatea și fericirea.</p>
@@ -922,7 +923,7 @@
 <p>— Biată fată! Suspina o femeie, ce a făcut să merite o asemenea pedeapsă?</p>
 <p>— Ascultați, ascultați, strigă câteva voci.</p>
 <p>Se făcu tăcere, dar tot se mai auzea un murmur confuz ca cel scos de apa, care în cursul său întâmpină ceva obstacole.</p>
-<p>„Cetățeni” strigă o voce din balconulu palatului.</p>
+<p>Cetățeni” strigă o voce din balconulu palatului.</p>
 <p>Murmurul înceta și o mulțime de capete își întiarseră fețele spre balcon.</p>
 <p>— „Cetățeni, urmă văstitorul, astăzi, Duminică la 10 Septembrie, anulu 1458, s-a condamnat la moarte Maria, fiica lui Drăgan munteanu, pentru însulta adusă înaltei persoane a Măriei Sale Domnitorului nostru Radu al III-lea D-zeu lungească-i zilele..</p>
 <p>Un ura monstruos ieși din toate piepturile.</p>

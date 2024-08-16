@@ -39,12 +39,12 @@
                <pubPlace>București</pubPlace>
               <publisher>TIPOGRAFIA UNIVERSUL L. CAZAVILLAN</publisher>
                <date>1892</date>
-               <decoNote type="ilustratii" subtype="no"/>
-               <dim unit="char" type="mare"/>
+               <decoNote type="illustrations" subtype="no"/>
+               <dim unit="char" type="big"/>
                <extent>
                   <measure unit="word">16319</measure>
                   <measure unit="page" type="under_250"/>
-                  <measure unit="foileton" type="under_65"/>
+                  <measure unit="feuilleton" type="under_65"/>
                   <measure type="complete"></measure>
                </extent>
             </bibl>
@@ -64,8 +64,8 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="5"/>
-               <term type="republicare" n="2"/>
+               <term type="reception" n="5"/>
+               <term type="print_count" n="2"/>
                <term type="finished"></term>
                
             </keywords>
@@ -73,8 +73,8 @@
       </profileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
             <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
             <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
          </projectDesc>
@@ -82,9 +82,10 @@
    </teiHeader>
  <text>
   <body>
+     <div type="part" n="1">
+        <p>Partea întâi</p>
  <div type="chaper" n="1">
-<p>CAP. I</p>
-<p>Furtuna</p>
+<head>CAP. I. Furtuna</head>
 <p>Soarele apusese cu ultimele sale raze și seara se apropia cu pași uriași. Vântul adia atât de ușor, că nici cele mai mici ramuri ale arborilor nu se mișcau. Căldura era încă și lumea nu se îndura să abandoneze promenada de pe străzi, căci, așa timp plăcut de mult nu avusese în luna Mai; dar ca printr-un farmec, acel vânt ușor se transformă într-o furtună atât de puternică încât ridica pălăriile de pe capetele trecătorilor și culca copiii la pământ. Geamurile și ușile deschise de pe la unele case și magazine, se loveau cu așa tărie, că făcea zgomot asurzitor și în același timp pierderi amestecate cu accidente serioase. Era completă învălmășeală: Unii țipau și alții fugeau. Primii se ascundeau prin magazine și secundii: parte urcau în trăsuri și parte se duceau cu pași repezi. Un fulger viu străbătu tot cerul și în același moment acoperișul unei case vechi, zbură din locu-'i, ca cum ar fi fost compusă numai dintr-o scândură ușoară ; iar geamurile unor ferestre, făcute în mii de bucățele, se jucau pe aripile vârtejurilor. Tunetele care până atunci nu începuseră, se auzeau în acel timp bubuind și furtuna devenise aproape înspăimântătoare; iar norii ce păreau că îmbrăcaseră cerul în mantie neagră, izbucniră într-o ploaie torențială și în curând risipi furtuna. Ploaia ținu aproximativ două ore ; norii se răspândiră, luna apărea printre ei plină de grații și strălucitoare, și vântul obosit, abia sufla, îmbălsămând aerul. Totul revenise la starea normală: Refugiații de prin magazine populaseră străzile și unii dintre ei erau veseli că au scăpat de pericolele la care puteau fi expuși și tindeau să mai rămână 3 iar alții nemulțumiți, căutau mijloacele posibile ca să se ducă. Printre cei din urmă, se văzu un june sprijinind din răsputeri o tânără și strigând continuu unui birjar ca să oprească. La acest strigăt, un bărbat care era în apropiere de acea scenă, opri trăsura și făcu semn tinerilor a o ocupa; dar, pe când acele ființe urcau, mare-i fu mirarea că recunoscu în june pe tisul său amic Mitică Poeteanu și nu întârziă de a i se face cunoscut:</p>
 <p>— Oare nu ești tu, Mitică? zise el.</p>
 <p>— A ! !... Da !... Eu sunt, doctore !... Și cum văd, creatorul te-a trimis înaintea mea ca să salvăm această suferindă!...</p>
@@ -96,8 +97,7 @@
 <p>La auzirea unui atare rezultat, pe dată a  strâns mâna lui Mototolescu și a luat la braț pe Amelie, sprijinind-o în acest mod până în strada Francesă, unde, ea, ne mai putându-se ține pe picioare, ameți și leșină. Văzând că nu este chip a o transporta astfel, a stat pe loc, chemând un birjar care tocmai în acel moment trecea, și noroc că a venit el, de a oprit trăsura, căci contrar nu era sigur de viața ei.</p>
 </div>
  <div type="chaper" n="2">
-<p>CAP. II</p>
-<p>Întâlnirea</p>
+<head>CAP. II. Întâlnirea</head>
 <p>Era o zi de sărbătoare. In strada Unirii unde e statuia libertății, se vindeau niște obiecte pentru neplata chiriei unor case. Un toboșar mărunt și negru, bătea din toate forțele toba și din când în când striga: Areciă întâi, al doilea, al treilea, și pe acesta din urmă, îl zicea din toată inima, pentru că scăpa de a mai bate; iar lumea curioasă, se aduna din ce în ce mai multă. Un bărbat înalt, blond și cu ochii verzi, cumpărase la licitație un colet de aur cu pietre de diamant; o femeie bine îmbrăcată luase cu puțini bani o broșă cu peruzele, dispărând prin mulțime; doi israeliți întindeau un pat de nuc ce-l târguiseră mai pe nimic și un orologier se lupta cu două ceasornice de perete. Atunci creditorul cu satisfacție își primea banii de la agentul polițienesc, îl punea într-un portofel; iar debitorul ofta din adâncul inimii că i se vânduseră lucrurile, mai ales pe un preț minim.</p>
 <p>In acest moment lumea se răspândea fiindcă se terminase licitația și nu mai avea ce vedea; iar la capătul străzii Lipscani, un bărbat înalt convorbea cu un altul scurt, gros și roșu, și din când în când îi arăta coletul ce cumpărase.</p>
 <p>— Frumos colet, zise omul cel roșu!</p>
@@ -162,8 +162,7 @@
 <p>La acest zgomot, amorezații tresăriră și dispărură prin alei, unde-și fixară altă întâlnire și pecetluiră amorul printr-un lung sărut.</p>
 </div>
  <div type="chaper" n="3">
-<p>CAP. III</p>
-<p>Iatacul misterios</p>
+<head>CAP. III. Iatacul misterios</head>
 <p> Nu se înserase încă și totuși Bețivenschi ajunsese acasă. Se făcuse comod întrucâtva și pe când voia să treacă din iatac în sufragerie, auzi mai multe lovituri ușoare. Apoi, ușa deschizându-se, apăru pe prag un bărbat bine făcut, cu ochii căprui și expresivi, salutând cu un aer impunător; iar Bețivenschi
 cum îl văzu, se bucură atât de mult, că sărea în sus necontenit, și personajul, fără a aștepta invitație, se așeză zâmbitor pe un fotoliu ce era lângă masă.</p>
 <p>— Bravo!... zise Bețivenschi, bătând din palme; așa prieten, înțeleg și eu!... Mă lasă să cancanes și își ia loc, nepoftit, fără să se supere!...</p>
@@ -199,7 +198,7 @@ cum îl văzu, se bucură atât de mult, că sărea în sus necontenit, și pers
 <p>— Apropo, Căitim; să-ți citesc o poezie făcută chiar de mine la adresa d-șoarei Leoni pe care a văzut-o și Poeteanu și să-mi arăți ideea ta asupra primei mele compoziții literare; dar, să nu mă iei peste picior că mă descurajezi tocmai acum când sunt amorezat lulea, vorbă să fie !...</p>
 <p>— Ce spui!?... Citește-o, te rog, Citește-o cât de repede că sunt foarte nerăbdător să aud prima ta încercare!...</p>
 <p>— Iat-o, prietene, ascult-o :</p>
-<p>ACHROSTIHUL D-șoarei LEONI</p>
+<l>ACHROSTIHUL D-șoarei LEONI</l>
 <l>Lumea spune: că vin, bere,</l>
 <l> Țuică, rom și ananas,</l>
 <l> Bei cu mai multă plăcere</l> 
@@ -260,8 +259,7 @@ cum îl văzu, se bucură atât de mult, că sărea în sus necontenit, și pers
 <p>Dupe aceste cuvinte, Căitim îșl luă noapte bună de la amicul său și părăsi iatacul; iar Bețivenschi, ordonă feciorului să-i conducă musafirul.</p>
 </div>
  <div type="chaper" n="4">
-<p>CAP. IV</p>
-<p>O vizită neașteptată</p>
+<head>CAP. IV. O vizită neașteptată</head>
 <p>Ca niciodată, Bețivenschi, în ziua de 2 Iunie 187..., luase cafeaua mai de dimineață de cum obișnuia și plecase de acasă fără să anunțe pe cineva. De această dispariție matinală se mira și feciorul său nu numai amicii care îl căutase, știind că pe la acea oră îl găseau totdeauna, în halat, cu ceașca plină de cafea și cu ciubucu lângă el. Gărgăun, feciorul care se numea astfel, își făcea felurite închipuiri: Ba că stăpânul său îl ceartă, ori s-o fi dus să cumpere vreun chilipir sau îl chemase d-șoara Leoni și în fine poate că i-a murit vreo rudă; însă, nimic din toate acestea nu era exact, deoarece, Bețivenschi, în acel timp, se găsea în curtea hotelului Moldavie, unde întreținea cu portarul de acolo următorul dialog:</p>
 <p>— Ce cameră ocupă dra. Amelie ?</p>
 <p>— No. 8 Coconașule!...</p>
@@ -325,8 +323,7 @@ cum îl văzu, se bucură atât de mult, că sărea în sus necontenit, și pers
 <p>In intervalul cât Amelie se întreținuse cu vizitatorii, Afer Bețivenschi, fusese pe acasă, se întâlnise cu toți amicii cărora le comunicase că în acea seară va avea loc pariul și vizitase chiar pe Leoni, pe care o rugase să păstreze oarecare rezervă către el până la ora 12 din noapte și apoi ieșise cu ea pe stradă, spre a o îndupleca cu desăvârșire.</p>
 </div>
  <div type="chaper" n="5">
-<p>CAP. V.</p>
-<p>Pariul</p>
+<head>CAP. V. Pariul</head>
 <p>Lumea plictisită cu căldura de peste zi și de numeroasele ocupațiuni, populase pe sub seară străzile principale ale orașului și se dividea din când în când în diferite grupuri : unele dupe rangul social, altele după etate și chiar după sex; alegându-se bărbații de o parte, femeile de alta și copii însoțiți de bone sau doici, pe alocuri, ascultând muzica municipalităței, care întona ariile cele mal dilectante și plăcute!...</p>
 <p>Se înserase de tot și noaptea care se apropia, promitea a fi feerică, căci cerul era senin și luna începuse a se ivi cu raze de aur strălucitore.</p>
 <p>Printre cei ce gustau din plimbare se găsea: Amelie în conversație cu Verdescu, Aurelie cu Hereditescu, Leoni cu Bețivenschi, Elvira cu Vinevschi și Leia cu Berescu, pe care, numai un observator excelent i-ar fi putut vedea astfel înlănțuiți în atâta desime de suflete și i-ar fi putut urmări cu înlesnire până în grădina hotelului Moldavie, unde pe la orele 9 au și plecat, căci, în acea seară, după cum se anunțase prin afișe, avea loc debutul cantatricei Amelie ; ceia ce s-a și întâmplat, deoarece pe la orele 10, când Dr. Inimescu și Poeteanu intrau în grădină, publicul deja ocupase toate mesele și Amelie era pe scenă armonisând; «Sciu tu» ; iar cele alte cantatrice, stau în jurul unei mese din fața scenei și râdeau cu hohot de comicăriile lui Bețivenschi și de modul cum făcea pe toți să aplaude continuu, pentru care, debutanta, fusese nevoită să repete cântul de două ori!....</p>
@@ -343,8 +340,7 @@ cum îl văzu, se bucură atât de mult, că sărea în sus necontenit, și pers
 <p>Nu trecu mult, că butoiul dorit sosi, paharele se umplură și petrecerea se desfășură: Afer, prezentă Leoni, achrostihul ce-i compusese, și care este reprodus textual în capitolul III; iar ea, neputând să-și ascundă bucuria surprizei ce-i făcuse adoratul său, îl citi în auzul tuturor, care izbucniră în aplauze nesfârșite. Atunci, Bețivenschi, mulțumit foarte de veselia care era zugrăvită pe fețele amicilor săi, umplu paharele din nou și petrecerea se animă atât de colosal încât mai la fiecare ridicare de pahar, se aduceau elogii și se țineau tuaste pentru eroul acelei petreceri; iar el, răspundea așa de minunat că auditorii nu se puteau opri din râs. Chiar Venzescu care la început fusese indispus de pierderea pariului, și Leoni care era supărat de tragerea pe sfoară, făceau haz, încurajând comicăriile și gesturile convivului; continuând tot astfel petrecerea pănă în revărsatul zorilor, când, din cauza oboselei ce simțeau, se și despărțiră.</p>
 </div>
  <div type="chaper" n="6">
-<p>CAP. VI</p>
-<p>Incendiul</p>
+<head>CAP. VI. Incendiul</head>
 <p>Noaptea învăluise pământul cu haina primăverii. Luna și stelele se scăldau ca într-un ocean pe cerul înseninat și răspândeau razele lor argintii peste întreaga natură. În stradă, se auzeau la oarecare intervale fluierele guardiștilor și pașii trecătorilor întârziați prin cluburi și cafenele cântânde. În suburbia sfântu Nicolae nou, ruinele Moruzoi erau iluminate ca niciodată. Un trecător atras de zgomotul săpăturilor ce venea din partea aceea, s-a oprit de a ascultat; însă, după câtva, zgomo-tul încetând și lumina dispărând, își continuă drumul, mirându-se cum pe acel timp ruinefe fusese iluminate, ferestrele acoperite cu rogojini și din ce provenise zgomotul acela;</p>
 <p>În urma acestuia, un alt trecător, la câțiva pași, se oprise în dreptul unor ferestre de la niște case mici neîmprejmuite din fața ruinelor și schimba șoapte cu o urmașă a Evei. Lumina ce făcea felinarul din colțul străzii, îi prezenta tineri, cum erau: El aproximativ înnumăra 28 crini și ea până la 18 roze. Atunci, orologiul de la edificiul municipalității prin trei lovituri anunța orele și spre apus, bolta divină se roșise ca jăraticul; iar tînăra pereche, observând aceasta, din când în când își îndreptau privirile într-acolo și nu-și puteau explica cum cerul își schimbase atât de curând culoarea cea azurie; dar, nu trecu mult, că trompeta observatorului din turnul edificiului primăriei, vesti de mai multe ori existența unui incendiu, și cetățenii, într-o clipă, la auzirea semnalului, se văzură alergând la spectacolul sinistru, urmând pe pompierii care treceau ca fulgerul în piața Unirii, unde erau în flăcări multe prăvălii și case. Grație însă energiei și curajului cetățenilor și pompierilor, că acel foc atât de colosal în câteva ore, se localiză. Altfel, ar fi luat porțiuni înspăimântătoare și ar fi nimicit nu numai centrul orașului; dar și străzile laterale. Apoi, cetățenii s-au înapoiat fără griji la casele lor, excepție de victimele incendiului, care cu lacrimile-n ochi și plini de disperare își căutau adăpost.</p>
 <p>Printre cei dintâi, s-a văzut și tânăra pereche părăsind locul unde fusese incendiul și înapoindu-se cu pași grăbiți la casele neîmprejmuite, unde, succesorul lui Adam, zicea întruna: S-a dus!... Da; s-a spulberat... Unica moștenire și mi-a lăsat numai locul!... Bietul bunicu!... O să-mi cadă în spete și de... o să-l suport!... Ce bună era prăvălia!... Ah !... îmi vine... nebunii...; dar lasă... El e bătrân, și... poate... poate... știu eu, tot iau pe loc vreo trei sute de napoleoni!...</p>
@@ -354,8 +350,7 @@ cum îl văzu, se bucură atât de mult, că sărea în sus necontenit, și pers
 <p> — E ziuă!... Ai dreptate !... La revedere pe mâine seară!... Nu uita să te gătești cu brățările ce ți-am trimis azi!... Și se depărtă; iar ea, după ce-l urmă cu privirea până ce nu se măi văzu, intră în casă, cugetând la noi cadouri și fericire.</p>
 </div>
  <div type="chaper" n="7">
-<p>CAP. VII</p>
-<p>Ghicitoarele și Ghicitorii</p>
+<head>CAP. VII. Ghicitoarele și Ghicitorii</head>
 <p>E cunoscut tuturor că, cu cât orașul se prezintă mai populat și mai avut, cu atât și ocupațiunile se multiplică. Așa, în Ploești, orașul care numără peste 40,000 locuitori, capitala județului Prahova, situat pe un teren șes, dotat cu toate bogățiile naturei și în apropiere de București, distanță cel mult două ore cu calea ferată, ocupațiunile sunt atât de numeroase și de varii, încât dăcă le-am descrie, am umple topuri de hârtie, ne-ar răpi mult timp, și afară de acestea, neimportând în acest roman, decât câteva dintr-însele, deocamdată vom pune sub vederile onoratului lector sau onoratei lectoare pe parte din bărbații și femeile acelea care în lipsă de profesiuni, ori din cauza mizeriei, își aleg pe aceia de a se introduce prin familii, mijlocind sau recomandând pe cutare june, jună, văduv ori văduvă de a se căsători cu cutare sau cutare. Acest soi de ocupațiune l-am numit «Ghicitoare» și motorul care ne-a autorizat, se va vedea în cursul citirei prezentei cărți.</p>
 <p>Între acești ghicitori și ghicitoare, cei mai principali erau: Ion Prepelicaru, Dinu Copoescu, Manda Beutorescu, Stanca Vorbulovici și Marghioala Prepelicaru.</p>
 <p>Manda Beutorescu, care joacă primul rol, este văduvă, de 48 ani, cu talia mijlocie, groasă, umflată și roșie la față din cauza alcoolului întrebuințat prea des, mai ales dimineața ca să aibă curajul de a se introduce în familii, cum zice ea când se găsește în stare anormală.</p>
@@ -376,8 +371,7 @@ cum îl văzu, se bucură atât de mult, că sărea în sus necontenit, și pers
 <p>Tot așa și cu ghicitorii și ghicitoarele de care în treacăt am făcut câteva linii, dacă ar fi avut cel puțin studiile elementare și le-ar fi plăcut munca, evident că nu ar fi recurs la o asemenea ocupațiune și ar fi îmbrățișat o profesiune; dar, ca ignoranți și leneși, fiind mărginiți în vederile și activitatea lor, s-au cufundat în noianul celor de așa speță, unde i-am lăsat și-l vom lăsa, întrucăt rolul nostru nu cere să mergem mai departe.</p>
 </div>
  <div type="chaper" n="8">
-<p>CAP. VIII</p>
-<p>Comoara</p>
+<head>CAP. VIII. Comoara</head>
 <p>După două săptămâni de la cele narate în capitolul VI, unde între altele ne-am ocupat și de ruinele Moruzoi, a avut loc o descoperire misterioasă atât de importantă, că, și acum este în memoria cetățenilor.</p>
 <p>Pentru ca onoratul cititor, sau onorata cititoare, să aibă idee completă despre acea descoperire, facem istoricul și pozițiunea ruinelor după cum urmează;</p>
 <p>«La începutul formațiunei Ploieșciului, cea mai grandioasă clădire era palatul Moruzi compus din trei etaje și împrejmuit cu zid care ocupa un teren vast.</p>
@@ -392,8 +386,7 @@ cum îl văzu, se bucură atât de mult, că sărea în sus necontenit, și pers
 <p>Printre aceștia erau și Bețivenschi, Leia, Căitim, Peliniadupescu și Moftureanu, din care, unul spunea că cazanul a fost de zece vedre, altul de nouă și ceilalți de opt, și că trebuie să fi conținut aur foarte mult; iar un individ din mulțime scobia locul unde existase comoara, crezând că va da și el peste noroc, și asistenții îl luau în deriziune. Acel individ nuera altul, de cât Verzescu, care cum sta aplecat pe groapă; foștii lui amici nu-l recunoscuseră de-o dată; dar mai târziu, când s-a ridicat în sus, văzându-l, li s-a făcut milă și l-au ajutat cu ceva bani; iar el, după ce le-a mulțumit, s-a strecurat prin mulțime și nu s-a mai arătat.</p>
 </div>
  <div type="chaper" n="9">
-<p>CAP. IX</p>
-<p>Începutul primului amor</p>
+<head>CAP. IX. Începutul primului amor</head>
 <p>De la cele întâmplate și narate în capitolele precedente, până în anul 1880, au  avut loc numeroase evenimente privitoare pe parte din personajele acestui roman, care deși nu prezintă multă importanță, totuși nu le scăpăm din vedere și le descriem în rezumat, după cum urmează:</p>
 <p>Amelie, văzând că nu-și poate asigura viitorul ce i se propusese de Bețivenschi și Verzescu, în unire cu Leia și Elvira, ah plecat în Bucuresti, unde s-au angajat într-un cafee de chantant.</p>
 <p>Leoni, a părăsit atât pe Bețivenschi, care nu o mai agrea ca la început cât și hotelul Moldavie și a devenit soția lui G. Vinevschi care l-a depus pe numele său o sumă, oricare la o casă de bancă.</p>
@@ -439,17 +432,17 @@ cum îl văzu, se bucură atât de mult, că sărea în sus necontenit, și pers
 <p>- - N-ai parte, Poetene !.... Iată..... Vine mama!... Și, în acel timp, se și văzu persoana indicată!... Atunci ei o întâmpinară veseli și o urmară în balconul caselor, unde era atât familia fetei, cât și a lui.</p>
 <p>În timpul acesta, apăru pe poartă un bărbat bine format și cu ochii expresivi, care, după ce salută respectuos, propuse lui Mitică, de a-l însoți; și el, deși nu era dispus pentru aceasta, se înclină cu scuze în fața persoanelor cu care era și își urmă amicul. Acesta, cum se văzu în stradă, îi comunică că va avea loc la Bețivenschi, o serată amicală dată de el și Bassamagescu, la care va lua parte toți zeii și că sunt invitați aă asiste și ei. Apoi, grăbind pașii, ajunseră la timp și se amuzară cum nu-și imaginau.</p>
 <p>Finele părții întâi.</p>
+ </div>
+     </div>
+     <div type="part" n="2">
 <p>PARTEA II</p>
 <p>POEZIE ȘI PROZĂ</p>
 <p>SAU</p>
 <p>IDEALITATE REALITATE</p>
-</div>
  <div type="chaper" n="10">
-<p>CAP. I</p>
-<p>Succesiunea</p>
+<head>CAP. I Succesiunea</head>
 <p>Era o duminică de vară foarte plăcută. În această zi, pe stradele principale ale orașului, toți pietonii păreau eleganți după luxul ce purtau. Cei mici ca și cei mari, aveau ochelari, cravată albă, mânuși trase pe mâini și baston.</p>
 <p>Dacă ar fi stat cineva la o parte, a observa calitatea fiecărel ființe, putea cu drept cuvânt să vadă că, nu toți erau nobili și nu toți meritau luxul!..... Dar, ce poți zice. Așa e timpul!.... Așa sunt moravurile</p>
-<p>□C Muzeul Digital al Romanului Românesc</p>
 <p>Mai departe, dintr-un magazin de frizerie, ieșeau pomădați, frizați și rași doi bărbați care excelau în lux și mândrie.</p>
 <p>Dintre aceștia unul purta costum și joben gri; iar altul redingotă neagră, pantaloni culori și pălărie de pae. Primul, după ce trecu în revistă, lumea de pe stradă, intră într-o cofetărie, și scundul, dispăru cu pași titanici.</p>
 <p>Pe strada Franceză în dreptul palatului justiției, se oprise o bătrână și schimba cuvinte cu două tinere cochete; iar în urma ei, trecea o servitoare cu o talie de atlas verde, descheată la piept de se vedea corsetul și într-o rochie de cașmir cafenie, care, cu o mână ținea o copilă ca de șapte ani și cu alta un coș încărcat de lucruri alimentare.</p>
@@ -508,8 +501,7 @@ cum îl văzu, se bucură atât de mult, că sărea în sus necontenit, și pers
 <p>A doua zi, Verdescu, își schimbă costumul și după ce dejună, se duse la Hereditescu, care cum îl văzu, îl felicită de gustul ce avusese în cumpărarea hainelor și apoi, îl puse în vedere de a se aranja pentru voiaj; astfel că, în câteva ore ambii gătindu-se, se așezară într-o trăsură și plecară la gară și de acolo cu trenul la Brăila, unde poate vor fi și acum.</p>
 </div>
  <div type="chaper" n="11">
-<p>CAP. II</p>
-<p>Revederea</p>
+<head>CAP. II Revederea</head>
 <p>Se înserase. Luna cu razele ei de foc începuse să ardă o parte a cerului, stelele străluceau ca diamantele și vântul se juca ușor cu iarba cea verde și florile care înmiresmau aerul. Era seara de întâi Mai a anului 1883. În această lună, stradele laterale ale centrului orașului, devin mai admirabile și mai poetice, căci curțile sunt mai spațioase, așternute cu iarbă verde și umbrite de pomi. În categoria acestora intră și strada Verișorilor, pe care familia Poeteanu posedă un vast teren și case.</p>
 <p>În acea seară, familia descrisă, împreună cu familia Nide, stau la o masă sub crăcile a două vișini bătrâni, admirând farmecile naturii!; iar în fundul curții între niște pruni stufoși erau Poeteanu și Elisa Nide, unde el o măsura cu priviri generale și ea îi fixa ochii!... Era. limbajul amorului, pe care numai inimile iubitoare îl înțeleg. Un fel de sfială sau mutism care se prezintă între începutul amorului și iubire; dar acest sensibil tablou, după câtva timp, fu colorat cu roșirea obrajilor ei și apoi dispăru la cuvintele următoare:</p>
 <p>— Ai înțeles tu oare cauza pentru care tremuram și tăceam când te-am văzut? Imaginatuțiai că ardeam de dor să te sărut'?...</p>
@@ -523,47 +515,46 @@ cum îl văzu, se bucură atât de mult, că sărea în sus necontenit, și pers
 <p>— Voi abuza de promisiunea ta !... Și în acel moment junele o sărută de mai multe ori, iar ea fugi sub vișini la mama sa, tocmai la timp, căci se gătea de plecare. Se apropie și junele de ei, sărută mâna soacrei, cum și-o imagina, și strînse mâna fetei, șoptindu-i să nu uite acea revedere delicioasă în care au pecetluit dragostea lor !...</p>
 </div>
  <div type="chaper" n="12">
-<p>CAP. III</p>
-<p>Poezie și Gelozie</p>
+<head>CAP. III. Poezie și Gelozie</head>
 <p>In prima parte, după cum scrie și onoratul lector sau onorata lectoare, Poeteanu, care va juca de aici înainte în acest roman rolul cel mal principal, este notat o dată că nu iubește femeile și altă-dată că e pasionat de Elisa Nide., la care ține atât de mult, încât, între altele și-ar da și viața. Probă despre aceasta și că omul nu poate fi izolat de afecțiuni, este chiar poezia compusă de el în termenii următori :</p>
 <p>i</p>
-<p>Ești mai frumoasă ca mândrul soare Care strălucește pe cer senin;</p>
-<p>Chiar mai sublimă și încântătoare; La tine der, am să mă ’nchin !...</p>
+<l>Ești mai frumoasă ca mândrul soare Care strălucește pe cer senin;</l>
+<l>Chiar mai sublimă și încântătoare; La tine der, am să mă ’nchin !...</l>
 <p>II</p>
-<p>Când tu apari, îmi dai viață, Mă faci să sper și să trăiesc, Nu simt în lume altă dulceață Decât aceea când te zăresc!...</p>
+<l>Când tu apari, îmi dai viață, Mă faci să sper și să trăiesc, Nu simt în lume altă dulceață Decât aceea când te zăresc!...</l>
 <p>III</p>
-<p>Ziua și noaptea gândind la tine, La a ta figură ce m-a frapat, La ale tale forme divine, La mersul tău cel elegant,</p>
+<l>Ziua și noaptea gândind la tine, La a ta figură ce m-a frapat, La ale tale forme divine, La mersul tău cel elegant,</l>
 <p>— U -</p>
 <p>IV</p>
-<p>Mii de delire mă tot turmentează;</p>
-<p>Simt că mi-e rău, dar ce să fac?,.;</p>
-<p>Până și ochii mi se tot lamentează Și văd prea bine că nu am leac !...</p>
+<l>Mii de delire mă tot turmentează;</l>
+<l>Simt că mi-e rău, dar ce să fac?,.;</l>
+<l>Până și ochii mi se tot lamentează Și văd prea bine că nu am leac !...</l>
 <p>V</p>
-<p>Aș da averea, aș da viața, Tot ce am mai scump pe acest pământ De-ai deveni iubita-mi soție;</p>
-<p>Primește-mi dar acest cuvânt!</p>
+<l>Aș da averea, aș da viața, Tot ce am mai scump pe acest pământ De-ai deveni iubita-mi soție;</l>
+<l>Primește-mi dar acest cuvânt!</l>
 <p>Acestă poezie fu pusă într-un plic de Poeteanu și o păstră până într-o zi de sărbătoare, când ducându-se pe la Elisa, pe de-o parte i-o citi, iar pe de alta o rugă să consimță a o publica în vreo revistă și ea primi; însă el, nu întârzie și după câteva zile, acele versuri se văzură imprimate în «Vocea literară și științifică» din Ploeșci. Ceea ce mulțumi pe ambii.</p>
 <p>Mai târziu, el vizită în toate zilele pe Elisa și de câte ori se înnapoia de la ea, era atât de inspirat încât poeziile le compunea imediat.</p>
 <p>Tot așa și cu versurile următoare:</p>
-<p>M-am tot cercat S-o sărut, S-a supărat</p>
-<p>Și n-a vrut!..।</p>
+<l>M-am tot cercat S-o sărut, S-a supărat</l>
+<l>Și n-a vrut!..।</l>
 <p>II</p>
-<p>M-am tot cercat De iubit, S-a supărat, N-a voit </p>
+<l>M-am tot cercat De iubit, S-a supărat, N-a voit </l>
 <p>III</p>
-<p>M-am tot cercat</p>
-<p>Ca s-o las, S-a supărat</p>
-<p>Și d-ăst pas !</p>
-<p>care s-ati publicat în aceeași revistă.</p>
+<l>M-am tot cercat</l>
+<l>Ca s-o las, S-a supărat</l>
+<l>Și d-ăst pas !</l>
+<l>care s-ati publicat în aceeași revistă.</l>
 <p>Altă dată, Poeteanu primind o garoafă de la Elisa s-a inspirat momental și în fața ei a compus această poezie:</p>
 <p>GAROFA</p>
 <p>DEDICAȚIE D-ȘOAREI E...</p>
 <p>I</p>
-<p>Pe câmpia vieții mele</p>
-<p>Numai flori au răsărit, Doar ca una dintre ele, N-am văzut, n-am pomenit!...</p>
+<l>Pe câmpia vieții mele</l>
+<l>Numai flori au răsărit, Doar ca una dintre ele, N-am văzut, n-am pomenit!...</l>
 <p>II</p>
-<p>E așa de maiestoasă Cum pe lume n-o mai fi Și atâta de frumoasă Incât inima-mi răpi.</p>
+<l>E așa de maiestoasă Cum pe lume n-o mai fi Și atâta de frumoasă Incât inima-mi răpi.</l>
 <p>III</p>
-<p>Și de când o am văzut, Veșnic la ea tot gândesc;</p>
-<p>Parcă e-ntradins făcut, S-o ador și s-o iubesc!...</p>
+<l>Și de când o am văzut, Veșnic la ea tot gândesc;</l>
+<l>Parcă e-ntradins făcut, S-o ador și s-o iubesc!...</l>
 <p>Acestă poezie s-a publicat mai întâi în revista ^Tezaurul Familiei» din București, apoi în volumul de poezii «Flori și Spini.»</p>
 <p>Afară de aceste versuri, el a mai făcut și altele, datorită mai mult iubirii și inspirațiilor ei; și se iubeau așa de mult că în toate zilele se vedeau!...</p>
 <p>Intr-o zi însă, el fiind reținut de musafiri, între care era și vara sa d-ra Prăpureanu, nu a putut să se ducă la ora obișnuită și s-a pomenit în curte cu Elisa. Poeteanu, atunci ședea</p>
@@ -571,8 +562,7 @@ cum îl văzu, se bucură atât de mult, că sărea în sus necontenit, și pers
 <p>Mai târziu, ieșind din casă mamele celor două fete, le luară și plecară. Elisa rămăsese cu el pe aceeași bancă și când se depărtase nesuferita sa, ea îl mustra că șezuse lângă acea fată și î1 rugă să nu mai repete aceasta. Apoi, după un lung sărut se despărțiră pentru a se revedea a doua zi.</p>
 </div>
  <div type="chaper" n="13">
-<p>CAP. IV</p>
-<p>Invidia și intriga</p>
+<head>CAP. IV. Invidia și intriga</head>
 <p>Amiciția dintre Elisa și Poeteanu devenise atât de sinceră și de intimă, încât ei credeau că nicio putere umană nu i-ar despărți și sperau la o unire apropiată, deși întru câtva se temeau de opunerea părinților, mai cu seamă că, căci avea o soră văduvă ce se numea Irama care nu privea cu ochi buni pe Poeteanu și continuu îl critica, atribuindu-i epitete, pe care nu numai că nu le merita; dar, nici nu erau la locul lor. Ceva mai mult că impunea Elisei de a nu-1 agreea și a-1 respinge; însă ea, o refuza sub cuvânt că ar trece de nepoliticoasă; iar Irama, văzând că în așa mod nu poate reuși, alergă la alt mijloc și făcu în acest scop cunoștința vecinei Petca Urîțof și a fiului acesteia Aldruf Urîțof, pe care îi invită de a-i vedea familia și ei primiră; astfel că, ambele familii și-au făcut vizite reciproce, și în scurt timp au devenit intime.</p>
 <p>Poeteanu, observase acestea și nu îi plăcea câtuși de puțin prezența tânărului Aldruf în acea familie.</p>
 <p>Acest tânâr înumerase 20 ani, era înalt, blond, slab cu desăvârșire, cu mâinile și picioarele foarte mari, gâtul lung și în fundul capului îi sticleau niște ochi verzi și spălăciți; călca greoi ca un hipopotam, râdea ca un urangutan și își scobea nasul, iar felul de a se prezența, era original și hazliu.</p>
@@ -585,16 +575,14 @@ cum îl văzu, se bucură atât de mult, că sărea în sus necontenit, și pers
 <p>El plecă mâhnit și ea îl urmă cu privirea, fără să răspundă.</p>
 </div>
  <div type="chaper" n="14">
-<p>CAP. V</p>
-<p>Despărțire neașteptată</p>
+<head>CAP. V. Despărțire neașteptată</head>
 <p>Trecuse trei luni de la cele narate în capitolul precedent. În acel interval, Poeteanu nu se mai arătase Elisei și nici ea nu-l văzuse. Din partea lui era o justă ambiție, iar dintr-a ei cauzele deja cunoscute.</p>
 <p>Despre acestea observase și d-na Nide, mama fetei și o aduse în poziție să comunice fiului ei, care, veni în Ploești fără întârziere; iar despre sosire, el anunțase telegrafic și familia îl întâmpinase la gară, de unde cu toții veniseră acasă. Aici însă, după câtva timp, d-na Nide propuse fiului ei de a vizita împreună, familia Poeteanu, și el primind, plecară acolo îndată. Apoi pe sub seară se înapoiară însoțiți de ai casei unde fuseseră. Aceștia din urmă, mai târziu, voind să se ducă, familia Nide îl reținu și îi rugă a lua prânzul cu ea; iar el văzând dorința și insistența tuturor, rămăsere. Atunci, d-na Nide, pe de-o parte ordonă a se aranja masa, iar pe de alta propusese de a trece în sufragerie și toți se conformară.</p>
 <p>Nu trecu mult, că femeia din casă începu să servească bucatele cele mai delicioase și mesenii începură a gusta din ele cu multă plăcere, excepție de Poeteanu, care era indispus ; dar neobservat cu seriozitatea care î1 caracteriza.</p>
 <p>După desert, pe când se aduceau cafelele, nurora d-nei Nide, cântă între altele «Știi tu» care impresiona pe toți, mai ales pe Elisa, din ochii căreia s-a văzut picând două lacrimi ce se rostogoliră pe figura ei; iar Mitică, care nu mai credea în amorul de mai înainte, asculta rece și gânditor. Apoi, d-na Nide, comunică familiei Poeteanu că Elisa va pleca a doua zi cu fiul ei în familia nurorei, unde va rămâne până se va căsători. Atunci, fiindcă ora era înnaintată, musafirii urară Elisei voiaj bun și se despărțiră cordial.</p>
 </div>
  <div type="chaper" n="15">
-<p>CAP. VI</p>
-<p>Amorul fals și căsătoria ei.</p>
+<head>CAP. VI. Amorul fals și căsătoria ei.</head>
 <p>Pe la începutul lunii Octombrie anul 188..., la trei săptămâni de la plecarea Elisei, Poeteanu părăsise Ploesciu și se dusese în București, unde pe de-o parte ocupase o funcție, iar pe de alta, se înscrisese la științele politice ; iar d-na Nide, de câte ori vizita capitala, de atâtea ori se ducea și pe la el, spre a-i comunica stiri despre fiica sa; dar aceste vizite nu ținură atât de mult, că după opt luni, Elisa înnapoiându-se la casa părintească, ele încetară și se prezentase rându lui de a le face.</p>
 <p>În intervalul cât lipsise Elisa, avuseseră loc multe întâmplări privitoare la unele personaje ale acestui volum;</p>
 <p>«Medicul Mitică C. Inimescu, care va fi nepieritor din memoria celor ce l-au consultat, a încetat din viață, lăsând pe urmă-i soție și un minor,</p>
@@ -630,8 +618,7 @@ cum îl văzu, se bucură atât de mult, că sărea în sus necontenit, și pers
 <p>După aceasta, la vreo șase luni în urmă, Elisa se căsători; dar era atât de nemulțumită de soțul său, încât cugeta numai la divorț; așa că, chiar în luna de miere, cum se zice, ea intentă acțiune și mai târziu se și divorța.</p>
 </div>
  <div type="chaper" n="16">
-<p>CAP. VII</p>
-<p>I n c h e i  e r e</p>
+<head>CAP. VII. I n c h e i  e r e</head>
 <p>Poeteanu auzise despre căsătoria Elisei și își imaginase întru câtva motorul care o determinase la acest act. De aceea, pe de-o parte încerca a o uita, iar pe de alta se gândea de a face și el ceea ce făcuse ea. I se prezentase mai înainte diferite ocazii de căsătorie atât în Ploesci, cât și în București, și le refuzase sub diferite pretexte; însă, în anul 1891, avansând în funcție, a fost trecut în alt oraș, unde norocul sau destinul, prezentându-i în cale o tânără văduvă, el se înamoră de ea si în ziua de 30 Mai anul 1892 se cunună civil, iar a doua zi religios.</p>
 <p>De atunci, el e fericit și speră că va fi în toată viața, deoarece soția sa pe lângă că e plăcută și simpațică, posedă și calități prețioase!...</p>
 <p>Câtă deosebire este între rolul Elisei și acela al unei soții !...</p>
@@ -651,6 +638,7 @@ cum îl văzu, se bucură atât de mult, că sărea în sus necontenit, și pers
 <p>Un proverb spune: «Pădure fără uscaturi nu se poate». Noi însă, având în vedere moralitatea, energia și curajul ploescenilor, nu-1 admitem, cu atât mai mult cu cât nimeni dintre cetățenii pământeni nu au defecte de natura celor descrise. Arborii orașului sunt plini de viață în toate timpurile ; iar cei străini care vin cu sau pe lângă apa Prahovei ori alte ape, se opresc aici, colea, uscați și galbeni; însă dacă râmân, se aclimatizează și mai târziu iau altă față!... Tot așa și cu personajele ale căror defecte sunt în memoria cititorilor, la început s-au prezentat într-un fel, la fine într-altul și cine scie ce schimbări vor mai lua!...</p>
 <p>O! timpuri!... O! moravuri!... Voi vă veți schimba ?...</p>
 </div>
+     </div>
   </body>
  </text>
 </TEI>

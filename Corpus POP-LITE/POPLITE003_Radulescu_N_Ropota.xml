@@ -41,12 +41,12 @@
                     <pubPlace>BUCUREȘTI</pubPlace>
                     <publisher>TIPOGRAFIA „FORTUNA”</publisher>
                     <date>1893</date>
-                    <decoNote type="ilustratii" subtype="no"/>
-                    <dim unit="char" type="mare"/>
+                    <decoNote type="illustrations" subtype="no"/>
+                    <dim unit="char" type="big"/>
                     <extent>
                         <measure unit="word">30168</measure>
                         <measure unit="page" type="under_250"/>
-                        <measure unit="foileton" type="under_65"/>
+                        <measure unit="feuilleton" type="under_65"/>
                         <measure type="complete"></measure>
                     </extent>
                 </bibl>
@@ -66,16 +66,16 @@
                     <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
                 </keywords>
                 <keywords>
-                    <term type="receptare" n="5"/>
-                    <term type="republicare" n="2"/>
+                    <term type="reception" n="5"/>
+                    <term type="print_count" n="2"/>
                      <term type="finished"></term> 
                 </keywords>
             </textClass>
         </profileDesc>
         <encodingDesc>
             <projectDesc>
-                <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-                <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+                <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+                <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
                 <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
                 <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
             </projectDesc>

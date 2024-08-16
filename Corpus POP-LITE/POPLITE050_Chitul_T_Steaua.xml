@@ -18,6 +18,10 @@
                     <resp>corectură manuală</resp>
                     <name>Alexia Maria Comorașu</name>
                 </respStmt>
+                <respStmt>
+                    <resp>verificare corectură manuală</resp>
+                    <name>Alexandra Olteanu</name>
+                </respStmt>      
                 <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
             </titleStmt>
             <publicationStmt>
@@ -35,12 +39,12 @@
                     <pubPlace>Oradea</pubPlace>
                     <publisher>FOILETONUL REVISTEI „FAMILIA”</publisher>
                     <date>1905</date>
-                    <decoNote type="ilustratii" subtype="no"/>
-                    <dim unit="char" type="mic"/>
+                    <decoNote type="illustrations" subtype="no"/>
+                    <dim unit="char" type="small"/>
                     <extent>
                         <measure unit="word">43782</measure>
                         <measure unit="page" type="under_250"/>
-                        <measure unit="foileton" type="under_65"/>
+                        <measure unit="feuilleton" type="under_65"/>
                         <measure type="complete"></measure>
                     </extent>
                 </bibl>
@@ -60,16 +64,16 @@
                     <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
                 </keywords>
                 <keywords>
-                    <term type="receptare" n="5"/>
-                    <term type="republicare" n="2"/>
+                    <term type="reception" n="5"/>
+                    <term type="print_counts" n="2"/>
                     <term type="finished"></term>                
                 </keywords>
             </textClass>
         </profileDesc>
         <encodingDesc>
             <projectDesc>
-                <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-                <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+                <p>Cuvantul cheie de tip "recepttion" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+                <p>Cuvantul cheie de tip "print_counts" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
                 <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
                 <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
             </projectDesc>
@@ -78,11 +82,9 @@
 	<text>
 <body>
 <div type="part" n="1">
-<p>Steaua Orientului.</p>
-<p>Roman istoric.</p>
+<head>Steaua Orientului Roman istoric.</head>
 <div type="section" n="1">
-<p>I</p>
-<p>Nădejdi deșarte</p>
+<head>I. Nădejdi deșarte</head>
 <p>În toamna anului 1599, Ardealul era în fierbere mare.</p>
 <p>Stăpânitorii acestei țărișoare, privilegiații domni feudali, într-o bună dimineață se treziră numai cu înspăimântătoarea veste că domnul Munteniei, Mihai-Vodă, străbătând strâmtoarea Buzăului, a intrat cu oaste număroasă în Ardeal.</p>
 <p>Domnitorul Transilvaniei, cardinalul Andrei Báthory, care ajunse în scaunul principesc după ce nestatornicul său văr Sigismund Báthory renunțase la domnie a doua oră, abia-și veni în ori din frica cășunată prin vestea sinistră, își puse în practică din nou vechile uneltiri moștenite de la antecesorii săi.</p>
@@ -125,15 +127,14 @@
 <p>— Ce vești ne aduci, moș Anchidim? — întimpinară toți pe bătrânul iobag, apucându-l la mijloc.</p>
 <p>— Bune și rele, fraților — răspunse acesta. Își scoase cu socoteală căciula și-și dădu după urechi pletele lungi ce-i veniră în față cum urcase colina țepișă.</p>
 <p>— Vorbit-ai cu domnul nostru? Ce zice?... așa e că domnii vor să ne ușureze birurile ?</p>
-    <p>(Va urma)</p>
-    <p>Tit Chitul</p>
+    <trailer>(Va urma)</trailer>
+    <trailer>Tit Chitul</trailer>
 </div>
 </div>
     
     <div type="part" n="2">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Urmare)</p>
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="(Urmare)"/>
         <div type="section" n="1">
 <p>Din toate părțile se adresau lui Anchidim voci curioase și bătrânul, zăpăcit de potopul întrebărilor, nu știa cui să răspundă mai în pripă.</p>
 <p>— Tăceți, dragilor măi, și ascultați dacă vreți să ne înțelegem!</p>
@@ -184,15 +185,14 @@
 <p>Se mai găsesc și în zilele noastre cărturari români care impută lui Mihai că n-a primit ajutorul maselor iobăgite, care i l-au oferit fără nicio provocare. Unii îl mai vinovățesc că de ce n-a dezlănțuit poporul român din robia iobagească, procurându-și prin aceasta temăi singur, pe care și-ar fi putut clădi puternicul edificiu al domniei sale veșnice.</p>
 <p>Cei ce fac astfel de imputări nu iau în considerare că în secolul XVI în toata Europa încă nimeninui nu-i plesnise în minte astfel de idei liberale. Principii și regii decideau asupra țărilor și popoarelor cu cel mai desevârșit absolutism. Unica lor grijă era să nu provoace nemulțumirea claselor privilegiate, căci toata puterea lor pe aceasta era bazată. Cu interesele poporului iobăgit Nimeninu-și bătea mintea pe acele timpuri. Că Mihai n-a cunoscut imănsul izvor de putere ce i se oferea în dezrobirea poporului de aceeași origine, limbă și religie cu dânsul, ne putem ușor explica dacă ne aducem aminte că pe acel timp nu numai principiul de naționalitate, dar chiar și conștiința unității neamului românesc încă nu exista. Pretutindenea supușii domnitorilor erau împărțiți în două clase cu interese opuse, în nobilimă și iobăgimă.</p>
 <p>Numai după principiile veacului său lucrase deci Mihai când abia intrând cu laurii învingerii în Alba-Iulia, se grăbi a-și asigura alipirea nobilimii prin jurământul că va ține neștirbite privilegiile ei.</p>
-            <p>(Va urma)</p>
-            <p>Tit Chitul</p>
+            <trailer>(Va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
         </div>
     </div>
     
     <div type="part" n="3">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Urmare)</p>
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="Urmare"/>
         <div type="section" n="1">
 <p>Prin acest jurământ, depus solemn din partea noului stăpânitor în dieta țării, nobilimii se garantase susținerea stării poporului în condiția sa de mai-nainte.</p>
 <p>Conform obligamântului ce-l luase asupra sa, Mihai dădu poruncă să sufoce mișcarea iobagilor, care prinseră pe alocuri a visa de ușurarea grelelor impozite cu care nobilimea îi încărcase.</p>
@@ -210,8 +210,7 @@
 <p>Peste câteva clipe, trompetele începură a suna. Trupa intrase în sat.</p>
 </div>
 <div type="section" n="2">
-<p>II</p>
-<p>Pierdut fără urmă.</p>
+<head>II. Pierdut fără urmă.</head>
 <p>Înainte de a toarce mai departe firul narațiunii începute, să ne întoarcem cu cincisprezece ani mai înainte de cele narate în capitolul precedent, ca să cunoaștem unele persoane care vor avea rol însămnat în acest roman.</p>
 <p>Daniil Lupul, despre a cărui moarte nenaturală ne-am putut convinge din cuvintele lui Anchidim, pe acea vreme era bărbat viguros, în plinătatea puterii etății de patruzeci de ani.</p>
 <p>Strict până la crudelitate, nerabduriu și pornit peste măsură la fire, nu se bucura la iobagii săi de vreo popularitate invidiată. Pentru greșeli mici și neînsămnate el pedepsea pe sărmanii iobagi ca un tiran dezbrăcat de toate simțirile omenești. Înclinat din fire spre fapte silnice, îl mai ațâța și nevastă-sa, o maghiară reformată, care nu uita a împrospăta în memoria bărbatului său în fiecare zi marele sacrificiu ce credea ea că-l aduse când se însoțise pe toată viața cu un barbat de origine „valahă”. Căci ea disprețuia din suflet acest popor asuprit și Lupul, atât de dragul păcii casnice, cât îmboldit de o bolnăvicioasă ambiție, goală și făloasă, cu încetul se obișnuise a-și regla sentimentele după placul nevestei sale.</p>
@@ -228,15 +227,14 @@
 <p>Firea violentă a lui Daniil erupse în fapte disperate. Prețul durerii ce-l chinuia că a pierdut pe nevasta sa mult iubită trebuia să-l plătească bieții săi iobagi, ca și când ei ar fi fost de vină că murise.</p>
 <p>Niciodată Daniil Lupul n-a aplicat pedepse mai grele și mai nedrepte ca în primăle luni după moartea soției sale.</p>
 <p>Pe cât fusese el însă de inconsolabil la început, cu atât mai iute se vindecă de durerea sa. Focul de paie izbucnește în flăcări mari, însă se potolește iute. Adevărata durere a inimii e ca și jarul ascuns în spuză, care te arde și când cugeți că e stins.</p>
-    <p>(Va urma)</p>
-    <p>Tit Chitul</p>
+    <trailer>(Va urma)</trailer>
+    <trailer>Tit Chitul</trailer>
 </div>
     </div>
     
     <div type="part" n="4">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Urmare)</p>
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="Urmare"/>
         <div type="section" n="2">
 <p>După moartea părintelui său, Daniil uitase de promisiunea ce o făcuse tatălui său, când acela zăcea pe patul morții, că-și va stima numele și religia, se făcuse Farkas Daniel și reformat; după moartea nevestei sale uitase de cugetul ce și-l puse în primăle zile de nemângăiere că nu se va mai interesa mai mult niciodată de femei și începu a duce o viață de care s-ar fi rușinat și cel mai destrăbălat flăcău. El devenise spaima tuturor fetelor și nevestelor mai frumoase.</p>
 <p>Pe cine-și punea el odată ochii, aceea trebuia să cadă. Rugări, amănințări nu aveau niciun efect asupra lui. Vai și amar de sărmana nenorocită care mărgea până-n extrem cu opoziția!</p>
@@ -292,15 +290,14 @@
 <p>— Bată-i mânia lui Dumnezeu lupi să-i bată! — exclămă deodată ciobanul necăjit. Iată, bade, și asta e încolțită de lup, de aceea nu stă la muls.</p>
 <p>Baciul examina cu ochi pricepători rana, luă forfecele și tunse lâna din jurul ei, apoi strigă strungarului:</p>
 <p>— Băiete! Adă oala cu luparița.</p>
-            <p>(Va urma)</p>
-            <p>Tit Chitul</p>
+            <trailer>(Va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
         </div>
     </div>
     
     <div type="part" n="5">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Urmare)</p>
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="Urmare"/>
         <div type="section" n="2">
 <p>Și spăla rana cu un fel de zamă verzie de buruiene fierte.</p>
 <p>— V-au încercat lupi azi-noapte? — întreba Irina.</p>
@@ -364,8 +361,7 @@
 <p>În cincisprezece ani ce trecură de la funesta nenorocire care o despuiase de ambii săi părinți, din mica Dochiță se dezvolta o fecioară frumoasă, care era singura mângâiere a bătrânului Anchidim, după ce Vasile, unicul fiu ce-i mai rămase din număroasa sa familie, pe acel timp viforos, petrecea mai mult la oaste decât acasă.</p>
 </div>
 <div type="section" n="3">
-<p>III</p>
-<p>Fiul expiază păcatul părintelui său.</p>
+<head>III. Fiul expiază păcatul părintelui său.</head>
 <p>Poziția lui Mihai, după cucerirea Transilvaniei, nu era încă asigurată. Mai cu seamă generalul împărătesc George Basta, vrăjmașul său cel mai înverșunat, care, stăpânit cu totul de hidoasa patimă a invidiei răutăcioase, de câte ori vorbea sau scria despre Mihai, folosea consecvent epitetul insultator „il vallacho”, se arăta nemulțumit cu starea lucrurilor. Abia prinse el veste că Mihai a intrat și fără ajutorul lui în Alba-Iulia, el își Înainta oastea grabnic spre Transilvania cu scopul de a înfrica pe Mihai.</p>
 <p>Acesta însă îl provocă să-și retragă oastea și, dacă n-a venit când ar fi avut trebuință de ajutorul lui, acum să nu devasteze țara pe care o cucerise în numele împăratului.</p>
 <p>Magnații maghiari, cu toate că astrânși de împrejurări, jurară credință lui Mihai, nu-l vedeau cu ochi buni. Le era rușine, în trufia lor făloasă, că sunt nevoiți să se supună domniei unui individ dintr-o nație atât de desconsiderată precum era în ochii lor cea „valahă”.</p>
@@ -373,15 +369,14 @@
 <p>Pe lângă atâția dușmani neobosiți, nici împăratul nu era prieten prea fidel lui Mihai. Altmintri, acest domnitor nici nu-și bătea mult capul cu afacerile întinsăi sale țări.</p>
 <p>Mizantrop, iubitor de singurătate, el ducea o viață de sihastru, închis aproape ermătic în pomposul său palat din Praga. Rudolf se cufundase cu totul în misteriile alchimiei, explica și compunea horoscoape, dregea oroloage și-și risipea timpul scump în truda copilărească de a face să arate și sune toate la fel. O deosebită bucurie îi procură acela care-i putea augmănta prin vreun exemplar nou bogata colecție de cristale de aur. De fapt, cârma țării o purtă archiducele Maximilian.</p>
 <p>La 6 decembrie, baronul David Unguad și Mihai Szekely fură numiți comisari regești, cu îndrumarea de a grăbi în Transilvania, de a felicita pe Mihai la biruința obținută și a-l asigura despre grațioasa bunăvoință a împăratului.</p>
-    <p>(Va urma)</p>
-    <p>Tit Chitul</p>
+    <trailer>(Va urma)</trailer>
+    <trailer>Tit Chitul</trailer>
 </div>
     </div>
     
     <div type="part" n="6">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Urmare)</p>
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="Urmare"/>
         <div type="section" n="3">
 <p>Între împrejurările strâmtorate în care se afla, Mihai însă n-avea nicio trebuință de felicitări și asigurări. Încă înainte de a intra în Transilvania, împăratul îi promisese ajutor în bani și oaste. Armata sa, compusă, după spiritul timpului, din mărcenari, începuse a murmura nemulțumită, văzând că nu-și căpătase leafa de mai multe luni.</p>
 <p>Numai energia de fier a lui Mihai putu ține în frâu ostașii nemulțumiți care erau aplecați a se despăgubi din jaf.</p>
@@ -435,15 +430,14 @@
 <p>— Ce vrei să zici cu astea vorbe neobicinuite? — se mira Mateiu.</p>
 <p>— Ce vreau să zic? Vreau să-ți spun că nici iobagul nu e dobitoc fără suflet și fără simț de onoare, după cum le place nobililor a crede. Vreau să-ți spun că e adevărată zicala că: „așchia nu sare departe de tăietor”. Daniil Lupul a dus în mormânt o mamă iubitoare și a alungat în lumă pe bărbatul care a apărat cinstea nevestei sale. Și ca păharul nedreptății să se umple până peste gardini, iată acum și fiul acestui sfios părinte calcă în urmăle moștenite, ca să nefericească o biată orfană care, în nepriceperea ei, nu cunoaște vicleniile lumii și, îmbătată de vorbe ademănitoare, nu vede prăpastia fără fund ce cască între un nobil și un iobag.</p>
 <p>Pumnii lui Mateiu se strânseră involuntar, venele tâmplelor i se umflară, tot chipul i se încinse în văpaia focului și buzele-i tremurau dând să scoată un răspuns potrivit acestor insulte cutezate, fără a izbuti.</p>
-            <p>(Va urma)</p>
-            <p>Tit Chitul</p>
+            <trailer>(Va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
         </div>
     </div>
     
     <div type="part" n="7">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Urmare)</p>
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="Urmare"/>
         <div type="section" n="3">
 <p>Lucrul ar fi avut continuare neplăcută pentru Vasile, dacă înapoia lui Mateiu nu s-ar fi ridicat în acest moment un glas calm ca lucirea soarelui după o ploaie torențială.</p>
 <p>— Nu lua în numă de rău cuvintele nepricepute ale lui Vasile — zise Anchidim scoțindu-și căciula. E tânăr și cam pornit la fire. Ți-o spun însă pe sufletul meu că te iubește și ar fi gata să sară și în foc pentru dumneata. Eu cred că ești cinstit și bun și, dacă ne vei înțelege necazul nostru și ne vei cunoaște temărea ce ziua noaptea ne chinue, vei părăsi calea pe care ai pornit.</p>
@@ -475,8 +469,7 @@
 <p>Toți erau veseli și încântați, numai pe fața serioasă a bătrânului iobag se ivea din când în când câte o ceață de griji, ca și când s-ar fi temut ca bucuria aceasta mare să nu se schimbe în supărare și mai mare.</p>
 </div>
 <div type="section" n="4">
-<p>IV</p>
-<p>Călugărul Saschi</p>
+<head>IV. Călugărul Saschi</head>
 <p>La 10 februarie 1600 Alba-Iulia avea o înfățișare de sărbătoare.</p>
 <p>După multe zile de așteptare, în sfârșit sosi vestea că comisarii împăratului Rudolf se apropie de oraș.</p>
 <p>Mihai-Vodă se decise să-i primească cu toată cinstea ce se cuvine reprezentanților unui cap încoronat.</p>
@@ -491,15 +484,14 @@
 <p>Napragi și curierii se deteră jos din trăsuri. Din toate părțile se auzeau comănzi. Împrejurimea deodată se cutremură de bubuitul puștilor; toate săbiile, paloșele, halebardele, topoarele cu două tăișuri se puseră în mișcare pe câteva secunde.</p>
 <p>Comisarii: baronul David Ungnad, om bătrân, purtat prin nenumărate solii și cu experiență multă și căpitanul Sătmarului, Mihail Szekely, cunoșteau temăinic firea făloasă a Ardelenilor, de aceea și veniră cu alai mare, cu cincisprezece trăsuri ticsite de servitori. Era trebuință să facă onoare trimițătorului lor și înfățișarea lor să fie impozantă, căci „Ardelenii sunt oameni sumăți, batjocoritori și îngâmfați”, după cum Szekely scrisese împăratului.</p>
 <p>Sosiți comisarii, episcopul Napragi le-a adresat o emfatică dicție în latinește, la care baronul Ungnad răspunse în termeni aleși.</p>
-    <p>(Va urma)</p>
-    <p>Tit Chitul</p>
+    <trailer>(Va urma)</trailer>
+    <trailer>Tit Chitul</trailer>
 </div>
     </div>
     
     <div type="part" n="8">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Urmare)</p>
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="Urmare"/>
         <div type="section" n="4">
 <p>După aceea, comisarii se suiră în trăsura cea pompoasă, luară la sine pe Carlo Magno și cortegiul porni spre oraș între neîntrerupte strigăte de bucurie și salve bubuitoare.</p>
 <p>Era la 11 ore când intrară pe poarta Albei-lulia. Casele erau împodobite cu steaguri, pe străzile ticsite de lumă curioasă, pedestrimea trase cordoane ca să țină comisarilor calea deschisă, pe care mulțimea îi petrecu cu strigăte însuflețite până la cvartir, unde trimisul lui Mihai-Vodă: Petru Armean îi așteaptă deja să-i salute în numele stăpânului său.</p>
@@ -541,18 +533,16 @@
 <p>— Pentru că magnații care împresoară pe Vodă nu m-ar fi lăsat să intru la el. Rasa simplă de călugăr nu s-ar fi potrivit cu splendoarea veștmintelor scumpe de care a strălucit azi tot orașul. Am așteptat seara, cugetând că dacă mă voi prezenta la palat sub scutul lui Baba Novac, Nimeninu va cuteza să mi se puie piedecă în cale.</p>
 <p>— Ai dreptate. Să mărgem deci la vodă încă acum, căci mâine va fi ocupat cu primirea comisarilor.</p>
 <p>Baba Novac și călugărul porniră către palatul vozii. </p>
-            <p>(Va urma)</p>
-            <p>Tit Chitul</p>
+            <trailer>(Va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
         </div>
     </div>
     
     <div type="part" n="9">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Urmare)</p>
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="Urmare"/>
 <div type="section" n="5">
-<p>V.</p>
-<p>Un sfat neprimit</p>
+<head>V. Un sfat neprimit</head>
 <p>Orașul Alba-Iulia dormea adâncit în tăcerea nopții de iarnă. Pe străzile sale deșerte numai ici-coalea se plimbau sentinele, veghind cu ochii în patru peste siguranța cetățenilor.</p>
 <p>Din înălțimea tăriei, blânda stăpână a stelelor împrăștia torenți de raze reci, luminând ca de zi calea celor doi bărbați care mărgeau către palatul lui vodă.</p>
 <p>— Ți-am spus că e sus încă — grăi Baba Novac, arătând cu mâna la câteva ferestre ale palatului, în care se mai vedea zare.</p>
@@ -580,15 +570,14 @@
 <p>— Dacă vrei să mă convingi că toți nobilii îmi sunt dușmani, trebuie să produci dovezi. Iată, eu îți ușurez lucrul, îți număsc persoanele a căror necredință să mi-o dovedești. Ce rău poți zice, spre pildă, despre Ștefan Csaky, sau Moise Szekely?</p>
 <p>— Mi-ai luat cuvântul din gură, doamne, — zise Saschi cu bucurie — căci chiar aceștia doi sunt capul complotului ce se urzește în contra Măriei Tale.</p>
 <p>— Ce complot? — se miră Mihai. Griji, căpitane, în ce lemn îți împlânți securea când vrei să mă faci a crede că acești oameni, pe care i-am încărcat de bunuri și distincțiuni, ar fi trădători.</p>
-    <p>(Va urma)</p>
-    <p>Tit Chitul</p>
+    <trailer>(Va urma)</trailer>
+    <trailer>Tit Chitul</trailer>
 </div>
     </div>
     
     <div type="part" n="10">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Urmare)</p>
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="Urmare"/>
         <div type="section" n="5">
 <p>Grăiască faptele lor — continua călugărul fără a se conturba. Eu îți voi relata fidel faimăle răspândite prin țară. Știi, doamne, că în ziua când ai pornit cu oastea catre Ardeal, eu, care am fost obișnuit a te urmări în lupte glorioase, am dezbrăcat hainele strălucite de ostaș și am luat straie călugărești. Dacă-ți vei aduce aminte, vei ști de câte ori te sfătuiam să-ți întorni spada în contra transilvănenilor, care, cu toate ca sunt creștini, nu se rușinează a se alia cu Turcii. În sfârșit, după multă așteptare, am ajuns cea mai fericită zi a mult zbuciumatei măle vieți. Am văzut fâlfăind steagurile oastei noastre biruitoare în această țară udată de atâta sânge strămoșesc. Cu toate acestea, eu am fost cel dintâi, care mi-am venit în ori din beția bucuriei. În sufletul meu s-a deschis din nou rana cea veche care-mi amărăște toată viața. A fost de ajuns să revăd aceste văi și dealuri mult iubite cu care mă obișnuisem din cea mai fragedă copilărie, ca o amintire dureroasă să devină stăpână peste toată firea mea. Știi, doamne, căci ți-am povestit, de ce oribilă nedreptate am fost împărtășit în această țară... Ar trebui să fiu înger, nu om supus slăbiciunilor, dacă dorul de răzbunare, care atâția ani arse încet sub spuza uitării în sufletul meu, nu s-ar fi trezit. S-a aprins din nou în mine dorul de răzbunare și m-am îngrozit de flăcările uriașe în care izbucnise acest foc învechit, despre care credeam că s-a stins cu totul. Un dor nebun, o pornire sălbatică mă muncea zi și noapte și mă alunga să caut pe strivitorul fericirii măle și să-mi potolesc cu sângele lui văpaia sufletului meu chinuit. În acele zile de grele încercări ochii măi înecați în sânge căzură pe haina mea cea nouă și-mi recâștigai echilibrul sufletesc. Când, intrând în această țară, îmbrăcasem haina de călugăr, aveam de cuget să fac servicii bune Măriei Tale, nebănuit de Nimenisă scrutez ce opinie se formează în țară despre stăpânirea Măriei Tale, să câștig noii ocârmuiri simpatia poporului. Nu știu întru cât ostenelile măle au reușit a dobândi rezultatul dorit, schimbarea mea în călugăr însă mi-a redat liniștea tulburată și m-a scutit de a săvârși o faptă necreștinească. Mi-am adus aminte de suferințele fraților măi, poate mult mai neîndreptățiți decât mine și am lăsat Celui de sus răzbunarea mea. Am început a cutriera țara de a lungul și latul. Doamne, cât amar, câtă suferință, câte lacrimi!... Sărmanul popor iobăgit, îmbrâncit în grele sarcini, crede că în Măria Ta a răsărit și pentru el luceafărul scăpării. Zi și noapte acești oameni necăjiți se roagă pentru binele Măriei Tale, nădjăduind că li sa va mai ușura starea de plâns. În multe sate poporul mă cunoaște și aleargă la mine ca la un izvor de mângâiere. Măcar eu nu le iau vederile cu evlavie fățărită, nu le vând precum mulți călugări șarlatani fac, nici că ar fi odihnit Mântuitorul, nici apă din izvorul din care afirma că și-ar fi potolit setea fiul Celui fără început, nici nu-i despoi de bani vânzându-le cu preț neauzit surcele de lemn zicând că acelea-s din crucea pe care Mântuitorul a suferit cea mai crâncenă moarte pentru răscumpărarea noastră. Sermanul popor nu observa că dacă ar aduna cineva la un loc toate surcelele acestea, pe care acești șarlatani, străini de neamul românesc, izbutiră a i le vinde, ai putea încărca din ele toate carele dintr-un sat și totușii ar mai rămânea. Mă pot lăuda că pretutindenea pe unde mă abătusem am câștigat iubirea și simpatia poporului român. Iobagilor le-am dat să înțeleagă că sub noua stăpânire vor putea răsufla mai liber. Iobăgimea are mari nădejdi în Măria Ta, nu numai în Ardeal, ci și în Moldova. Am cutrierat și această țară, și-ți pot spune pe suflet că aici nu numai iobăgimea chinuită, ci chiar și boierimea te așteaptă cu brațele deschise să-i mântuiești de nedreptățile lui Ieremia și de patronatul sugrumător al Leșilor. Grăbește, doamne, cu cucerirea Moldovei și risipește cuibul de năpârci de la curtea lui Ieremia, căci până mai există acesta, domnia Măriei Tale în Ardeal nu e sigură! Aici se adună toți emisarii magnaților ardeleni să se sfătuiască cu Ieremia, cu oamenii cancelarului polon Zamoisky și cu ai lui Sigismund Báthory, care ar vrea să se așeze din nou în scaunul principesc al Ardealului. Nu trece săptămână să nu vezi pe la curtea lui Ieremia oameni trimiși de Csaky și Moise Szakely, care pe față își bat piepturile și se laudă în gura mare că ar fi cei mai devotați sprijinitori ai Măriei Tale, în ascuns însă sunt una cu Sigismund Báthory.</p>
 <p>Aici Mihai-Vodă întrerupse pe călugăr.</p>
@@ -618,18 +607,16 @@
 <p>— Mâine după audiență te voi lua cu mine.</p>
 <p>— Acum nu pot rămâne în Alba-Iulia. Să lăsăm pentru altă ocazie întâlnirea aceasta. Vino acum cu mine până la poarta orașului. Santinelele nu mă cunosc și nu-mi vor deschide-o, dacă nu-mi vei sta în ajutor.</p>
 <p>Zadarnice fureă toate stăruințele lui Baba Novac de a opri pe călugăr în oraș până dimineață. Acela, ieșind din Alba-Iulia, peste câteva minute se pierdu în noaptea întunecoasă.</p>
-            <p>(Va urma)</p>
-            <p>Tit Chitul</p>
+            <trailer>(Va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
         </div>
     </div>
     
     <div type="part" n="11">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Urmare)</p>
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="Urmare"/>
 <div type="section" n="6">
-<p>VI.</p>
-<p>Mirislău</p>
+<head>VI. Mirislău</head>
 <p>De când Mihai-Vodă s-a mutat cu rezidența în Alba-Iulia, capitala Ardealului purta încontinuu haine de sărbători.</p>
 <p>La curtea lui Mihai se perindau în șir neîntrerupt soliile polonilor și ale turcilor care îi ofereau titluri strălucite și mari avantaje, dacă lepădându-se de Rudolf va recunoaște suzeranitatea semilunii. A trebuit ca Mihai să-și pună-n lucrare toată dibăcia și istețimea ca, refuzând ofertele splendide ale acestor dușmani, să nu-i năpăstuiască pe capul său și totușii să nici nu hrănească cu purtarea sa neîncrederea curții imperiale, care și așa nu-i era prietenă fidelă și nu voia să-l remunereze după merit pentru marile servicii ce i le prestase.</p>
 <p>Sosirea și plecarea solilor erau totdeauna împreunate cu festivități splendide și zgomotoase.</p>
@@ -676,15 +663,14 @@
 <p>Strigătele sale se pierdură în zgomotul haotic ce-l înconjură.</p>
 <p>Minunatul cal al lui Mihai se aruncă fără ezitare în râu și începu a despica valurile roșite de sânge.</p>
 <p>Saschi, înrădăcinat în pământ își scăpase pârghia și cu ochii încremăniți și răsuflarea oprită urmărea pe Mihai care din ce în ce se apropiă de țărmure.</p>
-    <p>(Va urma)</p>
-    <p>Tit Chitul</p>
+    <trailer>(Va urma)</trailer>
+    <trailer>Tit Chitul</trailer>
 </div>
     </div>
     
     <div type="part" n="12">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Urmare)</p>
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="Urmare"/>
         <div type="section" n="6">
 <p>Ajuns la uscat, Mihai își săruta pe frunte calul care tremura de oboseală, îi îmbrățișă grumazii și, luându-i din cap frâul, îi dete cale liberă. Era obosit peste măsură acest nobil animal și nu l-ar mai fi putut purta.</p>
 <p>După aceea, încălecând pe un alt cal, porni către Alba-Iulia, neurmerit de Nimenidintre inimicii săi.</p>
@@ -701,8 +687,7 @@
 <p>Călugărul își apucă apoi pârghia și începu a mâna luntrea spre țărmul stâng al Mureșului.</p>
 </div>
 <div type="section" n="7">
-<p>VII</p>
-<p>Sosirea Iui Vasile.</p>
+<head>VII. Sosirea Iui Vasile.</head>
 <p>Vestea despre lupta fatală de la Mirislău străbătu cu o iuțimă miraculoasă tot Ardealul.</p>
 <p>Nobilimea, care numai de frică se supuse lui Mihai, izbucni în bucurie generală că a reușit a delătura sabia amănințătoare ce atârna necontenit deasupra capetelor înfierbântate de planuri răzvrătitoare. Magnații fruntași apucară din nou cârma țării. Csáky își câștigase prin trădarea sa renumă și vază, la care mai-nainte nici a visa nu s-ar fi încumătat.</p>
 <p>Om abițios și care nu-și alege mijloacele când e vorba să ajungă la ținta dorită, el încă de pe-acum începu a-și face cărare către cea mai înaltă treaptă la care se putea rădica cineva în această țară. Îi plăcea a se numi „primul domn în consiliu” și cu înțelepciune astută el se năzuia a da tuturor afacerilor aparența, ca și când acelea ar fi fost săvârșite după placul și mandatul său. Văzând acest mod cât de minunat îi curg trebile, speranța vanitoasă de a ajunge în scaunul principesc al Ardealului, care la început se trezise în sufletul său ambițios numai ca dorință vagă, de care nici el singur nu-și putea da seama — prinse rădăcini adânci. Csáky credea că, dacă nu va putea ajunge principe adevărat al Ardealului, cel puțin va dobândi postul de guvernator al acestei țări.</p>
@@ -740,15 +725,14 @@
 <p>— Nu știu nimic. De trei săptămâni tot după el întreb, fără a-i da peste urmă. Câte sate sunt între Belgrad și Făgăraș prin toate am trecut, întrebând după el. Nimeninu mi-o putut spune nimic, în sfârșit a trebuit să mă abat și pe acasă, nădăjduind că-l voi afla aici.</p>
 <p>Bătrânul clăti îngrijat din cap.</p>
 <p>— La Mirislău, după luptă, l-ai văzut?</p>
-    <p>(Va urma)</p>
-    <p>Tit Chitul</p>
+    <trailer>(Va urma)</trailer>
+    <trailer>Tit Chitul</trailer>
 </div>
     </div>
     
     <div type="part" n="13">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Urmare)</p>
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="Urmare"/>
         <div type="section" n="7">
 <p>Nici despre aceea nu sunt sigur că văzutu-l-am sau ba. În vălmășeala îngrozitoare în care a trecut lupta, după ce vrășmașul a izbutit a frânge șirurile lui Vodă, mi se pare că l-am văzut o dată. Dezordinea în trupele noastre era de tot mare, chiar și cei mai viteji ostași își pierdură capetele și orbecăiau fără țintă prin norii de fum ce acopereau câmpia sădită cu morți. În asemănea clipe, când moartea se avânta înfuriată după jertfe, fiecare se îngrijește din instinct mai mult de scăparea sa decât de a altuia. Mi se pare că am trecut printr-un vis înfiorător când îmi împroaspet în minte cele ce le petrecui în acea zi îngrozitoare. Dacă m-ar întreba cineva cum am scăpat cu viață, nu i-aș ști spune. Îmi aduc aminte că am ajuns într-un vârtej de ostași, care mă răpi și pe mine între îmbulzituri grozave cu sine. Zgomotul era asurzitor, zăpăceala fără margini, Nimenidintre acești nefericiți nu știa unde mărge. Eu, spre norocul meu, eram la marginea vârtejului, dacă aș fi ajuns la mijloc, sunt convins că n-aș mai trăi. Nu ți-aș putea spune câtă vreme a ținut acea îmbulzeală nesocotită, mie mi s-a părut o veșnicie fără sfârșit. Eu încă de la început mi-am dat toată silința să mă smulg din acest vârtej viu. Îmi curgeau șiroaie de sudori pe față, din nări mi se pornise sângele, răsuflarea mi se oprise, când în sfârșit după multă trudă și opintiri mă văzui la larg. Câteva clipe numai de mai întârziam, eram fiul morții, căci trupa nefericită se rostogoli mai departe și se prăbuși înaintea ochilor măi în Mureș. Nu era timp de a sta mult pe cumpănă, în jurul meu zgomotul tot creștea. Vedeam trupe noi sosind și arucându-se una după alta ca oile în Mureș. Cum i-aș fi reținut pe acești nefericiți, dacă aș fi putut! — Cine mi-ar fi luat, însă, în seamă sfaturile acum, dacă mi-ar fi și auzit glasul în toiul clocotitor de care fierbea toată câmpia? Și acum vine clipa în care mi se pare că am văzut pe Mateiu. Dinspre deal o ceată strălucită de călăreți tăia câmpul în goana cailor spre Mureș. În fruntea acestei cete recunoscui pe Vodă. Soldații care îl urmau erau gardiștii săi. Nici acum nu știu însă, numai nălucire a fost, sau fapt adevărat ceea ce vreau să-ți spun. Mi se pare că am zărit pe o clipă prin ceața groasă de fum pe Mateiu, călărind lângă Mihai-Vodă. Priveliștea in câteva clipe se schimbă, calul lui Mihai cu o săritură uriașa s-a aruncat în Mureș, gardiștii îl urmară fără frică prin valurile înspumate... l-am petrecut cu ochii mirați, până ce Mihai-Vodă a ajuns la uscat. Dintre gardiști, însă, s-au înecat mai mulți inși. Eu din nou am ajuns într-un vârtej de ostași, care mă răpi cu sine. Spre norocul meu, grupa în care mă încâlcisăi apucase calea scăpării pe uscat. Nu știu pe unde am fugit, de-ajuns atâta că chiotele si strigatele persecutorilor rămaseră din ce în ce tot mai departe înapoia noastră, până când în sfârșit amuțiră cu desăvârșire. M-am trezit din buimăceala mea pe un vârf de deal. Eram scăpat.</p>
 <p>În ziua următoare am încercetat câmpul de luptă. Și acum mă apucă fiori de groază dacă gândesc la priveliștea ce se desfărșura înaintea mea. Câmpia dintre deal și Mureș, pe întindere cât puteam cuprinde cu ochii, era sădită cu trupuri înțepenite. Muțenia de mormânt ce domnea jur de mine era întreruptă din când în când de cloncăiri urâte și stoluri bâjbăitoare de corbi, vulturi și ciori gălăgioase se ridicau ca niște nori întunecați, făceau câteva rotiri prin aerul împuțit și iarăși se puneau pe morți.</p>
@@ -788,18 +772,16 @@
 <p>Abia stătu el câteva clipe în ușa tinzii și se întoarse năvalnic în odaie, strigând:</p>
 <p>— Tată! În curtea domnească văd mai mulți călăreți. Poate că chiar Mateiu a sosit.</p>
 <p>Fața bătrânului se aprinse de bucurie și porni cu fiul său la curte.</p>
-            <p>(Va urma)</p>
-            <p>Tit Chitul</p>
+            <trailer>(Va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
         </div>
     </div>
     
     <div type="part" n="14">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Urmare)</p>
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="Urmare"/>
 <div type="section" n="8">
-<p>VIII.</p>
-<p>Jussuf ben Achmed</p>
+<head>VIII. Jussuf ben Achmed</head>
 <p>Pe timpul viforos în care se petrece narațiunea noastră siguranța publică în Ardeal era de tot neglijată. Ființe disperate, iobagi fugiți de frica pedepsăi, ostași pribegiți, criminali persecutați de lege care nu mai aveau nimic de a pierde, oameni cu suflete negre și porniri păcătoase, făcători de rele din fire, se întruneau în cete număroase și țineau în teroare neîntreruptă sate întregi prin deprădări, aprinderi și jafuri. Mâna pedepsitoare a legii era departe; sărmanii iobagi își apărau viața și averile cum puteau.</p>
 <p>Pe lângă aceste grozăvii, mai măreau teroarea generală și desele invazii ale popoarelor vecine. Azi Turcii, mâne Tătarii, poimâine Polonii călcau granițele acestei țări, prădau, jefuiau, aprindeau tot ce li se ivea în cale, răpeau cu sine cirezi de vite și mii de sclavi, lăsând pe nenorociți, locuitori în lacrimi și nespusă mizerie.</p>
 <p>Dezordinea era la culmă și în afacerile religioase.</p>
@@ -851,15 +833,14 @@
 <p>— Mateiu!</p>
 <p>Jussuf, vesel de efectul intimidărilor sale, nu întârzia a consola pe Mălinda:</p>
 <p>— Nu fi îngrijorată, turturică speriată, că aici e Jussuf ben Achmăd, care-ți va sta în ajutor. E aici timpul să-ți dovedesc că nu sunt tocmai așa fără influință și desconsiderat cum mă crezi tu. Beglerbegul din Timișoara mi-e prieten și însuși marele vizir, urechea gloriosului padișah, se simte fericit când poate strânge mână pretinească cu mine și pentru el totdeauna e sărbătoare acea zi, în care poate asculta înțeleptele sfaturi ale lui Jussuf ben Achmăd. Nu te temă, deci, de nimenini; ori ce a făcut fratele tău nu i se va întâmpla niciun rău. Cine ar și cugeta să dea piept cu prietinul beglerbegului și al marelui vizir?</p>
-    <p>(Va urma)</p>
-    <p>Tit Chitul</p>
+    <trailer>(Va urma)</trailer>
+    <trailer>Tit Chitul</trailer>
 </div>
     </div>
     
     <div type="part" n="15">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Urmare)</p>
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="Urmare"/>
         <div type="section" n="8">
 <p>Și mândru de puterea sa, își purta privirea triumfătoare împrejur prin odaie, așteptând admirația Mălindei, care, uitând de purtarea necinstită de pana acum a curiosului ei adorator, cu privirea rugătoare a celor amănințați de primăjdii mari, îi adresă următoarele cuvinte:</p>
 <p>— De-apururi îți voi fi recunoscătoare și deobligată dacă-mi vei sta în ajutor cu influința dumitale și nu vei lăsă ca fratele meu să fie nimicit de inamicii săi.</p>
@@ -888,8 +869,7 @@
 <p>Noaptea de toamnă își desfășura într-aceste cernitul său văl peste lumea amorțită în tăcere; în sufletele junelor femei, cu toate acestea, era lumină de zi, căci torța speranței aprinse de nou flăcări în inimile lor.</p>
 </div>
 <div type="section" n="9">
-<p>IX</p>
-<p>Pribeagul.</p>
+<head>IX. Pribeagul.</head>
 <p>Călugărul Saschi, după ce-și legase luntrița sa primitivă la țărmul stâng al Mureșului, cu mare grijă și precauțiune ridică trupul nemișcat al ostașului ce zăcea lungit în fundul ei și-l puse pe uscat. Desfăcându-i apoi hainele, își puse urechea pe piept și ascultă câtva timp... Peste fața îngrijorată a călugărului deodată se răspândi o expresie radioasă de bucurie. Cu toate că fața ostașului era mai palidă decât a unui mort și gura-i mânjită de o spumă sângeroasă era încleștată, iar pe piept avea o rană grozavă din care sângele curgea încet, inima lui, deși slab, insă totușii mai bătea încă.</p>
 <p>Călugărul scoase din râu apă în potcapul său și spălă rana junelui ostaș, după aceea îi tăie pulpana hainei și aplică pansam.</p>
 <p>Din buzunarul rasăi sale, el scoase apoi o sticluță mică și, descleștând cu un cuțit dinții rănitului, lăsă să cadă din conținutul ei câteva picături în gura lui.</p>
@@ -904,16 +884,15 @@
 <p>Din această zi nu trecuse nicio noapte în care ciobanii ce erau așezați de iarnă cu oile la poalele dealului să nu fi văzut aprinzându-se în întunericul nepătruns o zare scăpătoare, care le lumina din direcțiunea unde Sashii își avea locuința ca un luceafăr ce tremura de opintiri de a se ridică la cer, fără de a izbuti să-și părăsească locul unde se ivise.</p>
 <p>— Trebuie să aibă vreo nevoie părintele Saschi de petrece timp atât de îndelungat în peștera sa — zise în una din zile un cioban către tovarășii săi, după ce văzu mai multe nopți după olaltă zare de foc la Saschi. N-aș vrea ca un om atât de bun cum e și dânsul să fie bolnav. Mâine-l voi încerceta.</p>
 <p>Mirarea ciobanilor fu de tot mare când, în ziua următoare, tovarășul lor se întoarse de la Saschi cu vestea că părintele are la sine un ostaș june, pe care îl aduse greu rănit dela Mirislău și pe care îl îngrijește mai bine, ca și când i-ar fi fiu. Le părea mai cu seamă neexplicabilă purtarea călugărului acestor oameni simpli. Cum de caută Saschi cu atâta grijă de un bolnav despre care știe sigur că e nobil, pe când nouă cu atâta ură și înverșunare ne grăiește despre domni? — își ziseră ei în cuget.</p>
-    <p>(Va urma)</p>
-    <p>Tit Chitul</p>
+    <trailer>(Va urma)</trailer>
+    <trailer>Tit Chitul</trailer>
 </div>
     </div>
     
     <div type="part" n="16">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Urmare)</p>
-        <div type="section" n="9">
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="Urmare"/>
+    <div type="section" n="9">
 <p>Ciobanul ce vizitase pe Saschi, ca și când ar fi ghicit cugetele soților săi, le zise:</p>
 <p>— Părintele Saschi are mai multă minte decât noi toți laolaltă. El știe de-a bună seamă ce face când poartă grijă de un nobil.</p>
 <p>În urma acestor cuvinte, toți se liniștiră.</p>
@@ -964,15 +943,14 @@
 <p>Fața palidă a lui Mateiu luă o expresie compusă din indignare și tristeațe.</p>
 <p>— Sufletul omănesc în nenorociri își arată calitățile — zise el mâhnit. Pentru credința lui Baba Novac aș fi garantat cu capul meu; mai în grabă aș fi crezut că sângele se poate preface în apă decât că voi vedea oarecând pe Baba Novac luptându-se în contra lui Mihai.</p>
 <p>— Nici nu-l vei vedea. Baba Novac își are scopul său cu trecerea la Ardeleni. Numai eu îi cunosc motivul pentru care făcuse acest pas. Fii încredințat că și această faptă a săvârșit-o tot în folosul vechiului său stăpân .</p>
-            <p>(Va urma)</p>
-            <p>Tit Chitul</p>
-        </div>
+        <trailer>(Va urma)</trailer>
+        <trailer>Tit Chitul</trailer>
+    </div>
     </div>
     
     <div type="part" n="17">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Urmare)</p>
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="Urmare"/>
         <div type="section" n="9">
 <p>Mateiu își adânci privirea în fața călugărului, ca și când ar fi vrut să citească de pe aceasta secretele acestui bărbat misterios. După un timp oarecare de scrutare, junele deodată erupse:</p>
 <p>— Te rog, nu mă insulta cu neîncrederea dumitale! Știu că dumneata nu ești acela pe care te arată veșmintele. Cine ești, deci? Jur că-ți voi păstra secretul!</p>
@@ -998,15 +976,14 @@
 <p>— Griji, Niculae Mohor, că nu știi ce grozav păcat săvârșești când îți ridici arma asupra mea!</p>
 <p>În acest moment vreascurile din bătătură prinseră foc și peștera se umplu de lumină roșiatic tremurătoare.</p>
 <p>La căpătâiul lui Mateiu, pe peretele zgroburos al peșterii, atârna o cruce cu chipul Celui ce-și vărsase sângele pentru mântuirea sufletelor din robia păcatelor.</p>
-            <p>(Va urma)</p>
-            <p>Tit Chitul</p>
+            <trailer>(Va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
         </div>
     </div>
     
     <div type="part" n="18">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Urmare)</p>
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="Urmare"/>       
         <div type="section" n="9">
 <p>Focul chiar atunci izbucni în flăcări, când Niculae era să străpungă pe Mateiu. În acest moment critic ochii lui Niculae căzură pe crucea luminată. În starea sufletească de tot agitată, chipul Mântuitorului păru călugărului ființă vie, care izvorise din întuneric să-l rețină prin privirea sa mustrătoare de la o faptă îngrozitoare...</p>
 <p>— Să nu cugeți că mi-e frică de moarte, Niculae Mohor! — se auzi acum glasul lui Mateiuu. Peste câteva minute vei înțelege și tu marea nedreptate ce era să o săvârșești.</p>
@@ -1014,8 +991,7 @@
 <p>În întunericul nepătruns de afară numai un urlet de lup ce suna răgușit din fundul pădurii conturbă liniștea de mormânt a nopții.</p>
 </div>
 <div type="section" n="10">
-<p>X</p>
-<p>O noapte îngrozitoare.</p>
+<head>X. O noapte îngrozitoare.</head>
 <p>După ce steaua lui Mihai-Vodă se întunecase la Mirislău, o goană nebună erupse în contra nobililor, care, ținând sfințenia jurământului, nu s-au întors destul de cu vreme pe partea răzvrătiților.</p>
 <p>Părea că toate patimile năbușite deodată își rupseră lanțurile.</p>
 <p>Precum viscolele mari răscolesc adâncimile apelor și scot pe suprafața înspumată toată necurățenia ce în timpul liniștii zăcuse îngropataă în nămolul fundului întunecos, precum după amuțirea ucigătorului zgomot de armă, negreșit apar negrele pâlcuri de păsări ce se hrănesc din carne și sânge, așa și acum, existințe răutăcioase, caractere dubioase își scoaseră din marea tulburată a societății omenești spurcatele lor capete și, cu ochi lacomi pândeau după ocaziune să se poată arunca pe prăda.</p>
@@ -1037,15 +1013,14 @@
 <p>Într-aceste, Mălinda se dezbrăcă; stinse lumânarea și se puse în așternut.</p>
 <p>— Mâine o să ne sculăm devreme — zise ea Dochiței. Vasile va pleca îndată ce se vor ivi zorile.</p>
 <p>— Atunci nu mult vom dormi; miezul nopții a trecut deja.</p>
-    <p>(Va urma)</p>
-    <p>Tit Chitul</p>
+    <trailer>(Va urma)</trailer>
+    <trailer>Tit Chitul</trailer>
 </div>
     </div>
     
     <div type="part" n="19">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Urmare)</p>
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="Urmare"/>
         <div type="section" n="10">
 <p>Dochiței se păru în acest moment că a auzit un zgomot înfundat ce venea din curte.</p>
 <p>— N-ai auzit, Mălinda? — întrebă ea îngrijorată, sculându-se în așternut și ascultând cu atenție încordată.</p>
@@ -1100,15 +1075,14 @@
 <p>— Nu te temă, Dochiță! — o mângăie ea, prinzându-o de mâni. Nu vezi că e badea Anchidim? De ce strigi fără nicio cauză? Iată calea scăpării deschisă înaintea noastră! Vino la ori și nu-ți pierde prezența sufletului în acest moment decisiv!</p>
 <p>Ca scăpată din ghețoasa îmbrățișare a morții, Dochița își îndreptă privirea către cinstitul moșneag ce stătea zăpăcit, căutând jur de sine cu ochi îngrijorați cauza ce înfricase atât de tare pe nepoata sa. Timidă și cu voce tremurătoare de efectul zguduirii prin care trecuse, șopti ea abia auzibil:</p>
 <p>— Da, moșul Anchidim e bun și ne va mântui din acest pericol de moarte.</p>
-            <p>(Va urma)</p>
-            <p>Tit Chitul</p>
+            <trailer>(Va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
         </div>
     </div>
     
     <div type="part" n="20">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Urmare)</p>
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="Urmare"/>
         <div type="section" n="10">
 <p>Apoi, mânată de un impetuos sentiment de mulțămită și dragoste, ea se aruncă la gâtul bătrânului și-i înăarcă de sărutări fața scofâlcită.</p>
 <p>Cu gingășie iubitoare, bătrânul se dezmătici din îmbrățișările nepoatei sale și în glasul lui slăbit de etatea înaintată vibra o adâncă emoție când zise:</p>
@@ -1178,15 +1152,14 @@
 <p>— Te-am iubit și mor fericit! — șopti el abia auzibil.</p>
 <p>Pleoapele lui căzură apoi grele pe ochi...un oftat adânc și toate s-au finit.</p>
 <p>Vasile Mohor trecuse pragul veșniciei.</p>
-            <p>(Va urma)</p>
-            <p>Tit Chitul</p>
+            <trailer>(Va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
         </div>
     </div>
     
     <div type="part" n="21">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Urmare)</p>
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="Urmare"/>
         <div type="section" n="10">
 <p>Petrecerea in odaie începea a fi periculoasă; focul prelingea deja geamurile ferestrelor.</p>
 <p>La un semn al lui Jussuf, doi turci luară pe Dochița și Mălinda în brațe și intrară în coridor.</p>
@@ -1202,8 +1175,7 @@
 <p>Ecoul coridorului repeta de mai multe ori acest strigăt al Mălindei.</p>
 </div>
 <div type="section" n="11">
-<p>XI</p>
-<p>Fata pădurii.</p>
+<head>XI. Fata pădurii.</head>
 <p>Călugărul Saschi, de câte ori ieșa pe ușa locuinței sale primitive, totdeauna își arunca privirea către poalele dealului. Când era timp limpede, de aici din înălțimă ochii săi ageri puteau deosebi lămurât figurile ciobanilor care plecau cu turma la pășune.</p>
 <p>De multe ori, în muțenia nopții, când și sufletul său deprins cu monotonia traiului singuratic simțea apăsarea urâtului, vântul aducea la peștera sa fragmănte de mălodii dulci ce le scoteau ciobanii din fluierile lor. De multe ori, când zvârcolindu-se nedormit în așternutul său își chinuia sufletul cu amintirile sale dureroase, lătratul câinilor și sunetul mălancolic al clopotelor de pe oi ce străbăteau urechile lui îi aduceau nespusă mângâiere și pace și făcându-l să uite amărăciunea prezentului, i se părea că o putere misterioasă l-a vrăjit să-și mai trăiască încă odată trecutul.</p>
 <p>În aceste clipe de extaz i se părea că vede limpede pe frumoasa sa Irina desprinzându-se ușoară și sprintenă din întunericul fără formă. El era cioban și o aștepta la stână. Irina lui se lipea de dorul ei și în brațele sale parcă toată dragostea sufletului i se îngrămădea când strângea pe mica Dochița și se dezmierda în trăsăturile ei nevinovate, în ochii ei vineți, în obrajii ei rotunzi și în fericitul ei zâmbet copilăresc.</p>
@@ -1238,15 +1210,14 @@
 <p>— Slab duh necurat poate fi acela pe care îl alungă dintr-un loc în altul — zise Niculae. Până acum te credeam om înțelept și cu inima la loc, care nu crede în vorbe băbești. Acum m-am convins că și ochii lui Stan ciobanul scapără câte-odată.</p>
 <p>— Fie deci cum zici dumneata — se năcăji ciobanul. Eu am doi ochi, care niciodată nu m-au înșelat. Azi noapte să se fi întâmplat cum zici dumneata. Suntem însă patru ciobani la această stână. Ce văd opt ochi deodată nu poate fi minciună.</p>
 <p>— Ați văzut-o aievea?</p>
-    <p>(Va urma)</p>
-    <p>Tit Chitul</p>
+    <trailer>(Va urma)</trailer>
+    <trailer>Tit Chitul</trailer>
 </div>
     </div>
     
     <div type="part" n="22">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Urmare)</p>
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="Urmare"/>        
         <div type="section" n="11">
 <p>Da, am văzut-o. Era trecut miezul nopții, când câinii începură a lătra. Așa lătrat de câine n-am auzit de când sunt. Grabnic apuc securea în mâni și ies afară. Luna plină tremura, obosită, aproape de deal. Câmpia era luminată ca de zi. Nu sunt om fricos, nici nu mă tem de toată tufa, dar atunci am simțit puțină receală în jurul inimii... câinii, cu un lătrat răgușit, se aruncau ca lupii după o motohaliță neagră ce fugea să ajungă pe o alta asemănea dihanie care, mai sprintenă, apucase înainte și chiar intră în pădure. Codrul țiuia de țipete, copacii poeneau înfricoșat, lătratul câinilor parcă spunea că acesta nu e lucru curat... Fata pădurii! — îmi trecu deodată prin creieri un gând. Afară, fraților!... — Ține-te, Bălane!... Nu o lăsa, zăvoade!..., Cât bați în pălmi, tovarășii măi toți au fost afară. Dacă nu-mi crezi mie, întreabă-i pe ei și-ți vor spune cum au petrecut-o câinii până ce s-a ascuns în fundul pădurii.</p>
 <p>— Precum se vede, voi ați asmuțat cu câinii vreun om năcăjit care venea poate la voi să afle adapost peste noapte.</p>
@@ -1282,15 +1253,14 @@
 <p>— Mie mi-a venit vremea să mă duc din acest ținut.</p>
 <p>— Vom purta grijă de peștera dumitale ca și până acum.</p>
 <p>— Tu știi, Stane, că la mine zace un oștean tânăr. Peste o săptămână două, el se va vindeca cu desăvârșire. Până atunci însă el are nevoie de îngrijire. Junele acesta are o soră și o nevastă, tu vei întreba după aceste și le vei duce la peștera mea. numele oșteanului e Mateiu Lupul și e Român.</p>
-            <p>(Va urma)</p>
-            <p>Tit Chitul</p>
+            <trailer>(Va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
         </div>
     </div>
     
     <div type="part" n="23">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Urmare)</p>
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="Urmare"/>
         <div type="section" n="11">
 <p>În acest moment Stan, care era cu fața către ușa bordeiului, sări ca mușcat de un șerpe și, apucând securea în mână, năvăli afară, strigând din toată puterea:</p>
 <p>— Ține-o câine!— Pe ea, Bălane!— Bată-o mânia lui Dumnezeu să o bată, că acum nu se sfiește a se arătă și ziua.</p>
@@ -1349,8 +1319,7 @@
 <p>Inima lui s-ar fi prefăcut într-un nou izvor de chinuri, dacă brațul lui ar fi stins o viață nevinovată.</p>
 </div>
 <div type="section" n="12">
-<p>XII</p> 
-<p>Întâlnirea.</p>
+<head>XII. Întâlnirea.</head>
 <p>Câtă vreme Niculae a fost de față, lui Stan i-a fost rușine să mai amintească de fata pădurii.</p>
 <p>Acum însă, când el rămase numai cu Mălinda și Dochița, nu se putu conteni să nu le întrebe: noaptea ați petrecut-o în pădurea asta. N-ați văzut ceva înspăimântător? O dihanie cu chip de om, care însă toată e învăluită în păr?... Pe fata pădurii?...</p>
 <p>— N-am văzut pe nimeni — respunse Mălinda. Numai niște câini erau să ne sfârtece bucăți. Nu ți-aș putea spune pe ce vreme am izbutit să ieșim la marginea pădurii, unde, la depărtare de câteva sute de pași, văzurăm scăpărând o zare de foc. — Aici trebuie să fie oameni, — cugetam și pornirăm cu nădejde către focul ce tremura din depărtare, chemător, către noi. Era să o pățim... Abia ne depărtarăm de o zvârlită două de pădure și, în tăcerea nopții, se ridică un lătrat de câine. Câteva clipe și furăm înconjurate de toate laturile de guri rânjite de câini, care se aruncau ca lupii să-și înfigă colții ascuțiti în noi. De la foc se auzeau chiote, fluierături și asmuțări neîntrerupte, ca și când o sută de lupi ar fi intrat într-o turmă de oi... Numai Dumnezeu ne știe cum am putut scăpa iară în pădure... Azi dimineață apoi o nouă groază ne aștepta. Cum pribegeam fără țintă printre copaci, numai ne pomănim în spatele noastre cu Turcul acesta, care acum de-a bună seamă punea mâna pe noi, dacă nu ne-ar fi mântuit părintele acesta necunoscut. Dar cine e acest om curios, care, după ce ne mântuise viața, ne lasă aici fără nici un cuvânt și fără de a ne da timp să-i putem mulțumi?</p>
@@ -1366,15 +1335,14 @@
 <p>— Veniți după mine, am să ve duc la locuința părintelui Saschi.</p>
 <p>Și porni înainte la deal.</p>
 <p>Dochița și Mălinda însă, în loc să urmăze chemării ciobanului, rămaseră nemișcate, cu privirea ațintită pe un punct negru, care desfașurându-se tot mai lămurât din depărtarea fumurie, parea că e în mișcare. Încet cu încetul acest punct luă formă tot mai hotărîtă, până când in sfârșit nu mai era nicio îndoială că pe drumul ce șerpuia la poala dealului ca o pânză întinsă la infinit, se apropia un călăreț.</p>
-    <p>(Va urma)</p>
-    <p>Tit Chitul</p>
+    <trailer>(Va urma)</trailer>
+    <trailer>Tit Chitul</trailer>
 </div>
     </div>
     
     <div type="part" n="24">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Urmare)</p>
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="Urmare"/>
         <div type="section" n="12">
 <p>Pe fețele junelor femei de nou se ivi espresiunea groazei.</p>
 <p>— Iaca încă unul din persecutori! — exclama Mălinda îngrijorată. Să intrăm în pădure până ce nu ne zărește încă.</p>
@@ -1422,18 +1390,16 @@
 <p>— Mare ești tu Doamne și minunate sunt căile tale! — exclamă acum Anchidim. Mâine voi românea aici cu voi, ca depărtarea mea să nu trezească bănuieli în Dochița. Poimâne insă mă pun la drum și de-ar trebui să-mi cumpăr opinci de fier și bâtă de oțel, nu mă voi opri până nu voi întâlni pe Niculae... Doamne, dacă ar fi adevărată și aceasta minune!</p>
 <p>Anchidim se puse iară la locul său de odihnă. Somnul însă parcă-i încunjura pleoapele.</p>
 <p>Vestitoarea zilei sosise, o dungă de lumină ce se strecără prin o crăpătură a ușii, îl găsi pe bătrânul Anchidim treaz, frământându-și mintea cu fel și fel de gânduri.</p>
-            <p>(Va urma)</p>
-            <p>Tit Chitul</p>
+            <trailer>(Va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
         </div>
     </div>
     
     <div type="part" n="25">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Urmare)</p>
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="Urmare"/>
 <div type="section" n="13">
-<p>XIII</p>
-<p>O clipă de fericire în ceasul morții.</p>
+<head>XIII. O clipă de fericire în ceasul morții.</head>
 <p>Pe drumul ce duce de la Feleac către Cluj, cobora o sanie trasă de un cal.</p>
 <p>Era amurg de seară și ger de crăpau copacii.</p>
 <p>La poala unui pripor bătrânul vizitiu își opri calul, se dete jos din sanie și suflă de câteva ori în pumni să-și dezmorțească degetele înghețate de jumătate.</p>
@@ -1474,15 +1440,14 @@
 <p>— Trage, nevastă, perdelele — porunci acum pârcălabul, punând legătura de chei pe masă. N-aș vrea să mă vadă cineva povestind cu acest prieten al meu.</p>
 <p>Oaspele păși acum lângă masă și opaițul îi lumină fața. Cel ce avuse numai odată ocaziune a privi în această față brăzdată de cute dese, la moment o putea recunoaște, cu toate că bătrânul își schimbase radical portul și se îmbrăcase ungurește: cu pantaloni strâmți, cizmă cu pinteni, pălărie mică sufulcată în peană ca o ciupercă. Pronunțarea străină cu care vorbea limba ungurească încă îi dădea de gol că nu se trage din vița lui Arpăd.</p>
 <p>Păzitorul de robi se duse acum la fereastră să se convingă că nu rămase oarecum vreo crăpătură pe care niște ochi curioși l-ar putea pândi.</p>
-    <p>(Va urma)</p>
-    <p>Tit Chitul</p>
+    <trailer>(Va urma)</trailer>
+    <trailer>Tit Chitul</trailer>
 </div>
     </div>
     
     <div type="part" n="26">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Urmare)</p>
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="Urmare"/>        
         <div type="section" n="13">
 <p>Liniștit pe deplin în această privință, el se întoarse după aceea către oaspetele său și-i zise:</p>
 <p>— Anchidimă! eu am încredere în tine, altmintrelea nici n-aș fi stat de vorbă cu tine. Sunt sărac și mă lupt din greu cu necazurile neajunsului; cu toate acestea, n-aș vrea ca mâine să fiu tras în țeapă sau frânt în roată. Tu știi ce pericol atârnă deasupra capului meu, eu însă nici acum nu știu pentru ce-mi pun viața în joc.</p>
@@ -1510,15 +1475,14 @@
 <p>- Și ce ai pretinde să-ți împlinesc pentru această sumă?</p>
 <p>- Nimic extraordinar. Într-o noapte să dormi mai greu ca de comun și să nu observi că Baba Novac și Saschi au reușit a face o gaură în zidul temniții.</p>
 <p>— În ziua următoare apoi plebea Clujului să se desfăteze în chinurile sărmanului Gyuri, cum călăul între râsete și batjocuri grosolane îi frânge mămbrele în roată — întregi pârcălabul. Ce folos aș avea eu atunci de banii tei, Anchidimă?... Nu mi-am pierdut încă mințile să fac așa ceva. Să mărgem, dacă vrei a vorbi cu Saschi, timpul tace și trece. E posibil că peste un ceas nu ți-oi putea sta la dispoziție. Oricât e de mare încrederea ce domnii de la cârmă o au în mine, aceea totuși are și țărmuri.</p>
-            <p>(Va urma)</p>
-            <p>Tit Chitul</p>
+            <trailer>(Va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
         </div>
     </div>
     
     <div type="part" n="27">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Urmare)</p>
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="Urmare"/>
         <div type="section" n="13">
 <p>Anchidim încă nu-și perdu toată nădejdea.</p>
 <p>- Înainte de a te lăpăda de averea ce ți-o închină norocul, ascultă-mă încă puțin - stărui el. După cum am plănuit eu lucrul, Csaky și soții lui niciodată n-ar ști că tu nu ți-ai împlinit cu credință slujba.</p>
@@ -1580,17 +1544,16 @@
 <p> Unchiule — zise Niculae șoptind — am presimț că în curând îmi voi sfârși viața. Ascultă deci ultimăle măle dispozițiuni: în peștera unde zăcuse Mateiu am bogății ascunse. Cearcă păretele din fund al peșterii și vei găsi o gaură astupată cu o lespede de piatră. Delatură această piedică și vei intra în altă peșteră mai mică unde vei afla o comoară întreagă de bani de aur. Aceștia toți să fie a Dochiței... Rămâneți cu toți în peșteră până ce Mateiu se va însănătoșa deplin; ar fi periculos pentru el să iasă acum între oameni. Am însă nădejde că peste puțină vreme în Ardeal vor fi schimbări radicale. Mihai-Vodă e în Viena, împăratul de-a bunăseama lui îi va da drept, dacă va înțelege cu ce perfidie a fost alungat din această țară de aceia care ar fi fost datori să-l apere. În această țară iară va fi domn Mihai-Vodă. Atunci va fi timpul potrivit să iasă Mateiu în lumă.</p>
 <p>Niculae își sufulcă acum haina călugărească, o descusu la poală și scoase de acolo niște pergamănte împăturate.</p>
 <p>În Muntenia am moșii mari, continuă el, care le-am primit de la Mihai-Vodă, pentru serviciile ce i le făcusem la Călugăreni. Iată aici sunt hrisoavele despre aceste moșii, dă-i-le Dochiții!</p>
-            <p>(Va urma)</p>
-            <p>Tit Chitul</p>
+            <trailer>(Va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
         </div>
     </div>
     
     <div type="part" n="28">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Urmare)</p>
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="Urmare"/>
         <div type="section" n="13">
-<p>Ciocănitura de nou suna în ușa temniței.</p>
+<head>Ciocănitura de nou suna în ușa temniței.</head>
 <p>— Dochiței nu-i spune că i-am fost părinte -continuă Niculae — i-ai cauză numai suferinți superflue cu aceasta. Lasă-o și mai departe în neștirea ei fericită.</p>
 <p>— Această veste îmbucurătoare ea trebuie să o audă din gura ta — zise Anchidim.</p>
 <p>— Barem de ar fi așa. La tot cazul însă să aduci mâine pe Dochița să o văd. Dacă aș muri înnainte de a-i săruta fața, și dacă dumneata ai fi de vină că aș fi lipsit de această mângăere în ceasul morții, blăstămul meu cadă atunci pe capul dumitale albit de bătrânețe!</p>
@@ -1622,8 +1585,7 @@
 <p>George Basta își mușcă buzele și tăcu.</p>
 </div>
 <div type="section" n="14">
-<p>XIV.</p>
-<p>Steaua Orientului apune.</p>
+<head>XIV. Steaua Orientului apune.</head>
 <p>Puțină vreme după fatala luptă de la Mirislău, Mihai-Vodă nu mai avea loc de adăpost nicăieri.</p>
 <p>Dușmanii din toate părțile îl strâmtorau. La nord Basta cu Ardelenii, la est Polonii, la sud Turcii stăteau gata cu armale în mâini să se arunce pe el.</p>
 <p>Polonii și Turcii năvăliseră în Muntenia, devastând cu foc și armă tot ce li se ivea în cale.</p>
@@ -1631,15 +1593,14 @@
 <p>În aceste zile de grea încercare, el se decise să facă un pas la care dușmanii săi nici n-au gândit.</p>
 <p>Lăsând Muntenia în grija fraților Buzești, Mihai-Vodă, însoțit de câteva sute de voinici aleși, trecu prin strâmtoarea Vulcan în Ardeal. Ca un vifor trecu el ceata sa aleasă prin ținutul Hațegului. Din cetatea Deva Ardelenii îl petrecură cu bubuituri de tunuri. Prin valea Crișului negru se slobozi în Ungaria și la 15 decembre 1600 sosi la Tokaj și trecând Tisa, de aici pe cale necunoscută încă cu toată siguranța, nu se opri până în Viena, unde a sosit la 12 ianuar 1601. De aici imădiat scrie împăratului Rudolf la Praga, că intențiunea lui e să se prezinte în persoană în naintea „celui mai drept scaun de judecată al Maiestății Sale ca predând toate cu grai viu, dacă-l vor afla vinovat, să-și ia pedeapsa meritată, dacă însă s-a adeveri că e nevinovat să fie împărtășit de grația Maiestății Sale. Se roagă ca împăratul până atunci să poruncească lui Basta să elibereze din mânile Ardelenilor soția, fiul și fica sa.</p>
 <p>Ardelenii grăbiră a-l ponegri cu fel și fel de învinuiri născocite înnaintea împăratului.</p>
-    <p>(Va urma)</p>
-    <p>Tit Chitul</p>
+    <trailer>(Va urma)</trailer>
+    <trailer>Tit Chitul</trailer>
 </div>
     </div>
     
     <div type="part" n="29">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Urmare)</p>
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="Urmare"/>
         <div type="section" n="14">
 <p>Cutezanța Ardelenilor până acolo a ajuns, că nu s-au rușinat a cere de la. Rudolf, să dea în mânile lor pe Mihai-Vodă legat în lanțuri, să-l pedepsească ei pentru „nenumăratele sale fărădelegi ce le-a săvârșit în potriva lui Dumnezeu, și-a oamenilor”.*)</p>
 <p>*) Scrisoarea staturilor către Rudolf din 5 ian. 1601... in-stantissimă supplicamus, dignetur clemăntia nos complecti,ut perversissimus ilbe homo Michael, innocentium christianorum sanguinis sitientissimus, in vincula coniectus nobis tradatur, atque hic, ubi innumăra flagitia contra deum et homines perpetravit, eas re-portet poenas, quae a facinorosissimo homine merito exigi debebant</p>
@@ -1675,15 +1636,14 @@
 <p>În acest moment halebardul lui Beauri trece prin Mihai, un Flamand îi zdrobește cu o împunsătură chiar brațul stâng.</p>
 <p>Mihai-Vodă era stângaciu; sabia îi căzu din mâna lui; un al treilea Flamand îl pușcă în șele.</p>
 <p>Eroul căzu în sânge.</p>
-            <p>(Fialul va urma)</p>
-            <p>Tit Chitul</p>
+            <trailer>(Finalul va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
         </div>
     </div>
     
     <div type="part" n="30">
-        <p>Steaua Orientului.</p>
-        <p>Roman istoric</p>
-        <p>(Fine)</p>
+        <head>Steaua Orientului. Roman istoric</head>
+        <milestone unit="Fine"/>
         <div type="section" n="14">
 <p>Un flamand îi apuca spada, care atâta sânge de păgân vărsase, și-i reteză capul.</p>
 <p>Batjocurile bestiale, cu care ostașii ucigași au dezonorat cadravrul eroului, vor servi de dovadă pentru totdeauna la ce adâncimi mocirloase cade firea omănească, dacă e îmbătată de patima urii.</p>
@@ -1697,8 +1657,7 @@
 <p>Cadavrul lui, Flamanzii îl aruncară la Alba-Iulia într-o groapă de prund, de unde îl scoaseră câinii și-l mâncară.</p>
 </div>
 <div type="section" n="15">
-<p>XV.</p>
-<p>Epilog.</p>
+<head>XV. Epilog.</head>
 <p>Mateiu, îndată ce s-a convins că vestea despre re-ntoarcerea lui Mihai-Vodă e adevărată, s-a pus la drum să-și ocupe locul ce-l avuse mai-nainte în armată.</p>
 <p>Inima lui tresări de bucurie, când pe drum auzi de izbânzile de la Goroslău și Cluj. Ar fi dorit să aibă aripi să sosească mai îngrabă la Turda.</p>
 <p>Când el a sosit însă pe câmpia Turzii, sângeroasa tragedie se săvârșise deja. Mihai-Vodă era mort, și trupele sale parte risipite, parte trecute la Basta.</p>
@@ -1728,7 +1687,7 @@
 <p>Spirit blând, moarte senină!</p>
 <p>Mateiu și Dochița în Muntenia au ajuns la vază și stimă mare.</p>
 <p>Mălinda, sărmana, intrând într-o mănăstire, a îmbrăcat vălul călugărițelor, păstrând în inima-i sângerată amintirea junelui mult iubit, care și-a jertfit viața pentru a ei și rostind în toate zilele rugăciuni ferbinți pentru odihna sufletelor care îi fuseră de ajutor în mult zbuciumata sa viață.</p>
-<p>Tit Chitul.</p>
+    <trailer>Tit Chitul</trailer>
 </div>
     </div>
 </body>

@@ -18,6 +18,11 @@
                     <resp>corectură manuală</resp>
                     <name>Alexia Maria Comorașu</name>
                 </respStmt>
+                <respStmt>
+                    <resp>verificare corectură manuală</resp>
+                    <name>Loredana Cuzmici</name>
+                </respStmt>
+                
                 <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
             </titleStmt>
             <publicationStmt>
@@ -35,12 +40,12 @@
                     <pubPlace>Oradea</pubPlace>
                     <publisher>FOILETONUL REVISTEI „FAMILIA”</publisher>
                     <date>1904</date>
-                    <decoNote type="ilustratii" subtype="no"/>
-                    <dim unit="char" type="mic"/>
+                    <decoNote type="illustrations" subtype="no"/>
+                    <dim unit="char" type="small"/>
                     <extent>
                         <measure unit="word">46754</measure>
                         <measure unit="page" type="under_250"/>
-                        <measure unit="foileton" type="under_65"/>
+                        <measure unit="feuilleton" type="under_65"/>
                         <measure type="complete"></measure>
                     </extent>
                 </bibl>
@@ -60,16 +65,16 @@
                     <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
                 </keywords>
                 <keywords>
-                    <term type="receptare" n="5"/>
-                    <term type="republicare" n="2"/>
+                    <term type="reception" n="5"/>
+                    <term type="print_count" n="2"/>
                     <term type="finished"></term>                
                 </keywords>
             </textClass>
         </profileDesc>
         <encodingDesc>
             <projectDesc>
-                <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-                <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+                <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+                <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
                 <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
                 <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
             </projectDesc>
@@ -78,11 +83,9 @@
 <text>    
 <body>
 <div type="part" n="1">
-<p>Catastrofa Daciei</p>
-<p>— Roman istoric —</p>
+<head>Catastrofa Daciei — Roman istoric —</head>
 <div type="section" n="1">
-<p>I</p>
-<p>Știri despre Withimir</p>
+<head>I. Știri despre Withimir</head>
 <p>Pe la mijlocul secolului al treilea, strălucitul imperiu roman părea a se zbuciuma în agonia morții apropiate.</p>
 <p>Unul după altul, popoarele barbare, care înconjurau acest vast imperiu extins aproape peste toată lumea cunoscută atunci, începură a se îmbulzi cu temăritate încrezută spre granițele lui întărite cu castre.</p>
 <p>Din est, de la gurile Dunării, până în nord-vest la Rin, sunetul de armă nici pe o zi nu se curma,și moartea crudă se scălda în râuri de sânge.</p>
@@ -98,7 +101,7 @@
 <p>Coloniștii aduși aici din tot imperiul au lucrat din generație în generație timp de un secol și mai bine de jumătate, până ce au făcut aceasta țară demnă de numirea „Dacia felix”, care i-o dădură scriitorii contemporani.</p>
 <p>Acum însă, ținuturile din nord și est ale Daciei, mănoasele văi ale Somășului, Mureșului și Oltului, gemeau sub apăsarea greului jug al Goților. Locuitorii disperați, în zilele grelei năpăstuiri, luară cu sine ce putură și ce avură mai prețios și-și câutară scăpare în codrii sălbatici și în munți, măcinându-și una după alta zilele traiului neliniștit, mângăiați de speranța, că va sosi peste puțin ziua mult dorită, când glasul trâmbițelor și tobelor romane va străbate la ei vestindu-le scăpare; vor vedea fâlfăind imaginile și standardele legiunilor răzbunătoare. Atunci va fi ziua de răfuială, când barbarii vor trebui să plătească scump viețile stinsă de armele lor!</p>
 <p>Durere însă, împăratul Aurelian era mult mai ocupat, avea de a apără interese mult mai momentuoase pentru siguranța vastului său imperiu, decât să-și fi putut stâmpăra dorul sufletului războinic de a mai da încă o dată Goților o lovitură grozavă, ca cu câțiva ani mai înainte la Nissa.</p>
-<p>În colțul sud-vestic al Daciei mai vegetă încă puțină viață romană; garnizoanele postate în Sarmisegetusa și alte orașe întărite din apropierea ei mai susțineau încă prin forțări supraomenești vaza imperiului, sperând a căpătă ajutor grabnic de la Aurelian. Pe murii castrelor din Apulum, Brucla, Potaissa, Napoca, Porolissum, însă fâlfăiau deja de mult steagurile Goților învingători.</p>
+<p>În colțul sud-vestic al Daciei mai vegetă încă puțină viață romană; garnizoanele postate în Sarmisegetuza și alte orașe întărite din apropierea ei mai susțineau încă prin forțări supraomenești vaza imperiului, sperând a căpătă ajutor grabnic de la Aurelian. Pe murii castrelor din Apulum, Brucla, Potaissa, Napoca, Porolissum, însă fâlfăiau deja de mult steagurile Goților învingători.</p>
 <p>Ca și când o mare imensă și-ar fi părăsit albia și s-ar fi vărsat cu toată furia sa în Dacia, Goții ocupară toate ținuturile mai așezate, alungând ca un potop distrugător pe locuitorii băștinași în munți.</p>
 <p>Apulum, centrul militar de odinioară al Daciei, era acum cu desăvârșire în mâinile Goților. Forul său splendid era încărcat de ruine, edificiile publice: templul strălucit al lui Jupiter Conservator, al lui Aesculapius și Hygia, curia măreață, se înălțau trist spre cer cu zidurile lor înnegrite de fum și crăpate de căldura focului ce le mistuise. Pe ulițile sale, în loc de Romani, se preumblau acum Goți de statură uriașă, cu bărbi stufoase, bălaie, cu priviri crunte în ochii lor vineți, cu plete lungi până pe umeri, în loc de sunetul dulce al limbii latine, ulițile gemeau de murmurul compus din cuvinte lărmuitoare, pronunțate într-o idiomă dură; nu se mai vedea nicăieri vestmântul sărbătoresc al civilor romani: toga impunătoare, ci pretutindeni numai blane de animale,aruncate cu negligență barbară peste umerii goi de atleți.</p>
 <p>Castrul de pe colina apropiată, unde staționase atâția ani de zile Legiunea XIII Gemina, mai stătea încă; soarele se reflectă și acum vesel de pe acoperișurile de aramă ale turnulețelor, și în vârful pretoriului fâlfăia și acum un steag roșu, de o mărime colosală. Numai cât acest semn al biruinței era al Goților, și nu al Romanilor.</p>
@@ -129,15 +132,14 @@
 <p>Un bărbat înarmat păși înaintea lui Athaulf. Se vedea de pe exteriorul său, că acest Friharza ocupă o poziție mai înaltă între conaționalii săi, căci pe lângă armele lui mai splendide și împistrite cu ținte de aur, din grumaz îi atârnă pe piept un lanț gros de aur, și brațele sale musculoase erau cuprinse de asupra coatelor cu două cercuri late de aur.</p>
 <p>— Astăzi vei ocupă tu locul meu — se adresă Athaulf către Friharza. — O parte a ostașilor să nu părăsească nici un moment castrul, ci să stea înarmați, gata pentru toată eventualitatea.</p>
 <p>Făcu apoi semn, că pentru ziua de astăzi și-a sfârșit poruncile, și ostașii începură a se împrăștiă.</p>
-<p>(Va urma)</p>
-<p>Tit Chitul</p>
+<trailer>(Va urma)</trailer>
+<trailer>Tit Chitul</trailer>
 </div>
 </div>
     
     <div type="part" n="2">
-        <p>Catastrofa Daciei</p>
-        <p>— Roman istoric —</p>
-        <p>(Urmare)</p>
+        <head>Catastrofa Daciei — Roman istoric —</head>
+        <milestone unit="(Urmare)"/>
         <div type="section" n="1">
 <p>Athaulf descinsă de pe tribună, mergând ață spre o poarta principală a castrului.</p>
 <p>Peste câteva minute trompeta sentinelei de la poarta castrului vesti tuturor, că pe dinaintea ei a trecut comandantul suprem.</p>
@@ -202,15 +204,14 @@
 <p>Samanarich închise pe Roman în odaia vecină, apoi slobozi pe Athaulf să intre.</p>
 <p>— Vii la timpul cel mai potrivit — întimpină ewartul pe Athaulf.— M-am rugat zeilor mult,să-mi ajute a de lătura necazul greu de pe sufletul tău, care-ți amărăște toată viața. Azi noapte, în fine, Woutan mi s-a arătat în vis. L-am văzut trecând ca un fulger prin văzduh, care clocoti de rânchezarea calului său năzdrăvan, de sunetul bucinelor de vânat, de lătratul vesel al cânilor și de strigătele însuflețite ale eroilor săi. Calul său zbura ca un vultur peste dealuri și râuri, necunoscând piedică care să-l oprească. Deodată se opri chiar deasupra mea — I-am văzut fața arzândă de focul de erou neînvins, care străluci de sublimitate divină — Numai puțin îmi putui însă delecta sufletul amețit de atâta mărime însuflețitoare, căci Wuotan își scoase spada veșnic învingătoare și arătând cu ea către sanctuarul său bercul cel sfânt îi zise: „Întreabă-mă mâine despre Withmir!” Și apoi lăsând lungi frânele armăsarului său ce tremura de nerăbdare, dispăru ca un vifor înfricoșat.</p>
 <p>Până ce vorbiră ewartul, Athaulf simțea cum se întoarce în el dragostea de viață, care de un timp încoace îl părăsise cu totul.</p>
-<p>(Va urma)</p>
-<p>Tit Chitul</p>
+            <trailer>(Va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
         </div>
     </div>
     
     <div type="part" n="3">
-        <p>Catastrofa Daciei</p>
-        <p>— Roman istoric —</p>
-        <p>(Urmare)</p>
+        <head>Catastrofa Daciei — Roman istoric —</head>
+        <milestone unit="(Urmare)"/>        
         <div type="section" n="1">
 <p>Bărbate sfinte! — apuca Athaulf mâna ewartulul.— Tu știi bine, că n-am alți fii afară de Withimir. Sippea mea, în fruntea căreia stam eu, după moartea mea va rămânea fără cap; dreptul meu de ereditate se va stinge; Sippea va trebui să-și aleagă alt cap. Aceasta știre mă torturează în continuu. Măcar de aș ști sigur cel puțin, că Vithimir a pierit în câmpul de luptă; atunci totuși m-aș liniști.</p>
 <p>— Vei ști încă astăzi toate — întrerupse Samanarich — îngrijește-te numai să aduci zeilor jertfe bogate! Vino de către seară la bercul lui Wuotan, căci după sfârșitul dadsisas-ului voi scruta semnele prin care își manifestează acest zeu sfaturile. Voi studia rânchezarea armăsarului cel sfânt, voi aruncă bețe de sorți, sau poate voi intra în sanctuar, ca să mă conving despre voința lui Wuotan. În unul sau altul din aceste moduri, pe seară la tot cazul vei avea știri sigure despre Vithimir.</p>
@@ -252,132 +253,130 @@
 <p>— Nici nu trebuie să te stăpânești — îl încuraja Samanarich. — Bărbatul care-și răzbună, e vrednic de laudă. Expune-mii deci nedreptățile de care ai fost împărtășit, și eu îți promit, că-ți voi sta într-ajutor, ca răzbunarea ta să fie perfectă.</p>
 <p>Verus păru a ezita câteva momente, în fine, răutatea inimii sale totuși învînsă și zise :</p>
 <p>— Fie deci! Ascultă-mă și judeca apoi, că înțelepțește am lucrat când am venit la tine, sau că m-a îndemnat la acest pas invidia răutăcioasă. N-am intenția de a tăinui acele părți ale trecutului meu, care nu servesc spre ridicarea vazei și reputației mele personale, ci-ți spun hotărât că nu m-am născut om liber. Părinții mei au fost sclavi la o familie fruntașă; n-au avut însă cauză a se plânge, când au văzut tirania cu care au fost tratați cei mai mulți soți ai lor de aceeași poziție mizerabilă din partea stăpânilor lor îngâmfați. Stăpânii părinților mei au fost oameni cu sentimente nobile, care n-au uitat niciodată că și sclavii-s oameni. Aș fi cel mai blestemat om, de aș grăi rele de stăpânii noștri, care m-au crescut împreună cu pruncii lor. În copilărie am fost fericit, nici idei n-am avut de condițiunea rușinoasă de sclav, care se apăsă ca o piatră grea pe sufletul ambițios al tatălui meu, nepermițându-i să se bucure de poziția lui excepțională. Tatăl meu ziua noaptea se frământă, își ascuțeă mintea cu plănuiri de speculație ca să adune avere. Un singur cuget îl îmboldeă neîncetat, să-și încoarde spre acest scop toate forțele de care dispunea: voia să fie om liber. După o muncă neobosită, râvna sa fu încoronată în fine de succesul dorit: stăpânul său își dede învoiala ca sclavul său să se răscumpere. Tatăl meu plăti o sumă considerabilă, agonisită cu sudori amare, și deveni libertin. Soartea fatală nu-i concese însă să se bucure îndelungat de poziția eluptată cu atâta hărnicie străduitoare. Peste un an, după schimbarea stării noastre sociale, ne-am împlinit o datorie sfântă, când am pus pe rug cu cea mai dureroasă mâhnire sufletească trupul fără de viață și rece al preaiubităi mele mame.</p>
-<p>„Din acea zi tristă, tatăl mău vegetase numai. Nu-l mai interesă nimic, nu era în stare nimic să-i curme tristețe continuă! Slăbit de atâta durere consumatoare, în fine și sufletul tatălui meu iubit se prezenta ca umbră pribeagă înaintea bătrânului și nemilosului luntraș Charon, rugându-l să-l treacă și pe el prin tristele unde ale Styxului.</p>
-<p>„Rămaseși singur, fără sprijin, fără sfătuitor! Eram pe atunci de douăzeci de ani.</p>
-<p>„Legăturile cu foștii mei stăpâni nu le întrerupsăi niciodată. Dacă trecea o săptămână fără de a mă întâlni cu Aelius, fiul fostului meu stăpân, nu mă simțieam bine. Aelius era de o etate cu mine; împreună ne-am petrecut copilăria, împreună am fost inițiați în elementele științei. Ca junișori împreună am cercetat palustra și școala de retorică.</p>
-<p>„Lui Aelius niciodată nu-i venise în minte, că eu eram numai libertin și el patriciu.</p>
-<p>„Din întâlnirile aceste dese, prietenia noastră din copilărie se întări în cordialitate și stimă reciprocă.</p>
-<p>„Aelius mai avea și o soră mai mică: Octavia, care pe când părăsii eu casa părinților săi, era o copilă nevârstnică. Fetele însă se dezvoltă repede.</p>
-<p>„Într-o zi, mărgând cu Aelius împreună la oi, observai că relația amicală dintre mine și Octavia s-a schimbat.</p>
-<p>„Octavia era deja fată mare, pe care nu o mai puteam socoti copilă, nici nu mai puteam vorbi cu ea in ton de protector binevoitor, cum făcusem până atunci. Octavia și eu rămaseram și mai departe tot amici; aceasta amiciție însă nu mai era cea vechie, ci o legătură confidențială, pe care însă sfiala reciprocă nu o lăsa să devină de tot strânsă.</p>
-<p>„Vizitele mele la Aelius începură a se repetă în răstimpuri tot mai scurte, până ce în urmă deveniră zilnice. Și când nu mi se dădea ocazia a conveni cu Octavia, toată ziua eram moros și nemulțumit.</p>
-<p>„Cu încetul mi se lumina mintea într-atâta, încât recunoscui că am îndrăgit pe Octavia. Zburdalnicul copilaș al lui Venus mă nimări și pe mine cu o săgeată veninoasă de ale sale.</p>
-<p>„Cât era de dulce însă acel venin ce-mi cutriera toate venele! Cât de puternic, cât de fericit mă făcea și cel mai mic semn, pe care mintea-mi agitată își închipuia a-l descoperi în purtarea Octaviei față de mine, din care mă amăgeam a crede, că nici eu nu sunt de tot indiferent obiectului meu de adorare!</p>
-<p>„Din zi în zi inventam pretexte noi, care să justifice cel puțin la aparițiă vizitelor mele de tot dese.</p>
-<p>„Odată, când amorul meu înfocat mă făcu să uit de bunăcuviință, și mă alungase de acasă ca să intru la Aelius până-n ziuă, pe acesta nu-l aflasem în așternut, după cum cugetasem eu. Tremuram de nerăbdare și voiam a întrebă pe un sclav despre absența amicului meu, când mă surprînsă un lucru neașteptat.</p>
-<p>„Stând în ușa atriului, de urechile mele se izbi un cântec armonios, prelungit și plin de pietate,care părea a veni din depărtare mare. Voci profunde, bărbătești, acompaniau o melodie dulce, cântată de glasuri argintii femeiești.</p>
-<p>„Ascultai răpid câteva minute — Inima mea de odată se umplu de veselie — Acest cântec evlavios îmi lumină în fine mintea, spunându-mi ce aveam de făcut ca să am ocazia de a vedea pe Octavia zilnic, fără de a trezi bănuieli.</p>
-<p>„Auzisem deja de mult că părinții lui Aelius sunt aderenți ai unei secte religioase, persecutate de stat. Cântecul ce-l auzii în acea dimineață, mă făcu să cred faima lățită, că foștii mei stăpâni sunt creștini.</p>
-<p>(Va urma)</p>
-<p>Tit Chitul</p>
+<p>Din acea zi tristă, tatăl mău vegetase numai. Nu-l mai interesă nimic, nu era în stare nimic să-i curme tristețe continuă! Slăbit de atâta durere consumatoare, în fine și sufletul tatălui meu iubit se prezenta ca umbră pribeagă înaintea bătrânului și nemilosului luntraș Charon, rugându-l să-l treacă și pe el prin tristele unde ale Styxului.</p>
+<p>Rămaseși singur, fără sprijin, fără sfătuitor! Eram pe atunci de douăzeci de ani.</p>
+<p>Legăturile cu foștii mei stăpâni nu le întrerupsăi niciodată. Dacă trecea o săptămână fără de a mă întâlni cu Aelius, fiul fostului meu stăpân, nu mă simțieam bine. Aelius era de o etate cu mine; împreună ne-am petrecut copilăria, împreună am fost inițiați în elementele științei. Ca junișori împreună am cercetat palustra și școala de retorică.</p>
+<p>Lui Aelius niciodată nu-i venise în minte, că eu eram numai libertin și el patriciu.</p>
+<p>Din întâlnirile aceste dese, prietenia noastră din copilărie se întări în cordialitate și stimă reciprocă.</p>
+<p>Aelius mai avea și o soră mai mică: Octavia, care pe când părăsii eu casa părinților săi, era o copilă nevârstnică. Fetele însă se dezvoltă repede.</p>
+<p>Într-o zi, mărgând cu Aelius împreună la oi, observai că relația amicală dintre mine și Octavia s-a schimbat.</p>
+<p>Octavia era deja fată mare, pe care nu o mai puteam socoti copilă, nici nu mai puteam vorbi cu ea in ton de protector binevoitor, cum făcusem până atunci. Octavia și eu rămaseram și mai departe tot amici; aceasta amiciție însă nu mai era cea vechie, ci o legătură confidențială, pe care însă sfiala reciprocă nu o lăsa să devină de tot strânsă.</p>
+<p>Vizitele mele la Aelius începură a se repetă în răstimpuri tot mai scurte, până ce în urmă deveniră zilnice. Și când nu mi se dădea ocazia a conveni cu Octavia, toată ziua eram moros și nemulțumit.</p>
+<p>Cu încetul mi se lumina mintea într-atâta, încât recunoscui că am îndrăgit pe Octavia. Zburdalnicul copilaș al lui Venus mă nimări și pe mine cu o săgeată veninoasă de ale sale.</p>
+<p>Cât era de dulce însă acel venin ce-mi cutriera toate venele! Cât de puternic, cât de fericit mă făcea și cel mai mic semn, pe care mintea-mi agitată își închipuia a-l descoperi în purtarea Octaviei față de mine, din care mă amăgeam a crede, că nici eu nu sunt de tot indiferent obiectului meu de adorare!</p>
+<p>Din zi în zi inventam pretexte noi, care să justifice cel puțin la aparițiă vizitelor mele de tot dese.</p>
+<p>Odată, când amorul meu înfocat mă făcu să uit de bunăcuviință, și mă alungase de acasă ca să intru la Aelius până-n ziuă, pe acesta nu-l aflasem în așternut, după cum cugetasem eu. Tremuram de nerăbdare și voiam a întrebă pe un sclav despre absența amicului meu, când mă surprînsă un lucru neașteptat.</p>
+<p>Stând în ușa atriului, de urechile mele se izbi un cântec armonios, prelungit și plin de pietate,care părea a veni din depărtare mare. Voci profunde, bărbătești, acompaniau o melodie dulce, cântată de glasuri argintii femeiești.</p>
+<p>Ascultai răpid câteva minute — Inima mea de odată se umplu de veselie — Acest cântec evlavios îmi lumină în fine mintea, spunându-mi ce aveam de făcut ca să am ocazia de a vedea pe Octavia zilnic, fără de a trezi bănuieli.</p>
+<p>Auzisem deja de mult că părinții lui Aelius sunt aderenți ai unei secte religioase, persecutate de stat. Cântecul ce-l auzii în acea dimineață, mă făcu să cred faima lățită, că foștii mei stăpâni sunt creștini.</p>
+            <trailer>(Va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
         </div>
     </div>
     
     <div type="part" n="4">
-        <p>Catastrofa Daciei</p>
-        <p>— Roman istoric —</p>
-        <p>(Urmare)</p>
+        <head>Catastrofa Daciei — Roman istoric —</head>
+        <milestone unit="(Urmare)"/>
         <div type="section" n="1">
 <p>Peste puțină vreme văzui o mulțime de bărbați și femei cu fețe transpirate de evlavie, părăsind curtea părinților lui Aelius.</p>
-<p>„Aceștia toți erați creștini, care aveau dauna a se aduna în anumite dimineți ca să se roage. Aceasta o puteau face atunci cu mai puțină frică, căci persecuțiile tirane cu care împărații se încercaseră să sugrumă aceasta sectă, după dânșii periculoasă pentru stat, în anii ultimi încetară. Totuși nu era consult, ca cei ce profesau aceasta credință desconsiderată, să extenteze cu ea.</p>
-<p>„Încă în aceea zi mă întâlnii cu Aelius, pe care foarte plăcut îl surprînsăi cu exprimarea dorinței mele fierbinți de a fi și eu susceput între coreligionarii săi.</p>
+<p>Aceștia toți erați creștini, care aveau dauna a se aduna în anumite dimineți ca să se roage. Aceasta o puteau face atunci cu mai puțină frică, căci persecuțiile tirane cu care împărații se încercaseră să sugrumă aceasta sectă, după dânșii periculoasă pentru stat, în anii ultimi încetară. Totuși nu era consult, ca cei ce profesau aceasta credință desconsiderată, să extenteze cu ea.</p>
+<p>Încă în aceea zi mă întâlnii cu Aelius, pe care foarte plăcut îl surprînsăi cu exprimarea dorinței mele fierbinți de a fi și eu susceput între coreligionarii săi.</p>
 <p>«Peste câteva săptămâni de învățătură, fui admis și eu între creștini.</p>
-<p>„Acum mă simțeam fericit, nu însă pentru aceea că sufletu-mi învăpăiat cunoscu pe Dumnezeul cel viu și adevărat, ci pentru că în toată ziua mă puteam întâlni cu Octavia - Recunosc că sunt creștin rău, pentru că cu ocazia adunărilor noastre religioase cugetul meu nu era absorbit de părerea de rău pentru păcatele comise, ci se învârtea în continuu, chiar și între sunetul imnurilor, în jurul Octaviei. Și fiindcă la convenirile noastre bărbații erau despărțiți de către femei, eu îmi alegeam de regulă un loc acomodat, de unde-mi puteam ține privirea însetată neîntrerupt pe obiectul amorului meu.</p>
-<p>„Ce frumoasă mi se părea atunci Octavia! Când o vedeam îngenunchea cu fața sa de crin luminată de aureola celei mai smerite pietăți, cu ochii aplecați spre pământ, ca și când ar fi voit în adins, ca umbra genelor sale lungi să acopere focul mistuitor ce flăcăra în aceia!</p>
+<p>Acum mă simțeam fericit, nu însă pentru aceea că sufletu-mi învăpăiat cunoscu pe Dumnezeul cel viu și adevărat, ci pentru că în toată ziua mă puteam întâlni cu Octavia - Recunosc că sunt creștin rău, pentru că cu ocazia adunărilor noastre religioase cugetul meu nu era absorbit de părerea de rău pentru păcatele comise, ci se învârtea în continuu, chiar și între sunetul imnurilor, în jurul Octaviei. Și fiindcă la convenirile noastre bărbații erau despărțiți de către femei, eu îmi alegeam de regulă un loc acomodat, de unde-mi puteam ține privirea însetată neîntrerupt pe obiectul amorului meu.</p>
+<p>Ce frumoasă mi se părea atunci Octavia! Când o vedeam îngenunchea cu fața sa de crin luminată de aureola celei mai smerite pietăți, cu ochii aplecați spre pământ, ca și când ar fi voit în adins, ca umbra genelor sale lungi să acopere focul mistuitor ce flăcăra în aceia!</p>
 <p>«Timp de câteva luni în toată ziua mă îmbătăm de apropiarea Octaviei, fără ca aceasta să fi bănuit barem, că nu zeul religios era acela care mă atrăgea la adunările creștinilor.</p>
-<p>„În acest timp inima amicului meu Aelius încă se aprînsă. Într-o zi, după terminarea rugăciunilor, mă chemă la preumblare. Timpul era de tot frumos; natura trezită din somnul de iarnă, își puse în lucrare puterile amorțite până acum, îmbrăcând câmpia în vestmântul verde al renașterii.</p>
-<p>„La timp de o oră Apulum-ul era la spatele nostru.</p>
-<p>„Chiar aveam intenția de a provoca pe Aelius să ne reîntoarcem, când acesta se depărta de lângă mine spre a întâmpina pe un călător ce mergea cu trăsura spre Apulum. La semnul ce-l făcu Aelius, trăsura se opri și călătorul se dede jos din ea.</p>
-<p>„Aelius îl îmbrățișa și-l săruta.</p>
-<p>„Drumarul îmi era cunoscut și mie. Era duumvir-ul coloniei Apulum: Publius Bituvantis. Nu era în călătorie oficială, căci lictorii nu-l însoțiau.</p>
-<p>„După un timp destul de lung de conversare, Aelius veni iarăș la mine.</p>
+<p>În acest timp inima amicului meu Aelius încă se aprînsă. Într-o zi, după terminarea rugăciunilor, mă chemă la preumblare. Timpul era de tot frumos; natura trezită din somnul de iarnă, își puse în lucrare puterile amorțite până acum, îmbrăcând câmpia în vestmântul verde al renașterii.</p>
+<p>La timp de o oră Apulum-ul era la spatele nostru.</p>
+<p>Chiar aveam intenția de a provoca pe Aelius să ne reîntoarcem, când acesta se depărta de lângă mine spre a întâmpina pe un călător ce mergea cu trăsura spre Apulum. La semnul ce-l făcu Aelius, trăsura se opri și călătorul se dede jos din ea.</p>
+<p>Aelius îl îmbrățișa și-l săruta.</p>
+<p>Drumarul îmi era cunoscut și mie. Era duumvir-ul coloniei Apulum: Publius Bituvantis. Nu era în călătorie oficială, căci lictorii nu-l însoțiau.</p>
+<p>După un timp destul de lung de conversare, Aelius veni iarăș la mine.</p>
 <p>— „Mare prieten ești cu duumvir-ul — îi zisăi eu.</p>
-<p>„Pe lângă toate că Aelius îmi era cel mai bun amic, nu-mi succese pe deplin a înăduși invidia ce se deșteptă în mine în acest moment. În ziua aceasta mi se dădu prima oară ocasiune a recunoaște inferioritatea poziției mele sociale. Îmi veni în minte că eu sunt numai libertin, până ce Octavia își trăgea originea din familie de patriciu. Aceasta descoperire mă umplu de grijă și mâhnire.</p>
-<p>„Muncit de acest cuget chinuitor, îmi trebui timp, până-mi veni în ori din zăpăceală, ca să pricep legătura logică dintre cuvintele ce le adresasem lui Aelius și dintre următorul răspuns al lui:</p>
+<p>Pe lângă toate că Aelius îmi era cel mai bun amic, nu-mi succese pe deplin a înăduși invidia ce se deșteptă în mine în acest moment. În ziua aceasta mi se dădu prima oară ocasiune a recunoaște inferioritatea poziției mele sociale. Îmi veni în minte că eu sunt numai libertin, până ce Octavia își trăgea originea din familie de patriciu. Aceasta descoperire mă umplu de grijă și mâhnire.</p>
+<p>Muncit de acest cuget chinuitor, îmi trebui timp, până-mi veni în ori din zăpăceală, ca să pricep legătura logică dintre cuvintele ce le adresasem lui Aelius și dintre următorul răspuns al lui:</p>
 <p>—„Până acum suntem numai prieteni, dar peste scurt timp vom fi și rudenii.</p>
-<p>„Aelius era încântat, și în bucuria sa sufletească nu observa, cum mi se îngălbiniră obrajii de spaimă.</p>
-<p>„Limba-mi tremură de emoție; abia reuși a borborozi cu accentul cuvenit acest cuvânt:</p>
+<p>Aelius era încântat, și în bucuria sa sufletească nu observa, cum mi se îngălbiniră obrajii de spaimă.</p>
+<p>Limba-mi tremură de emoție; abia reuși a borborozi cu accentul cuvenit acest cuvânt:</p>
 <p>—„Căsătorie?”</p>
 <p>— „Da!” — răspunse Aelius. — „Aștept numai ca luna să ajungă în semnul săgetătorului, ca să pot trage acest inel de fier pe degetul Lucilei”.</p>
-<p>„Sărmanul criminal, căruia îi tunase deja în urechi sentința de moarte, și în viziuni oribile, se înfioră de lucirea îngrozitoare a oțelului ce atârnă deasupra cerbicei sale, nu poate simți bucurie mai mare, când îi comunică grațierea, ca de care fui cuprins eu, când mă convînsăi din cuvintele lui Aelius, că căsătoria de care-mi vorbise era proiectată între el și între Lucila, fiica duumvir-ului din Apulum. Numai acum, după ce-mi trecu frica, îmi veni în minte — ceea ce știa tot orașul — că Lucila era fiica unică a lui Bituvantis, și că n-avea fiu, care să-mi răpească pe Octavia.</p>
-<p>„Îi gratulai lui Aelius din toată inima. Ba încă ce e mai mult, făcui atent pe amicul meu, că păcătuieșce, când amână fidanțarea sa până va ajunge luna în săgetător.</p>
+<p>Sărmanul criminal, căruia îi tunase deja în urechi sentința de moarte, și în viziuni oribile, se înfioră de lucirea îngrozitoare a oțelului ce atârnă deasupra cerbicei sale, nu poate simți bucurie mai mare, când îi comunică grațierea, ca de care fui cuprins eu, când mă convînsăi din cuvintele lui Aelius, că căsătoria de care-mi vorbise era proiectată între el și între Lucila, fiica duumvir-ului din Apulum. Numai acum, după ce-mi trecu frica, îmi veni în minte — ceea ce știa tot orașul — că Lucila era fiica unică a lui Bituvantis, și că n-avea fiu, care să-mi răpească pe Octavia.</p>
+<p>Îi gratulai lui Aelius din toată inima. Ba încă ce e mai mult, făcui atent pe amicul meu, că păcătuieșce, când amână fidanțarea sa până va ajunge luna în săgetător.</p>
 <p>— „Aceasta e credință păgână, pe care creștinii o disprețuiesc. Fericirea căsătoriei tale nu atârnă de la lună, ci de la Dumnezeu, care stăpânește peste tot universul. Prin urmare, dacă ești creștin adevărat, nu vei face ca păgânii, care cred în zile norocoase și periculoase.</p>
-<p>„Cuvintele mele pusera pe cugete pe Aelius. La aparență grăiam ca cel mai zelos creștin și amicului meu nici nu-i trecea prin minte, că pentru mine creștinismul era numai un vestmănt simplu, bun de a-mi acoperi golătatea intenției ce urmăream. Creștinii nu cunosc deosebire între om și om; în ochii lor toți oamenii-s nobili prin scântăia dumnezeiască a sufletului. Doctrina aceasta se potrivea minunat cu planul meu. Dacă părinții Octaviei sunt buni creștini — cugetam adeseori — nu-mi vor dificulta starea de libertin, când voi păși înaintea lor cu rugarea să-mi dea mie pe Octavia.</p>
-<p>„Înainte de a face acest pas decisiv, trebuia să câștig consensul iubitei mele.</p>
-<p>„Nu te voi molesta cu dureroasa enarare cum îmi nimici Octavia cu un singur cuvânt toată pompoasa clădire a fericirii visate. E de-ajuns de-ți voi spune, că Octavia mi-a refuzat amorul, ca să-mi pricepi durerea și rușinea ce mă cuprînsă atunci.</p>
-<p>„Din aceea zi n-am mai luat parte la convenirile creștinilor, ci m-am retras tăcut, căutând a-mi îngropa fericirea pierdută în mormântul monotoanei vieți singuratice.</p>
-<p>„Se întâmpla într-acestea de năvăliră Goții asupra orașului nostru. Apulum era înconjurat cu muri înalți și apărat de viteaza legiune XIII Gemina.Soartea războaielor însă e schimbătoare, nestatornică și capricioasă; speranțele noastre, că vom putea rezista până vom căpătă ajutor, se spulbera-n vânt. Legionarii au fost siliți să se retragă, zeciuiți de armele Goților. Locuitorii orașului, care fură mai norocoși se strecurară ca prin urechile acului la munți; care nu fură părtiniți de soartă își aflară mormântul între ruinile udate de sânge ale orașului.</p>
-<p>„Casa mea a fost între cele dintre care se nimiciră de focul pus de către inimicul învingător. Erezisem și eu o mică parte de precauțiune și înțelepciune de la părintele meu, care în zilele acestăi vitrege năpăstuiri mi-ar fi putut fi de mare folos, dacă n-ar fi fost stăpânite de pauma amorului meu către Octavia, care nu-mi ieșise din minte nici după desconsiderarea ce mi-o izbise în față. Sufletul omului nu se dezlipeșce de speranță până la marginea mormântului; eu nădăjduiam încă că Octavia va fi a mea.</p>
-<p>„După mai multe zile petrecute în frică continuă și sforțări de apărare supraomenești, într-o dimineață neguroasă pe ulițile orașului se ridică un zgomot îngrijitor.</p>
-<p>„Repede luai la mine obiectele cele mai prețioase, care le aveam de mai înainte pregătite, ca la o eventuală necesitate de a părăsi orașul, să nu rămân sărac de tot — și ieșii la uliță.</p>
-<p>„De voi trăi o sută de ani, totuși nu mi s-a șterge din memorie spectacolul grozav ce mi se înfățișa aici. Bărbați gârboviți de sarcini grele, femei speriate cu copii mici în brațe, istoviți de mulțimea anilor, se împingeau, se trăgeau în vălmășeală confuză, fiecare căutând a întrece cu fuga pe cel dinaintea lor. Vaiete disperate, bociri tânguitoare, sudălmi înfiorătoare, amenințări grozave, implorări de ajutor, strigăte de încurajare, se ridicau în toate părțile din mulțimea undulatoare, ajutând prin toiul clocotitor, în care se contopiau a mări groaza generală. Nu maiera nici o ordine; fiecare lucră de capul său; instinctul animalic de a-și mântui viața periclitată orbise pe cei mai mulți dintre acești nefericiți. La spatele lor urletul Goților care intrară în oraș, le vestea năvălirea morții — Cine-și putea încă mișca picioarele se încercă să cape de ea. Și ca groaza să-și ajungă culmea, orașul începu a arde la mai multe puncte deodată. Negura groasă se amăstecă cu fum înnădușitor, formând un văl întunecos, prin care lumina flacării numai când și când putea străbate.</p>
-<p>„Casa mea nu era de tot departe de poarta orașului, spre care năvălea mulțimea fugarilor. Eram robust și tânăr, dacă aș fi ascultat în aceea disperată oră de sfaturile înțelepte ale minții sănătoase, n-aș fi lăsat să mă întreacă nimeni în calea de scăpare.</p>
-<p>„Cu toate acestea nu făcui așa.</p>
-<p>„Un dor nebun mă cuprinse, care mă atrăgea cu putere irezistibilă către locuința Octaviei. Starea agitată în care mă aflam atunci mă ademenise să presupun, că Octavia-și va schimba conduita față de mine, dacă va vedea cât de mult o iubesc, că îmi aduc aminte de ea chiar și atunci când moartea îmi sta la călcâie.</p>
-<p>„Pornii, încălzit de acest cuget, către locuința foștilor mei stăpâni.</p>
-<p>„În zgomotul asurzitor, de care gemea tot Apulumul, și prin norii de fum ce plutiau deasupralui, fugeam ca un nebun în gura morții.</p>
-<p>„Nu-mi putui da seamă de timpul ce trecuse până ce ajunsăi la țintă; mi se păru că fug de mai multe ore; mă simțeam istovit de tot de puteri.</p>
-<p>„Spaima-mi opri pe câteva clipe baterea inimii, când văzui că casa iubităi mele arde și că Goții intraseră deja în ea.</p>
-<p>„Știrea că Octavia e în pericol, îmi răpi ultima rămășiță de prudență; mă azvârlii ca un lup înfuriat pe primul Got ce mi se dădu în cale și smulgându-i sabia din mână, alergai în casă.</p>
-<p>„Priveliștea ce mă așteptă în atriu unde intrasem, mă aduse în ori, ca imediat după aceea să devin pradă celei mai înfiorătoare simțiri. Padimentul de mosaic al atriului era încărcat de trupuri moarte și muribunde. Ori încotro îmi întorceam privirea spăimântată, numai de cadavre, sânge aboritor și zvârcoliri de agonie dădeam.</p>
-<p>„Mai departe, mai departe din acest iad înfiorător! </p>
-<p>„Picioarele îmi alunecau în bălțile de sânge, când pășeam peste cadavre, pe urmă odată și căzui. Repede sării în picioare și-mi aruncai toga ca să fiu mai ușor.</p>
+<p>Cuvintele mele pusera pe cugete pe Aelius. La aparență grăiam ca cel mai zelos creștin și amicului meu nici nu-i trecea prin minte, că pentru mine creștinismul era numai un vestmănt simplu, bun de a-mi acoperi golătatea intenției ce urmăream. Creștinii nu cunosc deosebire între om și om; în ochii lor toți oamenii-s nobili prin scântăia dumnezeiască a sufletului. Doctrina aceasta se potrivea minunat cu planul meu. Dacă părinții Octaviei sunt buni creștini — cugetam adeseori — nu-mi vor dificulta starea de libertin, când voi păși înaintea lor cu rugarea să-mi dea mie pe Octavia.</p>
+<p>Înainte de a face acest pas decisiv, trebuia să câștig consensul iubitei mele.</p>
+<p>Nu te voi molesta cu dureroasa enarare cum îmi nimici Octavia cu un singur cuvânt toată pompoasa clădire a fericirii visate. E de-ajuns de-ți voi spune, că Octavia mi-a refuzat amorul, ca să-mi pricepi durerea și rușinea ce mă cuprînsă atunci.</p>
+<p>Din aceea zi n-am mai luat parte la convenirile creștinilor, ci m-am retras tăcut, căutând a-mi îngropa fericirea pierdută în mormântul monotoanei vieți singuratice.</p>
+<p>Se întâmpla într-acestea de năvăliră Goții asupra orașului nostru. Apulum era înconjurat cu muri înalți și apărat de viteaza legiune XIII Gemina.Soartea războaielor însă e schimbătoare, nestatornică și capricioasă; speranțele noastre, că vom putea rezista până vom căpătă ajutor, se spulbera-n vânt. Legionarii au fost siliți să se retragă, zeciuiți de armele Goților. Locuitorii orașului, care fură mai norocoși se strecurară ca prin urechile acului la munți; care nu fură părtiniți de soartă își aflară mormântul între ruinile udate de sânge ale orașului.</p>
+<p>Casa mea a fost între cele dintre care se nimiciră de focul pus de către inimicul învingător. Erezisem și eu o mică parte de precauțiune și înțelepciune de la părintele meu, care în zilele acestăi vitrege năpăstuiri mi-ar fi putut fi de mare folos, dacă n-ar fi fost stăpânite de pauma amorului meu către Octavia, care nu-mi ieșise din minte nici după desconsiderarea ce mi-o izbise în față. Sufletul omului nu se dezlipeșce de speranță până la marginea mormântului; eu nădăjduiam încă că Octavia va fi a mea.</p>
+<p>După mai multe zile petrecute în frică continuă și sforțări de apărare supraomenești, într-o dimineață neguroasă pe ulițile orașului se ridică un zgomot îngrijitor.</p>
+<p>Repede luai la mine obiectele cele mai prețioase, care le aveam de mai înainte pregătite, ca la o eventuală necesitate de a părăsi orașul, să nu rămân sărac de tot — și ieșii la uliță.</p>
+<p>De voi trăi o sută de ani, totuși nu mi s-a șterge din memorie spectacolul grozav ce mi se înfățișa aici. Bărbați gârboviți de sarcini grele, femei speriate cu copii mici în brațe, istoviți de mulțimea anilor, se împingeau, se trăgeau în vălmășeală confuză, fiecare căutând a întrece cu fuga pe cel dinaintea lor. Vaiete disperate, bociri tânguitoare, sudălmi înfiorătoare, amenințări grozave, implorări de ajutor, strigăte de încurajare, se ridicau în toate părțile din mulțimea undulatoare, ajutând prin toiul clocotitor, în care se contopiau a mări groaza generală. Nu maiera nici o ordine; fiecare lucră de capul său; instinctul animalic de a-și mântui viața periclitată orbise pe cei mai mulți dintre acești nefericiți. La spatele lor urletul Goților care intrară în oraș, le vestea năvălirea morții — Cine-și putea încă mișca picioarele se încercă să cape de ea. Și ca groaza să-și ajungă culmea, orașul începu a arde la mai multe puncte deodată. Negura groasă se amăstecă cu fum înnădușitor, formând un văl întunecos, prin care lumina flacării numai când și când putea străbate.</p>
+<p>Casa mea nu era de tot departe de poarta orașului, spre care năvălea mulțimea fugarilor. Eram robust și tânăr, dacă aș fi ascultat în aceea disperată oră de sfaturile înțelepte ale minții sănătoase, n-aș fi lăsat să mă întreacă nimeni în calea de scăpare.</p>
+<p>Cu toate acestea nu făcui așa.</p>
+<p>Un dor nebun mă cuprinse, care mă atrăgea cu putere irezistibilă către locuința Octaviei. Starea agitată în care mă aflam atunci mă ademenise să presupun, că Octavia-și va schimba conduita față de mine, dacă va vedea cât de mult o iubesc, că îmi aduc aminte de ea chiar și atunci când moartea îmi sta la călcâie.</p>
+<p>Pornii, încălzit de acest cuget, către locuința foștilor mei stăpâni.</p>
+<p>În zgomotul asurzitor, de care gemea tot Apulumul, și prin norii de fum ce plutiau deasupralui, fugeam ca un nebun în gura morții.</p>
+<p>Nu-mi putui da seamă de timpul ce trecuse până ce ajunsăi la țintă; mi se păru că fug de mai multe ore; mă simțeam istovit de tot de puteri.</p>
+<p>Spaima-mi opri pe câteva clipe baterea inimii, când văzui că casa iubităi mele arde și că Goții intraseră deja în ea.</p>
+<p>Știrea că Octavia e în pericol, îmi răpi ultima rămășiță de prudență; mă azvârlii ca un lup înfuriat pe primul Got ce mi se dădu în cale și smulgându-i sabia din mână, alergai în casă.</p>
+<p>Priveliștea ce mă așteptă în atriu unde intrasem, mă aduse în ori, ca imediat după aceea să devin pradă celei mai înfiorătoare simțiri. Padimentul de mosaic al atriului era încărcat de trupuri moarte și muribunde. Ori încotro îmi întorceam privirea spăimântată, numai de cadavre, sânge aboritor și zvârcoliri de agonie dădeam.</p>
+<p>Mai departe, mai departe din acest iad înfiorător! </p>
+<p>Picioarele îmi alunecau în bălțile de sânge, când pășeam peste cadavre, pe urmă odată și căzui. Repede sării în picioare și-mi aruncai toga ca să fiu mai ușor.</p>
 <p>— „Verus!... Verus!“... — auzii în acest moment un glas slăbit.</p>
-<p>„Și după aceea un braț tremurător, plin de sânge, se ridica cu anevoe spre mine, ca și când ar vrea să mă apuce să nu fug. După multe sforțări se ridica în sfârșit în coate și proprietarul acestui braț.</p>
-<p>„Fața lui era desfigurată de o tăietură afundă, care-i schimonosi expresia, dar eu totuși îl recunoscui la moment.</p>
-<p>„Era tatăl Octaviei.</p>
-<p>„Mă aplecai spre el să-i ajut a se rădică, dar bătrânul se oprise. Numai acum observai că, afară de tăietura de pe frunte, mai avea și în piept o împunsătură de moarte.</p>
+<p>Și după aceea un braț tremurător, plin de sânge, se ridica cu anevoe spre mine, ca și când ar vrea să mă apuce să nu fug. După multe sforțări se ridica în sfârșit în coate și proprietarul acestui braț.</p>
+<p>Fața lui era desfigurată de o tăietură afundă, care-i schimonosi expresia, dar eu totuși îl recunoscui la moment.</p>
+<p>Era tatăl Octaviei.</p>
+<p>Mă aplecai spre el să-i ajut a se rădică, dar bătrânul se oprise. Numai acum observai că, afară de tăietura de pe frunte, mai avea și în piept o împunsătură de moarte.</p>
 <p>— „Mântuește pe Octavia! — îmi șopti bătrânul, stringându-și toată puterea să-și îndrepte brațul crunt spre direcția unde era pieritilul. După aceea recăzu mort în balta de sânge, de unde numai iubirea de părinte îl rădicase pe câteva clipe.</p>
-<p>(Va urma)</p>
-<p>Tit Chitul</p>
+            <trailer>(Va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
         </div>
     </div>
     
     <div type="part" n="5">
-        <p>Catastrofa Daciei</p>
-        <p>— Roman istoric —</p>
-        <p>(Urmare)</p>
+        <head>Catastrofa Daciei — Roman istoric —</head>
+        <milestone unit="(Urmare)"/>
         <div type="section" n="1">
 <p>Chiar de nu m-ar fi făcut atent tatăl Octaviei la pericolul ce amenință pe fiica sa, aș fi grăbit spre peristil, căci de aici se auzea zgomot mare. Mi se păru că aud plângând o femeie — Aceasta e Octavia — cugetai înspăimântat — și năvălii ca orbit spre peristil.</p>
-<p>„Nu mă înșelasem! Era cu adevărat Octavia, care plângea luptându-se cu disperare în contra mai multor Goți duri, care se certau pentru ea.</p>
-<p>„Ce puteam eu însă face în fața atâtor inimici! Moartea-mi fu scrisă pe frunte, când pășii în această casă nenorocită. Dar dacă era să mor, să-mi vând scump viața—</p>
-<p>„Îmi rădicai spre lovire sabia smulsă din mâinile Gotului și nu mai știu nimic ce s-a petrecut cu mine.</p>
-<p>„Când m-am trezit era noapte întunecată. Eram beat de cap, și slăbit peste măsură. Pe creștetul capului aveam o tăietură adâncă, care mă durea de tot grozav.</p>
-<p>„Cu încetul îmi adusăi aminte de cele ce se întâmplară cu mine. Norocul m-a părtinit de am scăpat sub scutul nopții din orașul ocupat de inamic și m-am tras la munți la frații mei de suferință.</p>
-<p>„Poate ar fi fost mai bine pentru mine de aș fi murit în acea noapte îngrozitoare, căci aș fi rămas cruțat de suferințe mai arzătoare care mi le păstrase viitorul neîndurat.</p>
-<p>„Sosit la frații mei, pe aceștia îi aflai în mizerie de plâns, zecuiți, încărcați de răni și despoiați de mijloacele traiului obisnuit.</p>
-<p>„Pe Octavia nu o aflai între cei scăpați. Era mai mult decât verosimil, că a pierit de armele Goților.</p>
-<p>„Lui Aelius îi povestii scena oribilă, petrecută în casa lui părintească. Eram ambii cei mai nefericiți oameni — și am plâns îndelungat cu lacrimi amare.</p>
-<p>„Dar totuși nefericirea lui Aelius era mai mare, căci el afară de părinți și soră, pierduse și pe Lucila. Bituvantis și fiica sa dispărură fără urmă.</p>
-<p>„Peste câteva zile însă, în noaptea întunecoasă, ce învăluia în întunecimea mâhnită inimă iubitoarea lui Aelius, străbătu o rază lucitoare de bucurie neașteptată.</p>
-<p>„Octavia veni la noi în munți”.</p>
-<p>„Nu există cuvânt potrivit cu care aș putea exprima bucuria amețitoare de care fui cuprins, când o revăzui. Mi se părea că îndurarea cerului a făcut o minune pentru mine, redând viața ființei iubite, pe care mi-o închipuisem încărcată de răni ucigătoare, sleită de ghețoasa răceală a morții.</p>
-<p>„Dar peste câteva ore plătii foarte scump scurtele clipe de fericire.</p>
-<p>„Octavia nu venise singură”.</p>
-<p>„Însoțitorul ei era un Got tânăr, pe care Octavia îl prezentă fratelui său ca pe mântuitorul vieții sale.</p>
-<p>„Din cerul fericirii căzui în iadul disperarii — Nu se cerea agerimea ochilor scrutători de amorezat respins, cum eram eu, să priceapă din privirea călduroasă a Octaviei ce rătăcea din când în când spre Gotul june, că acesta nu era indiferent pentru ea.</p>
+<p>Nu mă înșelasem! Era cu adevărat Octavia, care plângea luptându-se cu disperare în contra mai multor Goți duri, care se certau pentru ea.</p>
+<p>Ce puteam eu însă face în fața atâtor inimici! Moartea-mi fu scrisă pe frunte, când pășii în această casă nenorocită. Dar dacă era să mor, să-mi vând scump viața—</p>
+<p>Îmi rădicai spre lovire sabia smulsă din mâinile Gotului și nu mai știu nimic ce s-a petrecut cu mine.</p>
+<p>Când m-am trezit era noapte întunecată. Eram beat de cap, și slăbit peste măsură. Pe creștetul capului aveam o tăietură adâncă, care mă durea de tot grozav.</p>
+<p>Cu încetul îmi adusăi aminte de cele ce se întâmplară cu mine. Norocul m-a părtinit de am scăpat sub scutul nopții din orașul ocupat de inamic și m-am tras la munți la frații mei de suferință.</p>
+<p>Poate ar fi fost mai bine pentru mine de aș fi murit în acea noapte îngrozitoare, căci aș fi rămas cruțat de suferințe mai arzătoare care mi le păstrase viitorul neîndurat.</p>
+<p>Sosit la frații mei, pe aceștia îi aflai în mizerie de plâns, zecuiți, încărcați de răni și despoiați de mijloacele traiului obisnuit.</p>
+<p>Pe Octavia nu o aflai între cei scăpați. Era mai mult decât verosimil, că a pierit de armele Goților.</p>
+<p>Lui Aelius îi povestii scena oribilă, petrecută în casa lui părintească. Eram ambii cei mai nefericiți oameni — și am plâns îndelungat cu lacrimi amare.</p>
+<p>Dar totuși nefericirea lui Aelius era mai mare, căci el afară de părinți și soră, pierduse și pe Lucila. Bituvantis și fiica sa dispărură fără urmă.</p>
+<p>Peste câteva zile însă, în noaptea întunecoasă, ce învăluia în întunecimea mâhnită inimă iubitoarea lui Aelius, străbătu o rază lucitoare de bucurie neașteptată.</p>
+<p>Octavia veni la noi în munți”.</p>
+<p>Nu există cuvânt potrivit cu care aș putea exprima bucuria amețitoare de care fui cuprins, când o revăzui. Mi se părea că îndurarea cerului a făcut o minune pentru mine, redând viața ființei iubite, pe care mi-o închipuisem încărcată de răni ucigătoare, sleită de ghețoasa răceală a morții.</p>
+<p>Dar peste câteva ore plătii foarte scump scurtele clipe de fericire.</p>
+<p>Octavia nu venise singură”.</p>
+<p>Însoțitorul ei era un Got tânăr, pe care Octavia îl prezentă fratelui său ca pe mântuitorul vieții sale.</p>
+<p>Din cerul fericirii căzui în iadul disperarii — Nu se cerea agerimea ochilor scrutători de amorezat respins, cum eram eu, să priceapă din privirea călduroasă a Octaviei ce rătăcea din când în când spre Gotul june, că acesta nu era indiferent pentru ea.</p>
 <p>Bănuiala mea nu era fără temei. Relația dintre Withimir — acesta era numele junelui — devenea din zi în zi tot mai strânsă, tot mai cordială, tot mai călduroasă.</p>
 <p>«Withimir începu a se interesa de religiunea creștinilor și peste câteva săptămâni se boteză”.</p>
 <p>Samanarich care ascultase până acum pe Verus fără de a-l întrerupe, își pierdu răbdarea și întreba:</p>
 <p>— Withimir și-a părăsit religia străbună de dragul unei femei ce era în mâinile sale? Acest lucru nu poate fi adevărat.</p>
 <p>— E adevărat; pentru adevărul cuvintelor mele răspund la tot momentul cu viața.</p>
-<p>„Samanarich clăti din cap nemulțumit și zise:</p>
+<p>Samanarich clăti din cap nemulțumit și zise:</p>
 <p>— Continuă!</p>
 <p>«Nu știu din convingere și-a lăpădat Withimir religia, sau de aceea că Octavia n-a voit să-și împreune viața cu un păgân, destul că Withimir deprezent e creștin și bărbat al Octaviei.</p>
-<p>„Din ziua cununiei lui Withimir cu Octavia, sufletul meu chinuit nu mai avuse liniște. Dacă m-ar fi ajuns aceasta nefericire în timpul când eram om avut, aș fi suportat-o poate cu mai multă bărbăție, m-aș fi mutat în alt oraș și mi-aș fi dat toată silința să trag vălul uitării peste ea. Ce puteam însă face între împrejurările sinistre, în care ajunsăi? Unde să merg cu inima-mi străpunsă de pumnalul durerii? -</p>
-<p>„În nenorocirea comună ce se năpăstui pe capetele locuitorilor din Apulum, eram avizați reciproc la ajutorul altuia. Cu puteri unite ne edificarăm colibi mizerabile; mânam vitele ce le puturăm mântui la pășuni, căutam locuri mai așezate încălzite de razele soarelui, ne împlântam sapele în țelina neaunsă niciodată de fier, și animați de speranța unui viitor mai bun, semănarăm o parte din bucatele ce le adusera cu ei cei mai înțelepți dintre noi.</p>
-<p>„Withimir lucra mai mult decât oricare dintre noi. Prin alipirea ce o arătă către nevasta sa între împrejurările sărăciei, își câștiga cu încetul stima și iubirea tuturor. Peste câteva luni el, care la început a fost primit cu neîncredere și rezervă rece, era iubit de toți. În jurul lui se forma un nimb de admirare, când pe urmă înțeleseră ce poziție strălucită a părăsit el de dragul Octaviei, cu toate că aceea fusese în mâinile lui, și după dreptul celor învingători, ar fi putut face cu ea orice ar fi voit.</p>
-<p>„Dar el a preferat fericirea izvorâtă din înclinarea spontană a ființei adorate, sărutărilor stoarse prin siluire.</p>
-<p>„De n-ar fi adus Withimir pe Octavia în munți, eu n-aș fi fost necesitat a face pasul urâcios, și aș fi luat asupra mea durerea chinuitoare, că am zdrobit fericirea ființei, pe care atât de mult o iubisem.</p>
-<p>„De ce a și venit Withimir la mizeria noastră?</p>
+<p>Din ziua cununiei lui Withimir cu Octavia, sufletul meu chinuit nu mai avuse liniște. Dacă m-ar fi ajuns aceasta nefericire în timpul când eram om avut, aș fi suportat-o poate cu mai multă bărbăție, m-aș fi mutat în alt oraș și mi-aș fi dat toată silința să trag vălul uitării peste ea. Ce puteam însă face între împrejurările sinistre, în care ajunsăi? Unde să merg cu inima-mi străpunsă de pumnalul durerii? -</p>
+<p>În nenorocirea comună ce se năpăstui pe capetele locuitorilor din Apulum, eram avizați reciproc la ajutorul altuia. Cu puteri unite ne edificarăm colibi mizerabile; mânam vitele ce le puturăm mântui la pășuni, căutam locuri mai așezate încălzite de razele soarelui, ne împlântam sapele în țelina neaunsă niciodată de fier, și animați de speranța unui viitor mai bun, semănarăm o parte din bucatele ce le adusera cu ei cei mai înțelepți dintre noi.</p>
+<p>Withimir lucra mai mult decât oricare dintre noi. Prin alipirea ce o arătă către nevasta sa între împrejurările sărăciei, își câștiga cu încetul stima și iubirea tuturor. Peste câteva luni el, care la început a fost primit cu neîncredere și rezervă rece, era iubit de toți. În jurul lui se forma un nimb de admirare, când pe urmă înțeleseră ce poziție strălucită a părăsit el de dragul Octaviei, cu toate că aceea fusese în mâinile lui, și după dreptul celor învingători, ar fi putut face cu ea orice ar fi voit.</p>
+<p>Dar el a preferat fericirea izvorâtă din înclinarea spontană a ființei adorate, sărutărilor stoarse prin siluire.</p>
+<p>De n-ar fi adus Withimir pe Octavia în munți, eu n-aș fi fost necesitat a face pasul urâcios, și aș fi luat asupra mea durerea chinuitoare, că am zdrobit fericirea ființei, pe care atât de mult o iubisem.</p>
+<p>De ce a și venit Withimir la mizeria noastră?</p>
 <p>Și aceasta o înțelesei mai târziu, când auzii că a avut mireasă din sânul poporului său.</p>
-<p>„In ziua în care îmi ajunse la cunoștință aceasta împrejurare, se deșțeptă în mine un plan cutezător, care-mi trezi din nou speranța adormită.</p>
-<p>„Cunoșteam dauna Goților, care nu suferă, ca bărbatul să se facă infidel către nevastă-sa. Pe această daună mi se baza tot planul și speranța.</p>
+<p>In ziua în care îmi ajunse la cunoștință aceasta împrejurare, se deșțeptă în mine un plan cutezător, care-mi trezi din nou speranța adormită.</p>
+<p>Cunoșteam dauna Goților, care nu suferă, ca bărbatul să se facă infidel către nevastă-sa. Pe această daună mi se baza tot planul și speranța.</p>
 <p>«Ceea ce la început nu se deșteptase încă în sufletul meu, pofta de răzbunare asupra răpitorului dragestăi Octaviei se trezi și-și pretinse drepturile sale.</p>
-<p>„Un dor nebun de crudă răzbunare îmi stăpâni toate cugetele. Withimir trebuia să piară ca să-mi recapăt liniștea.</p>
-<p>„De aș fi ascultat de primle îmboldiri ce mi le șoptea dorul de răzbunare, m-aș fi făcut chiar sinucigaș. Dar cumpănirea mai rece a lucrurilor mă făcu mai prudent. Ce puteam eu aștepta de la Octavia, dacă va ști că eu am fost ucigașul bărbatului ei ? —„Devenit prada patimilor chinuitoare ale amorului disperat și a celui mai arzător dor de răzbunare, la viața-mi proprie nici nu cugetam. Macar și aceea ar fi atârnat de un fir de pâr, de aș fi comis acea crimă grozavă, pentru că dacă m-ar fi descopierit, n-aș fi trăit mai mult.</p>
-<p>„Muncit de acestea cugete negre, ziua n-aveam odihnă, nopțile le petreceam treaz. Cugetele rele se furișă de regulă noaptea în creierii înfirbântați de patimi grele, așa se întâmplă și cu mine.</p>
-<p>„Iată deci, bărbate sfinte, la ce rezultat ajunseră blestematele mele frământări de cugete! Am venit la inamicii mei de moarte, jucându-mă cu viața,ca să dau în mâinile voastre pedepsitoare un om care a călcat în picioare daunele sfinte ale poporului său! Acest om e și inamicul meu cel mai mare. De voiești, te poți folosi de ajutorul meu. Dacă vei pretinde, Withimir, peste puține zile, va fi în mâinile tale.</p>
+<p>Un dor nebun de crudă răzbunare îmi stăpâni toate cugetele. Withimir trebuia să piară ca să-mi recapăt liniștea.</p>
+<p>De aș fi ascultat de primle îmboldiri ce mi le șoptea dorul de răzbunare, m-aș fi făcut chiar sinucigaș. Dar cumpănirea mai rece a lucrurilor mă făcu mai prudent. Ce puteam eu aștepta de la Octavia, dacă va ști că eu am fost ucigașul bărbatului ei ? —„Devenit prada patimilor chinuitoare ale amorului disperat și a celui mai arzător dor de răzbunare, la viața-mi proprie nici nu cugetam. Macar și aceea ar fi atârnat de un fir de pâr, de aș fi comis acea crimă grozavă, pentru că dacă m-ar fi descopierit, n-aș fi trăit mai mult.</p>
+<p>Muncit de acestea cugete negre, ziua n-aveam odihnă, nopțile le petreceam treaz. Cugetele rele se furișă de regulă noaptea în creierii înfirbântați de patimi grele, așa se întâmplă și cu mine.</p>
+<p>Iată deci, bărbate sfinte, la ce rezultat ajunseră blestematele mele frământări de cugete! Am venit la inamicii mei de moarte, jucându-mă cu viața,ca să dau în mâinile voastre pedepsitoare un om care a călcat în picioare daunele sfinte ale poporului său! Acest om e și inamicul meu cel mai mare. De voiești, te poți folosi de ajutorul meu. Dacă vei pretinde, Withimir, peste puține zile, va fi în mâinile tale.</p>
 <p>Verus termină.</p>
 <p>Pieptul său se ridică repede muncit grozav de amintirile dureroase și de pe fruntea sa curgeau șiroaie de sudori.</p>
 <p>Ewartul bătrân se sculă mulțumit.</p>
@@ -386,18 +385,16 @@
 <p>Samanarich deschise aceasta ușă și împînsă pe Verus într-o odaie întunecoasă, îi zise:</p>
 <p>— Fii liniștit! Nu ți se va întâmpla nici un rău. Mâine vom vorbi din nou.</p>
 <p>Închise apoi ușa și luă cheia la sine.</p>
-<p>(Va urma)</p>
-<p>Tit Chitul</p>
-</div>
+            <trailer>(Va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
+        </div>
     </div>
- 
+    
     <div type="part" n="6">
-        <p>Catastrofa Daciei</p>
-        <p>— Roman istoric —</p>
-        <p>(Urmare)</p>
+        <head>Catastrofa Daciei — Roman istoric —</head>
+        <milestone unit="(Urmare)"/>
 <div type="section" n="2">
-<p>II</p>
-<p>Dadsisas</p>
+<head>II. Dadsisas</head>
 <p>Pădurea seculară clocotea de zgomot.</p>
 <p>Copacii gigantici își îndreptau vârfurile țintă spre cer; în natură domnea liniște măiestoasă; abia clătea o boare lină, răcoritoare, frunzele arborilor producând acel freamăt plăcut, ce dă pădurilor bătrâne un farmec deosebit.</p>
 <p>Codrii-s compuși din ființe vii, care își au limba lor, simțirile lor. Când vântul lin de vară le adie frunzele, copacii își povestesc în murmur tainic trecutul, își împroaspătă amintirile, se veselesc. Iar când se izbește de crengile lor vântul cel cumplit al viforelor, se mânie, gem de durere, protestează, se revoltă.</p>
@@ -447,23 +444,22 @@
 <p>Locul unde intrară era neted și acopierit de iarbă, numai la mijlocul lui se ridică o colină mică, care era îngrădită cu gard înalt. Pe vârful colinei niște copaci uriași își întindeau crengile bătrâne, formând sub ele un fel de boltitură ca un cort.</p>
 <p>Vântul de vară ce suflă de către acești copaci, aducea cu sine un miros pestilent, care infectă toată împrejurimea.</p>
 <p>Aici era sfântul berc al zeului Wuotan, unde se aduceau jertfele publice, și zeul își manifestă prezența prin clătirea misterioasă a crengilor de copaci de pe vârful colinei. În apropierea acestor copaci era și grajdul armăsarului cel sfânt, alb ca zăpada, care-și trăgea originea de la năzdravanul armăsar al lui Wuotan. Aici se păstrau idolii zeilor și carul cel sfânt pe care purtau acești idoli. De pe crengile mai groase ale copacilor atârnau capete de animale, care, trecute în putregai, răspândeau acel miros neplăcut ce făcea aproape insuportabilă prezența mai îndelungată în acest loc.</p>
-<p>(Va urma)</p>
-<p>Tit Chitul</p>
-    </div>
+    <trailer>(Va urma)</trailer>
+    <trailer>Tit Chitul</trailer>
+</div>
     </div>
     
     <div type="part" n="7">
-        <p>Catastrofa Daciei</p>
-        <p>— Roman istoric —</p>
-        <p>(Urmare)</p>
-        <div type="section" n="2">
+        <head>Catastrofa Daciei — Roman istoric —</head>
+        <milestone unit="(Urmare)"/>
+    <div type="section" n="2">
 <p>În acest sanctuar numai ewarții aveau dreptul de a intra, iar credincioșilor de rând numai sub acea condiție se permitea intrarea, dacă li se legau mâinile și de cădea oarecare dintre aceștia, nu-i era iertat să se scoale până ce nu-l rădicau ewarții.</p>
 <p>La poarta sanctuarului Athaulf și Alvamelda se pusera pe scaunul de glii alcătuit pentru acest scop, să aștepte pe Samanarich care intrase în sanctuar.</p>
 <p>Peste puțin timp acesta se reîntoarse cu o bucată de pănură albă în mâini, care întinzând-o pe iarbă, arunca pe ea niște bețe mici, în care erau scobite diferite semne, și provocă pe Alvamelda să satisfacă dorinței lui Athaulf, căruia bătrânul ewart îi puse în prospect, că va primi știri sigure despre dispariția fiului său, și a cărui curiozitate nerabdătoare își ajunse culmea prin aceasta promisiune.</p>
 <p>Alvamelda îngenunchea lângă pănura întinsă, și după ce îngână câteva cuvinte misterioase de vraj, își îndreptă spre cer privirea inspirată, rădică un bețișor și sărutându-l cu aer precepător la lumina lunii zise:</p>
 <p>— Fericite Athaulf! zeii îmi spun prin runele acestui bețișor, ca fiul tău Withimir nu e mort.</p>
 <p>După aceea luând alt bețișor, continuă:</p>
-<p>„O femeie străină l-a sedus și l-a stricat prin viclene uneltiri, să-și uite de datoria cu care era obligat miresei sale și părintelui său. Mintea lui obosită de vrajul acelei femei, nu e în stare să cunoască greșeala pasului ce l-a făcut.</p>
+<p>O femeie străină l-a sedus și l-a stricat prin viclene uneltiri, să-și uite de datoria cu care era obligat miresei sale și părintelui său. Mintea lui obosită de vrajul acelei femei, nu e în stare să cunoască greșeala pasului ce l-a făcut.</p>
 <p>Aceasta descoperire scoase din fire pe Athaulf, care nu era aplicat să dea crezămănt cuvintelor Alvameldei. Aceasta însă mai luă un bețișor și zise cu glas înalt:</p>
 <p>— Athaulf! Zeii cunosc durerea ce ți-au deșteptat aceste descoperiri, de aceea nici nu se supără pentru necredința cu care le primești. Și ca să-ți dea probe despre favorul lor deosebit eu care-s aplicați către tine, îți dau a pricepe că Withimir se va mântui de vrajul acelei femei blestemate. Runele nu-mi arată însă calea pe care să purcedem, ci mă îndreaptă să-ți spun să rogi pe Samanarich să întrebe pe Wuotan să-i descopere unde e Withimir și ce trebuie să faci, ca acela să se reîntoarne la tine. Am sfârșit!</p>
 <p>Alvamelda se sculă din genunchi, împătură pănura și o dădu lui Samarich, care așteptă să fie rugat de către Athaulf a intra în sanctuar și a întrebă pe Wuotan în sensul descoperirilor făcute de Alvamelda. Avea bătrânul intenția de a face acestea și fără provocarea expresă a lui Athaulf, totuși voia să profite de ocazia binevenită de a strânge și mai mult legăturile de încredere slăbite deja de mult între el și principele Goților.</p>
@@ -491,29 +487,27 @@
 <p>Mulțimea se așeză apoi la mâncat și Samanarich dădu ordin să golească căldările cele mari, în care ewarții au fiert carnea taurilor de jertfă.</p>
 <p>Puțin timp în urmă, ospățul degenera în orgii urâcioase și oamenii se apucară de joc.</p>
 <p>Până la revărsatul zorilor fiarele și păsările n-au avut odihnă de sunetul muzicii sălbatice și de strigătele chiotitoare ce au conturbat în acea noapte senină măiestoasa liniște a pădurii.</p>
-<p>(Va urma)</p>
-<p>Tit Chitul</p>
-</div>
+        <trailer>(Va urma)</trailer>
+        <trailer>Tit Chitul</trailer>
+    </div>
     </div>
     
     <div type="part" n="8">
-        <p>Catastrofa Daciei</p>
-        <p>— Roman istoric —</p>
-        <p>(Urmare)</p>
+        <head>Catastrofa Daciei — Roman istoric —</head>
+        <milestone unit="(Urmare)"/>
 <div type="section" n="3">
-<p>III</p>
-<p>Tesaurul lui Mucapor</p>
-<p>Precum am înțeles din capitolele precedente, ținuturile din estul și nordul Daciei au ajuns sub stăpânirea Goților. Legiunile, neputând a opri năvala barbarilor, se retrasera spre Sarmisegetusa și se apucară de fortificarea capitalei, ca de aici, dintre zidurile întărite ale Sarmiseghetusei, să apere provincia amenințată și să repare știrbitura de renume ce a căpătat oștirea romană prin biruința Goților.</p>
+<head>III. Tesaurul lui Mucapor</head>
+<p>Precum am înțeles din capitolele precedente, ținuturile din estul și nordul Daciei au ajuns sub stăpânirea Goților. Legiunile, neputând a opri năvala barbarilor, se retrasera spre Sarmisegetuza și se apucară de fortificarea capitalei, ca de aici, dintre zidurile întărite ale Sarmiseghetusei, să apere provincia amenințată și să repare știrbitura de renume ce a căpătat oștirea romană prin biruința Goților.</p>
 <p>Guvernatorul provinciei trimise curieri la toți legații din castrele de pe țărmurile Dunării de jos, descriindu-le cu colori vii pericolul ce amenință provincia încredințată lui și cerând ajutor în contra barbarilor. Răspunsurile ce le primi sunau toate la fel. Ajutor nu putea trimite niciunul, căci și ținuturile încredințate grijii lor erau amenințate de barbari, și legiunile de care dispuneau, nu puteau învinge cu puterea covârșitoare a inamicului. Toți dădeau însă sfat, să se susțină cu bărbăție, să nu se apuce de luptă decisivă, să se încerce a pune stavilă în calea barbarilor prin promisiuni de bani.</p>
 <p>Văzându-se părăsit de soți, guvernatorul Daciei așteptă cu neliniște iritată reîntoarcerea curierilor, pe care îi trimisese la Roma cu descrierea fidelă a stării strâmtorate în care se află. In urmă sosiră și aceștia, nu însă ca să-i aducă liniștea pierdută, ci ca să-l despoaie și de ultima speranță ce o mai avuse.</p>
-<p>La cererile sale de ajutor, îl răspunse însuși împăratul Aurelian, care cu inimă întristată îl înștiința că nu poate apăra Dacia. În Dalmația armata proclamase de împărat pe Septimius, în Palmysa Zenobia s-a pus pe picior de război cu imperiul roman. Interesele vitale ale imperiului îi împun datoria — scria el — să pedepsească pe acești usurpatori îngâmfați și să restabilească întregimea imperiului în fața acestor mari interese. Dacia copleșită în cea mai mare parte a ei de barbari, cade cu totul afară din sfera combinățiilor, pentru că de s-ar încercă să o curățească de barbari, ar trebui să-și concentreze pentru acest scop toată puterea armată. Îl făcu deci atent pe guvernatorul strâmtorat să dea scut și apărare locuitorilor refugiați în capitală și să-i provoace să părăsească Dacia și să treacă peste Dunăre în Mesia cu atâta mai vârtos că, precum cu durere s-a convins, va fi silit de împrejurările nefavorite să cedeze Goților Dacia, ca să fie asigurat barem din aceasta parte în contra năvălirilor barbare. Spre acest scop a și trimis soli la regele Goților să încheie pace cu el. Cu toate acestea, să se susțină în Sarmisegetusa și să o apere, până când va primi mandatul său hotărât să se retragă și el cu trupele sale in Moesia.</p>
+<p>La cererile sale de ajutor, îl răspunse însuși împăratul Aurelian, care cu inimă întristată îl înștiința că nu poate apăra Dacia. În Dalmația armata proclamase de împărat pe Septimius, în Palmysa Zenobia s-a pus pe picior de război cu imperiul roman. Interesele vitale ale imperiului îi împun datoria — scria el — să pedepsească pe acești usurpatori îngâmfați și să restabilească întregimea imperiului în fața acestor mari interese. Dacia copleșită în cea mai mare parte a ei de barbari, cade cu totul afară din sfera combinățiilor, pentru că de s-ar încercă să o curățească de barbari, ar trebui să-și concentreze pentru acest scop toată puterea armată. Îl făcu deci atent pe guvernatorul strâmtorat să dea scut și apărare locuitorilor refugiați în capitală și să-i provoace să părăsească Dacia și să treacă peste Dunăre în Mesia cu atâta mai vârtos că, precum cu durere s-a convins, va fi silit de împrejurările nefavorite să cedeze Goților Dacia, ca să fie asigurat barem din aceasta parte în contra năvălirilor barbare. Spre acest scop a și trimis soli la regele Goților să încheie pace cu el. Cu toate acestea, să se susțină în Sarmisegetuza și să o apere, până când va primi mandatul său hotărât să se retragă și el cu trupele sale in Moesia.</p>
 <p>În aceasta veste descurajatoare, mai străluciă încă și o debilă rază mângâietoare de speranță că, după pedepsirea lui Septimius și Zenobiei, împăratul își va întoarce toată atenția spre Dacia.</p>
 <p>Pe valea frumoasă a Sarmiseghetusei zi de zi nu se rupeau șirurile lungi ale locuitorilor Daciei, care alungați de la vetrele lor, își căutau scăparea spre capitală. Bărbați purtând pe spate ruinele averii lor mânau ciurzi de vite și care încărcate, femei cu prunci mici în brațe plângeau după bărbații lor pierduți. Pretutindeni lacrimi și bociri, tânguiri și oftări.</p>
-<p>Era mare numărul fugarilor ce se îmbulziau, tremurând de frică, către Sarmisegetusa, dar cu mult mai mare era al acelora, care nu voiau cu niciun preț să se despartă de patria lor iubită, și preferau a alerga mai bine în munți, decât a-și căuta scăpare prin părăsirea patriei. Populația rurală, baștina țării, strănepoții veteranilor, cu mult mai fierbinte s-a îndrăgit în aceasta țară udată de sângele strămoșilor, decât să-i fi dus inima să-o părăsească în zilele de crudelă încercare.</p>
+<p>Era mare numărul fugarilor ce se îmbulziau, tremurând de frică, către Sarmisegetuza, dar cu mult mai mare era al acelora, care nu voiau cu niciun preț să se despartă de patria lor iubită, și preferau a alerga mai bine în munți, decât a-și căuta scăpare prin părăsirea patriei. Populația rurală, baștina țării, strănepoții veteranilor, cu mult mai fierbinte s-a îndrăgit în aceasta țară udată de sângele strămoșilor, decât să-i fi dus inima să-o părăsească în zilele de crudelă încercare.</p>
 <p>Duumvirul coloniei Apulum, Publius Bituvantis, s-a născut în Dacia și de și era orășean avut, după sentimentele sale se ținea de clasa ultimă, care nu voia să părăsească țara. Cu toate acestea Bituvantis, în loc de a se trage cu soții săi de simțiri și suferințe la munți, fu între cei dintâi care, după catastrofa coloniei Apulum, fugiră către capitală.</p>
-<p>Până când însă majoritatea cetățenilor de poziția socială și averea lui nu se opriră în fuga lor, până ce nu avură Dunărea la spate, el își ocupa casa ce o avea în Sarmisegetusa. Stabilit aici, se puse în înțelegere cu fruntașii orașului și oferi o parte considerabilă a averii sale pentru apărarea acesteia.</p>
+<p>Până când însă majoritatea cetățenilor de poziția socială și averea lui nu se opriră în fuga lor, până ce nu avură Dunărea la spate, el își ocupa casa ce o avea în Sarmisegetuza. Stabilit aici, se puse în înțelegere cu fruntașii orașului și oferi o parte considerabilă a averii sale pentru apărarea acesteia.</p>
 <p>Exemplul lui avu efect bun asupra celor mai slabi de inimă și-l imitară mai mulți.</p>
-<p>Cauza principală, care a îndemnat pe Bituvantis să se oprească în Sarmisegetusa, a fost o afacere misterioasă, care, de când îi ajunse la cunoștință, îi răpise toată răbdarea. De nu l-ar fi legat oficiul de duumvir de Apulum, s-ar fi mutat încă demult în Sarmisegetusa.</p>
+<p>Cauza principală, care a îndemnat pe Bituvantis să se oprească în Sarmisegetuza, a fost o afacere misterioasă, care, de când îi ajunse la cunoștință, îi răpise toată răbdarea. De nu l-ar fi legat oficiul de duumvir de Apulum, s-ar fi mutat încă demult în Sarmisegetuza.</p>
 <p>Înainte de a fi silit să părăsească Apulum-ul, Bituvantis, căutând într-o zi printre scrisorile sale vechi, care îi rămasera din generație în generație, dădu peste un pergament scris cu caractere străine. El cunoștea limba latină și cea greacă; cu ajutorul acestora însă nu putu înțelege cuprinsul pergamentului. Această împrejurare îi deșteptă curiozitatea.</p>
 <p>Avea un sclav învățat, cu numele Filetus, pe care îl destinse cu oficiul de pedagog al fiicei sale, Lucila, și care își împlinise însărcinarea spre deplina mulțumire a stăpânului său.</p>
 <p>Cum era nerabdător să știe ce cuprindea în sine acel pergament îngălbenit și zdrențuit, din care lipseau mai multe bucăți, îi veni ideea să întrebe pe Filetus despre părerea lui.</p>
@@ -535,17 +529,16 @@
 <p>— Adevărat e ce zici? Nu te înșeli ? — întreba Bituvantis sculându-se de la masa unde șezuse până acum.</p>
 <p>— La nici un caz nu mă înșel — afirma sclavul — deoarece am dauna de a spune numai aceea, despre ce sunt pe deplin convins, fără de a mă folosi de combinații, care pot seduce pe om. Din principiul acesta ți-am spus numai atâta, că în acest document e vorba de un tezaur îngropat, și nu ți-am spus și locul unde e ascuns acela, pentru că atunci ți-aș fi spus numai combinațiuni de idei, nu adevăruri.</p>
 <p>— Ce zici Filetus? Stă scris aici locul unde e ascuns tezaurul? — întreba Bituvantis cu ochi sclipitori.</p>
-<p>— Aceea, că ar fi descris aici locul, nu pot afirmă, fără de a fi e spus pericolului să mă înșel. Fiind însă vorba în aceasta scrisoare de Sarmisegetusa, poate sustă combinațiunea, că locul, unde ar fi ascuns acel tezaur presupus, trebuie căutat în jurul acestui oraș.</p>
+<p>— Aceea, că ar fi descris aici locul, nu pot afirmă, fără de a fi e spus pericolului să mă înșel. Fiind însă vorba în aceasta scrisoare de Sarmisegetuza, poate sustă combinațiunea, că locul, unde ar fi ascuns acel tezaur presupus, trebuie căutat în jurul acestui oraș.</p>
 <p>Curiozitatea duumvirului creștea treptat cu explicările sclavului. Documentul, care la început n-a fost în ochii lui decât un obiect de curiozitate, după explicările lui Filetus, deveni un mijloc de a-și câștigă deodată o avere fabuloasă.</p>
-    <p>(Va urma)</p>
-    <p>Tit Chitul</p>
+    <trailer>(Va urma)</trailer>
+    <trailer>Tit Chitul</trailer>
 </div>
     </div>
     
     <div type="part" n="9">
-        <p>Catastrofa Daciei</p>
-        <p>— Roman istoric —</p>
-        <p>(Urmare)</p> 
+        <head>Catastrofa Daciei — Roman istoric —</head>
+        <milestone unit="(Urmare)"/>
         <div type="section" n="3">
 <p>Btuvantis luă din mâinile sclavului documentul prețios și întorcându-l pe toate laturile, îl studiză amănuntul.</p>
 <p>— Mi se pare că aceasta scrisoare n-a făcut-o una și aceiași mână — adause Bituvantis la explicările sclavului.</p>
@@ -567,31 +560,30 @@
 <p>— Zelul tău nu va rămâne neremunerat.</p>
 <p>— Cunosc bunătatea stăpânului meu. Dar să nu crezi, stăpâne, că aș fi om fățarnic, care își așcunde firea adevărată sub masca prefacerii, și ai cărui ochi înșelători caută cu setea fiarelor după sânge prilegiul de a dobândi remunerarea stăpânului său. Zelul ce-l pun în descâlcirea afacerii încredințate mie, e lipsit de orice interese egoiste.</p>
 <p>— Cred, Filetus.</p>
-<p>— Numai de aceea am venit azi înaintea ta să-ți cer permisiunea de a mă mută pe câteva săptămâni la Sarmisegetusa, ca să pot continuă cercetările în fața locului.</p>
+<p>— Numai de aceea am venit azi înaintea ta să-ți cer permisiunea de a mă mută pe câteva săptămâni la Sarmisegetuza, ca să pot continuă cercetările în fața locului.</p>
 <p>— Ai dat de urma locului? — se bucura Bituvantis. .</p>
-<p>— Încă nu — răspunse Filetus. — Dar totuși sunt mulțumit cu rezultatul cercetărilor mele, deoarece până ieri nici n-am cutezat a crede în existența tezaurului. Acum sunt convins pe deplin că există. Dar, durere, documentul e defectuos, căci lipsesc din el mai multe bucăți. Atâta reușii a scoate din el, că tezaurul e îngropat nu departe de templul lui Zamolxis din jurul Sarmiseghetusăi. E de trebuință deci să merg la Sarmisegetusa să caut după urmele templului lui Zamolxis, care a fost zeul principal al Dacilor.</p>
-<p>— Încă azi voi dispune să-ți pregătească toate cele trebuincioase ca să te muți la Sarmisegetusa — grăbi duumvirul a încuviință cu bucurie cererea servului său. — De n-ar pretinde oficiul ce-l port prezența mea in Apulum și eu aș merge cu tine. Dar mă încred în zelul tău și dibăcia ta; sunt convins că vei lucra înțelepțește și fără mine. Mergi deci la Sarmisegetusa și îndată ce vei da de urmă sigură, înștiințază-mă prin curieri despre aceasta, ca să grăbesc și eu la fața locului.</p>
-<p>În urma încredințării lui Bituvantis, Filetus porni încă în aceea zi la Sarmisegetusa și se puse la lucru. În urma cercetărilor ce le întreprînsă cu zel neobosit, speranța sa în ajungerea rezultatului dorit, prînsă din zi în zi rădăcini tot mai adânci în sufletul lui.</p>
-<p>Peste câteva săptămâni, când Filetus avea de cuget să înștiințeze pe stăpânul său despre cursul cercetărilor sale, sosi la Sarmisegetusa vestea alarmantă că Goții au ocupat tot nordul și orientul Daciei. Ca dovadă a acestei știri întristătoare, sosiră cohorte de ostași romani risipite de inamicul biruitor, mânând înaintea lor trupe întregi de oameni desperați care căutau să-și mântuiască mizerabila lor viață prin fugă. Peste câteva zile zidurile Sarmiseghetusăi nu mai puteau cuprinde mulțimea fugarilor ce tot creștea. O parte a acestor nefericiți, după un popas scurt, se puse din nou la cale estenitoare și, sub scutul ostașilor, trecură peste Dunăre în Moesia, bucurându-se în nefericirea lor că au scăpat din patrie, pe care inimicul barbar o prefăcuse în iad din rai ce fusese până la ivirea sa.</p>
+<p>— Încă nu — răspunse Filetus. — Dar totuși sunt mulțumit cu rezultatul cercetărilor mele, deoarece până ieri nici n-am cutezat a crede în existența tezaurului. Acum sunt convins pe deplin că există. Dar, durere, documentul e defectuos, căci lipsesc din el mai multe bucăți. Atâta reușii a scoate din el, că tezaurul e îngropat nu departe de templul lui Zamolxis din jurul Sarmiseghetusăi. E de trebuință deci să merg la Sarmisegetuza să caut după urmele templului lui Zamolxis, care a fost zeul principal al Dacilor.</p>
+<p>— Încă azi voi dispune să-ți pregătească toate cele trebuincioase ca să te muți la Sarmisegetuza — grăbi duumvirul a încuviință cu bucurie cererea servului său. — De n-ar pretinde oficiul ce-l port prezența mea in Apulum și eu aș merge cu tine. Dar mă încred în zelul tău și dibăcia ta; sunt convins că vei lucra înțelepțește și fără mine. Mergi deci la Sarmisegetuza și îndată ce vei da de urmă sigură, înștiințază-mă prin curieri despre aceasta, ca să grăbesc și eu la fața locului.</p>
+<p>În urma încredințării lui Bituvantis, Filetus porni încă în aceea zi la Sarmisegetuza și se puse la lucru. În urma cercetărilor ce le întreprînsă cu zel neobosit, speranța sa în ajungerea rezultatului dorit, prînsă din zi în zi rădăcini tot mai adânci în sufletul lui.</p>
+<p>Peste câteva săptămâni, când Filetus avea de cuget să înștiințeze pe stăpânul său despre cursul cercetărilor sale, sosi la Sarmisegetuza vestea alarmantă că Goții au ocupat tot nordul și orientul Daciei. Ca dovadă a acestei știri întristătoare, sosiră cohorte de ostași romani risipite de inamicul biruitor, mânând înaintea lor trupe întregi de oameni desperați care căutau să-și mântuiască mizerabila lor viață prin fugă. Peste câteva zile zidurile Sarmiseghetusăi nu mai puteau cuprinde mulțimea fugarilor ce tot creștea. O parte a acestor nefericiți, după un popas scurt, se puse din nou la cale estenitoare și, sub scutul ostașilor, trecură peste Dunăre în Moesia, bucurându-se în nefericirea lor că au scăpat din patrie, pe care inimicul barbar o prefăcuse în iad din rai ce fusese până la ivirea sa.</p>
 <p>Între împrejurările funeste de care era cercetată Dacia, credinciosul Filetus nu știa de ce să se apuce, ca Bituvantis să fie mulțumit cu el. În urma cercetărilor sale neîntrerupte, aflase deja firul conducător, cu ajutorul căruia spera să afle tezaurul îngropat. Ce să facă acum? Să aștepte aci sosirea stăpânului său, sau să grăbească el la Apulum ? — Și află-va oare acolo pe stăpânul său? — N-a pierit și el în măcelul ce-l săvârșiră Goții, după spusele fugarilor?</p>
-            <p>(Va urma)</p>
-            <p>Tit Chitul</p>
+            <trailer>(Va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
         </div>
     </div>
     
     <div type="part" n="10">
-        <p>Catastrofa Daciei</p>
-        <p>— Roman istoric —</p>
-        <p>(Urmare)</p>
+        <head>Catastrofa Daciei — Roman istoric —</head>
+        <milestone unit="(Urmare)"/>
         <div type="section" n="3">
-<p>Erau niște întrebări acestea, la care Filetus nu era în stare să afle răspunsuri potrivite. Frica cuprînsă toate spiritele, oamenii căutau să-și scape viața și îngrăbirea lor febrilă cei mai mulți uitară de averi. Dar Filetus se decise a nu părăsi Sarmisegetusa, până ce nu va primi știri pozitive despre soarta stăpânului său.</p>
+<p>Erau niște întrebări acestea, la care Filetus nu era în stare să afle răspunsuri potrivite. Frica cuprînsă toate spiritele, oamenii căutau să-și scape viața și îngrăbirea lor febrilă cei mai mulți uitară de averi. Dar Filetus se decise a nu părăsi Sarmisegetuza, până ce nu va primi știri pozitive despre soarta stăpânului său.</p>
 <p>În fine, peste câteva zile petrecute în așteptare încordată, Filetus avu bucuria de a revedea pe stăpânul său, pe care îl crezuse deja mort.</p>
 <p>— Cum stai cu cercetările tale? — fu prima întrebare ce i-o adresase Bituvantis.</p>
 <p>— Ar fi cu mult mai consult să-ți grijești de viață — răspunse cu bunăvoință sclavul. — Am ajuns zile grele și oamenii cei înțelepți se grăbesc să părăsească cât de în grabă capitala, care de bună seamă nu va fi cruțată de vizita neplăcută a barbarilor.</p>
-<p>— Doar cei fricoși, ai voit să zici Filetus ? — obiectă cam înfruntător Bituvantis. Să știi însă că eu nu-s fricos și sunt decis a rămâne aici în Sarmisegetusa până nu voi fi ridicat tezaurul ascuns, de care acum am trebuință cu mult mai arzătoare decât ori și când. Împăratul e strâmtorat din toate părțile, răzvrătirea îngâmfatei Zenobia și revoluțiunea înscenată de contrarul său Septimius reclamă toată puterea lui înarmată. Dacia e avizată deci la puterile ei proprii să susțină vaza imperiului, până când Aurelian va reuși să repună pe potivnicii săi, ca apoi în urmă să alerge cu toată puterea imperiului întru apărarea Daciei. Guvernatorul provinciei a primit ordin să apere Sarmisegetusa și împrejurimea ei cu orice preț. Îi lipsesc însă mijloacele trebuincioase, visteria țării e goală și ofertele benevole ale singuraucilor nici pe departe nu pot acoperi lipsele urgente. De aceea m-am decis să aduc acest tezaur, pe care poate zeii m-au îndreptat să-l descopăr, ca jertfă pe altarul nețărmuritei mele iubiri de patrie. De aceea culege-ți toate puterile spirituale, să putem ajunge cât de îngrabă în posesiunea tezaurului.</p>
+<p>— Doar cei fricoși, ai voit să zici Filetus ? — obiectă cam înfruntător Bituvantis. Să știi însă că eu nu-s fricos și sunt decis a rămâne aici în Sarmisegetuza până nu voi fi ridicat tezaurul ascuns, de care acum am trebuință cu mult mai arzătoare decât ori și când. Împăratul e strâmtorat din toate părțile, răzvrătirea îngâmfatei Zenobia și revoluțiunea înscenată de contrarul său Septimius reclamă toată puterea lui înarmată. Dacia e avizată deci la puterile ei proprii să susțină vaza imperiului, până când Aurelian va reuși să repună pe potivnicii săi, ca apoi în urmă să alerge cu toată puterea imperiului întru apărarea Daciei. Guvernatorul provinciei a primit ordin să apere Sarmisegetuza și împrejurimea ei cu orice preț. Îi lipsesc însă mijloacele trebuincioase, visteria țării e goală și ofertele benevole ale singuraucilor nici pe departe nu pot acoperi lipsele urgente. De aceea m-am decis să aduc acest tezaur, pe care poate zeii m-au îndreptat să-l descopăr, ca jertfă pe altarul nețărmuritei mele iubiri de patrie. De aceea culege-ți toate puterile spirituale, să putem ajunge cât de îngrabă în posesiunea tezaurului.</p>
 <p>— În urma acestei nobile hotărâri, îmi retrag sfatul ce ți-i dădusem — enuncia sărbătorește sclavul. De mâine mă pun din nou la lucrare și am speranță că cât de îngrabă o să ajungem la ținta dorită.</p>
 <p>Zilele se scursera într-acestea în cercetări febrile. Filetus își petrecea tot timpul în pădurea din apropierea capitalei, unde aflase ruinele templului Zamolxis. Lucrarea sa înaintâ de tot greoi, pentru că documentul era defectuos și chiar acelea părți lipseau din el, despre care Filetus presupunea că au conținut explicările trebuincioase pentru fixarea hotărâtă locului unde era îngropat tezaurul.</p>
-<p>Într-o zi sosi timpul de care se temuseră toți. Oardele Goților, Alemanilor și Sarmaților înconjurară Sarmisegetusa și zădărniciră deodată orice încercare de comunicare. Filetus nu mai putea ieși la ruinele templului lui Zamolxis.</p>
+<p>Într-o zi sosi timpul de care se temuseră toți. Oardele Goților, Alemanilor și Sarmaților înconjurară Sarmisegetuza și zădărniciră deodată orice încercare de comunicare. Filetus nu mai putea ieși la ruinele templului lui Zamolxis.</p>
 <p>Și aceasta piedecă chiar atunci i se puse în cale, când era să ajungă la rezultatul dorit! Aceasta împrejurare îl necăjea peste măsură atât pe el, cât mai cu seamă pe Bituvantis.</p>
 <p>Într-o zi Filetus intră cu fața radioasă la stăpânul său, ținând în mână documentul zdrențuit și o tăbliță obdusă cu ceară.</p>
 <p>Aerul vesel ce-l luase sclavul serios, pe ale căruia buze nu se ivea niciodată zimbet ușuratic, făcu pe Bituvantis să tresară de agitație.</p>
@@ -613,19 +605,18 @@
 <p>— Numai atâta e tot? — se miră Bituvantis descurajat.</p>
 <p>— Tarabestosul Mucapor numai atâta a scris — își frecă mâinile sclavul. — Dar spre norocul nostru prietenul său Scardon a fost om mai înțelept. Iată aici, pe latura aceasta, e scrisoarea lui, ascultă:</p>
 <p>—„Anno ab urbe condita 881. Scardon Dacus. Acesta e al nouălea an, de când am asistat la arderea neuitatului și bunului meu stăpân și prieten Mucapor. De atunci am trăit tot lângă fiica sa, Chilma, care dispăruse cu ocazia dărâmării Sarmiseghetusăi de către Romani și pe care stăpânul meu o deplânse ca pe moartă...mă apăsă, căci vedeam pe zi ce mărgea cum îmi scad puterile și cum mă apropii de mormânt. De aș fi descopierit Chilmei locul unde e îngropat tezaurul stăpânului meu, aș fi provocat asupra sărmanului meu cap mânia lui Zamolxis. Dar totuși să nu duc cu mine în mormânt secretul tarabestosului Mucapor și să împlinesc porunca lui, am descris aici locul unde zace tezaurul și am pus acest document în biblioteca lui Flavus, care e bărbat legiuit al Chilmei. Să decidă zeii în ale cui mâni să ajungă averea prietenului meu!</p>
-<p>Mii de vase de aur și argint, rude de aur... Sarmisegetusa la templul lui Zamolxis pe care l-au dărâmat Romanii... două sute de pași... e stâncă acopierită cu pământ... te coboară în părâul ce curge pe sub zidul de către răsărit al templului și dărâmă zidul care ascunde intrarea în peșteră. Nu te descurajă — mică... târeșce-te pe foaie și vei ajunge într-un spaț mai larg, unde pot încăpea patru oameni. Bate de a mănuntul cu un ciocan păretele și unde va sună a gol te oprește... vei găsi o ușă de fier pe care deschidând o vei putea intra într-o altă peștera unde vei află lăzile pline de aur. Ajungând prin sfatul meu la tezaur, adă-ți aminte de blestemul tarabestosului Mucapor, și numai atunci te atinge de averea aceasta, dacă ești decis să o întrebuințezi pentru binele Daciei. Dacă ai folosi-o pentru alte scopuri, coboară-se pe capul tău blestemul meu ce-l restesc acum, și care-l voi repeta și în pragul morții!</p>
+<p>Mii de vase de aur și argint, rude de aur... Sarmisegetuza la templul lui Zamolxis pe care l-au dărâmat Romanii... două sute de pași... e stâncă acopierită cu pământ... te coboară în părâul ce curge pe sub zidul de către răsărit al templului și dărâmă zidul care ascunde intrarea în peșteră. Nu te descurajă — mică... târeșce-te pe foaie și vei ajunge într-un spaț mai larg, unde pot încăpea patru oameni. Bate de a mănuntul cu un ciocan păretele și unde va sună a gol te oprește... vei găsi o ușă de fier pe care deschidând o vei putea intra într-o altă peștera unde vei află lăzile pline de aur. Ajungând prin sfatul meu la tezaur, adă-ți aminte de blestemul tarabestosului Mucapor, și numai atunci te atinge de averea aceasta, dacă ești decis să o întrebuințezi pentru binele Daciei. Dacă ai folosi-o pentru alte scopuri, coboară-se pe capul tău blestemul meu ce-l restesc acum, și care-l voi repeta și în pragul morții!</p>
 <p>Filetus depuse acum pergamentul și luă tăblița obdusă cu ceară.</p>
 <p>— Iată, stăpâne, aici am schițat locul, unde a stat templul lui Zamolxis — explică mai departe sclavul. — De când mă ocup cu aceasta afacere, de atâtea ori am călcat în toate direcțiile acel teritoriu, încât icoana lui mi s-a imprimat în suflet. Dacă-mi închid ochii, îl vâd limpede, ca și când aș fi pe fața locului. Numai acestei împrejurări pot mulțumi, că mi-am putut continua cercetările și după împresorarea Sârmiseghetusăi de Goți. Câtă vreme ieșeam la fața locului, mă țineam de cuvintele documentului și căutam după tezaur pe țărmuri, pârâului ce curge pe acolo. Și aceasta a fost cauza că n-am ajuns la țintă. Până ieri pe cuvintele din document „o stâncă acoperită cu pământ nu pusesem vreun deosebit pond. Măsurând însă ieri din întâmplare distanța dintre templu și această stâncă, care e desemnată aici, spre mirarea mea aflai că aceea e chiar de două sute de pași de departe de templu.</p>
-<p>„Aceasta descoperire, în sufletul meu, deșteptă o idee luminătoare. Până atunci nu mă gândisem la aceea, că apele își schimbă cursul, îmi închisăi ochii și-mi împuterii mintea să mi revoc în memorie aceasta stâncă și împrejurimea ei, îmi adusei aminte că solul la picioarele acestei stânci poartă semne hotărâte, că pârâul care acuma o ocoleșce în distanță de patruzeci de pași, în trecut a putut curge imediat pe lângă ea.</p>
-            <p>(Va urma)</p>
-            <p>Tit Chitul</p>
+<p>Aceasta descoperire, în sufletul meu, deșteptă o idee luminătoare. Până atunci nu mă gândisem la aceea, că apele își schimbă cursul, îmi închisăi ochii și-mi împuterii mintea să mi revoc în memorie aceasta stâncă și împrejurimea ei, îmi adusei aminte că solul la picioarele acestei stânci poartă semne hotărâte, că pârâul care acuma o ocoleșce în distanță de patruzeci de pași, în trecut a putut curge imediat pe lângă ea.</p>
+            <trailer>(Va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
         </div>
     </div>
     
     <div type="part" n="11">
-        <p>Catastrofa Daciei</p>
-        <p>— Roman istoric —</p>
-        <p>(Urmare)</p>
+        <head>Catastrofa Daciei — Roman istoric —</head>
+        <milestone unit="(Urmare)"/>
         <div type="section" n="3">
 <p>Această descoperire aprinse deodată lumină în mintea mea. De prezent sunt convins, că peșterea ce se află în aceasta stâncă e locul căutat de mine. Când a scris Scardon acest document, părâul curgea pe la poalele ei și cuvintele: „coboară în părâul ce curge pe sub zidul de către resărit al templului” aveau înțeles exact, deoarece și acum mai există urme care dovedesc că pârâul într-adevăr pe acolo a curs. Acum îmi aduc aminte, că și peretele de către pârâu al stâncii mi se pare la prima vedere suspect, ca și când ar fi fost cioplit de mână de om.</p>
 <p>Bituvantis se scula și lua din mâna sclavului stilul cu care arătase schița de pe tăblița obdusă cu ceară, și atingând cu el capul acestuia zise cu aplomb solemn:</p>
@@ -654,7 +645,7 @@
 <p>— Să lăsăm aceste vorbe, Lucila scumpă. Cu tine nu mă prind la dispută, pentru că tu n-ai învățat retorica ca mine. Mă tem că vei rămâne învinsă — Spune-mi mai bine ce veste îmbucurătoare mi-ai adus?</p>
 <p>Ochii Luciei lăcrimați de bucurie când zise :</p>
 <p>— Tată! Aelius trăieșce.</p>
-<p>— Unde e Aelius?.. Aici iî Sarmisegetusa? ... De ce nu vine la noi?</p>
+<p>— Unde e Aelius?.. Aici iî Sarmisegetuza? ... De ce nu vine la noi?</p>
 <p>— Aelius e în munți — răspunse vesel Lucila.</p>
 <p>Mirarea și curiozitatea lui Bituvantis dispărură la acest răspuns neașteptat.</p>
 <p>— Presupuneri goale, fiica mea, — zise calm cu un gest de dubitare. — Aceasta e mângâierea celor ce nu-s în stare să se despartă de speranță.</p>
@@ -665,26 +656,25 @@
 <p>— Ce cugeți, tată, că creștinii întrebuințează farmece misterioase ca păgânii care voiesc să descopere lucrurile cele ascunse?</p>
 <p>— Ce să cred? Din care izvor ai putut primi aceasta știre, dacă nu din farmece oculte?</p>
 <p>— Atunci te înșeli amar, tată! Aelius a scăpat dimpreună cu soru-sa Octavia la munți. La acest adevăr nu încape nici o îndoială, căci l-am auzit din gurile a patru oameni, care nu mint și care au vorbit cu el. El încă crede despre noi că am pierit în vălmășeala luptelor de la Apulum, căci de ar ști că trăim, n-ar fi existat putere omenească, care l-ar fi putut reține să nu vină la noi.</p>
-<p>— Ascultă, Lucila, argumentarea mea — îi zise Bituvantis cu aer triumfător — din care vei vedea că oamenii tăi sunt mincinoși. Aceea, așa cred, ți-e cunoscut și ție, că Goții țin Sarmisegetusa împresorată de o lună de zile. În acest răstimp nimeni n-a putut intra în capitală, nici ieși din ea. Prin urmare oamenii de la care ai auzit, că Aelius e în munți, trebuie să fie cel puțin de o lună în Sarmisegetusa. De ce au așteptat deci până astăzi cu vestea lor îmbucurătoare, de ce nu ți-o spus mai demult?</p>
-<p>— Pentru că numai ieri noapte au sosit în Sarmisegetusa.</p>
+<p>— Ascultă, Lucila, argumentarea mea — îi zise Bituvantis cu aer triumfător — din care vei vedea că oamenii tăi sunt mincinoși. Aceea, așa cred, ți-e cunoscut și ție, că Goții țin Sarmisegetuza împresorată de o lună de zile. În acest răstimp nimeni n-a putut intra în capitală, nici ieși din ea. Prin urmare oamenii de la care ai auzit, că Aelius e în munți, trebuie să fie cel puțin de o lună în Sarmisegetuza. De ce au așteptat deci până astăzi cu vestea lor îmbucurătoare, de ce nu ți-o spus mai demult?</p>
+<p>— Pentru că numai ieri noapte au sosit în Sarmisegetuza.</p>
 <p>— Imposibil! — obiectă Bituvantis. — Dacă au sosit ieri noapte, cum au putut străbate neobservați printre Goți?</p>
 <p>— Au venit sub scutul nopții întunecate.</p>
 <p>— Cum au intrat în oraș, când acela e înconjurat de santinele? Și cum s-au putut strecura la porțile Sarmiseghetusăi, când Goții s-au îngrijit prin focuri mari, ca împrejurimea lor să fie luminată.</p>
 <p>— Au intrat în oraș pe un loc secret.</p>
 <p>Filetus, care cufundat în studiarea scriptelor sale până atunci nu arătase nici un interes pentru conversația dintre tată și fiică, în acest moment și-a ridicat capul și a devenit atent.</p>
 <p>— Nu-mi pot explicat deloc acest lucru! — exclamă cu mirare Bituvantis.</p>
-<p>— Ți-l voi explica eu — se oferi Lucila. — Așa cred că ți-e cunoscută și ție acea împrejurare că pe timpul persecuțiilor de creștini mulți dintre acești nevinovați au scăpat, cu toate că autoritățile publice i-au căutat prin oraș cu cea mai amănunțită minuțiozitate. Pe porțile cetății n-au putut scapă, căci l-ar fi observat santinelele. În urmă nemiloșii persecutori au fost nevoiți să se mângăie cu speranța, că în sfârșit totuși vor putea pune mâna pe acei nevinovați, despre care credeau că au rămas în oraș ascunși de frații lor de credință. Se întreceau în jertje nenumărate ca să-și potolească urâcioasa sete de sânge de oameni nevinovați, prin urmare după câteva zile de urmărire cu cei dispăruți nimeni nu-și mai bătea capul. Dar de ar fi scrutat tot orașul, totuși nu s-ar fi găsit, pentru că aceea atunci erau în loc sigur, departe de Sarmisegetusa. Creștinii cunosc un loc secret, pe unde pot părăsi capitala când vreau, fără ca cineva să-i observe. Trecură mulți ani de când nu umblase nimeni pe acest loc, până ieri noapte, când se prezentară la episcopul nostru patru frați din munți ca să ceară preot nou în locul celui ce murise.</p>
+<p>— Ți-l voi explica eu — se oferi Lucila. — Așa cred că ți-e cunoscută și ție acea împrejurare că pe timpul persecuțiilor de creștini mulți dintre acești nevinovați au scăpat, cu toate că autoritățile publice i-au căutat prin oraș cu cea mai amănunțită minuțiozitate. Pe porțile cetății n-au putut scapă, căci l-ar fi observat santinelele. În urmă nemiloșii persecutori au fost nevoiți să se mângăie cu speranța, că în sfârșit totuși vor putea pune mâna pe acei nevinovați, despre care credeau că au rămas în oraș ascunși de frații lor de credință. Se întreceau în jertje nenumărate ca să-și potolească urâcioasa sete de sânge de oameni nevinovați, prin urmare după câteva zile de urmărire cu cei dispăruți nimeni nu-și mai bătea capul. Dar de ar fi scrutat tot orașul, totuși nu s-ar fi găsit, pentru că aceea atunci erau în loc sigur, departe de Sarmisegetuza. Creștinii cunosc un loc secret, pe unde pot părăsi capitala când vreau, fără ca cineva să-i observe. Trecură mulți ani de când nu umblase nimeni pe acest loc, până ieri noapte, când se prezentară la episcopul nostru patru frați din munți ca să ceară preot nou în locul celui ce murise.</p>
 <p>— Știi unde e locul acesta? — sări deodată Filetus.</p>
 <p>— Știu.</p>
-            <p>(Va urma)</p>
-            <p>Tit Chitul</p>
+            <trailer>(Va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
         </div>
     </div>
     
     <div type="part" n="12">
-        <p>Catastrofa Daciei</p>
-        <p>— Roman istoric —</p>
-        <p>(Urmare)</p>
+        <head>Catastrofa Daciei — Roman istoric —</head>
+        <milestone unit="(Urmare)"/>
         <div type="section" n="3">
 <p>De bună seamă au aflat de locul unde s-au adăpostit nefericiții noștri frați — șopti unul, pretrecând cu priviri speriate pe barbari, care se depărtau de dânșii.</p>
 <p>Așteptară în această poziție până când depărtarea dintre ei și Goți ajunse aceeași mărime de nu mai aveau teamă că vor fi observați, și numai după aceea cutezară a se ridică.</p>
@@ -716,7 +706,7 @@
 <p>— N-ați văzut azi străini pe aici? — întrebă Longinus după ce se suiră toți pe zid.</p>
 <p>— Nu.</p>
 <p>— Pe nimeni?</p>
-<p>— Strein nu ne-a conturbat încă niciodată de când ședem aici. Și de când v-ați dus la Sarmisegetusa numai o dată mi se dăduse ocazia să slobod scara pe lângă acest zid.</p>
+<p>— Strein nu ne-a conturbat încă niciodată de când ședem aici. Și de când v-ați dus la Sarmisegetuza numai o dată mi se dăduse ocazia să slobod scara pe lângă acest zid.</p>
 <p>— Când ?</p>
 <p>— Azi.</p>
 <p>— Cine a venit?</p>
@@ -743,19 +733,18 @@
 <p>Zgomotul asurzitor la moment încetă.</p>
 <p>Bătrânul acesta era un extaz încărunțit în lupte, care prin bogatele sale experiențe și prin simțul său de dreptate câștigase încrederea tuturor și prin învoială comună se ridicase la rangul de conducătorul conaționalilor săi.</p>
 <p>— Fraților! — zise acesta cu gravitate. — In fața pericolului ce ne amenință, nu risipiți timpul cu vorbe goale. Soarta ne atârnă poate numai de la câteva minute, pe care dacă le vom lăsa să treacă în dezbateri fără nici o țintă și scop, vom comite o greșeală cu urmări dezastruase care nu o vom putea îndrepta niciodată. Ascultați deci sfaturile mele! Cinci inși să plece la moment să avizeze santinelele la pericolul ce se apropie și să-l provoace să fie cu pază îndoită. La cea mai neînsămnată apariție suspectă de oameni străini să ne avizeze prin semnalele deja statorite. O grupă de o suta de bărbați bine înarmați să stea gata a năvăli în tot momentul pe spioni...Tu Domnus du-te și spune păstorilor să abată turmele către sat!„ Aelius, Withimir, Verus și alții vor trece peste întăritui și vor scrută împrejurimea. Dacă vor zări pe Goți, să se retragă la moment și să ne înștiințeze, ca să putem prinde pe Goți înainte de a-și putea duce în îndeplinire intenția răutăcioasă. Luați la voi trâmbițe, și la caz dacă n-ați putea reîntoarce neobservați de dușman, suflați în aceste, ca sa putem grăbi în ajutorul vostru!</p>
-            <p>(Va urma)</p>
-            <p>Tit Chitul</p>
+            <trailer>(Va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
         </div>
     </div>
     
     <div type="part" n="13">
-        <p>Catastrofa Daciei</p>
-        <p>— Roman istoric —</p>
-        <p>(Urmare)</p>
+        <head>Catastrofa Daciei — Roman istoric —</head>
+        <milestone unit="(Urmare)"/>
         <div type="section" n="3">
 <p>Oamenii speriați grăbiră a împlini poruncile primite. Peste câteva minute se auzi zgomot de armă și în mijlocul satului se puseră în șire ostășești o sută de bărbați.</p>
 <p>Aelius și Withimir își luară armele și voiră a părăsi satul după porunca ostașului bătrân, când le ieși în cale Longinus și zise!</p>
-<p>— În zăpăceala ce au stârnit-o în mine afurisiții de Goți, era să uit de angajamentul ce-l luasem asupra-mi în Sarmisegetusa. Sunt însărcinat din partea unei dame să-ți prezint o scrisoare. iat-o, aici e!</p>
+<p>— În zăpăceala ce au stârnit-o în mine afurisiții de Goți, era să uit de angajamentul ce-l luasem asupra-mi în Sarmisegetuza. Sunt însărcinat din partea unei dame să-ți prezint o scrisoare. iat-o, aici e!</p>
 <p>Aelius își întinse cu curiozitate arzătoare mâna după scrisoare și rămase pe câteva momente răpit de accesul unei bucurii nevisate. Ceea ce nici în închipuirea-i visătoare nu se încumătase să presupună, i se înfățișa ca realitate palpabilă în ochii săi surprinși. La prima ochire ce o aruncă pe scrisoarea ce tremură în mâinile sale agitate, recunoscu trăsăturile acelei mâini iubite, despre care crezuse, că zăcea rece și prefăcută în oase goale, acopierită de ruine stropite de sânge omenesc.</p>
 <p>Pe când își veni în ori și voi să întrebe pe Longinus despre împrejurările între care scrisoarea i se concrezuse, acesta dispăruse deja.</p>
 <p>Înaintea lui stătea cumnatul său Withimir și-l privea curios, neputându-și explica efectul înveselitor al acelei scrisori, care stârnise în Aelius atâta bucurie fără ca să fi putut avea cunoștințe despre conținutul ei, deoarece nici nu o citise încă.</p>
@@ -763,17 +752,17 @@
 <p>— Nu există știre tristă, care să-mi poată nimici fericirea ce mi-o aduseră aceste trăsături bine cunoscute — afirma Aelius încântat, arătând cumnatului său scrisoarea. — Și tu ai iubit, Withimir, ca și mine. Închipuiește-ți acum, că ființa adorată de tine într-o zi a pierit în fioroasa învălmășeală a unei lupte sângeroase, care n-a cruțat crețele bătrâneții, nici grațiile juneții și care nu s-a îngrozit a-și infecta spurcatele sale mâini ucigașe cu sânge nevionat de băieți nevârstnici. N-ai crede oare și tu, după ce ai fi făcut, fără nici un rezultat toți pașii posibili, să dai peste urma iubitei tale dispărute, că aceea a murit și apoi când ai primi deodată, ca într-un vis dulce de la mireasa ta, pentru a căreia moarte ai vărsat lacrimi amare, o scrisoare scrisă de mâna ei proprie, mi te-ai bucura, ci ai desface cu sânge rece acea scrisoare să-ți conformi conținutului ei simțămintele?... Căci mie această minune îmi fu rezervată de providență! Lucila, despre care de atâtea ori îți vorbisem între oftări și lacrimi, trăiește și-mi scrie.</p>
 <p>Lui Aelius îi veni în minte și în fericirea sa cea mare dătoria de a împlini porunca ostașului bătrân și-și continuă calea în societatea lui Withimir. Ieșiră afară din cercul întărit și numai aici își citi scrisoarea.</p>
 <p>Iată cuprisul ei:</p>
-<p>Colonia Ulpia Traiana Dacia Sarmisegetusa. Lucila trimite lui Aelius salutare.</p>
+<p>Colonia Ulpia Traiana Dacia Sarmisegetuza. Lucila trimite lui Aelius salutare.</p>
 <p>Îndurarea lui Dumnezeu n-are țărmuri și mila lui nu părăsește niciodată pe cei ce nădăjduiesc în el. De când fiorosul dușman ne a alungat din Apulum, izvorul de lacrimi n-a secat în ochii mei nici pe o zi. În nenumărate chipuri oribile mi se înfățișă nefericirea generală ce năpăstuise patria noastră. Am văzut bărbați încărunțiți în lupte plângând ca copiii, când s-au trezit din bogăția invidiată. În zilele prime ale încercării mă credeam incapabilă de a suportă cu pacientă de creștin tristeța ce-mi cernise sufletul mâhnit. Vărsam lacrimi arzătoare pentru pierderea patriei și prin ceața neagră ce plutea neîntrerupt înaintea ochilor mei storși de plâns amar, în toate nopțile vedeam chipul tău încărcat de răni și sânge.</p>
 <p>Te vedeam mort și nu mai aveam nicio nădejde să te revăd în aceasta lume.</p>
 <p>Cunoscute-mi sunt și suferințele tale. Longinus, care a fost atât de bun de a primit însărcinarea de a-ți prezenta această scrisoare, m-a lămurit despre toate. Știu că și tu ai plâns după mine și te-ai rugat pentru odihna sufletului meu. Să nu-ți pară rău, iubite Aelius, pentru lacrimile ce le-ai vărsat după mine, căci prin aceasta m-ai despoia de cel mai scump tezaur ce-mi mai rămase. Lacrimile acestea servesc drept cea mai puternică dovadă a adevăratei tale iubiri!</p>
 <p>Acum mă bucur că tata nu a ascultat sfaturile mele, cu care îl solicitam să urmăm exemplul celor mai precauți și înțelepți și să trecem în Mesia, până se va decide soartea Daciei.</p>
 <p>Vezi, iubite Aelius, și aici mâna Atotputernicului a lucrat! Tata a refuzat de a părăsi Dacia înainte de a aduce în curat o afacere fantastică, care de un timp încoace îi absoarbe toată cugetarea.</p>
-<p>Ți-e cunoscută și ție această afacere, ți-am vorbit despre ea de mai multe ori și eu și tata. E vorba de o comoară mare, care ar fi îngropată oarecum în jurul Sarmisegetusei, după cum afirmă un document vechi ajuns din întâmplare în mâinile tatei. N-aș cuteza a crede că acest document să aibă temei, cu toate că tata și sclavul nostru Filetus susțin morțiș, că spune adevărul.</p>
-<p>Capitala de o lună de zile e asediată de Visi-Goți și Alemani. Trăim în frica continuă; dușmanul ne strâmtorește; de nu ne va sosi ajutor grabnic, ne va sugrumă. Tata e necăjit de moarte că nu poate ieși din capitală să ridice comoara visată, cu care are de cuget să corupă pe capul oștirilor vrăjmașe, să ridice asediul Sarmisegetusei. Despre necazurile în care trăim, îți va vorbi mai pe larg Longinus.</p>
-<p>Nu știu ce soartă-mi păstrează viitorul necunoscut, totuși îmi place a mă mângâia cu speranța, că o să ne revedem. De aceea vino la Sarmisegetusa și grăiește și tu cu tata să-și lase cercetările după tezaurul închipuit pentru vremi mai puțin viforoase, decât acestea în care trăim. Pe Longinus l-am rugat să-ți fie călăuz, și el mi-a promis că te va conduce și-ți va arăta locul secret pe unde vei avea să intri în capitală. Dacă aș ascultă de sfatul inimii mele, aș merge eu la voi, dar nu vreau să fac supărări părintelui meu și să-l părăsesc fără știrea lui. A-i cere învoiala nici nu cutez, deoarece sunt convinsă că nu voi dobândi-o.</p>
+<p>Ți-e cunoscută și ție această afacere, ți-am vorbit despre ea de mai multe ori și eu și tata. E vorba de o comoară mare, care ar fi îngropată oarecum în jurul Sarmisegetuzei, după cum afirmă un document vechi ajuns din întâmplare în mâinile tatei. N-aș cuteza a crede că acest document să aibă temei, cu toate că tata și sclavul nostru Filetus susțin morțiș, că spune adevărul.</p>
+<p>Capitala de o lună de zile e asediată de Visi-Goți și Alemani. Trăim în frica continuă; dușmanul ne strâmtorește; de nu ne va sosi ajutor grabnic, ne va sugrumă. Tata e necăjit de moarte că nu poate ieși din capitală să ridice comoara visată, cu care are de cuget să corupă pe capul oștirilor vrăjmașe, să ridice asediul Sarmisegetuzei. Despre necazurile în care trăim, îți va vorbi mai pe larg Longinus.</p>
+<p>Nu știu ce soartă-mi păstrează viitorul necunoscut, totuși îmi place a mă mângâia cu speranța, că o să ne revedem. De aceea vino la Sarmisegetuza și grăiește și tu cu tata să-și lase cercetările după tezaurul închipuit pentru vremi mai puțin viforoase, decât acestea în care trăim. Pe Longinus l-am rugat să-ți fie călăuz, și el mi-a promis că te va conduce și-ți va arăta locul secret pe unde vei avea să intri în capitală. Dacă aș ascultă de sfatul inimii mele, aș merge eu la voi, dar nu vreau să fac supărări părintelui meu și să-l părăsesc fără știrea lui. A-i cere învoiala nici nu cutez, deoarece sunt convinsă că nu voi dobândi-o.</p>
 <p>Sărut pe Octavia și din adâncul inimii rugându-mă către Cel ce stăpânește universul să te ia sub scutul său ocrotitor pe calea cea primejdioasă ce vei întreprinde-o pentru mine, te aștept cu brațele deschise.</p>
-<p>Lucila. În urma acestei scrisori, Aelius se decise că încă în ziua următoare să plece la Sarmisegetusa. Numai de ar putea îndupleca pe Longinus să înceapă din nou atât de timpuriu calea cea ostenitoare, de ale cărei suferințe nu avuse timp de ajunș să se recreeze.</p>
+<p>Lucila. În urma acestei scrisori, Aelius se decise că încă în ziua următoare să plece la Sarmisegetuza. Numai de ar putea îndupleca pe Longinus să înceapă din nou atât de timpuriu calea cea ostenitoare, de ale cărei suferințe nu avuse timp de ajunș să se recreeze.</p>
 <p>Într-aceste Withimir și Aelius se depărtaseră binișor de sat fără de a observa ceva bănuitor. Voiră a se reîntoarce, când Withimir propuse să se despartă și să mai scruteze împrejurimea, deoarece după spusele lui Longinus, Goții spre această partea muntelui părură a-și îndreptă mereu.</p>
 <p>— Goții aceia de a bună seamă au ieșit la vânat, și din întâmplare s-au abătut și prin acest ținut îndepărtat — liniști Withimir pe Aelius. — Văzând că au rătăcit prea departe, poate s-au și reîntors deja către casă. Pentru că, dacă ar fi avut intenția de a ne ataca, te pot asigura că n-ar fi venit numai douăzeci.</p>
 <p>Această explicație i se păru și lui Elius logică și rațională, și-i mulțumi pe deplin. Cu toate acestea din precauție, se despărțiră și porniră în două direcții.</p>
@@ -818,15 +807,14 @@
 <p>În acest moment critic răsună în apropiere de vreo câțiva pași un vers de bucium.</p>
 <p>Era Aelius care dăduse acest semnal de alarmă, care se reîntorcea către sat, după ce n-a observat nimic ce i-ar fi trezit bănuială.</p>
 <p>Versul prelungit de bucium aduse în zăpăceală pe Goți, și în surprinderea ce-i cuprinse, lăsară liber pe Withimir. Scăpat din brațele de oțel, acesta se avântă spre pârâu, sări peste el și fugi să-și apuce și el buciumul azvârlit de Verus.</p>
-            <p>(Va urma)</p>
-            <p>Tit Chitul</p>
+            <trailer>(Va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
         </div>
     </div>
     
     <div type="part" n="14">
-        <p>Catastrofa Daciei</p>
-        <p>— Roman istoric —</p>
-        <p>(Urmare)</p>
+        <head>Catastrofa Daciei — Roman istoric —</head>
+        <milestone unit="(Urmare)"/>
         <div type="section" n="3">
 <p>Verus își reculese toate forțele și cu paloarea morții pe fața lui schimonosită de frica, zbiera printre bulbuci de sânge spumăgător:</p>
 <p>— Luați-le buciumele!- Luați-le buciumele! ... Căci dacă vor auzi semnalul de pericol, toți suntem fiii morții!</p>
@@ -857,8 +845,7 @@
 <p>Trebuia să aștepte noaptea, și numai sub scutul ei să treacă prin ținuturi locuite, ca nimeni să nu poată prinde de veste în ce chip s-a reîntors fiul lui Athaulf în Apulum.</p>
 </div>
 <div type="section" n="4">
-<p>V</p>
-<p>Alvamelda.</p>
+<head>V. Alvamelda.</head>
 <p>Nenorocirea care atât de repentin se prăbușise pe capul lui Aelius, îl reclamă întreaga energie de care dispunea, ca să nu-și piardă echilibrul sufletesc. Trebuia să aibă fire de tot tare acel om, care a putut suporta fără urmări dezastruase zguduirile distrugătoare de organism, a cărora pradă devenise. Numai conștiința sa curată, nemărginita-i nădejde și încredere în nescrutabila bunătate a providenței divine, îi mai păstraseră o lucitoare rază de mângâiere, care însă i-a fost de ajuns să nu dispere.</p>
 <p>Zi de zi supunerea umilită de creștin voinței Atotputernicului și neclintita nădejde în mila lui iubitoare de oameni fură steaua, care pătrunse cu razele sale înălțătoare de spirit întunericul gros al temniței în care gemea deja de trei săptămâni, aducând mâhnitului său suflet mângâiere și speranță.</p>
 <p>O, speranță dulce, ce s-ar alege din inimile sângerate ale celor nenorociți, dacă și tu ai fi egoistă și l-ai părăsi în necaz! Tu însă ești prietenă fidelă și nu te despărți de muritori decât cu ultima lor răsuflare.</p>
@@ -889,15 +876,14 @@
 <p>Alvamelda puse lampa pe lespezile de piatră, cu care era padimentată temnița și închise ușa.</p>
 <p>— Mi-am ținut cuvântul și am venit la tine — zise Alvamelda, aruncând o privire compătimitoare pe Aelius.</p>
 <p>— Văd că ești bună către mine și te expui pericolului de a-ți pierde viața numai ca să mângâi pe un străin nefericit, despre care știi înainte, că niciodată nu i se va da prilej să-ți poată reîntoarce binefacerea de care l-ai împărtășit. Recunosc, Alvamelda, că-ți datorez foarte mult și mă mustră conștiința, că nu-mi voi putea achita datoria niciodată.</p>
-    <p>(Va urma)</p>
-    <p>Tit Chitul</p>
+    <trailer>(Va urma)</trailer>
+    <trailer>Tit Chitul</trailer>
 </div>
     </div>
     
     <div type="part" n="15">
-        <p>Catastrofa Daciei</p>
-        <p>— Roman istoric —</p>
-        <p>(Urmare)</p>
+        <head>Catastrofa Daciei — Roman istoric —</head>
+        <milestone unit="(Urmare)"/>
         <div type="section" n="4">
 <p>Pentru ce vorbești în acest ton către mine, despre care știi că-ți sunt de obligată?</p>
 <p>— De obligată? — se mira Aelius. — Tu să fii de obligată robului neputincios, care-și așteaptă în fundul temniței moartea? Ce am făcut eu pentru tine ?</p>
@@ -926,10 +912,10 @@
 <p>— De ce l-a dat atunci Athaulf sub paza străinilor? De ce nu-l ține la el? De ce nu-l pune pe picior liber?</p>
 <p>— Toate aceste își au cauzele lor. Athaulf nu e în Apulum. —</p>
 <p>— Athaulf nu e în Apulum? — o întrerupse Aelius mirându-se.</p>
-<p>— De câteva zile s-a dus cu toată oastea sa la Sarmisegetusa.</p>
+<p>— De câteva zile s-a dus cu toată oastea sa la Sarmisegetuza.</p>
 <p>Aelius simți în inimă o împunsătură de săgeată.</p>
-<p>— Se pregătesc să ia cu asalt Sarmisegetusa? — întrebă cu fața schimonosită de frică.</p>
-<p>— Poate să le fie aceasta intenția. Atâta știu că au venit curieri din tabăra de la Sarmisegetusa să se adune acolo toate oștirile Goților, deoarece se lățise faima că împărutul a pus la cele mai multe legiuni să rupă asediul capitalei.</p>
+<p>— Se pregătesc să ia cu asalt Sarmisegetuza? — întrebă cu fața schimonosită de frică.</p>
+<p>— Poate să le fie aceasta intenția. Atâta știu că au venit curieri din tabăra de la Sarmisegetuza să se adune acolo toate oștirile Goților, deoarece se lățise faima că împărutul a pus la cele mai multe legiuni să rupă asediul capitalei.</p>
 <p>Aelius se înfiora, în sufletul său se deșteptară oribile visiuni. I se părea că aude clocotirea luptei disperate, ochii i se îngroziră de râurile de sânge ce vor înroși stradele capitalei. Și Lucila, iubita lui Lucila, va trebui să mai sufere încă o dată teribilele chinuri ale fricii de moarte în neputința lui ochii i se umeziră, că nu poate fi și el lângă mireasa lui să o mângâie și să o apere.</p>
 <p>Alvamelda observa lucirea picăturilor de lacrimi în ochii lui Aelius și se întristă, când își aduse aminte că pentru ea, orice pericol amenințător i s-ar fi ridicat asupra capului său, nu s-ar fi întristat atât de adânc. Își aduse însă aminte și de ținta nouă a vieții sale; cu mâna tremurătoare își șterse fruntea îmbobată de asudori și în sufletul ei biciuit de viscolul patimei arzătoare, se reîntoarse liniștea calmă a consolării.</p>
 <p>— Nu te întrista, Aelius! — zise ea cu bunăvoință. — Destinul nostru e în mâinile lui Dumnezeu și acela e înțelepciunea absolută, care de a bună seamă știe ce soarte să croiască fiecărui muritor. Tu ai să fii fericit cu Lucila!</p>
@@ -947,15 +933,14 @@
 <p>— Pe tine.</p>
 <p>— Pe mine? — se mira Aelius. — Dar eu nici n-am dat față cu Withimir de trei săptămâni, de când mă chinuesc aci. Dacă vor zice că l-am sfătuit înainte de a cădea în prinsoare, mă voi apăra cu aceea, că eu, neavând știre despre cugetul lor de a răpi dintre noi pe Withimir, nu i-am putut da sfaturi pentru cazuri despre care nici prin minte nu mi-a trecut, că se vor întâmplă oare cândva.</p>
 <p>— Dacă voiești să te aperi cu argumente în contra autorității preotesei, care te-a ales pe tine de pricină, îți îngreunezi numai soarta. Sentința ta e pronunțată deja, și toate argumăntele tale cu care ai voi să o răstorn! Nu pot fi altceva decât ulei pe flăcări.</p>
-            <p>(Va urma)</p>
-            <p>Tit Chitul</p>
+            <trailer>(Va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
         </div>
     </div>
     
     <div type="part" n="16">
-        <p>Catastrofa Daciei</p>
-        <p>— Roman istoric —</p>
-        <p>(Urmare)</p>
+        <head>Catastrofa Daciei — Roman istoric —</head>
+        <milestone unit="(Urmare)"/>
         <div type="section" n="4">
 <p>Înainte însă de a se da pradă acestei îmboldiri interne, în mintea-i îmbătată de atâta lucire veselă se strecura un cuget negru, care-l înfiora. Ca și când în cel mai delicios cântec de mierle și priveghitoare s-ar amestecă deodată pe neașteptate un urât și sinistru cloncănit de corb, nimicind armonia sunetelor plăcute, Aelius se văzu trântit de acest cuget în teribila mizerie de până acum.</p>
 <p>Îi venise în minte, că dacă va primi ajutorul oferit și va ajunge la libertate, toată furia dușmanilor săi se va prăbuși pe capul Alvameldei. Era scumpă pentru el libertatea, și sufletul său tremura de emoție, când trebuia să se lepede de ea, dar inima sa nobilă se îngrețoșa de calea pe care o putea dobândi. Se înspăimânta de ideea de a-și salva viața prin moartea acelei ființe, care în zile negre de necaz îi fusese unica mângâiere.</p>
@@ -1012,8 +997,7 @@
 <p>Aelius se trânti pe așternut și-și lipi fruntea înfocată de zid să se răcorească.</p>
 </div>
 <div type="section" n="5">
-<p>VI</p>
-<p>Goana</p>
+<head>VI. Goana</head>
 <p>Puțini oameni se mută din aceasta vale a plângerilor și a suspinelor la viața cea veșnică, fără ca barem odată să nu fi avut prilej a fi munciți de agitația ce stăpâinește spiritul, când se apropie momentul decisiv de la care depinde moartea sau viața.</p>
 <p>Când Aelius se deșteptă din somnul adânc și-și îndrepta privirea la dunga de lumină ce se strecură prin mica ferestruie a temniței, i se păru la început că visase numai. Pe lespezile de piatră se întindea în linie dreaptă un șarpe de foc, înțepenit și nemișcat, cum soarele își proiectase razele prin ferestruie în dunga luminoasă Aelius observa o pată întunecată; aceasta îl aduse în memorie frica ce o suportase în noaptea trecută, când auzind glasuri omenești se aruncase pe lampă și o vărsase. Uleiul a curs pe pietre unde lățindu-se în bătaia razelor părea acum mai negru decât împrejurimea sură.</p>
 <p>Se apropia timpul când păzitorii săi se îndatinau a-i aduce hrana pe o zi: o bucată de pâine neagră și un ol cu apă. Aelius luă din așternut un mânunchi de paie și mătură cu el pulbere pe pata de ulei.</p>
@@ -1032,15 +1016,14 @@
 <p>Trecură ore în liniște mută, conturbată numai din când în când de sunetul înfundat al pașilor santinelelor, care se plimbau pe dinaintea ușii ferecate.</p>
 <p>O, cât de înfiorător răsunau acum în urechile lui Aelius acești pași! Ca și când o răutăcioasă mână de inimic l-ar împinge fără milă într-un abis fără fund, din care se svârcolea a ieși, acești pași zgomotoși îl imploră de groaza morții. Acest sunet chinuitor în noaptea trecută îi striga, că păzitorii săi stau de veghe și că Alvamelda sau și-a uitat promisiunea, temându-se de urmările faptei plănuite, sau că pe lângă toată bunăvoința ei n-au izbutit să abată pe păzitori de la împlinirea datoriei lor.</p>
 <p>Sărmanul naufragiat, căruia un val învolburat îi răpise din mâinile tremurătoare singura speranță debilă, o bucată de scândură, căreia își încredințase viața periclitată, și în loc de glasuri de îmbărbătare, se cutremură în suflet de bubuitul asurzitor al trăsnetelor neîntrerupte, de vuietul groaznic al uraganului înfuriat, și în jurul seu, în loc de brațe întînsă spre ajutor, nu vede decât valuri spumegânde și abisuri deschise spre a-l înghiți în tot momentul — nu e stăpânit de frică mai chinuitoare, decât aceea a căreia pradă devenise Aelius. El, care la început era gata în ori care moment a se despărți de această viață, care pentru dânsul nu mai era decât un câmp pustiu de neagra deznădăjduire, după ce o mână gingașă de prietenă binevoitoare sădise în solul sterp arborele speranței, pe care îl văzuse crescând și înflorind, era să-și piardă mințile de teama că nu va gusta din fructele lui.</p>
-    <p>(Va urma)</p>
-    <p>Tit Chitul</p>
+    <trailer>(Va urma)</trailer>
+    <trailer>Tit Chitul</trailer>
 </div>
     </div>
     
     <div type="part" n="17">
-        <p>Catastrofa Daciei</p>
-        <p>— Roman istoric —</p>
-        <p>(Urmare)</p>
+        <head>Catastrofa Daciei — Roman istoric —</head>
+        <milestone unit="(Urmare)"/>
         <div type="section" n="5">
 <p>Cu nepăsarea apatică a celor ce-și văd prăbușirea fericirii visate într-un ademenitor vis nerealizabil, se trânti pe așternutul său de paie. Inima îi svecnia vehement de agitație și tâmplele-i ardeau de fierbințeală.</p>
 <p>Nu-ș putu da seamă cât timp petrecuse în acea stare sufletească; când își venise în ori din zbuciumările viscolului sufletesc, se simți pe deplin liniștit.</p>
@@ -1075,7 +1058,7 @@
 <p>— Isprăvit-ai, Stilas ? — îl întrebă Alvamelda după ce se întâlniră.</p>
 <p>— Toate sunt în ordine — răspunse agrăitul. Caii-s legați de copacul care mi l-ai arătat. Grăbiți numai și ieșiți din oraș înainte de a răsări luna. Am nădejde că soțul tău nu va deșteptă bănuiala santinelelor de la poartă, deoarece nici eu nu l-aș fi cunoscut că e străin, de n-aș fi avut înainte știre despre aceasta.</p>
 <p>— Cine e comandant peste santinelele de la poartă ? — întrebă mai departe Alvamelda.</p>
-<p>— Bătrânul Sachskind. Bărbații cel mai tineri toți s-au dus cu Athaulf la Sarmisegetusa. Sachskind doarme în odaia sa; de grija lui puteți merge fără teamă; se încrede orbește în vigilența santinelelor. E de ajuns să le spuneți lozinca, ca să vă lase să ieșiți.</p>
+<p>— Bătrânul Sachskind. Bărbații cel mai tineri toți s-au dus cu Athaulf la Sarmisegetuza. Sachskind doarme în odaia sa; de grija lui puteți merge fără teamă; se încrede orbește în vigilența santinelelor. E de ajuns să le spuneți lozinca, ca să vă lase să ieșiți.</p>
 <p>— Care e lozinca pentru noaptea de azi ?</p>
 <p>— Walkyra.</p>
 <p>Alvamelda își dezcăța lanțul de aur ce-i atârnă din grumazi pe piept și brățările de pe rotundele sale brațe albe, pe care întinzându-le lui Stilas îi zise:</p>
@@ -1100,15 +1083,14 @@
 <p>— Ewartul suprem nu poate grăi — explica Alvamelda. — A pus vot că până nu va jertfi pe altarul lui Wuotan un prizonier roman, care e închis de câteva săptămâini, nu-și va deschide gura să grăiască. Chiar de aceea mergem acum la bercul lui Wuotan să pregătim cele trebuincioase pentru o jertfă atât de însemnată.</p>
 <p>Faima despre jertfirea unui roman se lățise deja între popor, santinelele dădură deci crezământ cuvintelor Alvameldei. Cu toate aceste nu se încumetau să deschidă poarta.</p>
 <p>— Noi suntem ostași și suntem datori a asculta poruncile mai marilor noștri — se scuza santinela. — Fără știrea lui Sachskind, a comandantului nostru, nu e permis să deschidem poarta pentru nimeni. Dar putem ajuta și la aceasta. Mergi, frate, și anunță comandantului, că ewartul suprem și preoteasa Alvamelda cer ieșire din oraș.</p>
-            <p>(Va urma)</p>
-            <p>Tit Chitul</p>
+            <trailer>(Va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
         </div>
     </div>
     
     <div type="part" n="18">
-        <p>Catastrofa Daciei</p>
-        <p>— Roman istoric —</p>
-        <p>(Urmare)</p>
+        <head>Catastrofa Daciei — Roman istoric —</head>
+        <milestone unit="(Urmare)"/>
         <div type="section" n="5">
 <p>Înapoia lor sunetele de trâmbiță și strigătele înfuriate ale Goților amuțiră.</p>
 <p>— Ne-au pierdut urma — se mângăia Aelius, domolind încâtva cursul calului său</p>
@@ -1186,15 +1168,14 @@
 <p>— Zi să sar în foc cu tine, sau să mă prăbușesc de pe un vârf de stâncă în valurile spumegânde ale mării răzvrătite; nu voi ezita nici un moment a-ți împlini porunca, numai să te pot mântui.</p>
 <p>Pe buzele Alvameldei tremura un îndurerat zâmbet dulce.</p>
 <p>— Vei fi fericit cu Lucila, Aelius. Dumnezeu e bun și nu părăsește pe cei vrednici de iubirea sa. Ascultă acum de mine!</p>
-            <p>(Va urma)</p>
-            <p>Tit Chitul</p>
+            <trailer>(Va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
         </div>
     </div>
     
     <div type="part" n="19">
-        <p>Catastrofa Daciei</p>
-        <p>— Roman istoric —</p>
-        <p>(Urmare)</p>
+        <head>Catastrofa Daciei — Roman istoric —</head>
+        <milestone unit="(Urmare)"/>
         <div type="section" n="5">
 <p>Alvamelda scoase din sân o cutiuță plină de niște pulbere cenușie și ducându-o la gura lui Aelius, îi zise:</p>
 <p>— Înghite aceasta pulvere.</p>
@@ -1224,11 +1205,10 @@
 <p>Goții în zadar căutară pe prizonier, care dispăru fără urmă.</p>
 </div>
 <div type="section" n="6">
-<p>VII</p>
-<p>Excursia nocturnă.</p>
-<p>Zilele Daciei Traiane erau numărate. Goții încurajați prin izbânzi continue, se decisera a dezmembra aceasta provincie bogată din imperiul roman și a o supune stăpânirii lor. Deja de ani de zile se încuibasera în părțile de est și nord ale Daciei, alungând pe locuitori în munți, mai lipsea numai luarea capitalei și a împrejurii ei, ca cucerirea lor să fie desăvârșită. Până când Sarmisegetusa mai stătea ca o insula romana în marea de ginți barbare, cucerirea Goților era mai mult problematică decât sigură și reală. Prevedea regele Goților că împăratul Aurelian, după limpezirea încurcăturilor în care ajunse imperiul prin răzvrătirea Zenobiei și răscoala lui Septimius, precum și prin invazia barbarilor din toate laturile, sprijinit pe acest punct de operație, va încerca cu toata forța sa înarmată să curețe Dacia de năvălitori.</p>
-<p>Voind a preveni realizarea acestei posibilități, regele Goților se decise a lua Sarmisegetusa în timp cât se poate de scurt. De aceea dădu ordin celor mai aleși comandanți să grăbească cu trupele lor în ajutorarea asediatorilor capitalei.</p>
-<p>În urma acestei porunci, puterea înarmată în jurul Sarmisegetusei crescu în mod înspăimântător. Zi de zi curgeau trupe înarmate, prevăzute cu scări, catapulte, baliste, berbeci pentru dărâmarea zidurilor și alte recvisite de război.</p>
+<head>VII. Excursia nocturnă.</head>
+<p>Zilele Daciei Traiane erau numărate. Goții încurajați prin izbânzi continue, se decisera a dezmembra aceasta provincie bogată din imperiul roman și a o supune stăpânirii lor. Deja de ani de zile se încuibasera în părțile de est și nord ale Daciei, alungând pe locuitori în munți, mai lipsea numai luarea capitalei și a împrejurii ei, ca cucerirea lor să fie desăvârșită. Până când Sarmisegetuza mai stătea ca o insula romana în marea de ginți barbare, cucerirea Goților era mai mult problematică decât sigură și reală. Prevedea regele Goților că împăratul Aurelian, după limpezirea încurcăturilor în care ajunse imperiul prin răzvrătirea Zenobiei și răscoala lui Septimius, precum și prin invazia barbarilor din toate laturile, sprijinit pe acest punct de operație, va încerca cu toata forța sa înarmată să curețe Dacia de năvălitori.</p>
+<p>Voind a preveni realizarea acestei posibilități, regele Goților se decise a lua Sarmisegetuza în timp cât se poate de scurt. De aceea dădu ordin celor mai aleși comandanți să grăbească cu trupele lor în ajutorarea asediatorilor capitalei.</p>
+<p>În urma acestei porunci, puterea înarmată în jurul Sarmisegetuzei crescu în mod înspăimântător. Zi de zi curgeau trupe înarmate, prevăzute cu scări, catapulte, baliste, berbeci pentru dărâmarea zidurilor și alte recvisite de război.</p>
 <p>Ca comandant suprem peste întreaga armata asediatoare fu numit Athaulf, care voind a se arăta vrednic de înalta distincție cu care îl onorase regimentele Goților, zi de zi îndreptă trupele sale la asalturi vehemănte, pe care apărătorii capitalei, deși puțini la număr, însă animați de știrea însuflețitoare că soarta Daciei depinde de curajul și destoinicia lor, reuși a le respinge.</p>
 <p>Guvernatorul Daciei, pe lângă toată însuflețirea ostașilor săi, era convins, că nu va putea rezista timp îndelungat unei puteri de zece ori mai mare decât peste care dispunea el.</p>
 <p>Nu trecea noapte în care să nu fi trimis, pe calea secretă descopierită de creștini, soli la împărat și la legații din castelele de lângă Dunărea de jos,solicitând ajutor grabnic. Cea mai mare parte a solilor, bucurându-se ca au scăpat din gura morții, nici nu se mai reîntorceau, iar cei mai puțini, care își împliniră dregătoria cu conștiință, aduceau numai știri triste și dezcurajatoare. Ajutor nimeni nu putea trimite.</p>
@@ -1270,18 +1250,17 @@
 <p>Bituvantis scoase într’aceste un pergamănt și luănd lampa din mâna lui Agapit, îl ținu înainteaochilor să-l citească.</p>
 <p>— Urmați-mi! zise acesta mulțumit.</p>
 <p>Agapit îi conduse într-o odaie joasă, luminată de o lampă sărăcăcioasă de lut, așezată în loc de postament pe o masă cioplită dur.</p>
-<p>Dacă cetățenii bogați din Sarmisegetusa, care și în fața morții ce li se arătă necontenit, se îngrijeau să-și mântuiască averile, ar fi cunoscut secretul acestei căscioare, n-ar fi întârziat a oferi proprietarului suma cu care și-ar fi putut cumpăra palate de marmură, numai pentru dreptul de a petrece o noapte între pereții ei. În ochii lui Agapit însă, aurul era numai un mijloc prin care oamenii nepricepuți își pierd sufletele. El era mulțumit cu sărăcia sa, și niciodată n-a primit bani de la frații săi de credință,când i-a salvat de furia persecutorilor.</p>
+<p>Dacă cetățenii bogați din Sarmisegetuza, care și în fața morții ce li se arătă necontenit, se îngrijeau să-și mântuiască averile, ar fi cunoscut secretul acestei căscioare, n-ar fi întârziat a oferi proprietarului suma cu care și-ar fi putut cumpăra palate de marmură, numai pentru dreptul de a petrece o noapte între pereții ei. În ochii lui Agapit însă, aurul era numai un mijloc prin care oamenii nepricepuți își pierd sufletele. El era mulțumit cu sărăcia sa, și niciodată n-a primit bani de la frații săi de credință,când i-a salvat de furia persecutorilor.</p>
 <p>În vremurile din urmă Agapit nu avuse odihnă în casa sa. Zi de zi era necesitat a refuza oferte seducătoare, a fi cu inima de piatra către mulți fricoși, care între lacrimi îl rugau să-i mântuiască din gura morții. La început inima sa simțitoare nu putu rezista lacrimilor și în mai multe nopți conduse oameni fricoși pe calea cea secretă afară din capitală,cu toate că nu credea cuvintelor mincinoase, când afirmau că sunt creștini.</p>
 <p>În pericol oamenii-s aplicați a da crezământ și celor mai fantastice faimă, dacă acestea sunt împreunate cu o verosimilitate cât de debilă și dacă-s apte de a deștepta barem o scânteia de speranță în inimile furtunos agitate.</p>
-    <p>(Va urma)</p>
-    <p>Tit Chitul</p>
+    <trailer>(Va urma)</trailer>
+    <trailer>Tit Chitul</trailer>
 </div>
     </div>
     
     <div type="part" n="20">
-        <p>Catastrofa Daciei</p>
-        <p>— Roman istoric —</p>
-        <p>(Urmare)</p>
+        <head>Catastrofa Daciei — Roman istoric —</head>
+        <milestone unit="(Urmare)"/>
         <div type="section" n="6">
 <p>Cu toate că Agapit înconjurase pe cei mântuiți de dânsul de a nu spune nimănui niciun cuvânt despre cele întâmplate, taina despre secretul căsuței sale se divulgase binișor. Cei mai mulți nu dădură crezământ acestei faimă, se aflară însă toate că Agapit înconjurase pe cei mântuiți de dânsul de a nu spune nimănui nici un cuvânt destul și de aceia, care se adresau cu întrebări și ofertei lui Agapit. Acesta îngrozit de responsabilitatea ce și-o luă asupra capului său prin refacerea secretului, într-o bună dimineață se prezenta înaintea guvernatorului și-i spuse toate.</p>
 <p>Guvernatorul la început zâmbi cu necredință, când însă Agapit îl conduse în casa sa și-i arată calea cea secretă, se învesăii peste măsură. De mult dorea de a înștiința lumea romană despre starea strîmtorata în care se află, fără de a găsi vreun mijloc de a putea trimite din capitală soli ca să nu fie observați de Goți. Acum în sfârșit prin descoperirea lui Agapit, își ajunse ținta.</p>
@@ -1337,7 +1316,7 @@
 <p>— Nici decât! se opuse Filetus. Suntem încă în apropierea capitalei și prin aprindere de torțe am deștepta atențiua inimicului. Să încercăm a ne orienta prin întuneric.</p>
 <p>Filetus începu a păși înainte după chipzuință, alegând locurile mai ușoare de urcat, cugetând că în sfârșit totuși are să se pomănească undeva.</p>
 <p>După un timp oarecare râpa prăpastioasă prin care se trudise până atunci, se continuă într-o pantă puțin înclinată. Străbătu prin tufișe câteva sute de pași chemând după sine pe tovarăși și ajunse la loc neted.</p>
-<p>În depărtare destul de considerabilă, la lumina roșiatică a niște focuri colosale, putu distinge hotărât conturile negre ale zidurilor Sarmisegetusei.</p>
+<p>În depărtare destul de considerabilă, la lumina roșiatică a niște focuri colosale, putu distinge hotărât conturile negre ale zidurilor Sarmisegetuzei.</p>
 <p>Numai acum putu înțelege pe deplin valoarea sfatului centurionului de a nu aprinde torțe, când văzu la zarea focurilor de pază santinelele Goților stând în armă.</p>
 <p>Câteva momente scrută împrejurimea, apoi zise tovarășilor săi:</p>
 <p>— Veniți după mine. Trebuie să trecem colina aceasta ce se ridica înaintea noastră și peste o jumătate de oră vom fi la țintă.</p>
@@ -1355,15 +1334,14 @@
 <p>— La aceasta nici nu voiesc a gândi — protesta Bituvantis. Îmi cunosc oamenii încă din Apulum; toți sunt adevărați zeloși ai neînvinsului Mithra și chiar eu i-am recomandat măritului „pater patratus” să fie admiși la serbările nocturne ale misteriilor. Doi dintre ei au și ajuns deja gradul de „leu“ iar ceialalți doi sunt „corbi”. Toți patru au fost membrii ai colegiului centonarilor din Apulum, al cărui patron am fost eu. Mi-e cunoscută onestitatea lor; putem avea încredere deplină în ei!</p>
 <p>Neconturbați de nimeni ajunseră la marginea pădurii; și Filetus, când se văzu între copacii codrului, sub scutul ramurilor aduc, în murmur șoptitor de boarea răcoroasă a nopții, nu mai purtă nicio teamă de Goți, și schimbându-și șopotul de până atunci cu glas înalt zise:</p>
 <p>— De acum înainte primejdia de a fi surprinși e la spatele nostru. Nu mai e nici o trebuință să vorbim în șoaptă.</p>
-            <p>(Va urma)</p>
-            <p>Tit Chitul</p>
+            <trailer>(Va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
         </div>
     </div>
     
     <div type="part" n="21">
-        <p>Catastrofa Daciei</p>
-        <p>— Roman istoric —</p>
-        <p>(Urmare)</p>
+        <head>Catastrofa Daciei — Roman istoric —</head>
+        <milestone unit="(Urmare)"/>
         <div type="section" n="6">
 <p>Ș-apoi începu a explica tovarășilor săi cum a reușit el a descoperi secretul tezaurului.</p>
 <p>— Veți vedea stânca de care vorbește documentul, îndată ce vom ajunge la marginea poienii, unde înainte de acestea cu o sută și șaptezeci de ani Dacii aveau un templu minunat ridicat în onoarea zeului lor principal, a înfricoșatului Zamolxis. Între zidurile acestui templu se înjunghiau jertfele în onoarea zeilor și de aici se trimitea tot la patru ani odată sol la Zamolxis. Aici locuia și preotul profet cu etiștii și poliștii lui, petrecându-și viața în rugăciuni și ascesa severa— Dar iată stânca!</p>
@@ -1426,9 +1404,9 @@
 <p>— Suntem cetățeni romani și venim din capitală.</p>
 <p>— Din Roma? se miră Athaulf.</p>
 <p>Bituvantis ezita încurcat cu răspunsul. Un glas intern îi șoptea, că barbarul dinaintea lui nu-l va crede, dacă se va folosi de minciună și-i va spune că vine din capitala lumii. Ca această misiune să fie proptită de aparența adevărului, s-ar fi cerut ca tovarășii săi să fie mai mulți la număr și prevăzuți cu arme. Deoarece nimeni nu l-ar fi crezut că a putut face o cale atât de lungă, printre atâția inimici cu cinci oameni neînarmați, spuse adevărul.</p>
-<p>— Venim din capitala Daciei, din Sarmisegetusa și suntem trimiși de guvernatorul acestei provincii.</p>
+<p>— Venim din capitala Daciei, din Sarmisegetuza și suntem trimiși de guvernatorul acestei provincii.</p>
 <p>— Ce provincie? — strigă înfuriat Athaulf. Romanii nu mai poruncesc în aceasta țară cucerită cu armele noastre. Sunteți înconjurați în cuibul vostru, nu mai puteți scăpa de mânia mea. Cu toate acestea ai încă îndrăzneală de a vorbi despre guvernatorul vostru, ca și când voi ați fi aceia care ne-ați strivit. Și încă nu te rușinezi a veni înaintea mea cu minciuni. Om de nimic ce ești!</p>
-<p>— Îndrăzneala acestui miserabil e ofensă pentru noi! strigă un Got de lângă Athaulf în care recunoaștem pe Friharza. Cine poate ieși din Sarmisegetusa ca să nu-l observăm?</p>
+<p>— Îndrăzneala acestui miserabil e ofensă pentru noi! strigă un Got de lângă Athaulf în care recunoaștem pe Friharza. Cine poate ieși din Sarmisegetuza ca să nu-l observăm?</p>
 <p>— Noi! — răspunse hotărât Bituvantis.</p>
 <p>Athaulf își pierduse cumpătul. Vinele tâmplelor i se umflară de mâinie, ochii i se aprinseră de foc sălbatic.</p>
 <p>— Mincinosule! răcni ca scos din fire. Mai bine de o oră te pândim ce faci,totuși ai nădejde să scapi cu minciuni din mâinile noastre.</p>
@@ -1442,15 +1420,14 @@
 <p>Când văzu însă barba și părul alb al bărbatului ce-i ținea frânele calului de șa, fiindcă și el era calare, mâinia lui dispăru.</p>
 <p>— De ce mă oprești, Samanarich, să pedepsesc pe acest ticălos, după cum ar merita? întreba tremurând încă de mâinie.</p>
 <p>— Pentru că așa voiesc zeii — răspunse ewartul cu gravitate. Ți-am adus ieri vestea, că un prizonier care a fost dedicat jertfă lui Wuotan a scăpat din închisoarea sa. Jertfa promisă odată zeului trebuie împlinită la tot ceasul. Iată ocazia binevenită de a putea satisface acest sfânt obligamănt! Am promis să împodobim copaclul sfânt cu un cap de om, și iată acum avem șase !</p>
-            <p>(Va urma)</p>
-            <p>Tit Chitul</p>
+            <trailer>(Va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
         </div>
     </div>
     
     <div type="part" n="22">
-        <p>Catastrofa Daciei</p>
-        <p>— Roman istoric —</p>
-        <p>(Urmare)</p>
+        <head>Catastrofa Daciei — Roman istoric —</head>
+        <milestone unit="(Urmare)"/>
         <div type="section" n="6">
 <p>Athaulf își ascunse mulțumit pe deplin sabia în teacă și dădu ordin să strângă vasele de aur de pe jos.</p>
 <p>— Pe aceștia îi legați și-i duceți în Apulum! — porunci mai departe arătând cu mâna pe Bituvantis și soții săi. Ewartul suprem va merge cu voi.</p>
@@ -1463,8 +1440,7 @@
 <p>Din toate părțile se văzură luciri de armă, și Romanii căzură străpunși și tăiați, până ce nu mai dădură semne de viață.</p>
 </div>
 <div type="section" n="7">
-<p>VIII</p>
-<p>Un mormânt.</p>
+<head>VIII. Un mormânt.</head>
 <p>Discul de foc al soarelui plutea deja aproape de înălțimea cea mai mare care trebuiă să o ajungă în acea zi pe bolta azurie a cerului, când movila de crengi și frunze sub care zăcea Aelius fără simțiri, îmbătat de praful ce-1 înghițise la stăruința Alvameldei, începu a se clăti. Anevoios se încerca a-și întinde membrele înțepenite, dar nu reuși. A trebuit să treacă un timp oarecare până când i se limpezi mintea într-atâta să poată pricepe, că e îngropat de viu sub o movilă de crengi uscate.</p>
 <p>Un fior de groază îi cutreiera tot trupul și-i electriza membrele. Cu o împuterire disperată aruncă în laturi crengile și sări pe tălpi.</p>
 <p>Ce se petrecu cu dânsul? Aceasta fu prima întrebare, la care însă dar se încercă să afle răspuns potrivit.</p>
@@ -1522,21 +1498,19 @@
 <p>Două inimi care deopotrivă erau îngrijite pentru el.</p>
 <p>Unde să meargă mai întâi ?</p>
 <p>Care avea mai mare trebuință de consolare?</p>
-<p>Stând meditator la aceasta răspântă, deodată își aduse aminte că Sarmisegetusa e împrejurată de inamic. Lucila e în pericol.</p>
-<p>Porni rezolut spre Sarmisegetusa.</p>
-    <p>(Va urma)</p>
-    <p>Tit Chitul</p>
+<p>Stând meditator la aceasta răspântă, deodată își aduse aminte că Sarmisegetuza e împrejurată de inamic. Lucila e în pericol.</p>
+<p>Porni rezolut spre Sarmisegetuza.</p>
+    <trailer>(Va urma)</trailer>
+    <trailer>Tit Chitul</trailer>
 </div>
     </div>
     
     <div type="part" n="23">
-        <p>Catastrofa Daciei</p>
-        <p>— Roman istoric —</p>
-        <p>(Urmare)</p>
+        <head>Catastrofa Daciei — Roman istoric —</head>
+        <milestone unit="(Urmare)"/>
 <div type="section" n="8">
-<p>IX</p>
-<p>Lupta nocturnă.</p>
-<p>Temerea guvernatorului Daciei, că Goții se pregătesc a năvăli cu asalt general asupra Sarmisegetusei, pe zi ce mergea tot creștea.</p>
+<head>IX. Lupta nocturnă.</head>
+<p>Temerea guvernatorului Daciei, că Goții se pregătesc a năvăli cu asalt general asupra Sarmisegetuzei, pe zi ce mergea tot creștea.</p>
 <p>Eruperea uraganelor distrugătoare de regulă e precedată de liniște apăsătoare.</p>
 <p>În tabăra Goților domnia liniște sinistră.</p>
 <p>Dar de pe zidurile capitalei guvernatorul se putea convinge,că Goții și-au sfârșit pregătirile de atac. Turnurile cu berbeci de aramă erau împărțite în preajma punctelor mai puțin întărite ale zidurilor, și lângă ele girezi întregi de coșuri împletite din nuiele și saci umpluți cu pămănt așteptau să fie aruncați în șanțurile cu apă ce prelingeau zidurile cetății. Grămezi de maride, scări de urcat zidurile, catapulte și baliste, bolovani și grinzi, întregeau numărul rezhizitelor de război.</p>
@@ -1545,7 +1519,7 @@
 <p>În fața pericolului amenințător, când ori încotro își întoarce privirea îngrijorată căutând ajutor, nu dă decât peste valuri revoltate împotriva sa, omul înclinat a crede în realizarea celei mai neverosimile speranțe, pe care între împrejurări normale mintea sănătoasă nu pune nici un pond.</p>
 <p>Guvernatorul în tot momentul așteptă să vadă ridicându-se trupele Goților și depărtându-se.</p>
 <p>O împrejurare însă îl neliniștea peste măsură.</p>
-<p>De când Bituvantis a părăsit Sarmisegetusa trecură trei zile. Dacă s-a putut el reîntoarce, de ce n-a trimis vreunul dintre oamenii săi să-l înștiințeze și pe el despre cele întâmplate?</p>
+<p>De când Bituvantis a părăsit Sarmisegetuza trecură trei zile. Dacă s-a putut el reîntoarce, de ce n-a trimis vreunul dintre oamenii săi să-l înștiințeze și pe el despre cele întâmplate?</p>
 <p>Pe urmă se rupse și ultimul fir debil de care își atârna sesperanța.</p>
 <p>Stând pe murii cetății cu doi generali ai săi, din tabăra inamică auzi răsunănd un cântec lugubru, și întorcându-și privirea în direcția de unde se ridicau acorduri triste, observă un tumult de Goți în jurul unui foc colosal. Depărtarea unde se petrecea această scenă era prea mare ca să poată cunoaște singuraticele persoane care compuneau acest tumult, dar cântecul trist ce tot creștea în putere și flăcările uriașe ce se ridicau purtate de vânt în mijlocul tumultului, nu lăsară mult timp pe guvernator în neștiință despre cauza acestei adunări zgomotoase.</p>
 <p>Pe fruntea guvernatorului se puse un nor de griji.</p>
@@ -1557,7 +1531,7 @@
 <p>— Dzeii să sosească acest ajutor cât de îngrabă! ofta generalul.</p>
 <p>Într-aceste coborâră de pe zid și guvernatorul zise:</p>
 <p>— Mergeți acum și vă împliniți datoria! Eh voi căută pe pontifice și-l voi ruga să aducă zeilor jertfe bogate pentru biruință.</p>
-<p>În tabăra Goților, după moartea lui Athaulf, comanda supremă se încredințase lui Friharza. Faima despre moartea lui Athaulf stârni întristare adâncă în ostașii săi, care îl iubeau cu toată strictețea sa crudă. După ce li s-a împărtășit, că principele lor a murit de mâna unui Roman, care s-a apropiat de dânsul, afirmând că e trimis din Sarmisegetusa ca sol, din inimile ostașilor duri a dispărut întristarea, ca să dea loc unui simțământ mult mai pătimaș : al dorului de răzbunare.</p>
+<p>În tabăra Goților, după moartea lui Athaulf, comanda supremă se încredințase lui Friharza. Faima despre moartea lui Athaulf stârni întristare adâncă în ostașii săi, care îl iubeau cu toată strictețea sa crudă. După ce li s-a împărtășit, că principele lor a murit de mâna unui Roman, care s-a apropiat de dânsul, afirmând că e trimis din Sarmisegetuza ca sol, din inimile ostașilor duri a dispărut întristarea, ca să dea loc unui simțământ mult mai pătimaș : al dorului de răzbunare.</p>
 <p>Porunca hotărâtă a noului comandant opri izbucnirea mâniei de care clocoteau toți Goții.</p>
 <p>Cuvintele fanaticului Samanarich încă avură efectul de a îndupleca ostașii să-și înece justa lor amărăciune, până după ce vor arde cadavrul lui Athaulf.</p>
 <p>— Spuneți ostașilor să-și suprime pe două trei zile mânia! cuvânta ewartul ofițerilor adunați în jurul său. Să și-o suprime numai, dar să nu o lase să se stingă! Athaulf trebuie să meargă în Walhalla cu suita vrednică de rangul său! Câți prizoneri romani avem toți vor fi uciși, ca să slugească în cealaltă lume lui Athaulf și să sufere pentru crima ce a comis-o un hoț din neamul lor!</p>
@@ -1573,17 +1547,17 @@
 <p>Guvernatorul își ațintise privirea îngrijorată pe acest punct lucitor.</p>
 <p>Deodată se auzi limpede, în noaptea tăcută, un glas vibrător de trimbiță. Așa răsună răzbunătorul țipăt de mâinie suprimată, în momentul când aceea își rupe lanțurile cu care fusese încătușată.</p>
 <p>Nimic nu seamănă mai desăvârșit cu priveliștea ce succedă acestui glas de trâmbiță, ca conturbarea unui roi de păsări ce doarme în siguranță, încrezute pe crengile copacilor codrului virgin, când se înfrică de țipătul ce-1 scoase una dintre ele, care ajunse în gura vulpii.</p>
-<p>Toată valea Sarmisegetusei clocotea de zgomotul asurzitor ce-l produse Goții. Glasuri neîntrerupte de trâmbițe, urlete cumplite, îmbărbătări, înjurături, scârțâituri de roți cum trăgeau turnurile cu berbeci, să le treacă peste coșurile și sacii plini cu pămănt aruncați în apa moloasă a șanțurilor, se amăstecau în toi sălbatic și îngrozitor.</p>
+<p>Toată valea Sarmisegetuzei clocotea de zgomotul asurzitor ce-l produse Goții. Glasuri neîntrerupte de trâmbițe, urlete cumplite, îmbărbătări, înjurături, scârțâituri de roți cum trăgeau turnurile cu berbeci, să le treacă peste coșurile și sacii plini cu pămănt aruncați în apa moloasă a șanțurilor, se amăstecau în toi sălbatic și îngrozitor.</p>
 <p>Și ca spectacolul să devină și mai îngrozitor, deodată se aprinseră în mai multe locuri niște focuri. Le trebuia lumina Goților să-și poată apropia de ziduri mașinile de război.</p>
 <p>Trompetele începură a răspunde și din cetate, și pe ziduri apărură coifurile legionarilor, dând inimicului să priceapă prin apariția lor momentană, că nu au reușit a-l surprinde.</p>
-<p>Pe colina de unde sunase primul semnal de asalt stătea călare Friharza și lângă el bătrânul Samanarich, tremurând de agitație își adâncea ochii înecați în sânge către Sarmisegetusa.</p>
+<p>Pe colina de unde sunase primul semnal de asalt stătea călare Friharza și lângă el bătrânul Samanarich, tremurând de agitație își adâncea ochii înecați în sânge către Sarmisegetuza.</p>
 <p>Când observă pe ziduri dunga sclipitoare a coifurilor, de pe care zarea focurilor se reflecta tremurând, nu-și mai putu stăpâni mâinia.</p>
 <p>— Afurisiți! răcni amenințând furios cu sabia sa cetatea. N-au dormit! Au prins veste de intenția noastră! Ne-ați așteptat cu armele în mâini.</p>
 <p>Friharza zâmbea numai, delectându-se în furia bătrânului.</p>
 <p>— Cu atât mai rău de ei! zise lui Samanarich. Dacă au poftit luptă, aibă parte de aceea. Din mâinile noastre nimeni nu va scăpa vii; despre aceasta te pot asigura, bărbate sfinte! Sunt închiși ca șoarecii în cursă.</p>
 <p>Dar Samanarich nu auzea nimic din aceste cuvinte mângâitoare.</p>
 <p>Primul atac al Goților fu respins cu bărbăție.</p>
-<p>De pe zidurile Sarmisegetusei se porni o ploaie de bolovani, apă fierbinte și rășină aprinsă.</p>
+<p>De pe zidurile Sarmisegetuzei se porni o ploaie de bolovani, apă fierbinte și rășină aprinsă.</p>
 <p>Scările se prăbușiră cu stăpânii lor cu tot în șanțul afund. Câteva turnuri prinseră foc.</p>
 <p>— Suflă asalt, nemernicule! urla Samanarich ca scos din fire către ostașul ce stătea lângă Friharza cu trâmbița în mână. Suflă până-ți vor plesni pălmile! Nu vezi că ostașii se retrag?</p>
 <p>În furia sa oarbă puse mâna pe ruda steagului roșu ce fâlfâia lângă Friharza și se părea că vrea să năvălească cu acest semn al biruinței să încurajeze ostașii zăpăciți de primirea neașteptată.</p>
@@ -1595,22 +1569,21 @@
 <p>Balistele și catapultele erau neobosite întru aruncarea bolovanilor, grinzilor și săgeților prevăzute la un capăt cu sucituri de funii unse cu rășină, care aprinsă zburau peste ziduri, trăgând după ele prin aer cozi lungi de flăcări. Se părea ca cade o ploaie de comeți mici peste cetate.</p>
 <p>Câteva case prinseră foc. Confuzia și toiul erau îngrozitoare și la lumina fantomatică a flăcărilor zbuciumate de vânt printre fum, șperlă și nori de praf; pe scările rezemate de zid se îmbulzeau, între strigăte înfuriate Goți barbari, luptându-se între sine pentru fușteii scărilor pe care se înălțau să primească moarte glorioasă.</p>
 <p>Nimeni nu-și bătea capul cu cei ce se rostogoleau de pe vârful scărilor, roșind cu sângele lor apa mâloasă a șanțurilor. Locul lor imediat era ocupat de alții. Legionarii nu învingeau a mai împărți moartea. În fierbințeala luptei disperate, unii își aruncau săbiile și se apucau de luptă piept la piept, deciși a se prăbuși mai bine cu vrăjmașii lor cu tot în șanțuri, decât a ceda ca locurile lor să fie cuprinse de ei.</p>
-<p>Câtă vreme în jurul Sarmisegetusei furia războaielor serba orgii sângeroase, la depărtare de câteva sute de pași de la zidurile cutremurate de trozniturile berbecilor, un june Roman cu capul dezvelit, îmbrăcat numai în tunică, cu o sabie lată în dreapta sa, fugea confuz și fără țintă, apropiindu-se și iarăși depărtându-se de cetate.</p>
-<p>Era Aelius acest june, care tocmai în aceea seară blestemată ajunse la Sarmisegetusa.</p>
-<p>Când pornise de la mormântul Alvameldei, uitase că nu cunoaște calea cea secretă pe care sperase să intre în Sarmisegetusa.</p>
+<p>Câtă vreme în jurul Sarmisegetuzei furia războaielor serba orgii sângeroase, la depărtare de câteva sute de pași de la zidurile cutremurate de trozniturile berbecilor, un june Roman cu capul dezvelit, îmbrăcat numai în tunică, cu o sabie lată în dreapta sa, fugea confuz și fără țintă, apropiindu-se și iarăși depărtându-se de cetate.</p>
+<p>Era Aelius acest june, care tocmai în aceea seară blestemată ajunse la Sarmisegetuza.</p>
+<p>Când pornise de la mormântul Alvameldei, uitase că nu cunoaște calea cea secretă pe care sperase să intre în Sarmisegetuza.</p>
 <p>Greșeala lui era ireparabilă, deoarece cu mintea sănătoasă nu putea spera că va putea străbate prin trupele Goților la poartă să ceară intrare. A risca acest pas temerar, ar fi fost egal cu sinuciderea.</p>
 <p>Fără a risipi mult timp cu frământări nefolositoare de minte, se decise a reîntoarce imediat la munți și a ruga pe Longinus să-i vină întru ajutor.</p>
 <p>Abia se depărtase însă câțiva pași, când în noaptea tăcută auzi răsunănd un glas ascuțit de trâmbiță.</p>
 <p>Era semnalul de asalt dat la porunca lui Friharza.</p>
-    <p>(Va urma)</p>
-    <p>Tit Chitul</p>
+    <trailer>(Va urma)</trailer>
+    <trailer>Tit Chitul</trailer>
 </div>
     </div>
     
     <div type="part" n="24">
-        <p>Catastrofa Daciei</p>
-        <p>— Roman istoric —</p>
-        <p>(Urmare)</p>
+        <head>Catastrofa Daciei — Roman istoric —</head>
+        <milestone unit="(Urmare)"/>
         <div type="section" n="8">
 <p>Scenele îngrozitoare ce urmară acestui glas de trâmbiță îi schimbară intenția.</p>
 <p>Acum voia să ajungă cu orice preț în cetate să-și jertfească și el viața pentru patrie.</p>
@@ -1668,7 +1641,7 @@
 <p>Nici unul nu cunoștea pe Aelius.</p>
 <p>— Oricine să fie acest june, e Roman și a luptat cu noi! — zise un centurion. E vrednic de osteneala cu care l-am mântuit. Să așteptăm până își va veni în ori și ne va spuue el însuși cine e.</p>
 <p>Un ostaș aduse apă, îi spăla fruntea și rana lui Aelius, care nu era periculoasă, deoarece vârful săgeții i s-a oprit în spate.</p>
-<p>Sarmisegetusa ardea deja în mai multe puncte. Pe străzi fugeau femei cu fețele schimonosite de spaimă, lățind prin strigăte tânguitoare vestea grozavă, că Goții au intrat deja în capitală.</p>
+<p>Sarmisegetuza ardea deja în mai multe puncte. Pe străzi fugeau femei cu fețele schimonosite de spaimă, lățind prin strigăte tânguitoare vestea grozavă, că Goții au intrat deja în capitală.</p>
 <p>În acest moment, când de o parte disperarea, de cealaltă beția învingerii, răpise toate spiritele, toate trâmbițele Goților începură a cânta din răsputeri retragere.</p>
 <p>Ostașii surprinși nu voiau a crede urechilor lor. Câteva momente stătură pe cumpene, pe urmă începură a se retrage vărsându-și mâinia în înjurături sălbatice.</p>
 <p>— Stați locului și grijiți! zbura de la trupă la trupă comanda ofițerilor romani. Inamicul ne pregătește vreo cursă vicleană!</p>
@@ -1676,8 +1649,7 @@
 <p>La răsărit soarele își ridică tremurând, de după deal, ochiul său de foc, mirându-se de atâta sânge și ruine.</p>
 </div>
 <div type="section" n="9">
-<p>X</p>
-<p>Întâlnire tristă.</p>
+<head>X. Întâlnire tristă.</head>
 <p>Prima întrebare a lui Aelius, după ce-și deschise ochii și pricepu din tăcerea ce-l împrejura că lupta s-a sfârșit, fu:</p>
 <p>— Cine a învins?</p>
 <p>— Nimeni — răspunsera mai multe voci deodată. — Goții s-ati retras în mod neexplicabil.</p>
@@ -1691,26 +1663,25 @@
 <p>— Să nu credeți că vă plătesc cu minciuni pentru bunăvoința ce ați arătat-o față de mine. Eu în adevăr vin din Apulum, unde am fost prizonierul bătrânului Samanarich, care a fost ewartul suprem al Goților și pe care l-am ucis înaintea ochilor voștri. Și acum mai am o rugare către voi.</p>
 <p>— Grăește! Dacă va fi cu putință, iți vom împlini-o.</p>
 <p>— Cunoașteți pe Lucila? Și ști-m’ați îndrepta la locuința ei?</p>
-<p>— În Sarmisegetusa sunt câteva sute de femei care poartă acest nume — răspunse zâmbind un legionar. De unde să aflăm noi de care te interesezi?</p>
+<p>— În Sarmisegetuza sunt câteva sute de femei care poartă acest nume — răspunse zâmbind un legionar. De unde să aflăm noi de care te interesezi?</p>
 <p>— Eu grăesc de fiica lui P. Bituvantis, a fostului duumvir din colonia Apulum.</p>
 <p>— Mergi pe strada aceasta și întreabă pe primul om care-ți va ieși în cale. Pe Bituvantis îl cunosc și pruncii.</p>
 <p>Aelius porni în direcția arătată de legionar și peste câteva minute se opri la poarta lui Bituvantis.</p>
 <p>În sfârșit, după atâtea încercări chinuitoare, se simți în poziția unui cursor, pe care norocul îl ajutase să ajungă la țintă. Încă câțiva pași și putea sătreacă pragul raiului pământesc, al căruia nume e amor ideal.</p>
 <p>— Acasă e Lucila? întreba pe o sclavă ce o află în curte trudindu-se cu o povară grea, subc are i se încovoia spatele.</p>
-    <p>(Va urma)</p>
-    <p>Tit Chitul</p>
+    <trailer>(Va urma)</trailer>
+    <trailer>Tit Chitul</trailer>
 </div>
     </div>
     
     <div type="part" n="25">
-        <p>Catastrofa Daciei</p>
-        <p>— Roman istoric —</p>
-        <p>(Urmare)</p>
+        <head>Catastrofa Daciei — Roman istoric —</head>
+        <milestone unit="(Urmare)"/>
         <div type="section" n="9">
 <p>-Nu pot pricepe nepăsarea stăpânei mele — răspunse sclava. În momentul pericolului extrem lăsa casa pustie. Barem de ne-ar fi dat îndrumările necesare unde să punem în siguranță obiectele mai prețioase, să nu ajungă în mâinile inamicului jefuitor.</p>
 <p>Cuvintele sclavei avură efectul unui trăsnet din cer senin asupra lui Aelius.</p>
 <p>Sclava observa paloarea surprizei îngrijorate pe fața lui Aelius și grăbi a-l liniști cu următoarele cuvinte:</p>
-<p>— De viața Lucilei nu fi îngrijit. Sunt convinsă pe deplin, că de prezent e departe de Sarmisegetusa. Încă pe la miezul nopții a venit după ea Agapit și a dus-o cu sine; de bună seamă să o scoată din acest iad îngrozitor.</p>
+<p>— De viața Lucilei nu fi îngrijit. Sunt convinsă pe deplin, că de prezent e departe de Sarmisegetuza. Încă pe la miezul nopții a venit după ea Agapit și a dus-o cu sine; de bună seamă să o scoată din acest iad îngrozitor.</p>
 <p>— Cine e acel Agapit? întrebă Aelius cu mirare crescândă.</p>
 <p>— Un coreligionar de al nostru. Om sărac între împrejurări normale, dar între necazurile zilelor viforoase ce le-am ajuns, mai bogat decât Lucullus.</p>
 <p>— Nu te pricep.</p>
@@ -1722,7 +1693,7 @@
 <p>— Fii cu paciență — zise — până voi ascunde și aceste obiecte, apoi o să mergem la Agapit care îți va spune unde e Lucila acum.</p>
 <p>Peste câteva minute sclava porni cu Aelius către locuința lui Agapit.</p>
 <p>Pe stradă mișuna o mulțime de oameni agitați și înfricați. Toiul de luptă încetase; optimiștii credeau că inamicii au fost respinși. În sânurile disperate începu a se întoarce încrederea de sine.</p>
-<p>- Lucila a zis că ești în munți — se adresa sclava lui Aelius. Te așteptase multă vreme și nu putea pricepe cauza întârzierii tale... Dar eu numai acum observ că n-ai venit în capitală pe calea cea secretă, căci în acest caz ar fi trebuit să te întâlnești cu Agapit. Tu însă, precum se vede, nici nu-1 cunoști. Cum ai reușit deci a intra în Sarmisegetusa?</p>
+<p>- Lucila a zis că ești în munți — se adresa sclava lui Aelius. Te așteptase multă vreme și nu putea pricepe cauza întârzierii tale... Dar eu numai acum observ că n-ai venit în capitală pe calea cea secretă, căci în acest caz ar fi trebuit să te întâlnești cu Agapit. Tu însă, precum se vede, nici nu-1 cunoști. Cum ai reușit deci a intra în Sarmisegetuza?</p>
 <p>— Mi se pare, ca și când peste mine ar fi trecut un vis viforos. Îmi va trebui timp lung ca să-mi pot aduna amintirile risipite și să pricep șirul logic al minunilor reîntrerupte săvârșite de providența ocrotitoare în favorul meu.</p>
 <p>Ajunși la locuința lui Agapit, pe acesta îl aflară în curte privind cu ochi lăcrimoși la grinzile afumate ale căsuței sale, al cărei acoperiș arsese cu desăvârșire.</p>
 <p>Fără de a aștepta întrebarea sclavei, arăta cu mâna, spre ușă, învitându-i să intre.</p>
@@ -1742,11 +1713,11 @@
 <p>Lucila își șterse lacrimile și conducând pe mirele său la o laviță, se puse lângă el și începu a povesti cu vers tremurător.</p>
 <p>— Bărbatul acesta ce zace aici înaintea noastră cu trupul mutilat, încremenit de răceala morții, a fost unul dintre cei mai fideli sclavi de ai tatei. Numele lui a fost Filetus. Singur moartea acestei inimi atât de fidele, care a fost mentorul copilăriei mele, căci el m-a înzestrat cu toate cunoștințele ce le posed, ar fi fost de ajuns să mi se scalde sufletul în lacrimi și jale. Dar nenorocirea ce s-a năpăstuit asupra mea e mult mai mare.</p>
 <p>Fata întristată scoase un oftat adânc din piept și după aceea continua:</p>
-<p>— Ți-am grăit de mai multe ori și, de-mi aduc aminte, ți-am amintit și-n ultima mea scrisoare că tata de un timp încoace era neodihnit, voind să-și pună mâna pe o comoară mare, care după cum pretindea un document vechi, ar fi fost îngropată undeva în jurul Sarmisegetusei. Zi și noapte numai acest cuget îl preocupă, cu atât mai vârtos că și Filetus, pe care îl încredințase să cerceteze afacerea, îl întărea în credința sa ca documentul, nu era fără temei.</p>
-<p>În urma poruncii tatei, Filetus se muta la Sarmisegetusa, să-și continue cercetările în fața locului.</p>
+<p>— Ți-am grăit de mai multe ori și, de-mi aduc aminte, ți-am amintit și-n ultima mea scrisoare că tata de un timp încoace era neodihnit, voind să-și pună mâna pe o comoară mare, care după cum pretindea un document vechi, ar fi fost îngropată undeva în jurul Sarmisegetuzei. Zi și noapte numai acest cuget îl preocupă, cu atât mai vârtos că și Filetus, pe care îl încredințase să cerceteze afacerea, îl întărea în credința sa ca documentul, nu era fără temei.</p>
+<p>În urma poruncii tatei, Filetus se muta la Sarmisegetuza, să-și continue cercetările în fața locului.</p>
 <p>Buzele lui Aelius involuntar se contrasera de un zâmbet ușor.</p>
-<p>— Nu zâmbi de credulitatea lui Filetus. Acest om înțelept și serios nu putea fi indus în rătăcire. Despre aceasta mă convinsăi și eu, când după dezastrul de la Apulum strămutându-ne locuința în Sarmisegetusa, auzii de pe buzele lui serioase că aserțiunile documentului, pe care la început și eu eram aplicată a nu pune nici un pond, sunt bazate pe adevăr.</p>
-<p>Zelul tatei de a se vedea cât mai în grabă în posesia avuției ce zăcea nefolosită în pământ, căpăta nutremânt nou în acea împrejurare, că Goții deciși de a subjuga toată Dacia, imprejurară Sarmisegetusa. Părerea tuturor se unea în credința că Romanii nu vor putea rezista timp îndelungat inamicului mult mai puternic.</p>
+<p>— Nu zâmbi de credulitatea lui Filetus. Acest om înțelept și serios nu putea fi indus în rătăcire. Despre aceasta mă convinsăi și eu, când după dezastrul de la Apulum strămutându-ne locuința în Sarmisegetuza, auzii de pe buzele lui serioase că aserțiunile documentului, pe care la început și eu eram aplicată a nu pune nici un pond, sunt bazate pe adevăr.</p>
+<p>Zelul tatei de a se vedea cât mai în grabă în posesia avuției ce zăcea nefolosită în pământ, căpăta nutremânt nou în acea împrejurare, că Goții deciși de a subjuga toată Dacia, imprejurară Sarmisegetuza. Părerea tuturor se unea în credința că Romanii nu vor putea rezista timp îndelungat inamicului mult mai puternic.</p>
 <p>— Tata, în iubirea sa de patrie, se decise să pună averea colosală — locul unde era îngropată fu statorit de înțeleptul Filetus cu precizie — pe altarul patriei amenințate. În coînțelegere cu guvernatorul voi să corupă pe comandantul Goților, al cărui nume era Athaulf, să-și retragă pe un timp oarecare oștirile din jurul capitalei, crezând că până atunci va sosi ajutorul împăratului.</p>
 <p>Filetus și tata erau necăjiți de moarte, știind că posedă mijloacele cu care ar putea mântui Dacia de un dezastru ireparabil, și totuși erau nevoiți să stea cu mânile legate, neputând ieși din capitală. Din această încurcătura îi scoasei eu descoperindu-le existența unei căi secrete, pe care puteau părăsi Sarmiseghetusa când voiau.</p>
 <p>Din acest moment n-a mai fost nicio putere care să fi putut reține pe tata de la împlinirea acestui pas temerar. Totuși reușii a-l îndupleca să-și amâne întreprinderea periculoasă. Goții ne molestau în toate nopțile cu atacuri vehemente.</p>
@@ -1759,7 +1730,7 @@
 <p>Sosiți aici, pe Filetus l-am aflat lungit în fața casei. Crezui că e mort, cum zăcea nemișcat cu fața palidă; numai când, în răstimpuri lungi, respiră printre suspine dureroase, se vedea că încă nu i-a ieșit sufletul.</p>
 <p>Când mă văzu, se părea că a căpătat putere nouă, căci se ridică pe un cot și-mi zise șoptind de slăbiciune:</p>
 <p>— N-am putut să mă trag pană la tine, de aceea am trimis pe Agapit să te cheme. N-am vrut să mor înainte de a te înștiința despre nereușita întreprinderei noastre.</p>
-<p>„Tot sângele mi se grămădi în jurul inimii, respirația mi se opri. Presimțeam că Filetus a venit să-mi aducă vestea morții tatălui meu și totuși nădăjduiam că nu voi auzi această știre grozavă.</p>
+<p>Tot sângele mi se grămădi în jurul inimii, respirația mi se opri. Presimțeam că Filetus a venit să-mi aducă vestea morții tatălui meu și totuși nădăjduiam că nu voi auzi această știre grozavă.</p>
 <p>—Am aflat comoara lui Mucapor — continuă Filetus lăsându-se pe spate. Lucrurile mergeau bine. Eram în reîntoarcere spre capitală, oamenii noștrii gemeau sub greutatea aurului ce-l aduceau. La marginea pădurii ne-au ieșit în cale Goții și au voit să ne ia prizonieri. Noi ne-am opus. Tatăl tău s-a purtat brav. L-am văzut cum a sfărâmat cu o lovitură puternică capul lui Athaulf. Eu am căzut la pământ lovit și străpuns de Goți. Nu știu câtă vreme am zăcut ca mort. De ajuns atât că am reușit a mă târî cu chiu și vai până aici să-ți spun să nu mai aștepți pe tatăl tău.</p>
 <p>Filetus începu a horcăi. Povestirea îi epuiza puterile.</p>
 <p>Înaintea mea se întunecă lumea. Ochii mi se umplură de lacrimi, durerea-mi sugrumătoare izbucnii în plâns amar.</p>
@@ -1778,19 +1749,17 @@
 <p>— Iubită Lucila! se hotărî în sfârșit Aelius. Dacia niciodată n-a avut mai arzătoare trebuință de brațele fiilor săi, ca în acest moment decisiv. Onoarea și demnitatea de cetățean român mă cheamă în șirul ostașilor. Dacă va voi Dumnezeu, mă voi reîntoarce să-ți povestesc și eu prin câte suferințe am trecut de la ultima noastră întâlnire.</p>
 <p>— Mergi, Aelius, eu nu te rețin! — zise Lucila cu însuflețire. Eu mă voi ruga pentru tine!</p>
 <p>După o călduroasă îmbrățișare de adio, Aelius năvăli în fugă afară.</p>
-            <p>(Va urma)</p>
-            <p>Tit Chitul</p>
+            <trailer>(Va urma)</trailer>
+            <trailer>Tit Chitul</trailer>
         </div>
     </div>
     
-    <div type="part" n="8">
-        <p>Catastrofa Daciei</p>
-        <p>— Roman istoric —</p>
-        <p>(Urmare)</p>
+    <div type="part" n="26">
+        <head>Catastrofa Daciei — Roman istoric —</head>
+        <milestone unit="(Urmare)"/>
 <div type="section" n="10">
-<p>XI</p>
-<p>Apa trece, pietrele rămân.</p>
-<p>Din unul dintre turnurile de pază ce se înălțau deasupra porții principale a Sarmisegetusei răsună un semnal de trâmbiță, care puse-n uimire pe toți câți îl auziră.</p>
+<head>XI. Apa trece, pietrele rămân.</head>
+<p>Din unul dintre turnurile de pază ce se înălțau deasupra porții principale a Sarmisegetuzei răsună un semnal de trâmbiță, care puse-n uimire pe toți câți îl auziră.</p>
 <p>Tribunul comandant cu fața radioasă de bucurie, striga în glas agitat către ostașii de lângă poartă:</p>
 <p>— Deschide-ți porțile și sloboziți podul.</p>
 <p>— Cine cere intrare? întrebară mai multe glasuri deodată.</p>
@@ -1798,7 +1767,7 @@
 <p>Vestea îmbucurătoare zbura cu iuțimea fulgerului de pe buze pe buze. Din toate părțile începură a curge spre poarta principală cete de oameni să întâmpine solia împăratului, care sosise chiar în momentul când pericolul era mai arzător.</p>
 <p>Peste câteva minute, strada ce ducea către poarta principala, era îndesată de oameni. Frica și grija dispărură din inimile tuturor, bucuria era generală. Acum începură a pricepe cauza retragerii neașteptate a Goților. Împăratul nu a uitat de strâmtorarea supușilor săi fideli și le trimite ajutor.</p>
 <p>Podul se slobozi scârțâind, porțile fură deschise. Între fanfara veselă de trâmbițe și strigăte de bucurie, solii împăratului intrară în oraș.</p>
-<p>Sarmisegetusa începu din nou a fierbe de zgomot, numai cât acest zgomot acum era produs de bucurie, nu de frică și disperare ca mai înainte. De ar fi știut Aelius cauza acestui zgomot, poate n-ar fi năvălit cu atâta grabă la stradă și nu s-ar fi despărțit atât de ușor de Lucila.</p>
+<p>Sarmisegetuza începu din nou a fierbe de zgomot, numai cât acest zgomot acum era produs de bucurie, nu de frică și disperare ca mai înainte. De ar fi știut Aelius cauza acestui zgomot, poate n-ar fi năvălit cu atâta grabă la stradă și nu s-ar fi despărțit atât de ușor de Lucila.</p>
 <p>Solii fură conduși, între frenetice strigate de bucurie, la guvernator, care le ieșise înainte pe stradă.</p>
 <p>În bucuria generală ce stăpânea spiritele tuturor, fețele triste și posomorâte ale solilor, care pășeau tăcuți și serioși în mijlocul tumultului lărmuitor, formau un contrast disonant. Apariția lor produse bucurie și ușurare, și ei totuși erau triști și abătuți.</p>
 <p>Intrați în sala de primire, conducătorul solilor predase guvernatorului scrisoarea împăratului.</p>
@@ -1815,13 +1784,13 @@
 <p>— Cetățenilor și ostașilor! — începu a cuvânta guvernatorul. Bucuros mi-aș fi dat chiar și viața dacă aș fi putut fi scutit de aceste momente dureroase. Inima-mi sângerează și mi se strânge de durere. Soarta fatală pe mine m-a ales să vă străpung inimile cu săgețile otrăvite ale unei vești îngrozitoare chiar atunci, când acele după multe suferințe și întristări, începură a sălta de bucurie. Mie-mi revine trista datorie să vă citesc scrisoarea împăratului. Pregătiți-vă sufletele, fiți tari și ascultați-o cu luare aminte!</p>
 <p>În tăcerea mută și plină de așteptare încordată, ce urma acestor cuvinte răstite în glasul tremurător al emoției adânci, ochii tuturor erau ațintiți pe guvernator, așteptând explicarea acestei introduceri triste din pergamentul ce tremura în mâinile lui.</p>
 <p>Guvernatorul începu a citi:</p>
-<p>„Împăratul Aurelian guvernatorului Daciei salutare!,</p>
-<p>„Împrejurările funeste între care a ajuns imperiul roman, mă constrâng să fac un pas de care mi se strânge inima de durere. Potrivnicii imperiului în mai multe locuri deodată și-au ridicat capetele îngâmfate, amenințând întregimea lui. Septimius se girează ca împărat, în orient o femeie cutezătoare, Zenobia, de ani de zile își bate joc de poruncile împăraților romani. Atâta îndrăzneală și obrăznicie trebuie să-și capete în sfârșit pedeapsa ce o merită. Sunt decis a porni cu toată puterea imperiului în contra acestei femei îngâmfate!</p>
-<p>„Câtă vreme voi fi în orient, granițele imperiului trebuie să fie asigurate în contra invaziilor barbarilor. Cea mai mare parte a legiunilor care apără linia Dunării de jos, vor trebui să meargă cu mine.</p>
-<p>„Între atari împrejurări, de susținerea Daciei nu mai poate fi vorbă. Aceea și până acum e cotropită în partea cea mai mare a ei de Goți.</p>
-<p>„Interesele vitale ale imperiului îmi impun această datorie, de a ceda Dacia Goților.</p>
-<p>„Cu regele Goților am încheiat pace, ca să fiu asigurat că cel puțin până ce mă voi reîntoarce din orient, va păstră sentimente amicale către imperiu.</p>
-<p>„Prizonierii, care au ajuns în mâinile Goților, vor fi eliberați în urma acestei păci, iar locuitorilor Daciei li se va da timp de două săptămâni să-și strângă toate averile. Tu și solii care îți aduc aceasta scrisoare, sunteți încredințați să conduceți poporul Daciei peste Dunăre în Mesia”.</p>
+<p>Împăratul Aurelian guvernatorului Daciei salutare!,</p>
+<p>Împrejurările funeste între care a ajuns imperiul roman, mă constrâng să fac un pas de care mi se strânge inima de durere. Potrivnicii imperiului în mai multe locuri deodată și-au ridicat capetele îngâmfate, amenințând întregimea lui. Septimius se girează ca împărat, în orient o femeie cutezătoare, Zenobia, de ani de zile își bate joc de poruncile împăraților romani. Atâta îndrăzneală și obrăznicie trebuie să-și capete în sfârșit pedeapsa ce o merită. Sunt decis a porni cu toată puterea imperiului în contra acestei femei îngâmfate!</p>
+<p>Câtă vreme voi fi în orient, granițele imperiului trebuie să fie asigurate în contra invaziilor barbarilor. Cea mai mare parte a legiunilor care apără linia Dunării de jos, vor trebui să meargă cu mine.</p>
+<p>Între atari împrejurări, de susținerea Daciei nu mai poate fi vorbă. Aceea și până acum e cotropită în partea cea mai mare a ei de Goți.</p>
+<p>Interesele vitale ale imperiului îmi impun această datorie, de a ceda Dacia Goților.</p>
+<p>Cu regele Goților am încheiat pace, ca să fiu asigurat că cel puțin până ce mă voi reîntoarce din orient, va păstră sentimente amicale către imperiu.</p>
+<p>Prizonierii, care au ajuns în mâinile Goților, vor fi eliberați în urma acestei păci, iar locuitorilor Daciei li se va da timp de două săptămâni să-și strângă toate averile. Tu și solii care îți aduc aceasta scrisoare, sunteți încredințați să conduceți poporul Daciei peste Dunăre în Mesia”.</p>
 <p>Guvernatorul și solii se retrasera cu capetele aplecate.</p>
 <p>Ascultătorii triști, abătuți, înfricați, priviră cu ochi zăpăciți unul la altul. Faptul săvârșit deja era ireparabil. Știrea îngrozitoare, că au pierdut ce aveau mai scump pe această lume, le paralizase pe câteva momente voința și neputând să se miște, stăteau cu picioarele înrădăcinate în pământ ca niște statui de marmură. Numai durerea adâncă ce se reoglindea de pe fețele lor triste, mai arăta că aceste figuri nemișcate sunt vii.</p>
 <p>Văzând în fine că guvernatorul nu mai apare pe balcon, începură a se împrăștia între suspine sfâșietoare de inimi.</p>
@@ -1839,12 +1808,12 @@
 <p>— Înaintea noastră stau două căi deschise. Putem alege dintre ele. Sau să trecem în Mesia, sau să urcăm la munți. În cazul prim ne vom bucura de scutul armelor imperiului; în cazul ultim vom fi pe pământul patriei, dar vom avea de a îndurat multe suferințe, cu care nu ești obișnuită. Nu tăgăduesc că eu aș alege calea ultimă.</p>
 <p>— Voința ta e și a mea. Și mie mi-e scumpă această patrie în care se odihnesc părinții mei. Nici eu nu mă pot despărți de ea.</p>
 <p>— Atunci încă mâine vom pleca la munți. Această cale aș fi făcut-o și în acel caz, dacă nu m-ai fi îmbucurat cu alegerea ta, căci trebuie să merg după Octavia. Afară de acestea mai am o sfântă datorie care trebuie să o împlinesc. Te voi conduce la un mormânt proaspăt, unde zace o ființă tânăra care și-a jertfit viața pentru mine.</p>
-<p>În Sarmisegetusa golită de locuitori se muta Friharza cu Goții lui. Domnia lor peste Dacia de acum înainte era recunoscută prin act împărătesc.</p>
+<p>În Sarmisegetuza golită de locuitori se muta Friharza cu Goții lui. Domnia lor peste Dacia de acum înainte era recunoscută prin act împărătesc.</p>
 <p>Friharza totuși era nemulțumit și îngrijorat. Un cuget îl neliniștiă mereu, care nu-l lăsă să se bucure de avantajele poziției sale la care se înălțase prin moartea lui Athaulf.</p>
 <p>Se temea că Withimir își va reclama dreptul său de succesiune.</p>
 <p>Ca să fie asigurat în contra eventualelor neplăceri ce s-ar naște, dacă s-ar lăți între popor vestea că Withimir e în viață, se decise să-l ucidă în ascuns.</p>
 <p>Încă în prima zi a domniei sale trimise câțiva oameni la Apulum, cu însărcinarea să ducă la îndeplinire acest fapt sângeros.</p>
-<p>Oamenii săi se întoarseră la Sarmisegetusa cu vestea surprinzătoare că Withimir, folosindu-se de absența lui Samanarich, a dispărut din prinsoare.</p>
+<p>Oamenii săi se întoarseră la Sarmisegetuza cu vestea surprinzătoare că Withimir, folosindu-se de absența lui Samanarich, a dispărut din prinsoare.</p>
 <p>— De acest om nu mai port nicio frică! exclama vesel și mulțumit Friharza, după ce ascultase referada oamenilor săi. Despre misiunea cu care v-am însărcinat, să nu grăiți niciun cuvânt. Withimir e mort!</p>
 <p>Sosiți la munți, pe Aelius și Lucila îi întâmpina o surprindere plăcută, care le înveseli încâtva inimile cernite de atâta jale și suferințe.</p>
 <p>Withimir era la nevasta sa.</p>
@@ -1853,7 +1822,7 @@
 <p>Veacuri grele pline de viscole înfricoșate au trecut de atunci. Văile Daciei au fost cutreierate de hoardele Goților, Gepizilor, Hunilor, Avarilor, care se succedară între crâncene frământări sângeroase, ca în sfârșit toate să se cufunde fără nicio urmă în marea uitării.</p>
 <p>Numai urmașii veteranilor lui Traian, națiunea română, mai stă încă și azi viguroasă în aceste ținuturi.</p>
 <p>Apa trece, pietrele rămân.</p>
-    <p>Tit Chitul</p>
+    <trailer>Tit Chitul</trailer>
 </div>
     </div>
 </body>

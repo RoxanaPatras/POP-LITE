@@ -16,11 +16,11 @@
                     <name>Lucreția Pascariu</name></respStmt> 
                 <respStmt>
                     <resp>corectură manuală</resp>
-                    <name>Lucreția Pascariu</name>
+                    <name>Iuliana-Diana Anușcă</name>
                 </respStmt>
                 <respStmt>
                     <resp>verificare corectură manuală</resp>
-                    <name>Iuliana-Diana Anușcă</name>
+                    <name>Lucreția Pascariu</name>
                 </respStmt>
                 <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
             </titleStmt>
@@ -39,12 +39,12 @@
                     <pubPlace>București</pubPlace>
                     <publisher>REVISTA ILUSTRATĂ</publisher>
                     <date>1884</date>
-                    <decoNote type="ilustratii" subtype="no"/>
-                    <dim unit="char" type="mic"/>
+                    <decoNote type="illustrations" subtype="no"/>
+                    <dim unit="char" type="small"/>
                     <extent>
                         <measure unit="word">2294</measure>
                         <measure unit="page" type="under_250"/>
-                        <measure unit="foileton" type="under_65"/>
+                        <measure unit="feuilleton" type="under_65"/>
                         <measure type="complete"></measure>
                     </extent>
                 </bibl>
@@ -64,16 +64,16 @@
                     <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
                 </keywords>
                 <keywords>
-                    <term type="receptare" n="5"/>
-                    <term type="republicare" n="2"/>
+                    <term type="reception" n="5"/>
+                    <term type="print_count" n="2"/>
                     <term type="finished"></term>                
                 </keywords>
             </textClass>
         </profileDesc>
         <encodingDesc>
             <projectDesc>
-                <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-                <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+                <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+                <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
                 <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
                 <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
             </projectDesc>
@@ -83,8 +83,7 @@
       <body>
 <div type="part">
 <div type="section" n="1">
-                  <p>I.</p>
-               <p>Necunoscuta.</p>
+                  <head>I. Necunoscuta.</head>
                <p>Trecuse miezul nopții.</p>
                <p>Putea să fie o oră, poate o oră și jumătate, mai mult însă nu, căci la două ore se închidea cafeneaua în care ședeam chiar acuma, dovada cea mai eclatantă, că încă nu era mai mult de o oră, sau cel mult o oră și jumătate, la tot cazul însă încă nu erau două ore.</p>
                <p>Trebuie să stărui pe lângă acest punct și rog cu insistență pe toți cititorii acestor șire interesante, să fie cu deosebită atenție la constatarea faptului, că încă nu erau două ore, ci numai o oră sau cel mult o oră și jumătate.</p>
@@ -97,8 +96,7 @@
                <p>La vederea acestui oaspete neașteptat am rămas cu toții încremeniți și cu gurile căscate.</p>
             </div>
 <div type="section" n="2">
-                  <p>II.</p>
-               <p>Necunoscuta.</p>
+                  <head>II. Necunoscuta.</head>
                <p>Știu și sunt convins că o să-mi dați crezământ, când vă asigur sus și tare, că eu știu ce-s gurile căscate.</p>
                <p>Da o știu, poate mai bine decât mulți alții, care vor zâmbi cu neîncredere la citirea acestor șire, care le scriu numai cu scopul să dovedesc în mod lămurit, dar totodată și neîndoielnic, că nu toate lucrurile merg așa, precum ar dori omul și că un nerod poate mai mult întreba, decât zece înțelepți răspunde.</p>
                <p>Da, susțin fără șovăire, că am văzut dese ori guri căscate! Am asistat la trei conferințe naționale, și am rămas surprins de gurile căscate, ce le vedeam în decursul culminantelor vorbiri, care au răspândit numele nostru departe peste hotarele patriei noastre iubite, zic dinadins iubite, fiindcă orice ar zice dușmanii noștri seculari, iubirea de neam și patrie e prima virtute a poporului român, care a trecut prin atâtea necazuri și a avut să îndure atâtea neîndreptățiri, încât dreptate a fi avut unchiul cumnatului, dacă ar fi părăsit țara aceasta, unde ne calcă și drepturi și limbă și nu ne lasă decât ochii, ca se putem plânge...</p>
@@ -109,8 +107,7 @@
                <p>Și cum ședeam noi așa, această ființă, venită parcă din o altă lume, lăsa să rătăcească asupra noastră o privire jalnică, o privire gânditoare, din care se putea citi un roman întreg de un cuprins din cale afară tragic.</p>
             </div>
 <div type="section" n="3">
-                  <p>III.</p>
-               <p>Necunoscuta.</p>
+                  <head>III. Necunoscuta.</head>
                <p>Dacă n-aș fi literat conștiincios, literat concis de miza sublimă, ce ni s-a încredințat nouă oamenilor de la gazete, nouă hârtienilor, cum ne numea mai sâmbăta trecută un avocat tânăr, cu care am petrecut împreună cu câțiva alți cunoscuți lângă niște pahare de vin, cu ocazia cărei petreceri mi s-a dat un vast prilej de a putea face unele constatări foarte momentoase cu privire la influența, ce o deprinde vinul asupra creierilor omenești, acest organism miraculos, a cărui funcționare, oricât ne-am căzni totuși n-am fi în stare s-o înțelegem, dat fiind, că mintea noastră e mărginită, din care motiv eu nici nu fac nicicând deosebiri subtile, ci mă restrâng totdeauna la ceea ce e chiar de lipsă, și cum am zis deja la începutul acestui capitol, care ne va da o binevenită ocazie să aruncăm o privire în viața sufletească a unui spirit prigonit de ursita nemiloasă, dacă zic, n-aș fi om conștiincios, aș putea să croiesc din privirea femeii palide, care își îndreptase pașii spre masa noastră, un roman senzațional cu detalii înfiorătoare, dar eu raportez totdeauna numai cea ce aud, văd și simt și nu adaug nimic, ci scriu totdeauna ceea ce muza binevoitoare îmi dictează în pană așa încât de multe ori nici eu nu știu cum o să se sfârșească multe perioade.</p>
                <p>Ce ușor mi-ar fi anume să fac, cum fac mulți romancieri, care în lipsă de motive psihologice se pun și înlocuiesc acest mane prin copieri superficiale și fără interes cultural sau național.</p>
                <p>Dacă aș voi numai, aș putea, dar vă asigur, că nu vreau și nici n-am de gând s-o vreau odată - însă dacă aș vrea aș putea descrie și eu, o zi furtunoasă când s-a întâlnit eroina acestui roman tainic cu el, să descriu cum se plimbau împreună povestind despre amor, fericire, rai, fără să observe în farmecul clipei, că pe cer se adună nori grei, se îndeasă tot mai mult până când deodată un fulger sfâșie văzduhul, și-i face să tresară de groază . . . a-și putea să las apoi se urmeze fulgere după fulgere și aș putea sfârși cum ei se alipesc tot mai strâns laolaltă, ca să se îmbărbăteze, când deodată se întâlnesc buzele lor — și nenorocirea ar fi gata.</p>
@@ -120,7 +117,7 @@
                <p>Și noi cum zic ședeam încremeniți și cu gurile căscate, pe când fabuloasa femeie lăsa se rătăcească asupra nostră privirea ei palidă, din care puteai citi un roman întreg de cuprins tragic, așa tragic încât ai afla în tragicul lui motiv de ajuns, să îmbogățești literatura nostră de altminteri atât de săracă cu cinci volume de tragedii de valoare nepieritoare nu numai la noi ci și în alte țări, locuite de popoare civilizate.</p>
                <p>Și noi nici nu cutezam să respirăm, ci așteptam ca fantoma asta a nopții să-și deschidă gura, când deodată se întoarse și părăsi sala în tăcere cum venise, iar noi am răsuflat mai liber, ușurați ca de o povară grea.</p>
                <p>Iată, dar iubită cititoare și iubiți cititori, în scurte cuvinte viața unei nefericite femei, care neînțelesă a trăit și a murit poate deja, fără ca din totă mândria ei să mai fi rămas alta, decât numele ei pierdut prin praful cronicelor gălbinite de vremi ale veacurilor trecute: Sfinx.</p>
-               <p>Chloroform</p>
+               <trailer>Chloroform</trailer>
                </div>
 </div>
       </body>

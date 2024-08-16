@@ -39,12 +39,12 @@
                <pubPlace>București</pubPlace>
                <publisher>LIBRĂRIA H. STEINBERG</publisher>
                <date>1889</date>
-               <decoNote type="ilustratii" subtype="no"/>
-               <dim unit="char" type="mare"/>
+               <decoNote type="illustrations" subtype="no"/>
+               <dim unit="char" type="big"/>
                <extent>
                   <measure unit="word">53751</measure>
                   <measure unit="page" type="under_250"/>
-                  <measure unit="foileton" type="under_65"/>
+                  <measure unit="feuilleton" type="under_65"/>
                   <measure type="complete"></measure>
                </extent>
             </bibl>
@@ -64,16 +64,16 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="5"/>
-               <term type="republicare" n="2"/>
+               <term type="reception" n="5"/>
+               <term type="print_count" n="2"/>
                <term type="finished"></term>
             </keywords>
          </textClass>
       </profileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
             <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
             <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
          </projectDesc>
@@ -91,9 +91,10 @@
          </div>
     </front>
 <body>
+   <div type="part" n="1">
+      <p>PARTEA I</p>
 <div type="chapter" n="1">
-<p>CAPITOLUL I.</p>
-<p>CONTELE ȘI FIUL SĂU </p>
+<head>CAPITOLUL I. CONTELE ȘI FIUL SĂU </head>
 <p>Într-una din cele mai frumoase zile ale Ioanei lui martie 187..., contele Matheo Carino, ieșise pe terasa încăntătoarei sale vile.</p>
 <p>Contele în epoca când se petrece istoria noastră era un bărbat mai mult bătrân. Putea să aibă cincizeci și cinci până la șaizeci de ani.</p>
 <p>Figura sa, impresurată de o mare barbă neagră era impunătoare. Culorea cea brună a pieliței sale și ochii cei negri, arătau că contele în tinerețea sa fusese de o frumusețe rară.</p>
@@ -139,8 +140,7 @@
 <p>Și dânsul, zicând acestea din urmă cuvinte, ieși lăsând pe tatăl său în mirare de cele auzite.</p>
 </div>
 <div type="chapter" n="2">
-<p>CAPITOL II.</p>
-<p>CEI DOI MASCAȚI</p>
+<head>CAPITOL II. CEI DOI MASCAȚI</head>
 <p>Enrico, ieșind din curtea castelului apucă pe calea către palatul unchiului său.</p>
 <p>Palatul lui Marco Carino, era situat pe Piața Quirinalului.</p>
 <p>Tănărul om după ce traversa câteva străzi ajunse în piața Spaniei, de aici în strada Magentei; apoi, coti la dreapta, și în fine ajunse în piața Quirinalului.</p>
@@ -234,8 +234,7 @@
 <p>De abia sărise cel din urmă dintre ei, și ușa camerei se deschise și un om intră. Acel om era Enrico.</p>
 </div>
 <div type="chapter" n="3">
-<p>CAPITOLUL III.</p>
-<p>JURĂMÂNTUL DE RĂZBUNARE —</p>
+<head>CAPITOLUL III. JURĂMÂNTUL DE RĂZBUNARE</head>
 <p>Enrico de abia intrase înăuntru, și scoase un țipăt de groază văzând trista priveliște ce avea înaintea ochilor. Cu sufletul plin de mâhnire, junele om se aplecă spre părintele său, pipăindu-i rana cu mâna.</p>
 <p>— Dumnezeule, zise dânsul cu o voce dureroasă, și din ochii săi curgeau lacrimi din abundență, cine a putut să te ucidă ?... și Enrico în prada durerii sale, ridică corpul cel neanimat al bătrânului conte, și îl puse pe pat.</p>
 <p>Oricât se sili să umble Enrico cu corpul tatălui său— ca și când ar fi voit a respecta repaosul său,—cu toate acestea, o minune! contele scoase un suspin.</p>
@@ -264,7 +263,7 @@
 <p>Un lung suspin ieși din pieptul contelul, vocea i se înecă, privirea ochilor deveni sperioasă, un val de sânge îi țâșni pe gură, și un minut după aceea contele Matheo Carino, nu mai da semne de viață.</p>
 <p>Enrico palid ca un cadavru, asemenea unei statui de piatră din antichitate, ținea în mâinile sale, mâna cea rece a părintelui său.</p>
 <p>Șezu astfel încă un minut. Apoi puse mâna dreaptă pe un crucifix, și cu privirea fixată în ochii cei fără de viață ai tatălui său strigă cu o voce tare.</p>
-<p>— „În fața rămășițelor tale tată, pe acest corp ce atât am iubit în viață, pe acest cadavru, jur că te voi răzbuna. O, da! jur că voi căuta, și voi găsi pe acel mizerabil care te-a lovit, și atunci, urmă Enrico, atunci va fi vai de el!.... Nimic nu-i va putea scăpa de răzbunarea mea... Nimic... mă auzi tu? Nimic. Nici puterea, nici rangul său în societate... Voi sacrifica totul pentru răzbunarea mea... liniștea... fericirea, viața mea de va fi trebuință !... Și dânsul zicând aceste cuvinte sărută obrazul cel rece al părintelui său.</p>
+<p>— În fața rămășițelor tale tată, pe acest corp ce atât am iubit în viață, pe acest cadavru, jur că te voi răzbuna. O, da! jur că voi căuta, și voi găsi pe acel mizerabil care te-a lovit, și atunci, urmă Enrico, atunci va fi vai de el!.... Nimic nu-i va putea scăpa de răzbunarea mea... Nimic... mă auzi tu? Nimic. Nici puterea, nici rangul său în societate... Voi sacrifica totul pentru răzbunarea mea... liniștea... fericirea, viața mea de va fi trebuință !... Și dânsul zicând aceste cuvinte sărută obrazul cel rece al părintelui său.</p>
 <p>— Primește părintele meu această sărutare, zise el ca un gagiu al jurământului ce am făcut; și acum va fi vai de acela ce te-a lovit; voi ucide !... te voi răzbuna!</p>
 <p>A doua zi de dimineață toate erau pregătite pentru înmormântarea contelui Matheo Carino în bolta familiei din castel.</p>
 <p>La înmormântarea sa, se vedea vicontele Marco, fratele său a cărui privire era mai mult încruntată decât mâhnită, și fiica sa Margareta, care plângea, ca și când pierduse pe părintele său.</p>
@@ -273,14 +272,12 @@
 <p>In momentul când contele era să fie pus în bolta, Enrico strigă cu o voce tare.</p>
 <p>Adio părintele meu!.. Adio!... fii liniștit căci te voi răzbuna!... voi regăsi pe ucigașul tău! Adio!...</p>
 <p>În acel moment, de-ar fi observat cineva ar fi zărit desigur o mică schimbare pe trăsurile figurii vicontelui Marco, fratele contelui Matheo .</p>
-<p>FINELE PROLOGULUI</p>
+<trailer>FINELE PROLOGULUI</trailer>
 </div>
 
 <div type="chapter" n="4">
-   <p>PARTEA ÎNTÂIA</p>
-   <p>SECRETUL MARGARETEI</p>
-<p>.I.</p>
-<p>VÂNĂTOAREA</p>
+   <head>PARTEA ÎNTÂIA. SECRETUL MARGARETEI</head>
+   <head>I.VÂNĂTOAREA</head>
 <p>La o depărtare de șase kilometri de Roma, se înalță castelul Cuniberti.</p>
 <p>Nimic nu era mai frumos, mai maiestuos și mai pitoresc ca acest castel cu turnulețele sale, ce se ridicau în aer în formă de semicercuri.</p>
 <p>Înconjurat de trei părți de munți avea priveliștea unei fortărețe; la spatele său curgea Tibru cu apa sa cea rece și cristalină și pe ale cărui maluri crescuse o verdeață înveselitoare.</p>
@@ -343,8 +340,7 @@
 <p>— Sunt nevoit principe... Am o afacere!.. e o datorie. Și vocea lui Enrico zicând aceste cuvinte, era de o tristețe profundă, și acum urmă el după o pauză, Adio ! .... Adio zise dânsul după acestea din urmă cuvinte, dispăru printre stufișuri lăsând pe toți în mirare de schimbarea subită ce se operase pe figura sa....</p>
 </div>
 <div type="chapter" n="5">
-<p>II.</p>
-<p>CONTELE MARCO CARINO</p>
+<head>II. CONTELE MARCO CARINO</head>
 <p>Să lăsăm acum pe principele Cuniberti despărțindu-se de amicii săi, și plecând spre castelul său; și să ne întoarcem la Enrico.</p>
 <p>Junele om dispărând din privirile principelui, se îndreptă către trăsura sa, care-1 aștepta la intrarea pădurei. Un moment după aceea Enrico era în trăsură, caii porniră în galop, traversând drumul ce duce de la castelul Cuniberti la acela al contelui Carino.</p>
 <p>Castelul Carino era o zidire antică din timpul Cruciadelor. Văzut din depărtare, avea priveliștea unei fortărețe turcești. Negrele sale turnuri, care serviseră vechilor săi seniori ca zid de apărare, se desemnau într-un mod fantastic. </p>
@@ -389,8 +385,7 @@
 <p>Iertare verișoară... zise el cu o voce mișcătoare, iertare!.., sunt un nebun! nu știu ce fac !.. Adio !.. și dânsul zicând aceste din urmă cuvinte își luă pălăria, deschise ușa, și aruncându-se în trăsură plecă: lăsând pe Margareta mută de mirare.</p>
 </div>
 <div type="chapter" n="6">
-<p>III.</p>
-<p>SCRISOAREA MISTERIOASĂ</p>
+<head>III. SCRISOAREA MISTERIOASĂ</head>
 <p>Trăsura lui Enrico străbatea drumul ce duce de la castelul Carino, la vila sa, care după cum știm era situată în centrul Romei.</p>
 <p>Enrico era în prada unei neliniști neînțelese, Inima sa palpită într-un astfel de mod încât i se părea că e aproape să rupă veștmântul.</p>
 <p>— Ah! zicea el în sine — ea mă iubește. Ea mă iubește !... și un fulger de bucurie se văzu strălucind pentru un moment în ochii săi</p>
@@ -426,7 +421,7 @@
 <p>De odată el făcu o mișcare, și zări fatala hârtie</p>
 <p>Numai atunci își reaminti de cele petrecute cu câteva minute mai înainte, și își aruncă din nou privirea pe dânsa.</p>
 <p>Iată ce citi.</p>
-<p>„Adu-ți aminte de jurământ!. .. Răzbună pe părintele tău“ Cu aceste cuvinte, se închidea misterioara scrisoare. |</p>
+<p>Adu-ți aminte de jurământ!. .. Răzbună pe părintele tău“ Cu aceste cuvinte, se închidea misterioara scrisoare. |</p>
 <p>— Dar cine a scris D-zeul meu această epistolă exclamă Enrico în culmea durerii sale. — Cine a putut cunoaște acest secret?.. Cine a putut să o aducă? de unde vine?... și zicând aceste cuvinte, figura sa, era de o paliditate extremă, privirea ochilor scânteietoare, și vocea cea tremurândă ca și cea a unui corp zguduit de friguri.</p>
 <p>Deodată Enrico, făcu o mișcare, mâna sa se întinse spre un frumos clopoțel ce era pe masă, și-l făcu să sune.</p>
 <p>Două minute după aceasta, un servitor intră înclinăndu-se.</p>
@@ -453,7 +448,7 @@
 <p>Disperat de infructoasele sale cercetări, îșî aruncă din nou privirea pe misterioasa scrisoare zicându-și că poate va afla ceva care să-l poată lumina. </p>
 <p>Dar nimic din toate acestea.</p>
 <p>Scrisoarea,—am spus-o—nu conținea decât cuvintele</p>
-<p>„Adu-ți aminte de jurământ“... Răzbună pe părintele teii! “...</p>
+<p>Adu-ți aminte de jurământ“... Răzbună pe părintele teii! “...</p>
 <p>Toate acestea nu explică lui Enrico pe misteriosul aducător; nimic nu-l putea face a ințelege prezența epistolei pe biroul său.</p>
 <p>În zadar înlătura cugetările sale asupra evenimentului cu scrisoarea, crezând cu aceasta că se va liniști; dar toate silințele sale erau fără niciun folos...</p>
 <p>Somnul fugea de dânsul.</p>
@@ -462,7 +457,7 @@
 <p> I se părea încă a auzi vocea sa plină de durere șoptindu-i abia audibil... „Răzbună-mă Enrico“ „Răzbună-mă... Răzbună-mă pe părintele tău“...</p>
 <p>Atunci o sudoare rece cădea de pe fruntea sărmanulul june și lacrimi de durere străluceau în ochii săi.</p>
 <p>— O! doamne, zicea dânsul cu o voce întreruptă de suspine tu care ești atotputință, tu care străvezI viitorul, tu care știi ce se petrece in inimile oamenilor, străvezi și în a mea, și vezi dacă nu e adăpată cu venin....- observă dacă nu pare ca o mină, așteptând aflarea ucigașului ca să facă explozie....</p>
-<p>— „Tu vezi prea bine D-zeule! urmă el după o pauză, tu vezi prea bine, că eu caut, dar în zadar, caut pe ucigăș fără să-l găsesc.... fără a ști unde se ascunde... .</p>
+<p>— Tu vezi prea bine D-zeule! urmă el după o pauză, tu vezi prea bine, că eu caut, dar în zadar, caut pe ucigăș fără să-l găsesc.... fără a ști unde se ascunde... .</p>
 <p>Fără să am cunoștință în ce parte de loc se află...</p>
 <p>Și picând aceste cuvinte, vocea sa era dureroasă, ochii săi scânteiau de amenințare; iar buzele tremurau de emoție....</p>
 <p>Toată noaptea fu pentru sărmanul tânăr un cumplit chin de durere.</p>
@@ -470,8 +465,7 @@
 <p>Abia către ziuă, obosit cu totul; dulcele Morfeu se grăbi a-l lua sub paza aripilor sale..</p>
 </div>
 <div type="chapter" n="7">
-<p>IV.</p>
-<p>LOCAȘUL FERICIRII</p>
+<head>IV. LOCAȘUL FERICIRII</head>
 <p>Într-o frumoasă căscioară din marginea Romei ședeau două femei.</p>
 <p>Era mama cu fiica.</p>
 <p>Cea dintâi se numea Mariana, iar a doua Lucreția.</p>
@@ -554,8 +548,7 @@
 <p>Câteva minute după aceasta, Giacomo luându-și ziua bună, se despărți de Lucreția și de Mariana lăsând pe cele două femei, să facă pregătirile de nunta pentru ziua hotărâtă. </p>
 </div>
 <div type="chapter" n="8">
-<p>V.</p>
-<p>PRINCIPELE CUNIBERTI</p>
+<head>V. PRINCIPELE CUNIBERTI</head>
 <p>Soarele răsărise deja de mult timp, și Enrico încă tot era sub aripile zului Morfeu.</p>
 <p>Figura sa părea mai liniștită grație somnului bine făcător. Resiprația îi era ușoară.</p>
 <p>În acel moment Catedrala Sant Pedro suna orele două.</p>
@@ -598,19 +591,19 @@
 <p>Când deodată o umbră-mi ieși înainte.</p>
 <p>Mai întâi crezu-i că am aface cu un bandit; dar după trecere de un minut, vazu-i că mă înșelașem.</p>
 <p>Umbra tot înainta către mine.</p>
-<p>— „Ce voiești?” o întrebai eu pierzând răbdarea.</p>
+<p>— Ce voiești? o întrebai eu pierzând răbdarea.</p>
 <p>Atunci dănsa apropiindu-se de mine îmi șopti aceste cuvinte.</p>
-<p>— „Signior principe, sunteți discret?...</p>
-<p>— „De ce astă întrebare?” zisei eu.</p>
-<p>— „Veți vedea, răspunse necunoscutul, mai întâi răspundeți-mi la întrebare.</p>
-<p>— „Depinde de împrejurări, zisei eu văzând misterul de care necunoscutul meu era înconjurat.</p>
-<p>— „Haide !... ei, fie !... îți voi spune!... contez în cuvântul D-voastră... E vorba de o femeie.</p>
-<p>— „Cum de o femeie?... îl întrebai mirat de această istorie, care mi se părea că se încurcă din ce în ce mai mult.</p>
-<p>— „Da, signor !... de o femeie care vă iubește, și care voiește sau mai bine zis pretinde să fie iubită de D-vostră”</p>
-<p>— „Haide domnule, zise crezând că necunoscutul voia a-și bate joc de mine; dă-mi pace cu asemenea cuvinte. A trecut timpul acela de fericită memorie, când castelanele se înamorau într-un mod atât de misterios, și își primea amanții pe fereastră.</p>
-<p>— „Iertare signore, îmi zise atunci necunoscutul, iertare dacă cuvintele mele v-au supărat într-un fel, dar v-o jur că n-am voit.</p>
+<p>— Signior principe, sunteți discret?...</p>
+<p>— De ce astă întrebare? zisei eu.</p>
+<p>— Veți vedea, răspunse necunoscutul, mai întâi răspundeți-mi la întrebare.</p>
+<p>— Depinde de împrejurări, zisei eu văzând misterul de care necunoscutul meu era înconjurat.</p>
+<p>— Haide !... ei, fie !... îți voi spune!... contez în cuvântul D-voastră... E vorba de o femeie.</p>
+<p>— Cum de o femeie?... îl întrebai mirat de această istorie, care mi se părea că se încurcă din ce în ce mai mult.</p>
+<p>— Da, signor !... de o femeie care vă iubește, și care voiește sau mai bine zis pretinde să fie iubită de D-vostră</p>
+<p>— Haide domnule, zise crezând că necunoscutul voia a-și bate joc de mine; dă-mi pace cu asemenea cuvinte. A trecut timpul acela de fericită memorie, când castelanele se înamorau într-un mod atât de misterios, și își primea amanții pe fereastră.</p>
+<p>— Iertare signore, îmi zise atunci necunoscutul, iertare dacă cuvintele mele v-au supărat într-un fel, dar v-o jur că n-am voit.</p>
 <p>In felul meu de a-mi servi stăpâna văd că am greșit.</p>
-<p>— „Vocea necunoscutului era atât de sinceră zicând aceste cuvinte încât mă convinsei că ceea ce-mi spunea era purul adevăr.”</p>
+<p>— Vocea necunoscutului era atât de sinceră zicând aceste cuvinte încât mă convinsei că ceea ce-mi spunea era purul adevăr.</p>
 <p>— Zici dar, urmai eu, că acea femeia...</p>
 <p>— Dorește o întâlnire cu d-voastră mă întrerupse străinul.</p>
 <p>— Prea bine! zisei eu, spune-mi locuința sa, și voi veni.</p>
@@ -660,7 +653,7 @@
 <p>Neounoscuta, la aceste cuvinte zâmbi.</p>
 <p>— Nu ! zise dânsa, nu mă înțelegi sau m-am exprimat rău. Te întreb — ce idee îți faci despre mine? de modul cum m-am purtat cu D-ta.</p>
 <p>— Întrebarea aceasta, era atât de delicată, încât mă văzui nevoit de a nu putea da niciun răspuns.</p>
-<p>— „Haide! îmi zise dânsa cu un zâmbet de tristețe,văzând tăcerea mea—înțeleg. D-ta mă disprețuiești! ai și dreptate, a avea acest sentiment pentru mine — urmă ea după o pauză. —Cum, eu, o femeie necunoscută pentru d-ta, vin de mă ofer dumitale, un bărbat pe care nu-l cunosc numai decât din auzite..</p>
+<p>— Haide! îmi zise dânsa cu un zâmbet de tristețe,văzând tăcerea mea—înțeleg. D-ta mă disprețuiești! ai și dreptate, a avea acest sentiment pentru mine — urmă ea după o pauză. —Cum, eu, o femeie necunoscută pentru d-ta, vin de mă ofer dumitale, un bărbat pe care nu-l cunosc numai decât din auzite..</p>
 <p>— Dnă, zisei eu întrerupând pe juna femeie, voind a schimba aceasta convorbire de care mă temeam să nu-mi fie fatală, vă jur D-voastră nu-mi sunteți străină.</p>
 <p>—Pretinzi că mă cunoști!? zise ea tresărind.</p>
 <p>Da! din vis doamnă, răspunsei eu, te-am văzut în vis, frumoasă! dar realitatea este de o mie de ori mai mare. V-am văzut fermecătoare precum sunteți. V-am auzit timbrul vocii melodioase; v-am auzit surâsul cel încântător, și în fața acestora D-nă, n-am putut sta nepăsător; mi-am cercetat inima, vă iubeam, și zicănd aceste cuvinte mă aruncai în genuchi la picioarele frumoasei mele necunoscute, îi luai mâna pe care dânsa și-o lăsase cn nepăsare, și o acoperii de sărutări.</p>
@@ -684,8 +677,7 @@
 <p>În primul moment îmi veni o idee subită de a urmări trăsura ce se vedea încă în depărtare; dar după câteva secunde văzui că ideea mea era absurdă neputând a îndeplini ceea ce voiam.</p>
 </div>
 <div type="chapter" n="9">
-<p>VI.</p>
-<p>URMAREA POVESTIRiI PRINCIPELUI CUNIBERTI</p>
+<head>VI. URMAREA POVESTIRII PRINCIPELUI CUNIBERTI</head>
 <p>Aici principele tăcu ca pentru a mai răsufla.</p>
 <p>Enrico ședea în fața acestuia; și asculta cu o atenție minuțioasă cel mai mic cuvânt al intrevorbitorului său.</p>
 <p>— Șapte luni de zile, urmă principele întrerupând tăcerea, continuai astfel cu misteriosul meu amor.— În cursul acestui timp, necunoscutul conducător, venea în toate serile îndeplinindu-și cu exactitate misiunea sa.</p>
@@ -701,8 +693,8 @@
 <p>Dar de abia o desfăcusem, și devenisem vesel.</p>
 <p>Acea scrisoare era de la misterioasa mea necunoscută</p>
 <p>Citisem ceea ce urmează.</p>
-<p>„Iubitul meu Ludovigo.</p>
-<p>Te rog a nu fi supărat pe mine, dacă în astă-seară nu te pot primi.— Odată mă voi explica de cauza acestui refuz.—  Pe mâine iubitul meu.”</p>
+<p>Iubitul meu Ludovigo.</p>
+<p>Te rog a nu fi supărat pe mine, dacă în astă-seară nu te pot primi.— Odată mă voi explica de cauza acestui refuz.—  Pe mâine iubitul meu.</p>
 <p>Scrisoarea nu avea nicio iscălitură, astfel că, dacă n-aș fi știut despre ce este vorba; mi-ar fi fost greu, dacă nu, imposibil de a ghici, de unde era venită.</p>
 <p>— Cine a adus această scrisoare întrebai cu toate acestea pe servitor care aștepta ordinele mele</p>
 <p>— Un om învăluit într-o manta neagră! 'îmi răspunse dânsul.</p>
@@ -745,29 +737,29 @@
 <p>De atunci am devenit amanta, servitoarea, mai mult încă... roaba sa...</p>
 <p>—Au trecut șase ani de atunci, urmă a-mi nara tânăra femeie, fără să-l mai văd</p>
 <p>Izolată în acest palat de care mă tem; furioasă de a mă răzbuna pe răpitorul meu, avui ocazia să te zăresc de câteva ori.</p>
-<p>„Atunci simți în inima, ceea ce nu simțisem niciodată pănă atunci."</p>
-<p>„Simții că te iubesc!..."</p>
-<p>„Restul î1 știi...”</p>
-<p>„Dar îi răspunse: dar toate acestea nu-mi explică din ce cauză ești tristă, din ce cauză plângi?..”</p>
-<p>—„Oh, așteaptă-l.. așteaptă!..îmi zice dânsa cu o voce tristă; așteaptă, nu este totul...”</p>
+<p>Atunci simți în inima, ceea ce nu simțisem niciodată pănă atunci.</p>
+<p>Simții că te iubesc!...</p>
+<p>Restul î1 știi...</p>
+<p>Dar îi răspunse: dar toate acestea nu-mi explică din ce cauză ești tristă, din ce cauză plângi?..</p>
+<p>— Oh, așteaptă-l.. așteaptă!..îmi zice dânsa cu o voce tristă; așteaptă, nu este totul...</p>
 <p>— Devenii din nou atent.</p>
-<p>— „Tânăra femeie după o pauză urmă:”</p>
-<p>— „După cum ți-am spus, sunt șase ani de când nu l-am mai văzut. Auzisem că se căsătorise și că petrecea la Roma.”</p>
-<p>„Mă credeam scăpată de dânsul.”</p>
-<p>„Această idee mă făcu chiar de a nu părăsi palatul, pentru ca îmi ziceam că fiind săracă, poate nu mă vei mai iubi! Iartă-mă dacă m-am îndoit uu singur moment de amorul tău.”</p>
-<p>„Eram veselă, când cugetam că scăpasem de acela care mă răpise.”</p>
-<p>„Zadarnică înșelare!”</p>
-<p>„Amară decepție!”</p>
-<p>„Ieri, nu mai departe, primii o epistolă de la dânsul, prin care mă anunța, că va sosi peste două sau trei luni...”</p>
-<p>„Iată de ce, n-am voit a te primi ieri, continuă ea a zice, iată de ce sunt tristă... și sărmană femeie, zicând aceste cuvinte, căzu zdrobită pe un scaun.”</p>
-<p>— „Ah! strigă ea cu groază, sculându-se deodată de pe scaunul pe care ședea, sunt pierdută....sunt pierdută!”</p>
-<p>— „Dar pentru numele lui D-zeu explică-te!..zise eu, văzând că dânsa deveni palidă, ce cugetări te turmenta?”</p>
-<p>— „O!.. șopti dânsa, de ar fi numai atât?"</p>
-<p>— Nu știam deocamdată ce voia dânsa a zice, dar după trecere de câteva minute, mă făcu a înțelege că simțise ceva mișcându-se în sânul său, și că peste puțin va fi mamă."</p>
-<p>— „Mă înțelegi? Îmi zice ea: înțelegi tu Ludovigo, când acest om va afla că sunt mamă în lipsa lui, ar fi capabil a mă ucide..."</p>
-<p>— „Ar avea curajul să-mi ucidă copilul..."</p>
-<p>— „Dar care este numele acestui mizerabil ?.. strigai eu, care e numele acestui om de care te îngrozești atâta ?.."</p>
-<p>— „Nu! Nu!.. Îmi zice dânsa scuturându-se cu teamă numele său, nu îți va fi de niciun folos.”</p>
+<p>— Tânăra femeie după o pauză urmă:</p>
+<p>— După cum ți-am spus, sunt șase ani de când nu l-am mai văzut. Auzisem că se căsătorise și că petrecea la Roma.</p>
+<p>Mă credeam scăpată de dânsul.</p>
+<p>Această idee mă făcu chiar de a nu părăsi palatul, pentru ca îmi ziceam că fiind săracă, poate nu mă vei mai iubi! Iartă-mă dacă m-am îndoit uu singur moment de amorul tău.</p>
+<p>Eram veselă, când cugetam că scăpasem de acela care mă răpise.</p>
+<p>Zadarnică înșelare!</p>
+<p>Amară decepție!</p>
+<p>Ieri, nu mai departe, primii o epistolă de la dânsul, prin care mă anunța, că va sosi peste două sau trei luni...</p>
+<p>Iată de ce, n-am voit a te primi ieri, continuă ea a zice, iată de ce sunt tristă... și sărmană femeie, zicând aceste cuvinte, căzu zdrobită pe un scaun.</p>
+<p>— Ah! strigă ea cu groază, sculându-se deodată de pe scaunul pe care ședea, sunt pierdută....sunt pierdută!</p>
+<p>— Dar pentru numele lui D-zeu explică-te!..zise eu, văzând că dânsa deveni palidă, ce cugetări te turmenta?</p>
+<p>— O!.. șopti dânsa, de ar fi numai atât?</p>
+<p>— Nu știam deocamdată ce voia dânsa a zice, dar după trecere de câteva minute, mă făcu a înțelege că simțise ceva mișcându-se în sânul său, și că peste puțin va fi mamă.</p>
+<p>— Mă înțelegi? Îmi zice ea: înțelegi tu Ludovigo, când acest om va afla că sunt mamă în lipsa lui, ar fi capabil a mă ucide...</p>
+<p>— Ar avea curajul să-mi ucidă copilul...</p>
+<p>— Dar care este numele acestui mizerabil ?.. strigai eu, care e numele acestui om de care te îngrozești atâta ?..</p>
+<p>— Nu! Nu!.. Îmi zice dânsa scuturându-se cu teamă numele său, nu îți va fi de niciun folos.</p>
 <p>— În zadar stărui eu în cererea mea, în zadar o invoca-i ca pe o madonă, o ruga-i reamintindu-i că este pentru liniștea sa de a-mi spune numele despotului său....</p>
 <p>Toate rugile mele fură nefolositoare..</p>
 <p>Toate invocările, zadarnice!...</p>
@@ -777,7 +769,7 @@
 <p>Eram mirat de această procedare.</p>
 <p>Mai întâi nu știu ce să cred.</p>
 <p>Dar după plecarea misteriosului aducător, luai scrisoarea și o deschisei.</p>
-<p>Sărmana femeie prin acea epistolă, îmi recomanda copilul său, care era și al meu, zicându-mi că la dânsa nu este în siguranță. Îmi scria durerea ce simte a se despărți de dânsul,-„dar iubirea mea”— îmi zicea dânsa „Este mare, căci nu voiesc a fi ucisa de acela ce aștept a veni din moment în moment... De azi înainte, conchidea dânsa scrisoarea, relațiunile noastre sunt rupte!... Nici nu știu de voi mai trăi!... aduți aminte de mine... adio!...”</p>
+<p>Sărmana femeie prin acea epistolă, îmi recomanda copilul său, care era și al meu, zicându-mi că la dânsa nu este în siguranță. Îmi scria durerea ce simte a se despărți de dânsul,-„dar iubirea mea”— îmi zicea dânsa „Este mare, căci nu voiesc a fi ucisa de acela ce aștept a veni din moment în moment... De azi înainte, conchidea dânsa scrisoarea, relațiunile noastre sunt rupte!... Nici nu știu de voi mai trăi!... aduți aminte de mine... adio!...</p>
 <p>Eram revoltată asupra naturei, urmă principele, că ursise astfel pe acea femeie... Blestemam cerul că permitea o asemenea nedreptate!...</p>
 <p>Aci principele tăcu câteva minute pentru a mai resufla. Pe figura sa palidă se vedea oboseală provenită din cauza lungei istorisiri, iar în ochii săi strălucea o lacrimă cauzată fără îndoială prin reamintirea femeii ce iubise.</p>
 <p>Cât despre Enrico, el ședea în poziția unui om, care ascultă cu cea mai mare atențiune la o povestire care pare că-l interesează!</p>
@@ -807,14 +799,13 @@
 <p>Se pare că acest om, este însăși demonul...</p>
 <p>Iată trista mea istorie conte! zise principele, iată și câteva lacrimi căzură din ochii săi...</p>
 <p>Enrico nu răspunse, ci se mulțumi a clătina capul cu tristețe într-un mod, ca și cum ar fi voit a zice:</p>
-<p>„Da! da, văd prea bine!... nu sunt numai eu care sufăr...”</p>
+<p>Da! da, văd prea bine!... nu sunt numai eu care sufăr...</p>
 <p>Câteva minute după aceasta, principele Cuniberti se sculă și plecă.</p>
 <p>Dar, în momentul în care ieși pe ușă, ochii săi se ridicară fără vocea lui către portretul contelui Marco.</p>
 <p>— Ah! șopti dÂnsul abia auzibil, dacă ar fi el! și un suspin adânc ieși din fundul inimii sale.</p>
 </div>
 <div type="chapter" n="10">
-<p>VII.</p>
-<p>DRAMA NOPȚII</p>
+<head>VII. DRAMA NOPȚII</head>
 <p>Era Vineri.</p>
 <p>Putea să fie nouă ore seara.</p>
 <p>În casa Marianei se vedea o mare animație.</p>
@@ -973,8 +964,7 @@
 <p>Nenorocita femeie scoțând un țipăt căzu leșinată pe parchet alături cu cadavrul fiicei sale.......</p>
 </div>
 <div type="chapter" n="11">
-<p>VIII.</p>
-<p>ENRICO ȘI MARGARETA</p>
+<head>VIII. ENRICO ȘI MARGARETA</head>
 <p>Era o zi după vizita principelui Cuniberti. Orologiul din camera lul Enrico, suna douăsprezece ore, când junele om se coborî din cabinetul său.</p>
 <p>Enrico ajunse la poarta palatului său, stătu un moment. Pe figura sa se vedea cugetarea.</p>
 <p>Într-adevăr tânărul om se gândea dacă trebuie sau nu, a se mai duce la vara sa, după cele ce se petrecuse cu două zile mai înainte între dânsul și Margareta.</p>
@@ -1094,8 +1084,7 @@
 <p>Și marquisul Gaetano de Bianchi, salută pe contele Marco și ieși.</p>
 </div>
 <div type="chapter" n="12">
-<p>X</p>
-<p>MUMA LUCREȚIEI</p>
+<head>X. MUMA LUCREȚIEI</head>
 <p>Să ne întoarcem încă o dată la acea noapte de groază în care nenorocita Lncreția — imitând pe stăbuna sa din antichitate al cărui nume îl și purta — își spălase rușinea prin moartea sa.</p>
 <p>Peste cadavrul său, zăcea corpul lipsit de simțiri al mumei sale.</p>
 <p>Sărmana Mariana, nu putuse rezista acestei dureri atât de mari.</p>
@@ -1172,8 +1161,7 @@
 <p>Întunericul și profunditatea nopții invăluia ca o mantă cele două cadavre.....</p>
 </div>
 <div type="chapter" n="13">
-<p>XI</p>
-<p>PROIECTUL — FANTOMA</p>
+<head>XI. PROIECTUL — FANTOMA</head>
 <p>În centrul străzii Magenta se ridică — în epoca în care se petrecea această istorie — o frumoasă casă cu două etaje.</p>
 <p>Stilul și conformitatea ei, era frapantă; și da să înțeleagă curioșilor că stăpânul său era de un bun gust.</p>
 <p>Această clădire, care cu toate acestea, era aproape de treizeci de ani, în mijlocul său avea o scobitură de ale căreia extremități era suspendată de două mari porți de fier.</p>
@@ -1277,9 +1265,9 @@
 <p>Pe figura lui Bianchi, era zugrăvită bucuria; buzele sale zâmbeau într-un mod îngrozitor, membrele sale tremurau de plăcere și de bestiala pasiune cugetând că în curând va poseda pe Margareta. — „Câtă fericire, pentru mine, — și zicea el — să devin soțul Margaretei!.. să am pe aceea ce iubesc!.. și dânsul se lăsase pe un fotoliu legănat în această dulce speranță!</p>
 <p>După câteva minute contele îi prezentă actul.</p>
 <p>Bianchi neîncrezător îl deschise și aruncă ochii pe dânsul. Iată ce citi:</p>
-<p>„Mă oblig eu subsemnatul — în schimb de „ceea ce Domnul marquis Gaetano Bianchi îmi va face, de a-i da pe fiica mea Margareta de soție.”</p>
-<p>„făcut astăzi la......”</p>
-<p>„Marco Carino“</p>
+<p>Mă oblig eu subsemnatul — în schimb de „ceea ce Domnul marquis Gaetano Bianchi îmi va face, de a-i da pe fiica mea Margareta de soție.</p>
+<p>făcut astăzi la......</p>
+<p>Marco Carino“</p>
 <p>— Bine conte: zise Gaetano examinând actu și văzând că era în regulă; bine, sunt mulțumit, în curând îți voi satisface cererea.</p>
 <p>— Și.. întrerupse comtele, acea zi când va fi?..</p>
 <p>— Nu pot a-ți o prezisa, dar îți promit că va fi cât se va putea de curând.</p>
@@ -1340,8 +1328,7 @@
 <p>Contele Marco, încă amețit de ceea ce i se întâmplase, plecă îndreptându-se către locuința sa.</p>
 </div>
 <div type="chapter" n="14">
-<p>XII.</p>
-<p>MARCO ESTE UCIGAȘUL!..</p>
+<head>XII. MARCO ESTE UCIGAȘUL!..</head>
 <p>Era a doua zi după întrevederea lui Enrico cu Margareta.</p>
 <p>Orologiul unei case sună opt ore după amiaz.</p>
 <p>Tânărul om ședea gânditor la evenimentul din ziua trecută, cugeta la Margareta, care în furie îi mărturisise amorul ce-l avea pentru dânsul; cugeta încă la acel moment fericit, în care juna fată, nemai putând rezista sentimentului său, se aruncase palpitând de iubire în brațele sale...</p>
@@ -1365,11 +1352,11 @@
 <p>Inima sa începu să bată cu furie recunoscând scrierea Margaretei.</p>
 <p>Cu un gest, dânsul congedie pe valet, și nerăbdător desfăcu scrisoarea.</p>
 <p>Iată ce citi:</p>
-<p>„Iubite Enrico</p>
+<p>Iubite Enrico</p>
 <p>îndată ce vei primi această scrisoare... </p>
 <p>vino fără a întârzia un minut. — Am să-ți</p>
-<p>spun o mulțime de lucruri.”</p>
-<p>„Margareta”</p>
+<p>spun o mulțime de lucruri.</p>
+<p>Margareta</p>
 <p>Enrico era mirat de cele ce citise.</p>
 <p>— Ce o fi având ea oare a-mi spune? cugeta el.</p>
 <p>— Pentru ce acest mister?...</p>
@@ -1459,11 +1446,10 @@
 <p>Valetul său, îi deschise.</p>
 <p>Când junele om intră în camera sa găsi pe biroul său o a două scrisoare, tot ca și cea dintâi.</p> 
 <p>Iată ce cuprindea:</p>
-<p>„Păzește-te” — ucigașii chiar acum sunt în consiliu — cel care a ucis pe tată, voiește a ucide și pe fiu.</p>
+<p>Păzește-te” — ucigașii chiar acum sunt în consiliu — cel care a ucis pe tată, voiește a ucide și pe fiu.</p>
 </div>
 <div type="chapter" n="15">
-<p>XIII.</p>
-<p>REFLECȚIUNI — UMBRA</p>
+<head>XIII. REFLECȚIUNI — UMBRA</head>
 <p>Enrico stătu un moment nemișcat în fața biroului său.</p>
 <p>Dânsul cugeta la scrisoare, la misteriosul aducător, care ca și întâia dată rămase nedescoperit.</p>
 <p>Dânsul în zadar întrebă din nou pe servitor; acesta tăcu ca și o statuie la cuvintele tânărului său stăpân..</p>
@@ -1541,8 +1527,7 @@
 <p>Abia către dimineață, când păsările începură a ciripi; când o roșeață plăcută se zărea spre răsărit; abia atunci pleoapele ochilor săi obosiți se închiseră; și peste puțin timp Enrico, era sub scutul aripelor dulcelui Morfeu...</p>
 </div>
 <div type="chapter" n="16">
-<p>XIV.</p>
-<p>CRIMA</p>
+<head>XIV. CRIMA</head>
 <p>La o depărtare de o oră cu trăsura, de catedrala Sfântului Petru — San Pedro, după cum este numită, se află, — în epoca când se petrece această istorie, o pădurice.</p>
 <p>Nimic nu era mai încântător și plăcut ca pădure, compusă din lămâi și portocale al căror parfum delicios îmbată de plăcere pe trecător.</p>
 <p>Se zicea că acestă pădure plantată era mai bine de douăzeci de ani; noi nu discutăm în privința aceasta, dar un forestier ar fi observat poate că lucru era prea exagerat.</p>
@@ -1593,7 +1578,7 @@
 <p>Bianchi înainta către Enrico.</p>
 <p>— Conte, zise el cu o voce batjoritoare, la dracu în colo, te faci că nu mă vezi?</p>
 <p>Enrico tresări din nou și drept răspuns îi aruncă o privire care însemna:</p>
-<p>— „Te invit să îmi dai pace.“</p>
+<p>— Te invit să îmi dai pace.“</p>
 <p>Dar Bianchi nu înțelese sau se făcu a nu înțelege acea privire, și se așeză pe bancă lângă dânsul.</p>
 <p>Enrico, se sculă ca mușcat de un șarpe, și voia a se retrage, dar un râs hidos și ironic scos de Bianchi î1 opri pe loc.</p>
 <p>Sângele i se urcă în cap și apropiindu-se de marchiz zise:</p>
@@ -1631,8 +1616,7 @@
 <p>De abia plecase Bianchi, și un freamăt se auzi printre arbori, o umbră invelită într-o mare mantă apăru, se aplecă către rănit, și luându-l în brațele sale se departa prin același loc, de unde venise...</p>
 </div>
 <div type="chapter" n="17">
-<p>XV.</p>
-<p>IARĂȘI FANTOMA</p>
+<head>XV. IARĂȘI FANTOMA</head>
 <p>În timpul acesta, Bianchi luând o trăsură ajunsese la contele Marco.</p>
 <p>— Ei bine, ce este? î1 întrebă acesta văzându-l.</p>
 <p>— Iată că am venit să reclam promisiunea ta!..</p>
@@ -1787,9 +1771,9 @@
 <p>Era slova Margaretei.</p>
 <p>Privirea contelul căzu cu lăcomie pe dânsa.</p>
 <p>Iată ce citi:</p>
-<p>„Conte”</p>
-<p>„Știu totul — Știu că ai ucis pe fratele tău. Te cred capabil de orice crimă. Sunt sigură, că nu pot fi fiica unui mizerabil de felul tău. Plec! Mă duc spre a-mi regăsi pe adevăratul meu părinte — Adio — Ne vom revedea.”</p>
-<p>„Margareta”</p>
+<p>Conte</p>
+<p>Știu totul — Știu că ai ucis pe fratele tău. Te cred capabil de orice crimă. Sunt sigură, că nu pot fi fiica unui mizerabil de felul tău. Plec! Mă duc spre a-mi regăsi pe adevăratul meu părinte — Adio — Ne vom revedea.</p>
+<p>Margareta</p>
 <p>Contele Marco, citind aceste cuvinte, dete un țipăt de groază.</p>
 <p>Figura sa devenise îngrozitoare, privirea ochilor amenințătoare și buzele-i tremurau de furie.</p>
 <p>La țipătul său, Bianchi, care rămăsese în camera cealaltă apăru pe prag.</p>
@@ -1807,8 +1791,7 @@
 <p>Da!..</p>
 </div>
 <div type="chapter" n="18">
-<p>XVI.</p>
-<p>DECIZIA</p>
+<head>XVI. DECIZIA</head>
 <p>Căteva cuvinte despre Margareta, vor explica cititorilor plecarea acesteia.</p>
 <p>Ne aducem aminte că la ultima întrevedere a sa cu Enrico, când dânsa descoperise vărului său pe ucigaș, exclamase după ieșirea tânărului om.</p>
 <p>— Știu ce îmi rămăne acum a face! numai dacă nu mă voi înșela în presimțirea mea...</p>
@@ -1870,8 +1853,7 @@
 <p>De abia ieșise servitoarea, și Margareta luă pe sine o mare mantă, puse pe cap un voal care îi acoperea mai tot obrazul, și deschizând ușa, dispăru pe poarta palatului, fără să zică un singur cuvânt servitorului care era mirat în cel mai mare grad de procedarea tinerei sale stăpâne...</p>
 </div>
 <div type="chapter" n="19">
-<p>XVII</p>
-<p>TATĂL SI FIICĂ</p>
+<head>XVII TATĂL SI FIICĂ</head>
 <p>În centrul străzii „Piatzeta de Spania” se înalță -o frumoasă și magnifică zidire. Această clădire, împodobită cu acele rețele în zidărie care face asupra trecătorului impresia și reamintirea faimoasei Catedrale Notre Dame din Paris, era palatul principelui Cuniberti.</p>
 <p>Această zidărie era compusă din două etaje; mărginită de jur împrejur — afară de fațada care dă în strada — de o grădină încântătoare.</p>
 <p>În partea din dos, deasupra stagiului întâi era suspendată și ținută de niște stâlpi gigantici o terasă care avea privirea în grădină.</p>
@@ -1912,7 +1894,7 @@
 <p>Servitorul surâse într-un mod misterios.</p>
 <p>— Am voit, zise el, a face ceea ce D-vostră îmi ziceți dar..</p>
 <p>— Dar ce?... întrerupse principele plictisit de această convorbire ce începuse a-l obosi.</p>
-<p>— Ea n-a voit a primi — urmă Jacopo — Nu! mi-a zis dânsa — „nu pentru bani am venit aici, vestește-l pe stăpânul tău. Am mare nevoie de dânsul.”</p>
+<p>— Ea n-a voit a primi — urmă Jacopo — Nu! mi-a zis dânsa — „nu pentru bani am venit aici, vestește-l pe stăpânul tău. Am mare nevoie de dânsul.</p>
 <p>Ochii acestei femei, gestul ei era așa de impunător încât mă simți dominat, și neștiind ce fac am venit spre a vă întreba ce ordonați.</p>
 <p>— Introdu pe acea femeie aici! zise principele curios să vadă ce voiește, dacă nu mila de la mine?.</p>
 <p>Un moment după aceea, servitorul introduse pe femeia despre care era vorba.</p>
@@ -1986,7 +1968,7 @@
 <p>Îți voi ascunde numele lui pănă în ziua în care își va explica crimele sale...</p>
 </div>
    <div type="liminal">
-<p>FINALUL PĂRȚII ÎNTÂI</p>
+<head>FINALUL PĂRȚII ÎNTÂI</head>
 <p>Tabla de Capitole la Volumul I</p>
 <p>PROLOGUL</p>
 <p>I. Contele și fiul său. II. Cei doi Mascați III. Jurământul de răzbunare.</p>
@@ -2011,8 +1993,11 @@
 <p>PARTEA II.</p>
 <p>Principele Indian </p>
    </div>
+   </div>
+   <div type="part" n="2">
+      <p>PARTEA A DOUA</p>
 <div type="chapter" n="20">
-<p>I. BALUL REGELUI</p>
+<head>I. BALUL REGELUI</head>
 <p>Era într-o duminică seară.</p>
 <p>Saloanele palatului regal străluceau de lumină.</p>
 <p>Regele Victor Emanuil dă bal.</p>
@@ -2081,8 +2066,7 @@
 <p>Persoanele cele anunțate intrară.</p>
 </div>
 <div type="chapter" n="21">
-<p>II</p>
-<p>CONTESA DE TAZLEO</p>
+<head>II. CONTESA DE TAZLEO</head>
 <p>Hilda, contesa de Tazleo, era o femeie aproape de douăzeci și cinci ani.</p>
 <p>Figura sa încântătoare, obrazul rotund și pielea oachieșă; părul său negru ca abanosul care-i cădea în bucle pe fruntea-i de regină; ochii săi de asemenea negri, și mica sa guriță, care ori de câte ori surâdea lăsa să se vadă două șiruri de mărgăritare mao albe ca laptele; făcea să reamintească pe vechile Gitane al căror nume î1 purta.</p>
 <p>Fiică a unor sărmani negustori, care se îndeletniciseră prin munca mâinilor lor, avu norocul să fie văzută de contele Tazleo la un concert muzical, unde din întâmplare furtuna îi adusese pe amândoi.</p>
@@ -2138,7 +2122,7 @@
 <p>— Excelența sa Domnul Conte de Saint-Mallo, principe de Buchara.</p>
 </div>
 <div type="chapter" n="22">
-<p>NABABUL</p>
+<head>III. NABABUL</head>
 <p>Toate privirile se întoarseră în spre cel venit.</p>
 <p>Însuși regele se sculă de pe scaunul său și înaintă a face onorurile cuvenite înaltului său oaspete.</p>
 <p>Cel anunțat salută cu grație pe rănd în dreapta și în stânga; apoi se așeză pe un scaun ce însuși regele îl înaintase.</p>
@@ -2207,7 +2191,7 @@
 <p>Enrico intră.</p>
 <p>Dar de abia apăruse, și nu-mi putui ține un țipăt de groază...</p>
 <p>Enrico purta doliu.</p>
-<p>— „Dar ce este pentru D-zeu? strigăi eu cu spaimă ce s-a întâmplat?...</p>
+<p>— Dar ce este pentru D-zeu? strigăi eu cu spaimă ce s-a întâmplat?...</p>
 <p>Enrico nu-mi răspunse, ci dete din cap cu tristețe pe când din ochii săi mari negrii văzui alunecănd două lacrimi.</p>
 <p>După privirea sa cea tristă, după lacrimile sale, și după costumul său prevestitor de nenorocire și durere, înțelesei ceea ce dânsul în suferința sa nu-mi putuse să îmi spună, înțelesei zic că sărmanul rămăsese orfan, că nu mai avea pe nimeni; că pierduse pe tatăl său!...</p>
 <p>— Dar când?...și cum?...mă întrebam eu în mine.</p>
@@ -2215,7 +2199,7 @@
 <p>— Ascultă prietene; iubesc pe verișoara mea....</p>
 <p>— Mă decisei să o cer unchiului meu de soție spre nefericirea mea alesei chiar acea zi în care sărmanul meu părinte a fost jertfa unui asasinat...</p>
 <p>La aceste cuvinte tresări!</p>
-<p>— „Asasinat!” strigăi eu, zici tatăl tău a fost asasinat?...</p>
+<p>— Asasinat!” strigăi eu, zici tatăl tău a fost asasinat?...</p>
 <p>— Da! răspunse Enrico neobservând aprinderea mea, da și încă în modul cel mai infam.</p>
 <p>Mai întâi nu înțelesei cuvinte sale, și așteptai ca dânsul să se explice.</p>
 <p>— Ascultă — urmă el după un moment de tăcere, mă dusesem după cum ți-am spus să cer mâna verișoarei mele, dar o! nefericire, când mă întorsei acasă găsi pe părintele meu scăldat în sângele său...</p>
@@ -2239,13 +2223,12 @@
 <p>Atunci o lumină se făcu în spiritul meu. — Îmi adusei aminte că fără voia mea, de fratele contelui mort; și lucru straniu o cugetare îngrozitoare îmi veni.</p>
 <p>— Dacă ar fi dânsul ucigașul tatălui lui Enrico? Îmi ziceam eu.</p>
 <p>— Da! repetam eu în mine, tot ce se poate! Figura lui îl arată demn de acesta!..</p>
-<p>— „Și apoi, gândi eu, acea privire de fiară sălbatică...acea privire de răpitoare”...</p>
+<p>— Și apoi, gândi eu, acea privire de fiară sălbatică...acea privire de răpitoare”...</p>
 <p>— Într-o secundă mi se prezenta în spiritul meu, înfățișarea unchiului lui Enrico, și îmi păru a auzi o voce intimă zicându-mi: Nu!...nu!...Nu te înșeli!...acesta e ucigașul!...acesta e criminalul.</p>
 <p>Cu toate că aveam mai mult decât bănuială contra unchiului amicului meu; cu toate că conștiința mea nu mă mustra câtuși de puțin cugetând la această idee, dar cu toate acestea nu spusei nimic din bănuielile mele lui Enrico; și mă decisei a lucra și a cerceta singur, spre a mă asigura dacă presupunerea mea era justă.</p>
 </div>
 <div type="chapter" n="23">
-<p>IV</p>
-<p>URMAREA POVESTIRII PRCIPELUI DE BUCHÂRA</p>
+<head>IV URMAREA POVESTIRII PRINCIPELUI DE BUCURA</head>
 <p>— Trecuse o săptămănă de la această dată, urmă principele de Buchâra după un moment de tăcere, fără ca să pot descoperi ceva.</p>
 <p>Când în dimineața zilei a opta Enrico intră neanunțat de nimeni în cabinetul meu.</p>
 <p>— Eram surprins de acestă vizită neașteptată.</p>
@@ -2254,17 +2237,17 @@
 <p>La aceste cuvinte tresări și nu-mi putui ține un gest de mirare.</p>
 <p>— Cum?...în ce mod întrebai eu neputând zice alte cuvinte în primul moment.</p>
 <p>— În modul cel mai simplu, îmi răspunse Enrico.</p>
-<p>„Ședeam în camera mea, adâncit în cugetări, când deodată un valet apare cu o scrisoare.</p>
+<p>Ședeam în camera mea, adâncit în cugetări, când deodată un valet apare cu o scrisoare.</p>
 <p>Deschid epistola.</p>
 <p>Era de la vara mea.</p>
-<p>Dânsa prin acea scrisoare mă invita a mă duce la moment la dânsa, anunțăndu-mă că are a-mi descoperi un secret.”</p>
+<p>Dânsa prin acea scrisoare mă invita a mă duce la moment la dânsa, anunțăndu-mă că are a-mi descoperi un secret.</p>
 <p>— Ei bine?...și acel secret întrebăi eu văzând că Enrico esita.</p>
 <p>—Acel secret, răspunse Enrico, e că contele unchiul meu este ucigașul!...</p>
 <p>— Cu toate că eram sigur de acesta, dar totuși mă îngrozi la aceste cuvinte, și mă întrebam de este posibil una ca aceasta.</p>
 <p>Un moment rămăsei înmărmurit.</p>
 <p>Enrico înțelese mirarea mea și cu o voce plină de durere îmi zise aceste cuvinte.</p>
-<p>— „Amice, înțeleg durerea și necredința ta dar, totuși acestea sunt adevărate. Margaretă mi-a jurat că a auzit pe mizerabilul mărturindu-și crima comisă, unui alt criminal de felul său.</p>
-<p>Ea a auzit cuvintele aceluia ce-l credea de tatăl său.”</p>
+<p>— Amice, înțeleg durerea și necredința ta dar, totuși acestea sunt adevărate. Margaretă mi-a jurat că a auzit pe mizerabilul mărturindu-și crima comisă, unui alt criminal de felul său.</p>
+<p>Ea a auzit cuvintele aceluia ce-l credea de tatăl său.</p>
 <p>Toți auditorii erau în mirare la auzul acestor cuvinte.</p>
 <p>Marco devenea palid de groază.</p>
 <p>— Cine poate fi acest om? se întrebă el privind pe principe; cine poate fi dânsul care spune propria mea istorie. Și apoi, urmă el în sine, lucru, curios, vocea sa îmi ecte cunoscută...îmi pare că am mai auzit-o undeva...dar unde?...Când?...Cum?...Ah! dacă ar fi el?...dar nu!...Nu mă înșel!...El este...este vocea lui!.. Este Enrico!...sunt pierdut!...sunt pierdut!...Dânsul va fi fără milă.</p>
@@ -2321,8 +2304,7 @@
 <p>Și în locul muzicii, o liniște adâncă domnea.</p>
 </div>
 <div type="chapter" n="24">
-<p>V.</p>
-<p>CONVORBIREA</p>
+<head>V. CONVORBIREA</head>
 <p>Contele Marco și Marchizul de Bianchi ieșind, din palatul regal am spus că se îndreptau către locuința celui dintâi.</p>
 <p>Distanța de la palatul regal până la castelul contelul Carrino, nu era atât de mare.</p>
 <p>Pentru ca să ajungă la locuința sa, plecând de la palatul regal, le trebuiau cel mult cincisprezece minute.</p>
@@ -2436,8 +2418,7 @@
 <p>— Înțeleg, că voi poseda pe Margareta, zise Bianchi, și dânsul se depărta în spre locuința sa, pe când Marco intră în palatul său...</p>
 </div>
 <div type="chapter" n="25">
-<p>VI.</p>
-<p>O NARAȚIUNE TRISTĂ</p>
+<head>VI.O NARAȚIUNE TRISTĂ</head>
 <p>Într-un mic sătuc din preajma Romei se găseau două sau trei cârciumi, unde veneau muncitorii de petreceau în fața a două sau a mai multor sticle de vin, și povestindu-și între dânșii câte o întâmplare.</p>
 <p>Cea mai vestită pe timpul când se petrece aceasta istorie era cârciuma „la Napoleon Bonaparte”. </p>
 <p>Să ne oprim puțin pentru a descrie această casă.— În privința formei era rectangulară. Unul din capetele sale era mai larg ca celelalte- Capătul scării, care făcea a comunica prăvălia cu capatul de sus, și-l trăgea lumina din partea această. Aici ședea de obicei băutorii cei amețiți. Partea cealaltă, era înconjurată pentru fumători, — dincolo de balustradă,, priveau curioșii. Orchestra, compusa dintr-o vioară veche, o trâmbiță aproape ruginită și un flaut unsuros din cauza vechimei sale, erau puse pe o estradă.</p>
@@ -2460,7 +2441,7 @@
 <p>— Da! zice el cu o voce tristă; fiica mea a murit jertfa unui nobil, unui senior mare, marquisului Bianchi; dar mă jur că o voi răzbuna; și ochii lui Rinaldo care păreau cu totul stinși, deodată schânteiară de mănie.</p>
 <p>Aceste cuvinte puseră pe Diego într-o astfel de mirare în cât nu putu a articula un singur cuvânt macar.</p>
 <p>— Bunul meu prieten, începu Rinaldo îți voi spune trista întâmplare a fiicei mele; și vei vedea de am sau nu dreptate a fi astfel de trist.</p>
-<p>„Sunt aproape trei luni, urmă el, de când nenorocirea începu a mă lovi. De câtva timp Gilda, devenise tristă și gânditoare; dar eu nu luai aceasta în seamă. Îmi ziceam că nu este nimic. Și ce putea fi oare? Nimeni nu venea pe la noi prin străini, afară de consumatori. Gilda afară de aceasta, era hotărâtă de soția vărului ei Marino; și așteptăm numai ca să împlinească șaptesprezece ani ca să o cunun cu dânsul. Aceasta era singura mea dorință. Voiam a vedea pe fiica mea fericită; dar Dumnezeu n-a voit astfel! zise Rinaldo; și aici sărmanul bătrăn tăcu, și câteva lacrimi căzură din ochii săi.</p>
+<p>Sunt aproape trei luni, urmă el, de când nenorocirea începu a mă lovi. De câtva timp Gilda, devenise tristă și gânditoare; dar eu nu luai aceasta în seamă. Îmi ziceam că nu este nimic. Și ce putea fi oare? Nimeni nu venea pe la noi prin străini, afară de consumatori. Gilda afară de aceasta, era hotărâtă de soția vărului ei Marino; și așteptăm numai ca să împlinească șaptesprezece ani ca să o cunun cu dânsul. Aceasta era singura mea dorință. Voiam a vedea pe fiica mea fericită; dar Dumnezeu n-a voit astfel! zise Rinaldo; și aici sărmanul bătrăn tăcu, și câteva lacrimi căzură din ochii săi.</p>
 <p>Într-una din seri, urmă el după o pauză scurtă, ieșisem să iau puține lemne din pădurea vecină; Gilda rămăsese acasă.</p>
 <p>Afară era un vănt groaznic; ceața se ridica în sus izbindu-mă în ochi.</p>
 <p>De abia mă depărtasem puțin de acasă, si îmi păru a vedea o umbră ieșind de după un tufiș și îndreptându-se spre locuința mea.</p>
@@ -2473,30 +2454,30 @@
 <p>— Cine știe! îmi zisei eu, acela poate a fost un mare senior, și a vizitat pe cineva...</p>
 <p>Vai!., nu mă înșelasem cugetând astfel.</p>
 <p>Dar ceea ce nu puteam știi, era că străinul visitase pe Gilda în lipsă mea.</p>
-<p>„Fir-ai blestemat străine, «Zise Rinaldo înterupăndu-se pentru un minut, tu care ai ucis pe fiica mea... Blestemul domnului cadă asupra capului tău!.. Tu care ai stricat liniștea unui bătrân, teme-te de răzbunarea lui!..teme-te de mine!..mai zise bătrânul, din ai cărui ochi curgeau șiroaie de lacrimi la această amintire tristă.</p>
+<p>Fir-ai blestemat străine, «Zise Rinaldo înterupăndu-se pentru un minut, tu care ai ucis pe fiica mea... Blestemul domnului cadă asupra capului tău!.. Tu care ai stricat liniștea unui bătrân, teme-te de răzbunarea lui!..teme-te de mine!..mai zise bătrânul, din ai cărui ochi curgeau șiroaie de lacrimi la această amintire tristă.</p>
 <p>Diego era adânc mișcat. Bunul om compătimea din adâncul inimei sale pe Rinaldo.</p>
 <p>Bătrânul continuă :</p>
-<p>„După două minute ajunsei lă locuința mea. Un întuneric profund se zărea înăuntru prin ușa ce era deschisă.</p>
+<p>După două minute ajunsei lă locuința mea. Un întuneric profund se zărea înăuntru prin ușa ce era deschisă.</p>
 <p>Intrai în sală. Prin ajutorul unui chibrit reuși după mai multe încercări de a aprinde lumânarea. O mare neregulă era prin împrejur. Cu totul mirat strigai pe Gilda, dar ea nu-mi respunse. Poate că doarme îmi zisei eu și cu îngrijire mă îndreptai spre camera sa, umblând în vârful degetelor. Aici râmăsei ca împietrit de cele ce văzui. Camera era goală. Gilda nu era nicăieri. Ea disprruse. În cameră, era o neregulă înfricoșată. Scaunele erau trântite. Așternutul rupt; și ușa care dă în camera de sus era dată de perete, Pe masă care singură se mai afla la locul său, era o scrisoare. Mă apropiai de masă. Recunoscui scrierea. Era a fiicei mele. Îmi aruncai ochii pe dănsa. Cea ce citi mă înspăimânta atăt de tare, încăt căzui jos leșinat.</p>
 <p>Când îmi reveni din leșin îmi uitasem cu totul de cele întâmplate, dar scrisoarea pe care încă o țineam în mănă îmi reaminti de cele petrecute. Nerăbdător îmi aruncai din nou ochii pe densa.</p>
 <p>Acele cuvinte nu le voi uita niciodată.</p>
 <p>Iată ce era scris, continuă bătrânul desfăcănd o hărtie pe care o scoase din sân.</p>
-<p>„Bunul meu părinte.”</p>
-<p>„Iartă pe fiica ta dacă a fost silită de a face acest pas. Iartă-mă că te părăsesc. — „Eu nu mai pot trăi. Când vei citi această scrisoare, deja de mult eu nu mai sunt între cei vii. — Acum să-ți spui cauza care m-a împins la acest nenorocit pas. — Tu îmi hotărâsei dn soț pe Marino, pe vărul meu.—Marino.— n-am ce zice desapre dânsul, este un bun băiat; î1 iubeam ca pe un frate; dar peste inima mea era un alt stăpân; ea nu-mi mai aparținea. Dânsa era dată lui Gaetano marquis de Bianchi.”</p>
-<p>„Îl iubeam cu înfocare; și credeam că și el me iubește. El îmi promisese că mă va lua de soție. Nenorocita de mine!.. Acum mă mir de mine însumi, cum am putut iubi un astfel de om?.. Me mir cum am putut crede, că promisiunea lui se va realiza vreodată!.. Cum.se putea ca un senior mare ca dânsul să se înjosească a iubi o sărmană fată ca mine!.. fiica unui muncitor, a unui cărciumar!..”</p>
-<p>„El nu avusese pentru mine decât o pasiune trecătoare, și eu în rătăcirea mea credeam că este amor...”</p>
-<p>„Nu puteam crede niciodată, ca Gaetano, acela pe care î1 iubeam, să fie un înșelător!..un laș!..un trădător!..”</p>
-<p>„Și cu toate acestea el m-a înșelat! De câtva timp nu-1 mai văzusem. Îi trimesesem cinci scrisori, și nu primisem nici un răspuns. Eram diseperată. Abia Ia e șasea scrisoare, — pe cănd tu părintele meu erai în pădure după lemne, veni un om din partea lui. Omul îmi perezenta o scrisoare, iată ce cuprindea:</p>
-<p>„Domnișoară”</p>
-<p>„Trebuie a înțelege o dată—că poziția noastră socială diferă; relațiile noastre sunt rupte. Așa dar în interesul D-tale și al meu nu îmi mai scrie; iar ca să nu ai cuvănt, și se mă tratezi de ingrat vei primi de la aducătorul acestei scrisori o sută de lire otomane.</p>
-<p>„Omul îmi prezintă banii. Atunci o roșeață îmi coloră obrajii, și cu o furie nebună, smunci băncnotele și le aruncai la picioarele aducătorului, care era mirat de toate ce le văzuse.</p>
-<p>— „Spune stăpânului D-tale, zisei eu către trimisul lui Bianchi, toate ce ai văzut. Spune-i că nu cu bani se resplătește onoarea ce am pierdut-o din cauza lui. Spune-i că este un mizerabil!..</p>
-<p>„Cuvintele mele, erau atât de aspre, și și zise cu o voce atât de impunătoare, încât trimisul după ce se înclină înaintea mea, plecă.</p>
+<p>Bunul meu părinte.</p>
+<p>Iartă pe fiica ta dacă a fost silită de a face acest pas. Iartă-mă că te părăsesc. — „Eu nu mai pot trăi. Când vei citi această scrisoare, deja de mult eu nu mai sunt între cei vii. — Acum să-ți spui cauza care m-a împins la acest nenorocit pas. — Tu îmi hotărâsei dn soț pe Marino, pe vărul meu.—Marino.— n-am ce zice desapre dânsul, este un bun băiat; î1 iubeam ca pe un frate; dar peste inima mea era un alt stăpân; ea nu-mi mai aparținea. Dânsa era dată lui Gaetano marquis de Bianchi.</p>
+<p>Îl iubeam cu înfocare; și credeam că și el me iubește. El îmi promisese că mă va lua de soție. Nenorocita de mine!.. Acum mă mir de mine însumi, cum am putut iubi un astfel de om?.. Me mir cum am putut crede, că promisiunea lui se va realiza vreodată!.. Cum.se putea ca un senior mare ca dânsul să se înjosească a iubi o sărmană fată ca mine!.. fiica unui muncitor, a unui cărciumar!..</p>
+<p>El nu avusese pentru mine decât o pasiune trecătoare, și eu în rătăcirea mea credeam că este amor...</p>
+<p>Nu puteam crede niciodată, ca Gaetano, acela pe care î1 iubeam, să fie un înșelător!..un laș!..un trădător!..</p>
+<p>Și cu toate acestea el m-a înșelat! De câtva timp nu-1 mai văzusem. Îi trimesesem cinci scrisori, și nu primisem nici un răspuns. Eram diseperată. Abia Ia e șasea scrisoare, — pe cănd tu părintele meu erai în pădure după lemne, veni un om din partea lui. Omul îmi perezenta o scrisoare, iată ce cuprindea:</p>
+<p>Domnișoară</p>
+<p>Trebuie a înțelege o dată—că poziția noastră socială diferă; relațiile noastre sunt rupte. Așa dar în interesul D-tale și al meu nu îmi mai scrie; iar ca să nu ai cuvănt, și se mă tratezi de ingrat vei primi de la aducătorul acestei scrisori o sută de lire otomane.</p>
+<p>Omul îmi prezintă banii. Atunci o roșeață îmi coloră obrajii, și cu o furie nebună, smunci băncnotele și le aruncai la picioarele aducătorului, care era mirat de toate ce le văzuse.</p>
+<p>— Spune stăpânului D-tale, zisei eu către trimisul lui Bianchi, toate ce ai văzut. Spune-i că nu cu bani se resplătește onoarea ce am pierdut-o din cauza lui. Spune-i că este un mizerabil!..</p>
+<p>Cuvintele mele, erau atât de aspre, și și zise cu o voce atât de impunătoare, încât trimisul după ce se înclină înaintea mea, plecă.</p>
 <p>— Va să zică, m-a înșelat! Îmi zisei eu după plecarea acelui om ; așa dar Gaetano a fost trădător?.. Și lacrimi de disperare curgeau-pe obrazul meu!..</p>
-<p>— „Nu mai pot trăi Dumnezeul meu! șopti eu; după aceea scrisei această epistolă, pentru că îmi venise ideea de a mă ucide.</p>
-<p>„In momentul, când ve citi această scrisoare, fiica tea este jertfa valurilor Tibrului; dar ți-o jur, că în acest ultim moment, toată iubirea mea mi-am schimbat-o în ură.</p>
-<p>„Iartă pe fiica tea, care la ultimul său moment te roagă, de a o răzbuna contra înșelătorului său!</p>
-<p>„Gilda”</p>
+<p>— Nu mai pot trăi Dumnezeul meu! șopti eu; după aceea scrisei această epistolă, pentru că îmi venise ideea de a mă ucide.</p>
+<p>In momentul, când ve citi această scrisoare, fiica tea este jertfa valurilor Tibrului; dar ți-o jur, că în acest ultim moment, toată iubirea mea mi-am schimbat-o în ură.</p>
+<p>Iartă pe fiica tea, care la ultimul său moment te roagă, de a o răzbuna contra înșelătorului său!</p>
+<p>Gilda</p>
 <p>Bătrânul tăcu.</p>
 <p>Aci se finea scrisoarea Gildei.</p>
 <p>— Mă jur pe D-zeul meu; Rinaldo după nu minut de tăcere făcând semnul crucei; mă jur pe tot ce am mai scump pe lumea aceasta; pe tine fiica mea..mă jur că te voi răzbuna!..vai ție mizerabile! Nici o putere omenească nu mă va putea opri din calea răzbunării mele!.. Tu ești mare...ești bogat...nobil, dar toate acestea, îți jur, nu vor avea nici o rezistență pentru un părinte, ce voiește a-și răzbuna pe fiica sa!.. Teme-te!..Teme-te îți zic, căci te voi ucide! Bătrânul Rinaldo tăcu. Culoarea feței sale cea palidă se mărise încă prin această amintire; narile sale cele umflate arăta furia ce clocotea în vinele sale, din ochii săi, curgeau lacrimi ferbinți; iar pieptul îi bătea cu furie.</p>
@@ -2608,8 +2589,7 @@
 <p>Gaetano lua pe Margareta în brațele sale, se scoboră din trăsură și un minut după aceea, era în camera sa.</p>
 </div>
 <div type="chapter" n="26">
-<p>VIII.</p>
-<p>GILDA Șl MARINO</p>
+<head>VIII. GILDA Șl MARINO</head>
 <p>În marginea mitropoliei Italiei, într-o frumoasă căscioară de un aspect plăcut locuiau doi tineri.</p>
 <p>Erau ei rude, sau soțul cu soția? Nimeni nu putea cu exactitate. Tot ceea ce vecinii știau, era că venise aproape de o lună. Din ce parte nu se știe, și se așezaseră aici.</p>
 <p>Acum, dacă cititorul voiește, să bine-voiască a intra cu noi în înăuntrul casei.</p>
@@ -2674,8 +2654,7 @@
 <p>— Îți mulțumesc, zise Gilda apoi opriindu-se de junele om, și îi depuse o sărutare înfocată pe frunte.</p>
 </div>
 <div type="chapter" n="27">
-<p>IX</p>
-<p>ADJUTOR IN NEVOE</p>
+<head>IX. AJUTOR IN NEVOIE</head>
 <p>Să ne aruncăm o privire înapoi.</p>
 <p>Biauchi intrase în cameră purtând în brațe prețioasa sa sarcină. Figura sa radia de bucurie la lumina lustrului, încet, dânsul depuse victima pe patul său și își fixa privirea asupra corpului Margaretei.</p>
 <p> Sărmana fată. </p>
@@ -2704,7 +2683,7 @@
 <p>Apariția, cu brațete încrucișate pe piept înainta majestos către Gaetano. După câteva secunde, ea fu lăngă dânsul.</p>
 <p>Bianchi, de-abea acum zărise pe acest misterios vizitator în fața căruia toate ușile păreau a se deschide, și scoțând un țipăt de spaimă căzu jos leșinat.</p>
 <p>Fantoma nu mai pierdu timp și își trase iute pălăria sa cea mare pe ochi, și cu o voce ce nu părea a sa, zise Margaretei acest singur cuvânt.</p>
-<p>„Vino!”.</p>
+<p>Vino!”.</p>
 <p>Juna fată dominată de timbrul acestei voci ce nu i se părea străină și având o mare încredere în această persoană prin a cărei sosire neașteptată scăpase de o primejdie atât de sigură, urmă pe salvatorul său.</p>
 <p>Acesta, prin mijlocul unei chei deschise poarta, făcu semn să-l urmeze și un minut după aceea, ei erau în stradă.</p>
 <p>Ajunși aici, salvatorul Margaretei o urcă într-o trăsură ce staționa acolo, apoi se așeză și dânsul lângă ea. Trăsura începu a străbate stradele, și câteva minute după aceea, ea se opri în fața marii case. Margareta recunoscu casa. Era aceea a părintelui său.</p>
@@ -2757,8 +2736,7 @@
 <p>Câteva minute, după aceea, și plecară îndreptân-du-se către satul în care ședea bătrânul Rinoldo. Razele cele palide ale lunei, lumina calea lor.</p>
 </div>
 <div type="chapter" n="28">
-<p>XI. </p>
-<p>O VESTE FERICITA</p>
+<head>XI.O VESTE FERICITA</head>
 <p>Orologiul din camera Margaretei suna orele opt când dânsa se deștepta în dimineața zilei care urmă după acea noapte în care fusese răpită.</p>
 <p>Ea sună.</p>
 <p>O tânără și blondă cameristă, care făcea onoare stăpînei sale, se prezentă la chemare.</p>
@@ -2785,7 +2763,7 @@
 <p>,,Scumpă Margareto</p>
 <p>Te iubesc. Nu dispera. Curând voi veni.</p>
 <p>Te sărut.</p>
-<p>Enrico”</p>
+<p>Enrico</p>
 <p>Margareta citind aceste cuvinte, plângea de bucurie. Era fericită. Deja se vedea soția lui Enrico. Deja se credea la brațul său. I se părea a-i vedea la genunchii săi.</p>
 <p>Simțea sărutul lui pe obrazul său. I se părea a-l vedea la pieptul său, la inima sa.</p>
 <p>Tot restul zilei, dânsa fu foarte veselă.</p>
@@ -2798,8 +2776,7 @@
 <p>Ochii lui se ridicară în tăcere la cer mulțumind cretatului că păstrase viața aceluia, fără care fiica sa ar fi fost peirdută. Buzele sale îngânau cuvinte de mulțumire. Mulțumesc ție Doamne, zicea el, îți mulțumesc că ai avut îndurare de copila mea. Îți mulțumesc că la această bătrânețe mi-ai păstrat-o. Bucurie atât de mare. Îți mulțumesc că ai ținut în viață pe Enrico.</p>
 </div>
 <div type="chapter" n="29">
-<p>XII</p>
-<p>REVEDEREA</p>
+<head>XII. REVEDEREA</head>
 <p>Era aproape miezul nopții.</p>
 <p>În micul sat din margina Romei, domnea o liniște adâncă. Niciun zgomot nu străbătea spațiu, afară de cântul câtorva păsări de noapte. Cu toate acestea în cârciuma lui Rinaldo se mai vedea încă licărind o lumină. Să pătrundem înnăuntru.</p>
 <p>La o mescioară de lemn susținută de trei piciore pe care erau două sau trei sticle goale, ședeau doi oameni convorbind. Lumina micii lampe, ce este suspendată de plafond ne permite de a le vedea figurile. Ele nu ne sunt necunoscute, din contra le-am mai văzut. Este Rinaldo și Diego.</p>
@@ -2846,8 +2823,7 @@
 <p>— Dumnezeule, zise Diego cu o voce tare, de ar fi toate femeile ca această jună, atunci nobilii ar înceta poate de a mai seduce, pe fetele sărmane din popor!</p>
 </div>
 <div type="chapter" n="30">
-<p>XIII</p>
-<p>CUNUNIA</p>
+<head>XIII. CUNUNIA</head>
 <p>A doua zi după acesta, în mica bisericuță a satului, era o cununie.</p>
 <p>Aceștia erau Marino și Gilda, care se însoțise.</p>
 </div>
@@ -2868,10 +2844,13 @@
 <p>XI. 0 veste fericită.</p>
 <p>XII. Revederea.</p>
 <p>XIII. Cununia.</p>
-<p>PARTEA A TREIA</p>
+
    </div>
+   </div>
+   <div type="part" n="3">
+      <p>PARTEA A TREIA</p>
 <div type="chapter" n="31">
-<p>O partidă de Ecarte la hotelul de Paris.</p>
+<head>I. O partidă de Ecarte la hotelul de Paris.</head>
 <p>— Fante și damă.</p>
 <p>— As și treflă.</p>
 <p>— Carro.</p>
@@ -2928,7 +2907,7 @@
 <p>— Segniore dorește a citi noutățile din ,11 Dirrito? întrebă el.</p>
 <p>Marco făcu un semn afirmativ. Chelnerul ieși, apoi se întoarse aducând jurnalul zis. Contele își aruncă ochii pe colonele acelui jurnal, voind a scăpa de ideile rele ce îl turmenta. Dar deabea îl desfăcuse, și scose un țipăt de groză. Ceea ce el văzuse îl înspăimântase în gradul cel mai mare. Crezu, că citise rău și își aruncă din nou privirea pe rândurile ziarulul.</p>
 <p>Iată ce ziceu ele.</p>
-<p>„Ieri de dimineță, la colțul stradei Magenta, s-a găsit un om mort având două lovituri de pumnal. Din cercetările făcute s-a descoperit că acest om era marquisul traetano de Bianchi”. Cu totă activitatea ce a depus poliția, conchidea numitul ziar, încă nu „s-a putut descoperi făptuitorul acestei crime”.</p>
+<p>Ieri de dimineță, la colțul stradei Magenta, s-a găsit un om mort având două lovituri de pumnal. Din cercetările făcute s-a descoperit că acest om era marquisul traetano de Bianchi”. Cu totă activitatea ce a depus poliția, conchidea numitul ziar, încă nu „s-a putut descoperi făptuitorul acestei crime”.</p>
 <p>Marco devenise palid de spaimă citind aceste cuvinte. Acum înțelese el, de ce Bianchi nu mai venise pe la dânsul. Numai acum înțelese, cauza tăcerii acestuia. El fusese ucis. Dar de cine? Cum? Acestea erau, cugetările contelui. Dar deodată, el tresări sub impresia unei idei funeste. Ah! și zise el, dacă a căzut sub lovitura inimicului? dacă a fost ucis de El? și dânsul cugetă, din nou la principele de Buchara. Da continuă el, astfel trebuie să fie, Enrico sau principele de Buchara, care nu sunt, decât una și aceeși personă, a lovi pe unul din ucigașii părintelui său. Acum va lovi și pe celălalt, și contele Carvino sub acesta penibilă idee, se cutremură. Acest mizerabil, care lovise pe tată ca și pe fiu, acestă fiară sălbatică care nu lăsase decât nenorocire prin locul unde trecuse, această hiena, acum se îngrozea cugetând că pote, ora lui cea de pe urmă este aprope să sune.</p>
 <p>Dânsul se cutremura, gândindu-se numai că va muri. Acestui mizerabil, ca și orcărui muritor și plăcea a trăi, a se bucura de plăcerile acestui corp rotund, ce se numește pământ. Atât, numai ca dânsul abuzase. Și făcuse plăcerea cu nenorocirea altora devenise milionar prin crimă, prin fratrucid.</p>
 <p>Și, acum natural acela care pierduse pe tatăl său, acela care însuși era să cadă sub lovitura de spadă a lui Branchi, trebuia să se răzbune. Trebuia a ucide pe ucigașul părintelui său. La toate acestea, se gândea contele Marco și inima acestui monstru, părea că se deștepta din amorțelă, și că cugetul îi mustra de crimele comise. Dar acesta, fu numai pentru câteva secunde. Demonul cel rău cuprinse din nou pe conte.</p>
@@ -2938,15 +2917,14 @@
 <p>Și zicând aceste cuvinte, contele Marco ieși cu pași repezi din hotel, luă o trăsură, și câteva minute în urmă, el era în palatul său.</p>
 </div>
 <div type="chapter" n="32">
-<p>II</p>
-<p>PRINCIPELE DE BUCHĂRA</p>
+<head>II. PRINCIPELE DE BUCHĂRA</head>
 <p>În centrul Romei, nu departe de catedrala Sfântului Petru se înălță o casă de o aparență majestoasa. Această clădire se compunea din trei etaje. Ornată cu acele rețele ce reamintește pe maeștrii săi vechi ai Italiei făcea pe trecători a admira bunul gust al stăpânului acestei încântătoare locuințe.</p>
 <p>Toți știau, că această casă mai înainte fusese a statului, dar acum devenise proprietatea principelui de Buchara.</p>
 <p>Era a doua zi de la cele relatate în capitolul precedent, și o săptămână după balul regelui. Șapte ore și jumătate suna la catedrala Sftulul Petru. Principelui de Buchara, se afla în acel moment într-una din camerele sale din etajul al doilea. Pereții acestei camere erau tapetate cu stofe din India. Din plafon venea o lumină nesigură și plăcută tot de o dată. În fața unei mese de lemn de lămâi, pe o sofa de mătasă a căruia culoare era ca fața cerului, se vedea șezând principele. Figura acestuia părea obosită. El ședea în poziția unui om cugetător. Privirea sa era tristă, și din timp în timp câte un suspin adânc scăpa din pieptul său. La ce cugeta el oare? Ce idei avea acest om a căruia vedere produsese o atăt de mare groază contelui Marco? Ce planuri avea el? Ce-i lipsea lui oare, de nu era vesel? Pentru ce, acea tristețe și melancolie nestrămutată pe figura sa? Mister!</p>
 <p>Era aproape zece minute, de când ședea în acea pozițiune, când scârțăitul unei uși ce se întorcea pe canatul său îl făcu a tresări din cugetările sale. Dânsu își întoarse privirea în acea parte, un valet golonat apăruse pe prag.</p>
 <p>— Ce voiești Giacomo? întreba el.</p>
 <p>Valetul drept răspuns înainta cu o tavă de argint și prezentă stăpânului său o epistolă. Principele o luă și concediă pe servitor cu un gest. Rămas singur, principele de Buchâra desfăcu scrisoarea. Privirea sa aluneca pe dânsa. El citi:</p>
-<p>„Principele de Buchara, dacă iubește aventurile este rugat a veni astă seară la 9 ore în aleiul cel mare al pădurei. Făcând aceasta v-a arăta că se poartă ca un adevărat cavaler”.</p>
+<p>Principele de Buchara, dacă iubește aventurile este rugat a veni astă seară la 9 ore în aleiul cel mare al pădurei. Făcând aceasta v-a arăta că se poartă ca un adevărat cavaler”.</p>
 <p>Scrisoarea nu poartă nicio iscălitură. Dar după tremurătura scrierei se trăda, că mâna care scrisese aceste rânduri era de femeie. Principele de Buchâra era mirat. Cine-i scria? De unde venea acea scrisoare? Acestea erau întrebările ce dânsu și le făcea.</p>
 <p>În momentul acela, orologiul camerei sale suna opt ore și jumătate. Principele de Buchara tresări. O jumătate oră numai, îi despărțea de minutul când trebiea a se duce la întâlnirea, ce misterioasă persoană îi dase în aleiul cel mare din pădure.</p>
 <p>Trebuia a se decide cât mai curând, căci un moment de ar fi întârziat, atunci poate, n-ar fi putut întâlni pe acea persoană. Sub aceste idei, principele de Buchara, își lua decisiunea de a se duce. Hotărât, densul, ieși din hotelul său, și se sui în cea dintâi trăsură ce-i ieși înainte, murmurând în sine: Haide! fie orice o fi! Mă duc!</p>
@@ -2955,8 +2933,7 @@
 <p>Dar mai în acelaș moment, o fășiatură de roche se auzi, și o statură de femea, apăru principelui după un boshuet. Femea purta un voal des pe ochi, care înpedeca de a se vedea figura, dar după mlădierea corpului său, după grația cum umbla, se ghicea că era tânără.</p>
 </div>
 <div type="chapter" n="33">
-<p>III</p>
-<p>HILDA ȘI NABABUL</p>
+<head>III. HILDA ȘI NABABUL</head>
 <p>Femea voalată înainta, către principe. Principele de Buchara o salută de buna venire. Ea îi întoarse salutul.</p>
 <p>— Îmi dațl voie d-nă, zise principele, a vă întreba dacă D-voastră sunteți...</p>
 <p>— Persoana ce așteptapți? întrerupse femeia cu un surâs ce se desemna printre voalul său.</p>
@@ -3036,21 +3013,20 @@
 <p>Și rafinata femeie scoase un fals suspin ca și cum o emoțiune inexplicabilă o apucase.</p>
 <p>După aceste cuvinte Hilda se retrase zicând în sine: „Acest om e al meu... înainte de trei zile voi face ce voi voi cu el.“</p>
 <p>În aceeași zi, principele de Buchara primi o epistolă. O desfăcu. Era de la Contesa de Tazleo. Dânsul o citi. Iată ce cuprindea:</p>
-<p>„Principe”</p>
-<p>„Totul merge bine” „Am fost la comte” — „Lovitura întâi este dată” — „Aștept instrucțiunile D-tale” „A D-tale care te iubește:</p>
-<p>„Hilda”</p>
+<p>Principe</p>
+<p>Totul merge bine” „Am fost la comte” — „Lovitura întâi este dată” — „Aștept instrucțiunile D-tale” „A D-tale care te iubește:</p>
+<p>Hilda</p>
 <p>— În fine!.. murmură principele după citirea acestei scrisori, în fine ora se apropie!.. Voi fi răzbunat!.. În fine acea zi este aproape să sosească! În fine, mizerabilul își va plăti crimele sale! În fine, sărmanul meu părinte va fi răzbunat!</p>
 <p>Principele de Buchara expedie următoarea epistolă Hildei:</p>
-<p>„Fă toate după cum știi. Eu prevăd că de azi în trei zile, contele Marco va fi la tine! Dacă ai o cameră lipită cu aceea în care vă veți afla voi, voi veni și eu, pentru a completa, ceea ce este de neapărată trebuință.</p>
-<p>„La revedere</p>
-<p>„Buchara”</p>
+<p>Fă toate după cum știi. Eu prevăd că de azi în trei zile, contele Marco va fi la tine! Dacă ai o cameră lipită cu aceea în care vă veți afla voi, voi veni și eu, pentru a completa, ceea ce este de neapărată trebuință.</p>
+<p>La revedere</p>
+<p>Buchara</p>
 <p>Un sfert de oră în urmă, valetul ce dusese Hildei epistola principelui, aduse celui de al doilea alta ca răspuns din partea contesei Tazleo.</p>
 <p>Aceasta nu era decât un răspuns foarte laconic: „Bine — zicea Hilda, totul va fi după cum dorești.</p>
-<p>„Hilda“</p>
+<p>Hilda“</p>
 </div>
 <div type="chapter" n="34">
-<p>V</p>
-<p>O DECLARAȚIE DE AMOR</p>
+<head>V. O DECLARAȚIE DE AMOR</head>
 <p>Două zile după cele relatate în capitolul precedent, Hilda se afla în camera de toaletă a hotelului său. Acest hotel situat pe una din cele mai frumoase strade ale Bornei, avea înfățișarea unui cuib de rândunică. Răposatul conte de Tazleo, nu cruțase nimici pentru a deveni plăcut Hildei. Un lux desfrânat domnea în interiorul acestei locuințe, și care făcea să te întrebi dacă nu te găseai la o bacantă, iar nicidecum la o femeie de lumea mare. Un parfum îmbătător se exala în camera de toaletă a contesei de Tazleo.</p>
 <p>Hilda își sfârșise toaleta, și se trântise cu neglijență pe o sofa.</p>
 <p>Un orologiu de pe o frumoasă seninelă în acel moment, suna orele două după amiază. De abia ciocanul bătu ultima lovitură, și o huruitură de trăsurii, răsună în curtea hotelului. Hilda tresări. Două minute după aceasta, o jună și o frumoasă cameristă intrau prezentând stăpânei sale o carte. Hilda citi acea carte. Era a lui Marco. Un zâmbet de o crudă bucurie flutură pe buzele sale cele rose, apoi stăpănindu-se zise:</p>
@@ -3103,15 +3079,14 @@
 <p>Marco deveni palid la aceste cuvinte.</p>
 <p>— Nu! zise el, ceea ce voiesc a face este să subscrii o poliță prin care-ți dau toată averea mea.</p>
 <p>— Ei bine, răspunse Hilda, dacă ții atât de mult la cele ce zic, îți voi satisface dorința, și dânsa scoase dintr-un scrin o poliță pe care o întinse contelul. Marco o luă și așezăndu-se la birou scrise cele ce urmează.</p>
-<p>„Eu contele Marco Carrino, fiind cu deplina mea rațiune, cedez, fiind încă în viață, toată averea mea atât mobila cât și imobilă, contesei Hilda de Tazleo”.</p>
+<p>Eu contele Marco Carrino, fiind cu deplina mea rațiune, cedez, fiind încă în viață, toată averea mea atât mobila cât și imobilă, contesei Hilda de Tazleo”.</p>
 <p>După aceasta, el puse data, apoi se subscrie. Când fini de scris, întinse actul Contesel. Hilda cu zâmbetul pe buze-l luă.</p>
 <p>— Acum te posed, șopti Marco cu aprindere, tu vei fi a mea!</p>
 <p>— încă nu!.. zise Hilda, și dânsa se strecură ca un șarpe din brațele contelui și dispăru pe ușă.</p>
 <p>Mai în același, moment, o altă ușă se deschise și pe prag apăru un om.</p>
 </div>
 <div type="chapter" n="35">
-<p>VI</p>
-<p>PEDEAPSA LUI D-ZEU !!...</p>
+<head>VI. PEDEAPSA LUI D-ZEU !!...</head>
 <p>Acel om era principele de Buchara. De abea-l zărise contele și un fior îi trecu prin tot corpul. Presimțea oare dânsul că un pericol îl amenință? Nu știm!</p>
 <p>Ceea ce putem spune, este că dânsul rămase ca extasiat și privea continuu pe principe. Principele de Bucharra înaintă către conte, abia atunci dânsul, făcându-și o mare sforțare zise:</p>
 <p>— Ce voești?</p>
@@ -3157,8 +3132,7 @@
 <p>— A fost odată tată, dar acum nu mai este!.. și Enrico târă după sine pe părintele său...</p>
 </div>
 <div type="chapter" n="36">
-<p>VII</p>
-<p>ESPLICAȚIUNI</p>
+<head>VII. EXPLICAȚIUNI</head>
 <p>Era două zile, de când Margareta găsise acea scrisoare prin care Enrico o anunțase că va veni în curând. Orologiul suna ora întâi după-amiază - Principele Cuniberti și Margareta ședeau într-un mic salon a cărei privire era în stradă, când un valet veni de prezența principelui pe o tavă de argint o carte de vizită. Principele Cuniberti o luă. De abia își aruncase ochii pe dânsa, și scoase un țipăt de bucurie.</p>
 <p>— În fine!.. în fine.. șopti el, în fine iată-l!</p>
 <p>De abia, zisese aceste cuvinte și ușa se deschise și un om apăru pe prag. Acel om era Enrico!</p>
@@ -3184,23 +3158,27 @@
 <p>Dânsa înțelese că contele se răzbunase!</p>
 </div>
 <div type="chapter" n="37">
-<p>VIII</p>
-<p>SPRE A FINI</p>
+<head>VIII SPRE A FINI</head>
 <p>În aceași zi Enrico primi o scrisoare. Plin de curiozitate o desfăcu. Ochii săi se aruncară pe dânsa. Iată ce citi:</p>
-<p>„Enrico”</p>
-<p>„Cunosc acum secretul. Știu de ce nu mă puteai iubi. Iubeai pe o alta. Iubeai pe Margareta, fii fericit. De azi înainte Contesa de Tazleo, vesela Hilda, de altă dată nu mai este! Ea a murit pentru lume. Se numește „sora Leuthycadea”.— Averea mea toată am împărțit-o la săraci. Adio“.</p>
-<p>„Sora Leuthycadea”</p>
+<p>Enrico</p>
+<p>Cunosc acum secretul. Știu de ce nu mă puteai iubi. Iubeai pe o alta. Iubeai pe Margareta, fii fericit. De azi înainte Contesa de Tazleo, vesela Hilda, de altă dată nu mai este! Ea a murit pentru lume. Se numește „sora Leuthycadea”.— Averea mea toată am împărțit-o la săraci. Adio“.</p>
+<p>Sora Leuthycadea</p>
 <p>— Sărmana, murmură Enrico cu amărăciune când fini de citit aceste rînduri, sărmana femeie, cât m-a iubit!.. Dar, o puteam oare, eu iubi?.. Și o lacrimă de tristețe alunecă din ochii săi la amintirea Hildei.</p>
-<p>FINALUL PĂRȚII A TREIA</p>
+<trailer>FINALUL PĂRȚII A TREIA</trailer>
+</div>
+   </div>
+      <div type="part" n="4">
+      <p>***</p>
 <p>Două zile după aceasta, Cathedrala sfântului Petru era plină de toată noblimea Romei. Toți asistau, la ceremonia religioasă a contelui Enrico de Carrino cu fiica principelui Cuniberti.</p>
 <p>O jumătate oră în urmă, Margareta era contesa de Carrino.</p>
-<p>FINALUL ROMANULUI</p>
    
-<p>— Două luni de la această dată, aceea pe care o iubeam dădu naștere unei ființe...</p>
-<p>Era o fetiță care moștenise în totul frumusețea și grația mamei sale.</p>
-<p>Chiar în acea seară, acela care mă conducea la femeia care mă făcuse fericit, veni la mine prezentându-mi pe mica ființă, împreună cu o scrisoare.</p>
-<p>Eram mirat de această procedare.</p>
-<p>Mai întâi nu știu ce să cred. </p>
+   
+   <p>— Două luni de la această dată, aceea pe care o iubeam dădu naștere unei ființe...</p>
+   <p>Era o fetiță care moștenise în totul frumusețea și grația mamei sale.</p>
+   <p>Chiar în acea seară, acela care mă conducea la femeia care mă făcuse fericit, veni la mine prezentându-mi pe mica ființă, împreună cu o scrisoare.</p>
+   <p>Eram mirat de această procedare.</p>
+   <p>Mai întâi nu știu ce să cred. </p>
+<trailer>FINALUL ROMANULUI</trailer>
 </div>
 </body>
  </text>

@@ -39,12 +39,12 @@
                     <pubPlace>București</pubPlace>
                     <publisher>FOIȚA ZIARULUI „EPOCA”</publisher>
                     <date>1897</date>
-                    <decoNote type="ilustratii" subtype="yes"/>
-                    <dim unit="char" type="mic"/>
+                    <decoNote type="illustrations" subtype="yes"/>
+                    <dim unit="char" type="small"/>
                     <extent>
                         <measure unit="word">58938</measure>
                         <measure unit="page" type="under_250"/>
-                        <measure unit="foileton" type="under_65"/>
+                        <measure unit="feuilleton" type="under_65"/>
                         <measure type="complete"></measure>
                     </extent>
                 </bibl>
@@ -64,16 +64,16 @@
                     <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
                 </keywords>
                 <keywords>
-                    <term type="receptare" n="5"/>
-                    <term type="republicare" n="2"/>
+                    <term type="reception" n="5"/>
+                    <term type="print_count" n="2"/>
                     <term type="finished"></term>                
                 </keywords>
             </textClass>
         </profileDesc>
         <encodingDesc>
             <projectDesc>
-                <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-                <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+                <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+                <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
                 <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
                 <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
             </projectDesc>
@@ -1042,92 +1042,92 @@
 <p>De aceea, ziua de 12 octombrie 1886 rămâne-va neștearsă din amintirea tuturor generațiilor, care vor povesti cu drag despre strălucirea serbării și despre sufletul acestei serbări, despre Auguștii Suverani ai României Carol I și Elisabeta, pe Unul fixându-l în momentul când ridică mâna dreaptă spre Cer, și exclamă: Trăiască România! Pe cealaltă cum îngenuche închină Prea Curatei Maicei a lui Dumnezeu, protectoarea Curții-de-Argeș, Sfintele Evanghelii din Joia Patimilor.</p>
 <p>Poezia va veni să cânte sărbătoarea, și o nouă legendă a bisericii va ajunge tot așa de poporană ca și aceea a meșterului Manole.</p>
 <p>Monumentul de la Curtea de Argeș rămâne pentru toți timpii izvor de cuvinte și de idei. Istoria lui se oglindește în însăși istoria poporului român, și precum bătrânii cronicari rămâneau în uimire înaintea lui și strigau:</p>
-<p>«Fericit cel ce a făcut-o, fericiți cei ce au lucrat-o! Vrednici sunt de laudă.»</p>
+<p>«Fericit cel ce a făcut-o, fericiți cei ce au lucrat-o! Vrednici sunt de laudă.</p>
 <p>Trebuie și noi să zicem:</p>
-<p>Fericiți cei ce din nou au restaurat-o, din nou au sfințit-o!</p>
-<p>Mărire și glorie lor!</p>
-<p>Odă la sfințirea Curții de Argeș</p>
+<l>Fericiți cei ce din nou au restaurat-o, din nou au sfințit-o!</l>
+<l>Mărire și glorie lor!</l>
+<l>Odă la sfințirea Curții de Argeș</l>
 <p>I</p>
-<p>Românu-n timpuri de războaie</p>
-<p>Pentru al său țărm din moși strămoși</p>
-<p>Vărsa tot sângele-i șiroaie</p>
-<p>De se umbrea sub nouri roșii.</p>
-<p>El înclina mândra sa frunte</p>
-<p>Numai la Cer, voind pe loc</p>
-<p>Să Stea înalt precum un munte</p>
-<p>Într-a lui țară și între foc.</p>
+<l>Românu-n timpuri de războaie</l>
+<l>Pentru al său țărm din moși strămoși</l>
+<l>Vărsa tot sângele-i șiroaie</l>
+<l>De se umbrea sub nouri roșii.</l>
+<l>El înclina mândra sa frunte</l>
+<l>Numai la Cer, voind pe loc</l>
+<l>Să Stea înalt precum un munte</l>
+<l>Într-a lui țară și între foc.</l>
 <p>II</p>
-<p>Apoi în timpuri de cădere</p>
-<p>Când era cerul neîndurat,</p>
-<p>El sta pe gânduri în durere,</p>
-<p>De mari răstimpuri rezemat,</p>
-<p>Și asculta plin de uimire</p>
-<p>Glasul lor tainic șoptitor</p>
-<p>Ce-i pomenea de-a lui mărire</p>
-<p>Și în trecut și-n viitor.</p>
+<l>Apoi în timpuri de cădere</l>
+<l>Când era cerul neîndurat,</l>
+<l>El sta pe gânduri în durere,</l>
+<l>De mari răstimpuri rezemat,</l>
+<l>Și asculta plin de uimire</l>
+<l>Glasul lor tainic șoptitor</l>
+<l>Ce-i pomenea de-a lui mărire</l>
+<l>Și în trecut și-n viitor.</l>
 <p>III</p>
-<p>Românul în timp de răsuflare</p>
-<p>Cu al său paloș vitejesc</p>
-<p>Cădea mult trainice altare</p>
-<p>Sub scutul Domnului ceresc,</p>
-<p>Ca să privească lumi și soare</p>
-<p>Cum neamul său ș-a lui clădiri</p>
-<p>În veci rămân nepieritoare</p>
-<p>Printr-ale lumii zguduiri.</p>
+<l>Românul în timp de răsuflare</l>
+<l>Cu al său paloș vitejesc</l>
+<l>Cădea mult trainice altare</l>
+<l>Sub scutul Domnului ceresc,</l>
+<l>Ca să privească lumi și soare</l>
+<l>Cum neamul său ș-a lui clădiri</l>
+<l>În veci rămân nepieritoare</l>
+<l>Printr-ale lumii zguduiri.</l>
 <p>IV</p>
-<p>Cum, da măsura mult măreață</p>
-<p>A numelui ce-a moștenit,</p>
-<p>El sta cu soarta-i față-n față,</p>
-<p>Ea crâncenă, el neclintit!</p>
-<p>Iar când sufla vânt de pieire,</p>
-<p>Cum el în cale-i falnic sta,</p>
-<p>Și pentru a țării mântuirii</p>
-<p>Vântul oprea și-l înfrunta</p>
+<l>Cum, da măsura mult măreață</l>
+<l>A numelui ce-a moștenit,</l>
+<l>El sta cu soarta-i față-n față,</l>
+<l>Ea crâncenă, el neclintit!</l>
+<l>Iar când sufla vânt de pieire,</l>
+<l>Cum el în cale-i falnic sta,</l>
+<l>Și pentru a țării mântuirii</l>
+<l>Vântul oprea și-l înfrunta</l>
 <p>V</p>
-<p>Curte de Argeș ca și tine</p>
-<p>Aproape-a fost el de mormânt</p>
-<p>În ochii Liftelor haine</p>
-<p>Păreați voi șterși de pe pământ,</p>
-<p>Dar cât un stâlp e în picioare</p>
-<p>Nu cade templul dărâmat,</p>
-<p>Și niciun neam viteaz nu moare</p>
-<p>Cât el mai are-un fiu bărbat.</p>
+<l>Curte de Argeș ca și tine</l>
+<l>Aproape-a fost el de mormânt</l>
+<l>În ochii Liftelor haine</l>
+<l>Păreați voi șterși de pe pământ,</l>
+<l>Dar cât un stâlp e în picioare</l>
+<l>Nu cade templul dărâmat,</l>
+<l>Și niciun neam viteaz nu moare</l>
+<l>Cât el mai are-un fiu bărbat.</l>
 <p>VI</p>
-<p>Un singur om de viță tare</p>
-<p>Poartă în sân mii de oameni tari,</p>
-<p>Precum o ghindă în coaje-i are</p>
-<p>Un verde codru de stejari.</p>
-<p>Iar prin iubirea de moșie</p>
-<p>Și prin credință-n Dumnezeu</p>
-<p>Un om plătește cât o mie,</p>
-<p>Stăpân pe viitorul său.</p>
+<l>Un singur om de viță tare</l>
+<l>Poartă în sân mii de oameni tari,</l>
+<l>Precum o ghindă în coaje-i are</l>
+<l>Un verde codru de stejari.</l>
+<l>Iar prin iubirea de moșie</l>
+<l>Și prin credință-n Dumnezeu</l>
+<l>Un om plătește cât o mie,</l>
+<l>Stăpân pe viitorul său.</l>
 <p>VII</p>
-<p>Așa tu, Curte legendară,</p>
-<p>Așa tu, drag român popor,</p>
-<p>În cursa sorții mult amară</p>
-<p>V-ați dat un sacru ajutor,</p>
-<p>Și iată-vă azi cu fală</p>
-<p>Strălucitori prin har ceresc,</p>
-<p>Ei sub o mantie regală,</p>
-<p>Tu sub veșmântul îngeresc.</p>
+<l>Așa tu, Curte legendară,</l>
+<l>Așa tu, drag român popor,</l>
+<l>În cursa sorții mult amară</l>
+<l>V-ați dat un sacru ajutor,</l>
+<l>Și iată-vă azi cu fală</l>
+<l>Strălucitori prin har ceresc,</l>
+<l>Ei sub o mantie regală,</l>
+<l>Tu sub veșmântul îngeresc.</l>
 <p>VIII</p>
-<p>El vine O! Sfântă Mănăstire,</p>
-<p>Cu brațe pline de cununi,</p>
-<p>După trei secole să te admire</p>
-<p>Ca pe-o minune între minuni.</p>
-<p>O! monument, soarta ți-e mare!</p>
-<p>Sub neaoș Domn ai fost clădit,</p>
-<p>Și-n mândra-ți nouă rea țară</p>
-<p>Azi sunt sub un rege ești sfințit!</p>
+<l>El vine O! Sfântă Mănăstire,</l>
+<l>Cu brațe pline de cununi,</l>
+<l>După trei secole să te admire</l>
+<l>Ca pe-o minune între minuni.</l>
+<l>O! monument, soarta ți-e mare!</l>
+<l>Sub neaoș Domn ai fost clădit,</l>
+<l>Și-n mândra-ți nouă rea țară</l>
+<l>Azi sunt sub un rege ești sfințit!</l>
 <p>IX</p>
-<p>Privește-n jur, privește în zare</p>
-<p>Umbrele mari a acelor morți,</p>
-<p>Care-ți trimit o închinare</p>
-<p>De pe-ale veșniciei porți.</p>
-<p>Mărirea ta este deplină;</p>
-<p>Geniu a fost numele tău,</p>
-<p>Ești demn de-o nație creștină</p>
-<p>Ești demn lăcaș de Dumnezeu</p>
+<l>Privește-n jur, privește în zare</l>
+<l>Umbrele mari a acelor morți,</l>
+<l>Care-ți trimit o închinare</l>
+<l>De pe-ale veșniciei porți.</l>
+<l>Mărirea ta este deplină;</l>
+<l>Geniu a fost numele tău,</l>
+<l>Ești demn de-o nație creștină</l>
+<l>Ești demn lăcaș de Dumnezeu</l>
 <p>V. Alecsandri</p>
 </div>
 </body>
