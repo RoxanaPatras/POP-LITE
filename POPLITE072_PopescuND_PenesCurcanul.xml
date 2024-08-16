@@ -11,10 +11,17 @@
             <respStmt>
                <resp>codare POPLITE</resp>
                <name>Teodora Iuriusciuc</name></respStmt>   
+            <respStmt>               
+               <resp>verificare codare POPLITE</resp>
+               <name>Roxana Patraș</name></respStmt>   
             <respStmt>
                <resp>corectură manuală</resp>
                <name>Alina Nițucă</name>
             </respStmt>
+            <respStmt>               
+               <resp>verificare corectută manuală</resp>
+               <name>Lorendana Cuzmici</name></respStmt>   
+            
             <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
          </titleStmt>
          <publicationStmt>
@@ -75,6 +82,7 @@
    </teiHeader>
    <text>
       <front>
+         <div type="titlepage">
          <p>EPISOADE DIN ISTORIA INDEPENDENȚEI ROMÂNIEI</p>
          <p>PENEȘ CURCANUL</p>
          <p>NUVELĂ ORIGINALĂ</p>
@@ -86,10 +94,11 @@
          <p>EDITURA LIBRĂRIEI H. STEINBERG</p>
          <p>7 - CALEA RAHOVEI - 7</p>
          <p>1892</p>
+         </div>
       </front>
 <body>
 <div type="chapter" n="1">
-<p>Pe prispa casei</p>
+<head>I. Pe prispa casei</head>
 <p>Într-o seară de vară, pe când soarele scăpăta după un nor de purpură, pe când vacile se în torceau mugind cu ugerele doldora, dând fuga spre coșare, unde le așteptau viței înfometați, și pe când cumpenele puțurilor scârțâiau voios, spre a umple jghiaburile năpădite de vitele însetate, dintr-o casă de sat ieșiau trei moșnegi cuvioși la față și arătoși la înfățișare, susținând de umere un flăcăiandru chipeș și voios, plin de viață și sănătate, cu brațele zdravene și partea de sus a corpului întreagă și voinică, dar care umbla în picioare de lemn.</p>
 <p>Moșnegii înnălbiți de zile, ei care văzuse multe și pățise multe se purtau cu acest tânăr olog cu un fel de respect și venerație, ca cum ar fi recunoscut în el pe mai marele lor, pe o ființă căreia datorau multă recunoștință. Ologul însă parcă nu băga în seamă aceste semne de respect, nici nu vrea să primească de la niște uncheși atât de venerabili ajutorul ce îi dau, căci dânsul nu se lăsa deloc pe umerii lor, ci mergea pe picioroangele lui întocmai ca cum s-ar mai fi bucurat de picioarele lui de voinic.</p>
 <p>Îndată ce ieșiră din tinda casei, gazda, o haitoașă de femeie, tânără, frumușică și numai inimă în ea, trecu iute pe lângă el și le așternu pe prispă un zăblău gros și peste zăblău o velință cu flori alese, pe care se așezară în isichie cei trei moșnegi și tânărul cel olog.</p>
@@ -117,8 +126,7 @@
 <p>Bătrânii se strânse fâcându-se roata în jurul său și toate simțirile lor adormiră pentru a se face numai și numai urechi. Velicu după ce își pregăti glasul începu să grăiască în chipul următor :</p>
 </div>
 <div type="chapter" n="2">
-<p>II</p>
-<p>Și cu sergentul zece</p>
+<head>II. Și cu sergentul zece</head>
 <p>Dorobanțul este oșteanul cel mai fericit și mai ocrotit de pe făța pământului; ca dorobanț îți petreci frumos vremea de soldat, dacă ești cu inimă și deștept; intri în oaste bou curat și ieși om întreg și cu mintea tresvită. Când pusei pentru întâia oară căciula dorobanțului în cap nu știam să împart trei paie la două vite, și peste un an de hârșire învățai și eu cum să-mi port trupul ca să fie vrednic de numele de om, cum să țin și eu o carte în mână și să înțeleg ce scrie în ea și cum să aflu prin citire cine sunt strămoșii mei și care a fost trecutul nostru.</p>
 <p>Când intrai pentru întâia dată în cazarmă intră o dată cu mine și cei nouă frați despre care v-am spus, și cum ne văzurăm, ața ne trase unul spre altul, și fără să băgăm de seamă începurăm să ne iubim ca niște frați, de și ne cunoașteam abia de câteva zile.</p>
 <p>Cel dintâi la număr era fostul slujitor boieresc Sandu Bușilă din Dobriceni, adică caporalul nostru; el era scurt la stat și slăbuț la trup, dar bine legat și vârtos la oboseală. Chipul lui era oacheș, ochi negri și pătrunzători și vorba aspră și apăsată, dar când era împreună cu noi fața i se lumina ca de o rază cerească, căutătura i se însenina ca un cer scăpat de nori și glasul îi devenea dulce și mângâietor ca o muzică cerească. El vorbea puțin și asculta mult, dar când vorbea te ungea cu miere și când căsca gura ca să grăiască, mai adesea nu făcea altceva decât să ne țină parte sau să ne scape de vreo belea; el se punea pentru noi când voiam să dobândim vreo ocrotire și tot el ne lua pe chezășie și ne dobândea iertarea când se întâmpla să greșim cu câte ceva.</p>
@@ -162,8 +170,7 @@
 <p>În luna lui Aprilie îndată ce se topi omătul (zăpada), după câmp și ne apucarăm cu nădejde de muncă, dând cu totul uitării și război și concentrare și București, primirăm o știre neașteptată, știrea c-a sosit la regiment ordinul d-a ne concentra în cea mai mare grabă.</p>
 </div>
 <div type="chapter" n="3">
-<p>III</p>
-<p>Frații de cruce</p>
+<head>III. Frații de cruce</head>
 <p>Cu cât m-a bucurat vestea celei dintâi concentrări cu atât m-a mâhnit cea d-a doua, nu fiindcă mă temeam de niscaiva primejdii, ci dimpotrivă că-mi era frică să nu fie străgănirea de surda.</p>
 <p>Cu toate astea începui de milă de silă să mă pregătesc și să mă căpătuiesc cu cele ce îmi lipsea. Alde maica și surorile începură să mă jelească întocmai ca cum aș fi murit; asemenea și tata și nenea se întristară foarte, dar nimeni nu mi zise nimic, ci se puse a se uita galeș la mine și-și deschiseră pungile și-mi dădură tot ce le-am cerut, adică nu tocmai mare lucru, căci nici nu prea aveau nici ei și eu nu prea eram învățat cu risipa.</p>
 <p>A doua zi după ce primii ordinul de concentrare de la primărie, mă pomenii în casă cu sergentul meu, adică cu Gregorie Mătrăgună; cum îl văzui sării repede de pe scaun, și lăsând să-mi cadă din mână ranița ce văxuiam, alergai fuga spre el și-i întinsei brațele ca la un frate iar nu ca la un șef, nemaiîncăpându-mi pielea de bucurie căci pentru întâia dată îmi călca sergentul pragul casei.</p>
@@ -275,8 +282,7 @@
 <p>Îndată după aceea începu sfânta privighere, la care asistă tot batalionul cu șefi cu tot. Peste o oră Peneș curcanul și cei nouă ai lui pășea în fruntea batalionului purtând cu mândrie în mână fanionul batalionului, până ce, ajungând la Iași, s-o învrednici că poarte steagul regimentului.</p>
 </div>
 <div type="chapter" n="4">
-<p>IV</p>
-<p>Peste Dunăre</p>
+<head>IV. Peste Dunăre</head>
 <p>La Iași ne aștepta o primire pe care n-oi uita-o cât o trăi. Toți ieșise întru întâmpinarea noastră și ne semăna calea cu flori și verdeață ca cum ne-am fi și bătut și ne-am fi întors biruitori. O masă îmbelșugată dată din partea primăriei ne aștepta cu bucatele gata pe ea și casele tuturor Românilor se deschise pe întrecere ca să ne primească spre găzduire.</p>
 <p>De aici încolo nu mai avurăm îndoială c-o să ne războim. Toți din toate părțile ne spuneau că Rușii erau gata să treacă Prutul și că la Ungheni se aștepta să sosească chiar împăratul. Această veste ne înveseli pe de o parte, dar ne întristă pe de alta; ne înveseli, căci după ce ne numeărarăm, ne încredințarăm că am fi îndestul de numeroși ca să ne războim cu cinste alături cu o armie puternică ca cea rusească, dar ne întristă căci eram nevoiți iarăși să vedem sfântul nostru pământ călcat de picioarele invaziei ce usucă verdeața pe unde trece.</p>
 <p>În Iași stăturăm vreo trei patru zile până să se strângă toți dorobanții, călărașii și rezervele armatei permanente din Moldova de sus, căci Iașul era pe atunci până încă nu se înființase cele patru corpuri de armată reședința diviziei a patra; cu o zi înainte de cea hotărâtă pentru plecare, era, îmi aduc aminte într-o zi de Luni la 10 ale lunii lui Aprilie, aflarăm înspăimântați de mirare că Rușii au trecut Prutul pe la Sculeni, Ungheni, Tabac și Tatarbunar, și c-au poposit în vecinătatea Iașilor până să se golească orașul de armata română.</p>
@@ -317,8 +323,7 @@
 <p>Iată cea dintâia parte a isprăvilor noastre războinice, zise Velicul sculându-se în sus pe piciorele sale de lemn și ștergându-si fruntea de nădușeală. Mâine seară voi începe adevărata istorie a războiului și a celor nouă dorobanți comandați de Peneși Curcanul.</p>
 </div>
 <div type="chapter" n="5">
-<p>V</p>
-<p>Unul!</p>
+<head>V. Unul!</head>
 <p>După aceste cuvinte cei trei moșnegi sprijiniră pe junele invalid și-l ajutară să reintre în casă, și ei ieșiră din curte și apucă unul la drepta și celălalț la stânga. A doua zi cum se înseră veniră urmați de alți patru cumetri, scoase din casă pe olog cu aceeași băgare de seamă și îngrijire, și se așezară din nou pe cerga întinsă de femeia cea haițoasă pe prispa casei.</p>
 <p>Velicu după ce se văzu așezat bine și comod pe cerga sa își urmă mai departe istoria în chipul următor:</p>
 <p>„De la Nicopoli la Bulgăreni nu e așa departe și drumul la început nu era tocmai rău; plecarăm din Nicopoli într-o dimineață câteva zile după sfânta Măria cea mare și ajunserăm cam la prâzcior la un sat tătăresc numit Muselim Selo pe lângă care curge râul Osma. După ce odihnirăm nițel, trecurăm râul pe un pod de piatră, și după povața călăuzelor bulgare ce luasem cu noi de la Nicopole, lăsarăm la stânga oseaua ce duce la Târnova prin Poradim, unde mai târziu fu așezat catierul general rusesc și apucarăm pe șoseaua din dreapta ce duce drept la Sofia prin Plevna. Prânzul îl făcurăm la Mecica și seara ajunserăm devreme la Bulgăreni.</p>
@@ -362,8 +367,7 @@
 <p>O povoială neagră se puse pe ochii mei, un clește puternic îmi strânse inima și un bold nebiruit mă îndemnă să zbor înainte scoțând din piept răgete care n-aveau nimic omenesc. Când mă desmeticii eram în marginea fortificației ce apăra bateria turcească, înconjurat de tot regimentul, iar Peneș curcanul era în fruntea noastră.</p>
 </div>
 <div type="chapter" n="6">
-<p>VI</p>
-<p>Steagul regimentului</p>
+<head>VI. Steagul regimentului</head>
 <p>Rămăsesem opt și cu sergentul nouă, dar nu eram mai puțin îndrăzneț și mai puțin înflăcărați d-a înfrunta primejdia; dimpotrivă dorința d-a răzbuna pe Gheorghiță ne făcea îndoit mai netemători de moarte. Curgeau împrejurul nostru gloanțele cum curge grindina în vreme de furtună, văzduhul era întunecat de mulțimea împroșcăturilor lor, pământul era ciuruit de izbiturile ghilulelor lor, nu era cu putință să scape niciun greiere de loviturile fierului și plumbului, și cu toate astea noi mergeam printre acea grindină ucigătoare tot așa de repede ca și dânsa, fără să dăm o împușcătură măcar, fără să scoatem un țipât măcar.</p>
 <p>Cădeau printre noi frații de arme ca cum cad spicile în vreme de seceră; acel ce glumise cu noi adineaori îl vedeam prăbușindu-se la pământ lângă noi păliți de îngălbeneala morții, cel mai voinic și mai sănătos iată-l căzut jos schilodit de așchiile bombelor umplând văzduhul de țipete sfâșietoare, și cel mai mândru și mai drăgăstos dintre toți iată-l schimbat într-o spaimă groaznică de o izbitură de obuz, și zvârcolindu-se la pământ în amarnice chinuri.</p>
 <p>Ni se rupea inima văzând toate aceste prăzi ale cumplitului război, dar în loc d-a ne slăbi și înfricoșa, vederea lor dimpotrivă ne ațâța și ne înverșuna ca să mergem mai iute spre a pune mâna mai curând pe dulcea izbândire.</p>
@@ -386,8 +390,7 @@
 <p>Noaptea o petrecurăm într-acea întărire fără să dormim, căci avurăm să zădărnicim mai multe încercări făcute de turci că să ne gonească din poziția ce ocupasem cu atâtea pierderi, iar a doua zi când făcurăm loc altor trupe proaspete și ne înturnarăm în tabără, noi prăpăditorii steagului ne întoarserăm numai șapte și cu sergentul opt...</p>
 </div>
 <div type="chapter" n="7">
-<p>VII</p>
-<p>Pe parapete</p>
+<head>VII. Pe parapete</head>
 <p>Îndată se sosirăm în tabără furăm chemați toți în păr de comandantul diviziei și puși în fruntea celor patruzeci de înși care se deosebise mai mult în luptă; în fruntea tuturor fu Peneș curcanul. După ce ne spuse că ne-am purtat ca niște viteji, colonelul Angelescu ne trimise înaintea împăratului Rusiei și Domnului nostru care venise într-adins ca să ne laude vrednicia. Măria Sa ne puse pe piept virtutea militară, și Țarul ne dădu crucea sf. George, zicându-ne că ne-am bătut ca niște oșteni îmbătrâniți pe câmpul de luptă și deprinși cu vitejia.</p>
 <p>Tot ce poate dobândi un om și un oștean mai de cinste și mai de râvnă noi dobândisem de la șefii noștri! fusesem cinstiți și lăudați în fața frontului, numele nostru fusese trecut în capul ordinului de zi, camarazii și chiar șefii cei mai mari ne râvneau soarta; dar nu ne simțeam deloc mângâiați în sufletul nostru. Când ne roteam ochii în juru-ne și ne vedeam numai șapte și cu sergentul opt, atunci simțeam golul ce se făcuse în mijlocul nostru și ni se umplea sufletul de mâhnire, și lăcrimam căci n-am putut măcar să răzbunăm după vrednicie moartea acelora ce ne fusese răpiți de crunții dușmani.</p>
 <p>Două zile fu bine pace, adică lucră numai artileria; ai noștri dau câte o lovitură de tun la fiece sfert de ceas iar turcii câte două fără însă să pricinuiască vreo pierdere în șirurile noastre căci ne retrăsesem din bătaia tunurilor; dar toată lumea se aștepta la o întâmplare mare și toți din toate părțile fierbeau cuprinși de nerăbdare și se pregăteau ca pentru o luptă hotărâtoare foarte apropiată. Ofițerii de stat major alergau de colo până colo, generalii și coloneii se strângeau mereu în sfaturi de război, coloneii dau pe sub ascuns comandanților de companii felurite instrucții, dar nimeni nu știa într-un chip hotărâtor ce avea să se întâmple. Unii ziceau una, alții își dau cu socoteala alta, alții spuneau unele, alții altele, precupeții de mușdele născoceau câte în lună și în soare, dar nimeni nu putea zice cu încredințare: asta o să se întâmple.</p>
@@ -424,8 +427,7 @@
 <p>Noi nu ne lăsarăm mai prejos și ne îndeplinirăm datoria cu aceeași inimă dacă nu cu aceeași vrednicie.</p>
 </div>
 <div type="chapter" n="8">
-<p>VIII</p>
-<p>După victorie</p>
+<head>VIII. După victorie</head>
 <p>În sfârșit dușmanul începu să se înfârngă și să se retragă, luptăndu-se întruna, spre gura tabiei, ai noștri însă erau prea înfuriați ca să-i lase să fugă în pace. După ce-i puse pe goană se luară după ei, și după ce goliră tabia de Turci și o luară în stăpânire, ieșiră și ei dintr-însa și-i fugăriră pe câmpia de la spatele redutei cu o îndărătnicie înverșunată.</p>
 <p>Ura dintre biruiți și biruitori, ură mare ce dăinuia de mai multe veacuri și stătuse înăbușită prea multă vreme, izbucni cu furie; de aceea și unii și alții se măcelăreau cu înverșunare! Turcii fugind și Românii urmărindu-i făceau prăzi nefolositoare și trimeteau mereu pe altarul morții noi jertfe. Din tabie lupta se mută în câmpia vecină, într-o vale adâncă aflată între două întăriri, între aceia ce luasem și alta de a cărei ființă nu aveam nicio cunoștință, căci nu figura pe nicio carte ci atunci pentru întâia dată se ridica neagră și amenințătoare înaintea ochilor. Această descopierire ne făcu să înțelegem pentru ce în vremea ataculul ni se părea că suntem împroșcați și din față și de la spate; fusesem între două focuri.</p>
 <p>Dintr-acea tabie începu să curgă spre noi o mulțime de turci odihniți spre a da mână de ajutor fugarilor, dar noi eram prea îmbătați de fumul sângelui și al biruinței spre a ne înfricoșea de atâta lucru și a ne da înapoi. Dimpotrivă ne repezirăm cu îndoită furie și-i puserăm și pe aceștia pe goană. Atunci puserăm mâna pe cel dintâi steag ce am luat de la Turci.</p>
@@ -480,8 +482,7 @@
 <p>Acest atac de noapte nu ținu mult dar costă pe turci mai multe sute de morți și răniți și îi făcu să înțeleagă că Românul este câinos, nu mai dă înapoi ce a apucat o dată să ia.</p>
 </div>
 <div type="chapter" n="9">
-<p>IX</p>
-<p>Șase septembrie-</p>
+<head>IX. Șase septembrie-</head>
 <p>A doua zi fu o de bucurie și de întristare, de triumf și de dolili, de slavă și de mâhnire. Împăratul Alexandru și Vodă al nostru, înconjurați de mari duci, prinți și generali, veniră să viziteze întărirea ce luasem și să ne laude și să ne răsplătească în persoană vitejia, iar sanitarii și călugării de la ambulanțe, se împrăștiară pe câmpii ca să adune pe cei căzuți fără să se mai scoale, pe acei ce ieșise din pământ și aveau drept să se întoarcă iarăși în pământ, pe cei ce își făcuse rândul și plătise cel mai aspru și mai de cinste bir.</p>
 <p>Împăratul împărți cu mâna sa prin rândurile vitejilor crucea sf. George iar Vodă al nostru ne agăță pe piept steaua României și Virtutea militară. Cei rămași în viață erau lăudați și slăviți, iar pentru cei morți care făcuse din trupurile lor trepte de scări spre a ajunge noi la biruință, pentru aceia se pregătiră numai gropi largi și adânci și varnițe de var stins ca să fie aruncați în negura uitării.</p>
 <p>Ah! Doamne, Doamne! Ce mulți erau și ce frumoși săracii! Cincisprezece ofițeri și 1200 soldați înghiți pământul într-acea cumplită zi, și mai pe urmă D-zeu știe câți mai pieri din pricina rănilor ce dobândise în groaznica zi de 30 August 1877! De-ar sta unul să socotească câte văduve, câți orfani, câți părinți sărmani au îngropat împreună cu acele leșuri toată nădejdea și bucuria lor de pe acest pământ, zău s-ar cutremura cuprinsă de jale de cumpliciunea urmărilor războiului și n-ar mai dori în toată viața așa de aspre încercări.</p>
@@ -510,7 +511,7 @@
 <p> Tocmai când mă pregăteam să merg la intendență ca să-mi iau ce bruma mai aveam și să plec și eu amărât și dosădit după frații mei, auzii pe cineva că mă cheamă de la spate, și întorcându-mă văzui pe Peneș curcanul alergând spre mine. După ce ne îmbrățișarăm și ne sărutarăm frățește, Mătrăgună îmi spuse că el în numele nostru tuturor, ceruse voie chiar de la general Cernat ca să urmăm înainte cu lupta și dobândisem autorizare d-a ne prenumăra în orice regiment ne va plăcea. Această veste mă făcu să salt în sus de bucurie și să mai sărut încă o dată pe Peneș curcanul.</p>
 </div>
 <div type="chapter" n="10">
-<p>Valea plângerii.</p>
+<head> VIII. Valea plângerii.</head>
 <p>Bătălia de la 6 Septembrie fu o pierdere pentru noi, dar o pierdere glorioasă; străinii care urmăreau cu lăcomie mișcările noastre și vrednicia oștenilor noștri și care pricepuse numaidecât șiretlicul rusesc, strigai în gura mare că astă neizbutire prețuia cât o izbândă, fiindcă am dat lumii încă o dovadă de bărbăția și nebiruita noastră îndrăzneală și prilejul să se convingă că în soldatul român sunt destule elemente care să-l facă a trece între soldații cel mai viteji și că el poate să se bată cu bărbăție fără să aibă pe muscali alături. Rușii chiar fură în mare parte dezarmați și începură a se uita la noi ca la niște oșteni vrednici d-a sta alături cu ei și d-a fi priviți ca niște frați.</p>
 <p>Dintr-acea zi bombardarea începu să nu mai fie atât de vie și planul d-a lua Plevna cu sila căzu în apă. Noul șef al statului major rus, vestitul general Totleben, apărătorul Sevastopolului ia 1854, care fusese chemat de însuși împăratul din Odesa și sosise de câteva zile, schimbă cu totul planul războiului și transformă disposițiile de atac în măsuri de înconjurare și asediu în regulă.</p>
 <p>Multe din cuvintele mele de bună seamă nu le înțelegeți ; mă iertați tătucă căci n-am alte cuvinte mai românești care să le lămurească noima într-un chip hotărâtor, căci așa le-am învățat și eu la cazarmă; aflați numai că asedil va să zică înconjurarea unei cetăți dușmane, împiedicarea d-a o face să se predea prin foame.</p>
@@ -552,8 +553,7 @@
 <p>Cu toate astea bine rău noi tot scăparăm de mirosul cel greu și puturăm înmormânta mai bine de o sută de morți. Turcii însă n-avură această parte căci lor nu le dăduse prin gând șiretlicul nostru și suferită mai mult el roadele îndărătniciei lor. Într-armați cu pilda dată de ei, făcurăm și noi ca ei, nu îi lăsarăm să ridice din câmpie picior de mort sau rănit și îi primirăm cu împușcături crâncene ori de câte ori făcuse încercări d-a se coborî în vale. Văzând și văzând că singuri își au făcut de cap și că cele mai multe stirvuri erau împrejurul tabiei lor, ne cerură însuși el voie d-a încheia un armistițiu de câteva ceasuri, și în ziua de 10 Octombrie avurăm prilej d-a colinda în cruciș și în curmeziș trista vale a plângerii și d-a îngropa pe toți morții noștri din jurul Plevnei care trecea de o mie.</p>
 </div>
 <div type="chapter" n="11">
-<p>X.</p>
-<p>Războiul de Șobolani </p>
+<head>X. Războiul de Șobolani </head>
 <p>De a doua zi după luarea Griviței, adică îndată ce se adeveri prin fapte părerea Măriei Sale Vodă al nostru cum că Plevna nu se poate lua prin silă, ai noștri se puse să aducă la îndeplinire planul Măriei Sale care nu fusese ascultat, să brăzdeze pământul cu fel de fel de drumuri și poteci care să înlesnească mergerea de colo până colo și să ne pună cu totul la adăpostul bombelor și gloanțelor dușmane. Așadar, mai întâi legarăm tăbioara ce luasem în ziua de 27 August și pe care noi o întărisem strașnic, cu Grivița No. 1 printr-un drum acopierit pe care-l săvârșirăm în câteva zile și la 7 Septembrie, adică a doua zi după a doua bătălie, începurăm să croim un drum asemenea acoperit prin valea Plângerii spre Grivița No. 2 întărit cu un al doilea rând de paralele, adică al doilea șanț tras în rând cu cel de sub redută dar la o depărtare de vreo 150 de stânjeni cam spre apusul redutei noastre. Această paralelă o dăturăm gata în zece zile de lucru fără preget. În ziua de 17 și 18 Septembrie împletirăm întruna la gabioane și le duserăm la gura șanțului unde le umplurăm bine cu pământ. În noaptea dintre 19 și 20 Septembrie lucrarăm toată noaptea, duserăm gabioanele la locul lor, le înțepenirăm bine în pământ cu fața spre dușmani și ajutați de întunericul nopții care era noroasă și fără de lună până să se lumineze, de ziuă dădurăm bateriile gata și lăsarăm pe artileriști să își așeze tunurile în voie bună.</p>
 <p>Pe când lucram astfel în ruptul capului, turcii ne simți, trase spre noi într-o doară, și cu toată bezna ce ne înconjura tot ne făcu să pierdem câțiva morți și răniți, fiindcă uneltele, cu toată luarea noastră aminte, tot făcea zgomot și povățuia pe dușmani spre ce parte să tragă. Cu toate acestea tot izbutirăm, cum zisei, să isprăvim malul de apărare și să îl întărim după legile științei ca să ne poată adăposti de gloanțele și bombele dușmănești. În ziua de 20 Septembrie săvârșirăm platformele, adică bătătura acopierită pe care să lucreze în voie tunarii și așezarăm patru mortiere de 16 și 32 luate de la Turci când cu pierderea Nicopolului.</p>
 <p>Îndată ce așezarăm și întărirăm paralela No. 2, cel din diviziunea a 3-a croiră paralela No. 3 a cărei poziție, era pieziș cu cea isprăvită, adică în direcția dinspre răsăritul miezului nopții spre apusul miezului zilei și cam la o depărtare de o sută de stânjeni de No.2; această a treia paralelă fu săvârșită de tot la 25 Septembrie. După ce dădurăm gata și această lucrare, numaidecât începurăm a patra paralelă și mai în pieziș ca cealaltă, pot zice ținea drept linia de la miază noapte spre miază zi forma aproape o adevărată paralelă cu partea dinspre răsărit a tabiei turcești, de care eram departe numai de vreo 300 stânjeni.</p>
@@ -571,8 +571,7 @@
 <p>Comandantul general îi dete voie, dar îl făcu răspunzător personal de orice urmare norocită sau nenorocită va întâmpina și-l opri cu străjnicie d-a băga în foc prea multă lume.</p>
 </div>
 <div type="chapter" n="12">
-<p>XII.</p>
-<p>Bătălia de la 7 Octombrie</p>
+<head>XII. Bătălia de la 7 Octombrie</head>
 <p>În ziua de 7 Octombrie ne deșteptarăm în zgomotul asurzitor ce făceau tunurile mai cu asupra ca în alte dăți. Toate bateriile rusești și romanești vărsau foc și pară peste cuiburile turcești și ridicau cu bombele lor până în slava cerului praful parapetelor lor. La toată astă gălăgie, Turcii răspundeau cât se poate de slab dinspre muntele verde și bateriile după înălțimile Kristinei, iar despre Bucova și Grivița, rămase în cea mai deplină tăcere tabiele lor, ca cum nici n-ar mai fi fost ființă vie prin ele.</p>
 <p>Fără să ținem socoteală de acest zgomot și de bombele și șrapnelele ce zburau prin văzduh și se spărgeau țipând cumplit pe aproape de anteposturile noastre, noi ne îmbrăcarăm și ne scuturarăm mai cu asupra ca înalte dăți, ca unii ce eram hotărâți să intrăm și noi în foc, și după aceea mâncarăm bine și băurăm câte oleacă de rachiu și începurăm a ne urni spre gura paralelelor.</p>
 <p>Mai înainte de a intra în bătaia tunurilor, Peneș curcanul care împreună cu noi făcea parte din cele dintâi cete de atac, ne trase la o parte și ne zise:</p>
@@ -618,8 +617,7 @@
 <p>La două ceasuri punct fiecare intrarăm în șanțurile noastre și o bubuitură de tun pornită din întăririle de la Bucova ne vesti că războiul iarăși a început; dar până seara nu mai începu harța, ci fiecare Român sau Turc putu să iasă iarăși din șanțuri fără de arme ca să se ducă de colo până colo nesupărat și să se întâlnească în drum fără să-șl facă cel mai mic rău.</p>
 </div>
 <div type="chapter" n="13">
-<p>XIII</p>
-<p>Plevna înconjurată</p>
+<head>XIII. Plevna înconjurată</head>
 <p>După sfârșitul acestor istorisiri, Velicu se scula în sus, și rezemându-se pe picioarele sale de lemn, făcu semn ascultătorilor săi că a ostenit și nu mai poate grăi, și șontâc șontâc, intră în casă, rezemăndu-se de umărul femeii celei voinici, poftind unchiașilor noapte bună; iar a doua zi se adunară mai din vreme pe prispa casei și pe la scăpatul soarelui Velicu începu iarăși să grăiască în chipul următor:</p>
 <p>Cică vodă se supără foarte mult pe colonelul Anghelescu a făcut această încercare sângeroasă, și mustră cam aspru pe general Cernat că i-a dat voie; d-al de astea se șopteau printre noi în zilele ce urmă după această nenorocoasă bătălie, și faptele începu să cam adeverească lucrurile. În ziua de 12 Octombrie divizia noastră primi poruncă d-a părăsi Grivița și d-a face schimb cu divizia II-a. Începui să plâng când auzii că părăseam câmpul de război fără să am parte d-a vedea războiul sfârșit și mi se strânse inima de durere când văzui că trecem Vidul, ne depărtăm cu totul de Plevna și ne înșiruim pe drumul pe care venise divizia a II-a și III-a de la Corabia, adică între Caciamunița, Demirkiol și Trestenic, cu totul depărtați de grosul armatei noastre și legați de brigada colonelului Sachelarie care înconjura Opanezul numai prin călărașii colonelului Roznoveanu.</p>
 <p>Un singur lucru ne mai bncură și ne făcu a ne hrăni de oarecare nădejde: garda împărătească Rusă sosise și ocupase tocmai partea de dincolo de Vid dintre Krișina, adică aripa stângă a Rușilor, Blașovaț și Doini și Gorni Etropol. Cu chipul acesta Plevna fu cu desăvârșire înconjurată de oști îndestulătoare de toate armele: infanterie, cavalerie și artilerie, și Osman fu osândit ca sau să se predea sau să moară de foame.</p>
@@ -647,8 +645,7 @@
 <p>Încă unul din noi plăti cu viața această nouă dovadă de vrednicie a neamului românesc. Ați fi aflat și d-voastră de la alții cele ce s-au petrecut până ce puserăm mâna pe acea cetate, vitejia ce desfășurară ai noștrii în ziua de 7 Noiembre, atacând Rahova dinspre Selanovița și suind râpa Lescovațului; ați fi aflat cum muri maior Ene și Giurescu în fruntea vitejilor lor și cum Mehedințenii apărară podul de peste Schit în ziua de 9 Noiembrie când Turcii luase fuga; eu nu sunt în stare să vi le spui că le-am aflat și eu ciontite după la soldați care n-au fost față la desfășurarea acestor lupte, și care ni le spuse tocmai peste vreo zece zile după ce se petrecură, adică când ieșiră din spital scăpat de friguri. De atunci și până acum eu nu mai putui să dau ochii cu cel ce se războise la Rahova, căci el după biruință porniră spre Vidin, iar după încheierea păcii el apucară spre dreapta și eu cu al mei spre stânga.</p>
 </div>
 <div type="chapter" n="14">
-<p>XIV</p>
-<p>începutul sfârșitului</p>
+<head>XIV. începutul sfârșitului</head>
 <p>Luarea Rahovei pricinui mare bucurie între Români, s-ar fi pricinuit și mai mare, și ar fi înălțat și mai sus fala numelui românesc daca n-ar fi fost amestecat ca mărarul generalul Rus, care în loc d-a ne da ajutor zăticni pe ai noștri ținându-i o zi întreagă în nelucrare prin fel de fel de păreri împotrivitoare părerilor noastre și lăsând pe Turci să fugă pe la nasul lor cu tunuri, furgoane cu tot. Asta însă ne fu drept învățătură de minte pentru viitor ca să nu mai avem în clin și în mânecă cu străinii, și pentru că altă dată când o mai fi să avem nevoie de a ne întovărăși cu cineva, să luăm mai dinainte înțelegere ca să nu mai dăm de dandanale. Cu toate acestea luarea Rahovei tot</p>
 <p>1) Descrierea detaliată a bătăliei de la Rahova se află în nuvela de la Rahova publicată în anul 1889, în ediție Separată.</p>
 <p> fu un ghimpe pentru dușmănoșii noștri prieteni și o pricină de mândrie pentru noi; petrecerile și ziafeturile între cei mari se ținu lanț o săptămână întreagă; chiar împăratul Alexandru bău un pahar de vin în sănătatea biruinței Românilor acestea toate turbară pe pismătăriții de Muscali.</p>
@@ -678,8 +675,7 @@
 <p>Rușii la rândul lor, câți se aflau la spatele Plevnei, porniră spre dânsa, ocupară când de voie când cu sila redutele dușmănești, făcură mai multe mii de prizoneri, intrară după Români în Plevna și după ce o ocupară porniră spre Vid.</p>
 </div>
 <div type="chapter" n="15">
-<p>XV</p>
-<p>Luarea Plevnel</p>
+<head>XV. Luarea Plevnei</head>
 <p>Noi credeam că, în partea noastră avea să fie atacul cel mai însemnat și ne despărțirăm numaidecât în două părți: o brigadă se întări pe malul stâng al râului între Susurlu și Dorni Etropol și a doua brigadă înaintă cu pas gimnastic spre Opanez ca să-l ocupăm și să ne întărim într-însul spre a trăsni pe dușmani luându-i în flanc. Cum ajunserăm acolo ne repetarăm spre șanțuri ca o vijelie, luarăm cu asalt reduta dinspre răsărit fără cea mai mică împotrivire din partea Turcilor care încă o ocupa; ne repezirăm ca ulii spre a doua redută, și după ce dădurăm câteva salve, văzurăm steagul alb ridicându-se deasupra parapetelor într-un vârf de pușcă și încetarăm Jocurile.. Turcii se predară fără împotrivire și ne dete în primire o baterie întreagă de tunuri de câmp calibru No. 9, mai multe tunuri de munte, peste 3000 de puști, lăzi cu cartușe nenumărate și 2000 și mai bine de prizonieri.</p>
 <p>Văzându-ne stăpâni pe această poziție însemnată, nu ne îmbătarăm de fumul unei biruințe lesnicioase nici crezurăm că războiul era sfârșit, căci leul încă nu era doborât, grosul armatei nu se predase încă; așadar numaidecât puserăm în poziție tunurile noastre și ne pregătirăm de lucru.</p>
 <p>Într-astă vreme Osman Pașa în capul unei armate de 40,000 de oameni și urmat aproape de 300 de care încărcate cu felurite provizii, trecea Vidul peste podul de piatră și celălalt pod făcut din care, cum am mai spus, și își pregătea atacul deznădăjduit de ieșire.</p>
@@ -709,8 +705,7 @@
 <p>Pe la jumătatea drumului dintre pod și căsuța unde zăcea Osman Pașa, auzirăm ieșind dintr-un șanț un geamăt greu și niște suspine dureroase și ne oprirăm în loc. Peneș Curcanul care era mila și bunătatea în carne și oase, sări în șanț ca să vadă cine avea nevoie de ajutor, și eu împins de aceeași simțire mă apropiai de marginea lui și vădui în fundul șanțului un turc rănit care zăcea cu fața în jos și umplea văzduhul de gemetele lui. Mătrăgună numaidecât se plecă în jos, îi vârî binișor o mână după cap și cu cealaltă îl întoarse cu fața în sus; însă într-același minut rănitul se ridică în picioare repede ca fulgerul, se năpusti spre mântuitorul său și căzu peste el cu o iuțeală neînchipuită. Grigore atunci scoase un răget de durere și nu mai zise nimic. Astea toate se petrecură într-o clipă, căci eu cum văzui mișcarea turcului sării în șanț, mă năpustii asupra păgânului fără de lege, îi spintecai grumazul cu tesacul meu și îi aruncai stărful cât colo, dar când să ridic pe sergentul meu... Eh! căci n-am atâta lacrimi cât trebuie să vărs pentru pierderea unui asemenea om. Când să-l ridic, acela ce fusese cruțat de bombe, șrapnele, granade și gloanțe, deși le înfruntase cu bărbăție, zăcea fără de viață cu pieptul pătruns de un cuțit ucigaș înfipt prin mișelie.</p>
 </div>
 <div type="chapter" n="16">
-<p>XVI.</p>
-<p>Bătălia de la Smârdan</p>
+<head>XVI. Bătălia de la Smârdan</head>
 <p>Luarea Plevnei schimba cu totul fața războiulul dar nu săvârși războiul, căci turcii mai aveai încă cinci armii întregi întregulițe: în Ruștiuc, în împrejurimele Șumlei, în dosul Balcanilor, în Vidin și în fața Șerbilor și Muntenegrenilor, între care una, cea de la Șumla, începuse să capete oarecare foloase împotriva Rușilor, să le ia din mână Elena, amenințând Târnova, Lovcea și chiar siguranța aripii stânge rusești din fața Plevnei, tocmai în minutele când cădea Plevna.</p>
 <p>Din norocire pentru noi, astă neașteptată întâmplare, adică doborârea celui mai viteaz căpitan Turc, făcu pe păgâni să-și piardă cumpătul, se înmoaie curajul și să fugă ca niște nebuni dinaintea biruitorilor, și cei ajunși de ei să se predea mai fără de luptă.</p>
 <p>Soleiman Pașa după ce izbutise prin intrigi de sarai a răsturna pe Mehmed Ali învinovățindu-i că era netrebnic, fugi ca cel mai netrebnic dintre netrebnici din Șumla dincolo peste Balcani, fără să fie silit de nimeni, și grămădi numeroasele sale oști între Andrianopoli și Filipopoli. Mehmed Aii care se pusese în capul oștilor comandate de Șefchet pașa, fu bătut la Sofia de grenadirii lui Gurco de nu știu ce să ia de jos, Reuf Pașa lăsă trecătoarele Balcanilor în mâinile lui Scobelef după o foarte slabă împotrivire, și îngâmfatul Soleiman, dând în sfârșit ochii cu dușmanii, el care criticase pe toți, el care acuzase pe toți, el care aruncase în obrazul tuturor ponosul de mișel, se purta ca cel din urmă mișel, fugi cu o armie îndoit mai numeroasă ca a Rușilor dinaintea lor mai fără să se bată și îșî văzu întreaga armie zdrobită, tăiată în două și aruncată în mare mai la porțile Constantinopolui de niște oști obosite de treceri anevoioase prin niște munți prăpăstioși acoperiți de zăpadă, cărora un asediu îndelungat le scursese jumătate din puteri.</p>
@@ -754,8 +749,7 @@
 <p>Bătălia de la Smârdan ne costă pe noi 20 ofițeri și 600 soldați morți și răniți și pe Turci 400 oameni morți, vreo 700 răniți și 12 ofițeri și 450 soldați prizonierli împreună cu 4 tunuri și o mare cătățime de muniție și bagaje.</p>
 </div>
 <div type="chapter" n="17">
-<p>XVII</p>
-<p>În Vidin</p>
+<head>XVII. În Vidin</head>
 <p>În ziua de 14 Ianuarie începurăm să facem șanțuri de apropiare, dar le lăsarăm baltă, căci locul era mocirlos și ieșea apă la o adâncime de trei palme; furăm dar nevoiți să renunțăm de a face redute împrejurul cetății, și să ne mărginim numai la o bombardare din câmp liber strângând întruna cercul de împresurare.</p>
 <p>La un atac de asalt nici nu ne gândeam căci Vidinul e cetate înconjurată de stavilele cele mal anevoie de biruit. Despre partea râului el e înconjurat de două rânduri de ziduri de piatră la o depărtare de 8 stânjeni unul de altul, între care este săpat un șanț foarte adânc care se poate umple oricând cu apă din Dunăre prin ridicarea unor stăvilare foarte lesne de ridicat; la dreapta și la stânga cetății sunt două cetățui întărite legate cu zidul prin fortificații pasagere săpate în malul râului.</p>
 <p>Dinspre partea uscatului zidul urmează de a încinge cetatea într-un cerc în șapte muchi cu turnulețe în colțuri, dar cu vremea orașul s-a întins spre partea uscatului și ca să-l apere și din acea lătură turcii au durat nouă torturi legate între ele cu drumuri acoperite și înconjurate de șanțuri addnci și late care se puteau mple lesne cu apă din râul Sfântul Petre ce curge pe aproape.</p>
@@ -768,7 +762,7 @@
 <p>Această din urmă faptă de arme încheia lupta între Români și Turci și pecetlui pentru vecie scumpa noastră neatârnare. Eu stătui în spitalul din Vidin cât stătu și oștirea noastră, căci după părerea doctorilor strămutarea dintr-un loc în altul mi-ar fi fost percutoare, și mă bălăbăni între moarte și viață aproape trei luni.</p>
 <p>Ce e drept doctorii făcură tot ce știură ca să scap olog dar cu zile, îmi dădură toate îngrijirile putincioase, dar nu putură să facă mai mult, căci ca mine erau prea mulți și trebuia să se facă în patru ca să ne prididească pe toți; din norocire pentru mine care aveam nevoie de un ajutor mai de aproape, sosise de curând în spitalul nostru împreună cu alte surori de caritate și o țărăncuță tinerică și frumoasă care trăise numai trei luni cu bărbatul său și-l pierduse în urma unei răni dobândită la bătălia de la 30 August. Acelei femei îi intrase în cap că bărbatul său a murit numai fiindcă nu avusese cine să-l îngrijească de aproape; această idee o făcuse să se hotărască a-și jertfi viața pentru căutarea răniților. Sosind prea târziu eu fusei cel dintâi care căzu în mâinile ei și nu mă plâng căci ei sunt dator că mă văd azi cu zile. Nicio mumă nu putea să mă îngrijească cu băgarea de seamă și sărguiala ei. Nu dormea toată nopticica și ziua nu se dezlipea de căpătâiul meu. Această îngrijire stăruitoare îmi scăpă viața si eu de bucurie i-am jertfit-o ei, pentru ea am lăsat tată, mama, frate, surori, ogor și plug; mi-am năpustit casa unde m-am născut și am venit de m-am așezat aici în satul vostru și m-am cununat cu ea.</p>
 <p>Iată istoria lui Peneș curcanul și a celor nouă frați din Vaslui.</p>
-<p>FINE</p>
+   <milestone unit="FINE"/>
 </div>
 </body>
 </text>
