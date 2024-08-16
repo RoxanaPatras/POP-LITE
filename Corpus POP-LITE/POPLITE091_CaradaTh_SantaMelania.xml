@@ -39,12 +39,12 @@
                <pubPlace>București</pubPlace>
                <publisher>TIPOGRAFIA PROFESIONALĂ, DINU C. IONESCU</publisher>
                <date>1913</date>
-               <decoNote type="ilustratii" subtype="no"/>
-               <dim unit="char" type="mare"/>
+               <decoNote type="illustration" subtype="no"/>
+               <dim unit="char" type="big"/>
                <extent>
                   <measure unit="word">40016</measure>
                   <measure unit="page" type="under_250"/>
-                  <measure unit="foileton" type="under_65"/>
+                  <measure unit="feuilleton" type="under_65"/>
                   <measure type="complete"></measure>
                </extent>
             </bibl>
@@ -64,8 +64,8 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="5"/>
-               <term type="republicare" n="2"/>
+               <term type="reception" n="5"/>
+               <term type="print_count" n="2"/>
                <term type="finished"></term>
                
             </keywords>
@@ -73,8 +73,8 @@
       </profileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
             <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
             <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
          </projectDesc>
@@ -83,8 +83,7 @@
  <text>
 <body>
 <div type="chapter" n="1">
-<p>I</p>
-<p>TINEREȚILE MELAN1EI</p>
+<head>I. TINEREȚILE MELAN1EI</head>
 <p>În Roma, pe colina numită Celiu, în mărețul palat al Valeriilor, s-a născut S. Melania. Cardinalul Rampolla, în frumoasa sa lucrare asupra Sântei s-a ostenit și a reușit, printr-o critică plină de erudițiune să determine cronologia privitoare la viața Melaniei, rectificând o mulțime de greșeli. Din lucrarea Eminentisimului Cardinal, știm cu siguranță că S. Melania a văzut lumina zilei în anul 383.</p>
 <p>1) M. Card. Rampolla del Tindaro. Santa Melania Giu-niore Senatrice Romana. Documenti contemporanei e note. Roma. Tipografia Vaticana. 1905.</p>
 <p>Trecuseră dar, câteva zecimi de ani, de când S. Constantin cel Mare declarase creștinismul religie a Imperiului. Totuși păgânismul nu-și pierduse încă toată puterea. Multe familii se credeau ținute de un patriotism rău înțeles să păstreze riturile păgâne și să se închine idolilor, din respect pentru așa zisa lege strămoșească. La acest pretins patriotism, contribuia mai cu osebire faptul că în păgânismul antic, oamenii găseau o amorțire a acelui sentiment înnăscut, care face că sunt excesivi de rari oamenii care se pot lipsi de orice credință religioasă, și sunt foarte mulți cei ce se mulțumesc ușor cu o lege care nu are nimic potrivnic pornirilor ori patimilor omenești. Din acest punct de vedere păgânismul antic, cu riturile sale rușinoase, cu zeificarea plăcerilor senzuale, satisfăcea minunat moravurile antice și pofta romanilor de a trăi în plăcere și desfrânare. Dar pentru că așa e făcut omul, de-i este peste mână a mărturisi motivele josnice care îl fac să se țină ori să apuce pe o cale greșită, și romanii, care rămâneau fideli idolilor, încercau să se justifice print-un cald patriotism, printr-un naționalism neprihănit, ba unii mergeau chiar să facă sofisme, spre a dovedi că păgânismul e superior ca concepțiune creștinismului.</p>
@@ -130,8 +129,7 @@
 <p>Cu moartea lui Publicola, la nouăsprezece ani, se închid tinerețile Melaniei. De atunci ea începe viața de lupte și de jertfe, veața aceea care avea să o așeze în rândul celor mai aleși dintre sfinții Domnului.</p>
   </div>
 <div type="chapter" n="2">
-<p>II</p>
-<p>SÂNTA MELANIA ÎN ITALIA</p>
+<head>II. SÂNTA MELANIA ÎN ITALIA</head>
 <p>În secolul IV călugărirea nu se făcea cu formele de azi. Atunci fecioarele primeau din mâinele arhiereului haina de lână, brâul de piele și vălul cel negru; preotul binecuvânta pe văduvele ce se călugăreau; cei căsătoriți îmbrăcau singuri chipul îngeresc, ca unii ce făceau lucrul acesta de la ei și numai de la ei.</p>
 <p>De aceea dar, Melania lepădă singură hainele cele frumoase și îmbrăcă rochia de lână cafenie, își încinse mijlocul cu o curea de piele și își învălui capul cu o cârpă neagră. Odată cu ea se călugări și Albina, mama ei.</p>
 <p>Pinian avea slăbiciune mare a se îmbrăcă elegant, și ținea mult la veșmintele lui. El se cam lenevea, când era vorba să se îmbrace strict călugărește, și căuta să păstreze oarecare eleganță în port. Negreșit, luase și el haine călugărești, dar calitatea stofelor, croiala hainelor lui trădau încă ceva lumesc. Melania era mâhnită văzându-l că pregetă a pune pe el stofele cele mai grosolane, că ține încă la croiala hainelor. În viața sfintei, biograful Melaniei povestește cu ce delicatețe și dibăcie reuși ea să smulgă din sufletul lui Pinian și această ultimă legătură lumească.</p>
@@ -178,7 +176,7 @@
 <p>Era dat Melaniei să nu părăsească pământul italian, până nu văzu cu ochii, și jefuirea Romei de hordele lui Alaric, și pieirea acestei rase barbare. Și mare parte din averea Valeriilor se duse, în ajutoare împărțite celor ce suferiră mai mult după urma acestei catastrofe, care era începutul: decăderii atotputernicilor romani.</p>
   </div>
 <div type="chapter" n="3">
-<p>III. Melania în Africa</p>
+<head>III. Melania în Africa</head>
 <p>Pornind din Sicilia, Melania ar fi voit să treacă prin Nola, ca să ia încă o binecuvântare de la S. Paulin; de aceea ea porunci căpitanului corabiei să cârmească spre portul Nolei. Vântul însă era absolut contrar și Melania, întotdeauna supusă voiei Celui de sus, hotărî să lase corabia să meargă încotro o mână vântul. Și așa, după câteva ceasuri, ei ajunseră în portul unei mici insule ce părea agitată de o mare revoluție. Locuitorii de frunte, femeile și copiii lor, zăceau în lanțuri. Poporul se văită în disperare. Toți alergau încoace și încolo, plini de groaza. Cete de vizigoți înconjurau piața, și corăbiile barbarilor păzeau portul. Gherontie nu ne spune numele ostrovului ăsta; dar ne povestește că episcopul locului, cum văzu pe Melania că se dă jos din corabie, merse spre ea, și în genunchi o rugă să vină în ajutorul unei creștinătăți nenorocite. Barbarii cereau locuitorilor o mare sumă de bani, bieții locuitori adunaseră tot ce aveau, dar tot le lipsea două mii cinci sute bani de aur, până a împlini suma cerută. Plânsetele, rugăciunile nenorociților nu putuseră îndulci pe barbari, care acum se pregăteau să ia robie pre locuitori și să devasteze insula lor. Imediat Pinian numără visigoților suma ce lipsea locuitorilor, ba le mai dete încă cinci sute bani de aur și de robi o matroană romană, ce zăcea în lanțuri pe galerele lor. Suma dăruită cu ocazia aceasta întrece valoarea a cinci sute de mii de lei, bani din ziua de azi. Insula pe care o mântui astfel Melania, se pare că a fost una din insulele Lipari.</p>
 <p>De acolo Melania porni de-a dreptul în Africa, și se scoborî la Cartagena. Cornițele provinciei era atunci unul anume Eraclie care, după cum povestește S. Ieronim, găsise nimerit să profite de nenorocirea Romei, ca să se îmbogățească. In acest scop jefuiră pe romanii ce căutau adăpost în provincia cârmuită de el, și pe care se gândea să o transforme într-un regat al său. Se spune că mergea până a vinde pe acești nenorociri negustorilor de sclavi, care îi duceau în Orientul mai îndepărtat. Femei din cele mai ilustre familii, erau vândute haremurilor persiane. Proba Faltonia, o vecină a Melaniei, de pe când locuia palatul celimoniei, abia putu să scape de soarta aceasta,, pe care Eraclie i-o pregătise ei și nepoatei sale Demetria, ce o însoțise în Africa. Așa pățeau mai toți cei ce veneau din Italia. Corăbiile erau adăstate de slujitorii lui Eraclie. Imediat ei puneau stăpânire pe corabie, ridicau tot ce găseau acolo, și pe călători îi duceau înaintea lui Eraclie, spre a dispune de averea și soarta lor. Slujitorii lui Eraclie, nu dătură însă nicio importanță unei corăbii ce aducea niște călugări slăbiți de post și îmbrăcați în haine sărăcăcioase. Nici măcar nu se osteniră a cerceta boarfele lor, care nu puteau conține altceva decât pâine uscată, și ceasloave murdărite de mâinile neîngrijite ale drumeților.</p>
 <p>S. Augustin fusese vestit de sosirea Melaniei, și ar fi dorit să vină înaintea ei la Cartagena; dar ocupat cu niște conferințe la care chemase pe donatiști, se mulțumi a le ura în scris bun venit în țara lui.</p>
@@ -231,8 +229,7 @@
 <p>De aceea dar, fără teamă de greutățile iernii, Melania părăsi în grabă Africa, pentru a doua și ultima oară.</p>
   </div>
 <div type="chapter" n="4">
-<p>IV.</p>
-<p>S. MELANIA IN IERUSALIM</p>
+<head>IV.S. MELANIA IN IERUSALIM</head>
 <p>După o călătorie de două săptămâni, — pe atunci drumul din Alexandria la Ierusalim se făcea în șaisprezecele zile— Melania și ai săi intrară în cetatea Sionului.</p>
 <p>Tot ce prinseseră până atunci din vânzarea averilor lor, cuvioșii noștri îl împărțiseră în milostenii. Puținul ce mai aveau încă, chiar în ziua sosirii lor, îl duseră episcopului din Ierusalim, ca să fie împărțit, de el, săracilor. De a doua zi câte trei, lipsiți de orice avere, începură să vină regulat la episcopie, ca să primească taina ce episcopia împărțea dimineața cerșetorilor lipsiți de mijloace.</p>
 <p>In secolul IV și V, asistența publică o făceau episcopiile, care centralizau milele creștinilor evlavioși, și le împărțeau apoi cu socoteală celor ce într-adevăr erau lipsiți de cele trebuincioase vieții. Această cutie a milei era administrată de unul din diaconii episcopiei; Episcopul locului dă o mare însemnătate acestui serviciu public necunoscut pe pământ, înainte de întemeierea creștinismului. Statul antic, în păgânătatea lui, nici ideie nu avea de asistența publică; și nici culturile păgâne nu cunoșteau milostivirea. Nici chiar împărțirea de pâine și de grâne, ce se făcea la Roma plebei, nu avea de loc caracterul unei asistențe pentru săraci. Se împărțea de mâncare plebei, fără deosebire, și aceasta numai în scop politic și electoral.</p>
@@ -296,7 +293,7 @@
 <p>La întoarcerea ei în Ierusalim, Melania fu cuprinsă de gândurile morții,ce se apropia. Dar înainte de a descrie sfârșitul Cuvioasei, se cuvine să ne ocupăm de petrecerea ei în Bizanț, la Constantinopol, unde cunoscu ea mai întâi pe Împărăteasa Eudoxia.</p>
   </div>
 <div type="chapter" n="5">
-<p>V. S. MELANIA LA CONSTANTINOPOL</p>
+<head>V. S. MELANIA LA CONSTANTINOPOL</head>
 <p>Albina, mama S. Melanii, era după cum se știe de neam bun, scoborîtoare din Ceionii. Ceionii Volusieni, ramura din care se trage Albina a fost rămas mai mult credincioasă legii strămoșești, adică păgânismului.</p>
 <p>Neamul acesta al Ceioniilor era foarte vechi și nobil. El era de origine etruscă și se împărțea în mai multe ramuri: Rufii Ceionii, Ceionii Iuliani și Rufii Ceionii Cecina. În această din urmă spiță era obiceiul a se da membrilor ei numele de Albin și Volusian, de aceea uneori ramura Ceionilor Cecina era numită uneori Ceionii Albini și Ceionii Volusieni. Spița Volusienilor era alteori numită și Sabini.</p>
 <p>Tatăl Albinei noastre, adică bunicul matern al S. Melanii se numea Publius Caeionius Caecina Albinus, și fusese într-un timp Proconsul al Numidiei. El este îndeobște cunoscut sub numele de Ponteficele Albinus, căci era pontifex major, adică mare preot al zeiței Vesta. Pe niște pietre ce s-au găsit în Africa, unde a trăit câtva timp ca Proconsul al Numidiei, s-a găsit săpat numele acestui Albinus și i se zice: vir clarissimus consularis. Toți contemporanii lui Albinus laudă talentele și erudiția acestui arhiereu păgân. Însuși S. Ieronim a întreținut relații prietenești cu marele preot al Vestei, și vestitul monach ne spune că Albinus era un bărbat prea distins și foarte învățat. Mulți cred că Albinus înainte de moarte ar fi trecut la creștinism. Cardinalul Rampolla scrie că lucrul este foarte cu putință, dar că nu e cu nimic dovedit.</p>
@@ -314,8 +311,8 @@
 <p>Melania primi cu bucurie scrisoarea lui Volusian, pe care se obișnuise a-l iubi din copilărie și pentru mântuirea căruia se ruga neîncetat. Totuși un moment stătu la îndoială, și ceru sfat duhovnicesc de ce trebuie să facă. Toți fiind de acord, că Melania era datoare să răspundă la chemarea unchiului ei, ea porni spre Constantinopol cu nădejdea în suflet că drumul acesta trebuie să fie de vreun folos sufletesc.</p>
 <p>Ieromonachul Gherontie, care o însoți în această călătorie, ne-a lăsat în scris amănuntele călătoriei S. Melanii la Constantinopol.</p>
 <p>El ne povestește cum Căpitanul poștei din Tripolisul Palestinei, se codea la datul catârilor trebuincioși la drum, și cum, spre a-l decide, Gherontie dădu acestui curier, anume Messala, trei bani de aur. Pe când Gherontie se ciorovăia cu Messala, S. Melania era dusă la biserica unde se găseau moaștele S. Mucenic Leonte. Ea se rugă de sfântul acela să-i arate în vreun chip oarecare, dacă drumul ce făcea Melania la Constantinopol era sau nu plăcut Domnului. Și iată că spre dimineață se pomenesc cu Messala, alergând în fugă după ei și țipând lui Gherontie să se oprească în loc. Au crezut bieții oameni, că Messala, și-a făcut seamă și nu e mulțumit cu bacșișul dat, de aceea Gherontie se grăbește a-i făgădui încă o dată atât, cât i-a mai dat. Dar căpitanul poștei, aruncă banii și nu pleacă până ce Melania nu-l binecuvântează, și-i promite că nu va spune nimănui de aceea că a îndrăznit un moment să primească bacșiș pentru datul catârilor.</p>
-<p>II. Tlieodorian-Carada</p>
-<p>În Via Appia, la Melania, se opresc •episcopii plecați clin Constantinopole spre a cere Papii să facă dreptate cu vrăjmașii S. Ion Clirisostom. Cei ce aduseră Papii Inochentie apelul lui Clirisostom, fură găzduiți de Melania. Așa făcu Cuvioasa noastră cunoștința lui Pansofle Episcopul Pisidiei și a lui Dumitru al Ga-latiei; așă cunoscu pe Papiu Sirianul și pe Eugenia al Frigiei. Când vrăjmașii S. Arhiepiscop al Constantinopolei, goniră din Bizanț pe Teocton, pe Chiriac al Sinadelor și pe Evloghie al Apamiei, tot Melania' îi găzdui la ea și căută să le îndulcească exilul. Și Paladie, Episcopul din Elinopole, pomenește de chipul cum Melania primea și milostivea pe arhiereii ce veneau clin Orient la Roma 1).</p>
+
+<p>În Via Appia, la Melania, se opresc episcopii plecați clin Constantinopole spre a cere Papii să facă dreptate cu vrăjmașii S. Ion Clirisostom. Cei ce aduseră Papii Inochentie apelul lui Clirisostom, fură găzduiți de Melania. Așa făcu Cuvioasa noastră cunoștința lui Pansofle Episcopul Pisidiei și a lui Dumitru al Ga-latiei; așă cunoscu pe Papiu Sirianul și pe Eugenia al Frigiei. Când vrăjmașii S. Arhiepiscop al Constantinopolei, goniră din Bizanț pe Teocton, pe Chiriac al Sinadelor și pe Evloghie al Apamiei, tot Melania' îi găzdui la ea și căută să le îndulcească exilul. Și Paladie, Episcopul din Elinopole, pomenește de chipul cum Melania primea și milostivea pe arhiereii ce veneau clin Orient la Roma 1).</p>
 <p>De la toți episcopii și călugării aceștia, Melania auzea laude pentru vieața minunată ce petreceau în pustiile Africei și ale Palestinei, miile de cete călugărești. Stând de vorbă cu acești cuvioși, Melania se aprinde .-de dorul de a vedea cu ochii pe părinții aceia, și a dobândit de la ei binecuvântare și învățătură sufletească. Se decide dar să urineze învățătura ce Domnul Nostru lisus Hristos dete bogatului, când îi spuse să-și vândă averile și să le împartă săracilor. Se hotărî să împartă săracilor averea Valeriilor, și apoi, după ce o va împărți celor nevoiași, să se ducă la Ierusalim ca să-și sfârșească zilele în schimnicie aproape de Sfântul Mormânt. . *</p>
 <p>Pentru a-și pune însă planul în lucrare-, Melania trebui să înceapă prin a se desface de proprietățile ce formau avutul Valeriilor. Pentru aceasta avii ea să îndure multe greutăți, pe care nu le putu birui decât grație cerului, care îi veni în ajutor tocmai atunci când omenește nu mai eră nimic de sperat.</p>
 <p>Averile senatorilor, serveau. nu numai pentru a permite aristocrației romane să trăiască în belșug, dar din ele se înfrupta tot poporul roman; căci senatorii erau obligați să dea pe cheltuiala lor jocuri și serbări publice, de care nu se puteau lipsi romanii cei vechi. De aceea averile lor erau supraveghiate de Senat. Senatul ținea un registru în care erau trecute toate proprietățile membrilor- lui, și se pare că acești senatorii constituiau un fel de majorate, pe care detentorii lor nu le puteau cheltui fără nici o regulă. Patrimoniul senatorial eră grevat de o sarcină : aceea de a înveseli poporul cu petreceri publice foarte costisitoare. Apoi asupra patrimoniului senatorial, aveau drepturi •eventuale, rudele care se țineau chemate prin dreptul succesoral să posede o dată •direct, sau prin moștenitorii lor, un astfel de patrimoniu.</p>
@@ -354,8 +351,7 @@
 <p>Melania se osteni a îndulci suferințele din apropierea ei, ajutând cu parale pe cei devastați și mângâindu-i cu vorbe-bune. -</p>
 <p>Infine, moartea aproape subită a lui Alaric, risipi liordele barbare, și dete oarecare siguranță călătoriei pe mare. In Decembrie 410, Melania însoțită de Pinian și Albina, se îmbarcă la Regio pe o corabie, a cărei pânze luară vânt spre Africa.</p>
 <p>Erâ dat Melaniei să nu părăsească pământul italian, până nu văzu cu ochii, și jefuirea Romei de liordele lui Alaric, și pieirea acestei rase barbare. Și mare parte din averea Valeriilor se duse, în ajutoare împărțite celor ce suferiră mai mult după, urma acestei catastrofe, care erâ începutul: decăderii atotputernicilor romani.</p>
-<p>III.</p>
-<p>MELANIA IN AFRICA</p>
+<p>III. MELANIA IN AFRICA</p>
 <p>Pornind din Sicilia, Melania ar fi voit să treacă prin Nola, ca să iă încă o binecuvântare de la S. Paulin; de aceea ea porunci căpitanului corabiei să cârmească spre portul Nolei. Vântul însă eră absolut contrar și Melania, totdeauna supusă voiei Celui de sus, hotărî să lase corabia să meargă încotro o mână vântul. Și-așa, după câteva ceasuri, ei ajunseră în portul unei mici insule ce părea agitată de o mare revoluție. Locuitorii de frunte, femeile și copiii lor, zăceau în lanțuri. Poporul se vaită în disperare. Toți alergau încoace și încolo, plini de groaza. Cete de visigoți înconjurau piața, și corăbiile barbarilor păzeau portul. Gherontie nu ne spune numele ostrovului ăsta; dar ne povestește că episcopul locului, cum văzu pe Melania că se dă jos din corabie, merse spre ea, și în genunchi o rugă să vie în ajutorul unei creștinătăți nenorocite. Barbarii cereau locuitorilor o mare sumă de bani, bieții locuitori adunaseră tot ce aveau, dar tot le lipsea două mii cinci sute bani de aur, până a împlini suma cerută. Plânsetele, rugăciunile nenorociților nu putuseră îndulci pre barbari, cari acum se pregăteau să iâ în robie pre locuitori și să devasteze insula lor. Imediat Pinian numără visigoților suma ce lipsea locuitorilor, ba le mai dete încă cinci sute bani de aur și desrobi o matroană romană, ce zăcea în lanțuri pe galerele lor. Suma dă-' ruită cu ocazia aceasta. întrece valoarea a cinci sute de mii de lei, bani din ziua de azi. Insula pre care o mântui astfel Melania, se pare că a fost una din insulele Lipari.</p>
 <p>De acolo Melania porni de-adreptul în Africa, și se scoborî la Cartagena. Cornițele provinciei eră atunci unul anume Eraclie care, după cum povestește S. Ioronim, găsise nimerit să profite de nenorocirea Romei, ca să se îmbogățească. In</p>
 <p>acest scop jefuiâ pe romanii ce căutau adăpost în provincia cârmuită de el, și pe care se gândea să o transforme în-tr’un regat al său. Se spune că mergea până a vinde pe acești nenorociri negustorilor de sclavi, cari îi duceau în Orientul mai depărtat. Femei din cele mai ilustre familii, erau vândute haremurilor persiane. Proba Faltonia, o vecină a Melaniei, de pe când locuia palatul celimon-tan, abia putu să scape do soarta aceasta,, pe care Eraclie i-o pregătise ei șv nepoatei sale Demetria, ce o însoțise în Africa. Așâ pățeau mai toți cei ce veneau din Italia. Corăbiile er.au adăstate de slujitorii lui</p>
@@ -409,8 +405,9 @@
 <p>Dupăce vizită toate monastirile și pe călugării vrednici de văzut ; după ce împărți la. biserici, călugărilor și monasti-rilor toți banii ce aduseră cu ei, Melania și Pinian pleacă ducând cu ei binecuvântările S. Chirii și ale tuturor sfinților egipteni.</p>
 <p>Melania eră nerăbdătoare a se întoarce în Ierusalim, unde o adăsta Albina. Acolo ea are de gând să se încerce a trăi, la fel cu sihastrii din pustiurile Egiptului și Africei.</p>
 <p>De aceea dar, fără teamă de greutățile iernii, Melania părăsi în grabă Africa, pentru a doua, și ultima oară.</p>
-<p>IV.</p>
-<p>S. MELANIA IN IERUSALIM</p>
+
+	<div type="chapter" n="6">
+	<head>VI. S. MELANIA IN IERUSALIM</head>
 <p>Șalupă o călătorie de două săptămâni, — pe atunci drumul din Alexandria la Ierusalim se făcea în șasesprezece zile — Melania și ai săi intrară în cetatea Sio-nului.</p>
 <p>Tot ce prinseseră până atunci din vânzarea averilor lor, cuvioșii noștri îl împărțiseră în milostenii. Puținul ce mai aveau încă, chiar în ziua sosirii lor, îl duseră-Episcopului din Ierusalim, ca să fie împărțit, de el, săracilor. De a doua zi câteși trei, lipsiți de orice avere, începură să vie-regulat la episcopie, ca să primească tainul ce episcopia împărțea dimineața cerșetorilor lipsiți de mijloace.</p>
 <p>In secolul IV și V, asistența publică o făceau episcopiile, cari centralizau milele creștinilor evlavioși, și le împărțeau apoi cu socoteală celor ce într’adevăr erau lipsiți de cele trebuincioase vieții. Această cutie a milelor eră administrată de unul din diaconii episcopiei; Episcopul locului dă o mare însemnătate acestui serviciu public necunoscut pe pământ, înainte de întemeierea creștinismului. Statul antic, în păgânătatea lui, nici ideie nu avea de asistența publică; și nici culturile păgâne nu cunoșteau milostivirea. Nici chiar împărțirea de pâine și de grâne, ce se făcea la Roma plebei, nu avea de loc caracterul unei asistențe pentru săraci. Se împărțea de mâncare plebei, fără deosebire, și aceasta numai în scop politic și electoral:</p>
@@ -459,10 +456,11 @@
 <p>Pretutindeni făcu împărăteasa milostenii mari, și pre toți îi minună prin pietatea ei plină de tact și de înțelepciune. Eudoxia se decise a nu părăsi Sio-nul, până nu se va târnosi și paraclisul pe care Melania îl zidise la mormântul Albinei și a lui Pinian. In paraclisul acesta așeză Melania moaștele S. Arhidia-con Ștefan și al celor patruzeci de mucenici din Sevasta 16">18">16). După textul siriac al lui Petre Ivireanul; S. Chirii al Alexandriei, cu o numeroasă sinodie de arhierei egipteni, ar fi târnosit paraclisul. Fiind dat că S. Chirii a venit în Ierusalim în timpul când petrecea acolo Eudoxia, lucrul nu este peste putință; dar, întrucât Gherontie nu spune nimic în privința asta, cei mai mulți socotesc povestirea aceasta a lui Petre Ivireanul, ca o legendă tendențioasă.</p>
 <p>Gherontie ne povestește de o minune ce făcu S. Ștefan, în ziua târnosirii și pentru rugăciunile Melaniei. împărăteasa, intrând în Biserică, își scrânt'i rău piciorul, așa că slujitorii pre brațe o duseră în Biserica învierii. Melania, cu lacrămi în ochi îngenuchie la racla Sfântului, și începu să se roage pentru vindecarea Eudoxiei. Ea nu se ridică, dela rugăciune, până ce slujitorii împărătești nu veniră de-i spuseră că împărăteasa a fost vindecată de odată, 5i că îi mulțumește ei pentru această minune a Protomartirului Ștefan.</p>
 <p>Puțin timp după minunea aceasta, Eu-doxia părăsi Ierusalimul, ducând cu ea la Constantinopole moaște de ale Sf. Ștefan și o bucată din lanțul în care fusese ținut Sân Pietru. Din lanțul acesta o parte îl trimise împărăteasa fiicei sale, la Roma; și el se găsește, până în ziua de azi, în Biserica San Pietro in Vincoli.</p>
-<p>S. Melania însoți pe Eudoxia.până în Che-sareia.«împărăteasa se despărți de Cuvioasa Melania plângând», scrie Gherontie.</p>
+<p>S. Melania însoți pe Eudoxia.până în Chesareia.«împărăteasa se despărți de Cuvioasa Melania plângând», scrie Gherontie.</p>
 <p>La întoarcerea ei în Ierusalim, Melania fu cuprinsă de gândurile mor ții,ce se apropiă. Dar înainte de a descrie sfârșitul Cuvioasei, se cuvine să ne ocupăm de petrecerea ei în Bizanț, la Constantinopole, unde- cunoscu ea mai întâi pe împărăteasa Eudoxia.</p>
-<p>V.</p>
-<p>S. MELANIA LA CONSTANTINOPOL</p>
+	</div>
+	<div type="chapter" n="7">
+		<head>V.S. MELANIA LA CONSTANTINOPOL</head>
 <p>Albina, mama S. Melanii, era după cum se știe de neam bun, scoborîtoare din Ceionii. Ceionii Volusieni, ramura din care se trage Albina a fost rămas mai mult credincioasă legii strămoșești, adică păgânismului.</p>
 <p>Neamul acesta al Ceioniilor eră foarte vechiu și nobil. El eră de origină etruscă și se împărțeă în mai multe ramuri: Rufii Ceionii, Ceionii luliani și Rufii Ceionii Cecina. In această din urmă spiță eră obiceiul a se dă membrilor ei numele de Albin și Volusian; de aceia uneori ramura Ceionilor Cecina eră numită uneori Ceionii Albini și Ceionii Volusieni 17">19">17). Spița Volusienilor eră alte ori. numită și Sabini.</p>
 <p>Tatăl Albinei noastre, adică bunicul matern al S. Melanii se numea Publius Caeionius Caecina Albinus, și fusese într-un timp Proconsul al Numidiei. El este îndeobște cunoscut sub numele de Pon-teficele Albinus, căci eră pontifex major, adică mare preot al zeiței Vesta. Pe niște pietre ce s’au găsit în Africa, unde a trăit câtva timp ca Proconsul al Numidiei, s’a găsit săpat numele acestui Albinus și i se zice: vir clarissimus con-sularis. Toți contimporanii lui Albinus laudă talentele și erudițiunea acestui arhiereu păgân. însuși S. Ieronim a întreținut relațiuni prietinești cu marele preot al Vestei, și vestitul monacii ne spune că Albinus eră un bărbat prea distins și foarte învățat. Mulți cred că Albinus înainte de moarte ar fi trecut la creștinism. Cardinalul Rampolla scrie că lucrul este foarte cu putință, dar că nu e cu nimic dovedit.</p>
@@ -524,7 +522,9 @@
 <p>S. Melania se grăbi să se ducă la ei, și să le vestească că în curând vor vedea în Ierusalim pe împărăteasa Eudoxie, pe care ei au trebuit să o cunoască la Constantinopol.</p>
 <p>Mai târziu, după moartea S. Melanii, Principele Nabarnugos, devenit Ieromonarhul Petre Ivireanul, zidi o mănăstire în Sion, Mănăstirea Ivirului. Cu timpul ajunse chiar Episcop la Maiuma și își sfârși zilele în durerea de a fi apărat monofisitismul.</p>
 <p>Acum când S. Melania se întoarse din Țarigrad, el și Ioan Eunucul minunau soborul prin cuvioșia și smerenia lor. Ei făceau fala mănăstirii clădite de S. Melanie.</p>
-<p>SFÂRȘITUL S. MELANII</p>
+	</div>
+	<div type="chapter" n="8">
+		<head>SFÂRȘITUL S. MELANII</head>
 <p>Multe persoane au presimțământul morții. Plecând din Viena sănătoasă, Împărăteasa Maria Luiza, văduva lui Napoleon I, își îmbrățișa prietenele plângând și le spunea că simte că nu are să le mai revadă. Iar peste câteva luni, Maria Luiza muri la Parma, dintr-o răceală.</p>
 <p>Nu e dar deloc de mirare că o sfântă ca Melania, care făcuse minuni, avea să se bucure de darul de a-și cunoaște de mai înainte sfârșitul. Gherontie ne asigură că în anul morții, ea avea presimțirea că este la capătul vieții sale pământești. În postul Crăciunului, scrise Paulei: «Voiesc să vin în Betleem, ca să petrec aici Nașterea Domnului».</p>
 <p>Ajunul Crăciunului, îl petrecură rugându-se amândouă împreună.</p>
@@ -593,8 +593,8 @@
 <p>Mai târziu, după moartea S. Melanii, Principele Nabarnugos, devenit leromo-narhul Petre Ivireanul, zidi o monastire în Sion, Monastirea Ivirului. Cu timpul ajunse chiar Episcop la Maiuma și își sfârși zilele în durerea de a fi apărat monofisitismul.</p>
 <p>Acum când S. Melania se întoarse din Țarigrad, el și Ioan Eunucul minunau soborul prin cuvioșia și smerenia lor. Ei făceau fala monastirei clădite de S. Melanie..</p>
   </div>
-<div type="chapter" n="6">
-<p>VI. SFÂRȘITUL S. MELANII</p>
+<div type="chapter" n="9">
+<head>VI. SFÂRȘITUL S. MELANII</head>
 <p>Uite persoane au presimțimântul morții. Plecând din Viena sănătoasă, împărăteasa Maria Luiza, văduva lui Napoleon I, își îmbrățișa prietenile plângând și le spunea că simte că nu are să le mai revadă. Iar peste câteva luni, Maria Luiza muri la Parma, dintr’o răceală.</p>
 <p>Nu e dar de loc de mirare că o sfântă ca Melania, care făcuse minuni, avea să se bucure de darul de. a-și cunoaște de mai nainte sfârșitul. Gherontie ne asigură că în anul morții, ea avea presimțirea că este la capătul vieții sale pământești. In postul Crăciunului, scrise Paulei: «Voesc să viu în Betleem, ca să petrec aci Nașterea Domnului».</p>
 <p>Ajunul Crăciunului, îl petrecură rugân-du-se amândouă împreună.</p>
@@ -619,9 +619,8 @@
 <p>Cardinalul Rampolla s-a ostenit căutând să determine locul unde s-au găsit acele monastiri. Putem dar zice că monastirea de călugări a Metaniei, se înălță pe locul unde în secolul IX se află o monastire de Părinți Benedictini. În ce privește monastirea de călugărițe, se pare că fusese clădită pe locul aproape de Biserica Înălțării, ridicată în Ierusalim de S. Elena.</p>
 <p>Dar dacă e greu arheologului celui mai iscusit să determine locul unde trăi și muri S. Melania, cultul și pomenirea ei nu încetară nici un moment, atât în Biserica Apuseană, cât și în cea Răsăriteană.</p>
   </div>
-<div type="chapter" n="7">
-<p>VII.</p>
-<p>CULTUL S. MELANII</p>
+<div type="chapter" n="10">
+<head>VII. CULTUL S. MELANII</head>
 <p>Odată cu monastirile Cuvioasei Melanii, perșii dărîmară și mormântul unde zăceau rămășițile ei, alături de cele ale soțului și ale mamei sale. Nu se știe dar, ce au devenit sfintele moaște ale Melaniei. E posibil că au fost risipite de perși, cum este tot așa posibil ca ele să fi fost ascunse de vreun călugăr, ca să le apere de profanațiunile persiene. Cine știe ? Poate că prin inteligentele săpături, ce arheologii învățați fac în zilele noastre pre Muntele Măslinilor, vom avea norocul să se dea pre urmele paraclisului și a sfintelor ei moaște.</p>
 <p>Până atunci creștinii cuvioși trebuie să se mulțumească cu încredințarea că în ceruri, S. Melania nu încetează a se rugă pentru omenirea păcătoasă în general, și pentru cetele călugărești în special.</p>
 <p>Melania nu numai că se deosebi de ceilalți oameni prin viață cuvioasă, prin milostenii și prin zelul ei apostolic; dar ea fu miluită și cu darul de a face minuni. Cureaua ce purtă la cingătoare îi slujea a vindecă de boale și chiar, după moarte-i, cei ce rugându-se Melaniei sărutară cureaua aceea, mult se folosiră.</p>
@@ -631,9 +630,8 @@
 <p>Cel mai vechi portret al S. Melanii, este o miniatură, de pe un manuscris pe pergament pentru împăratul Vasile II Porfirogenitul între anii 976—10251)>. Cardinalul Rampolla reproduce portretul acesta în capul marei sale lucrări, asupra S. Melanii. Sânta se arată îmbrăcată într-un antereu roșiativ,  este legată la cap cu un șal negru care se coboară preste umeri și o învelește până aproape de genunchi. La chip se vede oacheșă, cu trăsurile feții foarte regulate).</p>
 <p>La români, unde numai câteva praznice și sfinți sunt singurii cărora li se închină bisericile de obicei la clădirea lor; nu cunoaștem nici o biserică cu hramul S. Melanii. In schimb însă nu este mănăstire de maici, unde să nu se găsească măcar o monahie care, la călugărire, să nu-și fi schimbat numele de botez cu cel al Melaniei,  care a fost mândria monahismului și a sexului femeiesc.</p>
   </div>
-<div type="chapter" n="8">
-<p>VIII.</p>
-<p>PRAZNICUL S. MELANII</p>
+<div type="chapter" n="11">
+<head>VIII.PRAZNICUL S. MELANII</head>
 <p>Pomenirea Sfintei, am spus-o, se prăznuiește la 31 Decembrie.</p>
 <p>Socotim plăcută cititorilor noștri, reproducerea cântărilor cu care Biserica românească laudă pomenirea S. Melanii. Le dăm astfel, cum se găsesc în «Mineiul lui Decembrie, carele mai-nainte tipărit prin osândirea și cheltuiala iubitorului de Dumnezeu Episcop al Râmnicului, Filaret; iar acum cu voia și blagoslovenia Prea Sfințitului Mitropolit al Ungro-Vlahiei Chiriu Chir Dosoftei, s-au mai îndreptat la tălmăcire de multe greșeli, în zilele Măriei Sale Domnului Țării Românești, Ion Constantin Alexandru Ipsilant W. prin osândirea smeritului Episcop al Argeșului, Chir Iosif, în Crăiască tipografie a Universității din Budapesta, la anul 1805».</p>
 <p>În ajunul zilei de 31 Decembrie, la vecernie, să cântă astfel:„Ceeace te-ai împreunat cu cetele îngerilor, când te-au aprins dorul cel dumnezeiesc și te-ai plecat a sbura mai presus de cele văzute, prin nepătimire și prin curăție, atunci ai vânat pre bărbatul tău, cu cuvinte plecătoare spre Dumnezeu, ca să se lepede de tulburarea vieții cea nestatornică și curgătoare; drept aceia dimpreună cu el ai aflat cea veșnică și desfătarea, Melanie, rugându-te Stăpânului ca să se mântuiască sufletele noastre”</p>
@@ -668,8 +666,8 @@
 <p>Slujba se sfârșește cu aceste stihuri :„Melanie pururea pomenită, lauda monahilor, cu rugăciunile tale cele către Dumnezeu, curățește-mă, luminându-mă pe mine, care de pe amândouă părțile m-am înegrit cu negreala patimilor, ca să te cinstesc luminat și să prăznuiesc pomenirea ta cea purtătoare de lumină.”</p>
 <p>Pentru cine este iubitor de muzică bisericeasca, adăugăm că stihurile acestea să cântă pe glasul al patrulea..</p>
   </div>
-<div type="chapter" n="9">
-<p>IX. IZOVARE ISTORICE RELATIVE LA S.MELANIA</p>
+<div type="chapter" n="12">
+<head>IX. IZOVARE ISTORICE RELATIVE LA S.MELANIA</head>
 <p>Afară de câteva rânduri din scrierile S.Augustin, S.Paulin din Nola și din ale lui Rufin, izvorul cel mai puternic pentru a cunoaște viața S. Melanii, este biografia sfintei scrisă de Gherontie Ieromonarhul, duhovnicul ei. .</p>
 <p>Această biografie a fost scrisă de Gherontie, după cererea unui episcop african. Nu se știe în ce limbă a redactat Gherontie opera lui, dar este sigur că în veacul V era răspândită biografia aceasta, atât în versiune latină, cât și în versiune greacă.</p>
 <p>Cu timpul originala scriere a lui Gherontie a dispărut. Până la 1884 posedam numai câteva fragmente manuscrise din versiunea latină ; și anume un codice din secolul IX, păstrat în biblioteca din Chartres, altul în biblioteca din Valenciennes din secolul X, Biblioteca naționala din Paris posedă un codice din sec.XL Biblioteca din Douai unul din sec.XIII și altul din al XV. In mănăstirea Monte-Casino se găsește un codice latin din sec.XI sau XII. Cum spuserăm, nici unul din aceste codice, nu conține întreaga viață a Melaniei, nici nu sunt lipsite de adăugiri posterioare și neîntemeiate pe nimic serios.</p>
@@ -685,7 +683,7 @@
 <p>În fine, I. P. 8. Arhiepiscop al Bucureștilor, D. D. Netzhammer, ne îndemnă să încercăm a dă în românește, o viață a Melaniei, lucru ce am început cu drag, căci ne permise să cunoaștem mai bine viața unei sfinte ilustre, și să arătăm sentimentele noastre de venerațiune pentru istoriograful ei, ierarhul roman, care totdeauna a dovedit simpatie și reală bunăvoință pentru români.</p>
 <p>Înainte de a lăsă condeiul din mână, să însemnăm și ce a devenit palatul Celimontan al Valeriilor, unde S. Melania s-a născut. După cum citim într-o notă din Elena de Persico, în secolul VI și VII el slujea de locuință unei mănăstiri de călugări de rit oriental, care aveau hramul S.Erasm. În secolul VIII și IX, eră acolo un ospiciu numit Xonodochium Valerii. La 938 îl ocupau P.P.Benedictini din Subiaco. În anul 1084, focul distruse clădirile. Deabia pe la 1554, făcându-se săpături pe maidanele din Celiu, se dete iarăși de urmele palatului Valeriilor. În veacul XVII, prin săpături inteligente, se găsiră acolo o mulțime de mozaicuri, bronzuri, obiecte de artă și inscripțiuni interesante. Acum, din 1902, pe locul acela se ridică mărețul ospiciu Adolorata, pentru adăpostirea celor reconvalescenți și bătrânilor, întemeiat și întreținut cu fondurile testate de Anton Gerasi, Conte de Montferado.</p>
 <p>Slavă Domnului în veci,</p>
-<p>Nămăești, 18 August 1912.</p>
+<trailer>Nămăești, 18 August 1912.</trailer>
 </div>
 </body>
   <back>

@@ -39,12 +39,12 @@
                <pubPlace>București</pubPlace>
                <publisher>SOCEC</publisher>
                <date>1911</date>
-               <decoNote type="ilustratii" subtype="no"/>
-               <dim unit="char" type="mare"/>
+               <decoNote type="illustration" subtype="no"/>
+               <dim unit="char" type="big"/>
                <extent>
                   <measure unit="word">71854</measure>
                   <measure unit="page" type="under_250"/>
-                  <measure unit="foileton" type="under_65"/>
+                  <measure unit="feuilleton" type="under_65"/>
                   <measure type="complete"></measure>
                </extent>
             </bibl>
@@ -64,8 +64,8 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="5"/>
-               <term type="republicare" n="2"/>
+               <term type="reception" n="5"/>
+               <term type="print_count" n="2"/>
                <term type="finished"></term>
                
             </keywords>
@@ -73,8 +73,8 @@
       </profileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
             <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
             <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
          </projectDesc>
@@ -89,7 +89,7 @@
     </front> 
   <body>
      <div type="chapter" n="1"> 
-<p>CAPITOLUL I</p>
+<head>CAPITOLUL I</head>
 <p>E 24 Ianuarie, România sărbătorește jumătate secol de la Unire.</p>
 <p>În piața Unirii din Roman, școlile de toate gradele, armată, lume, reprezentanții autorităților—întorși de la Tedeum — ascultă cuvîntarea unui veteran. Bătrînul arată partea ce luă orașul și județul Roman la opera Unirii, entuziasmul cu care marele act fu sărbătorit pe-același loc, cu 50 ani în urmă.</p>
 <p>Cuvîntarea deși bună, era lipsită de focul entuziasmului.</p>
@@ -257,7 +257,9 @@
 <p>Olga tăcea. Radu se sculă să plece.</p>
 <p>— Pot săruta mâna logodnicei mele?</p>
 <p>— Sub rezerva consimțiminlului lor!...</p>
+	     
 <p>***</p>
+	     
 <p>Întâi mai! Păsările cântă; clopotele înalță Domnului ruga lor din zi.</p>
 <p>Olga, deșteaptă, încă în pat, vede strecurându-i-se prin fereastră, un enorm buchet de lăcrămioare, „nu mă uita“ și liliac alb.</p>
 <p>— Un om l-a lăsat! Spune Casandra, servitoarea. „D-na Mirescu mi-1 trimite !“... zîmbește plăcut Olga, mulțumindu-i cu gândul. Mirosindu-1, privind mereu gingașele flori, zărește ceva albastru ascuns în buchet. Un plic; câteva rânduri de la Radu:</p>
@@ -270,7 +272,7 @@
 <p>Radu Salcie</p>
 </div>
 <div type="chapter" n="2">
-<p>CAPITOLUL II</p>
+<head>CAPITOLUL II</head>
 <p>Societatea de sport și gimnastică își inaugura activitatea printr-o excursiune în lunca de peste Șiret.</p>
 <p>La ora 7 dimineața, orășenii își dădeau întâlnire în grădinuța din centrul orașului. Brecuri, tramcare, trăsuri particulare, aveau să transporte pe cei cărora distanța de o oră pe jos, le părea obositoare. Fiind Duminică, puteau lua parte cu toții. Militarii veneau întovărășiți de muzică. După iarna siberiană, căzută înainte ca frunza să se fi scuturat, lumea dornică de verdeață, de soare și de primăvară, se răsfira prin luncă. Aici jocuri cu mingea, acolo pescuit cu undița, dincoace cules de flori! Fragii, în cămeșuica lor albă, întovărășeau pe gingașele lăcrămioare.</p>
 <p>Fetele în alb, păreau însele flori. Fluturi de salon roiau în jurul lor. Pe țărmul Siretului, Olga, Viorica — sora lui Radu—el, Christescu și Georgescu, convorbeau despre înrîurirea binefăcătoare a naturii, asupra moralului.</p>
@@ -352,7 +354,7 @@
 <p>În amurg, se întorceau cu toții în oraș, mai voioși, mai buni, mai îngăduitori unul pentru altul.</p>
 </div>
 <div type="chapter" n="3">
-<p>CAPITOLUL III</p>
+<head>CAPITOLUL III</head>
 <p>Stimată amică,</p>
 <p>„Dimineața zării pe câmp un chip drag și venerat. Conducea o ceată de copii, afară în natură. Ce înțeleaptă școală!</p>
 <p>Nu îndrăznii să-i tulbur religiozitatea, prin apropierea mea! Eram fericit că zăream măcar, pe aceea care-mi stăpânește cugetul și inima. Când ai ști cum se simte fiecare clipă din viața mea! Cum te împodobește, cum ți se închină fiecare gând al meu! O imagine numai, dar cum întregește viața! O face mai cu înțeles, îi mai dă un scop, lucrul devine mai atrăgător, mai plăcut.</p>
@@ -510,7 +512,7 @@
 <p>— Jur, în biserica în care mă aflu, sub catapeteasma cerului albastru, din nemărginitul căruia, părinții mă privesc</p>
 </div>
 <div type="chapter" n="4">
-<p>CAPITOLUL IV</p>
+<head>CAPITOLUL IV</head>
 <p>Vineri după școală, cupeul D-nei Deleanu se opri la căsuța Olgăi.</p>
 <p>— Frumos, te logodești și nouă nu ne spui?</p>
 <p>— De unde știi ? întrebă Olga mirată.</p>
@@ -594,10 +596,14 @@
 <p>Să-mi răscumperi prin durere, nefericirile trecute ? Nu, prietene! Școala durerii e o școală prea întunecată! Lumea se va însărcina ea, cu aceasta... a și început ; voi fi prea mulțumită să-i pot alina rănile. Prietenia nu cere aceasta ; înlocuiește cuvântul „durere” prin iubire, iubire statornică, și-i vei da tot ! Numai ceva din sufletul ei, dă astăzi lui Radu. E un refugiu al naturii, un fel de apărare inconștientă a ființei ei, pentru noi furtuni, pentru ora grea, rezerva ce pune în simțire ? Știa eu? Rareori numai, o văd lăsându-se în voia ei, mângâind în adâncul sufletului un chip, o icoană luminoasă ca ieri, când trecea din cimitir către grădina mare, culegând flori pe frumoasa alee ; ceva din raza ochilor lui se resfrângea pare, atunci, în parfumul florilor, în aerul albastrul! Căldura razelor de soare ar arde negreșit, venind prea de aproape. De departe, florile și aerul răpesc în cale, ce-i prea dogoritor în ele. Rămân luminoase, fără să ardă, mirositoare, fără să îmbete.</p>
 <p>La revedere, pe Duminică.</p>
 <p>Olga</p>
+	
 <p>***</p>
+	
 <p>Duminică, timpul frumos, îngădui serbarea din zăvoi. Lumea, scoasă din eticheta orașului prin simplicitatea naturii, se lăsa farmecului câmpenesc. În chioșcuri, fete în alb, vindeau flori, confeli, poștale, țigarete. Piesa de teatru plăcu. Veni rândul tombolei. Bataia cu flori, confeti, corespondența locală, însuflețiră publicul. Erau șapte ore de seară; lumea nu se îndura să plece.</p>
 <p>— „Continuăm la teatru ! E amintirea morții lui Eminescu!“ anunță Georgescu, venit pentru această zi.</p>
-<p>***</p>
+
+	<p>***</p>
+	
 <p>În fundul scenei, devenită frunziș, în susurul stropilor de apă ce rourau prin el, dând iluzia șopotului cristalin, sub ramuri de tei, chipul marelui poet, filozof, luceafăr solitar, scânteie la înălțimea unde planează.</p>
 <p>„Pe vițele-i negre de păr, coroana-i arde, pare; venea,, plutind în adevăr, scăldat în foc de soare. Din negru giulgiu se desfășor marmoreele brațe, el vine trist și gânditor, și palid e la față; dar ochii mari și minunați, lucesc adânc, chimeric, ca două patimi fără saț, și pline de-ntuneric. „Noapte în sală; lumina scaldă scena, portretul poetului, ramurile de tei pe care stau aninate versuri de-ale lui. Rar și cadențat, în tăcerea adâncă, răsună vocea lui Radu ; privirea și gestu-i arată pe poet :</p>
 <p>„Icoana stelei ce-a perit,</p>
@@ -607,7 +613,9 @@
 <p>Eminescu poet, filozof, cugetător, ziarist, mare politician de principii, de convingeri, aprig naționalist, adânc credincios, apare rând pe rând, gigantic, scânteietor de lumină, în feluritele lui manifestări. O voce dulce, clară, argintie, întovărășită de pian, cântă : „Vino-ncodrul, la izvorul“, „Somnoroase păsărele“, „Singurătate”, „De-or trece anii”, „S-a dus amorul” ș. a. Muzicante sunt două artiste : una diletantă și bună pianistă din localitate, alta artistă de forță din București.</p>
 <p>Apare Olga, salutând pe poet cu versurile : „Lui Eminescu”, de Vlăhuță. Maiorul literat G., urmează cu poezii filozofice și naționaliste. Alte cânturi. La urmă, Olga recită seninul clasic al „Luceafărului” și câteva versuri din „Epigonii”: „Rămâneți dară cu bine, sfinte firi vizionare.,.”</p>
 <p>Când încetă, Georgescu, strălucitor de tinerețe, frumos ca un crin, îi oferi un buchet de fiori. Olga îi mulțumi, privind prietenos în ochii lui adânc de mari, de frumoși. După Radu, pentru dânsul avea o deosebită considerație; se cultiva singur, avea stofă în el, ideal și dor de muncă, era prieten nedespărțit lui Christescu, și el, cu aceeași stofă și seriozitate.</p>
-<p>***</p>
+
+	<p>***</p>
+	
 <p>A doua zi dimineața, ușa se deschise la clasa Olgăi. Radu trist, în negru, pășea pentru întâia oară pragul acelei clase : „Voiești să contribui cu ceva, la coroana lui Georgescu? întrebă trist, întinzându-i lista. —Care Georgescu? replică Olga căutând cu gândul, necunoscutul de care i se vorbea.</p>
 <p>— Cum, nu știi ? întrebă el mirat, căutând să micșoreze gravitatea știrii ce-i aducea : bietul Georgescu, tovarășul nostru de luptă... s-a dus... e mort !</p>
 <p>Olga îl privea înfiorată ; nu-i venea să creadă urechilor, tânărul acela, atât de modest, de frumos, în ochii căruia privise cu o seară înainte, mort ? ! Spera încă într-o greșeală a auzului, înțelesese poate rău... Tristețea lui Radu, haina lui neagră, lista pe care citi clar : „Zamfir Georgescu,” o încredințară. Subscrise zece lei.</p>
@@ -617,7 +625,9 @@
 <p>„Cum pier mișeii</p>
 <p>Dacă pier cei buni, așa ?</p>
 <p>Era copilul mai mare, al unei familii de oameni foarte cumsecade, din Prahova. El îngrijea de mama văduvă și de 8 frați. Christescu, nebun, zdrobit de durere, plângea ca un copil, îngriji de tot ; Radu îl ajuta. În geamantanul cu care sosise în ajun, îi găsiră 25o lei, leafa lui ; se trimise familiei, ca și corpul transportat la gară, în plânsul orașului întreg.</p>
-<p>***</p>
+
+	<p>***</p>
+	
 <p>Venind de la morgă, Olga intră la Paula, căutând să uite funebra priveliște. Îi ajută la alesul florilor de trandafir, pentru dulceață. În drum spre casă, simțea cum golul morții o apasă încă, cum avea să plutească în singurătatea locuinței ei.</p>
 <p>— A venit de mult, coconașul ! Zise Casandra. Un zâmbet de mulțumire lumină chipul Olgăi ; viața avea să urmeze morții. Cât de mult simți în acea clipă, puterea tovărășiei ! Intră. Cineva în negru, era culcat peste masă, rezemat de scaun. Se cutremură din nou. I se păru ca revede în altă formă, imagina celui de la morgă, într-atât de covârșitoare este înrăurirea morții !</p>
 <p>Într-un pas fu lângă el, îi ascultă respirația. „Doarme !“ își zise liniștită, revenind ca dintre morminte. Alături o foaie, rândurile lui :</p>
@@ -660,7 +670,7 @@
 <p>2 Iunie</p>
 <p>Iubită Olga,</p>
 <p>M-am deșteptat aproape restabilit. În afară de oarecare fierbințeală și greutate de stomac, aș putea zice, sunt bine.</p>
-<p>1) Roman de Sinckiewlcz. Eroina, o frumusețe de înger, desfigurată, de vărsat.</p>
+<ab><p>1) Roman de Sinckiewlcz. Eroina, o frumusețe de înger, desfigurată, de vărsat.</p></ab>
 <p>Ce bună și plină de atențiune ai fost ! Poate astăzi păzeam patul, fără ajutorul dat. Îți mulțumesc. Îngrijirea și cuvintele duioase ce mi-ai spus ieri, au să mă înfioare totdeauna ! Am ajuns clipa aceea sublimă: nu mai pot trăi fără ființa care mă învață să iubesc viața ! De scriu, de prânzesc, de mă culc, o imagine dragă plutește în jurul meu. Îmi adâncesc sufletul în contemplarea ei, sorb rost minții și inimii, din comoara gândurilor ei ! Mândru ideal, mă fălesc cu tine !</p>
 <p>Gândurile-mi curg moi și luminoase, ca stropii de ploaie ce picură pe fereastră. Treceam într-o seară prin fața unei case venerate, casa părintească a Olgăi. Albă, în fața lunii, își spoveduia pare, trecutul îndepărtat... Odată, pe când Olga era „prințesă”, când din nimic își plămădea puternica-i natură, răsunase acolo fericire și murmur de copii.</p>
 <p>Văd printre ani: o dimineață de Iunie ; aerul parfumat de crini și de tei. O trăsură se oprește la poartă ; gălăgie mare în toată casa. Ușile se deschid furtunos, servitorii se bucură, un băiețel drăguț, strigă cât îl ia gura, în dreptul unei ferestre „Mamă, a venit Olga!” Ea coborâse de mult din trăsură ; îmbrățișările erau încetate. În luarea aminte a tuturor din casă, mica prințesă vorbește de „Domnul“ care știe atât de multă carte, care nu seamănă cu cei aspri și pun numai note mici și pedepsesc sever, zburdâlnăcii nevinovate. Toată ziua prințesă și cu Rem au făcut nebunii, au vizitat împreună grădinele, pivnița, locuința lui Corbică ; Rem, grav, cu aere de mare informator, arată Olgăi schimbările ce a suferit curtea și dinții căzuți de bătrânețe din gura lui Corbu.</p>
@@ -736,7 +746,7 @@
 <p>Alăturați, cu capul rezemat pe umărul ei, cu mâinele împreunate, cerură binecuvântarea Cerului.</p>
 </div>
 <div type="chapter" n="5">
-<p>CAPITOLUL V</p>
+<head>CAPITOLUL V</head>
 <p>Olga a simțiț o nespusă mulțumire, când a dat peste viața patriarhală din Wbrishofen, peste aerul alpin, peste pădurile mici, artificiale de brazi, peste câmpiile cu șopote, peste lanurile cu maci roșii. Găzdui în pensiune, cu trei lei pe zi: masa, casa și serviciul. Dimineața după baia rece, înconjura păduricea, unde veverițele vin pe genunchii trecătorului, să ia nuci și alune; se așeza pe o bancă din poala de pădure ce ducea spre câmp deschis, unde vinul legăna lanurile de orz, de ovăz, cu albăstrele și maci roșii. Citea. Scopul lui Radu și al ei fiind să urmeze studiile în Germania, începu să recapituleze gramatica acestei limbi. După prânz își lucra albituri în hamac, într-un colț retras din pădure, se gândea la Radu, la viitorul lor. Depărtată de țară, retrăia viața ei singuratică de altădată, golul sufletesc ce-l simțise până-l întâlnise pe Radu. Îl dorea ; simțea toată puterea binefăcătoare a tovărășiei unui om, tot prețul iubirii lui Radu ; și-l simți mai drag, mai apropiat ; îi era dor de sufletul lui frumos, de gândurile lui luminoase. Îi scrisese la Techirghiol, de cum ajunse la Worishofen.</p>
 <p>În spre seară, când liniștea amurgului se lăsa pe câmpie, liniștea sfântă, care prevestește resăritul stelelor, când pâlcuri, pâlcuri, vizitatorii se răsfirau spre șopolul de la moară, pentru plimbarea de două secunde, prin apa rece, ea urca cărăruia dintre hugeagul de brazi ; acolo unde pădurea se îmbina cu câmpia, la crucea neagră, de pe care Christ domina pădurea și singurătatea — planând deasupra omului și a naturii — îngenuchea ; depunea flori, se ruga Creatorului să-i îndrume pe ea și pe Radu spre lumea binelui, a adevărului și a frumosului. Clopotele răsunau câteodată ; i se părea ca și cum s-ar fi găsit într-un altar nemărginit; accentele clopotelor înălțau rugăciunea ei pe vibrațiile lor. Rugăciunea în natură e mai impunătoare, mișcă sufletul mai adânc ! </p>
 <p>În calea spre casă,răcorindu-și piciorul la unul din pârâiașe, privea cum cosașul învârtea fânul cosit, cum vântul se alinta prin iarba mare, pletoasă, ca șuvițele lui Radu, îi părea ei. Îi vorbea cu gândul, îi trimitea acolo departe, toată curățenia cugetului ei. La ora șapte, toată lumea din pensiune se aduna la cină. Ca distracție după masă, era plimbarea pe strada orașului Wbrishofenului; mulțimea vizitatorilor din toate țările și din toate neamurile, auzitul atâtor limbi, distra pe fiecare Doritorul de muzică o putea asculta în fiecare seară în sala cazinoului, gratuit sau cu o intrare nespus de mică. La teatru, o trupă de buni artiști, reprezentau de 3 ori pe săptămână, piese cu fond moral. La ora nouă toți se aflau retrași în camere, ca a doua zi, la șase dimineața, să se revadă prin câmpii. </p>
@@ -829,7 +839,7 @@
 <p>Olga</p>
 </div>
 <div type="chapter" n="6">
-<p>CAPITOLUL VI</p>
+<head>CAPITOLUL VI</head>
 <p>În țară, era o secetă mare. În ultimele două luni căzuseră doar câteva picături de ploaie; pulberea se ridica în nori, câmpul era ars, recolta pierdută, copacii ofiliți. În grădină, la masa de sub salcâmi, Olga, obosită de călătorie, sorbea ceaiul dimineții. Se gândea dacă Radu era în oraș sau la Slănic. Ploile din Bavaria o alungaseră mai devreme. Ea își privea floricelele scăpate, salvate de moarte prin grija Casandrei, când, din spatele ei, portița se deschise, dându-i drum lui Radu: — "Bună dimineața, dulce duduie!" Tulburarea pe care Olga o simți la sunetul acelei voci, îi spunea cine era vorbitorul.</p>
 <p>— Bine ai venit, dragă Olga! îi șopti Radu când se apropie, sărutându-i mâna și privind-o cu mulțumire. În sfârșit, au trecut și lunile de purgatoriu.</p>
 <p>— Au trecut..., răspunse Olga zâmbind, mă bucur să te văd! — "De acum nu ne vom mai despărți, nici când... vacanța anului viitor ne va găsi uniți..." Intrară în cameră. Tăcerea lor era mai expresivă decât vorbele. Privirea lor traducea gândurile și sentimentele. Olga îi înmână o cutie albastră; înăuntru se afla o calamă de cristal cu un peisaj din Worishofen, o cupă susținută de un înger fetiță; înăuntrul cupei era un ac de cravată, cu un fir de floare albastră.</p>
@@ -1051,7 +1061,7 @@
 <p>După ani și ani, copilul cu aur în el nu-și putea găsi locul printre semenii lui. Se adaptase la alte izvoare. Aripi ale lui nu mai fluturau, ci se pârleau. Își aminti de culmile eteree, pe care le cutreierase odată. Refăcu drumul. Pe stânca cea mai de sus, găsi fum și cenușă. Era focul de tărnăceală înălțat la cer de vechiul său tovarăș, gândi el, să nu devină și el un nefericit! plânse amar călătorul. Pe el, pe pribeag, nu-l mai găsi.</p>
 </div>
 <div type="chapter" n="8">
-<p>CAPITOLUL VIII.</p>
+<head>CAPITOLUL VIII.</head>
 <p>Într-una din zile, Olga primi o comandă de cărți din Paris. Comandase și pentru Radu; i le trimise. În aceeași zi, Radu veni, mulțumind mișcat pentru cărți. Fusese ocupat, spunea — de aceea nu se arătase până atunci. „Cât de des m-am gândit la tine, dragă Olga! Cu cine altcineva m-aș potrivi mai bine? Pe ce</p>
 <p>culmi frumoase am mers noi! Cât de fericiți eram când lăsam gândurile să plutească spre lumi superioare! Cine altcineva ar putea nutri aspirațiile individului către tot ce este drept și frumos, către ideal? În penumbra serii, au vorbit încă mult. În ochii lui Radu, însă, lipsea focul entuziasmului, nu mai vorbeau despre viitor. Discutau ca doi buni camarazi, nu ca logodnici.</p>
 <p>- De ce ești tristă, Olga? o întrebă Radu într-un târziu, când se pregătea să plece; și el însuși era trist, deși încercase să pară vesel.</p>
@@ -1186,7 +1196,7 @@
 <p>In cadrul ușei de ieșire a gării, Radu o urmări cu privirea până trenul se puse în mișcare și Olga dispăru de sub ochii lui.</p>
 </div>
 <div type="chapter" n="9">
-<p>CAPITOLUL IX</p>
+<head>CAPITOLUL IX</head>
 <p>Trecătorii de pe cheiul Vardarului, frumoasa apă de munte care trece pe sub poalele Balcanilor Albanezi— tăind în două orașul—priveau cu mirare la d-ra Europeancă, care scria de dimineață până seara în balconul d-rului Vlach, Virgil Grigoriu. ,</p>
 <p>Era Olga. Venise la frate. În fața Vardarului care își legăna gălăgios valurile la soare, sub Balcanii stâncoși cu creștetele ninse, pe cheiul devenit cartier european, era locuința lui, mângâiată de un soare dulce, mobilată simplu, dar cu gustul europeanului rafinat. Icoane sfinte vorbeau noului venit din alte lumi, de altă viață, de părinții duși, de frații depărtați, de țara iubită. O fotografie oglindea chipul părinților de pe când erau tineri și abia luați. Pe pereți, picturi de ale lui Virgiliu.</p>
 <p>Părăsise țara, venise la Constantinopol pentru concursul de doctor, pe unul din vapoarele internaționale ce fac înconjurul lumii. Nereușind decât el singur la concursul înscris, examenul oral se amână. Dădu atunci pe cel pentru libera practică în împărăția otomană și hotărî să se așeze in Macedonia, să se consacre fraților aromâni și regenerării lor naționale.</p>
@@ -1452,7 +1462,7 @@
 <p>Eu vin de pe pământ ;</p>
 <p>Dreptate și frăție</p>
 <p>Mai dă-i, o Tată Sfânt!</p>
-<p>— F I N E —</p>
+<trailer>— F I N E —</trailer>
 </div>
   </body>
  </text>

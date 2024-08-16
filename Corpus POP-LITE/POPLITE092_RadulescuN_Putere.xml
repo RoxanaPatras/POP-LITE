@@ -39,12 +39,12 @@
                <pubPlace>București</pubPlace>
               <publisher>I. NEGREANU</publisher>
                <date>1914</date>
-               <decoNote type="ilustratii" subtype="no"/>
-               <dim unit="char" type="mare"/>
+               <decoNote type="illustration" subtype="no"/>
+               <dim unit="char" type="big"/>
                <extent>
                   <measure unit="word">43357</measure>
                   <measure unit="page" type="under_250"/>
-                  <measure unit="foileton" type="under_65"/>
+                  <measure unit="feuilleton" type="under_65"/>
                   <measure type="complete"></measure>
                </extent>
             </bibl>
@@ -64,8 +64,8 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="5"/>
-               <term type="republicare" n="2"/>
+               <term type="reception" n="5"/>
+               <term type="print_count" n="2"/>
                <term type="finished"></term>
                
             </keywords>
@@ -73,8 +73,8 @@
       </profileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
             <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
             <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
          </projectDesc>
@@ -83,7 +83,7 @@
  <text>
  <body> 
 <div type="chapter" n="1">
-<p>I</p>
+<head>I</head>
 <p>Intre mulți copaci înalți de pe locul viran, vecin cu grădina curții, tot proprietate a familiei, se așternea locul asfaltat pentru jocul cu mingea.</p>
 <p>Soarele de dup’amiază făcea să pară și mai alb acel Ioc, și mai dese umbrele pe care pomii le restrângeau de jur împrejur. Plasa, de asemenea își scria umbra ochiurilor ei și această răsfrângere dâ înfățișare de mozaic unei bune părți de la mijloc.</p>
 <p>Patru domnișoare, între cincisprezece și optsprezece ani și patru tineri, băețandri cam de aceeași etate, ele cu rochii scurte, ei cu anume haine potrivite pentru joc, rumeni la față, cari de cari mai chipoși, băteau mingea, o înapoiau cu lopățîca, făceau haz de greșeli, jucau cu tragere de inimă, cu plăcere vădită, copii în acele momente.</p>
@@ -93,7 +93,7 @@
 <p>De câte ori li se întâlniau privirile, se vedea din înfățișarea lor că-și întrebau parcă amintirile, că în gând le veneâ câte un nume aproape uitat...</p>
 <p>— El să fie? se întreba copila.</p>
 <p>— Ea să fie? se întreba băiețandrul.</p>
-<p>Le veneâ rîndul la joc,—-erau amândoi în tabere opuse, și atunci dădeau jocului toată luarea aminte, cu dorința de a se surprinde, de a se birui.</p>
+<p>Le venea rîndul la joc,—erau amândoi în tabere opuse, și atunci dădeau jocului toată luarea aminte, cu dorința de a se surprinde, de a se birui.</p>
 <p>Jocul ținu mult, pe-acel timp minunat de primăvară, când tinerețea firei punea în tinerețea vieții lor o mult mai vie pornire, un mult mai  puternic îndemn de prietenie apropietoare.</p>
 <p>Intr-un moment copila se află în repaos și într-o parte unde jocul de umbră și lumină al soarelui, printre ramurile unui copac, îi da atât de drăgălaș relief chipului, că băiețandrul rămase în admirare. Privirea lui o vădi într’atât de mult, că fata, și mulțumită tainic, șî stînjinită, avu un zîmbet, dar își schimbă și locul...</p>
 <p>— Să-i fi asemănând... cu el? se întrebă dânsa.</p>
@@ -117,7 +117,7 @@
 <p>Tânărul de gazdă auzind se opri, și toată ceata stătu pe loc.</p>
 <p>— A! vezi ce-am făcut... Nu te-am prezintat domnișoarei Drăgoescu... Domnișoară, amicul meu de clasă, luliu Pruneanu...</p>
 <p>Și copila și băiețandrul tresăriseră, iar pe chipuri li se împrăștiase lumina unei bucurii de nespus.</p>
-<p>— Tu, luliu ?</p>
+<p>— Tu, Iuliu ?</p>
 <p>—D-ta, Coca ?</p>
 <p>Fu primul strigăt al inimii lor;apoi, ca rușinați de asemenea accent de intimitate, rămaseră cu ochii în jos, în timp ce ceilalți toți cătau la ei surprinși, atât de atitudinea lor cît și de strigătul lor care păruse a fi de recunoaștere.</p>
 <p>— Am copilărit împreună, lămuri luliu.</p>
@@ -129,15 +129,15 @@
 <p>— Te petrec pân’acasă, Coca ; mi-e dor să văd pe mama Tina și pe tata Radu...</p>
 <p>— O ! cu plăcere, luliu... cu plăcere.</p>
 <p>Și luliu lămuri, emoționat, de ce ziceâ așa părinților domnișoarei Drăgoescu : trăise aproape zilnic în casa lor, pînă când familia aceasta se mutase la București.</p>
-<p>Și Coca plecă cu luliu.</p>
-<p>— Vezi de ce mă uitam mereu la tine, luliu ?</p>
+<p>Și Coca plecă cu Iuliu.</p>
+<p>— Vezi de ce mă uitam mereu la tine, Iuliu ?</p>
 <p>Îmi spunea inima că erai tu...</p>
 <p>— Dar mie! Și ce frumoasă te-ai făcut, Coca!...</p>
 <p>Copila se înroși, dar îl privi, emoționată.</p>
 <p>— Dar și tu, luliu... ești drăguț... Și te-ai făcut flăcău...</p>
 <p>El își răsuci mustața, mai mult închipuită, cu oarecare mîndrie bărbătească, apoi cată la ea galeș.</p>
 <p>Fericirea de-a fi întâlnit-o pe neașteptate, de-a fi revăzut-o precum adese ori dorise, îi eră nespusă, i se străvedeă din ființa întreagă.</p>
-<p>— Când mi-aduc aminte cum erai, Coca... rosti luliu, mititică, ascultătoare, cuminte...</p>
+<p>— Când mi-aduc aminte cum erai, Coca... rosti Iuliu, mititică, ascultătoare, cuminte...</p>
 <p>— O! tot așa sunt și acuma... răspunse ea repede.</p>
 <p>— Adecă numai mititică nu,—rîse el.</p>
 <p>Coca, rîse și ea. Și eră plină de drăgălășie când rîdeâ.</p>
@@ -146,9 +146,9 @@
 <p>— Dar când ne jucam de a bărbatul și nevasta... iar păpușilor tale, le ziceai că sunt copiii noștri... O, ce haz făceam, Coca, ți-aduci aminte ?</p>
 <p>Negreșit că-și aducea aminte, însă dacă-i făcea plăcere amintirea, simția că o stînjiniă acuma, ca un lucru parcă de care nu trebuia să se vorbească.</p>
 <p>De-aceea ca să dea un răspuns, ca să schimbe vorba, zise :</p>
-<p>— Știi, luliu, că păstrez și acuma toate păpușile acelea, mari și frumoase, pe care mi le dăruia mama ta la tot anul nou.</p>
+<p>— Știi, Iuliu, că păstrez și acuma toate păpușile acelea, mari și frumoase, pe care mi le dăruia mama ta la tot anul nou.</p>
 <p>— Pe toate, chiar pe toate ? întrebă el mirat.</p>
-<p>— Pe toate, luliu, — și parcă-s nouă... Le vei vedea... Mai păstrez apoi, zise după o clipă, și ceva dela tine... ia ghicește, ce? Ți-aduci aminte?</p>
+<p>— Pe toate, Iuliu, — și parcă-s nouă... Le vei vedea... Mai păstrez apoi, zise după o clipă, și ceva dela tine... ia ghicește, ce? Ți-aduci aminte?</p>
 <p>— Par’că... Stai... stai... A! da, Coca, da: mapa aceea de piele și de pluș, cu portretul meu... Ți-am dăruit-o când eram la Borsec. Și o păstrezi ?</p>
 <p>— Da : însă în ascuns...</p>
 <p>— In ascuns? întrebă luliu, cu mirare. De ce? Coca rămase pe gânduri o clipă.</p>
@@ -156,12 +156,12 @@
 <p>— O ! te rog, Coca, spune-mi.</p>
 <p>— Poate că n-ar trebui... Dar fiindcă am deschis vorba...</p>
 <p>Se opri. Privirea ei arătă stânjinire, teamă instinctivă parcă de ceva rău.</p>
-<p>luliu, cu inima bătând mai tare, fără să știe de ce emoțiunea aceasta ciudată, o mânca din ochi din nerăbdarea de a afla, din nedumerirea de ce Coca îi păstră darul în ascuns și de ce se codiâ de-a-i spune cauza.</p>
-<p>— Uite ce luliu. Poate să ți să pară curios, dar când într-o zi mama m-a văzut cu mapa și a înțeles că mă uitam la portretul tău, mi-a zis că nu se cădea să păstrez daruri dela băeți... dar mai ales să nu mă gândesc la prietenii din copilărie pe care, cine știe de eră să-i mai întîlnesc.</p>
+<p>Iuliu, cu inima bătând mai tare, fără să știe de ce emoțiunea aceasta ciudată, o mânca din ochi din nerăbdarea de a afla, din nedumerirea de ce Coca îi păstră darul în ascuns și de ce se codiâ de-a-i spune cauza.</p>
+<p>— Uite ce Iuliu. Poate să ți să pară curios, dar când într-o zi mama m-a văzut cu mapa și a înțeles că mă uitam la portretul tău, mi-a zis că nu se cădea să păstrez daruri dela băeți... dar mai ales să nu mă gândesc la prietenii din copilărie pe care, cine știe de eră să-i mai întîlnesc.</p>
 <p>— Zău! Așa a zis mama Tina ? esclamă luliu, și cu tristeță plecă ochii în jos.</p>
 <p>Vorbele acestea parcă-i smulseră ceva din inimă, parcă-i loviră, în inimă, iubirea de mama Tina ...</p>
 <p>Foarte impresionabil, își simți întunecată bucuria de-a o vedea pe mama Tina.</p>
-<p>— A ! uite ! Te-am întristat, luliu ?</p>
+<p>— A ! uite ! Te-am întristat, Iuliu ?</p>
 <p>înmărmurită de schimbarea de pe chipul băiatului, își dădu seama că tot mai bine ar îi fost să nu-i spună:</p>
 <p>Ca să-i șteargă impresiunea ce-i făcuse acele vorbe ale ei, îi zise:</p>
 <p>— Vezi ce proastă sunt, luliu? Era de sigur, numai o glumă a mamei și văd că nu trebuia să ți-o spun.</p>
@@ -190,7 +190,7 @@
 <p>Numai în privirile iubitei Iui tovarășe de copilărie citi dorința de a se întîlni, măcar ei amândoi, dorință învăluită în tristeță: își dăduse și copila seama de răceala părinților ei față cu luliu și privitor la familia lui.</p>
  </div>
 <div type="chapter" n="2">
-<p>II</p>
+<head>II</head>
 <p>Domnișoara Ortenzia Paruș avea numai o prietenă de inimă, pe domnișoara Ecaterina Semaca.</p>
 <p>Ortenzia, bălae, micuță, mai mult drăgălașă de cit frumoasă, mai mult inteligentă de cît cu voință, iubia pe Ecaterina cu supunere, cu simplicitatea inimii curată dar sfioasă, cu îndemnul de a se devota fără să aștepte numai decît manifestări deopotrivă simțimîntului ei.</p>
 <p>Ecaterina, oacheșă, naltă, sveltă, de o frumusețe rece, de un sentimentalism ce se putea stăpâni, conștientă de frumusețea și de însușirile ei de cari era mândră, în taină, iubia pe Ortenzia ca o soră mai mare, în chip protector și-și primia iubirea ca ceva datorit. Supunerea ei îi plăcea; admirațiunea cu privire la frumusețea ei strălucitoare, o măgulea.</p>
@@ -629,7 +629,9 @@
 <p>După vreo zece zile se întoarse și Pruneanu însă de-a dreptul la moșie...</p>
 <p>Lumea își explică ce se putuse întâmpla, vorbi cât vorbi, până să-și astâmpere setea de faimă și uitarea veni cu încetul...</p>
  </div>
+	 
 <div type="chapter" n="3">
+	
 <p>Și toate aceste întâmplări le veniră în minte doamnei și domnului Drăgoescu, după ce Iuliu, pe neașteptate ivit, plecă de la ei.</p>
 <p>De șapte ani de zile nu mai avuseseră nici o știre de vechii lor prieteni, și iată că trecutul le reapărea în ființa băiatului iubit mult odinioară.</p>
 <p>—S-a făcut voinic și frumușel... zise Ecaterina, posomorită însă.</p>
@@ -890,7 +892,7 @@
 <p>Își promitea însă pentru altă dată petrecerile în Paris.</p>
  </div>
 <div type="chapter" n="4">
-<p>IV</p>
+<head>IV</head>
 <p>Septembrie venise, și era îndeajuns de plăcut cu răcoarea lui de dimineață și de seară, în București a cărora adevărată primăvară, pare a fi toamnă.</p>
 <p>Când mai ales timpul bun se schimbă cu ploi dese scurte, aerul se curăță, cerul se face de un albastru ca peruzeaua, ulițile gem de lumea dorită de mișcare și orașul are înfățișare plină de viață.</p>
 <p>Ecaterina ieșea deseori, dimineața, pe jos, ca să-și astâmpere ascunsă tristețea și dorul de Coca; mai ales nemulțumirea că Radu i se arăta rece și puțin dispus la vorbă cu dânsa cât și la plimbare împreună cu ea. .</p>
@@ -1449,7 +1451,7 @@
 <p>Firește că se bănui ceva, dar acele familii fiind cuminți în legătura lor unele cu altele, nu avură netăinicia supărătoare de-a căuta lămuriri și urmara a-și iubi amicii... cu defectul acesta.</p>
  </div>
 <div type="chapter" n="5">
-<p>V.</p>
+<head>V.</head>
 <p>Patru ani trecură...</p>
 <p>Coca trebuia să se întoarcă... d-na și d-nul Drăgoescu plecaseră în Iulie la Paris să-și ia copila, să călătoriască în întreaga vacanță și să vină în țară pe la începutul lui septembrie.</p>
 <p>Câtă schimbare în ființa d-șoarei Drăgoescu!</p>
@@ -2199,7 +2201,7 @@
 <p>— Suntem amândoi, mamă... Dă-ne binecuvântarea ta....</p>
 <p>Și luă o mână a lui Iuliu pe care o lipi de sânul ei...</p>
 <p>Părinții, înduioșați, plângeau: era logodna copiilor lor înnaintea mormântului aceleia ce suferise nespus de mult.</p>
-<p>SFÂRȘIT</p>
+<trailer>SFÂRȘIT</trailer>
 </div>
   </body>
     <back>

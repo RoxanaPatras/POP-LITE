@@ -39,12 +39,12 @@
                <pubPlace>București</pubPlace>
               <publisher>FOILETONUL REVISTEI LIGA ORTODOXĂ</publisher>
                <date>1896</date>
-               <decoNote type="ilustratii" subtype="no"/>
-               <dim unit="char" type="mare"/>
+               <decoNote type="illustration" subtype="no"/>
+               <dim unit="char" type="big"/>
                <extent>
                   <measure unit="word">1360</measure>
                   <measure unit="page" type="under_250"/>
-                  <measure unit="foileton" type="under_65"/>
+                  <measure unit="feuilleton" type="under_65"/>
                   <measure type="incomplete"></measure>
                </extent>
             </bibl>
@@ -64,8 +64,8 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="5"/>
-               <term type="republicare" n="2"/>
+               <term type="reception" n="5"/>
+               <term type="print_count" n="2"/>
                <term type="unfinished"></term>
                
             </keywords>
@@ -73,8 +73,8 @@
       </profileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
             <p>Cuvantul cheie de tip "unfinished" indica stadiul realizarii operei de catre autor.</p>
             <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma incompleta.</p>
          </projectDesc>
@@ -83,14 +83,11 @@
  <text>
 <body>
 <div type="part" n="5">
-<p>FOIȚA ziarului „LIGA ORTODOXĂ literară”</p>
-<p>5</p>
-<p>Olteanca cea frumoasă</p>
-<p>SAU</p>
-<p>Inchiziția din Valachia în secolul al XIII-lea</p>
+<head>FOIȚA ziarului „LIGA ORTODOXĂ literară”</head>
+<head>5</head>
+<head>Olteanca cea frumoasă SAU Inchiziția din Valachia în secolul al XIII-lea</head>
  <div type="section" n="5">
-<p>Capitolul V</p>
-<p>Doamna Olara și fiul ei</p>
+<head>Capitolul V. Doamna Clara și fiul ei</head>
 <p>Această scrisoare trebuie să o ascunzi bine și să o predai în mâna Eminenței Sale! Vai de Sfinția ta dacă o pierzi și o vei da la cineva să o citească.</p>
 <p>Dacă apăsăm pe buton, imediat se deschide o ușă și intrăm într-o cameră mobilată cu cel mal mare lux.</p>
 <p>Această cameră e cabinetul de lucru al principesei Clara, soția lui Alexandru Basarab.</p>
@@ -138,18 +135,16 @@ Dacă vrei, poți să te duci acum să te plimbi puțin prin grădină, timpul e
 Camerista se înclină și părăsi sala. </p>
 <p>Îndată, după aceea, perdelele se dăduseră la o parte, și un călugăr, de o statură medie, se închină înaintea ei. </p>
 <p>-Venerabile pater - zise principesa Clara către călugăr - vei duce această scrisoare marelui inchizitor, Andrei, la Turnu Severin. M-ai înțeles? </p>
-<p>- Va urma -</p>
-<p>D. CASELLI</p>
+<trailer>- Va urma -</trailer>
+<trailer>D. CASELLI</trailer>
 </div>
 </div>
    <div type="part" n="7">
-      <p>FOIȚA ziarului „LIGA ORTODOXĂ literară”</p>
-      <p>7</p>
-      <p>Olteanca cea frumoasă</p>
-      <p>SAU</p>
-      <p>Inchiziția din Valachia în secolul al XIII-lea</p>
+      <head>FOIȚA ziarului „LIGA ORTODOXĂ literară”</head>
+      <head>7</head>
+      <head>Olteanca cea frumoasă SAU Inchiziția din Valachia în secolul al XIII-lea</head>
       <div type="section" n="6">
-         <p>Capitolul VI</p>
+         <head>Capitolul VI</head>
 <p>În acest moment, erau așa de frumoși, încât cineva, văzându-i, ar fi zis că erau doi îngeri coborâți din cer. Fata a fost aceea care rupse întâi tăcerea. </p>
 <p>- Ei bine - zise ea cu vocea emoționată și tremurătoare, dar fericita - vezi, iată-ne!</p>
 <p>- Ah! Ana, nu mă așteptam mai puțin de la amorul dumitale, murmură tânărul. </p>
@@ -181,16 +176,15 @@ Camerista se înclină și părăsi sala. </p>
 <p>Vai! Omul nu e tânăr decât odată. </p>
 </div>
  <div type="section" n="7">
-    <p>Capitolul VII</p>
-    <p>DIPLOMA REGELUI BELLA IV</p>
+    <head>Capitolul VII.DIPLOMA REGELUI BELLA IV</head>
 <p>Regele Ungariei, Carol Robert Neapolitanul, avea un drept nu numai asupra Banatului Turnului Severin, ci și asupra Valahiei întregi. </p>
 <p>Se știe că aceste două voievodate din Oltenia și Valahia făceau parte din Imperiul Bulgaro-Românilor. Iar la o mie două sute treizeci, devenind dependente de Regatul Ungariei, încet-încet, regele Bella al IV-lea reușește a câștiga suveranitatea asupra lor, folosindu-se, în aceasta, de slăbirea în care căzuse Imperiul Bulgaro-Român, după moartea lui Ion Asen al II-lea, sub Calliman. </p>
 <p>Pentru aceste timpuri este de însemnat diploma regelui Bella al IV-lea, dată cavalerilor Ioaniți la anul o mie două sute patruzeci și șapte.  </p>
 <p>Pentru care scop a stabilit regele Bella al IV-lea pe acești așa-ziși cavaleri în Oltenia?</p>
 <p>Pentru propaganda catolică. </p>
 <p>Ținta Ungurilor, susținuți de Papa de la Roma, era catolicizarea românilor.   </p>
-    <p>- Va urma -</p>
-    <p>D. CASELLI</p>
+    <trailer>- Va urma -</trailer>
+    <trailer>D. CASELLI</trailer>
  </div>
    </div>
 </body>

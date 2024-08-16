@@ -39,12 +39,12 @@
                <pubPlace>București</pubPlace>
                <publisher>EDITURA TIPO-LITOGRAFIEI DOR. P. CUCI</publisher>
                <date>1896</date>
-               <decoNote type="ilustratii" subtype="yes"/>
-               <dim unit="char" type="mare"/>
+               <decoNote type="illustration" subtype="yes"/>
+               <dim unit="char" type="big"/>
                <extent>
                   <measure unit="word">28365</measure>
                   <measure unit="page" type="under_250"/>
-                  <measure unit="foileton" type="under_65"/>
+                  <measure unit="feuilleton" type="under_65"/>
                   <measure type="complete"></measure>
                </extent>
             </bibl>
@@ -64,8 +64,8 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="5"/>
-               <term type="republicare" n="2"/>
+               <term type="reception" n="5"/>
+               <term type="print_count" n="2"/>
                <term type="finished"></term>
                
             </keywords>
@@ -74,7 +74,7 @@
       <encodingDesc>
          <projectDesc>
             <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
             <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
             <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
          </projectDesc>
@@ -98,7 +98,7 @@
        </front>
          <body>
 <div type="chapter" n="1">
-<p>DESCOPERIREA CRIMEI</p>
+<head>DESCOPERIREA CRIMEI</head>
 <p>Sâmbătă, la 3 Iunie, 1889, pe la orele 6 de dimineața, un băiat deschide poarta școlii comunale din Tabaci și intră înăuntru. Ușile de la clase erau încuiate.</p>
 <p>Băiatul care era un elev, înțelese că-i prea de dimineața și începu să se joace prin curtea școlii.</p>
 <p>Trecu în partea din fund. Acolo, aprope de un șopron care pleacă din dosul caselor și se întinde până în fund, stătea un om culcat pe o pătură.</p>
@@ -175,7 +175,7 @@
 <p>Sângele nevinovat strigă: răzbunare și acest strigăt ajungea până la D-zeu!</p>
 </div>
 <div type="chapter" n="2">
-<p>ȘTEFAN VENESCU</p>
+<head>ȘTEFAN VENESCU</head>
 <p>Tînărul pe care îl văzurăm în dimineața crimei, plin de sânge, cu degetele încrustate dormind pe o pătură lângă ușa din fund a școlii se numește Ștefan Venescu.</p>
 <p>El este nepot de frate al d-lui Venescu, revizorul școlar al județului Vlașca.</p>
 <p>E un tânăr în vârstă de 21 de ani. Statura lui e mai mult înaltă, fața e albă bătând în marmoră. Ochii săi sunt negri. Mustățile mici, subțiri și negre. Fruntea mare, iar tâmplele goale. Părul negru închis și pieptănat, cărarea la o parte. Cu toate că e slab, constituția lui însă e destul de forte.</p>
@@ -210,7 +210,7 @@
 <p>Acestea sunt trăsurile generale ale tînărului Venescu. Cititorul poate să citească lesne în el apucăturile unui hoț și incarnațiunea unui bandit.</p>
 </div>
 <div type="chapter" n="3">
-<p>PE MALUL DAMBOVIȚEI</p>
+<head>PE MALUL DAMBOVIȚEI</head>
 <p>E ziua de 21 Mai, anul 1889.</p>
 <p>Căldurile sunt deja prea mari. Ele împing lumea, îndată ce soarele s-a ascuns, să iasă la plimbare. Și străzile sunt pline, gradinile de asemenea. Ori cine se grăbea să iasă, pentru a respira aerul curat și răcoros al serii.</p>
 <p>Cerul era senin și luna plină arunca o lumină galeșă pe fața neagră a pământului.</p>
@@ -289,7 +289,7 @@
 <p>— Nimic, nici un ban! exclamă el; ei bine, vom vedea! E mult de când rabd, dar ceasul nu e departe, când și acestă răbdare va lua un sfârșit!...</p>
 </div>
 <div type="chapter" n="4">
-<p>CEL DIN URMĂ ADIO!</p>
+<head>CEL DIN URMĂ ADIO!</head>
 <p>Veniamin, nenorocita victimă pe care o văzurăm căzută sub cuțitul asasinului în dimineață de 3 Iunie, era un copil drăgălaș și de o inteligență rară.</p>
 <p>D-l și d-na Venescu îl iubeau prea mult.</p>
 <p>El învăța în clasa I din aceeași școală, d. Venescu însă îl ținea totdeauna lângă dânsul și rareori îl dădea jos de pe genunchii săi.</p>
@@ -365,7 +365,7 @@
 <p>Sărman copil! Sărmani părinți! Acesta era cel din urmă adio!...</p>
 </div>
 <div type="chapter" n="5">
-<p>LA GRADINA HELIADE</p>
+<head>LA GRADINA HELIADE</head>
 <p>Era în ziua de 25 Mai.</p>
 <p>Capitala Bucureștilor părea că se golește, căci lumea toată pleca la Moși.</p>
 <p>De dimineață până seară, birjele transportau noi vizitatori, tramvaie mergeau șiruri-șiruri în formă de caravane, alții o luau pe jos, apostolicește, — dar toți, în sfârșit, și mari și mici, și bogați și săraci n-ar fi lăsat să treacă anul, fără a vedea Moșii.</p>
@@ -414,7 +414,7 @@
 <p>— Unchiul meu Alexandru mi-a promis să-mi găsească o funcție, cât aș putea eu însă câștiga pe lună? Cel mult 120 fr. O sumă așa de mică nu-mi va ajunge nici chiar pentru băutură. Sunt om tânăr și trebuie să trăiesc bine. Afară d-asta, cine știe când unchiul meu îmi va găsi slujba, e mult de când mă tot poartă cu vorba. Nu, eu trebuie să mă îngrijesc singur. Acolo în pod sunt 200 fr.; îi voi fura. Acești bani sunt în bonuri și închise într-un cufăr ; voi găsi cheia, voi deschide cufărul și voi lua banii. Dar când unchiul meu va descoperi furtul, ce-o să zică? asupra cui va bănui el? Voi vedea, mă voi gândi mai bine în privința aceasta. Principalul lucru este să fur mai întâi banii. Două mii de leii e o avere!... Haide, Fănică, tu ai să fii fericit!...</p>
 </div>
 <div type="chapter" n="6">
-<p>O SCENĂ DIN TRECUT</p>
+<head>O SCENĂ DIN TRECUT</head>
 <p>Era anul 1879.</p>
 <p>E noapte.</p>
 <p>Un tânăr în vârstă ca de 20 ani se învârtește cu nerăbdare prin grădina Cișmigiu.</p>
@@ -473,7 +473,7 @@
 <p>Se vede însă că Aneta n-a avut parte decât de tineri amanți, tot fără inimă.</p>
 </div>
 <div type="chapter" n="7">
-<p>STRADA LINIȘTEI No. 14.</p>
+<head>STRADA LINIȘTEI No. 14.</head>
 <p>După cum zise, așa și făcu.</p>
 <p>Ștefan fură bonurile unchiului său în valoare de 2,000 lei.</p>
 <p>De astă dată, el era bogat.</p>
@@ -559,7 +559,7 @@
 <p>— Oh, D-zeule! exclamă Aneta îndată ce rămase singură. Ce să fie asta? Acest om mi se pare misterios cu totul. Vai! Tremur și nu știu singură pentru ce!</p>
 </div>
 <div type="chapter" n="8">
-<p>PLĂNUIREA CRIMEI</p>
+<head>PLĂNUIREA CRIMEI</head>
 <p>Ștefan părăsind casa din strada Liniștei, veni țn calea Călărașilor, luă de aci tramvaiul și se opri la sf. Gheorghe.</p>
 <p>Intră în cofetăria din față, luă o prăjitură, plăti 15 bani și plecă din nou.</p>
 <p>Nu putea să stea la un loc. I se părea că toată lumea îl privește și că fiecare om voia a-i face câte o întrebare.</p>
@@ -590,7 +590,7 @@
 <p>Și ochii lui se înroșiră, dacă cineva l-ar fi observat, ar fi văzut că lingura îi tremura în mână.</p>
 </div>
 <div type="chapter" n="9">
-<p>COMITEREA CRIMEI</p>
+<head>COMITEREA CRIMEI</head>
 <p>Noptea era frumoasă. Stelele luceau pe cer. Un vânt subțire sufla spre Sud.</p>
 <p>Se auzea fâșâitul frunzelor după malul râului.</p>
 <p>Prin văzduh, în depărtare, se pierdeau cârduri de păsări răpitoare, mergând să-și caute hrana prin sânul nopții.</p>
@@ -720,7 +720,7 @@
 <p>Aici, pe această pătură, îl găsirăm dimineața. Tot aici îl găsiră și inspectorul Crețu cu comisarul Atanasiu, când îl deșteptară din leșinul în care se prefăcea că a căzut.</p>
 </div>
 <div type="chapter" n="10">
-<p>PRIMELE CERCETĂRI</p>
+<head>PRIMELE CERCETĂRI</head>
 <p>Am spus la început, că îndată ce inspectorul de poliție d. Crețu împreună cu comisarul, d. Atanasiu, au văzut cadavrele, cel dintâi lucru a fost să înștiințeze pe prefectul capitalei despre cele petrecute.</p>
 <p>Până la sosirea șefului însă, ei căutară a lua primele informațiuni pentru prinderea asasinului.</p>
 <p>Înainte de a intra în cercetările amănunțite, e de datoria noastră a descrie în câteva rânduri atât pe inspectorul, cât și pe comisarul de clasa II, ca unii care au venit cei dintâi la fața locului și care nu puțin au contribuit la descoperirea înspăimântătorului ucigaș.</p>
@@ -802,7 +802,7 @@
 <p>D. Crețu nu avu timpul să termine cel din urmă cuvânt și o trăsură oprindu-se la poartă, prefectul și cu directorul poliției săriră jos.</p>
 </div>
 <div type="chapter" n="11">
-<p>PREFECTUL ȘI DIRECTORUL POLIȚIEI</p>
+<head>PREFECTUL ȘI DIRECTORUL POLIȚIEI</head>
 <p>Prefectul poliției senumeșce Algiu. E un vechi militar, un colonel în statul major.</p>
 <p>El a dat probe că e un profund cunoscător al artei militare și intrând în poliție sub guvernul Junimist, a căutat a fi demn de înalta funcțiune ce i s-a acordat.</p>
 <p>Un omor, o crimă ca aceea din Tabaci, nu era un lucru mic, pentru un prefect care dovedind cu prisos o imparțialitate și un adevărat tact politic ca șef al poliției, trebuia să dovedească acum că știe să prindă pe un ucigaș, după cum într-un caz de război ar ști să înconjoare o armată inamică.</p>
@@ -884,7 +884,7 @@
 <p>— Nu, d-le colonel, răspunse el; când m-am trezit, nu mi-am închipuit deloc că ar fi niște asasini; am crezut că Avram e bolnav și m-am dus să-i dau vreun ajutor.</p>
 <p>— Ai deschis ușa și ai intrat, prin urmare, înăuntru?</p>
 <p>— Da.</p>
-<p>-— Atunci ai văzut pe ucigași?</p>
+<p>— Atunci ai văzut pe ucigași?</p>
 <p>— Da.</p>
 <p>— Câți erau ei?</p>
 <p>— Doi.</p>
@@ -941,7 +941,7 @@
 <p>Abia termină d-nul Crețu cel din urmă cuvînt și ușa școlii deschizându-se, d. judecător de instrucție Pap, d. prim-procuror Boldur Voinescu și d. procuror Marinescu intrară înăuntru.</p>
 </div>
 <div type="chapter" n="12">
-<p>PARCHETUL</p>
+<head>PARCHETUL</head>
 <p>— Așadar, astă noapte s-a petrecut aici un omor? întreabă d. Boldur Voinescu.</p>
 <p>— Da, răspunse prefectul, e o crimă dintre cele mai îngrozitoare.</p>
 <p>— E o femeie asasinată? întreabă judecătorul de instrucțiune Pap.</p>
@@ -1009,7 +1009,7 @@
 <p>D. Crețu era gata să răspundă, să-și arate bănuiala; dar deodată îi veni o idee prudentă și tăcu din gură.</p>
 </div>
 <div type="chapter" n="13">
-<p>INTEROGATORII</p>
+<head>INTEROGATORII</head>
 <p>Procurorii, judecătorul de instrucțiune, împreună cu prefectul, inspectorul Crețu, comisarul Atanasiu și alte câteva persoane oficiale, intrară în sala în care se afla Ștefan Venescu.</p>
 <p>Judecătorul de instrucție, fu cel dintâi care începu a-i lua interogatoriul.</p>
 <p>— D-ta te numești Ștefan Venescu, ești nepotul d-lui profesor Venescu și rudă cu două victime, nu-i așa?</p>
@@ -1079,7 +1079,7 @@
 <p>— Veți fi bun, d-le prefect, a da ordin să se adune toți ungurenii din localitate și din împrejurimi spre a-i confrunta cu acest tânăr. Veți căuta de asemenea a se găsi acel Ilie Lazăr. Pe de altă parte, trebuie să telegrafiem pe la toate autoritățile administrative, pe la toate stațiile și pe la porturi, a opri și aresta pe orice ivdivid, care s-ar părea suspect și-ar avea semnalmentele ce ne va da d. Ștefan.</p>
 </div>
 <div type="chapter" n="14">
-<p>OPINIUNEA LUI DIM MORUZI ȘI A MEDICULUI LEGIST</p>
+<head>OPINIUNEA LUI DIM MORUZI ȘI A MEDICULUI LEGIST</head>
 <p>Vestea despre această îngrozitoare crimă se împrăștiase iute în întreaga capitală.</p>
 <p>Toată lumea nu vorbea decât de cele patru victime.</p>
 <p>Toți se interesau și se întrebau, dacă omorâtorii au fost cumva descoperiți.</p>
@@ -1159,7 +1159,7 @@
 <p>Și cu toate acestea, parchetul tot nu l-a bănuit încă!...</p>
 </div>
 <div type="chapter" n="15">
-<p>VĂRSAREA VINULUI</p>
+<head>VĂRSAREA VINULUI</head>
 <p>Îndată ce d. Crețu rămase singur, îi făcu următoarele întrebări:</p>
 <p>— Cum s-ar fi putut ca hoții să omoare pe acel copil în etate numai de opt ani, și să lase în viață pe acesta, mai cu seamă când Ilie, unul din ucigașii presupuși îl cunoștea și, prin urmare, era sigur că va fi denunțat? Cum s-ar putea admite că dintre atâtea ființe să nu scape decât acela tocmai care prezenta mai mult pericol ucigașilor și a căruia moarte, prin urmare, ar fi fost cea mai mare siguranță pentru ei? Nu-i apoi ceva mitologic pretenția lui că a trecut pe dinaintea hoților, tocmai în momentul când aceștia omorau pe servitor, că a coborât scara, că acolo era un alt hoț, că i-a prins cuțitul, că s-a reîntors iar înapoi, că de astădată hoții de sus omorau pe bătrâna Lolascu, că a intrat în odaia lui, că a deschis fereastra și a sărit jos? Și toate astea s-au petrecut înaintea unor hoți, care nu cruțau viața copilului cel puțin; iar pe el, omul cel dintâi care ar fi putut să-i denunțe, l-au lăsat cu viață!... Desigur, mizerabilul își bate joc de noi.</p>
 <p>D. Crețu rămase câteva minute gânditor.</p>
@@ -1231,7 +1231,7 @@
 <p>El deschise după aceea ușa și trecu în cabinetul comisarului Manache Condă, titularul secției 36.</p>
 </div>
 <div type="chapter" n="16">
-<p>COMISARUL M. COANDA</p>
+<head>COMISARUL M. COANDA</head>
 <p>Comisarul de clasa I de la secția 36, d-1 Manache Coandă, este un bărbat înalt, brun, cu favorite negre și de o intelegență profundă.</p>
 <p>Cu toate astea, cine l-ar vedea pentru prima dată, ar crede că și-a greșit cariera intrând în poliție, atât de blândă e figura sa, atât de duioși sunt adesea ochii săi.</p>
 <p>Eu unul însă cred, că chiar aceste calități fizice sunt acelea care l-au ajutat forte mult în diferitele descoperiri ce a făcut până acum.</p>
@@ -1301,7 +1301,7 @@
 <p>Cu toate astea, poliția nu încetă cu urmăririle.</p>
 </div>
 <div type="chapter" n="17">
-<p>CULMEA DURERII</p>
+<head>CULMEA DURERII</head>
 <p>Nimic nu e mai sublim pe pământ ca iubirea părinților.</p>
 <p>Farmecul vieții, iluzii, speranțe, glorii, renume toate, o mamă sau un tată nu le găsesc decât în fericirea copilului lor.</p>
 <p>De câte ori, când un părinte îmbrățișează pe fiul său, nu găsește nemurire în această dulce îmbrățișare!...</p>
@@ -1379,7 +1379,7 @@
 <p>Iată, pe lângă cele patru omoruri, câte inimi mai ucise blestematul Ștefan Venescu....</p>
 </div>
 <div type="chapter" n="18">
-<p>TRANSPORTAREA LA POLIȚIE</p>
+<head>TRANSPORTAREA LA POLIȚIE</head>
 <p>Cercetările făcute la secție se terminară, prefectura poliției de altă parte având nevoie să ia noi intergatorii bănuitului, hotărî să facă restul confruntărilor dintre ungureni și bănuit chiar în localul poliției.</p>
 <p>Când Ștefan Venescu ieși pe stradă, lumea din toate părțile îi ieșea înainte, compătimindu-1 și exprimîndu-i bucuria pentru norocul ce a avut de a scăpa cu viață.</p>
 <p>— Sărmanul băiat! ziceau unii.</p>
@@ -1428,7 +1428,7 @@
 <p>Ștefan însă stete rece, nepăsător chiar de această durere fără asemănare. El se mulțumi a lăsa numai ochii în jos, căci fără îndoială, teribilul asasin n-ar fi putut să mai privească în față pe unchiul său, pe binefăcătorul său.</p>
 </div>
 <div type="chapter" n="19">
-<p>DESCOPERIREA ASASINULUI</p>
+<head>DESCOPERIREA ASASINULUI</head>
 <p>Inspectorul Crețu își frământa necontenit mintea. El se găsea în fața asasinului, îl avea în mână și cu toate astea, nu putea, nu avea dreptul a zice: acesta e!</p>
 <p>Nici o îndoială nu mai încape că Ștefan este omorâtorul său, cel puțin unul din complici; totuși probele se bazau pe supoziții și deducții, lucruri insuficiente pentru a putea cere arestarea și darea în judecată a cuiva.</p>
 <p>Pentru a fi acuzat, îi trebuia o mărturisire din partea lui, sau cel puțin să aibă niște probe vădite, să găsească ceva care să se prezinte juraților ca corp al delictului.</p>
@@ -1463,7 +1463,7 @@
 <p>Era ziua de trei iunie, orele 10 și jumătate seara.</p>
 </div>
 <div type="chapter" n="20">
-<p>REMUȘCAREA.— BLESTEMUL</p>
+<head>REMUȘCAREA.— BLESTEMUL</head>
 <p>Orice asasin e un nebun, o minte sănătoasă niciodată nu poate să ridice viața aproapelui său.</p>
 <p>Această nebunie însă nu dureaază de cât până în momentul când a făptuit crima, în urmă mintea se limpezește și atunci începe remușcarea conștiinței, care-i tortura cea mai amară.</p>
 <p>O noapte și o zi trecu Ștefan în mijlocul celulei, a treia zi fruntea lui era obosită și privindu-1 cineva în ochi ar fi văzut că în pieptul său fierbea o durere, pe care nimeni n-ar putea s-o descrie.</p>
@@ -1484,7 +1484,7 @@
 <p>Sărmanul părinte! Ce durere era aceea care zbuciuma pieptul său!...</p>
 </div>
 <div type="chapter" n="21">
-<p>CURTEA CU JURAȚI</p>
+<head>CURTEA CU JURAȚI</head>
 <p>În ziua de Vineri spre Sâmbătă, Ștefan Venescu comisese cele patru omoruri și cincisprezece zile în urmă, tot în ziua de Sâmbătă, el fu adus înaintea Curții cu jurați.</p>
 <p>Se părea că Bucureștiul întreg plecase încă de dimineață, pentru a asista la dezbaterile acestui proces criminal.</p>
 <p>De pe la orele 10 încă, spațioasa sală a Curții cu jurați era îndesată de lume. Afară, împrejurul Curții, mii de oameni așteptau verdictul juraților.</p>
@@ -1553,7 +1553,7 @@
 <p>Niciun cuvânt nu ieși din gura condamnatului.</p>
 <p>El aruncă o privire lungă asupra juraților, roti ochii de jur-împrejur asupra publicului și ieși iute afară, urmat de cei doi jandarmi, care îl priveau.</p>
 <p>Iată tot ce am putut să vă povestesc despre Îngrozitoarea crimă din Tabaci.</p>
-<p>FINE</p>
+<trailer>FINE</trailer>
 </div>
         </body>
     </text>

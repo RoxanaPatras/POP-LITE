@@ -39,12 +39,12 @@
                <pubPlace>Târgoviște</pubPlace>
                <publisher>TIPOGRAFIA ȘI LEGĂTORIA VIITORUL </publisher>
                <date>1891</date>
-               <decoNote type="ilustratii" subtype="no"/>
-               <dim unit="char" type="mare"/>
+               <decoNote type="illustration" subtype="no"/>
+               <dim unit="char" type="big"/>
                <extent>
                   <measure unit="word">21548</measure>
                   <measure unit="page" type="under_250"/>
-                  <measure unit="foileton" type="under_65"/>
+                  <measure unit="feuilleton" type="under_65"/>
                   <measure type="complete"></measure>
                </extent>
             </bibl>
@@ -64,16 +64,16 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="5"/>
-               <term type="republicare" n="2"/>
+               <term type="reception" n="5"/>
+               <term type="print_count" n="2"/>
                <term type="finished"></term>
             </keywords>
          </textClass>
       </profileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
             <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
             <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
          </projectDesc>
@@ -82,7 +82,7 @@
  <text>
  <body>
   <div type="chapter" n="1">
-<p>CĂLUGĂRUL MISTERIOS</p>
+<head>CĂLUGĂRUL MISTERIOS</head>
 <p>Într-una din nopțile cele mai senine și mai plăcute din zilele de mai, când luna își scălda fața ei aurie printre arborii stufoși ai unui palat măreț din părțile Chinei, ce era înconjurat de diferite plante încântătoare brăzdate ici și colo prin jurul palatului. La o mică distanță de palat vedeai o frumoasă boschee, unde patronii palatului în fiecare seară căutau a gusta plăcuta aromă a drăgălașelor floricele ce o înconjura și aerul curat al nopților senine.</p>
 <p>Această boschee zic, le servea de consolare în timpuri de tristețe.— Poate mă veți întreba onorabili cititori de ce întrebuințez cuvântul de tristețe, când aceștia după cum veți vedea în șirul narațiunii mele, se bucurau de cea mai frumoasă poziție.— Dar, sigur sunt, că cu toții cunoașteți, că pe acest pământ, muritorul crează-l cineva cel mai fericit, însă trebuie să existe un vierme distrugător și pentru el care veșnic puțin câte puțin roade din rărunchii săi.</p> 
 <p>Priveai în figurile lor tinere tristețea și durerea și te întrebai însuți; ce grele dureri va fi consumând aceste ființe care abia în floarea tinereții lor, bărbatul abia atinge etatea de 30 ani, femeia abia are 25 ani și care se bucură de cele mai plăcute fericiri, palate, aur, trăsuri etc. și pe fețele lor, vezi figurând tristețea cea mai adâncă— ce o fi având oare?</p>
@@ -155,7 +155,7 @@
 <p>Patronii rămaseră în cele mai groaznice dureri de la dispariția lui Paul.</p>
 </div>
 <div type="chapter" n="2">
-<p>Micul Paul în casa Călugărului</p>
+<head>Micul Paul în casa Călugărului</head>
 <p>Cu trei zile în urmă, micul Paul se găsea în locuința călugărului, noul său părinte.</p>
 <p>Introdus aici, nu putea avea tot acea fericire de până acum, simțindu-se departe de aceia ce-i iubea, de aceia ce îl legănaseră pe brațele lor.</p>
 <p>De și călugărul putea a-i procura orice ar fi dorit el, ca distracție, dar dorul de scumpii lui părinți îl tortura veșnic. În tot momentul vedeai pe fața lui zugrăvită cea mai profundă tristețe, totul pentru el era negru, totdeauna trist și cugetător. Călugărul din parte-i își depunea toate silințele a-l face să mai piardă din cugetări, dar totul era zadarnic.</p>
@@ -179,7 +179,7 @@
 <p>Ah! Blestemat copil! Prin nesocotința ta ți-ai pierdut capul, și dacă vei mai avea fericirea să scapi de aici, din ghearele mele nu vei scăpa. Te voi urmări prin tot locul. Și mormăind cele din urmă cuvinte dispăru.</p>
 </div>
 <div type="chapter" n="3">
-<p>Torturile lui Paul în Mormânt</p>
+<head>Torturile lui Paul în Mormânt</head>
 <p>Micul Paul pentru un moment crezu că din neglijența călugărului capacul căzuse, și urcă repede scara, forță în sus capacul, dar în zadar, era închis de veci, începu să strige din răsputeri, dar nimeni nu-l auzea.</p>
 <p>Ce să fac D-zeule! exclamă el cu durere, și începu a plânge amar și zicând :</p>
 <p>Ah! Blestemat călugăr! acestea ți-au fost tendințele și scopul tău infernal, a mă răpi din sânul maicii mele și a mă închide de veci în acest mormânt!... Fii sigur, blestemat călugăre, că de va fi posibil să scap de aici voi fi capabil a mă răzbuna</p>
@@ -239,14 +239,14 @@
 <p>Antreprenorul mulțumit că-l făcuse a ceda, îi numără suma promisă.—Acesta luând banii mulțumi și plecă.</p>
 </div>
 <div type="chapter" n="4">
-<p>Binefăcătorul lui Paul devenit fericit</p>
+<head>Binefăcătorul lui Paul devenit fericit</head>
 <p>Ajuns acasă și întâlnind în ușă pe micul Paul, care aștepta cu nerăbdare —nu putea găsi expresiuni puternice a-i mulțumi cu recunoștință. — Luându-l de mână intrară în casă și povesti micului Paul și femeii sale totul, dându-i micului Paul banii ce luase.</p>
 <p>Micul Paul cu un gest nobil respinse banii ce i se dădea și zise către binefăcătorul său: Aceștia vi se cuvin vouă scumpii mei, ca răsplată faptelor voastre, iar nu mie, eu mă mulțumesc a vă vedea pe voi și copii voștri fericiți, ca să mă pot mândri și eu de fericirea voastră, și se retrase în camera sa.</p>
 <p>Binefăcătorul său văzând că Paul are un caracter așa de uman și nobil, se adresă către femeia sa zicând: Vezi femeie, tu erai mâhnită de venirea acestui luceafăr al fericirii noastre aici. De aceea zic, fie omul bogat sau sărac, niciodată să nu uite pe cei căzuți în suferințe.</p>
 <p>Binefăcătorul lui Paul spre a nu fi observat de vecini că are bani, întreprinse un mic comerț cu pasări mai pe urmă cu animale, și așa mai departe. Construi apoi un palat de o rară frumusețe. Separă pe micul Paul de ceilalți copii ai săi, punându-i la dispoziție un salon bine mobilat, servitori, servitoare etc.</p>
 </div>
 <div type="chapter" n="5">
-<p>Micul Paul în noul Palat</p>
+<head>Micul Paul în noul Palat</head>
 <p>Micul Paul fu introdus în noua sa locuință. Aici căpătă toate mulțumirile.</p>
 <p>Intr-una din zile pe când se simțea puțin mai fericit, îi veni în minte că el poseda o cutie, pentru care fusese expus morții, și care de când o posedă nu avusese niciodată curiozitatea a cunoaște ce mister sau altceva conține, pentru care blestematul călugăr ținea a o poseda.</p>
 <p>Se duse și o luă din locul în care o ascunsese și punând-o pe masă nu putea a-și astâmpăra curiozitatea, zicându-și: Ce blestemat călugăr, pentru un nimic ca acesta voi el a-mi pricinui atâtea suferințe—neștiind însă ce conținea secretul acelei cutii și se hotărî a o deschide.</p>
@@ -280,7 +280,7 @@
 <p>Micul Paul rămase singur, ceea-ce și el dorea.</p>
 <p>Se apropie iarăși de cutie și cugetă zicând :</p>
 <p>Doamne, visat-am eu oare?</p>
-<p>I se păruse că odată cu aprinderea lumânării, apăruse un chip femenin din acea lumânare, care îl provocase a ■ se speria în așa mod îngrozitor.</p>
+<p>I se păruse că odată cu aprinderea lumânării, apăruse un chip femenin din acea lumânare, care îl provocase a se speria în așa mod îngrozitor.</p>
 <p>Curiositatea i se aprinse și mai tare; nu .se putea stăpâni a rămâne mulțumit numai cu aceasta.</p>
 <p>^Oți-ce va fi, esclamă el, de va fi</p>
 <p>S Muzeul Digital al Romanului Românesc</p>
@@ -303,7 +303,7 @@
 </div>
 <div type="chapter" n="6">
 <p>Micul Paul cel mai fericit</p>
-<p>Paul rămase cu totul uimit de frumusețea acestora și nu știa sâ crâ^â» rămase cu totul încurcat&quot;în fa.ța acestora, cu peptiil săltând, privea cu ne-sațiit la ele.</p>
+<p>Paul rămase cu totul uimit de frumusețea acestora și nu știa să crează rămase cu totul încurcat în fața acestora, cu peptul săltând, privea cu nesațiu la ele.</p>
 <p>Ce fericire!!..</p>
 <p>Nu rămase așa mult' căci de odată un sunet de voci se auzi.</p>
 <p>Fințele ce apăruseni începură a cânta cele mai frumoase ' și'plUcute câtece. Vocețe lor nu putea a le întrece nici cel'mai renumit'1 instrument din lume.</p>
@@ -325,7 +325,7 @@
 <p>încetul cu încetul abia se putea apropia de plăcuta cutie ce adusese atâta fericire pentru el, stinse lumânările și ființele dispăru.</p>
 </div>
 <div type="chapter" n="7">
-<p>Micul Paul de două ori fericit</p>
+<head>Micul Paul de două ori fericit</head>
 <p>Rămase cu mâinelo pe coiful mesei și parcă regretând de disparițiunea lor. — Insă de o dată tresări. — A!!. . zise el!... Aceste monede de aur ființele gingașe nu le-au luat cu ele.—Ce să fie oare ?</p>
 <p>Voi să se apropie a pune mâna pe ele, dar se opri un moment cugetând: dacă acestea nu va fi monede solide, și va fi ceva care mă va face să sufer, atunci ce mă voi face ?</p>
 <p>—Stătu un moment în cugetare.</p>
@@ -341,9 +341,9 @@
 <p>Țrăsura se opri dupe comanda stăpânului său.</p>
 <p>Voi a se da jos, însă fu întâmpinat de două ființe foarte drăgălașe, câm în etâte de 15—16 ani, dar foarte rău îmbrăcate, care se întreceau sa' alerge mai iute înaintea sa și să întrebe cu ce dorește al servi.</p>
 <p>Alicul Paul stătu un moment privind la ele și răspunse :</p>
-<p>Nu voiesc de la voi nimic drăgă-'. lașe copilițe, dar doresc să știu cine este stăpânul acestor case ^și cum se numește el, în acest timp micul Paul observă că aceste ființe sufereau prea mult căci costumele dupe ele erau foarte murire, și rupte, dar figurile lor pierea a arăta eppreaiunea nobleței.</p>
+<p>Nu voiesc de la voi nimic drăgălașe copilițe, dar doresc să știu cine este stăpânul acestor case și cum se numește el, în acest timp micul Paul observă că aceste ființe sufereau prea mult căci costumele dupe ele erau foarte murire, și rupte, dar figurile lor pierea a arăta eppreaiunea nobleței.</p>
 <p>Al domnule, respunseră amândouă de o. dată; daca, ai dorința să afli— de, și sunțem i foarte sărmane și nu avem aș^ mobilă, în casă a vă pofti, dar vă rugăm poftiți aci în a noastră grădiniță, unde avem o laviță și frumoasă iarbă, și veți cunoaște imediat, toțu|.</p>
-<p>Paul nu se împotrivi și urmă pe acele copilă, care îl conduseră în o grădiniță cu țoțul plăcută.</p>
+<p>Paul nu se împotrivi și urmă pe acele copilă, care îl conduseră în o grădiniță cu totul plăcută.</p>
 <p>Ș^z.u ids pe lavița arătată, și cu un ton blajin, întreg pe una din ele zicând: ascultă copilă.— Nu aveț’ părinți?</p>
 <p>Aceasta răspunse cu un ton umilit.</p>
 <p>O. domnule, părintele nostru care era un brav soldat, și avea gradul de polcovnic, a, făcut mai multe răsboae și a eșit victorios, și în urmă când îi era viața mai liniștită o boală înde* lungață Pau răpit din brațele noastre.</p>
@@ -358,29 +358,29 @@
 <p>laul se apropie do ia, și cu un ton compătimitor se adresă către dânsa zicendu-i: doamna mea! ce aveți? de ce suferiți ?</p>
 <p>Spre mirarea lui, aceasta nu putu a scoate un cuvânt ci din când în când făcea câte un senin din mâini</p>
 <p>parcă arătănd către copilele sale, că dacă are ceva de vorbit, să se adreseze către ele.</p>
-<p>Atunci Paul înțelese că nu poate vorbi cu ea, și că boala ce o consuma este durerea ce suferă, vă&lt;Jănd copilele sale în așa mizerie.</p>
+<p>Atunci Paul înțelese că nu poate vorbi cu ea, și că boala ce o consuma este durerea ce suferă, văzând copilele sale în așa mizerie.</p>
 <p>Alicul Paul pătrans, puse mâna în buzunar și scoase o pungă în care era acei bani ce lăsase ființele din cutie, și o întinse către cea, mai mare din aceste două copile și zise:</p>
 <p>Vedeți sermane copile, aci aveți ceva monede cu care vg puteți elina întru cât-va suferința voastră, și puteți da un ajutor maici voastre, care pătrunsă de durere, vâ&lt;Jăndu-v6 pe voi nenorocite, suferă în așa dureri îngrozitoare.</p>
 <p>Aceatea primi banii cu mult respect și mulțumi lui Dumnezeu că trimise acest înger al binelui în ajutorul lor.</p>
 <p>Alicul Paul salută și plecă.</p>
-<p>Bine-făcătorul său care ședea în balconul de sus al palatului său, cum îl zări se grăbi a’i eși înainte lu&amp;ndu-l în brațe din trăsură, și cu expresiunij foarte dulci, întrebândud:</p>
+<p>Bine-făcătorul său care ședea în balconul de sus al palatului său, cum îl zări se grăbi a’i eși înainte luându-l în brațe din trăsură, și cu expresiunij foarte dulci, întrebândud:</p>
 <p>Unde ai zăbovit atât scumpul meu copil ?</p>
 <p>Micul Paul respunse cu un surâs plăcut pe buze. A! scumpul meu, am fost puțin prin oraș și de aci când venăm am mai stat puțin la aer, admirând plantele și cele I’alte ale naturei.</p>
 <p>Paul ascunse a nu spune bine-fa-cerile sele.</p>
 <p>In seara aceia urmă iarăși a aprinde lumânările, din care apăru tot acele ființe și cari lăsară pe masă tot atâtea monede de aur, și se retraseră în mijlocul salonului intonând cele mai melodioase și plăcute cântece care făcură pe micul Paul să rămână foarte încântat și mulțumit în suflet.</p>
 <p>Era miezul nopței. Cerul era senin și parcă și el privea cu nesațiu la fericirea lui Paul. El se apropie cu regret de lumânări a le stinse, dar parcă, ceva îl oprea, avea dorința a nu se mai deslipi nici odată de acele 5ințe drăgălașe și mult melodidse.</p>
 <p>Stinse lumânările și se culcă.</p>
-<p>Adoua-zi se sculă de dimineață ca ie obicei și porunci să pue cai la trăsură și porni iarăși la acele ființe ne-aorocite.</p>
+<p>A doua-zi se sculă de dimineață ca ie obicei și porunci să pue cai la trăsură și porni iarăși la acele ființe nenorocite.</p>
 <p>Ajuns aci nu perdu mult timp, de sât că scoase din buzunar și acei bani ?.e îi lăsase ființele drăgălașe, și dân-Ju-i celei dintâi care venise la trăsură, îi zise: sărmană copilă!... cu acești bani și cu cei l’alți veți putea trăi de aci înainte fără să suferiți, căutați a găsi niște bărbați demni de voi spre a vă lua în căsătorie, și sigur sunt că veți trăi foarte liniștite, îngrijind în acelaș timp și de nenorocita voastră mamă, căci de astă-zi înainte eu nu mai pot veni pe aci, temându-mă să nu dau loc de vorbă vecinilor ce vă înconjor.</p>
 <p>Aceasta luă suma ce i se dete și nu putu a opri lacrămile din ochi și curge, auzind că de astă-zi înainte sunt părăsite de acel ce a făcut așa mare bint pentru ele, — mulțumi cu cea mai vie recunoștință si se trase înapoi.</p>
 <p>Trăsura pcrni către locuința st.</p>
 </div>
 <div type="chapter" n="8">
-<p>Micul Paul plecă din casa bioe-Morului său</p>
+<head>Micul Paul plecă din casa binefăcătorului său</head>
 <p>Dupe ședere de 3 ani în casa bine făcătorului său (dupe cum îl numea el), atât în suferință cât și în fericire. Micului Paul i se redeschise din nou acele torturi arzătoare ce sdrobise așa de mult peptul său.</p>
 <p>Această tortură, era dorul!... dorul pentru scumpii săi părinți.</p>
 <p>De multe ori se cerca a pierde din memoria sa acest lucru, dar nu era cu putință, căci din zi în zi durerea sa creștea și mai vie.</p>
-<p>Intr-una din zile, nemai putându-și stăpâni durerea, chemă pe bine-facă-torul său și femeia acestuia și le puse durerea de care suferea, adăogi nd că el de și spusese în momentele când îl găsise pe malul mărei, că fusese feciorul unui comerciant din China, Muzeul Digital al Romanului Românesc wsvistatQjsiivania.ro/mtWy</p>
+<p>Intr-una din zile, nemai putându-și stăpâni durerea, chemă pe bine-facă-torul său și femeia acestuia și le puse durerea de care suferea, adăogi nd că el de și spusese în momentele când îl găsise pe malul mărei, că fusese feciorul unui comerciant din China</p>
 <p>dar acesta le spusese, fiind că nu găsea un alt argument mai puternic de a fi compătimit, și că altă întâmplare mult mai curioasă l’a făcut să plutească pe acea scândură și a fi scos de valuri: lai țărmul mărei, unde fu sese găsit.</p>
 <p>Micul Paul nu ascunse nimic.</p>
 <p>Spuse totiadevărul, din ce familie aparținea și cum ajunse aci, afară numai că ascunse ă spune secretul cu-(iei, și că acea piatră dupe a cărui urme se înavuțise el, era din acea suterană, adăogând cu rugăciune, ca mâine în zori de zi să i se pregătâscă totul pentru’ voiaj, și dacă va mai voi Dumnezeu, mă voi mai întoarce din când în când a vă mai vedea.</p>
@@ -396,8 +396,8 @@
 <p>Dupe o călătorie de 7 zile ajunseră într’un oraș foarte mult populat și care părea a fi capitală. — .Și în ade-vgr că nu se înșelașe că era așa.— Trase la cel dintâi hotel ce întâlnise, puse caii la grajd, dejună și apoi porni prin oraș a’l visita.</p>
 </div>
 <div type="chapter" n="9">
-<p>Micul Paul căijut victima suferințelor și mizerii</p>
-<p>Spre nenorocirea lui, zări Ia fer^stra •unui palat o domnișoară prea gingașe și prea frumoasă, a cărui fereastră era alături cu fereastra unui hotel mare, •cel mai renumit din acel oraș.</p>
+<head>Micul Paul căijut victima suferințelor și mizerii</head>
+<p>Spre nenorocirea lui, zări la fereastra unui palat o domnișoară prea gingașe și prea frumoasă, a cărui fereastră era alături cu fereastra unui hotel mare, cel mai renumit din acel oraș.</p>
 <p>Din momentul în care acea ființă, inima lui începu să bată cu furie.—Amorul se înfipse în plămânii sSi cu atâta putere în cât nu se putea stăpâni.</p>
 <p>Ce să fie Dumnezeule aceasta? zise el! Suferința ce simt nu am avut-o până în momentul de față. Acea ființă mi-a sdrobit peptul, și stătu ca un tâmpit a o privi și mai mult.</p>
 <p>Aceasta observând că cine-va o privește de jos, se retrase înapoi.</p>
@@ -417,7 +417,7 @@
 <p>De și aceste ființe îl amuza în destul, lăsă cugetarea lui era aiurea, căci din când in când își arunca privirea către fereastra acealia dupe care mult suferea, privirea lui fu zadarnica, că ia nu se mai ivea.</p>
 <p>Era aproape disperat.—Sângele incepuse a i se revolta, in disperarea sa, ar fi voit se strige, ar fi voit se zică, arâtăte scumpă ființă! căci pep-tumi bate cu multă turie, și brațumi te doresce cu multă ardoare.</p>
 <p>Se vede că sgomotul ce produsese ființele din cutie, atrase pe aceasta</p>
-<p>către partea acia de unde venea dulce melodie. Când Paul ridică din nou privirea către fereastră, zări pe tenă-ra fință care părea că ascultă cu multă plăcere, vocele ce se auzeau in camera hotelului. — peptul său Începu a bate și mai cu furie și nu se putu opri a nu exalama, Ah! ființă, dulce! tu care ai săpat o rană atât do adâncă in suferindul meu pept, tu care Încă nu cunosci durerea aceluia cc mult te adoră, te rog lasă-mă cel puțin să te privesc mai mult dacă nu pot avea fericirea a mă bucura de alt drept.</p>
+<p>către partea acia de unde venea dulce melodie. Când Paul ridică din nou privirea către fereastră, zări pe tânăra fință care părea că ascultă cu multă plăcere, vocele ce se auzeau in camera hotelului. — peptul său Începu a bate și mai cu furie și nu se putu opri a nu exalama, Ah! ființă, dulce! tu care ai săpat o rană atât do adâncă în suferindul meu pept, tu care Încă nu cunosci durerea aceluia cc mult te adoră, te rog lasă-mă cel puțin să te privesc mai mult dacă nu pot avea fericirea a mă bucura de alt drept.</p>
 <p>Aceste cuvinte fu lansate cu putere, in cât tânăra ființă auzise aproape tot și se prefăcu că nu înțelesese.</p>
 <p>—Dar, dupe cum cu toți cunoascem, acest lucru muritorul nul poate trece așea lesne cu vedere, amorul este ba-sa, fericiri.</p>
 <p>Tânăra ființă nu remase in nepăsare mult, căci din ce 'și amintea dureroasele cuvinte ale lui Paui, peptul său, fără voe începea a bate.</p>
@@ -483,7 +483,7 @@
 <p>Ambii dispărură din locurile unde ședeau.</p>
 </div>
 <div type="chapter" n="10">
-<p>Tortura în cugetare a tinerei ființe</p>
+<head>Tortura în cugetare a tinerei ființe</head>
 <p>În tot cursul mesei ființa drăgălașă era într-o cugetare.</p>
 <p>Ei bine, își zise ea în sine: el e drăgălaș, mă iubește, am putut constata foarte bine, dar ce să fac? Ah Dumnezeule!! ce pot să fac, căci părinții mei nu ar putea consimții niciodată la aceasta. Și apoi, când ei nu ar consimți, voi rămăne lipsită de el, și de aceea scumpă cutie, ce conține așa frumoase suveniruri.—Dar voi căuta să fiu tare înaintea sa, îl voi face să creadă că și eu îl iubesc cu aceeași voluptate de care suferă el, până când va veni timpul să pot pune mâna pe acel scump suvenir...</p>
 <p>Părinții săi observă această cugetare a fiicei lor, și cam îngrijorați o întrebă:</p>
@@ -526,14 +526,14 @@
 <p>Hangiul care avea nevoie de mușteri îl pofti cu multă plăcere.—Micul Paul rămase aici.</p>
 </div>
 <div type="chapter" n="11">
-<p>Sustragerea cutiei de tânăra fată și minunile ei</p>
+<head>Sustragerea cutiei de tânăra fată și minunile ei</head>
 <p>Când micul Paul în orbirea pasiunii sale părăsise camera, tânăra regină se ivi la fereastră în scop de a întâlni pe Paul spre a mai schimba câteva cuvinte. Dar privind pe fereastră, nu putu a-și astâmpăra mirarea când văzu că Paul lipsea. Atunci îi veni iarăși în cugetare ideea sa infernală, și profită de această frumoasă ocazie, chemând imediat 2 servitori la care le ordonă a se introduce pe fereastră și a lua cutia de pe masa ce era situată în mijlocul camerei.</p>
 <p>Servii la ordinul reginei se supuseră orbește și în cea mai mare iuțeală intră în cameră și luă cutia ce o arătase stăpâna lor.</p>
 <p>Când regina fu în stăpânirea acestei cutii, bucuria ei era din cele mai mari și ordonă, imediat a se închide pentru totdeauna acea fereastră, unde până acum trăgea câte o ochiadă pe stradă, temându-se ca nu cumva Paul în disperarea lui să nu contribuie cu ceva rău, când va mai vedea-o în acel Ioc.</p>
 <p>După cum vedem, iubiți cititori, când cineva cade victimă jafului și mizeriei; lașul trădător, tot în suferind contează, că este lașul și chiar cel mai de jos, aruncă asupra lui disprețul, căci juna regină ce până odinioară aproape era alături cu ideea lui, aproape inspira aceleași sentimente. După ce Paul fu jefuit, urmă a arunca asupra lui cel mai amar dispreț.</p>
 </div>
 <div type="chapter" n="12">
-<p>Imaginea tinerei Regine</p>
+<head>Imaginea tinerei Regine</head>
 <p>Trecu timp de la sustragerea cutiei tânăra regină ascunse a nu mai spune nici părinților săi aceasta, și avea dorința a se bucura de acea fericire când va veni timpul, dar ca orice hoț ordinar se ferea să nu fie văzută de cineva spre a se vorbi pe ici și colo, și pe urmă a ascunde cutia timp de un an.</p>
 <p>Intr-una din zile ne mai putând a-și stăpâni răbdarea, și cugetând că Paul poate a părăsit acel oraș, se hotărî a pune în funcțiune misterioasa cutie.O luă din locul unde o ascunsese și se așeză pe o dormeză foarte elegantă și trase lângă dânsa o măsuță lucrată numai în fildeș, și puse acea cutie pe masă și voi a o deschide. Când!... de o dată îți aduse aminte zicând: A! ce fac? dacă eu voi aprinde lumânările, sigur că va face zgomot, și atunci când părinții mei vor auzi aceasta, care sunt în necunoștință de cauză vor crede cine știe ce. Dar voi face altceva. — Închise cutia și o puse la locul ei.</p>
 <p>A doua zi trimise guvernanta să invite în camera sa pe părinți, având a le comunica ceva important.</p>
@@ -555,7 +555,7 @@
 <p>Toți fugiră care încotro văzură cu ochii, alții rămaseră întinși pe scândurile salonului, fiind grav răniți, și toți blestemară acea nefastă și mult periculoasă noapte, și scoteau murmuri de durere că își vor răzbuna pe tânăra regină de murdara ei purtare. Regele însă caută mai înainte a-i da pedeapsa meritată.</p>
 </div>
 <div type="chapter" n="13">
-<p>Răsplata furtului, Paul ferice</p>
+<head>Răsplata furtului, Paul ferice</head>
 <p>Din acest moment, regele pătruns de durere și rușine, ordonă ca nemernica lui fiică se fie pusă la închisorea cea mai mizerabilă și întunecoasă din jurul palatului său, si să i se dea ca mâncare, la fiecare două zile, câte un sfert de pâine uscată și mucedă și un litru de apă, și cine va îndrăzni să calce acest ordin se va pedepsi cu moartea.</p>
 <p>La ordinul regelui doi temniceri veniră să ridice pe tânăra regină, care se zbuciuma în cele mai crâncene dureri. Ușa camerei sale se deschise cu multă repeziciune și o voce cam răgușită pronunță aceste cuvinte.</p>
 <p>Măria ta, avem ordin de la regele părintele d-voastră a vă aresta în cea mai adâncă, suterană și fără multă opunere, te rugăm să ne urmezi</p>
@@ -642,9 +642,8 @@
 <p>Într-una din sărbătorile cele mai plăcute din Mai, când totul surâdea în natură. în palat se celebra cu cea mai frumoasă pompă căsătoria micului Paul cu tânăra regină.</p>
 </div>
 <div type="chapter" n="14">
-<p>MICUL PAUL</p>
-<p>CĂZUT VICTIMĂ CĂLUGĂRULUI</p>
-<p>Omorul din pădure, Paul căzut victimă Călugărului</p>
+<head>MICUL PAUL, CĂZUT VICTIMĂ CĂLUGĂRULUI</head>
+<head>Omorul din pădure, Paul căzut victimă Călugărului</head>
 <p>Micul Paul gustă cea mai plăcută fericire în noua sa viață, totul în natură surâdea pentru el, tânăra regină îl iubea cu acea simpatie care astă zi aproape nici o femeie nu o dă soțului său, îi vedeai în tot momentul unul lângă altul ca doi îngerași, unul de altul nu se despărțeau nici un minut, inimile lor băteau în același contact. Însă nu se putu bucura mult timp de această plăcută viață, căci micului Paul i se redeschise din nou acea durere de care suferise atâta timp.— Dorul de scumpii lui părinți.</p>
 <p>De multe ori voia să ascundă acesta de scumpa lui regină, dar nu era posibil, căci regina observă că el are o oarecare nemulțumire, și într-una din zile, cu un zâmbet dulce îi făcu întrebarea:</p>
 <p>Scumpul meu iubit! este câtva timp de când citesc în fața ta o schimbare cu totul altfel de cum ai fost până acum. Daca ții la scumpa-ți soțioară te rog din suflet spune-mi care este cauza suferinței tale ce te consumă zilnic.</p>
@@ -694,13 +693,13 @@
 <p>Sărmană, scumpa-mi regină, când văzui că eu fusei legat, căzui în nesimțire, atunci el, mizerabilul mă jefui din tot ce avui pe lângă mine, și dispăru cu regina (care încă era leșinată împreună cu tânărul copil ce venise cu el, în întunericul desimei păduri.</p>
 </div>
 <div type="chapter" n="15">
-<p>Călugărul cum găsi pe Paul</p>
+<head>Călugărul cum găsi pe Paul</head>
 <p> Ce se întâmplase?</p> 
 <p>Blestematul călugăr, care mai făcuse încă o victimă prin știința lui pornise încă din noapte cu un înger de copil, prin misterioasa pădure către Mănăstirea în care se afla monumentul unde fusese pierdut pentru el micul Paul, căci el nu putea ști bine dacă Paul reușise a lua cutia sau se pierduse acolo, și căuta toate mijloacele a reuși să o răpească. Ajuns în mijlocul pădurii zări întinși pe iarbă câteva ființe care recunoscură între ele pe Paul, cei deștepți abia avură timpul a striga, stai!! căci blestematul călugăr având în vedere că un pericol îl așteaptă întinse toiagul său magic peste ei și imediat fură electrizați și rămași în picioare ca 2 statui, apoi le înfipse pumnalul în piept și căzură jos în lac de sânge, atunci se năpusti către Paul și regină care la aceste zgomote se desteptară și cu un ton aspru zise:</p>
 <p>A! mizerabile Paul! tu aici, tu ferice ! nu te-ai gândit un moment că eu încă exist, nu te-ai gândit că torturile mele de când nu ai voit a-mi da ascultarea la acel moment a nu pune mâna pe nimic, a fost cele mai sfâșietoare! nu te-ai gândit cel puțin a mă înștiința și a veni la mine a-mi aduce cutia dacă ai răușit să scapi de acolo. Mizerabile ce ești, ai cautat să mă frustrezi, că acea cutie nu era dreptul tău, ci al meu. Acum dar îți voi da pedeapsa ce meriți, și ca un turbat puse mâna pe frânghia ce era legați cai ce pășteau în jurul faitonului regal și îl legă de brațe, azvârlind un capăt al frânghiei de o cracă a arborelui care îi umbreau, îl scotoci peste tot și găsi cutia în partea dreaptă a brațului său, și trase de capătu fringhia ei în sus ce imediat fu spânzurat dupe cum îl găsirăm. Lăsându-l acolo, luă pe regină care leșinase de spaimă, în viguroasele lui brațe și ordonă copilului a-l urma, și se întoarse înapoi de unde plecase.</p>
 </div>
 <div type="chapter" n="16">
-<p> Moartea Călugărului, Paul victorios </p>
+<head> Moartea Călugărului, Paul victorios </head>
 <p>Cu câteva zile în urmă, găsim pe Paul în conținutul Chinei aproape de orașul său natal. Scăpat din această tortură îngrozitoare când se făcu bine ziuă și soarele lumina, înhămară caii și plecă mai departe prin acea pădure, jurând împreună cu cei patru servi, a-și răzbuna.</p>
 <p>Când se făcuse noapte abia putură ieși din acea pădure și în depărtare se zărea o lumină. Era miezul nopții când se apropiară de partea unde se zărera lumina.— Era un sat.— Ajunși aci se opri în fața unei case care se părea că este un han.—Bate la ușă și foarte târziu cineva răspunse, cine este? Oameni buni răspunse Paul. Hangiul deschise și îi găzdui, - și rămaseră aci 6 zile. A șaptea zi în zori înhămară cai și porniră pe drum. Micul Paul zdrobit de durere, forțele îl părăsiră și se lăsă pe perina faitonului a fi condus de oamenii lui unde vor nemeri ei.—Când se deșteptă se făcuse nopte. — Locul unde ajunsese era un oraș, aci se opri trăsura în fața unui hotel, sună clopoțelul și portarul se grăbi ai servi. Puse cai la grajd și îi împărți prin camere după cererea lui Paul.</p>
 <p>Paul simțindu-se cu totul zdruncinat și prevedea că starea sănătății lui este în pericol, avea nevoie de un doctor și sună clopoțelul.</p>

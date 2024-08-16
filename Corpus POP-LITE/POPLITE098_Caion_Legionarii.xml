@@ -38,12 +38,12 @@
                <pubPlace>București</pubPlace>
                <publisher>TIPOGRAFIA MODERNĂ G. LUIS</publisher>
                <date>1904</date>
-               <decoNote type="ilustratii" subtype="no"/>
-               <dim unit="char" type="mare"/>
+               <decoNote type="illustration" subtype="no"/>
+               <dim unit="char" type="big"/>
                <extent>
                   <measure unit="word">28520</measure>
                   <measure unit="page" type="under_250"/>
-                  <measure unit="foileton" type="under_65"/>
+                  <measure unit="feuilleton" type="under_65"/>
                   <measure type="complete"></measure>
                </extent>
             </bibl>
@@ -63,8 +63,8 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="5"/>
-               <term type="republicare" n="2"/>
+               <term type="reception" n="5"/>
+               <term type="print_count" n="2"/>
                <term type="finished"></term>
                
             </keywords>
@@ -72,8 +72,8 @@
       </profileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
             <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
             <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
          </projectDesc>
@@ -81,9 +81,11 @@
    </teiHeader>
     <text>
   <body>
-  <div type="chapter" n="1">
-    <p>CARTEA ÎNTÂI</p> 
-    <p> Legionarii crucii </p>
+  <div type="part" n="1">
+	  <head>CARTEA ÎNTÂI</head> 
+    <head> Legionarii crucii </head>
+	  <div type="chapter" n="1">
+    
 <p> Era în tabăra lui Constantin. Oștile risipite pe câmpia întinsă, aproape nu mai păstrau vechea ordine romană: obosite, priveau trist apusul polichromic al unui soare, ce lumina o lume murindă. </p>
 <p> Vechea orânduială din tabăra augustiană dispăruse: legionarul, disciplinat de odinioară, făcuse loc soldatului leneș, pe care o plată bună îl târa în șivoiul luptei. </p>
 <p> Armata era pestriță: toate limbile imperiului se ciocneau între ele; răsuna lângă cuvântul latin, rotund și plin, cuvâtarea pițigăiată a grecului sardian sau asprul grai al tracului și al germanului barbar. </p>
@@ -173,7 +175,7 @@
 <p> Trupul său nu era chinuit de figura patimii și carnea lui nu tresălta la glasul voluptății, așa că singurătatea îl fermeca. </p>
   </div>
 <div type="chapter" n="2">
-<p>II </p>
+<head>II </head>
 <p> Lumea sclavilor era supusă celor mai dureroase chinuri: dânsa suferea din greu și, sub cârmuirea sufletească a zeilor păgâni, se nimicea, așteptând să se ivească un nou Spartacus, un alt nobil atlet al libertății. Decadența, însă, nimicise, din inima latină, entuziasmul și puterea sufletească care, singură, poate naște eroi, ce vor să moară pentru binele comun. Samnium, ca și celelalte provincii italiene, era nimicit. Sub dominația câtorva proprietari, mii de sclavi mureau sufletește și se pregăteau, repede, spre a trece în imperiul lui Hades. </p>
 <p> Sub cer superb, senin și plin de soare, sub mângâierea dulce a vântului sudic, îmbibat de mireasma apenină, Aelius se născuse. Părinții săi, sclavi nemernici, muriseră în grozave dureri. Stăpânul lor, un bogat liber, unul din neamul Narcișilor si Caliștrilor care, prin lingușirea cesarului, parvenise la rang și bogăție, domnea peste jumătate din Samnium. </p>
 <p> Păduri fermecate, în care lumina soarelui nu străbâtea: prăpăstii adânci și fioroase, șesuri aurite de grâu și soare, munți stâncoși, sate și pășuni; turme de vite și oameni intrau sub directa lui stăpânire. Întregul Samnium tremura la numele lui Sylvius Porcius Laecca, presupus nobil decadent și care, în neamul lui, pretindea că numără și un binecuvântat legislator. </p>
@@ -282,7 +284,7 @@
 <p> Credința lui pentru împărat și pentru biserică atrăsese, încă din război, atenția lui Constantin.</p>
   </div>
 <div type="chapter" n="3">
-<p> III </p>
+<head> III </head>
 <p> Pierdută în mijlocul florilor de câmp, năpădită de albăstrițe și de buruieni, de trandafiri sălbatici și de flori agățătoare, căsuța se pierdea într-un vârtej de verdeață. În fața ei se deschidea orizontul larg și, în depărtare, mărginit de Balcani. Prin fața casei trecea șoseaua militară făcută de legionarii Romei și care ducea spre Dunăre: în spatele ei, o imensă pădure de accacias, dădea vara o umbră binefăcătoare. </p>
 <p> Aici se stinsese unul din acei coloni militari, pe care imperiul îl procopsise și, în urma lui, rămăsese o bătrână și o fată fermecătoare.</p>
 <p> Lydia crescuse în spiritul aspru al noii credințe și, la frumusețea ei, adăuga înaltă cinste sufletească și dragoste pentru munca dreaptă și curată. </p>
@@ -368,6 +370,7 @@
 <p> In Naisus, împărăteasa mamă, blânda virtuoasa Elena, îngrijea pe Crispus, care, încă de mic, prin taina sfântului botez, se făcu iubit Dumnezeului creștin: pătrunsese în religia cea nouă. Elena îl învățase să cugete ca un credincios și, mai târziu, Lactantius făcu din el un fisosof, iar  Aelius, soldatul ce se deosebise la Pons-Milvius, un general iscusit. </p>
   </div>
 <div type="chapter" n="4">
+	<head>IV</head>
 <p>Tânarul vlăstar încăpuse pe bune mâini. Educația lui era încredințată lui Lactantius care, în grabă, plecase fericit că putea să dea viitorului împărat creșterea ce socotea dânsul ca bună.</p>
 <p> Crispus locuia în Naissus. Copilăria o petrecuse în  mijlocul naturii. De la revărsatul zorilor până la amurgul zilei, Cripus rătăcea printre tufișurile parfumate și pline de tainici cântăreți. </p>
 <p> De două ori pe zi, în orice parte s-ar fi aflat, aducea rugă Dumnezeului creștin. Cu poporul era blând, generos și plin de cel mai nobil curaj. Dânsul împrumutase de la Constantin numai acel avânt bărbătesc, care făcea pe victoriosul de la Pons Milvius să fie așa de admirat și temut; încolo întrupa pe Lydia. Figura lui blândă și luminată de doi liniștiți era încununată de bogat păr aurit. Corpul său înalt purta în el grația și nobila delicatețe a scumpei morți. </p>
@@ -489,10 +492,13 @@
 <p>În bisericile creștine se celebrară imnuri de glorie, și Constantin a fost numit cel mai mare cesar. Nu toți creștinii erau mulțumiți: unii cereau ca religia creștină să nu mai tolereze pe celelalte.</p>
 <p> Lactantius protestă și aducea mari laude împăratului; o cuvântare populară el zicea:</p>
 <p> „ Dumnezeu a dictat lui Constantin edictul din Milan. Isus nu cere oprimarea sufletelor; Dumnezeu n-are nevoie de sabie pentru credința mântuitoare ce ne-a dat.''</p> 
-<p>Cartea a doua </p>
-<p>Pentru cruce și tron.</p>
-  </div>
+  </div></div>
+	  
+<div type="part" n="2">	
+<head>Cartea a doua </head>
+<head>Pentru cruce și tron.</head>
 <div type="chapter" n="6">
+	  
 <p> Mai înflorit sosise; cu el și cerul albastru, ca și albastrul cicoarei. Întreaga natură, reînviată, celebra, prin frumusețea ei, imnuri Dumnezeirii. Înălțătoarea minunăție a firii, se armoniza cu sufletele curate ale creștinilor cucernici, care formau cea mai nobilă podoabă a acestei provincii, binecuvântată de Dumnezeu.</p> 
 <p>Moesia superioară era cârmuită, aproape numai de Lactantius. Împăratul știa în Naissus pe Crispus, pe Elena și pe Lactantius, ca să se mai gândească la această parte a imperiului său. Cele mai bune vești primea; supunerea cea mai desăvâșită domnea.</p> 
 <p>Crispus împlinise, pe la finitul idelor lui Marte, douăzeci de ani. Era acum un tânăr frumos; purta cu mândrie toga cetățeanului roman și căuta să fie demn de ea.</p>
@@ -574,7 +580,7 @@
 <p> Lumea, încet-încet, se răsfiră, și mormântul reintră în tăcerea sfântă a nopții.</p>
   </div>
 <div type="chapter" n="7">
-<p> II </p>
+<head> II </head>
 <p> — Dumnezeu voiește ca să avem o singură biserică. Cel ce umblă în calea Domnului este binecuvântat. Arius, cu învățătura lui, aduce mult rău credinței noastre, zise Lactantius supărat. De abia se dete edictul din Milano, și începură arienii să amăgească gândul împăratului.</p>
 <p> Numai biserica din Roma, unde atâția creștini mari au suferit martirul, este aleasa lui Dumnezeu. Se vor ivi mulți eretici și multe schisme. Are să se conteste Roma ca metropolă a creștinismului, dar Dumnezeu , tot biserica aceasta o va socoti ca cea dreaptă. Împăratul nostru de va voi să ridice o nouă capitală, Roma va râmâne tot cetatea eternă și sfântă, căci în ea au murit, în grele chinuri, cei dintâi adepți ai religiei lui Iisus. </p>
 <p> Schisma lui Arius este periculoasă: ea face pe fiu dintr-o materie analoagă cu tatăl, îl desparte pe El de dânsul, și face ca legăturile să râmână la idei. Isus rămâne atunci un propagator divin, iar, nicidecum , Fiul Domnului. </p>
@@ -650,7 +656,7 @@
 <p> Spre seară, Lactantius porni spre Moesia; drumul apucat era bun. Roma, prin legiunile ei, îl bătătorise odinioară, când cuceririle sângeroase formau gloria casărilor.</p>
   </div>
 <div type="chapter" n="8">
-<p> III </p>
+<head> III </head>
 <p> — Pe numele lui Dumnezeu, spuse cu voce blândă Crispus.</p>
 <p> — Nu lua în deșert numele Domnului, zise Mirvam. Spune, mă iubești?</p>
 <p> _ Iubirea mea e ca focul razelor soarelui de vară, ca flacăra focului și ca dragostea mumei. Tu ești pentru mine, Miryam, singura bucurie; tu întrupezi fericirea supremă și, în mangâiala ta, eu găsesc mulțumire sufletească.</p>
@@ -782,7 +788,7 @@
 <p> Ne apropiem de Roma, să ne rugăm, scumpi prieteni, să cerem umilit acestor nobile inimi, care acum se bucură de cea mai deplină fericire cerească, să ne proteagă. </p>
 </div>
 <div type="chapter" n="9">
-<p> IV </p>
+<head> IV </head>
   <p> În clar obscurul unei dimineți, care preluda o zi senină, Miryam, fecioară superbă la privire, floare smulsă din cadrul olimpului păgânesc, cu ochii plini de lacrimi și cu figura ei delicată, adânc îndurerată de mari chinuri sufletești, singură, se îndrepta spre mormintele iubite, unde, împreună cu Crispus, petrecuse cele mai frumoase ceasuri din tânăra ei viață. Miryam nu avea mai mult de optsprezece ani și, frumusețea ei antică, care reamintea cameele, pe care artistul sculptase o Messalină sau o Poppea, o Lais sau o Lesbie, se îndrepta spre culme.</p>
 <p> În rama palpitantă a dimineții, dânsa părea și mai seducătoare. Silueta i se contura bine nuanțată, înaltă și plină de grații delicate, ea se estompa pe cerul roșcat și lua proporțiile unei statui ieșite din atelierul vreunui sculptor din școală, lui Skopas. Părul ei ruginiu și cu reflexe de flacără vie, cădea în unde pe corpul ei învelit în simplu chiton. Figura ei părea de o albeață marmoreniană și buzele aveau culoarea fragei.</p>
 <p> Lipsea rapsodul antic, genial și stăpânit de voluptate, care să cânte pe această fecioară divină. </p>
@@ -923,10 +929,12 @@
 <p>- Iartă-l, mai bine dă-i exilul, respinse Fausta. </p>
 <p> — Exilul! Am să-i dau cea mai grozavă moarte. Cum el, fiul meu, să cuteze a visa moartea mea. Dar nicio pedeapsă nu-i destul de aspră. </p>
 <p> Ia, mai spune Fausta, voiesc să-mi fie mereu ațâțată ura. Ia, spune-mi cum voiau să mă omoare. </p>
-<p> ... Și, Fausta reîncepu să povestească infama și criminala ei plăsmuire. </p>
-<p> CARTEA A TREIA</p>
+<p> ... Și, Fausta reîncepu să povestească infama și criminala ei plăsmuire. </p></div></div>
+
+	  <div type="part" n="3">
+	  <p> CARTEA A TREIA</p>
 <p>  Zori de sânge </p>
-  </div>
+  
 <div type="chapter" n="11">
 <p> Străzile Romei, forul și arterele laterale, erau pline de lume. </p>
 <p> Figuri necunoscute, cu senzualul zugrăvit pe buze și cu poftele scrise în privire, femei care își petreceau vremea în negura Saburrei; flori frumoase și otrăvite, tineri care stăpâneau bogății imense; ultimii credincioși ai Afroditei și vânzătorii de hidromelul iubit de germani și de pastile cu miresme aduse din fundul Asiei, așteptau să fie părtași la o serbare păgână.</p>
@@ -943,10 +951,10 @@
 <p> „ Pe sub umbra aleilor de tei și sub paza armatei lui lisus, Roma antică, cetatea superbă a lui Romulus, sărbătorește pe frumoasa Flora. </p>
 <p> Iată, fecioarele Lațiului care, neatinse azi decât de sărutul călduros al lui Apollo, sosesc pe covorul viu de iarbă, la murmurul șoptitor al izvoarelor, să sacrifice virginitatea lor lui Istar, iubita Florei.</p>
 <p> Cântați tineri care, la optsprezece ani, simțiți iubirea trupească; cântați gloria mândrei Flora.'' </p>
-<p> ,, Pan, vesel vă privește, Afrodita vă surâde și Joe vă binecuvântează. Iarba, tânără și moale, vă asteaptă, tineri ai Romei, și pe voi, fii ai Oderului spumos.'' </p>
+<p> Pan, vesel vă privește, Afrodita vă surâde și Joe vă binecuvântează. Iarba, tânără și moale, vă asteaptă, tineri ai Romei, și pe voi, fii ai Oderului spumos.'' </p>
   <p> Fluier de nai, arpegii săltărețe, umpleau aerul încărcat de parfum lasciv.</p>
   <p>În mijlocul acestui zgomot satanic, apăru Dolabela. Tăcerea se întinse îndată. Tânărul Cajus începu să citească o poezie de Catullus:</p>
-<p>,, Tineri, eu sunt acela a cărui imagine grosolană este sculptată în stejar de securea țărănească. Eu sunt acela care am fertilizat această grădină să prospere, din an în an, această rustică colibă, acoperită de liane și trestii încurcată. Stăpânii acestei sărace locuințe, tatăl ca și fiul, îmi dau o îngrijire pioasă și mă socotesc ca zeu tutelar; unul îmi aduce, fără încetare, bogate ofrande; fiul său, cu mâna lui tânără, culege ierburile care năpădesc în sanctuarul meu micuț; el împodobește chipul meu, aici, cu coroană pestriță de flori colorate, vestitoare de primăvară, aici cu spic de grâu plăpând și cu vârfuri verzi, aici cu prune violete și cu maci auriți.''(XIX)</p> 
+<p>Tineri, eu sunt acela a cărui imagine grosolană este sculptată în stejar de securea țărănească. Eu sunt acela care am fertilizat această grădină să prospere, din an în an, această rustică colibă, acoperită de liane și trestii încurcată. Stăpânii acestei sărace locuințe, tatăl ca și fiul, îmi dau o îngrijire pioasă și mă socotesc ca zeu tutelar; unul îmi aduce, fără încetare, bogate ofrande; fiul său, cu mâna lui tânără, culege ierburile care năpădesc în sanctuarul meu micuț; el împodobește chipul meu, aici, cu coroană pestriță de flori colorate, vestitoare de primăvară, aici cu spic de grâu plăpând și cu vârfuri verzi, aici cu prune violete și cu maci auriți.''(XIX)</p> 
 <p> .... Și, serbarea urmă vibrândă de patimă: orgia nebună se desfășura sub privirea Priapului obscen și vopsit în roșu. </p>
 <p> După orgie, urmă ospățul sardanapalic și, după dânsul, sălile spațioase fură deschise și discuții literare înlocuiră erotismul floral. </p>
 <p> Lumina palidă a lunii învăluia, în galbenă chlamydă, această scenă reînviată, în care epoca neroniană strălucea. </p>
@@ -1099,7 +1107,7 @@
 <p> Împărăteasa era foarte mulțumită și vedea în izbândă planul său. Aștepta venirea lui Constantin, ca să desfășoare ce pregătise, cu atâta grijă și cheltuieli </p>
 </div>
     <div type="chapter">
-<p> Epilog </p>
+<head> Epilog </head>
 <p> Viața, chinuit de mari suferințe, avea să se sfârșească pentru Crispus. Pacea eternă a celor drepți avea să-1 primească în sânul ei. </p>
 <p> Pe la sfârșitul anului 326, judecătorii, trimiși de împărat, sosiră în Pola. Cu ei, veneau și zilele triste ale toamnei. Noiembrie melancolic cernea, peste frunzele pălite, și vântul rece al nordului ridica valuri cotropitoare. Coasta dalmatină părea ca pedepsită de vreo mână nevăzută.</p>
 <p> Adriatica plină de thalazuri, plângea alături cu întreaga natură îmbrobodită zăbranic de groși nori. </p>
@@ -1130,10 +1138,9 @@
 <p> Aelius își înfipse spada în pântece și Dumnezeu îl primi în împărăția sa. </p>
 <p> El murea ca și Cato din Utica. El era ultimul roman și cel dintâi legionar al Romei creștine. </p>
 <p> Și, azi, călătorul care trece pe lângă vechea Pola, la o mică depărtare de oraș, poate să vadă o piatră funerară, cu o inscripție ștearsă și, pe care epigrafia o atribuie epocii neroniane, istrianul, care călăuzește, își descoperă capul, face pios semnul crucii și, plin de mândrie, zice: Aici e mormântul lui Crispus, fiul lui Constantin cel mare. </p> 
-<p> Sfârșit </p>
-<p> Joi, 24 Iulie, 1906</p> 
-<p> în Câmpina</p>
-    </div>
+<trailer> Sfârșit </trailer>
+<trailer> Joi, 24 Iulie, 1906, în Câmpina</trailer> 
+    </div></div>
         </body>
     </text>
 </TEI>

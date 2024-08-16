@@ -39,12 +39,12 @@
                <pubPlace>București</pubPlace>
               <publisher>EDITURA LIBRĂRIEI SOCEC</publisher>
                <date>1920</date>
-               <decoNote type="ilustratii" subtype="no"/>
-               <dim unit="char" type="mare"/>
+               <decoNote type="illustration" subtype="no"/>
+               <dim unit="char" type="big"/>
                <extent>
   <measure unit="word">47560</measure>
   <measure unit="page" type="under_250"/>
-  <measure unit="foileton" type="under_65"/>
+  <measure unit="feuilleton" type="under_65"/>
   <measure type="complete"></measure>
                </extent>
             </bibl>
@@ -64,8 +64,8 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="5"/>
-               <term type="republicare" n="2"/>
+               <term type="reception" n="5"/>
+               <term type="print_count" n="2"/>
                <term type="finished"></term>
                
             </keywords>
@@ -73,8 +73,8 @@
       </profileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
             <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
             <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
          </projectDesc>
@@ -98,14 +98,14 @@
     </div>
     
     <div type="titlepage">
-    <p>AMERICANA ÎNDRĂGOSTITĂ</p>
-    <p>- ROMAN -</p>
-    <p> Toate drepturile rezervate.</p>
+    <head>AMERICANA ÎNDRĂGOSTITĂ</head>
+    <head>- ROMAN -</head>
+    <trailer> Toate drepturile rezervate.</trailer>
     </div>
     </front>
      <body>
  <div type="part" n="1">
-<p>PARTEA I</p>
+<head>PARTEA I</head>
 <p>Oprită la vitrina enormă a Restaurantului popular, tânăra se uita la cele câteva feluri, expuse artistic, menite să impresioneze plăcut pe trecători.</p>
 <p>Palidă și cam trasă la obraz, femeia nu arăta să aibă mai mult de 23 ani, și cu toate că hainele îi erau cam purtate, se vedea că avea obiceiul de a se îmbrăca bine și mai ales curat.</p>
 <p>Statura îi era ceva mai mare de mijlocie: sub pălăria-i simplă, părul blond tăiat scurt cădea în bucle ondulate, iar în obrazul drăgălaș luceau ochii albaștri, cari, deși ușor cercuiți de oboseală, erau mari vioi, și denotau o deșteptaciune deosebită. Gura roșie,cu buze pline, avea linii armonioase. Trecătorii se uitau la femeie, o măsurau din ochi și treceau înainte. Unii intrau anume în restaurant ca să aibă putința de a o vedea și din față prin vitrină.</p>
@@ -891,7 +891,7 @@ după un timp, oftă ușor, zicând:</p>
 vorbesc prea... precis... Care lună? Luna noastră de... miere...</p>
   </div>
  <div type="part" n="2">
-<p>PARTEA II-a</p>
+<head>PARTEA II-a</head>
 <p>Dan își luase de la fabrica, de locomotive, la care lucra, concediu pentru o săptămână. Dar
 preparativele de nuntă fură reduse la cea mai mare simplicitate.</p>
 <p>Se îngriji de câteva cadouri mici, apoi dădu primul acont, pentru unul din cele mai luxoase
@@ -2158,7 +2158,7 @@ poteca.</p>
 enormi, jucându-se în plină libertate.</p>
 <p>Elena văzând fiarele sălbatece atât de aproape, scoase cu o mișcare fulgerătoare, pistolul ei, îl
 armă și trecu înaintea lui Dan. Însă tânăra călăuză le făcu semn, arătându-le că
-între urși și ei, se afla un șanț adânc pe care nu-1 observase. Elena își puse arma
+între urși și ei, se afla un șanț adânc pe care nu-l observase. Elena își puse arma
 la loc, după ce așeză piedica de siguranță... Dan o imită, și rămase cu ochii la
 animalele uriașe care continuau să se joace.</p>
 <p>Călăuza le făcu semn să se uite înspre dreapta și ei văzură venind o femeie tânără, îmbrăcată
@@ -3045,7 +3045,7 @@ home.)</p>
 <p>Și astfel, se apropia aniversarea primului an de la căsătoria lor.</p>
 </div>
  <div type="part" n="3">
-<p>PARTEA III</p>
+<head>PARTEA III</head>
 <p>Dan intră cu un aer grăbit preocupat în casă. Dar când fu să treacă spre odaia din fund, unde
 credea că se află tânăra lui soție, o ființă îmbrobodită ieși tiptil de după ușă, și
 punându-i pe la spate mânile pe gât, începu să strângă. Tânărul făcu o mișcare
