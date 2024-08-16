@@ -39,12 +39,12 @@
                <pubPlace>Câmpina</pubPlace>
               <publisher>EDITURA LIBRĂRIEI I. CRĂCIUN</publisher>
                <date>1909</date>
-               <decoNote type="ilustratii" subtype="no"/>
+               <decoNote type="illustration" subtype="no"/>
                <dim unit="char" type="mare"/>
                <extent>
                   <measure unit="word">18236</measure>
                   <measure unit="page" type="under_250"/>
-                  <measure unit="foileton" type="under_65"/>
+                  <measure unit="feuilleton" type="under_65"/>
                   <measure type="complete"></measure>
                </extent>
             </bibl>
@@ -64,16 +64,16 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="5"/>
-               <term type="republicare" n="2"/>
+               <term type="reception" n="5"/>
+               <term type="print_count" n="2"/>
                <term type="finished"></term>
             </keywords>
          </textClass>
       </profileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
             <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
             <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
          </projectDesc>
@@ -82,7 +82,7 @@
     <text>
        <front>
           <div type="liminal">
-          <p>CÂTEVA CUVINTE</p>
+          <head>CÂTEVA CUVINTE</head>
           <p>Este știută de toți greutatea cu care luptă o Bibliotecă în ziua de azi, când hartia sunt atata de scumpe și credem că publicul cititor ne va da tot sprijinul spre a puiea duce înainte încercarea d-lui Crăciun, de a scoate în editura librăriei d-sale o Bibliotecă în felul celorlalte de pană acum. D-sa încredințându-mi conducerea acestei Biblioteci voi căuta a publica în numerele ce vor apărea periodic numai opere de ale scriitorilor noștri mai tineri care s-au dezvoltat în timpul din urmă. Fiecare număr va cuprinde portretul autorului, iar apoi ca introducere vom arăta calitățile operei și ale scriitorului, pentru ca cititorii să pătrundă mai bine în ceea ce citesc.</p>
           <p> Începem, dar, seria numereleor din Biblioteca noastră cu broșura ,,Un suflet sfărâmat..." datorită d-lui M. Alexandrescu unul dintre cei mai tineri scriitori care încep a ieși la lumină. D-sa a scris foarte pușin prin reviste, nepublicând decât în Semănătorul, d-lui Aurel Popovici și în Viața Literară a d-lui Ilarie Chendi. De curând a publicat in Universul frumoasa nuvelă Cântecul din urmă, nuvelă care ne-a făcut ca sa-i cerem câteva din nuvelele d-sale spre a le da în această Bibliotecă. Tot în coloanele Universului, mai scriu: marele nostru Vlăhuță, d. Ion Gorun; d. Radu D. Rosetti și alți literați de scamă, pe lângă care tânărul scriitor M. Alexandrescu a putut a-și face loc.</p>
           <p>Se găsesc în nuvelele d-sale, rânduri care fac să ți se înfioare sufletul și toate scenele sunt redate cu atata măiestrie că citindu-le simți parcă aceleași sentimente pe care le-a simțit dânsul, scriindu-le.</p>
@@ -98,7 +98,7 @@
        </front>
          <body>
  <div type="chaper" n="1">
-<p>Un suflet sfăramat... </p>
+<head>Un suflet sfăramat... </head>
 <p>Mă plictisise mult asurzeala și zgomotele orașului. Voiam un colț de țară liniștit și o căsuță în care să străbată soarele. Voiam a mai prinde puțin sânge căci prea eram de tot galben, mai galben ca o lămaie. Și m-am dus pentru asta la mătușa Glafira, stareța mănăstirii P... Aveam o odăiță mică ca aceea pe care mi-o făuream în gând nici liniștea nu-mi lipsea. Ziua toată mi-o treceam plimbându-mă prin prejurul mănăstirei, iar când se întampla să fie vreme urâtă stam în casă și citeam, Duminica mă duceam regulat la slujba călugărițelor. Îmi plăcea atata de mult ca să le ascult cântând. Într-una din Duminici, nu știu cum una din ele m-a privit parcă mai lung și se dădea cât mai mult lângă mine. Și pe când părintele Timoftei, un preot tânăr de abia hirotonisit citea slujba, dânsa se desprindea din corul de călugărițe și venea mereu lângă mine. Într-una din zile am întâlnit-o la puț. Venise să ia apă pentru ca să măture prin biserică. Am privit-o atunci și mai bine. Avea niște ochi albaștri ca cerul și era atata de frumoasă. Când m-a văzut a început să-mi zâmbească. Eu o priveam mereu. După ce și-a umplut căldarea cu apă trecu pe lângă mine și-mi zise: </p>
 <p>— Te aștept diseară sub crucea din dos! și apoi se depărtă. </p>
 <p>Țin minte că de abia am așteptat atunci ca să se facă seară. Mă gândeam mereu și nu mă puteam dumiri de ce-mi spusese  și viu sub cruce. Nu mă gândeam la cine știe ce căci îmi ziceam că călugărițele sunt femei sfinte. </p>
@@ -199,8 +199,8 @@
 <p> Și în seara aceea pe când eu plângeam ca un nebun având pe suflet remușcarea ce-mi spunea că eu o omorâsem, luna se înalța posomorâtă de după vârful unui plop ce strejuia la poarta mănăstirii. </p>
 </div>
  <div type="chaper" n="2">
-<p>CÂNTECUL DIN URMĂ </p>
-<p>Lui Costel Săndulesou. </p>
+<head>CÂNTECUL DIN URMĂ </head>
+<p><epigraph>Lui Costel Săndulescu. </epigraph></p>
 <p> Toți care l-au cunoscut pe Giovanini nu l-au văzut o dată trist. Era așa de veselă figura lui și purta veșnic cu el un surâs dulce ca un zâmbet al primăverii, un surâs care când se arăta pe buzele lui crăpate și cojite de frig, părea întocmai ca o rază tainică de soare ce străbate plăpândă de sub acoperământul unor nori întunecoși. Giovanini veselul, așa îi ziceam toți și toți îl iubeam, căci tare era bun la suflet. Giovanini era și artist. Cânta atâta de frumos din gură cu o voce melodioasă și dulce ce părea întocmai ca o adiere înceată de vânt stârnită în vreun amurg târziu de toamnă de zefirul vagabond ce trece alunecând ușor ca un șarpe printre frunzele dese și subțiri. Parcă îl văd și acum pe Giovanini întocmai ca în seara aceea când ne-a cântat cu glasul lui dulce, un cântec atât de fermecător, un cântec ce ne pătrunsese la toți sufletul, făcându-ne să simțim în noi avântul unei alte lumi mai nouă. Și răsuna atât de duios glasul lui când el ne cânta lin și pătrunzător «La donna e mobillei, ce se pierdea în murmure dulci. </p>
 <p> Ochii săi mari și albaștri ca floarea de cicoare, luceau ca niște stropi de rouă risipiți în zorii dimineții pe o petală de trandafir, și părul negru ce-l purta în plete mari îl arăta atât de plăcut. </p>
 <p> — Giovanini, să-mi cânți ceva de dor — i-am zis într-o seară și el după ce m-a privit lung ca și când ar fi vrut să citească în ochii mei vreo taină ascunsă pe care nu voiam sa i-o mărturisesc, își drese glasul tușind încet, și apoi începu un cântec atât de dulce, un cântec pentru care aș fi dat viața mea numai să-i ascult veșnic melodia lui fermecătoare ce-mi înfiorase sufletul. Cât de amărât să fi fost un om, cand l-ar fi auzit pe Giovanini cântând uita de toate durerile lui și poate chiar ar fi adormit sub vraja cântecului său duios. Și mi-a cântat atunci de dor mi-a cântat cum știa el de dulce, iar după ce isprăvi mă chemă deoparte și mă întrebă: </p>
@@ -223,7 +223,7 @@ atâta de fericit, auzind parcă și în somn duioșia glasului său plin de o s
 <p> Și de atunci nu mai știu nimic de dânsul, iar azi când îmi amintesc de el îmi vine și plâng, și cu toate că nu mai este lângă mine, parcă tot îi mai aud așa de departe venit parcă pe o adiere ușoară de vânt, cântecul lui cel de pe urmă ce-mi înfiora sufletul, cântecul lui ca și ultima ciripire îndurerată a unei păsări care moare singură pe craca de unde a cântat o primăvară... </p>
 </div>
  <div type="chaper" n="3">
-<p>Darul Crăciunului </p>
+<head>Darul Crăciunului </head>
 <p> Virginia, rezemată cu mainile de latul ferestrei, privește îngândurată la fulgii groși de zăpadă ce se aștern alene pe geamurile împestrițate cu flori de gheață. Umbrele neguroase ale serii prind a se lăsa din ce în ce, pe când din zarea îndepătrtată, armatele de nouri albi cu coifuri cenișii, se strecor împrăștiate de vântul care le duce departe. </p>
 <p> Peste orașul tăcut omătul a așternut haina lui cea groasă, întocmai ca un lințoliu rece de moarte ce învăluie cu umbrele lui pacea îndureratelor țintirime. </p>
 <p> Virginia privește înainte la fulgii albi ce se joc înaintea ferestrei, întocmai ca niște copilași rasfățați. </p>
@@ -272,8 +272,7 @@ atâta de fericit, auzind parcă și în somn duioșia glasului său plin de o s
 <p> Copilița se alipește mereu de pieptul tatălui reîntors, iar Virginia se uita cand la dânsul, când la fetiță și năpădind-o deodată un plâns de bucurie, privește la icoana ce pare că-i surâde din perete. </p>
 </div>
  <div type="chaper" n="4">
-<p>MIȚIȘOR </p>
-<p>- ISTORIOARĂ PENTRU COPII - </p>
+<head>MIȚIȘOR-ISTORIOARĂ PENTRU COPII - </head>
 <p> De-ar fi ținut ziua de joacă un an întreg, Georgică tot nu s-ar mai fi săturat de nebuniile lui. Era un copil răsfățat și-l iubea bunică-sa ca pe un odor scump... Și nici Nicușor, fratele lui mai mare decât el, nu se lăsa ca Georgica să-i ia înainte. </p>
 <p> Și era atâta de drăgălaș Georgică. Avea niște ochi căprui plini de străluciri și un păr blond îi învelea capul în bucle mătăsoase. </p>
 <p> Toată ziua alerga ca un ștrengar prin curte și dintre toți copiii ce se luau la joacă cu el, cel mai isteț era dânsul și cu Nicușor. </p>
@@ -305,7 +304,7 @@ atâta de fericit, auzind parcă și în somn duioșia glasului său plin de o s
 <p> Și cu lacrimile-n ochi s-au luat atunci de mână și s-au dus de au sărutat amândoi mâna aproape uscată a bunicii, spunându-i tot felul de nimicuri copilărești spre a-i ierta, iar dânsa -suflet plin de bunătate— le asculta pocăința și le săruta la amandoi frunțile, pe când într-un stufiș Mițișor se mai zbătea înca în hăinuțele de maimuțoi. </p>
 </div>
  <div type="chaper" n="5">
-<p>Cea dintâi lacrimă... </p>
+<head>Cea dintâi lacrimă... </head>
 <p> Actrița Amalia Drăghici era sufletul scenei. Înt-’o seară jucase rolul   Elisabetei din  Tann-hauser și a fost atâta de strălucită în jocul de scenă că un potop nesfârșit de aplauze îi răsplătiră munca. </p>
 <p> În seara aceea l-a cunoscut pe Eugen Vioreanu și din seara aceea visa în fiecare noapte ochii lui frumoși. </p>
 <p> Dar într-o zi a venit la dânsa o femeie tânără, bine îmbrăcată, ce ținea de mână un copil ca de vreo șase ani, și fără nicio ceremonie i-a spus deodată cu un glas înduioșător. </p>
@@ -386,7 +385,7 @@ atâta de fericit, auzind parcă și în somn duioșia glasului său plin de o s
 <p> Rugăciunea îi pătrunsese ca o teamă în suflet și se scutură ca de-o povară grea de gândul de a-și omorî soția din cauza unei actrițe. Ca un nebun se repezi de luă copilul în brațe și sărutându-l pe amândoi obrajii se duse cu el lângă soția ce rămase speriată pe scaun, iar pe când prima lacrima scursă din iubirea ce i se născu în piept pentru cele două ființe, îi brăzdă obrazul, începu să le sărute cuprins de-o dragoste nouă. </p>
 </div>
  <div type="chaper" n="6">
-<p>Rânduri duioase... </p>
+<head>Rânduri duioase... </head>
 <p> Nu știu ce am de la o vreme-ncoace, că stau uneori ceasuri întregi gândindu-mă la tine. De chipul tău, ce-l port veșnic în minte, mă leagă cele mai scumpe amintiri dintr-o vreme pe care am trăit-o amândoi odată. </p>
 <p> Te văd întocmai ca atunci când îmi ieșeai surâzătoare înainte, și când în înserările de vară mă așteptai nerăbdătoare-n pragul porțfii ținându-și mâna streașină la ochi și cătând în zarea prăfuită a drumului ca să mă vezi venind de departe. Apoi când m-apropiam de casa voastră plutea atâta bucurie pe fața ta și luându-mă de mână fugeai cu mine sub umbrarul din grădina unde-mi arătai atâtea și-atâtea bagadeluri lucrate de tine, iar dacă eu ziceam că nu-s frumoase, o atingere ușoară de palmă, ce-o simțeam alunecându-mi încet pe obraz, îmi era răsplata. </p>
 <p> ...Si ne spuneam fel de fel de nimicuri în care puneam amandoi atâta credință, iar în sufletele noastre simțeam atunci o mulțumire ce ne făcea a ne iubi și mai mult. Vorbeam cateodata și de Fericire și credeam că ea n-o să dispară în veci din inimile noastre. Vezi?... Noi nu știam că Fericirea e o pasăre prizonieră care de abia așteaptă să vadă ușa coliviei deschisă spre a zbura și a nu se mai întoarce niciodată... </p>
@@ -437,7 +436,7 @@ atâta de fericit, auzind parcă și în somn duioșia glasului său plin de o s
 <p> O vei citi poate înainte de a te culca și eu, îți zic acum încet: «Somn ușor!...» </p>
 </div>
  <div type="chaper" n="7">
-<p>O fire ciudată </p>
+<div><head>O fire ciudată </head>
 <p> Adina Fotescu se învățase de la părinți cu obișnuițele sale sindrofii de aceea toate  vorbele lui Iorgu — bărbatu-său — pentru întreruperea lor, erau întotdeauna neluate în seamă. </p>
 <p> — Pentru numele lui D-zeu, Adino, gaâdește-te că-i atâta cheltuială </p>
 <p> În fiecare săptămâna e prea des. Mai lasă-le încolo ... ;;;;; </p>
@@ -453,8 +452,10 @@ atâta de fericit, auzind parcă și în somn duioșia glasului său plin de o s
 <p> Și când Iorgu sări, ca ars, de cuvintele ei, ea plecă într-o odaie de alături bolborosind printre dinți: </p>
 <p> Ce viață, ce viață., Vai Frau Immergarten mai bine te ascultam pe tine... </p>
 <p> O apucase un atac de nebunie, și Iorgu privind-o din urma exclamă dând din cap în semn de compătimire: </p>
-<p> — Vai de tine! </p>
-<p> II </p>
+<p> — Vai de tine! </p></div>
+
+	 <div><head> II </head>
+	 
 <p> Când Iorgu Fotescu a văzut întaia oară pe Adina era flăcău de treizeci și cinci de ani iar dânsa o copilă ce abia împlinise cincisprezece ani și care roșea de câte ori auzea pe cineva vorbind de măritiș. </p>
 <p> Părinții ei negustori cu dare de mână o dară la Notre-Dame și acolo primi dânsa primele cunoștințe de pașii ce avea să-i poarte în viața de mâine. Avea o fire tăcuta ca acea a lui Frau Immergarten —calugarița de franțuzește ce o iubea așa de mult fiindcă era Dra Adina Mușătescu, fiică de părinți bogați și care n-ar strica dac-ar stărui pe lângă papilicu— așa învățase ea acolo că se zice la tată - ca să-l îndemne a da vreo mie de franci pentru Notre Dame. Atâta i-a spus Frau Immergarten și a fost destul ca-n prima Sâmbătă, când Zamfir Mușătescu veni cu trăsura să-și ia fata de la institut, Adina să-i spună de această donație foarte nimerită. </p>
 <p> La început Mușătescu s-a cam codit, căci de o mie de franci era cam mult, dar fiindcă n-ar fi vrut să jignească sufletul fetei lui pe care o iubea ca ochii din cap, o sărută încet pe frunte zicându-i cu bucurie </p>
@@ -498,7 +499,9 @@ atâta de fericit, auzind parcă și în somn duioșia glasului său plin de o s
 <p> — Adino, n-auzi, Adino! îi striga el mereu, dar degeaba. Ea cântă înainte, oprindu-se de abia peste un sfert de ceas și atunci începu să aiureze. Dânsul văzând aceasta trimise numaidecât după doctor iar când acesta sosi Adina își venise în fire. </p>
 <p> Și de atunci Iorgu i-a luat costumul de călugăriță din cuierile ei și i l-a ascuns pentru ca ea să nu se mai îmbrace cu el. </p>
 <p> În rău, în bine, trecură de la întâmplarea aceasta optsprezece ani și asta e toată povestea Adinei până în momentele când se certa cu Iorgu pentru sindrofiile ei. </p>
-<p> III </p>
+</div>
+	 <div><head> III </head>
+	 
 <p> Peste un sfert de ceas când Adina se întoarse înapoi, Iorgu rămase înmărmurit. Dânsa se îmbrăcase iarăși în costumul de călugăriță, și venind în fața lui îi întinse mâna zicându-i </p>
 <p> — Adio dragă Iorgule... Eu plec la mănăstire. </p>
 <p> Dânsul o privea mirat. Citise pe fața ei începutul unui atac de nebunie nu-i zise nimic pentru ca să n-o zdruncine mai rău. Când văzu însă privirea ei rătăcitoare, ochii aceea ce se dădeau mereu peste cap și spumele ce începură să-i răsară în colțurile guri, îl cuprinse o frică grozavă și începu să strige: </p>
@@ -516,7 +519,7 @@ atâta de fericit, auzind parcă și în somn duioșia glasului său plin de o s
 <p> Iar Iorgu săruâind-o ca-n anii dintâi îi zise lingușitor: </p>
 <p> Și tu prea te enervezi repede Adino dragă... </p>
 <p> Și de atunci sindrofiile Foteștilor urmară regulat. </p>
-</div>
+</div></div>
         </body>
        <back>
           <div type="liminal">
