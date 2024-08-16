@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Studentul. Roman original: ediție POPLITE</title>
+                <author>Macri, Panait</author>  
+                <respStmt>               
+                    <resp>codare POPLITE</resp>
+                    <name>Roxana Patraș</name></respStmt>   
+                <respStmt>
+                    <resp>corectură manuală</resp>
+                    <name>Denisa-Gabriela Coșoreanu</name>
+                </respStmt>
+                <respStmt>
+                    <resp>verificare corectură manuală</resp>
+                    <name>Alexandra Olteanu</name>
+                </respStmt>
+                
+                <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>UAIC</publisher>
+                <date></date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+                <ref type="doi" target="10.5281/zenodo.10827304"></ref>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Macri, Panait</author>
+                    <title>Studentul. Roman original</title>
+                    <pubPlace>București</pubPlace>
+                    <publisher>FOILETONUL REVISTEI „TRĂSNETUL”</publisher>
+                    <date>1884</date>
+                    <decoNote type="ilustratii" subtype="no"/>
+                    <dim unit="char" type="mic"/>
+                    <extent>
+                        <measure unit="word">2752</measure>
+                        <measure unit="page" type="under_250"/>
+                        <measure unit="foileton" type="under_65"/>
+                        <measure type="incomplete"></measure>
+                    </extent>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme='https://opentheso.huma-num.fr/opentheso/api/theso/Typologie'>
+                    <term type='domaine' ref="https://hdl.handle.net/20.500.11942/crteb7oodgosm">literatura</term>
+                    <term type='factualite' ref="https://hdl.handle.net/20.500.11942/crt22aacdhvi7">fictiune</term>
+                    <term type='forme' ref="https://hdl.handle.net/20.500.11942/crtnufdew1lfb">proza</term>
+                    <term type='genre' ref="https://hdl.handle.net/20.500.11942/crthuyig1pxri">roman</term>
+                    <term type='agencement' ref="https://hdl.handle.net/20.500.11942/crtbdm5xnc6io">foileton</term>
+                    <term type='origine' ref="https://hdl.handle.net/20.500.11942/crtxolq1evsr9">opera originala</term>
+                    <term type='discours' ref="https://hdl.handle.net/20.500.11942/crt4wma17ncnj">narativ</term>
+                    <term type='public' ref="https://hdl.handle.net/20.500.11942/crthb4el4r5qc">non défini (public cible)</term>
+                    <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
+                </keywords>
+                <keywords>
+                    <term type="receptare" n="5"/>
+                    <term type="republicare" n="2"/>
+                    <term type="finished"></term>                
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+                <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+                <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
+                <p>Masura de tip "incomplete" indica faptul ca am gasit romanul in forma incompleta.</p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+<text>
+<body>
+    <div type="part" n="2">
+<p>FOIȚA „TRĂSNETULUI”</p>
+<p>2</p>
+<p>Studentul</p>
+<p>Roman original</p>
+<p>de</p>
+<p>Panait Macri</p>
+<p>(urmare)</p>
+<div type="section">
+<p>Ea nu avea mai mult ca 17 ani, și la această etate mii de gânduri încep să rătăcească prin mintea fetelor; el setos de iubire și idealuri, și-a găsit idealul și nu mai căuta acum decât iubirea o iubire curată și neschimbătoare.</p>
+<p>Alexandru, căci astfel se numea tânărul nostru, după ce făcu câțiva pași înainte, se întoarse înapoi și urmări pe cele două femei.</p>
+<p>Ele ieșiră afară, se întreptară spre hanul de lângă poartă, intrară într-o trăsură care-i aștepta și doi cai ageri începură să fugă trăgând după ei trăsura și pe cele două femei.</p>
+<p>Alexandru rămase pe loc ca înlemnit. Ce putea el să facă?</p>
+<p>Să fuga după trăsură ar fi fost în zadar.</p>
+<p>O tristeță adâncă îi cuprinse sufletul. El ridică ochii în sus, oftă și luă încet drumul bătut care duce de la Măgurele la București.</p>
+<p>O! Doamne își zise el în sine, pe când mergea alene: dacă pe acea copilă pe care am văzut-o o singura dată și pe care simț că voi iubi-o în toată viața, dacă Doamne nu voiu lua-o de nevastă, eu altă fată nu voi mai iubi.</p>
+<p>Astfel a zis și astfel va fi. Alexandru este un tânăr aproape singular în felul său.</p>
+<p>El știe să-și ție cuvîntul fără să-l calce nici o dată și ceva mai mult știe să fie ferm în hotărârea sa.</p>
+<p>Aici însă nu mai era o hotărâre.</p>
+<p>Era magnetismul din peptul frumoasei copile, care atrase și va atrage pentru totdeauna pe tânărul Alexandru.</p>
+<p>Privirile lui erau îndreptate spre pământ.</p>
+<p>Gândurile îi zburau în toate părțile, se oprea pe la tote fetele, pe care le văzuse în junețea lui, dar când apărea în imaginea sa chipul dulce și fermecător al frumoasei copile din făgurele, un dor nespus îi cuprindea pieptul și două lacrime se lăsau în lungul obrazului său.</p>
+<p>De odată însă el zări o trăsură și lângă ea două femei.</p>
+<p>Una era copila, amorul inimii sale.</p>
+<p>Alexandru își iuți pasul, ajunse și se opri.</p>
+<p>„Mă rog, prin ce nenorocire această trăsură se află în halul acesta?</p>
+<p>„Uite Domnule, răspunse copila cu o voce încântătoare, vizitiul nostru s-a îmbătat și....</p>
+<p>„Înțeleg întrerupse Alexandru el a mânat caii iute și a rupt osia.</p>
+<p>„Da, răspunse bătrâna. </p>
+<p>Vai! și cum vom merge acasă! continuă copila cu o voce duioasă. Nu cunoaștem nici drumul.</p>
+<p>„Mă rog, dacă îmi permiteți vă conduc eu, Bucureștiul nu e departe.</p>
+<p>«Sunteți prea bun d-le și vă mulțumesc din inimă, răspunse copila și dându-i mâna se recomandă:</p>
+<p>„Alexandrina.</p>
+<p>„Sunt vesel d-șoară, Alexandru, student.</p>
+<p>Și fericitul Alexandru dând brațul frumoasei copile urmară drumul spre București, lăsând în urma a lor birja și pe birjar.</p>
+<p>(Urmare)</p>
+</div>
+    </div>
+       
+        <div type="part" n="4">
+            <p>FOIȚA „TRĂSNETULUI”</p>
+            <p>2</p>
+            <p>Studentul</p>
+            <p>Roman original</p>
+            <p>de</p>
+            <p>Panait Macri</p>
+            <p>(urmare)</p>
+<div type="section">
+<p>J U R Ă M Â N T U L</p>
+<p>Buna mea mătușă, zise într-una din zile Alexandrina mătușei sale, mergem și astăzi la Măgurele? E o zi așa de frumoasă?</p>
+<p>Să mergem Alexandrineo, îi răspunse ea cu un aer de bunătate.</p>
+<p>In spre seară cele două femei intrară într-o birjă și luară drumul spre grădina Măgurelele.</p>
+<p>Un vânt sufla ușor, seara era lină și natura părea că reînviază la fiecare moment din somnul ei de iarnă.</p>
+<p>Abia cele două femei intrară în grădină și Alexandru le ieși înainte.</p>
+<p>«Sărut mâna Doamnă, bună seara D-șoară, le zise el și numaidecât se formă un lanț de trei.</p>
+<p>Ochii copilei se furișaau din când în când asupra lui Alexandru. </p>
+<p>Sărmana!... voia să spioneze pânâ și inima seducătorului, sad mai bine zis a violatorului ei.</p>
+<p>Ca la zece minute se plimbară ei printre aleele Mâgurelului, Alexandrina și Alexandru ar fi voit să rămână singuri. Singurătatea este în totdeauna favorita celor amorezați.</p>
+<p>După ce străbătură mai multe poteci, ei suiră o mică movilă și se opriră în pavilionul situat în mijlocul grădinei.</p>
+<p>„Am ostenit cu totul, zise bătrâna, așezându-se pe un scaun.</p>
+<p>„Eu mă mai plimb puțin prin grădină, răspunse Alexandru. Îmi plac așa de mult florile, încât aș voi ca vecinic să nu mai fiu despărțit de ele.</p>
+<p>„Buna mea mătușă, mă voi plimba și eu cu binefăcătorul nostru.</p>
+<p>„Mergeți D-voastră sunteți tineri și puteți umbla mai mult.</p>
+<p>Mătușa Alexandrinei avea o credință oarbă în Alexandru, căci el era unul din acei tineri, care prin naivitatea lor știu să inspire la prima vedere încredere și respect.</p>
+<p>După ce amanții coborâră mica movilă, Alexandru se îndreptă spre fundul grădinii.</p>
+<p>Cât amor era în ei...lipiți unul de altul, amândoi cu privirile dulci, cu inimile bătânde, ei păreau că sunt născuți unul pentru altul.</p>
+<p>Răutăciosule, îi zise Alexandrina, mă vei iubi tu întotdeauna?</p>
+<p>„Până la mormânt, îi răspunse el cu o voce sigură.</p>
+<p>„Până la mormânt...murmură și Alexandrina fără voia ei și deodată deveni palidă. Ea începu să tremure.</p>
+<p>„Dar ce ai? o întrebă Alexandru.</p>
+<p>„Nimic, îi răspunse palida copilă. Am însă o presimțire care-mi zice că voi fi nenorocită...Tu mă vei părăsi. Din noaptea, acea noapte nenorocită când veniși la mine, e vocea inimii mele care-mi strigă necontenit.</p>
+<p>Alexandru, va fi un trădător.</p>
+<p>Eu astăzi sunt în mâinile tale, de la tine depinde ca să fiu vie sau moartă.</p>
+<p>Ori de câte ori însă stau singură, ori de câte ori ochii mei rătăcesc în spațiul nemărginirii, încep să tremur, și vocea care răsună vecinic în pieptul meu, o aud necontenit: Alexandrino! tu vei fi înșelată!..</p>
+<p>Astfel vorbi frumoasa copilă și lacrimi calde veniră să-i inunde fața. Plângea...</p>
+<p>Alexandru nu cuteză să-i spuie nicio vorbă. Amândoi tăceau, numai lacrimile copilei se vedeau din când în când cum picau spre pământul negru.</p>
+<p>Nenorocita...Acum câteva zile o întâlni Alexandru în această grădină și o văzu cu sufletul plin de tristețe, acum, când se întâlnesc din nou în acest loc, care le-a deschis amorul, el o găsește cu sufletul plin de durere.</p>
+<p>Dar această durere e numai un început, de aici înainte se deschide pentru dânsa un adevărat timp de tortură, și de aici înainte Alexandrina nu va mai fi acea copilă de odinioară, vecinic cu zâmbetul pe buze și cu inima arzândă.</p>
+<p>(Va urma)</p>
+</div>
+        </div>
+        
+        <div type="part" n="6">
+            <p>FOIȚA „TRĂSNETULUI”</p>
+            <p>2</p>
+            <p>Studentul</p>
+            <p>Roman original</p>
+            <p>de</p>
+            <p>Panait Macri</p>
+<div type="section">
+<p>CRIMA UNEI MUME</p>
+<p>(Urmare)</p>
+<p>În strada Târgoviștei locuia o femeie văduvă.</p>
+<p>Ea trăia retrasă și nu avea decât un singur copil în etate ca de 23 ani, pe care îl iubea cum ori ce mumă își iubește copilul.</p>
+<p>El se numea Teodor, era un tânăr 'nalt și frumos cu părul blond și cu bunătatea în inimă.</p>
+<p>Elena muma lui, rămase de la barbatul ei cu un venit lunar de două trei, sute de franci.</p>
+<p>De la vârsta de 17 ani, Teodor plecase la Galați, unde se ocupa cu un mic comerț și muma lut rămânând singură, luase o fată de suflet, pe care se hotărî s'o mărite, când se face mai mare.</p>
+<p>Timpul trecu și Amelia, fată de suflet, împlini acum 16 ani.</p>
+<p>Ea era de o frumusețe răpitoare și de o bunătate fără margini.</p>
+<p>Avea 16 ani! timpul visurilor și al amorului!</p>
+<p>Ea iubea, dar pe cine nu știa singură; iubea un ideal, o închipuire.</p>
+<p>Adesea tresărea din somnu-i, adesea vedea pieptul că-i bate și de multe ori simțea pe fața-i o lacrimă caldă.</p>
+<p>Odată stând lăngă fereastră și privind afară, se întrebă singură:</p>
+<p>O, Doamne, ar trebui oare să ascult pe buna mea mumă și să mă mărit eu acel funcționar de la ministerul de resbel! Mă va iubi el oare? inima'mi zice că nu! Să-mi ascult inima, voi călca voința mumei mele și această nu aș voi. Eu sînt o orfană, nu cunosc nici pe tatăl meu nici pe muma mea adevărată și știu că nimeni în lume nu mă va putea iubi, decât această a doua a mea mumă! Dar nu, în ochii mei văd pe un tănăr frumos, care simte pentru mine o iubire nemărginită, el mă va lua din brațele acestei bune mume, pentru a fi în brațele sale! Pe dânsul voi iubi și eu!... </p>
+<p>Pe când ea își făcea însă acestei reflecsiuni, simți o mână care o atinsese pe spate și o strigă pe nume</p>
+<p>Se întoarse frumoasa copilă și văzu lângă dânsa pe muma ei.</p>
+<p>-Ce faci tu aici, Amelio! o întrebă ea.</p>
+<p>-Privesc afară dragă mamă, îi răspunse.</p>
+<p>-Haide începe de te gătește, ceasurile sunt zece, la 11 trebuie să vie d-l M...Poimâine e duminică, și eu am hotărât să vă logodiți.</p>
+<p>Copila nu se împotrivi, Dumnezeule, vino tu în ajutorul meu! excalmă dânsa încet și începu a se îmbrăca.</p>
+<p>Ea puse o rochie albă, își împodobi părul cu mai multe flori de miosotis și-și împresură gâtul cu un șir de mărgele.</p>
+<p>O, în aceste momente, în acea haină albă de mătasă, era mai răpitoare și mai frumoasă decât un înger!</p>
+<p>Când Amelia fu gata, se trânti pe un fotoliu și cu durere așteptă venirea destinului ei logodnic.</p>
+<p>Dar ceasurile se făcură 11 și nimeni nu se arătă.</p>
+<p>În adevăr d-l M...era bolnav în acea zi și el nu putea să vie după cum promise.</p>
+<p>Se făcură 12, se făcuseră 1 ceasul și tot nimeni nu se văzu intrând.</p>
+<p>-De ce oare n-o fi venind tânărul d-tale? întrebă muma pe fiica ei.</p>
+<p>Abia termină însă aceste cuvinte și ușa se deschise și un tânăr ca de 23 ani intră înăuntru.</p>
+<p>Era Teodor.</p>
+<p>E de prisos a mai descrie bucuria mamei, când își văzu pe copilul ei, pe care nu-l văzuse de atât timp.</p>
+<p>Ei rămaseră mai multe minute îmbrățișați și din ochii Elenei curgea un râu de lacrimi!</p>
+<p>-Ce bine ai făcut Teodor că ai venit, îi zise în cele din urmă: cu această ocasiune vei vedea și logodna frumoasei tale surori.</p>
+<p>Și Elena arată pe fiica ei nelegitimă, Amelia.</p>
+<p>Teodor o privi puțin, se apropie apoi de dânsa și o sărută.</p>
+<p>Această sărutare însă nu mai era de frate, ea rămase adânc gravată pe buzele Ameliei și din acea zi amândoi nu visau decât la un același sărut.</p>
+<p>Amelia își găsise idealul la care visase dintotdeauna.</p>
+<p>Teodor rămase în București mai mult timp, D-l M... venea adesea la frumoasa Amelie, întotdeauna vedea însă din partea ei o răceală nedescrisă și de logodit tot nu se logodise.</p>
+<p>Trecură trei luni din acea zi în care buzele Ameliei se lipiră de buzele lui Teodor și de atunci ele s-au lipit întotdeauna.</p>
+<p>Acum Amelia era veselă.și în ochii ei nu se mai văzură lucind lacrimi.</p>
+<p>- Draga mea, îi zise într-o zi Teodor, până când vom duce acest amor ascuns?</p>
+<p>— Și ce te supără pe tine, dacă lumea nu știe că noi ne iubim?</p>
+<p>— Tu ai dreptate Amelio, dar nu e mai puțin adevărat că amândoi avem o aceaași neliniște, o aceeași frică ca ascunsa noastră legătură să nu fie descoperită de muma noastră. Ea, care mă iubește așa de mult, ea, care altădată ar fi dorit ca să stau lângă dânsa ani întregi; acum mă întreabă mai în toate zilele de ce nu mă întorc înapoi la Galați.</p>
+<p>— Teodore, răspunse atunci frumoasa Amelie după câteva minute de gândire; dar dacă am destăinui noi mamei această dragoste?</p>
+<p>(Va urma)</p>
+</div>
+        </div>
+</body>
+    </text>
+</TEI>

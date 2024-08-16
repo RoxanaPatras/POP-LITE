@@ -1,0 +1,1314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>CĂPITANUL ROPOTĂ: ediție POPLITE</title>
+                <author>Rădulescu-Niger, N. G.</author>
+                <respStmt>
+                    <resp>codare POPLITE</resp>
+                    <name>Teodora Iuriusciuc</name>
+                </respStmt> 
+                <respStmt>
+                    <resp>verificare codare POPLITE</resp>
+                    <name>Roxana Patras</name>
+                </respStmt>   
+                <respStmt>
+                    <resp>corectură manuală</resp>
+                    <name>Eduarda-Elena Acostandei</name>    
+                </respStmt>
+                <respStmt>
+                    <resp>verificare corectură manuală</resp>
+                    <name>Roxana Patraș</name>
+                </respStmt>
+                <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>UAIC</publisher>
+                <date></date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+                <ref type="doi" target="10.5281/zenodo.10781227"></ref>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Rădulescu-Niger, N.G.</author>
+                    <title>CĂPITANUL ROPOTĂ</title>
+                    <pubPlace>BUCUREȘTI</pubPlace>
+                    <publisher>TIPOGRAFIA „FORTUNA”</publisher>
+                    <date>1893</date>
+                    <decoNote type="ilustratii" subtype="no"/>
+                    <dim unit="char" type="mare"/>
+                    <extent>
+                        <measure unit="word">30168</measure>
+                        <measure unit="page" type="under_250"/>
+                        <measure unit="foileton" type="under_65"/>
+                        <measure type="complete"></measure>
+                    </extent>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme='https://opentheso.huma-num.fr/opentheso/api/theso/Typologie'>
+                    <term type='domaine' ref="https://hdl.handle.net/20.500.11942/crteb7oodgosm">literatura</term>
+                    <term type='factualite' ref="https://hdl.handle.net/20.500.11942/crt22aacdhvi7">fictiune</term>
+                    <term type='forme' ref="https://hdl.handle.net/20.500.11942/crtnufdew1lfb">proza</term>
+                    <term type='genre' ref="https://hdl.handle.net/20.500.11942/crthuyig1pxri">roman</term>
+                    <term type='agencement' ref="https://hdl.handle.net/20.500.11942/crtbdm5xnc6io">foileton</term>
+                    <term type='origine' ref="https://hdl.handle.net/20.500.11942/crtxolq1evsr9">opera originala</term>
+                    <term type='discours' ref="https://hdl.handle.net/20.500.11942/crt4wma17ncnj">narativ</term>
+                    <term type='public' ref="https://hdl.handle.net/20.500.11942/crthb4el4r5qc">non défini (public cible)</term>
+                    <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
+                </keywords>
+                <keywords>
+                    <term type="receptare" n="5"/>
+                    <term type="republicare" n="2"/>
+                     <term type="finished"></term> 
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+                <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+                <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
+                <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+<div type="chapter" n="1">
+<head>I</head>
+<p>Era un palat după înfățișare: patru caturi înălțime, două fațade, dând în două străzi diferite bine pavate și cu împrejurimi frumoase. Fiind hotel însă, avea mansarde și în multe din ele se răsfăța calicia lucie sau mizeria viciului.</p>
+<p>Pe la orele 8 jum. de seară, un individ urcă alene cele 94 trepte ale scării dosnice care ducea la mansarde. După greutatea cu care se mișcă, după moțăiala capului său ce părea pus pe niște teluri uzate, după împleticirea picioarelor, putea prea bine să-l învinovățească cineva că luase în depozit câteva ocale de vin sau de bere.</p>
+<p>După ce la fiecare sucitură a scării se opri ca să răsufle un minut, individul ajunse în sfârșit la capătul ei, de unde începea o sală lungă și strâmtă. În aceasta se deschideau o mulțime de uși, aproape deopotrivă depărtate unele de altele și purtând deasupra lor niște numere albe pe plăci de tablă neagră.</p>
+<p>Lămpi proaste și rău luminătoare, așezate din trei în trei uși, îți învoiau să vezi pe unde calci și numerele odăilor.</p>
+<p>La lumina fumegoasei lămpi din capul scării putem a ne da oarecare socoteală de chipul individului ce urmărim. Este bărbat tânăr, cu mustăți lungi castanii, încovrigate ca coada purcelului și ras de curând. Pare un chip ordinar, cu aerul dobitocesc, poate unde e și beat. Straiele-i sunt curățele, dar în neorânduială. Pălăria-i neagră e înfundată de un pumn sau de vreo altă apăsare și îndesată pe ceafă, ceea ce lasă să i se vadă un colț de păr creț lipit de fruntea lui nu tocmai mare.</p>
+<p>După ce se oprește și se reazămă de perete, privește cu ochii rătăciți și roșiți de oboseală și beție, înaintea lui, și gâfăie sughițând. Buzele lui parcă alcătuiesc oarecare vorbe, însă nu reușesc a le face să fie auzite și înțelese. In urmă se mișcă până la odaia cu numărul 5 și apasă pe clanță. Ușa nu se deschide, deoarece cheia nu-și făcuse datoria. Individul și-aduce aminte, se scormonește prin toate buzunarele și termină prin a găsi cheia, a o vârî în broască și deschide ușa. Intrarea lui se face printr-o cădere pe brânci.</p>
+<p>— Uite-al dracului ce e ăla... cum îmi dă un picior... franțuzesc!..., mormăie individul și, râzând un râs neghiobesc, se apucă de gardina patului și se ridică.</p>
+<p>Lumina slabă din sală îl făcu să vadă cutia cu chibrituri și să poată aprinde o lampă fară glob, ce costa poate 1 franc.</p>
+<p>Căldura era înăbușitoare în odaia cea strâmtă pentru un om bun treaz, dar pentru el care suflecase cine știe câți litri ori halbe?</p>
+<p>Își duse repede mâna la gât, își smulse gulerul cu cravata, mai mult rupându-le, își aruncă pălăria, se învârti căscând gura și holbând ochii ca și cum era să-și dea sufletul, asfixiat, și puse mâna pe o sticla cu apă, pe care o duse la gură.</p>
+<p>Apa era caldă; îi udă însă gâtul și-i dădu parcă oleacă de suflet. În urmă, se aruncă și deschise fereastra mică și lunguiață a mansardei.</p>
+<p>Afară, abia se înserase, căci era prin Iunie. Ziua fusese ca un cuptor; seara zăduful te făcea să căști gura la fiece moment și să te uiți spre cer ca găinele când beau apă. Aerul ce pătrunse dar în odaia turtitului nostru tânăr nu fu deloc răcoritor; totuși, păru că-i ușurează greutatea capului. După câteva momente adormi îmbrăcat, cu fereastra și cu ușa deschisă și cu lampa arzând.</p>
+<p>Tocmai pe la vreo 11 ceasuri, un alt locatar, trecând la mansarda sa și văzând ușa și fereastra deschise, intră în odaia celui ce dormea visând.</p>
+<p>—Iar a furat luleaua neamțului!... murmură acesta; și ia te uită cum a adormit, nebunul, de putea să-l găsească toate junghiurile din lume!</p>
+<p>Închise fereastra, îi stinse lampa, și, după ce puse cheia de cealaltă parte a ușii, ieși trăgând-o după el.</p>
+<p>La No. 6 era odaia lui.</p>
+<p>După ce-și aprinse o lampă frumoasă de faianță, cu glob și c-un obroc de carton roș făcut de mână, tânărul acesta, treaz cum se cade, se dezbrăcă și se așeză la masă; apoi se puse pe gânduri.</p>
+<p>Să fi avut 25 de ani. Era bălan, cu ochii albaștri de culoarea peruzelei, cu barba tăiată ascuțit și cu mustăți mici ce nu prea arătau bunăvoință de a crește. Pe chipul lui deștept și plăcut era o paloare ce spunea suferința morală sau boala corpului; privirea lui, arătă nemulțumirea de el și de lume; spatele lui, cam adus puțin la umeri când stă jos și chiar când umbla, arăta sau slăbiciunea șirei spinării, provenită din cine știe ce abuzuri, sau deprinderea de a stă plecat când citea, scria oricând lucra la cancelarie.</p>
+<p>— Sunt prea nenorocit, ori... nu mai știu cum să zic — cugeta el începând să-și facă o țigară... Muncesc până dau în bot și degeaba! Tocmai când hai-hai să cred că înaintez, că fac un pas spre mai bine, mi-apucă altul înainte... Dacă îmi iau inima în dinți și voi să protestez de nedreptatea ce mi se face, sunt amenințat cu trimiterea să mă plimb; dacă tac, sunt uitat; dacă trec în altă funcție, o iau cu capul... Rău la vale, rău la deal.</p>
+<p>Incepu să se preumble mâhnit prin odaie și cu țigara neaprinsă între degete.</p>
+<p>— Ah, rău e omul fără sprijin în ziua de azi!.. strigă el bătând cu furie din picior. Toți cunoscuții promit și niciunul nu îndeplinește, dacă nu e interes de politică la mijloc... Ce să fac? Cum s-o iau? Suferința o să mă mănânce fript!..</p>
+<p>Se lăsă pe pat cu deznădăjduire și, după ce stătu până târziu pe gânduri, suflă în lampă și se culcă.</p>
+</div>
+<div type="chapter" n="2">
+<head>II</head>
+<p>Cum se deșteptă a doua zi, pe la orele 6, deschise fereastra; în câteva minute îmbrăcându-se, se așeză la masă și începu să citească.</p>
+<p>Acest tânăr se numea Teodor Elefterescu-Câmpeanu. Cunoscuse de la vârsta de 13 ani nenorocirea; luptase alături cu mumă-sa pentru susținerea lor și a doi copii încă— mama cusând omenesc până noaptea târziu, el dând lecții pe la copii și scriind caiete d-ale conșcolarilor pe 50 bani caietul, compus din 10—20 foi.</p>
+<p>Terminând liceul, veni în Capitală cu 2 scrisori de recomandare în buzunar la două persoane ce puteau să-l sprijine. I se dădu în adevăr, alte recomandări de la acestea, și, după vreo două săptămâni de du-te vino de la cutare la cutare, căpătă un post de copist la un minister. Teodor se înscrise apoi la Facultatea de Litere.</p>
+<p>Liniștea sufletului însă era departe de a o avea, căci aceea a trupului îi lipsea. Din 94 lei pe lună trebuia să trimită familiei câte 30 franci cel puțin... Apoi, numai cu 64, cum trăiește un om căruia îi trebuie o hrană substanțială, îmbrăcăminte și locuință, pe lângă alte atâtea amănunte ale vieții, care, lipsind, lipsa lor e atât de simtiță?</p>
+<p>Se schingiui pe el, se lipsi de multe, trăi în mizerie, dar nu lăsă pe cei de acasă, care, dacă nu cereau, Teodor știa apoi că sărmana lui mumă nu putea să acopere cu dureroasa ei muncă toate trebuințele unei case, fie ea cât de modestă!</p>
+<p>Suferința era pentru dânsul dar umbra trupului; suferea pentru el; suferea îndoit pentru muma și pentru frații lui.</p>
+<p>Și apoi îl mai înzestrase natura și exemplul părinților cu un caracter mândru, fără a fi obraznic, cu stăpânire de sine, cu răbdare și cu stăruință la lucru, cu demnitate ca om și cu simțul cinstei.</p>
+<p>Puțin comunicativ, din pricină că era neîncrezător și neexperimentat, ceea ce-l făcea să se păzească de prietenia oricui, se purtă ca tânăr bine crescut, cu politețe față cu cei deopotrivă, cu respect rezervat față cu superiorii.</p>
+<p>N-avea nimeni să-i impute ceva; și tocmai pentru aceea nu era bine văzut. Cei mari și cei măricei vor să-ți găsească defecte pentru a avea ocazia să-și arate superioritatea și să audă din gură-ți scuze ori lingușiri. Mai ales lingușirea și după ea slugărnicia, sunt iubite de lumea noastră civilizată, în care caractere ca ale lui Teodor devin din ce în ce mai rare.</p>
+<p>Adeseori cei mai răutăcioși căutau să-i găsească nod în papură. Teodor cu politețea sau cu respectu-i obișnuit, îi punea la loc numaidecât.</p>
+<p>După un an, văzând că în mai multe rânduri se făcuse câte un loc vacant și că alții trecusera înaintea lui, se duse să vorbească cu șeful diviziei.</p>
+<p>— Da... d-ta lucrezi bine, îi zise acesta: însă... n-a stăruit nimeni pentru d-ta...</p>
+<p>— Cum? făcu Teodor înmărmurit... Trebuie stăruință, hatâr, iar nu dreptatea meritului stabilit, dobândit?</p>
+<p>Șeful diviziei îl privi lung și-i zise c-un ton sec:</p>
+<p>— Vom avea în vedere la o nouă vacanță... Această avere în vedere nu mai fu avută, și Teodor alergă la protectorii lui — cel puțin așa îi numea el.</p>
+<p>Protectorii îl primiră, unul cu :</p>
+<p>— Vino mâine; celălalt cu:</p>
+<p>— Vino poimâine.</p>
+<p>După o săptămână de vizite necurmate, cu amânări neîntrerupte, Teodor îl lăsă în pace.</p>
+<p>Într-o seară, află de la femeia ce făcea serviciul odăiței sărăcăcioase în care locuia, că-l căutase un tânăr cu mustățile mari și că acesta îi lăsase o hârtiuță.</p>
+<p>Teodor intră și găsi pe masă o carte de vizită cu numele : Victor Cărbuneanu.</p>
+<p>— A, făcu el — pare-mi-se că e colegul meu de cancelarie care-mi vorbește mai ca oamenii! Ce m-o fi căutat? Cum a aflat că stau aici?</p>
+<p>Apoi, adresându-se femeii:</p>
+<p>— N-a zis c-o să se întoarcă cumva mai târziu? o întrebă el.</p>
+<p>— Ba da, domnule, mâine dimineață.</p>
+<p>A doua zi primi vizita colegului.</p>
+<p>— Așa-i că te miri puțin, d-le Câmpene, de vizita mea?</p>
+<p>— Mă mir, dar îmi place, d-le Cărbunene, căci nădăjduiesc să ne împrietenim de acum. Iți spun drept că purtarea d-tale față cu mine totdeauna mi-a făcut o bună impresiune; și cu toate acestea, cu caracterul meu sfios și cu firea mea puțin comunicativă amânam pe zi ce merge o legătură de cunoștință mai apropiată între noi.</p>
+<p>— Eu ți-am analizat firea și caracterul și mi-am propus să rup gheața și să încep cu prietenia și chiar printr-un serviciu ce doresc să-l primești...</p>
+<p>După ce se așeză pe scaunul ce i-l înainta Teodor, Cărbuneanu urmă :</p>
+<p>— Nici cu conorășenii d-tale nu prea ești în legătură...</p>
+<p>— Rezerva o socot mai bună cu toți — răspunse Teodor.</p>
+<p>— Foarte bine; eu cunosc însă vreo câțiva și mai ales pe unul ce-ți știe de aproape poziția. De la el am aflat cât ești de strâmtorat; de aceea, prezentându-mi-se ocazia să mi se propună o lecție într-o familie, și pentru că eu pe lângă salariu am bani și de acasă — o să te rog s-o primești și să mergi chiar azi cu mine ca să te prezint, căci de vorbit am vorbit. Familia dă 50 lei pe lună.</p>
+<p>Adânc atins de binele ce i se făcea, Teodor să ridică și strânse mâna lui Cărbuneanu cu căldură.</p>
+<p>De atunci data o prietenie strânsă între el și Cărbuneanu, adică tânărul de la camera No. 5.</p>
+</div>
+<div type="chapter" n="3">
+<head>III</head>
+<p>Victor Cărbuneanu era ceea ce se numește un veteran al facultății, sau mai bine un student ce tărăgănează mulți ani cu studiile până să termine o facultate și adeseori uită de a o mai termina.</p>
+<p>Era băiat cinstit, dar îi plăceau chefurile, pentru care cheltuia tot ce-i rămânea din paralele de pe o lună, după ce-și plătea cele de strictă trebuință.</p>
+<p>Era funcționar de minister, primind 146 franci, bani 50; avea totdeauna meditații două sau trei și i se trimitea și de acasă 150. Locuința o avea proastă; hainele bunișoare; masa prea bună și petreceri cât de dese. Cheltuia și el; adeseori însă petrecea bine fără să dezlege punga, căci știa să se lipească de prieteni; și apoi era vesel, glumeț, bun și dorit la chefuri. Unde lipsea el, cheful n-avea farmecul lui, căci nu se află verva lui Victor. Colegele îl admirau și nu-i dau răgaz, deși, regulă generală, pururea erau jucate pe degete de dânsul. Această calitate îl făcea cu atât mai plăcut femeilor; ele sunt destul de curioase.</p>
+<p>Dacă se potrivea în păreri la multe discuții cu amicul său Teodor, acesta nu-i învoia lui Victor să-l ducă cu el la petreceri bețivănești: asupra acestui punct nu cădeau niciodată la înțelegere.</p>
+<p>— Nu-ți dezlegi punga, fii sigur, îi zise odată Victor; haide însă, și nu te vei căi.</p>
+<p>— Nu merg, chiar așa fiind lucrul, căci nu voi să fiu ridicol. Toți vorbesc, toți râd, toți sunt dispuși... la petreceri; eu n-o să pot fi vesel, pentru că firea mea nu mă lasă, și cei melancolici sunt totdeauna expuși satirelor. Toți pot să zică și sunt îndreptățiți a zice: de ce-a venit domnul ăsta dacă nu se amuză cu noi? Nu e așa, Victore? Spune...</p>
+<p>— Ai dreptate... Oricum, încearcă și tu o dată să mergi și vei pierde poate melancolia asta a ta.</p>
+<p>— Bine... vom vedea... Am să încerc.</p>
+<p>Într-o seară, Victor trebuia să petreacă la prietena unui prieten. Amicii amicilor noștri ne sunt și nouă amici de multe ori. Teodor nu putu să scape de astă dată. Până se codi el să se îmbrace mai cu dichisuri, până iar, aici să se lase, aici să meargă, se făcură ceasurile 9, așa că, intrând la domnișoara Mărginășescu, invitații erau adunați toți în păr, și nerabdarea în combinație cu teama că Victor putea să nu vină, se citea pe fețele tuturor.</p>
+<p>Un ura! general izbucni din piepturi când Victor apăru după amicul său.</p>
+<p>— Doamnelor, domnișoarelor, domnilor și domnișorilor, începu el cu un aer de o seriozitate comică, vă mulțumesc profund de sentimentele d-voastră manifestate printr-un animalic urlet, și vă rog să primiți asigurarea deosebitului meu respect. Veselă adunare, reîncepu el după ce-și suflă nasul, prezint indulgenței și prieteniei generale pe amicul meu, tânărul Teodor Elefterescu Câmpeanu, care sufera de melancolie și de timiditate. Nădăjduiesc că fiecare dintre dumneavoastră își va da silința de a face din iubitul meu amic un om de lume... Ura, copii!.. Bachus fie-vă în ajutor!..</p>
+<p>Un râs omeric, însoțit de aplauze, acoperi ultimele vorbe ale oratorului, după care, domnișoara Mărginășescu, atinsă de calitățile „melancolie și timiditate” ale lui Teodor, se grăbi a-l lua pe lângă sine, fără să facă gelos pe prietenul d-sale.</p>
+<p>Numărul persoanelor sexului pocit se urcă la 8; al persoanelor sexului frumos la 6; adunarea era completă deci. O masă se așeză cât clipești din ochi și lumea năvăli să-și ia locul.</p>
+<p>Petrecerea ținu până la orele trei de dimineață. Teodor băuse mult, căci nu fusese lăsat în pace. A doua zi i se făcu rău, și declară prietenului că nu va mai lua parte la nici o petrecere de acel fel. Vorba ce dădu fu ținută, și de atunci erau trei ani aproape.</p>
+<p>Teodor citi până la orele 10, când, vrând să-și facă o țigară, auzi bătând în perete.</p>
+<p>— A, s-a sculat Victor și mă cheamă!...murmură el; și după ce-și făcu și aprinse țigara, intră la prietenul său.</p>
+<p>— Bună dimineața, îi strigă acesta alene.</p>
+<p>— Plecăciune multă, sugaciule, — răspunse Teodor. Frumos îți șade... parcă ești un mort... așa ți-e fața de pierită...</p>
+<p>— Fie, c-am petrecut de minune, neică Toadere. De alaltăseară la 10 și până aseară la 7 am chefuit la bordeiu...</p>
+<p>— Mă miram eu de ce ieri dimineață odaia ta era goală și patul neatins. Îți spun drept, Victore, prea o faci de oaie cu chefurile și asta-mi dă o rea idee de tine.</p>
+<p>— Nu face nimic; și-apoi... o să treacă și asta, răspunse Victor râzând. Acum e vorba de altceva. Ascultă, Toadere, tot ești tu fără noroc în București — vrei să-l dai naibii și să te duci în provincie, bunăoară... în Brăila?.. Tu ai lăsat cartea penru că împrejurări grele de familie te-au silit s-o lași... Cariera deci, în orice ramură de activitate ți-ai forma-o, pentru tine va fi indiferent, destul să-ți aducă bani mai mulți și ceva sigur...</p>
+<p>— Mă duc, răspunse Teodor. Cum însă, în ce calitate?..</p>
+<p>— Uite: o casă mare ce face comerț cu grâne are trebuință de un casier la sucursala sa din Brăila. Se cere o garanție, dar persoana ce te va recomanda are atâta trecere că va face să fii primit. O să fii plătit bine, anume cât, nu știu încă; dar locul e sigur.</p>
+<p>— Bine, Victore, să încerc și aici. M-am mutat până acum în două ministere; să trec și la ceva care nu depinde de guvern și poate voi nimeri. Cum însă ai dat peste?... 
+— Cu familia cu care am petrecut prima parte a nopții de alaltăieri se găsea și d-l Feloniadi, comerciant din Brăila. Eu i-am picat tronc la inimă numaidecât și, zor nevoie, îmi propune să merg la Brăila în postul de care-ți pomenii. L-am rugat să mă ierte, căci nu pot, de vreme ce studiez — vorbă să fie că târg se face — și i-am vorbit de tine, lăudându-te că întreci pe Solon în înțelepciune. Grecul, când a auzit că-i pomenesc de Solon, s-a pornit să-mi vorbească și el de Fochion, de Aristide, de Leonidas, de Botzaris și de alți viteji naționali, iar la urmă mi-a făgăduit că va face lot pentru tine. Azi la 12 prânzim amândoi cu el la Iordache, în Covaci.</p>
+<p>— Intre pahare cu vin, multe se spun și se făgăduiesc... Eu n-am nădejde...</p>
+<p>— Ei, de asta mi-e necaz pe tine... Totdeauna te îndoiești, de aceea nu ieși niciodată la capăt bun — îi zise Victor.</p>
+<p>La orele 11 și jumătate, amândoi prietenii intrau la birtul lui Iordache din Covaci.</p>
+</div>
+<div type="chapter" n="4">
+<head>IV</head>
+<p>Între cunoscuții lui Victor Cărbuneanu era și un căpitan de infanterie, anume Ropotă, originar din Iași, cu părinți ce stau foarte bine și care se bucurau de o reputație mare de onestitate. Căpitanul însă era un pui de ștrengar și cheltuitor că leafa nu-i ajungea nici măcar o săptămână din lună. Astfel era silit să strice multe file de hârtie și să arate multe nevoi pentru ca bătrânii să-i trimită bani fără să se mânie. Datorii făcea în toate părțile; la croitori, la cizmari, la spălătoreasă, la birt... Fiindcă era însă pișicher de frunte, știa să-i mulțumească pe toți, cu vorbe în toate zilele, și cu bani din Paști în Crăciun.</p>
+<p>În dimineața în care Victor și Teodor vorbeau în mansardele lor, căpitanul Ropotă se gândea ce festă să mai joace afurisitului de cizmar care avea obrăznicia să-l viziteze prea des și la a cărui vizită se așteptă atunci chiar.</p>
+<p>— Vasile!— strigă el pe soldat.</p>
+<p>— Ordonați, să trăiți, d-le căpitan! strigă ordonanța intrând și salutând.</p>
+<p>— Arătatu-s-a nasul neamțului, cizmarii?</p>
+<p>— Nu, să trăiți !</p>
+<p>— Dacă o veni, să-i râzi și să-l poftești spunându-i că-l aștept cu nerabdare. Ai înțeles?</p>
+<p>— Înțeles, d-le căpitane, să trăiți!</p>
+<p>— Acum, stânga împrejur... marș !</p>
+<p>Vasile soldatul ieși după comandă. Se cam miră de ceea ce îi poruncise căpitanul, dar pe urmă clipi din ochi, zicându-și:</p>
+<p>— Iar vreo ghidușie d-a d-lui căpitan! cunoaștem noi...</p>
+<p>Nu trecu mult și intră în ogradă un individ cu mutra de neamț, subțirel ca un crenvursti, tăbăcit ca o piele de gheată, cu nasul roșu și lung, cu o tichie pe creștetul capului, cu un șorț de piele dinainte și cu niște papuci-panlofii de piele groasă în picioare. Între dinți ținea o pipă pe care o trecea când la dreapta, când la stânga gurii.</p>
+<p>— A-ha, iacă d-l maistru! — strigă cu veselie Vasile, care nu era prost de fel și înțelesese pe căpitan. D-l căpitan te așteaptă d-le Schuster, și mi-a zis să te poftesc în casă cum te-oi vedea.</p>
+<p>Neamțul nu s-aștepta la așa primire, și se opri locului nedumerit.</p>
+<p>—A, ia!... făcu el cu pipa între dinți... Tomnialui șteapta la mine... Gut... Iu fiutar...</p>
+<p>Soldatul îl introduse și se dădu la o parte.</p>
+<p>— O-ho, bună dimineața, măiestre Schuster! Îi întinse mâna, îl pofti jos și urmă apoi :</p>
+<p>— Ce mai faci? bine?</p>
+<p>— O ia... slava Domnului, iu tare cum un calapod!..</p>
+<p>— O s-o duci multă vreme atunci. Îmi pare bine. Nevasta, copiii, sănătoși? Am auzit că-i grea iar cucoana d-tale?</p>
+<p>— O, nu inca... abia este nădejdea la dumneaei!,.</p>
+<p>— Bravo, auzi maiestru naibi!.. Da mă rog, stai jos... și-mi spune cât îți datorez.</p>
+<p>— A pa, un pagatel... jumatate mie ti franc !</p>
+<p>—Cum? numai atât? exclamă căpitanul. Ei, apoi dacă-i așa pot dar să mă culc pe o ureche... Vasile, ia cinstește pe maiestru c-un absint... c’un...</p>
+<p>— Oh, nein... ich tanghe... freu mai pine un pere !..</p>
+<p>— Auzi, Vasile, cică maiestru vrea o bere; aleargă în colț la berarie și cere o sticlă...Voi să ciocnesc cu d-ta, maiestre, de bucurie că am datorie mică la d-ta și c-o sămă pot plăti peste câteva zile...</p>
+<p>— A păi... nu-i greșit la mine... nu-i gropit!... răspunse neamțul cu ifos...</p>
+<p>După ce bău bere cu Schuster, și după ce-l asigură încă o dată de grabnica achitare, acesta porni încântat.</p>
+<p>Ajuns însă la colțul străzii, neamțul se opri, își schimbă pipa în stânga gurii, se gândi puțin, clătină din cap, se lovi apoi peste tichie și mormăi:</p>
+<p>— Terteifel, apoi asta este păcălitul!.. Ai dat la mine o pară ca să nu dai parale... O, ba-ba ! maine vin încă o dată...</p>
+<p>Și își urmă drumul.</p>
+<p>Abia pornise neamțul și veni evreul croitorul, un individ cu mutră vicleană și slugarnică, gras și afumat la față ca o slănină, c-un bust prea mare pentru picioarele-i scurte și subțiri ca două cozi de târnuri.</p>
+<p>Pe acesta căpitanul îl primi ceremonios și mândru.</p>
+<p>-Știu cărui motiv datorez vizita d-tale, d-le Șneiderman, și-mi pare bine că de astă dată vei afla ceva plăcut... O să-ți număr vreo 300 franci din datorie...</p>
+<p>— Nu e mult, d-le căpitane, căci datoria trece peste o mie de franci, dar... primesc cu mulțumire...</p>
+<p>— Vasile! strigă căpitanul.</p>
+<p>— Ordonați!.. răspunse soldatul intrând.</p>
+<p>— Caută în buzunarul tunicii și dă-mi portofelul ăla de marochin roșu...</p>
+<p>Soldatul căută în zadar vreo câteva minute.</p>
+<p>— Ei, la dracu, dar nu l-ai mai găsit!</p>
+<p>— Nu, d-le căpitan, să trăiți...</p>
+<p>Căpitanul se ridică, ia tunica, vâră mâna în buzunar, și, cu cel mai mare serios posibil, rămâne gânditor, neliniștit și murmură...</p>
+<p>— Curios... Aseară era aici în buzunar...</p>
+<p>Căută sub pernă, apoi in sertarul scrinului și deodată exclamă :</p>
+<p>— Aleargă, Vasile. A-da, mi-aduc a-minte, l-am uitat în tunica cea nouă... știi tu unde, Vasile... la cuconița... Du-te și-i spune să mi-l dea.</p>
+<p>Vasile se cam codea. Căpitanul urmă:</p>
+<p>— Afară numai dacă d-l Șpeiderman nu se prea grăbește... Cuconița mea șade tocmai... sub Dealul Spirii și, de lângă ministerul de război până acolo... e o bună bucățică...</p>
+<p>— Atunci rămâne pentru mâine — răspunse evreul cam strâmbând din nas.</p>
+<p>— A, nici de cum... Astăzi după prânz — căci prânzesc la ea — mă reped pozitiv pe la prăvălia d-tale... Ai încredere... în mine...</p>
+<p>— O, prea multă! — făcu evreul — și salutând ieși murmurând: văd eu că e păcăleală, dar n-am ce-i face...</p>
+<p>— Dobitocule, îi strigă căpitanul lui Vasile; — trebuia să ieși numaidecât și să te duci în bucătărie. Tu nu te pricepi cum să poartă cineva cu creditorii.</p>
+<p>Se îmbrăcă apoi și se duse la birtul lui Iordache, unde era sigur să întâlnească pe Victor Cărbuneanu.</p>
+</div>
+<div type="chapter" n="5">
+<head>V</head>
+<p>În timp ce se îmbrăcase, plănuise o festă de jucat cizmarului și în aceasta trebuia să fie ajutat și de Victor.</p>
+<p>Căpitanul era cunoscut ca ghiduș.</p>
+<p>Pe când se află în Iași, tată-său, săturat de a-i tot da bani, îl duse într-o zi pe ușă afară, strigându-i:</p>
+<p>— Te-am făcut om mare, ai ajuns căpitan, economisește-te, băiete și dă-mi bună pace, că am două fete de măritat ca mâine.</p>
+<p>Atunci ghidușul de Ropotă le joacă o festă bătrânilor. Aceștia aveau o icoană mare îmbrăcată cu argint, reprezentând pe Sf. Nicolae.</p>
+<p>Era tocmai în ajunul zilei acestui sfânt. Căpitanul intră în odaie seara, dezbracă icoana și se duce de vinde argintul la un argintar; apoi vine și se culcă.</p>
+<p>Când bătrânii dau să se închine la icoană, dimineața, după venirea de la biserică, rămân înmărmuriți: Sfântul Nicolae era gol pușcă!..</p>
+<p>După ce țipă și scoală toată casa în picioare și după ce se încredințează că nu hoții au călcat casa și-au dezbrăcat pe Sfântul, căci ar fi furat și alte lucruri — bătrânul se lovește peste frunte strigând:</p>
+<p>- Nicu ne-a făcut pozna!.. Alergați de-l sculați și mi-l aduceți pe sus.</p>
+<p>Căpitanul Nicu auzise zgomot și râdea de murea, sub plapumă, când veni o slugă să-l cheme.</p>
+<p>Trecu în halat și-n papuci în odaia părinților și le sărută mâna făcându-se chinez de pricina pricinei.</p>
+<p>— Bine, mă Nicule, ce-ai avut cu Sfântul Nicolae de l-ai dezbrăcat și tocmai de ziua lui? — strigă bătrânul mânios.</p>
+<p>Căpitanul privi uimit la icoană, apoi zise :</p>
+<p>— Uite frate... Va să zică visul meu a fost așa... Inchipuiți-vă că mi-a venit astă-noapte Sf. Nicolae în somn, așa cum e pe icoană și mi-a zis: băiete, de mult n-am făcut minuni... Tu n-ai parale, leafa nu-ți ajunge, tatăl tău nu îți dă nici el, că de, bătrânii nu cred celor tineri că le trebuie multe! Iacă, eu îți dăruiesc hainele mele...Sunt de argint, vinde-le la vreun argintar și cumpără-ți ceva cu ele... Atunci și-a desprins frumos straiele, mi le-au lăsat în așternut și a fugit, fără să mai aștepte mulțumiri și poclomente ca oamenii...</p>
+<p>— Și tu ce-ai făcut cu îmbrăcămintea? — întrebă bătrânul cam râzând, cam cu mânie...</p>
+<p>— Am vândut-o după porunca sfântului...</p>
+<p>— Ia ascultă, Nicule, ți se trece acum, dar să nu mai faci una ca asta, că nu mai vezi para chioară de la mine — îi zise bătrânul, și urmă a-i da regulat, câtva timp, câte 5 sau 10 napoleoni pe lună.</p>
+<p>Tot în acel an la Paște, bătrânul Ropotă nu mai voi să-i dea 300 franci, ce-i trebuiau căpitanului pe deasupra, pentru a-și face un rând nou de uniformă.</p>
+<p>—Lasă că vă fac eu alta — cugetă Nicu.</p>
+<p>În seara când erau gata toți să se ducă la biserică pentru înviere, bătrânul stărui de fiul său să-i însoțească.</p>
+<p>— N-am haine curate, răspunse el supărat.</p>
+<p>— Ei, nu mai face copilării, că mă mâhnești...</p>
+<p>— Bine, o să vin mai târziu atunci.</p>
+<p>Bătrânii cu amândouă fetele lor porniră în trăsura casei, asistară la slujba bisericească până în sfârșit, dar pe Nicu nu-l zăriră.</p>
+<p>Când să se suie în trăsură ca să vină acasă, îl văd pe capră, alăturea de vizitiu, înfășurat într-o rogojină și închinându-se...</p>
+<p>Zilele Paștelui nu fu vorba decât de noua bazaconie a căpitanului. Bătrânul supărat foc însă făcu să-l permute în Botoșani.</p>
+<p>Acolo legă în curând prietenie cu societatea aleasă și, surprinzând secrete d-ale cucoanelor, se puse pe jucat alt soi de feste.</p>
+<p>Așa, îmbrăcat în costum femeiesc, se duse în locul unei cucoane la o întâlnire ce hotărâse dânsa unui locotenent.</p>
+<p>Aceasta dădu naștere unui duel, care ieși în rău ofițerului inferior.</p>
+<p>În urma unei invitații la bal care sună astfel:... vă rog să mă onorați cu compania d-voastră..., căpitanul intră seara în salon în capul companiei sale de soldați, ceea ce provocă o veselie mare.</p>
+<p>Făcu pe un boier bătrân să se creadă îndrăgostit d-o fată tânără și la întâlnire îi trimise pe nevastă-sa, din care pricină mai-mai să se divorțeze septuagenara pereche.</p>
+<p>Cea din urmă și cea mai boacănă, care provocă permutarea lui, e aceasta:</p>
+<p>Se făcuse un obicei ascuns că, la cazarmă, veneau adesea câteva cuconițe de o cinste echivocă și se puneau urduc belea pe capul ofițerilor.</p>
+<p>— Lasă că vă scap eu — le zise Nicu. Chemați-le voi, pe toate, pentru astă-seară și lăsați-mă să fac ce-am plănuit.</p>
+<p>Între 10 și 11 ore, cuconițele sosiră și intrară în odaia în care chefuiau adeseori cu ofițerii inimii d-lor.</p>
+<p>O companie de soldați se află pusă pe două rânduri, ofițerii cu săbiile scoase între soldați, iar la ușă, un individ numai în cămașă de noapte pe corpul gol.</p>
+<p>— Ah, iertare doamnelor, strigă el ridicându-se repede; iertare, căci n-am cravată la gât!</p>
+<p>În acelaș timp își ridicase cu iuțeală poalele cămășii până sub bărbie.</p>
+<p>Tablou !!!</p>
+<p>Goliciunea lui Ropotă și râsul tuturor le rușină, dacă nu le spăimântă și le făcusă fugă ca potârnichele. De atunci nu mai dăduse niciuna pe la cazărmă.</p>
+<p>Lucrul ajungând la urechea colonelului, toți ofițerii fură pedepsiți pentru faptul că primiseră femei la cazarmă. În urma acestei pedepse, căpitanul Ropotă mijloci să fie permutat în București, unde se află de vreun an și jumătate.</p>
+<p>L-am lăsat îndreptându-se către birtul din Covaci. Cum zări pe Victor la o masă, însoțit de Teodor și de un individ ce nu intră în numărul cunoștințelor lui — se apropia și salută serios.</p>
+</div>
+<div type="chapter" n="6">
+<head>VI</head>
+<p>— O, salutare, Nicule! strigă Victor de cum văzu pe căpitanul Ropotă.</p>
+<p>Căpitanul îi strânse mâna, salută numai pe Teodor și voi să se așeze lângă Victor.</p>
+<p>- Permite-mi Nicule, să-ți recomand pe d. Feloniadi, mare comerciant din Brăila...D-nul căpitan Ropotă — adăugase apoi întorcându-se către comerciant.</p>
+<p>D-nul Feloniadi, venit in țară la vârsta de 7 ani, vorbea bine românește. Totuși, avea oarecare particularitate în intonația cuvintelor sau în pronunția lor. Aceasta, treacă-meargă. In convorbire însă cu cineva, patria depărtată era totdeauna amintită cu mult foc; n-o mai văzuse de când venise în România, dar îi lăudă groaznic de tare frumusețea, bogăția și vitejia.</p>
+<p>Ca mutră, era plăcut; ca vârstă, între 40-45 ani; ca poziție socială, însurat, tată a două fete mari și bucurându-se de un venit de 60 mii franci pe an, cel puțin.</p>
+<p>Când intrase căpitanul Ropotă, comerciantul era gata să înceapă povestirea poziției ce avuseseră părinții lui în Grecia.</p>
+<p>După ce căpitanul ceru lista și alese primul fel de bucate, d. Feloniadi începu:</p>
+<p>— Dar, scumpii mei prieteni, părinții mei erau foarte bogați în orășelul Corinth...Aveau oi multe și făceau comerț întins cu pești de mare...</p>
+<p>— Bogății proprietari din Grecia au păduri întregi de măslini, de portocali, de lămâi..., zise căpitanul Ropotă...</p>
+<p>— O, da, da... și părinții mei aveau...</p>
+<p>A, Ellada, patria mea, are atâtea producții frumoase!..</p>
+<p>— Mă prind c-a dat vreo epidemie peste peștii din mare și vreo secetă peste portocali și măslini, de vreme ce au părăsit părinții d-voastră o țară așa de scumpă și mănoasă... Păcat, o fi pierdut mult bătrânii! —zise căpitanul cu cel mai firesc ton.</p>
+<p>— O, da, da... răspunse repede Feloniadi, tușind din pricina unui ardei roșu... Al dracului ardeiu... La Elada ardeii erau mai puțin iuți ca aici...</p>
+<p>— Știu, am constatat și eu asta...</p>
+<p>— D-ta, d-le căpitan? ai fost pe acolo?</p>
+<p>— Da, răspunse Ropotă, și nu mai mult de cât acum doi ani... Lucru care m-a impresionat mai tare a fost mulțimea catârilor... Bogată țară, ce-i drept... Și nu i-am hrănit, cât am petrecut acolo, decât cu țâri, cu măsline, cu icre... de mi se acrise... Carnea, foarte scumpă... Când o vede scumpii d-voastră compatrioți îi apucă sughițul...</p>
+<p>Feloniadi începu să se uite cam curios la căpitan, căci îi părea că era luat peste picior, fără ca Ropotă să fi avut aerul.</p>
+<p>— Am făcut cunoștință cu un loghiotat de pe acolo, care, când află că sunt român, strigă: A, bogată țară!.. Calic să fii, lipit, să întrunești însă calitatea de-a fi străin, și te îmbogățești ca prin farmec... Și eu o să plec în România să fac avere...Dar de ce, când veniți la noi însă, vă lăudați tot Elada în care mureați de foame? — i-am întrebat eu — Pentru patriotism, răspunse c-un ifos dobitocesc, acel loghiotat — Foarte bine... Dar de ce criticați ca rău tot ceea ce e în țara în care v-ați îmbogățiți?...întrebai. Onorabilul îmi întoarse spatele atunci...</p>
+<p>Feloniadi își scărpina nasul... Pricepuse acum pe căpitanul. Vedea apoi pe cei doi tineri civili râzând pe sub mustăți, și nu-i venea la îndemână deloc. Căpitanul îl întrebă :</p>
+<p>— Poți să răspunzi d-ta, d-le Feloniadi, la întrebarea ce am adresat-o în Elada tânărului d-tale simpatriot?..</p>
+<p>— Nu... adică da!.. îngână el... A... iaca și friptura, strigă el apoi... văzând că servitorul punea talerul cu puiu fript pe masă.</p>
+<p>Victor privi pe căpitan cu un aer ce zicea: l-ai frecat de ajuns, lasă-l acum!</p>
+<p>Până ce isprăviră de mâncat cu toții, glasul grecului nu se mai auzi, decât când plăti, cerand voie d-a fi în socoteala lui și prânzul căpitanului.</p>
+<p>Feloniadi plăcuse pe Teodor și-i dăduse toată asigurarea că va stărui pentru el la casa de comerț din Brăila. Și fiindcă era să plece în acea seară, atât Victor cât și Teodor îi făgăduesc că-l vor petrece la gară.</p>
+<p>Astfel, ieșind din birt, se despărțiră.</p>
+<p>— Am să-ți cer un serviciu, Victore, i se adresă căpitanul după ce se depărtară de Feloniadi.</p>
+<p>— Care anume? întrebă Victor.</p>
+<p>Căpitanul Ropotă îi spuse în câteva cuvinte ce avea în el în gând să facă și ce rol trebuia să joace Victor.</p>
+<p>— Caraghiosule, exclamă acesta, după ce Ropotă fini.</p>
+<p>— Mâine pe la 10 cel mult să vii dar la mine...</p>
+<p>— Fără îndoială, și se despărțiră și de căpitan.</p>
+<p>Victor și Teodor se dusera la cancelarie.</p>
+<p>Erau 9 trecute când cizmarul neamț intră, după două zile, pe poarta casei căpitanului Ropotă.</p>
+<p>Ferestrele dinspre curte erau deschise; neamțul se opri înmărmurit și-și scoase luleaua din gură. Vasile soldatul ieși tocmai atunci, bocindu-se ca o muiere de mahala.</p>
+<p>— Vai de mine și de mine, că muri bunătate de căpitan.</p>
+<p>— Ce spui dumneata?.. murit domn capitan?.. apoi asta nu se poate.</p>
+<p>— Ba se prea poate... Iaca, intră și vezi... Vai de mine și de mine!</p>
+<p>Neamțul intră cu o spaimă plină de respect, luându-și tichia de pe creștetul capului.</p>
+<p>În adevăr, o masă lungă era în mijlocul casei, și deasupra un trup omenesc, acoperit c-un cearșaf curat alb. La capul mortului ardea o lumânare de ceară, pusă într-o sticlă neagră pentru vin.</p>
+<p>— Apoi când a murit dumnealui?... întrebă neamțul pe soldatul care se bocea, dându-și mereu mâna pe la gură si apoi pe la ochi...</p>
+<p>— Uite, astă noapte pe la 3... Trebuie să vină doctorul acuș... O să fie și el... ca și d-ta... plin de mirare... Of, of, of, d-le căpitan!..</p>
+<p>Prea cinstitul Schuster era atins la suflet de plânsul soldatului, ai căruia ochi erau foarte uzi pe margini. Totuși nu-i venea parcă să creadă și inima îl trăgea să descopere pe mort la față... I se păru într-un rând că cearceaful se cam mișcă la picioarele și la pieptul mortului... Nu putea fi însă altă pricină decât vântul care da năvală din când în când prin ferestrele deschise.</p>
+<p>Tocmai se apropia de masă, când iacă intră Victor ca o furtună.</p>
+<p>— Ce-am aflat? strigă el — și se opri mut.</p>
+<p>Așa-i, d-le doctor... Așa-i... Săracul d. căpitan!...</p>
+<p>— Sărmanul meu prieten... zise Victor și se apropia de masă acoperindu-și fața cu amândouă mâinile...</p>
+<p>Șuster nu mai putu de milă și cu lacrimi la coada ochilor ieși mormăind:</p>
+<p>— Dumnezeu să ierte la el... Eu iert cinci sute de franci...</p>
+<p>Cum eși din curte, căpitanul sări și respiră lung, apoi întinse mâna lui Victor.</p>
+<p>— Al cioarelor neamț... nu-i venea să creadă, zise el râzând. Apoi, întorcându-se către soldat adăugase: bravo Vasile, m-ai plâns de minune...</p>
+<p>Peste câteva momente nu mai fu urmă de moartea închipuită a căpitanului; iar el cu prietenul ciocneau două păhărele de mastică.</p>
+<p>După trei zile, Teodor, trebuind să plece în Brăila, orândui-se un mic chef la căpitanul acasă. Acesta, dispus să cheltuiască și el, cumpărase de la o băcănie mai multe mezeluri și venea acasă cu un băiat de la prăvălie după el...</p>
+<p>La un colț de stradă, se pomeni cu d-l Șuster înaintea lui. Căpitanul voia să treacă, stăpânindu-si râse la mutra ce făcuse neamțul când îl zărise.</p>
+<p>Cizmarul îl apucă de mâneca tunicii însă...</p>
+<p>— Te rog, domn căpitan... ai infiat la tumăr-fostu ?..,</p>
+<p>Căpitanul îl privi cu cel mai firesc aer nedumerit din lume.</p>
+<p>— Ce poftești, prietene? îl întrebă.</p>
+<p>— Cum șe poftesc? apoi eu sunt Schuster cizmaru... Tumăr-fostu nu-i mort... tai parale...</p>
+<p>— A!.. strigă Ropotă cu lacrimile în ochi. Pricep... Mă iei drept sărmanul frate-meu, pe care l-am îngropat acum două zile...</p>
+<p>— De îngropat, când eu cred că ești tumăr-fostu !.,</p>
+<p>— Nu, nu, jupâne... nu; răspunse cu jale și descurajare căpitanul.. Bietu frate-meu era geamăn cu mine și d-aia semăn cu el ca două picături de... bere... Uite — adăugase apoi întorcându-se către băiatul de prăvălie — am târguit ca să-i fac de trei zile, știi, pomană... Poftim, să-ți dau și dumitale câteva prune și sarmale... sfârși el oftând...</p>
+<p>Neamțu privi lung la el, apoi la băiatul de băcănie și porni bombănind.</p>
+<p>La masă, în acea seară, primele pahare, de unii sorbite până în fund, de alții gustate numai, făcură pe toți să strâmbe din nas, se miroase paharele și să se uite curios unii la alții.</p>
+<p>— Ce dracu are vinu ăsta? — strigă Victor, căutând o sticlă ca să-și toarne un pahar pentru a analiză particularitatea vinului.</p>
+<p>— Ce să aibă alt, răspunse căpitanul, decât că, în loc de vin, v-am servit puțin oțet...</p>
+<p>— O! O! O! - făcură vreo câțiva și mai ales cuconițele care erau de față.</p>
+<p>— Proastă glumă! — strigă una, făcând pe supărata...</p>
+<p>— Nicidecum, cuconiță. V-am servit oțet pentru trei cuvinte: 1) pentru ca să prețuiți bunul după rău; 2) ca să dau exemplu bărbaților că femeia frumoasă e ca vinul și nu trebuie lăsată să se oțetească; și 3) pentru că strepezește dinții și face economie la mâncare ospatarului.</p>
+<p>—  Atunci te iertăm, zise un comesean râzând.</p>
+<p>— Pentru cuvântul al doilea mai cu seamă — adaugase o cuconiță, dându-și ochii peste cap în semn de cochetărie originală.</p>
+<p>Teodor fu prea vesel, pentru caracterul său obișnuit. Scrisoarea ce-i trimisese Feloniadi îi anunțase că locul ce era chemat să ocupe era să-i aducă mai mult de 3,500 lei pe an, cu perspectivă de a avea și mai mult pe urmă.</p>
+<p>Petrecerea de adio ținu până la ora 3 după miezul nopții.</p>
+</div>
+<div type="chapter" n="7">
+<head>VIII</head>
+<p>Brăila e unul din cele mai frumoase orașe ale țării, atât ca misiune, fiind un port mare, un agent prețios al comerțului, cât și ca orânduire a străzilor, drepte și binișor pavate acum în urmă, înainte de război, când se și petrec cele ce istorisim, orașul era foarte voios, căci se bucură de dreptul d-a fi port liber, într-o țară nu tocmai liberă; apele Dunării gemeau în port sub greutatea vaselor străine care luau producțiile țării; mii de muncitori își câștigau cu ușurință hrana în port: — toate aceste făceau ca și petrecerile familiare să fie mai însuflețite, mai dese, mai dorite.</p>
+<p>Populația este foarte amestecată, ca în orice oraș unde perspectiva de câștig e mai sigură. Grecii, evreii și bulgarii sunt cei mai numeroși.</p>
+<p>Teodor era foarte emoționat cu cât trenul se apropia de Brăila. Când cineva se află la începutul unei cariere noi, ideea de necunoscut, deși în fața unei prevestiri de bine, produce totdeauna în noi oarecare senzații, din care, nerăbdarea d-a se vedea mai curând în rânduială, e cea mai mult simțită.</p>
+<p>D-l Feloniadi, cu tot obiceiul de a-și amesteca eroii patriei la fiecare ocazie, era prietenos și dispus adeseori să facă bine.In persoană deci se afla la gară, și primi cu multă tragere de inimă pe Teodor, zicându-i:</p>
+<p>— Aveți o camera rânduită în adins pentru d-voastră la mine acasă; cred că n-o să mă refuzați.</p>
+<p>— Prea multă bunătate, d-le Feloniadi, pentru care nu sunt in stare de a vă putea mulțumi.</p>
+<p>- O, ce se potrivește!.. O să faci apoi cunoștință cu femeia mea, un suflet bun, dar cam iute... A, când se supără, eu tac și-mi caut de treabă!... Ăsta e leacul de a face pe cineva să-și astâmpere mânia...Fetele mele, Elpida și Sofia, sunt foarte capricioase și mândre foc... de poziția lor...Iarna trecută, la un bal, le-au curtat niște tineri, de!.. inteligenți, dar săraci, ca tinerii noștri cei mai mulți care îmbrățișează funcționarismul... Au fost foarte degrabă puși la distanța care să le pună-n vedere că nu poate avea vreun efect stăruința lor.</p>
+<p>Teodor privi la Feloniadi cu îndrăzneală. Era un avertisment pentru dânsul vorbele acestea, sau numai obiceiul de a flecări, propriu atâtor oameni ce-ți vorbesc numai de dânșii, de afacerile lor, de familiile lor.</p>
+<p>— A, d-șoarele erau foarte în drept să facă aceasta! răspunse Teodor c-un ușor zâmbet ironic. Probează că au... caracter...că au cunoștința poziței înalte ce o dă educația distinsă și.... mai cu seamă... averea......</p>
+<p>Feloniadi, fără a aprofunda înțelesul cuvintelor lui Teodor, exclamă :</p>
+<p>— O, da, mai ales averea ... Averea mea e foarte mare, . tinere prietene... Și acum pot să-ți spun că locul d-tale e la casa noastră de comerț, și că trebuia să mă sfătuiesc cu asociatul meu pentru a-ți da acest loc de casier.</p>
+<p>Teodor se grăbi a-i mulțumi; dar entuziasmul bucuriei sale se micșoră. Ar fi preferat parcă să fie locul acela în altă parte, iar nu chiar în propria casă de comerț a lui Feloniadi. Se simțea sub greutatea unei umilințe de care nu putea să-și dea seamă atunci. Când văzu că nu e poftit în acea seară să fie prezentat, ca oaspete, d-nei de gazdă, și că i se aduce masa de seară în camera pregătită pentru el, sub cuvânt că familia avea prea mulți invitați la masă, putu să-și explice umilința de care se simțea apăsat.</p>
+<p>— Ca funcționar al casei lor de comerț, mă considera, se vede, într-o poziție prea jos pusă față cu ei. Le voi arătă însă și eu ce înseamnă un caracter, punând, față cu mândria lor egoistă, mândria mea de om cu demnitate ce știe să respecte și să se respecte... își zise Teodor și se culcă.</p>
+<p>Casa de comerț era așezată pe strada Silistrei; iar familia Feloniadi locuia aproape de piața poligonală: La ora 5; de dimineață fu în picioare, tânărul nostru; își scoase din cufăr un rând de haine curate, se îmbrăcă și, așteptând să se scoale Feloniadi, se așeză la fereastră.</p>
+<p>Camera ce i se dăduse se află la catul al doilea, dând în grădină. Deschise geamul și respiră cu nesăț răcoarea parfumată ce-i măngâia fața. Printre copacii din fund putu desluși catargurile numeroase ale corăbiilor de pe Dunăre, poleite de razele soarelui ce răsărea atunci. Atins de priveliște, uită în ce loc se află. La firea sa melancolică era destul să vadă sau să simtă ceva duios și plăcut, pentru a cădea într-o reverie ce-i mistuia orele c-o iuțeală nespusă....</p>
+<p>Astfel, el nu zări o figură tânără și frumoasă, în camașă de noapte numai, ridicând perdeaua de la una din ferestrele ce cădeau mai în fața ferestrei la care stă visând. Alba apariție se dădu înapoi, de cum îl zări. Văzând însă nemișcarea lui, se tupilă după o parte a perdelei și se puse să-l observe cu o curiozitate arzătoare.</p>
+<p>Pe fața albă a fetei, pe care odihna nopții pusese un drăgălaș roș natural, nimic nu era străin: aer fecioresc, timiditate și modestie înăscute, frăgezime și gingășie; în priviri, pe lângă curiozitatea momentului, nimic alt decât bunătate și voiciune; pe buzele subțiri formând o gură mică, nimic decât un zâmbet, care arătă că examinarea noului sosit nu era în defavoarea lui.</p>
+<p>Câtă schimbare însă între copila atunci deșteptată din somn și între copila ce apărea printre oameni, în saloane, c-o mândrie aristrocratică imitată, c-un zâmbet ironic adesea sau c-o seriozitate disprețuitoare! Lângă aceste culori tari, nefirești, frumusețea ei luă strălucirea rigidă a smalțului sau strălucirea țipătoare a aurului prea mult frecat; iar frăgezimea, timiditatea, modestia și gingășia se pierdeau, întocmai cum nuanțele slabe se pierd împrejurul unei culori generale care face să iasă în relief o figură.</p>
+<p>Elpida, fiica mai mare a familiei Feloniadi, astfel era. După ce privi vreo zece minute pe Teodor, își petrecu o haină de dimineață și deschise fereastra. Teodor tresări, privi într-acolo și se retrase, fără să aibă curiozitatea d-a se mai ivi la fereastră.</p>
+<p>Elpida așteptă, pândi, căci voiă să aibă atenția celui căruia dânsa îi dăduse prea multă. Așteptarea îi fu zadarnică. Cu ciudă trecu atunci în camera surorii sale, neștiind cum să-și explice această indiferență, tocmai în niște momente când el putea să o privească fără să fie considerat de obraznic.</p>
+<p>Foarte sigură de admirația ce insuflă și mândră de frumusețea ei, Elpida totuși murmură :</p>
+<p>— Desigur că m-a privit, dar nu l-am putut zări eu.</p>
+<p>Pe la opt și jumătate, d. Feloniadi intră la Teodor, care tocmai bea cafeaua ce i se adusese cu puțin mai înainte.</p>
+<p>— Bună dimineața, tinere; ai dormit bine? Cum ți se pare la noi? îl întrebă Feloniadi.</p>
+<p>— Mulțumesc, d-le Feloniadi; am dormit ca în rai, căci un rai, ce e drept, este casa și - grădina ce aveți... Cu toate acestea, de m-aș vedea mai curând așezat în atribuțiile ce mi-ați hotărât, și într-o odaie...</p>
+<p>— Tinere amice, la birou mergem acum, pentru odaie, o să te rog s-o ții pe aceasta până la întoarcerea noastră de la băi, căci poimâine cel mult plecăm la Marienbad și Karîsbad. În timpul acesta te vei deprinde cu orașul, îl vei cunoaște, îți vei face prieteni și lesne vei găsi o camera care să-ți convină. Ne-am înțeles? Salariul d-tale va fi, deocamdată, de 250 franci pe lună. Casierul de mai înainte n-avea decât 200; — am ținut socoteală dar, eu și tovarășul meu, de garanțiile d-tale morale... Acum, să mergem.</p>
+<p>Pește o săptămână Teodor era cu totul inițiat în ce se cerea de la el, iar Feloniadi prea mulțumit de priceperea noului său casier.</p>
+</div>
+<div type="chapter" n="8">
+<head>IX</head>
+<p>C-o zi înainte de plecarea familiei la băi, Feloniadi prezintă în fine pe Teodor femeii și fetelor sale. Sfioșia lui din primele momente nu făcu o tocmai bună impresie, dar, întrebat apoi despre capitală, vorbi deslușit, făcu un fel de proces năravurilor și termină prin a mulțumi cu multă demnitate de îndatorările ce-i face familia.</p>
+<p>Vorba îndatoririi sună rău la urechile cucoanelor, care așteptau să fie lingușite și să primească prea plecate și prea supuse mulțumirii. Rămaseră cu ideea că e un mojic, că trebuiă să fie un mojic ce nu învățase încă a se purtă cu lumea mare...</p>
+<p>Fetele mai duceau și altă impresie: că le privise prea fără uimire, ca și cum frumuseți rare de felul lor el întâlnise la tot pasul. Mojic, mojic!..., ar fi vrut însă ca frumusețea lor să primească și de la dânsul tributul datorat, de admirație.</p>
+<p>La epitetul de mojic, ele mai adăugaseră dar și pe acela de nesimțitor.</p>
+<p>Teodor nici visa de felul impresii ce făcuse; și apoi, chiar de l-ar fi știut, nu s-ar fi turburat deloc: destul că își ținuse demnitatea. În sine era mulțumit.</p>
+<p>Scrise o lungă scrisoare lui Victor, de la care primi un foarte laconic răspuns. Era în firea lui d-a petrece mult și a scrie puțin prietenilor și părinților.</p>
+<p>Singura petrecere o găsea Teodor în a se preumblă, în apusul serii, cu barca pe Dunăre, ori la grădina de pe malul fluviului și la aceea d-afară numită de popor: molament.</p>
+<p>Lucră de la 9 dimineață până pe la 5 și 6 seara, având un mic interval de odihnă și pentru masă la amiază. El, omul poeziei, căci o simțea și o iubea, dacă n-o putea așterne pe hârtie, această confidentă a sentimentelor și păstrătoare veșnică a cugetării omenești, — el, zic, se veda cu aurul trecându-i printre degete, cu regele mizeriei, vanităților sau așa zisei fericiri. Când închidea seara casa și plecă să se plimbe, îi trecea pe dinainte cifra aurului ce încasase în cutare sau cutare zi; cifra îi arată cantitatea, și atunci își zicea:</p>
+<p>— Câtă lume, care moare de foame, sau câtă lume, care cu o minimă parte din aceiași bani și ar împlini o dorință sfântă, n-ar fi fericită dacă ar putea avea a mia parte ce am primit azi... sau ieri</p>
+<p>Atunci îi părea rău că se află în așa de aproape atingere cu un puternic rege, fără să poată avea favoarea de a-i primi in buzunarele sale cu cinstea cuvenită.</p>
+<p>Era pe la jumătatea lunii August. Stând pe un scaun la cofetăria Modernă, îi păru că recunoaște, într-un ofițer, pe Ropotă.</p>
+<p>Se ridică și alergă după el, strigându-l. Căpitanul se întoarse.</p>
+<p>— He, bravo, iacă-te!... M-ai văzut cel întâi... De-aseară am sosit în Brăila și mâine aveam serios de gând să te caut...</p>
+<p>Teodor, vesel că a întâlnit o cunoștință mai veche, al căreia caracter îi era cunoscut, strânse cu bucurie mâna căpitanului.</p>
+<p>— Vino să iei ceva, colea, împreună cu mine, îi rosti el.</p>
+<p>— Sunt așteptat la masă la o rudă de departe, unde am și tras în gazdă — răspunse Ropotă. E apoi și o văduvă tânără pe acolo, care are poate trebuință de o grabnică consolare bucureșteană... Și fiindcă noi, militarii, suntem cei mai îndatoritori monștri din lume, înțelegi că... Hai, nu vii cu mine? O cunoștință mai mult nu strică, și apoi avem timp mai lung de vorbă. Nu te mai codi și vino !</p>
+<p>Teodor primi, și, pe cale, povesti felul cum petrece de la venirea sa în Brăila.</p>
+<p>— Eu — zise căpitanul — am făcut o bazaconie care mi-a pricinuit permutarea aici. Nu știu de unde dracii aduse Victor într-o seară pe un popă, între două vârste, să petreacă cu noi. Eu îl îmbăt cum șade bine românului, și-l conving apoi să se îmbrace cu straiele mele militărești. Transformat așa, de semăna cu dracu, îl pornesc cu câțiva din prieteni să ia aer pe ulițe, iar eu, îmbrăcat cu hainele lui care miroseau a tămâie, m-am dus de am păcălit pe doi popi de la biserica sf. Vineri, că-i cheamă grabnic la mitropolie sfinția sa vicarii... Pe urmă, m-am dus la preoteasa... și zău, nu m-am căit... Preoteasa era o hanțușcă de femeie care n-a țipat de fel când a luat, seama că nu-i tocmai părintele... Ceea ce n-am prevăzut e că prietenii, beți și ei turtă, lăsară singur pe bietul popă. Trecând un maior cu birja și văzând așa nostimă figură de căpitan, la lumina lunii, opri birja, se dete jos și mi-l trimise la garda pieții. A doua zi se desluși lucrul, și eu primii zece zile arest, iar ieri ordinul de plecare la Brăila.</p>
+<p>— Cu ghidușiile d-tale, căpitane, o să te pomenești într-o zi că ai cutreierat toată țara, zise Teodor râzând...</p>
+<p>— Ei, și? Să trăiască capul, belelele curg ca ploaia... De n-oi face un caraghioslâc într-o zi, a doua zi mă doare capul și mă mănâncă nasul de îmi vine să fug ca boii loviți de streche. Bani e vorba cum să găsim! — zise el deodată... Permutările astea disciplinare mă cam costă...Am scris, nu e vorbă, tatii, că de nu mi-o trimite imediat 300 fr. cel puțin, mă arunc într-o luntre și mă duc, fără vâsle și pașaport, tocmai la Țarigrad. De frică să nu i se înece bunătate de odor ca mine, desigur că o să-mi trimită... Unde ai zis că șezi?</p>
+<p>— La d-nu Feloniadi, deocamdată...</p>
+<p>— A, la domnul acela cu eroii și cu măslinele patriei?... Are nevastă frumoasă, fete frumoase și cu ceva bani în numerar?..</p>
+<p>— Cât despre fete, da, sunt prea frumușele. Bani iar trebuie să le fi dând de ajuns, pentru că averea i se urcă la un milion și ceva...</p>
+<p>— Bârr?... e o cunoștință prețioasă atunci... Să mă prezinți, dragă amice, că mi-a intrat în cap ideea de a mă înrola și eu în cadrele armatei permanente a încoronaților...</p>
+<p>— La întoarcerea de la băi... vom vedea... răspunse Teodor cam încurcat; căci, cum să prezinte pe un om într-o casă în care abia pusese piciorul și cu care știm în ce fel de legături se află !</p>
+<p>Ajunsera în sfârșit pe bulevardul Maicii Domnului și căpitanul făcu pe Teodor să intre într-o curte strâmtă, urmându-l.</p>
+<p>Vreo doi dulăi alergară cu dorul d-a croi hainele musafirilor. Dar îndată se repezi o femeiușcă tânără, zburdalnică și drăguță, pe care Teodor o bănui să fie văduva pomenită de căpitan.</p>
+<p>Era cucoana Caterina Bănulescu, văduvă în adevăr, la vârsta de 27 ani, părând numai de 19 și locuind cu unchii săi, d. și d-na Părjoleanu, rude d-al noulea neam cu părinții lui Ropotă.</p>
+<p>Tânăra nemângâiată se opri puțin confuză la vederea unui necunoscut ce însoțea pe verișorul; dar apoi îi făcu o reverență amicală și-i introduse în salon.</p>
+<p>După un sfert de oră, în care timp se făcusera recomandațiile trebuitoare, familia trecu la masă. Cât ținu îndeplinirea acestei reguli, fără excepție de contra venire în viața mecanicească a omului — văduva nu știa cum să-și împartă vederile și serviciile față cu verișorul și cu plăcutul prieten al acestuia.</p>
+<p>Se vorbi de multe între tineri, d. Părjoleanu și văduvioara. D-na Părjoleanu ținea la moda turcească d-a mânca și a tăcea. Din una alta, se ajunse și la familia Feloniadi, pe care o cunoșteau rudele căpitanului.</p>
+<p>— D. Feloniadi e un mare comerciant, un om bun, dar farfara, — zicea Părjoleanu.</p>
+<p>— Cucoana d-sale e o mojică speriată de ceea ce a ajuns, și fetele c-o educație lustruită, prin care însă se străvăd fumurile mumei lor — zicea văduva.</p>
+<p>— Eu nu-i cunosc încă de ajuns — răspunse Teodor cu rezervă.</p>
+<p>— Eu cred pe jumătate din ce-a zis unchiu, și pe sfert din ce-a zis verișoara — zise Ropotă, făcând totuși văduvei un compliment grațios.</p>
+<p>Văduva îi răspunse printr-o mișcare din cap drăgălașă; în ochi avea insă o căutătură amenințătoare, al cărei înțeles numai căpitanul putea să-l priceapă.</p>
+<p>Noi am traduce-o prin :</p>
+<p>— Nu mă contraria, că-ți resping curtea...</p>
+<p>A doua zi, pe la 8 dimineața, căpitanul Ropotă intră la Teodor.</p>
+<p>Pe când se plimbau prin grădină, Teodor îl întrebă:</p>
+<p>— Ce-ți face verișoara cea nostimă?...</p>
+<p>— Ce nostimă, prietene? Zi: încântătoare... Am petrecut o noapte din cele mai delicioase, cum n-am petrecut lângă nici o femeie până acum!</p>
+<p>— Ce fel, s-a predat cetatea așa de curând?</p>
+<p>— În lipsă de proviziuni, ce era să facă?</p>
+<p>— Așa-s femeile: ușoare, zise cu amărăciune Teodor.</p>
+<p>— Sunt ușoare numai când vor a fi... Dar fiindcă vor totdeauna, ajungem tot la vorba ta... strigă căpitanul râzând.</p>
+<p>— Asta e rău, pentru că nu știi în care să-ți pui credința... zise Teodor gânditor.</p>
+<p>— Cel mai bun lucru e să nu-ți pui în niciuna. Eu așa fac și am dus-o bine.</p>
+<p>— Va să zică un suflet mai statornic decât al d-tale să-și ia nădejdea d-a gusta un amor... mai serios... un amor care să țină mult... o viață întreagă chiar!</p>
+<p>Căpitanul să opri și-l privi lung. 
+-Haida-de!... Dac-ai fi d-ta acel suflet, te-aș plânge... Și, pentru ca să fiu sentențios o singură dată în viața mea, află, prietene, că nimic nu ține pentru veci, fiindcă nimic nu e veșnic; omul moare, amorul moare; omul se schimbă: copil, tânăr, bătrân; amorul are și el trei vârste: se începe prin indiferență, crește prin focul simțurilor, și îmbătrânește prin dezgust...Ține-mă, prietene ! strigă Ropotă deodată. Din mine a ieșit, mă rog, atâta filosofie ? Ține-mă, că de m-o află Academia, mă fură... cu sabie cu tot...</p>
+<p>După câteva momente de tăcere.</p>
+<p>— Frumos lăcaș de trai are domnul cu eroii și măslinile patriei!... Acum să-i văd și păpușile, și voi aviza la timp asupra ideei d-a mă însura cu o parte din averea lui... plus o păpușă pe deasupra...Astfel dar, la revedere, prietene.</p>
+<p>— Ieșim împreună, căci sunt 9 fără un sfert, ora mea de birou.</p>
+<p>— Așa, scumpul meu, modifică-ți vechea tăietură a hainelor, a hainelor simțămintelor trainice în amor... Ori încearcă mai de vreme ca să te convingi de trebuința tăieturii ce e la modă în generația actuală, încheie întrevederea căpitanul Ropotă.</p>
+<p>El o luă la cazarmă; Teodor Ia birou, foarte preocupat.</p>
+<p>În petrecerea zilei orele par a trece mai ușor; în suferințe par a trece mai greu. Cu toate acestea timpul își face meseria de măturător secular al zilelor omenești, fără să se grăbească azi mai mult ca ieri și fără să ia în seamă suspinele celor nemulțumiți.</p>
+<p>Astfel, pentru Victor Cărbuneanu zilele se scurgeau în chefuri de tot felul, fără grijă de ziua de mâine și fără regrete pentru zilele trecute.</p>
+<p>Pentru căpitanul nostru și pentru frumoasa lui verișoară d-a noua mână, zilele erau lungi și nopțile prea scurte.</p>
+<p>Pentru Teodor Elefterescu-Câmpeanu, și ziua și noaptea, cât sta deștept, era o monotonie completă, din care ar fi voit să iasă. Dar ca om pururea nemulțumit de sine, n-avea puterea, spiritul de hotărâre, și deci, vorba ceea, nu era nici în car nici în căruță, nici în teleguță. Cam picau ochii lui pe verișoara căpitanului; dar ea își avea pe verișorul, și Teodor nu voia să tragă clopetele în zadar, de vreme ce liturghia amorului o făcea alt preot al Venerei...</p>
+<p>Între acestea, ultimele zile ale lui August trecându-se, familia Feloniadi își anunță sosirea din Viena, unde se oprise să mai petreacă câteva zile.</p>
+<p>Atunci Teodor se gândi a-și căuta o camera mobilată și făcu vorbă despre aceasta în biroul lui. Contabilul îi și făgădui să-i găsească el și într-o dimineață îl însoți la o rudă a acestuia, care îi dăduse o camera bine mobilată, cu serviciu și cafeaua de dimineață pentru plata de 50 lei.</p>
+<p>Ruda comptabilului, o femeie între două vârste, avea ca moștenitori ai averii sale pe aceasta și o nepoată, fetiță veselă și modestă, care petrecea mai toată vremea la respectabila sa mătușă.</p>
+<p>De cum sosi Feloniadi, Teodor mulțumi încă o dată de ospitalitate și se mută în noua-i locuință de pe strada Municipalității.</p>
+<p>Camera sa avea o fereastră la pod și alta în curte; aceasta venea în dreptul unui pavilion de lemn peste care vița de vie se răsfăța cu roadele sale ce da în copt.</p>
+<p>Bătrâna Pelopidi sta mai mult în casă, căci picioarele îi erau veșnic umflate; lucra te miri ce și mai nimic ca să-i treacă vremea, ori citea cărți grecești. Copila, gingașa Olimpia, lucră în pavilion când era timpul frumos.</p>
+<p>Ea nu strălucea prin vreo frumusețe strigătoare sau prin vreo regularitate de trăsuri proprii frumuseților clasice, ci numai prin acel neexplicabil vino-n-coace care da întregii sale figuri o expresie de nemărginită dulceață și curăție. Invățase puțin, dar la vârsta ei de 16 ani neîmpliniți promitea o bună și inteligentă femeie casnică.</p>
+<p>Timp de vreo săptămână Teodor putu îndeajuns s-o observe și s-o judece. Iar ceva din lăuntrul său era parcă smuls și atras înspre ea. Olimpia începu repede să-i placă și să dorescă a o vedea.</p>
+<p>Într-una din zile Feloniadi se apropie de Teodor, pe când aceasta închidea casa și se grăbea s-o tundă la locuință.</p>
+<p>— Ești, pare-mi-se, puțin cam ingrat, d-le casier... Nu găsești și d-ta?</p>
+<p>— De ce? făcu el c-un aer brusc, căci fusese smuls din gândurile lui.</p>
+<p>Să fii atât de puțin grăbit a ne vizita după două săptămâni de la întoarcerea noastră?.. îi zise cu mult pardon Feloniadi.</p>
+<p>— În adevăr merit o aspră sentință de mustrare, d-le Feloniadi... însă... cu oarecare circumstanțe atenuante.</p>
+<p>— Te așteptăm pentru diseară, căci cucoanele vor să te aibă și la masă; venind, vei fi iertat.;</p>
+<p>— La masă?... făcu el mirat. Repede! însă îsi schimbă aerul si adăugase: cu plăcere. Mulțumesc doamnei Feloniadi de atenție.</p>
+<p>Familia Feolniadi lua masa de seară între 7 și 8 pe timpul verii. La 6 jum. Teodor, după ce dăduse o raită pe acasă și zărise pe Olimpia, porni și intră mai întâi în cabinetul lui Feloniadi și cu acesta trecu pe terasa casei unde se aflau cucoanele.</p>
+<p>D-na Feloniadi, răsturnată într-un fotoliu se îndeletnicea cu curățatul unghiilor, operație ce se repeta de trei patru ori în cursul unei zile.</p>
+<p>Elpida citea, fără să priceapă tocmai bine cele scrise, ca și cum ar fi fost sub stăpânirea vreunei nerabdări. Ori de câte ori auzea câte o fâșiitură de frunze, sau zgomotul deschiderii vreunei uși, tresărea și se uita repede spre poarta grădinii ori în sală, prin ușa deschisă în lături.</p>
+<p>Sofia mai puțin frumoasă ca sora ei, dar mai simpatică, fiind că nu se împăuna cu aerele grozave ce-și dă Elpida, — croșeta, ocupație care avea un farmec deosebit pentru ea.</p>
+<p>Când Teodor intră, Elpida tresări văzându-l și obrazul i se acoperi c-o roșață arzătoare.</p>
+<p>— A, iată-l în fine pe d-nu !.... nu se putu opri să nu strige.</p>
+<p>Luându-și seama cu repeziciune însă, își mușcă buzele, își pironi ochii pe carte și nu-și isprăvi vorba.</p>
+<p>Teodor salută pe d-na Feloniadi, și pentru că aceasta îi întinse mâna, el o duse cu respect la buze; apoi se înclină înaintea fetelor, fără să pară c-a dat vre o atenție strigătului și aerului încurcat al d-șoarei Elpida. Totuși era mirat în sine.</p>
+<p>După ce obișnuitele banalități fură terminate, Teodor începu a se scuză de mult vinovata sa tăcere față cu datoria ce avea de îndeplinit față cu familia Feloniadi.</p>
+<p>— Această vină - termină el, provine și din puțina sociabilitate a caracterului meu.</p>
+<p>— Pentru d-ta, atâta de tânăr, e foarte rău lucru acesta, zise d-na Feloniadi.</p>
+<p>— Și cu atât mai rău, urmă d-nu Feloniadi — cu cât trebuie să-ți faci și un viitor casnic pe lângă cel ce-ți asigură trebuințele vieții... Modul cum lucrezi la birou probează, d-le Câmpene, că ai cunoștința cea mai deplină a datoriilor impuse de serviciu și pentru aceasta trebuie să-ți mulțumesc. Prin zelul și prin răbdarea d-tale trebuie s-ajungi departe, și o s-ajungi; însă pentru asta trebuie să te cunoască lumea, și nu te poate cunoaște până nu te vei apropia de dânsa. De aceea, și eu și nevasta-mea, ne-am gândit să te scoatem din monotonia vieții ce duci... Nădăjduiesc să nu fim refuzați...</p>
+<p>Teodor era încurcat. El știa bine că niciun efect nu e fără cauză în orice întâmplare. Și când efectul se pare cuiva curios, neașteptat, cauza trebuie să fie și ea destul de puternică, destul de motivată. Nu zelul și conștiința datoriei erau cauza acestei prietenii, cauza acestui interes subit ce-i arăta familia Feloniadi, ci altceva mai aproape de pielea ei, altceva de care Teodor nu-și putea da seama, dar de sigur care stă în legătură cu ceva egoist.</p>
+<p>Astfel numai s-ar fi putut explica și părăsirea aerului de mândrie al cucoanei și al fetelor, față cu el, aer care-i făcea greu la inimă.</p>
+<p>- Multul interes ce-mi purtați mă atinge d-nă și d-le Feloniadi, și căutând a mă tot îndatora mă veți pune în poziție d-a nu mă putea niciodată achita de bunătatea dv. prietenească, zise Teodor.</p>
+<p>— Și vă temeți d-a ne rămâne pururea dator, d-le Câmpene? grăi Elpida, abia ridicându-și ochii spre el.</p>
+<p>— Nu, dimpotrivă, d-șoară; d-aceea voi profita de buna dispoziție a părinților d-v., pentru a le promite o încercare serioasă din partea mea ca să mă dezbăr de multe părți găsite ridicule ale caracterului meu. Cu modul acesta vă voi datora completarea civilizării mele.....sociale. E bine ca să fim gata pentru toate împrejurările.</p>
+<p>Elpida privea cu ciudă la Teodor.</p>
+<p>S-o explicăm.</p>
+<p>Toate greșelile și insultele le poate ierta o femeie, afară de aceea d-a se ști frumoasă și trecută cu vederea de acela de care ea vrea cu orice preț să fie văzută și măgulită.</p>
+<p>Din dimineața când Elpida văzuse pe Teodor abia sosit, îi plăcuse puțin. Acesta, dându-i puțină atenție, în urmă o miră și-i puse un cui în inimă, pe care îl simți, cât timp stătu la băi, fără curmare. Întoarsă, voi cu orice preț să audă din gura lui o vorbă frumoasă la adresa ei. Pentru aceasta trebuia însă a-l face să viziteze familia cât de des. Aprobarea o și dobândise la mumă-sa, pe care Elpida o mlădia repede totdauna ca să-i împlinească orice capricii.</p>
+<p>Ce dorea cucoana, era o poruncă pentru Feloniadi. Invitarea lui Teodor la masă, și cele ce expuserăm, se explică dar.</p>
+<p>La masă, Elpida se așeză lângă Teodor, servindu-l cu multă îngrijire și căutând să-l facă să vorbească.</p>
+<p>Teodor vorbea — răspundea întrebărilor fetei, dar nu punea interes să-i placă sau să nu-i placă, era rezervat, indiferent.</p>
+<p>Și pentru că nu o făcea într-adins, nu pricepuse încă ce fierbea în inima Elpidei și ce rost aveau privirile ei ațintite cu mult foc adeseori în ochii lui.</p>
+<p>După trei zile când vizită Teodor din nou pe Felioniadi, găsi numai pe amândouă surorile. Elpida sări degrabă întru întâmpinarea lui, și, în urma câtorva vorbe schimbate, făcu semn Sofiei să iasă.</p>
+<p>— Scuzați pe Sofia — zise Elpida — căci are ceva de făcut în camera de lucru ....</p>
+<p>— Regret că nu-mi face și d-șoara Sofia plăcerea d-a lua parte la convorbirea noastră, însă o rog să nu se jeneze...</p>
+<p>Sofia se retrase fără a zice vreo vorbă, ci numai înclinându-se. Ea cunoștea intențiile Elpidei.</p>
+<p>— Ați început, cum văd, să pășiți pe noua cale ce v-ați hotărât s-o străbateți - -grăi ea zâmbind. Aceasta mă bucură...</p>
+<p>— Da?... întrebă Teodor. Sunt măgulit că luați parte și d-voastră la opera întreprinsă de părintele d-voastră, adăugase el. Și pentru a schimba vorba, urmă: pe d-nul și d-na Feloniadi voi avea mulțumirea să-i văd?</p>
+<p>— Vizita d-voastră nădăjduiesc că va fi atât de lungă încât să vă regăsească și d-lor, revenind acasă. Afară numai dacă urâtul nu vă va coprinde, silit de împrejurarea să convorbim amândoi...</p>
+<p>— Urâtul mă cuprinde, d-șoară, numai când mă alin singur. Cu o a doua persoană găsesc totdeauna de vorbit, răspunse Teodor.</p>
+<p>Elpida îi aruncă o privire crucișă.</p>
+<p>- De câte ori se întâmplă că o a doua persoană ne face să căscăm !... zise ea privind fix pe Teodor ca să-l constrângă și prin vorbe și prin privire a-i adresa în sfârșit un compliment.</p>
+<p>— Depinde, răspunse el cu încăpățânare.</p>
+<p>Ea, auzind acest răspuns, se îngălbeni. 
+ -O face într-adins; vrea să zică, vreaun fel de luptă... își zise ea. Prea bine, o să lupt. Ce are însă pe mine?</p>
+<p>După puțină tăcere, ea luă vorba.</p>
+<p>— Desigur că o să începeți a căscă, d-le Câmpene. Eu nu pot hrăni o convorbire...</p>
+<p>— Născând-o o și veți hrăni-o d-șoară. Eu sunt monoton, însă... a mea e vina; și nu-i nădejde să iau curând forma tinerilor spirituali de salon.</p>
+<p>— De ce vă acuzați, când aveți bun simț și toate calitățile celelalte?... Poate vă lipsește buna voință d-a le intrebunița.. zise Elpida c-un ton luător în râs.</p>
+<p>— D-voastră cum credeți? Vă fac arbitru purtării mele, dacă e firească sau...</p>
+<p>— Dacă e premeditată, mai cu seamă, nu e așa! urmă ea apăsând pe cuvinte cu intenție. Socot mai degrabă că e aceasta din urmă.</p>
+<p>— Cum, credeți adică?...</p>
+<p>— Da, că o faceți într-adins, d-le Câmpene; altfel, cum să-mi explic atâta răceala față... cu mine, de exemplu, care nu v-am dat motiv pentru așa lucru? zise Elpida c-un ton de imputare.</p>
+<p>— Răceală eu? strigă Teodor c-o prefăcută mirare. Ați luat respectul meu, desigur, ca atare.</p>
+<p>— Respect... da, cuvântul e bine ales pentru a închide incidentul, ca să zic așa, dintre noi, dar nu pentru a lămuri purtarea d-voastră. Fie, știți să vă scăpați măcar în aparență d-o situație critică, zise Elpida c-un râs forțat.</p>
+<p>Trecând apoi la altă ordine de idei, continuă convorbirea pe un ton amical, vesel ca și cum nimic nu s-ar fi întâmplat.</p>
+<p>Când Teodor plecă, după întoarcerea d-lui și d-nei Feloniadi, Elpida îl petrecu până la ușa ce da în curte și, întinzându-i mâna, îi șopti mai tare și zâmbind ironic:</p>
+<p>— Nu uitați că respectul, față c-o femeie tânără, și în felul cum l-ați luat d-v. astăzi, poate fi considerat ca lipsă de atenție, ca nepolitețe... lucru foarte periculos pentru un tânăr, de salon.</p>
+<p>— Sunteți un excelent Mentor, d-șoară. Acesta fu unicul compliment, cam luător în râs și el, făcut de Teodor, Elpidei.</p>
+<p>— Te voi învinge! murmură ea, privind în urmă-i. Apoi intră în casă, plănuind.</p>
+</div>
+<div type="chapter" n="9">
+<head>XI</head>
+<p>— He, calimera, chirie!... strigă căpitanu Ropotă.</p>
+<p>— Calimerasas... A, d-ta în Brăila? răspunse d-l Feloniadi, privind curios la căpitanul care îl întâmpină c-o formulă de întâlnire prea amicală, pentru doi oameni ce se văzuseră un ceas într-o singură zi.</p>
+<p>— Va să zică m-ai cunoscut, d-le?... zău ți-am uitat numele, zise căpitanul.</p>
+<p>— Feloniadi—răspunse întrevorbitorul; dar și eu ți l-am uitat.</p>
+<p>— Atunci, suntem chit! Mă numesc Nicu Ropotă, căpitan, precum mă vezi și permutat aci, de vreo lună și jumătate.</p>
+<p>— Ești cam... original. Nu găsești?</p>
+<p>— Da, așa-mi spune toată lumea. Ei, dar cum mai merge cu eroii patriei?</p>
+<p>— D-le căpitan, te salut, zise Feloniadi serios și supărat.</p>
+<p>— Stai, frate, nu te mânia. Așa-i firea mea, încolo sunt bun creștin, pe sabia mea! În această calitate, doresc din inimă să fac cunoștință cu familia d-tale întreagă, dacă se poate... chiar și cu cea din Elada.</p>
+<p>— Bine, voi vedea... cu plăcere — răspunse Feloniadi ca să scape de el.</p>
+<p>— Nu vrei? Hai că o să mi-o recomanzi fără voie?... Te prinzi cu mine pe o ladă de portocale? pe o putină de icre negre?</p>
+<p>— Ești un caraghios! Îi strigă Feloniadi jumătate râzând, jumătate mânios și plecă.</p>
+<p>— Până în trei zile sunt prieten cu toți ai casei, îi strigă el și porni la ruda sa, pe la care nu dăduse de vreo săptămână.</p>
+<p>Văduva îl primi cu aerul paraponisit; căpitanul se făcu că n-o pricepe, și îi întinse mâna.</p>
+<p>— Ași, nu, sunt supărată foc!... Auzi, d-o săptămână!... — zise ea retrăgându-și mâna.</p>
+<p>— Afaceri de regiment, dragă, ce vrei? răspunse Ropotă serios.</p>
+<p>— Ba minți. Mă înșeli cu alta... îi zise ea înaintând ca o pisică alintată. Ah, dacă aș ști, ți-aș scoate ochii! strigă ea apoi cu îndârjire.</p>
+<p>— Aceasta nu m-ar împiedică decât să nu mai fiu militar! răspunse Ropotă râzând.</p>
+<p>— A, vrea să zică tot mă înșeli?...</p>
+<p>— Liniștește-te, verișoară — e tot brună ca și tine.</p>
+<p>D-na Bănulescu rămase mută, încremenită roșie apoi ca una din culorile naționale și cu scântei de mânie în ochi, îi aplică o palmă peste obraz și ieși.</p>
+<p>— Iaca frate! strigă el, frecându-se pe obrazul ce suferise răzbunarea verișoarei. Noroc că n-a fost aplicată în fața frontului! Își zise el râzând, căci atunci era... un adevărat afront.</p>
+<p>— Da ce are Caterina, Nicule, de plânge în odaie dincolo? întrebă d-na Pârjoleanu, mătușa lui, intrând cu umbletul cadențat al raței leșești.</p>
+<p>— Ce să aibă, mătușică, decât că i-am tot dat ceva și că de acum nu vreau să-i mai dau.</p>
+<p>— Cum, ce i-ai dat?... Ce fel vine asta?...</p>
+<p>— Intreab-o pe ea... Până atunci, dacă vrei să-ți mai calc în casă, mătușică dragă, fă toate chipurile să mă prezinți, peste trei zile, fără doar și poate, la d-na Feloniadi. Azi avem Joi... Duminică să fiu prezentat,ori mănânc pe toți Grecii din Brăila ca pe o farfurie de salată cu țâri.</p>
+<p>— Glumești, Nicule?</p>
+<p>— Să ferească Dumnezeu.. Fă cum știi, mătușică, dar Duminică să se facă treaba. Altfel ți-am spus ce fac... Pui Dunărea în starea de asediu. Și acum, mă-nchin cu sărut mâna; adânci închinăciuni lui unchiu. Caterino, mângăie-te, dragă; a mai pățit-o și alte cucoane...</p>
+<p>Apoi ieși râzând. Opri o trăsură ce trecea și a dat poruncă să-l ducă în strada Municipalității.</p>
+<p>— Acasă-i d. Elefterescu-Câmpeanu? întrebă căpitanul de la poartă pe Olimpia care ieșise auzind trăsura oprindu-se.</p>
+<p>— Nu; dar trebuie să vină peste câteva minute, răspunse copila.</p>
+<p>— Aș putea să-l aștept în odaia d-lui?</p>
+<p>— Da; poftim, zise copila.</p>
+<p>Căpitanul plăti birjarului și intră în sală, apoi în odaia lui Teodor, condus de Olimpia. Voind să se retragă, după ce căpitanul intră, acesta o opri c-un gest rugător:</p>
+<p>— Vă rog, d-voastră sunteți d-șoara Olimpia, nu e așa? întrebă el.</p>
+<p>— Da, răspunse copila roșind.</p>
+<p>— Îmi pare bine că vă cunosc și în persoană, d-șoară, căci, după spusele amicului meu vă cunoașteam deja.</p>
+<p>Olimpia, mai roșie, plecă capul în jos, murmurând ceva, neînțeles însă, și voi să iasă.</p>
+<p>— Un moment, d-șoară, vă rog, în interesul d-lui Teodor... Mă recomand căpitanul Nicu Ropotă din regimentul I de linie. Luați loc vă rog, afară numai dacă n-aveți ceva urgent care să vă reclame.</p>
+<p>Olimpia, auzind că vrea căpitanul să-i vorbească în interesul lui Teodor, se puse pe muchia unui scaun cu sfială și tot cu ochii în jos.</p>
+<p>Teodor, începu căpitanul, aprinzând o țigară, e foarte bun tânăr și cu mare viitor. E sentimental ca un cavaler din veacul de mijloc, și cinstit cum n-ar putea fi un evreu niciun minut pe zi. Iubit de vreo tânără și drăgălașă, d-șoară, ca d-v. ar fi cel mai fericit om din lume. Și închipuiți-vă că iubește ca Romeo pe Julietta, dacă ați citit sau văzut acest capodopera...extra romantică.</p>
+<p>Se opri aici observând printr-un nor de fum pe Olimpia. Era roșie ca unele mere domnești, și parcă ședea pe ghimpi de rușinoasă și de turburată ce era.</p>
+<p>— D-șoară, reîncepu căpitanul ridicându-se și venind în dreptul ei, dar mai departe ceva, d-șoară, eu sunt sincer și mai puțin codaciu ca iubitul meu prieten. Vă mărturisesc, din partea lui că vă iubește; și că dorul lui cel mai scump este să vă ia de soție cât de curând. Faceți-i până atunci fericit, prin a-i mărturisi și d-voastră că-l iubiți, pentru că eu ghicesc adevărul și-l spun, dacă Teodor îl ghicește și-l tace... Să-i spun din partea d-voastră că...</p>
+<p>Ușa se deschise și Teodor intră, rămânând încremenit. Olimpia dădu un ușor țipăt și fugi acoperindu-și fața rușinoasă, dar zâmbitoare, cu amândouă mâinele.</p>
+<p>— Ce-i asta, căpitane? întrebă Teodor serios.</p>
+<p>— Ți-am pledat cauza cu 35° Reaumur de căldură. I-am spus fetei că ți-e dragă, si am făcut-o să spună și ea că-i ești drag...Altfel, tu codaciule și neiscusitule în amor, ai fi tărăgănit lucrurile până la Rusalii.</p>
+<p>Teodor privea la el, aci să râdă, aci să se mânie...! Cu căpitanul nu puteai însă să te mânii, ci numai să râzi și cu dragă inimă încă.</p>
+<p>În urmă, chestiunea se limpezi și Teodor pofti pe căpitan să plece mai degrabă ca să vadă fructul pledării lui, fără multă întârziere.</p>
+<p>Căpitanul plecă, rugându-l, că de nu-l va prezenta mătușă-sa la Feloniadi, să-l prezinte el, ca să-și țină cuvântu dat acestuia.</p>
+<p>Teodor căută pe Olimpia.</p>
+<p>Gingașa Olimpia cea cu ochii ca marea liniștită și cu părul ca jeul, iubea tainic pe Teodor, cu neștiința caracterului său curat, blând și statornic. Ii plăcea să-l vadă fără să-și dea seama de ce, și-l vedea, tresărind sub farmecul unei adânci plăceri.</p>
+<p>Dar când căpitanul grăbi într-un mod brusc dezvăluirea acestei taine, Olimpia se găsi într-o așa de complexă stare sufletească, încât farmecul dezvăluirii se pierdu mai în întregime.</p>
+<p>Ivindu-se Teodor, ea găsi mijlocul ca să fugă și să se retragă în odăița în care dormea când rămânea mai multe zile la mătușă-sa. Teodor intră mai întâi la bătrână, socotind că o va găsi. Schimbă câteva vorbe cu ea și se grăbi să iasă. Alergă de aici în pavilion. N-o găsi.</p>
+<p>— E în odaia ei de culcare, se gândi Teodor. Cum să mă duc însă acolo?...Trebuie cu toate astea... Hai să fiu mai curajos, măcar acum...</p>
+<p>Odăița Olimpiei venea așezată așa, că trebuia să treci prin bucătărie, prin sala de mâncare și apoi să ajungi acolo; sau din odaia în care sta bătrâna, prin salon, și apoi la Olimpia.</p>
+<p>Teodor alese drumul dintâi. Trimesese pe bucătăreasă la coteț, spunându-i c-au scăpat niște păsări cărora le dăduse el drumul, și se strecură în sala de mâncare. În vârful degetelor s-apropia și-și lipi urechea de ușa din fund. I se păru că aude un ușor suflat de nas și suspine. Atunci crăpă ușa și intră.</p>
+<p>Când îl văzu Olimpia, sări.</p>
+<p>— D-ta aici? șopti ea speriată.</p>
+<p>— Nu te teme, Olimpio, exclamă el. Explicându-mi căpitanul motivul convorbirii cu d-ta, am căutat să te văd cu orice preț. Nu sunt întru nimic vinovat de fapta căpitanului, care e un ghiduș de frunte, amestecându-se ca dracul în toate fără să-i prinzi de veste. Regret foarte mult ce s-a întâmplat, și nu din alt punct de vedere decât că taina sufletului d-tale a fost siluită d-un străin, ca să se dezvăluie în dauna modestiei și rușinii care sunt niște frumoase podoabe ale d-lale... Dacă aș fi dezvăluit-o eu, nu e așa că nu ai fi fost supărată? Nu-i așa că noi nu mai suntem străini unul față cu altul? termină Teodor apropiându-se de Olimpia, care se uita la el pe furiș și zâmbind.</p>
+<p>- De ce te găsesc plânsă? Din pricina lui? Ți-a făcut rău ?... Iartă-l, Olimpio, te rog, iartă-l numai în considerația că a rupt stavila timidității dintre noi... care... cine știe cât ar fi stat. Mă iubești, nu-i așa? Spune, adăugase el apoi.</p>
+<p>Și luându-i o mână o duse la buze.</p>
+<p>— Da... murmură ea ascunzându-și o parte din obraji cu batista, căreia de mult îi rodea un colț.</p>
+<p>— Ești de o frumusețe și de o bunătate fără margini, Olimpio, îi șopti Teodor, sărutându-i mâna, ce o uitase fata în mâinile lui. Iți mulțumesc; te voi iubi și eu totdeauna, dar nu voi fi pe deplin fericit până nu te voi avea de nevastă. Vrei să fii nevasta mea, Olimpio?..</p>
+<p>— Din toată inima, răspunse Olimpia cu căldură.</p>
+<p>O sărutare pe obraz fu mulțumirea lui Teodor, apoi sfârși zicându-i:</p>
+<p>— Nădăjduesc să nu mai fii așa de sfioasă cu mine. Timpul răcindu-se, în pavilion nu ne mai putem întâlni și sta de vorbă; vino, te rog cât de des, în camera mea ca și la un frate.</p>
+<p>Apoi ieși. In acel moment, fericirea de care era cuprins da figurii lui o expresie așa de plăcută, că d-șoara Feloniadi ar fi rămas uimită și c-un ghimpe mai mult în inimă.</p>
+<p>D-șoara Elpida Feloniadi aștepta a doua zi vizita lui Teodor, pe care o credea mai mult ca sigură. Lunga și amicala convorbire cu el, apoi cuvintele din urmă schimbate cu ocazia petrecerii până la ușă, le credea un pas destul de înaintat. Când o fată îți dă atâta tărâm de înaintare spre ea, trebuie să fii dobitoc prea afară din cale, ca să stai pe loc.</p>
+<p>Elpida știa că Teodor numai dobitoc nu putea fi; văzând însă că trei zile trec și că el nu vine, întrebă pe tată-său dacă nu e bolnav. Ea tot nu voia să creadă într-o atât de mare indiferență a lui, față cu dânsa.</p>
+<p>Aflând că e sănătos tun, fu cuprinsă de ciudă nervoasă care o făcu să plângă chiar.</p>
+<p>— Doar de iubește pe alta — murmură ea în fine. Oricum aceasta nu l-ar împiedica de a fi galant cu mine... Nu! el îmi face în ciudă... Ce e drept, am făcut o nesocotință mare... Trebuie să-mi țin prestigiul... Stai, că întorc eu foaia d-le Teodor...</p>
+<p>Era 2 jum. când o trăsură intră în curte și trase la ușa principală. Ea aducea pe d-na Pârjoleanu și pe căpitanul Ropotă. Elpida cunoscu pe cucoană dar pe căpitan nu; acesta-i ațâță curiozitatea mai ales că îl găsi cu mână bună, și, dându-și un praf de pudră pe obraz ca să nu i se cunoască fața udată de lacrimi, se cobora în salon, unde erau introduși deja musafirii.</p>
+<p>Căpitanul Nicu Ropotă îi fu prezentat.</p>
+<p>După un sfert de oră, d-na Feloniadi și fetele erau sub farmecul guralivului și veselului căpitan. Părea că le cunoștea de cine știe câtă vreme. Apoi politețea lui măgulitoare completa buna opinie ce începuseră a-și face câte trei de dânsul.</p>
+<p>După o jumătate de oră căpitanul era în stare să-și dea o bună socoteală de caracterul cucoanei și al fiicelor sale.</p>
+<p>Când intră Feloniadi și îl văzu, rămase cam uimit în prag. Apoi întinse mâna căpitanului, râzând și zicându-i cu ton de curată prietenie :</p>
+<p>— Haide, văd că pe d-ta nu trebuie să se supere cineva.</p>
+<p>Explică femeii sale și fetelor paraponul ce avusese pe căpitanul, dar într-un chip așa că ieși el mai vinovat decât căpitanul.</p>
+<p>— Nu ești bun avocat pentru propria d-tale cauză — îi zise râzând Ropotă. Am ieșit eu cel mai puțin vinovat, pe când contrariul e adevărul adevărat, căci îmi permisesem glume față cu d-ta când atunci te văzusem pentru întâia oară și abia de câteva momente numai...</p>
+<p>Umilirea aceasta, deși ironică și făcută pe un ton glumeț, plăcu lui Feloniadi; își reținu musafirii până pe la orele patru, — când amândouă părțile-și ziseră la revedere, mulțumită fiecare în felul său.</p>
+<p>Din convorbirile diferite din acea vizită, Elpida reținuse aceasta că Ropotă căpitanul cunoștea în de aproape pe Teodor. Își propuse dar, ca la întâia ocazie, să încerce a afla de la căpitan dacă Teodor e îndragostit sau ursuz, pricini din care să poată rezulta pentru dânsa indiferența lui.</p>
+<p>După vreo patru zile, fiind sărbătoare și căpitanul întâlnind pe Feloniadi, fu poftit la masă de acesta, și luat mai-mai cu sila.</p>
+<p>În timpul mesei, Elpida aduse vorba de Teodor, ceea ce făcuse pe Feloniadi să vorbească de binele ce făcuse tânărului, și pe cucoana să se plângă de nerecunoștința și de uitarea în care îi lasă.</p>
+<p>— Bietul Teodor, exclamă căpitanul - îl învinovățiți d-nă de nerecunoștința!.. Vă asigur că nu e capabil d-așa ceva; îl învinovățiți de uitare, vă asigur însă că aceasta își are un puternic motiv, pe care îl înțelegeți.... îndeajuns. Pentru caracterul lui posomorât, poetic — cum vreți să-l numiți — e destul un așa sentiment, la care încă să i se răspundă întru câteva, ca să-l facă să uite nu câteva cunoștințe, ci lumea întreagă... Cu toate acestea, îl voi mustra eu...</p>
+<p>— De prisos! îl întrerupse d-na Feloniadi, care observase gălbeneala feței Elpidei. Omul fericit, adăugase ea apoi cu ironie, e cel mai egoist, nevrând să știe decât de el și de fericirea lui... netulburată. Vă rog chiar să nu-i ziceți nimic, d-le căpitan, căci ar însemna o impunere din partea noastră, și suntem prea mândri pentru a impune prietenia noastră binefăcătoare d-lui Câmpeanu, mai ales.</p>
+<p>Convorbirea luase o față curioasă. Căpitanul observa figurile cu atenție, fără să aibă aerul însă.</p>
+<p>— Bun, murmură el, e ceva pe aici! Dragostea lui Teodor produce nemulțumiri. Iată niște împrejurări bune pentru jucat o farsă.</p>
+<p>Ochii atunci i se opriră pe Elpida care căzuse pe gânduri.</p>
+<p>- Asta-i cu pricina! conchise el.</p>
+</div>
+<div type="chapter" n="10">
+<head>XIU</head>
+<p>Căpitanul Ropotă ocupa două odăi: una mare pentru el și un iatac pentru soldatul lui Vasile, de care nu se despărțise. Locuința lui era pe lângă Piața Săracă.</p>
+<p>Două zile după vizita din urmă de la Feloniadi, Ropotă chemându-și ordonanța, îi zise:</p>
+<p>— Ascultă, soldat: astă-seară nu ies d-acasă. Dacă s-a întâmpla să vină cucoană îmbrăcată cu negru, să n-o lași să intre; dar să nu faci prostia să-i spui că eu ți-am dat porunca asta. Auzi? M-ai înțeles?</p>
+<p>— Am auzit, am înțeles, să trăiți!</p>
+<p>— Dac-o face mofturi, cucoana, și-o vrea să dea buzna înăuntru, fă-te rușinos și te apleacă la urechea ei, apoi șoptește: d-l căpitan nu e singur. E cu spălătoreasa; îi dă cămășile de vreun ceas și mai bine.</p>
+<p>Soldatul pufni de râs, ștergându-se la nas cu dosul mâinii drepte.</p>
+<p>— Vezi de pufnește de râs și atunci, gogomane, îi zise Ropotă răstit.</p>
+<p>— Nu, să trăiți! O să-i zic că-i dați și pantalonii, știți, ca să pară rufe mai multe...răspunse Vasile ieșind.</p>
+<p>— Ei, mi-e drag ticălosul ăsta de soldat și pace! Nu e prost, nu e prost de fel, murmură căpitanul aprinzându-și o țigară. Apoi se așeză la birou și începu să scrie cu mâna stângă.</p>
+<p>Abia trecu un ceas de când căpitanul se tot deprindea să scrie mai binișor cu mâna stângă, când auzi o trăsură oprindu-se la poartă. Se ridică repede atunci și trase zăvorul, apoi puse ca paravan în dreptul lămpii un flutur mare cu aripile întinse, susținut de un picior subțire.</p>
+<p>Imediat auzi ciocănind în ușă.</p>
+<p>Imbecilul — murmură căpitanul; lipsește de la post!</p>
+<p>— Eu sunt d-le căpitane, se auzi glasul lui Vasile. A venit d. Teodor, și auziți, cică-l primiți.</p>
+<p>- A, tu ești Teodore? strigă Ropotă și, trăgând zăvorul, deschise ușa.</p>
+<p>Teodor intră cu zâmbetul pe buze.</p>
+<p>— Da ce ai pățit de te-ai încuiat așa devreme, d-le căpitan de linie? întrebă Teodor strângându-i mâna.</p>
+<p>— Pentru rațiuni puternice... cu fuste. Inchipuie-ți că, după verișoara, am dat peste o prepeliță de baltă, care, după zece zile de amor, pretinde s-o iubesc pentru veșnicie, să n-o înșel cu nicio femeie și să petrec toată ziua, cât n-am treabă, lângă dânsa. Ah, ce de sentimentalism, prietene dragă!... Dacă aș fi stat să mă țin de toate în șir de margăretele unor asemenea sfinxi de virtute și amor, trebuia să am o mie de vieți veșnice și un harem mai mare decât al tuturor sultanilor trecuți și viitori! Din fericire, mi-am ținut bine firea.... Și ca să mă scap de jandarmul cu fuste, dădusem lui Vasile un ordin oarecare... Să lăsăm însă aceasta. Tu ce faci? Casta la columbă ce zice? Ți-a vorbit și ea de amor veșnic și nesfârșit?...</p>
+<p>— Iubite nene Ropotă, Olimpia va fi o bună femeie casnică, o adevărată tovarășă a vieții așa cum am dorit eu, și e departe de orice curtezană. Dacă și aceasta m-ar înșelă, atunci zic și eu adio vieții, pentru că n-aș mai avea nimic să sper în lume și de la lume, răspunse Teodor cu emoție și convingere.</p>
+<p>— Poate — făcu Ropotă. Atunci prima pereche casnică în condițiile ce ai arătat, vei fi tu și Olimpia, și voi putea zice : însoară, Doamne, și pe robul tău Ropotă, că văzură ochii lui în sfârșit o casă cum trebuie... Și acum să trecem la altă ordine de idei. Vrei un ceai? Eu îl obișnuiesc în toate anotimpurile, când mă prind și eu pe acasă mai devreme.</p>
+<p>— Vreau — răspunse Teodor. Mai întâi însă să te întreb ceva.</p>
+<p>Am fost în astă seară pe la Feloniadi și primirea ce mi s-a făcut...</p>
+<p>— A fost la zero grade de răceală?</p>
+<p>— Tocmai. Și pentru că mi-au spus de vizita ta, am alergat la tine, să văd, nu cumva ești în stare a mi-o explica!</p>
+<p>— Ba paremi-se că da. In urmă, o să te întreb și eu ceva, tinere amice, pentru care doream chiar să le întâlnesc. Suntem chit nu-i așa ?</p>
+<p>— In regulă, precum zici.</p>
+<p>Căpitan Ropotă istorisi, abtinându-se de la orice comentariu, întreaga vizită a lui de prezentare și cea d-a doua cu masa.</p>
+<p>— Am văzut bine, sfârși el, că numai vestea dragostei tale a produs schimbarea, de unde mai înainte îți erau toți favorabili.</p>
+<p>— Bine ai făcut, căpitane, că le-ai vorbit în acei termeni și mai cu seamă de amorul meu. Știi de ce asta ? Pentru că D-șoara Elpida pusese ochii pe mine, nu de amor, ci de ambiție că nu jertfesc laude pe altarul d-sale. Voind cu orice preț să mă închin ei, îmi făcea prea multe înaintări, mă încuraja prea afară din cale încât să nu pricep... Să-i fi cerut o întâlnire, mi-ar fi dat-o cu speranța că i-aș fi spus gogoșele și de bucurie că mi-ar fi învins indiferența sau mai bine antipatia, căci îmi era antipatică cu totul. Eu mi-am căutat de treabă și...</p>
+<p>— Acum îmi explic tot, și ce doream să aflu de la tine, am aflat. Bine — urmă căpitanul gânditor și ca vorbindu-și lui mai mult — lasă că mi-o joc eu pe D-șoara Elpida.</p>
+<p>— Cum, în ce fel? întrebă Teodor. Vezi de nu mă pune și pe mine ca suveică la războiul tău de ghiduș.</p>
+<p>—- Nu; fii sigur.</p>
+<p>În acel moment se auzi glasul lui Vasile zicând cam tare, cam încet:</p>
+<p>— De cuconiță, știu eu!... cum să le las când d. căpitan nu e singur?</p>
+<p>— Nu e singur, soldat? Cu cine-i atunci? întrebă un glas de femeie, cu tonul de contrarietate foarte viu.</p>
+<p>— E cu... de!... cu spălătoreasă... De vreun ceas îi tot dă rufele și nu i le-a numărat pe toate, se vede îngăimă Vasile cu rușine.</p>
+<p>-Cu spălătoreasă, zici? întrebă cu mânie glasul femeiesc.</p>
+<p>— Așa, cuconiță.</p>
+<p>— E tânără?...</p>
+<p>— Of! cuconiță, un boboc de... bujor...</p>
+<p>— Frumoasă? întrebă repede glasul, ca și cum se îneca.</p>
+<p>— Ca o sfântă...</p>
+<p>Stăpâna glasului se repezi și bătu în ușă.</p>
+<p>— Ce faci, cucoană?... strigă Vasile mânios. Vrei să mă păruiască D-nu căpitan?</p>
+<p>— Spune-i că e un catâr îmbrăcat în uniformă, — strigă cucoana cu spasmos și ieși ca o furtună.</p>
+<p>În acest timp căpitanul Ropotă râdea îndesat; iar Teodor privi uimit la dânsul și cu o seriozitate ce nu se potrivea cu împrejurarea.</p>
+<p>— De acum am scăpat de satana — strigă Ropotă, când auzi că cucoana ieșea pe poartă. Și chemă pe Vasile lăudându-i istețimea.</p>
+<p>— Găsești capace la toate, îi zise Teodor.</p>
+<p>— Pentru că și pe mine m-a lăsat natura, capace, răspunse Ropotă râzând.</p>
+</div>
+<div type="chapter" n="11">
+<head>XIV</head>
+<p>D-șoara Elpida Feloniadi, dizgrațiase pe Teodor în fața căpitanului — îl primise cu răceală după aceea, însă pe urmă îi păru rău.</p>
+<p>Faptul că Teodor iubea pe alta și că iubea după ce o cunoscuse pe ea întâi, ceea ce însemnă că dânsa nu fusese în stare să-i placă și să-l facă a o iubi — faptul acesta, zic, o răscolea rău la inimă.</p>
+<p>Ar fi voit să vadă cu patru ochi pe fata aceea la care zburase o imaginație și o inimă poetică ca a lui Teodor.</p>
+<p>— Asemenea oameni visează perfectul frumuseții, își zise Elpida; doresc atâtea calități întrunite în persoana ce visează să o iubească!... Cum trebuie să fie aceea căreia m-a preferat Teodor? N-am avere, nu sunt o regină ca frumusețe? Nu sunt onestă, sus pusă în considerație ca fată de familie bună?... Cum să fac s-o văd?...</p>
+<p>Rămase pe gânduri câteva momente, murmură apoi:</p>
+<p>— Cât l-aș iubi de mult!...</p>
+<p>Dar de ce vreau să-l iubesc și să mă iubească? se întreba ea cu ciudă. N-am mai văzut tineri mai frumoși, de familie bună, apoi, care mă înconjoară prin adunări, și m-am arătat mândră cu toate acestea și nemăgulită de complimentele lor?...</p>
+<p>Toată ziua aceea fu tristă, iar la întrebările mume-sii răspundea distrată, ori deloc.</p>
+<p>În ziua următoare, fiind o ploaie măruntă și rece și neputând să iasă în grădină la aerul curat al toamnei, Elpida fu de o răutate și de o nervozitate cum nu mai văzusera la ea părinții și sora.</p>
+<p>Întrebată de soră-sa, Elpida se răsti la ea cu sălbăticie. D-na Feloniadi, stăruind să-i spună ce are, Elpida se mânia într-atâta că sparse un vas frumos de Sevres și o glastră mare de marmură neagră, sculptată foarte lin și plină cu flori artificiale.</p>
+<p>A doua zi fu mai liniștită, dar tot posomorâtă. În asemenea dispoziție auzi d-nu Căpitan Ropotă că se găsește ea, când făcu o vizită familiei. Cum află însă cine e musafirul, Elpida veni în salon, cu fața senină, dar pălită.</p>
+<p>Căpitanul observă.</p>
+<p>— D-șoara a fost bolnavă? întrebă el cu interes.</p>
+<p>— Da, răspunse Elpida, am avut o migrenă grozavă.</p>
+<p>— A, ce rău îmi pare! exclamă Ropotă. D-voastră, d-șoară, îmi inspirați cel mai viu interes... E păcat să sufere o ființă așa de perfectă. Sunteți însă mai bine?</p>
+<p>— Da, și vă mulțumesc de interesul ce ziceți că-mi purtați, d-le căpitan. Sunt oameni care ar trebui, din recunoștință... și cu toate acestea...</p>
+<p>O sunt ingrați destui... în toate clasele societății...</p>
+<p>— Între care puteți prenumăra pe prietenul d-voastră, d. Câmpeanu, care tot nu își aduce aminte de noi, zise cu răutate Elpida.</p>
+<p>— Îmi spunea, dimpotrivă, că v-a vizitat mai acum vreo trei zile, răspunse căpitanul.</p>
+<p>Elpida își mușcă buzele. În graba ei de a aduce vorba despre Teodor, o luase pe un drum greșit.</p>
+<p>În urma mustrărilor d-voastră, se vede, luă vorba d-na Feloniadi,</p>
+<p>— Nicidecum, doamnă; eu respect un cuvânt dat, cu toate că am aerul d-a glumi totdeauna. Prietenul meu nu-și poate uita o datorie de recunoștință, dar se ține de proverbul.</p>
+<p>Vizita cea mai plăcuta este cea mai rar făcută.</p>
+<p>— Sunt vizite care plac fiind făcute și des; ale d-voastră de exemplu, d-le căpitan, zise d-na Feloniadi.</p>
+<p>— O atunci sunt cel mai fericit muritor! — exclamă Ropotă c-un entuziasm ce părea că izbucnește din fundul inimei. Apoi, înclinându-se către ea, adăugase: mii demulțumiri d-nă... A mă admite așa de curând între prietenii d-voastră cei mai devotați, probează că puteți repede aprecia un om prin prisma calităților d-voastră nobile. Aceasta-mi dă o mai bună idee și de mine însumi.</p>
+<p>Cine știe cât ar fi ținut convorbirea pe această sonoră coardă a deșertăciunilor, dacă un servitor n-ar fi chemat pe d-na Feloniadi. Era de trebuință prezența d-nei spre a încerca un costum de toamnă.</p>
+<p>— Nu știu dacă nu mă înșel, d-șoară, dar s-ar părea că purtați oarecare animozitate contra lui Teodor Câmpeanu, amicul meu? se adresă Elpidei căpitanul.</p>
+<p>Elpida tresări și se înroși puțin.</p>
+<p>— Da... și nu, răspunse ea încurcată.</p>
+<p>— D-șoară începu Ropotă, c-un aer încurcat și el, vă cunosc de puțin timp, însă fără voia d-voastră îmi voi permite rolul de confident. Aflându-ne singuri, ocazie ce o doream și pe care, dacă nu mi-o procura mama d-voastră acum, aș fi căutat să mi-o procur eu — aflându-ne, singuri, zic, voi să fac... ce n-a făcut amicul meu Teodor.</p>
+<p>— Ce înseamnă aceasta, d-le căpitane? - întrebă Elpida c-un aer rece și mândru. Eu...</p>
+<p>- Dați-mi voie, o întrerupse Ropotă. Sunt prietenos de felul meu, sunt sincer, sunt... oricum veți voi, dar nu pot să sufăr a bănui cineva pe un altul d-un lucru de care nu e capabil. Am observat d-șoară — urmă Ropotă fără întrerupere — că acuzați pe Teodor de nerecunoștință, de indiferență... Sunt prietenul său, și mi-a mărturisit, dimpotrivă, o admirație pentru d-voastră, care atingea culmea pe care omul o atinge printr-un sentiment cu totul altul decât indiferența. Și se poate indiferență față c-o frumusețe suverană ca a d-voastră? strigă căpitanul c-o nouă izbucnire de entuziasm, bine potrivită.</p>
+<p>Elpida era însuflețită de o emoție fără margini și asculta pe căpitan mai fără să respire. Teodor o iubea, va să zică. Atunci de ce nu i-o spunea?</p>
+<p>Căpitanul, prevăzând această întrebare, ce Elpida trebuia neapărat să și-o facă, și voind să meargă până în capăt, urmă:</p>
+<p>— Vă veți fi zicând însă: pentru ce nu v-a mărturisit iubirea lui, când d-voastră i-ați fi primit-o cu...</p>
+<p>Elpida se ridică. Era un om străin care îi vorbea de ceva ce nu știa decât ea și mumă-șa, lucru ce nu trebuia să știe altă lume, cu atât mai mult să-i vorbească de el.</p>
+<p>— Domnule, — zise ea c-un ton de mândrie lovită — nu vă înțeleg îndrăzneala.</p>
+<p>— D-șoară — zise Ropotă c-un zâmbet ciudat — îndrăzneala în orice întreprindere e factorul principal. Dacă ar fi avut-o Teodor, n-aș fi fost expus dizgrației d-voastră. Timiditatea lui însă cea prea din cale afară l-a făcut să nu vă mărturisească taina lui; iertați-i acest defect și mie pe acela... d-a vă fi scăpat dintr-o stare de incertitudine chinuitoare. Puteți fi mâniată pe mine; eu mi-am făcut o datorie... de caritate creștină.</p>
+<p>Purtarea lui Ropotă s-ar părea curioasă. Și se părea, în adevăr, Elpidei care nu cunoștea până unde putea merge caracterului ghiduș al căpitanului.</p>
+<p>Acesta, cunoscând însă pe al tinerei fete, știa de mai înainte că mândria ei revoltată era să facă loc iertării, și astlel, intrarea fără jenă a căpitanului în afacerile de inimă a Elpidei, trebuia să fie la urmă ca bine venită ca providențială.</p>
+<p>Elpida tăcu, privi la Ropotă cu sfială, roșie ca ceara de sigilat, apoi zise:</p>
+<p>- Sunteți foarte ciudat, d-le căpitan, în purtarea d-voastră față cu d-șoarele...</p>
+<p>— D-șoară, amorul e și mai ciudat. De nu v-aș fi cunoscut sentimentele, nu mi-aș fi permis... Nu e așa că mă iertați? Sunt tânăr pentru a avea dreptul de confident; am comis o infracțiune la legile modestiei...cu baioneta, ca un soldat... Frumusețea și generozitatea sunt însă un consiliu de război foarte grațios și iertător. D-voastră le aveți amândouă aceste calități; condamnați-mă cu prietenia d-voastră, iar nu cu mânia și voi fi mult mai tare pedepsit.</p>
+<p>Elpida îi întinse mâna c-un zâmbet amical. Căpitanul reușise în prima parte a planului său. Sfiala dispăru încetul cu încetul dintre Elpida și Ropotă. Acesta îi îndrugă apoi o mulțime de minciuni cu haz, amestecând ici și colo pe Teodor, ca să-i dea câte un fior. Elpida, uitând vârsta convorbitorului său, îi mărturisi, cu o simplitate neprefăcută, că iubea pe Teodor și că indiferența lui o făcea să sufere.</p>
+<p>— Fiți sigură, domnișoară, că veți primi mâine vizita lui și că...</p>
+<p>Intrarea d-nei Feloniadei curmă restul.</p>
+</div>
+<div type="chapter" n="12">
+<head>XIII</head>
+<p>Căpitanul plecând de la Feloniadi, așteptă să se facă orele 6 și alerga la birtul unde mânca Teodor.</p>
+<p>— Ascultă prietene, zise Ropotă după ce Teodor intră și se așeză lângă el. Crezi tu în trebuința d-a minți în unele împrejurări, și d-a juca un rol în care să prefaci, să arăți chiar aceea ce nu poți simți?</p>
+<p>— Se poate, căpitane. Depinde numai de omul care să se poată preface, să poată minți cu succes.</p>
+<p>— Nu trebuie de cât bună-voință, odată ce omul e inteligent; și ai destul de multă inteligență, prietene...</p>
+<p>— Eu! Da ce, îmi destini adică un rol, în condițiile ce-mi expuseși? întrebă Teodor cam cu nemulțumire.</p>
+<p>— În puterea prieteșugului, da, iubitulm meu amic, îi răspunse căpitanul — chiar cu riscul d-a te vedea contrariat, nemulțumit. Mă știi că îmi plac renghiurile, că le joc oamenilor fără voia mea adeseori și fără ajutorul amicilor mai totdeauna. De astă dată am trebuință de tine, dar absolută trebuință, mă înțelegi?</p>
+<p>— De ce e vorba, ca să scurtăm!</p>
+<p>— Ți-am spus mai deunăzi că o să joc un renghiu d-șoarei Elpida Feloniadi. Pentru aceasta trebuie să îi arăți că o iubești tu, amicul meu, da știi, c-o iubești la toartă...</p>
+<p>Iată un lucru de care te rog să mă dispensezi cu tot dinadinsul, răspunse Teodor cu seriozitate.</p>
+<p>- Ba o să faci bunătate să taci și să mă asculți ce am lucrat în socoteala ta — îi zise căpitanul, și îi istorisi foarte neted tot ce se întâmplase, între el și Elpida în aceeași zi.</p>
+<p>Teodor privi lung la el și c-un râs nu tocmai prietenesc.</p>
+<p>— Ești un caraghios periculos, căpitane, îi zise. Te amesteci în toate ca sarea în bucate, fără să fii trebuitor și gustos ca sarea întotdeauna. Așa făcuși cu Olimpia mea — dar o nimeriși cel puțin, pe când acuma...</p>
+<p>— Va să zică te-am servit — răspunse căpitanul — și o spui fără să ți-o aduc eu aminte. Foarte bine. Plătește-mi serviciul cu...
+-Cu o monedă foarte rară la mine căpitane, pentru că n-am tarapana invențiilor ce răsar din d-ta ca ciupercile, îi zise Teodor cu un ton acru. Eu să fac pe înamoratul la toartă, cu cine? Cu Elpida, care va lua farsa în serios și care cine știe unde mă va mâna?</p>
+<p>— În privința asta — luă vorba Ropotă, fii liniștit, prietene. Moralitatea ta nu va fi supusă nici unei ispite serioase. Un sărut două, și mai departe basta, pentru că am eu interesul să te oprești acolo!</p>
+<p>— Dar pentru ce scop toate fleacurile astea, frate, strigă Teodor scos afară din țâțâni.</p>
+<p>— Dă-mi voie să păstrez incognito acestui punct, până mai târziu. Prin urmare te învoiești, căci, să dai înapoi, mă compromiți și mă faci să fug din Brăila, prea degrabă.</p>
+<p>— Poți să mă lași până mâine ca să?...</p>
+<p>— Doamne ferește! Pentru mâine am făgăduit să dai prima reprezentație acestei gentile d-șoare.</p>
+<p>— Trebuie să țin mult la tine, căpitane, ca să mă învoiesc, o să fiu însă un actor de aceia care nu poate intra în pielea personajului ce reprezintă.</p>
+<p>— Tot va fi ceva, încheia Ropotă râzând.</p>
+<p>Mâncară fără să pronunțe vreo vorbă; Teodor neliniștit, nervos; căpitanul râzând pe sub mustăți de tulburarea lui Teodor.</p>
+<p>— Dac-ar afla Olimpia, aș fi nenorocit!  —zise deodată Teodor, pe când li se aducea cafeaua.</p>
+<p>— Olimpia e foarte nevinovată și apoi n-are de unde afla, căci a-ți închipui că aș înștiința-o eu, n-ar mai fi un renghiu ci o infamie — răspunse căpitan serios.</p>
+<p>— Mâine e Duminică...— murmură Teodor gânditor.</p>
+<p>— Asta se cheamă pe românește: colac peste pupăză — ceea ce se poate tălmăci și așa: întâmplarea ne favorizează de minune, căci îți lasă un câmp deschis. S-ar putea întâmpla să fie părinții la vreo vizită, și atunci...</p>
+<p>— Ah, al dracului mai ești!... exclamă Teodor, și, strângând mâna căpitanului, o luă repede înspre casă.</p>
+<p>Olimpia îl aștepta în odaia lui. Teodor uită încurcătura în care se afla când gingașa și încrezătoarea fată îl îmbrățișa și șe așeză lângă el ca lângă un frate. Și ce e drept, amorul lor luase calea intimității frățești, o intimitate dulce, fără aprinderi de sânge și declarații de amor patetice, fără strânsuri la piept zvăpăiate. Sărutările lor erau line, dar cu farmec; convorbirile lor erau liniștite, dar vesele, atingătoare de viitorul lor casnic, pe care-l așteptau cu răbdarea înțelepciunii și a traiului și pe care și-l reprezentau modest și trainic.</p>
+<p>Apoi, aceste întrevederi erau scurte, așa ca să nu se nască în cugetul bătrânii niscare va bănuieli necinstite. Bătrâna atât vedea că nepoată-sa nu se mai ducea acasă la părinți des ca mai înainte, și că, chiar când se ducea, întoarcerea la ea se întâmpla în seara aceleiași zile. Lucrul acesta o îmbucură căci îl punea în socoteala iubitei crescânde a nepoatei pentru dânsa.</p>
+<p>După un sfert de oră, Olimpia se îndreptă spre ușă zicând lui Teodor :</p>
+<p>— Dacă n-o fi prea târziu, când mătușica mă trimite să mă culc, o să viu să-ți zic noapte bună... și, făcându-i o reverență grațioasă, deschise ușa încet și ieși.</p>
+<p>Teodor, rămas singur, se puse să se gândească, la beleaua ce-i căzuse pe cap, și să plănuiacă intrarea în scenă, care era și greutatea cea mai mare. Pe urmă, putea el să ticluiască vorbe frumoase, de a căror putere de sentimentalism nu răspundea însă? Aceasta era, în sfârșit, opera momentului. Artiștii cei mai mari fac ce fac în repetiție; dar când se află în fața publicului, numai atunci, țâșnește scânteia geniului lor din ochi, din inimă, în mișcări și dau ceea ce se numește o creație a unui rol.</p>
+<p>Teodor nu era un artist, dar lăsă și el grija pe momentul din urmă, trudindu-și mintea numai cu debutul.</p>
+<p>Tocmai târziu se gândi la scopul căpitanului. După ce însă suci și răsuci chestiunea pe toate fețele ce putea el pipăi, își declină competența de a-l pricepe și adormi.</p>
+</div>
+<div type="chapter" n="13">
+<head>XVI</head>
+<p>D-na Feloniadi înțelesese că Elpida iubea pe Teodor. Fata fiind slăbiciunea mamei, mândria ei de aristocrată, cu tot alaiul de fumuri ce își da, și-ar fi plecat fruntea înaintea voinței Elpidei d-a lua de bărbat pe Teodor.</p>
+<p>Când căpitanul făptui nenorocirea de a spune la masă că Teodor iubește, D-na Feloniadi își întoarse pe loc privirile înspre căpitan, despre care cercetase pe d-na Pârjoleanu, ruda lui, și d-a căruia familie bună rămăsese mulțumită. Adunând la aceasta că spiritul glumeț al căpitanului încărcase de farmec pe d-na și d-nul Feloniadi — intenția cucoanei se explică și mai bine.</p>
+<p>Îi rămânea greul ăsta: a birui amorul Elpidei, a-i vindeca rana făcută în amorul ei propriu prin faptul că Teodor iubea pe alta, iar nu pe Elpida.</p>
+<p>În urma crizei nervoase ce cuprinsese pe fată, d-na Feloniadi cugetă și crezu că ghici cauza. Atunci se hotărâ să aibă o explicare cu Elpida, după vreo două sau trei zile.</p>
+<p>Fiind Duminică, a doua zi după vizita căpitanului, d-na și d-nul Feloniadi propusera Elpidei și Sofiei să facă o vizită împreună d-nei Pârjoleanu și apoi tovarășului casei Feloniadi, Micropolo.</p>
+<p>Elpida, care aștepta pe Teodor, răspunse că nu se simte destul de bine încă după criza din ziua precedentă. Sofia primi cu veselie. La orele 2 după amiază părinții plecară numai cu Sofia.</p>
+<p>Un sfert de oră în urmă, Teodor trase de cordonul clopoțelului.</p>
+<p>— Numai cuconița mai mare e acasă — îi răspunse portarul ieșind din odaia lui de la poartă. Dar dacă poftiți...</p>
+<p>— Întreabă pe cuconița dacă mă primește, că dacă nu, să mă întorc precum am venit.</p>
+<p>Câteva momente după aceea, Teodor era întrodus în salon și rugat să mai aștepte.</p>
+<p>Inima îi bătea tare, sub impresiunea stării curioase în care se afla persoana sa. Elpida, mai întârziind, era un bine pentru el, căci spera să aibă timpul a se stăpâni.</p>
+<p>Fata, pe altă parte, neîndoindu-se cât de puțin de sinceritatea și importanta acestei întrevederi, era cu adevărat turburată, palidă; emoția ei însă avea ceva plăcut.</p>
+<p>În sfârșit, dându-și încă o dată cu pămătuful o pojghiță de pudră rozalbă, intră în salon.</p>
+<p>— Îmi scuzați îndrăzneala stăruitoare de a vă vedea, domnișoară — începu Teodor vorba după un moment de codire.</p>
+<p>Vizita d-v. o pot primi eu tot atât de bine ca și părinții mei, d-le Teodor, și mai cu seamă pe a d-v. care nu sunteți om al etichetei și al deșertăciunilor, răspunse Elpida zâmbind și înaintându-i un scaun.</p>
+<p>— Aceasta-mi face o deosebită onoare, d-șoară, răspunse Teodor așezându-se.</p>
+<p>— După onoare o să vie... respectul, desigur, zise Elpida râzând și ducându-și mâna la piept ca să-și potolească palpitațiile.</p>
+<p>— Respectul, da, ca totdeauna, dar c-un... cortegiu de astă dată.</p>
+<p>— Funebru?... întrebă ea c-un râs nervos și cu mâna pe sân necurmat.</p>
+<p>— O, ce vorbă: — exclamă Teodor, al căruia glas, fără voia lui, tremura ușor. Schimbând apoi forma convorbirii, adăugase: știți, d-șoară Elpido, că sfatul d-v., din convorbirea noastră trecută, și-a dat...roadele ?</p>
+<p>— Care stat? întrebă Elpida care nu-și aducea aminte atunci.</p>
+<p>— Că... față cu sexul frumos lipsa de atenție poate fi luată foarte rău... Nu era, atunci ca și acum, o lipsă de atenție, — urmă Teodor, — ci... Se opri acolo. Rolul îi era anevoios.</p>
+<p>Elpida aștepta cu o nerăbdare nervoasă, privind în jos și înroșindu-se.</p>
+<p>— Să vedeți, d-șoară, eu mă consideram ca sărac de calități față cu d-voastră, și fără avere cum sunt, supus iarăși unei noi inegalități... Timiditatea, proprie firii mele, se accentua și mai tare față cu d-voastră și-mi impunea tăcere fără margini, sau cel puțin o ezitare de câtva timp... oarecare... sentimentele, care... dulci sunt inimilor tinere... când ele încep a rodi in noi...</p>
+<p>Se ridică și se apropie de Elpida, șoptindu-i;</p>
+<p>— Înțelegi acum rezerva amorului meu? Pentru că... vă iubesc, d-șoară... cu toată ardoarea vârstei mele, cu tot devotamentul sufletului meu...</p>
+<p>Elpida ridică ochii spre el, emoționată adânc și c-un zâmbet de mulțumire pe buze, care da fiori în inima lui Teodor.</p>
+<p>Ciudată simțire! Lângă Olimpia simțea plăcerea care îmbăta inima, ceva binefăcător, o impresie asemenea aceleia ce încearcă un bolnav când respiră aerul curat și când căldura ușurică a soarelui, cu lumina lui limpede și vie, îi dă adevărata cunoștință de viață și de adevăratul ei preț.</p>
+<p>Lângă Elpida simțea dimpotrivă acea plăcere ce ațâță coardele senzuale. Dintr-însa se împrăștia un parfum delicios, dar tare, ca al crinului, și ca această floare Elpida își înălța spre ochii lui frumusețea ei mândră, corpul ei voluptos, ființa ei întreagă, poleită cu toate acele mișcări calculate ce compun cochetăria sau grațiile dobândite, iar nu născute cu ea deodată.</p>
+<p>Până la un punct, expresiunea figurii lui Teodor și cuvintele ce pronunțase arătau destulă sinceritate și căldură.</p>
+<p>— Și eu te iubesc, Teodore, răspunse Elpida.</p>
+<p>Iar ochii săi trimiteau niște vii curenți electrici în ochii lui Teodor, aplecat spre umărul ei</p>
+<p>Mâinele lor se întâlniră pe nesimțite și se strânseră tremurând.</p>
+<p>— M-ai făcut așa de fericită! — pronunță ea c-o dulceață și o slăbiciune în glas care trăda slăbiciunea sufletului și moleșirea corpului.</p>
+<p>Enervat, Teodor răspunse:</p>
+<p>— Ce simt și eu, e nespus de plăcut Elpido!..</p>
+<p>Închipuirea aprinsă a Elpidei ar fi dus-o departe. Pieptul i se bătea cu furie; tâmplele începusera a-i zvâcni; fața i se înroșise de mult, sânge fierbinte ce i se urca spre cap; deja un tremur nervos foarte vădit îi cuprindea brațele și picioarele.</p>
+<p>Când însă buzele lui Teodor se lipiră d-ale ei, tânărul nostru amic tresări, își duse mâna la frunte, își aminti că poziția lui era falsă, că a abuza de slăbiciunea Elpidei era o crimă ce n-ar fi putut-o repara fără sacrificiul de a pierde pe Olimpia, și se dăduse la o parte, deși foarte aprins și el.</p>
+<p>Elpida se ridică atunci ca deșteptată dintr-un vis și privi lung la Teodor.</p>
+<p>— Iți mulțumesc — îi șopti ea după câteva momente, ca și cum judecase ce putuse să se întâmple. Ești un om de inimă. Te voi iubi însutit!..</p>
+<p>Zicând, îi întinse mâna.</p>
+<p>— Ești un înger — îi răspunse el sărutându-i mâna. La revedere !... îmi dai voie?...</p>
+<p>— Nu mai fi ceremonios. La revedere, dar pe curând... mâine... nu-i așa?</p>
+<p>— Da, da... răspunse el grăbit.</p>
+<p>Elpida îl conduse până în curte. Reîntorcându-se în camera ei, căzu pe gânduri. I se păruse că Teodor a plecat cu răceală.</p>
+<p>De partea sa, asudat, Teodor respiră lung, de cum se afla în stradă.</p>
+<p>— Aceasta fu un chin de martir! — murmură el. L-aș vrea pe căpitan o dată măcar în poziția mea. Sper însă că și cu mine gluma se va mărgini aici. Să vedem însă cum se va isprăvi comedia.</p>
+<p>La orele 6 se întâlni cu căpitanul la birt.</p>
+</div>
+<div type="chapter" n="14">
+<head>XIII</head>
+<p>După ce Teodor povesti căpitanului isprava sa cu Elpida, luă vorba.</p>
+<p>— Te-ai purtat minunat de bine, prietene... Teamă îmi e însă că ne-am jucat cu focul și că n-o să-mi pot ajunge la scop.</p>
+<p>— Scopul nu ți—l cunosc cu toate acestea te pot întreba: de ce te temi a nu-l ajunge?</p>
+<p>— Pentru că inima femeiească e fără fund și prin urmare n-o poți cunoaște niciodată decât prin ipoteze. Eu voiam, Teodore dragă, să mulțumesc ambiția Elpidiei de a se ști iubită de tine, crezând că apoi te va pune la regulă cu răceala, cu disprețul ei, ca să zic așa.</p>
+<p>— Adică, voiai să-i procuri o răzbunare? zise Teodor râzând.</p>
+<p>— Da, și răzbunarea terminată, să nu mai aibă cu tine nici în clin, nici în mânecă. Deci mă tem, precum îți spuneam, ca nu cumva dânsa să-și ia în serios rolul de amorezată și să te iubească până la intenția de a se căsători cu tine.</p>
+<p>— Și beneficiul tău din toată această scenă de carnaval? întrebă Teodor cu un zâmbet curios.</p>
+<p>— L-ai înțeles pe departe; eu să ți-l explic mai d-aproape. Mi-am pus ochiul pe ea și averea ei bunicică. Nesatisfăcându-și ambiția ei, sau mai bine neavând puterea și mijloacele d-a se răzbună de indiferența ta, Elpida ar fi continuat să te iubească, și e firesc lucru. Părinții dându-mi-o în astfel de surescitație, d-șoara își ar fi luat un aer de maritată față cu mine, ceea ce mi-ar fi ațâțat nervii. Înțelegi, dar mecanismul, făcu Ropotă râzând și sorbind ca o picătură un pahar de vin roșu ca sângele.</p>
+<p>— Îl înțeleg și acum pot să-ți spun că mă tem și eu de vreo încurcătură serioasă. Elpida a fost prea sentimentală, răspunse Teodor c-un aer nemulțumit, îngrijorat.</p>
+<p>— În sfârșit, n-aș.... pierde tocmai mult.</p>
+<p>— D-tale, așa e, nu-ți pasă de pierdere... Dar eu, ce mă fac? Mi-a zis cu cel mai călduros ton să mă duc și mâine pe acolo.</p>
+<p>— Trebuie să te duci, răspunse căpitanul. Și încă, uite cum ar trebui să faci. Scrie-i cam așa: Vizitele dese ar da de gândire părinților d-tale. Ne vom vedea nopțile numai între 12 și 1.</p>
+<p>— Ba să mă ierți! strigă Tendor. Până aici !.. Mă duc poimâine pentru cea din urmă oară, și... basta. Atât e tot ce mai pot pentru renghiurile d-tale. Teodor nu mai râdea; tonul său era hotărâtor și energic.</p>
+<p>Bine, răspunse căpitanul, mă învoiesc.</p>
+<p>Astfel se despărțiră.</p>
+<p>În ziua următoare Elpida așteptă pe Teodor în salon. Seara fu pentru dânsa plină de neodihnă și tristețe. Pe urmă, caracterul său iute trecând înaintea sentimentului dragostei, ea fu cuprinsă de o mânie strașnică. Ar fi trimis acasă la Teodor, dacă ar fi știut bine unde șade. Liniștindu-se, începu a da lui Teodor dreptate, atribuind vreo cauză puternică nevenirii lui, și adormi cu surâsul pe buze gândindu-se la dânsul.</p>
+<p>A doua zi, pe la 7 ore seara Teodor veni. Familia era asupra mesei. Vizita lui fu dată numai de vreo 15 minute. Privirea Elpidei era cât se poate de galeșă și dulce, ațintindu-se asupra lui, iar tresăriturile nervoase ale brațelor și palpitațiile pieptului ei voluptos arătau nerabdarea sufletului ei d-a vorbi, cât mai degrabă în taină și măcar două momente, lui Teodor.</p>
+<p>El, neapărat că fu invitat la masă de către părinții aceleia ce-l iubea. Pretextând ca și-a dat cuvântul a se întâlni c-o rudă ce descoperise că are în Brăila, Teodor se scuză și se retrase. Elpida îl însoți până afară.</p>
+<p>— Te iubesc! Îi șopti ea cu patimă și-i întinse buzele.</p>
+<p>— Iată o glumă rău brodită! — își zise el, când fu în stradă. Elpida mă iubește cu tot dinadinsul. Ce minte am avut eu de m-am potrivit nebunului de căpitan! Adăugase Teodor cu ciudă. Ei, dar lasă; i-o fi acum și cea dintâi și cea de pe urmă.</p>
+<p>Trecuse vreo lună de la acestea; în care timp nici căpitanul, nici Teodor nu se arătase prin casa familiei Feloniadi.</p>
+<p>Elpida devenise tristă acum, tăcută, dar liniștită. Nu-și putuse explica atunci pricina repedei răceli a lui Teodor, plânsese, se certase cu mama sa, certase pe soră-sa, mai spărsese câte ceva; pe urmă mândria i se ivise între amor și Teodor și nu căutase nici de cum să-l readucă scriindu-i.</p>
+<p>Cu toate acestea, cedând unei stăruințe tainice a cugetului său, puse pe un servitor să cerceteze de nu avea el cumva altă legătură. Știrea ce primi că se află sub același acoperamânt cu Teodor o fată frumoasă, revoltă pe Elpida, o făcu să sufere, dar pe urmă să se potolească la ideea că tot fusese iubită de el, că tot nu putuse el rezista farmecelor sale, că în sfârșit, își răzbunase puțin de indiferența lui.</p>
+<p>Nu-i venea tocmai de tot bine ori de câte ori cugeta la el și la amorul lui c-o altă fată, însă n-avea ce să facă.</p>
+<p>După o lună, după cum am spus, o regăsim tristă, nevorbitoare ca altă dată, dar liniștită. Ii plăcea parcă mai mult singurătatea. Sta adesea ori îndelungă vreme, pe gânduri, fără să-și dea bine seamă însă la ce anume se gândea.</p>
+<p>Din norocire iarna începuse, seratele trebuiau să-și ia și ele rostul; era să fie iarăși înconjurată, lingușită, adorată. Plictiseala era să facă loc trecerii de timp în mod plăcut; tristețea, veselia; — afară numai dacă amorul ei nu se află cumva în starea cărbunilor sub spuză, gata să ardă, de îndată ce-ar fi întâlnit pe Teodor.</p>
+<p>Aceasta vom vedea-o.</p>
+<p>De partea lui, Teodor uitase sau părea că uitase încurcătura. El petrecea serile cu Olimpia și familia ei, pentru care amorul lor nu mai era o taină. Căsătoria amândurora devenise acuma numai o chestiune de timp; și cum de acasă Teodor primise știrea veselă că sora lui se logodise cu un comerciant, și chestiunea timpului ajunsese a fi căpătuită.</p>
+<p>Căpitanul Ropotă nu stătuse iarăși în trândăvie. El poftea pe camarazii lui de arme și pe câțiva din cunoscuții civili, la o mică vânătoare pe insula din fața Brăilei, numită: Baltă.</p>
+<p>Vânătoarea își avea partea ei caraghioasă, pregătită și rumegată de căpitan întâlnirea vânătorilor se hotărâse la Ropotă acasă, și tot la el masa de seară, după întoarcere, cu becațele, sitarii, și iepurii ce ar fi vânat.</p>
+<p>În ziua întâi de Noiembrie, cu vreun ceas înainte d-a se lumina de ziuă, mădularele acestei partide de vânătoare începură să se adune.</p>
+<p>Vasile, ordonanța căpitanului intră în casă îndată după fiecare persoană sosită.</p>
+<p>Căpitanul, făcea ce făcea și lua geanta pe ținând, la toți vânătorii, apoi pușca si le da lui Vasile.</p>
+<p>Acesta ieșea cu ele pe nevăzute, pe nesimțite, trecea în odaia lui și, după o zăbavă de 5 sau 10 minute, se întorcea și le punea în cuier în sală, fiecare pușcă cu geanta într-un același cui.</p>
+<p>Nici cel din urmă sosit nu putu scăpa de această procedare a căpitanului și a ordonanței sale.</p>
+<p>După ce dăduse pe gât câte două păhăruțe de mastică, sau coniac, vânătorii trecură în sală, își luară gențile și puștile, apoi plecară. În port îi așteptau două bărci mari. Era frig, dar senin, și cele din urmă stele, d-un alb strălucitor, se pregăteau să se ascundă în nemărginirea spațiului. Suma vânătorilor era egală cu numărul unităților ce se cuprind în cifra 9. Vreo cinci ogari și prepelicari îi însoțeau.</p>
+<p>Dunărea curgea liniștită și cu o culoare cum e a oțelului, la această oră. Peste câteva momente, se auzea zgomotul vâslelor și gurile vânătorilor: a căpitanului care îndruga verzi și uscate și a însoțitorilor săi, care râdeau din toată inima.</p>
+<p>Un roșu înfocat învăpăia zarea și creștetul munților, când bărcile se opriră la țărmul insulei.</p>
+<p>Vânătorii săriră cu ușurință: mai dară pe gât câte o sorbitură de zeamă spirtoasă și începură să înainteze împrăștiați.</p>
+<p>Unul din civili, zărind un iepure, puse pușca la ochi și... tranc! Nu răsună însă decât pocnitura capsei.</p>
+<p>— Ce dracu! — strigă el oprindu-se. Ce a pățit pușca mea?</p>
+<p>În timp ce el se uita c-un aer ciudat la armă, unul dintre militari, voia să tragă în niște becațe. Se apropia punându-și pușca la ochi. Dar și pușca lui păli ca a civilului.</p>
+<p>— Ciudat, făcu militarii — eu am încărcat-o singur, și iarba era uscată cum trebuie!</p>
+<p>Căpitanul Ropotă, pe buzele căruia trecuse un zâmbet curios, se amestecă în vorbă.</p>
+<p>— Uitați c-ați trecut Dunărea și că puștile vor fi căpătat guturai, din pricina igrasiei, zise el c-un aer serios ce te făcea să râzi.</p>
+<p>În timpul acesta se auzi o altă împușcătură, căreia-i urmară alte două deodată; și imediat trei înjurături surugiești...</p>
+<p>— Auzi? făcu căpitanul, vorbind celor doi pățiți de lângă el — au mai pățit-o și boierii de acolo... Igrasia, igrasia,— adăugă el și se depărtă.</p>
+<p>După câțiva pași făcu foc. Un iepure rămase locului, iar câinii îl apucară.</p>
+<p>— Ce fel, căpitan? întrebă în batjocoră unul dintre cei doi dintâi — pușca dumitale nu suferă de guturai? N-a prins igrasie?</p>
+<p>— Nu, pentru că i-am ținut basmaua la nas, răspunse foarte serios Ropotă, și, luând iepurele de jos, îl dăduse nedespărțitului său soldat.</p>
+<p>Când căutară în geantă ca să vadă ce fel de iarbă aveau, o găsiră prea mare la bob, cu totul alta de cum știau că-și pusesera ei în geantă, iar elicele dispărute.</p>
+<p>— Dar nu vedeți că e păsat? Strigă unul dintre militari, care spărsese un bob între dinți.</p>
+<p>— Păsat? Dar de ce? Cum? Ce fel? Exclamară vânătorii cu mirare.</p>
+<p>— A, pricep! Făcu unul dintre civili. De aceea ne lua Ropotă gențile și puștile și le da ordonanței lui... Nu vedeți, prietenilor că asta miroase a păcăleală din partea lui Ropotă?</p>
+<p>Unii râseră, alți bombăniră. Tuturor nu le venea la îndemână.</p>
+<p>— Așa dar trebuie să ne întoarcem! zise unul.</p>
+<p>— Nu — răspunse Ropotă, căci iarba cea bună și alicele sunt la soldatul meu. Vasile! — strigă el — adă boierilor ce trebuie, știi tu.</p>
+<p>— Are cap căpitanul — strigă un civil. De ne-am fi întors înapoi din pricina păsatului, gluma și-ar fi pierdut hazul și spiritul.</p>
+</div>
+<div type="chapter" n="15">
+<head>XVIII</head>
+<p>Câteva zile după această întâmplare, un locotenent invită la un ospăț intim, între alții, și pe căpitanul Ropotă.</p>
+<p>Erau toți mesenii deja, dar nu se puteau pune la masă, pentru că Ropotă nu mai venea. Deodată ușa se deschise repede și căpitanul intră urmat de un argat ce aducea în brațe un borcan mare de pământ.</p>
+<p>— Pune-l aici, pe masă — îi zise Ropotă răstit. Așa; acu, dos la față și șterge-o învățându-te minte să nu mai uiți altădată unde șez eu... Spune mulțumiri stăpânului tău.</p>
+<p>Argatul ieși.</p>
+<p>— Da ce-i acolo? Întrebau mesenii.</p>
+<p>— Ce să fie? Niște icre negre moi, proaspete și bune de-o să vă lingeți degetele. Toarnă icrele în farfurii, soldat — se adresă Ropotă, ordonanței locotenentului.</p>
+<p>Cum le căpătase? Printr-o întâmplare foarte simplă. Pe când trecea pe bulevard ca să vină la locotenentul Mihai Feu, se pomenește cu un om oprindu-l în cale.</p>
+<p>— Mă rog d-tale, d-le ofițer, — i se adresă creștinul — citește aici și spune-mi în ce loc, la care casă stă domnul care e scris pe hârtia asta, c-am să-i duc niște icre negre d-ale moi.</p>
+<p>Căpitanul Ropotă luă hârtia, o citi, apoi deodată trânti o palmă creștinului.</p>
+<p>— Măgarule, îi strigă el răstit; nu vezi că despre mine e vorba și eu stau aici pe bulevard — adică, uite, pe ulița asta de lângă bulevard!</p>
+<p>— D-ta? Exclamă argatul rămânând cu gura căscată... D-nu nu mi-a spus că ești ofițer.</p>
+<p>— E scris pe hârtie, dobitocule.</p>
+<p>— Apoi dacă e scris pe hârtie, așa e....</p>
+<p>- Vino după mine, să-mi duci borcanul acasă. Și zici că-s proaspete?</p>
+<p>— Proaspete d-le. Am vârât un deget în ele mai adineaori, răspunse argatul râzând.</p>
+<p>Căpitanul se făcu că n-aude și intră, precum l-am văzut, în casa locotenentului.</p>
+<p>Când le istorisi Ropotă cum căpătase icrele, toți începură să râdă și să-l felicite.</p>
+<p>— M-am gândit — încheia căpitanul expunerea să vă fac o surprindere cu acest dar moale și gustos, de îndată ce-am văzut că neghiobul poate fi tras pe sfoară. Astfel,am pus întâmplarea pe calupul meu, și iată-ne în poziția d-a ne căptuși bine stomacul. Asalt, d-lor acestor ouă de morun!..</p>
+<p>— Trăiscă căpitanul, strigară tinerii ciocnind paharele de țuică bătrână — moarte icrelor! Asaltul ținu de la 12 ore ziua până la 10 ore seara. Icre, mezeluri, pui fripți și plăcinte fură făcute prizoniere și înhăpate cu o poftă monstruoasă. Sticlele zăceau fără suflare prin toate colțurile, căci vechiul lor conținut fusese supt fără milă, dispărând ca în niște buți fără fund.</p>
+<p>Căpitanul, cum îi șade bine românului, declarase amor înfocat unei cadre ce reprezintă o femeie ieșind din baie, și plecase cu convingerea că majoritatea fiicelor Evei erau tot așa de goale la moral ca și femeia căreia ce ieșea din baie, la corp.</p>
+<p>A doua zi după ce-și termină treburile la cazarmă, se gândi, între altele, și la Elpida.</p>
+<p>— Sper că i-am lăsat destul timp ca să se răcorească și că putem găsi momentul nimerit a ne încerca norocul, își zise el și se hotărî să dea o vizită familiei Feloniadi în aceeași zi chiar.</p>
+<p>După orele două, Ropotă se da jos din trăsură și intră în salon, unde se afla familia împreună cu câțiva musafiri.</p>
+<p>— Crai nou! strigă d-na Feloniadi de cum îl văzu intrând pe ușă, și, întinzându-i mâna în cel mai prietenesc fel, îl prezentă.</p>
+<p>După ce-și declară numele înaintea tuturor persoanelor prezente, se opri înaintea Elpidei care părea nu prea în rezervă față cu un tânăr domn ce-i vorbea.</p>
+<p>— D-șoară Feloniadi, — i se adresă Ropotă, sunt prea fericit că vă pot prezenta omagiile mele, măgulindu-mă cu speranța că vor fi primite de d-voastră cu aceeași bună voință ca totdeauna.</p>
+<p>Elpida îi întinse mâna zâmbindu-i cu răceală.</p>
+<p>— Desigur că voi avea deosebită plăcere să aflu că ați fost bine, voioasă, urmă Ropotă.</p>
+<p>— Da, mulțumesc d-le căpitan, am fost bine, — răspunse ea cu un aer care, arătă cam pe față nemulțumirea d-a vorbi cu el și dorința d-a fi lăsată în pace.</p>
+<p>Ropotă simți. Se așeză însă lângă ea și răspunse indiferenței ce i se arăta printr-o indiferență foarte bine alcătuită.</p>
+<p>— Am auzit de isprava d-tale când cu vânătoarea — îi zise d-na Feloniadi râzând. Știi că ești un mare ghiduș, căpitane?</p>
+<p>— Bunătatea d-voastră, d-nă, făcu căpitanul cu un aer de modestie comic. Fac și cu ce pot ca să-mi distrez prietenii.</p>
+<p>— Distrându-vă înșivă pe socoteala lor — zise Elpida cu sarcasm. </p>
+<p>— O, de multe ori o fac și pe socoteala mea, d-șoară, căci nu sunt tocmai egoist pe cât mi s-ar putea atribui.</p>
+<p>— Aș dori mult să fim și noi victimele unei feste d-ale d-tale, — zise d-na Feloniadi;</p>
+<p>— Bucuros, răspunse Ropotă. Plănuisem Chiar să-mi iau asemenea îndrăzneală și fără permisiunea d-voastră; nu așteptam decât o ocazie nimerită.</p>
+<p>— Așa?... făcu d-na Feloniadi râzând.</p>
+<p>— Da. Prin urmare n-aveți decât să așteptați, răspunse Ropotă.</p>
+<p>— închipuiți-vă — luă vorba d-nul Conduriotti, unul din musafiri, — că mi-a jucat și mie o festă, nu știu cine, și nu mai departe decât ieri seara. Trimisesem niște icre moi negre unui prieten. Argatul meu, cam prost, nu nimerea la adresă și întrebă pe un ofițer unde stă acela al cărui nume l-avea scris pe-o hârtie.</p>
+<p>— A, dumneavoastră ați fost trimițătorul? întrebă Ropotă ridicându-se și salutând pe Conduriotti. Primiți atunci chitanță verbală de ajungerea icrelor în mâna mea.</p>
+<p>— Ce fel, d-voastră ați fost, d-le căpitan, care?...</p>
+<p>— În persoană, d-le Conduriotti, spre marea d-voastră nemulțumire. Oricum, vă mulțumesc; icrele au fost nemărginit de bune.</p>
+<p>— Patru oca și jumătate!... exclamă Conduriotti.</p>
+<p>— O fi fost, că arătau... N-a mai rămas un bob ușor, zise căpitanul râzând.</p>
+<p>— Cum asta? Spune-ne și nouă — grăi d-na Feloniadi.</p>
+<p>Căpitanul istorisi întâmplarea; pe urmă trecu la alte feste ce jucase p-acasă și în orașele pe unde trecuse.</p>
+<p>Elpida privea la dânsul cu interes.</p>
+<p>Era sub farmecul vervei și spiritului său glumeț, ea, ca și toți ceilalți; ea însă mai curând decât ceilalți, se desfăcu de impresia simțită de îndată ce căpitanul plecă și fu singură în camera ei.</p>
+<p>Nu uitase încă pe Teodor. Ba încă, auzind pe tată-său spunând că Teodor era să se logodească cu d-șoara Olimpia Papa-Mihali se gândea toată ziua la el, și chiar avuse un moment ideea să facă a se strica planurile lui Teodor. Această idee i se mai ivea din când în când, dar nu se putea hotărâ să caute a o pune în fapt.</p>
+<p>Era în ziua de lăsat de sec a postului de Crăciun. Familia Feloniadi primise din ajun un bilet de la d. Conduriolti, prin care era invitată să lase sec împreună cu familia lui și cu mai mulți prieteni. Pe la 7 ore seara Feloniadi cu femeia și fetele porniră spre strada Frumoasă, unde se afla locuința lui Conduriotti.</p>
+<p>Când ajunseră, poarta era închisă și casa în întuneric.</p>
+<p>— Ce dracu, — zise Feloniadi, — poarta închisă! Casa neluminată! Ia sună, mă — îi strigă feciorului de pe capră — ca să vedem ce comedie e asta!</p>
+<p>Feciorul sări și sună. Un servitor alergă în goană. Văzând cine e în cupeu:</p>
+<p>— Iaca — făcu el — boierii noștrii s-au dus la d-voastră!...</p>
+<p>— Cum, la noi? strigă Feloniadi mirat.</p>
+<p>— Mare comedie! exclamă cucoana supărată. '</p>
+<p>— Întoarce și mână înapoi acasă! — porunci Feloniadi, răstit. Se mâniase.</p>
+<p>Vizitiul întoarse și porni repede. La colțul străzii fu silit să stea ca să lase loc unui alt cupeu. Era cupeul familiei Conduriotti.</p>
+<p>— Iacă d-nul Conduriotti — șopti feciorul, vizitiului.</p>
+<p> Și Feloniadi îl zărise la lumina felinarului. Deschizând ușa de partea cupeului care intră în stradă, făcu semn vizitiului să oprească și sări de merse la portița aceluia.</p>
+<p>Conduriotti îl văzu și o deschise.</p>
+<p>— Ați fost la noi, frate? întrebă Feloniadi.</p>
+<p>— Și d-voastră la noi! răspunse Conduriotti râzând.</p>
+<p>— E o păcăleală, nu-i așa? Dar a cui? zise Feloniadi cu necaz,</p>
+<p>— Păcăleală?! făcu d-na,Feloniadi. Nu vă mai bateți capu, căci am priceput cine ne-a păcălit. E căpitanul Ropotă.</p>
+<p>— Ropotă ? făcură toți cu mirare.</p>
+<p>Apoi izbucniră într-un hohot de râs.</p>
+<p>Amândouă familiile nemâncate, se despărțiră ca să se ducă să mănânce fiecare pe acasă și ce vor putea pregăti în grabă.</p>
+<p>— Vezi, mamă, luă vorba Elpida, ai vrut să fii păcălită și ai fost. Căpitanul și-a ținut cuvântul.</p>
+<p>— Frumoasă păcăleală, făcu Feloniadi, să nu las sec cum trebuie...</p>
+<p>— Tocmai aici e hazul, răspunse d-na Feloniadi râzând.</p>
+</div>
+<div type="chapter" n="16">
+<head>XIX</head>
+<p>Câteva zile după aceasta, d-șoara Elpida Feloniadi primi o scrisoare de la căpitanul Ropotă. Abia o deschise de văzu iscălitura și simți o roșeață caldă cuprinzându-i fața.</p>
+<p>— Ce poate să-mi scrie el mie? se întrebă ea și citi:</p>
+<p>187... Noiembrie</p>
+<p>„Încântătoare Domnișoară,</p>
+<p>„V-aduceți aminte de frumosul rol de confident ce am jucat față de d-voastră într-o împrejurare oarecare? Rolul a fost foarte serios, deși persoana mea e luată de lume ca foarte glumeață. Aș dori însă ca de astă-dată să fiu considerat ca orice om care iubește cu tot dinadinsul, pentru că iubesc, d-șoară, serios, foarte serios, și pentru că obiectul adorării mele sunteți d-voastră</p>
+<p>„Vă va fi părând cam curios, poate, îmi permiteți atunci să vă întreb: de ce? Un căpitan ca mine să nu fi având inimă adică decât pentru țară, și altă plăcere decât pentru ghidușii? Vă înșelați. Devotatul d-voastră amic are o inimă cu toate coardele, are plăcerea înfocată d-a vă deschide un loc de predilecție într-însa și în cugetele sale de toată ziua. Nădăjduiesc că amorul d-voastră propriu și demna mândrie de rasă, ce vă caracteriza atât de bine, au înțeles pe deplin ce le rămâne să facă în urma purtării.. .unui oarecare muritor nestatornic. Nu-mi ofiliți dar speranțele cu bruma indiferenței dumneavoastră sceptice. Scepticismul e bun pentru aceia cărora viața nu le mai poate oferi nimica de plăcut; unei frumuseți regale ca a d-voastră viața poate da toate comorile sale de mulțumiri. Faceți-mă adjutantul d-voastră, regină iubită a visurilor mele.“</p>
+<p>Căpitan Ropotă din reg... de linie</p>
+<p>Năravul din fire al căpitanului, gluma, nu putuse să nu coloreze ici și colo această scrisoare, care avea, oricum, câteva grade de căldură și de la care dânsul se așteptă să facă o bună înrâuire asupra Elpidei.</p>
+<p>Dânsa, zâmbi întâi, dar apoi deveni serioasă și ca atinsă de îndrăzneala căpitanului; mai mult însă de felul în care-i scria el.</p>
+<p>Mai citi o dată scrisoarea, se preumblă apoi prin camera, scufundată în gânduri și, lungindu-se pe o mică sofa, își zise:</p>
+<p>— Adică de ce nu m-aș mărită — nu zic numai decât cu căpitanul — ci cu vreun tânăr care să-mi placă?... Cu aceasta a-și da să înțeleagă lui Teodor, că purtarea lui nu m-a atins într-atât de mult... încât el, ori altul, mi-a fost totuna.</p>
+<p>Își zicea acestea, dar în ochii săi luceau niște scântei foarte vii de necaz pe Teodor. Nu putea să-i ierte, nici de fel, c-a părăsit-o pentru alta, și la cât timp? abia după o lună de când îi mărturisise că moare după ea.</p>
+<p>— Da, mi-i ciudă pe el!... L-aș pălmui, de s-ar alia în fața mea acuma... Tocmai pentru asta trebuie să-i arăt că nu l-am iubit...da; o să fac s-ajungă la urechile lui că l-am încurajat să-mi spună că mă iubește, numai pentru a-mi răzbună de indiferenta lui de altădată, numai pentru a-l face să aducă omagii frumuseții mele...Așa, așa o să fac! strigă Elpida sărind și cu zâmbetul răzbunării împlinite pe buzele-i rumene.</p>
+<p>Atunci văzu scrisoarea căpitanului jos. Căzuse când ea se culcase pe sofa. Elpida o ridică, o citi din nou și urmă a-și zice :</p>
+<p>- În adevăr, caracterul vesel al căpitanului îmi place. De familie bună este, cu viitor frumos ca militar... Poate ajunge general peste câțiva ani... N-o să răspund scrisorii lui, dar o să... Ei, lasă că știu eu cum să fac; mă pricep și eu puțin.</p>
+<p>Când căpitanul veni la vizită, în urma acestei scrisori fără să priceapă pentru ce, se simți cam încurcat un moment văzându-se înaintea Elpidei.</p>
+<p>Recurgând iute însă la puterea sa de stăpânire și la aerul său ștrengăresc, înnodă numai decât firul convorbirii; iar cu privirea începu să întrebe tainic și necurmat pe Elpida de efectul scrisorii lui.</p>
+<p>D-șoara Feloniadi avu tăria să-i rabde privirile, care păreau foarte rugătoare și aprinse, și să vorbească cu el ca și cum nu primise nimic de la el, ca și cum nu înțelegea ce rost avea acele ocheade. Dar când rămase singură cu Ropotă, și-l văzu ridicându-se și venind lângă dânsa, nu se mai putu ține. Zâmbind îi zise dar:</p>
+<p>— Găsesc că aveți un aer foarte ciudat, d-le căpitan... Mă faceți să râd.</p>
+<p>— Mă simt fericit că vă pot procură această veselie, pe socoteala mea. Ea provine, desigur, din pricina serioaselor și înfocatelor rânduri ce am avut deosebita îndrăzneală să vă adresez — răspunse Ropotă c-un ton respectuos.</p>
+<p>Eu l-aș fi luat mai mult ca batjocoritor. Elpida îl privi c-o sfială prefăcută.</p>
+<p>— Da, am primit o scrisoare din partea d-voastră și m-am mirat prea mult.</p>
+<p>— Adică, drept vorbind, ați avut dreptatea să vă mirați. Nu era de trebuință, odată ce puteam să vă spun din gură sentimentele așternute în scris.</p>
+<p>Elpida își mușcă buzele și aerul ei luă nuanța contrarietății.</p>
+<p>Căpitanul văzând aceasta, se grăbi să urmeze :</p>
+<p>— Fără pregetare, d-șoară, și iată de ce, înțelegeți... Ceea ce se scrie, oricât de bine ar fi gândit și exprimat prin scriere, nu poate avea focul și harul graiului. Intenția mea însă, scriindu-vă, era să vă pregătesc pentru evenimentul mare ce plănuiam să urmeze scrisorii. Vă iubesc, d-ră Elpida, și vă întreb dacă, în caz când părinții d-voastră ar voi, mi-ați da și d-v. mâna cu oarecare bunăvoință mai deosebită decât un altuia.</p>
+<p>— De ce aceasta? Ca amorul d-voastră propriu să fie mulțumit? întrebă cu ironie Elpida.</p>
+<p>— Nu amorul meu propriu, d-șoară, ci iubirea ce simt pentru d-voastră să se vadă răsplătită oarecum și sufletește, răspunse Ropotă înclinându-se cu curtenie.</p>
+<p>— Atunci, află d-le căpitan că... nu-mi displaci, zise Elpida cu simplicitate și-i întinse mâna.</p>
+<p>— O, acest răspuns e culmea așteptării mele, scumpă D-șoară Elpidă; și dintr-o ură așa de frumoasă prețuiește înmiit de mult! exclamă căpitanul sărutând cu aprindere mâna albă și drăguță a fetei.</p>
+<p>Căpitanul n-o iubea cu patima tinereții. O plăcea însă; o dorea ca pe ceva neavut încă. Ideea de căsnicie cu o fată frumoasă și bogată avea pentru el farmecul ce are un fel de bucate de curând descoperit, pentru un gastronom care a uzat și-a abuzat de toate celelalte gustate și de altă lume.</p>
+<p>Elpida credea în acest amor și era mândră de el, mulțumită de sine și de măgulirile căpitanului, care-i mergeau drept la inimă.</p>
+<p>Amorul său propriu era satisfăcut pe deoparte; și pe de alta apoi tot era să se mărite odată c-un om.</p>
+<p>Intrând, în camera ei în seara aceea și  lungindu-se sub plapumă, începu să examineze cu amănunțime calitățile fizice ale viitorului său bărbat.</p>
+<p>Căpitanul Ropotă era înalt cât un stejar și bine făcut. Sub o frunte mare, încoronată de un păr negru lucitor, tăiat mărunt, se plimbau în orbitele lor mari și lungărețe niște ochi negri, vioi, pătrunzători și care luau cu ușurință expresia ce voia căpitanul. Nasul cădea drept și în proporția cu figura lui, aproape rotundă, pe o gură cam mare, defect mai de tot neluat în seamă din pricina mustăților lui lungi, groase și mătăsoase. Sub buza dedesubt purta ceea ce bărbierii numesc muscă. Genele-i erau mici, dar sprâncenele negre, mari și aproape înclinate.</p>
+<p>Fața lui avea însă o paloare mată, care dacă nu-l făcea urât, dar micșoră frumusețea lui bărbătească. Mersul îi era cadentat; corpul îl ținea drept, dar nu bățos.</p>
+<p>Când vorbea le înveselea; când râdea îi sta bine. Avea 28 de ani trecuți.</p>
+<p>— E foarte plăcut bărbat, murmură Elpida, și e desăvârșit în arta de a plăcea femeilor.</p>
+<p>În noaptea aceea se visă mireasă și apoi în camera de nuntă — după o lună și jumătate își văzu visul cu ochii cum numai pe sub seară ca liliecii, nu ca să ia aer, nu ca să se plimbe, ci ca să rătăcească fără scop pe malul Dunării, pe la monument chiar, deși era în puterea iernii.</p>
+<p>Reîntors acasă pe la miezul nopții, obosit, nu mai avea puterea să plângă, să cugete și adormea greu în nesimțirea unui butuc. Cu revenirea zilei, durerea reîncepea să-i zbuciume existența; și astfel trecu 15 zile mari și grele. Se întreba acum ce era să mai facă, odată ce înlăuntrul său simțea acel îndoit gol lăsat de mamă și de-o logodnică iubită. Mama-i zdrobise inima; logodnica viitorul, căci i se părea că nu mai putu să aibe un viitor.</p>
+<p>Durerea cea atât de grea ca și bucuria, prea mare, exagerează totdeauna o stare prezentă; și una și alta însă, și mai ales durerea, oricât de împungătoare ar fi, scade se schimbă într-o melacolie ușoară și trece lăsând numai amintirea.</p>
+<p>Mătușa Olipiei rugase pe Teodor să nu se mute de la dânsa; el însă promițându-i că se va duce des s-o vadă, luase altă camera la un hotel, căci aceea în care locuise îi putea vorbi cu mai multă vioiciune, totdeauna, de pierderea Olimpiei.</p>
+<p>Elpida, află, tocmai după cucunia ei, nenorocirile ce loviseră pe Teodor. Că-și pierduse logodnicii, simți o tainică mulțumire, care o făcu să zică bărbatului ei:</p>
+<p>— Amicul tău are nevoie de mângâiere și de distracție, adu-l la masa noastră... adeseori.</p>
+<p>— O să-l invit, fu răspunsul căpitanului.</p>
+<p>Ropotă petrecuse trei părți din luna de miere foarte îndragostit de tânăra și încântătoarea lui femeie. Mângâindu-și tresele, și făgăduindu-și zile senine și fericite, cu masă îmbelșugată și gustoasă, cu femie cinstită și frumoasă, cu amante apoi, ca schimbare de figuri într-un tablou al cărui fond de zugrăveală să rămână același.</p>
+<p>Gândindu-se la vreun renghi nou, căci nu jucase nimănui nici unul de când cu vâlvoarea daraverilor căsătoriei lui - căpitanul porni spre noua locuință a lui Teodor. Il află cu lacrimile în ochi, scriind lui Victor Cărbuneanu, la București.</p>
+<p>După câtva timp de convorbire, căpitanul îi zise :</p>
+<p>— Scoală și haide cu mine. Mama pierdută n-o vei mai găsi; păstrează-i în inima ta o amintire cât și viața ta. O logodnică o să mai găsești, o să mai poți iubi, te asigur; de ce dar atâta durere care îți vatămă sănătatea? Haide cu mine; vino să ne distrăm.</p>
+<p>— Haide, dar n-o să pot, răspunse Teodor; și-apoi doliul ce-l port...</p>
+<p>— Doliul e o formalitate, purtat în afară, dragă prietene. Și de altfel, unde vei merge cu mine, ți se va ține în seamă trebuința de a te distra și stăruința mea.</p>
+<p>Teodor însoți pe căpitan, fără a-l întreba unde-l duce și răspunzând câte un da, ori nu, la cele ce-i vorbea. Oricât se stăpânea, durerea era mai tare decât silința ce-și da.</p>
+<p>Tocmai când urmă pe căpitan într-o curte largă și d-aci într-un coridor ce anunța de la întâia ochire darea de mână a posesorului, îi veni în minte lui Teodor cam în ce locuri îl duce prietenul său. Se gândi că era mai bine să nu fi venit, dar nu încercă să se retragă.</p>
+<p>Elpida, într-o frumoasă găteală de casă cânta la piano, când auzi ușa deschizându-se. Văzând în oglindă cine intră, se ridică repede, mișcată la vederea lui Teodor, dar stăpânindu-se bine.</p>
+<p>Întrevederea fu așa ca și cum nimic nu s-ar fi întâmplat, cu trei luni înainte, între Elpida și Teodor, când însuși căpitanul îl îndemnase la cele ce știm.</p>
+<p>După o lună și ceva, când primăvara începu să-și arate comorile de verdeață, de căldură ușurică și de miresme plăcute, Teodor, căpitanul și femeia lui ajunsera într-un grad de prietenie frățească.</p>
+<p>Pentru Teodor, Elpida n-avea sex deosebit. Elpida însă nu cugeta tot astfel. Dar cântărind caracterul lui Teodor, nu voia să-i devină urâtă prin graba de a-i arăta că amorul ei pentru dânsul nu se ștersese cu totul și că putea să-l mângâie și în alt fel, de pierderea Olimpiei.</p>
+<p>Ea știa că prietenia între un tânăr și o femeie tânără nu se putea ține numai între marginile bunei cuviințe; nădăjduia deci că, nu peste mult timp, Teodor o să-și schimbe atitudinea frățească față cu dânsa.</p>
+<p>Ropotă, care, pe capitolul femeia și credința ei în căsnicie nu punea deloc temei, veghea. Era din aceia care-și permit infidelități față cu jumătatea lor, fără să sufere ca femeia să le mânjească numele. De Teodor, era sigur că i-ar fi părăsit mai bine casa decât să-i strângă nevasta de mijloc; dar nu era sigur de Elpida, pe care o știa foarte sentimentală.</p>
+<p>Paștele venind, Ropotă plecă la Iași cu nevasta ca să-și vadă părinții și să le arate odoru.</p>
+<p>Cum ajunse, jucă părinților lui o festă iar cu Sf. Nicolae.</p>
+<p>Icoana acestui demnitar ceresc rămăsese neîmbrăcată de când cu renghiul de odinioară.</p>
+<p>A doua zi după sosirea fiului lor, bătrânii găsesc așezată în mijlocul salonului, icoana sf. Nicolae, de care se afla animat o pereche de ceacșiri de-ai bătrânului Ropotă, un ciubuc cu narghiulea, o căciulă și-un surtuc; astfel că sfântul părea a fi îmbrăcat si că șade turcește cu căciula pusă pe o ureche și fumând. Alăturea, pe un scaun, era o ceașcă cu cafea și o tabacheră cu tabac.</p>
+<p>— Bine mă, om însurat ești tu, om serios de nu te mai lași de copilării de astea? Îi strigă bătrânul de cum văzu priveliștea.</p>
+<p>— Nu e copilărie, tată. Am vrut dimpotrivă să îndrept greșeala de atunci, și m-am pus de-am dăruit sf. Nicolae un rând de haine. Să le poarte sănătos; cu altă ocazie o să-i dăruiesc o uniformă de-a mea. Bătrânii îl iertară în hatârul că era însurat.</p>
+</div>
+<div type="chapter" n="17">
+<head>XXI</head>
+<p>Era prin Iunie. Soarele ardea foarte tare, ceea ce, după credința obișnuită, însemna că trebuie să plouă în acea zi. Căpitanul Nicu Ropotă, foarte fericit d-a se vedea acasă cât mai curând, la răcoare și lângă nevastă, se dă jos din vagonul cu care venise de la Galați.</p>
+<p>Trăsura sa îl aștepta. Se urcă repede și porunci să fie dus in fuga mare.</p>
+<p>Doamna Ropotă nu-i ieși înainte.</p>
+<p>— Cuconița e bolnavă? întrebă el pe camerista care ieșise în coridor.</p>
+<p>— Nu știu dacă e bolnavă, domnule; o văd că plânge. O fi având nervi, răspunse servitoarea.</p>
+<p>Căpitanul își scoase tunica încălzită pe dânsul, și, îmbrăcând una de doc, întră în camera femeii sale.</p>
+<p>Elpida și-a pierdut vioiciunea privirilor și subțirimea taliei; fața îi este pătată ici și colo de câteva pete galbene; ochii îi sunt roșiți de plâns. Aerul său, în totul, e al unei făpturi nemulțumită de sine și de cele ce o înconjoară; mișcările sale sunt leneșe, privirile pline de mânie când caută la cineva și glasul răstit.</p>
+<p>— Bine te-am găsit, nevastă, grăi Ropotă, înaintând și sărutând-o. Ce ai? Ce s-a întâmplat? Te-am lăsat veselă, acum două săptămâni, și astăzi...</p>
+<p>— Mă găsești schimbată, nu e așa? Luă ea vorba c-un zâmbet batjocoritor. Cum să nu fiu, când domnul pleacă la Galați pentru o zi, și stă două săptămâni?</p>
+<p>— Dar parcă ți-am explicat, dragă Elpido... voia să zică Ropotă.</p>
+<p>— Mă rog, lasă-mă când vorbesc, strigă ea cu arțag. Mi-ai scris, așa e; dar puteai să-mi scrii să vin și eu, iar nu să mă lași să mor de urât. Căsătoria ți-a devenit o jucărie, iar pentru mine un jug nesuferit. Ce-i pasă d-lui căpitan, firește. M-a făcut grea, din care pricină am început să pierd din frăgezime, din subțirimea taliei, să mă pătez pe obraz, să fiu mai puțin plăcută, și pentru că i se urăște cu o femeie grea, rămâne prin Galați după petreceri.</p>
+<p>Căpitanul Ropotă sta încremenit. Vederea că Elpida era grea, îl îmbucura; nemulțumirea ei de a se găsi în așa stare interesantă, dorită, îl întrista. Acuzarea că-și lăsa femeia înadins pentru alte femei, îl mânia. El știa bine că-i plac femeile, că avea această patimă turbată, că nu se da în lături de dinaintea oricărei legături tainice și trecătoare, dar știa foarte bine că nu-și lăsa nici pe femeia lui legitimă să-i ducă dorul. Acuzarea Elpidei avea dreptate dar ca să-l mânie.</p>
+<p>— Te asigur, Elpido, că afaceri de regiment m-au reținut două săptămâni, te asigur, în sfâșit, că poziția ta interesantă este - îi va fi o trăsură de unire mai mult între tine și mine. A fi tată și mamă e o fericire, zise Ropotă cu seriozitate și căldură.</p>
+<p>— Da; dar se putea să nu rămân grea așa de curând; ba poate era bine să nu fiu deloc. Femeia care face copii pierde totdeauna din rotunzimea formelor sale, din puterea frumuseții...și nu mai place.</p>
+<p>— Câștigă însă ca mamă — zise Ropotă. Iar în gând adăugase cu mirare.</p>
+<p>Apoi, scărpinându-se după ureche cu ciudă se uită drept în ochii femeii lui și rosti. Și de ce ți-e teamă, mă rog, să nu-ți pierzi farmecele, Elpido? Eu, paremi-se, m-am însurat ca să am farmec după placul meu, iar nu după al altora... Ce te interesează pe d-ta dacă nu te va plăcea lumea cealaltă? Ești o femeie cu judecată și cu inimă. La o asemenea femeie mă așteptam să găsesc simțământ de mamă, iar nu de cochetă, simțământ de datorie, iar nu ușurința și mai-mai lipsă de rușine.</p>
+<p>— Ai dreptate, murmură ea între dinți, am vorbit, dar n-am făcut... De acum înainte voi tăcea și voi face.</p>
+<p>Plecă capul și tăcu.</p>
+<p>Ropotă luă aceasta drept căință, iar tot ce zisese ea mai înainte, ca efect neașteptat al unei ațâțări nervoase.</p>
+<p>Ca să se înțeleagă și mai bine cauza acestei scene ce făcu Elpida soțului ei, trebuie să ne întoarcem cu vreo zece zile în urmă.</p>
+<p>Știm că Elpida hrănea, ca ceva firesc, ideea de a se iubi cu Teodor; mai pe înțeles, de a pune coarne căpitanului. După plecarea acestuia la Galați, trimis de colonel cu afaceri de regiment, Teodor nu voi să se mai ducă pe la nevasta prietenului său. Paza bună, trece primejdia rea; acest proverb îl avusese Teodor în vedere.</p>
+<p>Văzând că trec cinci zile și că prietenul casei nu se ivește, Elpida trecu pe la biroul tatălui său sub un pretext oarecare și de față cu Feloniadi, îl invită pe Teodor la masa de seară.</p>
+<p>— Nu cred să pot veni, îngână el nemulțumit.</p>
+<p>— Și eu cred că poți — răspunse Elpida. Vino, zău, că mi-e urât singură.</p>
+<p>— Du-te! — îi zise și Feloniadi; mai târziu vom veni și noi.</p>
+<p>Teodor se duse neliniștit. El observase că Elpida era prea familiară cu el când căpitanul lipsea câte un moment; suprinsese apoi unele priviri ascunse ale ei, care sunt dorite de ștrengari și neplăcute legiuiților bărbați.</p>
+<p>— Pari că te temi, d-le Teodor, de a fi singur cu mine — îi zise Elpida pândind momentul când nicio slugă nu servea.</p>
+<p>— Mă tem, nu de d-v., d-nă, ci de gura și ochii lumii, care văd râu și vorbesc strâmb, răspunse Teodor privind-o serios drept în față și fără prefacere.</p>
+<p>— Și ce crezi c-ar vedea și c-ar zice lumea? întrebă ea zâmbind un zâmbet viclean.</p>
+<p>— Țineți numai decât cât să aflați?</p>
+<p>— Da, ca să știu să mă feresc și eu.</p>
+<p>— Ar vedea în vizitele mele, dese și mai ales când bărbatul nu e acasă, o oarecare stăruință a mea pe lângă dv.; ar vorbi apoi că acea nu e primită cu răceala impusă de datoriile casnice — zise Teodor cu asprime în ton.</p>
+<p>— Așa e d-le Teodor; și lumea văzând și vorbind așa și-ar face meseria. D-ta ai face bine însă, iar eu aș fi fericită urmând șoaptele inimii mele... — șopti Elpida cu glas tremurător.</p>
+<p>Teodor lăsă capu în jos. Nu mai avea acum nicio îndoială asupra intențiilor Elpidei. Dacă nu bărbat, amant, își zise el-; fericit de mine că n-am luat-o eu și păcat de bietul Ropotă. Apoi își ridică fruntea, își aținti privirile asupra ei și-i rosti:</p>
+<p>— Orice aș simți pentru d-v., sau pentru orice femeie măritată, și mai ales pentru femeia amicului meu intim, aș căuta să fug eu de ea. Dacă aș fi însurat, n-aș dori să mă înșele un amic, în sfârșit un bărbat, oricare ar fi el. De ce dar să înșel eu, de ce să consimt a fi mai mult decât amicul d-v., eu care n-aș voi să aibă nevasta mea asemenea amici mizerabili?</p>
+<p>Elpida era nesocotită, ușoară, dar nu stricată. Se înroși și plecă capul. Pe urmă, mândria ațâțându-i-se, se crezu atinsă, mai ales că dânsa deschisese întâi vorbă de amor, ca și altădată. Privind cu mânie rău stăpânită la Teodor, îi șopti:</p>
+<p>— Ești un nesimțit!</p>
+<p>Masa se sfârși în tăcere; s-ar fi zis cina a doi condamnați la moarte, care-și umpleau stomacul în nesimțire, preocupați de apropiatul ceas când era să zică rămas bun vieții și iluziilor lor.</p>
+<p>— Tristă masă! — pronunță Teodor, când trecură în balconul ce da în grădină.</p>
+<p>— D-ta ai vrut-o, răspunse Elpida cu ciudă; d-ta, care nu m-ai iubit niciodată; d-ta moralistul grozav, care mărturisești iubirea d-tale și te duci apoi să iubești în altă parte cu aceeași ușurință. Nu e trădare oare atunci?</p>
+<p>— O dată nu e un obicei, d-nă Ropotă. Și apoi, pentru că am deprinderea de-a spune cu cruzime adevărul, caracterul d-tale ușor, schimbător, a fost cel ce a ucis în fașe dragostea care abia se născuse în mine. Cu riscul d-a fi urât de d-ta, adaug: Sunt fericit că nu te-am luat de soție, căci, după cununie, curând-curând, ai fi căutat un alt amor în afară d-al bărbatului legal.</p>
+<p>— Destul, d-le moralist; te dispensez de rest; zise Elpida cu mânie și roșie la față de rușine.</p>
+<p>— Pot pleca dar? întrebă Teodor.</p>
+<p>După obrăznicie, nerozia, ar fi de prisos.</p>
+<p>— Atunci... adio, căci nu ne vom mai vedea!</p>
+<p>Elpida se înclină, Teodor porni.</p>
+<p>Din pricina aceasta, în zilele următoare Elpida fu când în accese de mânie, când în accese de tristețe nervoasă, care-i mâna din ochi lacrimi arzătoare; când simți apoi și mișcarea copilului în pântece, starea ei de nemulțumire crescu. Atunci își văzu mai de aproape schimbarea feței sale pătate; îngroșarea destul de vădită deja, a taliei; micșorarea temporală a farmecelor ei. Nervozitatea ei da o urâciune închipuită ființei sale. Acestora atribui dânsa că Teodor n-o voise. De aici, mânie pe bărbatu-său, care o pornise mamă.</p>
+</div>
+<div type="chapter" n="18">
+<head>XXII</head>
+<p>— Nevastă-mea e în stare, să-mi împodobească fruntea cu multe perechi de coarne, precum văd — își zise Ropotă în urma scenei ce avusese cu Elpida. Trebuie s-o veghez.</p>
+<p>După câteva zile întâlnind pe Teodor la „Moderna”, îl certă că nu vine să-l vadă.</p>
+<p>Teodor găsi pretexte deosebite. Văzând că Ropotă prea îl strânge în chingi, se hotărî să-i spună pricina adevărată, și i-o spuse.</p>
+<p>— Bre, a dracului mai e femeia! — exclamă Ropotă. Poftește la tine și pace! Poftă de femeie însărcinată, ce să-i faci? adăugase el scrâșnind din dinți. Am să-i îndeplinesc pofta asta...</p>
+<p>— Serios vorbești ? — făcu Teodor.</p>
+<p>— Serios. Hai acasă la tine să-i scriu un bilet și să i-l trimiți prin cineva. Voi aștepta răspunsul la tine sau aici.</p>
+<p>— Ce comedie ți-a mai fulgerat prin cap? Bagă de seamă, căpitane; nu te juca cu femeia ta, căci pricep ce vrei să faci.</p>
+<p>— Pricepi?.. Ei da, așa. Iți dă întâlnire și mă duc eu în locul tău: tablou!</p>
+<p>— Bine; dar tabloul ăsta-i va da obiceiul întâlnirilor și emoțiilor lor, obiectă Teodor.</p>
+<p>— Dimpotrivă, îi va da spaima de a se mai juca cu dracii, de a mai pune mâna în spuză. O, femeile, femeile !.. Insurătoare-mi trebuia?</p>
+<p>Amândoi prietenii plecară.</p>
+<p>Elpida era în grădină, pe o bancă, citind „Le diable boiteux" de Le Sage, când servitoarea veni și-i aduse o cutie cu cofeturi de Paris, făcute în Brăila, și o scrisoare.</p>
+<p>— Ce-i asta? întrebă ea răstită.</p>
+<p>— A venit un băiat de cofetărie și-a adus-o. Cică vă scrie aici... ce-o fi avut de scris.</p>
+<p>— Bine, du-te, porunci ea servitoarei. Apoi desigilă plicul și citi mirată :</p>
+<p>„Doamnă,</p>
+<p>„Iartă-mă, am fost aspru cu d-ta; aceasta însă am făcut-o, crezând că voi putea să-mi astâmpăr inima și să înnăbușesc cele din urmă protestări ale conștiinței mele...Am avut obrăznicia a te supăra; să fie o neghiobie oare dacă-ți voi spune, cu toată inima: te iubeam, te iubesc și sunt gata să pun la picioarele d-tale probele celui mai înfocat amor.</p>
+<p>„Depinde de d-ta, scumpă Elpido, să ierți, să voiești și să-mi spui când te pot vedea în taină. Aducătorul așteaptă răspunsul d-tale.</p>
+<p>„Cel mai devotat: Teodor.”</p>
+<p>Sfârșind, Elpida rămase pe gânduri. Pep-tul îi bătea mai tare, o bucurie tainică îi umplea inima și o făcea să se zăpăcească.După câteva minute servitoarea reveni.</p>
+<p>— Cuconiță, băiatul așteaptă răspunsul. </p>
+ <p>—I-l dau numai de cât, răspunse ea.</p>
+<p>Apoi alergă în casă, luă o foaie de hârtie, și trase repede cu creionul rândurile acestea :</p>
+<p>„Dragă Teodore,</p>
+<p>„Oricât de târziu, e bine. Mâine te aștept între 12 și 1. Nopțile sunt calde acum și gardul grădinii poate fi sărit, căci ulița e foarte dosnică. In pavilion, îți amintești, poate, există canapea. La revedere.</p>
+<p>„Un X feminin.</p>
+<p>— Cum să-i trimit biletul acum, adică cu ce obiect ca servitoarea mea și băiatul să nu priceapă lucrul?... își șopti ea privind în sertarul biroului.</p>
+<p>Căutând plic, zări o țigaretă de chihlimbar. Repede îi căută tocul, strânse biletul, îl turti bine, îl așeza în fundul tocului, puse țigareta și închizându-l, îl înfășură într-o hârtie și sună.</p>
+<p>— Să dea asta domnului — zise Elpida.</p>
+<p>Căpitanul și prietenul său se aflau la cofetărie, așteptând rezultatul;</p>
+<p>— Ce e asta? Exclamă el când băiatul îi dădu obiectul învăluit în hârtie.</p>
+<p>— Cuconița v-a trimis ce-ați cerut răspunse băiatul și-și văzu de treabă.</p>
+<p>Căpitanul desfăcu.</p>
+<p>— A, pricep! Bravo, femeia mea, știi că e ingenioasă?... Bravo, se pricepe.</p>
+<p>Zicând acestea, scoase țigareta din toc și c-un chibrit se încercă să tragă hârtia înțepenită în fund.</p>
+<p>După ce citi biletul, îl dăduse lui Teodor.</p>
+<p>— Auzi? Nopțile sunt calde... ulița e dosnică... gardul poate fi sărit... ba e și canapea în pavilion...Vezi tu ce fericit o să fiu? zise Ropotă râzând. Râsul lui era însă mânzesc.</p>
+<p>A doua zi, seara, căpitanul era culcat de la orele 9 jum. Elpida fusese cu dânsul foarte amicală și veselă; ba îl și sărutase când el pusese capul pe pernă, pretextând o mare durere de picioare ca pricină a culcării devreme.</p>
+<p>— Dormi dar, dragă Nicule — îi șopti ea, dormi și te liniștește. Eu mă duc să citesc până mai târziu încolo.</p>
+<p>Elpida ieși. Intrând în camera ei de lucru, se puse să citească. Putea însă, când parcă avea niște ghimpi sub tălpi? Putea, când la fiecare rând, citit cu o repeziciune și cu un tremur ca de friguri, ridică ochii la ceasul din perete?</p>
+<p>Ieși prin grădină. Luna, ca o jumătate de măr domnesc aurit, se plimba printre norii albi și strevăzători, întinși ca o pânză pusă în dreptul unei lumânări aprinse.</p>
+<p>— E cam luminoasă noaptea — murmură ea. Nu face nimic. Până va veni el, luna o să se coboare după copaci și cel puțin grădina cu partea dinspre pavilion o să fie în întuneric.</p>
+<p>Pe urmă, Elpida intră la bărbatu-său. Căpitanul dormea dus, sforăind regulat pe același ton și cu atâta tragere de inimă că mai te apuca pofta să sforăi și tu.</p>
+<p>— Doarme — murmură ea mulțumită.</p>
+<p>Ieși în vârful degetelor și de astă dată intră în pavilion, hotărâtă să aștepte și să vegheze.Căpitanul, care dormea ca un senator când merge să-și ia diurna, sări din pat, se îmbrăcă c-un rând de haine civile, pe care le scoase de sub pat, deschise fereastra încet și, când văzu că sunt 12 ore și ceva, se lăsă ușor de tot în grădină.</p>
+<p>În vârful degetelor călcând pe nisipul moale, ajunse la gardul din fund; stătu puțin, pentru că o mișcare adâncă a sufletului îl lipsea parcă de suflare, și apoi o luă printre copaci și tufișuri de trandafiri și de verdeață înspre pavilion.</p>
+<p>Luna abia se zărea printre crengilor copacilor. Pavilionul se afla în întuneric.</p>
+<p>— Tu ești, Teodore? întrebă glasul Elpidei.</p>
+<p>— Eu, șopti foarte încet glasul puțin schimbat al căpitanului.</p>
+<p>O mână albă și parfumată îl trase în pavilion; apoi două brațe i se agățară de gât.</p>
+<p>— Va să zică tot mă iubeai?... murmură glasul femeiesc.</p>
+<p>— Da, șopti glasul cel bărbătesc.</p>
+<p>Nu trecu jumătate oră de când cele două făpturi omenești stăteau învăluite în întuneric, când o fâșâitură se auzi și numaidecât un țipăt subțiratic după aceia.</p>
+<p>Căpitanul aprinsese un chibrit, în urma dureroasei plăceri a intimității și Elpida recunoscându-și bărbatul-amant, scosese acel țipăt mai mult de mirare decât de spaimă.</p>
+<p>Urmară explicații împungătoare, care se sfârșiră prin declarația hotărâtoare a lui Ropotă că o împușcă de-o va prinde în flagrant delict, și prin jurământul mare al Elpidei că nu va mai încerca să greșească</p>
+<p>Femeia însă, în materie de credință și amor, când jură mai mult, atunci își promite să apuce cu mai mare dor fructul oprit, la cea dintâi ocazie.</p>
+<p>Aluatul femeii, pe când îl plămădea natura, fu scăpat în noroi; de aceea, luând mirosul noroiului, ea trage tot spre el.</p>
+</div>
+<div type="chapter" n="19">
+<head>XXII</head>
+<p>Iarna e în deplina sa putere. Ninge fulgi aici mai mari, aici mai mici: când prin ciur, când prin dârmon. În port amorțire; numai Dunărea curge tulbure și nepăsătoare printre valurile ascunse sub omătul mare. În oraș, cei bogați beau și mănâncă, cei calici stau și se uită — povestea țiganului flămând.</p>
+<p>Familia Feloniadi, din numărul celor dintâi, după ce a mâncat și băut bine, se gătește de un bal mascat ce este a se da în sala Rally.</p>
+<p>D-l Feloniadi încearcă un costum bogat de cleft din munții romantici ai Elladei.</p>
+<p>— Am să spăimânt pe cucoane că le fur sculele și că le iau viața— își zicea el gătindu-se.</p>
+<p>D-na Feloniadi se îmbracă c-un costum de baiadera, care o prindea bine de tot, dând voie lumii să-i vadă pulpele și brațele.</p>
+<p>D-șoara Sofia, acum în vază de când sora sa e măritată, se îmbracă c-un costum de paj al curții lui Ludovic al XV-lea.</p>
+<p>Tânărul domn Rustovici, curtezanul silitor al d-șoarei Sofia și care e plăcut de d-șoara, sosește, la orele 9 și jumătate, în costumul regelui Ludovic, și promite să facă furori cu încântătorul său paj.</p>
+<p>Nu se aștepta decât d-na Elpida Ropotă, ca familia să pornească la bal.</p>
+<p>Elpida sosește aproape de zece ore, costumată într-un tricot și înfășurată într-un văl de gaz purpuriu, semănat ici-colo cu stele. De se zice că reprezintă aurora: dar o auroră puțin rușinoasă, o auroră de modă.</p>
+<p>Sala e splendid decorată, căci balul e patronat de clasa bogată, așa zisă nobilă, și dat în folosul săracilor, în numele cărora se veselesc cei bogați și la care abia ajunge cu toate acestea te miri ce și mai nimic. Adeseori săracii se aleg numai cu aducerea aminte de dânșii.</p>
+<p>Paiete, jidovi, arnăuți, toate diformitățile fizice sunt reprezentate; adesea ele ascund diformități morale. Femei în diferite costume, care împopoțonate, care mai goale, goale din complăcere, de vreme ce sunt travestite. Să plimbă la braț, râd, să tachinează; fac haz unii de alții, și caraghiozlâcuri unii altora. Așa fac și în saloane. Se critică, râd unii de alții, — nicio diferență. In bal poartă o mască de pânză ceruită sau de catifea; în saloane masca ipocriziei. Sinceritate și frăție nicăieri. Atât numai că în bal ți-e învoit să râzi de cine-ți place, fără să te sfiești, și când te află nu poate să se supere. Balul e parodia vieții, dar o parodie veselă; viața e o comedie foarte tristă.</p>
+<p>Se dansase vreo oră, se începuseră închinările și arvunirile de dragoste între cei ce se cunoscuseră, sau chiar pe nevăzute și mai mult cu instinctul animalelor — când atențiunea mării părți din lume fu atrasă d-un Hercule. Corp înalt, brațe și picioare musculoase, un cap mare legat de trunchi printr-un gât puternic și gros.</p>
+<p>— Iată minunile bumbacului și ale cauciucului! Își ziceau mulți din asistenți.</p>
+<p>Și în adevăr că bumbacul și cauciucul joacă un mare rol, mai cu seamă în orânduirea corpurilor sexului frumos. Secolul XIX se poate făli cu perfecționarea fizică a omenirii.</p>
+<p>Herculele salută mulțimea gură-căscată și strigă cu un glas care nu sămăna cu al tunetului:</p>
+<p>— Am părăsit Gibraltarul, unde în fundul mării mi-e locuința de veci. Salutare adunării!</p>
+<p>— Ce e aia Gibraltar? întrebă un turc șchiop pe un evreu ghebos, care ținea în mână niște monede de tinichea.</p>
+<p>— E o casă de bancă — răspunse evreul vânturându-și în palme monedele.</p>
+<p>Herculele s-apropia de Auroră.</p>
+<p>— Frumoasă Auroră, îi șopti el, vrei să fiu soarele ce-ți urmează totdeauna la poarta răsăritului?</p>
+<p>— Ești un soare prea voluminos și teamă îmi e că n-o să poți ieși pe cer, îi răspunse Aurora.</p>
+<p>— Dă-mi mâna, frumoasă Auroră, care luminezi, îmi pare, cerul unui militar. Și scrise cu degetul un E și un R.</p>
+<p>Aurora tresări.</p>
+<p>—Te-ai înșelat, Hercule..</p>
+<p>— Se poate, frumoasă Auroră. Dacă am ieșit din fundul mării, e numai pentru d-ta, de a cărei credință s-a dus pomina până la mine. Ai iubit pe un tânăr T., care nu te-a iubit; te-ai măritat și ai vrut să-ți încerci iarăși norocul cu obraznicul T., dar nu s-a prins. Acum cauți să prinzi în mrejele frumuseții tale pe tânărul F... întors de curând din Paris. Dar pentru că ai intenția de a înrola, în numărul farmecelor d-tale, toate literele alfabetului, înrolează-mă și pe mine, frumoasă Auroră, și vei isprăvi curând cu litera H.</p>
+<p>— Domnule, lasă-mă în pace! striga ea.</p>
+<p>— Nu striga, frumoasa mea aristocrată, ori mă faci să cred că n-ai l’usage du monde.</p>
+<p>Aci Herculele se depărta, lăsând pe Aurora cam tulburată sub masca sa.</p>
+<p>Un cavaler cruciat se apropia de dânsa. 
+-Ce stai singură ca o turcoaică văduvă, încântătoare Auroră? îi șopti acesta.</p>
+<p>— A, d-v. sunteți d-le Fănulescu ?</p>
+<p>— Ce fel, m-ați recunoscut.</p>
+<p>— Da, după glas. Nu ești bun pentru a tachina cunoștințele mai de aproape.</p>
+<p>— Ei, iacă, eu nu te pot cunoaște, frumoasă Auroră.</p>
+<p>— Cu atât mai bine. Fă-mi o îndatorire; urmărește pe Hercule și află cine este. Fiind bun reporter al numelui, îți voi da voie să-mi săruți mâna.</p>
+<p>— Ai o mână foarte grațioasă și alerg. Herculele se apropiase de Cleftul din munții Eladei, care ochia cu pușca-i de lemn o ghicitoare și-i striga:</p>
+<p>— Salba de gât ori viața...</p>
+<p>— Ce face cucoana Marița? îl întrebă Herculele.</p>
+<p>Cleftul tresări.</p>
+<p>— St, zise el, să nu te-audă nevasta!... Cine ești d-ta?</p>
+<p>— Sunt acela care știe că dai cucoanei Măritei, drăguța d-tale de pe strada Glasis, câte 500 franci pe lună. E frumușică drăcoaica, n-am ce zice, d-le Feloniadi. Numai vezi că ești prea în vârstă pentru ea și că niște ofițeri n-o lasă în pace.</p>
+<p>Herculele se depărta și apuca la braț o țărăncuță de pe valea Oltului, care torcea cu furca-n brâu.</p>
+<p>— Ce mai face afurisitul de Ropotă, d-nă? Mai bine nu te mai iubeai cu el, căci e piază rea și n-o să te poți remărita.</p>
+<p>Țărăncuța îi răspunse răstit;</p>
+<p>— Te cunosc. Ești el în persoană.</p>
+<p>— Bravo, verișoară! La revedere.</p>
+<p>— Să răspândesc vorba cine ai fost?</p>
+<p>— Nu, te rog, dacă mă iubești.</p>
+<p>— Atunci să vii mâine seară la întâlnirea ce-ți dau. Promiți? Nu-mi pasă că ești însurat!</p>
+<p>— Iți jur!</p>
+<p>Și Herculele fugi din sală fără ca d. Fănulescu să ia seama.</p>
+<p>După vreo jumătate pe oră, un doctor înalt și burtos, cu mai multe instrumente ale profesiei atârnate de gât, intră în sală întrebând dacă a leșinat vreo cucoană ori dacă s-a înecat vreo domnișoară cu vreo zaharică.</p>
+<p>— Scumpă, doamnă — zise doctorul luând brațul unei florărese pariziene, mă prind că în panerul d-v. de flori se află și câteva perechi de coarne pentru boierul d-v. d-nu Conduriotti.</p>
+<p>— Ești cam îndrăzneț, doctore.</p>
+<p>— Obiceiul profesiei. Conformându-mă lui, îți cer să mă însoțești la bufet.</p>
+<p>— Bucuros. Dar nu-mi spui cine ești?</p>
+<p>— Sunt doctorul Ștrengărescu. Îmi plac pulpele rotunde, sânii plini și ochii albaștri.</p>
+<p>— Ai mei sunt negri.</p>
+<p>— Te înșeli singură, d-nă Conduriotti.</p>
+<p>— Ești un berbant.</p>
+<p>— Ce-ar fi un doctor fără astă calitate? L-ar chema numai bărbații, și n-ar fi plăcut pentru el.</p>
+<p>După ce o trată cu zaharicale, îi sărută mâna și se îndreptă către Aurora, lăsată tocmai atunci de cavalerul cruciat.</p>
+<p>— După focul jocului, vine setea frumoasă Auroră, îi zise el c-un ton gros și guturai. D. F... e puțin galant, că nu-ți ofera nimic. Privește-l. Îl vezi lângă domino cel roz? E amanta lui. Nu căuta dar să-l mai prinzi în brațe.</p>
+<p>— Fi-vei?... și trase în palma doctorului inițialele T. E. C.</p>
+<p>— Nu, d-nă Ropotă, nu.</p>
+<p>Îi oferi o înghețată. În timp ce ea o mânca, doctorul îi îndrugă multe nimicuri de ocazie. În urmă o duse în sala de bal și o lăsa.</p>
+<p>Apropiindu-se de un marinar, îi șopti:</p>
+<p>— Teodore, nevastă-mea e Aurora. Du-te de dansează cu ea, schimbă-ți vocea și o tachinează fără milă. Țărăncuța e vară-mea. N-o lăsa în pace, căci e văduvă. Pajul de lângă cel ce pare un rege francez, e domnișoara Sofia Feloniadi. Fă-i curte și danseaz-o.</p>
+<p>Apoi se depărta și apucă de pulpa halatului pe un jidov.</p>
+<p>— Jupâne, ești bolnav de dalac.</p>
+<p>— Ce, doctore mă iei drept un cal?</p>
+<p>— Nu, cal, dar catâr, pentru că răbda ca și el jugul unei neveste slute, pretențioase și pe care ai luat-o calică, foc...</p>
+<p>De la jidov, fugi la un hagiu care-și răsucea mătăniile plimbându-se prin sală ca vodă prin lobodă.</p>
+<p>— Te-ai botezat în Iordan, hagiule, dar nu te-ai spălat d-un obicei urât, d-o boală lipicioasă: boala falimentului, de care ai zăcut de două ori până acum.</p>
+<p>Hagiu tuși ca să n-audă și alte măști de prin prejur.</p>
+<p>— Cine ești d-ta?</p>
+<p>— Doctor, precum vezi. Rețetă gratuită: să te lași de comerț, desfăcându-le cinstit de marfă. Astfel familiile T., L. și O...vor scăpă d-a fi nenorocite ca atâtea altele de mai înainte.</p>
+<p>Hagiul era bogătașul Conduriotti.</p>
+<p>La 12 ore măștile căzură. Doctorul nu mai era, Cotilionul fu condus însă de căpitanul Ropotă, apărut în costum de surugiu, spre mirarea Aurorii, nevasta sa, care îl știa dus la Galați pentru afaceri d-ale regimentului.</p>
+</div>
+<div type="chapter" n="20">
+<head>XXIV</head>
+<p>— Bărbatul meu îmi spionează toate mișcările, își zise Elpida a doua zi după balul mascat din sala Rally; el a fost care m-a tachinat. În sfârșit, dacă-i place! Asta sunt; astfel înțeleg eu viața. Așa am să-i vorbesc în ziua când și-ar permite să-mi facă vreo observație.</p>
+<p>Căpitanul se păzi însă de a-i face observație. Luându-și, hotărârea d-a veghea, neieșind la preumblare decât cu ea, neabsentând de acasă de fel în afară de orele de cazarmă, avu mulțumirea să vadă că Elpida se cumințise.</p>
+<p>Într-o dimineață, pe la orele 6 și jumătate, Teodor, care se dusese la baie, trecea pe la poarta prietenului său Ropotă, în drumul spre casa lui. Părându-i-se că zărește o formă albă în coridorul casei lui Ropotă, se opri. Părerea sau nălucirea îi deveni realitate, când văzu un individ coborând treptele de piatră ale micii scări de la intrare și forma albă dispărând apoi, după ce-i trimesese cu mâna o sărutare. Teodor se lipi de stâlpul felinarului stins și așteptă să vadă cine este.</p>
+<p>Individul ieși cu capul intre umeri și cu gulerul de la palton ridicat; apoi o luă repede la picior. Tedor îl recunoscu insă; era Fănulescu,</p>
+<p>— Bietul Ropotă, — murmură el: iată-l decorat cu ordinul coarnelor clasa I-a! O să-i spun... da, trebuie.</p>
+<p>Când Teodor îi povesti ce văzuse cu ochii lui, căpitanul exclamă oftând:</p>
+<p>— Prietene, nu sunt nici cel dintâi, nici cel din urmă; și chiar mă așteptam la așa năpasti pe capul meu. Voi lua măsuri însă.</p>
+<p>După trei zile, între orele ll și 12 noaptea Fănulescu venea la întâlnire ca de obicei. De astă dată, mai devreme însă, căci un bilet al Elpidei îi anunțase plecarea lui Ropotă la Galați cu trenul din acea seară. Se aștepta să fie întâmpinat la capătul scării de camerista Elpidei, dar, nevăzând-o, intră fără a se sfii sau a comenta lipsa ei. Cu inima palpitându-i se opri la ușa camerei Elpidei și bătu încet. I se păru că auzi un glas ce-i zisese să intre, și intră.</p>
+<p>Rămase înmărmurit însă. Căpitanul Ropotă, în halat și în papuci, stă liniștit la gura sobei, fumând dintr-o narghilea.</p>
+<p>- Poftim răspunse el surâzând. Scuză pe nevastă-mea că nu e acasă.</p>
+<p>Fănulescu voia să dea dos la față și s-o șteargă. Când se întoarse însă, prin ușa ce rămăsese deschisă zări pe Vasile soldatul c-o coadă de târn în mână, în loc de pușcă, și c-un mănunchi de nuele în altă mână. Vasile i se ploconi adânc.</p>
+<p>— Uite, frate, zise Ropotă, s-ar părea că nu-ți vine la îndemână să mă găsești pe mine în locul prefăcutei care, te așteptă.</p>
+<p>— Vasile, servește pe domnul, strigă apoi căpitanul.</p>
+<p>Vasile intră și luă la croit pe Fănulescu, mut, galben-vânăt la față și tremurând.</p>
+<p>Căpitanul Nicu privea liniștit scena, și abia după zece minute de pisălogeală bună porunci încetarea. Fănulescu fugi ca nebun, bătut măr. Această lecție îi folosi, mai ales că era un tânăr cu minte de altfel, dar care nu se dăduse înapoi dinaintea încurajărilor unei femei frumoase.</p>
+<p>Elpida, care scăpase de grijile maternității, prin nașterea unei fetițe moarte; Elpida care își revenise în plinătatea farmecelor după cum și-o mărturisea cu plăcere dinaintea oglinzii; Elpida, femeia cochetă și nesocotită, avea in sfârșit un amant. Ea adoptase metoada de a-și îmbrobodi bărbatul prin cele mai călduroase sărutări și prin cele mai înșelătoare și plăcute maimuțării femeiești.</p>
+<p>Auzind de burdușeala ce păpase de la Nicu, întâiul și proaspătul ei amant, se așteptă la vreo scenă casnică. Căpitanul urmă însă a fi cu dânsa ca și cum nimic nu se întâmplase.</p>
+<p>Către primăvară sosi vărul lui Ropotă, un băiat înalt și bine făcut ca și el, dar mai tânăr și mai frumos. Acesta era înaintat la postul de procuror la Curtea de apel din Focșani, și venise să petreacă concediul de 15 zile ce avea, lângă vărul său.</p>
+<p>Căpitanul îi deschise amândouă brațele, îl rugă să stea la el în gazdă — dar, luându-l de o parte îi șopti:</p>
+<p>— Vere, nevastă-mea are minte foarte ușurică; te rog, nu-i face curte, căci e capabilă să-mi pună coarne...</p>
+<p>Tânărul zâmbi și-l asigură.</p>
+<p>La capătul cel 15 zile, Teodor văzu pe căpitanul Ropotă intrând furios.</p>
+<p>— Bună dimineața, Teodore.</p>
+<p>— Bună dimineața, căpitane. Da ce ai de ești așa posomorât și mânios?</p>
+<p>— Închipuiește-ți că mi-a fugit nevasta cu verișorii.</p>
+<p>— Nu mă înnebuni, strigă Teodor.</p>
+<p>— Iacă citește biletul ce mi-a lăsat. Teodor îl luă și citi:</p>
+<p>Iubite vere,</p>
+<p>„Cunosc arta lui Bosco. Ți-am escamotat nevasta pentru totdeauna.”</p>
+<p>„C. Ropotă“</p>
+<p>„Ai jucat feste la multă lume; permite unui singur om de a-ți juca și d-tale pe aceasta. Ne vom despărți și de drept, în curând.</p>
+<p>„Elpida”</p>
+<p>— În sfârșit, nu face nimic. A trecut tot în familie! exclamă căpitanul râzând și trântindu-se într-un fotoliu. Iată-mă în curând iarăși flăcău. Dar de acuma cine m-o mai prinde însurându-mă să mă pună în cămașa de forță, că de sigur aș fi nebun în toată regula.</p>
+<p>Numai familiei Feloniadi nu-i veni la îndemână când auzi și când se încredința de isprava vlăstărei sale celei mari.</p>
+<p>Despărțit de nevastă, căpitanul rămase iarăși în mijloacele sale de mai înainte și-și reîncepu viața fără nicio stănjenire. Căsătoria nu-i servise la altceva decât la lărgirea numărului cunoștințelor, și, mulțumită caracterului său veșnic ghiduș, hazliu și neprefăcut, era primit pretutindeni cu plăcere.</p>
+<p>Vara îl găsi încurcat în datorii. Nu mai era chip de scăpat de un păcătos de evreu, căruia îi datoră nu mai mult de o sută de franci, pentru o pereche de cizme și câteva perechi de ghete. Datoria aceasta ținea de pe când era însurat.</p>
+<p>Foarte priceput și îndemânatic în născociri, totdeauna, căpitanul începu să viziteze pe evreul care avea o balabustă frumușică, dar prea groasă, prea diformă la trup.</p>
+<p>Jidovul luă seama și nu-i mirosi a curat această venire fără motive ale căpitanului.</p>
+<p>Când îi făcu observațiile sale respectuoase, Ropotă îi șopti:</p>
+<p>— Ascultă-mă, jupâne Isac, Avram sau lacob, cum te cheamă. Am aprins călcâile balabustei după sabia rea; bagă de seamă dar și mă lasă în pace multă vreme cu datoria, căci altfel îți punem și alte soiuri de coarne, pe lângă cel tradițional de Sâmbătă.</p>
+<p>Evreul afurisi pe Ropotă, certă pe ușurica balabustă, dar lasă dracului datoria.</p>
+</div>
+<div type="chapter" n="21">
+<head>XXV</head>
+<p>Ori de câte ori se ducea la birtul-cafenea unde mânca fără abonament, căpitanul observa trei bătrâni citind ziare, pururea la aceeași masă și cu cafelele dinainte. Unul dintre ei, cu înfățișarea foarte de respectat, legase prietenie cu Teodor. Intr-o zi, găsind pe Ropotă lângă Teodor, bătrânul fu recomandat căpitanului.</p>
+<p>Vorbăreț și chefliu, cum era, bătrânul și apoi ceilalți doi luară îndeaproape prietenie pe Ropotă, și-l rugau deseori să recitească de prin ziare românești, ori să le traducă veștile de prin țări străine din ziarele nemțești, grecești sau franceze.</p>
+<p>Ropotă nu cunoștea decât limba franceză; dar când era în nervii lui, jură pe-o sticlă de vin că știe toate limbile din Europa, chiar și țigănește începea să bodogănească ca o moară stricată zicând: așa. e turcește, așa e nemțește, așa e franțuzește.</p>
+<p>Când izbucni războiul franco-german, lumea noastră toată umblă cu gura căscată după noutățile bătăliilor.</p>
+<p>Unul din cei trei bătrâni, cum zărea pe Ropotă, îi și punea sub nas câte un ziar franțuzesc ori nemțesc, și cădea năpastă pe capul lui ca să-i citească.</p>
+<p>Săturat de așa fel de prietenie supărăcioasă, care nu-i da răgaz nici să mănânce cum trebuie, căpitanul începu să-i citească întâmplări de război foarte groaznice și mai de necrezut.</p>
+<p>Bătrânul se miră, și alergă să le spună prietenilor săi și acasă.</p>
+<p>Cine îl auzea, începea să râdă.</p>
+<p>— Am citit eu cu ochii mei — striga bătrânul cu mânie. De ce râdeți?</p>
+<p>Într-o zi Ropotă cum îl văzu îi strigă:</p>
+<p>— Știi că nemții în număr de 150,000 s-au înecat în Marea-Nordului, cum mergeau pe apă asupra Parisului?</p>
+<p>— Ia taci!.. făcu bătrânul. Bine-mi pare, strigă el apoi.</p>
+<p>Era filo-francez.</p>
+<p>Pe urmă Ropotă traduse, de prin ziarul nemțesc ce cumpărase bătrânul, că cei 150,000 au scăpat mai mulți de jumătate înot — (depăsea ultimă a nopții); dar că francezii, în baloane sosind, i-au răpus îndată, cum erau muiați de apa sărată a mării Nordului.</p>
+<p>Această știre fiind cea mai importantă, bătrânul alergă să o comunice, iar Ropotă începu să mănânce râzând.</p>
+<p>Nu trecu cinci minute și bătrânul se întoarse mânios lângă el.</p>
+<p>— Închipuiește-ți, strigă el, că nu crede nimeni de știrea ce mi-ai tradus d-ta căpitane; zic că mă păcălești râzând de mine.</p>
+<p>— Sunt nebuni — răspunse Ropotă. Luând ziarul nemțesc îi arătă pe pagina I prima coloană știrile. Iacă, așa spune aici; du-te și le arată.</p>
+<p>— Dă-i încolo; eu cred ce-mi traduci d-ta, răspunse bătrânul cu pătrundere.</p>
+<p>A doua zi însă, Ropotă trecu orice margine de crezare. Ii spuse că Napoleon e prins și că va trece prin Brăila ca să fie dus în Viena prizonier, pregătindu-se hotelul Rally pentru primirea și găzduirea ilustrului împărat învins. Bătrânul se uită lung la Ropotă și-i zise mânios:</p>
+<p>— N-are nevoie, mă, să treacă împăratul pe aci, ca să se ducă la Viena. Acum înțeleg de ce râdea lumea când îi spuneam veștile traduse de d-ta. Nu ți-e rușine să râzi de un om bătrân, pezevenghiule!</p>
+<p>Și ridică un scaun să-i dea în cap. Amenințarea s-ar fi tradus în faptă, dacă Ropotă nu ar fi făcut un repede salt în lături. Pe urmă lucrurile se împăcară.</p>
+<p>Ducându-se Ropotă la Galați, generalul care ținea la el, îl invită la prânz.</p>
+<p>În timp ce generalul convorbea cu căpitanul până să fie chemați la masă, sosi un veterinar neamț care fusese adus să caute pe Arpagon, calul favorit al generalului.</p>
+<p>— Mă rog ție, Ropotă, i se adresă generalul, tu știi nemțește?</p>
+<p>— Da, d-le general... dialectul vienez, încă.</p>
+<p>— Du-te cu veterinarul la grajd și vezi ce spune el de starea bietului Arpagon.</p>
+<p>Apoi se întoarce către neamț și-i zice în nemțește:</p>
+<p>— Însoțește pe căpitan și spune-i ce trebuie să facem, în caz de poate fi scăpat.</p>
+<p>Ropotă intră în grajd cu neamțul, care nu știa nici o boabă românește. Acesta cercetează calul, îl pipăie, dă din cap și începe să spună multe și mărunte lui Ropotă. Dânsul, se freacă la nas, dă din cap spre semn de pricepere, și scoate din când în când câte un: ia, ia, gut, gut. Apoi lăsă pe neamț și alergă la general.</p>
+<p>— O să fie scăpat, d-le general. I-am vorbit în dialectul vienez și ne-am înțeles de minune.</p>
+<p>— Ce bine îmi pare că...</p>
+<p>Dar n-apucă să sfârșească și veterinarul intră spunând generalului că Arpagon va înceta să trăiască peste un ceas, și că orice intervenție medicală o să fie de prisos.</p>
+<p>— Auzi, căpitane, ce spune neamțul? îl întrebă generalul cam supărat. Cum ai înțeles d-ta...</p>
+<p>— Mă iertați, d-le general, poate că am uitat tocmai cuvintele ce rostea doctorul de dobitoace. Dialectul vienez e foarte greu de ținut minte.</p>
+<p>Generalul zâmbi pe sub mustăți; pricepuse ce dialect știa căpitanul Ropotă, meșterul ghidușăriilor.</p>
+<p>Un an și jumătate după despărțirea lui de nevastă, prin Decembrie, cum sta la gura sobei indispus, suferind, căci oarecare boli d-ale tinereței zburdalnice începură să îl ajungă, - auzi bătând în ușă..</p>
+<p>— Intră — strigă el, mirat și mâniat că Vasile, ordonanța, nu este la post.</p>
+<p>O femeie învăluită așa de strașnic încât abia i se zăreau ochii, intră.</p>
+<p>— Mă, iertați, d-nă oricine veți fi, căci sunt ca la mine acasă...</p>
+<p>— Nu face nimic, între prieteni nu se încape sfială.</p>
+<p>—Zău, va să zică suntem prieteni? întrebă el. Atunci, poftim ședeți, și șovăiți. Singurătatea nu-mi place nici când sunt cum îi șade bine creștinului, dar încă cum sunt de treaz acum? Ei, ce fel, nu-ți scoți șalul din jurul capului?...</p>
+<p>— O să-l scot: voiam însă să-mi potolesc emoția ce am, văzându-te după atâta timp de despărțire.</p>
+<p>— Emoție? Nobil lucru... Rar mai pot acum să o am. In sfârșit cred că ți-a trecut, hai?!.. să te ajut?</p>
+<p>Odată cu întrebarea din urmă, o și dezvălui la față. Atunci rămase uimit.</p>
+<p>— Elpida? strigă el.</p>
+<p>— Eu, Ropotă, nevasta vărului tău. Am venit să-mi văd părinții. E și Costică, vărul tău, aici... Ei, cum mai petreci? Mai ești gelos ca un curcan? Ți-a trecut ciuda ce trebuie să fi avut pe mine?</p>
+<p>— Dragă ex-nevastă, nu eram gelos pe cât îți închipuiai, dar voiam să nu port coarne.</p>
+<p>Uite, zău, vărul tău le poartă, le simte și nu zice nimic, pentru că e convins că așa e obiceiul secolului. Trăim de minune. Ne pricepem și mai și...</p>
+<p>— Ciudă n-am avut pe tine — urmă Ropotă șirul vorbei lui, nici nu pot să am. Și pentru că ți-ai închipuit că mi-ai făcut rău, luând pe altul și fugind de la mine, dezamăgește-te. De unde și până unde însă la mine? Ce mai e și asta ? Ori ești însărcinată?</p>
+<p>— Ba nu, să mă ferească D-zeu; Costică e foarte nimerit pentru asta. Mă întrebi de ce sunt la tine? Simplu de tot : îmi era dor să te văd, să-ți fac o surprindere... plăcută poate... ceva romantic. Am lăsat vorbă că mă duc la sora mea pentru două sau trei ceasuri, și am venit la tine, scumpul meu ex-bărbat. Iar locuința am aflat-o prin Teodor, pe care l-am văzut ieri la biroul lui tata.</p>
+<p>— Știi că ești mai drăguță decât altădată?</p>
+<p>— Da, m-am mai dezvoltat... sunt mai voluptoasă... Această calitate a mea face fericirea Focșanilor.</p>
+<p>— Ți-ai pierdut însă, pare-mi-se, cam de tot rușinea... fie-mi permis însă să ți-o spun ție, femeie de lumea mare...</p>
+<p>— Nu; m-am rușinat, dragă; știu să vorbesc potrivit cu ocazia, cu locul și cu omul în fața căruia mă aflu. Tu mi-ai fost bărbat de ce dar să mă jenez.</p>
+<p>Căpitanul sună. Vasile intrând, se uimi văzând pe fosta lui stăpână.</p>
+<p>— Fă-ne ceaiul, degrabă — porunci el — și nu sunt acasă nici pentru Dumnezeu sfântul!</p>
+<p>Prin curtea largă a caselor boierului Ropotă din Iași, un servitor trage o căruță în care se află un bărbat olog, slab, galben, la față, prăpădit.</p>
+<p>O femeie tânără și frumoasă aleargă spre el și-i dă o scrisoare.</p>
+<p>— Ține, frate, e pentru d-ta.</p>
+<p>— Cine oare și-o fi adus aminte dacă mai trăiește căpitanul Ropotă Nicolae? murmură el cu tristețe. Deschide-o tu, Florico, și citește-mi-o. Ah, ce aer curat și dulce!... Numai viața mea e păcătoasă.</p>
+<p>Tânăra femeie, a doua soră a lui Ropotă, măritată și mulțumită, își șterge două lacrimi pe ascuns — apoi deschide scrisoarea și citește :</p>
+<p>Brăila 17 Mai</p>
+<p>„Iubite și dorite căpitane,</p>
+<p>«Nu știam ce te făcuseși în urma permutării tale la București. Tocmai ieri mi-a scris Victor Cărbuneanu, trimițându-mi noutățile jalnice care mi-au umplut sufletul de durere și amărăciune. Câtă schimbare în trei ani de zile!... Si când mă gândesc că erai frumos, pururea vesel, iubit de prieteni și adorat de femei... A, vezi, femeile ți-au pricinuit pierderea sănătății!...Mângâie-te însă, dragă căpitane, cu amintirile vremurilor de fericire; mângâie-te gândindu-te că ai prieteni care tot cugetă la tine; mângâie-te că familia ta de astăzi,cele două surori, sunt fericite, și că ai în vreme de nevoie două inimi devotate și iubitoare, care le plâng, te îngrijesc și caută să-ți îndulcească suferințele.</p>
+<p>«Eu sunt un alt soi de nefericit, un om care, orice face, orice gândește numai să facă, întâmpină înfrângeri sau o nimerește rău. M-am însurat cu o fată de negustor fără pretenții și cu zestre bună, însă e necontenit bolnavă și supărăcioasă. Copilul ce am e cam orb. Nenorocire în toate părțile...Viață ori foc?</p>
+<p>„Vei fi dorind poate să afli ceva și despre socrul tău cu eroii și cu măslinele Patriei? Inchipuiește-ți c-a aflat, tocmai acum, că vrednica lui nevastă chema prea des acasă, să-i facă acatiste, paraclisuri și agheasmă, pe un popă tânăr, vârtos și chipeș de la biserica Grecească. Sofia, fata lui cea mai mică, e măritată și norocoasă. Ține la bărbatu-său, până acum, destul de mult.</p>
+<p>Eu nădăjduiesc că ea va fi până în sfârșit o bună femeie casnică.</p>
+<p>„Fosta ta nevastă s-a mai cumințit, dar tot mai adaugă din când în când câte un corn la cununa ce poartă bărbatu-său; știi, ca să nu-și uite obiceiul.</p>
+<p>„Despre amicul nostru Victor Cărbuneanu trebuie să fi știind, căci îți va fi scris desigur, că și-a dat în sfârșit al treilea examen la drept. Să nădăjduim că își va lua, peste zece ani, și licența.</p>
+<p>«Termin, îmbrățișându-te călduros.</p>
+<p>..Amicul tău</p>
+<p>„Teodor A. Câmpeanu</p>
+    <milestone unit="SFÂRȘIT"></milestone>
+</div>  
+</body>
+</text>
+</TEI>

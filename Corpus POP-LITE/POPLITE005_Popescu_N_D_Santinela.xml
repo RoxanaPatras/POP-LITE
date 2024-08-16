@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Santinela de la Grivița: ediție POPLITE</title>
+                <author>Popescu, N. D.</author>  
+                <respStmt>
+                    <resp>codare POPLITE</resp>
+                    <name>Iuriusciuc Teodora</name></respStmt>   
+                <respStmt>
+                    <resp>verificare codare POPLITE</resp>
+                    <name>Lucreția Pascariu</name>
+                </respStmt>
+                <respStmt>
+                    <resp>corectare manuala</resp>
+                    <name>Alexandra Ionela Cîrcu</name>
+                </respStmt>
+                <respStmt>
+                    <resp>verificare corectare manuala</resp>
+                    <name>Alexandra Olteanu</name>
+                </respStmt>
+                <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>UAIC</publisher>
+                <date></date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+                <ref type="doi" target="10.5281/zenodo.10781227"></ref>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Popescu, N. D.</author>
+                    <title>Santinela de la Grivița</title>
+                    <pubPlace>București</pubPlace>
+                    <publisher>H. Steinberg</publisher>
+                    <date>1889</date>
+                    <decoNote type="ilustratii" subtype="yes"/>
+                    <dim unit="char" type="mare"/>
+                    <extent>
+                        <measure unit="word">32871</measure>
+                        <measure unit="page" type="under_250"/>
+                        <measure unit="foileton" type="under_65"/>
+                         <measure type="complete"></measure>
+                    </extent>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme='https://opentheso.huma-num.fr/opentheso/api/theso/Typologie'>
+                    <term type='domaine' ref="https://hdl.handle.net/20.500.11942/crteb7oodgosm">literatura</term>
+                    <term type='factualite' ref="https://hdl.handle.net/20.500.11942/crt22aacdhvi7">fictiune</term>
+                    <term type='forme' ref="https://hdl.handle.net/20.500.11942/crtnufdew1lfb">proza</term>
+                    <term type='genre' ref="https://hdl.handle.net/20.500.11942/crthuyig1pxri">roman</term>
+                    <term type='agencement' ref="https://hdl.handle.net/20.500.11942/crtbdm5xnc6io">foileton</term>
+                    <term type='origine' ref="https://hdl.handle.net/20.500.11942/crtxolq1evsr9">opera originala</term>
+                    <term type='discours' ref="https://hdl.handle.net/20.500.11942/crt4wma17ncnj">narativ</term>
+                    <term type='public' ref="https://hdl.handle.net/20.500.11942/crthb4el4r5qc">non défini (public cible)</term>
+                    <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
+                </keywords>
+                <keywords>
+                    <term type="receptare" n="5"/>
+                    <term type="republicare" n="2"/>
+                     <term type="finished"></term>  
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+                <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+                <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
+                <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+<body>
+<div type="chapter" n="1">
+	<head>I.</head>
+<p> Noaptea dintre 14 și 15 noiembrie a anului 1877 era obscură; cerul era acoperit de nori groși, vântul sufla rece și o ploaie măruntă amestecată cu măzărică de zăpadă făcea imposibil traiul afară de adăpost; cu toate astea în jurul acelui balaur cu sute de guri ce înghiți cu lăcomie atâtea vieți omenești și care se numește Plevna, mii de oșteni stau în anteposturi cu ochii țintă spre monstrul cumplit și înfruntau cu bărbăție întunericul nopții, asprimea frigului, iuțeala vântului și umezeala ploii, doar doar să-l vadă  doborât. </p>
+<p> Adăpost n-aveau deasupra capului decât numai cerul sprijin pentru picioare n-aveau decât un nămol gros și cleios, îmbrăcămintea le era subțire și în mare parte ruptă, dar neputincioase erau în contră-le și șuieratul Crivățului și asprimea frigului, și umezeala noroiului, căci în piepturile lor clocotea sfântul foc al iubirii de țară.</p>
+<p> Iubirea de țară, astă flacără sublimă care face pe om egal cu Dumnezeirea, astă scânteie cerească, izvor a tot ce e bun, generos și mare pe acest pământ, răsturnase toate legile naturii și din niște ființe slabe și neputincioase contra elementelor, făcuse niște titani, niște nemuritori.</p>
+<p> În deșert se repezeau vânturile din peșterile negrului adânc ca să respingă santinela română de la postul său, în deșert viscolul și chiciura își dădeau mâna cu vânturile turbate spre a face și mai groaznică viața afară din casă, în deșert sute de pâlcuri de nori fumurii alergau încurcându-se pe întinsa pânză a negrului firmament spre a umple aerul de mii de fantasme schiloade, groaznice și cobitoare, căci românul sta nemișcat la postul său precum au stat de atâtea secole străbunii săi ca să oprească păgânismul de a copleși creștinismul și precum strănepoții marii națiuni române au stat veacuri nenumărate nemișcați la poarta Orientului ținând mereu în mâini și mereu aprinsă flacăra civilizațiunii care să risipească întunericul produs de negura barbariei. </p>
+<p> Trecură veacuri peste veacuri, năvăliri peste năvăliri, primejdii peste primejdii; românul le înfruntă pe toate, cu toate luptă, adesea răsturna leul turcesc în floarea măririi sale; uneori căzu, dar se ridică îndată înzestrat cu noi puteri, și în loc nu se clinti, postul nu-și părăsi o singură clipă. </p>
+<p> El a avut totdeauna dușmani, tot de ăia mari și puternici;  Totdeauna a avut primejdii de înfruntat, tot de cele josnice; niciodată însă nu și-a numărat dușmanii, niciodată n-a măsurat mărimea primejdiei, ci și-a făcut semnul crucii și cu D-zeu înainte. </p>
+<p> Așa a fost românul, așa e și așa va fi de-a pururea cât va mai fi pruncul la sân de mamă română, flăcăiandru la vatră de tată român, o ființă de om pe pământ care să zică: român mi-a fost tata, român sunt, român voi să mor. Asemenea ființe oțelite printre atâtea veacuri de suferințe și răbdări, nu se dau înapoi dinaintea vântului și chiciurii, mai cu seamă când mai deunăzi au înfruntat viscolul bombelor, viforul șrapnelelor și ploaia granatelor turcești. Nu degeaba dar vă dezlănțuiți furiele vânturi turbate și vă înmulțiți spaimele neguri cobitoare.</p>
+<p> Santinela Română nu știe ce e dosirea, nu știe ce este codăcia; ea moare dar nu fuge niciodată; vânturi, vijelii, furtuni voi vă înfuriați și ea râde, voi urlați cu turbare și ea cântă, voi vă mâniați și ea se veselește; încetați dar cu lupta căci aveți înainte niste neînvinși.</p>
+<p> Mergeți în anteposturi necredincioși, uitați-vă, priviți, ce vedeți? Sunt ele, santinelele române, îngropate în șanțurile de paralele, înfășurate în măntăluța lor cea ciuciulită. Ce fac ele? Dorm? Picotesc? Tremură de frig sau frică? Nu, ci toate țin arma la mână, degetul pe trăgaci și ochii țintă spre  dușman; amar de păgânul ce va îndrăzni să-și scoată capul afară de coronământul redutelor, căci ochii lor țintesc bine și mâinile lor nu fac greșeli. Asemenea santinele neadormite se țin lanț de la Poradim până la Dolni-Etropol. Pasăre de ar fi dușmanul tot n-ar putea să scape din cercul  lor de fier.</p>
+<p> Într-unul din aceste posturi, într-unul din cele mai importante, adică mai primejdioase, într-un capăt al paralelelor care se întindea de la Grivița spre reduta Bucovei, într-un colț înaintat al unui zigzag, se afla un dorobanț, un curcan, unul din nenumărații eroi ai glorioaselor episoade de mai deunăzi, care văzuse moartea de aproape, se luptase cu dânsa voinicește piept la piept și o biruise spre a zbura la noi biruințe. </p>
+<p> De și Dunărea îl văzuse născând pe malurile ei, el era înalt ca un brad, drept ca un plop și falnic ca un paltin; ursita pusese pe chipul lui o înfățișare mândră și evenimentele din urmă îl înzestrase cu frumusețea bărbăției, cu arătoșia viteazului, cu aureola aceluia ce știe că și-a împlinit datoria cu vrednicie. Numele ăstui voinic era Stan Flămânzeanu, soldat în compania 1, batalion 1, regimentului  al 5-lea de dorobanți. </p>
+<p> Paralela în care sta era ceva mai adâncă ca jumătate din statura unui om și malul despre dușman se ridica până la înălțimea capului, astfel că un om de statură ordinară n-ar fi putut vedea nimic în juru-i; el însă trecea cu capul peste coronament și-și plimba cu atențiune și îngrijire privirea în toate direcțiunile. </p>
+<p> Pușca-i era rezemată de mal cu gura spre dușmani, cartușul vârât în cameră, degetul lipit de piedică și patroutașiul deschis gata pentru o nouă încărcare; astfel sta de mai bine de o oră el, precum sta și toată pânza de camarazi care formau verigele imensului lanț. </p>
+<p> Toate facultățile omului în asemenea moment se concentră numai în ochi și urechi: a vedea și a auzi cât se poate mai bine, iată unica preocupare a tuturor santinelelor, însă Stan Flămândeanu, care crescuse pe malul Dunării și avea ochi îndestul de buni ca să vadă în bezna nopții din satul lui, cum pleca furișându-se de dincolo caicul contrabandierului turc și auzea zgomotul aproape mut ce producea lopețile sale, n-avea nevoie de atâta silință, ci da voie gândurilor sale ca să mai zboare și aiurea; poate că chiar fără voia lui aste fiice rebele fugeau spre acele țărmuri unde-l aștepta un dor, o iubire, o îngrijire. </p>
+<p> Iată cam ce cuvinte ieșeau printre buzele lui încetinel ca și gândirea, pe când sta de ceas într-acea noapte. </p>
+<p> — Ah! Ce încet se scurge vremea când omule încins de dor! Ceasurile trec ca zilele și zilele ca anii!... Ce bine ar fi dacă anii s-ar face zile și lunile ceasuri! Ne-am vedea cu o zi mai curând visul cu ochii, am vedea fâlfâind cu mândrie biruitorul steag al românilor pe zidurile Plevnei, și după biruință am mai da ochi cu cei d-acasă!... Ah! Doamne! Doamne! Cât de cumplit e ăst dor de acasă!... De opt luni și mai bine nu i-am mai văzut, și parcă sunt opt ani! La Paști, uite, vine anul de când n-am mai dat pe acasă și de două luni trecute nu am nici o știre despre nevastă și copii, și gândul mă muncește, mă muncește groaznic! Ce s-o fi făcut ei oare? Trăiesc, au murit! Au lipsă de ceva? Nu știu nimic; vezi aste gânduri mă usucă din picioare. Nu duc grijă de moarte, căci dacă voi pica pe câmpul de cinste, voi striga ca Peneș căprarul din regimentul al treisprezecelea de dorobanți: „Doamne, ție și țării pentru care mă jertfesc încredințez viitorul copiilor mei!... „și țara va îngriji de ei și-i va ocroti ca o bună mamă ce e. Nu mi-e frică iarăși c-o să fiu schilodit, căci al țării mele este și trupul și sângele meu, dar să fiu viu și sănătos, și eu să nu știu ce se făcu și cum trăiesc ei. Zău astă grijă mă chinuie foarte cumplit! Trimite-mi, Doamne sfinte, o păsărică ca să-mi aducă veste de la copilașii mei, și, Doamne, un vânt ce suflă despre casă ca să-mi aducă pe aripele lui o șoaptă din dorul lor! Adu-mi, Doamne, o știre de la ei și pe urmă fie voia ta. </p> 
+<p> Pe când rostea aste cuvinte duioase, îndreptându-și ochii spre negrul cer, urechile i se ațintiră deodată spre partea Plevnei și începu să asculte cu mai multă atenție, căci i se păruse că aude în depărtare oarecare zgomot. Ochii  alergară și ei imediat ca să își facă datoria și gândurile triste zburară ca băgarea de seamă pentru ca să nu fie amăgit. </p>
+<p> Deocamdată urechile nu deosebiră alt sunet decât cel produs de crivăț și ploaie, dar după câteva minute, auzi destul de lămurit un ușurel fâșâit ce semăna cu țărâitul unui șarpe, care se apropia și din ce în ce se făcea mai auzit de el. </p>
+<p> Stan lipi degetul de trăgaci și punând arma la ochi strigă: </p>
+<p> — Cine e acolo? </p> 
+<p> Nici un răspuns nu primi și zgomotul se întrerupse iarăși ca să se audă din nou într-o direcție lăturașă. </p>
+<p> — Cine e! Strigă Stan pentru a doua oră, și neprimind răspuns nici de astă dată, ca un vârtej sări din șanț, se năpusti spre locul bănuit și începu a împunge cu vârful baionetei pânza de întuneric ce învăluia spațiul. </p> 
+<p> Deodată auzi cuvântul aman, și la minut se zări două scântei ca doi cărbuni, și o umbră mai neagră decât umbra nopții. Cele două scântei erau doi ochi de păgân și umbra era a unui om îngenuncheat. </p>
+<p>— Cine ești tu! Strigă Stan, apucând umbra cu o mână vârtoasă și aruncând-o în șanțul său. </p> 
+<p>— Ah! aman, răspunse cu o voce sfâșietoare într-o românească stricată, necunoscutul surprins de brava santinelă, aman! Nu mă omorî. </p> 
+<p>— Răspunde odată cine ești și unde te duci? Strigă Stan zguduind țeapăn pe necunoscut. </p> 
+<p>— Ah! Ghidi ghiaur, strigă turcul cu disperare după ce din zguduitura ce-l doborâse la pământ se încredință că avea a face cu un om mai puternic ca el și că orice rezistență ar fi fost de prisos. </p> 
+<p>— Răspunde-mi, că de unde nu te ucid, strigă iarăși Stan. </p> 
+<p>— La mine Turc nizam, răspunse necunoscutul cu fudulie. </p> 
+<p>— Nizam! exclamă Stan mirat; dacă ești nizam, ce cauți să te strecori printre santinele? </p> 
+<p>— La mine, se duce de la Plevna, fuge la mine. </p> 
+<p>— Ești nizam, ești oștean regulat și vrei să fugi? Să-ți părăsești hoțește steagul! Exclamă Stan din ce în ce mai mirat. </p> 
+<p>— La mine ioc ecmec. </p> 
+<p>— N-ai pâine? Ți-e foame, dacă fugi de foame pentru ce vrei să te strecori printre posturi, și nu vii ca să te dai de voie prins de război? </p> 
+<p>— La mine frică de voi, frică de iatagan al vostru, bașibuzucul al nostru făcută mult rizilic la voi. </p> 
+<p>— Ți-a fost frică că noi o să răsplătim răul ce ne-ați făcut iarăși prin rău? Se vede că tu n-ai trăit printre români și nu-i cunoști deloc. Află păgâne că românul uită răul și nu-și aduce aminte decât numai de bine. </p> 
+<p>— La mine cunosc pe voi, am fost în țară la voi; casa al meu e la Rahova, dar Hogea al nostru spus de voi mult rău. </p> 
+<p>— Hogea al vostru e un mincinos. Dar ce ai de tremuri așa, ți-e frică? </p> 
+<p>— La mine frig și foame.</p> 
+<p>— Dacă-ți este frig și foame na astă pătură de te înfășoară cu ea, na și acest pesmet și mănâncă. </p> 
+<p> Zicând aste cuvinte, santinela desfășură din jurul raniței o pătură aproape nouă și scoase din desaga ce avea atârnată după gât o galetă pe care Turcul începu s-o mănânce cu lăcomie. </p>
+<p>— Ah! exclamă Turcul radios de bucurie, după ce mâncă pesmetul, tu girâm?   
+tu schender? tu ai milă!</p>
+<p>— Sunt român, mila e o simțire firească în neamul meu. </p>
+<p>— Be, ghiaur, la tine baba? La tine cojuglar? </p>
+<p>— Da, sunt tată, am copii; dar tu?</p>
+<p>— Și la mine baba, și la mine cojuglar, răspunse Turcul aproape plângând de înduioșare, la mine cardas al tău, adăugă fugarul din ce în ce mai animat; la mine  cogeasî, la tine cogeasî, Turc, Ulac, adamasîn.</p>
+<p>— Intr-adevăr tot oameni, dar om și om! </p>
+<p>— Alah să-ți dea bine. </p>
+<p>— Mulțumim! Acum după ce ai mâncat și te-ai încălzit, haide pe șanț la vale; înainte marș. </p>
+<p>— Pe șeanț la vale? murmură Turcul zăpăcit de mirare. Unde duci la mine? </p>
+<p>— Colea la răspântie să te dau în primirea căprarului.</p>
+<p>— Căprar ai tău unde duce la mine, ha? </p>
+<p>— La Verbița. </p>
+<p>— La mine nu merge la Verbița; la Rahova mă duc. </p>
+<p>— La Rahova? si ce să cauți acolo?</p>
+<p>— Cadina al meu, cojuglar al meu la Rahova, conac al lor. </p>
+<p>— Ei și?</p>
+<p>— La mine vrea vede pe ei.</p>
+<p>— Ai vrea să-i vezi? Vezi, asta nu se poate. </p>
+<p>— Nu? Ama de ce nu?</p>
+<p>— Pentru că nu se poate. </p>
+<p>— Nu? și de ce nu ha? </p>
+<p>— Pentru că e poruncă strajnică ca să nu lăsăm să iasă picior de Turc din Plevna. </p>
+<p>— Be cardaș be, la tine nu e hain, la tine ein, bim adain, Ulah are milă de Ahmed; la mine cogea chioour; la tine nu vede nimeni, dă drumu lui Ahmed. Toate aceste cuvinte jumătate românești și jumătate turcești le rosti turcul cu o intonație așa de duioasă încât românul care cunoștea ceva din limba turcească, ca orice mărginaș după malul Dunării, se simți mișcat și nu putu a nu zice turcului cu bunătate:</p>
+<p>— Ia spune-mi și mie focul care-ți arde inima?</p>
+<p>— Ichi ilâ a trecut de când la mine a plecat de la conac. </p>
+<p>— De doi ani lipsești de a casă? exclamă românul cuprins de mare mirare. Ce-ai făcut și pe unde ai umblat într-astă vreme, căci Plevna abia de trei luni e înconjurată. </p>
+<p>— Tabor al meu la Bosno bătut, la Cernagora bătut, la Mostar bătut, la Odril bătut, apoi mers la Anadol, la Van, la Sucumcaleh; de acolo la Burgas, la Eschisagra, la Șipca, pe urmă la Sofia, la Orchania și de la Orchania intrat la  Plevna cu Sevchet Pașa. </p>
+<p>— Ai colindat lumea întreagă fără să-ți vezi nevasta și copiii? </p>
+<p>— Ah! ioc, ioc! exclamă turcul cu foc. </p>
+<p>— Într-adevăr ești vrednic de plâns, murmură românul înduioșat; el e mai nenorocit ca mine, adăugă în sine, și eu credeam că sunt omul cel mai nenorocit! </p>
+<p>— La tine plângi? exclamă turcul văzând pe român că-și șterge cu mâneca mantalei o lacrimă ce se furișase la coada ochiului. </p>
+<p>— Ah! ba nu, nu e nimic, slăbiciune omenească. </p>
+<p>— Ba da, la tine milă de Achmed, la tine inimă bună; dă drumul la Ahmed să vază copii ai lui. </p>
+<p>— Nu-mi este prin putință, aș călca porunca. </p>
+<p>— Mă întorc bre; la mine vine la tine; pe Alah, il Alah! La mine se duce la Rahova, vede cadâna și cojuglar, și vine fuga, fuga la Cardaș Ulah! </p>
+<p>— Nu se poate. </p>
+<p>— Ha! nu? strigă Turcul scoțând din ochi scântei luminoase, la mine știe pentru ce? </p>
+<p>— Pentru ce? </p>
+<p>— Rahova la mâna voastră. </p>
+<p>— Da, a căzut în mâna noastră. </p>
+<p>— Nizami ai voștri ars Rahova, dărâmat conac al nostru, omorât cadâne și copii al nostru. </p>
+<p>— Cine ți-a spus aste minciuni? </p>
+<p>— Minciuni ha?! iuz de iuz de cadâne și copil au căzut sub iatagan al vostru. </p>
+<p>— Mii de mii? dar bine măi omule cine tătaru ți-a îndrugat niște brașoave atât de boacăne?</p>
+<p>— Voi dat foc la case al nostru, voi dat la pământ giamia al nostru, voi ucis tot, jefuit tot, haram de tot al nostru! </p>
+<p>— Dar de unde ai aflat atâtea neadevăruri? </p>
+<p>— De unde ha? strigă turcul care se anima și se înfuria din ce vorbea mai mult; voi intrat în casa al nostru, harem al nostru prăpădit, cadâne al nostru prăpădit, copil al nostru prăpădit; tot zarear!</p> 
+<p>— Ia ascultă măi păgâne, spune-mi odată cine ți-a spus aste minciuni? că de unde nu te sugrum ca pe o găină. </p> 
+<p>— Vai! de orașiu al nostru, strigă Turcu din ce în ce mai fanatizat de sunetul graiului lui care din ce în ce devenea mai răsunător; giamii al nostru echir la cai al vostru, școla al nostru caravanserai la nizam al vostru, cișmea al nostru chenef al vostru. </p> 
+<p>— Spune odată, păgâne, dacă vrei să scapi cu zile, strigă românul apucând de gât pe turc și zguduindu-l cu putere, cine a clevetit cu atâta nerușinare neamul românesc? </p> 
+<p>— Cădii și hogii al noștri care au venit de acolo. </p> 
+<p>— Cădii! și hogi! ah! neam blestemat și fățarnic care ațâțați zâzania între neamuri! Voi și numai voi ați schimbat pe oameni în fiare și ați aprins focul războiului și al pustiirii!</p> 
+<p>— Cădii și hogii ai noștri! ioc iolangi, răspunse dârz turcul deși era singur și dezarmat în mâinile românului care-l ținea strâns de gât. </p> 
+<p>— Nu sunt mincinoși?</p>
+<p>— Ioc. </p>
+<p>— Vrei să te încredințezi?</p> 
+<p>— Da.</p> 
+<p>— Dacă e așa du-te la Rahova și încredințează-te păgâne cum se poartă românii cu femeile, copiii și nevoiașii voștri. </p> 
+<p> Pronunțând aceste cuvinte dădu drumul turcului care sări afară din șanț ca o săgeată și pieri într-o clipă dinainte-i întocmai ca o nălucă. </p>
+<p>— Du-te vezi-ți copiii, fii măcar tu fericit, murmură apoi Stan uitându-se lung după el și oftând din băierile inimii.</p> 
+<p> După aceea cazu iarăși în neagra sa melancolie. </p>
+</div>
+<div type="chapter" n="2">
+<head> II. Sentiment și datorie </head>
+<p>— Săracul! zise mai apoi Stan uitându-se încă cu milă și râvnă spre partea pe unde dispăruse turcul. E tată și el, și el are inimă, o să aibă încă parte să-și vadă copiii... pe când eu!... poate că-mi o prinde bine astă faptă, s-o ruga și el cu credință lui D-zeu în limba lui ca să mă învrednicescă și pe mine să am acest noroc. Oh! dar da Sânțulețul, că mult mi se mai pârjolește pustia de inimă!</p>
+<p> O tăcere momentală urmă după aceea, și mai târziu, cam peste o jumătate de oră, se auzi un sunet de pasuri care, cu tot zgomotul vântului și ploii, ajunse până la urechile sale și îl făcu să iasă din acea pâclă de negre gândiri.</p>
+<p>— Vine cineva încoa dinspre tabăra noastră! murmură el ascultând, dar cine să fie? schimbul? nu, căci nu sunt două ceasuri de când stau de santinelă; poate că o fi vreo patrulă, ori vreo gardă mare!</p>
+<p> Nu era nici schimb, nici patrulă, nici gardă mare, era numai o ceată compusă dintr-un caporal și patru soldați care înaintau prin șanțuri binișor ca să nu deștepte pe acel ce dormea prin ele cu apa până la genunchi.</p>
+<p> Ajungând aproape de locul unde păzea Stan, iscoada se opri, și căprarul zise lui Stan: </p>
+<p>— Vino după noi că te cheamă căpitanul. </p> 
+<p>— Nu mi-am împlinit ceasul, răspunse Stan. </p> 
+<p>— Nu face nimic, vino. </p> 
+<p>— Dar postul meu? </p> 
+<p>— Îl va păzi Neagu. </p> 
+<p>— Bine, răspunse Stan, și începu să îndeplinească formalitățile schimbului de santinelă, adică să-i comunice ce trebuie să facă și să-i spună cuvântul de ordine din acea seară. După aceea părăsi postul și urmă pe camarazii săi zicând în sine:</p> 
+<p> — Ce noimă o fi având astă chemare la miez de noapte?</p>
+<p> Ce s-o fi întâmplat? O fi venit poate vreo veste rea de la cei de acasă? sau că e la mijloc vreo drăcovenie!</p> 
+<p> Mergând între camarazii săi, Stan se muncea cu gândul ca să ghicească acea drăcovenie și tot gândindu-se și iar gândindu-se traversă tot șirul de șanțuri noroioase care lega anteposturile cu bazele de operațiune, se strecura binișor printre sutele de camarazi care dormeau prin șanțuri, coti mai multe zigzaguri și depărtându-se cât trebuie de întăririle turcești ieși din șanț la luminiș împreună cu însoțitorii săi, străbătu o bucată bunicică de câmpie lucie, pe care ploaia și chiciura o făcuse și mai lucie, și se îndreptă spre niște matahale negre ce se distingeau în întunecimea orizontului. </p>
+<p> Drumul era rău, noroios, alunecos, plin de gropi și de băltacuri, dar îl trecură cu bine și ajunse iute în mijlocul acelor matahale, adică în satul Verbița, reședința cartierului general român. Stan văzându-se acolo, începu să-și facă cruce și iar să-și bată capul ca să ghicească noima acestei chemări așa de ciudată și să se întrebe pentru ce era dus la Verbița și nu la Grivița unde se afla stabilit regimentul din care făcea el parte? nu se miră mai puțin când văzu că în loc de a se opri în marginea satului spre a intra în șirul  de bordeie ce serveau drept adăpost oștilor cantonate acolo, fu dus în mijlocul satului și condus spre unica casă cruțată de focul devastator al bașibuzucilor, în care era stabilit cartierul statului major general român.</p>
+<p> Ajungând acolo el și camarazii săi intră într-o tindă strâmtă și afumată și se îndreptară spre fund unde se afla un pat de campanie și înainte-i o masă de brad de care sta rezemat cu coatele un ofițer superior îmbrăcat numai pe jumătate și adâncit în lectura unei hârtii. Auzind zgomotul produs de pașii celor șase inși, ofițerul ridică în sus capul și, zărindu-i la licărirea razei de lumină ce împrăștia în juru-i o lumânărică de său înfiptă într-un gât de  sticlă, zise încetinel:</p>
+<p>— Călcați mai ușurel, căci acușica ațipi domnul general, apoi adăugase adresându-se către caporal și soldați:</p> 
+<p> — Lăsați-ne singuri c-am să vorbesc puțin cu acest băiat. </p> 
+<p> Caporalul și soldații ieșiră și, rămânând singur cu Stan, ofițerul îi zise cu o voce tristă: </p>
+<p>— Cum te cheamă, măi, băiete? </p> 
+<p>— Să trăiești, d-le colonel, Stan Flămânzeanu. </p> 
+<p>— Din ce armă? </p> 
+<p>— Al cincilea regiment de dorobanți. </p> 
+<p>— Ce batalion? Ce companie?</p> 
+<p>— Batalionul I, compania V-a. </p> 
+<p>— De când ești soldat?</p> 
+<p>— De trei ani.</p> 
+<p>— Ești însurat ori nu? </p> 
+<p>— Da, D-le Colonel, și am doi copii, un băiat și o fată. </p> 
+<p>— Când ai intrat de gardă?</p> 
+<p>— Ieri la unsprezece ? </p> 
+<p>— Dar la postul înaintat de la Grivița de când stai de ceas? </p> 
+<p>— De la zece ceasuri seara.</p> 
+<p>— Și ai șezut până la?...</p> 
+<p>— Nu știu ce ceas fu când veni căprarul să mă schimbe, căci cerul era plin de nori și nu se zărea puiul de stea; dar dau cu socoteala c-or fi fost vreo unsprezece și ceva.</p> 
+<p>— Va să zică pe la zece și jumătate erai de caraulă în postul ce ți se încredințase?</p> 
+<p>— Da, D-le Colonel. </p> 
+<p>— Ei ce ai văzut cât ai stat acolo? Ce s-a mai întâmplat? Ce s-a petrecut? </p> 
+<p>— Bine, pace, D-le Colonel. </p> 
+<p>— Nimic extraordinar? </p> 
+<p>— Nimic. </p> 
+<p>— Nu s-a făcut vreo mișcare printre turci? Nu ne-a picat vreun fugar?</p> 
+<p>— De astă dată nu, zise Stan cu o voce tremurătoare și silindu-se a își ascunde roșeața ce-i pricinuia rușinea că pentru prima dată de când era soldat mințea, se vede că vremea rea i-a strânjinit, adăugă el abia putând grăi.</p> 
+<p>— Va să zică tu n-ai dat astă seară ochi cu nici un păgân?</p> 
+<p>— Nu, D-le Colonel, răspunse Stan pierzându-și din ce în ce mai mult cumpătul.</p> 
+<p>— Adevăr grăiești? Poți să mă încredințezi cu cuvântul tău de oștean? Zise ofițerul cu un ton apăsat, uitându-se țintă în ochii lui. Stan începu să facă fețe, dar tăcu.</p> 
+<p>— De ce taci? Răspunde-mi, adăugase ofițerul cu un ton mai răstit. </p> 
+<p>— Am spus ce am știut, murmură el clănțănindu-i dinții în gură. </p> 
+<p>— Minți, și ca dovadă iată că cugetul te oprește să te juri. </p> 
+<p>— Ba... mă jur. </p>
+<p>— Nu, nu mai minți de surda că știu toată șiretenia. Pronunțând aceste cuvinte, ofițerul bătu cu sabia în masă și îndată intră printr-o ușă laterală un sergent de călărași.</p> 
+<p>— Aduceți încoace pe prinsul turc. </p> 
+<p> Sergentul salută, dispăru o clipă și reapăru îndată precedat de un soldat Turc; Stan văzându-l, scoase un țipăt de spaimă și surpriză: era el, Ahmed turcul ce mântuise.</p>
+<p>— Cunoști pe acest turc? Întrebă ofițerul uitându-se  țintă în ochii lui Stan, Stan nu putu să sufere săgetătoarea privire a ofițerulul și-și plecă privirile în jos și iarăși tăcu. Răspunde-mi, cunoști pe acest turc? Adăugase ofițerul mai cu răstire.</p> 
+<p> Sărmanul soldat și de ar fi voit tot n-ar fi putut să scoată grai din gură, căci fălcile i se încleștase și urechile îi vâjâiau ca și cum ar fi suflat în ele mii de crivățe </p>
+<p>— Acest om vine din Plevna, adăugase ofițerul, el iese pe surâsul cuib de foc și fier care a secerat viața a mii din frații tăi, poate că e unul din ucigașii lui Căpitan Năstase. Santinelele române sunt dese și deștepte, și cu toate  astea el s-a strecurat prin primul rând de santinele și era să scape și să se ducă cine știe unde ca să ne aducă pe cap cine știe ce primejdii. Dacă nu-l zărea și nu-l  prindea o santinelă din al doilea rând, poate că acum turcii  călcau peste trupurile noastre fumegânde. Ai văzut tu pe unde a trecut acest Turc? </p> 
+<p>— Nu... abia șopti Stan cu totul pierdut. </p> 
+<p>— Nici dai cu socoteala? </p> 
+<p> — Nu...</p>
+<p>— Atunci pentru ce tremuri? De ce ți-ai pierdut cumpătul?</p> 
+<p>— Căci mă prind frigurile. </p> 
+<p>— Nu mai minți de surda, băiete, zise ofițerul cu un ton poruncitor, căci el mi-a spus tot adevărul.</p> 
+<p> — Dacă ți-a spus el, strigă bietul Stan nemaiputându-se stăpâni, ce mai mă întrebi și ce mă mai chinuiești? Și mă faci să-mi mai pătez cinstea de surda? poruncește plutonului să se adune și să-și încarce armele, ca să se sfârșească toate.</p>
+<p> O să se facă toate după cum scrie legea, n-avea grijă, răspunse ofițerul, dar nu aici și nici acum; mai întâi ai să fii judecat și pe urmă condamnat dacă vei merita; până  atunci împlinește-ți datoria de soldat după cum te obligă  legea și spune-mi fără ocoluri, drept ca lui D-zeu, ce te-a făcut să dai drumul acestui păgân?</p>
+<p> Stan iar tăcu. </p>
+<p>— Nu știai ordinele severe ce s-au dat tuturor santinelelor de când s-a învestit cu totul Plevna? Nu ți-a spus nimeni când ai intrat de ceas ca să nu lași să iasă din vizuina dușmană nicio ființă omenească? Nu ți-au dat ordin șefii ca să aduci la depoul regimentului orice fugar vei prinde?</p>
+<p>— Ba mi s-au spus toate.</p> 
+<p>— Nu ți s-a spus că ei au nevoie să scoată din lanțul de fier în care-i era închis, spioni și curieri ca să vestească pe cei de la Constantinopol de starea în care se găsește Osman spre a le veni în ajutor?</p> 
+<p>— Ba mi s-a spus. </p> 
+<p>— Nu ți s-a spus că o asemenea veste ar putea să fie pentru noi toți foarte primejdioasă și ucigătoare? </p> 
+<p>— Ba mi s-a spus. </p> 
+<p>— Nu ți s-a spus că cel ce va contraveni ordinelor datea în timp de război nu mai are scăpare, ci e dat judecății și împușcat fără zăbavă? </p> 
+<p>— Ba mi s-a spus. </p> 
+<p>— Atunci de ce ai dat drumul acestui turc? Pentru ce l-ai lăsat să treacă fără să-l aduci ca pe un prins? </p> 
+<p>— Întreabă-l pe el, căci poate să-ți spună mai bine ca  mine, răspunse Stan cu hotărâre; el știe românește și poate să vă spună pentru ce i-am dat drumul, tot așa de bine cum v-a spus că eu sunt acel soldat ce și-a călcat în picioare cinstea spre a-l scăpa pe dânsul. </p> 
+<p>— El, fătul meu, nu mi-a spus nimic, ci numai chipul tău te-a dat de gol, replică cu un ton lin ofițerul. </p> 
+<p>— Atunci dacă e așa, n-am ce mai spune, răspunse Stan cu hotărâre. </p> 
+<p>— Gândește-te că ești tată, întrerupse ofițerul cu ton blajin, și că copiii îți sunt mici și numai printr-o mărturisire sinceră și neocolită poți căpăta oarecare ușurare. </p>
+<p>— Și el e tată; pentru aceea am uitat și datorie și poruncă și cuvântul dat, și i-am dat drumul ca să-și mai  vadă copiii; de ce nu vă dă el lămuririle de care aveți nevoie spre a scăpa un alt tată?</p> 
+<p>— Nu-l întreb pe el, ci pe tine. </p> 
+<p> Îmi scăpă din gură cuvântul care m-a făcut să-i dau drumul, ce mai vreți acum de la mine? </p> 
+<p>— Adevărul în toată întregimea lui. </p> 
+<p>— Acesta e adevărul.</p> 
+<p>— Va să zică turcul ți-a spus că este tată? </p> 
+<p>— Da. </p> 
+<p>— Că nu și-a văzut copiii de mult?</p> 
+<p>— Da. </p> 
+<p>— Și că de teamă să nu-i găsească morți și măcelăriți a fost silit să fugă ca să se încredințeze?</p> 
+<p>— Da, da, D-le Colonel. </p> 
+<p>— Poate să fi spus dreptul, dar poate să fi și mințit; poate să fie un tată adevărat, dar poate să fie și un spion; nu te-ai gândit tu la una ca asta?</p>
+<p>— Nu se poate, D-le Colonel; toate prefăcătoriile sunt cu putință, dar o inimă de părinte, aprinsă de dorul copiilor săi nu se poate preface.</p> 
+<p>— Ești neispitit, fătul meu, căci nu cunoști vicleșugurile omenești.</p> 
+<p>— Nu știu, poate să fiu înșelat, D-le Colonel, dar îți spui curat și-ți jur pe tot ce am mai scump pe acest pământ, că numai mila m-a făcut să-mi calc datoria. </p> 
+<p>— Te cred și te plâng, băiete, dar n-am ce-ți face; fapta ta e umană și creștinească, o recunosc, dar e o crimă pedepsită aspru de legi, și eu sunt nevoit să te trimit la Nicopole înaintea consiliului de război spre a-ți lua pedeapsa. </p> 
+<p>— Lasă-mă, încă, D-le Colonel, să iau și eu parte la luarea Plevnei, și pe urmă dacă oi scăpa teafăr, fă ce oi vrea cu mine, ia-mi și viața. </p> 
+<p>— Nu se poate, dragul meu; a te depărta de steagul tău în ora cea mare a biruinței, acesta e începutul pedepsei ce meriți. </p> 
+<p>— E cea mai mare. </p> 
+</div>
+<div type="chapter" n="3">
+<head> III. O câmpie de război </head>
+<p> Cruntă e vederea unui câmp de război, cruntă și sfâșietoare pentru o inimă simțitoare! Nu se mai vede verdeața de mai înainte, frumusețele naturii au dispărut și, în locul lor, se văd numai tristele rămășițe ale destrucțiunii! Râzătoarele câmpii ale Bulgariei care mai înainte fermecau ochii și răpeau inimele, se transformaseră într-un loc de groază; rodnicia pământului se schimbase într-o sterpăciune înfiorătoare și viața într-un mormânt! </p>
+<p> În locul câmpiilor semănate cu grâne îmbelșugate și pășiuni mănoase, erau baltacuri mocirloase și infecte prin care zăceau cadavre în putreziciune; în locul livezilor drăgălașe stau în picioare numai câțiva mărăcini goi și înnegriți de focul prafului de pușcă; în locul satelor și orașelor pline de viață și veselie, își ridicau frunțile spre cer numai niște ruine înnegrite de fum, pe lângă care se strecura în nopțile  fără lună pribeagul ce se întorcea să caute în sânul pământului ceea ce a ascunsese în momentul suprem al fugii, și în locul muncitorului care venea de la holde, se furișa bașibuzucul jefuitor, care venea să răpească ceea ce a scăpat însă nehrăpit, să dea morții și focului ceea ce a mai rămas neucis și neaprins. </p>
+<p> Drumurile cele mari, pe care mai înainte de război mergeau în pace care și căruțe pline cu bogățiile naturii, acum erau schimbate într-o imensă mare de noroi prin care înotau tunuri de mare calibru, chezoaone pline cu material de nimicnicire, care încărcate cu munițiuni, căruțe de ambulanțe pline cu răniți și murinzi, și lungul și tristul convoi al transporturilor de rechizițiune! </p>
+<p> Bietele vite care altădată erau grase, dolofane și pline de vigoare și sănătate și se jucau trăgând după sine poverile abundenței și prosperității, acum slăbănogite, flămânde, rebegite și obosite trăgeau din răsputeri poverile sărăciei! Parcă pricepeau și ele diferența ce exista între calitatea poverilor de mai înainte și a celor de acum, căci înfățișarea lor era tristă și posomorită. Tristă le era înfățișarea, căci tristă le era destinația și instinctul parcă le spunea cum că cele ce nu cădeau pe drum în lacurile de noroi și nu păreau sub biciul pahonțului, ori sub nogaica cazacului, ajungând la destinație, aveau să cadă în mâinile măcelarilor ca să procure oștenilor o zeamă de carne slabă și nesănătoasă. Ferice de aceia care reapucau calea noianelor de noroi și de baltacuri ca să evacueze nesfârșitele transporturi de răniți! </p>
+<p> Iată partea vitelor în teribila epopee ce se desfășura pe câmpiile Bulgariei între Dunăre și Plevna; a oamenilor nu fu mai de invidiat!... Pahonții ruși, cărăușii și beilicii români înotau de cu ziua până noaptea și de cu noaptea până ziua împreună cu vitișoarele lor prin baltacuri și potmoluri intrând în noroi până la brâu; când carul se înămolea oamenii  puneau umărul la roată, împingeau din ruptul inimii, trăgeau chiar în locul vitelor, căci cazacul sta la spatele lor și-și învârtea în mîini groasnicul gârbaci; iar când nu mai puteau deloc, atunci cădeau ca și vitele în noroi, sleiți de puteri și înghețați de frig, ridicau spre cer niște căutături deznădăjduite și mureau ca dobitoacele departe de căsuța în care trăise până atunci liniștiți, departe de nevasta și de copilașii ce îi așteptau să le aducă pâinea din toate zilele! </p>
+<p> Oștenii prin lagăre nu erau mai fericiți, căci și puterile lor care trebuiau conservate spre a da cu vrednicie piept cu dușmanul, se sleiau luptându-se cu mii de suferințe! Nu mai era casă în picioare ca să-i apere de ploaie și frig, nu mai era copac pe pământ ca să le procure lemne și cărbuni, iar pânzele corturilor si mantalele lor erau prea subțiri ca să-i apere de umezeală și rebegeală. </p>
+<p> In tabere ziua domnea activitatea, viata și chiar o paliativă de veselie smulsă din inimă printr-un eroism de abnegațiune; dar ce activitate! ce viață! și ce veselie! o întrecere de a prepara în ore de repaos opera de carnagiu ce  avea să aibă loc mâine, sau a repara actul de distrugere ce se săvârșise în crepuscula nopții! Mii de oameni alergau de colo până colo întrecându-se, râzând și zbenguindu-se ca să prepare pentru a doua zi o nouă surpriză, adică să prefacă în cenușă o localitate ce încă surâdea cerului posomorât, și sute de minți cu ochii pe hărți alcătuiau planuri prin care să nimicescă vreun centru de activitate și abundență, să curme șirul vieții a sute de ființe omenești, să repurteze vreo victorie !... </p>
+<p> Crud ești, zeu al războiulul! crud și nesățios! omul nu ți-e de ajuns, viețuitoarele nu-ți împacă lăcomia prin jertfa vieții lor, nici vegetațiunea ce se dezbracă momentan de podoaba ei nu te satisface; ție-ți trebuie urme adânci, urme neșterse, urme anevoie de reparat, distrugerea care să transmită posterității groaznica faimă a faptelor tale! </p>
+<p> Ți-au greșit oamenii și-i pedepsești cosindu-i ca pe holde, nimicești vitele căci prin ele îți pornești falangele cotropitoare spre câmpurile de carnagiu, dar arborele ce umbrește lunca cea verde ce ți-a greșit? Dar păsărică ce și-a agățat cuibul de crăcile copacilor ce ți-a făcut? Ce ți-a greșit izvorul de-i seci apele? Ce ți-au greșit câmpurile de le pârjolești holdele? Ce ți-a greșit pământul de-l răstorni cu dosul în sus și îl presări cu șanțuri și movile, cu fascine și țăruși, cu groasă pardoseală de gloanțe și sfărămături de obuze, încât vegetația pe alocuri să nu mai răsară pentru multă vreme? Pedepsești prezentul, dar ce ai cu viitorul? Condamni pe cel de azi, dar de ce răpești pâinea din gura copilului din leagăn?</p>
+<p> Război, război, flagel Dumnezeesc, încetează, căci ți-ai trăit traiul, înceteză, că e aprope să te ajungă după urmă secolul al 20-lea, înceteză, căci suntem aproape de a deveni oameni în toată vigoarea maturității, înceteză, căci pentru prosperitatea popoarelor tu nu mai ești trebuincios.</p>
+<p> Ce era Plevna mai înainte de a tăbărî tu în preajma ei? După Cazanlic a doua grădină a Turciei din Europa, un loc desfătător, cum o numește Guillaume Lejeun, un turist francez, un orășel care trăia în mijlocul grădinilor și dealurilor sale, ai cărui fericiți locuitori își petreceau lin viața, culegându-și strugurii din potgorii, bogatele lor grâne după câmpii și pășunele din livezi; ce e azi? (1878) un nume istoric și nepieritor, ce e drept, dar și o vastă ruină, un vast cataclism, un vast mormânt!</p>
+<p> Satele din împrejur sunt rase de pe fața pământului său dacă într-un morman de ruine, locuitorii în mare parte au trecut pe sub ascuțișul iataganului cerchezului și bașibuzucului și o parte din ei fugăresc pe ici pe colo goi și muritori de foame! Dealurile de vie s-au transformat în redute ucigătoare, câmpiile în bande de șanțuri și paralele, livezile au dispărut și holdele cu verdeață s-au uscat sub dogoarea focului ucigător. Șoselele sunt desfundate, drumurile schimbate în noianuri de humă nămoloasă și urâtă la aspect și coastele dealurilor în niște alunecușuri ucigătoare. Încetează dar războiul, înceteză, căci crude sunt rezultatele tale. </p>
+<p> Cam unele ca acestea medita în sine într-un limbaj mai simplu, dar poate mai colorat, un om, un oștean, un dorobanț traversând locurile ce se învecinesc cu Plevna și îndreptându-și pașii coborând spre laturile Nicopolului. </p>
+<p> Acest om, acest oștean, acest dorobanț era Stan Flămănzeauu din al 5-lea regiment de Curcani </p>
+<p> El fusese expediat din Verbița spre Nicopole într-un car țărănesc de rechiziție, condus de patru boi și mânat de un unchiaș încă verde; carul mergea în pasul boilor și doi călărași însărcinați de a nu-l pierde din vedere mergeau  la pasul cailor în urma carului. </p>
+<p> Această supraveghere părea a fi de prisos, căci Stan nu da semne de opunere sau gând de fugă; el zăcea în fundul carului pe o mână de paie și ghemuit în măntăluța sa, uitându-se cu jale spre locurile ce-l înconjurau. </p>
+<p> El sta nemișcat, ca o stană de piatră, fără să dea semn măcar printr-un gest că încă mai trăia; el sta amorțit, dar corpul nu-i era bolnav, sufletul îi era zdrobit, abătut, nimicit pentru că se ducea spre Nicopole ca să fie judecat de consiliul de război ce funcționase acolo în tot timpul cât durase luptele în jurul Plevnel, și a-și da seama de inculparea cea mai gravă ce se putea aduce unui oștean, aceea că și-a călcat consigna! Ce lovitură poate fi mai groaznică pentru un om și mai cu seamă pentru un oștean, ca aceea de a se vedea acuzat de o crimă atât de infamă și de a se aștepta să fie condamnat chiar în momentul când spera să pună pe fruntea sa coroana eroilor? Ce izbitură mai puternică pentru un om de inimă ca aceea de a se vedea taxat de trădător chiar în momentul în care credea că va fi răsplătit ca salvator? Ce palmă mai nimicitoare pentru un soț și părinte ca trista realitate de a vedea viitorul soției și copiilor săi pierdut pentru totdeauna, chiar în momentul când spera să-l vadă îmbunătățit în urma sacrificiilor ce făcuse țării sale? Avea dreptate bietul om, avea dreptate  să blesteme războiul căci el și numai el l-a adus în marginea prăpăstiei. </p>
+<p> Dacă sufletul lui ar fi fost mai liniștit și ochii săi mai limpezi, ar fi putut să se cutremure și să blesteme și mai cu foc acest flagel Dumnezeiesc. </p>
+<p> Aspectul vecinătăților Plevnei erau demne de cutremurat, dar al laturilor mai depărtate era și mai îngrozitor. Este știut că de la Nicopole până în Balcani nu e alt de cât o continuă și neîntreruptă succedare de dealuri și văi. Dealurile sunt formate dintr-un pământ roșu, nisipos și mișcător, în mare parte lipsit de păduri, iar văile sunt formate dintr-un pământ negru și humos care în timp de toamnă și primăvară servesc drept pat al unor torente formate din scurgerea apei de ploaie după dealuri, iar în timp de secetă când se acoperea de o pășune bogată servea drept islaz vitelor.</p>
+<p> De la Verbița pănă la Breslenița sunt două trâmbe de asemenea dealuri, pe coasta cărora se adăpostesc satele Cuiulevaț și Cajulevaț; de la Breslenița până la Cupricea e încă un deal și de acolo până Muselim-selo este numai o coastă lină și o vale întinsă dominată de dealurile Osmei. Îndată ce treci Osma dai de dealul pe care se află satul Cerno-selo și după el se mai află încă o trâmbă de dealuri, la picioarele cărora se odihnește Nicopoli. </p>
+<p> Aceste dealuri și văi sunt tăiate de a curmezișul de o șosea ce leagă Biela cu Nicopoli, Lovcea, Traian și Orchania prin Plevna, și peste Osma e aruncat un pod de piatră boltit în formă convexă. Mai înainte această șosea era destul de practicabilă, deși întreținută cam turcește, și podul în stare destul de bună pentru țara în care se afla; acum însă, adică pe la mijlocul lunii lui noiembrie, anul 1877, pod, șosea, dealuri și văi, din cauza imensei circulații și a nesfârșilelor ploi ce începuse a cădea întruna de pe la începutul lui septembrie, se transformase în niște făgașuri adânci de apă și noroi, prin care înnotați cu viața în mâini la fiece pasă, mii și mii de ființe de diferite forme și mărimi încărcate cu felurite previziuni și muniții de război. </p>
+<p> O! câte drame mișcătoare nu s-au petrecut pe acele drumuri în decursul lungilor luni de război; o! câte vieți nu s-au sacrificat spre a asigura îndestularea oșteanului ce murea colo în război pentru binele comun, o! câte devotamente sublime n-au avut loc fără ca nimeni să le reclame recompensele, fără ca nimeni să le spună posterității. Nu e locul aici de a le enumera; pene mai competente și mai bine informate trebuie, sunt datoare să adune cât se va putea mai multe din aceste episoade mișcătoare, și să le spună lumii ca să știe și mic și mare cu ce preț și cu câte sacrificii s-au cumpărat de către români iubita lor neatănare precum și dezrobirea creștinătății de sub jugul păgân. </p>
+<p> Vom trece dar sub tăcere tot ce se petrecu pe acele poreclite drumuri mari și vom spune numai aceea ce văzură călărașii și ar fi putut vedea și Stan dacă ar fi avut inimă de văzut.</p> 
+<p> Cum călătorul se vede la poalele dealului Cuprivei, chiar sub poalele dealului se face o împreunare între două dealuri mari ce se coborau din două dealuri deosebite; unul e acela ce conduce de la Verbița spre Nicopoli, pe care venea convoiul lui Stan și pe care îl adusese în oarecare stare de practicabilitate corpul de geniu român; celălalt e acela ce vine de la Parodim prin Tucenița și Mecica, pe care șerpuiește șoseaua cea mare Nicopoli-Lovcea. </p>
+<p> Coasta Cuprivei este mai lină și mai prelungită, coasta Tucenițel este mai bruscă și mai precipitată. Moș Dragnea, conducătorul carului în care zăcea Stan ar fi putut să se lase în grija bouleanilor lui care cunoșteau drumul, căci el bătătorise mai de multe ori aceste locuri, dar n-o făcu, deși drumul era pustiu, căci pământul era alunecos, laturile coastei cam prăpăstiose și despre Nicopole se zărea în depărtare venind spre partea locului un foarte lung convoi. Ca să nu dea omul de pocinoagă, lăsă lenea la o parte, sări în mijlocul noroiului ce pardosea drumul, și, luându-și boii de funie, începu a-i conduce cu băgare de seamă spre vale în jos. </p>
+<p> Pe când mergea astfel încetinel, urmat de aproape de călărași care-și conducea și el caii la pas, văzu deodată apărând pe coasta opusă o trăsură de ambulanță care cobora coasta ca o vijelie, în fuga a trei cai înnebuniți de zăbale și bici. Era o ambulanță rusească.</p>
+<p> - Iată isprăvile sfintei votci! exclamă Drăgan, arătând călărașilor căruța ce cobora coasta ca carul lui Sfântul Ilie; o să vedeți că o să dea de pocinog. </p>
+<p> Nu sfârși bine unchiașiul vorba, și deja căruța ajunse în vale, și intră în mijlocul unui băltăcău de apă și începu a zbura, zbura prin băltoacă ca o barcă mânată de zecimi de pânze și lopătari. </p>
+<p> Acei ce stau pe capra căruții, trecând pe aproape de călărași, începură să strige cu voioșie și să dea bice cailor ca cum ar fi vrut să râdă de prudența românească; românii însă nu se cotiră, ridicară din umeri și-i lăsară să facă ce or vrea. Bucuria lor însă nu fu de lungă durată, căci tocmai când nu se așteptau, tocmai când despicau apa mai cu putere și ridicau în juru-le valuri de noroi, deodată caii făcură o săritură în lături și se poticniră; două roți din drepta ieșiră afară din apă, căruța își pierdu echilibrul și se răsturnă în nămol, iar mai repede ca o clipeală veselii conducători fură aruncați cât colo în băltac și, lucru de groază! Trei nenorociți răniți care se aflau în căruță fură aruncați și ei de zguduitură acolo unde deja zăceau caii și căruțașii. </p>
+<p> Spectacolul era groaznic! Ființe omenești, mai cu seamă suferinde, erau în pericol! Călărașii cu inima lor românească săritoare și pornită spre milă, uitară într-un moment că au sub pază un acuzat criminal, uitară severitatea ordinului ce primise și responsabilitatea ce spânzura deasupra capetelor lor, și descălecând, într-o clipă săriră în apă și alergară spre trăsura răsturnată. Căruțașul căzuse după capră între cal și se lupta cu apa ca să nu se înece, soldații sanitari zăceau în nămol cu apa mai până la gură, fără să încerce de a se scula, căci erau beți morți, și sub hirurgul ce scăpase ca prin minune, se silea în zadar ca să scape de o moarte sigură bietele ființe ce erau confiate  de șeful său. Călărașii cum sosiră, înțeleseră numaidecât că Drăgan nu se înșelase, că numai sfânta votcă fusese cauza acestui regretabil accident, și se puse în grabă pe lucru. Ca să scoată din căruță și de sub căruță pe răniți era cu neputință, căci n-aveu loc și apa năvălea din ce în ce mai mult în între ei; să lase pe aceștia și să culeagă pe aceia ce deja zăceau în noroi nu le venea căci cei mai mulți și mai în primejdie erau încă în căruță; puse dar umerii ca unii ce erau învățați cu asemenea nevoi, se opintiră, colea voinicește și izbutiră a pune, după multă ostenelă, căruța pe roți; după aceea culese pe cei căzuți prin apă, puse pe căruțaș și pe sanitar copăcel în piciore, ridicară caii, drese cu chiu cu vai hamurile și așezară pe cai la locul lor. </p>
+<p> Subchirurgul uimit de repedele rezultate ale acestui ajutor neașteptat, alergă în căruță să vadă în ce hal se aflau răniții și se lua cu mâinile de păr îngrozit de ceea ce văzuse. Paturile suspendate în partea de sus se desprinseseră și căzuseră cu poverile lor peste cel de jos, răniții zăceau  val-vârtej unul peste altul într-un spațiu îngust, fiind mai toți uzi de apă și plini de noroi; unul din el avea capul și gura plină cu tină, la unul se deschisese rănile și sângele roșea legăturile, iar unul zăcea leșinat fără să se mai miște. </p>
+<p> Bietul subchirurg, care, precum se vede, luase mai puțină parte din adăparea frățească, începu să-și dea cu pumnii în cap și să caute în geantă cele necesare; apoi cu chiu cu vai deșteptă pe cei amorțiti, punându-i sub nas o sticluță cu amoniac, dezlegă rănile ce-i sângerau și le premeni în grabă; celui plin de apă și noroi îi schimbă veșmintele și pe urmă începu să-i numere. Șeful său îi dăduse în primire patru răniți și în căruță erau numai trei!</p>
+<p> Un țipăt de groză ieși atunci din pieptul său, și fără să știe ce face, se aruncă în apă și începu să scormonească cu mâinile noroiul ce-i venea mai până la brâu. Căutând încoace și încolo prin apă dădu de un obstacol înnămolit, se cercă să-l ridice în sus, peste putință; greutatea lui era mai presus de puterile sale. Călărașii înțelese; se duse să pună măna ca să-i dea ajutor, și după mai multă trudă și osteneală, reușiră să miște din loc și chiar să ridice acea greutate până la suprafața apei, dar cum o răriră o lăsară repede să cadă iar în jos cuprinși de scârbă și spaimă, căci în loc de om scosese din apă capul și grumajii unul bivol umflat și pe jumătate putred: iată obstacolul care răsturnase căruța. </p>
+<p> Toate bune, dar unde era omul ce lipsea? Nicăieri! Subchirurgul și călărașii îl căutară de a surda mai o jumătate de oră și de urma lui nu putură să dea. Obosindu-se de atâta căutare și uitătură, călărașii se întoarseră la carul lor, și cum ajunse se grăbiră de a se uita în căruță, dar nu văzură nimic, căci Stan și moșneagul dispăruseră!... atunci părul li se zbârli măciucă în cap, blesteme groaznice ieșiră din buzele lor și săriră iute pe cal ca să alerge în goană după urma fugarilor spre a pune mâna pe ei. Nu apucară însă să pornescă și stătură locului uimiți și înduioșați, căci zăriră la oarecare depărtare pe Stan și pe cărăușii cam în dosul căruței rusești și la oarecare depărtare de car, ducând în brațe spre ambulanță un corp omenesc, pe rănitul pierdut. </p>
+<p> Cum îi zăriră călărașii alergară voioși spre acea parte, îl ajutară să ducă povara ce încă respira, încredințară pe rănit în mâna chirurgulul care începu să plângă de bucurie și pe urmă se întorse spre carul lor. </p>
+<p> Iată cum prizonierul amenințat de moarte reușise să dea viață unui om; el sta tot adâncit în piroteala lui și moșneagul scosese din car câțiva coceni de porumb și-i pusese în gura boilor ca să le mai momească lenea când deodată se auzi un țipăt de disperare aproape de el. Stan auzindu-l tresări, deschise ochii, se uită în juru-i și îndată arată moșneagului cu mâna un punct abia văzut care se mișca încoace și încolo. Moșneagul cum văzu acea mogâldeață se înfioră și începu să se închine, dar din loc nu se mișcă; Stan însă mai iute ca o licărire de fulger, sări în apă, se repezi spre acel punct, îl ajunse la oarecare distanță de car, puse mâna pe el și scose din nămol un om care nu știa ce face și unde se duce, o ființă cu puterile scurse, cu mintea rătăcită și cu trupul înlemnit. Punând mâna pe el vru să-l ia în brațe ca să-l scotă afară din apă, însă înecatul începu să se zmuncească și să se lupte cu disperare, înțelegând că avea a face cu un om disperat de groaza morții și poate și bolnav de tifos în aprinderea furiei de nebunie, Stan îl cuprinse bine în vânoasele lui brațe, îl ridică în sus, făcu semn moșneagului să vină ca să-i dea ajutor, și, luptându-se cu el într-un mod destul de serios, reuși să-l domolească și să poată a-l duce spre ambulanță. </p>
+<p> După ce dobăndiră de la moșneag aceste lămuriri, călărașii minunați de neașteptata purtare a prizonierulul lor, încălecară și se așezară fiecare în câte o lătură a carului, Stan se sui și iarăși se ghemui în cuibul său,  moșneagul ocupă locul din gura carului ca să mâne boii mai cu înlesnire, și, după ce-și făcură cu toții cruce și-și urară unii altora cale bună, porniră înainte spre Muselin-Selo. </p>
+</div>
+<div type="chapter" n="4">
+<head> IV Un convoi de rechiziție </head>
+<p> Valea dintre Grivița și reduta No. 2. fu botezată de români: Valea plângerii; acest nume cobitor putea să le poarte toate văile dintre Nicopoli și Plevna, căci multe lacrimi de creștini curse prin acele locuri blestemate; mai cu asupră îl merita valea Osmei. </p>
+<p> Omul cel mai deprins cu spectacolele îngrozitoare, ființa cea mai împietrită nu putea să rămână nemișcat la vederea grozăviilor ce se desfășurau în fiecare minut și la orice pasă într-această vale de jale. Dealurile aici se mai depărtau unele de altele și formau o mică câmpie, prin mijlocul căreia Osman își săpase adâncele și prăpăstioasele sale maluri. Prin această câmpie și ceva cam pieziș de apă șerpuia soseaua cea mare care se despărțea în două la piciorul unui deal spre a lua două direcțiuni deosebite. Transporturile cele nesfârșite, greutatea mașinilor de război ce trecuse pe ele, reaua stare în care se aflase sub neîngrijitoarea administrație a guvernului turcesc și mai cu seamă ploile cele mari și dese transformase altă vale, cum am mai spus, într-un adevărat heleșteu. </p>
+<p> In acel deal de apă și humă se vedea ici un car răsturnat, sfărâmat și părăsit de proprietarul său, colo un morman de pesmeți mucezit și încins de udătură, dincolo câteva perechi de boi cu picioarele rupte și pântecele spintecate de fiarele de pradă, mai încolo un cal poticnit, cu capul întins și limba scoasă, țintind o privire stinsă spre o manta putrezită ce plutea pe deasupra noroiului; la oarecare depărtare zecimi de vite, boi, bivoli, oi și capre, căzute de oboselă și foame, și infectând aerul cu greul lor miros. Astă tristă dar nelipsită urmă convoiurilor de război, era înconjurată de câini ce urlau, de șacalii ce se furișau prin coșurile descărnate ale stârvurilor putrezite și de lupi ce se băteau între dânșiî ca să  apuce și să hăpăiască măruntaiele victimelor proaspete ce sfășiase de curând. </p>
+<p> In aer planau vulturii ce venise din inimile Balcanilor și de prin pleșuvele vârfuri ale Carpaților, cloncanii ce umpleau aerul de tristele lor țipete, și corbii, și ciorile ce ciupeau și ele pe unde puteau din mulțimea leșurilor ce zăceau în toate părțile. Din toate aceste resturi, unele fumegânde și altele putrezite, tăvălite în apă și noroi, și din mirosul particular al fiarelor de pradă ce umblau în cete compacte, mai cu seamă noaptea, ieșeau niște exaltațiuni miasmatice așa de nesuferite încât i se întorcea omului inima și se îmbolnăvea numai respirându-le. </p>
+<p> Trecând pe acolo, călărașii își astupară nasul cu degetele, moș Drăgan scoase din luleaua ce nelipsit ținea între dinți, un nor gros de fum și boii mugeau cu întristare; numai Stan nu făcea nicio mișcare; bietul om iar căzuse în nesimțire. Intr-acest timp convoiul ce se zărise în depărtare se apropie de ei și trecu pe lângă dânșii luptându-se cumplit cu greutățile ce se înmulțeau și se împrospătau la fiece pas. Cincizeci și mai bine de care încărcate cu pesmeți mergeau unul după altul într-un șir care nu mai avea sfârșit. Carele trosneau sub greutatea poverii, boii suflau cu putere și oamenii îi încurajau să meargă înainte prin bice, mângâieri, îndemnări și felurite strigăte asurzitoare. Patru perechi de boi erau înjugați la fiecare car; oamenii ce-l conduceau mergeau prin noroi pe lângă dânșii și puneau umerii la obede la fiece pas, bicele și chiotele nu se mai precurmau, și cu toate acestea boii abia se mișcă, căci roțile ieșeau din apă încărcate cu noroi gros și intrau în pământ mai până la osie. </p>
+<p> Pe un drum bun ar fi mers în fugă și oștenii n-ar fi avut să sufere nicio lipsă; însă pe o asemenea cale orice îndemn sau bună-voință erau fără de folos. Administrația centrală și-a făcută datoria, românii de dincoace au trimis fraților de dincolo destule provizii, și cu toate acestea oștenii au fost nevoiți să mănânce când porumb copt, când porumb fiert, uneori și coceni fără alte merinde, pentru că drumurile bulgărești nu erau făcute de români, ci de turci. </p>
+<p> Pe când mergea astfel încet, trosnind și tot înămolindu-se marele convoi, deodată carul din fruntea convoiului se opri deodată și se plecă într-o rână și o roată din nămol se rupse în mici fărâme. Celelalte care stătură toate și călărașii ce le însoțeau veniră să vadă ce pricină îi oprea. Văzând că repararea era cu neputință așa în grabă și că altă roată nu se mai găsea, comandantul escortei dădu ordine să cotească la dreapta, dar țăranii strigară într-o voce că mai bine preferă moarte decât să lase pe camaradul lor singur într-acele locuri, pradă lupilor și a bașibuzucilor. De surda fură și îmbunările și amenințările și chiar silnicia, căci suferințele ce îndurase până aici bieții oameni le învârtoșase inima așa de mult, încât nu mai erau simțitori nici la înduioșări, nici la înfricoșări și nici la pedepse. </p>
+<p> Atunci Stan care asculta din carul lui, se sculă în picioare și le zise: </p>
+<p> — Fraților: copiii și rudele noastre care bat colo la Plevna pentru mântuirea noastră mor de foame, nu le-au mai rămas decât coceni de porumb; în mâna voastră stă de a-i pierde sau mântui, alegeți. </p>
+<p> — Să, plecăm c-auzi ce spune acest curcan, zise un unchiaș. </p> 
+<p> — Să plecăm, strigară toți dând bice boilor. </p>
+<p>— Unchiașule, adăugase Stan adresându-se către conducătorul convoiului, ai și d-ta vreun neam la Plevna? </p> 
+<p>— Cum să n-am; sărăcuț de maica mea! Răspunse unchiașul; ce, ori crezi că nu sunt român? Am un ginere și doi nepoți. </p> 
+<p>— Atunci pune mâna împreună cu noi tătucule, deșartă  sacii cu pesmeți în carul d-tale, înjugă toți boii la un loc, întoarce-te înapoi și dă fraților noștri încă câteva îmbucături de pâine. </p> 
+<p>— Să trăești, fătul moșicului, strigă moș Drăgan, aruncând căciula în sus; la Plevna înapoi băieți. </p> 
+<p>— La Plevna, strigară toți țăranii punându-se iute pe treabă. </p> 
+<p>— Dar tu ce te vei face? Cum vei merge până la Nicopole? întrebă caporalul escortei sale. </p> 
+<p>— Voi merge pe jos și la nevoie pe oblăncul șelei unuia din caii voștri, răspunse Stan, ajutând la descărcarea sacilor. </p> 
+</div>
+<div type="chapter" n="5">
+<head> V. O pleașcă bașibuzucească </head>
+<p> Partea Bulgariei situată între râul Iantra, munții Balcani, râul Vidin și Dunăre era în deplină putere a oștilor aliate româno-ruse; călărașii și cazacii cutreierau fără întrerupere împărțiți în mici escuade toate satele, cătunele, burgradele, pădurile și locurile cele mai izolate ca să asigure regulata comunicare a convoiurilor militare și viața puținilor locuitori bulgari ce mai rămăsese pe ici pe colo nemăcelăriți sau negoniți, toate acestea foarte adesea  se întâmplă să se strecore printre ei câte o ceată de bașibuzuci îndrăzneți și să dea jafului și pârjolirii localități abia părăsite de patrulele creștine.</p>
+<p>   - Pluton, arma la mână, cartuș în cameră, la ochi. </p>
+<p> Cutezanța acestor jefuitori a mers câteodată până la temeritatea de a ataca convoiuri de provizii și muniții,  pălite de sutimi de călăreți creștini, și de a aduce focul și pustiirea chiar pănă în sate situate în dosul armiilor aliate. </p>
+<p> Toate aceste cete transportate cu repeziciunea gândului, cum zice românul, de cei mai buni cai arăbești, își aveau cuiburile stabilite în colțul de pământ dintre Vadin, Vrața, Orhania și Rahova care încă se afla în mâinile turcilor. Pozițiunile întărite numite Gorni Dubnic, Dolni Etropol, Teleș, Vadin și Rahova erau localitățile de unde ieșeau mai adesea cu repeziciunea săgeții ăști tâlhari ca să-și exercite meseria pentru care aveau o foarte mare aplecare și îndemânare; căderea acestor pozițiuni în mâinile creștinilor și mai cu seamă luarea de către români a Vadinului și Rahovei care erau punctele cele mai apropiate de oștile împresurătoare, dădură comunicațiunilor o siguranță aproape perfectă, dar nu absolută, căci, cum am mai zis, Bașibuzucii sunt foarte îndrăzneți și au cai ageri; pentru aceia convoiurile de aprovizionare erau foarte bine păzite de călărași. </p>
+<p> Cu toate astea Stan mergea numai însoțit de doi camarazi și nu purta nicio grijă de Bașibuzuci, căci numele de Curcan și de Călăraș se lățise între  turci întocmai ca numele lui Sfarmă lemne și Frânge pietre din poveste printre copii, din care cauză Bașibuzucii fugeau de rupeau pământul îndată ce le zărea de departe căciulile. A dat șănțulețul să vină vremea să zică mama pruncului turc „taci că vine românul și te mănâncă” și pruncul să tacă înspăimântat, cum tăcea mai deunăzi pruncul român când mumă-sa îi  zicea: „taci că vine turcul”.</p>
+<p> Bașibuzucul e crud, sângeros, neomenos, inimă de piatră, dar foarte fricos; el se expune la mari primejdii, bizuindu-se pe fuga calului său, dar când e vorba să dea piept cu dușmanul înarmat fuge chiar dinaintea unor forțe inferioare la număr, și când se vede încolțit aruncă repede jos armele și cade în genuchi strigând: Aman!</p>
+<p> Stan și camarazii săi mergeau cam iute pe drumul cel noroios pentru că voiau să ajungă mai înainte de înserat la Muselimselo, fără să se gândescă la Bașibuzuci și la faptele lor, dar deodată se opriră și fiecare se smulse din gândurile în care se aflau cufundați, auzind venind de dincolo de peste dealuri un zgomot înfiorător urmat de niște țipete disperate. </p>
+<p>— Ce o fi asta, măi, Neagule ? întrebă pe camaradul său unul din călărași. </p>
+<p>— Știu și eu, frate? răspunse Neagu.</p> 
+<p>— Priviți, strigă Stan, arătând cu mâna spre dealuri. </p> 
+<p>— Foc!... </p> 
+<p>— Pârjiol!. .. </p> 
+<p> Într-adevăr, culmea dealurilor era încoronată de o coloană groasă de fum amestecată cu flăcări și miriade de scântei se ridicau mereu spre cer umplând aerul cu vălul lor cel cobitor. </p>
+<p>— Bașibuzucil! strigă Neagu. </p> 
+<p>— Pe ei copii! exclamă Stan. </p> 
+<p>— Pe ei, răspunse călărașii dând pinteni cailor. </p> 
+<p> Stan era pe jos, dar el îl întrecu în fugă și ajunse cel dintâi la poalele dealului; ardoarea ce-l cuprinsese îi dăduse aripi și-l făcu să zboare ca vântul. </p>
+<p> Pe când încă suia coasta, văzură deodată năvălind o mulțime de bătrâni, de femei, de fete și de copii, care alergau țipând spre vale în fuga cea mai mare, cu capetele și piciorele goale, cu hainele în dezordine, și cu spaima cea mai  groaznică zugrăvită pe figurile lor. </p>
+<p> Astă ceată de ființe omenești văzănd pe Stan și pe ai săi, în prima orbire a fricii, crezură că erau împresurați de altă ceată, și cum îi văzu căzură în genunchi înaintea acelor ce alergau ca să-i mântuiască și începură să sărute  picioarele cailor și să-i roage în limba bulgară ca să le fie milă de ei și să le cruțe zilele. </p>
+<p> Stan care știa puțin limba bulgară, le spuse că nu erau turci ci din contra creștini carele veneau întru ajutor, și-i invita ca sa se unească fără frică cu el și să se întoarcă înapoi spre a pune pe goană pe dușmanul comun. </p>
+<p> Bulgarii cum aflară că n-aveau a face cu dușmani, se sculară în sus, trecură repede pe lângă călărași, coborâră repede coasta și pe aici ți-e drumul, fără să le dea cel puțin un răspuns. </p>
+<p>— Zi-i bulgar și lasă-l în pace, zise cu ciudă unul din călărași, uitându-se lung după ei. </p> 
+<p>— Nu e vorba de învinovățire ci de treabă, întrerupse Stan; înainte, fraților, căci focul se lățește și țipelele de groază se înmulțesc. </p> 
+<p> Înainte de a ajunge în coama dealului, altă ceată de bărbați disperați, de femei cu părul despletit, de fete cu veșmintele sfâșiate și de copii plini de sânge se iviră înaintea lor alergând spre ei și strigând cu disperare: </p>
+<p>— Bașibuzucii, bașibuzucii. </p> 
+<p>— Unde sunt? întrebă Stan pe un bătrân care alerga în fruntea fugarilor. </p> 
+<p>— La Cerchez-Mahala. </p> 
+<p>— Câți sunt? </p> 
+<p>— Ca nisipul mării.</p> 
+<p>— Înainte cu D-zeu, strigă Stan fugind spre vârf ca un vârtej. </p> 
+<p>— Înainte, răspunse călărașii, urmându-l de aproape electrizați de exemplul prizonierului lor. </p> 
+<p> Într-o clipă fură în vârful dealului și din acel vârf putură să vadă cel mai înfiorător spectacol din câte poate produce crudul război. Colo în depărtare pe a doua coamă de deal, pe sub care curge râul Vid, imortalizat prin uriașa  luptă de la Plevna, ardeau în vâlvătaie case, biserici, giamii  și chiar arbori, și fumul ce ieșea din scândurile ce trosneau, din bârnele ce plesneau, din șindrilele ce zburau de colo până colo ca niște săgeți de foc și din copacii ce sfârâiau transformându-se în jăratic, mergea spre înălțimile cerului și umplea aerul de o negură neagră roșiatică, groaznică la vedere și nesuferită la miros. </p>
+<p> La lumina imensei tarlale de foc, ce cuprinsese tot apusul, se vedeau cete de ființe omenești cu înfățișări sinistre, cu chipuri de demoni, cu fețe mânjite de cărbuni și cu hainele pline de sânge, ținând într-o mână un iatagan destecat  și într-alta o faclă aprinsă, zburând în toate direcțiile pe niște cai numai foc și urmărind cete de fugari, pe care le secerau în cale întocmai ca secerătorul grâul, și pe care le călca apoi în picioarele cailor lăsându-le în urmă să-și consume agonia în ghearele lupilor flămânzi ce-i urmăreau de aproape. De caii lor, grozăvenie neînchipuită; atârnau la unul o copilă legată peste mijloc cu corpul în jos, măturând cu frumosul ei păr pământul gloduros, la altul o grupă de copii legați pe la subțioară de șea și atingând pământul numai cu vârful picioarelor, de altul o femeie legată de andăratele cu mâinile la spate, fiind silită să fugă repede ca și calul cu călcâiele înainte, și de altul un bărbat legat cu picioarele de coada calului și cu tot corpul târându-se pe jos într-o fugă vârtejosă!</p>
+<p> Mai încoace, pe o colină mai apropiată pe malul unu pârâiaș adesea uscat, locuitorii satului Slacovița, în loc de a se aduna laolaltă ca să opună un piept voinicesc năvălitorilor, fugeau cu mic cu mare care încotro putea, și fugind lăsau în urmă avutul, vitele și chiar ființe scumpe care nu puteau să se țină după ei. </p>
+<p> Un singur Bașibuzuc, numai un singur păgân trecuse pârâul și intrase în sat cu hangerul destecat, și aceia ce puteau să se apere, în loc de a se opune, se lăsau a fi tăiați și pârjoliți de un singur om și nu cutezau să se apere, ci își vedeau numai de fugă, atât de puternică era spaima ce-i cuprinsese încât sărmanii oameni nici că mai vedeau, nici că mai auzeu și nici că mai puteau raționa. A fugi, a muri, atâta știau și atâta făceau.</p>
+<p> Oștenii români erau numai trei, dar nu le urmară exemplul și nici nu fură ispitiți de măreția groaznicului tablou ce le sta înainte ca să se oprescă în loc și să-i privescă măcar o clipă; ci călărașii puseră numaidecât mâna pe carabine și coborâră coasta dând năvală în dușmani ca o furtună de vară într-o holdă deasă, iar Stan, fiind dezarmat, se abătu pe după un gard, smulse dintr-un gard un par țeapăn și se luă după păzitorii săi. Într-o clipă fură în mijlocul satului Siacovița; ca vântul se năpustiră spre ucigaș; ca uliul unul din călărași îl spintecă cu o izbitură de sabie, și ca viscolul se năpustiră cu toții spre prima ceată de păgâni ce veneau către ei și o spulberară ca pe o grămăjue de pleavă împroșcându-i cu o salvă de carabine care culcă la pământ doi ucigași. Stan cu parul lui izbi pe al treilea drept la mir șl fără multă vorbă îl trimise se facă cunoștință cu Mahomed. Precum bulgarii fugeau de Bașibuzucii înspăimântați și zăpăciți fără să se mai uite la numărul dușmanilor, tot astfel începură să fugă zăpăciți și înspăimântați și păgânii îndată ce zăriră căciulele românești.</p>
+<p> Ucigașii erau 16 la număr, șaisprezece bașibuzuci beți de sânge și de jaf, și soldații români numai trei; cu toate astea acei ce ucisese și pârjolise cu așa mare vitejie sate întregi, îndată ce dădură de o mică rezistență, se clătiră, se înspăimântară, făcură la dreapta împrejur și din fugăritori se schimbară iute în fugari și o luară razna pe deal în sus și începură să-l suie mai iute decât l-a coborât. </p>
+<p> Călărașii nu-i lăsară în pace; ei se luară după ei; Stan puse și el mâna pe frâurile calului unui bașibuzuc ucis de mâna lui, sări pe el ca o pană, zbură ca năluca, smulse din mâna altui păgân ce zăcea mort aproape de el iataganul ce avea încleștat în mănă, smulse cu alta un pistol din coborul șeii unui cal fugar, risipi cu o descărcătură creierii unui dușman ca să-i ia carabina, și văzându-se astfel înarmat și deghizat, lepădă parul cât colo, se luă în goană după fugari și începu a-i împroșca într-una cu descărcaturi de carabine și pistoale și cu strigăte care băga groaza mare în inimile lor. Fugarii bulgari dezmeticindu-se prin sosirea acestui ajutor providențial, încetară  de a mai fugi, se înarmară și ei cu ce avură la îndemână mai cu seamă cu pari și cu arme răpite de la cei căzuți, și se luară și ei după cei fugăriți. </p>
+<p> Când fură ajunși de călărași, bașibuzucii rămăsese numai șapte; doi căzură împușcați pe la spate, și, spre cinci, românii, deși erau numai trei inși, se năpustiră ca spre un singur dușman și îi strâmtorară într-o înfundătură de mal. De astă dată bașibuzucii strânși de aproape, văzându-se în fața unei pierderi sigure, se urmară cu curajul ce dă disperarea până și mișeilor, se întoarse cu fața spre călărași și începură să se apere cu multă bravură. Sabia românilor fu mai ageră și mai grea, loviturile curgeau una după alta ca grindina, și într-o clipă trei căzură ca să nu se mai scoale. </p>
+<p> Atunci sosiră și bulgarii și se năpustiră ca o droaie de hiene spre morți, răniți și obosiți de luptă și într-o clipă câmpul de onoare se transforma într-un câmp de carnagiu. Lungul șir al anilor de sclavie și suferință secase în inimele captivilor nobilele sentimente de generozitate ce fac fala omului liber, îl îndeamnă să ucidă și să schilodească fără de milă pe acei ce îi martirizase în decurs de atâtea secole, deși într-acele momente nu mai aveau putere a se mai apăra!</p>
+<p> Din toți bașibuzucii numai unul scăpă; el când se văzu strâmtorat, scoase din pept un țipăt sălbatic, lăsă în voie frânele calului său arăbesc și înfigându-i în burtă pintenii, zbură cu el încotro văzu cu ochii loc gol de dușmani! Stan însă, lacomul Stan care jurase să nu scape niciunul din păgâni, se luă după el și într-o clipă dispăru în negură. </p>
+<p> Călărașii isprăvind de lucru, își șterse săbiile și le băgară în teacă, își așezară apoi pistoalele și carabinele la locurile lor, își stoarse micile crestături și zgărieturi ce căpătase, mai cu seamă la mâini, și plecară pe aici încolo spre partea loculul de unde venise, fără să mai aștepte expresii de mulțumire și recunoștință de la bulgari, care în acele momente erau ocupați cu alte lucruri mai practice, adică cu ciopârțirea și buzunăreala celor căzuți. </p>
+<p> Pe drum, unul din călărași zise:</p>
+<p> — Îmi pare bine că s-a întâmplat una ca asta, căci pusei la încercare ascuțișiul sabiei celei noi ce mi s-a dat în locul acelei ce mi se rupse în două la ciocnirea de la Metropol.</p> 
+<p>— Și mie, zise celălalt, îmi pare bine, că-și făcu vânt bietul Stan și-și luă ochi de fiară ca să scape de o moarte sigură. </p> 
+<p>— Că bine zici, Voicule, răspunse Neagu, bietul Stan se furișă de noi în învălmășeală! Se prefăcu că s-a luat după turci, și și-a luat lumea în cap ca să scape de năpaste. </p> 
+<p>— Dar la Nicopole ce o să zicem noi? întrebă Voicu. </p> 
+<p>— O să povestim șiretenia cu bașibuzucii și o să spunem că a căzut mort în luptă; vestea luptei noastre o să meargă și prin alte guri până la Ghinărarii noștri, dar despre câți au căzut cine o să mai poată să-și mai dea socoteala? </p> 
+<p>— Bine zici; așa să spunem. </p> 
+<p> Tocmai când sfârșiră de a rosti astă din urmă vorbă, auziră la spatele lor: </p>
+<p>— Uf!.... îl dădui gata și pe ăsta. Călărașii auzind acest glas își întoarse capetele înapoi și ce să vezi? Stan era lângă ei, pe jos ca și mai înainte, fără iatagan și numai cu pistolul ce smulsese de la bașibuzuc trecut printre brâu. </p> 
+<p>— Dar ce ai pățit de te-ai întors? Întrebă Neagu. </p> 
+<p>— Ce să pațesc? răspunse el cu ton firesc, nimic; dar ce oare credeați voi că n-o să mai întorc și o să mă răpună turcul?</p> 
+<p>— Ba nu, dar...</p> 
+<p>— Dar gândeați poate c-o să fug? Românul nu fuge, vericule, niciodată dinaintea datoriei! Mi-am prins turcul, m-am bătut cu el, i-am omorât calul, el mi l-a omorât pe al meu, i-am rupt sabia, el cu cotorul a rupt pe a mea și pe urmă ne-am aruncat dezarmați unul în brațele altuia; brațele românești au fost mai vânjoase, căci turcul a rămas pe loc sugrumat și pe urmă fuga înapoi. </p> 
+<p>— Bine ai fi făcut, zise Voicu, dacă nu te mai întorceai. </p> 
+<p>— Pentru ce? </p> 
+<p>— Pentru că știi ce te așteaptă la Nicopoli. </p> 
+<p>— Și ce era să făc? </p> 
+<p>— Să te fi dus unde ai fi văzut cu ochii. </p> 
+<p>— Să fug! La ce mi-ar fi folosit? Ar fi crezut toată lumea că sunt vinovat, adică că am fost înțeles cu dușmanii țării, și copiii mei ar fi moștenit un nume rușinos. Mai bine mort decât fugar, căci pe mort îl plâng toți și pe fugar toți îl suduie.</p>
+<p>— Noi și ticluisem o minciună, zise Neagu, era să spunem că turcii te-au răpus în luptă. </p>
+<p>— Să nu faceți una ca asta; să nu spuneți nici pis din toate câte s-au petrecut, căci disciplina soldățească este aspră și puteți fi pedepsiți căci m-ați lăsat să fug departe de privegherea voastră, fie chiar pentru o faptă bună. </p> 
+<p>— Am fi povestit șefilor cu amănuntul tot ce ai făcut în cale și șefii s-ar fi înduioșat. </p> 
+<p>— Soldatul nu se cade să se înduioșească; el în loc de inimă trebuie să aibă în piept simțirea datoriei și nimic mai mult. Eu am făcut altfel și iată-mă aproape să fiu osândit ca să mor departe de tot ce-mi este drag pe acest pâmânt: de nevastă, de copilași și de steag. Nu vă călcați datoria, dragii mei. </p> 
+</div>
+<div type="chapter" n="6">
+<head> VI. Nicopoli </head>
+<p> După Ce trecură românii Dunărea spre a alerga la Plevna în ajutorul puternicului imperiu al Rusiei, Nicopoli deveni baza operațiunilor de transport și de evacuare a armatei române din Bulgaria; cu toate astea garnizoana ce ocupa cetatea și fortărețile, în loc de a crește scădea pe fiecare zi. Întăia dată când românii puseră primul picior pe pământul turcesc, se stabilise acolo întreaga Diviziunea a IV-a, dar  după ce trecu a treia și a doua diviziune, garnizoana se micșoră treptat până ce rămase numai câteva escadroane de călărași, câteva batalioane de infanterie și două baterii  de artilerie care să păzească podul de comunicare cu țara și să mențină buna ordine în oraș. </p>
+<p> E știut că Nicopoli nu e un centru de populație creștină ca Șiștovul, ci în mare parte este populat de turci fanatici și foarte revoltați contra creștinilor prin propagandele hogilor și dervișilor lor; pentru ce dar astă micșorare de forțe? Garnizoana română era nevoită să se poarte cu multă prudență și să dezvolte o foarte mare vigilență spre a menține buna ordine și a evita cursele ce în fiecare zi li se întindeau de către locuitori, mai cu seamă de către cei bătrâni, în inima cărora bigotismul religios era mai adânc înrădăcinat; pentru ce dar fură adoptate acele măsuri de restrângere a mijloacelor de apărare? Narațiunea ce avem înainte ne va explica enigma. </p>
+<p> În primele zile de ocupație, soldații și locuitorii se aflau într-o continuă luptă, într-o continuă pândă; cât ținea ziua de mare nu se auzea altceva decât pocnete de pușcă și nu se vedea decât fum de praf ieșind sau dintr-un colț de stradă înfundată sau din dosul vreunei giamii izolată, sau de după cafasul unei case depărtate. </p>
+<p> Într-o zi, un colonel mergând călare ca să inspecteze pozițiile din jurul cetății suia împreună cu escorta ce-l însoțea dealul deasupra căruia era situată bateria Samovița, ca să vadă cu proprii săi ochi acea înălțime dominatoare Nicopolului, ce fusese luată cu asalt de ruși în ziua de 4 iulie trecut, și a cărei pierdere sili cetatea să se predea. </p>
+<p> Jur împrejurul acestei înălțimi sunt numai vii și prin mijlocul lor șerpuiește o cărare ce conduce în vârful dealului. Pe când colonelul și escorta sa mergeau în pasul cailor pe acea poatecă ca să suie coasta, deodată auzi la spate pe un soldat zicându-i:</p>
+<p>— Păzea, d-le colonel, și îndată văzu ieșind din șanțul ce despărțea drumul de vii, un fum alb și apoi auzi o detunătură și o fluierătură de glonț trecându-i pe la ureche. </p>
+<p>Numaidecât doi călărași alergară spre șanț, îl suiră în fuga calului, intrară într-o vie, și, într-o clipă, se reîntorse a lucra cu ei un turc înălbit și gârbovit de ani, dar suspinând și tremurând de ură și răutate. </p>
+<p> Trebuia să se sfârșescă cu această stare de lucruri care devenea din zi în  zi mai nesuferită, trebuia dat un exemplu puternic care să taie și altora pofta de a mai comite asemenea crime; ocazia era găsită, n-avea decât să profite de ea grabnic și într-un mod hotărâtor. </p>
+<p> Două păreri deosebite fură exprimate chiar la fața locului, două curente opuse se iviră deodată. </p>
+<p> Un căpitan de roșiori, fost elev al școlii militare române și a altor școli speciale străine, credincios partizan al neabătutei discipline, propuse ca să se facă uz de legea marțială și să spânzure îndată pe turc în mijlocul pieței orașului fâră nicio formă de judecată, ca unul ce fusese prins în flagrant delict de atac cu mâna armată, ca, cu chipul acesta, să dea turcilor un exemplu aspru care să-i astâmpere. </p>
+<p> Un major de dorobanți ieșit din popor și crescut pe marginea Dunării, care cunoștea mai bine pe turci, fu cu totul de altă părere; el spuse că turcii, bătându-se cu creștinii, cred că săvârșesc actul cel mai plăcut lui D-zeu, când ucide vreun ghiaur, și îndeplinește cel mai sfânt sacrificiu când moare executat de către creștini, pentru săvârșirea unor asemenea fapte. Hogii și dervișii din înălțimea minaretelor le-a promis raiul și coroana de martiri tuturor acelor ce vor ucide pe vreun creștin sau vor fi uciși de mână de ghiaur.</p>
+<p> — Fiindcă prejudiciile la ei sunt adânc înrădăcinate, zise el, fiindcă frica de pedeapsa iadului îi muncește pe toți, și tuturor le surâde speranța de a scăpa de ele prin martiriu spre a li se răpi din mână o asemenea primejdiosă armă, ca asemenea aspirațiuni să fie năbușite și criminalul să fie dat pe mâna justiției locale, ca ea să-i judece și să-i pedepsească după legile locului.</p>
+<p> Astă părere neașteptată și contrarie mai tuturor usurilor militare, surprinse pe mulți, dar fu acceptată de colonel și pusă imediat în executare; ea produse toate rezultatele prevăzute de maoir. </p>
+<p> Cadiul, bimbașii și notabilii, surprinși de o conduită cu totul opusă celei rusești, care făcea uz de cea mai aspră severitate, fără să țină în seamă de sunt sau nu tribunale pe acolo, se bucurară foarte mult de procedarea românilor, luară pe culpabil din mâinile lor, îi aruncară în temnița cea mai obscură și se grăbiră a-i judeca; găsiră în coran un articol tocmai bun de aplicat într-asemenea ocazie, citi într-auz acel verset, care oprește pe orice credincios de a izbi pe dușman pe la spate, sub pedeapsă de moarte, și osândi pe criminal la spânzurătoare. Comandantul pieței dete încă o dată probă de mult tact, arătându-se generos și ceru iertarea osânditului, pe care o dobândi lesne.</p>
+<p> Altă purtare înțeleaptă și moderată, schimbă cu totul atitudinea turcilor față de români, și aceștia în loc de a vedea în români niște dușmani, începu să vadă în ei niște amici și protectori; încetul cu încetul ura și neîncrederea se schimbară într-o simpatie reciprocă, vrășmășia se schimbă în amiciție și temerea într-o încredere prietenoasă. Iată pentru ce românii împuținară garnizoanele în Nicopole și mai apoi din Rahova, iată de ce turcii se rugară de ei ferbinte ca să nu-i părăsescă, când fură nevoiți de evenimente ca să se retragă dincoace de Dunăre. Cu asemenea purtări românii au dobândit eterna amiciție a învinșilor lor de la Belgargic, de la Smârdan, de la Rahova și de la Vidin, și chiar neuitata recunoștință a miilor de prizonieri, care trăiră, în țara românilor șapte luni și mai bine, aproape ca la ei acasă și se despărțiră de biruitorii lor plângând de părere de rău și rugându-se cu lacrimile în ochi ca să nu mai plece. </p>
+<p> Când sosi Stan și păzitorii săi la porțile Nicopolului, turcii de mult se împăcase cu românii; șușanelele fusese atârnate iar în cui, iataganele reintrase în teacă și armonia între mahomedani și creștini era aproape perfectă. Certuri și încăierări nu se vedeau decât arareori și mai totdeauna cu bulgarii și cazacii ce mai rămăsese pe lângă guvernorul civil al orașului. </p>
+<p> Intrând în oraș, el găsiră străzile sale cele strâmpte și întortocheate goale și liniștite, de și abia apunea soarele dupe dealurile de la Hamali; locuitorii se retrăseseră în casele lor spre a-și face rugăciunea de seară, cărăușii care tăbărau în marginea orașului lângă Dunăre, se făcuse roată în jurul focului unde le fierbea mămăliga, și samsarii, contraccii și droaia de facem-treburi, care formeză coada armatelor în campanie, se strânsese pâlcuri-pâlcuri prin cafenele, ca să pună la cale noi gheșefturi pentru a doua zi. </p>
+<p> Numai santinelele după înălțimi și de la citadelă, patrulele pedestre și călărețe, și cânii, care, după cum se știe, sunt în mare număr prin orașele turcești, înfruntau ploaia cu măzărică care cădea pe pământ fără de contenire, și nu se împărtășeau de dulcețele tabietului, care place așa de mult locuitorilor din Turcia. </p>
+<p> Ajungând la postul comandantului de piață, un călăraș se coborî de pe cal, întră înăuntru și, după ce întârzia câtva, ieși de acolo însoțit de alți doi călărași, suiră cu toții dealul citadelei unde era stabilit cartierul general al comandantului cetății, și după câteva alte formalități, Stan fu dus într-o cămară umedă, rece, întunecosă și boltită, și auzi îndată ușa închizându-se după el și zăvorându-se cu drugi și verige de fier. Atunci sărmanul înțelese grozăvia sorții ce-l aștepta: pentru prima dată se vedea închis între patru ziduri, el, fiul câmpiilor întinse și al sfintei libertăți. Atunci, numai durerea îl doborî și-l făcu să cadă mai fără cunoștință pe un mindir de paie așternut de asupra unui pat mărunt. </p>
+<p> Trei, patru ore stătu într-un fel de amorțeală soră cu moartea! Nu vedea, nu auzea, nu simțea, pot zice că nici nu trăia. Ar fi putut să se dărâme bolțile închisorii peste capul lui și el ar fi murit fără să se deștepte, ar fi putut să se aprindă casa și să se schimbe în jeratic toate cele ce-l înconjura, fără ca el să se dezmeticească, ar fi putut chiar să se sfărâme verigele și să se deschidă ușile fără ca el să bage de seamă. Amorțise în el toate facultățile, sângele nu mai curgea prin venele lui, era într-o toropeală soră cu îndobitocirea. </p>
+<p> Avea dreptate să fie astfel, căci crudă a fost lovirea ce primise! În primele zile ce urmase dupe punerea sa în acuzație, el nu putuse să-și dea seamă într-un chip precis de soarta ce-i crease vina ce i se imputa, căci  nu-i gustase mai deloc roadele. Ce e drept, fusese smuls de pe câmpul de onoare, fusese lipsit de cinstea de a se lupta cu dușmanul pentru sfânta lui moșie, dar astă pedeapsă era numai morală. Mâhnirea ce simțise în primele momente, se împrăștiase prin incidentele petrecute pe drum și sufletul său se ușurase văzând c-a putut să facă bine semenilor săi chiar departe de câmpul de luptă. Santinelele care-l însoțeau erau în adevăr pereții unei temnițe vii, dar erau frați de ai săi cu care putea să schimbe câte un cuvânt, să-și împărtășească gândurile și să-și destăinuiască adâncul inimii. Lângă ei urâtul singurătății, chinul cel mai  groaznic al captivității nu exista, și pe lângă aceasta se întâmplase ca aceia ce-l păzeau să fie oameni ai lui D-zeu, creștini miloși, români adevărați, astfel că el nu băgase de seamă că era prizonier. </p>
+<p> Pe dată însă ce se văzu fără veste smuls din lumea în care trăise până atunci, îndată ce se văzu despărțit de cerul ce da un aer liber ca și sufletul său, de lumina zilei, care lumina mintea sa de pământul ce călca cu vârtoasele sale picioare, de oameni, de lume, în fine, de totul în care se deprinsese a trăi de când s-a născut, atunci ochii i se întunecară, mintea i se învălmăși, gura i se încleșta și simțirea înțeleni în trupul său; numai atunci simți că era prizonier. </p>
+</div>
+<div type="chapter" n="7">
+<head> VII. Nălucirile </head>
+<p> Dupe ore întregi de amorțire, i se păru că deschide ochii și că era înconjurat de un întuneric mormântal. În bezna acelei obscurități începură să-i joace pe dinainte fel de fel de năluciri sclipitoare, cum se întâmplă oricărui om care ține mult timp ochii închiși și apoi îi deschide într-un loc obscur; după aceea acele năluciri începură să se învârtească și să joace în juru-i cu o repeziciune amețitoare și să se schimbe în mii și mii de forme. Deocamdată nu  putu să-și dea seama într-un mod exact despre locul și poziția în care se afla, și-și dădu multă osteneală ca s-o ghicească, dar încetul cu încetul îi reveni memoria și cruda realitate se înfățișă înainte-i în toată groaznica ei goliciune. </p>
+<p> Mai întâi nălucile, care deocamdată aveau forme confuze și capricioase, luară o formă mai hotărâtă, dar mai întristătoare. Tot ce i s-a întâmplat, tot ce avea să mai pățescă și toate ființele de dorul cărora se usca pe picioare,  treceau pe dinaintea lui și-i făceau felurite semne. </p>
+<p> Iată reduta Grivița: Românii aleargă spre ea în șiruri risipite pitindu-se după mărăcini și mușuroaie; comandanții de plutoane și companii merg înaintea lor și le strigă cu Dumnezeu, copii, înainte, vitejii mei. Falangele merg, merg tocmai ca valurile unei ape inundătoare, care nimicește orice obstacol, sfărâmă orice piedică, închide orice stavilă și se urcă, se urcă până ce cuprinde tot. Așa înaintau cetele de soldați români, nesocotind gloanțele și șrapnelele ce curgeau peste el ca ploaia și râzându-și de piedicile ce le opune cumplita artă a războiulul. </p>
+<p> El era în mijlocul lor, ținând în mână o scară și în cap un gabion și alerga cât îl țineau picioarele. </p>
+<p> Iată Majorul Șonțu mergând călare înaintea batalionului său; uite-l cum ridică în sus sabia și auzi-l cum strigă cu voce puternică: înainte, copiii mei. El se oprește, se clatină, sângele îi țâșnște din piept, creierii capului său stropește pe cei ce-l urmează. A căzut; e mort; România numără un erou mai puțin și un martir al neatârnărei sale mai mult; dar căpitanul său adjutant îi ia locul și înaintează în fruntea batalionului, strigând tot: înainte, copii. Voinicii își văd majorul căzănd de pe cal, mort în floarea vărstei, îl  sprijinesc, îl pun la adăpost, îl plâng, dar nu se sperie, nici nu se opresc, ci merg înainte ca să-l răzbune. </p>
+<p> Ați sosit sub redută, Stan e cel dintâi care a pus scara pe parapet; gloanțele din puștile Wincester cu repetiție, detună în jurul său fără întrerupere, fascina ce poartă în cap trosnește într-una fiind mereu izbită de gloanțe și granate; el își așeză scara fără să se firosească și se pregătește de urcat fără să se tulbure. El a trebuit să fie cel dintâi român care să escaladeze procleta de redută, căci el puse mai întâi piciorul pe prima parte a scării spre a dura în cuibul dușmanilor, dar un ofițer tânăr și frumos smulge din vârful puștii unui sergent direcțional fanionul tricolor, îi face lui un semn amical ca să se dea la o parte, se urcă repede sus, și înfige steagul în muchia parapetului. Stan îl urmează pe dată și ajunge în vârf mai în același timp. Ofițerul înfigând fanionul în coama parapetului strigă: Trăiască România, dar zecimi de gloanțe dușmane îi pătrund pieptul, îi curmă vorba și viața și-l face să cadă în brațele sale. Acest brav între bravi este eroul popular român al secolului al XIX, este Buzescul reînviere bravurei strămoșești, este căpitan Walter Mărăcineanu. </p>
+<p> Românii năbușiți prin număr sunt siliți să se retragă, dar peste puțin se reîntorc spre a smulge victoria; Stan e din numărul lor; el își face din gabion un parapet, suie din nou peretele tabiei, sare cel dintâi în redută, lasă jos gabionul, scoate cureaua puștii de după gât și, întovărășit de mii de frați care plouă de pretutindeni, năvălește în trâmba de dușmani și începe să împungă și să dea vârtos cu patul puștii unde-i venea mai bme, fără să-i obosească brațul și fără ca să dea păgânului răgaz de a-l răni măcar. </p>
+<p> Iată colo la un capăt al redutei un turc fugind în brațe cu un mândru steag vrăjmășesc; un vânător îl vede, zboară după el, îl ajunge, se ia la luptă, îl străpunge cu baioneta, îl culcă mort la pământ, îl smulge cu putere steagul din mâinile ce se încleștase pe prăjina lui, mai mulți turci îl văd și năvălesc să-i ia steagul și să-l prăpădească. Stan sare în ajutorul fratelui în primejdie, dar până să ajungă el, doi frați de arme, un sergent și un caporal îl întrec, dovedesc pe păgâni, ucid patru din ei cu vârful baionetei și apoi se întorc la postul lor triumfători sub cutele steagulul ce ține în mâini bravul ce l-a dobândit, soldatul Grigore loan. </p>
+<p> Românii sunt biruitori! Turcii fug de le sfârâie călcâiele, învingătorii înaintează călcând peste grămezi de cadavre. Grivița e a lor și trei tunuri cad în mâinile strănepoților lui Mihai. Bucuria e la culme, aerul răsună de urale zgomotoase, semiluna e umilită și cei ce au luptat toată ziua cu ploaia, cu focul, cu osteneala, cu lupta și cu moartea, acum joc cu ochii inundați de lacrimi lângă cadavrele încă calde ale fraților lor. </p>
+<p> Iată Domnul țării pe calul său alb ca zăpada trecând ca săgeata pe dinaintea fronturilor înșiruite pe câmpul de bătălie, iată și împăratul și toți marii sfetnici ai puternicii Rusii oprindu-se înaintea lor și strigându-le în dulcea lor limbă românească. </p>
+<p>— Să trăiți, copii!</p> 
+<p>— Să trăiți vitejilor, adăugă Vodă al nostru, v-ați purtat ca niște români. </p> 
+<p> Dulce mângâiere simte omul când conștiința lui îi spune că și-a împlinit cu credință datoria, dar cu mult mai dulce și mai însuflătoare de noi jertfe e bucuria ce simte când aude pe șeful său superior, pe domnul țării lui mărturisindu-i-o în public, în fața soarelui si a lui Dumnezeu.</p>
+<p> Iată, piepturile celor bravi că încep să se împodobească cu răsplata ce așteaptă pe orice viteaz, iată Virtutea militară  și Steaua României, steme scumpe oșteanului român, lucind pe piepturi de viteji, alături de crucea sfântului George, distincție rară care se pune numai pe piepturi de eroi; curg cu grămada stemele menite ca să împodobească piepturile bravilor luptători. Mulți sunt care le merită, care s-au făcut vrednici ca să le poarte. </p>
+<p> Mare este răsplata, dar îndoit mare fu vrednicia. Între cei aleși e și Stan Flămânzeanu; pieptul lui e decorat cu virtutea militară. Camarazii îi prezintă armele când se întoarce la locul său cu pieptul împodobit și muzicile adunate la un loc intonează marșul de triumf. </p>
+<p> Așa răsplătește țara pe orice viteaz. </p>
+<p> Tabloul se schimbă iute, iată și crăncena luptă de la 6 septembrie. Iată cum păgânii ciopârțesc corpul încă viu al Majorului Nicolae Ion; iată cum expiră în groaznice chinuri făptuite de bași-buzuci căpitan Năstase: iată neobosiții dorobanți, legendarii curcani cum intră în foc ca într-o horă, cum se luptă cu dușmanii fără să bage de seamă că au a face cu un număr îndoit și cum apoi se retrag cu părere de rău, căci n-au putut învinge imposibilul și promit a reveni în curând spre a se încununa din nou cu laurii biruinței. Trecutul a dispărut într-o ceață alburie; iată și înfiorătorul prezent, iată-l pe el decoratul de la 30 august aruncat într-o temniță neagră; doi oameni venise să-l smulgă de pe patul de repaos și să-l ducă înaintea unui tribunal militar. Niște judecători cu figuri sinistre îi vorbesc răstit și-i aruncă în față niște insulte umilitoare. Unul cutează chiar a-l face mișel; el turbează de mânie, pune mâna la șold, dar tesacul lipsește, voiește să se repează ca cu mâinile goale să pedepsească pe insultător, dar două palme de fier se apasă pe umerii săi și două perechi de degete se înfig ca niște arcuri de oțel în carnea sa și-l țintuiește pe loc. </p>
+<p> Sentința se pronunță: grozăvie, e condamnat la moarte! Dar nu moartea-l face să se cutremure, ci înjositoarele pedepse ce o însoțesc. Este în satul său unde e înșiruită toată compania din care face parte; toate rudele și cunoștințele lui sunt de față; acolo i se citește sentința. O mână brutală îl silește să cadă în genuchi cu fața în noroi, altă mână se apropie și-i smulge de pe piept scumpa lui comoară, prețul vitejiei sale, medalia lui iubită, virtutea lui militară! Și o voce sălbatică strigă în gura mare:</p>
+<p>— Nevrednic e de ea. </p>
+<p> Atunci fruntea sa se colorează de rușine, ochii săi nu mai văd; numai urechile sale aud o detunătură de mai multe puști însoțită de niște țipete sfășietoare! Pieptul său simte o durere nesuferită și o răceală înghețătoare îi cuprinde corpul! E mort dar tot vede, tot simte! </p>
+<p> Ce vede? Ce simte? Vede pe soția sa în mizerie plângând pe drumuri și căutându-l în zadar, vede pământul său de muncă înțelenit și plin de bălării, vede casa sa dezvelită și pe jumătate dărâmată, vede pe preceptor luându-i din  bătătură vaca cu al cărui lapte se hrăneau orfanii săi, cerga cu care se înveleau copilașii săi și căldarea în care-și fierbeau mămăliga muma lor! </p>
+<p> Celarul e gol, coșarul e gol, pătuțul e gol, casa e goală și toate ființele ce-i erau mai dragi ca viața sa se zbăteau în ghearele crudei sărăcii, ridicând spre cer slăbănogitele lor mâini și cerând de la cel drept și îndurat dreptate și îndurare. </p>
+<p> Mult suferi oșteanul, mult suferi soțul, mult suferi părintele asistând la asemenea vedenie sfâșietoare! Dar nu se umpluse încă cupa încercării. Vedenia îl făcu să sară peste timpuri și ani ca să îndure niște dureri și mai mari! Fiul său, iată-l crescut mare: dar ce a devenit? Vai! Neavând pe nimeni ca să-i dea bune povețe și o direcție binefăcătoare, neavând pe nimeni ca să-l silească să învețe și să se apuce de muncă, el a fugit de la școală ca un leneș, a fugit de la muncă ca un tembel, a fugit de la recrutare ca un mișel și umbla de colo până colo fără de căpătâi întovărășindu-se cu hoții de cai și cu tâlharii ca să capete o pâine amară și neagră. Iată-l căzut în mâinile oamenilor legii și târât în temniță sub învinovățirea că ar fi ucis un drumeț; iată-l chiar osândit la ocnă pe viață. Unul din călărașii care-l conduc la locul de osândă l-a cunoscut și întorcându-se către camaradul său îi zise: </p>
+<p> — Iată fiul dorobanțului osândit la moarte pentru mișelie. </p>
+<p> Fiica sa se făcu și ea mare, ea a stat lângă maică-sa cât a avut ea zile. Sărmana mumă i-a dat toate ajutoarele putincioase și i-a servit ca o păvază de mântuire cât a fost în viață. Dar după ce suferința o îmbătrâni mai înainte de vreme și după ce nenorocirea o duse acolo unde nu e nici suferință, nici lipsuri, fata părăsi satul natal rămânând cu totul orfană, se duse în oraș, se băgă servitoare, munci cu hărnicie, biată fată, dar un dușman cumplinit o prigonea! Era frumoasă și nenorocită. Un bătrân putred de bani și de podagră își deschise punga și apropiă de ea mâna sa întinată; nenorocita întinse mâna, luă punga și...</p>
+<p> Un țipăt ieși din pieptul părintelui nenorocit și din nenorocire amarnicul vis pe care-l chinuise atâta amar de vreme se risipi împreună cu noaptea. </p>
+</div>
+<div type="chapter" n="8">
+<head> VIII. Consiliul de război </head>
+<p> Crude și împungătoare sunt durerile fizice, dar durerile morale sunt cu mii de ori mai crude și mai împungătoare. Stan, pe câmpul de război, îndurase multe neajunsuri, multe suferințe, multe osteneli: strivituri, răni și chiar foamea, dar pe toate le petrecuse cu bine, cu inima bărbată și cu fața veselă, fără să-și schimbe chipul și fără să-și piardă cumpătul; o noapte numai fu muncit de dureri morale și chipul său se schimbă astfel încât caporalul postului de gardă se spăimântă de transformarea ce văzu fizionomia sa atunci când veni să-i aducă de mâncare. </p>
+<p> Pe la prânz același caporal intră în închisoare și, găsind bucatele neatinse și pe arestatul său lungit în pat mai fără de cunoștință, se apropie de el și începu să-l miște; Stan tresări, deschise ochii speriați, voi să se ridice, dar căzu fără de putere în brațele temnicerului. </p>
+<p> Acest temnicer, sau mai bine acest șef de post, căci în armata română nu există post de temnicer, se întâmplase a fi un om bun la inimă și foarte milos. Acest caporal era un tip care din zi in zi se rărește prin cazarmele noastre și chiar în societatea nostră; el era o brazdă veselă care prin povești frumoase, prin snoave mucalite și prin glume piperate, dar nesupărătoare, descrețeste fruntea recrutului încins de dorul de acasă și-l face să râdă chiar când mai era gata să plângă. El era cronicarul ambulant al cazarmei, care știa toate, ținea minte tot ce afla și spunea într-un chip mucalit și plăcut tot ce știa. El avea obiceiul de a vorbi mai mult în pilde, pe care le spunea în versuri populare, cum le învățase și ei din povestea vorbei lui Anton Pann. Cum îl văzu că se clatină, acest caporal se repezi, îl apucă în brațe, îl sprijini de pieptul său și începu să-i facă curaj zicându-i: </p>
+<p>— Dar ce e asta pe tine, vericule? De ce ți-ai pierdut cumpătul ca găina umbletul? Fii cu inimă bărbată, căci ești român și soldat! </p> 
+<p>— Sunt nenorociri care biruesc orice bărbăție, răspunse Stan, oftând din băerile inimii. </p> 
+<p>— Nici o nenorocire nu e in stare să înfrângă bărbăția românească, replică caporalul! Relele sunt date de la D-zeu numai ca să ne luptăm cu ele și să le biruim. </p> 
+<p>— Așa e, răspunse Stan, dar de! Omul e om și pustia de inimă nu e lespede de piatră. </p> 
+<p> —Nu-i nevoie nici mâhnire fără s-aibă lecuire; căci cui pe cui se scoate și durere pe durere, deci primește ce-ți dă Domnul căci el își cunoaște omul și ceartă pe cine iubește, mângâie pe cine lovește. </p>
+<p> — Așa ar fi și așa aș zice și eu că trebuie să fie când aș fi pe lumea albă singur și de capul meu; dar când mă gândesc că nenorocirea mea o să izbească trei ființe nevinovate îmi piere curajul. </p>
+<p> — Ce spui, măi, frate? Ești însurat? </p>
+<p>— Da, și tată a doi copilași micșori! </p> 
+<p>— Atunci e altă vorbă; dar tot nu trebuie să-ți pierzi curajul; D-zeu e tată tuturor, el nu lasă să piară pasările cerului, ne cum fii oamenilor și mai cu seamă pe ai oșteanului; fă-ți dar inimă bărbată și înainte cu D-zeu. </p> 
+<p>— N-am încotro, trebuie să mă supun tristeții. </p> 
+<p>— Vezi, așa te vreau; așa vorbește un oștean; acum pune-te aici lângă acest blid, îmbucă ceva ca să-ți prinzi inima și trage o dușcă dintr-astă scatoalcă ca s-avem putere să mergem cu pas soldățesc înaintea consiliului de război. </p> 
+<p>— Ce? Sunt chemat înaintea consiliului? </p> 
+<p>— Ce fel? nu ți-o spusei eu până acuma? </p> 
+<p>— Nu. </p> 
+<p>— Nu? așa sunt eu moară odorogită, tica, tica, tica, îndrug verzi și uscate ca să treacă vremea, și când e de spus ce trebuie, sfr! A zburat sticletele! Dar să nu-ți fie cu supărare căci de, sunt cam vorbitor din fire, încolo sunt băiat bun și inimă de zahăr. </p> 
+<p>— Va să zică s-a adunat consiliul de război, m-au dat cu dinadinsul în judecată; s-a sfârșit cu mine! zise Stan pus pe gânduri; apoi după un târziu adăugase; de ce așa degrabă? </p> 
+<p>— Cine știe? N-avea însă grijă, căci ofițerii care au să te judece sunt niște oameni ai lui D-zeu, drepți ca sfânta dreptate, blânzi și omenoși ca niște ființe cerești, nu ca ceilalți ce plecară mai deunăzi, care strigau într-una și cât p-aci  era să-mi tragă 25 la spete, căci din nebăgare de seamă n-am salutat un nespălat de iuncăraș muscal. </p> 
+<p>— Să mergem dacă-i așa. </p> 
+<p>— Dar bine nu mănânci? </p> 
+<p> — Nu, nu-mi cere inima. </p>
+<p> — Nu te las măcar de aș ști că ne sfădim. </p>
+<p> — Te rog, așa să trăiești, nu mă sili. </p>
+<p> — Fac rău acei ce umple cazarmele cu oameni însurați? Exclamă caporalul cu un ton în care se amestecă mila cu disprețul. </p>
+<p> — Te înșeli, căprare, răspunse Stan cam întărâtat; omul însurat e tot așa de bun oștean, dacă nu și mai bun ca și unul ca tine; tu te bați pentru că așa-ți poruncește datoria de oștean, el se bate și pentru a-și face datoria și pentru a apăra cu primejduirea vieții sale viața femeii și a copiilor săi. </p>
+<p> — Așa o fi, murmură soldatul cu ciudă; apoi daca e așa ce te mai plângi? </p>
+<p> — Nu mă plâng căci sunt oștean, ci îmi plâng scrisa care m-a adus aici tocmai fiindcă am voit să dau unor copii pe tatăl lor. </p>
+<p> — Dacă ai făcut o faptă bună și ai ajuns aici, vere, mergi fără grijă, căci D-zeu de bună seamă te va mântui. Haideți să mergem. </p>
+<p> Camera în care se ținea consiliul român de război era o încăpere boltită și întunecoasă situată în reședința cartierului general. O fereastră mică și zăbrelită arunca din fund o slabă licărire de lumină; în dreptul ei o masă, în mijlocul căreia se afla sfânta cruce, în jur cinci scaune și pe scaune așezați cinci ofițeri de diferite grade; iată tot aparatul ce compunea acel teribil consiliu de război, al cărui nume e în stare să înghețe sângele în vinele soldatului, chiar după ce a zburat cântând prin gloanțe. </p>
+<p> S-au scris multe în cărți străine despre înfricoșătorul aspect al unui consiliu de război, și mai cu seamă despre strașnica înfățișare a judecătorilor, care numai cu o zbârlitură de sprânceană bagă groaza morții în inimile acuzaților; tribunalul militar român nu împrumutase nimic din toate acele groaznice înfățișări, și ofițerii ce-l compuneau, în loc de a părea aspri și severi, se arătau din contra a fi indulgenți și bine-voitori. </p>
+<p> Vederea lor în loc de a inspira spaima, insufla, din contra, confidență, și sunetul vocilor lor în loc de a îngheța sângele în vene, vărsa în sufletul amărât al nenorociților ce se prezentau înaintea lor, binefăcătorul balsam al speranței; cu toate acestea frica de el este adânc sădită în inima luptătorului român, nu pentru că severitatea sa a fost vreodată teribilă, ci pentru că respectul legii și temerea de pedeapsă este adânc săpată în inimile majorității românilor. </p>
+<p> Stan, căruia nălucirile ce-l chinuise noaptea trecută îi zdruncinase curajul, mergea spre sala de judecată ca spre piața de osândă. Când intră înăuntru și dădu de acea întunecime mormântală, crezu că a intrat de viu în pământ, dar după ce ochii săi se deprinseră cu întunerecul și putu să distingă bine trăsăturile senine ale judecătorilor săi, inima i se mai ușură, fruntea i se mai descreți și se simți ceva  mai la largul său. </p>
+<p>— Apropie-te, băiete, zise ofițerul din mijloc, care era președinte. </p> 
+<p> El făcu încă câțiva pași de la pragul ușii unde se oprise, salută militărește și se apropia de masă. </p>
+<p>— Cum te cheamă? zise iar ofițerul. </p> 
+<p>— Stan Flămânzeanu. </p> 
+<p>— De câți ani ești? </p> 
+<p>— De douăzeci și șapte. </p> 
+<p>— Din ce sat? </p> 
+<p>— Din satul Flămânda, comuna Ciuperceni, plasa Călmățuiul, județul Teleorman. </p>
+<p> — De când ai căzut la sorți? </p>
+<p> — De la anul 1874. </p>
+<p>— În ce regiment, batalion și companie ești însumat?</p>
+<p>— In regimetul V, batalionul I, compania I de dorobanți. </p> 
+<p> — Ce campanii ai făcut? </p> 
+<p> — De la Daia de când eram în lagăr am fost dat ca soldat sanitar la ambulanța No. 4, am trecut Dunărea pe aici împreună cu diviziunea IV, ne-am așezat deocamdată într-acest oraș, după aceea am plecat spre Plevna, ne-am așezat mai întâi la Tucenița, apoi la Breslinița și în sfârșit la Verbița. La 27 August am cules cei dintâi răniți români din regimentul al 13 lea de dorobanți, și, pricepând că n-am inimă să văd răni și trupuri schilodite, mi-am cerut voie să trec în armata activă, ceea ce mi s-a acordat. Fiindcă regimentul meu nu trecuse încă Dunărea, am fost încorporat în regimentul al XIV-lea, am luat parte la atacul Griviței, am fost unul dintre cei dintâi care am sărit în redută, am dobândit pe câmpul de cinste „Virtutea Militară”  și am fost recomandat pentru Steaua României. </p>
+<p>— Atâta? </p> 
+<p>— Nu, am mai luat parte și la lupta de la 6 septembrie, dar prea puțin, fiindcă am fost rănit îndată ce am ieșit din șanț și am fost dus la ambulanța No. 3, unde m-am vindecat curând, căci sunt bun de carne și rana nu prea era lucru mare. La 7 octombrie însă am luat parte de la început până în sfârșit, împreună cu regimentul meu; am ajuns de două ori până în vârful parapetelor, de unde am fost răsturnat cu scară cu tot. Atunci am fost iarăși zdrelit la un umăr și la frunte, dar n-am fost rănit. </p> 
+<p>— Ești însurat? </p> 
+<p>— Da, să trăești, D-le Maior. </p> 
+<p>— De când?  </p> 
+<p>— De patru ani. </p> 
+<p>— Ai copii?  </p> 
+<p>- Am.</p>
+<p>— Câți? </p> 
+<p>— Un băețel de vreo trei anișori și ceva și o fată pe care o pusese mă-sa la țarc când am plecat de acasă. </p> 
+<p>— Măi, băiete, știi tu pentru ce ești adus înaintea noastră?</p> 
+<p>— Da, să trăești, d-le Maior, mi s-a spus c-am greșit de am dat drumul unui turc. </p>  
+<p>— Știi tu că astă învinovățire e gravă, fătul meu, de tot gravă? </p>
+<p>— Mi s-a spus. </p> 
+<p>— Negreșit după ce ai săvârșit faptul? </p> 
+<p>— Da. </p> 
+<p>— Dar mai înainte nu ți se recomandase de a nu lăsa pe nimeni să trecă? Nu ți se citise un ordin în care se spunea curat, că orice santinelă care va lăsa să se strecoare printre liniile române vreo ființă omenească venită din Plevna, fără să fie adusă înaintea șefilor de post, va fi împușcat? </p> 
+<p>— Ba mi s-a citit, d-le Maior. </p> 
+<p>— De ce dar ai călcat porunca? De ce ți-ai uitat datoria de soldat? Pentru ce te-ai arătat nevrednic de haina ce porți și de pușca ce ți s-a pus în mână? </p> 
+<p>— Să trăiți, D-le Maior, să vedeți cum merge șiretenia; cum vă spuse, sunt tată, și fără de voia mea inima îmi este prigorită de dorul copiilor, pe care nu i-am văzut de mai multe luni. Turcul mi-a spus că și el e tată, că și el se usucă de an picioarele de dorul lor, că și al lui sunt în primejdie de moarte, că pier de frig și foame; am inimă miloasă, d-le Maior, și l-am crezut. </p> 
+<p>— Nu te-ai gândit că poate să mintă? </p> 
+<p>— Un tată să mintă? Să zică că copiii lui sunt în primejdie de moarte și să se jure pe viața lor? Mi s-a părut, să trăiești, d-le Maior, lucru cu neputință și nici măcar n-am gândit. </p> 
+<p>— Rău ai făcut, prea rău, căci soldatul trebuie să se gândească la toate, fiindcă în mâna lui adesea stă viața fraților lui și mântuirea țării sale. Tu ocupai un post foarte însemnat; știi tu ce putea să se întâmple din pricina nechibzuinței tale? Putea ca acel turc să fie un spion, să scape nevăzut de nimeni, să se plimbe prin posturile noastre, să observe părțile noastre cele slabe, să se întorcă înapoi iar furișindu-se, și când să zicem Doamne ajută, să ne pomenim cu Osman în coaste tocmai unde suntem mai rău apărați, să fim tăiați în două, îngroziți, fugăriți și apoi aruncați în Dunăre. Țara rămasă fără de apărători ar fi căzut în prada cerchezilor și bașibuzucilor, femeile noastre ar fi fost măcelărite, copiii ar fi fost dezlipiți de mamele lor, mormintele strămoșești ar fi fost călcate în picidre de copitele cailor dușmanilor, și toată suflarea românescă pierind în groaznice chinuri, ar fi ridicat ochii către cer și ar fi blestemat cu urgie pe santinela ce nu și-a împlinit datoria. </p>
+<p> — Ah! Te rog, D-le Maior, nu mai repeta ceea ce mi-a zis D-l Colonel la Verbița; trimite-mă mai bine la moarte ca să-mi spăl în sânge greșeala ce am făcut, și nu--mi mai  spune toate grozăviile ce ar fi putut izvorâ din nechibzuința mea, strigă bietul Stan spăimântat însuși de icoana fidelă a urmărilor ce ar fi putut avea greșala sa. </p>
+<p>— O să te trimit, căci legea mă obligă, răspunse Majorul, deși mi-e milă de soarta ta și plâng din suflet nenorocirea copiilor tăi. </p> 
+<p>— Ia-mi viața, sunt bucuros s-o dau pentru a sluji drept pildă, dar cinstea, D-le Major, cinstea așa te rog, să-ți lungeacă D-zeu filele, nu mi-o răpi. Nu-mi lua medalia de pe piept. </p> 
+<p> — Legea militară în timp de război este aspră și sumară; cănd disciplina cere un exemplu, ea ne dă voie să punem imediat în executare sentința pronunțată și s-o însoțim de orice măsuri severe care să inspire temerea; faptul ce ți se impută e prea grav și disciplina ar reclama un exemplu puternic, dar în considerație că ești părinte și te căiești de ce ai făcut, eu ca președinte recomand soarta ta la clemența d-lor judecători. </p>
+<p> După ce zise aceste cuvinte, președintele se retrase împreună cu judecătorii într-o cămară laterală spre a delibera, și peste o jumătate de oră se întoarse ca să pronunțe sentința. </p>
+<p> Ea fu aspră, dar dreaptă și umană; condamna pe Stan Flămănzeanu să fie împușcat pe malul Dunării, în câmpia de lângă oraș, în fața întregului detașament de  garnizoană, dar îi permitea să poarte pe piept medalia și după moarte s-o ducă familiei care să se bucure de toate prerogativele unui soldat mort pe câmpul de luptă. Această sentință era supusă la înalta clemență a Măriei Sale. </p> 
+<p> Până să sosească întărirea sentinței sau rezultatul cererii de grație, Stan fu recondus iarăși la închisoare. </p>
+</div>
+<div type="chapter" n="9">
+<head> IX. Temnicerul </head>
+<p> Caporalul care păstra cheile temniței lui Stan se numea Vlad Moțoc, el era curcan, adică dorobanț ca și Stan și văuse lumina zilel pe malul Dunării printre ruinele Celeiulul, adică în comuna Corabia din județul Romanați. Dânsul era de treizeci de ani trecuți; dar încă nu se însurase căci până să intre în oaste își petrecuse timpul tot slujind pe la curți boierești și arândășești, și după ce întâmplarea sau mai bine sorțul îi puse pe cap căciula de Curcan, se lipise de cazarmă și de traiul ei așa de tare, încât numaidecât ceru și obținu voia de a fi trecut în cadrele permanente și-și mută cuibul vieții sale în încăperile cazarmei; asemeni după ce-i expiră termenul de activitate, se grăbi a se reangaja ca să rămână iarăși în cazarmă. Ce să-i faci? Dacă lumea lui, viața lui pe această lume nu era alta decât numai cazarma și camarazii săi și dacă fără de asta firea lui cea zburdalnică și nepăsătoare despre tot ce este străin cazarmei nu-l lăsa să-și facă alt rost și să se stabilescă la un loc în lumea străină vieții de cazarmă. </p>
+<p> Nu era instruit, nu știa nici să citească, dar știa pe de rost câte în lună și în soare. Consătenii săi îi ziceau braslă veselă și zglobie, căci toată ziua râdea și glumea, iar camarazii săi de arme îl poreclise cu numele de coțofană, căci toată ziua spunea verzi și uscate, și șefii săi îl înzestrase cu epitetul de cronica regimentului, căci el știa tot ce petrecea în regiment; el cunoștea pe de rost istoria tuturor șefilor și colegilor săi și el singur putea să răspundă la toate întrebările. Afară de asta, mulțumită unei memorii prodigioase și unei remarcabile înlesniri de a se exprima, mai căpătase un titlu: acela de povestitor și păcălici al obștel întregi. </p>
+<p> Câte basme ne-au lăsat de moștenire strămoșii, el le știa și le spunea cu atâta măiestrie încât te apuca ziua în nopți de iarnă ascultându-l îndrugând câte și mai câte de zmei, zâne, feți-frumoși și alte minunătății, fără să simți c-a trecut vremea. Câte proverbe, zicători și pilde circulă în gura poporului român, în capul lui erau ticluite și știa să le potrivească astfel ca să se nimerească totdeauna, și câte snove și păcălituri se aflau în lumea albă, tot el le avea întipărite în memorie și le turna la vreme cu prilej așa de frumos, încât, spuindu-le, toți râdeau de se prăpădeau și nimeni nu cuteza să se supere când se simțea cu musca pe căciulă. </p>
+<p> Aceste calități îl făcuseră să devină nu numai iubit, ci chiar indispensabil, căci știa să facă a trece lesne orele de repaos, și avea dibăcia de a goni urâtul dimprejurul lui chiar când ploua sau mugea crivățul. Pentru aceea el muncea cât se poate de puțin sau își alegea partea cea mai ușoară, căci cei mari îl menajau și cei mici munceau în locu-i ca să nu-i obosească memoria. </p>
+<p> Cine-i zisese brasdă veselă nu greșise, căci el râdea și glumea totdeauna și când se afla la petreceri și veselii și când se afla la ananghie și supărare. Chiar în fața dușmanului, la Bechet când trecu dincoace o ceată de Cerchezi ca să prade și să pârjolescă, el mergea în fruntea coloanei sub ploaia de gloanțe râzând și spunând la snoave și păcăleli privitoare pe turci, încât făcea să râdă și să uite primejdia chiar pe cei fricoși. Până la oarecare punct, el era încarnarea caracteristică a tipului țăranului român. </p>
+<p> Era brasdă veselă și din fire pentru că nici o contrarietate nu-i amărâse viața de când trăia. O singură mâhnire încercase și el în lume: la 30 august primise în genunchiul drept o țandără de obuz, din pricina căreia stătuse în ambulanța de la Turnu-Măgurele vreo două luni, după care ieși din spital vindecat, dar șchiop de un picior pentru toată viața și inapt pentru serviciu; dar și astă nefericire el o primi tot râzând și făcând snoave. Altul în locu-i ar fi cerut reformarea și s-ar fi reîntors acasă; el, neputând a mai servi cu folos pe câmpul de război, a preferat să rămănă șef de post la cartierul general din Nicopole numai să mai rămână între camarazi și să continue a purta uniforma. </p>
+<p> Nepăsător era de durerile sale, dar se simțea mișcat de durerile altora și se silea a le ușura și a consola pe cel ce suferea, însă tot glumind și tot spunând la snoave. Nenorocirea lui Stan îl impresionase mai mult ca oricare alta și ar fi dat bucuros orice ca s-o micșoreze, dar nu se oprea de a zice câte o glumă veselă când îl vedea căzut în melancolie. După ce se pronunță sentința și sărmanul condamnat fu readus în temniță, Vlad intră la Stan și văzându-l adâncit în negre gânduri, se apropie de dânsul și-i zise:</p>
+<p> — Măi, Stane, măi, înghiteți aleanul măi vere, căci știi vorba aceea: </p>
+<p> Cine n-a gustat amarul, nu știe ce e zaharul. </p>
+<p> De unde știi tu ce-ți păstrează scrisa? Nu ți-aduci aminte că zicătoarea zice că:</p>
+<p> Noi unele adăstăm </p>
+<p> Și altele întâmpinăm. </p>
+<p> Ștergeți dar lacrimile, vericule, căci:</p>
+<p> Când nu gândește omul, atunci îl mângâie Domnul; </p>
+<p> După viscol și furtună vine apoi vreme bună. </p>
+<p> Și pe urmă:</p>
+<p> Să-ți răsară sfântul soare, să simți bucurie mare. </p>
+<p> D-aia, măi vere, fă-ți inimă largă și nădejdea în cel de sus. </p>
+<p> Stan drept orice răspuns, se uită lung la el, îl măsura cu o privire cercetătoare de la cap până la picioare, apoi clăti din cap cu întristare și își acoperi cu mâinile fața și urechile ca să nu mai vadă și să nu mai audă ceva din cele ce se petrecea pe acest pământ.</p>
+<p> Văzând că nu poate reuși a descreți fruntea nenorocitului condamnat, Vlad se retrase din cămară fără să zică nimic, încuie ușa după regulament și intră în camera sa, ciudându-se în sine, căci n-a putut prin snoavele sale să risipească norii cei groși din sufletul camaradului său și începu să răspice cu gândirea firul în patru ca să găsească un mijloc prin care să poată fi de vreun folos bietului nenorocit. </p>
+<p> Stan râmânând singur se aruncă îmbrăcat cum era pe pătuceanul său, dar somnului nu i se făcu milă de bietul nenorocit! El nu voia să vină ca să-i ușureze suferințele și să-l transporte, cel puțin pentru câtva timp, în acea lume de unde e gonită mâhnirea și întristarea, ci în locu-i veni să-l năpădâscă din toate părțile fel de fel de gânduri, care de care mai negre și mai înspâimântătoare. </p>
+<p> Viitorul copiilor săi chinui mai cumplit ca toate pe nenorocitul părinte; vedenia din ziua trecută reveni în memoria sa și se înfățișă înainte-i sub toate groznicele ei forme. Iată fiul său derbedeu pe drumuri, iată fiica sa expusă rușinii și depravării, iată muma lor murind de foame și rușine!... </p>
+<p> Aceste dureri împrospătate îl făcură să uite că era bărbat și soldat și-l sili să înceapă să plângă cu amar.</p>
+<p> Vlad era în neastâmpăr; lui nu-i plăceau durerile mute, el știa că are în vârful limbii sale un balsam care ușurează orice suferințe, și voia ca cu orice preț să potolească, dacă nu va putea să vindece, acea suferință groaznică. El se temea de vreo primejdie, lui îi era frică ca nu Stan în furia disperării să nu-și facă seamă singur și să moară ca neoamenii; el se plimba prin cămăruța sa plin de neastâmpăr și pe la soroace ieșea din casă pentru ca să dea târcoale pe lângă ușa temniței, și din când în când, neputând să vadă înăuntru, să tragă cu urechea sau cel puțin să audă. </p>
+<p> Primele hohote de plâns ieșite din copleșitul piept al lui Stan ajunseră îndată la urechile lui Vlad, și cum le auzi, el striga voios: Slavă Domnului, și descuie iute zăvoarele și broaștele ușii și intră înăuntru binișor. </p>
+<p> Stan nu-l auzi că intră și nu-și precurma plângerile; putu dar Vlad ca să se apropie pe bâjbâite, căci era întuneric beznă, de patul lui, să se așeze pe pat lângă prizonier, să-i ia una din mânile lui în mâinile sale și să-i zică: </p>
+<p>— Plângi, plângi, frate, plângi cu poftă, căci sunt bune lacrimile și zicătoarea spune că: </p> 
+<p> Plânge și cela ce are, plânge și cela ce n-are, plânge și se ușurează și durerea o înfruntă. </p>
+<p>— Cine ești? Și ce vrei cu mine? Strigă Stan cu răstire. </p> 
+<p>— Eu sunt, vericule, răspunse Vlad râzând. Ce, nu mă mai cunoști? </p> 
+<p>— A! D-ta ești, căprare Vlad? Întreba Stan, silindu-se a-și ascunde plânsul. </p>
+<p>— Eu, frățico. </p> 
+<p>— Dar ce ai cu mine? Ce iar mă cheamă? A sosit oare ceasul? </p> 
+<p>— Nu, neicușorule, ci am venit ca să mai stăm de vorbă și să mai spunem câte o snoavă, căci vorba celuia: </p> 
+<p> Glumele nevinovate </p>
+<p> Sunt ca sarea în bucate. </p>
+<p>— O, Doamne, Vlade, am eu inimă de snoave în halul în care mă găsesc? </p> 
+<p>— Cum am zice: </p> 
+<l> Ție inima-ți arde de foc </l>
+    <l>și mie-mi arde de joc. </l>
+<p>— Nu, prietene, nu m-am gândit să te învinovățesc de una ca asta, ci de!... vezi și tu ce e pe capul meu!</p> 
+<p> — Văd, frățioare, și de aia am venit ca cu una cu alta să-ți treacă și ție vremea mai oblu. </p>
+<p> — Cu cât trece vremea mai iute, cu atât nenorocirea se apropie mai iute de capul meu. </p>
+<p> — Te temi de moarte, tu, pui de român, tu, soldat, tu, curcan? </p>
+<p> Omul voinic </p>
+<p> Nu se teme de nimic, vere;</p>
+<p> El la moarte, la război, </p>
+<p>nu știe să dea înapoi, căci </p>
+<p> Leoaica numai un pui face și bun, </p>
+<p> Leu e oșteanul român. </p>
+<p> — Cine ți-a spus că mi-e teamă de moarte, replică Stan, răstit.</p>
+<p> — D-apoi atunci de ce te temi? </p>
+<p> De ce te codești ca iepurii </p>
+<p>și ciulești urechile? </p>
+<p> — Altă teamă și mâhnire e în sufletul meu. </p>
+<p> — Ce stric eu dacă nu mi-o împărtășești și mie? Eu de aia am venit, ca să te mângâi și să te ajut dac-o fi trebuință, căci: </p>
+<p> Sunt mulți prieteni la masă, </p>
+<p> Puțini când nevoia e-n casă; </p>
+<p> prietenul adevărat </p>
+<p> Nu stă în pat răsturnat </p>
+<p> Când te afli în păs și zor, </p>
+<p> Ci îți dă mână de ajutor. </p>
+<p> D-aia am venit și eu, să-ți aflu păsurile, să-mi spui nevoile și dacă-mi stă prin putință să te ajut. </p>
+<p> — Ce să-ți spui? Ce poți să-mi faci? </p>
+<p> — Nu te prinde, căci nu știi de unde sare iepurele. </p>
+<p> — Durerile mele sunt mari și cu neputință de vindecat...</p> 
+<p> — Sunt tainice? </p>
+<p> — Nu.</p>
+<p> Se lipi cu spatele de unica ușă a cămării, îngenunchea împreună cu chipul acesta, n-avui parte să dau pe acasă. Cât ținu războiul n-avusei inimă de a-mi cere voie, de teamă ca să nu trec în ochii fraților mei drept un fricos, și răbdam în fundul inimii mele tot chinul dorului ce mă muncea. Când eram să zic Doamne ajută, adică să văd procleta de Plevnă căzută în mâinile noastre, iată în ce foc căzui. Nu mi-e teamă, frate, de moarte, căci o dată moare omul în viață, dar când mă gândesc c-o să mor fără să-i mai văd și fără să știu cum se află, căci de trei luni n-am mai primit o slovă măcar de la ei, și de aici nu pot să rostesc nimic pentru viitorul lor, uite, mi se aprinde cămașa pe mine, mi se frige inima și zău, îmi vine să mă dau cu capul de toți pereții. </p>
+<p>— Ai dreptate, frate, e groaznică o așa moarte fără să strângi măcar o dată la piept ființele ce-ți sunt dragi.</p> 
+<p>— Vezi acum că singur îmi dai dreptate! </p> 
+<p>— Așa e, dar n-ai cuvânt să te deznădăduiești. </p> 
+<p> Căci cine nădăjduiește </p>
+<p> Nădejdea nu-l părăsește. </p>
+<p>— Ce nădejde pot să mai am? Sunt osândit. </p> 
+<p>— Da, dar dacă oi destăinui Majorului și chiar Colonelului tot păsul tău?... </p> 
+<p>— Crezi tu c-o să-mi dea ei drumul ca să mă duc să-i văd pe cei de acasă?... </p> 
+<p>— Nu prea-mi bate ochii, răspunse Vlad dus pe gânduri; dar ia ascultă, adause el după puțină gândire, aceia ce nu pot să facă ei, eu pot. </p> 
+<p>— Tu? Și cum? În ce chip? Întrebă Stan palpitând de emoție. </p> 
+<p>— Foarte lesne; mâine o să plece de dimineță călărașul cu hotărârea ta ca s-o ducă la Verbița; mâine seară ajunge, poimâine o s-o vadă Comandantul cel mare și s-o trimită la Poradim și poimâinea ailaltă o s-o vadă Vodă, astfel că cel puțin peste trei patru zile o să se întoarcă aici înapoi. În astă vreme nimeni nu va întreba de tine; va să zică într-o diastimă de două zile poți lipsi din temniță. </p>
+<p>— Să lipsesc din temniță! Și ce să fac?</p> 
+<p>— Să te duci să-ți vezi nevasta și copiii și apoi să te întorci. </p> 
+<p>— Ia nu mai glumi, frate Vlade, căci groaznice sunt pentru mine aceste glume, zise Stan tremurând de temere și speranță. </p> 
+<p>— Eu nu glumesc. </p> 
+<p>— Cine o să-mi deschidă zăvoarele și porțile dacă nu glumești? </p> 
+<p>— Eu. </p> 
+<p>— Tu!</p> 
+<p>— Da, ți-am spus că vreau să te ajut; cheile sunt la mine toate, am învățat toate cotiturile ăstui oraș blestemat și am un prieten credincios care să te treacă Dunărea în luntrea lui; haide gătește-te să plecăm. </p> 
+<p>— Nu mai mă șegui, așa să trăiești. </p> 
+<p>— Nu te șeguesc deloc; iată cheile. </p> 
+<p>— Dar dacă s-o întâmpla ca să nu mai vin? </p> 
+<p>— Ei, aș! </p> 
+<p>— Ce aș? Dacă aș fi un prieten rău, un frate nevrednic de încredere? </p> 
+<p>— Nu mi-e teamă; între oștenii români nu sunt vânzători. </p> 
+<p>— Dar dacă s-o întâmpla să se înece luntrea cu mine sau să pier cine știe de ce, fără să pot să mai vin? </p> 
+<p>— Atunci voi muri în locu-ți cu sufletul împăcat căci am putut să fac și eu un mare bine unui frate amărât; dar nici asta n-are să se întâmple, căci D-zeu e drept. </p> 
+<p>— Frate, strigă Stan aruncându-se în brațele lui Vlad. Să-mi fii frate până la moarte.</p>
+<p>— Amin. </p> 
+</div>
+<div type="chapter" n="10">
+<head> X. Familia soldatului absent </head>
+<p> În marginea satului Flămânda, cu fața spre lunca Dunării, retrasă cam la o parte, se află mai acum treisprezece ani o căsuță țărănescă mică, dar albă și curată. Din micile ei ferestruici se vedeau depărtatele minarete ale Nicopolului, strălucitoarele cupole ale celor trei biserici din Turnu-Mâgurele, bateriile rusești din preajma satului și Dunărea care altădată era brăzdată de mii de caice, de sute de corăbii și de zeci de vapoare, dar care într-acel timp curgea lină și mută ca un oraș pustiit, nemaisuportând pe latele sale spate altceva decât imensul pod de vase peste care trecea fără întrerupere grelele convoiuri militare. </p>
+<p> Într-acea casă se află o femeie tânără, o babă, un unchiaș și doi copilași, adică un băiat și o fetiță. Femeia sta pe gânduri lângă ferestruie și privea lung Dunărea cea lată, ca cum valurile ei ar fi despărțit-o de un scump odor; unchiașul și baba stau stârciți pe vatră și scormoneau în focul de coceni de porumb ce pârâia în gura sobei, și copii se jucau pe rogojina ce era așternută pe un pat lat de scânduri cu o pisică vânătă care torcea și-i lovea câteodată cu laba fără să-i zgârie. </p>
+<p> Femeia nu scotea grai din gură, căci grija îi încleștase fălcile, bătrânii șopteau între ei încetinel; numai copiii umpleau aerul de niște țipete argintine și de niște sunete de râs limpezi ca și conștiința lor. Afară de aceste țipete vesele alt zgomot nu se auzea în casă, fără numai torsul pisicii, pârâitul focului, mârâitul unui câine care tremura în tindă și fluierul crivățului care adusese de cu seară cine știe de unde o ploaie măruntă și rece, și se lupta voinicește cu colțul casei ca doar să-l doboare la pământ. </p>
+<p> Femeia, ce e drept, ținea în mână o furcă și sta acolo pe laviță, lângă fereastră, cu gândul de a toarce, dar fusul nu sfârâia în degetele sale și caerul de tors înțelenise pe văcălia de care era aninat. Numai gândurile, gânduri adânci și negre, gânduri triste și turburate, numai ele lucrau, lucrau într-una în capul bietei femei și o oboseau prin varietatea și repeziciunea succedării lor, una imediat după alta, astfel încât sărmana nu mai avea putere să țină lucrul în mână. Cine știe câte sumedenii de asemenea gânduri se succedaseră într-acest chip în decurs de mai multe luni în sufletul ei care o adusese în stare de a semăna mai mult cu o iasmă decât cu o ființă vie și cu o stană de piatră mai mult ca cu un trup însuflețit. </p>
+<p> Bătrânii care negreșit băgase de seamă mai de mult astă stare nefirească a astei tinere femei, vorbeau tocmai de ea în șoaptele lor și-și comunicau în vârful buzelor îngrijirile ce le pricinuia. </p>
+<p>— Ni se prăpădește fata! Zicea bătrâna șoptind; o mănâncă dorul ca un vierme neadormit. </p> 
+<p>— Are de ce, răspunse unchiașul, căci e atâta mare de vreme de când nu și-a văzut omul. </p> 
+<p>— Un an încheiat la Filipi! </p> 
+<p>— Apoi de! Cum să nu fie cătrănită; pe el biet și-a deschis ochii. </p> 
+<p>— Că nu zici bine! Și el uite a lăsat-o buștean cu doi copii pe oase, fără să se gândească că pătulul de anțărț a secat, că în anul acesta pământul i-a rămas mai tot nelucrat, și că acum muierea își hrănește copilul culegând ce bruma știuleți au rămas neculeși pe câmpuri străine și mai mult adunând aceia ce-i dă de pomană cei mai cu dare de mână. </p> 
+<p>— Ia nu vorbi cu păcat muiere, căci nu e el de vină; țara l-a chemat, și pentru țară românul e dator să-și năpustească casă și masă ca să-i sară în ajutor. </p> 
+<p>— Țara! țara! Eu nu știu nici nu pricep vorbele voastre cele adânci, căci sunt un cap de muiere; dar oricum ai sta și te-ai gândi tot îți vine să zici: cine a pus-o și pe țară să facă pocinoage și apoi să smulgă pe copil din brațele mumelor, pe bărbați de lăngă femei și pe părinți de la copii?</p> 
+<p> — Muiere! Zise bătrânul cu severitate, daca ești poale lungi și minte scurtă, vezi-ți de furcă și taci; nu ne e dat nouă să judecăm adâncurile stăpânirii și alcătuirile Domnilor și împăraților. </p>
+<p> — Domnii și împărații să pună ei mai întăi umerii și să ridice greutățile și nevoile ce le fac, și apoi să le arunce pe spinarea norodului. </p>
+<p> — Taci, babo, și nu mai vorbi cu păcat, căci am văzut singur cu ochii mei cum Vodă al nostru pe ploaia de foc mânca pâine rece în mijlocul oștenilor săi, colea la o palmă de loc și sta în mijlocul câmpiei, fără de nici un adăpost, pe când ghiulele și purcelele cădeau în toate părțile împrejurul lui; asemenea și gojgogea-mite împăratul Muscălesc petrecu o noapte încheiată sub bolta cerului, chiar în preajma satului nostru, atunci când trecu la vale podul de vase. </p>
+<p> — Așa e, dar sărăcimea îndură sarcini și osteneli cu mult mai grele. </p>
+<p> — Hotărât; dar cum gândești tu? una și una? de apoi bine, muiere, nu judeci tu că ai noștri sunt învățați cu nevoile și poate să le îndure mai cu înlesnire, pe când ei biet crescuți în bumbac, tot bine că face tot ce face și ai noștri. </p>
+<p> — Cine i-a pus de a scornit zâzanii între noroade? </p>
+<p> — N-ai auzit tu ce nelegiuiri săvârșeau dincolo procleți de turci? Ucideau creștinimea de zvânta pămăntul, pe femei le spintecau ca să le scoată din pântece copii, pe fete le necinstea de față cu părinții, pe bătrâni îi ardea de vii, pe bărbați îi schingiuiau în chipul cel mai cumplit, și pe copilași îi măcelăreau fără de milă. </p>
+<p> — Era în țara bulgărească, iar nu la noi. </p>
+<p> — Era în țara creștinească, femeie; adu-ți aminte în tinerețile tale pe vremea băjeniei de când cu zavera, și gândește-te la chinurile ce a îndurat chiar neamul tău. </p>
+<p> — E spurcat păgânul, n-ai ce zice! </p>
+<p>— D-aia și Domnii și împărații și-au dat mâna ca să trimită pe turci la Mărul Roșu și să se liniștească odată lumea. </p> 
+<p>— Să le ajute D-zeu să ajungă la capăt mai curând și să se întoarcă fiecare pe acasă cu bine, adică câți or scăpa cu zile, căci mulți se mai căsăpiră, muică, Doamne, colo la Plevna aia, mânca-o-ar focul! </p> 
+<p>— Ei de! Războiul fără de moarte și măntuiri de noroade fără de război nu se poate. </p> 
+<p>— D-aia așa e, dar și multe femei au rămas văduve și fără sprijin în lumea asta! </p> 
+<p>— Aici al dreptate. </p> 
+<p>— Ce o să se facă ele sărmanele fără stâlpul casei? </p> 
+<p>— Țara să trăiască; ea fără dor și poate va îngriji ca o mamă bună de copiii celor ce au mântuit-o și de mamele lor însuși Vodă a fâgăduit-o cu viu grai când au trecut oștile române podul pe la Corabia; mi-a spus-o învățătorul c-a citit la gazetă. </p> 
+<p>— Să dea D-zeu așa sa fie!</p> 
+<p>— D-zeu și țara nu lasă pe români. </p> 
+<p>— Ai auzit că Radu al Neacși a murit în spital la Măgurele? </p> 
+<p>— Am auzit. </p> 
+<p>— Ce o să facă ea cu cinci copii pe cap? </p> 
+<p>— Ce-o face toate. </p> 
+<p>— Dar de Dumitru al Păunii aflat-ai că l-a spintecat o ghiulea în două? </p>
+<p>— Da, sărmanul! </p>
+<p>- Și de Mușat al Șerbanii că i-a zburat capul o purcea de alea care veni să fete aproape de el? Fătar-ar în capul acelora ce ne-au adus astă pieire pe cap.</p>
+<p> — Afurisită purcea! Numai moartea și pustiirea ies din pântecele ei! </p> 
+<p>— Cică Constantin al Despinei a murit suindu-se cu scara pe o... cum dracu îi zice.... pe o tabie turcească.</p> 
+<p>— A murit ca un viteaz. </p> 
+<p>— Teamă mi-e să nu piară tot astfel și Stan al nostru.</p> 
+<p>— Dacă o fi scris să moară astfel, ce putem face noi? </p> 
+<p>— Nimic, nici nu încape vorbă, dar de! Cu vitejia nu se umple țarcul cu porumb. Un an numai lipsi el din casă și ia uită-te în bătătura lui! Nici tu vită, nici tu vacă, nici tu porc, nici tu bucate; sărăcie lucie. </p> 
+<p>— Bun e Dumnezeu, o trece și ăst pahar. </p> 
+<p>— Nu știu cum o trece, căci nu e nici un semn de îndreptare. Câmpurile mai toate ne-au rămas nelucrate. Primarul biet a vrut, dar de unde frate să împlinească porunca stăpânirii? Porumbul ce bruma am putut lucra noi femeile stă pe câmp necules, căci nu ne lasă ploile în pace, arăturile și semănăturile de toamnă stau baltă și sămânța ne lipsește cu totul. Cum să treacă paharul acesta de la buzele noastre și ce să mâncăm până s-or potoli lucrurile și o veni fiecare pe la casa lui ca să-și facă iarăși rost? Poate buruienele care au crescut în locul grânelor mai înalte ca omul. </p> 
+<p> — Taci, gură rea, căci spaimele tale îngrozesc și pe omul cel mai tare de înger. </p>
+<p> — Spaimele mele? Hm! ele, săracele, sunt adevărate căci sunt aievea; tu ca om ieși din casă, te mai duci pe ici, pe colea și nu vezi toate nevoile, pe când eu stau locului aici, ca să le văd și să le biruesc. Alaltăieri, nu mai departe, se sfârșise mălaiul și porumbul din coșar. Să mă duc la Turnu la moară era lesne, dar n-aveam ce măcina căci porumbul era pe câmp și ploua de vărsa. Ce să fac? Copiii plângeau de foame și cereau mamei lor mămăligă cu ochii scăldați de lacrimi; mama lor plângea și ea căci n-avea cu ce să le umple mânușițele și chiar eu plângeam căci nu le puteam veni în ajutor. Plânsul meu nu le fu de niciun folos, al mumii însă fu mai puternic; ea uită ploaia și noroiul, luă disagii pe umeri, plecă, merse prin sat din vecină în vecină, din cumătră în cumătră, din surată în surată, dar nu găsi nimic căci toate erau în halul ei! Văzându-se într-asemenea stare de jale, nu mai avu curaj ca să se întoarcă la copii cu mâinile goale, ci își făcu o cruce mare, ieși din sat, intră în arături, adică în noianul de buruieni și noroi, se înnămoli în tină de aia cleiosă până în glezne, și merse sărmănica, merse, aici alunecând, aici cărând, aici zgâriindu-se de ciulini și pălămidă până ajunse la porumbiște și-și umplu desagele. Când se întoarse acasă plină de noroi, udă de ploaie, pătată de sânge, dar încărcată cu porumb, uită și osteneală și durere, puse căldarea  pe foc, fierse porumb și dete copiilor să mănânce. Iată paharul ce trebuie să-nghițim. </p> 
+<p> — Femeia e tot femeie și pace bună; răspunse bătrânul dând din umeri; dar dacă nu s-ar fi dus voinicii la război ca să oprească pe păgâni de a trece Dunărea era mai bine? Adu-ți aminte de pe vremea zaverii, femeie; pe atunci trăiam dincolo de Olt în Islaz, erau luați de curând, și ne vedem de sărăcie cum da D-zeu; când deodată într-o zi văzurăm Dunărea plină de caice încărcate cu soldați care veneau încoace ca niște lupi turbați de foame. Într-o clipă se sparse tot satul și apucă care încotro vedea cu ochii, căci nu era nimeni care să ne apere. Plecarăm și noi fără să ne luăm vitele, sau încă ceva haine de premeneală și bani de cheltuială. Cei care eram mai tineri și mai iuți la picior intrarăm în păduri și scăparăm cu mâinile goale, dar cu viață, însă bătrânii, femeile și copiii care nu putură să se țină de droaia de băjenari, fură ajunși de spahii turcești și măcelăriți sărmanii și schingiuiți de ți se rupea inima auzind țipetele lor. În pădure găsirăm puțin adăpost, dar scăparăm de iataganul turcilor, căci vitejia lor nu le îngăduia să intre în bungetul de copaci, dar despre ale traiului vai și amar! Ce viață duserăm? Cum trăirăm? Cum dormirăm? Trăirăm ca fiarele sălbatice, dormirăm pe pământul gol, udați de ploaie, când ne-o dăruia D-zeu și mâncarăm poame pădurețe și rădăcini de buruieni luni încheiate. Tot bine că era și de astea, căci erau păduri pe atuncea care să ne hrănească și să ne adăpostească, dar când ne întoarserăm după ce trecură turcii iarăși dincolo de Dunăre ce găsirăm? Avutul ne fusese jefuit, vitele și bucatele cărate dincolo, și satul ras de pe fața pământului, astfel că la întoarcere nu-i mai cunoscurăm nici urma, de bătătorit ce era locul! Ei ce am fi făcut acum dacă ar fi dat același foc peste noi și nu am fi avut drăguți de oșteni ca să ne apere? Dacă treceau turcii dincoace și eram nevoiți să fugim, acum când lăcomia proprietarilor ne-a lipsit de adăpostul pădurilor; spune ce ne făceam? Era mai dulce sau mai amar paharul?</p>
+<p>— De, bărbate! Știu eu ce să zic? Răspunse bătrâna domolită; ai dreptate, așa e, de aia te-a lăsat Dumnezeu cap de bărbat ca să ai mintea mai sănătosă ca mine și judecata mai dreaptă. </p> 
+<p> În timpul astei convorbiri șoptită, băiețașul lăsă pe soră-sa să se joace singură pe rogojină, se dete jos din pat și se apropie de mama sa, care sta tot lângă fereastră în aceeași nemișcare, și lipind și el obrăjorii de geamul ferestrei, începu să privească afară. </p>
+<p> Deodată ochii săi se ațintiră spre o direcțiune oarecare și întinzând mânușița arătă un punct depărtat și începu să strige vesel: </p>
+<p>— Taica! Uite taica!</p> 
+<p> Muma sa se uită spre acea direcțiune, scoase din piept un țipăt de surpriză și veselie, făcu numai o săritură până la ușă și mai iute ca gândul fu afară din casă. </p>
+</div>
+<div type="chapter" n="11">
+<head> XI. Înnapoierea bărbatului </head>
+<p> Strigătul băiatului și țipătul mumei produse o curată revoluțiune în interiorul astei modeste căsuțe; băiatul sări ușurel de pe laviță și alergă după mumă-sa, bătrânii ieșiră de sub hornul vetrei și alergară pe cât le permitea vârsta după băiat, și copilița care abia sta copăcel și abia putea să facă câțiva pași, nu se lăsă mai pe jos, ci mai în picioare, mai de-a bușelea ieși și ea în tindă gongonind: </p>
+<p> — Taica, taica. </p>
+<p> Peste câteva minute o grupă păși pragul casei și intră înăuntru; o grupă anevoie de descris de cea mai fecundă imaginațiune de poet și anevoie de săpat de cea mai măiastră daltă de sculptor; grupa iubirii într-una din infinitele sale forme. </p>
+<p> Un șarpe boa nu s-ar fi încolăcit mai strâns în jurul corpului victimei sale cum se încolăcise brațele femeii pe după gâtul bărbatului ei, și un pui de leu spăimântat nu s-ar fi lipit mai bine de mumă-sa de cum se lipise băiețașul de coapsa părintelui său. Câte trei formau un tot așa de unit și așa de lipit încât numai varietatea culorilor putea să facă distingerea ființelor. </p>
+<p> Intrând în casă, femeia se descolăci pentru o clipă de acel corp robust, apoi după o secundă iarăși îl lipi cu drag de prigoritul său sân, îl privi apoi câtva cu o căutătură lacomă, curioasă și plină de tinerețe, și după câteva secunde de contemplare, se repezi iarăși și-l strânse din nou la sân cu un îndoit foc, și îndoită tinerețe! </p>
+<p> Copiii amăndoi dau târcoale în jurul lor, apucându-l de haine, întinzându-le mânușițele ca să-i ia în brațe și dându-le fără întrerupere acel nume dulce ce face să tresalte în piept o inimă de părinte. Părinții egoiști în acele supreme momente nu se gândeau decât la ei. Bieții bătrâni! Ei se retrăsese înt-un colț cam după ușă și vărsau într-una lacrimi de bucurie. </p>
+<p> Îndată ce se potoli puțin învăpăierea iubirii de soție, bărbatul își aduse aminte că era părinte, se smulse oarecum din acele brațe care se întindeau încă ca să-l cuprindă, își aruncă cât colo din cap căciula sa de curcan, își lua ambele odoruri în brațe, îi sărută pe amăndoi cu nesaț, și apoi se așează pe lavița de lângă fereastră, îi puse pe fiecare pe câte un genunchi și reîncepu să-i privescă, să-i mângăie și să-i sărute. </p>
+<p> După vijelia de îmbrățișări și sărutări, urma vijelia de cuvinte și de cercetări; toți îi făceau întrebări deodată; femeie, copil și chiar bătrâni, fiecare în limbajul său și de ce le era lor mai aminte, și fără să aștepte răspuns, îi făceau noi întrebări, o nouă gălăgie încurcătoare și zgomotoasă. Ca și în natură după furtună soarele cel orbitor de strălucire! </p>
+<p> Femeia îl întrebă cum a petrecut și ce neajunsuri a întâmpinat? Bătrânul, ce vitejii a săvârșit? Bătrâna, câți au căzut morți și răniți? Și copii ce jucării și lucruri de mâncare le-a adus? După ce se mai potoli furia, el răspunse la toate și toți rămaseră mulțumiți. </p>
+<p> Femeii îi numără de câte ori s-a culcat afară în ploaie și a tremurat de frig, și de căte ori a mâncat păine mucedă și porumb stricat din cauza desfundării drumurilor și de câte ori a oftat și a lăcrimat gândindu-se la ea și la copilași; bătrânului îi descrise de câte ori vitejia românească a smuls admirația tuturor străinilor ce fusese martori la faptele lor războinice, și enumeră isprăvile ce a săvârșit fiii opincarilor la Grivița, la Bucova și la  Rahova; bătrânei îi numi câțiva megiași cunoscuți care au căzut cu glorie pe câmpul de luptă, și copiilor le scoase din sân câte o galetă (pesmete) soldățească, tare ca fierul și le-o dădu în mână ca s-o ronțăie cu ascuțiții lor dințișori. </p>
+<p> Cât te ștergi la un ochii se lăți în tot satul știrea cum că a sosit de la câmpul de război bărbatul Măriei a lui Moș Negoiu, Stan dorobanțul, și începu să pornească pâlcuri, pâlcuri megiașii și mai marii satului ca să-l poftească ziua bună și să-l mai întrebe ce mai era pe acolo pe la Plevna?</p>
+<p> Stan, căci el era fericitul bărbat care fusese primit cu așa căldură de cel de acasă, își ascunse pe cât putu taina ce zăcea în inima lui și întâmpină pe oaspeți cu voie bună și-i pofti pe toți înăuntru ca să stea de vorbă. Între veniți era și primarul de la Ciuperceni. </p>
+<p>— Ei ce ai să ne mai spui de pe la Plevna? întreba primarul. </p> 
+<p>— Bine pace, răspunse Stan după obiceiul românesc. </p> 
+<p>— O mai duc turcii? o duc încă? </p> 
+<p>— Mai țin încă spurcații la cataramă, dar li s-a apropiat și lor veleatul ca porcului muchia. </p> 
+<p>— Ce zici? e nădejde de a-i dovedi?</p> 
+<p>— Așa cred, vrând Dumnezeu. </p> 
+<p>— Cât îți dai cu părerea că o să o mai ducă?</p> 
+<p>— După cum dau eu cu socoteală mai mult de zece zile nu mai poate să tragă targa pe uscat. </p> 
+<p>— Ce? le lipsește de ale mâncării?</p> 
+<p>— O! o! de când încă! pe fiecare zi ne sosesc pescheși fugari morți de foame și goi pușcă dându-se prizonieri și cerându-ne pâine și o zdreanță. </p> 
+<p>— Va să zică, a ajuns și turcul la aman? </p> 
+<p>— A ajuns săracul...</p> 
+<p>— I-a căzut și lui nasul mănca-l-ar concina. </p> 
+<p>— Să dea D-zeu să nu se ridice al altora mai obraznic. </p> 
+<p>— Dar ai noștri cum o duc? întrebă un megiașiu. </p> 
+<p>— Știi potrivit. </p> 
+<p>— Am auzit că o duc cam rău despre ale îndestulării. </p> 
+<p>— Am îndurat multe neajunsuri, dar slavă Domnului că le-am îndurat pe toate și ne-a dăruit sfântul zilele ca să vedem cum li se apropie sfârșitul.</p>
+<p>— Dar despre alte vitejii cum s-au purtat oștenii noștri?</p> 
+<p>— Ca niște români după vremea lui Mihai. </p> 
+<p>— Bravo vouă? ați frecat țeapăn pe păgâni? </p> 
+<p>— I-am făcut să-i muște țărina de sub picioare. </p> 
+<p>— Așa li se cade. </p> 
+<p>— Dar teleormănenii noștri cum s-au purtat? întrebă primarul.</p> 
+<p>— Ca toți ceilalți pui de românași. </p> 
+<p>— Se lățise pe aici vorba cum că teleormănenii la 7 octombrie s-au cam codit și n-au vrut să iasă din șanțuri și că mai toți câmpenii își făceau singuri răni la mâini ca să meargă la ambulanță și să scape de război. </p> 
+<p>— De frate! Se întemplă să se găsească și buruieni printre flori, dar mai multe sunt ponosurile care se împrăștie de gurile cele rele în asemenea împrejurări; pot spune însă că românii s-au purtat îndeobște cum trebuie să se poarte niște viteji. </p> 
+<p> — Cică numai moldovenii s-au arătat vrednici la luptă și netemători de moarte? </p>
+<p> — Moldovenii ca și muntenii și ca și oltenii s-au arătat că sunt fiii aceleiași mamă și că în vinele lor curge același sânge vitejesc; cei ce pun bețe în roate și laudă pe unii ca să defaime pe alții, sunt voitorii de rău al neamulul românesc care vor ca prin zâzanii să-i dezbine și să-i slăbească. </p>
+<p> — Așa trebuie să fie, zise un alt țăran, căci de cum se cheamă, toți suntem de un neam, toți am ieșit din același pântece și am supt lapte din aceeași țâță mânoasă. Dușmanii numai scormonesc de astea. </p>
+<p> — Noi căciularii, urmă Stan cu aprindere, suntem, se cheamă pe județe; dar regimentele de linie, dar vânătorii și mai cu seamă tunarii care au dat dovezi de atâta pricepere și vitejie, ei care sunt adunați din toată țara și amestecați laolaltă, n-au dat destule dovezi că știu să biruiască sau să moară? Ce vorbesc ei de rău de curcanii noștri din Teleorman și Vlașca? Adică de noi ăștia dn regimentul al 5-lea de Dorobanți? N-am luat și noi parte la luptă prin paralele și prin anteposturi gonind mereu pe turci spre Plevna și strâmptându-le culcușul? N-am fost noi cei dintâi care am ieșit din șanțuri și am sărit spre sabia turcească la 7 octombrie? Cine a susținut greutățile asediului dacă nu noi? Cine au fost expuși mai mult în anteposturi dacă nu noi? Cine a executat mișcările strategice necesare, prefăcătoriile de atac ca acelea ce făcurăm în ziua când atacară rușii Dubnicul, dacă nu tot noi ăștia din Divizia a II-a? Dar la Rahova cine s-a războit cu atâta inimoșie dacă nu oltenii și muntenii? Ei și numai ei au luat din mâinile turcilor încă o dată cetatea ce o cuprinsese oare când viteazul nostru de Mihai? </p>
+<p> — Așa e. </p>
+<p> — Pe lângă aceasta, vremea nu e pierdută, Plevna încă n-a căzut și Vidinul ne așteaptă ca să-i veștejim fecioria prin vitejia atât a muntenilor cât și a moldovenilor și oltenilor noștri. </p>
+<p> — Să vă ajute D-zeu. </p>
+<p> Convorbirea ținu pe acest ton și de același subiect încă câtva timp, apoi megiașii se retrase cu primar cu tot și Stan rămase singur cu familia sa. </p>
+</div>
+<div type="chapter" n="12">
+<head> XII. Ispita </head>
+<p> Cât fură oaspeții în casă Stan avu fața voiosă, vorbi cu inimă deschisă și povesti cu multă poftă vitejeștile fapte ale camarazilor săi; îndată însă ce ei plecară și el rămase numai cu ai casei, fața i se întunecă deodată, ochii i se întristară și pe fața sa i se zugrăvi o mâhnire melancolică; femeia sa deocamdată nu observă astă schimbare, căci ea biata stropolea de masă și se făcea luntre și punte ca să gătească tot ce știa că place omului; bătrânii însă băgară iute de seamă și începură să-și comunice prin semne și șoapte mirarea ce le pricinuia. Stan luă băiatul care sta lipit de genuchii săi în brațe, îl așează pe genuchi și începu să-l dezmierde, să-i netezească părul capului cu mâinile sale năsprite de muncă și luptă, și începu să-i adreseze încetinel de acele cuvinte dulci ce numai un părinte poate spune copilului său și să-l învăluie cu o privire în care se putea citi o poemă întreagă, adică lupta supremă între iubirea paternă și sentimentul datoriei, cel mai crâncen război între cele mai puternice și mai tinere simțăminte. Ceva mai mult, pe când se uita la fiul său așa cu drag, un șir de lacrimi începură a se scoborî în jos pe obrajii săi pârliți de soare și a curge fără contenire spre bărbia sa acoperită de o barbă stufoasă. </p>
+<p> Maria după ce suci gâtul ultimei oale din bătătură, mai ceru un ou două de la al de surata Safta, un blid de lapte bătut de la leica Ilinca și o mână de mălai de la vecina Dobra, se vârî sub coșul vetrei, atârnă de crăcane tiparu mămăligii, găti iute bucatele, apoi așează în grabă masa, răsturnă fumegânda mămăliga pe crâmpei și aduse apoi la masă blidul cu mâncare. Într-o clipă oaspeții se făcură roată în jurul mesei; toți se sculară în picioare, unchiașul după obiceiul moștenit de la moși de la strămoși zise „Tatăl  nostru”, cu o voce lină și sonoră, apoi își făcură cu toții cruce, se reașezară jos și începură să îmbuce. Maria mai nu mânca căci bucuria îi tăiase pofta de mâncare și preocuparea de a vedea de tot ce trebuia bărbatului său, adică de a-i scoate dinainte tot ce știa că-i plăcea, o făcea să se uite cu totul pe sine. Deșartă însă era munca ei, căci Stan, deși venit din lungă călătorie, deși era mai zdrobit de osteneală, și deși era mai muritor de foame, însă nu mânca și bucățelele stau scoase pe taler și se răceau de surda dinainte-i. Noroc c-avea încă pe genuchi pe mititelul, care, biet, ca un copil nevinovat ce era, care încă nu știa de amărăciunile vieții îndeplinea cu bucurie sarcina părintelui său! Fericită copilărie! Grijile, durerile și supărările nu pot nimic în contră-ți, tu mergi înainte călcând sub micul tău călcâi întreitul cap al ăstui balaur otrăvitor ce se numește suferință morală. </p>
+<p> Maria băgă în sfârșit și ea de seamă că Stan nu era în apele sale și-i zise cu neliniște: </p>
+<p>— Dar ce ai tu Stane de stai așa trist? Nu ți-e bine? ori ți s-a aplecat? </p> 
+<p>— N-am nimic, muiere, răspunse Stan cam contrariat; nu băga și tu de seamă toate, hai să mâncăm.</p>
+<p>— Poate că ți-a căzut greu? observă cu timiditate soacră-sa. </p> 
+<p>— Ce să-i cază? Întrerupse cu brescheță bătrânul; nu vezi că nici n-a mâncat? </p>
+<p>— Uite talerul gol, răspunse Stan. </p> 
+<p>— L-a golit băiatul, am văzut eu, nu crede că mi-a slăbit de tot vederile; tu ai, băiete, ceva; te roade pe tine un vierme. </p> 
+<p>— N-am nimic, tată, zău, n-am nimic. </p> 
+<p>— Poate că nu-ți place ce ți-am gătit? Zise Maria cu timiditate. </p> 
+<p>— Ori că lipsa de nițel vin ți-a închis pofta de mâncare? adăugase bătrâna. </p> 
+<p>— Asta trebuie să fie, strigă bătrânul; mă duc să umplu plosca și vin într-o clipă. </p> 
+<p>— Nu te mai da de osteneală, tată, răspunse Stan, e târziu. </p> 
+<p>— Las că Groparul nu închide așa de curând. </p> 
+<p> Zicând aste cuvinte își luă căciula de pe laviță, și-o vârî în cap până după urechi, luă plosca din cui de după ușă și dete dosul spre cârciumă mai iute ca un flăcăiandru. Înturnarea nu-i fu așa de repede ca plecarea; minutele treceau și după ele sferturile și chiar jumătățile și bătrânul nu se mai ivea, deși  Groparul, adică al de cârciumarul satului nu sta departe de el. Mămăliga înțelenise, untul prospăt se răcise, bucatele se sleiseră, friptura de pui se uscase în frigare și mesenii amorțiseră cu lingurile și furculițele în mâini, iar Maria făcea venin de moarte căci ea era cea mai nerăbdătoare, căci ei îi era teămă c-o să i să aplece lui Stan și o să se îmbolnăvească.</p>
+<p> In sfârșit după o diastimă de trei sferturi de ceas iată-l că intră în casă cu plosca plină în mâna și gâfâind de osteneală, dar nu mai era omul ce plecase; întristarea de pe fața lui Stan trecuse pe a lui. Maria și Stan nu băgară de seamă, dar bătrâna numaidecât luă aminte și-l întrebă ce a pățit? </p>
+<p>— Nimic, răspunse el cam încurcat, na, beți, căci vinu e prospăt! </p> 
+<p> Plosca se plimbă din mâini în mâini, de toate buzele fu sărutată, dar zău nimeni nu-i făcu cinstea ce i se cuvenea, căci buzele părea că sunt lipite și fălcile încleștate. </p>
+<p> Bătrâna, deși bătrână, tot era femeie; ea ghici numaidecât că unchiașul a dat peste ceva și cum îl văzu asa de tulburat nu mai putu sta liniștită; se sculă dar de la masă, se apropie de el, își lipi gura de urechile lui și-l întreba șoptind despre cele ce i s-au întâmplat de a zăbovit și de s-a întors așa de turburat? </p>
+<p> El îi șopti ceva aruncând ochii spre Stan și întristarea lui ca molima zbură și pe fața bătrânei și o cătrăni și pe ea sărmana; tristă seară, tristă masă, tristă petrecere! Noroc că era vremea târzie și somnul puse capăt astei petreceri așa de posomorâtă.</p>
+<p> A doua zi cum se făcu ziuă, Maria se sculă, se îmbrăcă iute, și mai bărbată ca oricând se puse cu voioșie să rostească d-ale casei. Stan asemenea se sculă de dimineață și după ce se îmbrăcă iar își luă băiatul în brațe și stătu cu el pe genuche mângâindu-l și sărutându-l până la vremea prânzului. După masă Stan sărută încă o dată copiii, își sărută nevasta și chiar pe bătrâni și, îndreptându-se spre ușă, le zise: Rămas bun. </p>
+<p> — Dar unde te mai duci? întrebă femeia cu neliniște. </p>
+<p> — Acolo de unde am venit, răspunse el foarte mișcat. </p>
+<p> — Așa de curând? exclamă Maria lăcrimând. </p>
+<p> — Datoria mă cheamă, nevastă; trebuie să mă supun. </p>
+<p> — Mai stai încă câteva zile, așa te rog, Stane, mai stai. </p>
+<p> — Nu se poate, drăguță. </p>
+<p> — Măcar până mâine. </p> 
+<p> — Mi-e cu neputință. </p> 
+<p> — Dacă mă iubești. </p>
+<p> — Tu știi că te iubesc, nu-mi cere dar aceea ce nu-mi stă în putere. </p>
+<p> — Stane, Stane, ceva ascuns îmi spune că tu poți să-mi faci pe voie, rogu-te dar, așa să trăiești, mai stai până mâine. </p>
+<p>— Aș vrea din suflet, dar dacă nu se poate! </p> 
+<p>— S-ar putea când ai voi; uite, copiii te roagă; în numele lor te juruiesc mai rămâi, mai stai încă o ziulică măcar, căci mai marii tăi trebuie să aibă și ei muieri și copii. </p> 
+<p>— Vorbele tale mă săgeată la rărunchi, Mario, răspunse Stan cu întristare, dar nu-mi stă prin putință ca să-ți dau ascultare. </p> 
+<p>— Nu-ți stă pentru că nu vrei; sunt sigură că mai marii tăi nu sunt așa de câinoși ca tine și ei știu ce e mila și ce e dragostea părintească; te vor îngădui dar să stai o zi mai mult în căsuța ta fără să-ți facă vreun rău. </p>
+<p>— Toate astea sunt vorbe degeaba. </p> 
+<p>— De ce? </p> 
+<p>— Nu poți să mă lămurești, dar vă spun numai că trebuie să mă duc; m-oi mai întoarce mai apoi ca să stau mai mult; vă las cu bine. </p> 
+<p>— Stane, tu nu te mai întorci, îmi spune inima că nu te mai întorci. </p>
+<p>— Ba mă întorc. </p> 
+<p>— Ba nu, nu, că uite-ți joacă ochii în lacrimi; trebuie să fie la mijloc altă șiretenie; așa te rog, Stane, spune-mi adevărul, ai încredere în bărbăția mea; destăinuiește-mi, drăguță, păsul ce te muncește și spune-mi ce te face să te grăbești așa de mult? </p> 
+<p>— Nimic, ți-am mai spus o dată, nimic decât datoria. </p> 
+<p> — Nu se poate; și acum mi-aduc aminte că tu oricând ai intrat în casă, în căsuța ce n-o văzuseși de un an, nu erai vesel, precum ar fi trebuit să fii, precum erai altădată când te întorceai de la târguri sau de la călătorie. </p>
+<p>— Te-au înșelat ochii, ieri am fost foarte vesel. </p> 
+<p>— Nu, tu ai o bubă la inimă; pe tine te mănâncă un vierme și te ascunzi de mine, de mine, nevasta ta. D-aia ținuși atâta vreme băiatul în brațe și ieri și azi, de aia îl mângâiai și îl sărutai cu ochii jucând în lacrimi, de aia te uitai la noi toți cu un fel de milă și întristare! O, acum încep a o pricepe!... acum înțeleg de ce ne priveai ca cum ne pierdeai din ochi. Tu te duci Stane, te duci ca să nu te mai întorci. Așa e că am ghicit? Spune-ne dragă și nouă ce ai? Spune-ne și nouă ce nenorocire ascunsă atârnă deasupra capului nostru? Sunt femeia ta, femeie de oștean, am și eu oleacă de curaj; destăinuiește-te, spune-mi tot adâncul sufletului tău și vei vedea cât sunt de bărbată. </p>
+<p>— Tu știi că mă întorc iar la război și mă mai întrebi de ce sunt trist? </p> 
+<p> — Nu se poate să fie asta pricina; tu ai mai plecat la război și ai ieșit din casă cântând; îți cunosc eu inima; moartea pe câmpul de cinste nu te înfricoșează, ci te bucură; alta e pricina. </p>
+<p> - Nu. </p>
+<p> — Ba da. </p>
+<p> — Ba nu,nu. </p>
+<p> — Atunci daca nu-mi spui, să știi că nu te las să pleci. </p>
+<p> — Nu-l mai ruga, Mario, că-ți spun eu, fata mea, ce este pricina, zise bătrâna ieșind din colțul unde sta retrasă.</p>
+<p> — Taci, muiere, nu clănțăni, strigă bătrânul întrerupând-o și punându-i mâna la gură. </p>
+<p> — Nu, strigă bătrâna zmucindu-se, nu mai pot să rabd, lasă-mă să-mi vărs focul. Mario, daca vrei să mai ai bărbat, ține-l, oprește-l, nu-l lăsa să plece, căci nu se duce la război, ci la pieire; este osândit la moarte; are să fie împușcat, luntrașul care l-a adus a dat sfoară în țară la tot satul. </p>
+<p> — Ah! Muiere, limbă de cârpă! Strigă bătrânul exasperat; nebun e cine-și dă vouă adâncul inimii lui! </p>
+<p> Zicând aceste cuvinte, ieși repede afară din casă și trânti ușa după el. </p>
+<p> — Va să zică acesta e groaznica taină ce te chinuia, zise Maria cu o intonare surdă, ca cum ar fi ieșit sunetul vocii sale din băerile inimii; va să zică tu-ți lași nevasta, copiii și doi bătrâni nevoiași în ghiarele sărăciei fără mustrare de cuget și mergi orbește să te dai în mâna ucigașilor?!... </p>
+<p>— Crezi tu, Mario, că aș putea să fac altceva de ceea ce fac și nu fac? Datoria mă cheamă, dragii mei, răspunse Stan cu vocea zdrobită; datoria numai mă silește să mă dezlipesc de voi și să plec. </p> 
+<p>— Datoria! Dar aici n-ai datorii de îndeplinit? </p> 
+<p>— Oh! Nu-mi mai vorbi astfel, căci îmi zdrobești inima. </p> 
+<p>— Dar tu nu te gândești că-mi zdrobești cu o singură lovitură și inimă, și nădejde, și bucurie, și viața mea și a copiilor noștri? Nu te gândești la ce ne așteaptă după plecarea ta? La ce ne pregătește negrul viitor? </p> 
+<p>— M-am gândit la toate. </p> 
+<p>— Te-ai gândit și mai stai la îndoială? </p> 
+<p>— Nu, căci iată-mă gata să plec. </p> 
+<p>— Numai la plecare te-ai gândit și la suferințele noastre nu? </p> 
+<p>— Ce vrei să fac? Sunt oștean. </p> 
+<p>— Dar ești și părinte. </p> 
+<p>— E mai mare datoria către țară; mai presus ca toate e cinstea soldatului. </p> 
+<p>— Atunci de ce ai mai venit? Mă deprinsesem cu lipsa ta și ochii mei de multe ori s-au roșit plăgându-te ca pe un mort. Mai vărsam încă un potop și nu mai simțeam încă aceste crâncene dureri ce-mi sfâșie pieptul. </p> 
+<p>— Îți pare rău că am venit? </p> 
+<p>— O! Nu, dragă bărbățele, nu iubite, nu rosti acest cuvânt, strigă femeia sărind de unde se afla cuprinzându-l în brațe și acoperindu-l cu sărutări. Nu lua în nume de rău vorbele mele; văd și eu că sunt nebună, și că durerea m-a smintit, te rog dar iartă-mă. </p> 
+<p>— Ah! Căci nu pot să-ți usuc lacrimile și să-ți potolesc durerile! </p> 
+<p> — Ba ai putea când ai vrea. </p>
+<p> — Cum să pot? Spune și tu. </p>
+<p>— Prea lesne, răspunse bătrâna. Finu Neagu are căruță și patru cai, mâine pleacă la Târgoviște să aducă niște saci cu orz pentru oștirea românească; pleacă cu el; dați o goană până la Pelroșița și ajungând acolo el se întoarce la Târgoviște. Tu treci dincolo în țara Ungurească pe la Strunga peste cheile Ialomiței și noi vindem ce bruma mai avem și venim să te găsim. </p>
+<p>— Ce-mi spui D-ta să fac, mamă, e curată mișelie. </p> 
+<p>— Ba e fapt de om cu minte, fătul meu; decât mort, mai bine fugar. </p> 
+<p>— Decât rușinat, mai bine mort.! </p> 
+<p>— Stane, Stane, gândește-te la dragostea nostră, la traiul nostru de altădată, la tinerețea ta și a mea și la sărmanii noștri copilași, și fă, așa te rog, fă ce-ți zice mama.</p> 
+<p> — Să fiu fugar - să fu pribeag, să fiu pentru vecie oropsit din țara mea, blestemat de frații mei și apoi prigonit și suduit de toți! Nu, nu se poate Mario, mai bine mort. </p>
+<p> — Daca e așa, strigă Maria căzând în genunchi la picioarele lui, zdrobită și dosădită, ucide mai întăi, cărnosule, pe copiii tăi și pe maica lor, ca să nu mai îndure trudele sărăciei și ale nemerniciei! </p>
+<p> — Mario, draga mea Mario, zise Stan cuprinzând cu mâinile gâtul femeii sale și încercând s-o ridice; ai curaj, fii bărbată și nu te lăsa să te doboare mâhnirea. </p>
+<p> — Lasă să mă doboare, să mă zdrobescă, să mă ucidă: fără tine nu pot să mai trăiesc, răspunse Maria recăzând mai moartă. </p>
+<p> — Ce să fac? Ce să fac, Doamne, ca s-o potolesc? Strigă Stan afară din sine. </p>
+<p> — Ascult-o, fă-i pe voie, fugi, răspunse bătrâna; numai cu chipul ăsta o poți mântui. </p>
+<p> — Oh! mamă, mamă, nu știi câte piedici mă opresc de a vă îndeplini voia, afară de cinste la care țin mai mult ca la viață! </p>
+<p>— Nimicește-le pe toate. </p> 
+<p> — Nu se poate, eu n-am venit aici cu voia colonelului, ci am fugit. </p>
+<p> — Cu atât mai bine, căci te vor căuta mai târziu. </p>
+<p>— Da, dar în locu-mi s-a pus zălog un om, un prieten, un frate de arme, un mântuitor; El m-a văzut topindu-mă de dorul vostru, a zărit lacrimi în ochii mei și i s-a făcut milă de mine, și mi-a deschis ușa închisorii, și mi-a deschis poarta cetății, și m-a lăsat să vin să vă îmbrățișez încă o dată, cu îndatorire ca diseară să mă întorc ca să nu bage de seamă șefii lipsa mea: pănă atunci stă el în locu-mi. Dacă nu mă voi întoarce, dacă voi fugi, dacă voi da ascultare vorbelor voastre, știți ce se va alege de el?</p> 
+<p>— Ce? </p> 
+<p>— O să-l împuște în locu-mi, o să-l ucidă pentru că i-a fost milă de mine, și o să piară căci el s-a înduioșat de lacrimile mele! </p>
+<p>— Nu se poate, strigă Maria; ofițerii voștri nu sunt fiare sălbatice, sunt oameni, au inimă, o să le fie milă și o să-l ierte. </p> 
+<p>— Lor nu le-a fost milă de mine, deși vărsăm lacrimi când mă judecau; legile militare sunt neînduplecate, mai cu seamă pe vreme de război. Lasă-mă dar, Mario, lasă-mă, drăguță, să plec ca să-mi fac cu cinste până la capăt datoria către țară și prieten, și fii încredințată că D-zeu va ține seamă de fapta mea cea bună și vă va aduce mângâiere de unde cu gândul nu gândiți. </p> 
+<p>— Cine te-a pus ai făptuit lucruri care te-a adus înaintea judecății și ți-a adus asupra capului osânda morții? Striga Maria frângăndu-și mâinile cu disperare. </p> 
+<p>— Mario! Ce vorbă groaznică ai rostit? Striga Stan izbindu-și obrajii cu palmele; tu crezi că am făptuit o vină spăimântătoare, că ai înainte-ți un mare vinovat! </p> 
+<p>— Eu nu știu, n-am fost la judecata ta, nici n-am dreptul să te judec, răspunse nenorocita femeie cu vocea înfrânată de remușcare; tu ești bărbatul, tu ești stăpânul; eu n-am dreptul decât să mă supun scrisei fără de cârtire. Poate că durerea mă face să rostesc vorbe netrebnice; te rog, dar, iartă-mă. </p> 
+<p>— Oh! Draga mea, Mario, cât de mult te-am amărât dacă te-am adus în stare să-mi vorbești mie astfel! Strigă Stan cu o voce sfâșiată. </p> 
+<p>— Nu băga de seamă drăguță, nu e vorba de mine, ci de copiii noștri; pentru ei trebuie să ne îngrijim și să ne jertfim. </p> 
+<p>— Ce mai pot eu pentru ei? exclamă Stan cu descurajare. </p> 
+<p>— Poți să le scapi părintele. Haide, Stane, nu mai sta la îndoială, hotărăște-te până mai e vreme. </p> 
+<p>— La ce să mă hotărăsc? </p> 
+<p>— Să fugim, să ne ascundem rușinea și nenorocirea într-un colț de lume dosnic. </p> 
+<p>— Mă mai îndemni tu Mario să săvârșesc cea mai josnică mișelie după ce ți-am dezvăluit tot adevărul ? </p> 
+<p> — Trebuie, dacă o dată s-a făcut ruptura. </p>
+<p>— Oh! Mario, strigă Stan cu amărăciune, jos cade omul  când alunecă pe povernișul nenorocirii! Mai bine mort decât lipsit de cinstirea voastră. </p> 
+<p> — Tu nu trebuie să mori, n-ai dreptul nici măcar să mori, căci datoriile ce ai sunt mai mari ca toate vorbele și orice alte datorii. Uită-te în juru-ți, la acești copii, inimi smulse din inima ta, la acești bătrâni cărora erai singura bucurie și mândrie și la mine, nevasta ta, pentru care erai un Dumnezeu pe pământ. Toți suntem slăbiți, neputincioși. Ce ne vom face lipsind tu pentru a pururea? </p>
+<p>— Vom muri cu toții, murmură bătrâna de lângă sobă. </p> 
+<p> — Oh! pentru D-zeu încetați cu asemenea vorbe că-mi zdrobiți inima. </p>
+<p> — Tu ne zdrobești cu o singură izbitură și inima, și nădejdea și viața! </p>
+<p> — Oh! D-zeule, D-zeul meu, ce să fac? </p>
+<p> — Să te gândești la ceea ce ne așteaptă după plecarea ta, la ceea ce ne așteaptă negru viitor și să faci aceea ce datoria de soț și tată te îndatorează. Tu abia ai lipsit aproape un an de pe bătătura casei tale ca să-ți faci datoria de soldat și apoi să te întorci, și sărăcia cea mai groaznică ne-a sleit toate mijloacele de viețuire, și foamea de mai multe ori a bătut la ușa casei copilașilor tăi; gândește-te acum ce are să se întâmple când vei pleca ca să nu te mai întorci. </p>
+<p>— Gândește-te și tu ce are să se întâmple când Vlad, neputând să mă dea mâine în mâinile șefilor săi, va muri pentru noi? Chipul său încruntat de sânge va fi mereu înaintea noastră și umbra sa galbenă ca ceara se va arăta neîncetat, înaintea ochilor noștri? </p> 
+<p> — Arată-se, chinuiască-ne, numai copiii noștri să aibă pâinea zilnică. </p>
+<p>— Vor avea-o, guvernul va îngriji de orfanii oșteanului. </p> 
+<p>— Vai de copiii rămași fără părinți? </p> 
+<p>— Vai de aceia cărora nenorocirea le-a ieșit în cale! înpotriva scrisei nimeni nu trebuie să cârțească, nici voinței ei să se împotrivească. De aceea să ne încredem ei, draga  mea, cu nădejde în D-zeu, și să facem aceea ce e bine și frumos să facem. Vă las dar cu bine, cu bine să vă găsesc. </p>
+<p>— Nu pleca, mai stai, strigă Maria cu imperiozitate, și după ce rosti aceste vorbe cu o voce scurtă și fără replică, apucă repede copiii de câte o mână, se lipi cu spatele de unica ușă a camerei, îngenunche împreună cu copiii, lipindu-se cu spatele de tăblia ei, și apoi strigă adresându-se copiilor: </p> 
+<p>— Îngenuchiați, îngenuchiați, dragii mei îngerași, și plângeți cu foc, și vărsați noiane de lacrimi, și rupeți-vă mânușițele cu deznădejde; poate voi veți avea mai multă trecere înaintea tatălui vostru, poate că ruga voastră va fi mai ascultată ca a mamei voastre, poate suferința voastră va înmuia învârtoșarea inimii lui. Hai, plecați-vă frunțile în țărână și rugați-l cu ochii scăldați în lacrimi, rugați-l să nu plece, să nu vă părăsăscă. </p> 
+<p>— Oh! D-zeule sfinte, D-zeule drepte, ce ți-am greșit de mă faci să îndur așa groaznice chinuri! </p> 
+<p> — Spune-ți-i, spune-ți-i, dragi copilași, că voi sunteți mititei și neputincioși, și aveți nevoie de ajutorul lui, spuneți-i că coșarul e gol, cotețul e gol, pătuțul e gol și vouă vă este foame!</p>
+<p>— D-zeul bunătății, D-zeul îndurătorilor, aruncă din cer spre nenorocitul de mine ochii tăi cei îndurători și mă ajută că sunt aproape să cad, strigă Stan frângîndu-și mâinile. </p> 
+<p> - Spuneți-le, spuneți-le că mai deunăzi strâmtorată de lipsă m-am dus la un arendaș vecin și i-am cerut împrumut câteva banițe de mălai, și că el mi-a spus că sunt tânără, că nu sunt urâtă și că bucuros mi-ar da oricât aș vrea dacă în schimb i-aș da cinstea mea, credința tatălui vostru. Acum am fugit de ispită, cu scârbă și oțărire, căci nădejdea era sădită în inima mea, bărbatul meu avea să se întoarcă. Dar când nu s-o mai întoarce? dar când nădejdea va fi cu desăvârșire pierdută, ce se va alege de mine? ce se va alege de viitorul nostru? </p>
+<p>—   D-zeul milei, strigă Stan ridicând spre cer ochii săi scăldați în lacrimi: sunt om, sunt o ființă slabă, supusă ispitei, prada căderii! Am și eu colea, în acest piept ce tu mi l-ai dat o inimă simțitoare și înflăcărată de dragostea cea mai vie. În ea se luptă două simțiri deopotrivă de puternice: datoria de soț și părinte și datoria de om de cinste. Pe care din două să aleg? pe care din două să jertfesc? Deschide-mi ochii, Doamne, luminează-mi mintea, Doamne; scapă-mă, Doamne, de ispită. </p> 
+<p>— Stane, D-zeu a dat celui dintâi om o mare poruncă, aceea de a îngriji de pruncii ce i-a dăruit D-zeu. Fă-ți datoria către pruncii tăi. </p>   
+<p>— Datoria mea cea mai scumpă este aceea de a lăsa copiilor mei un nume nepătat; te rog, te juruiesc, dă-te, femeie, la o parte ca nu copiii mei să se rușineze de numele ce le-a lăsat tatăl lor. </p> 
+<p>— Nu vei trece decât peste trupurile noastre, strigă Maria aruncând spre Stan o privire scânteietoare și hotărâtă. </p> 
+<p>— Mario, soarele a scăpătat, noaptea se apropie, vremea trece. </p> 
+<p>— Treacă, răspunse Maria cu un ton sec. </p> 
+<p>— Mario, te rog din adâncul inimii, lasă-mă să trec, că a început să însereze. </p>
+<p> — Nu mă mișc din loc, răspunse Maria întinzând mâinile spre ambele extremități ale tăbliei ușii. </p>
+<p>— Femeie nebună, strigă Stan înfuriindu-se îndată ce văzu că lumina afară se pleca către scăpătat, tu mă necinstești, mă înjosești, mă faci de ocară. </p> 
+<p>— Fie. </p> 
+<p>— Ființă nesocotită, omul are margini la toate și la răbdare; teme-te de furia mea. </p> 
+<p>— Oh! de ce nu te îndeamnă D-zeu ca să iei drugul de după ușă ca să ne dai în cap și să se sfârșescă odată chinul suferințelor ce ne așteaptă. </p> 
+<p>— Mario, te rog, lasă-mă să plec, că-mi moare prietenul.</p>
+<p>— Lasă-l să moară! </p> 
+<p>— Iată c-a înnoptat, Mario; peste câteva cesuri vin să mă caute în temniță. </p> 
+<p>— Vie. </p> 
+<p>— Oh! Mario, Mario, tu vei răspunde înaintea lui D-zeu de tot ce se va întâmpla! strigă Stan frângându-și mâinile cu disperare și zbătându-se în prada celor mai cumplite turmente. </p> 
+<p>— Fie, răspunse Maria cu hotărâre. </p> 
+<p> Deodată, însă, fața lui Stan i se lumină; o idee fără de veste trecu prin mintea sa, și mai înainte de a avea cineva vreme ca să-l rețină el se năpusti cu capul și pumnii înainte nu spre ușă unde stau ca un parapet corpurile tremurânde și plângânde ale copilașilor săi, ci spre micul ochiuț de fereastră prin care veneau două lumini și pe care-l sparse în mii de bucăți. </p>
+<p> Cât clipești din ochi cerceveaua ferestrei zbură făcută fărâme împreună cu geamul afară din casă, tocul se deslipi și el din cadrul său foarte slab lipit de pereții de gard al casei, și lăsa o deschizătură prin care zbură ca o nălucă Stan, lăsând în cuiele dimprejur o parte din hainele și carnea sa. </p>
+<p> Maria, văzând una ca aceasta căzu leșinată între copilașii săi. </p>
+</div>
+<div type="chapter" n="13">
+<head> XII.PE MALUL DUNĂRII</head>
+<p> Crepuscula serilor de iarnă nu durează mult în țară la noi; abia apune soarele și îndată seara și neagra noapte vin una după alta în decurs de mai puțin de o oră. </p>
+<p> Când Stan ieși din casă într-un mod așa de brusc, soarele era deja apus, și când ieși din sat alergând în fuga spre a ajunge mai curând la Dunăre, noaptea deja își întinsese întunecoasele sale aripi peste suprafața pământului.</p>
+<p> Nu mai ploua, dar cerul era acoperit de nori și întunericul se îndesa, căci luna încă nu răsărise. Cu toate astea el, care se născuse în acele locuri și cunoștea pe dinafară toate cărările și cotiturile, merse ca cu ochii închiși spre malul Dunării, coborî într-o clipă repedea înclinare a deluțului ce predomina țărmul și ajungând în marginea apei, căută într-un stuf de rogoz uscat luntrea și pe luntrașul ce-l adusese și care-i promisese a-l aștepta acolo încă de la asfințit, dar nici luntre nici luntraș nu mai găsi la locul hotărât. </p>
+<p> Crezând cum că amăgit de întunerec luntrașul a greșit locul și s-a oprit să-l aștepte în alt stuf pe rogoz se duse în josul apei pănă la rogozul vecin, dar nimic, mai încolo era o cotitură, acolo poate s-o fi adopostit, căci vântul ridica apa în talazuri înalte și pe acolo făcea ochiuri adânci; nimic!  Mai departe era un sânișor săpat în mal, care în timp de pace servea drept debarcader pescarilor din satul Ciora; dar nici acolo nu găsi pe nimeni, căci de când se ivise pe Dunăre monitoarele turcești, caicele pescarilor fuseseră trase la uscat și transportate în diverse locuri la adăpost de pârjolirea și răpirile cerchezilor și bașibuzucilor. </p>
+<p> Văzând că nu găsea nimic și nemaiputând merge înainte, căci țărmul devenea din ce în ce mai păpuros și mai mlăștinos, se întinse înapoi sperând că la înturnare va fi  mai norocos, dar găsi țărmul tot pustiit! Desnădăjduit începu să umple aerul de strigăte și chiuituri că doar va fi auzit, dar nimeni nu-i dete răspuns, nimeni afară de ecoul care-i repetă strigătele într-un mod jalnic și cobitor. </p>
+<p> După ce se încredința că nici căutarea, nici glasul, nu-i aducea niciun folos, se opri bietul om în locul de unde plecase și începu să se gândească ce să facă? încotro să apuce? să se întoarcă acasă ca să revină a doua zi? nu era cu putință căci avea să întâmpine aceleași obstacole și să cauzeze noi dureri; să se ducă la Turnu-Măgurele? nu-i venea, căci era să fie urmărit de santinele, prins, recunoscut, dus la Nicopole ca dezertor și vai de bine-făcătorul său; să urmeze calea pe malul apei, dar în sensul cursului ei până aprope de pod? asta singură hotărâre se oferea oarecare rază de  speranță; pe dânsa dar o puse în executare că doar va găsi undeva cel puțin o luntre singuratică. </p>
+<p> Într-ăst timp noaptea înaintase, cerul se înseninase și luna începuse să se ivească în marginea orientului roșie ca sângele ce curgea dincolo de râul în care se oglindea. </p>
+<p> Stan în acel moment fu martorul involuntar al unui spectacol măreț și tot deodată sălbatic! Vântul scotea țipete ascuțite lovindu-se de înaltele maluri, apa mugea spumegândă, izbindu-se de țărmul nisipos, și trestia și rogozul de pe margine făceau într-un mod sinistru lovindu-se una de alta și plecându-se ca să evite furia crivățului. De pe cer luna arunca spre pământ niște raze palide și trecătoare, norii, întretăiați și goniți încoace și încolo de furia vântului se reflectau în apă în forma unor umbre cobitore și cerul se înfățișa privirii omenești, aici senin ca o mare de azur, colea negru ca un lac de cerneală și dincolo roșu ca o pată de sânge. </p>
+<p> Sus vâjâitul viscolului, jos mugetul valurilor, în dreapta depărtatele strigăte ale santinelelor, în stânga freamătul rogozului, la spate țipătul cobitor al cucuvelei ce se ascundea în ruineie bateriilor rusești ce fusese abandonate de la trecerea oștilor aliate în Bulgaria, și în față urletul lupilor, strigătul vulturilor și cloncănitul corbilor ce căutau hoituri! Toate aceste zgomote îngrozitore, înfiorătore, înghețate amestecate la un loc formau o muzică sinistră, dar impunătore. </p>
+<p> Alt om s-ar fi înspăimântat sau ar fi rămas mut de admirație, Stan însă, a cărui inimă era muncită de alte gânduri mult mai impunătore, nu băgă în seamă nimic, nu se înfricoșa de nimic, ci merse înainte mâncând cu ochii suprafața râuluî și cotiturile terenului, tot sperând că doar va zări undeva vreo barcă or o luntriță. Merse tot căutând și nezărind nimic până ce ajunse aproape de magaziile vămii din capul șoselei de la Turnu, dincolo de care se afla capul podului ce ducea la Nicopole. Să se strecoare pe după magazii și să se furișeze pe lângă santinele ca să treacă pe pod dincolo ar fi dorit din suflet, dar nu cuteza, căci erau santinele la ambele capete ale podului din fața magaziilor și mai în fiecare ponton! </p>
+<p> A trece nezărit era peste putință căci santinelele erau deștepte și din minut în minut se deșteptau una pe alta strigând: ascultă; fu dar nevoit ca să aștepte ziua căci atunci erau mai mulți sorți de izbândă. Să aștepte, dar unde? Căci până la ziuă încă era câtva timp și a sta afară fără adăpost până dimineața era cu neputință, căci se făcuse frigul foarte pătrunzător și patrulele începuse să treacă dese încoace și în colo pe terenul de la schelă. Ce să se facă dar? Se întoarse înapoi, merse razna în dreapta, apoi în stânga, căută pretutindeni și, tot mergând, zări înainte niște mușuroaie negre: erau bateriile rusești; cazematele lor săpate în pământ puteau să-i ofere un adăpost suportabil; se îndreptă dar spre ele, și, ajungând în dreptul lor, intră în una din ele și se culcă într-un colț. </p>
+<p> Oboseala fizică și zdruncinarea morală ce-i produseseră atâtea emoții îl aruncă îndată într-un fel de amorțire care semăna cu leșinul; ar fi putut sta acolo zile întregi așa amorțit, căci nu s-auzea împrejur nici un zgomot, dar grija îl făcu să sară drept în picioare tocmai în minutul în care aurora venise să deschidă cu degetele sale de roze porțile orientului. </p>
+<p> Cum zări revărsatul zorilor, Stan ieși iute din mica tainiță ce îl adăpostise, se îndreptă cu grăbire spre țărmul Dunării, și, ajungând aproape de mal, își aruncă iarăși privirea spre luciul râului, doar și-o vedea visul cu ochii, adică barca ce-l adusese. Deocamdată nu zări nimic, căci deasupra apei plutea o ceață deasă și umedă; îndată însă ce se ivi soarele la marginea orientului și-și aruncă mai cu curaj razele spre globul pământesc, atunci pânza de ceață se spintecă fâșii, negura zbură încoace și încolo și lăsă să se vadă în trista sa goliciune țărmul opus. </p>
+<p> Cum se lumină, privirile lui Stan se aruncară cu lăcomie spre pânza de apă ca să zărească cu o clipă mai curând aceea ce dorea cu însetare, adică vreo barcă, vreo luntre, vreo pânză de caic, dar în deșert! Atunci răzbi până la auzul său niște sunete confuze venite de dincolo de apă, care zgomote îl făcu să-și arunce ochii spre partea locului ca să vadă ce se petrecea pe celălalt mal. </p>
+<p> Atunci privirea sa se aținti spre acea parte cu o curiozitate crescândă și văzu în valea din vecinătatea Nicopolului o priveliște care-l înmărmuri. Mai întâi o grupă de dorobanți români încărcându-și armele, apoi cete de călărași formând prin șirurile lor două ziduri larg distanțate care se întindeau de la porțile cetății până la marginea râuluî, și între acele două ziduri o trâmbă deasă de locuitori din Nicopole, bărbați, femei, copii și chiar bătrâni care se uitau cu toții cuprinși de un fel de neastâmpăr spre porțile  Nicopolului. </p>
+<p> După ce privi câtva timp acest tablou neînțeles pentru el, Stan zări venind despre cetate o altă grupă de călărași înșiruită în dese plutoane, apoi câțiva ofițeri călare, pe urmă un om pedestru legat cot la cot cu mâinile la spate, și după el altă grupă de călărași înconjurați și precedați de o spuză  de copii și de cască gură. </p>
+<p> Astă vedenie îl făcu să se înfioreze, căci asista mai dinainte la un spectacol care în curând avea să-l aibă pe dânsul drept actor principal. Ca să scape de chinurile ce-i pricinuia astă vedenie, voi să fugă de ea, dar picioarele-i rămăseseră nemișcate pe loc, ca cum ar fi fost împietrite, și ochi-i stătură pironiți într-acolo ca și cum ar fi fost reținuț de o putere magnetică. </p>
+<p> Toată atenția sa nu era îndreptată spre mulțimea ce furnica și zbârnâia ca un roi de albine, nici spre grupa de soldați care pregătea în liniște distrugerea unui frate de arme, moartea unui camarad, ci spre acela ce era ținta tuturor privirilor, obiectul tuturor convorbirilor, victima acestor preparative. Negreșit el era un militar, un confrate și voia să-l cunoască ca să-l plângă astfel cum l-ar fi plâns alții pe dânsul. </p>
+<p> Privirea sa era ageră și pătrunzătore ca a oricărei ființe deprinsă din copilărie a despica cu ochii nemărginirea spațiului cu ochii, dar deocamdată nu putu distinge trăsăturile sărmanului condamnat, dar după ce se mai apropie de țărm și o rază de soare se opri în fața sa, atunci scoase din piept un țipăt groaznic și într-aceeași clipă aruncă mantaoa după dânsul și se aruncă după malul pe care sta în adâncul apei cu capul înainte. </p>
+</div>
+<div type="chapter" n="14">
+<head> XIII. Câmpul de osândă </head>
+<p> Nicopoli, rămas definitiv în stăpânirea românilor, dobândi un nou comandant de cetate și un comisar civil. </p>
+<p> Acești doi funcționari superiori, cum sosiră în oraș, începură să ia în primire tot ce se afla acolo și să revizuiască tot. Ei intrară tocmai în momentul când Stan ieșea. A doua zi, cum se făcu ziuă, cei doi comandanți începură să ia în primire cetatea și toate clădirile publice cu material cu tot aflate, atât în ea cât și în oraș; așadar, începură a merge din casă în casă, din redută în redută, din cazarmă în cazarmă, li se deschiseră toate ușile, li se descuiară toate încuietorile și găsiră toate în regulă. Ajungând și la temniță, aflară numai o cămară ocupată și se apropiară de ușă ca să intre înăuntru, însă în loc de ușă deschisă găsi pe caporal palid, tremurând, dar hotărât, care sta cu spatele lipit de ușă. </p>
+<p> — Deschide ușa ... îi zise fostul comandant cu un ton de autoritate familiară. </p>
+<p> — Nu e nevoie d-le colonel, răspunse caporalul. </p>
+<p> — De ce? </p>
+<p> — Căci a zburat puiul cu ața, răspunse bietul temnicer, fără să-și poată stăpâni învățul de a rosti proverbe și zicători chiar într-asemenea moment solemn. </p>
+<p>— Cum? Ce zici? A fugit condamnatul? Strigă comandantul încremenit, și nu ne-ai spus încă până acum, nătărăule? </p> 
+<p>— Să trăești, d-le colonel, nu v-am spus pentru că condamnatulă n-a fugit. </p> 
+<p>— Dar ce a făcut? </p> 
+<p>— S-a dus până acasă să-și vadă neamurile și să se întoarcă. </p> 
+<p>— Cine i-a dat drumul? </p> 
+<p>— Eu. </p> 
+<p>— Tu? Cu al cui ordin?</p> 
+<p>— Cu al meu, d-le colonel. </p> 
+<p>— Cu al tău? Mizerabile, ai să fii împușcat în locu-i ca un câine. </p> 
+<p>— Ce o vrea târgul și norocul, d-le colonel, răspunse cu stoicism caporalul. </p> 
+<p>— Să se convoace imediat consiliul de război spre a-și primi chiar mâine osânda ce merită, zise noul comandant, depărtându-se. </p> 
+<p> Formalitățile procesului militar în timp de război nu sunt așa complicate nici de lungă durată; pe la prânz după terminarea inspecției se adună consiliul de război, și se aduse înainte-i caporalul care deja ocupase camera lui Stan. Interogatoriul nu fu lung, Vlad spuse în toată simplitatea cum s-a petrecut șiretenia și din ce cauză a dat drumul condamnatului, încredință pe judecători că n-au cuvânt să se îngrijăscă, căci arestantul lui va veni negreșit în acea seară să-și reia lanțurile de condamnat, ascultă sentința care-l condamna la moarte în locul celui dosit prin vina lui și el nu se clăti deloc, ci repetă întruna judecătorilor: </p>
+<p>— Așteptați până diseară și veți vedea că Stan are să se întoarcă. </p> 
+<p> Judecătorii ar fi putut executa imediat sentința, căci noul comandant era înzestrat cu puteri descreționare; dar văzând din partea condamnatului atâta siguranță și așa mare stăruință, amânară executarea pentru a doua zi de dimineață. </p>
+<p> Condamnatul fu dus iarăși la închisoare; ziua trecu, veni seara și după ea noaptea, cu toate astea prevederile lui Vlad nu se mai realizau, Stan nu se mai înturna! </p>
+<p> La cântarea zorilor de seară ofițerul de ordonanță intră în camera sa, constată că condamnatul nu s-a mai întors și plecă vestind pe înlocuitorul său să se pregătească, căci a doua zi în zori de zi își va suferi negreșit osânda. </p>
+<p> D-aci încolo grija începu să intre în inima lui Vlad, viermele temerii începu să-i roadă rărunchii, umbra morții să treacă din când în când pe dinaintea ochilor săi și răceala gloanțelor să-i înghețe sângele, dar curajiul tot nu-l părăsi; s-a înnoptat, e adevărat, dar noaptea încă n-a trecut! Pe la inelul nopții intră in camera sa căpitanul de rond, îl întreabă tot ce știa despre Stan și despre domiciliul său, și după ce află tot ce voia să știe, ieși recomandându-i și el de a se prepara pentru a doua zi! În acea noapte, jucară într-una firele telegrafice dintre Nicopole și Turnu Măgurele. </p>
+<p> A doua zi lumina zilel găsi pe Vlad cu totul abătut și zdrobit; pe el nu-l zbuciuma atâta frică de moarte pe cât ciuda c-a fost amăgit în cele mai scumpe credințe ale lui de un frate de arme, de un camarad căruia îi făcuse așa mare bine. Cum se iviră zorile, veniră să-l caute, îl scoase afară și el se lăsă a fi dus ori unde voiau fără să murmure sau să se codească. </p>
+<p> Tribunalul se adunase cu noaptea în cap; cum sosi înainte-i Vlad ceru amânarea pentru a doua zi, ceru o nouă amânare măcar până seara, asigurându-i că amicul său a fost desigur împedicat de niscareva obstacole de n-a putut veni la timpul hotărât, dar unul din judecători îi smulse și astă rază de speranță și-i spuse că prefectul județului fusese în persoană la casa lui Stan, aflase c-a fost p-acolo în ziua trecută, dar a plecat de cu seară nu se știe unde și barca cu care a trecut Dunărea a dispărut și ea fără să-i se dea de urmă. </p>
+<p> — Facă-se voia D-lui, zise atunci nenorocitul inocent, plecând cu resemnare capul pe piept; mor fără să-mi pară rău, căci am dat unor copii un tată și unei femei pe bărbatul ei. </p>
+<p>   — Nu crede că va scăpa, replică judecătorul, s-a împănat toată țara cu depeși care-i descriu semnalmentele, astfel că oriunde se va duce va fi prins. </p> 
+<p>  — Cum i-o fi norocul, răspunse Vlad suspinând. </p> 
+<p> Câmpia de executare era situată alături de Nicopoli sub poalele dealurilor pe care se afla satul Harmanli, mai în fața bateriilor rusești din preajma Flămândei; ea era o pajiște puțin ondulată mărginită de trei părți cu dealuri și de alta cu Dunărea, deși judecata nu fusese publică și nimeni nu vestise orășenilor ziua, ora și locul executării, totuși șoapta purtată din om în om cărase afară din oraș o mare parte din populațiune și o făcuse să bătătorească de cu dor câmpia ce avea să fie martora primei executări române. </p>
+<p> Pe la opt ore de dimineață sosi și condamnatul și numaidecât se făcu o tăcere mormântală. </p>
+<p> În mijlocul câmpului era săpat un șanț, în dreptul șanțului cu fața spre Dunăre sta cu arma la picior plutonul de dorobanți, și în paralel cu el și în linie perpendiculară la dreapta și la stânga sta înghesuită formând niște adevărați pereți, mulțimea ce se adunase ca să privească. Pe malurile Dunării nu se afla nimeni. </p>
+<p> Îndată ce sosi osânditul în fața șanțului îngenuchie, preotul ce-l însoțise începu să citească rugăciunile de iertare a păcatelor, apoi îl împărtăși cu sfântele taine, pe urmă citi mișcătoarele rugăciuni ale înmormântării și, în fine, se retrase spre a da loc unui ofițer care citi în auz și cu voce tare sentința de moarte. După ce se citi sentința și se retrase și ofițerul, un sergent veni de leagă la ochi pe condamnat, îl puse să stea drept în picioare cu spatele spre șanț și cu fața spre soldați și apoi se dătu la o parte. </p>
+<p> Atunci un fier rece trecu prin sângele tuturor celor ce stau de față la acest trist spectacol, căci se apropia ora supremă; atunci ofițerul ce comanda dorobanții trecu la spatele lor și le comandă:</p> 
+<p>— Ploton, arma la mână, cartuș în cameră. </p>
+<p> Atunci unul din soldații de pază întinse o mână spre apă și strigă:</p>
+<p>— Un om în Dunăre! </p>
+<p> Această veste produse atâta învălmășeală și zăpăceală încât, cu toată paza soldaților, mulțimea rupse rondurile și năvăli spre malul râuluî umplând careul unde sta condamnatul. Văzând aceasta ofițerul comandă: </p>
+<p> — Arma la loc, la picior, și un caporal și doi soldați fură trimiși să vadă ce era. </p>
+<p> Ordinul ofițerulul se execută pe dată, mulțimea se năpusti și mai numeroasă pe marginea Dunării ca să vadă ce era, iar soldații se făcură trâmbă în jurul condamnatului și-l păziră ca să nu scape în învălmășeală. </p>
+<p> Iată ce văzură cei ce se năpustiseră spre mal: un om în Dunăre nu departe de mal se lupta cu valurile ridicate de vântul ce bătea și din când se afunda în adânc și iar apărea ca să se lupte din nou cu curentul. Puterile erau  aproape de a-l părăsi, și afundările se făceau din ce în ce mai dese. Lumea înghețată de frică privea fără să alerge să-i dea ajutor, căci râul era înfuriat și frigul era destul de simțitor; numai caporalul și soldații fură mai generoși; ei nu calculară nici puterea vântului nici rigoarea frigului, ci se dezbrăcară pe întrecute, se armară cu semnul crucii, săriră în apă și cu câteva izbituri de braț ajunse acolo unde deja dispăruse necunoscutul înnotător. </p>
+<p> Peste o jumătate de oră ei erau la mal cu prada ce disputase valurilor: lucru de mirare, acel om era aproape de portare, gata de a se afunda, și cu toate astea nu-și pierduse deloc cunoștința. Cum puse picioarele pe pământ, el, deși obosit și scurs de puteri, putu să alerge așa cum era, cu hainele ciuruind spre ofițerul ce comanda plutonul și a-i zice cu o voce puternică: </p>
+<p>— Dați iute drumul osânditulul, D-le căpitan, căci nu este el, ci eu vinovatul. Eu sunt Stan Flămânzeanu cel osândit, și iată-mă am venit să-mi iau pedeapsa. </p>
+<p>— Spuneam eu? Striga Vlad aruncându-se în brațele fratelui său de arme; la român cuvântul este sânt, și oșteanul nu-și calcă jurământul niciodată. </p>
+<p> Vă las să vă închipuiți singur! Uimirea ce produse în asistenți acest eveniment neașteptat. </p>
+<p> Ofițerul surprins și el ca toată lumea, nu știu ce să facă, și trimise numaidecât un călăraș ca să vestească pe comandant și într-același timp dădu ordine ca să dea toată îngrijirea trebuinciosă celui scăpat din înec. Comandantul sosi, se minună foarte, lăudă în destul acest exemplar devotament amical, dar nu putu înlătura efectele sentinței care rămăsese definitivă și cu destulă părere de rău ordonă ca să se facă dreptate! </p>
+<p> Ordinul comandantului se execută pe dată, liniștea fu restabilită, pătratul uman fu reînființat, condamnatul fu așezat iarăși lângă șanț și legat la ochi, preotul își făcu din nou datoria și puștile soldaților se îndreptară din nou spre un piept omenesc... cu deosebire numai că cel ce avea să fie executat se numea Stan iar nu Vlad. </p>
+<p> In minutul când căpitanul îngrija de preparativele noi executări, o voce de la spatele mulțimii striga:</p>
+<p> — Opriți-vă. </p>
+<p> Soldatii iarăși să opriră, toate fețele se îndreptară spre partea de unde venea vocea și văzură într-o trăsură ce zbura ca vântul pe comisarul civil venind spre câmpul de executare urmat de un călăraș și făcând cn batista felurite semne de așteptare. </p> 
+<p> Comandantul, văzând semnele și recunoscând trăsurile comisarului, dete pinteni calului, alergă întru întâmpinare ca să vadă ce era și, ajungând lângă trăsură, primi din mâna comisarului o depeșă care conținea următorele rânduri: </p>
+<p> Plevna a capitulat în mâinile oștilor aliate, Osman Pașa e rănit și prizonier. Entuziasm mare, din ordinul M. Sale toți condamnații grațiați.</p>
+<p>— Să trăiască România, strigă comandantul alergând să dezlege singur frânghiile celor osândiți. </p> 
+<p> Să trăiască România, strigă oștenii, și toată mulțimea începu să plângă de bucurie. </p>
+<p> Domnul Românilor serbase astă mare zi astfel cum se cade s-o serbeze orice domnitor. El ștersese prin înalta sa clemență lacrimile celor ce sufereau.</p>
+</div>
+<div type="chapter" n="15">
+<head> XIV Încheiere </head>
+<p> Plevna căzuse, dar era de glorie și bărbăție nu se sfârșise pentru români. </p>
+<p> Oștile victorioase de la Grivița, Vidin și Belgragic, nesocotind groaznicele viscole ale lui decembrie: lipsa, gerul, zăpada și vijeliile preumblară vulturul strămoșesc din biruință în biruință și dovediră încă o dată lumii ce poate românul. Zibru-Palanca, Lom-Palanca, Arcer-Palanca, No-voselo, Belgargicul, Rupcea, Rainonovcea și Florentinul fură pe rând ocupate de către vitejele falange ale curcanilor, călărașilor și tunarilor români. Iată Smârdanul, el era cheia astei epoci glorioase de fapte de titani; acolo infanterie, cavalerie, genii și artilerie, armată permanentă și teritorială își dădură mâna frățește și se întrecură care de care să ducă la nemurire faima vitejii românești. </p>
+<p> Mulț voinici căzură în luptă, multe vieți fură secerate, dar românii biruiră, turcii fură goniți. Vidinul, fecioara turcească, fu ocupată de oștirile românești și preliminările păcii fură subsemnate la Kazanlîc. </p>
+<p> Stan, după ce petrecu câteva zile în sânul familiei sale, pe care o găsise foarte nemângâiată și de la care află că luntrașul fusese înduplecat de bătrân prin multe rugăminte ca să se dea afund, se întoarse la regimentul său, merse cu el acolo unde-l chemase datoria, se bătu la Smârdan ca un leu, dobândi acolo o rană gravă la picior și Steaua României pe piept și acum este mângâiat de orice suferințe, căci după încheierea păcii putu să reintre în țara lui sub cutele scumpului său steag, mândru și cu fruntea în sus. </p>
+<p> Azi Stan este șchiop; ca și Vlad mai nu mai este bun de muncă, deși e tânăr, dar este mulțumit de soarta sa, căci pe pieptui lui lucește Steaua României și viitorul familiei sale este asigurat prin generoasa solicitudine a guvernului care l-a trecut în lista pensionarilor. </p>
+<p> Caporalul Vlad s-a stabilit și el la Flămânda unde s-a însurat cu o vară a Măriei, și cu toată șchiopenia sa, tot poate să dea lui Stan, fratelui său de arme, o puternică mână de ajutor ca să-și muncească holda și s-o facă să rodească. </p>
+<p> Se vede că D-zeu se uită cu ochii blânzi spre acești invalizi ai neatârnării României, căci holda lor este cea mai mănoasă și casele lor cele mai îmbelșugate. Fericirea care multă vreme i-a ocolit, ba i-a dus și până în marginea pierzaniei, astăzi s-a sălășluit în mod statornic în locașurile lor. Aceasta este răsplata tuturor acelora ce sacrifică tot datoriei și onoarei. </p>
+<p> <seg>Publicată pentru prima dată la 1878 iunie 9, în Calendarul Progresului pe anul 1879.</seg></p>
+</div>
+</body>
+  </text>
+</TEI>

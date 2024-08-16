@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Legionarii crucei. Tragedie constantiniană în trei părți și un epilog: ediție POPLITE </title>
+            <author>Caion</author>
+            <respStmt>
+               <resp>codare POPLITE</resp>
+               <name>Teodora Iuriusciuc</name></respStmt>   
+           <respStmt>
+             <resp>verificare codare POPLITE</resp>
+             <name>Alexandra Olteanu</name></respStmt>   
+            <respStmt>
+               <resp>corectură manuală</resp>
+              <name>Melisa Cazacu-Gheorghiu</name>
+            </respStmt>
+           <respStmt>
+             <resp>verificare corectură manuală</resp>
+             <name>Alexandra Olteanu</name></respStmt>   
+            <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>UAIC</publisher>
+            <date></date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+            <ref type="doi" target="10.5281/zenodo.7342136"></ref>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Caion</author>
+               <title>Legionarii crucei. Tragedie constantiniană în trei părți și un epilog</title>
+               <pubPlace>București</pubPlace>
+               <publisher>TIPOGRAFIA MODERNĂ G. LUIS</publisher>
+               <date>1904</date>
+               <decoNote type="ilustratii" subtype="no"/>
+               <dim unit="char" type="mare"/>
+               <extent>
+                  <measure unit="word">28520</measure>
+                  <measure unit="page" type="under_250"/>
+                  <measure unit="foileton" type="under_65"/>
+                  <measure type="complete"></measure>
+               </extent>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme='https://opentheso.huma-num.fr/opentheso/api/theso/Typologie'>
+               <term type='domaine' ref="https://hdl.handle.net/20.500.11942/crteb7oodgosm">literatura</term>
+               <term type='factualite' ref="https://hdl.handle.net/20.500.11942/crt22aacdhvi7">fictiune</term>
+               <term type='forme' ref="https://hdl.handle.net/20.500.11942/crtnufdew1lfb">proza</term>
+               <term type='genre' ref="https://hdl.handle.net/20.500.11942/crthuyig1pxri">roman</term>
+               <term type='agencement' ref="https://hdl.handle.net/20.500.11942/crtbdm5xnc6io">foileton</term>
+               <term type='origine' ref="https://hdl.handle.net/20.500.11942/crtxolq1evsr9">opera originala</term>
+               <term type='discours' ref="https://hdl.handle.net/20.500.11942/crt4wma17ncnj">narativ</term>
+               <term type='public' ref="https://hdl.handle.net/20.500.11942/crthb4el4r5qc">non défini (public cible)</term>
+               <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
+            </keywords>
+            <keywords>
+               <term type="receptare" n="5"/>
+               <term type="republicare" n="2"/>
+               <term type="finished"></term>
+               
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
+            <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
+         </projectDesc>
+      </encodingDesc>
+   </teiHeader>
+    <text>
+  <body>
+  <div type="chapter" n="1">
+    <p>CARTEA ÎNTÂI</p> 
+    <p> Legionarii crucii </p>
+<p> Era în tabăra lui Constantin. Oștile risipite pe câmpia întinsă, aproape nu mai păstrau vechea ordine romană: obosite, priveau trist apusul polichromic al unui soare, ce lumina o lume murindă. </p>
+<p> Vechea orânduială din tabăra augustiană dispăruse: legionarul, disciplinat de odinioară, făcuse loc soldatului leneș, pe care o plată bună îl târa în șivoiul luptei. </p>
+<p> Armata era pestriță: toate limbile imperiului se ciocneau între ele; răsuna lângă cuvântul latin, rotund și plin, cuvâtarea pițigăiată a grecului sardian sau asprul grai al tracului și al germanului barbar. </p>
+<p> Vechiul pilum al legionarului aproape dispăruse; adusese fiecare neam armele sale, unele necioplite, și altele, aproape fără niciun folos. </p>
+<p> Din praetorium, comandantul suprem nu mai putea, ca altădată, să spună că întreaga armată are un mare suflet, amânat de un singur gând. Germanul visa hydromelul spumos, tracul, femei frumoase, grecul filtre blestemate; iar latinul degenerat, se pierdea în extaz mistic: visa viitoarea lume și strâmta vale a lui Iosafat, din acea fericită Galilee. </p>
+<p> Sufletul imens din vremurile republicii, era acum multe suflete, pe care idealurile felurite le gonea în diferite părți. Supremul general era acum și dânsul, sau un barbar, sau un sclav al cugetării celei noi. </p>
+<p> Ca la toate popoarele decadente, religia creștină adusese latinismului suprema mântuire și înlocuise urma de patriotism, printr-un vag umanitarism. </p>
+<p> Cetățeanul Romei murinde era umanitar; el iubea pe trac ca și pe german, pe latin ca și pe grec și, în mintea  lui, amorțită de trai, războaiele erau lucruri nedemne și pe care noul lui Dumnezeu le oprea. </p>
+<p> Nenorocitul decadent, sau sclavul imbecilizat, vedea în religia lui lisus, nu pe acel cârmuitor sublim, ci pe umanitaristul utopic, care nu vrea să știe ce-i patria. </p>
+<p> Aceasta era soldățimea cu mulți zei, pe care împăratul Constantin o ducea să se lupte contra lui Maxentius și Maxim Daia. </p>
+<p> Din praetorium se auzea mare larmă și, pe deasupra ei, tunând vocea lui Costantin. Erau mulți soldați care nu mai voiau să se lupte și să ridice spada contra dușmanului: efect sublim al unei învățături sublime! </p>
+<p> — Niciodată nu voi ucide un om nevinovat! Cel ce de sabie se slujeește, de ea moare. Dumnezeul meu mă oprește, zicea un tânăr soldat, cu privirea dulce și cu corpul mic, ca și toți latinii decadenței. </p>
+<p> — Vin oștile lui Daia și ne omoară, replică tunător Constantin. </p>
+<p> — Să vină, căci ne deschid împărăția cerului. </p>
+<p> La aceste vorbe ciudate, în care răsuna ecoul unei religii noi, împăratul își vedea viitorul nimicit, tronul pentru care vărsase atâta sânge, ocupat de un altul, iar dânsul, ucis ca cel din urmă nemernic. </p>
+<p> — Dar și eu sunt creștin, răspunse Constantin. La Naisus ce religie am avut? Oare buna mea mamă nu-i o creștină cucernică? Oare eu sunt crescut în lumea vechilor zei? Voi nu vedeți că lupta mea e pentru creștinism ? Dușmanii mei sunt dușmanii crucii. Eu mă războiesc pentru credința cea nouă. </p>
+<p> Vorbele își avură efectul dorit, ele aprinseră în sufletul acestor degenerați, flacăra unui nobil fanatism.</p>
+<p> Constantin dispărea și, în fața lor, apărea năluca sfântă a iui Iisus Mântuitorul: lupta pentru tron se schimba în lupta pentru cruce. </p>
+<p> Seara se tot grăbea să lase la loc noaptea. Din cortul împăratulului, începu a se zări licărirea luminilor ce se aprindeau pe rând.  </p>
+<p> Cerul, într-o parte, era încă roșu de primele raze ale soarelui apunând. Amurgul zilei era frumos. În depărtare, se estompau slab Apeninii, care se pierdeau, puțin câte puțin, în negura ce preda obscurul nopții. </p>
+<p> Vorbele  împăratului făcură înconjurul taberei. Creștinii, care formau majoritatea oștirei, erau fericiți și, adunați în jurul praetoriului, cu ochii pierduți în mistica privire, ei aprobau vorbele lui Constantin. </p>
+<p> Împăratul sta în pragul cortului său. Silueta sa mare și gros conturată se desfăcea din cadrul unei minunate seri. Vorbea și glorifica pe fiul lui Dumnezeu. Fiți gata: mâine ne vom lupta. Și, cu mâna, arăta partea de cer înroșită de razele apusului de soare. </p>
+<p> Vorba lui prindea viață: el devenea elocvent și gestul său nobil și foarte generos. </p>
+<p> Împăratului nu-i venea să creadă!... Pe fondul înroșit se desemna, ușor conturată, o cruce luminoasă, și în jurul ei, în litere de foc, stătea scris. </p>
+<p> Constantin ridică brațul și căzu în genunchi. Vedeți voi, zise el cu o voce tremurândă, vedeți, oșteni ai crucii, simbolul Dumnezeului nostru? </p>
+<p> Priviți crucea care se găsește colo pe cer: citiți ce scrie in jurul ei! Soldațimea delira și, în genunchi, ridica imnuri de glorie. In hoc signo vinces, strigau latinii și grecii si siriacii grecizați. </p>
+<p> Crucea dispăru repede: totuși, soldații o văzură toată noaptea. </p>
+<p> Constantin câștigase lupta și tronul îi era asigurat.</p>
+<p> În noaptea următoare, Crist apăru în vis soldaților și crucea, pe care o zăriră pe cer, alături de el. </p>
+<p> A doua zi, vechiul vultur legionar care zburase victorios pe câmpiile Asiei si Africii, care se oprise pe Akropolea Athenei și pe ruinele Palmyrei, care triumfase în Egipt, alături cu August, și în Britania și Galia împreună cu Cesar, cădea ucis de noul simbol. </p>
+<p> Crucea, cu deviza ei strălucită, pe care soldățimea și împăratul o văzuse în seara aceea de friguri și temeri, stătea acum în fruntea legiunilor. </p>
+<p> Câțiva soldați protestară, un german beat invoca pe Thor, iar un grec cu glasul subțire recită pasaje din Theogonia lui Hesiod. Ei fură uciși pe mormântul bătrânului vultur legionar, care, după ce zburase victorios peste câmpiile Asiei, peste colinele superbe ale Greciei și peste Espania pătimașă, apunea într-un ajun de luptă, în mijlocul veseliei. </p>
+<p> Constantin simți o durere sufletească. Aquila aceasta era însăși Imperiul Roman: era simbolul puterii lui Caesar și o amintire a celor mai frumoase zile. </p>
+<p> În fața acestui vultur îmbătrânit, Vercigentorix se închină; în fața lui, Hannibal își plecă mândra lui frunte. Era dânsul o epopee care grăia; era o amintire dulce pentru cel care voia să urmeze calea bătătorită de Cesar, de August, de Traian. </p>
+<p> Soldați! strigau: </p> 
+<p> Uite, priviți!.. Dumnezeu ne dă simbolul adevăratei credințe. Să-l luăm și vom învinge, vom face să răsune în basilice glasul umil al slujitorului crucii. Cu ajutorul credinței, să luptăm și să murim pentru cruce și credința nobilă a lui Cristos. A fost un moment de aiurare extatică: unii văzură năluca sfântă a lui Cristos binecuvântând oștirea lui Constantin, alții auziră voci divine și glas de heruvim.</p>
+<p> Entuziasmul era general. Sufletul legionarilor palpita de bucurie și lupta cu Maxentius se înfățișa ca o războire dintre creștinism și păgânism. </p>
+<p> Legionarii, veseli, arătau silueta împăratului și, în taină, spuneau:</p>
+<p> — El e trimis de Dumnezeu să dea religiei creștine puterea terestră. </p>
+<p> Entuziasmul lua proporția unei epopei: se plângea, se râdea și se ruga spre cer. </p>
+<p> Legionarii erau mulțumiți; ei văzură, în crucea de flăcări, o aprobare a cerului, un ajutor, pe care divinitatea îl dădea lui Constantin. Mulți dintre aceștia văzură încă, pe cerul înstelat, crucea, care făcuse pe împărat stăpân peste oștirea sa. </p>
+<p> În tot timpul nopții, în locul aquilei, se așezară cruci aurite și care îndemnau la războire. </p>
+<p> ... Și, lumina dimineții înăuri, cu razele ei plăpânde, o bogată hecatombă de vulturi de bronz: era singura jertfă, pe care noua religie o putea primi. </p>
+<p> Ceasul războirii sosise. Legiunile crucii așteptau să intre în luptă. Câmpul de război era strâmt și mărginit de Saxa rubra; de acele stânci înroșite și, care păreau niște grămezi de cărbuni, ce licăreau la suflarea vântului, și de Tibru, care curgea liniștit între maluri mâncate. </p>
+<p> Aici, unde odinoară trăise legenda lui Romulus și Remus, unde Aeneas debarcase și, pe unde trecuse oștile  lui Cesar, victorioase și mândre, păgânismul intra în luptă cu religia rea nouă, pe care întâmplarea și voința cerească o dase sub paza lui Constantin.</p>
+<p> Lupta a fost caldă. La Pons Milvius, Maxentius își găsi moartea, împreună cu numeroase legiuni. </p>
+<p> Legionarii lui Crist fură învingători. </p>
+<p> Seara luptei sosise. Peste câmpul acoperit cu stârvuri, încă pline de căldură vieții, plutea fâlfâitul corbilor, atrași de mirosul cadavrelor. </p>
+<p> Soldați tineri, cu viață destulă, zăceau uciși de fierul dușman. Alături de ei, sângele înnegrit prinse a se închega, și se auzea, în această vastă necropolă, numai croncănitul păsărilor de pradă.</p>
+<p> Vulturi pleșuvi, corbi grași și cu penele având lustrul metalic, se lăsau încet peste stârvurile din care flacăra traiului de abia se stinsese.</p>
+<p> Alături de aceste hecatombe de tineri, pe care banul îi ducea spre moarte, zăceau aquilele de bronz. Labarul, care înlocuise vulturul în tabără constantiniană, învinsese pe bătrâna aquilă.</p>
+<p> Cerul senin era luminat de lună. O zi selenară, care fermeca și reliefa conturul funebru al cadavrelor, făcând decorul și mai fioros.</p>
+<p> Razele cădeau în bogate stoguri: troieni de pulbere lunară innobilau fruntea celor morți și tăcerea sepulcrală, care învăluia acest cimitir păgân, era sfâșiată de ciocănitul sinistru al corbilor și vulturilor, care despuiau oasele de carne.</p>
+<p> Constantin era mulțumit; izbânda repurtată de oșile sale, îl făcea fericit și îi răpea somnul.</p>
+<p> Cu pași mari, dânsul se plimba în jurul cortului său; sufletul lui, aici era mulțumit, aici era pătruns de neîncredere și i se părea că, legiunile învinse, ce dormeau somnul morții pe câmpia vecină, prind viață și, în frunte cu vulturul înviat, năpădesc asupra lui. Auzea vocea lui Maxentius, tropot de cai și zăngănit de arme: îi era frică și, fără de voie, striga. Vuietul său se pierdea în adâncul câmpiei, dus pe aripi de credincios ecou. Treceau minute întregi și realitatea îl bucura: auzea croncănitul păsărilor de pradă și slabe vuiete. </p>
+<p> Voia să se asigure și, tăcut, fără de zgomot, se cobora în mijlocul armatei învinse care, sub lumina palidă a lunii, dormea veșnicul somn. </p>
+<p> Împăratul, cu bucurie de fiară, străbatea acest câmp al morții. Pasul său greoi deștepta, din orgia mâncării, pe frumoșii corbi și pe aquilele, care păreau a fi cele nimicite de cruce.</p>
+<p> Mergea cu greutate, cadavrele erau numeroase și împedicau piciorul: era silit să calce peste corpuri și, atunci, avea senzații urâte, părea că aude țipete și blesteme. </p>
+<p> Înainta spre Pons Milvius, voia să găsească trupul lui Maxentius. Își amintea, din focul luptei, că fusese ucis, la capătul stâng al acestui pod, pe care vremea îl ruinase. </p>
+<p> De abia dibuia; stârvurile prea multe îi făceau mersul greoi. Luna îi slujea de călăuză, în această lume fantastică, care sta înțepenită într-un decor de feerie.</p>
+<p> Tibrul se auzea; valurile făceau un zgomot mic și, care se împerechea cu slabele vuiete, ieșite din pieptul murinzilor, și cu croncănitul corbilor. </p>
+<p> Într-un loc, îmbrățișați, muriseră doi soldați. După asemănare erau frați, care încălziră suflul de gheață al agoniei, prin sărut imaculat de frate. </p>
+<p> Împăratul fu adânc mișcat. Sufletul său aspru de barbar, care tremura de plăcere înaintea sângelui dușman, se înduioșa și, în mijlocul acestei tabere, cuprinsă de frigul etern al nesimțirii, își aminti copilăria și tinerețea sa sângeroasă. </p>
+<p> Voia sa meargă înainte, cu toate că a avut o clipită de ezitare, dar revărsatul zorilor se vestea și, spre răsărit, lumina roz-albă a începutului de zi nimicea obscurul unei nopți luminoase. </p>
+<p> Împăratul se întoarse. Pe la jumătatea drumului, în mijlocul legiunilor moarte, zări pe unul dintre soldații săi. El se ruga. </p>
+<p> Vreun frate sau vreo rudă poate își găsise moartea în rândurile dușmane, gândi împăratul. După felul de îngenunchere, Constantin văzu imediat pe unul din adepții noii religii. </p>
+<p> Era un soldat tânăr și frumos, voinic, cum rar se găseaau latini în aceste vremuri ale decadenței. Sub mângâierea începutului de zi, musculatura lui puternică se contura admirabil. Împăratul, fără a-i tulbura ruga, îl ocoli și se îndreptă spre tabără. </p>
+<p> Aelius Sentinus, legionar constantinian, se luptase, plin de curaj, la stâncile roșii, ca și la podul Milvius; el, nu o dată, scapase crucea, înfiptă pe labarum, de-a cădea în mâna pângăritoare a oștilor lui Maxentius. </p>
+<p> După sfârșitul luptei, iubirea creștină, care impune milă fără de hotare pentru dușman, ca și pentru frate sau prieten mult iubit, îl împinse în mijlocul câmpului de luptă. </p>
+<p> Micile stânci roșii, care mărgineau teatrul măcelului, păreau vopsite cu sânge. Mai departe, se ridica șubredul Pons Milvius și, in zarea serii, se estompa, bine nuanțat, orașul etern. </p>
+<p> Aelius plângea și, în mijlocul acestei necropole, în care cadavrele nu erau îngropate, unde, pe palium, umblau viermi blestemați în locul însemnelor de victorie, găsi loc princios de rugă fierbinte. </p>
+<p> Era rugăciunea lui, o pioasă chemare a Dumnezeirii: o plăpândă rugăciune spre mila cerească. </p> 
+<p> La douăzeci și cinci de ani, Aelius era un creștin convins. Născut în credința pagână, el, totuși, primi noua religie, grație unui bun bătrân care, legionar roman în Palestina, putuse să primească taina Sfintei Treimi, chiar pe gloriosul pământ galileian. </p>
+<p> În mijlocul acestui câmp al morții, i se părea că aude vocea lui Dumnezeu, care îl mustra; i se părea că fiecare mort se ridica și-l blestema. Era o intreagă orgie de țipete, de suspine și de blesteme, care se repezeau cotropitoare, care voiau să nimicească pe cel care păcătuise.</p>
+<p> Aelius plângea și se ruga și, când soarele învăluia, în mantie aurită, trupurile intrate în viermuială, tânarul legionar se ruga încă. </p>
+<p> Aelius se născuse în plin Samnium. Copilăria îi fusese mângâiată de clima cea dulce și sănătoasă a frumoșilor Apenini. La vârsta de patru ani, era orfan și, la cinci ani, munca grozavă de sclav îl chinuia.</p>
+<p>Se vedea în ajunul luptelor, micuț, suferind și neavând nicio mângâiere; își amintea dureroasa lui copilărie, bătăile primite și chinul foamei, la care era supus mai totdeauna. Suferea pe tăinuite și, plânsul, nici el nu mai venea să-l mângâie. La ce bun lacrimă zadarnică, când ea se pierde în pământ ? </p>
+<p>Când împlini zece ani, un bătrân sclav, numele nu-l știa, își amintea, însă, figura lui chinuită, peste care resemnarea creștină așternuse învingerea sufletească.</p>
+<p> Era un sclav bătrân, care călătorise prin Galileea, era unul din aceia care primise noua credință, chiar pe pământul sfânt al Palestinei. </p>
+<p> De la dânsul primi noua credință. Vorbele lui răsunau, încă, ca și o trompetă de victorie. Sfatul său era pavăză de aramă și vorba lui măsurată, armă neinvincibilă a durerii sufletești.</p>
+<p> Își amintea de cuvintele lui limpezi: își amintea de vorba lui dulce, în care plutea viziunea lumii veșnice. </p>
+<p> La cincisprezece ani, era creștin fanatic, fericit în durere și, având în privire năluca unei lumi mai drepte. Suferința lui pierise; primea loviturile cu zâmbet în privire și cu rugă creștinească pe buze. </p>
+<p> La șaisprezece ani, pe la jumătatea ideilor lui Marte, Aelius se făcu mercenar; intră în oastea lui Diolecțian și a lui Constantin Chlorus, când ei erau pe la finitul domniei și, apoi, legionar în armata lui Constantin. </p>
+<p> În război nu se da în lături: el, sau purta aquila legiunii, sau păzea munițiile armatei, dar sângele nu iubea; i se cutremura sufletul, când vedea murind dușmanul său, când tovarășul de luptă, împingea sulița în trupul inamicului. Era hotărât să meargă în păduri,să trăiască o viața de sfânt. Auzise de oameni tineri și bătrâni care, prin scorburile munților, duceau o viață de lipsuri întru pregătirea celei eterne.</p>
+<p> Pustnicia îl surâdea, îl atrăgea. </p>
+<p> Aelius era despărțit de tot ce era pământesc. Pentru dânsul, femeia era imagina Sfintei Fecioare și, în ea, nu găsea decât chip sfânt de curată adorare. </p>
+<p> Trupul său nu era chinuit de figura patimii și carnea lui nu tresălta la glasul voluptății, așa că singurătatea îl fermeca. </p>
+  </div>
+<div type="chapter" n="2">
+<p>II </p>
+<p> Lumea sclavilor era supusă celor mai dureroase chinuri: dânsa suferea din greu și, sub cârmuirea sufletească a zeilor păgâni, se nimicea, așteptând să se ivească un nou Spartacus, un alt nobil atlet al libertății. Decadența, însă, nimicise, din inima latină, entuziasmul și puterea sufletească care, singură, poate naște eroi, ce vor să moară pentru binele comun. Samnium, ca și celelalte provincii italiene, era nimicit. Sub dominația câtorva proprietari, mii de sclavi mureau sufletește și se pregăteau, repede, spre a trece în imperiul lui Hades. </p>
+<p> Sub cer superb, senin și plin de soare, sub mângâierea dulce a vântului sudic, îmbibat de mireasma apenină, Aelius se născuse. Părinții săi, sclavi nemernici, muriseră în grozave dureri. Stăpânul lor, un bogat liber, unul din neamul Narcișilor si Caliștrilor care, prin lingușirea cesarului, parvenise la rang și bogăție, domnea peste jumătate din Samnium. </p>
+<p> Păduri fermecate, în care lumina soarelui nu străbâtea: prăpăstii adânci și fioroase, șesuri aurite de grâu și soare, munți stâncoși, sate și pășuni; turme de vite și oameni intrau sub directa lui stăpânire. Întregul Samnium tremura la numele lui Sylvius Porcius Laecca, presupus nobil decadent și care, în neamul lui, pretindea că numără și un binecuvântat legislator. </p>
+<p> Spița familiei sale se zicea că se pierde în negura vremii; se spunea, în graiul de frumoasă legendă, că se înrudea cu fioroșii regi egipteni. </p>
+<p> Sclavul o ducea rău cu stăpânul ăsta care, la rândul său, era sclavul patimilor blestemate. Câți sclavi și câte sclave nu pieriseră pentru mulțumirea poftelor sale, câți nu găsiseră moartea în palatul corintic, care se ridica pe malul unui fioros abis. Marmura, dantelată de faimosul Xantippos din Milet, forma fațada acestei locuințe împărătești. Coloanele, minunat tăiate, dădeau intrării un important aspect. La spatele locuinței lui Sylvius Laecca, se întindea o prăpastie adâncă și, care mânca din ce în ce malul din jurul ei; pecingină fioroasă și, pe care o învinsese zidul de piatră, ridicat de bogatul Laecca, la spatele superbei sale locuințe. </p>
+<p> Era acest zid, care susținea o minunată terasă, copie credincioasă, după acela pe care Tiberius îl ridicase la Capri. Un Laecca fusese credincios servitor al lui Tiberius și, voind să imite în tot pe stăpânul său, ridică palatul după modelul celui din Capri, în mijlocul sălbăticiei apenine și înconjurat de flora și fauna barbară a unor locuri neumblate. </p>
+<p> În fața palatului, se afla superbul bazin al murenelor, pe care bogatul Laecca le hrănea cu carne de sclav. </p>
+<p> Săpat în porfir roșu, bazinul era adânc și lat: în el, apa era schimbată des si murenele, trăite in belșug. Deseori, pe nisipul auriu, care forma așternutul bazinului, carnea nefericiților sclavi se tăvălea azvârlită ici-colo de gurile lacome ale peștilor. Departe, pădurile de pini înconjurau cascade minunate, care trimiteau, până la fericitul stăpân, murmurul unor hymnuri, ce erau născute printr-o meșteșugită cădere de apa. </p>
+<p>Prin pădure, se desfăceau poteci, presărate cu nisip de granit albastru și care, sub mangâierea slabelor raze de soare, scânteiau și făceau să se minuneze privirea trecătorului. </p>
+<p>Tufișurile erau populate de statui superbe, fauni și satiri șireti, fugărind driade frumoase, zei mândri și afrodite zâmbitoare.</p>
+<p>La spatele pădurii, se afla locuința sclavilor, un mare șopron de piatră, ridicat lângă grajdul dobitoacelor. </p>
+<p> La începutul idelor lui Marte, mulțimi de invitați, în strălucite toge, rămaseră în domeniul lui Laecca, chemați să participe la o agapă, întru sărbătorirea nașterii bogatului samnian. </p>
+<p> Printre invitați, se afla și istețul Sidonius, poetul mult invidiat și care, în Roma, cânta patimile perverse și luxul decadent. El salută locuința lui Laecca în hexametre generoase. </p>
+<p>„Fermecate țărmuri ale dulcelui Samnium: voi, pe care Sylvius Porcius Laecca preferă oricărei locuințe, când Roma îl plictisește.''</p>
+<p> — Bravo, amice Sidonius, pe Joe! te admir cum știi să ne păcălești. </p>
+<p> — Pune în locul lui Joe pe Cristos. Nu știi că, la Roma, lumea elegantă are, ca semn de cunoaștere, credința încolțită pe pământul evreiesc ? </p>
+<p> -Nu, Joe să ne domnească! replică Laecca. </p>
+<p> — Dar ce-i cu mine? întrebă șiret Sidonius.</p>
+<p> — Cu tine? Uite ce este: ai salutat locuința amicului nostru cu versurile ce închină Martial vilei lui Apolinarius din Formia. </p>
+<p> -Așa este, și am voit să încerc cunoștințele voastre în literatură. Mă plec, am fost învins. </p>
+<p> Invitații trecură în sala de mâncare. Dezbrăcați, se întindeau, lenevind pe voluptoase divanuri. Mâncărurile începură a fi aduse. </p>
+<p> Sylvius făcea onorurile casei. </p>
+<p> Sclave frumoase aduseră cele mai alese mâncăruri pe tăvi strălucite, de aur și argint. </p>
+<p> Sylvius începu să vorbească, arătând o mâncare adusă de curând.,, Tot ceea ce vedeți pe această tavă este făcut din carnea unui singur animal.'' Invitații înțeleseră totul, Sylvius dedea chemaților săi cele mai prețioase mâncăruri.</p>
+<p> Sidonius, după ce mâncă lacom și, după ce un sclav îl gâdilase în gât de vreo trei ori, ca să verse, săturat și obosit de mâncare, începu să-și instrune lira. </p>
+<p> Vinurile de Falerne alternau cu cele aduse din Grecia si Asia minoră, și beția cuprinse întreaga lume: o beție nerușinată și puterniciă. Orgia începu: sclave tinere, copile frumoase ca și zeițele; copii nefericiți trecură în sala de festine, un sclav se opuse. </p>
+<p> — Dă-l morții, strigă Sidonius. </p>
+<p> - Să vină Africanus! urlă Sylvius. </p>
+<p> Africanus era un sclav negru, care săvârșea crimele poruncite de stăpânul său. Sylvius îi arată pe sclavul nesupus. </p>
+<p> — Ce să fac cu el, stăpâne? </p>
+<p> — Dă-l murenelor. </p>
+<p> Nefericitul sclav a fost ciopârțit în fața tuturor și, apoi, aruncat în frumosul bazin. </p>
+<p> Sidonius dădu o idee: </p>
+<p> — Adu și pe nevasta lui să-și privească soțul cum intră în stomac de pește, zise zîmbind pervers. </p>
+<p> - Să vină, să vină, urlară toți. </p>
+<p> Nenorocita sclavă fu adusă. Moartă aproape de durere și frică, ea privea zăpăcită spre strălucita lume de invitați și spre murenele care se băteau pe pradă. </p>
+<p> Ea începu să plângă. </p>
+<p> — Râzi, porunci Sylvius. </p>
+<p> — Ne strică petrecerea, ripostă Sidonius: nemernica trimite-o in stomacul murenelor. </p>
+<p> Într-o clipă, a fost dezbrăcată și aruncată in bazin. </p>
+<p> A fost un spectacol îngrozitor: pe când sărmana sclavă se îneca, peștii îi sfâșiau carnea. Apa se înroșise, și o spumă albă plutea pe deasupra ei. </p>
+<p> Printr-un mecanism ciudat, apa însângerată a fost schimbată în căteva clipe. </p>
+<p> ...Și orgia reîncepu, vibrândă de patimă și blestemată. </p>
+<p> Astfel, muriră părinții lui Aelius. </p>
+<p> Soarta sclavilor era tristă : niciunul nu putea să plângă pe nefericiții morți, fără să nu-și atragă ura patronului nemernic. Spionii nerușinați înveninau și mai mult viața nenorocită a acestora. Aelius crescu aproape singur: câțiva sclavi bătrâni au avură milă de dânsul și, în mare taină, îi dădură viață sufletească. </p>
+<p> Copilăria lui a fost cruntă, lovit fără încetare, el găsea mângâiere în rugile pe care un bătrân sclav, fost legionar în armata lui Titus și creștinat chiar în Palestina, i le spunea : se mângâia, rugându-se la Dumnezeul cel nou, care iubea, de-o potrivă, pe nobil ca și pe sclav. </p>
+<p> Într-o seară de toamnă, când Samniul devine trist și când aurul ruginit al sfârșitului de vară se lasă ucigând vegetația și slujind de preludiu al iernilor dulci, care nu pot, însă, răpi farmecul apenin, Aelius se ruga la noul Dumnezeeu. Patronul nesimțitor îl prinse și, în loviri nemiloase, îl făcu să-și piardă simțirea. </p>
+<p> — Nu vreau zeii evreiești, răcnea Laecca, nu vreau boceli creștine și, cu mai multă furie, izbea pe mult nefericitul copil. </p>
+<p> Lipsit de dragostea alintării de mamă, crescut în cele mai mari chinuri, dânsul pricepea din ce în ce mai bine noua religie, care îi dă puteri de răbdat. </p>
+<p> Într-o seară, bunul bătrân, care-i deschidea poarta cerească a vieții eterne, în cuvintele ce-l răcoreau, îi spuse că, în lumea cea veșnică, intră numai cei drepți, numai cei cu frica lui Dumnezeu. </p>
+<p> — Dar, stăpânul nostru? întrebă temător copilul. </p>
+<p> — El intră în focul Ghehenei, răspunse trist fostul legionar. Dumnezeul nostru nu face deosebire între nobil și plebeu: el iubește pe cel drept și, de aceea, spre a câștiga viitoarea lume, trebuie să răbdăm si să ne rugăm chiar pentru dușmanii noștri. </p>
+<p> Din clipa aceasta, bietul copil, în rugile lui de seară și de dimineață, chema mila cerească să se răsfire și peste stăpânul său. </p>
+<p> Lovirile pe care le primea, îl lăsau zâmbitor: era asemenea câinelui credincios, la noii sălbăticii, el răspundea prin dovezi de frumoasă  credință către stăpân. </p>
+<p> Sclavii începuseră a-l iubi, nici că mai văzuseră ei copil de zece ani așa de cuminte și așa de credincios unei Dumnezeiri, pe care ei, oameni în toată firea, cu greu o puteau pricepe. </p>
+<p> Viața lui devenise mai fericită, rugile ce îndreptatau către cer erau ostroave de mare mulțumire și, care-i deschideau noi orizonturi și îi dedeau puteri de răbdat. Corpul său de copil, adânc chinuit, era slab, pielea se întindea pe un schelet, doar privirea îi era dulce și purtătoare de imagini de blândețe și mare îndurare. </p>
+<p> Într-o seară de septembrie, Aelius, melancolic, gândind la iubirea de mamă, la dulcele șoapte de alintare, pe care dânsul nu le auzise, istovit după o zi de munci grele, tolănit, visa treaz și, zâmbete senine îi fluturau pe buzele lui înălbite. </p>
+<p> Pe cer, luceafărul apăruse și clipea rar. Noaptea se anunța senină și luna avea să metamorfozeze obscurul în zi; troieni de zăpadă selenară aveau să înalbească covorul de iarbă și pădurea de pini. </p>
+<p> Ceasul rugii sosise, micuțul sclav își împreunase slabele lui brațe și, în genuchi, se ruga pentru iertarea păcatelor săvârșite de stăpânul său. </p>
+<p> Tocmai îi pomenea numele, când unul din sclavii spioni, îl descoperi. </p>
+<p> Pedeapsa îi fu aspră. </p>
+<p> A doua zi, fugărea prin munți și căuta drumul Romei. </p>
+<p> Avea doisprezece ani, când merse spre cetatea eternă. Roma era clocotindă de patimă. Noua morală, ce țâșnea limpede din religia lui Cristos, făcuse mulți prozeliți și multă lume găsise scăpare sufletească în învățătura nobilă a Galileianului.</p>
+<p> Aelius găsi în drum legionari romani: ei îl luară și fu dat ambulanței, îngrijind de cei răniți cu iubire creștinească. </p>
+<p> Când împăratul Dioclețian părăsea scârbit tronul și se afunda în grădina lui de fructe, Aelius intră in oștile lui Constantin, după ce slujise cu credință pe părintele acestuia.</p>
+<p> Imperiul Roman se dezmembra repede. Tetrarchia imaginată de către Dioclețian grăbise, și mai mult, ca statul roman să se nimicească.</p>
+<p> Cauza cea mare era religia creștină, care dădea putere de viață unei părți din poporul latin. Sclavii, până la Cristos, erau animale nemernice, care trăiau numai ca să muncească. Noua religie le zugrăvea moartea ca limanul tuturor relelor și începutul unei vieți eterne și fericite pentru cei drepți. </p>
+<p> Sclavii, oțeliți în botezul creștin, erau acum înarmați cu puteri înzecite și pieptul lor era acoperit de armura cea mai puternică, de cea mai curată și luminoasă credință. </p>
+<p> Efectul acestei noi îndrumări se simți sub cei din urmă împărați, când sclavul, refuzând îndărătnic ca să realizeze porunca stăpânului său, primea moartea cu seninul în ochi. </p>
+<p> Roma, în aceste vremuri, era cuprinsă de un vag misticism; religia cea adevărată nu pătrunsese în toate straturile, care populau orașul cel veșnic.</p>
+<p> Odată cu venitul serii, tinerele patriciene, cu figurile pălite de anemie, cu degenerescența zugrăvită pe figură, tineri cu toge elegante și cu corpurile cocoșate de viață, istoviți în lupta cea păcătoasă a plăcerilor, femei și bărbați, cu privirile triste, se îndreptau spre barierele Romei. </p>
+<p> Acolo, în obscurul peșterilor sau în scobituri de pământ, ei se rugau și priveau curios la ciudatele simboluri zugrăvite în grabă și prost. </p>
+<p> Zâmbeau duios, privind mielul pascal, columba, păstorul și peștele, ale căror cinci litere grecești reaminteau numele lui Cristos.</p>
+<p> Aceste legiuni de falși creștini erau aduse în modestele lăcașuri de rugă, nu de credință, ci de dorul deosebirii și senzațiilor noi. </p>
+<p> Aristocrația aceasta, care se înfunda în peștera întunecoasă și asculta psalmodierea unui bătrân preot, nu era creștină, ci curioasă să cunoască și să practice o religie pedepsită. </p>
+<p> Palidele romane voiau să guste din senzația celor care, pe vremea lui Nerone, plătiseră cu viața credința în cel de sus. </p>
+<p> Adevăratul creștinism încolțea în lumea sclavilor, unde se pregătea inconștient și căderea puterii romane. </p>
+<p> Roma cea adevărată, Roma triumphans, urma să se închine Mylitei și să aibă lupanarul drept templu de rugă. </p>
+<p> Aelius găsi, în 305, când intră în oștirea lui Dioclețian, tetrarhia aproape distrusă. Împăratul, întristat, voia să se retragă, nu se putea pricepe cu nimeni și nu mai putea înțelege pe nimeni. Aelius și-l amintea. O figură istovită, un corp mare, câcârjat, și o voce stinsă aproape. Aelius fu trimis cu ordin de luptă spre hotarul Germaniei.</p>
+<p>Barbarii făceau numeroase năvăliri, fără ca populațiile să se opună.</p>
+<p>Creștinismul nimicise orișice forță de rezistență în sufletele acestea, stoarse de orice vigoare: le dăduse, însă, o morală înviorătoare, nu pentru ei, ci pentru copiii lor, care erau să fie de la naștere crescuți în noua religie.</p>
+<p> Frumoșii germani, cu trupurile mari, cu părul blond și cu musculatura puternică, erau aproape stăpâni pe hotarul imperiului. </p>
+<p> De altminteri, germanul domina de mult Roma. Pe străzile ei, de mult rătăceau aceste tipuri blonde de sălbatici murdari. Ei intrau în lupanare, ei erau chemați în palatele luxoase și pretutindeni erau iubiți. </p>
+<p> Ei cucerise pe latinul aristocrat, prin patima care îl stăpânea. </p>
+<p> Din praetorium, împăratul privea câmpul de luptă, care se întindea în fața ochilor săi. Se zăreau stâncile roșii, iar mai departe se desprindea, din aburul depărtării, acel pons Milvius, unde Maxentius și oamenii săi își găsiră moartea. Pe buzele lui groase și senzuale, i se așternea un surâs de mulțumire; era învingător și putea să-și continue lucrarea de distrugere; mai avea mulți dușmani și voia să-i omoare, până la unul. </p>
+<p> — Crucea, zise Constantin, privind labarul, crucea a învins pe bătrânul vultur, care nu voia să zboare și deasupra oștilor mele și, râzând cu hohot, împăratul uită că este singur: vorbea și gesticula cu brațul său puternic. </p>
+<p> Constantin era beat de izbândă și, întregul său corp, mare și având musculatura unui barbar, se cutremură de spasmul victoriei. </p>
+<p> Apoi, își reamintea lupta. </p>
+<p> Ziua petrecută la pons Milvius fusese caldă. </p>
+<p> Legiunile sale din greu luptară: pare că vedea labarul, în fruntea oamenilor săi, care-1 credeau cucernic fiu al crucii, tremurând în mâini fanatice și, care îl duceau spre izbândă sigură. </p>
+<p> Legionarii nu erau mulți, dar fiecare din ei avea în piept flacăra curată de nobilă credință. Pons Milvius îi apărea ca în ziua izbândei: locul strâmt favoriza pe soldații săi. </p>
+<p> Armata lui Maxentius era mai numeroasă, armele erau bune, dar mercenarii ce o compuneau erau lipsiți de fanatismul unui nobil ideal. </p>
+<p> — Ce zi, continuă împăratul a vorbi singur, ce zi frumoasă, care va fi urmată de intrarea mea în Roma, în mijlocul unui triumf, care să amintească pe cel repurtat pe Paulus Aelius. </p>
+<p> Seara începuse să coloreze în violet totul. Dispărea din ochii lui Constantin una câte una, stâncile și apoi locul luptei. </p>
+<p> Învăluit într-o chlamydă, fiorosul apărător al crucii trecea printre cadavre și zâmbea. Moartea, care răcise atâtea trupuri tinere, îl înviora: îi dedea noi puteri de luptă. Câmpul se pierdea din ochi și, peste el, unul peste altul, se găseau cadavrele soldaților. Luna își trimitea palidele priviri spre această necropolă militară și, la mângâierea palelor raze, fețele livide ale morților păreau că zâmbesc hidos spre neofitul creștin. </p>
+<p> Mersul greoi al împăratului deștepta din amețeala produsă de o hrană bogată, corbii și vulturii care veniseră să se sature. Un vultur zbură și îl atinse cu aripa sa pe împărat. El tresări, credea ca aquila lui Maxentius a înviat și că zboară, chemând la viață legiunile moarte, apoi zâmbi și se prosti bucuros că a fost numai o idee, desprinsă dintr-un vis bolnav.</p>
+<p> Nu toți soldații muriseră: unii mai horcăiau încă, alții mai suspinau și se pregăteau să moară. </p>
+<p> Moartea era ușoară pentru soldatul creștin, dar pentru nefericitul crescut în silnicia vechii religii, spasmul morții îl îngrozea. </p>
+<p> Impăratul trecea fericit și nici nu voia să audă suspinele celor care îl ridicaseră pe umerii lor, la înălțimea unui tron. Din când în când, zâmbea și se gândea la vulturul ce-l speriase. În cugetul său era gata, dacă ar fi avut nevoie, credința cea nouă s-o lepede, jurând soldaților că slujește numai aquila romană. </p>
+<p> De tabără se depărtase prea mult: rătăcea deja de câteva ceasuri. Zorii zilei începuseră să se zărească, când se întorsese și păși pragul praetoriului. </p>
+<p> Legionarii constantini se pregăteau pentru intrarea în Roma. Era să fie primul triumf al crucii, întru-un oraș unde religia cea nouă suferise atâtea umiliri și înfrângeri. </p>
+<p> Roma, orașul plăcerilor blestemate, cetatea nemernică, și totuși eternă, se pregătise să primească pe împărat. Lumea aceasta, doritoare de noi senzații, credea că privirea le va fi mulțumită, prin intrarea lui Constantin în Roma. </p>
+<p> Splendoarea triumfurilor păgâne lipsea. Ostașii lui Constantin refuzară să ia după ei, încărcați de grele lanțuri, pe nevinovații partizani ai lui Maxentius, așa că se reducea mult carul triumfal pe care împăratul trebuia să-și facă intrarea în Roma. </p>
+<p> Aelius urmă cortegiul împărătesc. Ridicat ca șef de cohortă urbană, dânsul vedea această repede înaintare în nestrămutătuta sa iubire și credinței ce purta religiei lui Isus. </p>
+<p>Nobilul ostaș jurase castitate veșnică. Credea dânsul, ca și mulți creștini, că Dumnezeul cel adevărat nu poate să vadă cu iubire pe creștinul ce se cobora la patima trupească și schimba femeia în animal pângărit și pângăritor.</p>
+<p> Credința lui pentru împărat și pentru biserică atrăsese, încă din război, atenția lui Constantin.</p>
+  </div>
+<div type="chapter" n="3">
+<p> III </p>
+<p> Pierdută în mijlocul florilor de câmp, năpădită de albăstrițe și de buruieni, de trandafiri sălbatici și de flori agățătoare, căsuța se pierdea într-un vârtej de verdeață. În fața ei se deschidea orizontul larg și, în depărtare, mărginit de Balcani. Prin fața casei trecea șoseaua militară făcută de legionarii Romei și care ducea spre Dunăre: în spatele ei, o imensă pădure de accacias, dădea vara o umbră binefăcătoare. </p>
+<p> Aici se stinsese unul din acei coloni militari, pe care imperiul îl procopsise și, în urma lui, rămăsese o bătrână și o fată fermecătoare.</p>
+<p> Lydia crescuse în spiritul aspru al noii credințe și, la frumusețea ei, adăuga înaltă cinste sufletească și dragoste pentru munca dreaptă și curată. </p>
+<p> Când trecuse de  prima copilărie și pășea pragul tinereții, Constantin, în Naissus, la mama sa, deseori văzuse pe Lydia, care venea să-i arate omagiile ei de credincioasă romană. </p>
+<p> În aceste vremuri de grea cumpănă pentru creștinism, cei care erau legați sufletește prin noua religie, se socoteau ca frați de luptă. Prietenia lor era întărită prin nobilă credință și jertfele nu lipseau. Aveun pilde numeroase și care zugrăvesc până unde se puteau înălța acești creștini neciopliți, dar foarte cinstiți. </p>
+<p> Comunitatea lor mică era citadelă puternică și invincibilă; templul lor era colibă sărăcăcioasă, dar luminată de flacăra celei mai curate credințe, ce a încălzit vreodată. </p>
+<p> Lydia vedea în bătrâna Elena, pe adevărata servitoare a bisericii lui Isus și, nu o dată, sfaturile mamei viitorului Cesar îi luminase tânărul ei suflet. </p>
+<p> Frumusețea tinerei creștine era cunoscută. Legionarii Romei, în trecerea lor, admirau pe creștina care voia să-și jertfească tinerețea superbă, printr-o frumusețe zeiască altarului creștin.</p>
+<p>Lumea aceasta de creștini era exaltată, era cu adevărat cuprinsă de fiorul unui fanatism generos și nobil.</p>
+<p>Pentru dânsa, iubirea se transforma într-un  altruism excesiv, care împingea spre jertfele ce1e mai nobile. </p>
+<p> Pe această fecioară, crin alb și plăpând, floare aleasă a celei mai generoase învățături și care, prin frumusețea ei fizică, ținea numai de lumea veche, o găsi Constantin în casa mumei sale. </p>
+<p> Sufletul său de adolescent zvăpăiat, fu subjugat de grația tinerii femei și o iubire tainică îl cuprinse. </p>
+<p> Barbarul acesta, însetat numai de sânge și mărire, ambițiosul care era gata să facă orice sacrificii numai pentru câștigarea unei noi trepte sociale, cădea prins al unei dragoste pe care, dânsul singur, mai târziu o batjocorea și voia s-o uite cu orice preț. </p>
+<p> În grădinile casei părintești, în frumosul Naissus, Constantin petrecu cele mai curate și frumoase clipe ale vieții sale. </p>
+<p>În fiecare seară, bărbarul căuta să cucerească sufletul delicat al Lydiei. Frumoasa creștină, resemnată și voind să moară castă, departe de orișice patimă trupească, răspundea la dragostea brutală a lui Constantin, cu dulci versete creștinești. </p>
+<p> Viitorul apărător al crucii era disperat și, bucuros, ar fi adus închinăciuni oricărei zeități, numai ca să învingă cerbicia sufletească a celei mult dorite. </p>
+<p> Rugămințile îi fură zadarnice: Lydia voia să fie până la moarte credincioasă jurământului ce îl făcuse.</p>
+<p> Bătrâna mamă a viitorului împărat sprijinea din puteri dorința tinerei creștine.</p>
+<p> In Moesia superioară primăvara urmează repede iernilor grele unde, cu câteva săptămâni a fost zăpadă, răsare verdeață frumoasă și puternică, plină de sucul vigorii vegetale. </p>
+<p> Martie sosea vesel pe parfum de flori.</p>
+<p> Vânturile sudice îmblânzeau aerul și soarele făcea să domnească o căldură binefăcătoare.</p>
+<p> Constantin fiorosul hegemon, leul însetat după sânge, devenise blând și lingușitor, pentru a placea Lydiei. Dânsul, când suna dulce vecernia, și când se pierdea sfiosul glas al preotului în nobil fum de smirnă, se ruga cucernic și privea evlavios teoriile nesfârșite de fecioare caste la suflet și corp. Lydia începuse a se înduioșa; inima ei fu cuprinsă de nobilă milă și primea, zâmbind de plăcere, vorbele tânărului. Dar curățenia ei sufletească era adânc profanată. </p>
+<p> Tânărul care o fermeca era un sclav al viciului și corupției, ca și ceilați: era un om al lumii vechi, care voia să profite de fericirea noii credințe. </p>
+<p> Constantin, disperat și plictisit, dorea să sfârșească și, în una din serile când Lydia, după ruga de seară, privea spre amurgul înroșit al unei zile călduroase, el se așeză lângă dânsa. </p>
+<p> Frumosul păr al prea nobilei fecioare cădea în valuri de aur înroșit, ochii ei albaștri cuprindeau imagini sublime de resemnare, și peste obrazul ei catifelat, nu se zugrăvea nicio mâhnire. </p>
+<p> Venirea viitorului stăpân al Romei o tulbură și, mândrul ei corp, admirabil modelat, simți un fior de spaimă.  </p>
+<p> -În numele lui Cristos, te binecuvântez, frumoasă Lydia, zise Constantin cu glasul blând.</p>
+<p> — Pe Dumnezeul nostru, dar desele tale veniri vor da bănueli comunitații noastre, replică Lydia repede. </p>
+<p> — Vin, iubită Lydia, să te rog, în numele dragostei mele, vin să te rog să fii a mea. </p>
+<p> — Sufletește sunt a tuturor creștinilor. Inima mea poate fi mângâietoare pentru toată lumea, dar, trupește, nu aparțin nimănui. Dragostea ta e stăpânită de prea mult omenesc. În vorbele tale, simt fiorii trupului tău de soldat voinic. Învățătura lui Cristos nu animă cuvintele ce-mi spui. </p>
+<p> Peste câtva timp, bătrâna Elena creștea în casa ei pe Crispus, fiul lui Constantin, iar peste doi ani de la nașterea lui, un convoi mic și plin de adâncă jale, ducea corpul neînsuflețit al frumoasei Lydia. </p>
+<p> De când barbarul îi răpise fecioria, prin viclenia unor vorbe dulci și prin forță, dânsa se sleia pe zi ce mergea și supărarea o culcă la douăzeci și doi de ani în mormânt înăbușitor. </p>
+<p> Pe calea militară, ridicată de legiunile Romei, la umbra unui tei bătrân și sub mângâierea vântului, călător veșnic, Lydia își găsi liniștea cea de veci. O cruce arăta că tot ce era pământesc, dintr-un adept al noii biserici, se odihnea acolo. </p>
+<p> Lydia murise plânsă de toți și, de la dezîncarnarea ei, bătrâna Elena, adânc mustrată, nu putea să mai vadă pe fiul ei. </p>
+<p> Acești primi creștini erau suflete ciudate. Pentru ei, viața era o trecere scurtă și pregătitoare pentru viitoarea lume veșnică. Faptele lor erau numai pilde generoase de nobilă, abnegare; erau numai pilde sublime, de cea mai adâncă pietate. </p>
+<p> Elena era mâhnită. Moartea tinerei creștine o supărase mult și vedea în fiul ei pe sălbaticul aparținând încă lumii vechi. Sângele de trac barbar nu putuse fi înnobilat de credința credința creștină. </p>
+<p> Bătrâna, slujitoare a noului cult, deseori se ruga pe mormântul Lydiei și seara, când rătăcea pe lângă crucea care amintea unde se odihnește corpul scumpei moarte, dânsa avea vedenii sublime. Nu odată, în zarea aburie a sfârșitului de zi, din tufișurile care mărgineau calea militară, i se părea că se desprinde vedenia iubită a Mântuitorului, care venea să binecuventeze mormântul tinerei martire. </p>
+<p> Mormântul Lydiei ajunse un loc de pelerinaj. Se povesteau minuni și florile cele mal alese acopereau strâmta bucată de lut, care cuprindea corpul tinerei femei.</p>
+<p> Multă lume își amintea ultimii ani ai truditei vieți ce ducea Lydia. Frumoasă încă, nefericita creștină, cu mintea tulburată de durere și rușine, rătăcea, zi și noapte, prin desișul pădurilor și, când în fața ei se ivea vreo ființă, izbucnea în plâns sfâșietor de dureros. </p> 
+<p> Pentru dânsa, mângâiala supremă era eurytmia privighetorilor și murmurul pârâului ce străbatea bătrâna pădure.</p>
+<p>Umbla, despletită, cu frumosul ei păr căzând în valuri peste corpul său superb modelat.</p>
+<p>Astfel apărea Lydia, în mintea celor care o văzuseră, cu puține zile înainte de repedea ei dezîncarnare.</p>
+<p>Crispus, copil al unei sfinte, moștenise de la mama lui curățenia de suflet și nobile înclinări spre cele mal alese virtuți. </p>
+<p> Ani se scurseră de la moartea Lydiei. Constantin trecuse prin multe întâmplări. De la Pons Milvius unde, cu ajutorul crucii, învinse dușmanul,  mult nisip cursese în clepsidra vremii și multe vieți omenești pieriră din poruncă împărătească. Crispus, în Naissus, fusese uitat de fiorosul Cesar. Pe când Constantin se căsătorea cu Fausta, copilul său era crescut sub mângâiala Elenei. </p>
+<p> În lupta grozavă a unei politici meschine, Constantin, care ajunsese maturitatea, se înamorează de Fausta, femeie stricată și mai mare în ani decât dânsul. </p>
+<p> Fausta purtase purpura lupanarului. Nu o dată, în cocioabele blestemate ale Saburrei, își vânduse corpul ei frumos și voluptos. Înaltă și cu părul negru, cu pielea bronzată și cu privirea pătrunzătoare, era frumoasă și seducătoare; stăpânea arta cuceririi, era o curtezană desăvârșită. Măritată, după ce își pângărise fecioria, dânsa luă un patrician bătrân și bogat. </p>
+<p> La un festival dat în grădinile imperiale, când Constantin încă aparținea lumii păgâne, dânsa strălucea printr-o frumusețe care atingea culmea.</p>
+<p> Sub întunericul nopții, grădina împărătească sclipea de lumini; era un decor de feerie, care atingea irealul. Fausta apăru. Purta costumul grec și părul său minunat, strâns în jurul unul chip rotund și fermecător, prin el se pierdeau lumini de pietre scumpe. Formele corpului ei apăreau ademenitoare și, din strălucită sandală, se zăreau formele pline ale unui frumos picior. </p>
+<p> Era o zeiță a lumii vechi, era sufletul nefast al Agripinei, care se întrupa pentru a urca din nou treptele tronului mânjit de nebunia neroniană. </p>
+<p> Constantin era învins. Viteazul soldat, din cauza căruia pierise mama lui Crispus, acum de-a binelea cădea prins în brațele unei femei, care compromitea cauza imperială. </p>
+<p> Cei din jurul împăratului au murmurat, un general creștin îi zise : </p>
+<p> — Fausta e credincioasă vechilor zei. </p>
+<p> — Dar eu ce sunt? replică supărat Constantin. </p>
+<p> Palatul imperial, iar avea să fie pătat de sânge nevinovat și crucea iarăși trebuia să poarte zăbranicul morții. </p>
+<p> Împăratul se căsătorea. </p>
+<p> Lumea creștină, care-l ajutase să cucerească tronul, murmura mâhnită. </p>
+<p> Din provincii veneau zvonuri rele. Un crainic împărătesc adusese știrea că mulți creștini blestemau pe Constantin. </p>
+<p> Vești particulare spuneau că, în unele părți ale imperiului, s-au văzut semne rele: un copil cu trei capete se născuse în Samnium; o cruce neagră se văzuse pe seninul cerului în Apulium, iar un preot creștin, în săvârșirea sfintei slujbe, auzise voci tainice și pline de tânguire.</p>
+<p> Constantin, nu fără teamă, se însoțea cu blestemata Fausta. </p>
+<p> Aducea noua împărăteasă, o voluptate bolnavă și, care covârșea sufletul lui Constantin: ea transporta, în palat, lascivul lupanarelor blestemate.</p>
+<p> —Pe Joe, dar soția Cesarului nu-și cruță frumusețea !... Mai era seară, sau mai bine zis, aproape de miezul nopții, cu perucă roșie pe cap, ca și odinioară Messalina, am văzut-o rătăcind c-un german beat. </p>
+<p> — Ce spui, Salvianus? replică un bătrân care purta cu seninătate toga senatorială. </p>
+<p> Oare, iar au reînviat acele vremuri grozave pe care analiștii le povestestesc cu scârbă? Dar Constantin ce face? Tu, care ești în taina lui, trebuie să-i știi gândul.</p>
+<p> — Constantin e ferecat, pare că femeia asta l-a vrăjit; crede că Fausta e virtutea întrupată și, nu mai târziu ca ieri, cei trei copii ai Faustei au și fost instalați în palat.</p>
+<p> — Dar nu-i teamă de creștini.</p>
+<p> — Teamă îi este, dar știe că adepții noii religii sunt blânzi și răbdători. </p>
+<p> Împăratul o fi creștin ? </p>
+<p> — Creștin! După cum sunteți voi. </p>
+<p> — Așa!... </p>
+<p> — Ce-ți spun eu, dar interese politice îl împing spre noua religie; încolo e un sclav al vechilor credințe. Mylitta ca și Dyonisios, sunt adorați în palat; doar în sala cea mare, șade singur chipul lui Cristos. Fausta a voit să-l dea jos, dar s-a opus el. </p>
+<p> — Dar ea ce face ? </p>
+<p> Se prostituează. Mai sâptămâna trecută, treceam repede, printr-o sală a palatului, Fausta m-a întâlnit și a voit să mă oprească. Eram, însă, prea grăbit și, în furia ei, mi-a tras o palmă. </p>
+<p> — Ce spui! </p>
+<p> — Spun adevărul ... dar să tăcem, și zidul are urechi; să nu uităm că suntem în grădina imperială și înconjurați de spioni. </p>
+<p> A doua zi, Fausta, furioasă, intră în apartamentele soțului ei. </p>
+<p> — Aici, zise dânsa plângând, aici se complotează contra mea. Salvianus, generalul tău favorit și cu Cajus Aemilius, senatorul intrigant, au pus la cale moartea mea. Și hohote prefăcute îi zbuciumau frumosul ei piept. </p>
+<p> — Să cercetez, răspunse Constantin. </p>
+<p> — Să cercetezi!... Să-i omori pe loc, replică furioasă împărăteasa. </p>
+<p> Peste două zile, Salvianus și Cajus Aemilius erau uciși pentru crima de înaltă trădare. </p>
+<p> Căsnicia împărătească devenise un chin; nu era zi de Dumnezeu, ca Fausta să nu făptuiască o nouă nelegiuire și să-și impună voința ei. </p>
+<p> Constantin voia să-și dea ca urmaș la tron pe Crispus: se simțea istovit de luptă și plăceri. </p>
+<p> În paza lui Lactantius și a lui Aelius, Crispus se pregătea pentru tron.</p>
+<p> In Naisus, împărăteasa mamă, blânda virtuoasa Elena, îngrijea pe Crispus, care, încă de mic, prin taina sfântului botez, se făcu iubit Dumnezeului creștin: pătrunsese în religia cea nouă. Elena îl învățase să cugete ca un credincios și, mai târziu, Lactantius făcu din el un fisosof, iar  Aelius, soldatul ce se deosebise la Pons-Milvius, un general iscusit. </p>
+  </div>
+<div type="chapter" n="4">
+<p>Tânarul vlăstar încăpuse pe bune mâini. Educația lui era încredințată lui Lactantius care, în grabă, plecase fericit că putea să dea viitorului împărat creșterea ce socotea dânsul ca bună.</p>
+<p> Crispus locuia în Naissus. Copilăria o petrecuse în  mijlocul naturii. De la revărsatul zorilor până la amurgul zilei, Cripus rătăcea printre tufișurile parfumate și pline de tainici cântăreți. </p>
+<p> De două ori pe zi, în orice parte s-ar fi aflat, aducea rugă Dumnezeului creștin. Cu poporul era blând, generos și plin de cel mai nobil curaj. Dânsul împrumutase de la Constantin numai acel avânt bărbătesc, care făcea pe victoriosul de la Pons Milvius să fie așa de admirat și temut; încolo întrupa pe Lydia. Figura lui blândă și luminată de doi liniștiți era încununată de bogat păr aurit. Corpul său înalt purta în el grația și nobila delicatețe a scumpei morți. </p>
+<p> Elena, nu o dată, îi povestise trista istorie a mamei sale, căutând să zidească, în inima lui curată, generoasă dragoste și pentru părintele său.</p>
+<p> Buna creștină, crescând pe Grispus, făcea o operă de cucernică servitoare a noii biserici și reușise ca, din tânărul său nepot, să facă un mare suflet creștin.</p>
+<p> Norodul tresărea fericit când Crispus, smerit și fără mândrie deșartă, mergea duminica în biserica creștinească, unde glasul său fraged se unea cu al mulțimii, întru preaslăvirea Mântuitorului.</p>
+<p> Seara, când pacea cuprindea cerul și întreaga fire se potolește, Crispus deseori se ruga pe mormântul mamei sale și, în nobile imnuri, își arăta întregul său cuget curat:</p>
+<p> „Din înaltul cerului, unde ai dobândit eterna pace, suflet nobil și iubit, ai milă și de mine, fiul tău prea cucernic. Roagă pe Dânsul să aibă milă de sclavul său prea umilit. </p> 
+<p> O mamă, scumpă mamă, pe aripă de vise, roagă-te să aibă milă de fiul tău, singur într-o lume de răi și de mișeli.''</p>
+<p> Apoi, vocea lui  blândă se îndrepta către Mântuitor și, în șoapte, cerea puteri de luptă.</p>
+<p> Viața lui se scurgea liniștită, între credința curată și între poezia naturii. </p>
+<p>  În frumusețea firii, în freamătul pădurii, Crispus vedea manifestarea Dumnezeirii și fericirea adevăratului credincios, îi cupridea inima lui curată. </p>
+<p> Când Lactantius, filosoful sfânt, veni în Naisus, găsi, în copilul lui Constantin, sufletul ce dânsul căuta și era fericit că putea să dea lumii creștine un așa de nobil stăpân. </p>
+<p> Lactantius era o ființă stăpânită de noua învățătură; el, în grai și maestru scris, glorifica biserica creștină și pe Mântuitor.</p>
+<p> In Moesia superioară, Lactantius găsise o viață nouă; viguroasa populație din această parte era cu totul întinerită de credința creștină și de sângele barbar, care dase noi puteri de viață cinstită.</p>
+<p>Sclavia aproape dispăruse; mai toți bogații, creștinându-se, dăduseră libertatea deplină oamenilor ce aveau sub ei. În orașe, în sate, la munte și la înfrățirea propovăduită de sus, se întindea binefăcătoare, nobilă și foarte generoasă.</p>
+<p>Ogoarele erau cu dragoste muncite și, de la Balcani până la Dunăre, răsărea viața puternică și curată.</p>
+<p> Săptămâna de muncă cinstită era încoronată de serbarea Duminicii și glorificarea lui Isus. Biserica era tot așa de simplă; un singur preot, fără gând de înălțare arhipăstorească, deseori mai mult un moșneag plin de cinste, servea altarul și muncea la câmp. </p> 
+<p> Viciile care torturau, încă, lumea creștină, voluptatea care triumfa la Roma, era necunoscută. Aici, tinerii care nu se destinau crucii, se căsătoreau de timpuriu și încolțeau ca și ogoarele pline de grâu.</p> 
+<p> O morală înviorătoare se desfăcea din viața acestor buni creștini, comunitatea galileiană, care strălucea în traiul Mântuitorului, exista și în colonia aceasta minunată, prin sobrietate și virtute.</p>
+<p> Lactantius era fercit, învățătura ce va explica dânsul, avea să găsească o atmosferă princioasă și lipsită asfixierea vicioasă a marilor centre, care se mai zbuciumau între păgânism și religia lui Iisus.</p>
+<p> Filosoful creștin  era o figură frumoasă. Privirea lui cinstită spunea multe; faptele și viața lui grăiau și mai elocvent. Trăia singur ca și un pustnic; plăcerile pământești fuseră nimicite și, în el viețuia numai omul visat de creștinism. In chalmydă albă, mișcările lui largi aveau un efect puternic asupra celor ce ascultau; mijlocul-i era curmat de un șiret gros, iar de gât avea aninată o cruciuliță de lemn sfânt.</p>
+<p> Era frumos; barba lui neagră cădea în valuri și  părul lui, în frumoase plete, încadra un chip de sfânt. Mergea cu capul gol și în picioare  purta sandale. Faima vieții acestui om de bine, era recunoscută în lumea creștinilor și se formase chiar legende, care învăluiau ființa aceasta aleasă, în superba aureolă de om al Dumnezeirii. </p>
+<p> Dumnezeul creștin era aici vag conturat. Creștinul se temea să-și plăzmuiască chipul său; se ruga el firii întregi și adora naiv toată frumusețea care vorbește puternic, când dânsa apare în sânul naturii.</p>
+<p> Duminica, după sfânta slujbă, credincioșii ieșeau în curtea bisericii și, din tinda ei, un creștin explica cugetări din sfânta scriere a Noului Testament. Era ceva frumos și foarte nobil, să privești mulțimea smerită, ascultând glasul tânăr sau bătrân. Alte dăți, la umbra unui stejar stufos, se povesteau patimile lui Cristos și toți plângeau, se chinuiau când se istorisea martirul Mântuitorului și, aceeași lume, râdea, era fericită când Isus învia; ea se bucura de izbândă și pleca la căminul ei, mulțumită pe deplin.</p>
+<p> Zilele se scurgeau line. Din când în când, câte un creștin murea. Atunci, erau noi pilde frumoase de credință fără de prihană. Un convoi simplu și lume multă: </p>
+<p>o tristețe fără de zgomot și, pe buzele fiecăruia, câte o rugă curată.</p>
+<p> Lactantius era uimit; lumea aceasta îi da puteri noi pentru luptă, îl oțelea și-i dădea speranțe unei nobile izbânzi.</p>
+<p> În mijlocul acestor suflete cinstite, crescuse Crispus, și inima sa se umpluse numai de pilde generoase. </p>
+<p> Nu o dată, Crispus și cu Lactantius ieșeau în mijlocul poporului și căutau să le afle nevoile. Intr-o zi, seara pe la amurgul unei Duminici, era lume multă strânsă în jurul unui tânăr care vorbea. Lactantius îl urmă și, adresându-se poporului, îi zise:„ Voi plângeți pe un prieten mort. Sunteți întorși de la înmormântarea lui, dar tristețea voastră nu-i dreaptă. Iubiți frați, nu, fără groază, pot atinge toate nemerniciile noastre. Suntem supuși încarnării și fericiți trebuie s-o așteptăm. Pentru omul drept, care a dus o viață cinstită, care și-a îndeplinit rugăciunile și a fost plin de iubire pentru aproapele său, viața cea veșnică este asigurată. Atunci, pentru ce bocete? Nu sunteți mulțumiți că el, acum la dreapta tronului ceresc, se roagă pentru voi? Mergeți la mormântul lui, lângă remășițele lui terestre; ruga voastră să înflorească alături de florile câmpului acesta. Iubite Crispus, iubite Lentulus si tu Petre care porți un nume iubit nouă, și tu frumoasă fecioara cu nobilii privire, mulțumiți cerului, când un om drept se încarnează, căci el, la dreapta tatălui, pentru voi se roagă.</p>
+<p> Isus, pe care îl iubim, n-a primit moartea cu seninul în priviri?</p>
+<p> Îmi aduc și acum aminte de plânsul meu, când m-am convertit la religia aceasta, am plâns de bucurie, căci nu mai vedeam moartea de care mă temeam.</p>
+<p> Plânsul n-are rost; azi unul, mâine altul, vor urma calea cea veșnică. Fericiți cei care sunt virtuoși, căci moartea le este o vrednică răsplată; nenorocire celor nemernici, căci moartea e începutul unui grozav chin.</p>
+<p>  Bogatul mai greu trece în fericirea raiului, dacă nu plânge cu cei săraci și cei care suferă din greu.</p>
+<p> Aici, la umbra acestui frumos stejar, privind minunile cerești, nu trebuie, printr-o  tristețe nesocotită, să-l mâhnim.''</p>
+<p> Lumea a fost cuprinsă de un pios fanatism și o rugă nobilă înflori pe buzele acestor credincioși. Lactantius, în genunchi, împreună cu toți, plângea și se ruga cerului.</p>
+<p> Când ruga se sfârșise, amurgul pierise și, un obscur plăcut învăluia pe acești oameni generoși și supuși crucii.</p>
+<p> Crispus avea, cu  nobilul Lactantius, dese convorbiri asupra nemuririi sufletului: era din ce în ce mai mulțumit și rugile lui către cer deveneau mai dese.</p>
+<p> Uneori, Crispus citea pagini din autorii favoriți sau din lucrările lui Lactantius, în care se glorificau principiile creștinești. Departe de ei, tot ce era pământesc și, când seara rătăceau pe sub bătrânii copaci, extaziați în fața frumuseților naturii, ei se plecau în genunchi și se rugau ferbinte. </p>
+<p> Aelius Sentinus devenise bun prieten cu împăratul. Dânsul, prin virtutea și vitejia lui, era la curtea imperială o putere neinvincibilă. Constantin cunoștea marile lui calități militare si sufletești: știa că nimeni, mai bine ca viteazul soldat de la Pons Milvius, nu va putea să desăvârșească educația ostășească a viitorului cesar. </p>
+<p> Într-una din cele din urmă zile ale anului în care Constantin se căsătorise cu Fausta, Aelius a fost chemat de împărat. </p>
+<p> - Aelius, zise Constantin, credința ta în noul Dumnezeu și lupta mândră, la care tu ai luat parte, dragostea nemărginită ce-mi arăți, m-au făcut să te aleg pentru a desăvârși, în arta militărească, pe viitorul împărat. Am un copil, tu, Aelius, nu știi; în tinerețe am păcătuit și, în Nassius, unde locuiește bătrâna mea mamă, am iubit pe o creștină. Dânsa este acum moartă. Copilul se numește Crispus, a fost crescut în religia lui Cristos și îngrijit de Elena. </p>
+<p> De doi ani, am trimis pe Lactantius, acum te trimit pe tine, să termini ce a început el. Aide, vorbește și tu! Aelius, uimit de vestea ce-i aducea Constantin, sta pe gânduri.</p>
+<p> Împăratul avea un copil și totuși adusese în casă pe Fausta! Asta nu-i creștinesc, gândea Aelius, și sămânța disprețului începuse a încolți în sufletul său de creștin fanatic.</p>
+<p> — Stăpâne, începu el a vorbi, ceea ce-mi spui tu mă bucura. Mama ta și cu Lactanțiu, ca niște buni creștini, au făcut, desigur, din copilul tău, un adevărat fiu al credinței, care, la Pons Milvius, ți-a dat tronul. Eu voi căuta să fac din el și un viteaz care să știe ridica brațul, când crucea va fi amenințată.</p>
+<p> — Fă din el un ostaș. Imperiul are nevoie de un braț puternic: dușmanii l-au înconjurat și se prăbușește. Soldați viteji nu am, mercenarii barbari nu se răzoiesc cu dragoste și creștinii nu vor luptă, așa că Roma moare și dânsa, și imperiul. Fă, Aelius, din fiul meu, un soldat după cum ești tu, și voi fi mulțumit. </p>
+<p>Imperiul se nimicea. Hotarele erau cu totul deschise și legiunele refuzau să se apere. Mercenarii barbari cereau bani, și bani nu erau. Creștinii nu voiau să verse sânge și priveau distrugerea imperiului, ca o pedeapsă a Dumnezeirii. Aelius, mâhnit, ascultă adevărul spus de împărat.</p>
+<p> — Armata voastră nu mai există. Dumnezeu voiește pierderea Romei, acelei cetăți care a suferit moartea celor mai sfinți creștini: acelei Romi care nu a putut să dea pedeapsa meritată lui Xeron. </p>
+<p> Cetatea cea veșnică moare sub greu blestem.</p>
+<p> Dumnezeul nostru nu pedepsește pe om singur: el nimicește un popor, când el a fost nedemn. Israelul a pierit prin el, Roma se nimicește prin ea. Vorbele ce-ți spun poate că sunt aspre, dar eu sunt soldat, creștin cucernic.</p>
+<p>Mulțumește pe Dumnezeu, fă să ierte Roma printr-o pocăială generală și, atunci, popoarele peste care domnești, au să-ți apere imperiul. Atunci, legionarul crucii va fi și al Romei.</p>
+<p> Constantin sta pe gânduri... Soldatul acesta viteaz spunea lucruri adevărate. Bătrâna Romă murea istovită de ani, viciu și păcate; el răspunse lui Aelius:</p>
+<p> — Voi  face ceea ce nu gândești: am să proclam, ca religie a Romei, religia voastră.</p>
+<p> Aelius zâmbea de fericire.</p>
+<p> — Dumnezeu să te binecuvânteze: numele tău va fi mare în istoria credinței noastre, dar fă-te și tu creștin. Taina sfântului botez îți va curăța sufletul. Acum mă duc și mai mulțumit: am să fac tot ce-mi stă in putință. Iubirea mea va fi și mai mare pentru fiul unui creștin.</p>
+<p>Împărăteasa Fausta era o sclava a vechii religii; dânsa, în cultul lui Istar babilonica, găsea mângâiala trupească; ea se zbătea în voluptate bolnavă si tresărea de plăcere, când se vindea în templul nemernic al Afroditei babiloniene.</p>
+<p> Împăratul își arătă dorința de-a trece, împreună cu întreg poporul, la noua religie.</p>
+<p> -Mă simt slăbit, bătrânețea sosește.</p>
+<p> Și, apoi, poporul meu nu voiește să mai ajute pe un supus al vechii religii.</p>
+<p> Fausta, turbată, răcnea la împărat.</p>
+<p> — Nu vreau pe Isus.</p>
+<p> — Pe Isus și religia lui le vreau eu; le vor popoarele mele.</p>
+<p> Fausta nu voi să mai asculte și plecă furioasă. </p>
+<p> Chiar în seara aceea, dânsa mergea în Saburra, ca să se răzbune pe Mylita și pe curtezanele ei. </p>
+<p> Aelius o văzu de gât cu un trac beat, un fost legionar vicios și blestemat. </p>
+<p> Mâhneala îi cuprinse sufletul, văzând vremurile Mesalinei reînviate și purpura imperială a unui creștin, pângărită în spasmul lupanarului.</p>
+<p> Viteazul soldat o urmări; dânsa intră în una din cârciumele care populau Saburra. Acolo, cu băuturi fermentate, aduse din țara Germaniei, cu hydromel spumos și cu vin de Falern, în care se topiseră mirodenii din Asia, dânsa își ameți mintea. </p>
+<p>Fausta purta pe cap perucă roșie și obișnuiții cârciumei o strigau pe nume. Lais, îi ziceau ei, și o sărutau fără de rușine.</p>
+<p> După ce se înbătară, Fausta și cu prietenul ei de o noapte intrară în lupanar. </p>
+<p> Până în zorii zilei, Fausta, în celula ei, se pângărea și își vindea corpul. Acolo, ea își avea patul ei murdar: își avea cutia în care strângea banul vinderii.</p>
+<p> În zorii zilei, obosită, împărăteasa părăsea casa nemerniciei și se îndrepta spre palatul imperial.</p>
+  </div>
+<div type="chapter" n="5">
+<p> Templul păgân începuse iarăși să se umple de credincioși. Roma, murindă si dominată de patimi, nu se putea împăca cu aspra religie creștină. Romanul, învățat să se tăvălească în noroiul viciului, nu putea să primească abstinența nobilă a creștinismului; el prefera cultul sângeros al lui Istar, el iubea mai bine să-și trimită fecioarele să se prostitueze pe altarul babilonic, decât să pună frâu vocii calde a patimii trupești.</p>
+<p> Basilica creștină impunea resemnare și sobrietate; ea cerea cinste și dreptate, pe când zeii cei vechi doreau patimă nebună. Cetățeanul imperiului constantinic prefera pe Joe lui Isus și iubea mai mult vocea fierbinte a cârnei, decât trompeta limpede a religiei celei noi. </p>
+<p>Roma vibra din nou de voluptate nepermisă: nu tot așa și provincia. Tracia și Moesia, Galia și Espania, Asia și Africa, Italia nordică și Britania: de acolo veneau vești minunate. Creștinismul se lățea și martirii, prin lupta lor, erau foarte numeroși. Întregul imperiu era creștin, numai Roma devenea păgână.</p>
+<p> Atunci, Constantin văzu ridicându-se, din popoarele sale, profeți cu mintea luminată de sfântul duh al Dumnezeului creștin: se născu, în Roma chiar, un suflet care, la zece ani, prevedea viitorul.</p> 
+<p> La douăzeci de ani, Simen Africanul spunea împăratului că poporul său se va îneca în sânge. Vedea, în aburul viitorului, barbarii năvălind în Roma, prăbușind strălucita civilizație pagână și, pe ruinele ei, după ce sânge mult va spăla păcatele Romei antice, se va ridica Roma creștină, nobilă și iubită de Dumnezeu. </p>
+<p> Lui Constantin, tânărul acesta cu vederi pătrunzătoare, îi prevăzu măceluri grozave, care vor avea loc în familia sa.  </p>
+<p> - Tu, stăpâne, îi zise el, în fața curtezanilor înlemniți de groază, vei fi împins de o femeie la crimă. Sângele tău va fi vărsat: carne din carnea  ta va fi dată câinilor și, numai dupe ce vei făptui nelegiuirea, ai să fii cuprins de adâncă remușcare. Uite, văd în zarea viitorului o bătrână disperată care, în lacrimi dureroase îți dezvăluie că ucisul era nevinovat: te văd, stăpâne, furios, și cu secura ucigând o femeie cu care ai împărțit tronul.</p>
+<p> Împăratul adânc tulburat, spuse tânărului profet să părăsească palatul și, în grele chinuri, cugeta la viitorul său așa de sângeros zugrăvit. Luni de zile, Constantin a fost torturat de viziuni înfiorătoare.</p>
+<p> Chiar în seara când Constantin auzise tristele prevestiri, Fausta cerea, pentru fiul său Claudius, tronul Romei. </p>
+<p> — Să fie Claudius, zicea dânsa, urmașul tău, el e un roman adevărat.</p>
+<p> Constantin a avut atunci o viziune dureroasă.</p>
+<p> În fața sa apăru Lydia: era ca în ziua când  o ucisese, prin patima sa. Frumusețea ei blândă o învăluia; purta chiton alb și chlamydă de culoarea aurului. Ea îi vorbea:</p>
+<p>- Tu m-ai ucis, acum vrei să ucizi și pe copilul tău?</p> 
+<p>Împăratul tremura. O sudoare rece îî cuprinse trupul și cuvinte fără șir îi apărură în colț de buză.</p>
+<p> Trei luni de zile, împăratul zăcu între viață și moarte și, când a fost lecuit de boala ce-l cuprinse, dânsul hotărî să meargă la Naissus, unde se afla fiul său.</p>
+<p>Moesia superioară urma să fie admirabilă cetate creștinească: acolo încolțeau cele mai nobile înclinări și noua credință prindea viață din ce în mai puternică.</p> 
+<p> În jurul orașului Naissus se aflau păduri întinse; aici, Crispus și cu Lactantius visau spre viitoarea lume și explicau dogmele creștinismului.</p>
+<p> Arianismul începuse să roadă biserica. Arius, blestematul, susținea că fiul e dintr-o substanță analogă cu cea a tatălui. </p>
+<p> Lactantius explică greșeala lui Arius și susținea că este din aceeași substanță. Zilele se scurgeau în pace mulțumitoare. Crispus era fericit. Venirea tatălui său îi produse oarecare tulburare.</p>
+<p> Constantin, adânc rănit sufletește, găsi prilejul să-și ușureze inima, prin rugi pioase la mormântul Lydiei.</p>
+<p> La intrarea sa în Roma, împăratul voia să facă un pas înainte spre noua religie; el hotărî să dea edictul din Milan.</p>
+<p> Anul 313 adusese cu dânsul mari dezastre. Divinitatea se arăta mâhnită: Popoarele Romei erau crunt lovite și, de pretutindeni, veneau vești triste.</p>
+<p> Împăratul voia să placă cerului și, din templul care suferea, avea să facă o biserică triumfândă. Această revoluțiune, fără  pereche în istoria cugetării omenești, și care trebuia să schimbe fața lumii, era opera lui Constantin.</p>
+<p> În Naissus, împăratul a fost sfătuit să grăbească cu îndeplinirea proiectului său. În drumul când se întorcea spre Roma, pe albastrul violet al cerului de amurg de zi, Constantin revăzu, într-un cerc de aur, crucea care-i apăru în ajunul luptei de la podul Milvius. În jurul ei, licăreau stele, și o mână nevăzută scria fraze neînțelese și, care se sfârșeau cu. Împăratul căzu în genunchi și jură îndeplinirea promisiunii sale.</p>
+<p> Noaptea, în vis, văzu apărând chipul de Dumnezeu, al Mântuitorului care-l binecuvântă și îi iertă păcatele pentru frumoasa faptă ce îndeplinea.</p>
+<p> A doua zi, împăratul era hotărât să treacă la noua religie. Pentru aceasta, trimise în grabă la Naissus un crainic, care să ceară sfatul lui Lactantius.</p>
+<p>Constantin era, însă, mai mult arian; înclina spre arianism și, chiar cutezase a spune lui Lactantius că Arius are dreptate. Argumentarea puternică a filosofului creștin îl dezarmase, și dânsul insistă în apărarea ereziei ariene.</p>
+<p> Înainte de sosirea lui în Roma, împăratul primise vești rele. În coliseuri, gladiatorii atrăseseră lume multă. Aplauzele izbucneau iarăși ca odinioară și sângele producea veselie la acești degenerați.</p>
+<p> Pe străzile Romei, convoiuri, reprezentând zeitățile vechi, treceau în mijlocul rapsodiilor homerice cântate de vocea poporului.</p>
+<p> Carul Florei reapăruse și, curtezanele, goale de rușine și veșminte, luară loc pe dânsul, spre mai marea spaimă a creștinilor.</p> 
+<p> Vremurile blestemate păreau reînviate. Câțiva creștini trecură înapoi la păgânism, zicând că Dumnezeul cel nou e neputincios față de Joe și Venus.</p> 
+<p> Împăratul, adânc mâhnit, porunci ca orgiile să înceteze pe dată. Cea dintâi care protestă, a fost Fausta: </p>
+<p> - Împăratul, soțul meu, nu poate da asemenea ordine, el fiind credincios vechii religii.</p>
+<p> Poruncile fură date la o parte. </p>
+<p> Când sosi impăratul, creștinii îl întâmpinară și, a doua zi, chiar începu să se sfătuiască cu capii creștinismului spre alcătuirea mai bună a edictului promis. </p>
+<p> Un creștin spuse ca Roma nu merită această cinste: </p>
+<p> - Ea este pângarită și pângăritoare, zicea trimisul lui Lactantius. </p>
+<p> — Să alegem Milan, răspunse un altul.</p>
+<p> Împăratul alese acest oraș și, în grabă, dorea să părăsească Roma. Tot în această adunare creștinească, Constantin își arăta scârba ce avea pentru Roma și, în trăsuri generale, schiță planul de a ridica un nou oraș mai frumos și care să-i poarte numele. </p>
+<p> Ideea unei cetăți creștine surâse multora.</p>
+<p> — Voi alege, zicea dânsul, vechea colonie greacă a Bizanțului, pe Bosforul Traciei, între Europa și Asia. Dumnezeu mi-a poruncit să aleg această colonie, pentru noua capitală a latinismului creștin.</p>
+<p> Vestea aceasta, trimisă la Naissus, produse mare bucurie în casa Elenei; toți îl binecuventară pe împărat.</p>
+<p> Anul 313, după Cristos, a fost pentru istoria cugetării universale, cea mai frumosă periodă de izbândă.</p>
+<p>Din Milan, unde Constantin își făcuse capitală provizorie, dădu faimosul edict, prin care, el și cu Licinius, decidea ca libertatea culturilor să domnească în imperiu.</p>
+<p> „ Acordăm, ziceau ei în edict, creștinilor, și tuturor celorlalți, libertatea totală de a urma orice religie ar dori să aleagă.''</p>
+<p>În bisericile creștine se celebrară imnuri de glorie, și Constantin a fost numit cel mai mare cesar. Nu toți creștinii erau mulțumiți: unii cereau ca religia creștină să nu mai tolereze pe celelalte.</p>
+<p> Lactantius protestă și aducea mari laude împăratului; o cuvântare populară el zicea:</p>
+<p> „ Dumnezeu a dictat lui Constantin edictul din Milan. Isus nu cere oprimarea sufletelor; Dumnezeu n-are nevoie de sabie pentru credința mântuitoare ce ne-a dat.''</p> 
+<p>Cartea a doua </p>
+<p>Pentru cruce și tron.</p>
+  </div>
+<div type="chapter" n="6">
+<p> Mai înflorit sosise; cu el și cerul albastru, ca și albastrul cicoarei. Întreaga natură, reînviată, celebra, prin frumusețea ei, imnuri Dumnezeirii. Înălțătoarea minunăție a firii, se armoniza cu sufletele curate ale creștinilor cucernici, care formau cea mai nobilă podoabă a acestei provincii, binecuvântată de Dumnezeu.</p> 
+<p>Moesia superioară era cârmuită, aproape numai de Lactantius. Împăratul știa în Naissus pe Crispus, pe Elena și pe Lactantius, ca să se mai gândească la această parte a imperiului său. Cele mai bune vești primea; supunerea cea mai desăvâșită domnea.</p> 
+<p>Crispus împlinise, pe la finitul idelor lui Marte, douăzeci de ani. Era acum un tânăr frumos; purta cu mândrie toga cetățeanului roman și căuta să fie demn de ea.</p>
+<p> El rămăsese același credincios și, pe figura lui delicată, sta răsfirată noblețea generoasă a mamei sale și bărbăția lui Constantin.</p>
+<p> Viața lui era sobră; o petrecea între rugăciuni pioase și discuții filosofice și militare. Aelius, pe de-o parte, și Lactantius, pe de altă parte, făcuseră din Crispus un legionar vrednic de crucea pe care voia s-o apere.</p>
+<p> În Naissus, nu departe de locuința lui Crispus, Aemilia, soția lui Maelibelus, colon roman mort în Moesia, trăia în mare lipsă, împreună cu două fete ale ei; două suflete, tăiate ca dintr-o singură bucată, gemene prin naștere, asemănătoare prin sufletele lor nobile și figurile lor de îngeri blonzi.</p>
+<p> Crispus le cunoștea; deseori dusese ajutoare și cuvânt creștin în sânul acestor încercate inimi. </p>
+<p> Julia și Myriam îl atrăgeau de câtva timp. În sufletul său, începuse a încolți cea mai curată dragoste; o iubire generoasă de frate către surori, fără voluptate trupească și fără spasm nemernic și chinuitor. </p>
+<p> Într-o seară, când luna înălbea totul și poleia câmpiile înviorate de suflul primăverii: când, în tainice tufișuri, cântăreții timpului de vară întorceau, pe glas armonios, arpegii săltărețe; când, în pădure, răsuna naiul ciobănesc, ca un reflex al apusului Pan, și când seva tinereții umple întreaga fire, Crispus a dezvăluit dragostea lui. </p>
+<p> — Vă iubesc, zicea el frumoaselor creștine, cu dragostea cea mai curată: și tu, Iulia, și tu,  Miryam, îmi sunteți iubite. Sufletele voastre, gemene, formează pentru mine, unul singur. Să mă  îndrăgostesc de Julia fără Miryam, de Miryam fără Julia, nu pot, îmi lipsește ceva. Cât sunt de fericit, iubite surori, să stau între inimele voastre, să primesc caldul vostru sărut și să culeg, de pe buzele voastre, cea mai aleasă fericire. </p>
+<p> ... Și, deseori, sub mângâiala palidă a lunii, Crispus, fericit, adormea între cele două iubite și, nu o dată, revărsatul zorilor a sărutat această mandră idilă, în care nimic terestru nu palpita. </p> 
+<p> Lactantius, îngrijorat, voia să răpească, acestei iubiri sufletești, pe fiul împăratului.</p>
+<p> Crispus, cu ochii plini de bogate lacrimi, în cuvinte blânde, voia să convingă pe bătrânul său conducător, cât de curată și creștinească e iubirea sa.</p>
+<p> — Bagă de seamă, Crispus, Diavolul să nu pătrundă în dragostea ta. Atunci, iubirea voastră creștinească se va schimba într-una bolnavă și blestemată.</p>
+<p> Nu putea Crispus, o zi să petreacă, până când nu le vedea și, deseori, mergeau la mormântul Lydiei și tainic se rugau.</p>
+<p> Belșugul începuse a intra în casa sărmanei Aemilia, Crispus iși ajuta surorile lui de credință și, în dragostea sa nobilă, socotea casa lor ca un cămin al său.</p> 
+<p> Lactantius, convins de curățenia acestei iubiri, binecuvântă pe Crispus și, în rugăciunile lui, îl da în paza Domnului.</p>
+<p> Crispus își petrecea zilele între iubirea celor două surori și, sărutările lor curate, îl înviorau și mai mult.</p>
+<p> — Crispus, zicea Julia, noi te iubim așa de mult, încât, numai când ești tu lângă noi, sufletul nostru ne pare întreg. Dumnezeu pare că ne-a născut, pe câteșitrei, dintr-un singur cuget. </p>
+<p>La aceste frumoase vorbe, tânărul Crispus răspundea prin sărutări lipsite de patimă.</p>
+<p> Viața se scurgea liniștită și nimic nu tulbura comunitatea; totul era învăluit în pacea creștină, izvorâtă din Sfânta Treime. </p>
+<p> La vecernie, Crispus, cu cele două iubite, mergea de se inchina la mormântul Lydiei. Pentru acești creștini, Dumnezeu era aproape de orișice credincios, și nu avea nevoie de intermediar, așa că rugăciunea putea să aibă loc pe câmp, ca și în templu; în pădurea obscură, ca și în coliba nemernică.</p>
+<p> După rugăciune, Crispus, cu mult iubitele surori, în dulce extaz, se pierdea în desișul pădurii și ascultă eurytmia privighetorilor, măritată cu tainic șoapt de izvor.</p>
+<p> Aici, pe covorul de iarbă, unde odinioară se înfăptuiau orgiile antice, Crispus petrecea clipitele cele mai fericite și curate.</p>
+<p> Julia, cu glas melodios, îi recita rugi caste, pe care Lactantius, în ajun, le alcătuise: </p>
+<p> „ Glorie ție Doamne, în ceruri și pe pământ! </p>
+<p> Glorie în fericire, glorie în chinuire și dureri cumplite, în suspinuri și plâns; glorie Ție Dumnezeu atotputernic!</p>
+<p> Mărire Ție, stăpân atotputernic: mărire Ție, stăpân al lumii și veșniciei!... </p>
+<p> Glorie în ceruri și pe pământ!</p>
+<p> Glorie și binecuvântat fie numele tău!...''  </p>
+<p> Si câteșitrei, cuprinși de cel mai curat extaz, cădeau in genunchi și aduceau nou prinos de laudă Dumnezeului lor.</p>
+<p> Toamna sosea. Melancolia autumnală cuprindea întreaga fire și, în aer, domnea o pace claustrală. Dese vânturi nordice făceau să se răcească clima Moesiei și pădurile să se desfrunzească. </p>
+<p> Începutul anotimpului acesta le nimicea fericirea; erau vechile reminiscențe ale păgânismului, erau amintirile slab conturate ale morții lui Adonis care, în vechea religie, simbolizau începutul zilelor reci ale toamnei.</p>
+<p> Rugăciunile la mormântul Lydiei urmau. Într-o zi ploioasă, Julia răci și, în două zile de grea boală, sufletul ei curat se îndreptă către lumea veșnică. </p>
+<p> În timpul bolii, Crispus și cu Miryam stătură lângă ea și, cu vorbe încurajatoare, o mângâiau zi și noapte. Moartea ei a fost liniștită și fără agonie. Când sufletul trebuia să se dezîncarneze și să pornească spre regiunea aitherată a împărăției cerești, ea chemă pe Crispus, pe Miryam și pe mama ei, care în grele chinuri se trudeau. Un sărutat le dădu, la fiecare, și apoi trecu în lumea tatălui nostru.</p>
+<p> Crispus era disperat; plangea ca un copil fără de minte, iar Miryam, chinuitor, își frângea inima.</p>
+<p> După obiceiul judaic, Julia fu așezată în giulgiu alb și, apoi, în sicriu. Corpul îi fu îmbălsămat cu mirodenii prețioase și frumosul ei păr de aur înflăcărat pare că, de ruginiul apusului de soare, se răsfira mândru peste trupul ei răcit. </p>
+<p> Rugile și lacrimile învăluiau pe mult iubita moartă. Lactantius veni și el. </p>
+<p> — Crispus, zise dânsul, un creștin nu-și plânge morții. Sufletul drepților merge în fericire și Julia a fost o drept credincioasă. Lacrimile tale profanează măreția și bunătatea Dumnezeiască. </p>
+<p> Crispus, creștin convins, tăcu, și bocetele lui le înlocui cu sărutări înfocate, ce da scumpei moarte.</p>
+<p> Spre seară, când amurgul liniștește totul și când toamna devine mai tristă și frumoasă, sub mângâierea unor ultime raze de soare ce mureau, un mic convoi urma calea șoșeluită de legiunile Romei. Peste corpul moartei, flori de câmp, albastre și roșii, flori îngrijite de Dumnezeu, acopereau pe Julia, mai frumoasă moartă, mai sfântă și mai nobilă. La umbra unui tufiș, unde iubea să se ducă, într-o groapă, săpată de mâini amice, se coborî tot ce era terestru din frumoasa creștină. </p>
+<p> Deasupra, o cruce arăta unde corpul Juliei se odihnea și, pe când preotul bătrân psalmodia ruga morților, o privighetoare își cânta armonioasele ei hymnuri.</p>
+<p> Toți plecară. Crispus și Myriam se rugară adânc.</p>
+<p> Viața pentru ei începuse a fi o lungă chinuire. Totul părea trist; casele apăreau în ochii lor veștejite, pietrele luau nuanța frunzelor moarte și locuințele, luminate de plăpândă opaiță, păreau cuprinse de jalnic doliu. Soarele, îngălbenit și tăcut, li se înfățișa ca o figură de mort, pe care ceața îl învăluia ca un giulgiu. Toate lucrurile aveau ceva misterios și pline de dureroasa amintire a scumpei moarte.</p>
+<p> Seara, când cerul sclipea de lumina pâlpâitoare a stelelor, tinerii creștini îndurerați adânc pe mormântul Juliei, printre sărutări curate,  se gândeau și la iubita dispărută. </p>
+<p> Sufletul ei era cu dânșii: la nobila lor dragoste, lua și Julia parte. Nu o dată, în eurytmia dulcei șoapte de sărutat, ei întrezăriră figura surizândă a celei pierdute.</p>
+<p> Crispus zicea atunci către Myriam: </p> 
+<p>  - De la moartea ei, pare că o bucată din suflet mi s-a rupt. Simțirea mea a devenit mai dureroasă. Pădurile acestea, cântecul tainic al păsărilor și muzica pârâului șoptitor de frumoase lucruri, nu mai au pentru mine niciun farmec. Doar tu, Miryam, mult iubită, îmi faci fericite câteva clipe din viață. Figura ta mă amăgește o clipită și cred că amândouă vă aflați lăngă mine...</p>
+<p> ... Și Miryam întindea frumoasele ei buze nobilului Crispus. </p>
+<p> Viața noastră, continuă el, se scurge între melancolia a două morminte; dragostea mea pentru tine e învăluită în doliu nimicitor. Sărutul meu e însoțit de lacrimi și brațul, când îmi cade pe gâtul tău frumos, caută și pe scumpa moartă.</p>
+<p> În fiecare dimineață Miryam si cu Crispus mergeau cu brațele pline de flori la mormintele iubite.</p>
+<p> Flori aprinse de câmp și de grădină: mac înflăcărat și trandafiri, crini delicați, albăstrițe plăpânde și garoafe pale, ca și figura sfintelor creștine, acopereau mormintele celor două femei, una moartă de mare dragoste și alta, pentru paza fecioriei, închinată bisericii.</p>
+<p> Iarna, crucile răsăreau triste din zăpadă, și suflarea caldă a celor doi iubiți le încălzea și părea că le da viața primăverii.</p>
+<p> Miryam zise lui Crispus, într-o seară de început de Marte, când natura începe să reînvie sub mângâierea vântului sudic: </p>
+<p> — Mama-mi este bătrână și bolnavă: nu cred să apuce idele lui Marte. Eu râmân singură. Julia a plecat dintre noi și aș prefera moartea unei asemenea vieți.</p>
+<p> — Vorbele tale, răspunse emoționat adânc Crispus, au mâhnit sufletul meu; da, Miryam, vei fi logodnica mea și, apoi, soție iubită.</p>
+<p> Sub mângâierea unui cânt de izvor și sub cer senin de Martie, sub sărutarea razelor lunare, ei consfințiră iubirea lor, prin sfinte jurăminte. </p>
+<p> A adoua zi, Lactantius, Aelius și Elena, binecuvântară, la rândul lor, pe cei doi îndragotiți.</p>
+<p> Acești creștini înțelegeau altfel iubirea; ei nu profanau dragostea, gândind la spasmul împreunării, și nu puneau voluptatea trupească mai sus decât iubirea ce izvora din sufletele lor supuse crucii.</p>
+<p> Ei, la umbra sfântului altar, nu cugetau la infamii și la rușinoase plăceri; dragostea lor avea nobleța cerească a credinței lui Cristos; iubirea lor se întrupa în sărutări și caste vorbe de generoasă simpatie. </p>
+<p> Nobilii amanți nu gândeau ca dais; nu voiau să cugete ca Dolabella sau ca Silius și Messalina. Nu voiau, pentru că nu erau în stare să pângărească puritatea creștinească, cu asemenea nemernice gânduri.</p>
+<p> Iubirea dintre Crispus și Miryam era foarte pricepută; comunitatea creștină, care înflorea aici, astfel concepea iubirea dintre bărbat și femeie. </p>
+<p> Pe la sfârșitul idelor lui Marte, bătrână mamă a lui Miryam, de jale și boală, se stinse, binecuvântând pe cei doi tineri. </p>
+<p> Crispus era fericit. În noaptea care urmase morții bunei femei, el avu un vis care-l mulțumi. </p>
+<p> În somn liniștit, îi apăru Lidya, mama sa, frumoasă și nobilă, după cum era în clipita dezîncarnării. Alături de dânsa, cuprinsă de fericire, venea Julia. Era tot așa de sfântă și frumoasă, ca și zeițele păgâne. Purta chlamydă albă și părul ei, pe care aurul ruginit de apus de soare îl făcea așa de frumos, cădea în generoase valuri.</p>
+<p> Ele ziceau tainic și plăcut:</p>
+<p> — Scumpe Crispus, am venit să primim sufletul Aemiliei, soția lui Moelibelus; dânsa a fost o drept credincioasă, a suferit demn și aici, unde suntem noi, se va bucura de eterna fericire.</p>
+<p> De două ori se deșteptă Crispus și, de două ori, viziunea se repetă limpede și conturată admirabil. </p>
+<p>  Crispus, fericit, povestea visul lui Miryam, care zâmbeea mulțumită și cu ochii plini de lacrimi bogate. </p>
+<p> - Miryam, zicea el, figura lor mi s-a reamintit limpede de tot; vorbele lor le-am auzit așa de bine, încât aș dori moartea, ca să ne aflăm și noi în lumea veșnică a tatălui nostru.</p>
+<p>  Către seară, duseră spre mormânt pe muma lui Miryam. Rugi demne însoțeau sărăcăciosul convoi, pe care, ultima privire a zilei, îl saluta melancolic.</p>
+<p>Lactantius era mulțumit când văzu rezultatul luptei sale. Plânsul care însoțea pe morți, dispăruse.</p>
+<p> Lumii adunate, filosoful sfânt le vorbi:</p>
+<p> — Dumnezeul nostru nu omoară copiii săi, ca Saturn al păgânilor, pentru că el există, nu în plăsmuirea poeților, ci în realitate și, pentru că e Dumnezeu cu adevărat.</p>
+<p> Moartea o semnalul unei noi vieți: pentru cei drepți, este începutul fericirii eterne.</p>
+<p> Drept e oare, când vreo ființă scumpă se dezîncarnează, s-o bocim? Drept este să mâhnim pe bunul Dumnezeu cu plânsete, când el ne dă fericirea veșnică? </p>
+<p> Azi, o bătrână a dispărut din comunitatea noastră. Dumnezeu s-o primească în eterna pace. A fost o dreaptă și o martiră; e drept s-o plângem ? Cu mulțumire, am văzut fericirea creștină în ochii voștri. Și tu, Miryam, frumoasa ei fiică, te-ai purtat ca o creștină demnă, și tu, Crispus, logodnicul acestei adorabile copile, ai fost un creștin adevărat.</p>
+<p> Dumnezeu să vă binecuvânteze și voi toți luați pildă de la acești tineri.</p>
+<p> Lumea, încet-încet, se răsfiră, și mormântul reintră în tăcerea sfântă a nopții.</p>
+  </div>
+<div type="chapter" n="7">
+<p> II </p>
+<p> — Dumnezeu voiește ca să avem o singură biserică. Cel ce umblă în calea Domnului este binecuvântat. Arius, cu învățătura lui, aduce mult rău credinței noastre, zise Lactantius supărat. De abia se dete edictul din Milano, și începură arienii să amăgească gândul împăratului.</p>
+<p> Numai biserica din Roma, unde atâția creștini mari au suferit martirul, este aleasa lui Dumnezeu. Se vor ivi mulți eretici și multe schisme. Are să se conteste Roma ca metropolă a creștinismului, dar Dumnezeu , tot biserica aceasta o va socoti ca cea dreaptă. Împăratul nostru de va voi să ridice o nouă capitală, Roma va râmâne tot cetatea eternă și sfântă, căci în ea au murit, în grele chinuri, cei dintâi adepți ai religiei lui Iisus. </p>
+<p> Schisma lui Arius este periculoasă: ea face pe fiu dintr-o materie analoagă cu tatăl, îl desparte pe El de dânsul, și face ca legăturile să râmână la idei. Isus rămâne atunci un propagator divin, iar, nicidecum , Fiul Domnului. </p>
+<p> Adevărații creștini văd în Isus pe fiul Domnului și, care este din aceeași materie ca și tatăl, nu există între ei nicio deosebire. Arius este un rătăcit, unul din aceia care, fără de voie, a fost cuprins de cursele pe care păgânismul le întinde.</p>
+<p> — Dar, răspunse Crispus, împăratul Constantin, tatăl meu, înclină spre arianism.</p>
+<p> — Este greșit, reluă Lactantius; el, care și azi încă n-a primit sfântul botez, e un suflet rătăcit. Asemenea unei corăbii bătute de vântul furtunii, sufletul său nu-și găsește odihna și este de datoria noastră să-1 scăpăm, căci a făcut multe pentru creștinism. Un lucru mă îngrijorează: Religia  noastră tinde să devină prea aristocratică, și văd ridicându-se principii ale bisericii lui Isus, ceea ce e contrar spiritului creștin. Dumnezeu nu are nevoie de intermediar, el este pretutindeni, el stă în preajma popoarelor și le ascultă. Pentru ce, atunci, arhipăstori?</p> 
+<p> Un preot simplu e destul de suficient pentru săvârșirea tainei sfinte, căci nu ne trebuie intermediari între noi și Dumnezeu. Văd acum o mulțime de episcopi, care poartă haine strălucite: acest lucru mă îngrijorează. </p>
+<p> Nu avem nevoie de temple mărețe, pentru că divinitatea noastră e însăși maiestatea. Cu totul altceva e păgânismul,  care trăia numai prin artă. Elinul se închina în Parthenon talentului phidiasic: pentru el, divinitatea olimpică a lui Zeus nu însemna nimic, dacă geniul n-ar fi imortalizat-o. </p> 
+<p>  Dumnezeul creștin nu are trebuință de nimeni: el e puterea, el e frumosul, el e noblețea și generozitatea; el e, în sfârșit, totul. Preotul lui Baal se îmbrăcă în haine  bogate: pentru ce să se îmbrace acel creștin în straie cu aur? Baal are nevoie de strălucire, pentru că era o ficțiune, dar Dumnezeul nostru nu are nevoie și, chiar este profanat de strălucirea pe care voim s-o dăm noi lui, care ne-a creat. Nu am dreptate, scumpe Aelius?</p>
+<p>- Vorbele tale sunt pline de cel mai sfânt adevăr și eu cuget, ca și tine.</p>
+<p> — Am mare dreptate, reluă Lactantius, și am să cer împăratului să pună frâu acestei profanări. </p>
+<p> Convorbirea luă sfârșit, ruga de vecernie sosea. Cei trei creștini, în cuvinte calde și făurite de inimile lor, fără aprobare bisericească, aduseră pios prinos de caldă iubire și respect fară de margini bunului lor Dumnezeu.</p>
+<p> După ce rugăciunea fu sfârșită, Lactantius zise:</p>
+<p> - Hai la mormintele alor noștri; nu trebuie să uităm pe morți, ca să nu ne uite și ei.</p>
+<p> Melancolica potecă ce ducea spre mormintele iubite, era presărată de flori albe, ninse din copaci. Era începutul primăverii, și întreaga fire se simțea plină de puterile unei noi vieți.</p>
+<p> Crispus, la mormântul Juliei, se rugă adânc și multă vreme. Apoi, trecu la crucea pusă peste trupul Lydiei: aici plânse și se chinui dureros.</p>
+<p> — Crispus, strigă Lactantius, credeam că din tine am făcut un creștin, văd că încă plângi pe cei fericiți?</p>
+<p> Mama ta nu are nevoie de bocetul tău. </p>
+<p> Cei fericiți de bunătatea cerească trebuie plânși? În loc să rogi pe dânsa, tu o plângi ca pe una intraă în flacăra Ghehenei.</p>
+<p> Crispus, rușinat, își șterse ochii și se rugă fără lacrimi și fără tristețe.</p>
+<p> Se făcuse seară. Una câte una, stelele apăreau pe un cer senin, sclipitoare și grăbite. Pluteau obosiți, Castor si Casiopea, constelația Lebedei si frumosul Luceafăr. După o pădure, se  vedea cerul înflăcărat de razele lunii răsărinde. Peste puțină vreme, Lactantius, Aelius și cu Crispus, părăseau sfintele morminte, făcând cu evlavie semnul crucii. Drumul, în acea seară, se afla luminat de razele lunii, se conturau, ușor estompat, arborii, care păreau încărcați de bogată zăpadă. Mari troieni de lumină selenară, albeau pietrișul căci. </p>
+<p> În mintea lui Aelius se făureau epopei ostășești. </p>
+<p> Părea că aude, venind pe calea militară, tropote numeroase. Vedea, apoi, cohorte strălucite, soldați chipeși, vitezi plini de nobile idealuri și, în fruntea oastei victorioase, râspândea lumina generoasă labarul, care acum doborâse aquila.</p>
+<p>Erau legionarii crucii: erau fiii credinței lui Cristos, care mergeau să se războiască pentru Cruce și Tron.</p>
+<p>Dar, realitatea întrupată în vorbele tovarășilor săi de drum, îl munceau de la această epopee superbă.</p>
+<p>El iar visa treaz: iar auzea sunet bogat de trompetă victorioasă, iar vedea labarul și crucea strălucind. Buzele lui se deschideau și, fără voie, spuneau rugi pioase.</p>
+<p> - Dar ce ai, Aelius? întrebă Lactantius.</p>
+<p> Aelius părea cuprins de alte gânduri; oștile veneau repede. </p>
+<p> — Uite, zicea dânsul, legiunele cum sosesc.</p>
+<p> Crispus și cu nobilul său cârmuitor cântară zadarnic: șoseaua se înfățișa liniștită.</p>
+<p> — Aelius, zise Lactantius, revino-ți in fire. Dumnezeu te iubește și ți-a prorocit, ceea ce tu vezi, nu-i decât zugrăvirea unui viitor apropiat. </p>
+<p> — Uite, prieteni iubiți, oștile sunt victorioase, crucea a învins pe zeii Daliei, druizii cad zdrobiți...... </p>
+<p> Ajunși la căminul lor, Lactantius porunci rugă și apoi vorbi: </p>
+<p> - Dumnezeu dă ființelor iubite o a doua vedere. Aelius, care e un drept credincios, e favorizat de cer. Ceea ce a văzut el, nu-i decât realitatea. În curând, calea militară va trebui să răsune de tropotul cailor, și Galia va fi cucerită de armatele puse sub scutul crucii.</p>
+<p> După o cină frugală, Crispus intrebă pe Lactentius: </p>
+<p> Pentru ce, timp de atâta vreme, Dumnezeul nostru a permis domnia zeilor vechi ? </p>
+<p> — Iubite Crispus, întrebarea ta e foarte firească, răspunse Lactantius. Tu, care ești un creștin cucernic, trebuie să te chinuiască această problema teologică. Timp de doua mii de ani, Dumnezeu a permis domnia lui Joe care, la început, era curată.</p>
+<p> Oamenii, în neputința lor de a ghici Dumnezeirea, neputincioși față de măreția cerească, au fragmentat-o în mii de părți și, apoi, acestor bucățele divine, care nu existau decât în imaginația lor, le-au atribuit patimi omenești. Dumnezeu, văzând că nici poporul ales nu poate lumina calea rătăciților, căzând și el în trai blestemat, a promis trimiterea Messiei, care a fost Iisus, fiul său.</p>
+<p> Trecuse de miezul nopții, cei trei creștini recitară câte-o rugăciune și, apoi, împăcați, adormiră.</p>
+<p> De trei zile, Lactantius sosise în Roma; dânsul rătăcea pe piața unde se ridica circul lui Domițian. Marele monument îi amintea fastele crude ale Bornei imperiale. În mintea sa obsedata, îi apărea martirul atâtor creștini, cât și nemernica orgie a regnului neronian. </p>
+<p> În conștiința sa, îi defilau imagini apuse; cohorte întregi de creștini, care mergeau în arena circului, să moară înecați în propriul lor sânge. Roma cea sfântă prin suferințele impuse creștinismului. Arenele romane erau necropole de amintiri sângeroase: străzile cetății veșnice erau martori, care aminteau, prin monumentele lor, o epocă cruntă și mare.</p>
+<p> Lui Lactantius îi plăcea să se afle în lumea acestor amintiri dureroase, care grăiau elocvent despre primele vremuri ale religiei lui Isus. </p>
+<p> Se înserase: el intră în Forum Boarium, apoi, căutând la dreapta, pătrunse în Via Nouva, frumoasă și elegantă, cingătoare puternică a muntelui Palatin și, care ducea în Via Sacra.</p>
+<p> Lactantius mergea gânditor, fiecare stradă își avea martirii ei. Nebăgător de seamă, dânsul pătrunse în Forum Cupedinis, unde nefericitele femei, care își vindeau trupul, tocmeau fără rușine cu sclavii voluptății. În acest forum, dădea via Saburanna. Murdara stradă era foarte frecventată și locuită numai de meseriași bărbieri si cizmari îgrămădiți în căscioare prăpădite și soioase; era una din cele mai populate ulițe din Roma.</p>
+<p> În Forum Boarium, Lactantius privi cinstea întrupată în miile de muncitori, care pregăteau pentru a doua zi dobiteacele ce trebuiau ucise pentru hrană. În Forum Cupedenis, pe rafturi curate, se aflau expuse cele mai prețioase și rare vietăți: pește, vânat, prăjituri. Lângă Forum Cupedinis se ridica micul cartier Carinac, cuib al luxului decadent. Aici locuiau bogații Romei, care nu voiau să se desrobească de patima vechii religii.</p>
+<p> Lipit de via Saburanna, se afla târgul păsărilor și legumelor. Aici, cu tot ceasul înaintat, la lumina palidă a opaițelor, femei grosolane desfăceau coșuri încărcate cu legume și păsări. </p>
+<p> Lactantius era dus în lumea gândurilor, când păși pragul blestemat al Saburei. Aici fu deșteptat și smuls din visare de zgomotul ce domnea. </p>
+<p> Trist impresionat, dânsul se înapoia, trecu din nou ceea ce străbătuse și, spre revărsatul zorilor, se află iarăși in piața circului clădit de Domițian. </p>
+<p> După o noapte de nedormire, dânsul se îndreptă spre marginea Romei, unde, odinioară, creștinii, cu prețul vieții lor, se rugau lui Isus. Aici, se prosternă în fața singurătății, care întrupa Divinitatea și, cuprins de adâncă pietate, el zise: </p>
+<p> „ Mari sunt durerile mele, Doamne, și mare nemernicia dușmanilor mei! </p>
+<p> Pune capăt, Doamne, unei vieți trudite și iartă-le lor. Tânăr am fost și curat la suflet și gândire; fără de păcat, iubit-am semenii mei și adevărul grăit-am în orice împrejurare.</p>
+<p> ...Și oamenii Romei m-au hulit și semenii mei mi-au întinat și îndurerat tinerețile. </p>
+<p> Mărire ție, Doamne!</p>
+<p> Voit-am să plâng, să mă rog, să mă închin, dar lumea m-a împiedicat. Iartă-le lor, Doamne, căci nu știu ce fac! “</p>
+<p> Ruga aceasta tristă, era reflexul unei dureri si învingeri sufletești. Prin zvonuri dușmane, Lactantius auzise că împăratul vrea să-l pedepsească, pentru că făcuse din Crispus un creștin prea cucernic. </p>
+<p> El nu aștepta confirmarea și veni la Roma să se explice. </p>
+<p> Împăratul primi îndată pe Lanctatius.</p>
+<p>- Ce mai faci, prietene, îi zise Constantin. Din Moesia, vești rele?</p>
+<p>Lanctatius, fericit, văzu imediat că dușmanii voiesc să-l îndepărteze de Constantin. El îi povesti totul. Împăratul, încruntat, răspunse:</p>
+<p>-Asta-i Fausta, ce femeie păcătoasă!</p>
+<p> Lanctatius, văzând imediat marea supărare a lui Constantin, îl întrebă despre afacerile popoarelor sale. </p>
+<p> — Stăm prost, reluă împăratul: zilnic primesc vești rele din Galia. Mari revolte izbucnesc în această provincie și, de va fi nevoie, am să trimit pe Crispus să le potolească.</p>
+<p> — Stăpâne, răspunse Lactantius. Crispus e demn de tine. Aelius a făcut din el un mare general. </p>
+<p> — Să-l vedem, continuă Constantin: să-l vedem la luptă, căci mai am de învins un dușman al crucii și tronului meu. Cumnatul meu, Licinius, cu care împărătesc, nu-mi dă pace să aplic edictul de la Milan.</p>
+<p> El și cu Fausta, blestemata mea de soție, încă țin la zeii păgâni.</p>
+<p> Pe Fausta ar trebui s-o izgonesc, dar, iubite Lactansius, acum la bătrânețe-mi vine greu să mă despart de ea.</p>
+<p> Mi se rupe inima de durere pentru sora mea, care a fost crescută în regulile aspre ale credinței noastre și trebuie să sufere vechea religie, pentru că este soția unui nemernic. Ah! Licinius, Licinius, ce om ești!</p> 
+<p>- Crucea o va răzbuna, răspunse smerit blândul creștin.</p>
+<p> — Și zici că fiul meu este un bun soldat.</p>
+<p> — Fără pereche, stăpâne iubit.</p>
+<p> — Vrea să zică, pot să fiu sigur.</p>
+<p> — De un fiu credincios crucii și tronului tău: este un soldat viteaz și gata să moară.</p>
+<p> Spre seară, Lactantius porni spre Moesia; drumul apucat era bun. Roma, prin legiunile ei, îl bătătorise odinioară, când cuceririle sângeroase formau gloria casărilor.</p>
+  </div>
+<div type="chapter" n="8">
+<p> III </p>
+<p> — Pe numele lui Dumnezeu, spuse cu voce blândă Crispus.</p>
+<p> — Nu lua în deșert numele Domnului, zise Mirvam. Spune, mă iubești?</p>
+<p> _ Iubirea mea e ca focul razelor soarelui de vară, ca flacăra focului și ca dragostea mumei. Tu ești pentru mine, Miryam, singura bucurie; tu întrupezi fericirea supremă și, în mangâiala ta, eu găsesc mulțumire sufletească.</p>
+<p> Miryam era cu adevărat frumoasă. Părul ei, în care se rătăcise ruginiul după frunzele pălite de frigul autumnal, coroana, o figură de-o albeață marmoreiană. Corpul ei se desemna ușor conturat, era înalt si grațios: mersul lui Miryam era o întreagă poemă de înaltă delicateță; râsul ei cristalin era mai plăcut la auz decât șoptitul pârâului. </p>
+<p> Ce frumoasă era când, cuprinsă de sfânt extaz, cu mâinile împreunate și în genunchi, se ruga Dumnezeului creștin. Era o creație superbă, o statuetă praxitelică: zeiță păgână, care trecuse la creștinism și, adânc, se pocăiră.</p>
+<p> Pe marginea căii romane, în mijlocul unei păduri de brazi și de unde se auzea numai cântul fermecat al privighetorilor; sub mângâiala umbrei plăcute și la adăpost de vânturi aspre, pierdută sub îmbrobodiș de plante agățătoare și trandafiri albi și roșii, se ridica locuința unde copilărise Miryam. </p>
+<p> Ea era acum un locaș sfânt, unde rugile pioase se ridicau singure, tare nobilă smirnă, spre albastrul împărăției cerești.</p>
+<p> Casa era bătrână rău; anii care se adăugau unul peste altul o doborau, așa că, vara, dânsa părea o grotă pierdută sub maldăr viu de verdeață. </p>
+<p> Lângă ferestre, privighetori și rândunici își zidiseră cuiburi și, deasupra ei, o barză, își îngrijea de pui. Înaintea ușii, flori  de câmp și de pădure măritau policromatismul petalelor fragede cu roșul închis al macului sălbatic; era un covor minunat, și care învelise treptele ce duceau înăuntrul casei. De la fereastra înzbrănită de verdeața lianelor și iederei, de abia se zărea albul șoselei militare și cerul albastru.</p>
+<p> Aici, sub mângăietoarea arpegie a fluieratului de privighetoare și sub îmbătătoarea mireasmă de brad, Miryam și Crispus se rugară cerului și scumpilor dispăruți.</p>
+<p> Într-un amurg de zi de vară, ruga vecerniei o făcură în acest tainic cămin de prețioase amintiri.</p>
+<p> Miryam începu cu vocea ei dulce:</p>
+<p> „ Ascultă Doamne suspinul lor, al fraților mei întru durere și chinuri. Ascultă pe cei care iubesc, pe cei care suferă și sunt batjocoriți în durerea lor adâncă!...</p>
+<p> Mărire ție, Stăpân al veșnicei cel fără de început și de finit!</p>
+<p> Ascultă, Doamne, suspinul lor, ascultă-l, căci mare e suferința lor și mare e nemernicia semenilor lor.</p>
+<p> Mărire Ție, Doamne, atotputernic în bunătate și răbdare.''</p>
+<p> Iar Cripsus îi răspunse:</p>
+<p>,, Palidă întrupare, ce prinzi viață sub giulgiul aurit, sfântă arătare ce dai viață sufletelor moarte. Ție vreau să mă închin. Înaintea ta, care ai suferit, vreau să-mi plec genunchiul și, umilit, fruntea s-o ating de picioarele tale sângerânde de prostia ta omenească</p>
+  <p>Îndreaptă privirea ta cea bună spre mine. Fă, Doamne, să înceteze suferințele, căci eu nu pot ca tine îndura.</p>
+<p> Sărmanul meu trup, e dânsul lut păcătos și sufletul mi se trudește, amarnic, în temnița corpului îndurerat. Palidă întrupare, ce tresalți pe crucifixul înnegrit, sfântă nălucă, dă-mi sfert din puterea ta și voi răbda suferințele până la capăt. </p>
+<p> Îndreaptă Doamne, prea mărit, privirea ta cerească spre smeritul tău rob“.</p>
+<p> Și rugile sfârșite, calde săruturi înnobilară dragostea lor cerească.</p>
+<p> Vești rele soseau zilnic: crainici împărătești anunțau înfrângeri dureroase. In Gallia, în fiecare zi, câte o revoltă aveau de semnalat funcționarii cesarici. Împăratul se arăta foarte îngrijorat. Într-o seară, după ultima rugăciune, Lanctatius, chemă în jurul său, pe Aelius și Crispus:</p>
+<p> - În cea din urmă a mea trecere prin Roma, am putut, vorbi mai mult cu împăratul. El este foarte mâhnit: cele mai urâte știri primește din Gallia, întreaga provincie s-a răsculat contra aplicării edictului din Milan. Crucea și tronul sunt amenințate și, alături de acestea, stă și cumnatul lui Constantin, însuși Licinius, cu care împărătește.</p>
+<p> Foarte trist, iubitul nostru stăpân m-a întrebat dacă Crispus, pe care am crescut noi, poate să-i fie de ajutor.</p>
+<p> — Mai e vorbă, dar voi merge și eu, adaugă Aelius, vom face să reînvie zilele glorioase de la Pons Milvius, vom face ca tronul și crucea să fie victorioase. </p>
+<p> Crispus, în timpul acesta gânditor, tăcea.</p>
+<p> - Ce zici, Crispus? reluă Lactantius.</p>
+<p> - Eu voi merge bucuros, dar crucea vrea vărsare de sânge, zise el? Are Dumnezeu nevoie de brațul nostru, ca să-i râspândim cuvântul său? Nu-i o profanare? N-a zis dânsul că, prin blândețe și vorbă, să convingem popoarele? Nu prin foc și sânge, suntem chemați să impunem noua religie. Prin edictul de la Milan se acordă libertatea tuturor culturilor și, în Galia, nu cred să fie o revoltă, decât contra propagandei care, prin putere, vrea să impună botezul.</p>
+<p> — Crispus, nu pune la îndoială cuvântul tatălui tău, zise Lactantius, bucuros de frumoasele idei, pe care tânărul său prieten le întrupa în nobile și generoase fraze. Împăratul a voit să spună că, în Galia, popoarele se revoltă contra libertății acordate și voiesc ele să nu primească alt cult, decât cel păgânesc.</p>
+<p> — Eu, ca vechi legionar al crucii și al lui Constantin, zise Aelius, mă voi supune poruncii împărătești.</p>
+<p> Sunt înălbit în luptă militară. La Saxarubra, la pons Milvius și aiurea am pus brațul meu în slujba crucii și tronului.</p>
+<p> Dumnezeu mi-a dat drept răsplată multă fericire. În ajunul luptei de la Saxarubra și pons Milvius, pe cer, am văzut crucea sfântă, am văzut căzând aquila păgână și, triumfând crucea, am văzut edictul din Milan și un stăpân, care e umilit rob al credinței mele. Ce voiți mai mare răsplată și dovedire strălucită, că faptele mele au fost plăcute cerului?</p>
+<p> Acum, cât sunt de bătrân, voi părăsi liniștea, și am să mă războiesc pentru cruce și pentru tronul ocupat de un creștin.</p>
+<p> Dacă împăratul ne cheamă, e că tronul i se clatină.</p>
+<p> El, ucis, va veni pe tron Licinius și, atunci, edictul de la Milan, cu siguranță că va fi revocat, iar biserica noastră, din nou va fi înecată în sânge nevinovat; din nou vom avea martiri. Eu, la cel dintâi semn de chemare, mă duc să apăr crucea și pe slujitorii ei.</p>
+<p>  Spune Lactantius, nu am dreptate?</p>
+<p> - Desigur că ai, dar și vorbele lui Crispus arată cât de frumos cugetă. El n-a spus vorbele nobile ce auzirăm  de frica războiului, căci dânsul, ca și noi, vede în moarte fericirea supremă, pe care cineva, când a fost un drept credincios și un om cinstit, o așteaptă ca cea mai mare răsplată cerească. Ceea ce ne spuse Crispus, sunt dovezi că el e un adevărat creștin, termină vădit emoționat Lactantius.</p>
+<p> - Eu, adăugă Crispus, sunt dator să merg să-mi apăr părintele, chiar de nu-i aprob conduita sa.</p>
+<p> — Câte trei vom pleca în ajutorul împăratului, zise Lactantius, dacă el ne va chema. Fiți siguri că mergem în calea Domnului adevărat. Apăram crucea și pe omul ei.</p>
+<p> Tu, Crispus, alături de viteazul Aelius, să dovedești că vei ști să fii împărat.</p>
+<p> — Eu, împărat! Asta niciodată. Aici, în Moesia, împreună cu voi, cu Elena și Miryam, voiesc să mor. Merg să-l ajut pe tatăl meu, nu pentru că e împărat, și pentru că voiește a-mi da tronul. Nu voiesc să domnesc, spuse mâniat Crispus.</p>
+<p> Va trebui să domnești, pentru a desăvârși opera creștinească începută de tatăl tău. Tu ești creștin adevărat și vei putea face ceea ce Constantin n-a putut și n-a știut, îi răspunse aspru Lactantius.</p>
+<p> — Eu pentru ce te-am făcut ostaș, pentru ce am jurat împăratului că voi face din tine un vrednic stăpân al creștinilor, adăugă trist Aelius.</p>
+<p> - A fi împărat, răspunse Crispus, este a renunța la viața de adevărat creștin. Interesele tronului și ale țării cer de multe ori sacrificarea dreptății și, atunci, mai calci în adevărata cale a Domnului?</p>
+<p> Interesul țării îți cere, uneori, să nimicești pe cutare sau cutare personaj neplăcut, să-l sărăcești sau chiar să-l ucizi, dacă voiești să nu pieri tu și tronul tău. Poate un creștin săvârși asemenea fapte și mai rămâne el creștin adevărat? </p>
+<p> Eu, dacă voi primi tronul, nu vreau să fac niciuna din aceste crime născute din interese de stat, și vă asigur că voi găsi moartea în palatul pe care ziceți că trebuie a-l primi. </p>
+<p> Pentru mine, fericirea terestră se întrupează în orizontul albastru și întins, în câmpiile mănoase și în munții împăduriți, în rugile ce ridic cerului, în voi, iubiți prieteni și sfătuitori, în Elena, buna mea mamă, în Miryam, logodnica adorată ca și o soră mult iubită. </p>
+<p> Ca împărat, voi zări, în jurul meu, numai ipocrizie și rea voință.</p>
+<p> — Crispus vorbește foarte drept, răspunse Lactantius serios și privind cu iubire pe tânărul său discipol; el e un creștin mare, vorbele lui sunt adânci abisuri de înaltă cugetare, și care dovedesc că el a putut pătrunde religia noastră. Sunt fericit că am putut face din el un așa de bun credincios. Dar eu cred că se poate domni și creștinește, se poate dacă voiește Dumnezeu.</p>
+<p> - În vorbele tale găsesc aprobarea părerii mele, nu Lactantius, nu Aelius, eu nu pot fi împărat pentru că sunt creștin.</p>
+  <p> -Eu nu vă pricep, adaugă zăpăcit Aelius, pe Dumnezeul meu dacă știu ce să mai zic! Ceea ce vă pot spune, este că merg să mă lupt pentru împărat. </p>
+<p> — Sărmane Aelius, reluă Lactantius, și noi mergem, dar Crispus nu voiește ca, după moartea împăratului, să primească succesiunea imperială. Ai priceput acum ? </p>
+<p>- Să vă spun drept, eu sunt un biet soldat, care știu să fiu cinstit, să mă închin și să ascult de porunca șefilor, când ei sunt creștini. Voi tălmăciți volume grele la înțeles, voi alcătuiți rugăciuni ca și cei mai mari preoți, dar eu nu știu decât să mânuiesc cohortele de legiuni. Voi explicați evangheliile, pe când eu de abia le ascult când cineva le citește prea repede. De aceea, nu mă mir când voi spuneți ca nu v-am priceput.</p>
+<p> — Aelius, zise râzând Lactantius, mai șiret decât îl credem. Vezi, Crispus, ce subțire își bate joc de noi?</p>
+<p> — Eu sunt prea umilit creștin ca să batjocoresc pe cineva. </p>
+<p> -Ascultă, Aelius, reluă Lactantius, tu știi că sfânta scriptură spune că, cel ce de sabie se va sluji, de dânsa va pieri? </p>
+<p> — Știu! </p>
+<p> — Atunci, vorbele lui Crispus îți sunt destul de lămurite. Mântuitorul nostru a oprit mâna lui Petru, când voia să-1 apere cu sabia, și i-a spus cuvintele ce ți le repet și eu.</p>
+<p> Crispus crede, și are dreptate, că un bun și adevărat creștin nu trebuie să verse nici sângele dușmanului; el mai bine să primească moartea, decât să înfăptuiască omucidere. Așa-i place Dumnezeului nostru. </p>
+<p>— Atunci, războaiele, bâlbâi Aelius zăpăcit.</p>
+<p>— Războaiele trebuie să piară, adaugă Crispus: ele vor fi înlocuite prin pacea universală. Viitoarea cetate creștină va nimici această anomalie.</p>
+<p>- Și, cum are să fie, Lactantius, cetatea viitoare? întrebă Aelius.</p>
+<p>- Cetatea viitoare, răspunse blândul filozof, va fi cea creștină , ea va fi cârmuită de comunismul creștin și bazată pe frăția tuturor popoarelor.</p>
+<p> La umbra binefăcătoare a crucii, omenirea va putea să prospere. Egoismul și ipocrizia, necinstea și nedreptatea, aceste vicii ancestrale, vor dispărea, lăsând ca dreptatea, fraternitatea și libertatea egalitară să domnească întreaga lume.</p>
+<p>Imperiile vor fi nimicite și biserica va ține locul monarhiei, vom avea o biserică unică și care, din Roma, are să împartă razele nobile și generoase ale doctrinei creștine.</p>
+<p> — Frumos, întrerupse Aelius, dar tot nu prea pricep.</p>
+<p> Un hohot de râs însoți aceste vorbe ale bunului Aelius. Lactantius, de obicei așa de serios, râdea cu multă poftă. Bunul legionar era și mai zăpăcit.</p>
+<p> — Pe Dumnezeul meu, continuă Aelius, dacă vă pricep, spuneți lucruri nemaipomenite și pe care, pentru întâia oară, la voi le aud. Dacă n-ar fi spuse de un om ca tine, aș zice că aiurește sau că-și bate joc de un biet soldat. </p>
+<p> — Scumpe Aelius, ceea ce spun eu, sunt lucruri pe care sfânta învățătură creștină ni le spune.</p>
+<p> Zorii zilei se vesteau. Cei trei creștini se duseră să guste puțină odihnă. Aelius, nedumerit, ieși afară să gândească. </p>
+<p> În depărtare, obscurul nopții era spart de roșul revărsatului de zori: întreaga fire se deștepta și căuta să cânte hymnuri de slavă Dumnezeirii.</p>
+<p>Într-un tufiș de acacias alb, o privighetoare întorcea nobile și săltărețe arpegii, care se măritau cu șoaptul pârâului din vale. </p>
+<p> Cerul începea să se albăstrească și munții să se estompeze din ce în ce mai bine conturați. </p>
+<p> Un vânt dulce răcorea fruntea lui Aelius, care era plină de încrețiturile unei grele cugetări. El nu putea să priceapă vorbele lui Lactantius. Pentru dânsul, lume fără imperiu, fără războaie, nu putea să existe. Când Lactantius și cu Crispus veneau să facă rugăciunea dimineții, Aelius încă se muncea greu și nu putea să priceapă vorbele prietenului său. A doua zi, bătrâna mamă a lui Constantin, credincioasa Elena, chemă la dânsa pe cei trei creștini. </p>
+<p> — Fiul meu, zise dânsa, a fost  trimis un crainic care, în grabă, cere să plecați la Roma. In Galia, războiul civil a izbucnit. Atât am avut de spus, la plecare să veniți ca să vă dau binecuvântarea.</p>
+<p> Crispus, muncit de grele gânduri, se duse la Miryam. </p>
+<p> Divina fecioară, mai frumoasă ca întotdeauna, aștepta în pragul casei pe nobilul Crispus. </p>
+<p> Miryam sta rezemată de un bătrân stejar și înconjurată de un feeric cadru de verdeață. Frumusețea ei feciorească se desprindea delicioasă din rama vie a naturii înflorite.</p>
+<p> — Ce vânt te aduce, iubitul meu?</p>
+<p> — Să mai culeg după buzele tale, dulceața iubirii noastre, răspunse zâmbind Crispus.</p>
+  <p> Cei doi înamorați, cuprinși de dulce visare, petreceau cele mai fericite clipe.</p>
+<p> - Miryam, zise Crispus, pentru câteva luni am să te părăsesc, părintele meu, împăratul Constantin, mă cheamă la Roma, spre a mă trimite în Galia, unde popoarele ce locuiesc în acea parte s-au răsculat. </p>
+<p> Miryam, cu ochii în lacrimi, nu-i venea să creadă și, când Crispus o asigura, dânsa începu să plângă cu hohote.</p>
+<p> Cu greu se liniști. Ceasuri întregi de tristă fericire le mângâiară sufletele lor îndurerate. Vorbele de iubire erau înlocuite cu dulci săruturi, care făceau ca aceste două inimi, generoase și nobile, să se întrupeze într-una. </p>
+<p> -bUnde-i Julia, ca să plângă și dânsa? zise, printre lacrimi, Miryam. </p>
+<p> Amândoi îndrăgostiții înnecară marea lor jale în săruturi fără de sfârșit. Se înnoptase și ei uitară cina serii și ruga vecerniei.</p>
+<p>- Vai, Miryam, azi nu ne-am rugat.</p>
+  <p> Cei doi tineri îngenunchiară și aduseră cerului prinosul caldei lor credințe.</p>
+<p>Rugăciunea sfârșise, Crispus luă pe Miryam și o așeză lângă el. Luna îl mângâia. La poalele dealului pe care visau, se strecura șerpuitor un mic râuleț, mai departe orizontul era înnegrit de Balcani și de pădurile de brazi.</p>
+<p> Aerul limpide era străbătut de lilieci, oaspeți sperioși ai nopții și liniștea claustrală, ruptă de strigătul păsărilor iubitoare de întuneric.</p>
+<p> — Crispus, mi-e frică.</p>
+<p> — Frică, un creștin nu poate avea frică. Pretutindeni Dumnezeu ne însoțește. </p>
+<p> Ce-i frumusețea asta, decât însuși Dumnezeu?</p>
+<p> — Crispus, am viziuni triste: o voce, necunoscută și tainică îmi spune că războiul acesta va fi fatal pentru amândoi </p>
+<p> — Vom muri. Atât mai bine, avem să o întâlnim pe Julia, pe iubitele noastre mame, răspunse Crispus.</p>
+<p> - Dar sărutul acesta dulce nu-l vom mai găsi, replică Miryam, sărutând înfocată pe iubitul ei.</p>
+<p>- Vorbele tale mă îngrijorează, teama ce-mi arăți, mă supără, Miryam, mult iubito.</p>
+<p> - Nu te supăra, nu mai am frică pentru că sunt lângă tine, dar când vei pleca? </p>
+<p> — Atunci, scumpa mea bunică te va îngriji, știind cât te iubește. </p>
+<p> - Cine va putea stinge focul din pieptul meu? </p>
+<p> — Credința, iubită Miryam. În lipsa mea, roagă-te pentru toți și Dumnezeu va fi bun și plin de mărinimie. </p>
+<p> —- Ce frumos vorbești, dar tot îmi este frică și nu știu de ce! Lasă-mă, Crispus, să stau lângă sânul tău. </p>
+<p> Crispus îi acoperi frumoasa ei frunte de sărutări și o strânse puternic la piept.</p>
+<p> Domnia lui Constantin, aduse cu dânsa o reformă militară, care nimici spiritul ostășesc. Legiunile nu mai fură distribuite de-a lungul fruntarilor, ci repartizate numai în orașele de provincie. Împăratul voia, prin această schimbare, să împiedice revoltele frecvente din armată.</p>
+<p> Pe linia graniței fură înșirați soldați, pe linia limidanei sau ripenses, care primiseră pământuri, cu condiția ca să le apere. Efectivul corpurilor se micșorase, așa că legiunea număra 1500 de soldați, iar cetățenii români nu mai formau decât o minimă parte a oștilor împărătești. Barbarii erau numeroși: li se dădea numele de laeti sau de  foederați.</p>
+<p> Zvonuri sinistre veneau la Roma, despre revolta acestor foederați care, în Argovia, Alesia, Lutetia, Tolosa, Uxelatunum, Samoroleriva, Avaricum, se revoltară contra puterii romane și edictului din Milan.</p>
+<p> Lactantius, Crispus și cu Aelius, plecară în grabă spre Roma, însoțiți de mulți creștini, care voiau să vină în ajutorul lui Constantin.</p>
+<p>Drumul era frumos: în trei săptămâni se apropiară de Roma. Călătorind cu dese popasuri, gândurile micii caravane erau risipite de naiul săltăreț, ce răsuna din câmpiile pline de bogate turme. Era, cântecul acesta, o amintire a unei lumi aproape apuse și nu plăcea creștinilor.</p>
+<p> Crispus, pentru întâia oară, avea să meargă în Roma. Lactantius îi explică: </p>
+<p> — Roma este cetatea amintirilor glorioase: Aici avu religia noastră să plângă cei dintâi martiri; aici Sf.Petru își găsi moartea, aici Nerone și alți cesari masacrară pe creștini și ei mureau cu zâmbetul pe buze și cu seninul în privire. Iubite Crispus, al treilea secol și primii ani din al patrulea, fură cele mai grele epoci pentru credința noastră; creștinii erau socotiți ca dușmani ai patriei și persecuțiile contra lor fură numeroase și groaznice.</p>
+  <p> În ultimii ani ai domniei lui Septimiu Sever, se dădu un edict contra creștinilor, prin care voia să se distrugă minunatele noastre comunități și pe cei care le alcătuiau. </p>
+  <p> Biserica africană suferi și mai mult. Pare că, în zarea senină a cerului, zăresc  lungi  teorii de martiri, nefericiți și plini de cea mai curată credință. Ei aveau, în suflet, cel mai nobil și mai entuziast avânt: ei mergeau la moarte binecuvântând asini. Cartagina avu, sub acest împărat, primii martiri creștini: mulți pieriră și două femei, Perpetua și Felicita, fură nimicite, prin cele mai grozave chinuri. </p>
+<p> Numele acestor două sfinte să nu le uiți și, vreodată, când vei fi în pericol de moarte, să-ți amintești cum au murit, zâmbind și aducând prisos de cea mai neprihănită credință Dumnezeului nostru.</p>
+<p> Perpetua și Felicita, iată două femei care au știut să moară mai bărbătește ca mulți creștini.</p>
+<p> Lacrimi bogate și suspine puternice curmară vorba lui Lactantius. </p>
+<p> Nu mă pot opri să nu vărs lacrimi de admirație: ce oameni sfinți, continuă Lactantius.</p> 
+<p> Cesarii erau nebuni, furioși: creștinii nu mai aveau niciun drept. Roma, în timpul lui Septimus Sever, nu fu cruțată: mii de creștini fură uciși mișelește și aruncați în imensa catacombă din calea Appiană, pe care papa Calixt, un sfânt și dânsul, o făcu și mai mare.  </p> 
+<p>  Cei trei creștini plângeau în smerite rugi, aduceau nobilă slavă acestor martiri. </p>
+<p> — Lactantius, zise Aelius, mai spune; e absolută nevoie să ne cunoaștem străbunii noștri? </p>
+<p> — Ascultați, cu luare aminte, sunt într-adevăr lucruri ce trebuie știute de un creștin, și Lactantius urmă: </p>
+<p> Cu venirea la tron a lui Alexandru Sever, care stima pe Iisus, pacea revine bisericii noastre, dar nu fu de lungă durată. In 249, un edict pedepsea cu moartea pe creștini și pe episcopul Romei, sfântul Fabianus, care fu omorât. Origen, marele apologist, pieri cu patru ani mai târziu.</p>
+<p> Sub Valerian, biserica din Cartagina suferi noi persecuții, și episcopul St.Cyprian, papa Sixtus și o mulțime de preoți, pieriră în 258. Acest an de sânge îngrozise sufletele slabe și mulți, de frică, părăsiră noua religie.</p>
+<p> Împăratul Gallian suspendă persecuțiile. Biserica răsuflă un moment, și preoții noștri binecuvântară pe împăratul păgân. In 303, Dioclețian și cu Galer deteră un faimos edict, prin care noi omoruri de creștini se înfăptuiesc.</p>
+<p> Aceasta e ultima persecuție. Ce va mai fi în viitor... Dumnezeu știe! </p>
+<p> Aceste persecuții ne amintesc Roma și, de aceea, ea este cetatea sfântă pentru creștini. Dumnezeu a ales-o pe dânsa, ca să dea păgânilor probe de puterea sa și de tăria religiei adevărate. Iată pentru ce urmașul Sf. Petru aici locuiește și de ce, întotdeauna, creștinismul va fi de aici cârmuit.</p>
+<p>După cum August și Vergil nu puteau concepe un imperiu latin fără o Roma, tot așa și noi nu putem lipsi biserica noastră de Roma; de orașul acesta, sfințit prin sângele creștinilor uciși, Roma va fi pururea cetatea eternă. Creștinul, care o vizitează, va fi zguduit de emoții. Fiecare loc îi amintește un martir, fiecare stradă este sacră prin sângele vărsat. </p>
+<p> Catacombele, care conțin ceea ce a fost din primii creștini, grăiesc elocuent despre martirul acestor mari suflete. </p>
+<p> Ne apropiem de Roma, să ne rugăm, scumpi prieteni, să cerem umilit acestor nobile inimi, care acum se bucură de cea mai deplină fericire cerească, să ne proteagă. </p>
+</div>
+<div type="chapter" n="9">
+<p> IV </p>
+  <p> În clar obscurul unei dimineți, care preluda o zi senină, Miryam, fecioară superbă la privire, floare smulsă din cadrul olimpului păgânesc, cu ochii plini de lacrimi și cu figura ei delicată, adânc îndurerată de mari chinuri sufletești, singură, se îndrepta spre mormintele iubite, unde, împreună cu Crispus, petrecuse cele mai frumoase ceasuri din tânăra ei viață. Miryam nu avea mai mult de optsprezece ani și, frumusețea ei antică, care reamintea cameele, pe care artistul sculptase o Messalină sau o Poppea, o Lais sau o Lesbie, se îndrepta spre culme.</p>
+<p> În rama palpitantă a dimineții, dânsa părea și mai seducătoare. Silueta i se contura bine nuanțată, înaltă și plină de grații delicate, ea se estompa pe cerul roșcat și lua proporțiile unei statui ieșite din atelierul vreunui sculptor din școală, lui Skopas. Părul ei ruginiu și cu reflexe de flacără vie, cădea în unde pe corpul ei învelit în simplu chiton. Figura ei părea de o albeață marmoreniană și buzele aveau culoarea fragei.</p>
+<p> Lipsea rapsodul antic, genial și stăpânit de voluptate, care să cânte pe această fecioară divină. </p>
+<p> Natura, în armonizare cu frumoasa călătoare, părea că zâmbește și, tainici zefiri, pe aripi ușoare, veneau să-i răcorească fruntea ei îngândurată.</p>
+<p> Ajunse la mormintele iubite: ele se pierdeau sub îmbrăcămintea bogată a florilor sălbatice.</p>
+<p> Macul roșu sta alături cu albăstrița și cu palida cicoare; nalba întrecea pe toate și părea un blând patriarh care da binecuvântare, iar brazii, înalți și bătrâni, stăteau de veghe ca niște legionari de ispravă.</p>
+<p> Crucile înecate de verdeață, aproape nu se vedeau. </p> 
+<p> Miryam merse întâi la mormântul mamei sale și, printre bogate suspine, aduse prinos de dragoste sufletului ei. </p>
+<p> În vecinătatea acestei mici necropole creștine, lăsată în paza pădurii și florilor din câmp, în grija velitului și la mângâierea soarelui, se deschidea largă calea militară: panglică lungă și iar sfârși, care lega Roma cu Dunărea. </p>
+<p> Pe dânsa, mii de legionari, cohorte nenumărate de equiți, care cu muniții și numeroși generali, trecuseră spre a încărca de glorie aquila romană.</p>
+<p> Miryam, cuprinsă de sfânt extaz, la umbra crucilor iubite, visa deșteaptă.</p>
+<p>  Orizontul mărginit de Balcani lua proporții fantastice: cel mai mic zgomot se schimba în sunet de fanfară și în imaginația ei stăpânită de îndurate gânduri, se iveau cohorte victorioase, având în frunte gloriosul labar. Erau oștile crucii, care se întorceau pline de slavă; erau legiuni creștine și prietenește le arunca frumoase zâmbiri.</p>
+<p> ... Și. fără să vrea, lua mândre flori de câmp, maci delicați, nalbe plăpânde, și le zvârlea pe șoseaua înălbită de pulbere și incandescență de soarele verii. </p>
+<p> Apoi, își revenea în fire și striga plină de durere:</p>
+<p> — Crispus, Crispus, când te vei întoarce? iată anul de când ai părăsit liniștea noastră! și iarăși visuri de epopee îi mângâia mintea cea zbuciumată de dogoreala frigurilor.</p>
+<p> — Iată, vine, striga singură: iată cum sosesc, aud zornăitul armelor și iată cum labarul strălucește la razele soarelui... </p>
+<p> ... Și realitatea o făcea să plângă, să se indoaie, sub greutatea unei prea mari dureri.</p>
+<p> De un an de zile, nu mai venise niciun crainic, prin Naissus și nicio știre de la Crispus. </p>
+<p> Miryam și cu bătrâna Elena, erau chinuite de tot felul de gânduri rele: doar rugăciunile ce ridicau către cer, le mai potolea focul mistuitor.</p>
+<p> La începutul anotimpului de toamnă, se împlinea un an și jumătate de la plecarea lui Crispus. </p>
+<p> În timpul acesta campania galică era în toiul ei: se vărsase mult sânge din ambele părți și un raport, adresat împăratului, aducea mari laude curajului ce desfășurase, în acest razboi, Crispus. </p>
+<p> Multe înfrângeri sufletești avu Crispus!</p>
+<p> Pentru el, luptele erau crime deghizate și deseori, în seara izbânzilor, el, trist, cugeta la viața curată, pe care o petrecuse cu Miryam în Moesia. Trimisese multe scrisori, dar era sigur ca niciuna nu ajunsese.</p>
+<p> Într-o dimineață, înainte de începutul luptei, Crispus, plin de o sfâșietoare melancolie, zicea către Lactantius și Aelius: </p>
+<p> — Acum sunt pierdut. Viața mea curată este acum pătată de sânge nevinovat; mă simt covârșit sub greutatea păcatului. Împăratul m-a nenorocit. Unde sunt  vremurile cinstite, când împreună puteam să ne rugam cerului, fără de frică? Azi, mâna cu care fac cruce, este mânjită de sânge și, în fața mea, pururea am întinse mii de cadavre care mă privesc hidos, care rânjesc și mă blesteamă. O, sărmanul meu suflet! De abia am douăzeci și cinci de ani și sunt copleșit de urgia păcatelor, ca și un nemernic care a străbătut viață de on sută de ani.</p>
+<p> Privirea mi se umple de lacrimi, când îmi rotesc ochii pe aceste câmpii, unde acum putrezește carne omenească și odinioară, trecea liniștit fierul plugului.</p>
+<p> Sufletele acestea ucise mereu mă vor blestema, și nici nu cutez să cer iertare Domnului. </p>
+<p> Rugile le fac cu teamă și sunt sigur că ele nu pot fi primite. Cât sunt de nenorocit!</p>
+<p> - Scumpul meu copil, întrerupse Aelius, războiul nu-i un păcat... </p>
+<p> - Iar ideile tale! Un creștin, urmă Crispus, nu poate fi militar; cel care se închină crucii, nu se cuvine să se plece și înaintea lăncilor ostășești. Cel care face parte din cohortele lui Iisus, nu poate intra și în cele imperiale.</p>
+<p> Isus cere blândețe și îndurare: împăratul cere sânge și răzbunare.</p>
+<p> Dacă socotești războiul ca ceva cinstit, atunci nu ești creștin sau nu pricepi creștinismul.</p>
+<p> Mai rămâne acum, iubite Aelius, să rupem crucea după labar și să punem iarăși vechiul vultur... Și, când mă gândesc că lupta se va prelungi din ce în ce mai mult...</p> 
+<p> — Crispus are dreptate, zise Lactantius. Constantin i-a făcut mult rău.</p>  
+  <p> — M-a făcut din omul cel mai fericit și să îmi plâng azi păcatele, adaugă Crispus. Acum, va reîncepe din nou măcelul, acum va trebui să ridic iarăși brațul ca să ucid; să ucid mereu suflete care nu au nicio vină!...Îmi este scârbă de mine; îmi este frică de brațul meu nemernic. </p>
+<p> Ce vină au acești sărmani gali? Nu voiesc să primească biserica și stăpânirea lui Constantin? Ei nu sunt liberi? Oare Cristos a cerut să vărsăm sânge, să devenim, la rândul nostru, persecutori? Acum, păgânismul își are și el martirii lui.</p>
+<p> Aelius aprobă purtarea tatălui meu: eu o dezaprob</p>
+<p> Acum, când vom isprăvi lupta cu acești nenorociți gali, va trebui să ne războim cu Licinius.</p>
+<p> Eu să fiu în locul lui Constantin aș abdica; ar fi mai creștinesc. </p>
+<p> — Dar biserica, replică Lactantius.</p>
+<p> — Va birui singură, Dumnezeu n-are nevoie de ajutorul nostru, adaugă viu Crispus. Cum aș vrea să mor în lupta de azi. De viața pământească mă ține numai Miryam. </p>
+<p> - Și biserica, zise Aelius.</p>
+<p> — Biserica, răspunse Crispus, n-are nevoie de mine: ea e prea puternică și prea dreaptă ca să ceară în ajutor brațul unui tânăr. Ideile creștine, și fără noi, au să iasă biruitoare, iar crimele ce le înfăptuim azi, Dumnezeu le va răzbuna. El nu face nicio deosebire, toți suntem fii lui iubiți.</p>
+<p> — Tu spui lucruri ciudate, zise nedumerit Aelius. </p>
+<p> Cum, eu, care sunt creștin, nu mă bucur de mai multă trecere pe lângă Dumnezeu, decât un păgân ? </p>
+<p> — Sărmane Aelius, adaugă Lactantius, lupta va începe, să lăsăm vorba pe diseară.</p>
+  </div>
+<div type="chapter" n="10">
+<p> În Naissus, întoarcerea legionarilor care luptaseră în Gallia, produse mare emoție, bunii creștini, cu rugi smerite pe buzele lor, ieșiră să-i întâmpine pe veniți. Toate casele se goliră; fiecare avea în acest război câte un frate, copil sau soț; fiecare tremura la ideea că ființa mult iubită a pierit în focul luptei, in țară străină, fără sfânta taină a cuminicăturei. Calea militară era plină.</p>
+<p> Femei, bătrâni și copii, alergară să întâmpine cohortele viteze. </p>
+<p> Miryam și cu Elena, cu figurile descompuse, cu ochi de nebun, priveau legiunile care soseau fără de Crispus.</p>
+<p> De trei ani de zile, Naissus era fără știri sigure: mii de zgomote fuseseră răspândite de călători și de tot felul de vagabonzi, dar toate păreau lipsite de temei. </p>
+<p> — Unde-i Crispus, întrebă Miryam pe întâiul legionar.</p>
+<p> - Crispus e departe, și arătă cu brațul spre orizontul necunoscut. </p>
+<p> - A murit, replică Miryam aproape pierzâdu-și simțirea. </p>
+<p> - Nu, la Roma. Împărtul, mulțumit de dânsul, îl trimite să-l învingă pe Licinius, care voiește să depărteze de la tron pe bunul nostru Constantin, cu el, urma să spună legionarul, se află Lactantius și Aelius. Crispus a fost un viteaz, poți fi mândră, frumoasă fecioară. Și luat de șuvoiul mulțimii, soldatul dispăru.</p>
+<p> Elena și cu Miryam, mai asigurate, părăsiră drumul ca să mulțumească cerului. Spre seară, un crainic intră în casa Elenei. Era trimis de Constantin, ca să asigure pe mama lui că a fost un viteaz și bun fiu Crispus, pe care dansa l-a îndrumat spre adevărata virtute. </p> 
+<p> — Acum, zicea trimisul imperial, Crispus va pleca să pedepsească pe cumnatul împăratului care s-a răsculat și nu voiește să primească edictul de la Milan. </p>
+<p> —  Dar Crispus unde-i? întrebă Miryam. </p>
+<p> - Crispus e la Roma: porțile palatului i-au fost deschise și toată lumea îl iubește, numai împărăteasa Faiista nu-l vede cu ochi buni. Ea are copii și crede că la tron vor veni ei.cDar împăratul ne-a asigurat că numai fiul său, Crispus, va fi urmașul său.</p>
+<p> - Asta nu-i adevărat, Crispus nu voiește să fie împărat; el e prea bun creștin. Mi-a spus adesea, replică repede Miryam.</p>
+  <p>- Așa se zvonește, dar își  va schimba gândul, doar nu va voi să ne dea pe împărat pe vreunul din urâcioșii copii ai Fuastei, zise trimisul imperial.</p>
+<p> Elena, cuprinsă de dragostea mumei, cu toate că nu mai voia să știe de soția lui Constantin, își călcă cuvântul si ceru amănunte asupra Faustei.</p>
+<p> — O Mesalină, lipsită de frumusețe; blestemățiile ei ne-au speriat pe noi creștinii. Roma plânge păcatele împăratului, zise legionarul adânc mâhnit.</p>
+<p> Elena rugă cerul să ierte pe fiul ei iubit, pentru ceea ce făcea Fausta.</p>
+<p> Ziua trecu repede: veștile aduse din Roma mulțumiră pe cele două femei.</p>
+<p> Legionarul, aducător de vești frumoase, plecă încărcat de daruri bogate și binecuvântate de către bătrâna Elena.</p>
+<p> Spre amurgul zilei, cele doue creștine, cu sufletul îndurerat de amintirea scumpilor dispăruți, se îndreptară spre pădurea în care, neuitații morți își odihneau tot ce avură pământesc. </p>
+<p> Miryam, cuprinsă de sfânt extaz creștinesc, aduse cerului prinosul celei mai alese mulțumiri: tot ce avea sufletul său mai nobil și generos, revarsă peste ruga ei vastă și plină de aleasă emoție.</p>
+<p> Avea divine viziuni: pe aripă dulce de extaz mistic, buna ei soră apărea mângâioasă cu figură de blândă copilă și cu privirea, de înger creștin. Și nobila nălucă, prin cuvinte șoptite, îi zugrăvi un trist viitor. În hohot de plâns, Miryam reveni la realitate. Ce-ai, frumoasă Miryam? o întrebă Elena, mișcată de durerea tinerei creștine.</p>
+<p> Miriam povesti: </p>
+<p> — Mai acum, câteva clipite, sfârșind ruga, privirea îmi rătăcea și, din  azurul seninului, se desprinse imaginea sfântă a Juliei, sora iubită, pe care Dumnezeu a chemat-o la  dânsul. Și, în cuvinte, încet, spuse dânsa, îmi prezise mie și lui Cripsus un viitor  grozav de chinuit. </p>
+<p> Cei ce merg în calea Domnului n-au de ce să se teamă, răspunse Elena, învăluind într-o caldă privire pe Miryam. </p>
+<p> Licinius, învins, era adus în Roma. Tovarășul de domnie al lui Constantin, încărcat de lanțuri, trist, urma cortegiul înfrângerii sale, și intra în cetatea veșnică, prin arcul de triumf ridicat de împărat, la începutul viei Appienna.</p>
+<p> Arcul acesta, martor al unor glorioase lupte și care, în inscripții pompoase, vorbea despre izbânzile unui suveran supus crucii, era acum spectator al unor fapte, care dezonorau pe cesarul creștin.</p>
+<p> Licinius își blestema zilele și cerea iertare, dar nimeni nu-1 asculta. Roma decadenței, care iubea desfrâul; cei din din urmă sclavi ai vechii religii se bucurau, privind cum se nimicea unul care fusese puternic odată.</p>
+<p> Licinius era un bătrân frumos. O gură de zeu păgân; un Prometeu înlănțuit. </p>
+<p> Carul triumfal trecu prin foc și se îndreptă spre capitol. Lumea scotea răcnete fioroase. Chiar, creștinii uitară persecuțiile suferite și cereau moartea acestui om, care încă proclama suveranitatea lui Joe Capitolinus. </p>
+<p> Convoiul acesta trist ajunse, spre seară, în Capitol. Licinius, după porunca împărtului, fu dus la palatul imperial. Crispus îl urmă. </p>
+<p> Constantin chemă pe fiul său să-i mulțumească, erau singuri.</p>
+<p> Crispus începe: </p>
+<p> — Lasă-mă, voiesc să plec. Tinerețea mea curată ai pângărit-o cu sânge omenesc. Așa cum sunt, nu mai cutez a mă înfățișa înaintea Dumnezeului meu. </p>
+<p> Am ucis tineri și bătrâni, n-am cruțat nici copii. </p> 
+<p> Și asta ca să te mulțumesc.</p>
+  <p> Gallia este pacificată de la un capăt la altul, numele tău este cu frică și respect zis. Druidul cutezător și galul care iubește libertatea, au fost uciși. Acum, edictul de la Milan poate fi aplicat, dar maiestatea cuprinsă în ei a dispărut.</p>
+<p> Licinus, unchiul meu, este adus în lanțuri, și proclamarea ta de împărat universal s-a apropiat. </p>
+<p> Acum, lasă-mă să plec în Moesia. Locurile copilăriei mele, mormimtele iubite, unde am petrecut anii curați ai vieții mele, unde se află Elena, unde iubesc și unde Lactantius mi-a explicat dogma creștină, poate că vor înviora sufletul meu nenorocit. </p>
+<p> Tronul tău nu-1 voiesc. Fausta are copii. Împarte împărăția între dânșii. </p>
+<p> Eu voiesc să-mi sfârșesc viața în rugi de pocăială. Am ucis oameni, trebuie să cer iertare cerului. Am făcut ceea ce un creștin nu trebuie să facă; am vărsat sângele aproapelui meu.</p>
+<p> Dacă ai, pentru mine, dragoste de tată, lasa-mă să plec la Naissus.</p>
+<p> Și, bogate lacrimi înecară frumoșii lui ochi.</p>
+<p> Constantin era uimit. </p>
+<p> — Sau ești cel mai mare dușman al meu, sau ești un nebun, zise dânsul mâniat și devenind tracul furios și sălbatic. </p>
+<p> Fausta, care ascultase rugăciunea lui Crispus, nu putea să-și oprească bucuria și, pătrunzând la împărat, îi zise: </p>
+<p> - Pe Crispus fă-l papă, el e un bun creștin. </p>
+<p> Împăratul, dus pe gânduri, nici nu băgă în seamă vorbele Faustei și, adresându-i-se lui Crispus, îi zise: </p>
+<p> Poți pleca în Moesia, dar după ce vei asista la pedepsirea lui Licinius.</p>
+<p> Constantin era fioros, mușchii figurii lui grosolane se contractau spasmodic și dădeau împăratului o înfățișare hidoasă. El tremura și striga incoerent. Crispus, fără să arate vreo teamă, zise: </p>
+<p> — Degeaba te superi, în mine ai și vei avea un fiu credincios: un supus care niciodată nu va ridica glasul. Ca bun creștin, puțin îmi pasă de cine domnește; puțin îmi pasă dacă sunt omorât, orice soartă aș avea, tot în răceala sicriului și în fața Dumnezeului nostru ajungem. </p>
+<p> Împăratul, adânc mâniat, plecă fără să răspundă. </p>
+<p> A doua zi, în odaia în care Crispus spuse tatălui său vorbe în care întrupase cel mai nobil creștinism, lume multă aștepta pedeapsa lui Licinius.</p>
+<p> Sala imensă era ocupată de numeroși demnitari, erau și câțiva preoți, care reprezentau noua religie.</p>
+<p> Constantin apăru, era același om înfuriat, nicio urmă omenească pe figură.</p>
+<p> Licinius fu adus. Împăratul se pogorî jos de tot; sufletul lui, copleșit de ură animalică, era furios și gata să săvârșească orice.</p>
+<p> Crispus interveni. </p>
+<p> - Un împărat care se pune sub scutul crucii nu trebuie să omoare pe nimeni. Cei de față erau înmărmuriți, nimeni nu mai văzuse astfel de îndrăzneală. </p>
+<p> Împăratul deveni și mai furios. Să vină lângă mine tâlharul bătrân și fără milă, cu o secure despică fruntea nefericitului său cumnat. </p>
+<p> -Așa pier dușmanii mei, și privirea împăratului căzu pe Crispus. El se ruga și cerea D-zeului creștin să dea iertare tatălui său.</p>
+<p> Priveliștea era grozavă: în sângele său cald, încă, Licinius se zbătea în ultimele spasmuri ale vieții.</p>
+<p> — Să-1 ia de aici, urlă Constantin. Sclavi numeroși spălară dalele însângerate și ridicară stârvul nenorocitului Cesar. </p>
+<p> Crispus, înlemnit de durere și scârbă, chiar în acea seară, părăsi Roma. Lactantius și Aelius îl urmară. </p>
+<p> Omorârea lui Lucinius nimicise în sufletul lui Crispus și ultima dragoste pentru viață: acum, de pământ nu-1 lega decât Miryam. </p>
+<p> Lactantius și cu Aelius aprobau conduita tânărului lor prieten, și, prin cuvinte alese, căutau să-i arate că degeaba este așa de amărât, purtarea și faptele lui fiind foarte creștinești. </p>
+<p> Sărmanul Crispus, de câte ori își amintea de Constantin, izbucnea în hohote de plâns.</p>
+<p>- Lydia trebuie și dânsa să fi suferit, zise Lactantius către Aelius.</p>
+<p>— Biata mea mamă, răspunse Crispus, a murit din cauza împăratului. Povestea vieții sale este o drama sumbră și, în care Constantin nu joacă rolul cel frumos și nobil.</p>
+<p> Un om care poruncește măceluri și care, cu propria lui mână, își ucide dușmanii, nu-i nici creștin, nici suflet cinstit. Eu nu voiesc împărăția Romei, are la dânsul pe copiii Faustei, să-și aleagă din ei pe urmașul său.</p>
+<p> Aelius, cu toate că aproba pe Crispus, nu putea însă, nici în ruptul capului, să admită renunțarea la domnie, pe care o auzea mereu.</p>
+<p> De aceea, de câte ori Crispus vorbea despre viitorul său și pomenea și despre tron, Aelius căuta să schimbe subiectul convorbirii. Pentru el, renunțarea lui Crispus însemna noi persecuții creștinești. Voia dânsul să vadă în fruntea Imperiului un creștin adevărat și, de aceea, sufletul i se îndurera când Crispus arăta groaza ce avea pentru domnie. </p>
+<p> Constantin era în mare nedumerire. Purtarea vitejească și reală a lui Crispus în războiul galic și în capturarea lui Licinius, nu-1 lăsa să vadă în fiul său pe trădătorul căutat de Fausta. E un creștin înnebunit de fanatism, zicea el Faustei, care fusese pusă la curent cu cele petrecute.</p>
+<p> — Dacă crezi că este cu adevărat un creștin fanatic, pentru ce nu-l faci episcop? zise Fausta, râzând. Dar, eu am să cercetez printre oameni, mie îmi pare că el este un trădător și, ca să nu facă pe Licinius să mărturisească ceea ce știa, a protestat ca un nebun, de față cu toată lumea. </p> 
+<p> Vorbele tale au multă dreptate, răspunse împăratul, dar aș vrea să aflu și rezultatul cercetărilor întreprinse de tine. Prea apără dânsul pe Licinius, prea mă vestejea în fața întregii asistențe, el fiind unit cu tâlharul acela și văzând că nu reușesc planurile lor, a căutat și a avut nevoie să zăpăcească pe Licinius așa de mult, încât să nu descopere pe tovarășii lui de complot. Trebuie să fie amestecat și Lancatius. Aelius nu cred, îmi este prea credincios. Ei voiau să pună în locul meu pe Crispus, de aceea dânsul îmi tot spunea că nu voiește să domnească. Cunosc eu declarații de felul ăsta. Trebuie să-i sucesc gâtul alături de Licinius.</p>
+<p> Fausta era veselă și, ca să pară și mai credincioasă, se prefăcea tristă și mâniată de cele petrecute.</p>
+<p> Peste șase zile, Fausta veni la împărat. </p> 
+<p>- Am aflat lucruri grozave, zise dânsa. </p>
+<p> Împăratul îi făcu semn să vorbească: </p>
+<p> - Crispus era unit cu Licinius și, alături de ei, se găsea și Faustus, fratele meu. Voiau să te omoare, și apoi să împartă imperiul în trei. Planul lor era să te ucidă chiar în palat, și ucigașul ales era Crispus, fiul tău iubit. Un lucru te rog, pe Crispus să-l ierți, este fiul tău, dar pe Faustus să-l omori. Nu vreau să am un frate așa de nemernic și, care să recunoască bunătatea ta. </p>
+<p> - Dar Lactantius este amestecat, dar Aelius.... </p>
+<p> — Nu știu, răspunse Fausta, ceea ce am  aflat sigur, ți-am spus. Crispus, Licinius și Faustus erau capii conjurației blestemate. Vezi, iubite Constantin, cât de credincioasă îți sunt. Pentru tine am sacrificat un frate. </p>
+<p> .... Și plină de înșelăciune, curtezana, devenită împărăteasă, acoperi de sărutări pe Constantin. </p>
+<p> — Fausta, ai aprobat că ești o soție credincioasă, pentru aceasta am să iert pe Faust. </p>
+<p> — Bunătatea ta e fără de margini, dar el nu merită mila ta. </p>
+<p> — Cine ți-a aflat aceste amănunte grozave ? </p>
+<p> — Lentulus și Marcus, servitorii noștri credincioși. </p>
+<p> — Ei trebuiesc bine răsplătiți, zise împăratul. </p>
+<p> Constantin, mulțumit și furios, căuta să-i dea lui Crispus moartea cea mai grozavă. </p>
+<p> — Fausta, zise el, să-l otrăvim pe Crispus. </p>
+<p>- Iartă-l, mai bine dă-i exilul, respinse Fausta. </p>
+<p> — Exilul! Am să-i dau cea mai grozavă moarte. Cum el, fiul meu, să cuteze a visa moartea mea. Dar nicio pedeapsă nu-i destul de aspră. </p>
+<p> Ia, mai spune Fausta, voiesc să-mi fie mereu ațâțată ura. Ia, spune-mi cum voiau să mă omoare. </p>
+<p> ... Și, Fausta reîncepu să povestească infama și criminala ei plăsmuire. </p>
+<p> CARTEA A TREIA</p>
+<p>  Zori de sânge </p>
+  </div>
+<div type="chapter" n="11">
+<p> Străzile Romei, forul și arterele laterale, erau pline de lume. </p>
+<p> Figuri necunoscute, cu senzualul zugrăvit pe buze și cu poftele scrise în privire, femei care își petreceau vremea în negura Saburrei; flori frumoase și otrăvite, tineri care stăpâneau bogății imense; ultimii credincioși ai Afroditei și vânzătorii de hidromelul iubit de germani și de pastile cu miresme aduse din fundul Asiei, așteptau să fie părtași la o serbare păgână.</p>
+<p> Primăvara oferise bogaților Romei, care încă nu părăsise pe Kybela sau pe Joe, să-și arate disprețul pentru biserica cea nouă. Altădată, când Kalendele lui Mai erau vestite prin tainici cântăreți și oaspeți de păduri, zeița Flora scotea, prin căile romane, pe curtezanele goale și pe efebii numeroși care, în pădurea sacră a lui Marte, aduceau prinos de voluptate lui Istar babilonica. </p>
+<p> Acum, erau creștini mulți, urâcioșii credincioși ai legii lui Iisus, care ar fi mers până la opunere, dacă frumoasele fete ale Romei decadente, pe carul Florei, s-ar fi expus admirației tinerilor aristocrați care, la umbra palmierilor, citeau fragmente din Catullus și comentau filtrele blestemate.</p>
+<p> Roma păgână se mulțumea, acum, să sărbătorească în ascuns pe zeița senzualismului oriental. Ieșea dânsa în for, în Saburra și, odată cu miezul nopții, în boschete tăinuite, în palate luxoase sau în cocioabe sărăcăcioase, spasmul nemernic se săvârșea, spre mai marea slavă a zeităților apuse. </p>
+<p> Cajus Dolobella era unul din tinerii care se închinau încă vechilor zei; descendent al marelui corupt din epoca ciceroniană, dânsul era, în aceste vremuri, bogat și rafinat esthet, iubitor de vechea artă greacă și, care simțea o bucurie prefăcută, când i se recita pasagii din Homer.</p>
+<p> Era, acum, la preț în tinerimea nobilă din Roma, întoarcerea spre vechea credință care, sub Constantin, începuse a fi persecutată. Eleganța își făcea o datorie să vorbească grecește, să comenteze pe Platon și să recite fragmente din poeții Greciei. </p>
+<p> Palatul lui Cajus Dolabella era una din acele superbe minuni ale decadenței latine; se ridica lângă for și grădinile lui ocupau mai multe hectare. </p>
+<p> Făcut tot din piatră dantelată și datând din vremea regnului neronian, el reprezenta, în cetatea aceasta, pe jumătate creștină, magnificența ancestrală a nobleții latine, și contrasta cu sobrietatea democrației lui Iisus.</p>
+<p> Pentru serbarea Floralelor, Dolabella chemase prieteni și estheți înamorați de forma eposului antic. </p>
+<p> Solemna celebrare a zeiței Flora începu odată cu amurgul zilei. Din aleile umbrite de frunzișul bogat al copacilor îmbătrâniți; de sub arcadele palatului, porni carul Florei. Pe dânsul se afișau cele mal frumoase curtezane. Galileia, cu fiicele ei înfocate și încoronate de păr ruginiu, Asia voluptuasă și Grecia, erau reprezentate în convoiul zeiței. Curtezanele goale, aveau, în părul lor despletit, flori aprinse de mac și trandafiri plini de ales parfum. </p>
+<p> În jurul lor, germani blonzi și plini de putere, nobili romani cu figurile pălite și cu trupul slăbit de vițiu, cântau hymnuri lascive, pe care un poet homerian le alcătuise: </p>
+<p> „ Pe sub umbra aleilor de tei și sub paza armatei lui lisus, Roma antică, cetatea superbă a lui Romulus, sărbătorește pe frumoasa Flora. </p>
+<p> Iată, fecioarele Lațiului care, neatinse azi decât de sărutul călduros al lui Apollo, sosesc pe covorul viu de iarbă, la murmurul șoptitor al izvoarelor, să sacrifice virginitatea lor lui Istar, iubita Florei.</p>
+<p> Cântați tineri care, la optsprezece ani, simțiți iubirea trupească; cântați gloria mândrei Flora.'' </p>
+<p> ,, Pan, vesel vă privește, Afrodita vă surâde și Joe vă binecuvântează. Iarba, tânără și moale, vă asteaptă, tineri ai Romei, și pe voi, fii ai Oderului spumos.'' </p>
+  <p> Fluier de nai, arpegii săltărețe, umpleau aerul încărcat de parfum lasciv.</p>
+  <p>În mijlocul acestui zgomot satanic, apăru Dolabela. Tăcerea se întinse îndată. Tânărul Cajus începu să citească o poezie de Catullus:</p>
+<p>,, Tineri, eu sunt acela a cărui imagine grosolană este sculptată în stejar de securea țărănească. Eu sunt acela care am fertilizat această grădină să prospere, din an în an, această rustică colibă, acoperită de liane și trestii încurcată. Stăpânii acestei sărace locuințe, tatăl ca și fiul, îmi dau o îngrijire pioasă și mă socotesc ca zeu tutelar; unul îmi aduce, fără încetare, bogate ofrande; fiul său, cu mâna lui tânără, culege ierburile care năpădesc în sanctuarul meu micuț; el împodobește chipul meu, aici, cu coroană pestriță de flori colorate, vestitoare de primăvară, aici cu spic de grâu plăpând și cu vârfuri verzi, aici cu prune violete și cu maci auriți.''(XIX)</p> 
+<p> .... Și, serbarea urmă vibrândă de patimă: orgia nebună se desfășura sub privirea Priapului obscen și vopsit în roșu. </p>
+<p> După orgie, urmă ospățul sardanapalic și, după dânsul, sălile spațioase fură deschise și discuții literare înlocuiră erotismul floral. </p>
+<p> Lumina palidă a lunii învăluia, în galbenă chlamydă, această scenă reînviată, în care epoca neroniană strălucea. </p>
+<p> Togile vechilor latini, bogate în cute largi, frumoasele sandale și hexametrul heladic, dădeau acestei adunări un farmec strămoșesc. </p>
+<p> Pe la miezul nopții, când a treia veghe începea, sclavii aduseră bogate divanul și orgia luculică a mâncărurilor începu și, după dânsa, când stomacurile fură obosite de vărsături provocate și de multă hrană, începu să vibreze patimă trupească. </p>
+<p> Tinerii depravați, istoviți și beți, adormiră lângă curtezanele goale. Odată cu reversatul zorilor, când cerul se înflăcărează, din susul sălii, căzu o ploaie de trandafiri peste asistența îmbătată și sleită. </p>
+<p> Păreau niște învinși ai unui grozav război și, care muriseră în spasmul nemerniciei, alături de frumoase bachante. </p>
+<p> Sunet săltăreț de nai, deșteptă pe acești ultimi soldați ai legiunilor lui Istar babilonica. </p>
+<p> Orgiile, petrecute în grădinile lui Dolabella, trecură dincolo de zidurile Romei, ce le mărgineau și, a doua zi, în forul Roman, creștinii, indignați, comentau isprăvile tinerilor păgâni.</p>
+<p> — A fost și împăratul ? Întrebă un creștin, ascetizat prin lungi lipsuri petrecute în rugăciuni.</p>
+<p> - Nu știu, dar copiii Faustei au băut vinul de Falerne cu fetele Saburrei. Am văzut eu intrând pe fiii soției lui Constantin, adaugă un creștin bătrân și blând la privire.</p>
+<p> — Ce-i de făcut ? </p>
+<p> - Să ne rugăm în tihnă; numai Dumnezeu ne poate scuti de asemenea păcate. </p>
+<p> Liniștea era departe: agitația cuprindea întregile cartiere ale creștinilor și ajunse până la auzul împăratului. </p>
+<p> De la plecarea lui Crispus, Constantin se afla într-o agitație continuă și, orice urmă de blândețe, dispăruse din el: Dimineața și seara, privirea lui cruntă se pierdea peste colinele Romei. </p>
+<p> Nimeni nu mai cuteza să-i adreseze o vorbă și, nici Fausta nu voia să-l mai supere; se temea de vreo furie nebună, care trebuia să se termine prin vărsare de sânge. </p>
+<p> Complotul, creat de imaginația blestemată a Faustei, părea a fi uitat cu totul și, un fel de toropeală stăpânea sufletul învingătorului de la Pons Milvius.</p>
+<p> De multe ori, împărăteasa îl prinsese rugându-se înaintea unei cruci și plângând, dar aceste clipe de nobilă durere, erau socotite de împărat cu umiliri sufletești. </p>
+<p> Tot crucea îl mângâia și, cuprins de nebunie, se îmblânzea, când crucea i se ivea, după cum o văzuse în ajunul luptelor de la Saxarubra și Pons Milvius. </p>
+<p> Erau, atunci, amintirile care învingeau sălbăticia, și puterea Dumnezeului apărea strălucită </p>
+<p> Lui Constantin îi părea rău de supărarea lui Crispus și îi era frică că Fausta plăzmuise complotul, în care fiul său juca rolul principal.</p>
+<p> Cât de departe fusese Crispus, crescut de el , dar avea totuși, pentru dânsul, o dragoste tainică și care îi amintea deseori de figura blândă de creștină a Lydiei. </p>
+<p> Nu o dată, în tăcerea mausoleică a palatului, Constantin văzu apărând în vis și trezire, chipul frumos al Lydiei. Atunci, el plângea și cerea iertare.</p>
+<p> Triumfător și împărat universal, Constantin avea momente în care imoralitatea îl speria. Atunci, voia să se purifice prin taina sfântului botez și chema la palat preoți creștini, cu care convorbea ceasuri întregi. </p>
+<p> Împăratul înclina spre Arins și, câteodată, în timide răspunsuri, voia să acopere erezia arianică. </p>
+<p> Fausta era îngrijorată și voia să pună la cale un nou complot, dar participarea fiilor ei la orgia de la Cajus Dolabella o împiedica mult. </p>
+<p> Împăratul, foarte supărat, pedepsi aspru pe cei doi tineri și îi izgoni din palat. </p>
+<p>  Fausta, disperată, nu știa ce să facă și cum să întoarcă gândul soțului său.</p>
+<p> Cei doi tineri suferiră un exil de două luni în insula Pandataria, celebra necropolă de amintiri, unde, pe vremea lui August, străluciți membri ai familiei imperiale găsiră grozavă pedeapsă. </p>
+<p> Împărăteasa se vedea zdrobită: pedeapsa dată fiilor, ci și nepăsarea ce arăta soțul ei față de Crispus, o făceau să bănuiască multe. Ea credea, cu siguranță, că împăratul  aflase totul și aștepta numai momentul priincios, ca s-o omoare. </p>
+<p> Împăratul nu aflase nimic, dar bănuia reaua credință a Faustei și o voce lăuntrică îl sfătuia să nu-l pedepsească pe fiul său. </p>
+<p>Împărăteasa nu înceta însă; mergea pe la vestite vrăjitoare și fabrica filtre, prin care să poată dispune de împărat</p>
+<p> Crispus, însoțit de Lactantius și de Aelius, reîncepu viața sa liniștită. Între rugile ce ridicau cerului și iubirea lui Miryam, sufletul său, îndurerat părea că se mai liniștise puțin. </p>
+<p> Miryam, tot frumoasă și tot mândră la privire, cu părul ei minunat, în care se răsfirase flacăra apusurilor de soare, cu corpul ei superb, subjugase, din nou, inima timarului creștin.</p>
+<p> Durerea lui sufletească se nimicea în esopul celei mai curate iubiri. </p>
+<p> Myriam îl îmbrățișa si îi culegea, de pe  buzele lui, suspinul dureros. </p>
+<p> — O, Myriam, mult iubită, îi zicea dânsul; în mângâiala ta găsesc fericirea supremă și, în sărutarea ta dulce, simt tremurând întreaga ta inimă plăpândă. </p>
+<p> Myriam, Myriam, întrupare mândră și frumoasă, înger iubit si fecioară plină de dragoste nobilă. </p>
+<p> Sufletul meu, scârbit de viață, prinde a gândi la noi idealuri, când brațul tău, alb ca și marmura pentelică și cald ca și sărutul soarelui primăvăratec, îmi cuprindea gâtul. </p>
+<p> - Myriam, fruntea ta liniștită îmi amintește pacea cerească: buzele tale sunt fragi de câmp bogați în miresme, iar sânii tăi pietroși, căpătâi fermecat pentru dureri sufletești.</p> 
+<p> ... Și, când focul necazului mă mistuie, fruntea, părul tău, în care se află rătăcit reflexul flăcării, mă răcorește și-mi dă viață.  </p>
+<p> O, Miryam, Miryam, dacă nu erai tu, mă dădeam morții pe câmpiile Galiei. </p>
+<p> Miryam, surâzând fericită, îi răspundea prin îmbrățișări calde și prin fermecătoare priviri: </p>
+<p> — Crispus, iubirea mea pentru tine este vie ca și focul credinței, puternică mai mult decât orice dragoste. Crispus, stăpân al sufletului meu, rege al cugetului și corpului meu, ție mă închin și mă supun.</p>
+<p> ... Și, înfocatele lor cuvinte se pierdeau în eurythmia fermecată a sărutărilor curate. </p>
+<p> Dumnezeu binecuvânta iubirea lor, și Elena ceru lui Crispus ca, după serbarea Paștilor creștini, dragostea lor să fie consfințită prin biserică. </p>
+<p> Primăvara adusese în Moesia superbă viață și întreaga fire înveșmântată, tânără și vie, slăvea Dumnezeirea prin frumusețea ei. </p>
+<p> Comunitatea creștină urma să ducă o viață cinstită și rodnică. </p>
+<p> Lactantius, reîntors, găsi în mijlocul acestei provincii, traiul care se potrivea cu firea sa. </p>
+<p>Într-una din zilele Kalendelor lui Mai, când Crispus și Lactantius rătăceau prin pădurile din jurul Naissului, cugetând la lucruri sfinte și găsind, în inima liniștită a pădurii, potolirea zvârcolirii sufletești, care-i tortura de la războiul galic și moartea lui Licinius, Crispus începu să vorbească: </p>
+<p> — Pare că m-am sculat dintr-o lungă boală; războiul galilor, uciderea lui Licinius și cearta mea cu Constantin, îmi par niște vise îndepărtate, pe care le-am avut în aiurări și de groază-mi vine să plâng. Slăbiciunea mea sufletească a fost consecința acestei boli morale. </p>
+<p> Pliniu cel tânăr, într-o scrisoare, spune că boala ne face mai buni. Eu simt că am fost bolnav trupește și sufletește; nu o dată, friguri grozave mă chinuiau în nopțile care precedau luptele. </p> 
+<p> După judecata mea, trebuie să fi devenit mai rău. Boala dată de Dumnezeu și, care nu e izvorâtă din păcate, după cum a fost a mea, ne face mai buni. </p>
+<p> — Nu uita, Crispus, că Plinius vorbește ca un păgân. </p>
+<p> — Înțeleg, dânsul crede că frica de moarte, faptul că omul și-a văzut moartea cu ochii, îl face să se îmbuneze. Îmi aduc aminte, el zice: „ Atunci, dânsul crede în zei, își amintește că e om; nu invidiază pe nimeni și nu disprețuiește soarta nimănui.'' Cuvintele acestea ne arată cât de departe era autorul lor de creștinism. Un creștin, niciodata n-ar fi cutezat să creadă că e nemuritor, să invidieze sau să disprețuiască. </p>
+<p> — Crispus, zise Lactantius, cuvintele tale sunt adevărate, dar nu toți păgânii cugetau așa. E unul, Seneca, ucis de Nerone și care, în lucrările sale, se aproprie mult de noi. Se presupune că, în mare taină, cunoscuse creștinismul și-l aproba. </p>
+<p> În tratatul său despre mânie, are păreri,  pe care, tu și orice bun creștin, le-ar primi cu bucurie. </p> 
+<p> Sunt, iubite Crispus, și în lumea păgână, suflete mari, suflete iubite de Dumnezeu și care, prin faptele și sfaturile lor în viață, merg pe adevărata cale a Domnului. </p>
+<p> În tinerețe, îmi amintesc ca și azi, am citit un fragment dintr-o lucrare a lui Seneca, în care se vorbea despre liniștea sufletească. Ascultă numai o cugetare smulsă dintr-o sută de felul acesta: „ Viciul este infinit în varietățile sale, dar uniform în rezultatul său; de aici se naște reaua conducere a sufletului. Ce creștin n-ar admite părerea asta ? </p>
+<p> Viciul e infinit, dar în realitate e unul singur, care roade sufletul; el se ramifică, dar la bază nu sunt mai multe. Oamenii dominați de vicii au și o rea conduită sufletească și, după cum ziceai tu, slăbiciunea sufletească te-a condus în Galia și Roma.</p>
+<p> Vezi, iubite Crispus, cum tu, fără să știi, ai cugetat la fel cu Seneca ? </p>
+<p> Apusul zilei sosea, cei doi creștini îngenunchiară și, vreme îndelungată, ridicară rugi Dumnezeului lor. </p>
+<p> Zvârcolirile plutoniene, în furia lor divină, învingătoare și mândre, puteri uriașe și, cărora, cel vecin le dăduse viață și le întrupase în Hephaistos, despicară thalazurile thyreniane și, în fața Campaniei, departe de țărm, făcu să se nască o stâncă, care să se ridice spre cerul albastru al sudului italian, cu gestul rugător al brațului disperat. </p>
+<p> Pandataria era blestemată, nimic nu creștea pe pământul ei pietros. Șerpii veninoși, scorpiile și tot felul de insecte rele, populau acest colț vulcanic, menit să dispară sub valuri cu aceeași iuțeală.</p>
+  <p> Insula aceasta pustie, lungă și lată de vreo doi kilometri, slujise, de multe ori, drept loc de exil pentru membrii familei imperiale. În vremea principatului augustinian, Livia își găsise aici potolirea patimilor sale bolnave și, imperiul scăpa de o femeie, care tăvălea în noroi purpura sufletească.</p>
+<p> Era, insula aceasta, loc sumbru de ispășire cruntă. Se povesteau legende fioroase, prizonieri morți de foame și mâncați de monștri marini. </p>
+<p> Stâncă goală, de orișice vegetație, era incandescentizată de soarele sudic; singur, mușchiul râpelor creștea și înverzea unele părți ale Pandatariei. </p>
+<p> Constantin porunci să se ridice, în nordul insulei, o căsuță de piatră. Năluca unul grozav exil începu să cheme pe mulți din lumea Romei. Această mică locuință, ce servise pentru fiii Eaustei, care, după două luni de pedeapsă, se reîntoarseră în Roma. </p>
+<p> Atunci, începu una din acele fioroase urzeli care, în istoria lumii, sunt puse alături de marile isbânzi diplomatice. </p>
+<p> Fausta, prin oameni cumpărați, reuși să compună un mare complot fictiv și, în care Crispus apărea ca șef; aduse oameni din Moesia, pe care-i corupse cu mari sume de bani, și care fură bucuroși să nimicească liniștea unui tânăr cinstit și iubitor de pace. </p>
+<p> De astă dată, Constantin era convins: Crispus voia moartea sa și, fără fără a gândi, porunci transportarea fiului său în insula Pandataria, pe timp nelimitat. </p>
+<p> Fausta nu era mulțumită; izbutise numai pe jumătate. </p>
+<p> Viața lui Crispus se scurgea lină și, departe de zvârcolirile vanitoase ale lumii politice; de abia începuse, prin rugi și prin iubirea lui Myriam, să guste din acea pace creștină, pe care o oferă religia lui Isus adevăraților credincioși. </p>
+<p> Exilul, poruncit de Constantin, îl smulse din mijlocul dragostei tuturor. Comunitatea creștină începu să murmure și să ridice vocea contra împăratului. </p>
+<p> Crispus căută s-o împace prin vorbe pioase, spunând că numai Dumnezeu îi va da fericirea supremă, iar nu un simplu muritor, care se intitulează împărat. </p>
+<p> Miryam era ca și moartă de groază și durere, iar bătrâna Elena vedea, în acest exil, încă una din crimele nebunești ale fiului ei. Ea trimise un crainic, să ceară iertarea lui Crispus; trebui să părăsească Moesia, pentru sterila rocă thyreniană. </p>
+<p> Ultima noapte petrecută cu ai săi fu dureroasă. Lactantius plângea, iar Aelius amenința pe împărat. Crispus îi mângâia cu generoase cuvinte : </p>
+<p> — Așa voiește Dumnezeu : el nu dă suferințe, decât celor care le pot îndura. Încercarea aceasta crudă o voi suferi cu seninul în privire. Oare, în Pandataria nu voi găsi loc de rugăciune? Oare credeți că am să vă uit pe voi? </p>
+<p> E dureros pentru mine să mă despart de tine, Lactantius, de la care am primit explicarea religiei noastre; de tine, Aelius, de la care am învățat să fiu mărinimos; de tine, bună mamă, care ai făcut din mine un creștin cucernic, și de tine, frumoasă logodnică, Miryam, iubită între iubite. </p>
+<p> Toți plângeau. Crispus urma :  </p>
+<p> — Plângeți? Tu, Lactantius, plângi? Profanezi prin lacrimi voința Domnului? </p>
+<p> — Crispus are dreptate, zise Lactantius, durerea noastră nu trebuie să pângărească divinitatea și, în locul bocetului, mai bine să ne rugăm. </p>
+<p> — Miryam, îi zise Aelius, nu-i cu putința să-1 urmăm. Cu bucurie l-am însoți, dacă crudul său părinte ne-ar permite. </p>
+<p> Un prieten creștin aduse vești rele; se spunea că păzitorii, care erau însărcinați cu ducerea lui Crispus, aveau să-1 omoare pe drum și să-l părăsească. </p>
+<p> Aelius și cu Lactantius se hotărâră să urmeze, în mare taină, micul convoi, în care se afla bunul lor Crispus. </p>
+<p> Myriam, de mare durere, căzu greu bolnavă și aiurea. Bătrâna Elena, nimicită și dânsa de supărare, punea toate puterile să scape din gbiarele morții pe frumoasa creștină. </p>
+<p> Plecarea neașteptată a lui Crispus dăduse naștere la zvonuri sinistre și, cum dânsul era iubit în Moesia, un început de revoltă se simți. </p>
+<p> Cercurile din Roma erau îngiijate, și Fausta profită de aceasta revoltă, ca să convingă pe împărat și mai mult, că fiul lui voiește să-1 detroneze. </p>
+<p> Cu plecarea lui Crispus, durerea stăpânea cu totul casa bătrânei Elena. Nu mai se auzea râsul fericit al lui Miryam și nici șoptit curat de nobilă dragoste. </p>
+<p> După un an de grele chinuri, Crispus, iertat, se reîntorcea în Moesia. De abia desbarcase în Istria, și un trimis imperial îl opri la Pola.</p>
+<p> Împărăteasa reușise, din nou, să convingă pe Constantin că fiul său este vinovat. </p>
+<p> -El, zicea Fausta, voiește să te omoare și tu îl ierți. Îmi este frică; merge din nou în Moesia și va răscula pe partizanii săi. Intr-o bună dimineață, vom fi uciși amândoi, și dânsul se va proclama ca cesar.</p>
+<p>- Mama mea, răspunse Constantin, m-a asigurat că e nevinovat. </p>
+<p> — Nevinovat! După două comploturi, pe care le-am descoperit, și tot ești convins de cinstea și iubirea lui. </p>
+<p> ... Și, Fausta reîncepu să lucreze la reconstituirea infamului complot. Timp de șase zile, împăratul ascultă tot felul de mărturii mincinoase și, care trebuiau să-l convingă despre vinovăția lui Crispus. </p>
+<p> Mulți oameni, fără de căpătei, care, în Moesia mureau de foame sau tulburau liniștea prin fapte necinstite, defilară prin palatul imperial, spunând că, în adevăr, Crispus a pregătit în Moesia o revoltă și că nimeni în Naissus nu a mai rămas credincios lui Constantin. </p>
+<p> Veniră apoi soldați, care luptară în Galia, culeși de prin închisori și veseli că puteau fi liberi, mințind pe împărat. Unii, care se războiră contra lui Licinius, spuneau că au auzit pe Crispus complotând cu Licinius. </p>
+<p> În această vreme, în Moesia se produse o mișcare în favoarea lui Crispus, deținut la Pola. </p>
+<p> Fausta exploată, în favoarea ei, această nemulțumire, și reuși să ponegrească și mai mult pe nefericitul fiu al Lydiei. </p>
+<p> În acest timp, Miryam porni spre Pola, spre a împărți, împreună cu iubitul ei, moartea, pe care dânsa o aștepta să pună capăt existenței îndurerate a logodnicului său. </p>
+<p> Elena, gârbovită de ani și durere, adânc lovită, căuta, prin rugăciuni, sa mlădieze voința cerească și să-i scurteze viata. Lactantius, scârbit de voință, ducea trai de pustnic ș blestema întreaga lume, iar Aelius, temperament aspru de soldat, cuteza să dezaprobe pe Constantin. </p>
+<p> Myriam, însoțită de Aelius, sosi în Pola. Era tot frumoasă; figura-i, slăbită, purta masca grijulie a unei mari dureri. </p>
+<p> Nu putu cu niciun preț să vadă pe Crispus. Atunci, chinul i se mări și mai mult, Dumnezeu a iubit-o; însăși unul din acei nemernici care, pentru bani, spusese un neadevăr, cunoscând pe Miryam, o amestecă și pe dânsa în complotul Faustei. </p>
+<p> O poruncă împărătească o culese din străzile Polei și o azvârli în temnița unde Crispus ispășea o viață prea cinstită. </p>
+<p> Întrevederea dintre cei doi înamorați a fost mișcătoare, și fericirea îi făcu să uite dureroasa lor situație. </p>
+<p> - Miryam, zicea Crispus, murim împreună. Sunt fericit că amândoi vom intra în regatul Domnului. </p>
+<p> Dragostea noastră va fi scut de bronz, contra loviturilor ce avem să primim. Am fost fericiți și, să mulțumim cerului. Viața e fericită, când Dumnezeu ți-o mulțumește, și nu atunci când e bogată în ani. Noi am putut gusta din cel mai frumos trai: iubirea noastră nu o întâlnim la mulți. Viața cea mai lungă este aceea care se urcă până la înțelepciune. </p>
+<p> Miryam, în dulci îmbrățișări, căuta să-și facă și mai fericită această clipită de nobilă resemnare. </p>
+  </div>
+<div type="chapter" n="12">
+<p> De la edictul din Milan, religia creștină suferise mari schimbări. Începuseră unii episcopi să atinga dogma și să susțină păreri greșite. Creștinismul, tinzând să devină o lege morală universală, trebuia să primească un regulator definitiv. Erezia lui Arius, apărând în Alexandria, Constantin era decis sa convoace un mare sinod ecumenic. </p>
+<p> Orașul Nicaea în Bithynia, fu desemnat în vis împăratului. Asia, care fusese aleasă de Dumnezeu ca patrie a noii religii, fu și de astă dată preferată, ca să dea ultima conduită credinței lui Isus. </p>
+<p> Nicaea era o cetate fără însemnătate. Se deosebea, însă, printr-o credință curată și prin înalta moralitate a celor care o locuiau. </p>
+<p> Un edict imperial convocă sinodul. La el, răspunseră trei sute optsprezece de episcopi. Constantin veni și dânsul, ca să prezideze această sfântă adunare. </p>
+<p> Veniseră patriarhi bătrâni și, care de-abia vedeau. </p>
+<p> Veniseră oameni sfinți, care citeau gândul și aveau în urma lor o viață de pilde nobile și generoase. </p>
+<p> Întrunirea fu măreață. Arius se afla și dânsul; era anul 325, un bătrân, care impunea respect, purta sutană simplă și figura îi era slăbită de traiul petrecut în lipsuri. O barbă mai mult albă, încadra figura, luminată de doi ochi strălucitori de inteligență . </p>
+<p> Era stăpân pe cuvântul său și se bucura în Alexandria de multă iubire. Sfânt, prin viața dusă, și un erou, prin tăria convingerii, avea să ducă luptă mare: toți episcopii nu-1 aprobau și-l numeau eretic. </p> 
+<p> Arius era, fără îndoială, cel mai de frunte membru al sinodului, atât prin înfățișare, cât și prin vorba lui elocventă. </p> 
+<p> Conciliul, început într-o luni, primi binecuvântarea dată de cel mai batrân episcop. Constantin, care își luase titlu de pontifex maximus, presida această sacră adunare. </p>
+<p> În sală, domnea o mare tăcere, când Arius luă cliventul: ședea, în fundul sălii, pe o estradă anume ridicată pentru oratori. El începu cu o voce blândă și, totuși, având în ea mustrări aspre: </p>
+<p> — Suntem, după trei sute douăzeci și cinci de ani de la nașterea Mântuitorului nostru și mari schisme zguduie biserica lui. Seninul cel mai curat, ar fi trebuit să ne înconjoare. Credinciosul ar fi trebuit să vadă în noi sufletele care-l păstoresc, pildă nobilă si generoasă. Discuțiile teologice sunt lipsite de pacea necesară, și episcopul este silit să se coboare în arena luptelor vulgare. </p>
+<p> Când biserica creștină porni din Galileia, dânsa nu cerea de la nimeni supunere la un canon anumit. Isus a cerut cinste, virtute și dragoste, față de Dumnezeul adevărat, dar niciodată n-a impus drept credincioșilor să urmeze părerea unora ce se zic preoți ai credinței cele noi.</p>
+<p> Credința creștină este liberală: numai păgânismul poruncește, celor care îl practică, supunere oarbă. Isus lăsă pe om să se convingă și, apoi, să creadă. Liberarea sufletului de cătușul păgânismului se datorează creștinismului.</p>
+<p> Cristos ne permite să cercetăm, pentru ce voi, care slujiți biserica lui, nu-mi dați mie voie să cred și să cercetez. </p>
+<p>  Voiți să vă înapoiez sultana de episcop? Voiți să redevin simplu pustnic? Vă împlinesc dorința, dar nu-mi luați putința de a cugeta. Eu cred că, Fiul este dintr-o materie analoagă cu tatăl. El și Tatăl au o esență divină analoagă, amândoi sunt egali în cuget și în forță, dar nu purced din acceași esență.</p>
+<p> Fiul e trimis pe pământ și întrupat în  corp omenesc, e adevărat; puterea lui e aceeași cu a lui Dumnezeu, dar materia din care a purces e diferită, cu toate că-i analoagă cu a Tatălui. Părerea aceasta îmi pare mie dreaptă și cred că nu micșorează cu nimic maiestatea divină a Mântuitorului nostru. </p> 
+<p> Părerea mea n-am răspândit-o, am păstrat-o numai pentru mine. Dar, dânsa a pătruns în comunitatea creștină, pe care o păstoresc. Mulți au primit-o, eu n-am impus-o la nimeni. </p>
+<p> Pentru asta sunt numit eretic și fiul rătacit al bisericii? O simplă părere poate fi numită schismă. Împăratul Constantin, care înclină spre creștinism, mă dezaprobă? </p>
+<p> Cuvintele lui Arius produseră o adâncă emoție. Întregul consiliu aștepta combaterea epicopului Alexandriei. </p>
+<p> Locul lui Arius fu luat de Sf. Atanasie, în acest timp, simplu diacon, bărbat cu privirea aspră, ce pășea spre al patruzecilea an. Dânsul începu : </p>
+<p> „ Sfânta treime, creștină, primește o negare prin teoria susținută de Arius. Dacă Mântuitorul nu este dintr-o aceeași materie cu Tatăl, atunci se stabilește o deosebire între el și Fiul său. Arius nimicește sfânta treime, căci, dacă dânsa nu-i purcesă dintr-o aceeași materie, nu mai poate avea ființă. Și Mântuitorul nostru apare ca un executor al voinței divine. Părerea lui Arius este o mare greșeală și, pe care disciplina creștină o pedepsește. </p>
+<p> Dacă fiecare am avea teorii asupra dogmei și divinității, unitatea religiei noastre piere, și credința nobilă a lui Isus se fragmentează în mii de erezii. </p>
+<p> Universalitatea creștinismului se înlocuiește cu  particularismul, care formează caracteristica păgânnismului. Părerea lui Arius, nu numai că trebuie înlăturată, dar, chiar pedepsită cu cea mai mare asprime. Dacă Arius cugetă sincer, e un rătăcit, și e de datoria noastră să-1 aducem pe calea adevărului; de nu crede ceea ce spune, este fățarnic și un ambițios. </p>
+<p> ... Și biserica creștină pedepsește pe cei ambițioși și fățarnici. </p>
+<p> Cuvântul Sf. Atanasic produse o impresiune profundă. </p>
+<p> Arius urcă tribuna, spre a răspunde: „ Eu am explicat liniștit ceea ce cred. Atanasie mă atacă cu răutate și mă numește fățarnic. Părăsesc consiliul și episcopatul; mă cufund în sărăcie și în pustnicia deșertului. Dumnezeu să vă aibă în pază.</p>
+<p> Și, cu gestul larg, făcu semnul binecuvântării.</p>
+<p> Mulți dintre episcopi plânseră și toți admirară acest suflet, care știa se pună credințele lui mai sus decât vremelnica glorie terestră. </p>
+<p> Arius părăsi consiliul și se redete studiilor sale iubite. </p>
+<p> Sfânta adunare se sfârși, fixând dogma creștină și blestemând ideile lui Arius. Tot acest sfat, compuse simbolul credinței, în care Fiul este arătat consubstanțial Tatălui, și dete la iveala douăzeci de canoane, privitoare la disciplina bisericească. Constantin defini sigur rolul său în afacerile Bisericii, zicând că este un fel de episcop, pentru lucrurile din afară. Împăratul, în taină, aproba pe Arius, căruia îi și trimise mari ajutoare.</p>
+<p> Biserica apărea, după acest sfat, ca un singur bloc; totuși, arianismul înflorea în diocesa Alexandriei, unde număra mulți partizani. </p>
+<p> Constantin apărea în ochii creștinilor, care nu cunoșteau viața lui, ca unul dintre cei mai mari creștini, care a știut să impună, bisericii lui Isus, o disciplină creștinească. </p>
+<p> Creștinii din Moesia socoteau ajutorul, pe care împăratul îl dase religiei creștine, o minune cerească; unii credeau că a început să se pocăiască, iar acei care formau marele număr, vedeau, în creștinismul imperial, un act de mare dibăcie politică. </p>
+<p> Crispus nu putea fi uitat; se semnalau numeroase mișcări de simpatie, care dovedeau cât de curată fusese viața acestui tânăr creștin. Lactantius, zdrobit de durere și neputând se facă nimic, se reîntorsese în Naissus, unde spera să afle știri mai bune, care, însă, nu mai puteau sosi, deoarece complotul Faustel prindea, din ce în ce, mai mari puteri. </p>
+<p> Vestea convocării consiliului nicaeian, îl lăsă nesimțitor. După părerea sa, nu oamenilor investiți cu puterea terestră de episcopi le era dat se disciplineze religia dată de Dumnezeu. Arianismul, zicea Lactantius, este o părere greșită, dar nu trebuie să-l persecutăm. Dacă este o doctrină adevărată, Dumnezeu, cu toate forțările noastre, o va face să triumfe. Dacă  este o erezie, ea va dispărea singură. Creștinismul a fost atât de mult persecutat; fiind, însă, religia cea ademenită, el a ieșit plin de izbândă din chinurile neroniane. </p>
+<p> Dezbaterile consiliului și pedepsirea lui Arius atrase atenția tuturor spre Bithymia. Despre Crispus, rareori se mai vorbea, la Roma; totuși, se lucra la alcătuirea de noi probe false și, care aveau să decidă la omorârea lui. </p>
+<p> Constantin era gârbovit de o viața âprea zvânturată și putea să moară curând. Gândtul acesta chinuia mult pe Fausta și voia să grăbească uciderea lui Crispus, spre a putea proclama pe fii ei ca succesori la tronul Romei. </p>
+<p> Convocarea consiliului fu, pentru dânsa, un nou prilej favorabil. Împăratul, părăsind Roma, ea putea, în plină siguranță, să alcătuiască infamul și criminalul ei complot, în unire cu mizerabilii, pe care-i cumpărase cu bani luați din fiscul imperial. </p>
+<p> Împărăteasa era foarte mulțumită și vedea în izbândă planul său. Aștepta venirea lui Constantin, ca să desfășoare ce pregătise, cu atâta grijă și cheltuieli </p>
+</div>
+    <div type="chapter">
+<p> Epilog </p>
+<p> Viața, chinuit de mari suferințe, avea să se sfârșească pentru Crispus. Pacea eternă a celor drepți avea să-1 primească în sânul ei. </p>
+<p> Pe la sfârșitul anului 326, judecătorii, trimiși de împărat, sosiră în Pola. Cu ei, veneau și zilele triste ale toamnei. Noiembrie melancolic cernea, peste frunzele pălite, și vântul rece al nordului ridica valuri cotropitoare. Coasta dalmatină părea ca pedepsită de vreo mână nevăzută.</p>
+<p> Adriatica plină de thalazuri, plângea alături cu întreaga natură îmbrobodită zăbranic de groși nori. </p>
+<p> Creștinii, în naivitatea lor, își amestecau plânsul cu bocetul melancolic al ploii autumnale. </p>
+<p> Spre finele lui Novembre, Crispus era condamnat la moarte și executat prin otravă. </p>
+<p> Corpul lui, tânăr și curat, găsi liniște în desișul unui tufiș de pini de mare, tineri și ei, ca și cel pe care îl umbreau. La murmurul blând al Adriaticei și sub mângâierea vântului sudic, Crispus avea să se bucure de fericirea eternă. </p>
+<p> Myriam ,nimicită de durere, înduioșase pe nemernici, care ascultară de poruncile Faustei, și fu găsită nevinovată. </p>
+<p> Crispus, liniștit, primi moartea. La judecată, fu tăcut și nici nu voia să se apere; se ruga numai pentru iertarea lui Constantin. </p>
+<p> El muri ca un creștin. Ca unul ce era aruncat în gura leului din coliseurile Romei, ca Isus binecuvântând, ca cel mai sublim martir al religiei creștine. </p>
+<p> Cei care îl uciseră, mâhniți, îl priveau cu admirație, cum știu să moară cei care se înregimentează în cohortele știute ale armatei creștine. </p>
+<p> Când  se despărți de Myriam, el îi trimise o lungă sărutare din privire și, fără lacrimi, fără bocet zgomotos, se pregătea să pășească în eternul imperiu al Domnului.</p>
+<p> După trei zile de la dezîncarnarea silnică a Crisus, Myriam fu găsită moartă, culcată pe bucata de pământ ce cuprinsese pe iubitul ei. </p>
+<p> Părea că voiește să încălzească inima lui răcită; părea geloasă de pământul care-i furase mult iubitul. </p>
+<p> Dumnezeu a iubit-o și, într-una din rugile ei, când venise să pună flori bogate peste mormântul lui Crispus, o luă la dânsul ca, împreună cu   logodnicul ei, să se bucure de veșnica pace și fericire. </p>
+<p> Lactantius, îndurerat, părăsea Pola și ducea bătrânei Elena, împreună cu Aelius, vestea dublei crime. </p>
+<p> Multă vreme, puse pentru a străbate drumul ce ducea la Roma. </p>
+<p> Când pătrunse în sfânta cetate, idele lui Martie ale anului 327 începuseră să aducă, pe aripi de dulci miresme, cald aer de primăvară </p>
+<p> Aelius voia să-și vadă stăpânul, cel cu care luptase la Pons Milvius și la Saxarubra. </p>
+<p> — El trebuie să fi murit; cel pe care l-am văzut eu în luptă, era un suflet cinstit. </p>
+<p> Altcineva trebuie să ocupe tronul creștin al Romei. Vreau să-l văd, mergeți, zicea celor de la palatul imperial, și spuneți că un legionar de la Pons Milvius, voiește să-i vorbească. </p>
+<p> Aelius era bătrân, prost îmbrăcat, părea un cerșetor, care își petrecea viața în lipsuri și rătăcire. </p>
+<p> împăratul îl primi. În mijlocul splendorii regești, Aelius părea romanul catonian, care venea să protesteze contra decadenței imperiale.</p>
+<p> Constantin își recunoscu soldatul viteaz. </p>
+<p> - Ce-i, Aelius? </p>
+<p> — Am venit să-ți spun, că ai omorât un nevinovat. Crispus, fiul tău, era creștinul adevărat. </p>
+<p> Dacă tu ești împăratul pentru care am luptat, dacă tu ești Constantin, care la Saxa-rubra adora crucea, ai fost un fals creștin și un nemernic criminal. </p>
+<p> Și, înainte de a se trezi împăratul din uimire, dalele, care primiră sângele lui Licinius, pentru a doua oară, erau înecate de sânge. </p>
+<p> Aelius își înfipse spada în pântece și Dumnezeu îl primi în împărăția sa. </p>
+<p> El murea ca și Cato din Utica. El era ultimul roman și cel dintâi legionar al Romei creștine. </p>
+<p> Și, azi, călătorul care trece pe lângă vechea Pola, la o mică depărtare de oraș, poate să vadă o piatră funerară, cu o inscripție ștearsă și, pe care epigrafia o atribuie epocii neroniane, istrianul, care călăuzește, își descoperă capul, face pios semnul crucii și, plin de mândrie, zice: Aici e mormântul lui Crispus, fiul lui Constantin cel mare. </p> 
+<p> Sfârșit </p>
+<p> Joi, 24 Iulie, 1906</p> 
+<p> în Câmpina</p>
+    </div>
+        </body>
+    </text>
+</TEI>

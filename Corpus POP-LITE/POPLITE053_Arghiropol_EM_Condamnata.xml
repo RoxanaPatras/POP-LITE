@@ -1,0 +1,1094 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Condamnata: ediție POPLITE</title>
+                <author>Arghiropol, Emanuel D.</author>  
+                <respStmt>               
+                    <resp>codare POPLITE</resp>
+                    <name>Teodora Iuriusciuc</name></respStmt>   
+                <respStmt>               
+                    <resp>verificare codare POPLITE</resp>
+                    <name>Lucreția Pascariu</name></respStmt>   
+                <respStmt>
+                    <resp>corectură manuală</resp>
+                    <name>Andreea Iacob</name>
+                </respStmt>
+                <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>UAIC</publisher>
+                <date></date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+                <ref type="doi" target="10.5281/zenodo.7342136"></ref>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Arghiropol, Emanuel D.</author>
+                    <title>Condamnata</title>
+                    <pubPlace>Iași</pubPlace>
+                    <publisher>FOILETONUL REVISTEI „JURNAL PENTRU TOȚI”</publisher>
+                    <date>1868</date>
+                    <decoNote type="ilustratii" subtype="yes"/>
+                    <dim unit="char" type="mic"/>
+                    <extent>
+                        <measure unit="word">36760</measure>
+                        <measure unit="page" type="under_250"/>
+                        <measure unit="foileton" type="under_65"/>
+                        <measure type="complete"></measure>
+                    </extent>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme='https://opentheso.huma-num.fr/opentheso/api/theso/Typologie'>
+                    <term type='domaine' ref="https://hdl.handle.net/20.500.11942/crteb7oodgosm">literatura</term>
+                    <term type='factualite' ref="https://hdl.handle.net/20.500.11942/crt22aacdhvi7">fictiune</term>
+                    <term type='forme' ref="https://hdl.handle.net/20.500.11942/crtnufdew1lfb">proza</term>
+                    <term type='genre' ref="https://hdl.handle.net/20.500.11942/crthuyig1pxri">roman</term>
+                    <term type='agencement' ref="https://hdl.handle.net/20.500.11942/crtbdm5xnc6io">foileton</term>
+                    <term type='origine' ref="https://hdl.handle.net/20.500.11942/crtxolq1evsr9">opera originala</term>
+                    <term type='discours' ref="https://hdl.handle.net/20.500.11942/crt4wma17ncnj">narativ</term>
+                    <term type='public' ref="https://hdl.handle.net/20.500.11942/crthb4el4r5qc">non défini (public cible)</term>
+                    <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
+                </keywords>
+                <keywords>
+                    <term type="receptare" n="5"/>
+                    <term type="republicare" n="2"/>
+                    <term type="finished"></term>                
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+                <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+                <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
+                <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+<div type="part" n="1">
+<p>CONDAMNATA.</p>
+<div type="section"  n="1">
+<p>I.</p>
+<p>Familia Sulin</p>
+<p>Mergând spre satul din Basarabia (partea Rusiei) cel mai frumos spectacol se desfășura înaintea ochilor. In față, un deal acoperit de livezi și vii îmbelșugate, în sânul cărora se zăresc micile căsuțe ale satului, albe și vesele ca o zi de primăvară; la dreapta puțin in depărtare pădurea, a cărei verdeață negrindă, aduce călătorului o boară răcoroasă din profunzimile codrilor ei; la stânga și pe o vălicică din cele mai romantice, se-nalță biserica satului, a cărei turn albind dominează valea, lăsănd la vederea trecătorilor crucea sa sclipind, care cu cât te apropii de sat mărește pe după dealul asupra căruia se întinde drumul.</p>
+<p>Pentru a intra in sat, trebuie să treci mai întăi prin o alee de plopi, a căror vărf pare a se înălța până la cer; odată această alee trecută, drumul dă într-un fel de piață, de unde se împărți în mai multe cărărui prin sat; la fundul acestei piețe, spre deal, se înfățoșa o casă de o aparență mai deosebită decăt cele ce se văzu de ordinari prin satele noastre. — Această casă, încunjurată de un gard de cătină, se pierde mai cu totul din vedere, sub umbra tufoșilor copaci de care este împrejurată, prin ale căror crengi acoperite de milioane de frunți, unde și unde se vede albind păreții săi, sau că se strecoară căte o rază de lumină în timpul nopții.</p>
+<p>Nimeni nu au străbătut aceste locuri și mai ales în acele nopți de vară, pe cănd luna argintie se-nalță pe firmamentu; pe când în darea dealului vecin, focul pruncitorului răsfrânge asupra văilor flacăra sa licurindă pe când fluierul ciobanului trimite din depărtare dulcele tonuri a doinei sale, pe când tu călătorule respiri un aer plin de viață și de voluptate ! Ah! da, nimeni n-a străbătut aceste locuri, fără ca inima sa să nu poarte un dulce dor oare care plăcută aducere aminte aduce.</p>
+<p>Luna lui Mai a anului 1830, începuse de căteva zile, mai zâmbindă și mai strălucitoare decăt totdeauna.</p>
+<p>Pe o seară frumoasă ca acelea descrise mai sus, pe cănd o adiere răcoroasă repeta freamătul frunzelor abia înverzite ale marilor plopi; o brișculiță purtată de un cal sprinten răspândea zgomotul roților sale prin aleea plopilor.</p>
+<p>Un om în vârstă ca de 40 ani, conduce calul care, îmboldită la fiece moment, face să zboare brișcă pe urmele sale.</p>
+<p>Astfel, necunoscutul ajunse curând în sat, de unde apoi se îndrepta la poarta casei de la fundul pieței; aici sări din trăsură și prin ajutorul biciuștei sale, ridică covorul ce închide poarta care, zgâlțâindu-le pe țiținele sale se dădu la o parte; în urmă luând calul de căpăstru începu a străbate curtea, înaintăndu-se spre casa a cărei fațadă era iluminată. Abia făcuse vreo câțiva pași și deodată lătratul puternic al unui câine, veni să despice tăcerea nopții, ce pănă atunci nu era tulburată, decât de șoapta frunzelor și cântul greierilor.</p>
+<p>Ecoul nopții și al frunților, repetând lătrările câinelui, le făcea să devină înfiorătoare. Negreșit după lătrarea lui, trebuia să sfâșie tot ce întâlnea în calea sa; însă deodată, lătrările se prefăcu în gemete, lingușitoare după care urmă un mic monolog între necunoscuta și câine.</p>
+<p>—Bine, bine, ursule; zice necunoscutul măngâind animalul, se vede că anii tăi tot nu ți-au schimbat energia și credința ce ai către stăpânul tău și zicând acestea, tot înainta spre casă, nu fără a se impedecă de mai multe ori de urs, care-i sărea în spate și-i umblă pintre picioarele lui.</p>
+<p>Ajungând la intrarea casei, se începu o altă scenă, aici o femeie jună și destul de frumușică, se aruncă in brațele necunoscutului, dând toate semnele unei vii bucurii, pe când o copiliță ca de patru pănâ la cinci ani, agățându-se de ei cu micile sale mânuțe strigă pe căt vocea sa ascuțită-i permite:</p>
+<p>— O venit tata, bine-mi pare că o venit tata. Ce ai cumpărat mata cocuței de la târg?</p>
+<p>Necunoscutul lăsănd părechea sa din brațe, apuca pe copilă care sărise deja după gâtul său, și după mai multe vorbe și dezmierdări, intrără cu toții în casă. Din cele petrecute și puținele vorbe schimbate, n-au fost greu a se cunoaște, în aceste trei persoane pe o singură familie.</p>
+<p>Iacov Sulin, capul acestei familii, căsătorit de la vârsta de treizeci și cinci, cu juna Maria care nu putu se aibă decât douăzeci, căpătă un an după căsătorie, pe mica Elenă, ce am făcut-o cunoscută lectorilor noștri.</p>
+<p>Iacov, prin felul și capacitatea sa, din simplu plugar, ajuns astă-zi persoana cea mai deosebită în sat; pe o parte comerțul său de lanuri și vite îl pusese în relațiuni de afaceri cu multe persoane înseninate, pe de alta, onestitatea și bunătatea sa, îi atrăsăse toată iubirea și oarecare respect, nu numai din partea sătenilor, dar din toată vecinătatea.</p>
+<p>Cu un capital aproape la patru mii galbeni, un om de condițiunea lui Iacov, nu putea să ducă, decât o viață din cele mai mulțumitoare. Și într-adevăr Iacov părea omul cel mai fericit, afară de boala de piept de care suferă, nimic nu tulbura aburul limpede al căminului său. Odată afacerile din afară isprăvite, Iacov nu avea altă fericire, decăt micul circ al familiei sale. Serile, și când erau singuri, toată ocupațiunea lor era pentru mica Elenă pe care o iubeau cu nebunie.</p>
+<p>Iacov spunea felurite mici întâmplări, Maria o adoarme în cântecele sale, în fine tatăl și muma, se întreceau în felul lor, pentru a căștiga afecțiunea copilei. Duminicile și în alte zile de sărbători, după ascultarea liturghiei, Iacov însoțit de câteva din cunoștințele sale, vine acasă, unde Maria îi aștepta cu un prânz vrednic de orice musafir, căt de ilustru ar fi el!</p>
+<p>După prânz, să retrăgeau cu toții în mica grădinuță de lăngă casă, acolo sub un stejar secular, Iacov raconta concetățenilor lui, felurite fapte istorice și glorioase, repurtate de iluștrii noștri strămoși.</p>
+<p>Era ceva plăcut și imposant totodată, privind acești oameni in straiele lor de sărbătoare, grupați în jurul lui Iacov, și ascultănd vorbele lui cu o religioasă atențiune; Maria având în brațe pe mica Elenă, la picioarele căreia ședea culcat cu botul între labe câinele ursii, care nu se despărțea niciodată de mica sa favorită, forma un complet tablou, în adevăr pitoresc.</p>
+<p>Fericită viață, unde simplicitatea alungă tot ce este fals, și unde imaginațiunea nu are alt țel decât binele !</p>
+<p>Dar vai! cum noi simpli muritori vom trece acest pahar, ce se numește durere, și de care nici singur Crist nu au putut scăpa!!</p>
+</div>
+<div type="section"  n="2">
+<p>II.</p>
+<p>Unde lectorul face cunoștința cu doue 2 personaje noi.</p>
+<p>Acum că am făcut cunoștință cu această parte a familiei Sulin, permite-ne lectorul nostru, a ne permuta în târgul Chișinău, spre a face cunoștința a două personaje noi ce au a juca un rol principal în istoria noastră.</p>
+<p>Iacov Sulin, afară de nevasta și copila lui, mai avea și doi nepoți de sânge: Codrat și Simion Sulin, la vârsta de patrusprezece ani cel întâiu și de treisprezece cel de-al doilea, rămași orfani și fără nicio avere, afară adăpostul lor la unchiul Iacov, care se grăbi a-i lua sub a sa părintească îngrijire.</p>
+<p>Codrat și Simion fură dați la școală și la vârsta de douăzeci ani, pe când Iacov crește că este timpul, a-i da la ocupațiuni mai serioase, îi chemă înaintea sa pe amândoi: „Dragii mei, iată-vă ajunși la vârsta în care omul este dator a începe se muncească. Voi nu mai sunteți copii, pentru a nu înțelege toată înțelepciunea ce se cere în această cale spinoasă, iată aici, câte două sute ruble de fiecare, mergeți și prin munca și purtarea voastră, faceți a se înmulți.-Cu o bună chibzuință, nu veți întâlni a face trebușoare bune. La toată împrejurarea însă, nu treceți cu vederea pe moșul vostru care vă bine-cuvintează și care roagă pe bunul Dumnezeu a vă fi întru ajutor. Și zicându-le acestea, puse în mâinile fieăruia câte un săculeț plin, și se despărți de ei, după ce le dădu mai multe consilieri despre modul cum trebuie a se purta în lume.</p>
+<p>De la această despărțire, se strecurase șase luni, fără ca Iacov să fi auzit măcar pomenindu-se de ei.</p>
+<p>Este drept, că după însurătoarea sa Iacov observase că între Maria, și mai cu seamă între Codrat, exista un fel de neînțelegere, aproape de ură, că Elena nu avea mai mare spaimă decât Codrat că câinele urs, nu vede niciodată pe acești frați fără a mârâi într-un chip amenințător. Însă ce făcu toate aceste nimicuri! Nu sunt ei totdeauna, tot de-a casei ? Pentru ca Codratu și Simion să nu mai dea pe la unchiul lor, negreșit trebuia să fie un alt reson mult mai mare. Poate că întreprinderele lor au ieșit rău, și se-nroșesc a da ochii cu unchiul lor,.. poate că norocul lor l-au pus mai presus decât acest unchi?...</p>
+<p>Astfel își explica Iacov lipsa nepoților lui; când cu două zile în urmă, mergând la Chișinău, spre a se desface de niște lână, de unde l-am văzut întorcându-se, deodată se-ntâlni cu Codratu, care ieșea din o spițerie. Codratu avea aerul foarte posomorât, și fie că nu au grjit pe Iacov, fie că s-au prefăcut a nu-l vedea, înainta cu repeziciune către colțul unei străzi, cănd se văzu apucară de mână de către Iacov.</p>
+<p>—E! buna ziua Codratu, zise el, dar ce dracu te faci să fii așa de nebăgător în seamă, încât să nu vezi pe prietenii tăi care te doresc atât de mult?</p>
+<p>—A ! unchiul Iacov, bună ziua unchiule ! mă iartă dar zău nu te vedeam, pricina e că sunt foarte necăjit cu trebile; răspunse Codrat, cu un ton pe care nu puteam a-l afirma de sincer.</p>
+<p>—Încurcat până la atâta, încât să nu vezi pe moșul tău, cănd acest moșu are mai ales dreptul a-ți bănui uitarea în care l-ai lăsat?</p>
+<p>— Despre uitarea de care ne bănuiești, nu ai niciun cuvânt, căci ca să fim drepți; dacă ești dumneata care ne dorești, sunt alții....</p>
+<p>— Destul Codrat, întrerupse cu bunătate Iacov; Maria nu a fost și nici nu este decât sufletul cel mai bun din lume. Dar să lăsăm toate acestea la o parte și să vorbim de noi. Ce faceți? unde este Simion?</p>
+<p>__Ce să facem? replica cu un ton amar Codrat. Ce pot face, doi oameni slabi și fără niciunu sprijin, decât a calici pe la ușile oamenilor! unde e Simion întrebi dumneata ? Eu singur nu l-am văzut de azi dimineață, ceea ce știu, este, că el ca și mine bate picioarele toată ziua, alergând după datoriile ce mai avem pe ici colo, singurele noastre mijloace. </p>
+<p>— Ce spui Codrat ? replică Iacov surprins. Ați ajunsu voi pănă in așa stare ticăloasă? Aceata ce vrea să zică, a nu urma sfințirilor celor bătrâni? 
+— Să mă ierți unchiule, obiecta Codrat cu un ton de reproș. Sfaturile dumi-tale, le găsesc și cu bune în adevăr când are cineva o avere ca a dumitale dar nu la o nimica de patru sute carboave, cu care nici nu te poți învărti!</p>
+<p>Oricum ar fi de la o administrațiune mai mult sau mai puțin bună atârnă totul. Nu este suma care lncrează, ci capul, crede-mă pe mine. Ei dragul meu! dar eu cum am putut oare face din nimic ceea ce am astăzi? Dar să nu mai vorbim, de oarece răul s-a întămplat, să lăsăm pricinile lui, si să căutăm mijlocul de îndreptare.</p>
+<p>-Toată îndreptarea stă în două sute de carboave ce-mi trebuiescu, și pe care nu le am, răspunse Codrat cu un ton sec. Cu această sumă a-și putea re-ncepe comerțul nostru de pește, căzutu ?</p>
+<p>— Răutăcios suflet ce ești! replică Iacov cu bunătate. Pentru atâta lucru te-ai stănjenit ? În loc de a pierde vremea în zadar, nu era mai bine să fi venit la mine? Tu știi prea bine, că pe cât timpu voi trăi eu, nu voi îngădui ca copiii fratelui meu să se tăvălească pe uliți! Nu! și zicând acestes scoase din buzunarul său un portofel de piele, din care luând câteva bumaște rusești, le întinse lui Codrat. Iată cele două sute carboave ce vă trebuiesc, și D-zeu sfântul să vă ajute, ca cel puțin astă dată, să fiți mai norocoși în trebile voastre. Acuma sunt silit să te părăsesc, pentru a-mi regula oarecare trebi, căci soarele se lasă către asfințit și eu voiesc a pleca chiar astăzi, ca doar așa aș fi mâine seară acasă. Tu știi câtă mulțumire am să fiu mai curând în brațele familiei mele; mai ales că poimâine e ziua Elenei. Nădăjduiesc că după regularea intereselor voastre, nu veți da greși a veni la mine se petreceți câteva zile împreună cu noi; și strângându-l de mână pe Codrat, se depărta cu pași repezi, către altă parte a orașului.</p>
+<p>Codrat Sulin, in vârstă de douăzeci de ani, înalt și uscăcios, ochii căprui închiși, buzele subțiri și disprețuitoare, părul și sprâncenele negre, fruntea mică, nasul lung, și ceva cam coroetic, avea un aer foarte posomorât și respingător. În ochii săi era zugrăvită ipocrizia și răutatea; în ținuta lui se vedea mândria și disprețul către alții; de un caracter aspru și totdeauna îndoielnic, iară primejdios altora și lui însuși chiar.</p>
+<p>Simion în vârstă de nouăsprezece ani, din contra nu semăna deloc fratelui său. Blond, de o talie de mijloc, avea o figură foarte plăcută; caracterul său blând și nehotărât, era totdeauna supus influenței fratelui său. </p>
+<p>Amândoi purtau același costum. Surtuce de șeiacu cafinin, încheiat la piept în găitane, în forma celor ungureșți; pantaloni pe pulpă cu botfori lungi și  pălării ide păslă neagră pe cap,venea foarte bine la delicatesa lui Simion, ce ea ce contrastă la Codrat, căruia i-ai da mai mult aerul unui bandit.</p>
+<p>Am zis că caracterul lui Simion era supus influenței fratelui său; și în adevăr nu putea face un pas fără voi acestuia pe când Codrat se deda la viciile sale, Simion alerga în toate părțile pentru a câțtiga hrana lor, și odată ce compune oarecare seamă, Codrat o lua zicând că el ca frate mai mare se cuvine a avea administrațiunea.</p>
+<p>În acea dimineață, pe când Simion dormea în somnul cel mai dulce, se simți deodată zguduit de mână și o voce prea bine cunoscută îi zice:</p>
+<p>—Ei somnorosule! scoală la lucru! ce dracu nu-ți ajunge de asară de cănd horăiești ?</p>
+<p>Simion în noaptea trecută, după ce alergase după trebi, pănă după miezul nopții, apoi se culcase mai spre ziuă, pe când fratele său se întorcea de la orgiile obișnuite în fiecare seară.</p>
+<p>La această zguduitură, ridicându-se pe jumătate în patul său, și frecându-și ochii roșiți de insomnie, deosebi pe Codrat ce sta înaintea sa. La vederea lui Codrat, și în buimăceala sa, Simion simți un fior de răceală prin vinele sale, și inchizând ochii din nou, spre a șterge din vederea sa această nălucă sinistră, care venea să-i tulbure așa de neașteptat puținele sale ore de odihnă, căzu din nou pe pat.</p>
+<p>Codrat în fața acestei slăbăciuni încreți din sprâncene și plecându-se către fratele său, îl ridică pe patul lui.</p>
+<p>—Sărmane păcătosule! zise el, viața ta nu face niciun ban, fără puternicul sprijin al  brațului meu ! Aide, scoală, adaose el cu un ton mai îndulcit!  grăbește-te să te îmbraci, căci astăzi avem de lucru.</p>
+<p>Simion astă dată să deșteptă cu totul și fără a obiecta un cuvânt, se supune întocmai ca o mașină lui Codrat.</p>
+<p>O tăcere de căteva momente, urmă, în care timp Simion urmă a se îmbrăcă, nu fără a sufla ca un om supus încă puterii somnului. Codrat fu cela întâi care întrerupse această tăcere.</p>
+<p>E spune-mi Simioane, cum stai tu în privirea paralilor? întrebă el, căci despre partea mea nu am nicio lețcaie.</p>
+<p>—Eu? însă tu știi bine, că nu am în măna mea, decăt aceia ce-mi lași tu pentru hrană.</p>
+<p>—Așa este, replică Codrat, a cărei  ochi cercetători, căuta a străbate până în interiorul lui Simion, dar cu economiile tale ?...</p>
+<p>—Economii ? Dar pentru ca să poată cineva economisi trebuie să aibă mai întâi de unde? Iată acum două săptamâni de cănd am adus acele una sută carboave ce ne mai rămâne capitali și din care mi-ai dat numai cincisprezece; ce ai făcut tu cu rămășița de optzeci și cinci?</p>
+<p>- Cheltuite ! răspunse Codrat cu un ton sec.</p>
+<p>- Cheltuite exclamă bietul Simion, aproape a se sugruma cu legătoarea ce tocmai atunci o trece pe după gât, cheltuite, optzeci și cinci de carboave în două săptămăni! și mie care le-am adunat cu atâta sudoare, care mă uitam la ele ca la viața mea, mi se cere economii de cincisprezece carboave ! Ceri economii de la mine, tu, care arunci banii pe ferestre? </p>
+<p>-Destul mă rog! reluă cu asprime Codrat. Tu știi că la mine nu se trec acestea. Bani! îți spun că-mi trebuiesc economiile tale.</p>
+<p>Simion astă dată nu avu curajul să mai răspundă. Suspinând luă de sub perinile capului, o pungă unsuroasă, din care scoase un tablou și câteva monede de argint, pe care le puse pe masa ce-l despărțea de fratele său. Codrat cu cea mai mare răceală, se apropie de masă, și luănd dublonul, restul îl împinse către Simion.</p>
+<p>—Ține, pentru cheltuiala ta, și acum du-te de vezi pe unde mai poți lua bani si pe la asfințitul soarelui să fii neapărat acasă. În astă noapte vom pleca la drum. Zicând aceste, Codrat ieși repede din casă și apucă spre piață.</p>
+<p>Îndată ce se văzu în centrul târgului intra în o spițerie, de unde cumpărănd niște turta-lupului ieși îndată. Atunci fu întâlnirea cu unchiul său Iacov.</p>
+<p>Noi am văzut în ce fel Codrat căpăta două sute carboave de la unchiul său, precum și răceala disprețuitoare cu care Codrat se servise lăngă lacov. Nici un cuvânt de recunoștință, sau cel puțin de mulțumire, nu dăduse în schimbul acestei generozități.</p>
+<p>Odată ce se văzu singur, toate cele petrecute dispăru, pentru a da loc reflecțiunilor ce agitau acest caracter de bronz, încă de multă vreme.</p>
+<p>—În sfârșit am bani! cugeta el mergând cu pași mari; D-zeu prevăzând planul meu, au înlăturat această piedică. Voi găsi pe Simion. Vom cumpăra doi cai și iute la drum. Data asta, vom vedea care poate mai mult! mândră Mărie! Unde dracu, să fie acest Simion?... El nu va ști nimic din cele ce s-au petrecut. Această inimă de petică ar fi în stare să se înduioșeze, și atunci pace de planurile mele. Nu, nu voi spune nici măcar că am întâlnit pe unchiul nostru; îl voi pune pe cal, și-l voi târî ca pe o mașină. Odată pe drum și sub măna mea, O! atunci va fi altceva! sau de nu, atac mai rău pe dânsul! Aceasta cugetând, pasul lui înainta cu repeziciune, pe când mâna sa pipăie cu convulsie un pistol ce purta la pieptul său.</p>
+<p>După zece momente, la întorsătura linei uliți dădu piept deodată cu Simion. Acesta cu capul în jos, având aerul unei mari oboseli merge cu pași rari, când ridicând capul se văzu piept la piept cu fratele său.</p>
+<p>—Ei bine! ce ai făcut? întrebă Codrat.</p>
+<p>—Nimic! răspunse cu tristețe Simion. Dar tu?</p>
+<p>—Eu, mai norocita astă dată la cărți am capatat suma ce ne trebuie pentru drum, răspunse Codrat cu un ton satisfăcător. Însă nu avem timp de pierdut, adaose el cu jumătate de voce. Ține aceasta bumașcă de una sută ruble și pe când voi cumpăra un cal pentru mine, fă și tu de asemenea pentru tine, apoi pe șa și vino de mă găsește la movila de lângă târg, cel mult la aprinsul lumânărilor.</p>
+<p>-Voi fi! răspunse Simion depărtându-se, fără a ști ce voia să facă fratele său pe acea vreme. </p>
+<p>(Urmare în numărul viitor).</p>
+<p>Em. Arghiropol.</p>
+    </div>
+</div>
+<div type="part" n="2">
+    <p>Condamnata</p>
+    <p>(Urmare).</p>
+<div type="section"  n="3">
+<p>III.</p>
+<p>Proiectarea Crimei.</p>
+<p>Noaptea acoperise pământul cu manta neagră, de vreo jumătate de oră; luna se-nalță încet pe bolta steloasă; greierele cântă în culcușul său; cănd o răuchezare depărtată adusă de vântul ce suflă de la nord, ajunse la urechile lui Codrat, care șezând pe o movilă, ținea calul său de căpăstru.</p>
+<p>—A, în sfârșit! murmură el.</p>
+<p>După căteva momente, trapul unui cal se deosebi, apoi mai îndată, apără Simion călare.</p>
+<p>-—Tot mai tărziu, zise Codrat, după ce se apropie Simion, care asupra semnului ce-i făcuse fratele său, descalecă și priponi calul său, împreună cu a lui Codrat, de rădăcina unui mare stejar ce se afla la câțiva pași de movilă.</p>
+<p>—Pricina este, răspunse Simion gâfuind și punăndu-se lăngă Codrat, că de la jumătatea drumului m-am întors îndărăt. După vorbele tale și mai cu seamă după drumul ce apucam, am gândit că mergem la unchiul Iacov. Astfel tu știi că poimâine este ziua Elenei, și nu am voit să mergemu cu mâna goală, acolo unde suntem datori cu recunoștință și mai cu seamă a spăla greșeala noastră. Și îndată ce-mi trecu aceasta prin gând, m-am și întors în târg, de unde am cumpărat câte ceva pentru mica Elenă, la care unchiul nostru ține mai mult decât la orice în lume.</p>
+<p>—Gândul tău e foarte frumos, și nu mă așteptam mai puțin de la o inimă ca a ta, răspunse Codrat pe a cărui buze rătăcea un zâmbet sinistru. Atât numai, văd o mare piedică, ce se opune la îndeplinirea bunelor tale aplicări.</p>
+<p>—O piedică, ce fel?</p>
+<p>—Ha! ha! ha! cât ești de prost! răspunse Codrat râzând printre dinți. Dar nu gândești tu, că pentru a da acele lucrușoare copilei, trebuie să vezi mai întâi copila.</p>
+<p>—Cum, nu mergem la unchiul Iacov ?</p>
+<p>—Ba da; și nu, totodată, răspunse Codrat.</p>
+<p>—Ce fel, da și nu? întrebă Simion care începe a nu prea înțelege pe fratele său; spune mai lămurit.</p>
+<p>—Adică, vom merge la unchiul Iacov, fără să-i vedem pe dânsul însă. Cu toate acestea, fiindcă tu ții așa de mult a da darurile tale Elenei, adăgase Codrat cu ironie, vom vedea pe Elena.</p>
+<p>—Dar bine, cum o să vedem copila, fără să dăm ochii cu părinții ei? întrebă din nou Simion, din ce în ce mai încurcat de fața ce luă această întreținere.</p>
+<p>—Ascultă, Simion, reluă Codrat a cărui figură luă asprimea sa obișnuită; orice ocoliri sunt zadarnice, de vreme ce tocmai pentru aceasta ne aflăm acolo, și de vreme ce tot lucrul trebuie să aibă sfârșitul său, să venim drepți la faptă.</p>
+<p>Aici Codrat se întrerupse, scoase din buzunar pipa sa, o umplu cu tutun, o aprinse prin ajutorul scăpărătorilor, apoi lăsând un fum din gura sa, reîncepu cu aerul cel mai linisștit din lume.</p>
+<p>—Am zis, că vom merge la unchiul Iacov fără însă a-l vedea pe dânsul; și cată pentru ce. Unchiul nostru nu se poate tăgădui, este omul cel mai bun, dar și cel mai prost totodată. Marin, cunoscându-l pe degete, face dintr-ânsul tot ce-i place. Slăbiciunea unchiului nostru și toată pricina însurătoarei lui la vârsta sa, au fost numai pentru a căpăta un copil, care să-i moșească. Maria știa aceasta, și numai după căsătoria lor, se născu copila Elena. Nașterea acestei copile a rămas un lucru neînțeles chiar pentru mine și până astăzi. În zadar te zbuciumi Simioane dănd toate semnele de necrezare; căci pentru mine această copilă nu este, decât mașina prin care Maria va fi curând stăpăna totalei averi a unchiului nostru. Iacov trecut de patruzeci ani, și cu oftica ce-l bântuie, nu va întârzia a părăsi lumea, mulțumit că lasă un urmaș din sângele său pentru a-l moșteni! Iată în scurt țelul nevinovatei și cinstitei Maria. Iată pentru ce n-avea ochi să ne vadă pe noi, care în lipsa acelei plodoaice, am fi moștenitori firești a averii unchiului nostru! Ț-amintești tu, în ziua când trecu prin capul unchiului nostru, de a ne trimite să ne apucăm de negoț, câtă bucurie se vedea în fața Măriei, și câtă grabă punea ea, pentru a ne pregăti plecarea noastră? pentru că privirele mele, în ceea ce privește pe copilă, o supărau! Pentru că odată ieșiți din casă, înțelepciunea ei, va găsi mijlocul, ca picioarele noastre să nu calce mai mult acel prag! Iarăși clatei din cap, necrezător ce ești? Ei bine ce vei zice, când îți voi spune, că astăzi întălnind pe unchiul Iacov și voind a-i vorbi, s-au depărtat de mine, ameințindu-ne că ne va rupe picioarele acele de vom mai călca pe la el. Acuma poftim, semnul recunoștinței, după cum mintea ta găsește cu cale?</p>
+<p>— Într-adevăr, toate acestea sunt ceva nou pentru mine, și dacă nu le-aș auzi din gura ta, nu le-aș crede, răspunse Simion, care pe cât ținti vorbele lui Codrat, ochii săi se mărise peste măsură, fără a se-ndoi cât de puțin de planul lui Codrat.</p>
+<p>—Îți dau dreptate să nu crezi, pentru că un caracter ca al tău se înșeală și de copii. Însă pe mine vulpe deșteaptă, nu mă poate orbi nimeni.</p>
+<p>—Dar atunci pentru ce mergem la unchiul nostru? și dacă mergem cum n-o să-l vedem? hazardă cu temere, naivul Simion.</p>
+<p>—Ce fel, nu ai înțeles pănă acum? replica Codrat mirându-se. Cu toate acestea e destul de lămurit, mi se pare. Mă duc la unchiul Iacov pentru că datoria mea mă cheamă, nu-l voi vedea pentru că nu am trebuință de el, mai ales, voi potrivi vremea, cănd nu va fi acasă.</p>
+<p>—Dar pentru numele lui D-zeu, spune, ce ai să faci ? întreba Simion scărpinându-se în cap. Căci să mă ia o mie de draci dacă pricep ceva!</p>
+<p>—Ceea ce ar face oricine în locul meu! răspunse liniștit Codrat, cumpănindu efectul ce făcea vorbele sale asupra lui Simion. Să scap averea și cinstea familiei !</p>
+<p>—Dar cum?</p>
+<p>—Răpind copila, această pată a familiei Sulin!</p>
+<p>La aceste cuvinte, Simion sări drept în picioare, ca împins de un resort.</p>
+<p> El nu ști unde să fugă de privirea înfocată a lui Codrat, care la intunecimea nopții avea ceva suprauman. El avea groază de fratele său!</p>
+<p>—Să fie cu putință, ceea ce zici tu? găngăvi Simion înspăimântat. Ești nebun nu mai rămâne vorbă!</p>
+<p>—Tu știi că nu glumesc niciodată.</p>
+<p>—Cel puțin gândește-te la ce capăt ai să ajungi; gândește-te că aceasta la o faptă criminală din cele mai mari! zicea Simion trcinmăndu.</p>
+<p>—Nu gândesc la nimic alta, replică Codrat, decât, că Iacov că mâine va muri, că averea lui va trece în mâinile străinilor, și că noi suntem într-o stare, cât nu se poate mai ticăloasă!</p>
+<p>—Și nu gândești tu că vei omori trei suflete? Să vedem, bunul meu Codrat, iubitul meu frățior, tu nu ai o inimă așa de rea precum vrei să te arăți! adăugă Simion cu rugăminte strângând cu tandrețe mâinile fratelui său. O! Codrat! te rog în numele omenirii, ai milă de ei!</p>
+<p>—Nici o îndurare! răspunse Codrat împingând cu asprime pe Simion. Hotărârea mea este luată. Te unești cu mine sau ba? </p>
+<p>—Dacă e așa, nu! răspunse cu o fermetate, necunoscută pănă atunci la Simion, și care face pe Codrat să tresară.</p>
+<p>Oare nu făcuse el o nebunie, dănd pe față planurile sale, unui omu așa de ușor ca Simion? Cu afurisitul său de caracter, e în stare a da totul pe față; și atunci Sibiriul va fi cununa izbândei! Sibiriul! fi! mișelească viață! Dar lăsând să cadă toate aceste planuri, oare nu ar fi mai bine? însă atunci, sănătate orice nădejde! viața ta va fi un lanț de durere; cu care vei târî rușinea ticăloșiei! Nu! pe sufletul meu nu va fi aceasta! Apoi, Maria această femeie nerușinată ar pluti deasupra! ea care m-a jignit până la suflet, batjocorind dragostea ce avem pentru dânsa! Ea pe care aș voi să o fac în mii de bucăți! numai singură această idee este de ajuns pentru a nu mă face să mai dau înapoi. Afară de acestea, să vedem! toată nădejdea nu-i pierdută încă, poate se mai găsește vreun chip de a căpăta pe această oaie ne-nsuflețită! oameni de felul lui nu sunt niciodată statornici! Acestea și mii alte cugetări, se frămăntau în mintea acestui om de fier; pe când Simion sub fierberea ce-i cauzase îndărătnicia sa, se preumblă cu pași mari.</p>
+<p>—Așa dar, tu nu vii cu mine? Zise deodată Codrat sculându-se la rândul lui, și pornind spre stejarul de care erau legați caii.</p>
+<p>—Nu! nu voiesc a fi călăul nimănui! răspunse Simion cu aceeași fierbere care la densul era foarte comică.</p>
+<p>—La asemenea întămplare, reluă cu cea mai mare liniște Codrat, punând piciorul în scară, voi pleca singur. Păcat numai, că precum nu o să am altă mână de ajutor, fără voia mea va trebuie să mă desfac de acea copilă, cum voi putea mai ușor....</p>
+<p>—Ce vrei să zici? întreba cu groază Simion, oprind astă dată preumblarea sa.</p>
+<p>—Vreau să zic, răspunse Codrat care încălecase, că dacă nu vei veni cu mine, voi fi silit să omor copila. Nu te încrâncena, căci moartea sa va fi foarte dulce și liniștită; apa Prutului nu face nicio durere! Cu toate acestea, mă simt dator a-ți face cunoscut un lucru, că deși nu vii cu mine, însă la cea mai mică mișcare din partea ta, te voi pârî de tovarăș la faptă; dacă mai înainte nu-ți voi sfărâma capul cu acest pistol, bine ințelegându-se.</p>
+<p>La vederea armei, picioarele lui Simion se muiară, și era aproape să cadă, dacă nu se sprijină de calul lui Codrat.</p>
+<p>— Ascultă, Codrat, zise Simion cu o o voce tremurătoare, dacă ești hotărât a face această faptă, cel puțin te găndește la primejdia în care te pui!</p>
+<p>—N-am nicio mulțumire mai mare, decât atunci cănd mă aflu într-o primejdie; răspunse Codrat. Moartea Elenei ori vino cu mine, adăugase el hotărât, pregătindu-se de plecare.</p>
+<p>—Pentru că-ți plac primejdiile, de la dânsele se va trage moartea ta! Ei! da stai puțin, adăgase Simion, văzând pe fratele său că se depărtează, stai puțin, să ne-nțelegem!</p>
+<p>Drept orice răspuns, Codrat dând pinteni calului său, porni în mare galop pe cărărușa ce era înaintea lor, făcând să sară scânteile pe urmele cursierului său.</p>
+<p>Două minute mai pe urmă, aruncând blesteme, contra naturii lui Codrat, și scoțând un profund suspin, Simion la rândul său, împungând coastele calului se lăsa ca fulgerul pe urmele lui Codrat.</p>
+</div>
+<div type="section"  n="4">
+<p>Răpirea.</p>
+<p>—Dar bine, ce ai tu Mario, de nu te împacă nimica de azi dimineață? întrebă Iacov pe nevasta lui care, de două ore mai bine era așteptată pentru biserică; Ai tu vreo supărare, pe care nu o știu eu, spune?</p>
+<p>Ce să am dragă? nimic care să merite îngrijirea ta; răspunse ea cu o neliniște.</p>
+<p>—În zadar vrei a te ascunde, reluă cu stăruință Iacov, căci neliniștea ta te dă pe față. Iată cinci ani de când trăim împreună, fără să văd pe fruntea ta o singură încrețitură, prin urmare nu se poate să fii tu supărată fără motiv.</p>
+<p>—Este adeverat că sunt supărată, răspunse Maria cu bunătate; dar îți mai spun o dată, că asta nu merită bătaie de cap. Vezi bine, o copilărie și nimic altceva; cu toate acestea este ceva care mă supără. La tot ceasul îmi vine o bătaie de inimă și un fel de spaimă despre care nu-mi pot da socoteală.</p>
+<p>—Și de când asta? întrebă din nou Iacov, din ce în ce mai îngrijorat.</p>
+<p>—Văd pre bine că tu ai să râzi, și se poate să ai toată dreptatea; cu toate acestea, visul din noaptea trecută, stă încă înaintea ochilor mei în toată cruzimea lui. Abia adormisem, când.... mi se păru că mă aflu în grădină, Elena ca totdeauna, se juca puțin mai departe cu fidelul ei urs..... pe când inima mea gustă această mulțumire, care este viața, deodată asemenean ca mugetul furtunii, un vuiet rece trecu pe la urechile mele și mă învălui ca-ntr-un vărtej, atunci.... două fiare sălbatice se repezi în partea copilei, văzându-le ieșind dintre tufăriș, am vrut să mă arunc înaintea lor, însă trupul meu era amorțit și nu putaem face nicio mișcare; am vrut să răcnesc, dar gura mea rămase căscată fără să pot zice un cuvânt, pentru că un nod îmi sta în gâtlej, spaima îmi închise ochii..., cănd i-am deschis, copila și fiarele se făcuse nevăzute.... ursul zăcea mort la pământ, și ochii lui jumătate deschiși părea că-mi zice să plâng copila mea.... O tresărire puternică, mă deșteptă drept în picioare în mijlocul casei. Odată deșteptată, cea dintâi grijă a mea fu să-mi încredințez de copilă. Ea dormea liniștită și mai frumoasă decât totdeauna. O îți mulțumesc din nou, Dumnezeul meu, că acesta n-a fost decât un vis.</p>
+<p>—Vezi bine, că nu-i decât un vis! și asemenea vise urâte, se-ntâmplă când din cauza greutății stomacului, când din răceală, și adeseori dormind cineva cu fața în sus, vine din amorțeala vinelor. Tu nu trebuie să-ți faci spaimă de asemenea nimicuri.</p>
+<p>—Nu este visul care mă supără, răspunse Maria, dar mâhnirea ce mi-a lăsat el. Cu cât caut să fug de amintirea lui, cu atât îl văd mai crud sub ochii mei. Bătrânii spun că, visând pe cineva mâncat de fiară, însemnează moarte, și precum Elena este care...</p>
+<p>Aici vocea bietei femei se-ntrerupse, și înăbuși în plânsete.</p>
+<p>Iacov, care era un om serios și cu oarecare cunoștință mai întinse, era departe de acele superstiții care dominează spiritele poporului României; de aceea, acolo unde femeia sa nu prevede decât o tristă prevestire, el nu găsea decât o adevărată spaimă copilărească. Astfel, prin cuvintele lui foarte raționale, izbuti în fine a liniști pe Maria, care după o jumătate de oră, pleca la biserică împreună cu bărbatul și mica ei Elenă.</p>
+<p>In acea zi, 21 Mai era serbarea sfinților Constantin și Elena, patronul copilei. Iacov, din natura lui om foarte vesel, caută să treacă acea zi cât se poate mai bine. Încă de cu seară, vecinii toți cunosșteau programa acelei fericite zile.</p>
+<p>Dimineață, fiecare de-a dreptul va merge la biserică cu familia lui; după ascultarea sfintei liturghii, se vor întruni toți și vor merge împreună la Iacov; aici după un prânz îmbelșugat, și către asfințitul soarelui, urmați de lăutarii aduși vor merge la un alt vecin, pe a cărui femeie o cunună Elena, și unde erau poftiți la joc.</p>
+<p>Conform programului alcătuit, când Iacov și familia lui ajunse la biserică, toată lumea era adunată. După închinăciunile obișnuite la fiecare icoană, Maria, conform datinei se retrase cu copila în urmă, pe când Iacov se așeză în frunte între bărbați.</p>
+<p>Biserica satului, o veche zidire pătrată cu un turn deasupra pridvorului, este clădită pe vale; un mic cimitir o înconjoară; mai multe cruci, albe, roșii și albastre se ivesc printre pietrele mormintelor a căror iarbă o pasc oile.</p>
+<p>Interiorul ei lipsit de orice zugrăveli sau luciu, are un aspect foarte vesel la care se amestecă și un ce divin care îți impune respect. Preotul care săvărșea sfânta slujbă, era un om gros, cu părul sur lăsat pe spste și în straiele lui sacre, tocmai atunci citea sfânta evanghelie cu un glas trăgănat și pe nas. Un dascăl slab și cu părul roșiatic zbârlit, ținând în mână psaltirea, conduce unu corn de vreo patru cinci băieți mici, care scot niște tonuri deosebite pe notele cele mai subțiri din lume.</p>
+<p>Aproape de ieșirea darurilor, pe când se intonează herovicul, el pregăti corului isonul ce trebuie să țină; apoi ia psaltirea în mănă cu un aer măreț, aruncă încă o ochire asupra corului, își drege glasul printr-un hum puternic, scoate basmaua din buzunar, șterge nasul, și așteaptă cu nerăbdare momentul trebuitor! Când preotul a dat semnalul, el lovi mai întâi cu piciorul în pământ, puse degetul pe cuvântul următor, ca și cum se temea să nu fugă, și începu a căuta cu o voce din cele mai dogite, umflăndu-și obrajii în atâta că ajunse una cu gâtul, din când în când se-ntoarce către corn, mai ridică psaltirea, și bate tactul necontenit cu piciorul și mâna cea slobodă, pe când capul face felurite mișcări mărețe.</p>
+<p>În fine sfânta slujbă luă finit, fiecare merge să-și ia afară și mulțumind încă o dată lui D-zeu prin semnul sfintei cruci, deșartă biserica. Apoi cu veselia în față și cu apetitul în stomac, plecară spre casă unde-i așteptă prânzul.</p>
+<p>Nimic nu este mai plăcut la privire, și mai dulce inimii decât a vedea această viață câmpenească. De câte ori am considerat noi cu o profundă dragoste aceste tablouri de fericire intimă și curată care nu caută nici secretul nici parada, care nu cer nici lumină nici întuneric, asemenea dulcii lumini a lunii!</p>
+<p>După felicitările obișnuite, trecură cu toții la masă în grădină după cererea generală. Iacov și conmesenii lui o dusă într-o veselie câț ținti prânzul, și către asfințitul soarelui, se-ncepu pregătirele de plecare.</p>
+<p>Cu cât se apropia ora plecării, Maria devenea mai posomorâtă, visul din noaptea trecută se înfățișă, înaintea ochilor ei. Poate sute de ori lăsase pe copilă acasă numai cu bătrâna Paraschiva și argatul Ion, fără ca să aibă cea mai mică grijă, atât de sigură era în aceste două slugi vechi și credincioase. De unde vine dar, că astăzi să nu fie tot acea încredere? și dacă nu are să se întâmple nimic pentru ce astă frică ascunsă și rece? sau dacă visul nu are să aibă urmări serioase; atunci pentru ce se-ndoiesc picioarele la fiecare pas?</p>
+<p>Aceste reflecțiuni agitau pe Maria care stă lăngă copilă, pe când Iacov cu oaspeții săi luase încetișor drumul spre poartă. Acest din urmă văzând că femeia sa nu vine, se ruga de tovarășii lui să-ngădue puțin până ce va vedea care este pricina.</p>
+<p>—Ei bine, nu vii, Mario? zise Iacov, intrând în casă; faci să ne aștepte oaspeții.</p>
+<p>—Ascultă frate, răspunse ea cu un ton rugător, n-ar fi mai bine să rămân eu acasă? Vezi tu, dar mi-i frică să las copila singură.</p>
+<p>—Nu se poate, ce vor zice oamenii și mai ales cumătru Iordachi, văzându-te că n-ai venit la el. Să lăsăm nălucele la o parte și să fim oameni cu minți.</p>
+<p>—Dar dacă am lua copila cu noi? insistă muma superstițioasă.</p>
+<p>—Asta e cu atăta mai greu de făcut, că ea așa de mică nu poate sta pănă la vremea întoarcerii. Așa dar vezi prea bine că trebuie să părăsești nebuniile tale, și să mergem. În cea din urmă, adăugă Iacov văzând pe femeia lui posomorându-se, ce te face să fii atăt de-ngrijită. Elenuța nu-i întâia dată că rămâne singură. Cu toate acestea, ca să fii mai liniștită, voi pune eu trebile astfel la cale încât să nu ai ce mai zice.</p>
+<p>Și zicând acestea, el cheamă pe bătrâna Paraschiva căreia-i încredința pe mica Elenă, și pe Ion argatul care fu îndatorată a se culca lângă ușă în sală.</p>
+<p>—Așa! acuma crezu că nu ai de ce te mai teme; reluă Iacov luând pe Maria de mână ca să plece. Bătrâna Paraschiva, Ion argatul și ursul sunt soldați care nu vor părăsi cetatea lor nici înaintea unei armate întregi!</p>
+<p>Și râzând de această glumă, cam de voie, cam de nevoie, Maria fu silită ca să îmbrățișeze copila și să plece.</p>
+<p>O jumătate de oră mai pe urmă, noaptea veni, și cu dânsa o furtună cumplită. Cerul până atunci limpede, începu a se acoperi de nori, care de la miază-noapte se-nălțau în valuri groase și negri.</p>
+<p>Odaia ce ocupă Elena, și care era și camera de culcare a părinților ei, dă în grădină unde avea o fereastră. Restul casei, pe unde e și antretul, este separată de grădina prin un gard de cătină, care cu timpul devenise foarte stufos, astfel că a trece în grădină nu se putea decât prin portița tăiată în acest gard.</p>
+<p>Pe la opt ore, bătrâna Paraschiva începu a pregăti culcarea. După ce se asigură bine, că ușa de la sală este încuiată și că Ion s-a culcat acolo, închise și însuși ușa de la odaie; apoi făcând pe mica Elenă a se închină, o dezbrăcă și o culcă împreună cu dânsa pe unu orivat, ce venea între fereastră și sobă.</p>
+<p>De pe suflatul și după pregătirile Paraschivei, se vedea că biata femeie avea mare poftă de dormit. Însă nu era tot așa și din partea micii sale tovărășițe, care cerea cu necontenire să i se spună povești.</p>
+<p>—Babă, da nu spui o poveste ? zise din nou fata sculându-se pe jumătate din patul ei, și căutând pe bătrână care nu mai putu de somn.</p>
+<p>—Ce poveste să-ți spun? răspunse biata bătrână contrariată. Taci acolo și dormi!</p>
+<p>—Babă, spune o poveste că plâng! și în adevăr, mica îndărătnică chiar și începu a plânge.</p>
+<p>—Of! sarac-de-mine, ce plod neastâmpărat. Ascultă dar:</p>
+<p>„Era o babă și un moșneag....</p>
+<p>—Nu baba și moșneagu. Spune alta.</p>
+<p>—Dar care alta? O, păcatele mele! și biata babă se scărpina-n cap necăjită.</p>
+<p>—Cu un împărat și o împărăteasă. Hi! hi! hi! și copila râdea de nu mai putea sub oghial.</p>
+<p>De asemenea vorbe se schimbară mai multe, între biata bătrână necăjită, și nebunatica copilă, pănă ce amăndouă dovedite de somn adormiră. Cea dintâi cu încrețituri pe frunte, cea de-a doua cu surâsul pe buze.</p>
+<p>Candela de lângă sobă arunca palida ei lucire, oare se îngâni pe podele asemenea unei fantome; bătrâna Paraschiva sforăie de zuruie geamurile. Afară, furtuna mugind, se amestecă, cu scărțâitul plăngător al  copacilor îndoiți sub suflarea ei. Întunericul devenea din ce în ce mai nestrăbătut.</p>
+<p>Câinele urs, după obiceiul lui, se culcase pe prispă sub fereastra micii sale favorite. Nici furtuna, nici scrășnirea copacilor, nimic nu tulburase până acum, somnul său liniștit. Dar așa, ca pe la zece ore, un mârâit surd și amenințător, dând semnalul că este și el pe acolo, și că nu doarme precum s-ar crede.</p>
+<p>Cu toate aceste, avertismentul dintâi nu avu efectul său pe cât se vede căci ursu fu nevoit a da un al doilea, mult mai sever decât cel dintâi, urmat de un lătrat viguros și prelungit, care se stinse ca prin farmec, dând locul unei clămpănit neînțeles.</p>
+<p>Două umbre se strecurase dintre tufăriș; la mârâirea dintâi a ursului, umbră ce era înainte se trase în urmă dănd loc celui al doilea, care face pe ursu să latre așa de furios. Această a doua umbră, departe de a face ca cea dintâi, din contra înaintă cu un pasu mai mult spre ursu, făcând în același timp un „pst” care ațâță mânia animalului, ce în acel timp înghiți furios un ce aruncat de umbră. Pe dată lătratul se prefăcu în clămpănit din ce în ce mai slab.</p>
+<p>Toate rămase în aceeași stare ca de mai înainte; afară de ploaia ce începea să cadă iute și deasă, adăugând la întunecime, care nu era întreruptă decât de fulgere, și care devenise fioroasă, cu tunetele ce se succedau.</p>
+<p>Câteva momente pe urmă, aceleași doge umbre se iviră din nou.</p>
+<p>—Fă câțiva pași, și vezi dacă ursu e mort; zise una din ele cu glas încet.</p>
+<p>—Șade întins pe iarbă, și nu se aude decât clămpăitul dinților, pe care la lumina fulgerului, i-am văzut plini de clăbuci; răspunse după o secundă, cealaltă umbră, a cărei dinți însuși clănțăiau.</p>
+<p>—Bun lucru este și turta lupului! reluă întâia umbră. Așa avu mare gust.</p>
+<p>Să-i fac cercarea și la un om. Dar ce noapte pricinoasă! adăugă el tot încet hai, ce zici ?</p>
+<p>A doua umbră, către care erau adresate aceste cuvinte îi fu peste putință a-i răspunde ceva așa de tare stăpânei un tremur, ce-i încleștase dinții.</p>
+<p>—Dar destulă vorbă, reluă iarăși ce-i altă umbră. Să lăsăm pe D-zeu în ale lui, și noi la lucru! nu-i vreme de pierdut.</p>
+<p>Ascultă, tu vei rămăne aici și la cea mai mică mișcare, la cel mai mic zgomot, îmi vei da de știre printr-un șuiet.-Eu mă duc, să-mi fac datoria din partea mea.</p>
+<p>—Bi... bi... bi... bine; răspunse clănțănindu-și mai tare umbra tremurândă</p>
+<p>Furtuna amestecată cu ploaia agită cumplit ferestrile de la odaia dinspre grîdină.</p>
+<p>Deodată,și ca și cum natura înfuriată ar fi vot să verse mânia, se făcu o bubuitură de tunet grozavă, fulgerele se succedă în trei rânduri necurmat și furtuna devenise ca un uragan, deschise cu putere fereastra Elenei; în același timp, un om acoperit de o manta de aba, se aruncă în odaie.</p> 
+<p>Candela se stinse. Un țipăt slab răsună în odaie, după care o umbră se strecură pe fereastră, ținând ceva în mâini.</p>
+<p>În acest vălmășag, bătrâna Paraschiva, în buimăceala somnului strigă necontenit.</p>
+<p>— Prea curată fecioară, izbăvește-ne pe noi!</p>
+<p>SIBILA. </p>
+<p>1. Familia de Ferias.</p>
+<p>O zi frumoasă din luna lui August de către seară. Mica și masiva biserică de la Ferias, care încoronează vârful rotunjit a unei stâni pe coasta orientală a peninsulei Normande, agită a ei două clopote cu timbrul plăcut și pătrunzător pe un ritm de veselie. O mulțime investită în haine de Duminică, se răspândise. Afară din biserică, și șopteau prin cimitir: ea primi cu un murmur de mulțumire aparițiunea unei nutrice normande în mare podoabe, care se prezentă deodată pe pragul pridvorului, legănând la umbra matelor aripi a coafurii sale un copil bogat învelit în scutecele lui de botez. Mulțimea se dădu la o parte înaintea astei importante persoane, care binevoia cu toate aceste a-și întrerupe din când în când mergerea sa triumfală pentru a ridica în beneficiul cumătrelor înduioșate, voalele copilului. Nutricea era urmată de doi servitori în livrele negre, înărcați de grele pungi, care atrăgeau atențiunea exclusiv a părții cel mai puțin sentimentale din public. Deodată preotul investiră încă în hainele lui sacre, ieși din biserică cu un aer  ce arătă că se află în treabă, și adresa câteva cuvinte servitorilor, care se depărtară în grabă, terend mulțimea pe pașii lor. După puține minute, preotul, om robust, deja în vârstă, a cărui față respiră o onestă omenie, se găsea singur în mijlocul micului cimitir și se auze în depărtare, amestecându-se la confuza tulburare a valurilor din arenă, strigătele ccopiilor, care-și disputau, îndărătul ăstui loc pustiu, generozitățile obișnuite. Totodată biserica încetă de a face să răsune clopotele de serbare, și simpla sa arhitectură reluă în singurătate acel caracter de strășnicie și de melancolie, ce oceanul îi pare că reflectă asupra tot ce-l apropii. In zăretul marilor arbori, ce voalează orizonul din partea despre pământ, și care urmează cât nu ajunge ochiul lui paralel cu țărmul undulațiunii colnicelor, soarele se coboră în gloria sa, pătrunzând de mii săgeți desele grămezi de frunzare: piezișele lui raze lunecau încă pe vârful stâncii, și făceau să lucească ferigile bisericii; dar nu mai ajungeau pănă la mare, a cărei azur se-ntuneca cu grăbire.</p>
+<p> În ast moment ușa bisericii deschise: un bătrân domn și o damă, amândoi de o talie de dulce demnitate, coborî încet scările pridvorului: ei înaintară spre două plăci de marmură albă împreunate pe douâ mormânte vecine, și îngenunchează unul lăngă altul. Preotul îngenunchează și el la câțiva pași în urma lor.</p>
+<p>După câteva minute, bătrânul domn se ridică: el atinse umărul bătrânii dame, care se rugă cu capul între mâini.— Aide, Luiso! zise el încet.— Ea se ridica de-ndată, îl privi, și ochii săi plini de lacrimi și surâse. El o atrase lângă dânsul și puse buzele lui tremurânde pe fruntea palidă și pură ce ea-i întinse. Preotul s-apropiă. — Domnule Marchisu, zise el cu oarecare timiditate, cel ce  a dat a luat la sine: fie binecuvăntat numele lui, nu-i așa?</p>
+<p>Bătrânul suspină, pironi un moment privirea sa pe mare, apoi pe cer, și descoperindu-și capul: — Da, Domnule, zise el, fie binecuvântat!— El luă atunci brațul bătrânei dame și ieși cu ea din cimitir.</p>
+<p>O jumătate de oră mai târziu pe când înoptase de tot, o trăsură mergea fără zgomot pe pământul umed a unei întunecoase alei, ea ducea la castelul de Ferias tot ce mai rămânea atunci din antica familie a acestui nume, pe ambii bătrâni ce i-am văzut plecați pe două morminte, și orfelina cu ochii albaștri, care primise la botez numele de Sibila — Ana, tradițional de secole în casa sa.</p>
+<p>Era în astă epoca ceva mai mult decât un an de când Marchisul și Marchisa de Ferias pierduse unul după altul, în interval de câteva zile, pe nora lor Julie de Vergnes, creatură angelică, care nu trăise între dânșii decât timpul de a se face adorată și de a fi plânsă, și unicul lor fiu, Christian, conte de Ferias, june om grav, plăcut și delicat, pe care o convulsiune de durere-l zdrobi. Nu e rar, în ăst timp de simțibilități maladive, și de slabe credinți, ca astfel de loviri să facă din cei loviți niște disperați. Marchisul și Marchisa de Ferias scăpase de ăst dezastru moralii: cu toate aceste îi erau două inimi natural delicate până la febleță, și care simțiră sfâșierea lor în toată rigoarea sa incomparabilă; dar ei se susținură prin credință, prin sprijinul unei afecțiuni reciproce, ce anii nu făcură, decât a mai restrânge, în fine prin sentimentul datoriei, ce le rămânea a împlini lângă leagănul ieșit din mormânt.</p>
+<p>II. Familia de Beaumesnil.</p>
+<p>O vecină de țară, ce se numea D-na de Beaumesnil, găsise în catastrofa ce zdrobise casa de Ferias o fericită ocazie de a exersa talentele ce-i plăcea a-și recunoaște pentru rol de consolatoare. E cunoscută istoria acelui chirurg care pentru a avea practici mutilatorii prin răsuflătoare de la pivnița sa. Femei de asemenea caracter sunt foarte multe, și D-na de Beaumesnil, exemplu lor, simțea atâta trebuință a vărsa tezaurul ei caritabil, depus de natură în sânul său, încât s-ar putea că dorea și ești chiar, fără a le provoca, nenorocirile aproapelui ei. Pentru o persoană animată de un devotament așa activ, facerea dureroasă și două morți mai fără veste succesiv urmate sub acoperământul unui amic într-o perioadă de cinci spre șase ani.</p>
+</div>
+</div>
+<div type="part" n="3">
+<p>CONDAMNATA.</p>
+<p>(Urmare).</p>
+<div type="section"  n="5">
+<p>V.</p>
+<p>Crâșma moșului Iftime.</p>
+<p>Era noapte. Tăcerea adâncă ce domnea, nu era întreruptă decât de mugetul furtunii ce se pregătea. Întunecime desevărșită, în care satul era învelit ca-ntr-o manta neagră. Singurele două lumini, asemăna cu două stele, prin slaba lor sclipire, da oarecare semn de viață acest pașnic cătun.</p>
+<p>Pentru călătorul care, întămplarea l-ar fi dus pe acele locuri, și pe la acea oră nu era decât un tenebru fără margini, și el n-ar fi mers niciodată cu ideea, că la câțiva pași, înaintea lui, este un sat, locuit de oameni, într-atâta era de mare obscuritatea acelei adunături de case. Dar dacă pasul lui înainta în aleea plopilor, ambele raze de lumină, se înfățișau privirii. Una spre miază-zi, și într-un fel foarte slab, probă că este către capătul satului; cealaltă, a cărei raze roșiatice, pătrunde printre frunțile plopilor, se arata mai tare și nu departe de această alee. Și-ntr-adevăr, îndată ce ultimii arbori dispăru în urmă, lumina zărită, se transformă în o veche casă acoperită cu stuhu, în lăuntrul căreia arde o lumânare.</p>
+<p>După obloanele de lemn ce cădea în josul și-n susul ferestrei din care obișnuita se formează un fel de masă ce se numește tarabă; de pe laițele ce împodobeau ambele prispe, de-o parte și alta a ușii, și mai cu seamă, după scrăriciobul ce se înalță înaintea-i, asemenea unei bandiere, nu era greu, a se descoperi o crâșmă.</p>
+<p>O crâșmă la țară, e mai tot aceea ce este și o cafine în oraș. Acolo, sătenii au punctul de întrunire și de petrecere; acolo românul de țară, după cum zic ei, vine de-și potolește, aleanul de pe inimă, în afurisita băutură spirtoasă, ce se numește rachiu, și care s-a familiarizat atât de mult în poporul nostru.</p>
+<p>Această băutură infernală, aduce unui popor triste rezultate! Toată energia și flacăra vieții lui, se consumă ca aurul de apă tare, dându loc unei trândăvii, după care succede mizeria, degradațiunea!....</p>
+<p>Crâșmarul, omu de mijloc, gros și pleșuv, în vârsta ca de cinci-zeci ani, învechita în onorabila sa negustorie, făcea trebușoare minunat de bune. Instalat de trei luni în această crâșmă, nu lipsise a atrage la el, pe toți apostolii renumitului Bacus; apoi precum ziceau sătenii, moșul Iftime era născut, pentru treaba aceasta. Pe lăngă aceste, nasul lui stacojiu și cam vănăt către văriu, respiră atâta aer de pivniță, încât bieții oameni nu puteau rezista poftei ce li se deștepta.</p>
+<p>Cu un cuvânt, moșul Iftime mergea în plin, după cum se zice. Și cum s-ar putea în alt fel, cănd posedă cineva, articole așa de atrăgătoare și totdeauna la modă ca ale lui. Câte persoane nu sunt și astăili, care datoresc rangul și pozițiunea lor, acestei Bacuse exploatațiuni! Mirosul de drojdii, ce e drept, nu s-a spălat încă; dar aurul îl eclipsează!</p>
+<p>Un bețiv, nu-mi aduce bine aminte, scuza viciul lui, spunând că, de câte ori trece pe lăngă o crâșmă, un glas dulce vibrează la urechile lui, care-i zice: vinu! Această chemare aromatică, se vede că e prea adevărată; căci cu amurgul serii, toți, sătenii se găseau ca prin farmec, întruniți la moșul Iftime, din a cărui nas, fiecare în parte, a crezut că auzise cuvântul vinu.</p>
+<p>Cu astfel de rănduială, moșul Iftime, trăgea partea cea mai bună. Umplea punga și gâtlejul lui tot din spinarea altora. Cu toate aceste, ca să mărturisim, că și el nu era mai puțin politicos, cu muștereii săi, pe care-i aștepta, de cum dă la prânz, în ușa dughenii.</p>
+<p>În acea seară, pe când moșul Iftime, nerăbdător de întărzierea nepilduită a găinușilor lui, ședea pe pragul ușii, posomorâtă, cu luleaua în dinți și cu o pestelcă în mâini; deodată văzu oprindu-se înaintea dughenii un călăreț.</p>
+<p>La sosirea acestui mușter neașteptat, și care, după exteriorul lui, se vedea a fi un călător; crășmarul închise capacul de la lule, turna pestelca la brâu și frecându-și mâinile cu un aeru de mulțumire, înaintă către necunoscut.</p>
+<p>—Bine ai venit, cumetre; zise el cu prietenie.</p>
+<p>— Bine v-am găsit, moșule! răspunse drumețul descălicându-și intrând în crâșmă. Ascultă, urmă el, ceva de băut!</p>
+<p>Iftime, care de la sosirea acestui oaspete, reluase veselia lui obișnuită, nu așteptă să i se zică de două ori, și într-o clipeală de ochi, se făcu nevăzut în pivniță, a carei gărlici dă în dugheană.</p>
+<p>Călătorul necunoscut, și care era un june,- ca de douezeci și doi ani, dar a cărui asprime de figură, îl arătă ca de patruzeci ani; de îndată ce se văzu singur, scoase mantaua de aba ce-lu învălea și o pusă pe speteaza scaunului, pe care apoi se așeză și el lângă o masă, dănd curs gândurilor, ce-l agitau.</p>
+<p>„Iată-mă în sfârșit, la capătul dorinței mele, își zicea el; încă un salt și totul va ieși, așa precum am prevăzut eu de la început. Dar acest salt este cel mai de căpetenie; de la el atârnă izbânda, sau desevărșita noastră cădere. Este vorba, a se ști dacă, Iacov și nevasta lui, sunt sau nu acasă în astă seară. Simion, asupra căruia am lăsat această grijă, mă va înștiința printr-un șuier. Și tocmai fiind că în el nu prea am multă nedejde, mă cam îngrijesc. Dacă cumva el se va înșela, și vom cădea în cursă? Iată unde-i greul. Va trebui să mă încredințez eu însumi, și întru aceasta cred că voi fi ajutat de grosul crâșmar. Câteva garafe de vin și voi afla tot ce-mi trebuie. Crâșmarul trebuie să fie un bun chilaci; nasul lui dovedește aceasta. El nu mă cunoaște, și apoi omul la beție spune tot, fără să bage de seamă dacă vorbele lui te interesează sau nu. Astfel, cănd Simion va dă semnul, voi știi pe ce scândură va trebui să calc, fără să am teamă de vreo bănuială, care ar putea să ne stea în gât mai la urmă.</p>
+<p> În acel moment, Iftime apăru la gura pivniței, cu trei garafe cu vin la piept. El depuse una din garăfi pe masă, înaintea oaspetelui, împreună cu un pahar.</p>
+<p>Străinul turna, și după ce bea întâiul pahar:</p>
+<p>—Pe sufletul meu, zise el, punând cu greutate paharul său pe masă, și făcând din sprâncene un semnu de aprobare; iată un vin destul de al dracului!</p>
+<p>—De aceea și eu, îl păstrez numai pentru cunoscători, răspunse crășmarul, aruncând o privire însetată asupra garafei. Eu nu stric orzul pe gâște! adause el frecându-și mâinile.</p>
+<p>Codrat pe care lectorii, l-a găsit fără îndoială, în necunoscuta călătorie, ceru un al doilea pahar, ce-l oferi moșului Iftime, în a cărui gâtlej, din o singură înghițitură, despărți tot vinul.</p>
+<p>Ochii crâșmarului strălucise sub pleoapele lor, si pe când limba lui pocnea într-un chip satisfăcător, mâna lui, apucase ca prin farmec garafa, și un al doilea pahar merse după cel dintâi.</p>
+<p>—Bunul cugeta Codrat. La garafa dintâi începe a fi obraznic, la a doua va vorbi. Știi una, adause el tare, moș. .. Cum te cheamă ?</p>
+<p>—Moșul Iftime! după cum mă numescu ștengarii din sat.</p>
+<p>—Ei bine! moșu Iftime; relua Codrat cu intențiune. Află că vinul D-tale, e minunat, și eu când dau peste asemenea miere, nu mă despărțesc cu una cu două de ea!</p>
+<p>—Și bine faci, fiul meu, foarte bine! Știi vorba aia: băutura este ce este, mâncarea-i o fudulie!</p>
+<p>—Bravo! moșu Iftime, văzu că suntem vrednici a ne înțelege. Și pe legea mea! fiindcă vremea e așa de urâtă afară, încăt umezeala ei pătrunde tocmai aic; n-amu face rău să-i punem o stavilă, închzând ușile și obloanele, pentru ca să putem petrece în liniște, cu garafele ce ne așteaptă.</p>
+<p>—Cum nu, puiule! cum nu! răspunse Iftime puțin încălzit.</p>
+<p>Într-o secundă, uși, obloane totul fuse închise, și băutorii reluase locul lor lăngă masă, și între garăfi.</p>
+<p>—Și acuma în sănătatea dumitale unchiule! strigă Codratu care turnase vin în ambele pahare.</p>
+<p>A doua garafă însoți pe cea dintâi la pământ. Grosul crâșmar, se aburi din ce in ce mai binișor. Codrat crezi că este momentul, a veni la faptă.</p>
+<p>—Uite, zise el deodată, ce vrea să zică, a avea cineva asemenea tovarăș! Eram în stare să-mi uit și treburile, pentru care am venit aici.</p>
+<p>—Trebi, dar cine n-are trebi? striga Iftime agitându-se cumplit pe scaunul lui. Lasă la pustie, asemenea gânduri! n-ai grijă, va veni și vremea lor, mâine dimineață.</p>
+<p>—Așa este, moș Iftime; dar vezi eu sunt străin pe aceste locuri, și dacă până într-un ceas, nu afli ceea ce-mi trebuie, voi fi nevoit să plec chiar în astă noapte.</p>
+<p>—Mări ce spui! exclamă bietul crâșmar, amenințat în slăbiciunea lui. Și ce dracu vrei să aflăm, pentru ca să nu te duci?</p>
+<p>—Pe cineva ca să aibă lână de vânzare, răspunse Codrat care privea cu mulțumire, efectul planului său.</p>
+<p>—Lână de vânzare? ha! ha! ha! m-am pricopsit!! Pe cineva zici? cănd ești în satul de lână, o doamne! o sută dacă vrei, stiglețul moșului, o sută întreagă și peste cap încă!</p>
+<p>— Nu tocmai așa  mulți, galatonule! răspunse Codrat tot pe tonul de glumă, în care intrase compania lui. Nu știi ce-i zice popa la biserică: mulți chemați puțini aleși! Așa dar, mic îmi trebuie un negustor de lână din cei mai însemnați.</p>
+<p>—Dacă e așa, tocmai am unul.</p>
+<p>—Și cine e acela? </p>
+<p>—Iacov Sulin! răspunse Iftime cu aerul cel mai liniștit din lume, pe când oaspetele lui, luă un viu interes la aceste cuvinte.</p>
+<p>—Și acest Iacov Sulin?...</p>
+<p>—Este vestit negustor de lănuri! întrerupse crășmarul, care se grăbea să revină la ocupațiunea lor din garafă. Dar până una alta, să nu uităm paharele noastre.</p>
+<p>Codrat fu nevoit să împlinească pofta crâșmarului.</p>
+<p>—Dacă acest Iacov Sulin, reluă Codrat, este un negustor așa de mare, după cum spui, atunci mi-am găsit omul. Încă un pahar, adause el  cu viclenie, ce dracii! o asemenea slujbă merită răsplată. Ce să faci moș Iftime! dă, D-ta care ești negustor, știi cât prețuiesc câteodată timpul. Inchipuește-ți, că pentru a câștiga câteva parale, am venit  tocmai din Moldova; căci trebuie să știi, că sunt negustori de lână cu rădicata. Astfel, am toată dreptatea, dacă mă grăbesc să aflu, casa omului meu.</p>
+<p>Iftime ajunse în starea aceea, în care creierii învârtindu-se în cap, înfățișează vederii, toate lucrurile cu susul în jos. Astfel, vorbele lui Codrat, luau acum pentru dânsul un alt înțeles, cu totul contrar de cel adevărat.</p>
+<p>—Casa omului? hoț ce-mi ești!... și mai bine a femeii.</p>
+<p>—Ce femeie? nu te înțeleg! răspunse Codrat.</p>
+<p>—Taci ștrengarule! reluă Iftime, punând degetul lui gros pe gura lui Codrat. Ce găndești tu mă! că dacă sunt de cincizeci de ani, nu știu eu ce caută un flăcău la un om însurat? E fătul meu! adause el, cu un aer foarte patetic, răsturnându-se pe spate în scaunul lui. — E fătul meu! de căte ori când eram și eu ca tine, cătam lână de cumpărat pe la cei însurați, pănă ce le cântam:</p>
+<p>Frunză verde de sulcină, Pișcă-mă Frăsină!</p>
+<p>Ha! ha! ha! n-ai grijă știm noi de astea.</p>
+<p>In zadar Codrat încercă de mai multe ori, a aduce vorba iar la Iacov, pentru ca să poată în fine afla, dacă este acasă în acea seară sau nu; căci moșul Iftime, nu voia să creadă nici într-un chip, râzând necontenit, și frecându-și cu mâinile groșii lui genunchi.</p>
+<p>—Ce tot cânți, acolo? gaiță!zice el. Nu vinzi grădinarului castraveți verzi!</p>
+<p>—Dar, nu mă înțelegi omule, că am nevoie de acel negustor! relua Codrat cu o văzută contrarietate</p>
+<p>—Ba, cum să nu înțeleg, vulpe vicleană! Ți s-a uscat gâtlejul... bietul băiet! iaca aleargă moșii la pivniță! acuș te voi răcori eu!</p>
+<p>Și unind gluma cu fapta, Iftime se ridică șovăind, luă lumânarea de pe tejghea, se pogorî din nou în pivniță luând tot câte trei și patru scări deodată, și sprijinindu-se de zid.</p>
+<p>„Afurisit moșneag!” cugetă Codrat lovind furios cu pumnul în masă. Iată-l criță de ajuns, și vrea să mai bea. Nu va fi în stare să spună o vorbă, și eu am nevoie ca această bute să vorbească. Oricât ar umbla Simion, și chiar eu însumi, nu vom putea cunoaște împrejurările așa de sigur, ca unii ce nu putem intra în casa lui Iacov; cât așa pe dinafară..... Oricum! voi face pe acest bețiv să mă lămurească!</p>
+<p>Aceste cugetări, fu întrerupte de zgomotul ce făcea tovarășul său, care cânta în fundul pivniței:</p>
+<p>Răvăși... puică... Răvăși... dragă... De la... impara.. .tu!!!</p>
+<p>Glasul lui, ce era întrerupt la toată fraza, după cum urca scările, încetă cu desăvârșire, prin o zguduitură cumplită.</p>
+<p>—Atâta ar mai trebui, să-și spargă și capul, c-apoi s-a dus orice nădejde! cugeta Codrat sărind de pe scaun, și alergând la gura pivniței.</p>
+<p>Moșul Iftime scăpatase în adevăr o scară, care-i produse o mare contusiune. Dar pentru onoarea lui, ca să mărturisim, că nu căzuse. O cumpeneală cumplită, și el reînceptu iarăși drumul lui; astfel că, Codrat se găsi, față în față cu o tinichea de vin și cu sfeșnicul, pe care crășmarul cu multă îngrijere, le ducea înainte cu mâinile întinse, pe când corpul lui plecat îndărăpt, se izbea, când de-o latură, când de alta a pivniței.</p>
+<p>— Aici mi-ai fost, huhurezule! exclamă el văzând pe Codrat la gura pivniței ....</p>
+<p>Răvăși... Puică...</p>
+<p>Răvăși......</p>
+<p>Știam eu, că ai să-mi ieși înainte, nerăbdătorule! adause el punând pe masă vinul și lumânarea. Îți arde gâtul, hai!</p>
+<p>—Nu tocmai asta, moș Iftime! răspunse Codrat cu intențiune, prefăcându-se pentru plecare. Veneam să-ți plătesc, și să-mi iau seara bună de la D-ta.</p>
+<p>—Mări ce spui, ei lasă gluma la o parte! zise Iftime cătând pe un scaun, obosit.</p>
+<p>—Nu glumesc deloc, reluă Codrat. Curând socoteala, n-am vreme de pierdut.</p>
+<p>—Și unde vrei să te duci, amorașul meu? întrebă crășmarul, care nu voia să se despartă de tovarășul lui, pe cât timp n-ai avea simțirea, care nu putea să întârzie a-l părăsi.</p>
+<p>Mă duc la negustorul cu lâna, răspunse Codrat cu un ton sec.</p>
+<p>-La lacov ?</p>
+<p>—Tocmai.</p>
+<p>—Și pentru ce nu? intrebă Codrat care astă dată se așezase pe scaun, în fața bătrânului, din a cărui gură, urmă să iasă moartea sau viața lui.</p>
+<p>—Pentru că nu-i acasă, răspunse Iftime.</p>
+<p>—Nu-i acasă? vorbă să fie! relua Codrat, care voia să sondeze pănă în fund.</p>
+<p>—Să n-am parte de femeia mea! dacă nu-ți spun drept.</p>
+<p>—-Frumos jurământ, n-am ce zice! Apoi, în cea din urmă, ce-mi pasă! voi găsi pe femeia lui!... voi găsi eu pe cineva în sfârșit.</p>
+<p>—Ba nu-i găsi nici mata! striga Iftime, turnându-și un pahar de vin; nici la dânsul nici la alții, nici în tot satul, mă auzi? Este joc în sat, și romanii se strâng la joc, ca vrăbiile la mălai.</p>
+<p>—Este joc, și unde?</p>
+<p>—La jupân Iordachi, pentru ziua fiicei lui; răspunse Iftime deșertând paharul pe gât.</p>
+<p>—Toate aceste le spui, pentru ca să mai șed; relua Codrat, în a cărui ochi sticlea mulțumirea.</p>
+<p>—Dacă nu me crezi, deschide ușa, și vezi că tot satul e întunecos ca un mormânt, la a cărui căpătăie, ard două candele, astă din dugheana mea, și acea de la jupănu Iord,...</p>
+<p>Iftime, care se luptase cu bărbăție, contra amețelii ce-l învăluia, nu putu rezista astă dată; un nour negru trecu pe dinaintea ochilor lui, obiectele în jurul lui se învârteau, și cumpănindu-se, in dreapta și in stânga de vreo câteva ori, în care capul lui, asemenea unui ciocan se bătea de masă, sfârși în cele din urmă, a cădea pe spate fără simțire.</p>
+<p>Codrat, deși la intrarea lui în sat, observase liniștea ce domnea, dar ca toate spiritele ce se luptă cu îndoiala, căta a străbate pănă în fundul lucrului. Deci, puțin îngrijitu de pozițiunea tragică a companiei sale, se scula de lăngă masă, deschise ușa crâșmei și afunda privirea lui în tenebrul ce se desfășură înainte-i.</p>
+<p>Pe când stă absorbit în această ocupațiune, un șuier ce venea din partea stângă, îl face să tresară. Codrat întinse urechea; un al doilea șuier se repetă, apoi în fine un al treilea, mai prelungit și mai lămurit, hotărî plecarea lui Codrat, care intrând în crâșmă, puse pe masă o rublă, luă mantaua de pe scaun, o arunca pe umerii lui, și într-un moment fi pe cal, care luă drumul indicat de șuier.</p>
+<p>La răspintinea din piața satului, Codrat găsi pe Simion, care învelit într-o manta mare, cu gluga în cap, așteptă pe cal venirea fratelui său.</p>
+<p>—Ce veste? intrebă acesta din urmă.</p>
+<p>—Ce să fie alta, decât întuneric peste tot locul, răspunse Simion cu un ton posomorât. Am umblat de jur împrejurul gardului, în a cărui șanțuri nu era departe să-mi rupă gâtul eu și calul, fără să văd macar zare de lumină.</p>
+<p>—Prea bine, prea bine! răspunse Codrat, frecându-și mâinile.</p>
+<p>—Așa de bine, relua Simion și mai posomorât, că pe lăngă întunericul de acum, mai vine și ploaia. Și încă ce ploaie! ba încă și fulgere, dacă poftești!</p>
+<p>Și in adevăr ploaia începu a cădea! eu putere, după care fulgerele și trăsnetele, asociindu-se cu furtuna, făceau o adevărată vijelie.</p>
+<p>—Și încă mai cărtesci, nemulțumitorule! replică Codrat. Dar nu vezi tu, ei asta e tocmai ce ne trebuie nouă? Aide spăriosule, adăugă, el, lovind cu palma pe umanii lui Simion, aide la lucru!</p>
+<p>Simion, cam de voie cam de nevoie, urmă fratelui său, și după câteva momente, se găsiră amândoi lângă gardul casei lui Iacov, in partea din dos. Aici, fără a descălica, prinse mai întâi caii cu frâurile lor, de coama spinoasă a gardului, se sculase în picioare, pe șeile cailor și putură astfel sări gardul, care în partea dinafară, era foarte înalt.</p>
+<p>Un sfert de oră mai în urmă, Simion apără cel dintâi pe coama gardului, de pe care se aruncă pe cal; apoi mai îndată, Codrat la rândul lui, urcă gardul, în a cărui spiniș se opri drept în picioare, întinzând lui Simion unu ce care tind in brațul stâng și după care sări și el pe șa.</p>
+<p>Acel ceva, care Codrat întinsese fratelui său Simion, pănă ce va sări gardul, dar pe care-l reluă, din momentul ce se văzu pe cal, nu era altă, decât mica Elena, care fusese atât de crud răpită, din culcușul ei, pe când furtuna deschisese fereastra de la odaia sa.</p>
+    <p>(Urmare în numărul viitor).</p>
+    <p>Em. Arghiropol</p>
+    </div>
+</div>
+            <div type="part" n="4">
+<p>C 0 N D A M N A T A.</p>
+<p>(Urmare).</p>
+<div type="section"  n="6">
+<p>VI.</p>
+<p>Providența nu doarme.</p>
+<p>Lectorii noștri ne vor ierta, întorsătura ce am fost siliți a face în capitolul trecut, numai pentru a ne pune iarăși pe urmele fraților Salin, mai înainte de a-i părăsi pentru totdeauna.</p>
+<p>Astfel după cum am văzut copila fu răpită. Pentru astă dată Codrat era mulțumit, simțind prada lui, găfuindă și tremurând sub brațul său. El era în așa de bune disposiții, oi putem zice, un fel de simțire omenească, amestecată cu milă, pentru prima oară se deșteptă în el; și pentru a dovedi că este, și el om, îndată ce se văzu afară din sat, se grăbi a face toate chipurile, pentru ca copila să fie cruțată de strunei, și adăpostită de ploaia ce urma a cădea în torente.</p>
+<p>Una din poalele largii măntălii de care era acoperită, fu trase în mai multe pături pe șa dinainte, undo așeza pe copilă, și în cealaltă poală a mantalei o acoperi deasupra, cu atăta îngrijire, încât văzându-l cineva, l-ar fi luat drept cel mai duios tată. Cu toate aceste, nu trebuie să ne-ncredem niciodată, în asemenea sentimente momentane, căci ele nu sunt decăt o fiere mai mult ce varsă călăul asupra victimii lui; nu de milă dar de plăcerea sălbatică ce gustă în acel moment, având-o sub puterea lui! Tocmai ca și lena care înainte de a sfâșia, se desfatează jucând victima între lăbile ei.</p>
+<p>— Așa, zise el cu mulțumire, cel puțin, ea nu se va plănge, că nu-i sunt un moș buuun!</p>
+<p>Apoi, amândoi frații, reluând frâul cailor, plecară la trap spre tărgușorul Sculeni. În tot cursul drumului, nu se schimbară, decât prea puține vorbe care nefiind, nici de un interes pentru istoria noastră, vom trece alăturea cu ele spre a merge de-a dreptul la faptă.</p>
+<p>Cucoșul vestise miezul nopții, când ambii drumeți atinse malul Prutului. Aici Codrat voia să apuce de-alungul cotitura râului, spre a se opri cât se poate mai departe de târgul Sculeni; dar Simion, protestând din toate puterile lui, opri pe fratele său, în fața luncii ce vine de astă parte a pârâului.</p>
+<p>— Ascultă Codrat, zise el, ținând de căpăstrul calului: Eu m-am supus la toate voințele tale cât a ținut interesul tău, acum a venit și vinciul interesului meu. Ai sfârșit pe al  tău furând copila, lasă-mă să împlinesc și eu pe al  meu scăpând-o? Mi se pare că așa ne-a fost tocmeala?</p>
+<p>— Ei bine! și ce vrei tu să faci?</p>
+<p>— Vreau să-mi dai copila în mâinile mele; răspunse Simion lăsând de căpăstru, și vârând mâna sub mantaua fratelui său. Voi trece prutul cu dânsa, și voi pune-o pe celalalt mal, cole-aproape de târg, pe unde va trece poate vreun creștin să o ia; iar nu s-o duce în fundul pustiului, unde s-o mănânce fiarele precum vrei D-neata!</p>
+<p>— Fie și așa! răspunse Codrat, trecând cu mare indiferență copila, din brațele lui în acele a fratelui său.</p>
+<p>După un sfert de oră, pe când sărmana mititică, gemând tremura de frig, pe un pământ plin de apă, și sub streițele ei multe; Codrat și Simion se făcea nevăzuți de acea parte a prutului, în tocmai ca două puncte negre și ne-nțelese.</p>
+<p>Copila rămase în această stare, pănă spre ziuă, când trecând pe acolo niște cărăuși, li se făcu milă de dânsa și o luară in carele lor.</p>
+<p>Orfană străină și fără niciun protector, Elena era pentru a doua oară în acea poziție, în care se găsește tot omul la nașterea lui, fără se ști unde merge și ce soartă se pregătește lui. Ce vor face acești oameni cu dânsa? Care-i soarta ce-i pregătesc? Iată un lucru la care nimeni nu va ști a răspunde. Și cu toate aceste, de aici atârnă toată viața ei pe viitor!</p>
+<p>Providența care nu doarme, va regula aceasta după maniera ei.</p>
+<p>Chiar în acea zi, Elena fu aruncată pe străzile Iassilor, în voia soartei, de către cei trei cărăuși ce o adusese la târg împreună cu marfa lor.</p>
+<p>Copila supusă încă spaimei și inghețului, din noaptea trecută; gemea la răspintenea din târgul Cucului, unde în privirea mulțimei ce furnică pe acolo, cărăușii găsiră mai potrivit să o lase.</p>
+<p>Dumnezeul meu! cine nu tresare auzind un gemet? Această expresiune dureroasă a omului, este o chemare la milă! ce inimă nu bate la glasul ei? Ce suflet nu se mișcă, cine poate fi atât de nesimțitor! încât să refuze ajutorul său?</p>
+<p>Cu toate aceste, trecătorii veneau și se duceau, din toate părțile; orele se strecurau cu obișnuita lor repeziciune; scara vine; lumea începe a se rări pe străzi, și Elena rămăne tot în colțul în care a fost pusă, amenințată a pieri de foame, în mijlocul unui oraș atât de mare, și in mijlocul unei mulțimi ce părea atât de îmbelșugată și veselă!</p>
+<p> Zece ore sună la Catedrala Sfintei Mitropolii, vibrarea celei din urmă lovituri a ciocanului nu se-mprăștiase încă bine în aer, cănd niste pași greoi și rari răsunară în strada vecină, apoi mai îndată apăru la colțul ei, un om cu un felinar în mână. Judecănd după cât se putea vedea la slaba lumină ce arunca felinarul, și după pestelca sucită in jurul taliei lui, trebuia să fie vreun brânzar sau casapii întărziat, și care se-ntorcea acasă liniștit, ținând cu o mână felinarul, și cu cealaltă un băț gros de corn, al cărui capăt țintuit, răsuna pe pietre regulate la fiece pas. El înainta, și acuma bolțul lui ridicat în sus, ; urma să lovească din nou paveaua după o tactica cunoscută, când pentru mirarea negustorului, a cărui urechi erau deprinse ! cu ciocnitura hâțului, astă dată nu auzi niciun ton. Cercetă care e cauza și descoperi vârful bățului său, încurcat în zdrențile unei copile ce zăcea pe trotuar.</p>
+<p>— Biata copilă! zise el descurcănd bățul său. Iată ceva, care face cinste bogaților! adause el posomorât, punând un gologan pe brațele nenorocitei, și luăndu-și drumul lui.</p>
+<p>— Of!!!</p>
+<p>Pașii bietului omu fu pironiți în loc, la această sfașietoare strigare.</p>
+<p>— Așa dar, ea nu este o sărmană, de acele ce se-ntălnște la tot pasul, murmură el stând la gânduri. Trebuie să fie alt soi de nenorocită, adause revenind către copilă. Drăguțe, zise el clătinând cu bunătate pe nenorocita amorțită, ce faci tu aicea pe vremea asta? Cine te-a adus aici?</p>
+<p>Suspine înecate în lacrimi, fu tot răspunsul.</p>
+<p>— De sigur această nenorocită, o lepădată de părinții ei; se gândi neguțitorul, asta s-au mai văzut, nu-i pentru întâia dată. Oricum ar fi! Dumnezeu o pune în calea mea, și un bun creștin nu trebuie să treacă alăturea cu nenorocirea altuia, fără să-i dea ajutor pe cât poate. În cele din urmă, Rucsanda nu se va supăra de urmarea mea. Avem un băiat, vom avea și o fată, cată totu!</p>
+<p>Acestea cugetând, bunul creștin se plecă către copilă și luând-o în brațe, porni cătră casa lui.</p>
+<p>Înainte de a intra în proprietatea omului nostru, se cuvine a o descrie puțin, și de a face cunoscute persoanele ce locuiesc în ea.</p>
+<p>După ce treci podul de piatră, și urci ! dealul ce îi în față, apoi te găsești pe locul cel mai de seamă a Tătărașilor. Numeroase grădini și livezi, răspăndesc în aer un miros plin de viață. În miijlocul unui asemenea rai, se găsește o căsuță, acoperită cu scânduri ce e drept, însă de o curățenie atrăgătoare. Patru odăi albe ca crinul, și despărțite prin mijloc de o șcliță, formează tot cuprinsul acestui locaș vesel.</p>
+<p>Stăpânul casei, jupănul Agapi, ocupă toate partea stângă a casei cu familia lui, în care afară de dânsul, se numără femeia lui Rucsanda, și un băiețel ca de vreo 6 ani. Restul casei, adică cele două odăi din dreapta, sunt inchiriate unui butnariu anume Ion, om ca de patruzeci ani, dar care conservase încă toată vigoarea unui om ce s-a bucurat de o bună sănătate. Chiriașul jupănului Agapi, era un omu atât de bun, incăt se considera ca din familie, și nu-i zicea altfel decât moșul Ion.</p>
+<p>Îndată ce înopta, toată casa proprietaru și chirigiu, ieșeau la portița de la uliță; și treceau seara în vorbe cu alți vecini, până ce sosea jupânul Agapi, care totdeauna o așteptat cu cina de seară. -</p>
+<p>Pe o prispă la dreapta, ședea Rucsanda cu mai multe vecine la vorbă; pe prispa din stânga ședea moșul Ion între genunchile căruia picura de somn, băiețelul Andrei.</p>
+<p>— Bate vântul din sus, dar s-arată a ploua; Zise una din femei căscând. Ce găndești despre asta, jupâne Ioane? adause ea frecându-se la ochi, și adresându-se către butnariu.</p>
+<p>— Nu greșești deloc, răspunse acesta; tot sfertul aista, are să treacă numai în ploi.</p>
+<p>— Păcătu-i mare! zise o nevăstuică tânără; nu vom putea merge la scrinciob.</p>
+<p>— Și cu chipul aista, nu vom juca, adause o alta mai sprintenă.</p>
+<p>— N-aveți grijă, este vreme și pentru joc; replică mai cu statornicie, Rucsanda, sanatate de ar fi! abia suntem la 1 Mai. Dar Dumnezeu să mă ierte, adause ea deodată, mi se pare că aud pe cineva gemând.</p>
+<p>În adevăr, un gemăt slab și plăngător, se auzise de toți cei de față, care se sculase în picioare cătându din care parte vine acea plângere. Toate gândurile se opriră, toate piepturile reținură suflarea lor pentru un moment. Și când un al doilea gemăt se auzi, toți deodată se aruncară în uliță. Rucsanda fu cea dintâi, care dădu piept cu bărbatul ei, din a cărui brațe, luând pe mica  Elenă, o duse în casă, urmată de toate  femeile prezente.</p>
+<p>Cine nu cunoaște bunătatea femeilor în  general, și mai cu seamă a femeilor din popor, când e vorba de orice ființă nenorocită și părăsită. Astfel pe când Agapi, istorisea întâmplarea acestui angel găsit, femeile se grămădeau împrejurul lui, scoțând felurite exclamațiuni de durere și de milă. Rucsanda plângea cu  lacrimi fierbinți; strângea la pieptul ei pe sărmana creatură leșinată; îi încălzea cu suflarea ei micele mănuțe învinețite; ii punea picioarele la gura cuptorului. Celelalte femei alergau în dreapta și în stânga ca se dea ajutor gazdei: una făcea vin fiert cu piper și zahar; alta aduce streițe pentru schimbat, și sărmana copila renăștea sub puterea astor părintești îngrijiri. Vinul fiert cu piper și zahăr, dădu sângelui o circulațiune iute; in fine copila deschise ochii, se uită cu frică împrejurul ei; apoi năbușind în lacrimi, lăsa capul pe sânul Rucsandei, chemându pe muma ei.</p>
+<p>Cu toate măngăierile acestor buni oameni, ei nu putură alina țipetele și durerea nenorocitei copile, a cărei  mumă nu răspunde la chemarea ei; nimic nu putea face să despară acea frică cei pricinuia figurile străine de care era înconjurată; acest rezultat fu dobândit de micul Andrei. Încet căte încet, el se apropiase de Elena, îi dădu o acadea și începu a o mângâia și el la rândul lui. Copila deschise niște ochi mari verzi, și pironindu-i asupra celui ce-i aduce o măngăiere atăt de dulce, și atăt de nevinovată, lacrimile ei se uscară, și surâsul coloră buzele ei pănă atunci, vinete și încrețite de spaimă și de durere. Veselia străluci îndată pe figurile tuturora.</p>
+<p>— Cum te numești? întrebă Rucsanda pe copilă.</p>
+<p>— Elenuța, răspunse ea.</p>
+<p>Apoi prin felurite întrebări, cercară, să afle împrejurările care, încunjurase pe această mică creatură. Ea spuse că, părinții săi, Iacov și Maria o iubeau foarte mult; că în noaptea trecută, pe cănd aceștia nu erau acasă, și pe când ea dormea cu baba Paraschiva, au venit două rudenii a lor, Codrat, și Simion, care au luat-o pe cal, și au lepadat-o într-o pădure, aproape de un iaz. Din toate aceste se conchise că, la mijloc trebuie să fie vreo crimă, a cărei victimă era fata; dar nu se putu afla alte amerunțiuni, care iar fi pus pe urmele părinților, și apoi pe acele a făptuitorilor. Copila, nu știa nici numele satului în care trăiau ei, nici locurile pe unde a fost aduse.</p>
+<p>—Și ce gândești să faci cumătră, cu această copilă? întrebă una din femei, după ce ascultase pe fată in explicațiunile ei.</p>
+<p>— Ce voi face? Zise buna femeie; voi ține-o cu mine, și voi crește-o, întocmai ca pe copilul meu. Nu vedeți voi, că această copilă fără părinți, și muritoare de foame, este trimisă de bunul Dumnezeu? A-și putea eu rămâne surdă la plângerile ei? Dumnezeu n-ar ierta una c-asta niciodată și luând copila în brațele ei. Nu mai plânge copila mea; nu! căci de astăzi înainte, vei avea o mamă, și această mamă voi fi eu.</p>
+<p>— Bine faci! bine faci Rucsandă! strigă cu bucurie Agapi, știam eu că, strângând această mititică de pe uliți, o aduceam la mama ei.</p>
+</div>
+<div type="section"  n="7">
+<p>VII. După 18 aui.</p>
+<p>Optsprezece ani se strecurase; în optsprezece ani se facu la oameni atătea prefaceri, încăt abia dacă se mai cunoscu. Odată ca ieșim din anii copilăriei și intrăm in marele ocean al vieții, toate bucuriile, precum și supărările noastre de altă dată, dispar cu trecutul, către care, nu putem a ne întoarce decât, pe aripile viselor noastre!</p>
+<p>Sărmana părăsită care găsise scaparea ei în casa bunului Agapi, devenise acum o fetiță frumușică, care număra douăzeci și trei ani. Ea fusese crescută cu atâta iubire, de către Rucsanda, încăt toată nenorocirea ei, pierise ca și cum nu ar fi mai fost.</p>
+<p>Sufletul ei delicata simțe, cu toate acestea, recunoștința ce datora acestei familii care o crescuse din milă și iubire, care o acoperi de bine faceri și din toată inima. Ea purtă pentru bunul Agapi respectul cel mai adânc, iubirea cea mai devotată pentru excelenta Rucsandă; ar fi ridicat un altar pentru cel dintâi, și ar fi pus pe cea de a doua la inima ei, ca pe un talisman. Un singur sentiment putea pune în cumpănă pe acel ce mărturisea părintelor ei adoptivi: eră amorul profund ce simțea pentru frumosul Andrei, fiul lui Agapi. Acesta din parte-i, iubea pe Elena cu tot amorul de care este capabil un bărbat, la vârsta de douăzeci și patru ani.</p>
+<p>Agapi, care din felurite împrejurări, acuma nu mai era negustor, petrecea zilele lui lăngă buna Rucsandă, în cea mai desăvârșită mulțumire. Ion Butnariu, tot urmă a fi chiriașul celor două odăi din dreapta: moșul Ion, după cum îl numeau, de asemenea trăi tot pe lăngă case, îndeletnicindu-se cu meseria lui de butnar și mergând din cănd in cănd, la via lui din podgoria Șorogari, in care Andrei ca unul ce o luase pe seama lui, muncea, cu multă sirguință, pentru întreținerea familiei, care nu mai avea altă avere, decăt brațele lui cele puternice.</p>
+<p>Erau zile cu toate aceste, în care dulcea armonie care domnea în această locuință nu cruția tocmai cu desăvârșire liniștea sufletului Rucsandei. Aceasta vine de la vecinele ei, și mai cu seamă de la una ce se numea Anica, și care era se vede din rasa acelor oameni care se amestecă în toate. Ele ziceau că Andrei și cu Elena se iubeau, și că dacă originea acestei dragoste n-avea dată, tot așa nu se poate ști nici sfârșitul ei.</p>
+<p>— Ei bine, zise într-o zi Rucsanda, ce rău iese de aici?</p>
+<p>— Încă mai întrebi replica femeia Anica sărind în picioare. Dar bine n-ai tu rușine! e seama să nu dea jupânul Agapi pe fiul tău, după o fată găsită pe uliță</p>
+<p>— Elena e așa de bună! e una din gospodinele cele mai alese; ea singură îngrijește de toată casa; frumos ar fi din partea noastră ca să o respingem ?</p>
+<p>— Mă duc să nu te mai aud, strigă Anica cu nerăbdare. N-ai făcut tu destul pentru dânsa? Ceea ce face, nu este ea datoare se facă?</p>
+<p>Această convorbire pricinuise bietei femei o adâncă mâhnire. Ea petrece nopțile fără să doarmă; rugând pe D-zeu,  să facă cum va ști mai bine, căci din partea ei n-avea altceva de făcut. Ea nu voia să spună nimic bărbatului ei, despre asemenea lucruri, care l-ar fi jignit până la suflet.</p>
+<p>Dar, ceea ce nu putea face Rucsanda cu caracterul ei timid, se-nsărcină din propria lui inițiativă, moșului Ioan Butnariu. El care se interesa foarte mult de soarta acestor doi copii, nu scapa din vedere împrejurările ce se petreceau, atât în lăuntru cât și în afară de casă. El știa că Andrei și Elena se iubeau; că femeile din vecinătate fidele străbunii lor Eva, nu-nceta de a strica capul bieților părinți; el știe în fine că Agapi deși fundamental bun însă avea și slăbăciunile lui.</p>
+<p>Astfel într-o dimineață din luna lui Martie, pe când Andrei și cu Elena erau duși la vie pentru lucru, Ioan intră la proprietarii lui pe care-i găsi singuri.</p>
+<p>— Buna dimineața vecinilor; zise el punându-se jos.</p>
+<p>— Și d-tale asemenea, moș Ioane; răspunse Rucsanda.</p>
+<p>După schimbarea mai multor vorbe, despre alte interese, apoi credincios promisiunii ce-și făcuse, Ioan puse tot zelul oamenilor buni, pentru a veni la afacerea lui, și-ndată se-ncinse convorbirea următoare între ei:</p>
+<p>— Nu gândiți c-ar fi bine să-nsurați copii vostri? zise el.</p>
+<p>— Ce fel să-i însurăm ? ce-nsemnează asta?</p>
+<p>— Nimic, decât aceea ce-am spus, jupăne Agapi.</p>
+<p>— De vreme ce d-ta știi ca și mine, că asta nu se poate; reluă Agapi, nemulțumit de fața ce lua convorbirea, pentru ce te-ai mai osteni în zadar?</p>
+<p>—Dar bine pentru ce nu vrei? Sunt lucruri curate ca ziua. Ce ai tu de zis contra Elenei, care este un giuvaier de fată, dacă nu că este bastardă?</p>
+<p>— Mă ferească D-zeu! nu zic asta.</p>
+<p>— Asta se vede cu toate acestea, poftești o noră de familie, care să aibă zestre. Dar ficioru tău, ce are mă rog?</p>
+<p>— Are un nume, răspunse cu mândrie Agapi. Apoi, tocmai pentru că Andrei e sărac, trebuie să ia o fată cu ceva zestre. Și dacă-i gândi bine, trebuie să-mi dai dreptate moș Ioane.</p>
+<p>— E la dracu! toată lumea are dreptate, n-auzi un om de zare care să nu pretindă această dreptate, care umblă pe toate ulițile. Dar vreau să-ți spun, Agapi, că Elena e cea mai bună fată și că nu vei găsi așa ușor o noră ca dânsa.</p>
+<p>—Este adevărat, Elena va fi o bună soție, pentru acel căruia va da-o D-zeu. Eu o iubesc ca pe însuși copilul meu; dar pentru cuvintele ce ți-am spus, nu pot s-o mărit cu Andrei.</p>
+<p>—Aide, omule, lasă îndărăptnicia ta la o parte, și ia aminte că hulubașii sunt amorezați. Ce leac găsești tu la asta?</p>
+<p>— De unde știi asta? Nu se poate.</p>
+<p>— Ce-ți spun eu, Agapi. Și ar trebui să găndești că, dacă te vei împotrivi la căsătoria lor, ai să-i faci nenorociți, sau ai să-i aduci la aceia ca să nu te asculte.</p>
+<p>— Cât despre asta nu. Elena și Andrei nu vor calea voința părinților niciodată!</p>
+<p>-Ce se potrivește! s-au dus vremile acele, prietenul meu, zise Ion zâmbind.</p>
+<p>— Ascultă Agapi! zise Ruxanda, care fiind cu totul pentru protejata ei, găsi de cuviință a se amesteca și ea-n vorbă; ascultă amicul meu, dacă copiii se iubesc, pentru ce am fi noi așa de asprii cu dânșii!</p>
+<p>—Vezi bine pentru ce mă rog ! adause Ion simțiridu-se mai tare prin ajutorul neașteptat al Ruxandei.</p>
+<p>— Pentru că!.... trebuie să-mi mai iau de seamă, vom vedea... mai este vreme; răspunse cu îngăimeală, bietul Agapi, care se simțe aproape învins.</p>
+<p>— Negreșită vreme este; dar trebuie să hotărâm într-un fel, reluă cu stăruință Ion. Pentru capete sure c-a noastre, e foarte lesne a zice: este vreme... vom vedea!... Dar vezi, tinerețea n-așteaptă.</p>
+<p>— Dacă e așa! fiindcă o voiți numai decăt, și ca să nu mă mustre cugetul mai târziu, faceți ce vreți, numai eu să nu mă amestec!</p>
+<p>— Bunule Agapi! zice cu bucurie Ion; vino să te sărut, în numele copiilor tăi, care de asemenea sunt și ai mei, fiind că nu am altă nimica mai scump pe lume, decât pe dânșii.</p>
+<p>— Ți-aduci aminte Agapi, zise la rândul ei buna Rucsanda; in ziua când mi-ai adus pe Elena tremurând și istovită de foame, cănd am zis că voi fi muma ei; tu, plin de bucurie strigai: bine faci Rucsandă, foarte bine! Astfel astăzi, bine cuvântându-te, și eu pe tine, zic: e foarte bine și frumos ceea ce faci Agapi!</p>
+<p>— Pănă una alta, feții mei, zise Ion punându măna pe ușă, alerg la vie, să vestescu bulibașilor mei, că nunta lor va avea loc după Paște.</p>
+<p>— E! da pripit mai ești, moș Ioane! strigă Agapi, aruncându-se pe ușă afară după butnariu. Ce dracu! stai să ne înțelegem?</p>
+<p>Însă în zadar toate, căci Ion fără să mai piardă vreme, își înhămase calul la căruța lui și urcăndu-se într-ănsa, ieși pe poartă, răspunzând cu râsul lui Agapi.</p>
+<p>— După Paști, în luna lui April, voi fi nun mare! Ne-am ințeles.</p>
+    <p>(Urmare în numărul viitor).</p>
+    <p>Em. Arghiropol</p>
+</div>
+            </div>
+<div ana="part" n="5">
+<p>CONDAMNATA.</p>
+<p>(Urmare)</p>
+<div type="section"  n="8">
+<p>VIII</p>
+<p>Visuri de fericire.</p>
+<p>In vreme ce Ioan Butnariu întrebuința silințile lui lângă bunul Agapi, atât de ușor învins; Andrei și Elena, nu erau mai puțin încurcați în singurătatea lor de la vie. Era mult timp de când, prin otăculă și comună dorințe, ei simțeau necesitatea unei asemenea singurătăți.</p>
+<p>Un amant are totdeauna, atătea lucruri se spună iubitei lui!... Amanta pe de altă parte, simte atăta trebuințe a le ascultai.... Încât la sosirea momentului așa de mult dorit, atunci cănd se găsescu unul lăngă altul, fără martori, departe de acea lume rece și nepăsătoare, cănd nimic nu se mai opune fericirii lor; tocmai atunci turburarea, covârșește puterea inimii, și se văd mai intimidați în fața lor decât înaintea lumii întregi.</p>
+<p>Că Andrei și cu Elena se iubeau, asta se știa, sau cel puțin  simțea destul de lămurit. Însă ca toți fanții, aveau și ei îndoiala lor. În adevăr după o copilărie, 18 ani, după o viață unită sub îngrijirea acelorași părinți; e cu neputință a nu se lega cineva către ființa cu care a crescut însă la o vărstă oarecare, când simțirile încep a fi mai dezvoltate, și mai cu seamă când dorințe noi și ne-nvinse se repetă la tot momentul; cineva ajunge a nu se mulțumi cu așa de puțin, și inima deschisă cere a i se explica adevărata afecțiune: de ești acea unui frate către o soră, sau a amantului către amanta lui.</p>
+<p>Această îndoială, o boală adesea fără leac, trebuia numai decât, să se smulgă din inimile ambilor amoroși. Momentul venise, și cu toate aceste nici unul nu cuteza să-nceapă o pescuire așa de periculoasă ca acea a inimilor.</p>
+<p>Martie era pe la finile lui. Primăvara se simțea acum, circulând în toată astă atmosferă veselă ca și păsăruicile de pe crengi care serbau prin felurite cântice și ciripiri întoarcerea acestui plăcut anotimpu. Copii lui Agapi, după cum de ordinar li se zicea, urma să-nceapă la vie, sarcina încredințată lor. Deci ca in toți anii, venise și astă dată la desgropatul viei; osebire numai, că-n loc de a căta să lucrezi cât se poate mai aproape unul de altul, precum făceau altă dată, ei puneau toate silințile a lua fiecare o direcțiune opusă, ca și când ar fi voit să-nlătureze ceva, pentru care cu toate aceste ardeau de dorințe a se-ndeplini.</p>
+<p>Însă lucru ciudat, cu cât se fereau unul de altul, un instinct natural la vârsta lor, ii apropia și mai tare, astfel ca pe când se credeau prea din cale afară departe, deodată se găsiră față în față. O roșeață vie coloră figurile lor, și ochii intimidați, se plecară la pământ întocmai ca la doi vinovați surprinși.</p>
+<p>Oricum întămplarea nu putea fi decât minunată. Numai era de dat înapoi. Andrei înarmându-se cu tot curajul lui, se hotărî a da pe față simțirile ce-l preocupau. Și pentru îndeplinirea acestei hotărâri, alese de complice în cauză, un trandafiraș prefăcut ș-o basma albă ce cumpărase din târg încă din seara trecută.</p>
+<p>— Uite Eleno, zise el vârând mâna în sânul lui, uitam să-ți dau ceva. Ține, trandafirașul și basmaua asta.</p>
+<p>— Ce trandafir frumos!... zise Elena luând floarea din mâna lui Andrei.</p>
+<p>— Nu așa frumos ca tine; răspunse acesta însuflețindu-se.</p>
+<p>— Dar această basma, adaugă Elena; cât e de subțire!... Trebuie să fi ținând mulți bani acestea!</p>
+<p>— Nu atâta pe cât mi le plătești tu, găsindu-le frumoase.</p>
+<p>— În adevăr, ești tu atâta de mulțumit Andrei, de tot ce mă bucură pe mine? .....</p>
+<p>—Dacă sunt mulțumit, vezi-bine! pentru că nimic în lume n-am așa de scump ca pe Elena mea. ।</p>
+<p>— Și mai bine, ca pe sora ta; relua Elena roșindu-se și plecând ochii în  jos.</p>
+<p>— Ce fel! zise Andrei posomorând-se. După 18 ani de viețuire, în care o singură zi n-a trecut fără să-ți spun că te iubesc, am avut nenorocirea a nu-ți insufla decât o dragoste frățească!</p>
+<p>— Nu-nțeleg ce vrei să zici tu Andrei, răspunse Elena a cărei inimă se bătea cumplit; dar cum știu că te iubesc, atât de mult și în așa chip, că dacă nu te-aș  avea, aș muri de întristare.</p>
+<p>— O îți mulțumesc Eleno! răspunse Andrei beat de bucurie. Astă dată tu m-ai făcut, omul cel mai fericit din lume, căci m-ai scăpat de o îngrijire ce mă rodea la suflet. Și ca să serbăm această bucurie domnească, se cuvine să te gătești cu trandafirașul ce ț-am adus.</p>
+<p>Elena surâzând, îndeplini dorința amantului ei, și floarea luă locul în cosițele sale frumoase.</p>
+<p>— Așa! acum las să te privesc în voia mea; zise Andrei. Cât ești de frumoasă ! adaugă el așezând părul junei fete. Trandafirașul și frunțile lui verzi, vin așa de bine la o frunte albă și un păr castaniu ca al tău, încăt îți spun drept, sunt gelos de tine.</p>
+<p>— Dea D-zeu, c-această părere a ta să dureze totdeauna! Zise Elena cu sfială. Însă mă tem să nu vie o zi, în care să plângă amar această dragoste.</p>
+<p>— Și de ce te îndoiești tu!</p>
+<p>— Omul trebuie să se îndoiască de toate, mai ales o biată fată părăsită ca mine. Auzi dacă mă îndoiesc, nu este de inima ta, o cred pe nevinovata, pe buna, pentru a voi să-mi facă rău; dar mă îndoiesc și mă tem de împrejurările în care ne aflăm.</p>
+<p>— Ce vrei să zici tu, nu te-nțeleg?</p>
+<p>— Vreau să zic că, ești un băiet prea vrednic, pentru ca o nenorocită ca mine să poată nădăjdui fericirea de a te avea totdeauna. Tu poți lua o fată cât de frumoasă și cu zestre, pe când eu, nu voi putea duce în casa bărbatului decât sărăcia mea. Dacă tu, în focul de astăzi nu te găndești la asemenea lucruri, părinții tăi însă, le simți prea bine și fu încredințat, se vor sluji de ele.</p>
+<p>Elena pleca capul cu tristețe, Andrei care înțelegea unde loveau aceste vorbe, rămase mut deocamdată. Apoi, după o lungă gândire, luând de mănă pe iubita lui, se retrase încetișor către livadă. Acolo, între doi arbori bătrâni, a căror crengi formau o boltă pe deasupra ei se opriră.</p>
+<p>— Iată locul unde s-a petrecut, cea mai mare parte din copilăria noastră. Acești arbori care ne-au văzut crescând, care a luat parte la bucuriile, precum și ,la supărările noastre de altădată; acest trunchi al bătrânului stejar, ne care ne-nălțam până la cuiburile rândunelilor, a căror pui îți făceau atâta bucurie, toate aceste în sfârșit, vor fi și astă dată mărturii declarațiunii ce am să-ți fac.</p>
+<p>— Și faci foarte bine, alegând acest loc, întrerupse Elena, căci numai el mi se pare potrivita cu inima mea. Acești arbori sunt pentru mine mai mult decât ar fi doi prieteni vechi, și aflându-mă între ei, nu mi-i frică de nimic, adause ea zâmbind.</p>
+<p>- Nici grijă să n-ai! răspunse Andrei tot pe-același ton de glumă. Ești pre frumoasă pentru ca să-ți facă cineva rău.</p>
+<p>Cu toate aceste, Andrei se apropie mai mult de Elena; mâna lui cea stângă trecută pe după talia ei ș-o groasă sărutare răsună pe rumenii obraji ai junei fete, mai înainte c-aceasta să aibă timp a se smulge din brațele lui Andrei.</p>
+<p>— Ei bine, astfel m-asigurezi tu? întrebă Elena roșie de plăcere.</p>
+<p>— Iartă și tu această mișcare, ce n-am putut stăpâni, răspunse Andrei ținând încă pe Elena de talie. Vina ta e, adăuga el lipind o a doua sărutare mai înfocată, pentru ce ești așa de frumoasă? Apoi ne-am sărutat noi de-ajuns și altădată!</p>
+<p>— Se poate, însă atunci eram copii, când astăzi....</p>
+<p>— Astăzi, suntem bărbatul cu femeia; întrerupse iute Andrei. Căci tocmai asta urma să-ți spun. Vezând că dragostea noastră s-adauge din zi în zi și că anii curg mereu fără a ne aduce vreo prefacere: sunt vreo câteva zile, am zis moșului Ioan: pune la cale această treabă cu mama și tata, și încă cât se poate mai degrabă, ca să nu fiu silită a face el singur, și fără bine-cuvântarea lor. Atunci, moșul Ioan mi-au zis: luni te vei duce la vie cu Elena, și în lipsa voastră voi vorbi eu acestor părinți; și pe sufletul meu ii voi face să-nțeleagă, căci de unde nu, vă cunun eu pe răspunderea mea. Astfel moșul Ioan nu va întârzie să ne aducă răspunsul, care în amândouă cazurile nu poate fi decât bun pentru noi.</p>
+<p>— Ba dimpotrivă, relua Elena cu hotărâre, căci dacă mama Rucsanda și tătuca Agapi, nu se vor uni la căsătoria noastră, mai degrabă voi muri decât să primesc a fi femeia ta fără voia lor!</p>
+<p>— Ascultă, zise Andrei târând pe Elena lângă stejar și silind-o să șadă pe trunchi, să lăsăm la o parte asemenea vorbe, și să ne ocupăm de fericirea noastră pe viitor. Nu-i așa că mă iubești, și că n-ai putea trăi fără de mine?</p>
+<p>— O da! foarte sigur.</p>
+<p>— Tu vei fi femeia mea, relua Andrei netezind cu mâna palma Elenei. Vom urma ca și până acum a lucra împreună, vom ține pe tata și pe mama, și de prisos, în zile de sărbătoare vom merge câte la o petrecere... totdeauna împreună. .. Ce fericire!</p>
+<p>— Apăi dacă D-zeu ne va da copii, zise Elena cu frăgezime; îi vom pune numele Andrei, de va fi băiat....</p>
+<p> Și Elena, dacă va fi fată, adăugă Andrei întrerupând pe iubita lui.</p>
+<p>— Astfel, reluă Elena, nu vom avea nimic de dorit în lume, decât fericirea copiilor, și o viață îndelungată pentru noi.</p>
+<p>— Da. Și când zile de bătrânețe se vor fi grămădit, asupra capului nostru; atunci cănd capetele noastre sure, vor căta acest trecut pierdut, vor găsi urmele lui totdeauna, între acești doi arbori,  iar dacă prin voința celui de sus, va trebui să mor, mă vei îngropa aici, sub acest pămănt frămăntat de pașii tăi udat de lacrimile noastre încă din copilărie. Vei îndeplini dorința mea, nu-i așa?</p>
+<p>— Andrei, zise Elena cu lacrimile în ochi; pentru ce aceste idei negre, într-o zi așa de frumoasă ca astăzi?...</p>
+<p>— Pentru că după fericire vine și-ntristare, după viață și moarte!!!</p>
+</div>
+<div type="section"  n="9">
+<p>IX.</p>
+<p>Plecarea.</p>
+<p>— Cine vorbește acolo, de moarte? zise deodată o voce de după copaci. Andrei și Elena sări în picioare. Era Ioan Butnariu.</p>
+<p>— Voi erați? zise el apropiindu-se  de juni. Credeam c-aveți altceva mai bun de făcut, la vârsta voastră. Ce dracu! copii mei. Nu vorbește cineva de moarte, când abia e la-nceputul vieții — Dar nu, moș Ioane, asta nu era decât o glumă, zise Andrei.</p>
+<p>— Încă te mai lauzi, flăcău ce ești, relua Ioan apucănd pe Elena de mână,  și punând-o în fața lui Andrei. Apoi așa știi tu să glumești c-o fată frumoasă ca  Elena, de-o faci să verse lacrimi? E păcat să se piardă atâtea mărgăritare, și drept pedeapsa ta, am să le adun eu. E așa, adause Ioan sărutând pe Elena pe frunte; nu mai plânge copila mea. Mergi de strânge mâna acestui răutăciosu ștrengar, pe care ți-l dau de bărbat, cu binecuvântarea părinților voștri.</p>
+<p>Ioan avea dreptate, căci ca prin farmec lacrimile se uscară, și surâsul cel mai vesel luă loc, pe figura Elenei, care nu știe cum să-i mulțumească, pentru o veste așa de bună ca asta.</p>
+<p>— Lasați mulțumirile la o parte, copiii mei; zicea bunul Ioan. Căutați să fiți fericiți, și astfel veți fi resplătiți.</p>
+<p>— Cât ești de bun! zise Elena. Nădăjduiesc că nu te vei despărți de noi, moș Ioane, nu-i așa?</p>
+<p>— Vezi bine! Cine altul ar crește copii voștri dacă nu eu? Dar pănă atunci, adaugă el adresându-se către Andrei, tu cată să părăsești de-ndată via, și să dai o goană pănă la Poiana-Cârnului. Știi că s-au împlinit vadeaua când, trebuie să ne plătească banii pentru vinul din toamna trecută?</p>
+<p>— N-am decât să plec, răspunse Andrei</p>
+<p>— Cum așa degrabă, obiectă Elena.</p>
+<p>— Cu cât va pleca mai curănd, cu atâta vei avea mai puțin de așteptat, răspunse Ioan.</p>
+<p>— Așa este, dar ziua mi se pare înaintată, pentru ca să poată ajunge cu ziuă acolo.</p>
+<p>— Și ce iese de acolo?</p>
+<p>— Nimic altceva decât că-n pădurea de la Poieni, sunt prea mulți tâlhari, și Andrei e singur.</p>
+<p>— Ha! ha! ha! mă miram ce ai să spui! răspunse Ioan râzând. Se vede că nu știi încă cine-i Andrei? E așa, blănd și moale cum îl vezi, e în stare să țină piept la douăzeci de inși. Apoi mulțumită măriei sale vodă, care a spânzurat hoții pe toate cărările, te poți culca în mijlocul codrului și habar n-ai!</p>
+<p>— Ori cum ar fi, zise Elena cu stăruință, știi proverbul cela; piaza bună trece primejdia rea!</p>
+<p>— Apoi să-ți spun și eu altul, zise Ioan râzând: fără parale nu se face nuntă!</p>
+<p>Văd că te-ai pus, să mi-l smomești, răspunse Elena convinsă astă dată.</p>
+<p>V-ați împăcat în sfârșit? întreba Andrei. Astfel ne-am înțeles, plec îndată și mâine pe vremea asta voi fi acasă.</p>
+<p> La poartă vei găsi căruța mea care te-așteaptă, zise Ioan. Drum bun! adăugă el strângănd de mănă pe Andrei.</p>
+<p>Elena care din ochii lui Andrei găsise, că germanul băiat ar dori să-și ia ziua bună de la dânsa, într-un chip mai simțitor; găsi un pretext pentru a-l urma mai departe ceva.</p>
+<p>— Ascultă Andrei, striga ea după ce dispăruse în dosul arborilor; nu uita de-ți ia pălăria de unde lucram?</p>
+<p>— Ce bine-ai face dacă mi-ai da-o tu, răspunse el oprindu-se.</p>
+<p>După câteva momente, Elena prezentă logodnicului ei pălăria, și acesta-i mulțumi cu-n dublu sărut aplicat pe ambii obraji. Astfel pregătit, Andrei sări în căruța lui Ioan și plecă.</p>
+<p>(Urmare in numărul viitor).</p>
+<p>Em. Arghiropol.</p>
+</div>
+</div>
+            <div type="part" n="6">
+<p>CONDAMNATA.</p>
+<p>(Urmare).</p>
+                <div type="section" n="10">
+<p>X</p>
+<p>Toporașul căzut.</p>
+<p>După cum făgăduise seara era acasă. Achitându-se cu multă exactitate de comisionul lui, către Ion Butnariu, se grăbi a rămăne singur cu logodnica lui, sau mai bine zicând cu viitoarea lui pereche. Elena din parte-i nu dori mai mult: însă cu toată buna lor voință, și cu toate silințile lor trebuiră să mai rabde. Toată lumea era acasă și-n picioare; prin urmare nu era chip să se ascundă de privirile uimănui. Cu toate aceste mulțumită nenumăratelor mijloace ce amorul totdeauna dă inimilor ce-l poartă, ei găsi în de-ajuns o casiuni, pentru a-și strecura la ureche căteva vorbe pe furiș, care s-ar fi putut ghici nu mai d-un ochi bine exersat de pe roșeața vie ce colora obrajii fetei, de căte ori s-apropie prea mult de Andrei. În fine cum făcuse, cum drese, nu putem afirma tocmai pozitiv,— amorul are pre multe cămări, ca să putem străbate pe toate. Totul este că, pe la miezul nopții o fereastră de la odăița din fund tot încetișor, ș-o figură apăru atunci senină ca și luna, ce tocmai atunci trecând printr-un nouraș să fixas în fața ferestrei și ca și cum n-așteptase a decât acest magnet pentru a scăpa de sub vălul ce-o ascunde.</p>
+<p> Mai în același timp Andrei se prezentă la fereastra deschisă.</p>
+<p>-Tu ești Elenă? zise el cu jumătate voce.</p>
+<p>Credeam că n-o să mai vii, adause el rezemându-și coatele pe fereastră.</p>
+<p>— Așa de puțină încredere ai în mine? răspunse fata c-un ton de dulce mustrare.</p>
+<p>— Nu că n-am încredere în tine, reluă Andrei, dar precum astăzi e  zi întâi april, începeam să mă cam îngrijesc de caracterul tău nebunatic. Și fiind că nu mai înșelat, căci trebuie să-ți spun că înșelatul chiar în glumă de tine nu mi-ar plăcea, asta mi-ar face frică pentru viitor! așa dar fiind că nu mai înșelat, vin și eu cu adevărul în mănă, cu toate că e întâi april. Iată un toporașu ce-am cules astăzi la-ntoarcerea mea, de pe marginile pădurei Poieni; este o floare tot atât de tânără în primăvară, ca și tine în lume.</p>
+<p>— Totdeauna lingușitorul răspunse Elena luând floricica și ducând-o la nasul ei.</p>
+<p>— Lingușitor! zici tu? cât ești de nedreaptă! Dar oare, dacă eram în adevăr lingușitor, aș sta eu acum cu atâta smerenie sub fereastra ta? Din contra, ar trebui să fiu înăuntru, acolo, lângă tine, în brațele fericirii.</p>
+<p>Și Andrei tot vorbind, pe nesimțite sgrepana mai tare pe fereastră, încăt ajunse pe jumătate înăuntru, pe când restul corpului sta atârnat afară în aer.</p>
+<p>— Dar bine ce faci? zise Elena tremurând, nu vezi c-o să cazi ori înăuntru ori afară, de-ndată ce-ți vei pierde cumpătul?</p>
+<p>— N-ai grijă, răspunse Andrei făcând un nou salt pe fereastră, în acest moment simt c-aș fi în stare să stau pe un vârf de ac, numai să fii și tu acolo.</p>
+<p>— Ascultă Andrei? dise Elena care începe a se cam teme de focul arzător ce strălucea în ochii iubitului ei; cineva nu trebuie să-și piardă mințile niciodată. Cănd ai cerut să viu l-acestă fereastră, ai pretins o neaparată trebuință; în sfârșit iată-mă, spune care este acea trebuință? judecă, nu voi putea sta mult timp aici, fără să mă-ngrijesc de a fi surprins?</p>
+<p>—Am trebuință ca să-ți spun că te iubesc! răspunse Andrei trecând un picior înăuntru și rămânând călare pe brațul ferestrei.</p>
+<p>— Ei bine, aceasta o știu! nu-i nevoie să te apropii așa de piuit de mine, ca să mi-o repeti, răspunse juna fată făcând doi pași în urmă.</p>
+<p>— Din contra, niciodată n-am simțit atâta nevoie a ți-o repeta c-acuma! căci trebuie să știi că sufletul meu arde d-o dorință ce numai pot învinge. O Elenă! adaugă Andrei intrându de-abinele în casă, ș-apucând de mână pe juna fată. O Elenă, lasă-mă să-ți spun ca ești frumoasă!</p>
+<p>— Iacă! zise fata zâmbind parcă eu ți-am oprit vreodată asta, apoi tu mi-o spui mi se pare destul de adese, ca să m-ai nevoie de autorizația mea!</p>
+<p>— Așa este, reluă Andrei ,trecând măria pe după talia fetei, însă vezi, aș voi să-ți spun ne-ncetat.</p>
+<p>— Ei bine! nu sunt decât trei săptămâni d-așteptat. Odată femeia ta, mi vei spune tot ce-ți va plăcea și ori cănd vei voi.</p>
+<p>— Pentru ce ești așa de rea, reluă Andrei strângând cu putere pe Elena la pieptul lui. Unde este adevărată dragoste, nu se-ncapu termine.</p>
+<p>Biata Elenă neputându-se smulge din puternicile brațe ce o cuprinsese, căzu pe patul ei ca amețită sub o înfocată sărutare depusă pe frunte-i de către Andrei.</p>
+<p>— Te iubesc! zise acesta co voce tulburată. </p>
+<p>— Andrei, iubitul meu Andrei! zise Elena, după căteva momente, c-o voce întreruptă, e seama să nu calci în picioare, toporașul ce a căzut!</p>
+</div>
+<div type="section"  n="11">
+<p>XI.</p>
+<p>Doliul.</p>
+<p>A doua zi mama Rucsanda, care se sculase mai dimineață decât toți în casă; se miră foarte mult găsind pe Elena dormind încă, cănd de ordinar ea se sculă de la toacănit. Un cerc vânăt se desemna împrejurul pleoapelor junei fete, a cărei somn se părea foarte tulburat, de niște tresăriri provocate poate de oarecare vise urâte. Dar ceea ce miră mai mult pe bătrâna Rucsanda iara fereastra deschisă, pe care se strecura un dulce vuiet de primăvară ce se juca cu veselie în părul auriu al Elenei, ș-apoi pălăria lui Andrei ce zăcea jos lăngă pat. Cu toate aceste, buna femeie se păcii foarte mult, de-a strica somnul fetei, precum și d-a cerceta cauzele acelei dezordini, ea se mulțumi d-arunca pălăria afară, și d-a închide fereastra încetișor, după care se retrase și ea singură.</p>
+<p>De și în mintea Rucsandei intrase o bănuială destul de tare, însă ea se feri chiar și zilele următoare d-a pune vreo întrebare Elenei sau lui Andrei, asupra împrejurărilor din dimineața ce am descris. Tot ce se vedea la dânsa d-atunci încoace, era o stăruință deosebită pentru sfârșirea căsătoriei ambelor juni, care trebuia să aibă loc, cu mult mai înainte de epoca fixată, dacă nu era o tristă împrejurare, ce veni să-mbrace în doliu acest pașnic cămin.</p>
+<p>Holera, această manie Dumnezeiască, ce se varsă asupra omenirii, precum altă dată lava Vezuviului se vărsa asupra orașelor Merculanum și Pompei, pe care le prefăcu in cornișe, in luna Aprilie a anului 1848 se-nfățișă în Iași c-o furie ș-o cruzime crescândă.</p>
+<p>Este un secol trecut, de cănd geniul omenesc știe să smulgă trosnetul din măinile lui D-zeu fără ca pănă astăzi știința să poată găsi un frâu acestei turbate cutreiretoare ce se numește holeră.</p>
+<p>In fine bunul Agapi, căzu cel dintâi victima acestei uricioase epidemii. Apoi la trei zile după înmormântarea lui, Rucsanda, ca și cănd nu mai avea ce căta in această lume, merse in cealaltă de-nsoți părechea ei iubită.</p>
+<p>Aceste două morți succesive, după cum lesne poate să-și închipuiască cineva, fu mai mult decât un doliu pentru bieții copii, și bunul Ioan Butunriu, asta fu o durere sfâșietoare și ca un început d-o completă ruină.</p>
+<p>Nu știu dacă este un geniu rău care planează, sau numai o curată providență; dar de câte ori moartea a aruncat coasa ei într-o familie, n-a retras-o niciodată mai înainte de a fi zdrobit tot. O dezordine ce nu se poate descrie, o descurajare aproape de nesimțire, ș-o viață amară, fără de șir, iată ce lăsase pe urmele ei, într-această casă care c-o săptămână în urmă era atât de veselă și plină de viață.</p>
+<p>Zilele nu mai treceau cu acea repeziciune și căldura de altă dată, o răceală de gheață abia le mișca. Soarele ce strălucea a doua zi nu mai aduce dulceața și speranța, pierdută d-acele trei inimi atât de sfășiete; fiece raze a lui sporeau și mai mult acel deșert crud, care ne spune că neantul nu-ntoarce niciodată ce a primit. În fine luna lui Mai sosi, și cu dânsa drept orice flori sau zâmbete veni destrucțiunea generală. Adiere velitului care altă dată transmite din eco în eco, vocea veselă a omului, acuma îngâna tristul sunet al clopotelor, brazdele verzi se răsturnau pentru ca să primească în sânul lor pe cei care, cu o zi în urmă poate, făcuse dintâi mai, pe acea iarbă ce va înveli mormintele lor! Într-un cuvânt, Iașul infățișa o tristă priveliște; ar fi zis cineva că în acest oraș nu se respira decât moartea! Lumea spăimântată, fugea care pe la vii, care pe la țară, în fine o completă pustiire se vedea în toate părțile.</p>
+<p>Ioan Butnariu mărturisi la toate aceste, și care văzuse căzând ca spicele împrejurul lui, amici, cunoștiințe și vecini, se hotărî și el a se retrage la vie, cu tinerii lui tovarăși. Ideea fu comunicată lui Andrei și Elenei, care plecară chiar in acea zi; dar Butnariu rămase tot în oraș până în a doua-zi dimineață, ca să pregătească toată proviziunea de care puteau să aibă nevoie, pe cât timp vor sta la vie.</p>
+</div>
+<div type="section"  n="12">
+<p>XII.</p>
+<p>Moartea lui Andrei.</p>
+<p>Pe când viața noastră e atăt de bântuită, de fiece evenimente ce se repetă, natura, ce-și urmează cursul ei regulat. Ziua următoare doliului se ivi pe orizont tot în aceleași haine strălucitoare ca și după o noapte de bal. În fiece raze a soarelui se vedea ca și altădată, focul scănteietor si plin de viață, aerul era tot așa de parfumat și voluptos ca ș-acel de ieri, răndunelele precum și toate celălalte păsăerici veneau și se duceau, făcându-și cuiburile lor prin crengile cele mai stufoase, de unde trimiteau plăcuta lor ciripire. Toate în fine păreau un zâmbet al primăverii.</p>
+<p>— Iată o frumoasă zi, care mă face să mai uit pe toate cele trecute, zise Andrei însoțind pe Elena ce se preumblă prin vie.</p>
+<p>— In adevăr, răspunse Elena c-o jumătate zâmbet, ziua de astăzi este așa veselă, încăt de la ivirea zorilor, o dulce mulțumire a străbătut inima mea, cu toată supărarea de care este cuprinsă, dovadă este trandafirul tău cu care m-am gătit.</p>
+<p>— Ș-ai avut o minunată idee! reluă Andrei, pentru ce am sta noi totdeauna _ în doliu, pe când natura după vijelie ca și după un senin este aceeași?</p>
+<p>— O dac-ar veni iarăși acele zile plăcute! zise Elena în a cărei ochi strălucea o vie speranță. Acele zile în care totdeauna zâmbindu-mi spuneai că mă iubești.</p>
+<p>— S-avem nădejde-n D-zeu, răspunse Andrei, acele zile nu pot fi departe pot zice chiar că a și sosit una. Da, adăuga el luând de mână pe Elena-da, de astăzi înainte vom reîncepe viața noastră din trecut. Nu voi mai petrece zilele în lacrimi, voiesc s-alung durerea prin amorul tău, care numai el mă va susține in viață.</p>
+<p>Tot vorbind pașii lor rătăciră pe nesimțite, într-o veselă pădurice de carpeni și fagi, la marginea careia se-ntinde o vălicică acoperită d-un covor de verdeață. Acolo, la umbra arborilor se opriră.</p>
+<p> Nu găsești tu c-ar fi bine să ne oprim, puțin aici ? întrebă Andrei.</p>
+<p>~— Ba da, îi răspunse Elena. Și încă să ne așezăm bine pe această iarbă, căci te văd ceva obosit.</p>
+<p>Elena nu se-nșela deloc; Andrei în adevăr avea aerul unei mari oboseli, și dacă el n-o simțea decât ca un fel de leșin la stomac, ea se zugrăvea foarte expresiv pe figura lui. Ș-apoi cum s-ar fi putut crede obosit, el, un bărbat atât de viguros și plin de viață; cu toate acestea ca să mulțumească pe Elena, el se puse jos lângă dânsa.</p>
+<p>—Ce te face pe tine să mă crezi obosit? întreba Andrei deodată. Tu știi că, de ani încoace n-am ridicat o cofă măcar?</p>
+<p>— Nu zic obosit de muncă, răspunse Elena, dar obosit sufletește, de supărare.</p>
+<p>— Ori cum ar fi! trebuie să las odată d-o parte această supărare, și să-mi aduc puțin aminte că tot nu sunt singur în lume, și că am nevoie de multe zile încă, ca să-ți spun că te iubesc.</p>
+<p>Andrei vorbi cu aprindere, fiecare cuvânt era însoțit d-un zâmbet ce nu se  poate descrie. Și lucru ciudat! ochii lui erau atât de tulburați, încât văzându-l cineva, l-ar fi luat mai degrabă, drept un bolnav, ce vorbește în delirul frigurilor ce-l mistuie.</p>
+<p>— Andrei, iartă-mi stăruința mea, dar nu te simți tu rău? întreba Elena cu-ngrijire, văzând ciudatele schimbări ce se opreau în figura lui Andrei.</p>
+<p>— Nici de cum! răspunse el cu aerul ce-l mai liniștit din lume; pe cât  eram posomorâtă și fără curaj ieri, pe atâta sunt astăzi.... Of!!</p>
+<p>Această exclamațiune, o scoase Andrei deodată întrerupându-se și ducând mâinile, la stomacul lui. 0 cumplită cărciere îl apucase, dar care slăbi îndată.</p>
+<p>— Nu te spărie, scumpa mea, zise Elenei care sărise în picioare în ajutorul lui. Nu-i nimica, puțină durere la stomac, care o și trecut. </p>
+<p>— Dar tocmai, fiindcă ai durere la stomac, zise Elena din ce în ce mai îngrijită, ar fi bine să mergem în case și să-ți dau câteva picături în rachiu.</p>
+<p>— Picături? zise Andrei, d-apoi doar nu m-a apucat holera! . .</p>
+<p>— Alei Andrei! ce vorbe mai spui și tu, da să ferească D-zeu!</p>
+<p>— Ei bine și chiar de-aș fi, reluă Andrei pe ton de glumă; crezi tu că ea ar avea atâta putere încât să doboare un bradu verde ca mine? Aici așa! aș sta față-n față cu jupăneasa holera, fără să clipesc din ochi măcar.</p>
+<p>Cu toate aceste gura lui împrejur, precum și nările, începeau a lua o culoare vineție.</p>
+<p>— Cât ești tu de copilă! reluă el din nou. Să zici tu că mi-i rău astăzi, acum mai cu seamă, când sunt lângă tine, când nu vreau să știu de nimic altă afară de fericirea noastră? Dar sunt așa de sănătos, și fără grijă, că de-ndată ce se vor implica cele patruzeci de zile a jălaniei, ne vom cununa fără să mai așteptăm mai mult. Mă-ndemni să merg în casă? ca să-ți dovedesc și mai bine că n-am nimic, voi să mă scol și să merg, însă nu în casă, dar colo, știi tu, la umbra celor doi copaci, la locul nostru de iubire!</p>
+<p>Andrei puse o mână în pământ, și voi să se ridice, însă trebui să renunțe la această cercare. O nouă frământătură la stomac și care ca printr-o electricitate să comunic la picioare, făcu tot corpul lui grămadă.</p>
+<p>— Hum! zise el făcând o copilărească mișcare din cap. Asta-i ciudat în adevăr. Tu ai dreptate Eleno să zici că sunt obosită... Cu toate acestea, am  destulă putere ca să mă ridic și să mergem în livadă.</p>
+<p>El făcu o din nou silință, dar în zadar.</p>
+<p>— La dracu! zise el cu-n surâs sfășietor, am ajuns mai rău decât babele,  asta-i vrednic de râs; nu-i așa Eleno? un flăcău de douăzeci și patru ani de...</p>
+<p>Vocea lui Andrei fu înecată d-o cumplită vărsare. Tot corpul lui fu cuprins de cărcei, ș-o vinețeală se-ntinse pănă deasupra orbitelor lui; apoi îndată picioarele ieșiră din amorțeală și se-ntinse unul lăngă altul asemenea unui compas, pe când restul corpului, sprijinit de brațul Elenei ce sta la capul lui, devenise așa de moale ca un aluat.</p>
+<p>— Oh! ajutor! ajutor! strigă biata Elenă spăimântată și cu lacrimile în ochi. Nimeni, nimeni! și el moare! ce să mă fac D-zeul meu? unde s-alerg, și cum să-l las pe dâns singur aici?</p>
+<p>În acel moment, niște pași greoi răsunară în dosul arborilor. Elena ridica capul, și văzând pe Ioan Butnariu ce înainta în desime sprijinită de bățul său, și spăimântat de strigările ce auzise; ea întinse mâna dreaptă către el și strigă:</p>
+<p>— Moș Ioane!.... moș Ioane!.... Andrei moare!.. vino în ajutorul nostru!..</p>
+<p>(Urmare în numărul viitor).</p>
+<p>Em. Arghiropol.</p>
+</div>
+            </div>
+ <div type="part" n="7">
+<p>CONDAMNATA.</p>
+<p>(Urmare).</p>
+<div type="section"  n="13">
+<p>XIII</p>
+<p>Mărturisirea</p>
+<p>Moartea neașteptată a lui Andrei, căzu ca un trăsnet, în mijlocul fericirii la care s-aștepta Elena. Lovitura era cu atât mai crudă, cu cât ea unea tot ce putea s-o facă mai bine simțită. Ea iubea pe Andrei, cu toată pasiunea și puterea unei inimi așa de simțitoare ca a ei; ea sperase la unirea lor pentru totdeauna și mai înainte c-această unire să fie îndeplinită, să vadă din nou condamnată de soarta-i fatală, la o viață mai amară decât totdeauna; acuma nu mai era o copilă, ca să nu înțeleagă toată greutatea poziției în care se găsea: străină, fără niciun mijloc de viețuire, zdrobită pănă în cele mai adânci simțiri ale ei; unde va merge ea? Și ce scuză va da fructului ce  lăsase Andrei în sânul ei?</p>
+<p>Providența, care nu dorme nici astădată, răspunse la chinurile bietei femei, prin vocea lui Ion Butnariu.</p>
+<p>Corpul tânărului Andrei, conform dorinței sale, care se potrivea minunat de bine cu situațiunea, fu îngropat între cei doi arbori din livadă; o moviliță neagră, și o cruce de lemn făcută de mâinile Butnarului, arată locul unde se depusese acel flăcău atât de dulce, și care avea atâta încredere în virtutea lui.</p>
+<p>Șase săptămăni se strecurase de la moartea lui, și nicio singură zi n-a trecut, în care tăcutul său mormânt să nu primească gemetele durerii, și să nu fie udat de lacrimile amare ale Elenei.</p>
+<p>Intr-o zi a lui iulie, pe când o arșița, cumplită străbătea pănă și-n cele mai mari afunduri ale codrilor, Elena cu capul gol, păru despletit și în prada celei mai vii dureri ședea în genunchi la căpătâiul mormântului.</p>
+<p>Ion Butnariu, ce se luase încetișor pe urmele ei, sta la o parte cu tristeță rezemat în bățul lui. Bunătatea lui naturală, devenise și mai aplecată în favoarea acestei fete sărmane, care de la moartea lui Andrei, nu mai avu alta protectoare și nici altă figură cunoscută în lume, decât numai pe dânsul singur.</p>
+<p>— D-zeul meu! D-zeul meu! ce mă voi face eu? zicea ea înecată în lacrimi. De ce nu m-ai luat pe mine, care sunt născută numai să sufăr!...</p>
+<p>—- Nu trebuie să bănuiești niciodată lui D-zeu! fata mea, zise cu blândețe Ion.</p>
+<p>— Zici să nu bănuiesc, poate greșesc cu asta,... poate să ai dreptate moș Ioane... Dar vezi, când cineva a pierdut singurul sprijin, ce mai avea pe lume, uită tot, pentru ca să nu-și aducă aminte decât de durerea sa !...</p>
+<p>— Adevărat, însă trebuie să sfărșești odată cu aceste lacrimi, urmă Ion cătând să mângâie pe Elena. Nu este nicio durere pe lume, care să nu fie vindecată.</p>
+<p>—Și cu ce se poate vindeca? întrebă Elena ridicând deodată ochii ei plini de lacrimi asupra lui Ion.</p>
+<p>— Cu uitarea! răspunse acesta.</p>
+<p>— Uitarea, da! ea este al doilea mormânt, și cel mai rece; cel întâi învelește corpul cu țerina lui, colo din urmă șterge și chiar aducerea aminte, cu nepăsarea lui.... Nu, moș Ioane, urmă Elena în prada celei mai vii disperații, uitarea nu poate fi decât ocară ce s-aruncă morților, și eu nu voiesc să mă vindec prin mijlocul ei.</p>
+<p>Ion care văzuse că nu merge bine, cu chipul cum luase lucrurile, cât s-alerge la alte mijloace.</p>
+<p>— Nu zic să uiți pe Andrei, fata mea, zise el. Dar trebuie să pui un capăt acestor lacrimi, și să gândești că bunul D-zeu, care se-ngrijește de toate, nu te va părăsi tocmai pe tine, o biată copilă sărmană. Haide, adaugă el apropiindu-se de dânsa; curaj! cată soarele ce dă la prânz, scoală, să mergem la masă.</p>
+<p>—Curaj? dar am suferit prea mult în viața mea, ca să mai am nădejde în viitor! zise ea fără a se mișca din loc.</p>
+<p>— Ai suferit? știu foarte bine, reluă cu stăruință Ioan care se retrăsese iarăși la locul și pozițiunea lui dintâi. Dar timpul cu-ncetul șterge tot, și mi se pare că sunt destule luni trecute, ca să ai dreptul a te mai liniști.</p>
+<p>—Vorbești de timp și de liniște, zise Elena cu oarecare contrarietate. D-ta nu știi că tocmai acești doi monștri sunt, care-mi mănăncă zilele. Cu cât timpul trece, cu atât neliniștea me s-adaugă!</p>
+<p>— Și pentru ce?</p>
+<p>— Pentru că acest timp, v-aduce curând ziua în care voi fi mumă fără să fi fost soție! răspunse Elena năbușind-o lacrimile, ș-acoperindu-și figura cu mâna, spre a-și ascunde roșeața ce se suia pe frunte ca o pată ce nu putea înlătura.</p>
+<p>O tăcere de moarte succedară acestor vorbe, în care timp nu s-auzeau decât suspinele înecate a nenorocitei.</p>
+</div>
+<div type="section"  n="14">
+<p>XIV. Reperațiunea.</p>
+<p>În tot cursul istorisitei noastre, de câte ori a fost vorba de Ion Butnariu, am trecut foarte ușurel asupra lui, fără a-l considera mai cu de-amănuntul; pentru că alte evenimente mai proaspete trebuia să fie narate mai întâi. Dar astăzi, credem c-a sosit timpul, în care urmează să ne alăturăm cât se poate mai mult de această bătrână cu figura blândă și cu inima îndurătoare.</p>
+<p>Ion Butnariu, pe la epoca holerii din 1848 avea vârsta de cincizeci și trei ani trecuți. Viața lui toată o petrecuse în holteie. Deviza i-a fost munca, și niciodată nu s-a gândit a străbate în dulcele și fermăcătoarele secrete ale amorului, cu atât mai mult acum, când supusa pasiunii cunoscută la vârsta matură, căta cum să-și asigure un trai bun pentru bătrânețe.</p>
+<p>Cu toate aceste, auzind mărturisirea neașteptată a Elenei, și judecând amara pozițiunea ei, precum și chinurile ei, un sentiment, se născu în el. Dar acest sentiment, nu era nicicum, acea dulce și tainică simțire a amorului. Era o simpă milă, ce el avea totdeauna, pentru acei care intrau odată în inima lui de tot îngustă: căci în afară de aceștia, nu cunoaște nimic mai presus decât interesul lui. Așadar Ioan cuprins de sentimentul milei, și pe de altă parte fiindcă se obișnuise în singurătatea lui cu această jună ființă, el întinse mâna Elenei și se propuse de paravan la dezonoarea ei.</p>
+<p>După mai multe săptămâni, pe când Elena vedea că-ncurând nu va mai fi mult cu putință, s-ascundă proba căderii sale, trecu în căsătorie după Ion. Apoi ce judecase cu multă înțelepciune, că pe lângă reparațiunea ce-i oferă această căsătorie, îi mai asigura și asistența pentru totdeauna. Ea cunoștea pe Ion ca pe cel mai bun om din lume, va fi totdeauna iubită de dânsul ca de un adevărata părinte, vor purta împreună suvenirea lui Andrei, vor crește în numele acestuia, copilul ce va să nască, și în fine de nu va fi complet fericită, cel puțin gândi ea, va fi desăvârșit liniștită.</p>
+<p>D-zeul meu! ce de mai speranță pe care omul de atâtea ori le pierde, fără să se învețe a nu mai conta pe ele!</p>
+<p>Cu toate acestea optzeci de ani se strecurase, în care timp gospodăria lor n-avusese cea mai mică vijelie, afară de pierderea copilului ce Elena născu mort; eveniment ce dispăru în ghiarele timpului, precum se împrăștie un nouraș după ploaie în dulcele senin.</p>
+</div>
+<div type="section"  n="15">
+<p>XV.</p>
+<p>Un obicei ciudat.</p>
+<p>-Unde mi-ai fost leli Casandră ?</p>
+<p>—La fântână, jupâne Ilie.</p>
+<p>—Ce fel la fântână timp de două ceasuri?</p>
+<p>— Dar dac-ai ști, jupâne Ilie, cât de  greu se scoate apa!....</p>
+<p>—Așa încât ai avut nevoie să-ți ajute soldații?....</p>
+<p>-Doamne, jupâne Ilie, poznașă mai ești! N-are cap să-mi dea cineva o buna vreme, fără să nu-mi găsești un cusur.</p>
+<p>— Și de când s-au făcut soldații așa politicoși, mă rog?</p>
+<p>— Dar eu, nu i-am cunoscut niciodată în altfel.</p>
+<p>— Ceea ce dovedește, că te-ai înțeles totdeaună cu dânșii.</p>
+<p>— Să mă ferească D-zeu jupâne!— Niciun cuvânt mai mult! mă d-a postă a casarme.</p>
+<p>— Jupâne Ilie, pe cinste că-ți pare — Pe cinste? Dar cine au pierdut cinstea s-o găsești tu? Haide ia-ți bulendre și du-te de la mine, m-ai auzit ?</p>
+<p>Aceste vorbe se schimbau într-o băcălie de la Podul Bucșinescului.</p>
+<p>Jupânul Ilie bacalu era un om ca de douăzeci și șase ani, de un exterior nu tocmai respingător. În afacerile lui de interes era omul cel mai onest; cât se atinge însă de viața lui domestică, era stăpânită de către două pasiuni-beția și femeile. Pe lângă aceste, Ilie mai avea ș-o nespusă plăcere pentru muzică, probă era o veche chitară aninată în cui. Odată dugheana închisă, în timpul nopții el se retrăgea în odăița de dindos, și cu o garafă de vin lângă dânsul, scotea din chitară tonurile cele mai neregulate acompaniate de o voce din cele mai dușmane pentru auz.</p>
+<p>Contra obiceiului ordinar, al tuturor negustorilor, el nu se servea de loc cu slugi de sexul bărbătesc, prefera mai mult sexul frumos, în a cărui respect făcea alegerile cele mai nimerite care să puteau. Acest gust nu era lipsit de greutăți foarte mari de învins. Căci lăsând pe o parte că tot ce-i frumos se capătă greu, dar apoi Ilie mai avea nenorocirea a se bucura și d-o reopiniune în această privire. Astfel că mai toate femeile favorizate de natură, refuzau a se angaja în serviciul lui. Acest rău vine de acolo: se lățise vorba, că Ilie după ce tocmi o sluga, care îndeplini și serviciul gospodăriei ș-acela din dugheană, apoi era cam ca după două sau trei săptămâni, să nu cadă acea femeie bătută și batjocorită de curiosul negustor. Această opiniune publică sporise într-un atâta, că bietul Ilie mai zilele din urmă a trebuit să sufere o bună lecție, fiind lipsit de tovărășit timp d-o lună până ce abia dădu peste Casandra, o jună fată robustă, a cărei ochi negri oprise de multe ori furia junelui negustor. Dar în acea seară, dulcea ei căutătură n-avea nicio putere. Toana lui obișnuită, îl apucase tocmai într-o stare de beție, pe când orice raționament nu mai era posibil.</p>
+<p>— Dar bine nu te-ai dus strigă el întorcându-se din dugheană cu o mână de migdale după care-i plăcea mult să bea vin.</p>
+<p>-Unde vrei să mă duc noaptea, răspunse fata.</p>
+<p>— Ce-mi pasă mie! nu cumva casa mea hanu?</p>
+<p>— Mă rog jupâne Ilie lasă-mă până mâine! zise ea, punând tot focul privirii lor în lucrare, și mâine dimineață mă voi duce, dacă vrei numai decât.</p>
+<p>— Ba niciun minut! gândești să ademenești iar cu vicleniile tale? O! da n-ai nicio grijă te cunosc eu de ajuns ca și pe toate cele de potriva ta.</p>
+<p>— Ai dreptate să zici asta, asta fiindcă după cum zici, mă cunoști de ajuns; dar la început, mi se pare că nu găsei în lume o altă, femeie mai bună decât mine. În sfârșit așa sunt bărbații, ce le-a plăcut ieri nu le mai place astăzi, de aceea nici mai făcu vorbă, și sunt gata să mă duc, la cel întâi cuvânt a d-tale.</p>
+<p>-Fă bine și te cărăbănește cât se poate mai curând.</p>
+<p>— E, da cum te grăbești! reluă fata strângând lucrurile ei ca să se ducă. Mai așteaptă puțin? încă n-am cel din urmă cuvânt a d-tale.</p>
+<p>-Ieși pe ușă afară, obraznico! iată cuvântul meu cel din urmă.</p>
+<p>—Numai atâta? reluă fata tot în aceeași ocupație.</p>
+<p>—Ține dacă vrei mai mult! zise Ilie lovind cu palma obrazul fetei.</p>
+<p>— Pentru ce mă bați ? strigă Casandra plângând, dacă te-ai săturat de mine, plătește-mi și-mi dă drumul!</p>
+<p>— Așa, vrei încă plată? nu ți-e de ajuns cât m-ai prădat? eh așteaptă, să vezi cum știu eu să plătesc ?</p>
+<p>Și zicând acestea, Ilie apucă chitara de pe masa care era obișnuită la asemenea serenade, și începu a lovi pe biata fată, care țipa învârtindu-se în jurul casei, fără să iasă însă.</p>
+<p>Zgomotul atrase la ușa dughenii pe sergentul de pont, care bătea cu putere în ușa închisă, cerând cu stăruință a i se deschide.</p>
+<p>Ilie conteni cu operațiunea lui, care nu știm la ce capăt putea ieși, dacă nu era fericita intervenire a sergentului de oraș. Ușa dughenii se deschise, și dintr-o aruncătură de ochi, nu-i fu greu să înțeleagă cele petrecute.</p>
+<p>— Jupâne Ilie, zise sergentul, ar trebui să-ți aduci aminte, că bătaia este oprită, și că d-ta repeți cam des violarea legii.</p>
+<p>— Nu violez legea domnule! răspunse Ilie. Stăpânul are drept să dojenească pe slugile lui.</p>
+<p>— Se poate! zise fata. Dar vezi, eu n-am fost sluga d-tale.....</p>
+<p>— Și care-i paragraful care prescrie o dojană de felul acesta? întrebă sergentul.</p>
+<p>— Du-te și-l caută domnule, eu n-am nevoie, zise Ilie așezându-se pe scaun. Această femeie, a furat tutun din dugheana mea, de au dat soldaților, și ca să n-o mai nenorocesc dând-o prin mâna justiției, i-am făcut o dojană ca o bună stăpână, iată tot.</p>
+<p>Eu-ți spun domnule, c-ai bătut pe fată, și ca bătaia-i oprită; repetă sergentul.</p>
+<p>Și eu-ți spun că n-am bătut-o, cine vrea să dovedească.</p>
+<p>— Voi dovedi eu, zise sergentul luând de mană pe fată și voind să iasă cu dânsa; voi dovedi eu care am auzit huetul loviturilor.</p>
+<p>Și eu care le-am primit, adăugă tata ieșind după sergent.</p>
+<p>Și eu voi jura, că huetul ce s-auzea era de la chitara mea, sfârși Ilie închizând ușa asupra lor.</p>
+<p>Ne ducem la comisie, strigară cei de afară.</p>
+<p>Atâta pagubă! drum bun! le răspunse dinăuntru</p>
+<p>Apoi Ilie retrăgându-se în odaia din fund, să așeze din nou la migdalele și vinul de pe mase, cătând să pună în starea ei ordinară chitara a cărei strună plesnise de-arândul.</p>
+<p>Banditul Chir-Toacă.</p>
+<p>I. Groaza.</p>
+<p>Sunt unsprezece ani de când o spaimă generală, o groază înfiorătoare, de la marginea Roșiei meridionale la aceea a Turciei și până în părțile de jos ale Moldovei, domnea precum altădată spiritele rele asupra celor superstițioase.</p>
+<p>Cine era acel geniu rău, acel demon a pusteirii, acel destructor al omenirii, în fine acel monstru atât de înfiorător? Urmele lui sângerânde, nu erau greu a se descoperi, căci: focul, jaful și moartea le arăta în tot locul. Iarba uscată sub pașii lui, codrii marturi atâtor crime, și societatea lovită și tulburată în liniștea ei, striga răzbunare. Dar cum și pe cine se lovească? Justiția omenească avea mâna ridicată, însă acel asupra căreia trebuie să cadă, lipsa.</p>
+<p>Spaima în întuneric crește! însă astă dată, nu mai era vorba de o spaimă închipuită, din acele pentru care cineva nu-și poate da seama. Victimile jefuite, cadavrele ucișilor, erau acolo, fețe, sub ochii tuturora. Trei nume asemene cu ecoul nopții, se strecura din gură în gură, -printre oamenii spăimăntați; și de și nu era tocmai siguri, dar vorba se lățise că acești zmei ai nopții se numeau: Galabadău, Bargan și Chir-Toacă. Când lumea s-a făcut o idee oarecare, cât de greșită ar fi ea, totuși nu o părăsești: ea se întărește din ce în ce, pănă ce trece și chiar marginile putinței. Astfel că mumele se serveau lângă copiii lor, cu acele nume ca de Caua.</p>
+<p>Se știa că acești trei indivizi avea sub ordinele lor o bandă numeroase cu care se ajutau la severșirea crimelor. Guvernit, Justiție, și societatea întreagă urmată de poporul in mase, se sculase in picioare contra acestor bandiți. Pe cănd aceste elemente strinse una de alta, făceau căutările lor, alte crime none se severșeau pe toată dioa, fără să se poată pune măna pe făptuitori. In fine, după doi ani de nenumărate cercetări, unul dintre bandiți, anume Vasile Galabadău căZti iu manele Justiției, și ca și cum aceasta s'ar fi 'grăbita a’și satisface setea ei de resbunare, prin sentința din 14 Ianuarie 1860, banditul fti condemnatu la moarte. Din instrucțiunea causei Iui, se descoperi de complice pe Vasile Chir-Toacă-. la uciderea crișmariului Neculai Caramerlă, a soției acestuia Stanca și a nepotului lor Pa-naite; la furarea a trei cai de la D. Pa-naite Guliei; la furtul comisii la posta Slobosia mare; la furarea altor cai de pe moșia Pogonesci a D-lui Satir Condulea, și la alte crime.</p>
+<p>Aceste mărturisiri ale banditului Cala-badău, erau indicii care reclamau o îndoită priveghere și cercetare contra lui Chir-Toacă. Ordine severe se succedau și se transmiteau de la o autoritate la alta; și cu toate acestea crimele urmau a se săvârși cu o cruzime crescândă.</p>
+<p>In noaptea de 26 spre 27 Iulie a anului 1861, la locuitorul Ion Roman vizitiu din județul Cahul, se prezentă mai mulți indivizi cu fața acoperită de funingeni. 26 galbeni ce se aflau în case trecu îndată în buzunarele lor; un ceaun se puse pe foc și pe când apa clocoti l-a strămutat pe pieptul nenorocitei victime, pănă ce a mărturisit o altă sumă de 400 galbeni ce ave ascunsă într-o poșetă; această sumă luată, călăii se întoarse iarăși la victima lor, un cuțit străbătu craniul nenorocitului pănă sub bărbie; un alt cuțit, despică pieptul din partea dreaptă pănă în acea stăngă, pe când un al treilea cuțit scrijelea tot corpul: martirul respiră în prada celor mai crude dureri.</p>
+<p>În ziua de 28 Septembrie 1861 în drumul Cahulului, israilitul Lupu Safer a fost oprit și prădat de suma de 220 galbeni.</p>
+<p>In iarna anului 1862, s-a furatu de pe moșia Tartaul proprietate a D-lui Epureanu o trăsură, cai și hamuri.</p>
+<p>La 28 Mai 1862, în comuna Bogdanov, ca pe la orele 2 după miezul nopții, s-a spart peretele de la casa D-lui Antohi Corgios, care a fost ucis și jefuit.</p>
+<p>În noaptea de 26 spre 27 Iunie tot 1862, D. Misa Ecsarh a fost prădat. Astă dată bandiții au fost surprinși la timp, câteva focuri i-a împrăștiat. Se crede că la această ocaziune Vasile Chir-Toacă a fost lovit de un glonte, dar că a putut să-și urmeze fuga, cu toate acestea, întămplarea nu putea fi decât o bună probă la timp.</p>
+<p>Tot in anul 1862, într-o noapte din luna iulie, s-a ucis un drumeț pe moșia Moscovei.</p>
+<p>În anul 1863, s-a prădat pe D. Sotir Condurea de suma 10000 ruble.</p>
+<p>În primăvara anului 1864 s-a prădat pe medicul din Leova, de suma de 900 galbeni.</p>
+<p>În noaptea de 12 spre 13 iulie tot acel an, o bandă de 15 indivizi a prădat 14 cai și alte obiecte de la poșta Baciai din județul Chișinău.</p>
+<p>Aceste și alte multe crime ce se re-nnoiau pe fiece zi, erau toate aruncate lui Chir-Toacă și tovarășului său Bargan. Cu toate aceste nu se putea pune mâna nici pe unul din ei. Frontierile Roșiei, Turciei și a Moldovei, erau pe rând călcate de acești bandiți. Pe când guvernul rus, căta bandiții în cuprinsul teritoriului său, ei se găseau în Moldova, și pe când autoritățile Române, se încercau la rândul lor, ucigătorii treceau în Turcia și viceversa.</p>
+<p>Această tristă stare de lucruri, atrase mai cu deosebire atențiunea D-lui Ioan Pruncu, junele proprietar a moșiei Baimaclia din județul Cahul, care se înarma de toată voința și curajul de care este capabil un om, adică se hotărî a pune viața sa în risc, numai să scape lumea de vipera ce-o sfâșia.</p>
+<p>Em. Arghiropol.</p>
+<p>Toader și Maria.</p>
+<p>Istorie populară și adevărată.</p>
+<p>In ținutul Iași, partea Moldovei, pe malul Prutului este un sat M... cu o pozițiune din cele mai plăcute, înconjurat de o parte de apa Prutului, care de alta o pădurice, care nu lasă decât o mică intrare ce duce la sat, astfel încât călătorul nu poate zări de departe că este sat, decât după ce trece acea pădure.</p>
+<p>Acolo în sat era un flăcău anume Toader fiu a unui gospodar fruntaș care se căsătorise cu o frumoasă fată de la Apus și era fericită. Intrând în gospodărie, el avea nevoie de un tovarăș care să-l ajute în afacerile lui precum și in amănunțimile casnice. El sfătuia pe Filip să cerce norocul; căteva mii de dolari era tot capitalul ce se cerea.</p>
+<p>Filip avea șapte mii de dolari în fonduri publice; vându tot, scutura colbul de pe picoarele lui părăsind mitropolia mare, și in mai puțin de 15 zile răspunse amicului în persoană la scrisoarea lui.</p>
+<p>Virgina Moor simți lipsa plăcutei companii a vărului ei, precum și profunda lui adorațiune cu care era obișnuită; însă un bogat Spaniol, bătrân și slut, venise la târg și ea se găsea înconjurat de concurenți. Să părăsim pe Virginia Moor, și să ne întoarcem la acea singurătate de l-apus unde oarecare fetițe părea mai fermecătoare în rochia ei de merinosu albastră, și cu ghirlanda ei de flori sălbatice, decât cealaltă gătită cu toate diamantele ei.</p>
+<p> (Em. Arghiropol)</p>
+</div>
+ </div>
+            <div type="part" n="8">
+<p>CONDAMNATA.</p>
+<p>(Urmare).</p>
+<div type="section"  n="16">
+<p>XVI.</p>
+<p>Bețivului și dracu iese cu oca înainte.</p>
+<p>Ilie era unul din acele caractere îndereptnice și zburlite, după cum zic românii, care neavând îndestulă putere asupra lor, se depărtează de orice rațiune, pentru a se da cu totul pasiunilor ce le domină. Totdeauna supuse, temperamentului lor furtunos, mai curând se aplică la rău decât la bine. Dacă ele bubuiesc, atunci când nimeni nu le atinge, apoi ce trebuie să fie când mai sunt și zădărite?</p>
+<p>Băcălia lui Ilie nu era pentru întâia dată, teatrul unor scene, ca acea din capătul precedent; vecinii le văzuse adesea și de ajuns repetate, pentru ca să poată ști, ce se petrecea înăuntrul negustorului, și prin urmare a se feri de el, în tot cursul zilelor ce succedau unor asemenea tragedii. Această mută dezaprobare, din partea vecinelor, nu putea decât s-adauge fierberea, în care să află Ilie. Cele trei zile următoare de la izgonirea Casandrei, el le petrecu în pragul ușii; pufnind și întrebând toate femeile ce treceau pe stradă. Fiecare refuz a lor, era acoperit de felurite ocări, ce Ilie avea totdeauna gata la ocaziuni. Serile, condamnat a se retrage în singurătatea lui, avea momente cănd găsea că Casandra era o bună companie, și că se grăbise prea mult la izgonirea ei. Dar mai îndată, casarmia sa înfățișa vederilor lui; atunci păreri de rău că o lăsase așa pe ușor, apoi hotărâri răzbunătoare, ce trebuia să cadă pe spatele urmașilor Casandrei.</p>
+<p>Norocire însă renumelui de care se bucura, postul Casandrei rămase tot vacant.</p>
+<p>Furia lui creștea din ce în ce mai mult.</p>
+<p>A treia zi devenise în așa stare, că pe pragul ușii, unde ședea posomorât și ca un tigru gata a se arunca; îi venea s-apuce de cap pe toți trecătorii, dar lipsea motivul. Noi am zis că Ilie era, stăpânit de către două pasiuni: femeile și beția. De ordinar, cănd se găsea lovit în una, câtă măngâiere în cealaltă. Astfel, neputând găsi o concurență, la pozițiunea părăsită de Casandra, dorea să găsească o bună companie de felul lui, cu care să se pună la băut. De la beție pănă la bătaie nu este decăt un pas, pe care Ilie în bunele sale dispoziții nădăjduia să-l treacă.</p>
+<p>Însă așa precum omul, cele mai adese nu poate face voința lui; Ilie avea greutate să găsească chiar și un bețiv. După ce, asemenea unui vânător, șezuse la pândă toată ziua, fără să-i cadă ceva în cursă, apoi către seară, se hotărâse să ia de pe uliță pe oricine-i va ieși în cale.</p>
+<p>Noaptea sosise. Luna lui Martie din 1865, n-avea nimic care s-o deosebească de rasa ei. Un vânt rece sufla cu putere, și vălul cenușiu ce se întindea pe suprafața cerului, vestea o seară posomorâtă ca și baba Dochia.</p>
+<p>Cu toate strategiile lui, Ilie se vedea tot singur. Trecătorii, care nu erau decăt tot din acea mahala, știau ce poamă este bacalul de la Podul-Bucșinescului, și se fereau chiar de a trece pe dinaintea dughenei lui. În fine Ilie cu năduful la gât, venise în hotărâre să închidă dugheana se bea singur, și prin urinare să renunțe la harțag; dar nu în zadar s-au zis: bețivului și dracu iese cu oca înainte.</p>
+<p>Pe când Ilie se lupta, cu toate elementele organizațiunii lui, punându-le una contra alteia, o căruță cu un cal se opri în fața băcăliei. Două individe bărbat și femeie, sări jos din ea.</p>
+<p>— Bună vremea, Jupâne Ilie!</p>
+<p>— E! bine ați venit prietenilor exclamă acesta, grămădindu-se la primirea acelor oaspeți neașteptați. Dar ce stați așa în drum? trageți căruța la ogradă. Cred că după atâta timp, n-ați venit la mine, numai așa în treacăt, pentru o bună vreme?</p>
+<p>— Nu da, căci precum ai zis, dacă venim rar, nu ne ducem niciodată de la d-neata, pănă ce nu ne-am odihnit bine o noapte întreagă. Dar ia spune-mi dacă-i slobod câinele, a cărui prieteșug cu toate silințele mele, nu l-am putut căpăta ?</p>
+<p>— E legat, n-ai grijă. Apoi tot era să închid dugheana; face-ți împrejur, că vin îndată pe dindos, să vă deschid poarta. După căteva momente, poarta scârțâi pe țiținele ei, și drumeții intrară într-o ogradă, în cuprinsul unei îngrădituri de o înălțime destul de considerabilă. Răscoliră fânul din căruță, la care fu legat calul, apoi intrară în odaie, unde nu târziu îl însoți Ilie, care depuse pe masă, pâine, uscături și vin. Mai înainte însă de a se așeză la masă, Ilie trecu în ogradă și după obicei dezlegă câinele, care cel puțin din partea lui, se împăca cu caracterul stăpânului său, care-l iubea de rău ce era.</p>
+</div>
+<div type="section"  n="17">
+<p>XVII</p>
+<p>Dorința lui Ilie se îndeplinește, mai mult decât nu se aștepta el singur.</p>
+<p>Oaspeții atât de bine primiți de către Ilie, erau, un bătrân cu părul și barba sură de tot, în vârstă ca de șaizeci ani, și o femeie cu figură gălbie și osoasă, ce nu putea să aibă mai mult de patruzeci pănă la patruzeci și doi de ani. Așa pe deasupra, se arătau oameni de încredere și de bună prietenie. Purtarea lor cu Ilie, proba legăturile unei vechi cunoștințe.</p>
+<p>Ilie se întoarse din ogradă, și fiecare luă locul lui lângă masă. După cum am zis, serviciul eră cât nu se poate mai simplu; drept orice bucate, figura o bucată de pastramă, care se recomanda gustului, prin sărătura ce sclipea asupră-i, asemenea brumei ce se vede pe bețișoarele de vanilie. Două vase mari pline cu vin, staționau nu departe gata a interveni, atunci când pastrama le va face semnul , la care se așteptau, din minut în minut.</p>
+<p>Fiecare se înarmă de câte un cuțit, și începu scrijilarea pastramei. Rândul vinului, nu trebuia să fie departe, căci de la consumarea celei dintâi bucățele, oaspeții credeau tot interiorul lor pus în saramură.</p>
+<p>— Să-ți spun drept, Jupâne Ilie; al dracului pastramă mai ai! zise bătrânul descâlcindu-și gura să capete aer.</p>
+<p>— Ce mai bună care se poată găsi-n tot Iașul, răspunse Ilie, urmând a-și tăia bucățele, și a le trimite în stomac una după alta.</p>
+<p>— Nu știu ce a fi de alta, reluă bătrânul a cărui ochi se făcuse roșii, dar știu că asta mi-a beșicat limba.</p>
+<p>— Dacă n-are decât acest cusur, zise bacalu umplând paharele, apoi bea vin și toate beșicuțile se vor topi, ca niște bulgărași de sare.</p>
+<p>— Adevărat? Se cercăm dar.</p>
+<p>Un rând de pahare se deșertară. Vinul de culoarea rubinului, și dispozițiunea ce căpătase gâtlejurile lor, nu întârziară a-i pune pe adeverăta cale a beției. Odată îndrumați, și pentru a se feri de orice rătăcire, dezlegară limbile ca să le slujească de clopote.</p>
+<p>— Cum mai merg trebile pe la vie, moș Ioane întrebă Ilie.</p>
+<p>— Rău de tot. </p>
+<p>— Și care-i pricina?</p>
+<p>— Dar mai întâi, și ce mai de seamă totodată, este că vor să mi-o ia.</p>
+<p>— Tot judecata aceea, despre care mi-ai vorbit acum doi ani?</p>
+<p>— Tot! Dar să lăsăm acestea, care nu fac decât să mă întristeze, și să vorbim de d-ta. Cum mergi?</p>
+<p>— În ce anume?</p>
+<p>— Dar în negustorie, la dracul nu te știu încurcat și în altele.</p>
+<p>— Iaca vorba! zise Ilie deșertând un pahar și ridicând din umeri. Dar cine trăește în lume, fără să fie încurcat în toate?</p>
+<p>— Nu te știam om de acel care să prindă la ceva, reluă bătrânul cu numele Ioan. Oricum ar fi! spune-ne și nouă cu ce te-ai mai încurcat?</p>
+<p>— Cu femeile.</p>
+<p>— Numai cu atâta? atunci n-am de ce te jeli, căci în astă privire, nimeni nu știe a se descurca așa de ușor ca d-ta.</p>
+<p>— Se nu-ți uiți vorba, jupâne Ilie! zise femeia care tăcuse până atunci, dar nu văd pe Casandra, ce s-a făcut cu ea?</p>
+<p>— S-a dus la dracu! răspunse negustorul, care la asemenea întrebare, tot sângele i se suise în față.</p>
+<p>— Ce fel? Ai dat-o afară și pe dănsa?</p>
+<p>— Numai de trei zile.</p>
+<p>— Dar bine pentru ce?</p>
+<p>— Pentru că era o rea! o tălhăriță! care prăda tot din dugheană și cărăbăne la casarmie.</p>
+<p>— Ei bine tocmește alta, zise Ioan.</p>
+<p>— Să mă ferească D-zeu! nu vreau să mai văd picior de femeie în casa mea. Tot pățitul e și priceput, și eu vă spun, că bărbatul n-are mai mare dușman pe lume decăt pe femeie. Și de azi înainte, orice femeie, pentru mine nu va fi decât o mâță, căreia trebuie să-i sucești capul, dacă nu vrei să te zgârie.</p>
+<p>— Norocire că nu toată lumea, este de ideea d-tale, zise Ioan. Eu găsesc că femeia, este cel mai bun tovarăș, și totodată cea mai mare mângâiere pentru un bărbat cum se cade.</p>
+<p>— Ia ascultă moșule, nu te întinde cu vorba, că știi cu cine ai a face!</p>
+<p>— Tocmai fiindcă știu, de aceea am vorbit și eu așa.</p>
+<p>E de prisos a mai spune lectorilor noștri, că în tot timpul acestei convorbiri, vinul n-a fost exclus deloc, și că încet câte încet capetele se amețise. Astfelu Ilie care căta cu lumânarea, motivul de a se sfădi, fu pe loc atins de vorbele și tonul bătrânului.</p>
+<p>— Așa ghiuj bătrân ce ești, strigă el cu ochii încruntați de furie; vii în casa mea ca să mă batjocorești ? Să ieși afară acu îndată, că de nu îți rup barba!</p>
+<p>—Da la cine strigi așa măi? replică bătrânul punând mâna la cingătoare. Vezi tu mușcheaua asta? drept în cap ți-o trântesc, dacă nu ți-i astâmpăra harțagu.</p>
+<p>Atâta trebui lui Ilie, ca să sară drept în picioare ca un turbat. Dar pe când mâinile lui se întindeau, să apuce pe bătrâni, acesta exact amenințară lui, aplică o lovitură grozavă cu mușcheaua, pe capul lui Ilie. La moment mâinile lui slăbiră; milioane de scântei albaștri trecu pe dinaintea ochilor lui; o crudă durere învăluia creierii lui amețiți; picioarele-i șovăi tremurând și când era să cadă, o putere supra omenească, se comunică în toți mușchii lui slăbiți, se trase puțin în drept, apoi ca un leu se repezi asupra bătrânului. Dar mai înainte ca el să aibă timp a se apropie, o mână puternică se încleștă în pieptul său, o răceală de gheață străbat gâtlejul lui, și căzu mort la pământ. Bătrânul Ioan implantase cuțitul lui, până la plasele în gâtul nenorocitului negustor.</p>
+<p>Pe când Ilie zăcea scăldat în sângele lui, câinele din ogradă, scotea niște urlete spăimântătoare, ce se amestecau cu șuierul vântului.</p>
+<p>— Afurisit câine turbat ca și stăpânul său! zicea cu jumătate voce Ioan, târând cadavrul ucisului către unul din colțurile odăii. Ascultă Elenă, reluă el tare, oprindu-se puțin din operațiunea lui; ascultă, ce s-a făcut, s-a facut! nu-i vreme de pierdut; ia lumânarea și treci în dugheană la tejghea! mai înțeles?</p>
+<p>Poza acelui bătrân îngenuncheat, și cu mâinile rezemate de pieptul ucisului, cruzimea de omoritor ce era împrăștiată în toată ființa lui; îl făcea atât de îngrozitor, încât un tremur ș-o gălbeneală de moarte apucă pe biata femeie, care fără să zică un cuvânt, și asemenea unei fantome neînsuflețite, luă lumânarea de pe masă și trecu în dugheană.</p>
+</div>
+<div type="section" n="18">
+<p>XVIII.</p>
+<p>O Veghere nocturnă.</p>
+<p>Sunt câțiva ani acuma, un vestit politic și mare diplomat, de pe înălțimea tribunelor trimite Iașilor următoarea felicitațiune: voiesc să văd crescând iarbă verde pe străzile acestui oraș.</p>
+<p>Fierea ce pune omul zilei în acele cuvinte, era de ajuns să usuce chiar și iarba ce bine voiesc să dorească locului din care a ieșit la lumină, urarea sa cobitoare prevede un mormânt la căpătâiul căruia domnia sa putu să servească de monument, posterității Române.</p>
+<p>Lectorii noștri, nu trebuie să uite că pana noastră lucrează în anul 1865. Iasii pe atunci, nu era nici mai mult, nici mai puțin, de ceea ce este astăzi. Ziua avea aspectul unei panorame la care lipsește numai viața; noaptea de la zece ore în sus, străzile lui pustii și întunecate, erau asemenea cu acele scoase din cenușa Pompeii, care n-au altceva nimic de înfățișat privirii, decât tristele rămășițe a le monumentelor atât de vesele și zgomotoase altădată.</p>
+<p>Dar e urât să-și aducă cineva aminte de trecut, când are viitorul înainte. Să lăsăm toate aceste și să ne întoarcem la istoria noastră.</p>
+<p>Pe când se petrecea asasinatul din băcălie, afară liniștea cea mai desăvârșită domnea. Nu se auzea decât răsunetul ce scotea din pave, pașii sergentului de noapte care ca să astâmpere somnul ce-l cuprindea, în acea tăcere de moarte, se preumbla de colo până colo. Nimic nu întrerupea pașnica sa veghere. Pașii lui obosiți de gropile străzii în care să refăceau, cătară un loc de repaus. Pragul unei dugheni închise, primi între ușorii lui, pe acea fracțiune a puterii publice. Pentru trecătorul întârziat, nimic nu l-ar fi putut face să creadă, că mai este și-o altă suflare deșteptată, afară de dânsul, dacă nu era din când în când, o tuse sau un căscat ce de la colțul străzii se amesteca cu bătaia vântului.</p>
+<p>E dulce și fără de voie somnul, când știi că trebuie să fii deștept, când ghemuit, cu totul într-o largă manta, simți pe față răcoarea unui vânt ce cată să adoarmă. Astfel sergentul nostru, se gândi pentru un moment, a lăsa și în acea seară vegherea nocturnă, în mâinile lui D-Zeu, care de mult observase el, că face tot ce nu făcu oamenii în această țară.</p>
+<p>Pe când el se visa înaintea Prefectului de Poliție, dând obișnuitul raport de o desăvârșită liniște; o împrejurare nimici toată liniștea raportată. Zgomotul ce venea la urechea lui, și în buimăceala somnului, urmând visul său, crezu că este vocea prefectului cărei mulțumea de țelul lui, apoi puțin câte puțin mai deștept, crezu deocamdată că este șuierul vântului, dar un urlet pătrunzător și lămurit, puse în picioare pe gardianul nostru.</p>
+<p>— Negreșit, Ilie a uitat să dezlege câinele lui, cugetă el punându-se iarăși la locul Iui.</p>
+<p>Dar urletele câinelui, urmau din ce în ce mai sălbatice; bietul om nu putea continua vegherea lui.</p>
+<p>— La dracu! adăugă el în sine frecându-se la ochi; asta strică liniștea cetățenilor. Să vedem ce este.</p>
+<p>Și sculându-se pe picioare, destinse puțin mușchii lui amorțiți, și pleacă cu-n pas lent către băcălia lui Ilie. Apropiindu-se privi prin crăpătura ușii care era de lemn, o lumină se arăta înăuntru, dar nu se vedea nimeni. Atunci bătând în ușă se păru că aude oarecare mișcare, ce deșteptă curiozitatea lui.</p>
+<p>— Deschide! strigă el îndoind loviturile.</p>
+<p>Niciun răspuns.</p>
+<p>— Dar n-auzi să deschizi ușa? repetă el zguduind ușa cu putere.</p>
+<p>— Cine-i acolo ? întrebă dinăuntru o voce ce seamană mult cu a unei femei.</p>
+<p>— Eu.</p>
+<p>— Care eu?</p>
+<p>— Sergentul de pont.</p>
+<p>Atunci se auzi o mișcare mai ciudată înăuntru, unde sergentul putu vedea o femeie, care ținând o lumânare în mână, se oprise drept în mijlocul dughenii, de unde cu o voce foarte tremurătoare, puse această nouă întrebare:</p>
+<p>— Și ce vrei?</p>
+<p>— Să iau un pahar de rachiu.</p>
+<p>— La vremea asta ?</p>
+<p>— Negreșit, Jupânul Ilie mi-adat destul și în alte rânduri, cu toate că era mai târziu decât acuma.</p>
+<p>—Se poate, dar vezi acum s-a culcat, și nu voiește să se scoale; răspunse vocea dinăuntru, trecând în odăița de lângă dugheană.</p>
+<p>Sergentul rămase încremenit, înaintea ușii; cu toate aceste, rațiunea lui se lupta cu evenimentele ce-l făceau să se îngrijească. În adevăr, lui se întâmplase și alte dăți asemenea refuzuri, dar singur Ilie era care se prezentă în dugheană. Cum se face acuma, că o femeie să umble în locul lui, la o asemenea vreme? Și cine este această femeie ? Sunt trei zile de când bacalul izgonise pe cea din urmă, fără să mai tocmească pe alta. Apoi presupunând, că ghibacele negustor adusese acea femeie de ocaziune, pentru ce atâta teamă și nesiguranță în vocea ei? </p>
+<p>Acestea prevedea mintea sergentului, când un nou zgomot, atrase privirea lui iarăși la crăpătură. Aceeași femeie apăru în pragul ușii de la fund, cu sfeșnicul într-o mână, și cu un topor în cealaltă, ea înaintă către tejghea cu un aer de ultima spaimă.</p>
+<p>— Ce vrea să facă ea cu acest topor ? se întrebă în sine sergentul. Voi ști numai decât, dacă nu pot intra pe ușă, voi sări gardul pe dindos.</p>
+<p>Dar la câțiva pași el se opri.</p>
+<p>— Uitasem câinele, el mă va rupe fără îndoială. A! dacă aș avea cel puțin încă o mână de ajutor. Aici trebuie sa se petreacă ceva rău, am o  presimțire care mă face se cred. Să dau semnalul.</p>
+<p>Scoase un fluieraș și șuieră de trei ori. Tocmai o patrulă precedată de un caporal de sergenți, făcea inspecțiunea posturilor de noapte. După două minute ajuns în dreptul băcăliei.</p>
+<p>-Ce este? întreabă caporalul.</p>
+<p>Sergentul explică toate semnele ce-l puneau în îndoială, despre cele ce se petreceau înăuntru. .</p>
+<p>Ei bine! să stricăm ușa și sa vedem ce este, zise caporalul.</p>
+<p>Din contra, domnule caporal, zise sergentul, sunt de idee, ca unul din noi să rămână aici la ușă de pază; iar trei să mergem împrejur și să sărim peste gard.</p>
+<p>— Se mergem dar.</p>
+<p>Conform planului dat de sergent, un soldat al patrulei, rămase de custodie la ușa din față, iar ceilalți făcură împrejur. Caporalul și soldatul ce-i însoți, serviră de scară sergentului, care într-un moment urcă gardul, și sări de acea parte în ogradă.</p>
+<p>Mișcarea lui cea dintâi, aflându-se înăuntru, fu să deschidă poarta companionilor lui de afară, însă mai înainte ca-i aceasta dispozițiune să se îndeplinească;  mâna lui a trebuit să se apuce cu putere, și de gâtul unui individ, ce sta tupilat la poalele gardului.</p>
+<p>— Ce ai făcut? strigă sergentul târând pe acel individ de guler, către poartă.</p>
+<p>— N-am făcut bine, răspunse prinsul tremurănd.</p>
+<p>— Veniți, zise sergentul celor de afară, deschizându-le poarta, fără însă a lăsa din mâini pe individul de țără. Ați auzit, pe acest moșneag, adause el, prezentând vânatul său; ați auzit, că n-au făcut bine?</p>
+<p>— Asta am auzit, dar nu știm ce-i pricina.</p>
+<p>— Mai înainte de toate, zise soldatul înaintând, am face bine să cercetăm și mai încolo, căci dacă nu mă înșala ochii, pare că văd colo, ceva ca un gărlici de pivnițe, ș-o umbră ce se mișcă.</p>
+<p>— Pe sufletul meu! ai dreptate, zise caporalul uitându-se în partea indicată de soldat. Iată umbra care s-a tupilat, la cuvintele tale. Ia ascultă moșnege, adause el înturnându-se către prins, singur ai trebăluit aici?</p>
+<p>— Nu.</p>
+<p>— Și cine mai este cu tine?</p>
+<p>— Femeia mea.</p>
+<p>— Și alții?</p>
+<p>— Nimeni.</p>
+<p> — Să mergem băieți, să punem mâna și pe stafia de la pivniță; apoi în casă vom afla totul.</p>
+<p>Porniră cu toții către gărliciul zărit de soldat. Sergentul, cu toată seriozitatea misterului ce urmă să se deslege, nu putea să-și oprească mirarea lui, văzând pe câinele de care avea atâta spaimă, slobod, mergând înaintea lor și scoțând gemete surde, însoțite de gudurări.</p>
+<p>Soldatul nu se înșelase deloc; în  apropiere de case, era un gărlici de pivnițe de coastele căruia găsiră o femeie lipită ca o scândură. Descoperitorul se însărcină cu dânsa, după care se îndrumară cu toții spre case, în pragul căruia îi aștepta cu îndoite gemete mai plângătoare.</p>
+<p>I Putoare.</p>
+<p>In casă o completă desordine, arată urmele unei crime. Pe masă rămășițele unei cine; pe jos pahare răsturnate; așternut împrăștiat; pete de sânge; un cuțit și o mușche.</p>
+<p> -Dar unde este Ilie? întrebă sergentul, ducând privirea lui asupra culpabililor.</p>
+<p>Niciun răspuns. Dar atențiunea tuturora, fu îndată atrase de câinele, ce scurmă cu botul și cu labele, asupra așternutului împrăștiat la pământ..</p>
+<p>— Eu vedeți ce să fie acolo? zise caporalul.</p>
+<p>Perini, saltele și oghialuri, fură la moment ridicate. Desubtul lor, se găsi cadavrul iui Ilie care zace într-o baltă de sânge încă fumegând. Caporalul atunci, alergă la ușa din față, pe care o deschise.</p>
+<p>— Alergă repede, după comisarul di-jurne, zise el soldatului. Spune-i că s-au intămplat un omor aici.</p>
+<p>Soldatul plecă la goană. În jumătate de oră casa lui Ilie se umplu. Pe când doctorii prin autopsie, constată starea cadavrului, din a cărui interior se probă că moartea urmase în momentele de beție; justiția din partea ei adună corpurile delictului, ca pe niște moaște ce urmau a fi invocate la timp de către ministerul public.</p>
+</div>
+<div type="section"  n="19">
+<p>XIX.</p>
+<p>Instrucțiunea Causei.</p>
+<p>Culpabilei aduși înaintea justiției, era bătrânul și femeia găzduiți de Ilie.</p>
+<p>Intr. Cum te numești?</p>
+<p>Res. Ioan Butnariu.</p>
+<p>Intr. Unde ești născut.</p>
+<p>Res. Aici în Iași.</p>
+<p>Intr. Ce vârstă ai?</p>
+<p>Res. Șaptezeci de ani.</p>
+<p>Intr. Ce profesiune exercitai?</p>
+<p>Res. Butnăria.</p>
+<p>Intr. Ești întrebat să arăți, împrejurările uciderii lui Ilie Bacalu?</p>
+<p>Res. Eu cunoșteam pe Ilie încă de mult, ba chiar avusesem și afaceri de interes cu el. Era acuma aproape o lună de zile, de când nu mersesem la dânsu. Încurcat pe nedrept într-un proces, eram amenințata, îmi pierde via ce am la Șorogari. Ruina-mi sta la ochi zi și noapte; mă gândeam ce este de făcut, cănd Ilie-mi trecu prin cap, ideea că el are bani, nu-mi ieșea din minte. Într-o seară, pe când eram numai eu și cu nevasta acasă, am zis eu; „Știi tu „Elenă, că suntem în primejdie de a rămâne săraci. Astă treabă nu-i bună deloc la vârsta mea, când nu mai pot munci. De aceea mi-a venit o idee ca să scap de dânsa; să mergem la Iași, să tragem în gazdă ca totdeauna la Ilie bacalu, și să facem o revizie „tejghelei lui.“ Cunoaștem pe Ilie de omul cela mai arțăgos; mi-am închipuit că o sfadă nu va fi lucru greu între noi, și la împrejurare chiar să-l și ucid. Această hotărâre luată, pusei cuțitul ș-o mușche la brâu, și veni cu nevasta la Ilie, unde toate se petrec așa cum le prevăzusem eu.</p>
+<p>Intr, Când ai infipt cuțitul în gâtul bacalului, ce făcea femeia ta?</p>
+<p>Res. Ea-l apucase cu mâinile de păr, și-i răgea, capul îndărept pe spate.</p>
+<p>Intr. Și după ce l-ați ucis, ce ați mai făcut?</p>
+<p>Res. Eu am târât pe mort într-un colț, unde l-am astupat cu așternutul lui, iar nevasta, după cum i-am zis eu, a luat sfeșnicul cu lumânarea, și a trecut în dugheană, să ia banii din tejghea.</p>
+<p>Intr. Sergentul de la pont, te-a văzut pe tine Elenă trecând din dugheană în odaie, și apoi iar întorcându-te cu un topor în mână, pentru ce luase-și acel topor?</p>
+<p>Res. Ca să stric tejgheaua, pe care eră pus un lacăt cu două belciuge.</p>
+<p>Intr. Dar dacă la întâia dată, cănd ai fost în dugheană, ai auzit pe sergentul care bătea in ușă; cum de nu ți-a fostu frică să te intorni earăși, și.ăncă cu unu topor in mănă?</p>
+<p>Res. Nu-mi aduc tocmai bine aminte, ce se petrecea în mine atunci. Tot ce știu este, că ne mai auzind huiet afară, am stricat tejgheaua și am luat ce se găsea într-ânsa.</p>
+<p>Intr. Ai găsit bani, și ce monedă eră?</p>
+<p>Res. Mai mulți gologani și câțiva bani de argint.</p>
+<p>Intr. Și ce ai făcut cu ei?</p>
+<p>Res. I-am pus pe masă în odăiță, unde au și rămas.</p>
+<p>Intr. Dar bine nu v-ați gândit, că săvârșiți un omor, și că veți fi pedepsiți de oameni și de D-zeu?</p>
+<p>Res. La început nu. Pe urmă da, mi-a părut chiar rău de fapta ce săvârșisem.</p>
+<p>Intr. Dacă în adevăr, ați regretat omuciderea, atunci pentru ce, ați încercat de a fugi?</p>
+<p>Res. Nu voiam să fugim, dar ne era frică și ne ascundeam.</p>
+<p>Din toată instrucțiunea făcută, noi reproducem aici, numai ceea ce poate interesa cursul istoriei noastre, și pe cât ne putem aduce aminte, după doi ani de cănd am auzit o verbală repetată de mai multe guri; totul este, că delictul fiind de natura acelor atribute juriului, cauza se trimise înaintea camerei de punere sub acuzațiune; iar pe acuzați la casa de opreală a curții de apel din Iași.</p>
+<p>(Urmare in numărul viitor), Em. Arghiropol.</p>
+</div>
+            </div>
+            <div type="part" n="9">
+<p>CONDAMNATA.</p>
+<p>(Urmare.)</p>
+<div type="section"  n="20">
+<p>XX.</p>
+<p>O seară la penitenciar.</p>
+<p>Noi am văzut contrazicerea ce exista între cele depuse de bătrânul Butnariu și între faptele adevărat petrecute. Urmând spuselor de dânsu, Elena nu putea fi considerată decât de, partașe cu deplină știință la uciderea lui Ilie. Crima eră premeditată, și săvârșită cu cea mai mare stăruință; mai mult însă, Elena nu ccntestase deloc, incriminările aruncate asupra-i. Dacă ea s-ar fi găndit un moment măcar, la împrejurările care o incunjurau, negreșit ar fi luat pe bărbatul ei drept un nebun; dar ea nu s-a gândit la nimic altă decăt, a urma lui, oriunde, fie chiar și la moarte. Și pentru aceasta, avea rezoanile ei, adâncu săpate în inima și sufletul ei. Ion Butnariu fusese pentru dânsa, mai mult decăt un părinte. Nu era ea, acea femeie părăsită, în mijlocul unei lumi necunoscute: fără părinți, fără rude, fără amici?</p>
+<p>Nu era ea acea femeie prostituată, condamnată a purta veșnic pata dezonoarei ei? Și ce-i păsa ei dacă toată acea lume, privea astăzi la Ion Butnariu ca la un monstru! Ea nu va fi mai puțin respinsă din sânul ei, chiar dacă ar desminți pe protectorul său, și ar dovedi nevinovăția sa pană la evidențe! Pentru lume este de ajuns un cuvânt, pentru ca să trimită în întuneric pe nenorocitul asupra căruia a căzut.</p>
+<p>Aceste rezoane făceau pe Elena să tacă, și se sufere orice soartă, iar hotărî justiția, numai să nu părăsească pe acela care, în timp de optsprezece ani nu au refuzat un singur moment până și adăpostul lui. Erau patru luni de când, ea locuia în zidurile reci ale penitenciarului, într-o boltă întunecoasă, împreună cu alte câteva femei deținute pentru alte fapte; fără să vadă pe Ion care, ocupa o altă boltă în penitenciarul cela mare, decât atunci cănd erau chemați la interogatoriu.</p>
+<p>Viața arestaților e totdeauna socială, și mai cu seamă serile, pe când orice grijă despre gardian sau temniceriu au dispărut, se încing discuțiunile cele mai înfocate, asupra vieții și faptelor ce fiecare din ei au săvârșit, mai înainte de a fi închiși.</p>
+<p>Pentru interesul istoriei noastre, și ca să dăm lectorilor noștri o idee, despre ceea ce vrea se zică o viață socială în arest, permite-ne a-i conduce până la penitenciarul cel mic. Îndată ce ai urcat cele două scări de sub  arcadă, te găsești într-un antret a cărui pardoseală de lespezi răsună sub pași într-un chip foarte posomorât. În acest antret dă scara de la rândul de sus, și trei uși; una la fund, alta în dreapta, și alta la stânga. Deasupra acestei din urmă, pe o tablă neagră este scris cu litere albe. Arestul femeilor. Să intrăm acolo.</p>
+<p>Ziua se îndesară. Patru femei îmbrăcate în sumane, erau adunate la un loc pe un pat de la fundul baștei. Ele erau cufundate într-o convorbire ce se părea de mult interes, pe cănd mâinile lor desfăceau la capete de țigară, care învălite într-o hârtie mai mare, erau fumate c-o poftă ce nu se poate descrie.</p>
+<p>— Și de unde dracu, ai cules tu atâtea capete de țigară, fa Ioană? întreba una din ele sucindu-și o țigară.</p>
+<p>— De la curte, răspunse cea cu numele de Ioană. Până să mă cheme judecătorul de instrucțiune, am sat în șală între soldați, pândind și strigând la buzunar toate căpețelile ce cădeau din mâna oamenilor ce treceau pe lângă mine.</p>
+<p>— Dar, ia spune, ce ai făcut la judecător? întrebă o alta.</p>
+<p>— M-au cercetat dacă am furat lucrurile găsite la mine, și în ce fel...</p>
+<p>— Hai, de, de! Că tu erai nebună să spui, întrerupse ce de al patrulea, stupind jos, așa precum luase țigara de la gură ca să vorbească.</p>
+<p>— Ba din contra, reluă Ioana, am spus că le-am furat.</p>
+<p>— Ce vorbești! exclamă auditorul.</p>
+<p>— Adică pentru ce v-ați mira voi așa. Credeți că tăgăduind iese vreun folos? mai rău!</p>
+<p>— Dar bine, nu-ți aduci aminte de Catinca... cea care furase niște brânză? N-o fost judecată de jurați, numai din pricina ei?</p>
+<p>— Așa este, răspunse Ioana, așezându-se mai bine pe pat. Dar vezi ea a fost o proastă, căci mărturisind furarea brânzei, care era dovedită, au uitat să tăgăduiască spargerea gaștei, despre care numai se bănuia. Eu însă care nu uit lecțiile ce pe toată ziua capătu, am ținut minte, mai ca osebire cazul Catincăi, care e tocmai de o potrivă cu al meu.</p>
+<p>— Astfel?</p>
+<p>-Astfel, am mărturisit furtul care nu era chip de ascuns, de vreme ce s-au găsit lucrurile la mine, și am tăgăduit stricarea lăcăței pentru care nu er nici o dovadă, mai ales că eu avusesem îngrijere a lua și lacătul.</p>
+<p>— Ei bine și ce iese de acolo?</p>
+<p>— Hum! proaste ce sunteți, răspunse Ioana slobozind din gură rotele de fum. N-ați auzit de atâtea ori spunându-se, că furtul oricât de mare ar fi, nu se caută decât împrejurările cu care s-au săvârșit? Astfel eu, mărturisind numai furtul m-au dat în judecata Tribunalului, de unde am să primesc o pedeapsă simplă corecțională, adică o închisoare de la șase pană la cincisprezece zile; în vreme ce mărturisind singură eu spargerea care, nu s-a mai putut constata, mă trimete la jurați, de unde mă înfunda cel puțin pentru trei ani, la Mărgineni.</p>
+<p>— Dacă e așa, oare n-aș putea scăpa și eu? întreba cel de-al patrulea care se numea Soltan.</p>
+<p>— Să vedem cazul tău, și ți-oi spune, răspunse Ioana.</p>
+<p>— Să vă spun, întâmplarea mea e o istorie întreagă, și dacă nu vi se urăște, așezați-vă acolo și ascultați.</p>
+<p>— Mai îngădui puțin Soltană, reluă Ioana ridicându-se, și plecând către colțul patului unde, învălită în sumanul ei gemea o a cincea femeie ce nu luase parte nicicum la convorbirea lor. Elenă, ce gemi tu acolo? Vino ș-ascultă istoria ce are a ne spune Soltana.</p>
+<p>O figură galbenă și uscată, se arătă din învălitoarea sumanului.</p>
+<p>— Vorbiți că v-aud de aici, răspunse ea cu un glas slăbit.</p>
+<p>Ba nu așa! vino intre noi.</p>
+<p>— Aș face-o cu toată bucuria, însă nu pot. Am ceva ca o slăbiciune care mă ține în loc. O nouă întâmplare trebuie se vie asupra mea, adause ea suspinând.</p>
+<p>— Totdeauna păcătoase! răspunse Ioana; și intorcându-se către celelalte femei: fiindcă ea nu se poate scula veniți cu toatele aici lângă dânsa. Așa. Acuma începe Soltană, istoria ta.</p>
+<p>— Ca să fiu mai bine înțeleasă de voi, luă Soltana, trebuie să vă lămuresc mai întâi, despre starea în care mă găseam la începutul întâmplării mele. De loc, sunt din Medeleni, cum am zice pruteancă. Încă din copilărie slujeam la un pascariu, care și el, ajunsese acum om bătrân. Rămas holtei tomnatic, pascariul meu nu avea pe nimeni mai de aproape decât pe mine. Ce să zic ? mă ține cât se poate mai bine; dar știi, omul nu este niciodată mulțumit. Astfel după banii ce câștiga el, cu păscăria și altele, mi se părea că tot nu face de ajuns pentru mine. Odată gândurile mele luate pe această cale, din se făcu mai rele, până ce ajunse a mă hotărî să prăd pe stăpânul meu. Însă treaba nu era ușoară; zgârcitul ținea banii sub șapte lăcăți, după cum zic românii. Cu toate  aceste, nu erau lăcățile de care mă temeam, după cum veți vedea îndată. Dar de moșneag, care de o bucată de vreme nu se mai depărta de casă. In sfârșit  îl pândeam ca mâța pe șoarece, și vă voi spune îndată cum în locul șoarecului se prinse mâța în capcană.</p>
+<p>„Sunt acuma trei ani; într-o zi așa ca pe la amurg, sosi la noi un bătrân ca de cinci-zeci ani. Fața lui arătă multă omenie și blândețe, dar se vedea foarte obosită, căci mâna lui tremura cumplit, pe când se rezema pe bastonul de corn ce ținea. Ajuns înaintea mea, care stăm în poartă, imi dădu o buna vreme, și cu un glas ce bătea mult a Lipovinesc, mă intrebă: bucuroși de oaspeți? Eu îi arătai pe bătrânul pascariu care, în altfel era om foarte primitor; și mai îndată se înțeleseră de minune, Vremea era frumoasă, și răcoarea nopții îndemna afară chiar și pe furnici. Moșnegii mei se puse unul lângă altul, pe prispa din dreapta, pe cănd eu, lungită pe prispa din stânga, trăgeam cu urechea vorbele lor, neavând altceva de făcut așa precum drumețul nu voi să ia nimic în gură.</p>
+<p>Fără îndoială, dacă n-am avea de ajuns vreme, pentru ca să o trecem și în povești, aș lăsa de o parte istoria drumețului, și v-aș spune numai că venirea lui, mi-a deschis drumul la lada cu banii pascarului, dar fiindcă nu-i altă de facut și ca să ne mai treacă de urât, să ascultăm ce spun bătrânii de pe prispă.</p>
+<p>„— De unde ești, cumetre? intrebă pascariul.</p>
+<p>„— De peste Prutu, de la sat. </p>
+<p>„— Nu știu dacă mă înșel, dar mi se pare că te-am mai văzut eu undeva.</p>
+<p>„— Se poate, răspunse drumețul, căci  acuma de vreo treizeci ani, caut neîncetat dincoace, la Moldova, o copilă pierdută.</p>
+<p>„— Și încalea, ai găsit-o?</p>
+<p>„— Vai, nu! De șepte-sprezece ori am trecut prutul, cercetându din sat în sat, în toată întinderea lui, fără să aflu cea mai mică urmă macar.</p>
+<p>„— Și mare era copila ?</p>
+<p>„— De cinci ani.</p>
+<p>„— Atunci de ce nu cercetezi mai cu osebire printre femei, căci de va fi trăind, copila trebuie să fie acuma o femeie în vârstă.</p>
+<p>„— Tocmai asta mi-am zis și eu; de aceea n-a rămas femeie necercetată cu de amăruntul, și mai cu seamă cele care poartă numele de Elena.</p>
+<p>La aceste din urmă cuvinte, o mișcare iute se făcu în fundul patului, pe care ședea cele cinci femei.</p>
+<p>— Elena, ai zis? întreba cu ochii boldiți și cu figura galbănă.</p>
+<p>— Dar tocmai așa, răspunse Soltana întrerupând istoria ei. Și ce găsești de mirare aici?</p>
+<p>—Nimic! răspunse Elena cufundându-se iar în sumanul ei. Urmează te rog, e o frumoasă istorie aceea ce ne spui.</p>
+<p>— Dacă găsești și tu că e frumoasă, ; reluă Soltana sucind o nouă țigară. Apoi să știi că am s-o urmez, și încă cu tot tabietul de istoric, căci în altfel, eram hotărâtă s-o scurtez, ca s-ajung acolo unde mă doare pe mine, adică la capcana în care am căzut. </p>
+<p>— Ei taci, bună de gură ce ești! zise Ioana. Începe acu. </p>
+<p>— Iată că încep, lasați-mă numai să-mi aprind țigara. Așa... Acuma destupați-vă urechile și ascultați, că am ajuns la partea cea mai frumoasă a istoriei mele.</p>
+<p>„După cum vă spuneam, mai multe vorbe se schimbară între amândoi, până ce drumețul, ca să lămurească și mai bine pe pescar, care pretindea că ar fi având oarecare cunoștințe vechi despre o fata găsită, se hotărî a spune de la început istoria copilei pierdute, și el începu așa: </p>
+<p>„Pe când eram în vârstă de nouăsprezece ani, fratele meu mai mare, pentru un folos mârșav de bani, mă târî și pe mine la săvârșirea unei crime. Copila despre care ți-am vorbit a fost furată de noi, în timpul nopții, și lepădată dincoace de prut în Moldova. Întocmai precum prevăzuse Codrat (o nouă mișcare pe patul acuratelor), acesta e numele fratelui meu; Iacob unchiul nostru nu pută suferi mult timp această lovitură. După trei luni el închise ochii fără să cunoască pe călăii lui. Eu stam de o parte în Chișinău ascuns de toate privirile oamenilor, pe când Codrat „fără cea mai mică milă, puse mâna pe „toată averea lui Iacob, dând afară din casă pe nenorocita văduvă; pe biata Maria, care de la pierderea copilei sale, „ajunsese o umbră ce nu se mai putea ține pe picioare. În curs de opt luni, o singură dată văzui pe acel frate, de care mi-a fost totdeauna groază, și a sta la moartea lui. Aflu că, bănuit fiind el de Iftime crâșmarul din sat, Codrat a vroit să se mântuie de el, și pe când se repedea asupra lui Iftime c-o bardă, acesta-l prăbuși cu un scaun drept în cap. Ochii mei, nu vărsară nicio lacrimă după acest dușman al omenirii, a cărui sfârșit ajunsese tocmai după cum îl prevăzusem eu. Moartea lui, puse capăt temerii mele, și fără a pierde vreme, cercetai de Măria. Ea ajunsese calică, dormind pe sub gardurile oamenilor. Mă grăbii a o strânge de pe uliți, așezând-o iarăși în casa lui Iacob, care împreună cu moșia scapase nebătute la tălpi. Intr-o zi pe când Maria, mai venise puțin în sineiu, plângând și cerându-i iertare, spun toate împrejurările privitoare la furarea copilei. Îi dau nădejde a o regăsi, și căpătându-mă de bani, plec întru căutarea ei. De câte ori mă întorceam singur, și mai deznădăjduit decât totdeauna, reînsuflețem pe Maria cu noi făgăduinți, plecând iarăși pentru a fi așteptat, ca și acuma în pragul ușii, cu zâmbetul pe buze... dar vai în zadar. D-Zeu nu voiește, să mă ierte de păcatul meu!</p>
+<p>Aici bietul bătrân începu a plânge; precum face și Elena ascultând, dar stăpânul meu luându-l de mână, îl întreabă:</p>
+<p>Cum te numești, cumetre?  Simion răspunse el.</p>
+<p>-Ei bine Simioane! tu ești un bun om, și D-Zeu nu va putea sta mult timp rece, la fierbințile tale rugăminți. Și dacă presimțirile mele nu mă înșeală, pot  zice că, nu ești departe a descoperi armele căprioarei pierdute.</p>
+<p>Se fie cu putință oare? Așa cred eu, cel puțin.</p>
+<p>-O, spune! spune, te rog tot ce știi! și bietul om se ruga cu atâta foc, că ți se făcea milă de el.</p>
+<p>-Ei bine, ascultă ce mi s-au întâmplat mie, sunt acuma treizeci și mai bine de ani, reluă pascarul. Iară a doua zi de sfinții Constantin și Elena, așa pe la ivirea zorilor, eu împreună cu alți doi flăcăi, plecarăm la Iași cu trei căruțe pline cu pește. Ajungând în lunea despre Sculeni, aproape de mal și în tufăriș, găsirăm o copiliță în vârstă de cinci ani. Mititica era înghețată de tot și muiată de ploaia nopții. O luai eu singur de acolo și urcând-o pe căruța mea o învălii cu sumanul, ducând-o astfel până la Iași, unde am și lăsat-o, pe ulița târgul Cucului.</p>
+<p>— Și de atunci, nu mai știi nimic despre dânsa? întrebă drumețul, a cărui inimă se bătea cumplit.</p>
+<p>— Nimic!</p>
+<p>— Dar cel puțin, mă vei duce pe mine la Iași, prin locurile unde ai depus copila.... poate voi afla ceva.</p>
+<p>Pascarul clătină din cap cu tristețe.</p>
+<p>— Cum nu zici nimic? urmă bietul om muncindu-se cu supărarea lui. Mă faci să mor de bucurie, descoperindu-mi ceea ce de treizeci și șase de ani nu pot afla, și când să scap la liman, mă lași? Dar asta nu se poate, asta ar fi mai mult decât o cruzime! trebuie să mă duci, căci era ea, sunt așa de sigur cum te văd pe d-neta.</p>
+<p>— Te plâng, dar nu pot să-ți fiu nici de un ajutor.</p>
+<p>— Și pentru ce ?</p>
+<p>— Pentru că Iașul este un furnicar, pentru că odată vârât în el nu te mai poți deosebi, și mai cu seamă după treizeci și atâția de ani!</p>
+<p>— Mă iartă, dar nu te înțeleg.</p>
+<p>— Ei bine! ca se me înțelegi vino încoace. Atunci, ridicându-se luă de mană pe străin, și se îndreptă cătră Prut, la malul căruia se opriră. De curiozitate-i urmă și eu.</p>
+<p>—Ține această pietricică, pascarul plecându-se jos, și luând o pietricică, Inchipuiește-ți că Prutul este Iașul și că pietricică e fata...</p>
+<p>— Ei bine.</p>
+<p>— Aruncă pietricică în Prut. Așa. Acum să o lăsămu și mâine dimineață, să vii să-mi scoți aceeași pietricică.</p>
+<p>—Înțeleg... ai dreptate..., zise sărmanul străin c-o adâncă durere. Cu toate aceste, mai am o nădejde.</p>
+<p>— Care ?</p>
+<p>— Aceea că oamenii vorbesc, și din gură in gură voi afla ce-mi trebuie. Și plin de nădejde, te rog nu mă lăsa, fă binele încalea pănă în sfârșit?</p>
+<p>— Dar vezi am trebi... ș-apoi sunt și bătrăn.</p>
+<p>— Te voi duce cu trăsura, și pentru vremea câtă-i pierde, ține acum deocamdată douăzeci de ruble. Numai nu mă lăsa.</p>
+<p>În sfârșit ce se vă mai spun; banii înduplică pe zgârcitul meu, care a doua zi numai departe, plecă la Iași cu străinul de peste Prut. Eu, de cum mă văzui singură, apuc melesteul, îl trec în belciugele de la ușa cămăruței cu lada, și peste un minut, aceeași operațiune  făceam și lădei, care-mi deschise sânul ei plin cu bani. Acum mă căpătuisem cu cincizeci galbeni, și gândeam să-mi iau tălpășița, căt se poate mai degrabă, și mai departe. Dar lucrul dracului! n-apuc să ies din odăiță, că mă prinde fără de veste, înaintea lăzii și cu banii în mână, un vecin care căta pe pascar. De acolo mă duse la primar, de la primar la subprefect, în sfârșit din icoană în icoană, pănă ce am ajuns între voi, unde șed de trei ani. Acum că ț-am spus pricina mea, invață-mă ce trebuie să fac, Ioană?</p>
+<p>— Vom mai vorbi noi despre asta, răspunse Ioana sculându-se. Acuma deodată să vedem, pentru ce geme așa Elena. Mi se pare că doarme, urmă ea dezvălind pe bolnavă. Dar ia tăceți să ascultăm, ce spune ea prin vis.</p>
+<p>— Sărmane Simioane! tu nu mă vei găsi niciodată! și mama!... biata mea mamă, ea va muri de durere, fără să-și vadă copilul ei, așa de nenorocit.</p>
+<p>— Auzi? ei nu-i iese din gând Simion al tău, Soltană.</p>
+<p>— Adică să vă spun ceva, zise Soltana așternându-se pe culcare, mare lucru să fie, dacă femeia asta nu-i nebună?</p>
+<p>— Nu surorilor, nu sunt nebună, zise Elena cu un glas slăbit ridicându-se într-un cot, sunt zdrobită de durere. Și dacă istoria voastră m-a atins, este că acea copilă lepădată sunt eu!</p>
+<p>Toate femeile rămase cu gura cascată, la această descoperire neașteptată; și de aici nouă motive de vorbă ce ținti pănă la miezul nopții, fără însă să ia parte și Elena care rămase într-un fel de amorțeală, ce nu putea învinge.</p>
+<p>Ziua următoare aduse Elenei o nouă lovitură. Temniceriul venea s-o caute, spunăndu-i cu cea mai mare răceală, că bărbatul ei, Ion Butnariu, murise chiar în acea noapte.</p>
+<p>(Finitul in numărul 11).</p>
+<p>Em. Arghiropol.</p>
+</div>
+            </div>
+            <div type="part" n="10">
+<p>CONDAMNATA.</p>
+<p>(Urmare și fine.)</p>
+<div type="section"  n="20">
+<p>XXI.</p>
+<p>O consultațiune!</p>
+<p>Murind Ioan Butnariu, toată instrucțiunea procesului se întoarse numai în contra Elenei. Lucrurile merse astfel, pană ce ajunse înaintea juraților, și în ziua de nouă Mai 1867, ajunul zilei determinată pentru judecata ei, să văd chemată de directorile penitenciarului. Acolo în greun un om necunoscut Elenei, o aștepta. Era D-l Alccsandru Botezu, avocatul numit din oficiu pentru apărarea ei.</p>
+<p>Figura, tonul și trista priveliște a Elenei, nu intărziară de a atrage mila omului de lege ce avea, înainte-i. D-lu Botez îi făcu cunoscută misiunea ce avea și în interesul ei o rugă să-i spună tot adevărul.</p>
+<p>Bunatatea cu care erau făcute toate întrebările, da acelei consultațiuni mai mult aerul unei întrețineri familiare, care deschise sufletul și inima Elenei, întocmai ca înaintea unui contesore. Apoi, moartea lui Ion Butnariu ridicase orice resoane de a se mai ascunde. Prin urmare ea spuse tot, tot ce știa, pănă și amorul ei cu Andrei. Istoria ei, nu făcu decât să înduioșeze și mai mult inima avocatului, care-i promise a o apăra din toate puterile sale.</p>
+<p>Cătră seară, consultațiunea fu întreruptă de către un agent al curții juraților care venea să notifice Elenei, lista juraților înaintea cărora era să fie dusă și judecată a doua-zi.</p>
+<p>Plecând acești doi vizitatori, Elena însuflețită de niște speranțe mai bune, fu transportată iarăși în închisoare.</p>
+<p>0! Cât dorea ea de mult să părăsească acea boltă umedă, și cât dorea să respire acel aer de libertatea ce se strecura până la dânsa prin crestele ferestrelor.</p>
+<p>— Mâine se vor sfârși toate! și suspinul ei se pierdu în glasul santinelei care tocmai se schimba.</p>
+<p>Mâine!.....Cât este de lung acest mâine, pentru acel care de doi ani de zile, n-a văzut la deșteptarea lui decât zidurile reci ale temniței sale!</p>
+</div>
+<div type="section"  n="21">
+<p>XXII.</p>
+<p>De câte ori ne apropiem noi de lucrul ce voim, și tocmai când trebuie să ne oprim, noi ne ducem.</p>
+<p>Dacă s-ar fi interesat cineva, putea să vadă de câtva timp pe unele străzi ale Iașului un ciudat personaj, Zicem ciudat în privirea portului său, care nu era nici ca acel care poartă românii noștri de țară, nici ca al târgoveților, cât despre figura lui, gălbie și slăbită, n-avea altceva mai de însemnat decât o nemărginită tristețe. Nimeni n-avea nicio cunoștință despre acest om rătăcitor care avea aerul a căuta ceva, fără cât numai un zidov de pe Bahlui, la care găzduise cu trei ani în urmă. Acel jidov, intrigat mai cu seamă de rublele ce necontenit ieșeau din buzunarul necunoscutului, puse toate silințele, și află că el este de peste Prut și că venise să caute o copilă pierdută cu numele Elena. În zadar cercetase el mai întâi cu bătrânul pascariu care îl adusese în Iași, și apoi singur, căci nu află nici o urmă care să-l pună pe cale a afla ceva despre acea copilă. Trei luni de zile șezuse el la acel jidov, apoi plecase iarăși peste Prut mai deznădăjduit de cum venise.</p>
+<p>După opt luni de zile de la plecare, un băietan din acea mahala, și care ajutase foarte mult în cercetările sale pe bătrânul necunoscut, într-o zi, pe una din străzile principale, întâlni pe ciudatul personaj despre care am vorbit mai sus.</p>
+<p>— Buna ziua, moș Simioane! Strigă băietanul apucând pe necunoscut de mâini.</p>
+<p>— Buna ziua, fătul meu. Ce faci?</p>
+<p>— Bine mulțumesc lui D-zeu. Dar D-ta, când ai venit, moș Simioane ?</p>
+<p>— De vreo zece zile.</p>
+<p>— Și tot pricina aceea cu copila, te aduce pe la noi ?</p>
+<p>— Tot.... tot !</p>
+<p>— Oricum ar fi! Îmi pare bine că te-am văzut; și acum rămâi sănătos. Sunt grăbit să mă duc la vale.</p>
+<p>— Unde ?</p>
+<p>— La Curtea Domnească.</p>
+<p>— Și ce să faci acolo ?</p>
+<p>— Mă duc să văd o femeie și un bătrân, care se zice că au ucis în noaptea trecută, pe un Ilie Bacalu de la podul Bucșinescului. Nu mergi și D-ta?</p>
+<p>— Nu, îți mulțumesc. Sunt sătul de necazurile mele, ca să merg să mai văd și pe ale altora.</p>
+<p>Simion Sulin, pe care lectorii noștri l-au cunoscut fără îndoială în necunoscutul bătrân, poate făcea mai bine să urmeze invitația băietanului. Cine știe dacă prin asta nu se pune capăt necontenitelor lui zbuciumări.</p>
+<p>Mult timp după această intălnire, băietanul știuse, numai văzu și nici mai auzi pomenindu-se ceva despre Simion.</p>
+<p>Noi însâ ne vom ține de urmele acelui bătrân slab, care străbate ulița mare, oprindu-se la tot pasul și sprijinindu-se cu greutate în bățul ce ține în mână. Tocmai iară la unghiul străzii ce dă spre liceu, cănd deodată se văzu baricadată de cineva. Bătrânul Simion avu greutate să cunoască pe tânărul băietan, vechea sa cunoștință. Acesta din parte-i n-o făcuse cu înadinsă voință, ce curat de la întâmplare, așa precum în nebunatica lui imaginațiune iară ocupat a observa feluritele lucruri frumoase, ce erau expuse la ferestrele magazinelor. Dar ciocnirea-i întoarse ochii asupra bătrânului ce avu inainte.</p>
+<p>— Al dracului deșteptare ! zise el în sine, voind să ocolească pe bătrân. Colo numai aur și catifea.... dincoace zdremțe și un schelet în piele. Dar mare facătorule de minuni Pantelimoane, după cum zice mama! Adause el oprindu-se; mi se pare că cunosc eu această formă de om...Da... Tocmai așa. ..E! moș Simioane da nu mă cunoști?</p>
+<p>— Ce mai vrei tinere ? Zise bătrânul ridicând ochii asupra celui care-l oprise, A! da.... tu ești dragă Gavrile? Vai!</p>
+<p>— Mai eu ! Dar bine ce ai ?</p>
+<p>— Ce să am dragul meu; ia slăbiciunile morții care m-a cuprins.... N-ai mai auzit ceva despre copila Elena ?</p>
+<p>— Nu, ia spune-mi unde ai fost până acuma?</p>
+<p>— La spital, răspunse Simion respirând cu greutate.</p>
+<p>— Dar bine te văd încă slab; de ce nu ai mai șezut ?</p>
+<p>— Vai! Doctorii au zis că sunt destul în putere ca să ies.. . Apoi eu singur încă grăbeam, să reîncep căutările mele. În cât suntem astăzi, mă rog ?</p>
+<p>— In zece Mai 1867.</p>
+<p>— Biata, Maria! De un an așteaptă întoarcerea mea. Oare când mă vei ierta tu Doamne de păcătul meu?</p>
+<p>Și ochii cufundați ai bătrânului, se umplură de lacrimi.</p>
+<p>— Nu trebuie să pierzi nădejdea cu totul, zise băietanul. Fă curaj! Ce Doamne iartă-mă doar ești barbat.</p>
+<p>— Așa! Dar când cineva așteaptă 33 ani, începe a-și pierde orice nădejde.</p>
+<p>— N-ai grijă, D-zeu nu uită nimic! Cine știe cât de fericită a fi trăind acea Elenă căutată, pe cănd D-ta te străduiești ca un jidan după datornicii lui. Mai lasă scărba la o parte; cu am pierdut pe tata cu revoluția de la 3 Aprilie, fără să mai am nădejde că se va mai întoarce, de vreme ce l-am văzut mort cu ochii mei, și totu n-am făcut atâta istorie ca D-ta. Ce dracu doar nu piere lumea pentru un om!</p>
+<p>— Așa este,zise bătrânul c-am luat de vorbele nebunului Gavril. Dar vezi, tu n-ai fost întru nimic vinovat la moartea tatălui tău ; așa a vrut D-zeu să fie, pe când eu....</p>
+<p>— Ai pierdut-o înadins ? Intrerupse Gavril. Așa suntem noi oamenii, ne găsim totdeauna vinovați, când e vorba de cei la care ținem. Iată eu nu mai departe; șase luni după moartea tatului meu; nu-mi ieșea din minte cum că n-aș fi eu pricina morții lui. Si asta numai pentru că-l trimesesem la Mitropolie, unde auzisem că se face pomană în ziua aceea.</p>
+<p>— Se vede că un pacat ne paște pe toți! Se lăsăm toate aceste la voia celui de sus, și noi să ne urmăm drumul ce ne este însemnat fiecăruia de către mâna lui cea sfântă. Spune-mi acuma, pe unde vine de mers mai aproape în Păcurari?</p>
+<p>— Dar ce vrei să faci acolo ?</p>
+<p>— Să găsesc un năsipar, care mai înainte ședea în Tătărași, și la care gândesc să mă așez.</p>
+<p>— Dacă, e așa, Gavril luându-l de mână, aide mai întâi cu mine la vale, și în urmă, ne vom întoarce amândoi.</p>
+<p>— Și departe ai să mergi ?</p>
+<p>— Pănă la Curte. Astăzi se judecă la jurați, femeia cea cu omorul Bacalului, despre care ți-am mai vorbit eu cândva.</p>
+<p>— Se vede că ești mare ahotnic de pricini criminale, observă bătrânul fără intențiune.</p>
+<p>— De urât, moș Simioane, de urât, nu de altceva.</p>
+<p>— Atunci du-te de-ți trece urâtul, după cum zici D-ta. Cât despre mine, mă tem că bătrânele mele picioare, nu vor prea fi aplecate la un asemenea gust fistichiu. Te rog dar încă odată, învață-mă pe unde să apuc.</p>
+<p>— Cum vrei. Ține drumul tot înainte, și de cum vei trece poarta academiei, apucă ulița la dreapta. Vei ieși tocmai unde dorești. Rămâi sănătos, moș Simioane! Mă grăbesc, să nu se înceapă cumva procesul fără mine.</p>
+<p>Și nebunaticul băiat se făcu nevăzut în mulțimea ce se strecura pe străzi. Pe când Simion, îndreptă pașii lui molatici, pe calea indicată de Gavril.</p>
+<p>După o oră de drum, picioarele lui tremurânde, refuzară de a-l purta. Iară tocmai în dreptul penitenciarului. Stors de oboseală, el se puse pe o piatră de lângă poartă. Apoi după o jumătate de oră, cu acea reînsuflețire care nu părăsește pe om decât în ultimul moment, germanul bolnav, se ridică iarăși, fără alt sprijin decât bățul său.</p>
+<p>Santinela de la poartă îi spuse să țină ulița tot înainte, și el porni cu aceste cuvinte tremurânde pe buzele lui:</p>
+<p>— Ajută-mi Dumnezeule, să găsesc pe Elena.</p>
+<p>După căteva momente, unsprezece ore sunară. Porțile penitenciarului se deschise, și Elena intră două baionete ieși, ca să fie duse la jurați.</p>
+<p>De căte ori neapropiemu noi de lucrul ce voimu; și tocmai când trebuie să ne oprimu ne ducem.</p>
+<p>Conclusiune.</p>
+<p>Cu toată conștiincioasa și celebra apărare a D-lui avocat, Elena fu condamnată la cinci ani de recluziune. Recursul făcut de dânsa în casațiune, fu respins, și pe la luna lui Februarie anul curent ea fu trimisă la Mărgineni. Dar pe când erau într-o pădure, nu se știe cum, Elena împreună cu alte două femei ce erau duse la aceiași destinațiune, se făcu nevăzută de sub paza escortei.</p>
+<p>De atunci nu s-a mai aflat nimic despre această condamnată. Bătrânul Simion află despre soarta Elenei, tocmai în momentul morții lui, din gura fetei Soltana, care mulțumită lecțiilor ce primise în penitenciarul de la femeia Ioana, scăpase numai cu o pedeapsă corecțională, și acuma devenise femeia nisiparului la care găzduise Simion. Moartea acestuia ne pune în neputință de a da, vreo știință despre nemânghiata Maria. Vom adăuga numai vreo căteva cuvinte, asupra băiatului Gavril, care totodată vor servi de exemplu la curiozitatea unora de o seama lui. Desele lui prezențe la diferite cauze criminale, avură urâtul efect, de a-l trage și pe dânsul în cursă. Toți acuzații achitați, în mintea lui necultivată erau ca scăpați de pedeapsă sau ca iertați, iar nicicum ca nevinovați. Astfel, într-o zi găsi cu cale, aș apropie un surtucu ce-i căzuse sub mână, dar asta-i aduse o inchisoare de câteva luni, după care băietul nostru făcu jurămănt, să nu mai aibă curiozitate de a vedea, nici bucuria nici mâhnirea altuia.</p>
+<p>(Reproductiune oprită.)</p>
+<p>Em. Arghiropol.</p>
+</div>
+</div>
+        </body>
+    </text>
+</TEI>

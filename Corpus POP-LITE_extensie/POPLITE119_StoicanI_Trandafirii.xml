@@ -1,0 +1,2328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Înfloreau trandafirii: ediție POPLITE </title>
+            <author>Stoican, I. I.</author>
+            <respStmt>
+               <resp>codare POPLITE</resp>
+               <name>Teodora Iuriusciuc</name></respStmt>  
+            <respStmt>
+               <resp>verificare codare POPLITE</resp>
+               <name>Roxana Patras</name></respStmt>   
+            <respStmt> 
+               <resp>corectură manuală</resp>
+               <name>Alexandra Ivanov</name>
+            </respStmt>
+            <respStmt> 
+               <resp>verificare corectură manuală</resp>
+               <name>Alexandra Olteanu</name>
+            </respStmt>
+            <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>UAIC</publisher>
+            <date></date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+            <ref type="doi" target="10.5281/zenodo.10781442"></ref>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Stoican, I. I.</author>
+               <title>Înfloreau trandafirii</title>
+               <pubPlace>București</pubPlace>
+              <publisher>EDITURA CARTEA ROMANEASCĂ</publisher>
+               <date>1920</date>
+               <decoNote type="ilustratii" subtype="no"/>
+               <dim unit="char" type="mare"/>
+               <extent>
+                  <measure unit="word">25178</measure>
+                  <measure unit="page" type="under_250"/>
+                  <measure unit="foileton" type="under_65"/>
+                  <measure type="complete"></measure>
+               </extent>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme='https://opentheso.huma-num.fr/opentheso/api/theso/Typologie'>
+               <term type='domaine' ref="https://hdl.handle.net/20.500.11942/crteb7oodgosm">literatura</term>
+               <term type='factualite' ref="https://hdl.handle.net/20.500.11942/crt22aacdhvi7">fictiune</term>
+               <term type='forme' ref="https://hdl.handle.net/20.500.11942/crtnufdew1lfb">proza</term>
+               <term type='genre' ref="https://hdl.handle.net/20.500.11942/crthuyig1pxri">roman</term>
+               <term type='agencement' ref="https://hdl.handle.net/20.500.11942/crtbdm5xnc6io">foileton</term>
+               <term type='origine' ref="https://hdl.handle.net/20.500.11942/crtxolq1evsr9">opera originala</term>
+               <term type='discours' ref="https://hdl.handle.net/20.500.11942/crt4wma17ncnj">narativ</term>
+               <term type='public' ref="https://hdl.handle.net/20.500.11942/crthb4el4r5qc">non défini (public cible)</term>
+               <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
+            </keywords>
+            <keywords>
+               <term type="receptare" n="5"/>
+               <term type="republicare" n="2"/>
+               <term type="finished"></term>
+               
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
+            <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
+         </projectDesc>
+      </encodingDesc>
+   </teiHeader>
+ <text>
+    <front>
+       <div type="titlepage">
+       <p>ÎNFLOREAU TRANDAFIRII</p>
+       <p>(ROMAN)</p>
+       <p>EDITURA CARTEA ROMANEASCĂ S. A. BUCUREȘTI</p>
+       </div>
+       
+       <div type="titlepage">
+       <p>ÎNFLOREAU TRANDAFIRII</p>
+       <p>I I. STOICAN</p>
+       <p>ROMAN</p>
+       <p>1920</p>
+       </div>
+       
+       <div type="liminal">
+       <p>. . Cui va închide, tainic, între pagini,</p>
+       <p>două Iacrimi...</p>
+       <p>... Visu-i singura tărie</p>
+       <p>Și viața-i făr de el pustie!</p>
+       <p>De-acela’n spuma azurie din depărtări cu sete sufletu-mi de cată princesa mea îndepărtată și pentru o clipă fermecată se pierde’n zări!</p>
+       <p>— Edmond Rostand — Princesa ’ndepărtată —</p>
+       </div>
+    </front>
+  <body>
+<div type="chapter" n="1">
+<p>. . Eîle aiiue âbalancer menies reves sur sa tete..</p>
+<p>— Sully Prudhoniue —</p>
+<p>— Les fipretives: Amour —</p>
+<p>— ...Mihu, oprește!'</p>
+<p>— Doamnă!</p>
+<p>— La Sfetea...</p>
+<p>Automobilul stătu brusc.</p>
+<p>Șoferul — Mihu — sări, repede-; deschise portița, scurt. *a</p>
+<p>Doamna Vania Val coborî desprinzându-și gingaș-leneș, pantofii albi-micuți, dintre crisante-mele risipite sfios, albe — roșii — trandafirii...</p>
+<p>...Și, gol, locul lor, părea în mijlocul crisante-melor, două insule eliptice și infime, pustii și bizare, țărmurite, pe întinderea unui suflet imens,de valurile visului, fragede-multicolore...</p>
+
+<p>— ...O lojă pentru șezătoarea scriitorilor...</p>
+<p>— ...Dela 20 Octomvrie... Avem și cele mai apropiate...</p>
+<p>— Nu, dintre cele mai depărtate; chiar în fund...</p>
+<p>— Vă rog, programul, Doamnă...</p>
+<p>— ...Mulțumesc...</p>
+<p>Și, cu înfiorări în suflet și în trup, eși, în mână cu crâmpeiul acela, dreptunghiular, de hârtie albă.</p>
+<p>— încet, la șosea...</p>
+<p>Inserarea/coborî, aproape rece, covârșită de învălurarea sângeroasă a razelor rostogolite, pe frunzele aurii, din culcușul soarelui apus, — profund melancolică.</p>
+<p>Vania Val rătăcise în imprecisiunile vagi, diafan — armonios conturate în regiunile sufletului, cele mai depărtat — cufundate în umbră.</p>
+<p>Și când se desmeticî, găsi că nu-și poate aduce aminte dacă s-a gândit și la ce s-a gândit.</p>
+<p>Se miră, căutând motivele exterioare cari o smulseră din depărtări atât de nemăsurate spre țărmii clipei de față.</p>
+<p>Iși aminti, că, involuntar, schimbase locul unui picior.</p>
+<p>Coborî privirile....</p>
+<p>O insulă eliptică-infimă eră goală și pantoful alb, visă molatec, pe valurile fragede-multicolore albe-roșii-trandafirii...</p>
+<p>Smuci piciorul...</p>
+<p>Călcâiul strivise inima unei crisanteme pale și-i curmase petalele, frânte din mijloc.</p>
+<p>...Și-n pulpa piciorului avu sensația unei scrijelări cu un cuțit care nu tae.</p>
+<p>Șoseaua eră plină, dar neînghesuită, comună și plictisitoare...</p>
+<p>Departe, la Băneasa, se văzu singură, cu copacii cari-și plecau frunzele galbene spre pământ, spre crisantemele și fruntea, ei, ca niște suflete bătrâne, îngenunchiate spre apa amintirilor, cari curge departe spre ținuturi, către care întoarcere nici odată nu mai este... </p>
+<p>Și, era noapte târziu...</p>
+<p>...Și sufletul Vaniei Val eră limpede ca un pârău de lacrimi rostogolit pe o albie de cristal...</p>
+<p>— Fum Aniu...</p>
+<p>..Aniu...</p>
+<p>...Fum... </p>
+<p>Simfoniza aceste două cuvinte, le materializa conturându-le în undele unei armonii, asemănătoare cu mireasma unei rapsodii sacre ritmată de o vestală...</p>
+<p>— Dragul meu, ...Fum Aniu!</p>
+<p>...Și, reîncepea pentru a nenumărata oară să psalmodieze splendide pagini alese, la întâmplare, din romanele captivantului Fum Aniu...</p>
+<p>— Balsam sfânt! Cer înflorit!</p>
+<p>...Și sufletu-i se rostogoli, adânc, prin văile anilor cari trec...</p>
+<p>Când, studentă, se măritase, pornise la braț cu patru tovarăși de drum:</p>
+<p>Anatole France, Pierre Loti...</p>
+<p>Albert Sailfein, Sully Prud’homme!</p>
+<p>In urmă, trena iluziilor, i-o purtă Edmond Ros-tand. 1</p>
+<p>li iubea pasionat...</p>
+<p>Pentru că anii cari trec durase din sufletul ei și din sufletul lor, un bloc.</p>
+<p>Cărțile acelea, legate în piele fumurie, luminoase ca cerul, minunate ca sufletul omenesc, fermecătoare ca o imagine cunoscută, erau plaiurile pe cari-i îngenunchiaseră visurile și desilusiile, erau urnele scăldate în apele soarelui și în care, zilele moarte, picătură cu picătură, își storseseră, întunericul și lumina, lutul și razele...</p>
+<p>Și într-o zi...</p>
+<p>Eră după ce născuse pe Silvanira.</p>
+<p>Trecuseră cinci ani de atunci.</p>
+<p>Nașterea fusese grea... Și dup’o lună, slabă, eră încă în pat...</p>
+<p>Ceruse jurnalele, revistele: dup’o lună!</p>
+<p>..Era început de Aprilie, cu cerul de o duioșie atâta de albastră, de o gingășie fermecătoare infinită, că prin geamurile vilei de la șosea, i se părea că Dumnezeu îl boltise asupra Primăverii,clădindu-l din sufletul tuturor fecioarelor moarte,cari-au visat, dar n’au cunoscut iubirea...</p>
+<p>Și ochiți, i se opriră pe rânduri cari aveau să rămână nemuritoare — cel mai occidental critic în revista cea mai mare a marilor scriitori —spunea:</p>
+<p>..-.„Un roman. Autorul un necunoscut care se ascunde sub pseudominul fluid: Fum Aniu. Nu-1 cunoaște nimeni, n’a mai publicat nimic... Și-unroman... Un cap de operă. Suntem la porțile uneiminuni! Scrisul lui este de o limpezime măreață,xlasică, sguduitoare: pare a fi venit la noi desub cupola măiastră, care cuprinde în Apus, osingură glorie: Anatole France.., Scrisul lui esteun efluviu de imagini. Scrisul lui este o broderiefină, mătăsoasă cu unghiuri înduioșetoare, scân-teetoare de lumină, umbrite de dureri gingașdăltuite. Când am închis cartea par’că vorbisemmult, tăinuit, cu imaginele Iui Albert Samain, culumea unică a Iui Pierre Loti”.</p>
+<p>...Și aduce aminte, deapururi.</p>
+<p>— I-adevărat oare?</p>
+<p>A trimis îndată să-i cumpere cartea.</p>
+<p>A citit-o atunci, imediat, cu beție...</p>
+<p>Era romanul cel dintâiu...</p>
+<p>Și când, pe ultima pagină, a presărat un răzor de lacrimi, a căror floare n’aveă să mai moară nici odată, cerul de April păreâ albia unuisuflet care nu ^cunoscuse nici visul, nici suferința...</p>
+<p>Și-au apărut al doilea și-al treilea roman...</p>
+<p>Și câte și trele romanele Iui Fumf Aniu legate în cea mai scumpă piele fumurie, în iatacul Va-niei (V^al, șiîntr’o cutie'de mătasă albă cu țmuchilede aur, erau amforele, cari purtau gândurile,toate gândurile cari nu cunoscu pragul cuvintelor, și cari nu părăseau iatacul Vaniei Val...</p>
+<p>Și anii trecură... Treceau cum trec, neobosiți mereu.</p>
+<p>Și nimeni, nu știa, cine-i Fum Aniu.</p>
+<p>Lumea... „literară” a Capitalei hu-1 cunoștea.</p>
+<p>Omul — era o enigmă.</p>
+<p>Și într’o zi — eră un an de-atunci — un ziarist de talent —, vestea pentru a doua zi — un reportaj sensațional: „De vorbă cu Fum Anin”.</p>
+<p>Fum Aniu în carne și oase!</p>
+<p>Fum Aniu care stăpânea sufletul—cele mai delicat —rafinate suflete.din lumea intelectuală — Fum Anin e descoperit.</p>
+<p>A doua zi d-na Vania Val, așteptă la chioșc, tremurând, în mijlocul lunei lui Iunie, ziarul miraculos.</p>
+<p>-..Știe pe de rost:</p>
+<p>Fum Aniu nu ascunde un pseudonim.</p>
+<p>...Știe pe de rost:</p>
+<p>„Un tânăr de 30 de ani, frumos ca un zeu din-tr’un Olimp necunoscut;</p>
+<p>Un om sărac împovărat de neAroi.</p>
+<p>Camera lui, într’un orășel de provincie, e căptușită de jos pân'ân tavan cu un potop de cărți.</p>
+<p>Ziua, doarme. Toată ziua.</p>
+<p>Noaptea ? Săvârșește minunile.</p>
+<p>Și ziaristul, când a vrut să-l fotografieze pentru „marele public .admirator”, Fum Aniu Ta Jdat afară.</p>
+<p>Un post-scriptum adăugă:</p>
+<p>Vocea lui seduce...</p>
+<p>Vocea lui dă cuvintelor o expresivitate stranie fermecătoare... .</p>
+<p>Vocea lui este un isvor cu valuri de cristal..</p>
+<p>...Și, vremea trece...</p>
+<p>Cinci zile sunt de-atunci: ziarele, unul mai întâi, apoi, toate, au vestit:</p>
+<p>...Fum Aniu a sosit în capitală, adus de maestru al scrisului nostru.</p>
+<p>La Teatru Național, Fum Aniu va citi fragmente din romanele sale...</p>
+<p>Și... de cinci zile sufletul Vaniei Val este o rostogolire fantastică de gânduri, de amintirismulse din țintirimuri depărtate, de hotărîri carinu se pot întinge pc un punct stabil, în alunecarea aceia neobosită.</p>
+<p>De ani de zile și-1 închipuia și-i așeză imagiy-nea conturată dc dornica-i fantazie, lângă chipul marilor scriitori adorați, bunilor tovarăși de drum greu și lung...</p>
+<p>Ani de zile, îngrădise, fiecare cuvânt, fiecare rând din cărțile lui cu gândurile ei, cu viața iluziilor ei, că-i păreau acum romanele acelea iliștcgrădini, în cari mii de fire de iarbă mijesc, sprelumină, din pământul moale, cald, ușor... Și pământul eră sufletul ei, sufletul Vaniei Val...</p>
+<p>...Și, acum, dacă vrea, poate vedea chipul acela, spre care, undevâr departe, pe un altar necunoscut, din sufletul său, îngenttnchiaseră,^mutilate,stoluri nesfârșite de doruri., .</p>
+<p>Și, di\ sufletul Iui, cu viața glasului lui,-vor porni, fermecătoare, cuvintele, cari până acum,:se hrăniseră numai cu focul sufletului ei...</p>
+<p>/. /. Stoican. — .. înfloreau trandafirii.</p>
+<p>.Și... peste 2 zile... v</p>
+<p>...Și... Vania Val se smulse din gânduri...</p>
+<p>Ridică cartea, cel din urmă roman al lui Fum Aniu, care odihnise îndelung pe sănii Vaniei Valgoi, albi, fierbinți, armonios conturați. Vania Valpipăi paginile.». Erau calde. Cum stătea cu fațaîn sus, moleșită sub convoiul gândurilor, săniipăreau două mici piscuri rotunde de pe cari visurile — și pornesc sborul în lume.</p>
+<p>Ochii, coborîră razele luminilor și buzele-i murmurară, de mii de ori citite, neuitat — frumoasele rânduri:</p>
+<p>„Fericiți sunt sclavii visului!</p>
+<p>Ferifciți preoții suferinței!</p>
+<p>Fericiți cei ce sufăr!</p>
+<p>Fericiți cei ce tac...”</p>
+<p>— ...Vania...</p>
+<p>— Cine-i?</p>
+<p>— Eu?</p>
+<p>— A! Dumneata ! Așa târziu !...</p>
+<p>— Veneam1 și văzui lumină la geamurile tale? Âșâ târziu! Nu te-ai culcat?</p>
+<p>—Citeam! Gândeam!</p>
+<p>— O cărțile, gândurile la 4 despre ziuă!</p>
+<p>Și, Doannul Gheorghe Vial, om trecut de 40 de ani, cu ceâfâtiurtă și bărbie și bani și domenii,,își plimba volumul prin -tăcutul iatac elegant.</p>
+<p>— ...Știi că Schor îmi oferă arendă pentru Fundeni, una sută mii, și cu degetele groase,,bu'tucănite de carne și roșii își desfăcu cravatagulerul, sacoul...</p>
+<p>—Nevestică dragă!...</p>
+<p>— A! Iartă! Nu ! Acuma, nu !</p>
+<p>Și se cobora din pat...</p>
+<p>— Ce-s aceste proaste copilării!?</p>
+<p>— Te rog, du-te în iatacul Dumitale!</p>
+<p>— Nu mă mișc ‘de aici, din patul tău...</p>
+<p>— Oh! cât de oribil ! Mă duc eu singură atunci, în iatacul Dumitale.</p>
+<p>Și ’ntinzârîdu-se în^șternutul bărbatului său, privirile-i se opriră pe un tablou: un picformare, cutezase să prindă în culori albul formelor Vcnerei Uranie — anadyomene..’.</p>
+<p>O ținti multă vreme...</p>
+<p>Și gestul manei aceleia coborîtă, voluptuos; centru a schiță ideia castității i se parii de’ o pudoare și de o ipocrizie nesfârșită...</p>
+<p>închise ochii....</p>
+<p>...Și, i se năzări muzeul Vaticanului, în lumina aceia divină,1 reflectată par’că de fundul uneimări, în cari-l văzuse scăldat, cu zece ani jnurină, la Roma...</p>
+<p>Se revăzîi în mijlocul împărăției aceleia de statui de marmoră albă...</p>
+<p>O lume întreagă încremenită, pe vecie, în formele desăvârșite ale perfecției sale...</p>
+<p>Și toată lumea aceea se cufunda par’că, pră-păstuiridu-se sfărmată, în sufletul său.</p>
+<p>Și, deasupra muzeului Vaticanului, îngropat în lumina incomparabilă a cetății eterne, o singură statue se înălță către soare:</p>
+<p>Transfigurat, halucinat: Apolo musagetul pășind, ușor pe-un drum de raze...</p>
+<p>Și ochii Vaniei iVal, deschiși mari spre contemplarea infinitului pe cari-l copăr genele, văzură statua lui Apolo musagetul, albă, perfectă și vie,prinzând contururile trupului și sufletului său...</p>
+<p>...Și văzu, i-se păru că vede stoluri, visurile, spre plaiurile lumii, pornind în sbor ușor, depe sânii săi, cari-i se năzăreau ca două mici piscuri de marmoră albă, fierbinți și rotunde, copleșite de toată lumina dorurilor sale.</p>
+</div>
+<div type="chapter" n="2">
+<p>II</p>
+<p>Ah! Seigucur! Donnez-inoi Ia force et le courage.</p>
+<p>De coutempler mon coctir et mon corps sans degout!..</p>
+<p>Baudelaire — Lcs fleurs dumal.</p>
+<p>— Doamna Eufrasia Vâlcescu!</p>
+<p>...Vesti cu glas gros, limpede, profund, Pulberi, lacheu bătrân, cu capul alb, fața roșie, făr’ o cută, cu trupul sprinten, drept, înalt.</p>
+<p>Era zi de primire...</p>
+<p>Octomvric era calm, dulce, trist...</p>
+<p>Erâ ora 5... </p>
+<p>Doamna Val își aștepta musafirii...</p>
+<p>— Iți prezint pe Doamna Brighita Gondoli, colegi la Notre-Dame, prietenă scumpă, Eufrasia... A venit, în țară, eri, dela Florența...</p>
+<p>Doamna Eufrasia Vâlcescu, își alintă trupul durduliii cu o privire care alunecă repede, nesimțit, dela cap la picioare, în oglinda masivă, dreptunghiulară, sprijinită și fixată pe spatele a douăimense scoici albe, în colțul din fața ușei de intrare.</p>
+<p>— Doamna Brighita Gonduli|vine cu cerul, cu căldura Italiei... O! Italia! Italia... Să vii delaFlorența!</p>
+<p>— Divina Italie! </p>
+<p>— ...la București....</p>
+<p>— Afacerile Domnului Gondoli, țșoțul meu...</p>
+<p>— Doamna A'gatha Timarul</p>
+<p>— Doctorul Timuș!</p>
+<p>— Doamna Ioana Pântca!</p>
+<p>— Petronilla!</p>
+<p>— Doamna Suzana Voinescu!</p>
+<p>— Domnr’ Șerban!</p>
+<p>Grupul năvăli buluc...</p>
+<p>...Și, frângând șiragul recomandărilor pe cari, .soleum, bătrânul Fulbert, țle aruncase ’n salon...</p>
+<p>— Vania, Petronilla ! ? Aș vrea s’o ghicesc pe Petronilla... Ce nume frumos: Petronilla!!</p>
+<p>Brighita Gondoli nu ghici...</p>
+<p>. — Ori... ori... și din două una eră Petronilla; cealaltă Agatha Timaru...</p>
+<p>— Petronilla pictează... </p>
+<p>Erau de o statură amândouă...</p>
+<p>Și de o 'vârstă...</p>
+<p>Petronilla, blondă: un blond nordic, sever, gânditor....</p>
+<p>— Doamna Faustina Sarcay...</p>
+<p>Și moș Fulbert uși plecă adânc spre pământ capul alb, măsurând par’că simpatia sa, ori importanța Doamnei,’ cu cucernicia închinăciune!...</p>
+<p>— Dar Maran ? Știți ceva de Maran ? De ce nu mai vine Maran?...</p>
+<p>— El care venea cel dintâiu întotdeauna!</p>
+<p>— m care eră azi de rând.</p>
+<p>— O! să începem! </p>
+<p>— Continuăm „Claude Farrere”...</p>
+<p>— „Leș Civilises”.</p>
+<p>— Să citească Petronilla |în locul lui Marăh..</p>
+<p>— Petronilla» preoteasa lui (Farrere!</p>
+<p>— Așa cum n’e-ai citit: „Les mains fletries”.</p>
+<p>— Aș vrea să vă spun...</p>
+<p>— Doctore Timuș, nimic; la ceai» conform sa-*cro-sanctufui nostru program, țori Ia sfârșit...</p>
+<p>— Nu sunt eu în pagubă...</p>
+<p>-Ei, taci! .</p>
+<p>— Tăcere....</p>
+<p>Foșnetul unei rochii de mătase, crâcnitul, ușor, al unui fotoliu uruit și fu,«apoi, tăcere...</p>
+<p>— Maran e Ia Fum Aniu... Pentrucă se făcu,tăcere... V’o spun rfără lacheu...</p>
+<p>Toți se ridicară.</p>
+<p>Doctorul Timuș fu împresurat...</p>
+<p>— Și tăceai!? Tăceai de o oră?! Doctore Ti-muș ai suflet.... de carne! Doctpre ,Timuș!</p>
+<p>Și Doamnei Vali ’ncremenise în colțul gurei agonia unui zâmbet care părea pervers și.....</p>
+<p>sfânt...</p>
+<p>— Maran, Fum Aniu ? Acum, spune repede,Doctore Timuș! Ce cată Maran la Fum Aniu?</p>
+<p>..Și glasul Doamnei Val tremură ca aripile unui suflet împovărat cu’n bloc sgrunturos xde t tsuferinți masive... ‘.</p>
+<p>— Dar nu știu nimic, aproape nimic..... M’am</p>
+<p>întâlnit eri cu Maran...</p>
+<p>— Unde?</p>
+<p>— La Capsa... Trecea goană... opresc.....</p>
+<p>Fugea par’c’aveâ în picioare motoare de câteva mii de cai putere...</p>
+<p>-Și?!</p>
+<p>— Și, n’a stat: mă duc Ia Fum Aniu... pe mâini, la revedere... Și mâini, e azi.... și, atât...</p>
+<p>...Și’n salonul și’n sufletul Doamnei Vania Val, ca într’o biserică pustie în cari s’au desprins de pealtare și au murit cele din urmă rugăciuni pe lespezile reci, coborî tăcere...</p>
+<p>Apoi valul vorbelor porni, într’un târziu.</p>
+<p>...Călători o vrepie prin amurgul de afara, sări peste volumul lui Farrere, șerpui pe sub untablou copie după țVeronese și se încolocî apoiîn jurul Brighitei Gondoli, ca ’n jurul unei insule’ atrăgătoare și necunoscută... 1</p>
+<p>Doamna Vania Val n’auziâ nimic și tăcea, roabă gândurilor, ca o captivă nestimată, taratădupă carul de triumf, în cetatea biruitorului...</p>
+<p>— Vania ! Vania 1 r</p>
+<p>— Petronilla!</p>
+<p>— Ești tristă, tristă!</p>
+<p>— Da, fața dumitale, Doamnă Val este sfâșietor de frumoasă își de tristă...</p>
+<p>— Da, poate, Doctore Timuș...</p>
+<p>— Numai „da”; „poate” nu.</p>
+<p>— Mi-e sufletul bolnav, jdoctore Timuș... Și...</p>
+<p>— Și?!</p>
+<p>— Nimic... Tot ce este frumos este sfâșietor de trist și... trece...</p>
+<p>— Petronilla, citește... Tradiția șezătorilor noastre... Programul....</p>
+<p>— Doamnelor, Maran...</p>
+<p>Se prezintase singur și cu broboane de sudoare pe frunte...</p>
+<p>Se opri în mijlocul salonului...</p>
+<p>— Nu v’apropiați... Priviți-mă..... Simțiți;? L</p>
+<p>Nu m’atingeți... Port pe haine priviri și glasul Iui...</p>
+<p>...Vin dela Fum Aniu...</p>
+<p>— Maran, fericitule Maran! Cunoști pe Fum Aniu, fericitule Maran?!...</p>
+<p>— De unde?</p>
+<p>— De când ?</p>
+<p>— Am fost colegi de liceu într’un târg din Moldova. E dintr’un sat cu mine... Părinții lui'erau plugari pe moșia vecină cu a noastră... Amstat într’o bancă... Fum Aniu eră admirabil..^Splendid... Un copil... bătrân, afundat în gânduri...</p>
+<p>...A plâns azi Fum Aniu...</p>
+<p>...Acum un ceas...</p>
+<p>...De multă vreme nu-1 văzusem: dela bacalaureat...</p>
+<p>...Aș vrea să vă spun cu vorbele lui, așa cunt a spus.... Ascultați...</p>
+<p>...Și Maran, își târî un fotoliu în mijlocul salonului, s’așeză, privi țintă tavanul între becurile risipite ca stelele unei constelații bizare...</p>
+<p>— ...Ți-aduci aminte, Maran ?!— de-ați fi auzit cum spunea Fum Aniu, glasul meuj e sec —... Ți-aduci aminte, de Maria lui Ohinea Sandu delaVlădoleni?.. Fata părintelui Ilarion... Eră cu cinciani mai mare decât mine... Și eră gingașă, frumoasă... Plăsmuirile ininței mele nu cutezau s?oîntreacă. Ingenunchiam de când erau de 12' ani..</p>
+<p>Dar la ce bun, Maran, la ce bun ?</p>
+<p>Am călătorit spre dânsa, ani; am luat-o în căsătorie, la vârstă fragedă...</p>
+<p>Am avut un copil: Mitruț...</p>
+<p>Drăgălaș!..</p>
+<p>Un fulg, o floare albastră...</p>
+<p>Se ’mplinesc tocmai opt ani acum...</p>
+<p>Ani plecat, acasă, de aici, în zi de an nou....</p>
+<p>Vezi hârtiile astea, Maran : mâsgâlite cu creionul; linii, puncte..., o încâlcitură fermecătoare.. A scris Mitruț..... Avea 2 ani...</p>
+<p>In noaptea din ajunul plecării...</p>
+<p>...î! răsfățăm ca pe un vis...</p>
+<p>— Tata daiy chil; dai creiona...</p>
+<p>Și-l întrebam: ce faci, puiule Mitruț...</p>
+<p>— Chii.... și creionul alergă mereu, pe hârtie... Avea o vorbă limpede, Mitruț!</p>
+<p>Și-a deraiat trenul, Maran, a doua zi în drumul spre casă...</p>
+<p>Și...</p>
+<p>Ți-aduci aminte cât de frumoasă eră: frumoasa pensionului...</p>
+<p>Și... a fost găsită strivită sud sfărmăturile vagoanelor...</p>
+<p>Și-</p>
+<p>Și... Mitruț... turtit, lățit...</p>
+<p>Fulg, floare albastră, fulg!</p>
+<p>— „Tata chii”...</p>
+<p>...Plângea, plângea, plângea...</p>
+<p>Manuscriptul lui Mitruț eră greu de lacrimi. Gemea, plângând, gemea... .'</p>
+<p>Și-și reveni apoi:</p>
+<p>— lartă-mă, Maran. Nădăjduiam că m’am înfrânt..... lată scriu un nou roman: „Biserica</p>
+<p>arsă”.....</p>
+<p>Și-și... veniră: directori de ziare, scriitori de frunte... Și-am plecat...</p>
+<p>— Cum is ochii ?, întrebă Doamna Voinescu.</p>
+<p>— Negri, mari, neguroși, profunzi...</p>
+<p>— Suzana îmi rănești sufletul...</p>
+<p>...Și Doamna Val vorbise țișâ cum era: cu capul plecat pe mâni, cu ochii închiși în palme...</p>
+<p>— Vania, tu plângi, cred.</p>
+<p>— Nu crede, Petronilla....</p>
+<p>— Mâni, seara,...</p>
+<p>— ...la șezătoare...</p>
+<p>— ...Va fi toată capitala...</p>
+<p>— ...și.... o zi nemuritoare...</p>
+<p>— Vania, vii ?</p>
+<p>— Cred, ...Petronilla!</p>
+<p>— La revedere...</p>
+<p>— Vină să mă iei, Petronilla ? Aș vrea să. merg...</p>
+<p>A ’doua zi sara, în iatacul Doamnei Vania Val:</p>
+<p>— Trebue să mergi, Vania...</p>
+<p>— Nu pot, Petronilla!</p>
+<p>— Automobilele curg spre teatru, lumea și-voiu, în suflete e sărbătoare... De eri până azi... ce ti s’a întâmplat?</p>
+<p>— Petronilla, tu mă înțelegi, mă simți,.. Vei putea sensibiliza ce-ți spun eu... Ascultă... Nu-iașa că eu sunt, pentru oamenii comuni, normali,un suflet bolnav? Pentrucă, eu vreau să materializez o iluzie? Sau mai bine, pentrucă vreau să!conturez iluzii din lut?... Vezi tu, Petronilla?...11 iubesc pe Fum Aniu. Deznădăjduit, sguduitor,îl iubesc. Sunt-roabă în palatul gândurilor lui,cărora le slujesc, cucernic, dc ani, de mulți ani..Sunt roaba lui... JMu Fam văzut nici odată deși-Ivăd în gândurije lui: Mi-a săpat în suflet o lumede frumuseți nemuritoare... Și nu pot veni, deșivoiu fi acolo în sara asta...</p>
+<p>Mă voiu tortura, strivitor...</p>
+<p>Oândește-te, Petronilla:</p>
+<p>...Dată merg, să-l văd:</p>
+<p>...Ori el —realul, — este mai puțin decât icoana visurilor mele și atunci, Petronilla: gândește-tePetronilla, sfarm icoana anilor mei de visuri....</p>
+<p>Suprema iluzie mi-o sfarm...</p>
+<p>Ce pun în locu-i, Petronilla?!</p>
+<p>...Ori, el este mai presus de dânsa, șî-atunci Petronilla,—o! atunci! sărmanul meu suflet învins și bolnav — voiu muri..... eterizată de prea</p>
+<p>multă lumină, risipită de prea supra-omenească fericire, ca acea sărmană mitologică Semele^carepieri, în brațele lui Jupiter, cu tot cu palatele luiAgenor din Theba, murmurând îngenuncliiată:..„Arată-mi-te așa precum te arăți Junonei, cândguști plăcerile iubirii”...</p>
+<p>Și vezi tu, sărmana Semele, eră fata fiicei lui Venus și-a lui Marte, eră fata Harmoniei, eră...amanta regelui Oliinpului...</p>
+<p>— Eu, în orele de latină, muriam de plictiseală... '</p>
+<p>— Fericiți cei ce nu-și trăesc decât viața sufletului lor! Fericiți cei ce-și ornează numai su--fletul și mintea...</p>
+<p>Du-te Petronilla, e târziu^Tni-e sufletul bolnav, du-tc, Petronilla... Du, spre sfântul Tabernacolde porfir, gândurile melc îngenunchiate cu fruntea în pământ, ca rugăciunile celor din urmă credincioși... .</p>
+<p>— ...Mamia, a venit Domnul Maran... .</p>
+<p>— Spune-i că sunt bolnavă în pat; nu-1 pot primi, Silvania...</p>
+<p>— La revedere, Vania... Cred că pricep ce-mi spuneai; sunt sigură că simt ce simte sufletultău... Dar, n’aș fi în stare să fac ce faci; tu.... Larevedere, Vania...</p>
+<p>— Fulbert!, Doamna ! Fulbert!, Silvanira !</p>
+<p>— Nu-i Fulbert, mamia...</p>
+<p>— Mi-a sărutat mâinile amândouă și n?a rugat să rog pe „Doamna Val”, pe tine mainia... să nuie superi... S’a dus la teatru, e la șezătoare, Ful-bert...</p>
+</div>
+<div type="chapter" n="3">
+<p>III</p>
+<p>...In ziua aceia eră Sâmbăta Doamnei Val....</p>
+<p>Și eră a doua zi după șezătoare...</p>
+<p>Și Doamna Val așteptă în saloanele goale, deși mai erau încă 2 ceasuri pân’la ora 5.</p>
+<p>Și nu-și putea prinde mintea de nici un gând.</p>
+<p>Privea, fără să le vadă, bogatele draperii, superbele covoare, tablourile reslețite artistic, blănurile aruncate, leneș, albe, moi și crisantemele risipite cu beție, frenetic, pretutindeni, far’ aobosi, far’ a jicni ochiul, prin mulțimea și diversitatea culorilor...</p>
+<p>Eră o profuziune de crisanteme...</p>
+<p>Un delir.</p>
+<p>Eră o procesiune de crisanteme, a țărmilor asiatici, spre poalele Olimpuiui, în ziua când zeulluminii, cobora întâiu pe pământ, spre altarelepe cari i de înălțascră cei dintâi visători...</p>
+<p>La patru, ca nici-odată, cu’n ceas înainte, se anunță Petronilla...</p>
+<p>— Vania, am venit cu’n ceas mai înainte, ca să tc găsesc singură, ca să-ți pot spune, liniștitmulte-multe...</p>
+<p>— Dacă ai desiluzii să nu-mi vorbești, nimic, Petronilla.... Mai bine pleacă...</p>
+<p>— Dar...</p>
+<p>— Tc rog,.. Am construit sub cel mai albastrucolț de cer senin, departe, în zările sufletuluimeu, un castel fantastic. Uriaș*, gingaș, minunat... Și, de jur împrejur, am plantat, pe lângăziduri, flori albastre și timide: zoriele... Și caun bizar potop țde frunze verzi și flori azurii, va-Iuri-valuri, se nalță ^pre cele mai depărtate turnuri, coperind zidurile? ^îmbrățișându-le strâns»hlamida zorelelor mele... O singură vorbă!... Și.s’ar desprinde * din naltul turnurilor, minunatapânză... Și, gol, castelul fantastic, s’ar năruisub uraganul vorbei aceleia...</p>
+<p>— Vania, tu iubești pe Fum Anin...</p>
+<p>— Dar nu-i vorba despre asta...</p>
+<p>— Asdultă, mai bine ascultă... înfrânge, visurile tale... E frumos, e frumos, e frumos! Și, citește splendid, splendid, splendid. E frumos’</p>
+<p>Vania, Vania, Vania!, e frumos, e splendid! Și încă nimic nu ți-am' spus, și nu-ți poți nimfaînchipui. II iubesc, îl iubesc, îl ador!</p>
+<p>Petronila își cântă împrovizatu-i imn dansând prin salon...</p>
+<p>— Doctorul Timuș!</p>
+<p>— Domnul Șerban...</p>
+<p>Și’n clipa următoare complectul șezătorii, fără Maran.....</p>
+<p>— De ce ați venit mai curând ca ori când?</p>
+<p>Voiam să-ți povestesc impresiile mele..</p>
+<p>— Și eu!</p>
+<p>— Și eu!</p>
+<p>— Și eu!</p>
+<p>— Cu toți la fel....</p>
+<p>— Intr’un cerc de acadcmiciani s’a hotărît: la prima vacanță. Fum Aniu va intră sub cu-pola nemuririi...</p>
+<p>— Fn sesiunea viitoare îi vor premia romanele....</p>
+<p>— Toate !</p>
+<p>— Dar erau și pan ^cum, de ce nu îe-ati premiat?</p>
+<p>— Omul, nu cunoșteau omul...</p>
+<p>— Ș'apoi cum citește Fum Aniu!!</p>
+<p>— Erau doar acolo academicianii!</p>
+<p>— Nu asta-i deschide poarta nemurirei!</p>
+<p>— Sublim ! 1</p>
+<p>— Precizați.....</p>
+<p>— Când citea se părea că’n fața sufletelor noastre, se prăbușise o genune. Și ne prăpăstu-iam într’însa cu’n nebunesc deliciu...</p>
+<p>— Mi-a dat sensația asta și'n nopțile când îl citeam, singură, târziu...</p>
+<p>— Simt în scrisul lui taine pe cari numai glasul Iui le precizează, armonii pe cari le trezește numai glasul lui...</p>
+<p>— Și’n ochii lui plutesc umbre îndurerătoare.</p>
+<p>— ...Asemănătoare cu umbrele cari mai stră-</p>
+<p>juesc pe drumurile sufletului, când amintirile au murit Nu ? !</p>
+<p>— Comparația putea fi numai a ta, Vania..E un bărbat frumos, romancierul nostru!</p>
+<p>— Dar, nimic din grotescul unui tânăr gătit pentru bal...</p>
+<p>— Pe fața lui stau suferinți îngenunchiare!..</p>
+<p>— Fața lui e o floare al cărui potir e cuib sti-ferinților!</p>
+<p>— Și visurilor...</p>
+<p>— Dar cum l’ai putut vedea atâta de-aproap e?</p>
+<p>— Maran!</p>
+<p>— A! da unde-i Maran ?</p>
+<p>— Vine acuș cu Fum Aniu.</p>
+<p>— Doctore Timus !!</p>
+<p>— Da, vine la 5... Vine.</p>
+<p>— E cinci făr’ un sfert!</p>
+<p>— Cum nu știați, Doamnă Val ?</p>
+<p>— Hotărît, nu.</p>
+<p>— Dar sărbătorească risipă a crisantemelor!..</p>
+<p>— Știu eu? ,Pentru voi! Pentru ziua asta! Pentru mine! Știu eu!?</p>
+<p>— Eram acolo când i-a spus Maran...</p>
+<p>— Și eu... ,</p>
+<p>— Fum Aniu: un suflet nobil de femeie ți-a ridicat un templu în capitală. Credincioșii suntemnoi. Templul este casa și sufletul său... Era înainte de șezătoare, la teatru, în culise...</p>
+<p>— Spune, făr’ amănunte...</p>
+<p>— Femeia asta, Doamna Vania Val...</p>
+<p>— Cum? Vania Val? Și cu simțul său de armonie întrebă pe Maran: Doamna» Vania Val? E urît! Val Vania! Nu e mai frumos? Și toți repetarăm: Val Vania! Și eră în gura Iui nespus defrumoasă vorba asta. Căci numele tău devenise,o singură vorbă. Un scurt val de armonii: ValVania...</p>
+<p>— Dar mă emoționează pâif la lacrimi, Maram</p>
+<p>— Plângi, ca odinioară, Fum Aniu.</p>
+<p>— Acum nu mai plâng. Lacrimile isvorăsc, pornesc pe drumurile sufletului și’ncremenescacolo în adâncuri. Când plângi, vulgarizezi lacrimile... — Știi ce, Fum Aniu ? Vina cu noi, la etern-piui nostru! Haide și tu în saloanele Val VanieiL— Când? N’arn vreme... Aici mă năbuș. Vreausă mă întorc în largul lumii mele! — Vină,Fum Aniu, tc rog! — Ei bine, când? — Mâine,la 5...</p>
+<p>— Oh ! e cinci!</p>
+<p>— Dar n’am isprăvit...</p>
+<p>...Sc opri tot atunci, vârtej, un automobil... Ferestrele salonului, deschideau, privirilor, drumîn șosea...</p>
+<p>— Sunt ei....</p>
+<p>— Doctore Țimuș, primește în locul meu...</p>
+<p>Și Val Vania, tremurând, căută să se razime, să se sprijine... Nu găsi și sc lăsă pe cel ma? apropiat fotoliu, în fața căruia fii gata să cadă în genunchi: Ceilalți, toți, s’așezaseră, aproape ri- dicul, și perfect inconștient, în două șiruri, depărtate unul de altul, uniforme și grotești, pelângă pereți...</p>
+<p>...Dela intrare salonul părea gol. Din ușă, singură Vțania Val, în rochia simplă și albă, păreao prințesă: prințesa crisajitemelor risipite pretutindeni, prințesa gândurilor sale, cari încoronauinaiestos, fruntea, privile...</p>
+<p>fXnn Aniu a'păru între draperii...</p>
+<p>Val Vania-1 simți, acolo, îiivăiuind-o în priviri...</p>
+<p>l’auzi pășind... </p>
+<p>Maran se-oprise la intrare...</p>
+<p>...Apropiindu-se...</p>
+<p>Val Vania-și țintuise privirile pe două crisan-teme albe cri; i se păleau stranii într’o glastră de aur de forniă unei trireme antice...</p>
+<p>— Nobilă Doamnă !</p>
+<p>— ...Și-I văzîi întinzându-i mâna și coborând: . ușor un genunchiu, care-i atinse, nesimțit, vârful pantofului mic...</p>
+<p>Intiiije pe a sa și se ridică în picioare sugru-mându-și tremurarea...</p>
+<p>— Val Vaniei, vestală în templu! gândurilor mele, închinare!</p>
+<p>— Fum Aniu, iartă! Trebue să-ți îngenunchiu. cu și nu pot... Aș vrea, te rog iaYtă....</p>
+<p>Și brațul său tremurător îl ridică fără voe...</p>
+<p>Și privirile lor se întâlniră undeva, departe, în infinitul din fundul ochilor omenești...</p>
+<p>...Și’n clip’ aceia, par’că plutea pe deasupra capului lor un* demiresme: poate moartea</p>
+<p>cosise in grădina iluziilor, flori multe, flori ne’ cunoscute, stranii flori frumoase, pentru ghirlandele iubirilor cari devin nemuritoare, după ce aufost cosite, ca, în grădina iluziilor, frumoaseleflori necunoscute...</p>
+<p>— ...Mi s’ar părea că mâna Iui Dumnezeu m'a smuls pământului și că domnesc peste culmile nemărginirii, daca ai consimți să rămâi, săxsfințești saloanele mele... Să citești! Să rămâi!</p>
+<p>...Și, Val Vania, care cu sforțări uriașe, vorbise Să vii, rar, din când în când ! ...făr' să-și poată da seama ce spusese și far’ să-șipoată aduce aminte o singura vorbă din toi cevorbise, în clipa imediat următoare, își simți 1genunchii frânți și se prăbuși în fotoliu.</p>
+<p>— Vroiam să plec mâine, dar voiu rămâne... Câteva zile. O săptămână poate... Asta-i viațanoastră... .</p>
+<p>— Fum Aniu, ce-i viața noastră?</p>
+<p>— Cine-ar putea spune ?, cine-ar putea spune ?. Am avut odată sensații sguduitoare... De ce oaremi-aduc aminte —acum de ele?!... îngrozitoaresensații... Eram într’un oraș mic de provincie. .Eră iarnă, negură, noroiu... Orașul era luminatcu lumină electrică... Din centru, porneau strade— largi — luminate spre două bariere... Am ajuns la una din ele... In urmă, la spatele mei\cel din urmă far luminos... înainte, un pas înainte, se întindea un întuneric imens, nesfârșit^îngenunchietor...; x</p>
+<p>M-ani întors, în fugă, spre centrul orașului, spre lumină.....</p>
+<p>Și-am privit de acolo spre cele două bariere, pe cari Ie zăream acum' ca pe două găuri grozave: porțile întunericului. Și-am cuprins cu brațul farul de lumină din piața centrală a orașului...</p>
+<p>Lumea trecea, vioae... Nu erau ceasuri târziii Râdeau, nepăsători, sgîobii. Nici unul nu-și rătăcea privirile spre porțile întunericului, caretrecea, nesimțit, în șuet grozav, nesfârșit, pe laporțile orașului, pe deasupra lui, coperindu-1...Mă’ndeștam, puternic, de stâlp...</p>
+<p>întubericului, părea acum un ocean care trece prin noapte ghemuit în albia unuifluviu...! '</p>
+<p>„Chaotica-i rostogolire păru o clipă sdrunci-nătpare: mi'se pării că orașul acela, cu toate luminile lui, cu lumea lui, cu farul care-fni susținea trupul șj conștiința, fu smuls, rostogolit, înecatîn nesfârșirea aceia de întuneric.</p>
+<p>Și, șuetul acela, pe cari dacă nu-f puteți auzi fără cuvinte, cuvintele nu-i pot evocă!...</p>
+<p>Și când mi-am așezat pe temeliile Iui sufletul sdruncinat, mi s'a părut c’am văzut o clipă viațanoastră, omenească, viața noastră a celor slabiși-a celor puternici, a celor fericiți și a celor curmați de suferinți, viața noastră'a tuturora, țănnu-rită de nesfârșite întinderi de întuneric...</p>
+<p>...Și tăcu.. </p>
+<p>...Și crisantemele, risipite pretutindeni, păreau o orgie de sărutări pătimașe, plutitoare pe apelealbastre și senile, în locul cari-ar fi înghițitOlimpiii, după cea dintâiu orgie a zeilor...</p>
+<p>...Și'n noaptea aceia, târziu, Fum Aniu rătătfd pe colinile sufletului său, săpa pe un bloc de piatră albă, răsturnat în cale-i de o- mână nevăzută:</p>
+<p>...Biblicul Isaac eșia la câmp purtând povara gândurilor... Și înoptarea cădea peste corturiledin jurul fântânei Lahai-Roi'.</p>
+<p>...Și convoiul cămilelor răsări în zare, purtând pe Rebeca, fiica lui Bethuel și a. pustiului, făr’asemuire floare, răsărită din pământul lui Dumnezeu...</p>
+<p>Ol Tu! lângă care tânjește,biblica floare!</p>
+<p>...Și risipind crugul gândurilor, zâmbi:</p>
+<p>— Pală inspirație!</p>
+<p>...Și, isbind cu piciorul, blocul de piatră albă răsturnat de o mână nevăzută pc una din căilecare tăia culmile sufletului său, observă că nueră decât un bulz de pământ...</p>
+<p>...Și-și plecă, greu și trist, capul lângă isvo-rul lacrimilor...</p>
+</div>
+<div type="chapter" n="4">
+<p>TV</p>
+<p>.. lls s’aima^cnt; âtravers leurs can-dides prunelles Gassait la grande cxtase ou toutePâme fond;</p>
+<p>L/infini se mirait dans leur amour profond...</p>
+<p>— AJbcrl Samaia — Tsilla —</p>
+<p>— ...Voiu asistă și eu la șezătoarea de azi...</p>
+<p>— Poftim...</p>
+<p>— De sigur! lată-s atâtea lunii de când acest străin, acest Fum Aniu îmi calcă pragul și n’avuicuriozitatea să viu să-1 văd odată...</p>
+<p>— Ești atât de ocupat!</p>
+<p>— Chiar când adormeam de plictiseală pe fotoliul biuroului meu în Sâmbetele Dv.! nu, dar mă agasează individul acesta.</p>
+<p>— Domnul meu!?</p>
+<p>— Domnul meu ! ?! Așa e, Doamna mea! Ce tot Fum Aniu?! Fum Aniu! Fum Aniu Îndreaptă, Fum Aniu la stânga, Fum Aniu !a dracu !</p>
+<p>— Domnul meu!</p>
+<p>— Așa e! Așa e! Credeam că va fi... un spori.. Orochie... Un automobil nou.... Orochiedpui de...trei ori... Ai cinci automobile... Dar Fum Aniu,au trecut de mult cinci luni și ai aruncat duzini' de rochii, și tot: Fum Aniu, Fum) Aniu.!</p>
+<p>— -Bietul Fum Aniu!</p>
+<p>— Sărăcuțu-1 câini! Sărăcufu ! *</p>
+<p>— Am să-l ’răpăd pe scări, de umeri...</p>
+<p>— Dar dacă s'o întâmpla să-l conduc chiar Atunci, încet, la braț?! ,.</p>
+<p>— Atâta cutezanță, Doamnă Val!</p>
+<p>— Câte-mi sunt rochiile, automobilele pe cari</p>
+<p>Ie numeri deseori și pe.cari, le-aș avea, slavă Domnului, și fără averea Dumitale........</p>
+<p>— N'am uitat că te-ai măritat bogată. Și aici e meritul meu cel mare. Am păstrat și crescutaverea.</p>
+<p>— Știu, știu... Povestea..., vrei să spui, de acum: „românii noștri din bogătași ajung calici... Evreii din nimic ajung milionari... UiteSchor, Rubinstein și ațâți... In privința asta eusunt evreu”... Am recitat bine, nu-i așa?, exact șipe nerăsuflate...</p>
+<p>— Nu găsești inutilă ironia și batjocoritoare?!</p>
+<p>— Batjocoritoare, poate.; inutilă, da... Ho-tărît, da...</p>
+<p>— Și astai pentrucă ai venit în căsnicie cu o moșie!</p>
+<p>— ...și cu o licență în litere!</p>
+<p>— adevărat! adevărat, eu n’am decât patruclase gimnasiale...</p>
+<p>— Făcute cu multă trudă... Și o moșie cu ;mult mai mare... Asta vrei să spui... Dar b știu,frate. Și că prin „evreismul” Dumitale în zeceani ai făcut din 2, patru moșii... Să teririinăm ’odată cântecul acesta plictisitor, banal, comun,enervant, pentru Dumnezeu, dragul meu... Să-1terminăm o'dată, că mă’năbuș....</p>
+<p>— Hm!... năbuș.* Da de Fum Aniu nU te năbuși ?</p>
+<p>— O grosolănie mai mult... Păcat... La revedere, Domnul meu. Eu cobor.. Astăzi Fum/ Aniuîncepe cel de al doilea roman: „In preajma corturilor sfinte’7... Șezătoarea e sub înfloritele umbrare cari-și boltesc rețeaua trandafirilor roșiipeste teii cei tineri plantați de mine cu atâta 'dragcucernic... E tocmai ora când toți vor fi sosit...Și Fum Aniu... Iți ofer brațul, Domnul) meu...</p>
+<p>— Voiu veni mai târziu, poate...</p>
+<p>...Și Domnul Val rămase în buduoarul soției sale, între șifonierele deschise cari răspândeaumireasma și culorile atâtor rochii superbe șifarmecul formelor fierbinți pe cari-I mai păstraupar’că din intimitatea cu trupul ei minunat, întrefa Icoanele cu parfumuri indecise, între florilearuncate Ia întâmplare de mâna Val Vaniei și dedărnicia Primăverii, pretutindeni...</p>
+<p>‘Domniau trandafirii...</p>
+<p>Domnul Val își iubea soția..</p>
+<p>O adoră.</p>
+<p>Adorația barbarului către soare, către tot ce *e puternic prin lumina sa, tainic prin depărtare...</p>
+<p>Domnul Val eră un om de treabă.</p>
+<p>Muncitor, cinstit...</p>
+<p>Dar ! ..</p>
+<p>Dar eră dintre oamenii aceia»cari când deschid gura, uit s’o mai închidă, lucru cari se Întâmplă numai cârid eră vorba de tot ce, este ’d-in-</p>
+<p> Staican. - înfloreau trandafirii.</p>
+<p>colo de imensul văl al Firei — văl imens, troe* nit de taine cutremurătoare și veșnic de nepătruns...</p>
+<p>Eră un om care trăia înconjurat numai de rea-Jități precise și imediate, domn peste nesfârșita populație a lucrurilor concrete...</p>
+<p>Trecu în iatacul soției sale...</p>
+<p>Pe un trepied înalt, în mosaic, o vază de alabastru purtă un boboc marc, alb de trandafir... Foile se desfăceau fraged, gingaș, tainic.</p>
+<p>Trepiedul străjuia lângă patul Val Vaniei, la căpătăiu.*.</p>
+<p>Deasupra lui, „Păcatul”. O pânză de Frantz Stuck...</p>
+<p>Privi ochii acelei femei admirabile... OchVi ca două genuni de dor și de întuneric...</p>
+<p>Avu o reflexie naivă și-adevărată:</p>
+<p>— Femeia asta nu samană femeii inele!..</p>
+<p>...Ferestrele .erau deschise și’n iatacul Val Va-nici se revărsă, năvalnic, albastrul înfloritului Mai, profund și sfânt, turburător: una, da spreșoseaua Kiseleff, singuratecă, la or' aceia ; celelalte două, spre grădina Vilei, spre nesfârșitulparc umbrit, în cari pluteau divine simfonii în--'Horite... ♦</p>
+<p>In Kioșk'ui- trandafirilor roșii s’auzeă svon de glasuri potolite...</p>
+<p>...Peste Kioșcul trandafirilor roșii soarele revărsă un ocean nesfârșit de lumină caldă, bună,.</p>
+<p>mangaeroare și severa ca sarumi mamei pe fruntea copilului adormit..</p>
+<p>Ochii d-lui Val s’opriseră pe muchea unei cărți cari se întrevedea ușor sub perna soției sale...</p>
+<p>Și din mijlocul odăii păși încet, aproape timid, cu'n fel de frică neînțeleasă, nesfârșit de vagă,spre patul soției sale...4</p>
+<p>Trase cartea ’ncetișor,...</p>
+<p>O întoarse pe ambele părți netezând cu palmele pielea culoarea fumului, cu care, elegant, erâ învelită de un meșter iscusit, artistic...</p>
+<p>Și-și ,aminti într'o străfulgerare, cum aruncase în stradă, cărțile celei din urmă clase de gimna-siu, cum juruise să nu mai atingă nici o carteși cu câtă precisie sălbateccă își ținuse legământul pân’ atunci...</p>
+<p>Deschise neîndemânatic:</p>
+<p>Fum Aniu... Pe drumul umbrelor — roman.— închise cartea....,</p>
+<p>Formulă, sacramental, o înjurătură românească... </p>
+<p>— Un nebun... Un nebun periculos... O nebunie care se ia! Oare nu s’o fi îmbolnăvit We boala asta și Vania ?</p>
+<p>Vâra încetișor sub pernă Cartea, cu grijă.</p>
+<p>Trase la loc și așeză cuvertura ușoară de broderie fină...</p>
+<p>Și scoborî dela etaj scările alergând în spre grădină...</p>
+<p>Ajunse gâfâind..</p>
+<p>Fum Aniu continua citirea întreruptă o clipă, când îi fu prezintat amfitrionul...</p>
+<p>JZJomnul Val privea neclintit pe Fum Aniu...</p>
+<p>Ascultă și n'auzeă.</p>
+<p>Eră uimit, aproape impresionat.</p>
+<p>Călători apoi cu privirile pe toate acele fețe neclintite și și le opri pe poala rochiei Vaniei...</p>
+<p>Rochia Val Vaniei eră roșie ca roșul sângelui văzut între degetele mânii, lipite strâns și întoarsă cu podul palmei înspre soare...</p>
+<p>O rochie de mătase ușoar’-aprinsă, simpla, elegantă... O cingătoare de mărgăritare se în-*cheia cu’n rubin mare focos, la curmătura mijlocului mlădios...</p>
+<p>Părea un ochiu mare de foc cari-și trimitea lumini obosite din genunea unei patimi...</p>
+<p>Val Vania aveă o atitudine visătoare, extatică, sfântă.</p>
+<p>In ochii săi întredeschiși pluteau umbre...</p>
+<p>In ochii săi pluteau ușor tainele înfloritelor umbrare depe țănnii visului...</p>
+<p>Și'n toată nemărginirea de-afară stăpânea o liniște nesfârșită...</p>
+<p>- Tăceau și aezii cerului — sublimului cer de primăvară...</p>
+<p>Și Fum Aniu se opri...</p>
+<p>își coborî cartea pe genunchi...</p>
+<p>Ochii i se opriră în preajma rubinului pătimaș.</p>
+<p>Și privirile-i îngenunchiară, apoi se despriu-seră și călătoriră afară, departe, spre infinitul care pornea, spre zări, printre aleele de trandafiri învesmântați în slraiu de lumină...</p>
+<p>Și din cartea prăvălită, alunecă o foae dc hârtie: două file smulse din mijlocul unui caet de dictando, cari se statorniciră lângă vârful ghetelor d-lui Val, în Vreme ce pe vârfurile prudențeiDomniei-Sale, prinse să se infiripe o bănuială...</p>
+<p>Ridică hârtia, o iscodi minuțios, o clipă.,..</p>
+<p>— Ce-i asta ?</p>
+<p>— Ah! vre-un manuscript necunoscut!...</p>
+<p>— Știu și eu! O hârtie uitată în cartea asta dc când hăul...</p>
+<p>...Și d-1 Val privea hârtia cu îndărătnicie, ridicat acum în picioare și’n juru-i cu toată asistența, fără Val Vania...</p>
+<p>— A! da! acum mi-aduc aminte! E o teza din clasa 7 dc liceu, la filozofie... O păstramdar o uitasem...</p>
+<p>— Trebue să fie legate de dânsa multe amintiri...</p>
+<p>— Nu credeți! Ți-aduci aminte, Maran?!., O-dată, vine profesorul de filozofie și pe nepregătite ne spune: scrieți despre... nu-mi mai aduc aminte... Și eu nu citisem nimic pentru ziua ceia.</p>
+<p>— Nici eu. Dar am rupt în ora aceia pe sub bancă și Logica Iui Titu Maiorescu și Psicholoșialui Oăvănescu...</p>
+<p>— Și eu tot pe ele am învățat filozofia la pension, interveni Doamna Vâlcescu; Dar nu mi-au lăsat în minte nimic, nici odată, cărțile acscelea-blestemate...</p>
+<p>— Oh! logica lui Maiorescu !</p>
+<p>— Noi o numeam: sfinxul clasei a 7-a...</p>
+<p>— Noi: inquisiția...</p>
+<p>— ...Ș? cum vă spuneam. Nu citisem nimicdeși...</p>
+<p>— Erai unic, admirabil, premier...</p>
+<p>— Maran! Maran ! M’ai făcut să uit ce era să spun !</p>
+<p>— Să-ți amintesc eu: Domnul Răduț — profesorul nostru — numai ce venise, aruncase catalogul pe catedră și....</p>
+<p>— A! da ! micuf Clim eră, veni în fața băncilor și ne glăsuî... pițigăiat: dați azi teza.</p>
+<p>— extemporal...</p>
+<p>— da, extemporal. Scrieți lecția 'de azi... cevaxlui lecția de azi, relecțiile Dv. personale și...originale. Liniște și cărțile în bancă. Pe cari-lprifid: Unu... „Comunicațiile scrise și verbaleinterzise”... Și eu, eu 'nu știam titlul lecției,nimic...</p>
+<p>— Și m’ai întrebat încetișor: „Maran” pafcă te-aud: „Maran, spune-mi titlul lecției, Maran...-că.n’am citit o'boabă”...</p>
+<p>— Și-am stat și m’am gândit apoi vreo jumătate de oră, privind pe geam* afară la fulgii mari,</p>
+<p>albi cari cădeau leneș, legănat Ningea în'ziua, ceia. Eră în Fevruarie...</p>
+<p>Iată scrie pe lucrare: 12 Fevruarie...</p>
+<p>Și altă jumătate de ceas am scris. Dar n'am terminat și... nu voiu mai termină-o. Cine știe ce-gândeam să scriu atunci!.</p>
+<p>— lată scrie în josul paginei a treia: neterminat...</p>
+<p>— Și-i scris cu creionul...</p>
+<p>— Aproape trei pagini...</p>
+<p>— Intr’o jumătate de oră...</p>
+<p>Far să fi citit jiimic...</p>
+<p>— „Nota zece pentru originalitatea tratării,.</p>
+<p>Răduț”.... .</p>
+<p>— Stranie originalitate!’</p>
+<p>— Dc-ar fi știut Răduț!</p>
+<p>— Site/itaurii... Fum Aniu te rugăm să ne citești extemporalul: necunoscutul manuscript.... Vania Val vorbise nu fără tremur în voce deșinu spusese, toată vremea, nimic...</p>
+<p>— Să vă răpesc, Doamnă, vreme cu niște copilării!...</p>
+<p>— ...sacre, Fum Aniu...</p>
+<p>— cu niște prostii... cu prostii, Val Vanja,prostii...</p>
+<p>— ...neprețuite, Fum Aniu! Te rog să citești.Dacă nu vrei, mă doare... Citește și eu voiu privispre legănarea fulgilor din ziua aceia de iair.ă.r</p>
+<p>Și Fum Aniu citi, vădit emoționat:</p>
+<p>Raționamentul din punct dc vedere psicholo-gic și logic...</p>
+<p>Sufletul tinde să-și înmulțească numărul facultăților secundare. Ajuns la a-șî fixă o judecată sufletul nu s’a oprit; a pășit mai departe. Două judecăți alăturate cu un raport între ele,fixat: raționamentul.</p>
+<p>Sufletul, prin natura lui și natura cu întâmplările împrejmuitoare a născut raționamentul sufletesc: un copil se frige de un cărbune de pe vatră. Prin urmare focul frige. Oricând, focul îlva frige. Să se ferească de foc deci, întotdeauna.</p>
+<p>Treptat-treptat, astfel, copilul își stabilește raționamente.</p>
+<p>Sau</p>
+<p>Un om mi-a făcut rău, un rău oarecare...</p>
+<p>Mi-i frică de-acel om.</p>
+<p>Oricând îmi poate face rău — eterna beție a răului făptuit! — Mă voiu feri de el.</p>
+<p>II voite-înconjură întotdeauna cum înconjoară focul, copilul, cu o observație: focul im te poateurmări ca omul rău.</p>
+<p>Animalele și pasările raționează.</p>
+<p>Un exemplu:</p>
+<p>Lângă un tăetor, se decapitau, obișnuit, într*o ogradă, găini...</p>
+<p>Paserile celelalte asistau aproape totdeauna la sugrumarea sărmanei lor tovarășe pe roșuteșafod...</p>
+<p>Și priveau cu groază — exprimată prin co(codă cituri și clipite grăbite din ochi — spre bușteanul și toporul stropite de sânge...</p>
+<p>Adesea, când trupul decapitat se sbăteă desnă-dăjduit din aripi tot mai slabe în preajma capului, care privea cerul cu un ochiu care-și stingea lumina după câteva, tot mai rare, clipiri obosite,unele, cu un extraordinar curaj, se repezeau pecâmpul execuției grozave.</p>
+<p>Din întâmplare, grăunțele cinei, fură aruncate într'o seară, lângă tăetor...'</p>
+<p>— Obicinuit, Ii se da de mâncare în altă parte.</p>
+<p>S'au strâns în jurul sinistrului eșafod, găi-ncle, în goană.</p>
+<p>Nici una, nu îndrăsnî să ciugulească un bob, să s’apropie de ele...</p>
+<p>Țineau minte. Poate raționau:</p>
+<p>Aici ne-am văzut tovarășe, pe cari nu le-alii mai văzut apoi, sbătându-se în strângerea mortii.....</p>
+<p>Păreau... aproape triste... ușor gânditoare....</p>
+<p>Raționau.</p>
+<p>Adică raționez eu.</p>
+<p>Nu știu ele ce vor fi gândit.</p>
+<p>Veți spune după cărțile oamenilor: .</p>
+<p>„Din instinct, „prin asociație”... Mai sigur., din instinct, au făcut așa...</p>
+<p>Spun cărțile oamenilor.</p>
+<p>Dar, cine sștie de au oamenii dreptate.1...</p>
+<p>Stăm muți, ignoranți la poartă sufletului nostru, dar Ia poarta sufletului lor!</p>
+<p>La omul matur raționamentul variază după suflet, după cultură...</p>
+<p>...Un matematician — cu sufletul format strict țărcuit între formule inuntabile, exacte — va fi,oricând, ireproșabil, în raționamentul lucrurilorabstracte.</p>
+<p>Pune-1 însă să judece evenimente în cauzele și efectele lor, să conchidă; va scoate o fort-mula geometrică, o ecuație care poate fi perfecct.științifică, exactă, dar profund mincinoasă șî îngrozitor de depărtată de realitățile cari i-au datjudecățile, elementele primordiale...</p>
+<p>Să scrie Istorie Matematicianul!</p>
+<p>Ori să înțeleagă, să simtă, să judece o poezie...</p>
+<p>Va înțelege-o și va... formulizâ-o...</p>
+<p>Biată poezie!</p>
+<p>...Iată acum raționamentul unui poet mare.</p>
+<p>Câtă deosebire!</p>
+<p>Ce lărgime de vederi, în judecățile sale!</p>
+<p>Unul și-a deprins dintru început sufletul cu idei concrete, hotărnicite de imutabile bariere.</p>
+<p>Celalt, pe aripile uriașe ale imaginației a trecut peste toate hotarele, a străbătut toate nemărginirile fantaziei...</p>
+<p>Cum variază felul raționamentului după fondul sufletesc individual și cultura fiecăruia!</p>
+<p>Raționamentul logic e raționamentul artificial al minții : nu-1 știi face până nu-1 înveți (excepție: rarele cazuri ale înzestraților firii cu dânsul).</p>
+<p>Socotesc dc prisos să alăturăm mai știu eu care silogism:</p>
+<p>Aurul — metal —fuzibil etc.</p>
+<p>Față cu raționamentul cel dintâiu care răsare spontan din suflet, acest al doilea raționament,raționamentul logic mi se pare tot așa dc neghiob, cristalizai în zecea-i perfecție, cu raționamentul genial al unui poet uriaș* pus alături cuacel ai matematicianului intransigent...</p>
+<p>— Și n’am terminat teza! Cine știe! Copilării!</p>
+<p>Și rămase tăcut, cufundat în gânduri.</p>
+<p>Domnul Val crâcni ușor; închizând gura pe care o uirase întredeschisă încă dela încceputulextemporalului...</p>
+<p>Doamna Val îl privi: se adresă apoi lui Fum Aniu: *</p>
+<p>— La ce te gândești, maestrul nostru!</p>
+<p>— A! Cine știe! Poate de-atunci, cu ochir și urechelile înfundate, zidite, despărțite de totce ar fi putut să tulbure reflexiunile din profunzi uni necunoscute., stau plecat și asccult, neclintit, glasul apelor meditației cari curg, nenumărate și profunde, pe câmpiile sufletului meu...,</p>
+<p>Domnul Val își sugrumă un crâcnet.</p>
+<p>I-aruncă priviri furioase...</p>
+<p>Și, reflectă triumfător:</p>
+<p>Hâ! Hâ! Acum face pe disperata. Da, 1iu merge... Te văd, te văd nenișorule!:</p>
+<p>...După ce se mai citi un capitol de roman D-F Val se ridică.</p>
+<p>Făcu neliniștit câțiva pași agresivi în lung și latul golului cuprins între cercul de scris devârful ghetelor musafirilor săi...</p>
+<p>Iși sugrumă un crâcnit scurt.</p>
+<p>Și cu batista, ștergându-și sudoarea de pe frunte, de pe ceafa și bărbia tremurătoare, vorbiproteguitor, și cu dispreț:</p>
+<p>— Toate bune, oameni buni... Dar cu farafastâcuri de astea, nu crește grâul greu în spic pe lanuri, nici nu se... îndreaptă tot răul din țară.O plimbare cu automobilul ar fi mult mai agreabilă acum în preajma înserării...</p>
+<p>— Mergi cu noi, Fum Aniu !</p>
+<p>— Cu voia D-lui Val, da, Doamnă!</p>
+<p>Inepta!</p>
+<p>Se’ntorceau dinspre Cotroceni. Automobilul sbtiră.</p>
+<p>Pe cheiul Dâmboviței, lângă pod, Fum Aniu zări o femee cu’n copil la sân...</p>
+<p>Femeia eră în port de țară și avea un aspect jalnic.</p>
+<p>— Vă rog, opriți...</p>
+<p>Și coborâ și alergă napoi spre femeia care-și alăpta copilul, așezată pe-un colț de trotuoar, șicare-acum se ridicase în fața domnului străin...</p>
+<p>— De câți ani te? Așa eră Mitruț de mare... Și sugea la 2 ani ca tine mititelule, copilaș micuț!</p>
+<p>Și Fum, Aniu înaltă de subsuori copilul, ridi-cându-1 în sus...</p>
+<p>H sărută dornic, mereu...</p>
+<p>li sărută fruntea, ochii, obrajii, mânuțele, părul moale, galben-auriu...</p>
+<p>— Mitruț! Mitruț!</p>
+<p>își scoase punga: n’aveâ decât 20 lei.</p>
+<p>Fntinse mamei:</p>
+<p>— Iată atâta am și eu, acum. Să-ți trăiască și mâîigâerc zilelor să-ți fie!...</p>
+<p>Se’ntoarce și la spate: Val Vania...</p>
+<p>— Fum Aniu tu'mi ascunzi!...</p>
+<p>Avea ’n ochi lacrimi...</p>
+<p>— Nimic... nimic nu-ți ascund!... ,</p>
+<p>— Mitruț!</p>
+<p>— O’nchipuirc-a mea: Mitruț... Și-atât...</p>
+<p>— O! dacă m’ai luă de mână să mă porți pe drumul suferințelor tale! Să-mi arăți necunoscutele răni: să le tămăduesc cu lacrimi, să le ’n-cunun cu balsamul, cu alinarea sărutului meu...</p>
+<p>— De ce plângi Val Vania? N’am răni! Nu sufăr!..</p>
+<p>— Fum Aniu! Fum Aniu! Și du-te că viu și cu...</p>
+<p>...Și s’apropie... Sărută copilul. Puse în mâna mamei o hârtie de o sută lei... Femeia îi sărutămâinile cu lacriimi în ochi...</p>
+<p>Urcară... '</p>
+<p>— Dar cc-a fost?</p>
+<p>— A! Nimic! Mi-a venit un dor de... lumea dela țară... un dor de ducă spre țara lumii necăjite. Sufletul îmi sângeră... Să mă pot duce spre..casa aceia!... Așa cum eră odată!...</p>
+<p>Și Val Vania avu dinaintea ochilor spectacolul grozavei deraieri, așa cum ie-o povestise Maran,atunci, de mult, astă toamnă...</p>
+<p>Și, ca să spună ceva:</p>
+<p>— Du-te, Fum Aniu. Simt că te înăbuși Du-te acasă, în satul tău!</p>
+<p>— O! câmpiile curate, largi! Dar nu, iartă. Val Vania... Ulis după răsboiul Troii, după ce arătăcit atâția ani pe mări, a fost lăsat -adormitpe'țărmii insulei Itaca, de corăbierii regelui Al-cinous...,</p>
+<p>— Poate zeii l’adormiseră ca să uite... înfio-ritele umbra-e din insula frumoasei Calypso, fermecătoarea zeiță adormitoare...</p>
+<p>— Poate, Val Vania... Poate, zeii...</p>
+<p>...Și Domnul Val înghiți un crâcnit sugrumat.</p>
+<p>Și bolborosi:</p>
+<p>— Gărgăunii! Gărgăunii!</p>
+<p>Și privi straniu spre fruntea Val Vaniei, ca pentru a vedea dacă plutesc în jurul ei fluturiinegri fără aripi...</p>
+<p>Și-și repetă, aproape tare:</p>
+<p>— Gărgăunii!</p>
+<p>...Dar vorba i-o înghiți uruitul tranvaiului electric, care cobora furios, scrâșnind, bulevardul, zgomotul automobilelor, trăsurilor, pietonilorcari inundau, populau fantastic trotuarele și îno=p-tarea de primăvară...</p>
+<p>Cârniseră în Calea Victoriei...</p>
+</div>
+<div type="chapter" n="5">
+<p>Peste șase luni...</p>
+<p>vin, în parul tău bălai S’anin cununi dc stele,</p>
+<p>Pc-a melc ceruri să răsaî</p>
+<p>Alai mândră de cât ele!“...</p>
+<p>— Eminescu — Luceafărul —</p>
+<p>1 Mai.</p>
+<p>Dumneata, stăpâna gândurilor mele, mi-ai spus cri când coboram scările palatelor Dumitale,mi-ai spus atât de îndurerător, atât de fără decșire!...</p>
+<p>...Ce vorbe sfărmătoare!:</p>
+<p>...„Și mă gândesc acum, cât mi-ar fi plăcut să-mi fi citit mie întâiu, când erau în manuscript,numai mie, dacă vremea asta s’ar putea mutaîn alte vremuri”.</p>
+<p>...Câtă sfâșiere sufletească pot cuprinde cuvintele câte odată!</p>
+<p>O! dacă !</p>
+<p>...Și’ntrevăd în viitor o cale lungă, nesfârșit de dureroasă !</p>
+<p>...Și avea-voiu puteri câte trebucsc s’o pășesc până la capăt?</p>
+<p>Cine știe!?</p>
+<p>M’am zăvorit și’n singurătate, lacrimi adevărate, au curs, tainic, stropind, îndurerate, picioarele cuvintelor Dumitale.</p>
+<p>Primește-le, curate, în potirul sufletului Dumitale... </p>
+<p>Cât n’aș fi vrut, și cât n’aș vrea, să ți le fi putut citi, în iatacul Durnitale, și într’o grădinăcit flori în agonie, departe, la marginile lumii!...</p>
+<p>Te rog să nu râzi — zâmbetele Durnitale sunt sfâșietor de triste — frumoasa gândurilor mele-</p>
+<p>Și te rog să primești, îngenunchiat, sufletul eneu cu iadul lui de doruri.</p>
+<p>Alai.</p>
+<p>Iți trimit un trandafir care va înflori în iatacul Durnitale...</p>
+<p>Un trandafir fraged care-și va desface petalele sfios, luminat și încălzit de ochii Durnitale.</p>
+<p>Un trandafir palid, 'visător, îndurerat.</p>
+<p>Are culoarea melancoliei profunde-îndelungi; are culoarea suferințelor înăbușite...</p>
+<p>Și între petalele ce-abeă se desfac, în golul de potir pe cari ele, gingaș, îl statornicesc, soareleurzește o umbră tainică-fierbinte, și care pare afi un strop din înoptările de foc, ce cobor, primăvara, în Orient, peste țările trandafirilor...</p>
+<p>12 Mai.</p>
+<p>...Să culci, noaptea asta, trandafirul, între sânii Durnitale, frumoasa mea făr’de-asemănare... ^Te rog să mă erți și să nu te superi — tu —să nu te superi, trandafirul cel mai frumos, crescut, nespus de mtnunaf, în câmpul vieții mele.</p>
+<p>Să-I culci, și dacă-1 vei găsi strivit mâine dimineață, să te gândești că’nvins de doruri cari îngenuchiu un suflet omenesc, undeva departe,cutezam să mă gândesc:</p>
+<p>...Aș vrea s’adorm somnul trandafirului și sa mor de moartea lui.</p>
+<p>Te rog să mă ierți... aș vrea... n’aș vrea nimic... De ce oare nu pot fi trandafirul meu?</p>
+<p>Te rog să mă erți,...: ești prăpastia în cari se prăbușesc de pe culmile sufletului, gândurilemele, învinse, rostogolite în adâncuri de vârtejul nebun al dorurilor.</p>
+<p>Voiu sta de veghe în noaptea asta, s’aud cum moare înecat de fericire, cum moare strivit Jnbrațe, între sânii Durnitale, albi-fierbinți ca douăcupe de marmoră incandescentă, din care sorbvoluptățile uitare, — trandafirul meu.</p>
+<p>Oare nu voiu înebunî, divina mea fermecătoare?!... ;</p>
+<p>îmi ești dragă turburător...</p>
+<p>Și Amor, zeul copil, să ferească să-ți poți închipui, să poți simți cât îmi ești de dragă!</p>
+<p>Dacă Dumneata m’ai iubi cu o iubire care să poată fi un strop din imensitatea iubirii melc,ți-ai putea închipui cât mă doare frumusețea Du-mitale...</p>
+<p>Dar ce prostii am început să-ți scriu și-atâta de banale!</p>
+<p>Dumneata nu poți iubi un visător stupid, exagerat, care și-a troenit gândurile, simțurile toate,</p>
+<p>cu o persistență, cu o fixitate înspăimântătoare, in preajma Dumitale...</p>
+<p>Iți dai seama de lucruri, pe cari în falșul situației mele în casa Dumitale, populată totdeauna cu eleganța aristocrației... puritane, nu le poți vedea, pentrucă cu, acolo, trebue să fiu deo..... perversitate stupidă, dureroasă, și revoltătoare ?</p>
+<p>Iți dai scama? Dar nu vreau să-ți mai dai seama de nimic...</p>
+<p>La ce bun, nu-i așa ! ?</p>
+<p>Te iubesc, frumoasa mea, tristă, îndurerată și severă!</p>
+<p>Te iubesc: nu e o vorbă, c un strigăt îngrozitor acesta, o vijelie!</p>
+<p>Te iubesc cu o dragoste care nu încape in tiparul vorbelor .strâmte, reci și roase și nici între hotarele vieții omenești! '</p>
+<p>Te iubesc și vreau s’o curm odată cu scrisoarea asta care te va obosi: și asta m’ar durea...</p>
+<p>Te rog să mă c'rți: erai, când ai trecut azi la amiază, visătoare și Jalmă, în automobilul carealunecă ca o fantomă și'n lumina care te copereacovârșitoare, atât de turburătoare că mi-ani eșitdin minți... w</p>
+<p>Am avut o clipă viziunea unei scene imense, potopită de lumină, pe cari o curtezană antică,statornicește, în extazul lumei vrăjite, legile frumusețe! pure, și-ale armoniei.</p>
+<p>Erai ucigător de seducătoare și trandafirul</p>
+<p>meu își odihnea, tănjitor, dorul între sânii Du-mitale....</p>
+<p>IV îngenuchiu, cucernic, dumnezeia mea, și aș vrea să mor strivit de fericire... ca trandafirulmeu,... în noaptea asta.</p>
+<p>...Și când va muri, s-asculți bine, să-l mângâi și să-l îngropi între/^âni pasionat,... Poate veiauzi, prin noapte, departe, venind spre tine,un gemăt greu de lacrimi.</p>
+<p>4 Iunie..</p>
+<p>Crezi in visuri? .</p>
+<p>Am avut un vis straniu de o irealitate .fantastică. '</p>
+<p>Și?n suflet simt o prăbușire ca sub isbitura unei vești la spatele căreia, stă gata de năvală,un norod de dureri îngrozitoare.</p>
+<p>Visul mi-a clătinat sufletul, mai puternic decât dacă s’ar fi rostogolit, isbindu-1, o avalanșă derealități fatale...</p>
+<p>Par'că înă’ntălnisem cu Maran, în locuri străine...</p>
+<p>Eră altă lume, altă viață și noi, cu toții/ eram cum nu suntem...</p>
+<p>Erai candidă: porumbel-alb crescut îiv preajma corturilor sfinte...</p>
+<p>Sufletul Dumitale eră alb-virgiu ca o floare răsărită pc plaiurile cerului.</p>
+<p>...Și, trupul Durnitale, eră imaginea lui pământeană... ?</p>
+<p>Viața te-așteptă cu fericiri seducătoare și'necunoscute, pe cari să ți le îngădue cerul și pământul așa cum ți le doresc eu...</p>
+<p>Ingenunchiat, îți înălțăm un imn, tremurător de milă pentru soarta omenească:</p>
+<p>Să nu cunoști singurătatea sfâșietoare a sufletului, în pustiul vieții omenești!</p>
+<p>Să-ți 'dea ocol durerile și desilusiile!</p>
+<p>Să fii fericită așa cum n’am fost eu!</p>
+<p>.Să ai parte să frăești fericirile pe cari eu numai le-am visat, ca să rămână moarte, fot acolo, pe pragul'împărăției visului!</p>
+<p>...Și sufletu-mi eră înecat într’un chaos de lacrimi...</p>
+<p>Sufletul meu!</p>
+<p>Sufletul meu!</p>
+<p>Și... Maran m’a Coborît din cerul visurilor mele pe pământul realităților fatale...</p>
+<p>Cât aș vrea să nu-ți fi scris scrisoarea asta, îndurerăitoarea mea stăpână!</p>
+<p>Ți-o scriu cu sufletul perlat de lacrimi, cu su-'fletul ingenunchiat în fața durnitale...</p>
+<p>Și... Maran a spus:</p>
+<p>— Val Vania m’a ales mire...</p>
+<p>Și D-ta ai adăugat surîzătoare și tristă:</p>
+<p>— Fum. Aniu, vei avea locul lăutarului din... „Copca Rădvanultti... ”</p>
+<p>/ — Și daca l-aș avea, pământul nu m’ar înghiți</p>
+<p>decât pe mine...</p>
+<p>Ascultă și mă crede... Gândește-te și-mi spune, ce suflet mi-ar trebui, din ce fel de piatră sufletul să-mi fie... să pot îndură grozăvia asta, atâtea grozăvii ?!</p>
+<p>Sufletul mi se sbate mutilat lângă^picioarele Dumitale....</p>
+<p>...Va trebui să mă pregătesc, să pornesc cu-rând-curând pe drumurile lumii viitoare...</p>
+<p>Iți cer un singur bine...</p>
+<p>Ba nu, nici unul...</p>
+<p>Să-ți aduci aminte, Val Vanial:</p>
+<p>...Iubirea oamenilor este mărginită, materială . și vulgară, grea de desiluzii...</p>
+<p>...Iubirea mea este îndurerătoare, nesfârșit de îndurerătoare și, eternă, Val Vania: atât cât eternitatea încape în marginile vieții omenești!</p>
+<p>Tc rog, să cobori valuri de râs pe lacrimile mele...</p>
+<p>— Nu râd, Fum Aniu. Dacă cineva armuri pentru mine și acel cineva ar fi D-ta, jertfa aceasta m’ar înălță deasupra slăbiciunilor firei omenești.</p>
+<p>— Iată jertfa, Val Vania...</p>
+<p>...Și dacă, vreodată, învinsă de suferinți îți vei aduce aminte de mine, să te gândești, că undevă,departe, pe un drum al lumei celeilalte, fâlfâe,singur, un suflet îndurerat, care nu se poate cufunda și risipi în repaos, de mila suferințelorDumitale...</p>
+<p>Și, m’am simțit murind...</p>
+<p>Și D-ta erai curată, frumoasă și trista ca o floare necunoscută, răsărită, undeva, pe plaiurile cerului...</p>
+<p>...Și barca visului s’a isbit, sdruncinător, de țărm....</p>
+<p>Și-am țoborît în viața reală: eră în zori de ziuă...</p>
+<p>...Te-am întrebat a doua zi:</p>
+<p>— Crezi în vise? _</p>
+<p>— Nu.;..</p>
+<p>— Eu cred, mi-a răspuns, ca o neofită, Petronilla...</p>
+<p>Și alți, din obișnuiții saloanelor D-tale, prinseră să istorisească visurile lor...</p>
+<p>— N’am visat, nimic astă noapte... Dar m’am trezit după miezul nopții și n’am ațipit păn’ânzori... Sufletul meu eră ca fața mării... Aveamsensația nelămurită, dar certă, că, undeva, foarteaproape, ori nelămurit de departe, se cufundă îndureri o lume necunoscută și care, mă târăștedupă dânsa cu o rețea nevăzută, dar ale cărei nenumărate fire le simțeam, mă strângeau coperin-du-mă,, învăluindu-niă, înăbușindu-mă, tărându-mă, amețitor cu ele.</p>
+<p>...Și n’aveam nici o putere... Și m’am liniștit târziu.</p>
+<p>...Erai eu fața pală și te-am întrebat, Vania:</p>
+<p>— Crezi, că dela suflet la suflet, sunt căi, ca niște punți de lumină, aruncate peste abisuri, pecari, ele-și trimit vești, imaterial, se întâlnesc,</p>
+<p>fără ca această realitate nevăzută, să poată, că- .. dea sub perceptibilitatea simțurilor noastre?!</p>
+<p>— Nu cred...</p>
+<p>...Și’n noaptea aceia, exact în acelaș timp, „o lume necunoscută se cufundă’n dureri”... Muream eu, în vis, lângă picioarele Durnitale...</p>
+<p>Și toți ceilalți, oameni învățați, veneau cu con-voiuri întregi de gânduri din tomurile învățațiidr, cari au dibuit pe la porțile sufletului omenesc...</p>
+<p>Și ei nu știau și nici tu, ce însemnau vorbele tale: „și nfam liniștit târziu”...</p>
+<p>...După ce m'ain trezit din vis n’am mai închis ochii:</p>
+<p>Aveam niște dureri de cap înebunitoare, pieptul obosit, plesnea și’n piept, în dreptul inimei, mi se’nfingeau dureri ca și cum o cracatîță cughiare dc fier și le-ar fi ascuțit în carnea inea...</p>
+<p>Gândurile mele plutiaif, în fâlfâit liniștitor, deasupra patului Durnitale...</p>
+<p>Gândurile mele îți întovărășeau gândurile, sbă-tându-se dureros....</p>
+<p>Ți-au ajutat apoi să te desbraci; ți-au desprins fumul rochiei ușoare, gândurile mele...</p>
+<p>Și lângă patul alinării tale, toată vremea, au stat îrigenunchiate, gândurile mele.</p>
+<p>Și-au plâns, chinuite, îndurerate, și n’ai știut nimic, la căpătâiul tău, gândurile mele!...</p>
+<p>...Val Vania, Val Vania? Cât de nesfârșit de tristă este viața omenească!</p>
+<p>...Iți trimit multă sănătate, Val Vania!...</p>
+<p>foicart. — ..înfloreau Trandafirii.</p>
+<p>10 Iunie.</p>
+<p>...Ultimul Dumitale cuvânt a fost:</p>
+<p>„Sufăr că nu te liniștiți”</p>
+<p>M'am1 liniștit... z</p>
+<p>Mă liniștesc pentrucă vreau să nu mai suferi.</p>
+<p>Umbra unei suferinți care cutează să te-atingă, mă doare mai adânc și mai îndelung decât totnoianul neobositelor mele suferinți...</p>
+<p>...Un noian de suferinți!</p>
+<p>Va veni o zi când mă voiu liniști definitiv: etern...</p>
+<p>Voiu fi așa de liniștit că mă înfior gândin-du-mă la liniștea aceia...</p>
+<p>...Și, nu...</p>
+<p>Poate — sublimă iluzie deșartă! — ne vom întâlni sub cerul veciei, la o răscruce dc drumuri fumurii, pe lumea cealaltă!</p>
+<p>Oh.! De-aș mai putea crede în: ...„viața viitoare”, așa cum mi-o plăsnuiam odinioară, în povestea aceia albastră, naivă, fragedă și sfântă,?are mi-a fericit copilăria!</p>
+<p>'Acum, nu mai am decât un singur cult simplu, profund, nemărgenit: religia suferinței...</p>
+<p>...Se poate medita cu îndurerătoare resemnare: religia suferinței, ‘devenită o realitate sufletească înspăimântătoare... </p>
+<p>Tăcere!... Nici o vorbă! Mi-aud viața sufletul meu:</p>
+<p>In necunoscute adâncuri, cufundate în taină.</p>
+<p>în fata altarelor dărâmate, cu glas coperit, preoți» religiei mele, ritmează litanii...</p>
+<p>Tăcere!</p>
+<p>Auzi tu ruga fără cuvinte, pe cari fc’u glas de lumină ?!...</p>
+<p>...Dar, nu! Tăcere!..</p>
+<p>...Și, să te întreb:</p>
+<p>— Crezi că sentimentele isvorăsc din voința ? Iartă-mi întrebarea, și proastă și banală...</p>
+<p>...Eu, pentru mine, nu cred; pentru alții nu-mi pot da seama. Alții ?</p>
+<p>Cum ? Crezi că n’aș vrea să mă smulg din tris-teța asta îngrozitoare, din urîtul Care mă îneacă înconjurându-mă de pretutindeni?!</p>
+<p>Stau singur, la geamul deschis, ceasuri, noaptea târziu și’n lumina, care este a lumei dar care</p>
+<p>pare a se revărsă din potirul uriaș al unui crin fermecat și necunoscut, răsturnat pe câmpia cerului, călătoresc cu tine o eternitate pe raza unui</p>
+<p>gând...</p>
+<p>O! Iar îți spun irealități lipsite de bun simț!</p>
+<p>Tăcere, suflete, tăcere!</p>
+<p>Nu-ti voiu trimite paginile, pe cari le scriu pentru tine, în .ceasuri de noapte târzie...</p>
+<p>Vezi, mie, când scriu, mi se pare că stau de vorbă cu tine — sufletul meu cu sufletul tău</p>
+<p>într’o dulce legănare ca pe-aripa unui nor de fulgi albi — într’o convorbire fără cuvinte șicare este.o armonie inaccesibilă sentimentabi-</p>
+<p>lor comuni...</p>
+<p>Și pentru asta-ți scriu mereu, aș vrea să trăesc scriindu-ți mereu...</p>
+<p>Mă voîu înfrâna... Crudă vijelie!..</p>
+<p>Dumneata nu vei mai ștî nimic...</p>
+<p>Mă voiu înfrânge! Sbucium sălbatec!</p>
+<p>Și, o! cât aș vrea! Aș vrea să te văd chiar acum... Nu... Nu a'ș vreă!</p>
+<p>...Aș vreă să trăesc și să mor...</p>
+<p>...Dar nu, e vulgar...</p>
+<p>...Ca să wmă liniștesc...</p>
+<p>...Mă/simt...</p>
+<p>. ...Mă omoară dorul și urâtul...</p>
+<p>Și să termin!</p>
+<p>Să terminj nu?</p>
+<p>Și nu mă pot smulge de lângă aceste foi de</p>
+<p> hârtie pe cari sufletul se rostogolește spre tine. Aș vreă să ne despărțim cu ceva... vesel...</p>
+<p>...Ce tristeță sfâșietoare și sub ce fatalitate grozavă, trebue sa îngenunche unele vieți, să sesfarme!</p>
+<p>/2 Iunie,</p>
+<p>...Cu emoții pe cari nu ți le pot descrie și nici precisă, aștept să .văd gândurile Dumitale...</p>
+<p>...Cu bătăi de inimă,^nestăpânite și nebune...</p>
+<p>Dacă vrei să-mi vorbești despre romane — să întârzii, f rumoasă visăfpare, în grădinele gândurilor inele — te rog să fii sinceră .până dincolo de extremele cruzimii.</p>
+<p>Auzi? Tc implor!</p>
+<p>Sfinți mai sunt azi numai oamenii sinceri</p>
+<p>’ Și sinceritatea este, bunlității, chivot sfânt..</p>
+<p>Și’nfr'o societate în care exemplarele selecte ' cunosc numai beatitudinea cugetării... quotidieneși profane, o frumoasă visătoare, ciselează, pasionat, gânduri și imagini...</p>
+<p>Vezi, D-ta, un roman este un câmp nemă?gi-nit, în cari, muncești, mereu, din zori și până seara...</p>
+<p>O grădină imensă — o lume.</p>
+<p>Și sufletul — oh ! sufletul! — această minune, cea mai mare și mai nepătrunsă minune, cea maicufundată în mistere, minunea minunilor lumii.,care răstoarnă brazdele, idealizează lumea, conturează florile, filtrează durerile și lumina, carinăvălesc din lumea de afară...</p>
+<p>A, mi-ain adus aminte:</p>
+<p>— spuneai odată: </p>
+<p>. — Ești ultimul romantic.,.</p>
+<p>Poate.,.’</p>
+<p>înconjurat, asaltat, coperit, biruit, strivit de fantastica năvală a realității, cu toată încordareaputerilor mșlc, m’am avântat spre lumină, sprecer, c’a's’alLtng, că să’ndepărtez realitatea...</p>
+<p>Va veni vre-odată vremea să poți trăi între realitățile hunei noastre, fără oboseâlă și des-gust ?</p>
+<p>Mă strădănuesc, cu trudă sălbatecă, să sprijin, la porțile cerului', capătul unei scări a lui lacob, *</p>
+<p>-ale cărei picioare de jos le-am zidit, pe cel mai înalt promontoriu al vieții reale...</p>
+<p>...Și mi-ai mai spus odată:</p>
+<p>— Femeile romanelor Dumitale sunt imposibile.</p>
+<p>...Vor fi, în altă lume, peste două mii de ani, și nu pe calea fireștei evoluții sufletești...</p>
+<p>...Și-ai adăugat cu acel fermecător tremur de glas care mă’ngenunche:</p>
+<p>— ...Pe femeile din clasa și lumea mea le disprețuesc, când nu-mi sunt de o indiferențăjicnitoare.</p>
+<p>Calea femeilor din romanele Dumitale, o taiu în sufletul meu, și o presar cu diamantul admirației mele...</p>
+<p>Of Dumneata ești atât de-aproape femeilor din romanele mele !...</p>
+<p>Și... gândurile mele, cad în preajma Dumitale, te înconjur, te acopăr, ca o grindină de păcate, câmpul unui suflet înflorit, bolnav, dar alb...</p>
+<p>Gândurile mele îngenunche ,în preajma Du-mitale ca un pâpor de flori umile care-ți îmbrățișează, dornic, sufletul și trupulfîjitr'o bae de -sărutări fierbinți,.... și se desprino apoi și se’n-' torc la minen singure și reci, învinse de atâfanenoroc, cu petalele zdrelite...</p>
+<p>p. s. Vezi, și'n scrisorile mele: „atât sensua-îism! atât bombasm” vorba doctorului Timuș...</p>
+<p>Te rog să râzi și să disprețuești toate aceste fâșii pe cari D-ta, le rupi, le desprinzi din sufletul meu — suflet — robul Dumitale...</p>
+<p>Cu sufletul îngenunchiat la picioarele Dumitale, las să te fure, să te ducă cu el, nesimțit, duios, mângâetor, convoiul dorurilor mele...</p>
+<p>15 Iunie.</p>
+<p>Să mă desmeticesc!...</p>
+<p>Dac'aș putea să-mi limpezesc sufletul!... Ca să-ți pot scrie câteva rânduri!</p>
+<p>...Și crezi, cu tot dinadinsul, că toată viața sufletului meu, s’ar putea modelă în conturul cuvintelor?! _</p>
+<p>Sau că eu aș cuteză să încerc o imposibilitate atât de evidentă?!</p>
+<p>...Și atât de ,dureroasă ?!</p>
+<p>Este iubire gestul Dumitale, ori o jertfă pe</p>
+<p> cari n’a putut-o,crede posibilă închipuirea mea?!</p>
+<p>...O jertfă: un porumbel alb sacrificat pe altarele culmilor luminoase ,și sublime, din sufletul Dumitale, Val Vania!».</p>
+<p>Fii bună, așteaptă să-mi lămuresc vâltoarea, cari-mi clatină sufletul!</p>
+<p>...Așa a fost: — nu-i așă c’așâ a fost ? —:</p>
+<p>...Terminasem de cetit romanul meu, în manuscript: „Biserica arsă”.</p>
+<p>Salonul Dumitale eră somptuos ca un templu. Dumneata erai nesfârșit de frumoasă, nesfâr-</p>
+<p>șit de trista —visătoare, sensuală ca o zi dc primăvară când sunt în floare trandafirii...</p>
+<p>Toate metaforele imaginației visătorilor lumii, tot ce au visat frumos și au putut ori mi-au' putut prinde în conturul liniilor chinui ud marmoraori culorile, toate valurile de emoții pc cari mariiz maeștri le-au modelat în tulburătoare simfonii,—toate păreau că s’au materializat în făpturadurnitale, care, incomparabilă, vie și perfectă,părea că ironizează și întunecă aceste nobile sforțări omenești, fiind deopotrivă de puternică și, misterioasă cu întâmplarea, cu neantul și cuDumnezeu...</p>
+<p>Privirile oaspeților spiritului Durnitale, rătă-ciau în gol, departe...</p>
+<p>D-ta, țineai ochii strâns închiși, dar nesilit...</p>
+<p>...Și cele câteva ziie ;cât a ținut lectura, o clipă n’ai privit aiurea, decât spra priveliștile, din su-yfletul Durnitale...</p>
+<p>Și când am terminat,... _</p>
+<p>...și când ochii, petaleie genelor și-au ridicat, două lacrimi tremurau, în ochii Durnitale... ’Mi s’au părut doua raze lichefiate: dintr’o-urnă așezată, tainic, departe, sub cel dintâi umbrar înflorit pe căile sufletului Durnitale, picuraseră, și, după o călătorie, pe drumuri cari nuse vor mai potmolî, ajunseră Ia mine, cîouă lacrimi...</p>
+<p>Au coborît din ochii durnitale, în amfora sufletului meu pentru a rămânea nemuritoare...</p>
+<p>...Șerban a spus: -</p>
+<p>— Scrii frumos și citești și nlai frumos...</p>
+<p>I von na Prigoreanu:</p>
+<p>— Romanul citit dc noi, nu va fi nici odată romanul citit de D-ta. Ai putea fi, pe scenă, uncaptivant tragedian... Cuvintele prind în lecturadumitale, nuanțări necunoscute, resonanța dulceinfinită a unei ape mari cu valuri vii dc aur...</p>
+<p>...Dumneata, tăceai, Val Vania...</p>
+<p>...Și’ntr’un târziu, la sfârșitul unui troian de</p>
+<p> elogii, pe cari* prietenii Duniitale-I constniiră îti jurul meu, — D-ta tăcuseși mereu —, te-ai ridicat, șovăitoare, și, privind spre geam, afafă, cupriviri cari nu vedeau nimic, ai șoptit, tremurător :</p>
+<p>— Mi-ai concretizat sufletul în forma unui cireș înflorit. L-ai smuls din pământul. său. L'ai ridicat în slavă. L-ai scuturat în gradinele cerului, aproape dc Dumnezeu. Fum Aniu la revedere...</p>
+<p>...Și-ai plecat apoi, cu tot sufletul meu după tine...</p>
+<p>...Și golul din mine semăna atât de mult cu cea dintâr zi după moartea soarelui...</p>
+<p>...Și’n dimineața zilei următoare, — era o zi cu soare splendid — automobilul Dumitale — seopri dinaintea ușei mele scunde, încovoiată degriji grele..;, „</p>
+<p>Lacheul Dumitale credincios — moșneagtil cel cu capul alb — bătrânul nostru comisionar, coborî în brațe cu o glastră de aur în formă de triremă antică...'</p>
+<p>Val Vania, glastra venea cu un nor de crini, trimiși de tine, Val Vania...</p>
+<p>Mat, cu gl|asul înecat în lacrimi, sugrumat de dumnezeești emoții, priveam fantastica minune.</p>
+<p>Val yanial ,-,Mi-ai concretizat sufletul în forma unui nor de crini albi”...</p>
+<p>Val Vania, dumnezee!... </p>
+<p>Am plâns în preajina crinilor albi și am înge-nunchiat la poala lor...</p>
+<p>Erau albi și fierbinți ca o horă de visuri, cari se prăpăstuesc în genunea unui dor năprasnic....t</p>
+<p>iți îngenunchiu, Val Vania și-ți sărut genunchii, nesfârșit de dornic, nesfârșit de dureros, de nesfârșit de multe ori... Iți îngenunchiu, ValVania, dumnezee!</p>
+<p>Vei pluti de-apururi, nemuritoare, pe-un nor de crini albi, pe cerul nemărginire! mele sufletești...</p>
+<p>Jarfa-mă, Val Vania...</p>
+<p>Mi-e dor de/ngândurârea Dumitale...</p>
+<p>vli-ești draga, Val .Vania! Iartă...</p>
+<p>...Dragostea mea este... „un nor de crini albi” cari mă îngenunche ta picioarele crăesei gândurilor mele...</p>
+<p>...La ce bun confesiuni de iubire, smulse sufle-</p>
+<p>tutui meu, înecat în zădarnice suferinți, din cart cată să-l smulgă tot așa de zădarnice sfarTțări, și să-l înalțe pe culmile luminoase și curate, pe cari le întrezăream odată din văile Copi-*lăriei mele și pe cari, azi, te văd, zâmbind îngândurată ?!</p>
+<p>La ce bun, când între hotarele imateriale ale unei clipe, ale fiecărei clipe, pe valuri diafane,vremea care trece, vremea care vine, te leagănămolatec, voluptuos, în lumina ochilor și sufletului meu?!-</p>
+<p>Val Vania, îmi smulg sufletul, ți-l trimit pe valurile norului de potire albe!</p>
+<p>Val Vania, risipește-l în vecie!</p>
+<p>16 Iunie.</p>
+<p>Să-ți dea viața atâta alinare, cât balsam mân-g’âetor a revărsat în sufletul meu, frumoasă,, tristă, zguduitoare, trirema ta de aur, care s'aoprit pe apele sufletului meu legănând, încetișor, comoara crinilor albi... .</p>
+<p>Stau cufundat în mine ceasuri nesfârșite și’n fata triremei purtătoare de vr^jă și mister...</p>
+<p>lato, depărtându-se pe nesfârșite ape în infinitul sufletului ineu, spre alte orizonturi...</p>
+<p>Și crinii îmi par umbre albe, diafane, fumurii, seducătoare, și triste, umbrele prințeselor legendare cari au înflorit odată cerul Trebizondeirprințeselor cari au fost odinioară. în lunii cari s’audărimat cu palatele din Bagdad, Ninivc, Babi-lon și Ecbatana...</p>
+<p>...Prințese cari au fost și nu mai sunt...</p>
+<p>Prințesă cari ești și vei rămâne în sufletu-mi nemuritoare!</p>
+<p>Stau cu sufletul îngcnunchiat în fața albelor potire...</p>
+<p>Și-mi apari ca un vârtej de vrăji amețitoare, * Val Vania!</p>
+<p>Un vârtej de linii curbe...</p>
+<p>O simfonie de forme fierbinți, desăvârșite și . rotunde...</p>
+<p>Un crin și’n dină potirul spre pământ...</p>
+<p>Și sufletul meu se distramă, se rupe în fierbinți fâșii și se’ncheagă apoi în nesfârșite sărutări, cari călătoresc în preajma stăpânii lui fermecătoare: s-aștern pe ochii tăi turburători, pe frumoșii, triștii obraji fragezi ca trandafirii înrourați în diminețile lui Mai, pe trupul tău cu-rat-fierbinte, gol, divin, omorîtor de dulce...</p>
+<p>Sufletul meu te înfășoară și-ți încinge mijlocul, ți-1 strânge dornic ca o centură vrăjită de foc și de vis...</p>
+<p>Sufletul meu mă poartă, lângă tine, cu tine, pretutindeni...</p>
+<p>...Așt’noapte eră frumos!</p>
+<p>Aî'âta de frumos! -</p>
+<p>Noaptea limpede erâ de o sfâșietoare frumusețe : părea reflexul unei mări albastre de sapbir, în cari s’ar fi înecat, nesfârșite, convoiuri deiluzii.</p>
+<p>Și noaptea eră mai tristă decât agonia unei iubiri... nemuritoare... </p>
+<p>Și m’am gândit îndelung, profund...</p>
+<p>Și-ți spun, îndurerător de mult frumoasa mea Stăpână:</p>
+<p>eu ridic nămolul vieții pe culmile poeziei; eu îngenunchiu culmele poeziei în nămohi!vieții...</p>
+<p>eu trăesc sensațiile pe cari oamenii le’ncearcă numai în visuri, câte odată...</p>
+<p>și-ți spun:</p>
+<p>...In ziua când îți vei aduce aminte cu păreri de rău, cu sală, de trirema de aur și de criniialbi, în ziua aceia, te rog să-mi spui:</p>
+<p>— Să mori !</p>
+<p>Fără remușcări...</p>
+<p>Și eu îți voiu răspunde:</p>
+<p>— Crinii sunt chivotul iubirilor nemuritoare..</p>
+<p>...Și voiu muri...</p>
+<p>Pentrucă nu vreau să mă smulgă morții nici o amintire...</p>
+<p>Ține minte...</p>
+<p>Oamenii uită....</p>
+<p>Apele vieții te fură ușor spre țara uitărîi.</p>
+<p>Si:nt o stranie beție: dorul de a muri prin D-ta... De mâna Dumitale...</p>
+<p>Eu cred cc spun.</p>
+<p>Și, sub vorbe, în sufletul meu,, se^ntinde p realitate ncsguduită...</p>
+<p>...Va fi departe...</p>
+<p>Și nu peste prea niultă vreme: presimt....</p>
+<p>lini vei întinde narcoticul veciei...</p>
+<p>Și-ți-va tremură mâna...</p>
+<p>...Și... aș vrea, înclipa care va precede morții mele, undeva, într’o singurătate nesfârșită, aiochii închiși, tremurând, mă erți crăiasa dorurilor mele, — să-ți frâng trupul într’o îmbrățișare veșnică, și, pe gura ta, fermecătoare.și virginala cel dintâiu trandafir pe cari l-a zămislitlumina și pământul, să-ți sărut sufletul prelung,sfâșietor... ș-apoi să mă desprindă, barca vecieiși să mă poarte... departe....</p>
+<p>Ține minte!</p>
+<p>Și te rog nu râde stăpâna gândurilor mele, iubită cit sfâșieri sufletești îngrozitoare...</p>
+</div>
+<div type="chapter" n="6">
+<p>17 Septemvrie, Constanța.</p>
+<p>Vei citi scrisoarea doua — o primești în plic cu aceasta: lipită, sigilată puternic: cuprinde, sugrumată, o taină marc...</p>
+<p>— Numai dacă nădăjduești să crezi că nu măRești în stare să te superi pe mine, gânduin-du-te, că și eu nu sunt în stare sa te jicnesc, cuvoință, niciodată,..*</p>
+<p>Altfel să n’o citești; nici s-o deschizi... să mi-o restitui neatinsă.</p>
+<p>Dealmintreli, nu știu cum te-ai putea gândi c’aș putea, eu, s-arunc umbra unui strop de no-roiu pe statua conturată, trudnic, cu dalta gândurilor mele... </p>
+<p>Fum Aniu</p>
+<p>p. s. port scrisoarea doua de mai multe săptămâni. De xcâte ori mă gândeam să ți-o întilndj. n’aveam putere să’duc una, din cele două mâni,spre buzunarul meu și deacolo spred-ta...</p>
+<p>.Acum 'bătrânul comisionar, bătrânul nostru comisionar ți-o aduce și-ți va întinde-o cu slaba-i mână tremurătoare...</p>
+<p>Bătrânul nostru comisionar!...</p>
+<p>...Și nici o clipă să sorb măcar din zare,.</p>
+<p>a niyrtului parfumuri de dincolo de mărci...</p>
+<p>— Ermond Rostand — «</p>
+<p>— Princesa ’ndepărtată —</p>
+<p>1 August, Constanta.</p>
+<p>Gândește-te că din clipa asta—e Duminecă sara și ora când marea și-adâncește și-și limpezeșteprofunzimele albastre— și ipână când vei fi citataceastă scrisoare îngrozitoare, sufletul meu așteaptă, îngenunchi lângă tine, în prada celormai grele rndoeli, răspunsul.</p>
+<p>Sufletul meu, sfios și tremurător, și ’ngenun-chie lângă genunchii Dumitale, imenșii codri virgini de trandafiri în floare...</p>
+<p>Mi-a hărăzit Dumnezeu, fericirea, să stau de vorbă cu D-ta, azi pe malul mării vreme îndelungă...</p>
+<p>Eram singuri pentru prima oară...</p>
+<p>Tremuram: Mi se părea că-s un fir de nisip singur, într’o veșnicie... ~</p>
+<p>Și D-t, o ;D-ta! V!al Vania !... Sufletul fmeu și’n genunchia tot mai adânc codrii trandafirilor înfloare!....</p>
+<p>Și marea, o marea — tu stătdai în picioare lângă poala valurilor — marea părea o împărățiede iluzii... </p>
+<p>Va! Vania ! Val Vania !... .</p>
+<p>N’aș vrea să-ți poți închipui^ în ce tristeță covârșitoare m’am cufundat, după despărțire...</p>
+<p>Și care persistă, desolant...</p>
+<p>O ! ’Ma'rea, marea ! Val Vania...</p>
+<p>Par’că erai toată lumina cerului, (oată gingășia tristă a valurilor, Val Vania.</p>
+<p>Par’că erai un nor fraged de visuri, coborît, acolo, ca sa vrăjești, s-addnni neastâmpărul veșnic al valurilor.'</p>
+<p>Sufletul meu ; Val Vania, sufletul meu !..</p>
+<p>...Ai putea să-ți imaginezi, cum am făcut eu din Dumneata, aleea nesfârșită de trandafiri alBfși-aprinși ca (patimile, șt cum aș Vrea ș.ă jnă ’mbăt,să rătăcesc (printre neasenumiții trandafiri, pănă’nziua tând îmi vei cere să îngenunchiu la porțilemorțiș?!.</p>
+<p>îmi ești [dragă și te rog să mă erți!</p>
+<p>.Din iubire^ ăsta, am boltit orizont albastru peste pământul vieții mele...‘</p>
+<p>Frumusețea sufletului §i trupului, D-tale, tristă, mă fură, răpitoare, îmi cheariiă sufletul, mi-lîngenunche într’o adorație mistuitoare...</p>
+<p>Mi-a(duc aminte, când ți-am dat cea dintâi scrisoare... Ți-aduci .aminte?: M-ai primit în salonașul de lectură: cuibul gândurilor Duinitale...</p>
+<p>Ai luat scrisoarea cu mâna, care, mică, alba, tremură ca aripa unei păsărele ’n sbor lungpeste o (apă mare....</p>
+<p>...Și-ai vărât în sân scrisoarea.. — e greu să-țî mai aduci aminte! — în sânul Dumitale candid</p>
+<p>și sfânt, ca nins de polenul alb, ipe cari crinii înfloriți, I’aștern, în nopți de iubire, peste trupul frumoaselor zâne, peste cupolele sufletelor visătoare...t</p>
+<p>Nu vei fi bănuit nici odată cât {de fericit aș fi fost să-ți fi putut cădeă îngenunchi, în clipa ceia..</p>
+<p>„Christ călătorind pe valuri” în pânza lui Mu-rillo, mi-era drept în față și^dc tot aproape...</p>
+<p>lini înnecau sufletul lacrimi, multe lacrimi, nesfârșit de gnulte!...</p>
+<p>Dac’aș fi fost Dumnezeu, în clipa aceia, te-aș fi făcut... imi-ar fi trebuit o vecie de meditație,,ori o (scânteerc de o clipă, ca Jsă pot găsi formadesăvârșită și deci eternă, pe cari s'o dau crăeseifericirilor lumii...</p>
+<p>Și nu sunt decât nu sărman muritor de rând!.</p>
+<p>...Dar vezi, crede-mă, erai azi, mai frumoasă — o frumusețe fierbinte — dțcât trandafirul defoc și de vrajă cari-ar răsări în «pustiul ernelorpolare și eterne...</p>
+<p>Și eu, o ! eu !</p>
+<p>Biet muritor de rând !</p>
+<p>Mi^im dat șama bine pentru prima oară cari sunt atributele nemurirei..</p>
+<p>Și-am blestemat.</p>
+<p>..Odinioară, în India lianelor, a florilor de lotus și a cerului albastru, preoții Iui Budia,contcmplau ceru! în extaz, un punct fix al azurului,zile, nopți, aiii, o viață, împietriți într”o meditație istovitoare, jpână cădeau taorți, în țărna</p>
+<p>din care voiau să-și smulgă sufletul, să-și-1 trimită, în carul viselor, Nirvanei...</p>
+<p>...Remiescențe de literatură indiană, ori atn visat eu?! »</p>
+<p>nu știu, nu știu, nici nu vreau să știu...</p>
+<p>aș vrea -numai, dar știu eu cc-aș hiai vrea!?</p>
+<p>...astăzi în lumina tristă a 'nscrarilor marine și’n fața Dumitale, mi-am adus aminte de-aceștivoluptoși anachoreți.</p>
+<p>Aș vrea, ca acești preoți ai lui Buda, să trăesc, extaziat, într’o contemplare istovitoare, care să-șitrimită norodul ^gândurilor spre {armii, pestecare -domnește frumoasa gândurilor mele...</p>
+<p>Intr’o zi .nemuritoare — citisem în salonul Dumitale ultimile pagini din „Thais” și începutul din „Les Civilises” — erau, Maran, doctorul Timus, Șerban și eu și D-ta,—mi-ai spus când'ne-am despărțit, la ușă;... erai frumoasă, de ofrumusețe zdrobitoare și dumnezeiască;... eraitulburată, gura ta .tremura cum tremură o steadepărtată și singură pe ccrul senin și rece,—iarna;;., peste ochii pătimași, umbre fermecătoare coborau, suferinți necunoscute...</p>
+<p>Ți-aduci aminte!.</p>
+<p>Și eu voiam să-vorbesc, și nu puteam/ căci sufletul mi-era tulburat pân'ăn adâncuri...</p>
+<p>Cu sforțări istovitoare, într’un târziu, ți-am putut smulge câteva cuvinte— sfărmături dintr’oluptă înfricoșată și necunoscută:t .</p>
+<p>— Dumnezeu, vreau să-ți îngenunchiu!</p>
+<p>— Nici odată, aici...</p>
+<p>— Unde?</p>
+<p>—Unde?! .</p>
+<p>Gura Durnitale părea potirul unei sensualități cerești, 'divine, .gura Durnitale potir unef voluptăți mistice... ■</p>
+<p>Și pe fața Durnitale se cutremurau voluptuos, urîdeîe uneiundurerătoare cutremurări profunde..</p>
+<p>Aș vrea să stau cu tine, lângă tine, q vecie, mut; aș vrea să stau îngenunchi, în fața Du-tnitale, înecat de fericire, pe cari o simt, o fericire îndurerătoare, și pe cari nu o pot turnă șipreciza în conturul strâmt al puțin — evocatoarelor cuvinte...I</p>
+<p>Aș vrea să pol îndrăzni să-ți sărut, îngenunchind, manile, îndelung, albele mâni tremurătoare... '</p>
+<p>Aș vrea să mă cufund în repaos“, stând în genunchi, lângă genunchii Durnitale...</p>
+<p>Și-am sta așa-legănați, nesimțit de armonios, pe valuri de tăcută, nemuritoare^fericire curit-mică...</p>
+<p>...Unde va departe, pe un țărm senin ’de inare... Va fi o înserare omorâtor de dulce...</p>
+<p>Vor sbură, duios, curate, paserile albe, paserile mării... (</p>
+<p>Se vor sbate aripile lor, precipitat, năvaln^ ca ritmul sufletelor ^noastre...-</p>
+<p>Și spre gura ta fierbinte și severă— potir al visurilor mele, însângerat potir — va pluti, în</p>
+<p>sbor îneau^it, sufletul meu, risipit în albe petale virgine...</p>
+<p>Și marea va fi albastră ca o împărăție moartă de iluzii...</p>
+<p>Și sufletele noastre se vor sbate cum se sbat aripile ipaserilor mării, în ceasurile tainei, cândse Jnalță luna peste valuri,..</p>
+<p>Și, sfios, un convoiu de sărutări fierbinți, nemuritoare, va porni, spre potirul visurilor mele, ca un'iștol nesfârșită flăcări roșii...</p>
+</div>
+<div type="chapter" n="7">
+<p>>VII</p>
+<p>25 Septemvrie Constanța.</p>
+<p>Cea dintâi scrisoare și, vreau, și cea din urmă..</p>
+<p>Fum Aniu, ești țărmul visurilor mele...</p>
+<p>Te iubesc, suflet fără asemănare!</p>
+<p>Ești oaza verde și’nforită, Ia ale cărei' isvoare înbălsămate, nu cutează să'ngenunchc caravanadorurilor inele...</p>
+<p>Fum Aniu îmi ești drag și mă doare că nu pot să-ți spun «cât îmi ești de drag. .</p>
+<p>Te iubesc fără cuvinte...</p>
+<p>Fum Aniu ! Doamne !</p>
+<p>Totuși, Dragul -meu!</p>
+<p>...Sara, când mă culc, în suflet cu ecoul glasului tău și cu brazdele de lumină ipe cari privirile tale le spintecă ’n cuprinsul lui, mușcând du’mi buzele, tremurând, înalț către tine o rugăminte sacră și perversă:.</p>
+<p>...Ți-aduci aminte de: „Priefe de Leila, Fille de Lilîith”...</p>
+<p>Ți-o triimit aici îu divina limbă a originalului francez, în divina limbă a patriarchului hiedfi-iațiilor mele: Anatole France:</p>
+<p>...„Mon 'Dieu, jpromeftez-moi la mort, 'afin que je-goute la vie. Mon Dieu, dormez-moi ic re-mords, afin que je trouve le plaisir. Mon Dîeu,fâites-moi l’egale de filles d’fcve”...</p>
+<p>...Ș-apoi -gândul meu fierbinte, brus^, încremenește în .tipare de ghiață^.</p>
+<p>Mă’mpiedic între gândurile lui Nietzsche...</p>
+<p>Iată: </p>
+<p>cea mâi bună iubire a voastră nu e decât</p>
+<p>o alegorie încântătoare și o pasiune arzătoare”... Și imediat mai departe:.</p>
+<p>....e amărăciune chiar și în potirul celei mai bune iubiri” ...Nu?</p>
+<p>Fum Aniu, fără artă, îmi ești drag, Fum Aniu.. ...„Te 'duci la femei? Nu uita biciul!”.</p>
+<p>.....Așa vorbi ha Zaratustra”...</p>
+<p>De ce?mi vin aceste stranii gânduri, cu seri-soarea ta în poală? l</p>
+<p>Și nu .râde de mine, de pedantismul meu: cu. gândurile altora pare că pot să-ți arăt mai binegândurile mele...</p>
+<p>Nu... .</p>
+<p>Am răspuns icutremurătoarei scrisori:</p>
+<p>Nu... .</p>
+<p>Și sufletul îmi îngenunche sub povara suferințelor lui.</p>
+<p>Mi-e sufletul o plagă de răni...</p>
+<p>Cutremurător de mult iubitul meu, iubit până dincolo de hotarele vieții mele, nu!..</p>
+<p>Și nu te gândi că laș putea ;aveâ brutală. cruzime să mă sprijiiv pe trivialul gând al Iui, — tot al.lui Nietzsche:</p>
+<p>...„Și» priviți’i pe oamenii aceștia: ochiul lor mărturisește — ei nu cunosc nimic mai bun ipe*pământ decât să se culce cu o femeie”...</p>
+<p>Nu...</p>
+<p>Ci pentrucă:</p>
+<p>„Mi-aș pierde paradisul”.</p>
+<p>— Cunoști sonetul lui Codreanu? —</p>
+<p>Și voiu muri în suflet, cu ecoul ;amețitor pe cari mi l-a statornicit glasul tău vrăjit, iși-ale*cărui valuri vor pluti sub cupolele lui, în vecie...*</p>
+<p>Ți-aduci aminte când ne citeai: „La princesse; lointaine”?!'</p>
+<p>Versurile lui Rostand, păreau o armonie de lacrimi pe o albie solară... </p>
+<p>'Ți-aduci aminte?</p>
+<p>' ...„—Câți alții, idealul, în van mereu își cată și mor fără să'și vadă... Princesa ’ndepărtată” î...Sunt cei fericiți Fum Aniui, supremii fericiți,,scumpul meu, Fum Amu!</p>
+<p>... — «Și câți prea mult văzând-o și prea de grabă știa a moartelor iluzii lungi zile de pustiu 1</p>
+<p>Sa pleci c mult mai bine din țărm, cum ai sosit, căci astfel, noutatea acelui țărm doritcurând se vestejește! — îmbrățișarea meate'ncântă câtă vreme nu ești deprins cu ca».</p>
+<p>O! gem! Fum Amu! Adevărul acesta Jmț zdrobește! Fum- Aniu, scumpul meu!...</p>
+<p>Sărmană viața omenească!</p>
+<p>Ești altarul iluziilor mele! I</p>
+<p>Și al odorurilor.</p>
+<p>Ești sufrema mea iluzie!</p>
+<p>Gândește-te: ce m-aș face dac’aș sugruma-o dintr’o banală strângere în brațe?...</p>
+<p>Ce m-aș face?</p>
+<p>Iluzia mea supremă, cea din urmă!</p>
+<p>Sunt pc culmile celui mai sublim vis!</p>
+<p>Și l-am .ucis1!...</p>
+<p>Ce m-aș (face? ’'</p>
+<p>Ma frânge durerea, sufletul meu scump!</p>
+<p>Și iubirea!...</p>
+<p>Sufletul meu e o răstăgolire de lumi ce se prăbușeisc.</p>
+<p>Te iubesc cu nesfârșită ’n'durerare!...</p>
+<p>N-am iubit pe nimeni.</p>
+<p>Te iubesc ca fie o insulă 'de! foc între ghețari, oamenii dela equator...</p>
+<p>Fum Aniu, nu !...</p>
+<p>...„Păstrez ceva în mine din larga depărtare în care-a tale visuri au vrut o întrupare”.</p>
+<p>La revedere, Fum Aniu,,Ia revedere...</p>
+<p>Ți’n genunchiu ca ’n preajm'a unui altar de crini albi, în floare, sacri crini în floare...</p>
+<p>Țiiaduci-aminte?:</p>
+<p>„Princesa mea veni t-a i! — Princesa mea.-A'd to”! </p>
+<p>Sufletul Dumitale eră un val de lacrimi!</p>
+<p>Și glasu-ți tremura!... .</p>
+<p>...sacri crini în floare....</p>
+<p>Val Vania</p>
+<p>p. s. mă simt singură...</p>
+<p>...copleșită de o singurătate sfârșictoare...</p>
+<p>...par-că ’s un fir de nisip, într’o veșnicie”-Scumpul meu, Fum Aniu!.....</p>
+<p>da, da, de o mie de ori: jda, da!... da!...</p>
+<p>Nețărmurit de mult iubitul meu: ...nu, nuj de-uu milion de ori, nu!.... nu...</p>
+<p>Pentru viața toată, nu1....</p>
+<p>Pulbere!.Ținnurejfte-}i ambiții.- -</p>
+<p>— Lord Byron —</p>
+</div>
+<div type="chapter" n="8">
+<p>VIII</p>
+<p>10 Octombriet București,</p>
+<p>V.al iVania!... Te rog să fii nemărgenit da buna* și să jmă crezi: n-am priceput absolut nimic dince mi-ai scris azi, oricât mJaș căsni... Și in'am.căsnit îndelung, Val Vania!...,</p>
+<p>Te rog ,să fii nemărgenit de bună și' să mă crezi: nu sunt curtisan de meserie—îmi repugna—; nu sunt jongleur de cuvinte — îmi’repttgnă....</p>
+<p>Nu fac cu D-ta, poesie Val Vainaei bine!,, în situația asta îmi repugnă poezia, pentrucă eanu este vrednică să deslege curelele încălțămin-telor Dumitale, Val Vania...</p>
+<p>...Chiar dacă poezia aceia ar avea ritmul, cari totuși este rece desarmonic, pe lângă mersul ValVaniei; și melancolia, cuceritoare și indecisăcare totuși este banală și comun de fără umbre,pe lângă perspectivele umbrite în taine turburămtoare, din ondulările glasului și infinituTochiJorVal Vaniei, cari îmbăta sufldîul Val Vaniei în?poeziile divinului ei Sull)r Prudhomne, și malni^ales în mcloncolic— fumuria: „La Foile”.</p>
+<p>Fraza — bombă, calambur— fraza indigestă!</p>
+<p>Ce departe suntem de simplul stil epistolar! Dacă ți-ai putea îtichipui cât de mult mă doareă nu pot pricepe scrisoarea ta de azi !...</p>
+<p>Par-că suiit un orb în fața unui minunat apus de soare!...</p>
+<p>p. s. Anatole France, spune, undeva, în „Le Jardin d'Epicure” :</p>
+<p>....„II n’y a pas de volupte sans vertige”....</p>
+<p> 5 Octombrie.</p>
+<p>Cum să-ți ;Scriu? ! -</p>
+<p>Cum să-ți scriu lucruri pe cari nu ți le-aș putea spune nici odată?!</p>
+<p>Eu nu pot vorbi, dar mite frumos!.</p>
+<p>Și-ar fi vorba să pot muta din sufletul meu în sufletul Durnitale o lume întreagă, fragedă,perfectă și... impalpabilă, și-mi vine nespus degreu...</p>
+<p>Și mă doare că nu pot spune, pcntrucă vei rămâne departe și streină...</p>
+<p>Vezi, mi-a rămas în suflet ceva, așa ca o adiere imperceptibil de ușoară: parVa trecut în sbormolatec, spre vreuna din câmpiile cerului, împodobită cu mireasma vre unei flori necunoscute,un convoiu de flirturi mari, albi, cu aripi leneșc-* subțiri de mătasă incoloră...</p>
+<p>Cum să-ți scriu! ?</p>
+<p>“Doamne, cum ți-aș putea scrie ca să vezi, ca</p>
+<p>să Isimți |în suflet urma acelei adieri imperceptibil</p>
+<p>de ușoară !?. - -</p>
+<p>f ...Știi? Ai lipsit de-acasă, ast’noapte cel puțin</p>
+<p>două minute...</p>
+<p>Ani visat...</p>
+<p>Se făcea, par-că, undeva, tare departe, un câmp, gol, nemărgenit și liniștit... .</p>
+<p>Și se făcea ca și cum' ar {fi fost în altă vreme și’n altă hune, tare de mult... 1</p>
+<p>Și par’că în mijlocul câmpului aceluia, aveam o casă imaginară, cu forme și dimensiuni fantastice și cu pereții de marmoră fumurie...</p>
+<p>Și-n pustiul acela oamenii nu călcaseră nici odată....</p>
+<p>~ ...Căci pustiul era locuit numai de gândurile mele, reci, informe, înghețate și albe ca o împărăție de statui de zăpadă...</p>
+<p>Și sufletul mi se cufremtflra ca un ocean în cari s-a-r fi prăbușit, din neant, un soare aprins...</p>
+<p>...Ș'apoi o liniște nesfârșită...</p>
+<p>Ș-apoi un convoiu defluturi mari albi, cu pripi leneșe-subțiri de mătasă incoloră, în sbo-r molatecspre vre-una din câmpiile cerului...</p>
+<p>In noaptea aceia, dormind, te visam întâia oară.</p>
+<p>Vcneaij într’o cămașă aîbă-vaporoasă, curată ca aripa unui vis...</p>
+<p>Și poporul gândurilor mele îngenunchiâ și-ți sărută poala cămașei albe.</p>
+<p>Părea că ești frumoasă, de o zguduitoare fră-geziune.</p>
+<p>Părea că ești prima iluzie coborâtă pe pământul gândurilor melc...</p>
+<p>...Și parca că tot concretul se risipise într'uir nimic Ifumuriu...</p>
+<p>Și par-că porțile vieții nu se mai deschideau a-supra tuturor realităților, pentruca ochii sufletului meu să nu mai vadă tragica melancolic, cari, ele, se cufund și mor chiar când sunt de obanalitate infimă...</p>
+<p>...Și mi s'a părut— era o adiere de aripi albe și subțiri —mi s’a părut că tremurând-fierbinți...</p>
+<p>...Și de voiu mai trăi o vecie voi simți pe ochii mei buzele fierbinți, tremurând ca două aripi...</p>
+<p>...Și ochii mei, o vecie, vor lăcrima de fericire și de durere:</p>
+<p>Nu?</p>
+<p>Ș’așa de brutal și, greu — materiale, cuvintele V ...Când m’am trezit... eram în vremea și în;</p>
+<p>rn viața mea de:acum.</p>
+<p>Am sărit din pat...</p>
+<p>Pe masă scrisoarea ta de eri...</p>
+<p>Am rămas cu ochii mari în depărtările de infinit ale pglinzii.</p>
+<p>Vedeam o Ifață albă, buze arse...</p>
+<p>Și fruntea părăsită de gânduri...</p>
+<p>...Da! Răspunsul Durnitale este de-o gingășie  îngenunchietoarc..</p>
+<p>Atâta gingășie sfântă, supra omenească, să. mă crezi...</p>
+<p>Duioșia, poezia din răspunsul Durnitale!.</p>
+<p>Par’că c cea dintâi rugăciune pe cari au murmurat-o preoteselc idealului, când va, 'de mult..,</p>
+<p>Dumneata-ești cea din urmă.</p>
+<p>Și cât dc grosolan eu!</p>
+<p>Și cine știe când voiu mai îndrăzni să viu să de văd și dacă voiu mai îndrăzni vre’odată, dupăscrisoarea Dumitale!.</p>
+<p>Prea mă simt nesfârșit de ridicol în fața idealismului Dumitale...</p>
+<p>Și, crede-mă, cu suflet sfâșiat, îmi dau seama cât de nemilos, materializează și sfarmă, realitatea, sărmanele iluzii omenești...</p>
+<p>Ai călătorit milenii, halucinat, ’dup-o fantomă: n-o atinge: se risipește, și vei cădea sfărmat L</p>
+<p>Idealul, numai la gândul imposibilei atingeri cu gândul ori cu carnea omenească, dispare caun bloc imens de ghiață repezit în soare...</p>
+<p>Mi-e groază și mi-e milă de sărmană viață o-^menească...</p>
+<p>...Sfărmarea idealului prin năzuința vană dc a-1 'atinge!...</p>
+<p>Câtă tragedie poate purta, și sărmanul suflet omenesc!</p>
+<p>Lacrilmi!</p>
+<p>Lacrimi vane !. Lacrimi omenești!</p>
+<p>La’cri’mi!</p>
+<p>Lacrimi,w răspunsului Val Vaniei, gingaș răspuns ca trupul nesfârșit de mult iubitei mele, și ca un gând cari nu s’a născut, fdornic și dureros,din pământul minții omenești!.</p>
+<p>Iți îngenunchiu, Val Vania, într’o profundă și tăcută adorare...</p>
+<p>p. s. </p>
+<p>...Uitasem să-ți spun: La revedere, Val Vania, la revedere, nețărmurit de mult iubita mea stăpână, Ia revedere...</p>
+<p>N-am închis ochii de două nopți și 11-am scris un rând: toate gândurile inele sunt îngenunchiate.undeva, departe, în preajma durnitale...</p>
+<p>Gândurile melc-ți sunt leagăn de mângâeri aldorimiitoare...</p>
+<p>Aș vrea Val Vania, să pot .fi dîorapii tăi de mătasă, moi și albi ca puful, aș vrea să fiu cămașa ta de spumă...</p>
+<p>Gândurile mele ți-au' sărutat ast-noapte, genunchiul gol, fierbinte, alb, ca un vis de marmoră nemuritoare. </p>
+<p>Iți doresc multă sănătate, Val Vania, și liniște îndelungă și [profundă.</p>
+</div>
+<div type="chapter" n="9">
+<p>IX</p>
+<p>Errante, elle deniande aux enfants d’alenlour .unc fleur qu’elle a vue un jour apAllemagne</p>
+<p>Frfclc, petite et sombre, urie fleur de montagneau parfum p6n6trant comme un avcud’amour...</p>
+<p>Mais cettc plante est rare et PAile magne est grande:Cependant elle meurt du regret d’unparfum...</p>
+<p>— Sully Prudhomme — La Foile —</p>
+<p>Deasă, ceața stăpâniă, rece, cuprinsul zilei a-cclei!v.</p>
+<p>Bură.</p>
+<p>Parcă se cufundase lumea într’o mare în cari Curg, uriașe, fluvii de cenușă...</p>
+<p>Era o zi de Octombrie, tristă ca un cimitir, primăvara, când dă frunza și mijește colțul erbiisub cel dintâi cer senin, cimitir părăsit într’o' yale singuratecă..,‘</p>
+<p>Era o ;zi de Octombrie, când se duc la groapă, prohodiți dc frunzele cari cad, cei bolnavi depiept, cei învinși de soartă, cei cu inima pustie,cei cu mintea sdruncinată, toată oastea celor*cari au pășit în luptă goi, fără armură și cu porțile sufletului date le tferete.J./, *'</p>
+<p>Era o zi de Octombrie când coboară înserarea.</p>
+<p>La geamul care da'nspre parc stătea Val Va' nia, întinsă pe o dormeuză... r</p>
+<p>Privea afară prin negura zilei dc toamnă peste creștetele teilor goi.</p>
+<p>Goi erau și trandafirii.</p>
+<p>Și coviltorul ramurilor era ciuruit..</p>
+<p>Și prin chioșc sufla vântul...</p>
+<p>Și ochii aceia deschiși, găurile mari croite 'de</p>
+<p>—foarfecul toamnei în plamida verdclui verii, păreau tot atâtea căi cari porneau spre împărăția tnorți|i...</p>
+<p>Și Val Vaniei, ise pării chioșcul, scheletul unui templu,/ sub cari se' adăpostiseră, pribege, gândurile lui purtate în brațe de gândurile ei și carfcacum, a ars năprasnic...</p>
+<p>Și, privindu-și sufletul i se păru că are o stranie înfățișare: atât de mult asemănătoare cuscheletul templului aceluia....</p>
+<p>Era singură, pșa zăvorită, geamurile închise...</p>
+<p>Și plânse...</p>
+<p>Și plânse...</p>
+<p>Cum plângi când te gândești la moarte întâi...</p>
+<p>Plânse, plânse, plânse...</p>
+<p>înjur stăteau risipite scrisorile lui: părea o odaliscă obosită, îngândurată, îndrăgită de feciorul puhavului sultan, și scrisorile păreau amintirile de acasă, floile cu cari văile Caucazuliuîi miresmară înfiorările dintâi...</p>
+<p>Și plângea...</p>
+<p>Și'ntindea, cucernic, mâna spre sfintele crâm-pee allbe...</p>
+<p>Citea un rând...</p>
+<p>Murmura un cuvânt...</p>
+<p>Visa în jurul unei imagini...</p>
+<p>Repetă cu glas melodios fierbinte dulci mângâeri necunoscute.</p>
+<p>Și iar plângea... .</p>
+<p>lului Românesc</p>
+<p>-1932</p>
+<p>Și -șoptea încetișor, adormitor de dulce: — Te iubesc, Fum Aniu ’S a ta Fum Aniu;...</p>
+<p>Și, spre altă scrisoare, întindea mâni tremurătoare... .</p>
+<p>Avii o clipă sensația că sufletul său este (un pelerin obosit care îngenunche lângă necunoscuta floare, inexistentă și infposibilă, răsăritădin zăpezi pe un vârf de munte singuratec, orila marginea unei oaze necunoscute uitată în-tr’un nestrăbătut pustiu...</p>
+<p>Avii censația că se leagănă pe un fir de păr deasupra unui abis cuprins de neguri luminoaseînvălurate ’n nouri de armonii...</p>
+<p>—...Doamnă Val, soțul Dumitale, eu bărbatul Dumitale, vreau să-ți vorbesc, chiar acum, cuDomnul Vai stăpânul Dumitale...</p>
+<p>—...Nu pot, nu vreau...</p>
+<p>— Voiu sparge ușa...</p>
+<p>— Păcat de ușă..</p>
+<p>— Și de genunchii mei...</p>
+<p>—Mai ales, desigur...</p>
+<p>— Doamnă Val, deschide...</p>
+<p>— Nu...</p>
+<p>— Zadarnic, toate intrările sunt barate și toate eșirile...</p>
+<p>—O! da,r ai Inebunit...</p>
+<p>— eu sau D-ta ?!</p>
+<p>Și, cu scrisorile în sân, deschise...</p>
+<p>— Unde-i</p>
+<p>...Și'jialtă, tristă, impunătoare și distinsă, ră-</p>
+<p>mase în mijlocul iatacului: rochia de biiduoar simplă, din moale, elegantă, scumpă stofă albaîiFn brățișă trupul, ușor, cu ondulări șerpuitoare:părea o colonadă desăvârșit^fumurie rămasă înpicioare dint?un templu dărâmat șr^ca^re a biruit eternitatea, ;sub cerul Ionici nemuritoare».- — Unde-i.</p>
+<p>— Pretutindeni...</p>
+<p>— Nu permit nici o ironie</p>
+<p>— Nu ești stăpân gurii, sufletului meu...</p>
+<p>— Sunt, sunt... Unde l'ai ascuns?</p>
+<p>- Domnește, peste împărăția sufletului meu»</p>
+<p>— Doamnă ești nebună și nu-ți permit...</p>
+<p>Prea bine...</p>
+<p>...Și Domnul Val, alergând cată prin șifoniere, pe sub-pat, răsturnă donneuza, aruncă priviri iscoditoare pe după tablourile din perete.</p>
+<p>— A sărit pe geam, golanul... Ie deschise... Privi lungul zidurilor goale, pustiul înegurat■?l înserării...</p>
+<p>— O să-ți rup coastele, golan descrcerat.» Și-amenință cu pumnii spre parcul tăcut spregolul șoselei Kiselef..</p>
+<p>— Doamnă vreau o explicație.j.</p>
+<p>— Prea bine...</p>
+<p>— Teribilă...</p>
+<p>— Prea bine... .</p>
+<p>— Dar fără ironie că vă r.ăpăd pe geam afan:,-Doamnă, de aici Uela etaj... \</p>
+<p>— Prea bine... sunt gata și aștept,.</p>
+<p>Și Val Vania așteptă cu o liniște spăimân-tătoare nuanțată cu dispreț, înfiptă în mijlocul Odăii...</p>
+<p>— Și vreau răspunsuri scurte, limpezi,' precise, pe’nțelesul tuturora...</p>
+<p>— da, prea bine....</p>
+<p>— Doamnă Val, iubești pe Fum Aniu?!</p>
+<p>— tu zici!,,. Cine știe?! '</p>
+<p>— Toată lumea știe...</p>
+<p>— Prea bjhe, să fie sănătoasătoată lumea...</p>
+<p>— Ești amanta descreeratului cu gărgăuni?!</p>
+<p>— Nu! e Jumea plină de amante vulgare și eu nu fac parte din ea...</p>
+<p>— Minți...</p>
+<p>— Prea bine...</p>
+<p>— Minți...</p>
+<p>— Am .auzit. Prea bine-am zis...</p>
+<p>— Iți bați joc de mine! 'Iată...</p>
+<p>Și-i (întinse un petec de hârtie...</p>
+<p>— Citește, .citește ori ascultă să-ți citesc cu:</p>
+<p>Nevasta Dumitale este amanta lui Fum Aniu. Incornoratule, prosit!</p>
+<p>— Doamnă Val...</p>
+<p>Răcni ca un taur și-și înfips,e ghiarele în brațele Val Vaniei...’</p>
+<p>Liniștită, tot liniștită, se smulse Idin manile lui.</p>
+<p>Și’n clipa următoare sufletu-i era furtună mu-gitoare... I</p>
+<p>— M’atingi ? Te pălmuesc, Domnule Vai: Ai auzit: Te pălmuesc deși nici odată n-am 'datpalme nimănui...</p>
+<p>— Te pălmuesc eu, Doamnă !</p>
+<p>— Prea bine... Sunt gata...</p>
+<p>Dar se opri la trei pași în fața colonadei fumurii cari biruise veșnicia....</p>
+<p>Val Vania era acum profund liniștită....</p>
+<p>In ape adânci, se rostogolise un bolovan.</p>
+<p>11 înghițise profunziunile...,</p>
+<p>O bulboană de o clipă...</p>
+<p>Și apele adânci își neteziră lucTul întins peste °.dâncitnîL -</p>
+<p>— O! Știe toată lumea... Ori cine aputut scrie scrisoarea asta... Toată lumea...</p>
+<p>— Nu va mâi intra în casa noastră Domnul Fum Aniu...</p>
+<p>— Da....</p>
+<p>— înțeleg: Doctorul Timuș, profesor Universitar... Șerban— mare avocat... Să vie Maran,—bancherul Maran... Nevestile proprietarilor dinprotipendadă... Să vie...</p>
+<p>— Da, da... să vie...</p>
+<p>— Dar, Fum Aniu? Cu ce se ocupă Fum, Aniu ? Tae frunze la câni... Bani, moșii, slujbăma're?! Nici n’are măcar vre-un frnoș senator!...Iată Petronila... N’are nimic... Dar e nepoata ve- ,rișoarei fostului ministru, răposatul — Dumnezeu să-l ierte...</p>
+<p>Și Domnul Val alergă cu pași giganți priir odae, vorbind1 învălmăcit, crâcnind, scurt...</p>
+<p>Fața-î roșie, grasă, mare, informă și rotundă părea o varză roșie îndesată în care târnăcopul</p>
+<p>lui Dumnezeu încercase conturul celui dlhtâi naș omenesc...,</p>
+<p>— Mamia, Domnul Maran...’</p>
+<p>— Vin peste un sfert de fcră... Spune-i s’aș-tepte Silvanira...</p>
+<p>j Și Domnul Val crâcni scurt, grohăitor...</p>
+<p>Și, eși...</p>
+<p>— M-am hotărât. Iți voiu spune peste 2 ore...</p>
+<p>Da, când mă ’ntorc îți voiu spune.</p>
+<p>— Prea bine. '</p>
+<p>— Și altă hotărâre nu va fi...</p>
+<p>— Prea bine.</p>
+<p>Peste 2 ore.</p>
+<p>— Prea bine.</p>
+<p>— ...Maran, te rog spune lui Fum Aniu...</p>
+<p>Spune-i că ți-a spus Dl Val să-i spui, și băr-_ bățului meu spune-i că, rugat .'de mine l-ai în-științat pe Fum Aniu ...</p>
+<p>Intră D-! Val...</p>
+<p>— N’ai plecat...</p>
+<p>— Nu... Dar in’am hotărât definitiv...</p>
+<p>— Prea bine... .</p>
+<p>Si ’n tot ce spunea -Val Vania era o nepăsare sfâșietoare, un dispreț invizibil.</p>
+<p>— Plecăm la Nisa peste patru iile.</p>
+<p>— Prea bine...</p>
+<p>Și ca un clopot hnens care cade greu și se sfarmă pe lespezile unei cathedrale și stâtneștenesfârșite ecouri sub chaoticile bolți, vorbele</p>
+<p>D-lui Val răsunară prelung și cuprinseră infinitele subterane prăpăstuite în sufletul Val Vaniei.</p>
+<p>Și poate pentru asta într’un târziu, dup-o nesfârșită tăcere, când auzi vorbele D-lui Val:</p>
+<p>— Domnule Maran, te invit să cinezi cu noi în sară asta.(</p>
+<p>Val Vania murmură abea auzit:</p>
+<p>— Plecăm la 'Nisa peste patru zile... Prea bine...</p>
+<p>...Răsunau ecouri nesfârșit de depărtate sub - cine știe care boltă a necunoscutelor profundesubterane...</p>
+</div>
+<div type="chapter" n="10">
+<p>. ..Dați glas suferinței:</p>
+<p>Durerea cc nu isbucnește face sa tremure inima până serupe...</p>
+<p>— Sliakespeare —</p>
+<p>7 Octomvrie,</p>
+<p>M-am întâlnit cri cu Maran...</p>
+<p>Și ini-a spus:</p>
+<p> D-I Gheorghe Vajl a -primit o anonimă—cert— un bun prieten — în care se spune că D-taești amantă — cât vulgar! — lui Fum Aniu, carinu mai poate veni în saloanele Durnitale...</p>
+<p> Val Vania pleacă, pentru iarnă, la Paris, oriNisa...</p>
+<p>Și atât... </p>
+<p>Calea Victoriei era o revărsare de lume — un șuvoiu grăbit.</p>
+<p>Maran tăcea... Tăceam și eu...</p>
+<p>Mergeam în neștire...</p>
+<p>foate gândeam...</p>
+<p>...Am jicnit dureros și nevinovat, oameni streini, și asta mă doare cum minte omeneascănu-și poate închipui.</p>
+<p>...Și vor trece anii și hiă va durea mereu...</p>
+<p>Val Vania, mi-e sufletul o plagă de răni îngrozitoare... </p>
+<p>AAi-e sufletul sdrobit și am senzația că mă cufund, mă înec în ridicol, care se târăște după</p>
+<p>mine, neobosit, nedespărțit ca trena unei rochii... Da, da,... în isolarea mistuitoare în cari of amexilat, ain mereu această senzație iritantă, înă-ibușitoare:</p>
+<p>...Mă înec în ridicol.</p>
+<p>...Și e ’n grozitor, cum nu se poate spune, Val Vania...</p>
+<p>Toată viața am fugit de comun, de banal, dc ridicol...</p>
+<p>Și-acum șă mori înecat jn acest ridicol înspăimântător !.</p>
+<p>E peste puterile melc...</p>
+<p>Și cât mă doare, pentru 'tine, Val Vania!.</p>
+<p>Și pentru mine!.</p>
+<p>Pentru mine?!.</p>
+<p>Dar toate drumurile cari duc spre inima mea sunt hipotmolilt'e....</p>
+<p>Cel dintâi con voiu de dureri ’îngenmichiat pe cale, nu s’a mai ridicat și... la o cotitură, drumul simțurilor mele a fost baricadat...</p>
+<p>Și convoae, mereu altele, care veneau alergând și-au frânt genunchii lângă prima baricadă, careera la cea mai tăinuită poartă a sufletului meu...</p>
+<p>Unde sunt armatele de lucrători, să desfunde drumurile prăbușite,. cu casmalele virgine?...</p>
+<p>...Și cât de îndărătnic, cât de absurd, și cât do fantastic, construisem înlăuntrul zidurilor sufletului meu, o cetate măiastră ele vise ireale !...</p>
+<p>Și cum a credeam mai reală decât toate realitățile cari, desgustător, mă ’n conjurau !.</p>
+<p>Visam — și cât dc precise contururi prindea lu mea visurilor melc!—ca sunt cu tine, că suntemamândoi, într’o lume fermecătoare și necunoscută...</p>
+<p>Și, o iarnă fantastică coborâse peste întinderi': zăpada coborâse albă, înfoiată peste frunzelecodrilor cari nu s-așternuseră încă, pământului.'</p>
+<p>Și codrii, îngenunchiați, își coborau frunțile albe...î</p>
+<p>Și ningea mereu, cu fulgi mari, în toată întinderea zării: coborau par'că munți plutitori de zăpadă albă.' -</p>
+<p>Și’ntr’o căsuță infimă,’ troenită sub nămeți, sufletele noastre singure, albe ca zăpada de-a-fară, ,în fața căminului, ascultă glasul focului șiritmul fulgilor de-afară, încleștate, desprinse ldnirealitate, de vârtejul unei fericiri supra. papmântenc...</p>
+<p>Și vara, în regatul căsuței Jnele mici, izolată de lume și de viața, crai regina codrilor de trandafiri... «Erai crăiasă peste împărăția visurilormele, peste ftnpărăția simțurilor mele...</p>
+<p>Val Vaniaț viața viselor este...</p>
+<p>— ...Ascultă, Fum Aniu!. Ești un sesibi!, un delicat, un sentimental... Spune-mi drept: iubești pe Val Vania?!</p>
+<p>...Deci eram tot pe stradă cu Maran..,</p>
+<p>Câtă vreme trecuse?! '</p>
+<p>Priviiu înainte...,</p>
+<p>Tăcui.</p>
+<p>A I. Stoicnn, — ., Înfloreau Trandafiriu f*</p>
+<p>Ne ’ntoarserăm...</p>
+<p>Te-am zărit, venind, de departe, încet, pe trotuarul acuma, gol.</p>
+<p>Tremuram.</p>
+<p>Un huet care poate fi la fel numai cu acel al convoiului caravanelor morții, plutea sub-bolțilesufletului meu...</p>
+<p>Voiam să-i țip în urechi un da care să-l îiir cremenească pe dânsul și să friiă îngenunchc pemine lângă picioarele Durnitale...</p>
+<p>Și D-ta veneai, erai la câțiva pași, cu toate zâmbetele moarte...</p>
+<p>Și-ai, trecut ca să te văd cine știe când...</p>
+<p>Și poate nici odată...</p>
+<p>Și-am mințit, cu un cinism care mă ’nfioară și ,pe mine:</p>
+<p>— Am iubit pe Val Vania?! Aș iubi-o dac-aș fi iubit-o. Nici odată n-am iubit pe Val Vania...</p>
+<p>...Și m’am despărțit repede căci sufletul mi se coperise cu o perdea de lacrimi cari porneau^buluc, spre ochi...</p>
+<p>Și unde va, acasă, în casa mea goală ca un sicriu nou, cu ușa ferecată, am plâns, am plâns,.</p>
+<p>»cât nu trebue să știi ^D-ta nici odată...</p>
+<p>Pentrucă... mă -doare...</p>
+<p>Ești în sufletul meu ca o imagine prinsă într’o. galerie uriașă de oglinzi paralele...</p>
+<p>Nu voiu mai călca în saloanele Val Vaniei...</p>
+<p>Și mă cufund mereu în imine, tot mai afund,, de-mi pare tot mai temeinic, c’am rămas înviața mea, uitat de alte vremuri...</p>
+<p>Vei călători spre alte orizonturi. Val Vania!.</p>
+<p>...Și ce va fi?.</p>
+<p>Cine știe!</p>
+<p>Eu știu numai, că nu te pot ura și nu te pot uita nici azi, nici mâni și,... nici odată...</p>
+<p>Te rog îngenunchi să mă [erți că nu te pot uita. ...Dacă lumea întreagă s’ar repezi cu ghiarelesă te smulgă din sufletul hieu, să-l sfâșie ca sate smulgă... ..-.sufletul meu... sufletul meu.</p>
+<p>Sufletul meu, risipit înțăndări, ți s-asterne ia picioare, ca un popor îde dureri, îngenunchiatla poala unei îcoaneY adorate, de dureri isbă1-vitoare....</p>
+<p>ÎO Oclomvrie. „</p>
+<p>Iți trimit scrisoarea, sfântă scrisoare, unica scrisoare, sfânt suflet, sfânt...</p>
+<p>Și despărțirea asta ’mi dăruește? .îmbielșugat, atâtea suferinți./* -</p>
+<p>Mi se distramă sufletul.</p>
+<p>Știu pentruce-ai cerut unica scrisoare și totuși te întreb...:</p>
+<p>...Cum tc-ai îndurai să-mi impui despărțirea asta ?.</p>
+<p>O citeam în fiecare sară, în locul rugăciunii..,</p>
+<p>O citicam mereu și te vedeam pe tine zâmbind trist printre rânduri și (tnă'nvăluiam în țot farmecul frumuseții tale, mă cufundam în lumea</p>
+<p>US</p>
+<p>sufletului tău, cu aceste scumpe sfinte foi de hârtie —îndurerătoare sfărmături de suflet,—mă pierdeam rătăcit sub orizontul depărtărilorlargi, melancolizat de agonia crisantemelor...</p>
+<p>l-așa de tristă această lună a cresantemelor!. !De ce mi-ai cerut-o?</p>
+<p>Și jaș fi vrut s-o am pentrucă, o citeam mereu cu un fel de beție Sfântă, nesfârșită.</p>
+<p>Voiam s-o văd mereu...</p>
+<p>...Cum privesc maniacii religioși, fanaticii credinței, un talisman sfințit...</p>
+<p>Aș vrea să viu să te rog...'</p>
+<p>hi .fața 'Dumitale, după sângeroase sforțări ide voință, .rămân mut, tremurând, înecat de emoție,‘de .iubire, de nebunie sfântă... Și nu mai potvOitjli,..</p>
+<p>...Și ...Iți 'trimit scrisoarea:</p>
+<p>Fie voia ta!.</p>
+<p>...Și-ți îngenunchiu și sufletul meu își pleacă ușor cupa albastră și-ți varsă pe picioare, pe trupul sfânt, pe sufletul tău îninunat, pe toatăfăptura ta iubită până dincolo de hotarele suferinței, nectarul nețărmuritei sale iubiri...</p>
+<p>Șh țăndări, se sfarmă lângă picioarele tale» cupa azurie L</p>
+<p>12 Octombrie.</p>
+<p>Tevfm viș'at ast’noapte, iarăși...</p>
+<p>A doua oară,- în aceiași 'noapte, dup’a câta oară?</p>
+<p>HO</p>
+<p>Cc sunt visele nopții ? Văl Vania, ce sunt, cjăci fcun.ț?(.J-r</p>
+<p>Nu cred în nimic din tot ce supne despre ele, Doctorul Vaschide. Cunoști: „Somnul și Visele’’.</p>
+<p>Și totuși cred în ele. O forță misterioasă mă aruncă în volbura acestei credinți întunecate...</p>
+<p>Din tot cc s-a spus jși s-o mai spune este sigur un lucru! și v?sele vor rămâne în împărățiatainelor eterne, dincolo, de marele .porți...</p>
+<p>Și... </p>
+<p>Erai bolnavă greu...</p>
+<p>întinsă pe-un pat alb în necunoscute locuri....</p>
+<p>Un pat de formă bizară... </p>
+<p>La cap străjuiau tremurătoare două flori de-lotus...</p>
+<p>...Acum patul tău luase forma unei flori de-lotusf....</p>
+<p>Stăteai cu ochii închiși dureros și cu un zâmbet sfâșietor încremenit pe buze...</p>
+<p>Erai frumoasă de nespus...</p>
+<p>Eu stăteam îngenunchiat la poala 'florilor jie lotus, încremenit într’o disperare mută...</p>
+<p>Și potirul exoticei flori s’a desprins dela pământ... </p>
+<p>Și călătorind spre cer s-a risipit într’o imensitate de lumină...</p>
+<p>Și, m’am1 'despărțit de lumea 'de afară, cu ziduri de cărți— cărțile sufletului:</p>
+<p>...Oustave le Bon, Ffelix le Dan tec, LombrosO,. Boutroux...' Și alții, câți?..</p>
+<p>....Și, după o’zdrobitoare călătorie în țara a-ccstor uriași preoți ai desolării—sărmani făuritori de gânduri! — am rămas cu aripile sufletului smulse șf îngropate și troenite într’o carte de Maeterlinck.</p>
+<p>Spune acolo:</p>
+<p>...„Și dacă vre unul ne-ar (pune înainte vreuna din acele definiții ce se numesc științifice, fiecare cuvaîit din definiție va multiplica încănecunoscutul și va deschide, din toate părțile,neprevăzute porți asupra nopții nemărgenite...Dacă nu cunoaștem nimic din esența,* din soarta,din viața unui strop dc lumină obișnuită, alecărei elemente, fură făurite cu toatele de noi,a cărei isvor, ale cărei «'pricini apropiate și alecărei efecte sunt cuprinse într’o bășică de cristal”, deschide larg porțile sufletului, ori ferecă-! năstrușnic Val Vania, ferecă-1!. — ...„cumsă ne așteptăm să pătrundem neînțelesul uneivieți ale cărei elemente, cele Jnai simple, suntsituate la milioane 'de ani, la miliarde de leghede- înțelegerea noastră?”...</p>
+<p>Deci: .trage sufletului nepătrunse obloane!.</p>
+<p>...Să nu visezi, trează fiind, să nu visezi!.</p>
+<p>...Nu te lăsa furată de foeditații!</p>
+<p>Nu citi cărțile filozofilor,</p>
+<p>Tc înbolnăvești fără lecuire!.</p>
+<p>Te cufunzi în nesfârșituThău, hăul imens, fără dimensiuni, fără contururi, imperceptibil, și teîneci în marile fluvii pe cari profunda dcsolarele revarsă pe inexistentu-i cuprins nemărginit...</p>
+<p>Nu visa!</p>
+<p>Trăcș'te viața plantelor!.</p>
+<p>Și nu...</p>
+<p>E încă purtătoare de durere viața lor.</p>
+<p>Fii asemenea lucrurilor...</p>
+<p>Nu tc lăsa furată de meditații!</p>
+<p>...Și, râzi la porțile cugetării, râzj, dar ia. seama să jiu te fure iplânsul râzând, că-ți sfărâmi sufletul plângând...</p>
+<p>la seama, Val Vania!. 1</p>
+<p>Trage obloanele!.</p>
+<p>17 Octombrie.</p>
+<p>Vrei povestea trandafirilor de azi?</p>
+<p>...Când ,nu te-am mai văzut, eri, după ce atâtea, clipe te-avusesem, întreagă, vie, reală, în ochiiși’n tot sufletul meu, Care te înconjură, îmbrățișa, diafan, cu toată lumina firavă de afară,—am pornit cu inima pustie, smulsă din mine, decum te-ai depărtat, pe străzile pline de prafși de soare...1</p>
+<p>Dup-amiaza de toamnă, luminoasă și caldă, eră de o nesfârșită melancolic...</p>
+<p>Și vreme multă, am rătăcit în vag și ’n im--precisiuni fugare.</p>
+<p>Inserarea cobora, calmă.</p>
+<p>Pe o stradă liniștită, în grădina casei unui’, necunoscut, zâmbiau trist, sfios, trandafirii. - Erau, albi, Trandafirii, albi-albi, fumurii... 'l-aș fi vrut, pe toți, îngenunchiați lângă gc-vnunchii Durnitale și-având pe ’ngânduratele pe-,tale, ^sufletul meu risipit, în stropi azurii.</p>
+<p>Și m’hm dus să-i cer ca șa ți-i pot oferi, azi,</p>
+<p> cu mâni și sufletul tremurând. N-am îndrăznit, Nu șe poate... Nu se mai poate. Ți-i aduce bă. trânul (comisionar.</p>
+<p>...Mi i-a dat un bătrân alb cu vorbele: z</p>
+<p>—...lat’un călător strein pe cari-1 opresc în drum trandafirii!.</p>
+<p>l-am sărutat mâna tremurătoare și sbărcită...</p>
+<p>Și par’că tremurau toți trandafirii ca niște fluturi piari prinși de vijelie.</p>
+<p>Și j-aș fi vrut pe toți îngenunchiați lângă 'genunchii Durnitale, cu petalele grele, încălcate cu toate visurile copilăriei mele...</p>
+<p>...Erau parcea ’nfloriți în țara iubirilor cari mor timpuriu...</p>
+<p>Pe țărmurile acelei ape care uiă fură spre adâncuri, apă profundă, fără valuri și fără cu-Joare; .</p>
+<p>...Melancolia...</p>
+<p>Iți trimit cu dânșii, toate dorurile mele...</p>
+<p>...Și sufletul meu întreg...</p>
+<p>20 Octombrie. ...Deci .vei pleca!</p>
+<p>..Departe, departe!.</p>
+<p>Și eu voiu rămâne pustiu...</p>
+<p>153</p>
+<p>Nu-ți (poți tu închipui cât voiu rămâne de singur -și cât de pustiu! ;</p>
+<p>Pustiu , ca jtn codru imens căruia i-au ,pri- . bcgit toți cântăreții, i-au sburat, smulse de van-turi, toate frunzele și i-au îngcțat toate isvoțre.le.fcingur, singur câ ecoul pe cari-1 stârnește,un ram care trosnește de îngeț și cade^singurf .într’un codru pustiu, iarna....</p>
+<p>Fum Aniu...</p>
+<p>p. s. Aș dori să jai în viața Dumitale atâția ani buni, câte lacrimi mi-au curs, în taină, aceste*doua nopți, pe icoana Dumitale și pe altarele, amintirilor... Ți-aducZ aminte, cum mi-ai spus odată sfâșietor de trist?!...</p>
+<p>— „Crezi, Fum Aniu, că un suflet poate muri de dorul amintirilor!? Crezi asta, Fum Aniu?!</p>
+<p>...Și că parfumul amintirilor se înalță din grădina ^palatelor morții?!”.</p>
+<p>Val Vania ! Val Vania !...</p>
+<p>Cum trec anii!.</p>
+<p>Val Vania!.</p>
+<p>Sărman suflet omenesc!</p>
+<p>Val Vania !.</p>
+</div>
+<div type="chapter" n="11">
+<p>1 Decembrie.</p>
+<p>Nu știu dacă se pricepe fceva din tot ce’nchid, aici, [în rândurile mele.</p>
+<p>Gânduri înlănțuite!...</p>
+<p>Nu știu! Nu știu...</p>
+<p>Știu numai că ast’noapte, te-ai coborât asupra mea ca un nor de iîiiresme-amețitoare, că« n-aînputut închide o clipă ochii, Și că mă simt tot maislab și mai învins în lupta mea cu mine !</p>
+<p>Zilele, în vălmășagul vieții,; trec'..,</p>
+<p>Dar nopțile !</p>
+<p>O ! Calvarul nopților nesfârșite !.</p>
+<p>Afară e vijelie năprasnică, Val Vania.</p>
+<p>Dar tumultul vijeliei din sufletul meu!</p>
+<p>E miezul nopții...</p>
+<p>Nu pot scrie...</p>
+<p>Nu mai pot nici scrie, nimic...</p>
+<p>Și ce liniște măreață-îmi coborau în suflet, nopțile, altădată!...</p>
+<p>Mi s’a părut că ți-am auzit prin noapte glasul. Și par’c-ai râs, departe, departe, pe-un țărm demare caldă și albastră și Senină.</p>
+<p>Dă, (departe, nesfârșit de departe, în clipa ce-a trecut adineaori, râdeai frumos și... sfâșietor...</p>
+<p>...Mi ș’a piărut: biet suflet sdruncinat!</p>
+<p>Trei, după miezul nopții!</p>
+<p>Stau dinainte cu două cărți. </p>
+<p>Citesc... ,</p>
+<p>Vreau să citesc... </p>
+<p>„Viața-Jui Beethoyen”: Romain Rolland. „Grădina .lui Epicur”: Anatole France”.Mă chinuiu să citesc...</p>
+<p>Să strivești un om iubit, pentru o chimeră I.</p>
+<p>Val Vaina, ai citit povestea „Maurului dirț Veneția”, p tragedie, nemuritoare ca tot ce a scris Shakespeare? (</p>
+<p>(Dar n’are nimic aface cu noaptea asta chh Jnuită nici cu vijelia din sufletul meu...</p>
+<p>Să citesc, dar:</p>
+<p>...Nous mettons l’infini 'dans l’amour...</p>
+<p>Ce n’ est pas Ia faute des femmes”...</p>
+<p> O ! rândul acesta isolat!.</p>
+<p>Cum vâjâe furtuna de-Afară!.</p>
+<p>Nu pot pricepe în noaptea jasta gândul lui Anatole France...</p>
+<p>.Să ’ncerc biografia...</p>
+<p>ora. cinci '{liminențft...</p>
+<p>Citesc...</p>
+<p>Adică sunt tot la pagina '12; unde eram și-a-sară în volumul lui Romain Rolland...</p>
+<p>Furtuna, furtuna!.</p>
+<p>S’așa de singur în mijlocul capitalei...</p>
+<p>Și jni-i așa de frig lângă focul ce dudue în sobă!</p>
+<p>Mă’ncovoiu sub greutatea furtunei din sufletul meu!.</p>
+<p>O! de-aș putea să-mi plec capul, să-mi adorm sufletul, moaie, odihnitor în poala ta sfântă, cape-o pernă de vrăji»..■</p>
+<p>Furtuna, furtuna din sufletul meuL</p>
+<p>Zorile! Zorile!</p>
+<p>Și .se ogoae, obosită, furtuna 0e afară...</p>
+<p>Tu dormi, acum, liniștit, Val Vania...</p>
+<p>Lângă patul tău ’ț’ngenunchiu și-ți sărut mâniile amândouă, cu dorururi îndurerătoare și cu... ...religiositate profundă. *  .</p>
+<p>fum...</p>
+<p>3 Decembrie.</p>
+<p>bni ești dragă, îmi ești dragă, îmi ești dragă !</p>
+<p>Mi-e |dor, mi-e dor, mi-e dor!.</p>
+<p>...Și n’aș vrea șă-ți poți închipui:</p>
+<p>Jn ce fel te iubise: iubirea mea te unpresoară cuceritoare, cum împresoară veșnicia viața inu-ritorilcr, trecătoare.</p>
+<p>Și cât: sufletul meu sfărmat, s-așterne pretutindeni înaintea pașilor tăi, ca să calci pe dânsul și să nu ți se pară prea rău și prea tare, pământul.</p>
+<p>Și .pentru asta n’aș vrea să simți cum, fără vrere, sufletul meu îți cuprinde și-ți strânge genunchii și cum, risipit într’o ploae de sărutărifierbinți, îți troenește, în fiece clipă, și ochii șigura și trupul întreg și sufletul Dumitale!...</p>
+<p>lartă-mă, iațtă-mă, iartă-mă!</p>
+<p>Și uită-mă și urăște-mă, disprețuitor, cu înverșunare și..., la reveîdere, stăpâna mea fermecătoare, la revederev.</p>
+<p>p.s.</p>
+<p>...Cât de mult dpresc, vieții Dumitale, toate fericirile pe cari nu le cunoaște întregi și deplin, pământul!.</p>
+<p>...Și cum sufletul meu își cerne, risipită, viața și toată iubirea peste grădinile înflorite de fan-tazia mea, în parcul frumuseții Dumitale!.</p>
+<p>...Și cât de mult seamănă această îmbielșugată</p>
+<p>. risipire, dureroasă nesfârșit, cu cernerea cenușei fumurii, pe cari o lasă ?n mers, pe drumul lor,planetele ce ard, și mor arzând încetișor, și-o 'risipesc apoi în pulbere nevăzută aurie, pesteculmile veciei, cari n-au cunoscut pasul morții,niciodată!.</p>
+<p>5 Decembrie</p>
+<p>Val Vania, stăpâna gândurilor mele!</p>
+<p>Val Vania: Verset biblic! nemuritoare stanță!.</p>
+<p>Am în suflet sensații pe cari sufletul nu și le poate pici sieși lămuri...</p>
+<p>Val Vania, peste sufletul meu js'a coborât o tristeță care nu poate fi prinsă ’n cuvinte:</p>
+<p>...Sfâșierea unică ce va fi mistuit trandafirii răsăriți pe țărmii Cyprului, sub pasul divineicălătoare, când din druntul valurilor spre Olimp,se va fi hotărât să pornească, fatală cale ’n-toarsă, dela Cypru la Cythera...</p>
+<p>Val Vania, Val Vania !.</p>
+<p>Am trecut azi cu trupul pe lângă palatele tale drumul pe cari-1 bat mereu gândurile mele...</p>
+<p>Și drumul a fost mai copleșitor decât toate ^rumurile de pe munții meditației, decât drumullarg și lung, pustiu, imens, singurul drum carctae dela un cap la altul nefnărg'enită împărăție-a morții...</p>
+<p>Val Vania, Val Vania!.</p>
+<p>Am stat locului...</p>
+<p>Bătea rece vânt de iarnă...</p>
+<p>Era pustiu geamul și oblonit — geamul prin, cari vedeam trandufirii mei străjuind în jurulfrunței tale, în preajma valurilor gândului tăuluminos, când treceam târziu, neștiut de nimeni,neștiut de tine, în seri nemuritoare...</p>
+<p>Obloanele sunt sgâriate și stropite cu picuri mari și roșii: în fiecare sară, ca un stol de pasărioarbe-albe, gândurile melQ fâlfâe lângă fereastră, .lovesc obloanele din aripi și cad însângerate.</p>
+<p>Lângă ziduri, Val Vania, stau, troenir'gândiirile mele moarte, lângă ziduri, Val Vania!.Ca pasări albe 111 nesfârșite stoluri...Și ’n gealnul acela fermecat, înfloresc tainic»mereu, trandafirii-!.</p>
+<p>Val Vania, Val Vania !.</p>
+<p>..Vor Jnflori trandafirii pe toate cărările lumii și ’n toate primăverile./vieții, numai în grădinilesufletului -jiie.it, nu vor inai înflori nici odatătrandafirii...</p>
+<p>...Mă voiu.îndobitoci, poate, sub îngenuncherea grosolanei suferinți, și, va fi, peste mai multă ori mai puțină vreme, în locul sufletului meu, undesgustător cadavru ambulant, caii, totuși, și-/ atunci, se va sforța să poarte pe față hainaveseliei, când sufletul se Va înecă în hohotullacrimilor, pe cari, nimeni, nu le va vedea, niciodată...</p>
+<p>Va fi bine...</p>
+<p>Și liniște ca dup’o furtună cu naufragii, pe mare...</p>
+<p>Și când voiu muri, .inai dc vreme ori mai târziu, chiar dacă pdste sufletul jneu se va fiboltit carapacea cenușie a idioțeniei, voiu ducecu mine,A în golul care fusese odată sufiefulmeu, pe cărările altei lumi cari-mi va da multdorita alinare, imaginea sacră ă sufletului șitrupului tău, iubit până dincolo de marginile*puterilor omenești.</p>
+<p>Val Vania! Trupul tău este imaginea fluidă și... concretă a armoniei.</p>
+<p>Vai Vania! Trupul tău este un gând ciselaf în liiarmoră cu dalta fantaziei...</p>
+<p>Val Vania! Tu ești trandafirul cypric— cel dintâi și cel din urniă — răsărit pe tărmii sufletului meu, sub pasul 'divinei călătoare!...</p>
+<p>6 Decembrie</p>
+<p>Voi muri de nostalgia îngândurării Dumitale... Doamne, ce va fi?! </p>
+<p>Nostalgia zâmbetelor Dumitale!.</p>
+<p>7 Decembrie.</p>
+<p>Ce zi buita!</p>
+<p>Doamne, ce zi bună !</p>
+<p>Te am văzut real, Vie...</p>
+<p>întâmplarea, neînțelesul, nepătrunsul care plutește peste viața omenească ;mi-a trimis în cale imaginea Dumitale...</p>
+<p>Te văd fără să fii, așa cum! treceai odinioară, când erai, pe căile Capitalei...</p>
+<p>întâmplarea I.</p>
+<p>Slavă întâmplării!.</p>
+<p>Ai trecut în automobil pe aripa unei clipe...</p>
+<p>Ai trecut... !</p>
+<p>Și-acum pustiul este și mai nesfârșit.</p>
+<p>Și ploaia de-a'fară care-a ’nchis toate orizonturile și înăbușă sufletul tăindu-i toate cărările</p>
+<p>ce-1 smulg pământului spre (luni de nesfârșită visare senină...</p>
+<p>Cât de sfâșietor de triste vor fi fiind acum zâmbetele Durnitale!.</p>
+<p>Iată ;am' o carte a iDumitale...</p>
+<p>A y.ămas la mine.</p>
+<p>O carte iubită Durnitale...</p>
+<p>Poeziile „divinului Sully”, cum îl numeai Dda.</p>
+<p>Cu câtă beție mă strădănuesc să* pot păși, în cartea asta, pe urma pașilor Durnitale!.</p>
+<p>E multă vreme de țcând odihnea în poala du-mitale: \</p>
+<p>Er.au pe atunci zile senine...</p>
+<p>Trocnite tde iluzii...</p>
+<p>...Și cum au trecut frumoasele zile!.</p>
+<p>...Și-ți îngenunchiu acum și de apururi împărăția dorurilor mele.</p>
+<p>8 Decembrie.</p>
+<p>Astăzi zi siplendidă, senină, ^linătoare și tristă ca ‘farmecul zâmbetelor Durnitale...</p>
+<p>Nostalgia zâmbetelor Durnitale!.</p>
+<p>...„Trăsnetul lovește munții înalți”.. spune Seneca undeva...,,</p>
+<p>Și de ce rni-am ădus aminte? De ce?</p>
+<p>9 Decembrie.</p>
+<p>Aș vrea să mă 'pot smulge ...urâtului...</p>
+<p>Imensului urât!.</p>
+<p>Vreau să-mi alin sufletul cu undele adormite din eul Dumitale pe paginile poetului cântat deDumneata...</p>
+<p>Gingășii de o nesfârșită ^melancolie!.</p>
+<p>Dar nu. .</p>
+<p>Ce-aș putea scrie despre armonia poeziei lui Prudhomme...</p>
+<p>Se poate scrie despre ...armonii ?</p>
+<p>Se pot percepe: atât...</p>
+<p>Versurile poeților de rasa lui, nu se citesc...</p>
+<p>Ele au un ritm înfășurat într’o atmosferă de vag care ’nvălue sufletul, îl îngroapă în impre-cisiuni mai ușor conturate decât valurile melancoliei...</p>
+<p>Sunt armonii fără cuvinte... '</p>
+<p>...Câtă dreptate are „divinul Sully”:</p>
+<p>...„Cette mascarade immense des vivants”.^</p>
+<p>...O turmă sgomotoasă de canalii...</p>
+<p>...Sunt atât de abătut că, vezi, no sunt în stare să-ți trimit decât gânduri ciopârțite...</p>
+<p>Gândurile mele!</p>
+<p>Ciopârțite, mutilate, înhumate ca pe-un câmp peste cari au trucut bivolii greoi, în turme Nesfârșite, florile de păpădie...</p>
+<p>10 Decembrie.</p>
+<p>M-am gândit mult și cred, pentru mine: — in’am gândit îngcnunchiat lângă întrebarea Dumitale: este suflet fantazia? {,</p>
+<p>...Este suflet fantazia—suflet eterizat în unde plutitoare... M’am gândit mie’mi să răspund.</p>
+<p>Este suflet— numai suflet...</p>
+<p>...Ca norii, cari plutitori pe bolțile nemărge-nirei nu sunt j^ecât: mările, oceanele smulse dintre țărmii pământului și... fumul lacrimilorlumii...</p>
+<p>Și iată pentruce, cred jeu, pentru mine, se poate greșit pune întrebarea:</p>
+<p>Este suflet fantazia?</p>
+<p>Ori plutește peste uemărgenirile lui, la înălțimi amețitoare și fără nici o legătură cu dânsul, ca niște valuri diafane și moarte de puf.</p>
+<p>...Ți-aduci aminte ce zi era când sufletul Dualitate și-a conturat fluida întrebare?.</p>
+<p>Par’că era un fulg sublim coborât pe pământ și ’n calea vieții îtoastrd din norii fantaziei...</p>
+<p>Și par’c-au trecut de-atunci nesfârșite veșnicii.</p>
+<p>12 Decembrie.</p>
+<p>£zi, m’am trezit mergând, pe drumul care duce spre palatul Dumitale. .</p>
+<p>Făr’să știu, făr’să vreau...</p>
+<p>Și’n jurul lui curg, melancolice, nesfârșite, a-ipele uitării...</p>
+<p>Veniam Ia tine...</p>
+<p>Nebun 1.</p>
+<p>Aș.fi vrut să-ți spun!...</p>
+<p>Nimic n’aveam să-ți spun... </p>
+<p>Copleșit de urât atn {scris și am1 rupt atâtea scrisori ast-noapte, —o literatură de scrisori, ValVaniei...</p>
+<p>Și le-am rupt.</p>
+<p>Mi-e teamă să nu cobori pe ele, unda zâmbetelor Durnitale, distinse și austere.</p>
+<p>Și le-am rupt...</p>
+<p>Vezi, mi-e dor de farmecul pe cari-1 împrumutai vieții, în preajma dumîtale...</p>
+<p>Mi-i urât!.</p>
+<p>Și ini-i dor de tot ce a fost... -</p>
+<p>Și n-aș vrea să tștii cât, pențrucă, poate atunci, te-ar îngenunchia urâtul, ca pe mine...</p>
+<p>Aș vrea să fiu, jfesfârșit de mult, în preajma Durnitale!...</p>
+<p>Și-aș vrea să te văd mult, mult, mult, să te aud, să simt prin aer vibrările infinite pe cari lestârnește pasul tău ușor...</p>
+<p>O! Am rătăcit atât prin parcurile suferinței — prin splendidele parcuri imense!.</p>
+<p>...Și nu se poate, fatal, nu se poate, și mă cufund într’o singurătate tăcută, ycigătoare, din care nti-mi voiu putea smulge sufletul întreg,sănătos...</p>
+<p>Gândește-te!.</p>
+<p>...Să iporți; zile și ;nopți întregi, vie, imaginea D.umitale, persistent, fermecat de sfinte înfiorări,,s’o am în mine, 'pretutundeni, 'ori unde lângămine, pretutindeni în sufletul și ’n trupul meu</p>
+<p>și să nu poți cuteza să te desprinzi, pentrucă te-ar sfănna sforțarea, și totuși să nu înebunești ? !</p>
+<p>Qândește-te: e în afară ide ori ce închipuire... Veneam la tine.</p>
+<p>Aș fi vrut să-ți spun...</p>
+<p>, Nu vreau, n-aș putea Jsă-ți mai spun nimic, sfânta mea stăpână, n-am Vrut să-ți spun nimic,îndurerătoarea mea stăpână dragă !...</p>
+<p>...Imensele, splendidele parcuri!...</p>
+<p>15 Decemvrie.</p>
+<p>Mi-e greu dc yiață și de oameni... 1</p>
+<p>Mi-e sâlă de .mine însumi...</p>
+<p>Se va sfârși... ’ </p>
+<p>Trebue să fie undeva o îndurare isbăvitoare suferinței...</p>
+<p>In afară de noi?!</p>
+<p>Unde?</p>
+<p>Dar dacă ea nu este decât în sufletul meu?!</p>
+<p>Val Vania!</p>
+<p>Te rog să te gândești, îndurător, Val Vania: Sufăr, sufăr pentrucă îți priiejuesc suferinți...Dumitale, suferinți sufletești, pe cari nu lemeriți, nesfârșit de scumpă, Val Vania...</p>
+<p>Ascultă, Val Vania... .</p>
+<p>— O! Wjac’aș putea să-mi răcoresc sufletul la îsvoarele cerului.»</p>
+<p>...Am eu dreptul să-mi sprijin umbrele sarma-nei inele fericiri, pe' durerile, pe nefericirea altuia, ori cine ar fi acel altul ?</p>
+<p>Nu! Nu! Nu!...</p>
+<p>Iți poți închipui cât de mult mă doare vina asta ?</p>
+<p>Și că răspuns, afirmativ, nu este, nu poate fi...</p>
+<p>Și pentru asta, Val Vania, tc rog în genunchi, cu toate puterile sufletului meu îngenunchiatelângă genunchii Dumitale, să mă urăști/să măurăști cu toate puterile sufletului, să. reverșioceane dc pământ topit și opac, s’arunc’r pesteamintirea mea munți de uitare...</p>
+<p>Trebuia \ă cufund în mine iubirea aceasta și D-ta să nu știi nici odată, chiar dac’ar fi trebuitsă-mi sdrobesc și sufletul sub nemărginita eigreutate... Pricepi, Val Vania:-</p>
+<p>Nu trebuia să știi nimic, nici odată, despre iubirea asta, chiar dacă în ea s’ar fi cuprins lumea întreagă și viața Dumitale...</p>
+<p>Pentrucă, tăcut, ascuns^ ^Dumneata suferi și  mi-c milă și mu vreau să suferi, Val Vania, nuvreau!</p>
+<p>Aș vreă, acum, numai să poți simți câtă mila, . câtă nesfârșită milă »este în iubirea mea, pentruDumneata...1</p>
+<p>Nu sunt două iubiri la fel, deși mereu și pretutindeni i-acelaș sentiment, jconstant acelaș și infinit de variat. </p>
+<p>Ș’apoi oamenii iubesc/fragmentat,... corporal,., incidental...</p>
+<p>Iar sufletul meu,,..: este o imensă sferă incandescentă...</p>
+<p>Dar Ia ce bun, banalitatea asta: rup fraza cu desgust...</p>
+<p>Nu fii supărată...</p>
+<p>Râzi, râzi, râzi!</p>
+<p>Cufundă-te într’o orgie de râs' risipitor!...</p>
+<p>D-ta râzi atâta de frumos că-i o nesfârșită tristeță în râsul Durnitale...</p>
+<p>Și-atât de rar râzi, Val Vania!</p>
+<p>Și-âtunci, mă’nvălue un potop de lumină bună, fierbinte, cari-mi face bine, mi-alină suftetul...</p>
+<p>Pentrucă dinții Durnitale par niște petale de margaretă albă rânduite cu o seducătoare armonie în crăpătura unei rodii roșii...</p>
+<p>Când te văd râzând, am sensația că sufletu-mi coboară dintr’o iarnă rece, întunecată și polară,într’o zi senină și caldă pe malul unei mări delasud.</p>
+<p>Râsul Durnitale i-atât de învăluitor!</p>
+<p>.Și râzi atât de rar!</p>
+<p>Când voiu muri, simt că sufletu-mi se va cufundă în infinit, pe valurile de lumină caldă alerâsului Durnitale...</p>
+<p>Mi-e dor să te mai văd râzând...</p>
+<p>Aș vrea să te aud râzând...</p>
+<p>Aș vrea să mor, la cap cu apoteoza zâmbetelor Durnitale, încremenite pe pragul râsului fierbinte !...</p>
+<p>O! să te-aud !</p>
+<p>...Să te văd 1</p>
+<p>Copilării!</p>
+<p>De te-aș fi văzut numai odată și nu te-aș mai vedea nici odată, voiu duce cu mine, împlântatăadânc în toate fibrele făpturei mele, vie, fermecătoare și fierbinte, imaginea Dumitale...</p>
+<p>Te-am visat, — ațipisem în fața acestoj albe hârtii —te-am visat:-dar a fost o fugară arătare de-o clipă...</p>
+<p>Treceai, încet pe malul mării...</p>
+<p>Ochii îți ardeau în focul gândurilor...</p>
+<p>Aveai pe față umbre grele de întristare...</p>
+<p>Doamne, durerile mele sunt un nor de fulgi...</p>
+<p>Doamne, durerile Val Vaniei, în sufletul meu sunt grele, istovitor de grele, ca niște munțide piatră.</p>
+<p>Ajută, Doamne, să pot pu4ă durerea Val Vaniei!... :'</p>
+<p>23 Decemvrie.</p>
+<p>lată cele mai grele -rânduri pe cari le scriu de când te cunosc...</p>
+<p>...Grele ca niște visuri de piatră...</p>
+<p>Și nici n'aș îndrăsnî să le scriu dacă n’ai-fi pierdută în depărtări atât de nemăsurate...</p>
+<p>Și nici, dacă n’aș fi hotărît, fără șovăire, să arunc în foc aceste file dc jurnal, aceste slabearipi albe pe cari trimit neființei, atâtea sfâșiericari nu-și găsesc alin, sub toga sufletului meu...</p>
+<p>Ascultă, îți spun încetișor;</p>
+<p>Pleacă ușor urechea spre glasul depărtărilor și cu fața umbrită cu înfiorări de îhgândurare,ascultă^ făr de oboseli și fără sforțare:</p>
+<p>Sufletul meu este o împărăție de marmoră albă, fantastică și fierbinte, în care, crăiasă legănată în inângâeri alinătoare și lumii acesteianecunoscute, ești Dumneata,c oronata gândurilor -mele...</p>
+<p>...Mi-aduc, deapururi, aminte:</p>
+<p>...Trebuiau să mai treacă două zile pân’la plecare... .</p>
+<p>Și eu rătăceam în neștire, gol de mine însumi, prin ziua aceea de Octomvrie, tristă de o frumusețe bolnavă...</p>
+<p>Iată, din frigul, pustiul, zăpezile cari mă înconjoară, nu văd nimic, nimic, în afară de înserarea aceea lin^pede de Octomvrie...</p>
+<p>Și pe D-ta, te văd trecând îngândurată...</p>
+<p>Deapururi, te văd trecând îngândurată... Pășești încet cu fața plecată în pământ...</p>
+<p>Și apusul te împresoară cu ușoare revărsări de aur... </p>
+<p>In mersul tău e o melodie sfâșietor de trista.</p>
+<p>Pe fața ta tresar cutremurări nevăzute cari duc, grea, luptă în adâncuri...</p>
+<p>Te’nvăliie o rochie neagră ușoară cari-mi pării funerară...:</p>
+<p>Și’ntr'o mână, nemișcată, coborîtă deaiungul trupului în jos, purtai atârnat trandafirul meu,</p>
+<p>pe cari-1 țineai cu două degete, ușor, de capătul Îngerului lung...</p>
+<p>Primiseși deci trandafirul meu...</p>
+<p>Trandafirul pe cari ți-1 trimisesem printr’un copil străin, și făr’ de nici o vorbă...</p>
+<p>Primiseși deci însângeratul trandafir...</p>
+<p>Și cel din urmă... f</p>
+<p>Mă uitam pierdut după D-ta, după trandafirul meu și D-ta nu mai văzut, deși ai trecut pelângă mine..</p>
+<p>Aveam sensația că se învârte cu mine pământul : Amețisem...</p>
+<p>Și când mi-am dat seama că totuși trecuseși, și, că, poate, cine știe... am simțit în suflet sfâșieri..... o, doamne, cruță sufletului Val Vanieix</p>
+<p>asemănătoare' sfâșieri!</p>
+<p>Voiam să mă întorc și să te urmez... chiar dacă drumul acela m’ar fi dus în brațele morții...</p>
+<p>O! de-aș fi avut puteri!</p>
+<p>Și, D-ta, un pas, și dispăreai în dosul porților de fier....</p>
+<p>Și, trandafirul sângera plecat în spre pământ.</p>
+<p>Par’că eră un suflet care fâlfâe pe deasupra mormintelor cari nu s’au deschis încă..'.</p>
+<p>O! Cât de mult semăna cu sufletul meu tran</p>
+<p>dafirul Durnitale!</p>
+<p>Și— </p>
+<p>O! Doamne, doamne, cât de slabe sunt făpturile tale și cât de înecate în taine, căile împărăției tale pământene! *,</p>
+<p>...Vezi, de vei trăi o mie de vieți nu vei putea cuprinde în suflet, nu vei putea țărmuri toatevalurile iubirii mele...</p>
+<p>Și eit, de voi mai trăi o mie de secole, nu voiu putea îngenunchiâ în mine îurtuna acesteipasiuni...</p>
+<p>Să dea Dumnezeu să nu poți iubi nici odată așa!</p>
+<p>Să dea Dumnezeu să trăesc mult ca să te pot iubi și’n (timp, mult — mult — nu-i așa?</p>
+<p>Dar vezi, uite, mă simt tot mai slab...</p>
+<p>Tot mai sfârșit de puteri...</p>
+<p>Par’că mor încet, nesimțit, încet și repede, neobosit, mor mereu...</p>
+<p>. N’am nimic și totuși nu mai pot: sunt co-, pleșit..., ’</p>
+<p>Mă simt alunecând spre eterna uitare.</p>
+<p>Și nu vreau...</p>
+<p>Și vrerea mea i-așă. de slabă!</p>
+<p>Și iarna care năvălește, afară, năpraznic!</p>
+<p>Și iarna care-și așterne calmul peste cărările sufletului meu!... și...</p>
+<p>Și înghețul!</p>
+<p>Și troeniii!</p>
+<p>Și nu vreau!</p>
+<p>Și tot mai slabă mi-i vrerea!...</p>
+<p>O! de-aș ajunge pân’Ia Primăvară când înfloresc trandafirii!</p>
+<p>...Am încercat să mă târăsc azi pân’ân Piața Victoriei, pân’în locul pe care l-ai sfințit cu pașii Dumitale, în înserarea aceia de Octomvrie....</p>
+<p>Și n’am putut...</p>
+<p>Abeă pășesc prin odae...</p>
+<p>Și nu sunt bolnav!</p>
+<p>Și-am plâns ca un copil...</p>
+<p>...M’am culcat la opt asară și azi dimineața la</p>
+<p>6 m’am sculat far’ să fi ațipit...</p>
+<p>Abeă m’am sculat, dar am sărit din pat cu presimțiri tulburătoare... .</p>
+<p>Și-mi fusese bine de nespus... </p>
+<p>Te-am simțit toată noaptea lângă mine pasionată și fierbinte...</p>
+<p>Gura Dumitale este un sfânt potir, din care-viața soarbe moarte, fericire și uitare...</p>
+<p>Te legănam în brațe Strâns cu capul plecat ,pe siThul meu și simțeam un fel de iubire plinăcu milă, cu admirație,'cu sfâșiere, cu tot ce vai fi.avut în ea iubirea primei mame către, primul einăscut, când îl va fi legănat încet în primul cântde adormire...x</p>
+<p>Te rog să mă crezi și să mă erți, te rog:</p>
+<p>M’am prăbușit într’o nebunie fermecătoare: care mă va îngenitnchiă Ia porțile morții....</p>
+<p>Și nu-ți închipui c’aș cuteză să’ncerc să ca- bor pe hârtie vârtejul fantastic de gânduri și ,doruri pătimașe, cari au pornit, rostogolite, ast-noapte delă mine spre patul dumitale, alb-virgin.ca ceî dintâiu crin în floare...</p>
+<p>...Aș vrea să-ți spun ceva... .</p>
+<p>O taină grea...</p>
+<p>Un dor...</p>
+<p>Aș vrea să-l spun hârtiei...</p>
+<p>Să nu mă duc cu dânsul!</p>
+<p>Pentru că, vezi, un presentiment grozav îmi țipă la ureche: vei muri... adio Val Vania, la revedere !</p>
+<p>...Nu vreau, îl îndepărtez, îl alung și revine .mereu, mă asaltează... Fuge,- se’ntoarce... îmipătrunde în urechi încetișor, se prelinge ca picătura de undelemn cald, pe cari mama o picurăîncet când eram mic și aveam hăjât și eram bolnav și plângeain și-i adormeam cu dapu în poală..</p>
+<p>...Și alunecă și cade tocmai pe lespezile sufletului strania picătură de undelemn...</p>
+<p>...Și răm'âne acolo... .</p>
+<p>O simt acolo ca pe un piron în carne...</p>
+<p>Doamne, îndurare!</p>
+<p>Iată îngenunchiu: să nu te superi...</p>
+<p>Aș vrea să-ți spun...</p>
+<p>Și, dacă te superi faci păcat mare și greu...</p>
+<p>Și poate, mai târziu vei ertă, pentrucă te-arrf iubit mult-mult, atât cât... nu te-ar iubi de-ai■avea la picioare iubirea tuturor bărbaților lumii..</p>
+<p>Și, iată, abeă îndrăznesc... z</p>
+<p>In genunchi te rog să nu te superi: poate nu simți cu câtă dumnezeire te înfășoară drâ-. -gostea mea...</p>
+<p>...Aș vrea...</p>
+<p>Dar, vezi» tremur și să scriu e greu... așa de* greu!</p>
+<p>Aș vrea să te văd odată goală,..</p>
+<p>Să te fi văzut...</p>
+<p>Iartă» iartă!</p>
+<p>Ingrozitoare cutezanță!</p>
+<p>Iartă...</p>
+<p>Să te văd...</p>
+<p>Aș deschide ochii mari numai odată asupra ta, aș încercă să cuprind în ei dumnezeirea șLi-aș închide apoi pe totdeauna...</p>
+<p>Iartă....</p>
+<p>Ar fi așa:</p>
+<p>Pe marginea unui lac fantastic adormit , sub soarele verii...</p>
+<p>Și lângă tine, la, spatele tău, un codru imens, de trandafiri pali» ar așterne pământului minunată mare de flori — petală cu petală — ca o-fulguire obosită de iluzii....</p>
+<p>Și, lacrimile mele ar încinge în jurul piciorului tău, deasupra glesnei trandafirii, o delicată centură dc safire, ușor — albăstrii ca vinișoarele îngenunchetoarei minuni, apărută pe malul lacului fantastic, în preajma codrului detrandafiri...</p>
+<p>Adio, Val Vania, la revedere!</p>
+<p>La revedere și aș vrea — o! Doabine cât aș vrea! — s'ajung pân’la primăvară când înfloresc-trandafirii!</p>
+<p>p. s. Ascultă, Val Vania! Ce senine și limpezi</p>
+<p>iubiri va fi cunoscut Esiod dac’a putut crede că iubirea este architectui universului!</p>
+<p>Orizontul, țărmii Eladei antice! .</p>
+<p>La revedere, Val Vania, la revedere!</p>
+<p>Noaptea Crăciunului..</p>
+<p>...Când eram copil, știam o poezie, Val Vania, pe cari o recitam, cucernic, în sara asta și din-cari ini-aminteșc, patru versuri... proaste:</p>
+<p>E zi 'de sfântă sărbătoare</p>
+<p>De alb și bun Crăciun...</p>
+<p>Jn jurul casei noastre Toți îngerii s-adun...</p>
+<p>Cu aceeași cucernicie și cu puritatea, cu foarte mult din puritatea sufletului de atunci; așvreă să-ți spun, dai' ești departe:</p>
+<p>...In ziua asta de sărbătoare, în ziua asta de alb și bun crăciun, în jurul casei tale, purtândîn mâini cupele iubirii pline, s’adun gândurilemele...</p>
+<p>Aș vreă să-ți spun...</p>
+<p>...Dar, azi, copilăria a trecut de mult și-a înge-' nunchiat, în neguri, la cine știe care din răscrucile veciei.</p>
+<p>. Azi, .fiecare zi și’ntinde spre noi, calapoadele strâmte — stereotipe, pline cu micile tnizerii quo-tidienc...;</p>
+<p>ida -</p>
+<p>Și ce luptă crudă să nu te cufunzi în ele cir sufletul risipit!</p>
+<p>Ce oribilă moarte!</p>
+<p>...Am pornit cu gândul să-ți trimit urări de sănătate și de pace îndelungă și profundă, pentru sărbători și,.... iată unde am ajuns...</p>
+<p>Val Vania,</p>
+<p>...dacă aspectele cari trec, neobosit, cu lumea din afara sufletului omenesc, te mai opresc încale, îți doresc, frumoasă, bună și această petrecere pământeană pentru crăciunul cari s’a cufundat, în neguri fumurii, departe, cu zilele copilăriei sacre.(</p>
+<p>Fum Aniu </p>
+<p>p. s. dac’aș avea puteri destule să mă pot târî, mâini să telegrafiez scrisoarea asta... dar o sămi-o stâlcească... telegraful...</p>
+<p>Noaptea Crăciunului: după .miezul nopții..</p>
+<p>Te-ai dus, departe, spre alte orizonturi... Te-ai dus, departe... și nu te-ai mai întors.U-u-u... ce e sufletul meu!</p>
+<p>Parică toată lumea s'a cufundat în depărtate subterane.;.</p>
+<p>Par'că sunt o grădină fantastică, pe cari a prins-o înghețul, vie, întreagă, fraged înflorită..</p>
+<p>Ce e sufletul meu, după îndurerătoarea noastră despărțire?! .</p>
+<p>O despărțire mută: un zâmbet înfiorător: par’că zâmbise^ veșnicia.</p>
+<p>Nici un cuvânt și nici o lacrimă...</p>
+<p>in fiece clipă sufletul meu fâlfâc în jurul Dumitale...</p>
+<p>Sinți ?!</p>
+<p>Te atinge cu vârful aripilor obositje...</p>
+<p>...Chinuitor...</p>
+<p>Inebunitor... . ?</p>
+<p>Mi se sfarmă tâmplele, și nu mai simt nimic, fermecătoarei mea Stăpână.</p>
+<p>Doar un gol imens, în cari alunec, mă cufund.</p>
+<p>Aș vrea să fiu un lucru 'iAic, ceva neînsemnat — acul de aur pe cari-1 îneci în noaptea păruluiDumitale, pri un crucifix de ivoriu, infim: să măporii, lipit de D-ta, în sân...</p>
+<p>Să te simt mereu, mereui...</p>
+<p>Mi-ar fi bine...</p>
+<p>O! Și ești atâta de departe!</p>
+<p>Aș vrea să vin să te văd în fiece clipită. Și mă'nfrâng, mă strivesc,* pentrucă -în clipa imediat următoare, să-mi plec trupul înainte, spredepărtările Dumitale, ca o pasăre gata să-și iaoborul...</p>
+<p>Și trăesc un iad de chinuri pustii...</p>
+<p>Aș vrea saS vin și nu pot... nu trebue...</p>
+<p>Și dorul mă’ngenunche...</p>
+<p>Doamne» da-mi toate puterile sălbatecelor re- / zemnări! '</p>
+<p>Doamne!</p>
+<p>Te strâng, te’nfășor în .ghirlanzi de sărutări; aprinse...1</p>
+<p>Fum.</p>
+<p>Trăesc în amintire...</p>
+<p>Te-ai uitat odată, într’o. zi, atâta de frumos-în ochii mei!</p>
+<p>Aveai în priviri un farmec atâta de fierbinte!</p>
+<p>E mult de atunci...</p>
+<p>Și dacă socotesc nu e prea mult: astăvară...</p>
+<p>Și par’că's ani... Vecii jCjiinuitpare!</p>
+<p>Mi-aduc aminte... . f(</p>
+<p>Și... am plâns gândind la fatalitatea grozavă care mă’ngenunche, la frumusețea ta ucigătoare,la privirile cu cari mi-at sfințit sufletul, sguduin-du-mi-I profund.</p>
+<p>Și-am plâns ca un copil...</p>
+<p>Ești atâta de departe...</p>
+<p>’S’atâta de pustiu...</p>
+<p>Și cine știe ce-o mai fi!</p>
+<p>Am uri presentiment care mă’nfioară:</p>
+<p>Nu voiu mai auzi nici odată armoniile glasului și mersului tău pe drumurile lumi|i, ci numai,,în veac, pe drumurile sufletului meu...</p>
+<p>O tristeță care sfâșie, mă’ngenunche, nenii’ .festiv, fermecătoare dumnezee..</p>
+<p>f Iți sorb sufletul, viața, trupul tău desăvârșit, înlr’ttn asinii nesfârșit ca moartea, ca veșnicia,a neființa...\</p>
+<p>p. s. Ia aminte: ascultă bine undele vântului: simt că nu voiu îngenunchiă nici odată lângăgfenunchii Durnitale... ~</p>
+<p>...Și dacămtr’o zi, .vei auzi o fluturare tristă de aripi albe obosite, împrejurul tâmplelor tale.înfiorate de'-far-n»ec.-..</p>
+</div>
+<div type="chapter" n="12">
+<p>Nisa, Noaptea Crăciunului,.</p>
+<p>Mă’ntorc in {ară...</p>
+<p>Mă’ntorc în Capitală...</p>
+<p>înfrântă, revin, Fum Aniu...</p>
+<p>Infrănge-te! *</p>
+<p>Cunoaște-te!</p>
+<p>...Și te-ai ridicat deasupra ta, însu-ți! Ești stăpânul destinelor tale, călăuzul vrerei, inimiitale!</p>
+<p>Ce prostii, bune de închis într’o carte, și în capul unui filozof bătrân, cuminte!</p>
+<p>...Cred că mă cunosc...</p>
+<p>Sunt sigură că m’am înfrânat...</p>
+<p>Poate m’am învins...</p>
+<p>Mă îndoesc că se poate, real, ridică un om deasupră lui însuși, pentrucă ,e om...</p>
+<p>Dar călăuzul inimii! Ce nerozi.e! ,Când ,ea este tiranul vrerei, și al inimii tale, călăuzuldestinelor.</p>
+<p>Numai în cărți, poate fi altfel, în viață, nici odată...</p>
+<p>Mă’ntorc în capitală !</p>
+<p>Mă’ntorc în viață, Fum Anin!</p>
+<p>...Rătăcisem într’o lume care trăește numai în cărți.:'</p>
+<p>...Și-acum înă’ntorc în viață, purtând din cărți, cu mine, numai polenul, numai lumina care dăculoare, frăgezime' și farmec, acestor mici cizelări în lut, cari sîint florile..</p>
+<p>Mă’ntorc repede, peste-o săptămână...</p>
+<p>Mă’ntorc slabă, torturată, învinsă.</p>
+<p>Mă’ntorc copleșiră de dor!</p>
+<p>Mi-e dor, te iubesc, Fum Anin! _</p>
+<p>Și-aș-vrea să pot sburâ, să ppt fi, peste o clipă, să sorb din apele fericirii, cari treceau limpezi, fierbinți, pe lângă picioarele mele!</p>
+<p>Și mi-i frică... Poate n’am s’ajung... Poate n’am să mai trăesc încă o săptămână!</p>
+<p>Doamne! Ajută-mi, Doamne!</p>
+<p>Ascultă, Fum Aniu! Ascultă!</p>
+<p>Eram, pe malul mării, cu fetițele mele...</p>
+<p>Mergeam, îngenunchiată sub o mare depresiune sufletească, pe lângă poala valurilor...</p>
+<p>Primisem, dimineața, jurnale, reviste, și... și „Biserica Arsă”, ediția elegantă, pe hârtie velină....</p>
+<p>Sufletul meu! Sufletul meu 1</p>
+<p>Am răsfoit jurnalele repede-repede. Și revistele, revistele! ’S’aflîi vești despre tine...</p>
+<p>Ce înfrigurare!</p>
+<p>Și-am aflat:</p>
+<p>„Biserica arsă” e-o capodoperă...</p>
+<p>Știam, știam, Fum Aniu!</p>
+<p>Să frăești!</p>
+<p>„Biserica arsă” s-a epuizat, în Capitală, peste cinci zile...'</p>
+<p>5.000 de' exemplare în cinci zile!</p>
+<p>Dar provincia ?!</p>
+<p>Romanele tale sunt pentru capitală!!</p>
+<p>Fum Aniu, Fum Aniy!</p>
+<p>O veste mare, mare, mare:</p>
+<p>Am râs, am plâns de bucurie, și’n jurul meu horiau nopțile, nopțile nemuritoare, în cari plecam la brațul tău pe drumul gândurilor tale...</p>
+<p>...Nopțile, nopțile plângeau și ele, râdeau horind în jurul meu:</p>
+<p>„Biserica arsă” a fost coronată de academie  cu premiul cel mare... _</p>
+<p>Și splendida a'ocuție a raportorului!</p>
+<p>Vei fi ales membru la academie!</p>
+<p>Ai și fost ales, poate, și eu nu știu nimic.</p>
+<p>Mi-aș fi dat viața să fi putut fi acolo...</p>
+<p>Dacă Petronilla strânge vrafuri-vrafuri’’ și mi le trimite odată la o lună!</p>
+<p>...Și ceasuri am rătăcit pe malul mării,cu Silva, Silvia, Silvanira și cu „Biserica arsă”...</p>
+<p>Insera... Și mi s’a părut c’aud în freamătul</p>
+<p>Insera... Și mi s’a părut c’aud în preamătul valurilor ritmul glasului tău, când neciteai, înmanuscript, acest roman, care-i acum al tuturora.</p>
+<p>Tăcută, lăsam orele să treacă: eram de mult în țară..... mă gândeam la viața mea de altă</p>
+<p>dată...</p>
+<p>...Când Silvanira începu să spună o poezie* pe care o spune mereu:</p>
+<p>Sosesc cocoarele, sosesc</p>
+<p>De după deal de țintirim.</p>
+<p>Iar anii trec, copiii cresc,</p>
+<p>^e schimbă tot ce-i om|enesc</p>
+<p>Și noi îmbătrânim...</p>
+<p>— De ce trec anii, inamia?</p>
+<p>— De ce îmbătrânim ?</p>
+<p>Și’n gura copiilor, tragedia acestor întrebări: mă copleși....</p>
+<p>Aș fi vrut atunci să îngenunchiu, să te strâng' în brațe, să te frâng în brațele mele, să-ți sărutpe buzele, arse de doruri pe cari le-am nesocotit,suferințele tale pe cari le cunosc și pe cari tu numi le-ai arătat nici odată, să-ți sorb cu o sărutarenesfârșită sufletul cu infinitul lui de arfrionii.</p>
+<p>Te iubesc, Fum Aniu!</p>
+<p>Nu te-am iubit nici odată până azi, Fum Aniu!</p>
+<p>Mi s’a părut că te iubesc!</p>
+<p>Te-am iubit cutgândul!</p>
+<p>Acum te iubesc cu toată îndârjirea, cu toată neîndurarea pasiunei!</p>
+<p>Te iubesc, desnădăjduit, Fum Aniu!</p>
+<p>Vin îi| țafă^</p>
+<p>Depărtarea mi-a limpezit sufletul...</p>
+<p>Te iubesc chiar dacă iubirea mea s’ar lovi de granitul legilor morale (nu mai vorbesc de celesociale).</p>
+<p>Te iubesc mai presus de legi și-a afară de ele. Le ignor!</p>
+<p>Le ’disprețuesc...</p>
+<p>Sunt cu tot sufletul, a ta!</p>
+<p>Și cu tot trupul!</p>
+<p>Aș vrea să pot face din trupul și din sufletul mea, o divină lamidă de fulgi albi—mdăle șiușoară ca un nor — cu cari să te învestmânt, săte fur, numai pentru Smine, lumii, vieții, suferinței,amintirilor Dumitale...</p>
+<p>Val Vania.</p>
+<p>p. s. Am’ rupt filă cu filă, cărțile aleșilor nici, .și le-am aruncat în mare...</p>
+<p>Soarele apunea...</p>
+<p>— Ce faci mamă ?</p>
+<p>— Ce faci mamia ! s</p>
+<p>— Ce faci mamia!</p>
+<p>— Deretic prin casă !</p>
+<p>— De ce râzi?</p>
+<p>— Pentrucă sunt nesfârșit de tristă!</p>
+<p>...Și, sute, filele, se depărtau pe valuri cari le purtă spre larg...i</p>
+<p>Păreau fâșii dintr'o barcă sfărîmată...</p>
+<p>Păreau sdrențele mantiei albe pe car^ suflatul meu și-o aruncase de pe umeri un necunoscutulneantului...</p>
+<p>...Și-am mai făcut ceva de când sunt la Nisa.. Am copiat într’un album elegant, mic, cu foi surede papirus, scrisorile itale...</p>
+<p>Muzeul Digital al Romanului Românesc</p>
+<p>Și rândurile scrisul meu tremurător, par pe culoarea stranie a papirusului, înseilările pasiunei omenești pe fondul fumuriu al vremei care secufundă în vecie...</p>
+<p>„Iți trimit un convoiu de sărutări fierbinți pa un stol de flăcări roșii”...</p>
+<p>Iți îngenunchiu, vinovată, pătimașă, ca vestala care a sărutat, pentru prima oară în templu,statuia zeului de marmoră, iubit nebunește, iubitascuns.</p>
+<p>La revedere și iartă-mă, la revedere, iubesc acum întâia oară, la revedere, Fum Aniu. O săptămână pare o vecie...</p>
+<p>La revedere: am îngenunchiat pe malul mării, tremurând de doruri învălmășite și-ți trimit, duios, dulce, dornic: la revedere, cel din urmă lamătoare...:,</p>
+<p>a ta,</p>
+<p>Vania, Val Vania.</p>
+<p>...și undeva, pe drumurile lumii, scrisoarea asta se’ncrucișă, neștiutoare, icu scrisoarea următoare... :</p>
+</div>
+<div type="chapter" n="13">
+<p>XIII</p>
+<p>26 Decemvrie,</p>
+<p>Ce fatalitate zdruncinătoare!</p>
+<p>Mai teribilă decât loviturile destinului din tragediile antice!</p>
+<p>Iți scriu și se pare că tocul meu poartă un bloc imens de piatră...</p>
+<p>Așă-ți scriu. Doamnă Val!</p>
+<p>A murit Fum Aniu...</p>
+<p>EI omul, trupul, a murit, Val Vania!</p>
+<p>A murit în noaptea Crăciunului... i</p>
+<p>Congestie cerebrală...</p>
+<p>L’am găsit cu .capul culcat pe foile pe cari Ie scria pentru tine și pe cari ți le trimit.</p>
+<p>Sunt file de jurnal: Pe valuri, spre Cythera..^</p>
+<p>Se parfc c’a murit s/riind ultima frază neterminată, ale cărei cuvinte sunt scrise par'că de altă mână....</p>
+<p>El se culfundă în moarte trimițând spre tine în valuri de armonie, cel din urmă gând al lui...</p>
+<p>Să nu ucizi!</p>
+<p>Ești o sfântă: mă îngrozește tragedia asta pe cari acum o bănuesc.</p>
+<p>Ești o sfântă !</p>
+<p>Se'pare c’ai ucis... '.</p>
+<p>Și de-ai ști,' Val Vania!</p>
+<p>Sc cufundase, de când ai plecat, într’o tris-teță sfâșietoare...</p>
+<p>II smulgeam pasiunei dorurilor, gândurilor, cu forța, pentru ai aminti că trebue să meargă, sămănânce, să se miște, pentru ai aminti că trăește,că trebue să trăiască...</p>
+<p>Tăcea, se supunea ca un copil blajin, fără mamă, învățat cu străinii...</p>
+<p>Omul acesta unic, omul acesta care eră poet în cărțile lui omul acesta care eră poet In viața,'de toate zilele, mai poet decât în cărțile lui.în proza vieții de toate zilțle!.</p>
+<p>Val Vania, Val Vania, am pierdut un oin unic!</p>
+<p>...L’am văzut, acum o săptămână, pentru cea din urmă oară!</p>
+<p>Mergeam pe Calea Victoriei și tăceam...</p>
+<p>L’am întrebat într’un târziu — era sfâșietor de abătut — l’am întrebat ca să,-! smulg gândurilor:</p>
+<p>— Spune-mi Fum Aniu: are vre-un scop arta ?</p>
+<p>— Nici unul. J</p>
+<p>— Dar dacă Par avea?!</p>
+<p>— N’ar putea fi decât frumosul: alinarea suferințelor, un balsam suferinței — Nirvana materială. înflorirea sufletului omenesc, pentru a-l putea face capabil decât mai puțin rău... Darce-ți spun- prostii seci și goale? Ascultă Maran...Val Vania este o frumusețe stranie, unică: esteo georgeană, în ochi cu farmecul pe cari-1 au iun-</p>
+<p>brele în văile Armeniei, în mers cu armonia molatecă, seducătoare, pe cari am văzut-o numai la musulmanele de rasă, pe coastele Anatoliei...</p>
+<p>Pare o frumoasă antică, rătăcită din Atena, Milet, Alexandria, pe stradele noastre înecateîn sufocantă Iiăzenie obraznică, pretențioasă...</p>
+<p>Și, brusc, s'a despărțit. M'a lăsat în stradă...</p>
+<p>Am fost a doua zi Ia el.</p>
+<p>Servitoarea mi-a spus că e plecat la țară...</p>
+<p>— Cum la țară?</p>
+<p>— Mâni, academia în ședință extraordinară, osă-1 aleagă membru.</p>
+<p>Servitoarea da din umeri și am plecat...</p>
+<p>A doua zi, la Academie, eram cu toții.</p>
+<p>Lipseau: el și... tu...</p>
+<p>Fierbeam de nerăbdare...</p>
+<p>Așteptam să-1 vedem intrând din moment în moment...</p>
+<p>Academia Va proclamat ales...</p>
+<p>Și n’a mai venit Fum Aniu, n’a mai venit...</p>
+<p>Am luat trenul dc noapte și-am plecat la el, la noi, la țară, să-i duc vestea cea mare, supremabucurie...i</p>
+<p>Știam că-disprefuește orice vine din afara sufletului lui, deci și consacrarea Academiei;..</p>
+<p>Dar mai știam că’nxsatul lui n’are pe nimeni : toți ai lui au murit...</p>
+<p>Poate căută liniște în singurătatea zăpezilor...</p>
+<p>— ...De când a plecat n’a mai fost...</p>
+<p>— 'Moșule, Fum Aniu al Dv., și al nostru al</p>
+<p>tuturora, a fost ales membru la Academie... E o cinste mare, cea mai mare...</p>
+<p>— O fi domnișorule, o fi, să trăiască!</p>
+<p>— Iacă s’a ridicat os sfânt și din opinca noastră 1 Să trăiască Fum' Aniu al nostru!</p>
+<p>...Și-am lăsat în drumul mare, lângă casa lui, mirați de venirea și plecarea mea, pe oamenii cucari vorbisem...</p>
+<p>Pe drum mă gândeam... — de jur împrejur, câmpurile, dealurile, pădurile erau un ocean dezăpadă potopit sub cerul ^plumburiu... — mă gândeam la o vorbă a lui Fum Anin, pe cari mi-ospusese în ora de latină. E mult de atunci, darmi-aduc aminte... Eram în clasa 6. Se traduceadin Virgil, Eneida... Ședeam cu el în bancă. S’aplecat spre mine... — Ascultă Maran, cre’zi c’arputea există desăvârșirea? — Știu eu ? i-am răspuns... — Eu cred c’ar putea exista întrupată într’o femee... Ascultă ce-ți spun eu.. Crede-imă,Maran, am dreptate......Și ochii îi erau norați de</p>
+<p>gânduri... ’</p>
+<p>Ajunsesem la Șiret. De pe dânsul de deasupra apei înghețate se vedeau'satele pe malurile amândouă : fum și coperișuri de pae...</p>
+<p>Și iar mă gândii...</p>
+<p>Iată Fum Aniu un om extraordinar, pe cari fii. lui nu-1 cunosc decât din nume; nu-1 citesc pentrucă sunt analfabeți. Străin, necunoscut a lorlui! Ce tragic!</p>
+<p>— La naiba I</p>
+<p>...Și voiam să-mi alung gândurile...</p>
+<p>— N’o să rezolv eu o problemă vastă, complexă, generală!</p>
+<p>Oricum, dacă Fum Anin ar lua în spate satele hri — și ar putea — și le-ar diice’n capitală săte smulgă dreptatea ce li s’a furat, ar face operăde utilitate imediată...</p>
+<p>...Și de moralitate sfântă, dumnezeiască...</p>
+<p>...Am ajuns în capitală, în sara Crăciunului...</p>
+<p>Expresul sosise cu întârziere mare: fatalitate. Dac’ajungeam regulat mă duceam întins la FumAniu... Și poate!?</p>
+<p>A doua zi când m’am dus...</p>
+<p>...Știi.a acum...</p>
+<p>Servitoarea spune că n'a intrat nimeni și nici cl n’a fost nicăieri de o săptămână.</p>
+<p>Când am ajuns ea credeă că doarme...</p>
+<p>Șiîntradevăr par’că dormea culcat pe perna gândului din urmă...</p>
+<p>Pănt-i se resfirase pe prora triremei de aur în care erau doi trandafiri mari albi ce-și picuraserăcâteva petale... ,</p>
+<p>Mâna cealaltă întinsă pe masă înțepenise pe o carte: Fedon de Platon. O ținea încleștat...</p>
+<p>Altă carte sta deschisă cu fața în jos pe masă... Am ridicat-o...</p>
+<p>Cu cerneala cu care-ți scrisese foile pe cari adormise somnul veciei, sublimase câteva rânduri, tot în noaptea aceia: cerneala cu cari sunt</p>
+<p>scrise însemnările și cu cari a tras subliniercle nu s’a înegrit încă deplin...</p>
+<p>Le vrei? lată-le:</p>
+<p>...„C'est une verite trop eprouve des ascetes que Ies reves que voițfc donnez sont plus sedui-sants, s’il est possible, que Ies realites que vouspouvez offrir”...</p>
+<p>....Sunt rânduri adresate femeillor...</p>
+<p>...Anatole France în „Grădina lui Epicur”....</p>
+<p>Dar, la ce bun ?</p>
+<p>Fum Aniu a murit...</p>
+<p>Pe față are încremenite încă, săpate, culele durerii, adânc, adânc... ,</p>
+<p>A murit Fum Aniu: eră de trei zile membru ța Academie...</p>
+<p>De ce? Cum?</p>
+<p>L'am ucis noi, făr' să vrem poate, dar l’am ucis...</p>
+<p>L'avem pe conștiință...</p>
+<p>La ce bun și asta?</p>
+<p>Fum Aniu nu mai este...</p>
+<p>Cu gânduri bune și îndurerate</p>
+<p>Al D-tale servitor,</p>
+<p>Marau.</p>
+<p>p. s. N'ani spus și nu voiu spune nici odată niVnic, nimănui. Voiu duce’n groapă cu minetaina asta:</p>
+<p>Nu-i așa, Val Vania?!</p>
+<p>...Uitasem să-ți spun: în buzunarul dela haină» în buzunarul dela piept i-am găsit un plic mareîndoit în două. Eră lipit... In locul adresei erăscrisă o frântură dintr’un vers:</p>
+<p>...„ellc ineurt du regret d'un parfum”...</p>
+<p>...Am rupt plicul. Speram că și-a scris testamentul... M’am înșelat. Erau flori de crin, albe uscate presate. Câteva întregi, celelalte sfărî-matc... L'am aruncat în foc.</p>
+</div>
+<div type="chapter" n="14">
+<p>Se împlineau 25 ani. Un sfert de veac dela moartea lui Fum Aniu. Erâ în luna când înfloresc trandafirii, învăluind cu îndoioșare nesfârșită, îndoelile sufletului omenesc.</p>
+<p>...Și?n parcul vilei dela șosea înfloriseră, ca'n toți aniii, trandafirii primăverii aceleia...</p>
+<p>Și, undeva, într’un colț coperit de taine, departe de orice sgomot al vieții, erau doj-tei, bătrâni, rotați, cu ramurile plecate în pământ.</p>
+<p>Teii de odinioară.</p>
+<p>Tufanii trandafirilor acățători întindeau ramuri grele de flori roșii-mici pește crengile plecate. '</p>
+<p>Teii amândoi păreau unul singur...</p>
+<p>Și’n chioșcul acesta, viu, tremurător, îmbălsămat, Val Vania stătea legănată întriun hamac, fără visuri, fără gânduri, ca’ntratâtea zile de 25 de ani..;</p>
+<p>— ...Cum au trecut 25 de ani! Par’că cri a fost... Și-mi aduc aminte mai limpede de tot cefu .acum un sfert de veac, decât de lucrurile zilelor de... eri... Se’mplinesc peste două ceasuri, da, peste două ceasuri, 25 decani de când/</p>
+<p>aici, sub umbrar, Fum Aniu începu să ne citească cel din urină roman: „Biserica arsă”.</p>
+<p>Eră o zi limpede, de cristal.</p>
+<p>Înfloriseră, splendid, tulburător, trandafirii.. Sufletul meu eră o inare cutreerată de valuri peste cari se plecă, oglindindu-se, pământul îțiflorit...</p>
+<p>Erau:</p>
+<p>...Petronilla... a murit de zece ani Petronilla.,. erau Brighita, Eufrasia, Doctorul Timus... Au îmbătrânit cu toții... S’au sbârcit.. De mult nu-ammai văzut... eră... Maran... Unde-o fi Maran?O fi murit poate de mult... Cine știe? CânjcVne-am întors în Aprilie dela Nisa, nu mai eră încapitală. Auzisem că și-a cumpărat o moșie departe, lângă Pmt, în fundul Moldovei... Cum'curg anii înconjurând lucrurile, cruțând amintirile! Cum curg anii, mereu, mereu!</p>
+<p>...Și, se vede, an ide an, pe drumul cimitirului, călătorind cu brațul plin de flori...</p>
+<p>Iată trandafirii și lăcrămioarele primăverii, a atâtor primăveri!</p>
+<p>Crinii înserărilor de vară!...</p>
+<p>Crisantemele toamhei, tuberozele!</p>
+<p>Și’ngenuchierele îndelungi și profunde lângă mormânt, la picioarele crinilor, pe cari i sădisecu mâna sa și cari stăteau triști cu capul plecat îu pământ, ca un suflet ce-și închină potirilealbe, spre urna unei amintiri nemuritoare...</p>
+<p>— Bunico, bunico!</p>
+<p>— Ce spui ?</p>
+<p>— Cu cine vorbești ?</p>
+<p>— Bunico! Bunicuțo !</p>
+<p>— Bunio... </p>
+<p>— Și bunia, nemișcată, cu fața în sus, cu ochii întredeschiși, căuta printre ramuri, nesfârșirea albastră a cerului și printre pașii anilor,nesfârșirea fumurie a vieții...</p>
+<p>Și fetițele Silvanirei, săreau, râdeau, acățân-du-se de marginile hamacului...</p>
+<p>— Cu cine vorbeai, bunicuțo?</p>
+<p>— Cu mine...</p>
+<p>— Cu tine? .</p>
+<p>— Cum poate cineva vorbi cu sine?!</p>
+<p>— Vorbeam cu teii, cu trandafirii și cu cerul...</p>
+<p>— Și ce-ți spuneau, bunicuțo, trandafirii? .</p>
+<p>— Dar cerul?</p>
+<p>— ...Și fioncurile albe de matasă fâlfâiau înpărul auriu — cârlionțat, ca niște fluturi marialbi într’un paianjeniș de raze...</p>
+<p>Și lumina de-afară părea reminescența lumi-nei moarte în urna anilor cari trec!</p>
+<p>— Bunicuță, vine un domn cu barba albă.... Și mama....</p>
+<p>Val Vania se ridică drept în picioare: naltă, slabă, tremurătoare...</p>
+<p>O adiere care trecu i’nfioră părul tâmplelor, alb...</p>
+<p>Și’onfiorare care se ridică din fundul sufletului pustiu ori din urna anilor îi cutremură încrețiturile obrajilor, .din tari nu mai rămăsese</p>
+<p>decât pielea,c ari se strângeau ca’ntr’un nod pe locul unde tremurau, gropitele, oUinioai]ă.</p>
+<p>Ochii tulburi, cu ape vineții recunoscură în bătrânul cari venea printre aleele de trandada-firi, privind din când în când, la dreapta ori lastânga, cu capul plecat în pământ, pe Maran celplecat în alte lumi, de 20 de ani....</p>
+<p>Pășî, involuntar, dintre tufani...</p>
+<p>Și se găsi la câțiva pași de bătrânul care o privea.</p>
+<p>Și nu scoaseră un cfuvânt mai multe clipe...</p>
+<p>— Doamna Val!</p>
+<p>— Maran ! </p>
+<p>— Doamna Val 1</p>
+<p>— Și isbucniră în plâns....</p>
+<p>Silvanira-și strigă copii...</p>
+<p>— Nelia 1 Marina !</p>
+<p>Și se depărtară. Fetițele fugeau printre aleele de trandafiri.....</p>
+<p>— Ți-aduci aminte, Maran! In ziua aceia așa alergau Silva, Sylvia și Sylvanira. A trecut 25de ani... Era o zi ca asta... Poate a înviat aziaceiași zi de atunci...</p>
+<p>Și fetițele urcau acum scările...</p>
+<p>Și fioncurile de mătasă albă fâlfâiau în părul auriu ca niște fluturi cari fug grăbit goniți defurtuna care vine...</p>
+<p>Și Maran o privea cu lacrimi în ochi, cu lacrimi pe obraz, cu lacrimi în barba mare albă...</p>
+<p>— M’am schimbat, Maran! Am îmbătrânit de</p>
+<p>tot... Sunt o umbră care nu-și poate smulge picioarele din mâna pământului...</p>
+<p>— O! Nu! Te-ai schimbat! Nu așa mult! Doar vremea și a cernut colbul pe tâmple! Sufletele ne-au rămas aceleași!</p>
+<p>— Sufletele! o sufletele! dar eu mai am oare suflet, Maran...</p>
+<p>— Poate! Far’ îndoială! </p>
+<p>— Cine știe, AAaran, cine știe! Cum trec anii peste noi și ne troenesc, Maran! Cum trec anii!</p>
+<p>Maran tăcea mereu.</p>
+<p>— Și ce vânt te aduse la mine, bătrânu e amic?!...</p>
+<p>— Am văzut acum o lună, în revista „Altădată'^ rândurile Dumitale: „Pe drumul amintirii... Și-am pornit din fundul Moldovei ca să-ți ascult chemarea...</p>
+<p>— Da Maran, sunt cele dintâi și cele din urmirânduri pe cari le-am publicat și pe cari le-amcules migălos, un sfert de veac, din văile atâtorani nenumărați. Și tu ești cel dintâi care vii dintre oaspeții saloanelor inele... Vor mai veni?Cinștie?</p>
+<p>— Valurile vieții! Valurile lumii! z</p>
+<p>— Unii au pornit pe totdeauna....</p>
+<p>— Și doctorul Țiinuș și Șerban !</p>
+<p>— Și doctorul Țimuș !?</p>
+<p>— Și...</p>
+<p>Printre aleele de trandafiri veneau copiii.</p>
+<p>Apoi Doamna Silvanira Drăghici... .</p>
+<p>Și Silvia și Silva...</p>
+<p>— Domnule Maran, fetele mele! t</p>
+<p>— Dar D-nul Val.</p>
+<p>— A plecat eri, la moșie...</p>
+<p>Toți se așezară și fu liniște... -</p>
+<p>Adieri calde purtau valurife miresmelor, zumzetul albinelor aurii.,..</p>
+<p>— Vreau să comemorăm și noi pe Fum Anin, odată cu presa și academia. Vreau Maran o comemorare distinsă, demnă...1</p>
+<p>— Să publicăm ineditele...</p>
+<p>— Maran!</p>
+<p>— Pe valuri, spre Cythera!</p>
+<p>— L’am copiat- într’un album de papyrus... este și o corespondență.. scrisuri către o necunoscută care a murit de mult... A murit cam tot pe vremea aceia acum două zeci și cinci de ani...</p>
+<p>Și Val Vania care mereu se uită la ceasornicul brățară, se ridică brusc în picioare, aproape sări...</p>
+<p>— Oameni buni! E o clipă solemnă. Ceasul sacru...</p>
+<p>Și’n genunchie cucernic, cu capul în pământ..</p>
+<p>Cum îngenunchia în ziua asta de 25 de ani.....</p>
+<p>Fu tăcere ca’ntr’o biserică arsă...</p>
+<p>— Maran, în clipa asta, acum două zeci și cinci de ani, începuse a citi, Fum Aniu. I-aud, ritmul sufletului, vibrările glasului... Aud vorbele: ;.</p>
+<p>...„Fericiți oamenii cari mor fără remușcări”.</p>
+<p>— Mi-aduc aminte... Sylvanira strângea’n pumn petale de pe-alei...</p>
+<p>— Maran să comemorăm solemn clipa asta.</p>
+<p>Să citim, să pregătim, pentru tipar opera, postumă. Iată albumul sub perna mea de pe hamac. Albumul de papirus... Citește Maran... Ba nu, citesc eu... Le știu pe de rost... De două zeci și cinci de ani, caut să trimit peste pustiul sufletului meu, gândurile Iui, cu valurile pe cari,</p>
+<p>- ele, le vor fi stârnit în sufletul- lui, când le-a scris...</p>
+<p>Se poate, oare, asta Maran ?</p>
+<p>— Val Vania, cine știe, Val Vania!</p>
+<p>— De două zeci și cinci de ani... Maran... Maran ! Fericiți oamenii cari mor fără remușcări!</p>
+<p>— Mi-am adus aminte, Val Vania... Copii duceți-vă și adunați în pumn, petale... La câteva zile după moartea lui, m’am dus la el acasă...Și am găsit în cutie o scrisoare. Era din Nisa. Era scrisă de D-ta. Am păstrat-o... Am sigilat-o nedesfăcută... Era pentru Fum Aniu! Fum Aniu murise... După datoria mea ți-o restitui...</p>
+<p>Pe fața bătrânei se adânciră palori îngrozitoare... </p>
+<p>Și tăcu, într’o reculegere zdrobitoare...</p>
+<p>Tăcu, tăcu...</p>
+<p>Și după vreme îndelungă, privind scrisoarea</p>
+<p>roasă de vreme... </p>
+<p>— Fum Anin! Fum Anin! Maran dragi, fetelor, dragi copii!... ucis,....</p>
+<p>Sufletu-i tremură cufundându-se în plâns nevăzut...</p>
+<p>— Maran să citim, Maran. Trece ziua lui Fum Aniu. Fetelor, dragi copii, ascultați... Seri-*sori către o necunoscută: a murit de mult... Mile-a dat mie, Fum Aniu, acum două1; zeci și cinci'de ani... Se pare că'.femeia poetului nu va fi fostdecât în închipuirea lui... S’au poate a fost iucarne și oase și... poate.... suflet și lut a înge-nunchiat strivită de atâta iubire, de atâta durere... Cine știe... atâția ani,.. Nu-i așa Maran,nu-i așă ?</p>
+<p>— Da, da, Val Vania!</p>
+<p>...Și’ntr’un târziu, când toate rândurile acelea de foc, călătoriră pe valuri de lacrimi, către țărmuri necunoscute, o tăcere sfâșietoare înlănțui sufletul...</p>
+<p>Și Val Vania, cu o voce în cari răsunau toate ecourile din împărăția durerii și a morții,...</p>
+<p>Vorbi:</p>
+<p>...Și la sfârșitul caetului, pe ultima pagină, după cea din urmă scrisoare a lui, o mână de femee a scris câteva rânduri.</p>
+<p>Slovele gingaș-obosite tremură, ca niște raze sfioase pe unde cari trec...</p>
+<p>...Și hârtia pare albă ca drumul visurilor...</p>
+<p>...Și mâna aceia trebue sa fi aurit asemănări tulburătoare cu frântura unui potir de zăpadă,cu degetele subțiri, diafane și albe ca petalele unei crisanteme pale de sub cerul hifonului.</p>
+<p>...Și când scria, sufletu-i sfărmat și risipit se coboră pe hârtie, prin degetele, tremurătoare ca petalele unei crisanteme din țara hifonului, atinse de adierea unei iubiri care se sbate tăcut și moare...</p>
+<p>Și, printre rândurile schigiuite, peste slovele îngenunchiate una către alta, hârtia mai păstrează încă umbrele unor stele diforme-fumurii:</p>
+<p>par groapa unor lacrimi...</p>
+<p>...Poate acolo își săpaseră mormânt sfărmă-turile unui suflet risipit...</p>
+<p>— Copii! — Maran bătrânule Maran, copii!..</p>
+<p>...Dacă lacrimile ar brăsdă acum întâia oară sufletul omenesc, m’aș nărui sub durerea uneitragedii de lacrimi...</p>
+<p>Copii !...</p>
+<p>...Dragi copii...</p>
+<p>...Nimic, iui s’a schimbat, nimic./.</p>
+<p>Iată înserarea care coboară liniștit!</p>
+<p>...Trandafirii cari și trimit, ca și acum1 25 de ani, miresmele încărcate în caravana sufletelornoastre, pe valuri spre Cythera...</p>
+<p>iată o stea care clipește, singură, ca un ochiți plâns, înspre Apus...</p>
+<p>Și’n geamul în cari „înfloreau trandafirii” își dă sufletul încă un apus de soare...</p>
+<p>Ș’aleele!.</p>
+<p>Umbrarul...</p>
+<p>Vila.</p>
+<p>Plopiii! </p>
+<p>Și toată frăgezimea primăverii!.</p>
+<p>Nimic... nu s’a schimbat nimic de 25 de ani, nimic, nimic!.</p>
+<p>— Doar sufletele noastre!.</p>
+<p>— Maran, Maran, îndură-te și taci...</p>
+<p>Ascultați, în papirusul meu mai sunt două pagini, scrise strauiu, sfărmător, numai două pagini.</p>
+<p>Aș vrea să am puteri să le citesc, Maran, Maran!.</p>
+<p>— Să citesc eu, D-uă Val...</p>
+<p>— Ai văzut vre-un preot creștin ori păgân încredințând unui profan oficierea riturilor sacre?!...</p>
+<p>...Și cu glas slab, istovit, tremurător, care părea că se înalță, sfașiat, de sub dărmăturile unei lumi prăbușite, citi....</p>
+<p>...Și par’că răsuna domol, învins, pentru cea din urmă oară, ruga Unui muribund de două zeci și cinci de ani, la poarta unui templu care arde și-și risipește, zădarnic, lumina, în vântul care vine, în vântul cari trece, mereu: </p>
+<p> ...înfloreau trandafirii pe toate cărările lumii și în toate primăverile anilor...</p>
+<p>Și’n ’grădinele sufletului meu, luminoși, grei de miresme, înfloreau trandafirii....</p>
+<p>Primăverile anilor au îngenunchiat pe ponoarele uitării...</p>
+<p>Trandafirii și-au îngropat miresmele în apele amintirii... Și anii!. O! anii cari trec ca un ocean cu valuri de fum.  </p>
+<p>Și sufletul meu !. O! sufletul meu !.</p>
+<p>Sufletul meu singur, trist, pustiu!.</p>
+<p>Trist ca fața unui copil „cu toate zâmbetele moarte”...</p>
+<p>Pustiu ca un codru imens, căruia i-au pornit  în pribegie veșnică, toate pasările călătoare, i-au înghețat toate isvoarele blânde-armonioase ca un leagăn și lângă rădăcinele moarte i s-a scuturat toată gloria frunzelor fragede-verzi...</p>
+<p>Sufletul meu!. Sufletul meu!.</p>
+<p>...Vor înflori trandafirii pe toate cărările lumii și’n toate primăverile anilor, numai în gradinele sufletului meu nu vor mai înflori nici odată trandafirii...</p>
+</div>
+  </body>
+ </text>
+</TEI>

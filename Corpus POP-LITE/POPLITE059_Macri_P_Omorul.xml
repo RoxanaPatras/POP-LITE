@@ -1,0 +1,1519 @@
+﻿<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Omorul din strada Soarelui sau Asasinii Mariei Popovici: ediție POPLITE</title>
+                <author>Macri, Panait</author>  
+                <respStmt>               
+                    <resp>codare POPLITE</resp>
+                    <name>Teodora Iuriusciuc</name></respStmt>   
+                <respStmt>
+                    <resp>corectură manuală</resp>
+                    <name>Lorena Gîtlan</name>
+                </respStmt>
+                <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>UAIC</publisher>
+                <date></date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+                <ref type="doi" target="10.5281/zenodo.7342136"></ref>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Macri, Panait</author>
+                    <title>Omorul din strada Soarelui sau Asasinii Mariei Popovici</title>
+                    <pubPlace>București</pubPlace>
+                    <publisher>EDITURA TIPO-LITOGRAFIEI ASCHER and KLEIN</publisher>
+                    <date>1879</date>
+                    <decoNote type="ilustratii" subtype="yes"/>
+                    <dim unit="char" type="mic"/>
+                    <extent>
+                        <measure unit="word">22223</measure>
+                        <measure unit="page" type="under_250"/>
+                        <measure unit="foileton" type="under_65"/>
+                        <measure type="complete"></measure>
+                    </extent>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme='https://opentheso.huma-num.fr/opentheso/api/theso/Typologie'>
+                    <term type='domaine' ref="https://hdl.handle.net/20.500.11942/crteb7oodgosm">literatura</term>
+                    <term type='factualite' ref="https://hdl.handle.net/20.500.11942/crt22aacdhvi7">fictiune</term>
+                    <term type='forme' ref="https://hdl.handle.net/20.500.11942/crtnufdew1lfb">proza</term>
+                    <term type='genre' ref="https://hdl.handle.net/20.500.11942/crthuyig1pxri">roman</term>
+                    <term type='agencement' ref="https://hdl.handle.net/20.500.11942/crtbdm5xnc6io">foileton</term>
+                    <term type='origine' ref="https://hdl.handle.net/20.500.11942/crtxolq1evsr9">opera originala</term>
+                    <term type='discours' ref="https://hdl.handle.net/20.500.11942/crt4wma17ncnj">narativ</term>
+                    <term type='public' ref="https://hdl.handle.net/20.500.11942/crthb4el4r5qc">non défini (public cible)</term>
+                    <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
+                </keywords>
+                <keywords>
+                    <term type="receptare" n="5"/>
+                    <term type="republicare" n="2"/>
+                    <term type="unfinished"></term>                
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+                <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+                <p>Cuvantul cheie de tip "unfinished" indica stadiul realizarii operei de catre autor.</p>
+                <p>Masura de tip "incomplete" indica faptul ca am gasit romanul in forma completa.</p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+ <text>
+<body>
+<div type="chapter" n="1">
+<p>Cap. I</p>
+<p>În ajunul omorului</p>
+<p>Din strada Criviței se vede cotind spre drepta, în strada Manea Brutaru, un om în etate ca de 30 până la 35 ani.</p>
+<p>El merge iute, fața îi este sperioasă, din când în când privește în urma sa.</p>
+<p>S-ar părea a fi unul din acele persone, care scapă din Otelul Văcărești sau din spitalul Mărcuța.</p>
+<p>Cu părul mai mult vulvoi, cu ochii rătăciți, el căuta parcă un loc, o ascunzătoare, o gaură unde să poată fi ferit de privirile omaenilor.</p>
+<p>Din când în când, îl auzi crâșnind din măsele și din buzele lui ieșind aceste cuvinte: '</p>
+<p>„Se uita lung”</p>
+<p>Dar cine să fie acest straniu personaj, cu privirea atât de cruntă, cu fața întunecată, cu inima tremurând de frică ?</p>
+<p>Îl vom numi mai târziu, până atunci însă să-l urmărim de aproape ca să vedem unde se duce și ce va face.</p>
+<p>Din strada Manea Brutaru, la cea de</p>
+<p>întâi răspântie o ia în sus pe o stradă care dă în Calea Victoriei.</p>
+<p>Merse, când de o dată se opri la al doilea colț al străzii. Prea multă lume era pe calea Victoriei și el care voia să fugă de privirile oamenilor, ar fi făcut o neghiobie ca să intre în marea strada.</p>
+<p>Stătuse cam vreo trei minute pe loc, privi lung spre strada care se deschidea zgmotoasă în fața sa și deși avea aerul a se gândi pe unde trebue s-o pornescă, totuși mintea lui rătăcea și din gura lui ieșiră încă o dată murmurătoarele cuvinte -</p>
+<p>„Se uita lung“</p>
+<p>Se întoarse apoi, o lună pe strada Fântânii, dădu în strada Popa Tată, o luă la stânga pe acesta stradă, intră în strada Stirbei Vodă, merse pe acesta stradă și înainte de-a intra în strada Brezoianu se opri la o cârciumă.</p>
+<p>Pentru a fi mal mult ferit de aceia care, i se părea lui, că se uitau necontenit la dânsul; intră în odaia din fund și porunci să i se aducă o jumătate oca de vin.</p>
+<p>— Vechi sau nou, Domnule ? întrebă băiatul.</p>
+<p>— Nou, ba nu, vechi, pronunța scurt misteriosul nostru personaj.</p>
+<p>I se aduse vinul și pe când turna în pahar, rosti din nou :</p>
+<p>„Se uita lung la mine”</p>
+<p>Era sâmbătă, 11 mai și ziua se cobora spre seară.</p>
+<p>Până să înopteze el mai bău încă două jumătăți de vin și fuma vreo șapte țigări.</p>
+<p>Când manta întunericului înveli fața pământului, omul nostru plăti consumația și ieși afară.</p>
+<p>Era liniștit, vinul în loc să-l amețescă, îl desmeteci puțin; totuși ideaa ca un comisar de poliție s-ar fi uitat lung la el, că i-ar fi ghicit poate gândul, nu-l părăsi cu totul.</p>
+<p>Și făcându-și curaj păși înainte prin întunericul nopții cugetând astfel:</p>
+<p>„Trebuie să fiu nebun ca să-mi închipui lucruri neputincioase. Cine ar putea străbate în inima mea? cine ar putea pune mâna pe mine?cine mi-ar putea spune: Ești arestat pentru omorul ce mâine-l vei săvârși? Cine mă va putea opri de la fericirea care mă așteptă ? cine îmi va putea reteza frumosa existență ce-mi voi crea ? Nimeni.</p>
+<p>„Numai eu și satana cunoaștem misterul crimei ce mâine se va săvârși.</p>
+<p>„Numai eu și fierul ascuțit, care îi va străpunge sânul vom putea mărturisi numele omorâtorului, dar fierul e mut și eu voi fi tot mut.</p>
+<p>Cu niște astfel de reflexii ajunse acasă la dânsul.</p>
+<p>Intră înăuntru, bătu la ușa unei odăi și după ce un glas dulce întrebă: cine-i ? ușa se deschise și necunoscutul nostru se găsi față în față cu o femeie încă tânăra și de o frumuseță prcvocatoare.</p>
+<p>—Te așteptam m nerăbdare, îl zise tânăra femeie.</p>
+<p>— Si eu veni cu nerăbdare la tine, îi răspunse vizitatorul.</p>
+<p>— Dar te văd puțin neliniștit,continuă femeia observându-l.</p>
+<p>— E din cauza ? ce port, cu toate astea sper ca de mâine încolo n-o se ne mal plângem de soarta asta.</p>
+<p>— Să te audă D-zeu.</p>
+<p>— Cine mă va auzi, D-zeu sau satana nu știu: dar știu că trebuie să piară odată mizeria de care suntem copleșiți. </p>
+<p>— Nebunaticule! . . . îi răspunse frumoasa femeie mângâindu-l și depunând pe fruntea lui o sărutare zgomotoasă.</p>
+<p>— În adevăr, răspunse necunoscutul nostru voind să-și alunge gândurile care îi țineau mintea pironită; în adevăr, în astă noapte vreau să fiu cu totul nebunatic.</p>
+<p>— Și în ce fel?</p>
+<p>În felul pe care mi-l spune fața ta atât de frumosa, ochii ăștia negri ca niște cărbuni stinși și arzători ca flăcările; în felul în care talia ta subțire și mlădioasă, pieptul tău tremător ar putea să scotă din minte chiar și pe un pusnic.</p>
+<p>— Așa, ce spui!... Eu însă te rog să fii astâmpărat, dacă vrei să nu ne certăm.</p>
+<p>Trei jumătăți de vin băuse omul nostru. Această băutură îi aprinse sângele și după cum era dotat de natură cu apucături bestiale, în aceste momente deveni o curată bestie.</p>
+<p>El se apropie mal mult de frumoasa femeie, o luă în brațe, se încins o luptă între ei și sexul frumos, sleită de puteri căzu pe pat. Voi să strige, dar gura-i fu astupată cu un sărut.</p>
+<p>— Te voi sfâșia cu unghiile, zise ea : Ce înseamnă acesta barbarie.</p>
+<p>El nu răspunse nimic, cu o pasiune dobitocească îi desfăcu rochia și-i sfâșie cămașa.</p>
+<p>In singuratica și tăcuta odaie nu se auzea decât un gemet surd.</p>
+<p>MIULESCU ȘI MARIA</p>
+<p>Să venim puțin la D-l Miulescu, eroul din romanul nostru și să vedem cum sta el cu D-Sa Maria Popovici și dacă el pote fi acela care o ucise într-un mod atât de barbar.</p>
+<p>Vom vedea cu toții, dacă Niculae Miulescu, azi musafirul din penitenciarul Văcăresti, e crudul omorâtor al Mariei Popovici, dacă el e fiul, care cu câțiva ani mai înainte, își omorise părinții.</p>
+<p>Sunt ceasurile 1 p. m. într-o odaie modest mobilată, cu ferestrele din spre strada Soarelui deschise, stă pe un scaun, lângă o mică masă de nuc, o femeie tânără și frumoasă.</p>
+<p>Pe buzele ei se vede rătăcind un surâs.</p>
+<p>Totuși, cine ar observa-o mai de aproape ar vedea că ochii ei mari și negri sunt scăldați în lacrimi.</p>
+<p>Alături de ea și la o distanța respectuoasă, se vedea sezând N. Miulescu, un om frumos, înalt și robust.</p>
+<p>Vom intra mai târziu în amănuntele acestui om.</p>
+<p>Miulescu e gânditor, fruntea lui puțin încrețită e tulburată de gânduri, care ar voi parcă să izbucnescă deodată, pentru a ușura mintea dând curs gurii.</p>
+<p>Femeia care sta lângă dânsul se numește Maria Popovici.</p>
+<p>Miulescu din când în când duce mâna la cap, pare a simți o durere. Privește în jurul său. Se uită la mobile, la pereții, casei, se uită, prin geamurile deschise, afară pe stradă, unde circula lumea. Își întoarce privirile iute și le ațintește asupra Mariei Popovici.</p>
+<p>Se încercă de mal multe ori ca să-i vorbescă, dar cuvintele se opriră reci pe buzele lui-</p>
+<p>În sfârșit, el observă lacrima care căzu din ochii Măriei pe foaia unei cărți; pe deasupra căreia rătăceau ochii frumoasei femei.</p>
+<p>— Așadar Doamnă Maria este hotărâtă ca să te măriți? pronunță Miulescu.</p>
+<p>— Da Domnule Miulescu îi răspunse tânăra femeie; căci vezi D-ta, a sta mai mult timp astfel, este a mă exspune la multe greutăți pe care o femeie cu greu le suportă și ceva mai mult este a da ocazia lumii ca să clevetescă în contul persoanei mele.</p>
+<p>— O Doamnă, dar cine vă cunoaște și nu vă admiră! D-voastră sunteți de o virtute rară, și pe lăngă asta . . ., </p>
+<p>— Virtutea D-l meu, e o floare ce în totdeauna are nevoie de razele soarelui, altfel umezeala o veștejește și se vor găsi destui viermi care s-o roadă de la rădăcină.</p>
+<p>Ș-apoi astăzi, mat poate fi virtute când norul răutății întunecă inimile tuturor oamenilor ?</p>
+<p>— Omenirea așa a fost de la început; în ea se găsesc și oameni buni și răi, precum într-o grădină se găsesc și flori și mărăcini.</p>
+<p>Adevărat, adesea însă acolo unde credeam că voi găsi fericirea, am întâlnit durerea.</p>
+<p>— înțeleg ce vrei să zici și tocmai pentru aceea eu cred că ar fi mai bine ca să amâni încă nunta. Nu știi D-ta că adesea sub floarea de trandafir se ascunde ghimpele ascuțit ?</p>
+<p>— Nu te înțeleg Domnule Miulescu.</p>
+<p>— Voi să-ți zic că nu se știe încă dacă noul D-tale soț nu va egala pe cel de întâi. D-ta stai de atâta timp în casa nostră și bunătatea D-tale a putut deschide în inimile nostre o iubire fără margini. Dă-mi voie să me interesez de fericirea D-tale și crede că atât eu, cât și soția mea te privim ca pe un copil al nostru.</p>
+<p>— Vă mulțumesc din inimă, D-le Nicolae și nu știu cu ce aș putea răsplăti vreodată bunăvoință ce arătați către mine.. În ceea ce privește însă pe D-l Dumitrescu, dacă aveți vreo bănuială asupra lui acesta nu provine decât din prea marele interes ce-mi purtați. El e un om bun, nobil și cu suflet mare.— Pasul ce voești să faci Domnă e cel mal serios din viața omului. Adesea inimile june în avântul unui foc de iubire uită toate greutățile lumii. D-ta însă care ești foarte inteligentă ar trebui să te gândești cu multă măturitate.</p>
+<p>— M-am gândit D-le Niculae, și atât gândul cât și inima mea, sunt de același acord pentru persona D-lui Dumitrescu.</p>
+<p>— Eu cred ca n-ai avut încă timpul.</p>
+<p>— Adesea un minut are întinderea unui an și adesea anul se poate contracta în minut. De la vederea D-lui Dumitrescu și până acum a fost prea lung timp, pentru a putea citi în pieptul său. pentru a-i putea cunoște bunătatea și pentru a-l convinge pe deplin că inima mea, e inima lui. Intr-un cuvânt D-le Niculae îl iubesc și D-ta care ai trecut prin alunecarea la vale a dragostei poți ști câtă forță are acest cuvânt: iubesc.</p>
+<p>— Ai dreptate, dacă îmi dai însă voie și dacă nu te superi, am să-ți fac o mică observație.</p>
+<p>— Te ascult cu plăcere.</p>
+<p>— Eu cred că dota ce voiești să dai viitoruli D-tale soț, e prea mare în comparație cu poziția sa. Nu ar fi mai nimerit ca jumătate din acea zestre s-o oprești pe seama dumitale, fără a o trece în contractul de căsătorie? Prevederea în totdeauna e bună, cine știe ce s-ar putea întâmpla.</p>
+<p>— Nu, D-le Miulescu, dacă eu aș face una ca asta, m-aș coborî până acolo, în cât aș înjosi chiar numele de femeie.</p>
+<p>Cum ? când eu voiesc să dau noului meu soț inima mea, mă mai pot găndi oare la banii ce-i voi da. Ș-apoi acei bani nu vor fi tot ai noștri? Nu-mi vine a crede D-le Niculae că pentru matale mai mult prețuiesc banii de căt o inimă.</p>
+<p>— Ascultă-mă Doamnă Marie, nu a fost tot acestă inimă pe care ai dat- o celui de întâi bărbat? și ce toate astea ? înapoi</p>
+<p>— Adevărat, însă ți-am spus ce mi se pare.</p>
+<p>— Pentru ce atunci nu ar fi bine ca și în acestă ocazie să ai puțină îndoia?</p>
+<p>Miulescu nu avu timpul să termine acest din urmă cuvânt și un om înalt, robust, cu fața puțin negriciosă și cu mustățile bine răsucite, intră înăuntru.</p>
+<p>Convorbirea se întrerupse, amândoi se uitau la noul venit, care, dupe ce salută, se așeză cu familiaritate pe un scaun.</p>
+<p>Maria Popovici căf|u din nou pe gânduri.</p>
+<p>Omul înalt și cu mustățile bine răsucite se numia C. . . .</p>
+<p>Pe când buna femeie, dusă pe gânduri, întorcea foile din cartea de pe masă, D-l C . . . profitând de acestă ocazie, schimbă o privire iute cu Miulescu.</p>
+<p>Acesta înțelese că vrea să-i spună ceva secret și apropiindu-se de el îl trase la o parte întrebându-1:</p>
+<p>— Ce este.</p>
+<p>— Am să-ți spun un ce foarte interesant.</p>
+<p>— Să vedem, pronunță Miulescu cu un aer de curiozitate.</p>
+<p>— Cunoști D-ta...</p>
+<p>Și D-l. C. se apropie de urechia lui Miulescu.</p>
+<p>Nu știu ce i-o fi spus, dar pe când d. C... se retrase lăngă scaunul său, Miulescu rămase încă în picioare.</p>
+<p>Gândurile, care pănă aici îi pironeau mintea il părăsiră, înlocuindu-se cu niște alte gânduri mult mai curioase și mai stranii.</p>
+<p>Ca la trei minute rămase el în picoare drept, nemișcat cugetător, și ar fi rămas încă mult timp în această poziție, dacă frumasa Maria Popovici, nu i-ar fi zis:</p>
+<p>— D-le Miulescu, cu cât mă gândesc mai mult, cu atât ideile mele rămân mai nestrămutate.</p>
+<p>Paloarea dupe fața D-lui Miulescu deveni și mai mare la auzul acestor cuvinte.</p>
+<p>El scrâșni dinții, roti ochii prin cap, strânse pumnii și apropiindu-se de Maria îi zise cu o voce slabă:</p>
+<p>— El bine Doamnă, să vedem, ce idei nestrămutate voiești să-mi vorbești.</p>
+<p>— Intrucăt privește ideile, mi se pare că le cunoști.</p>
+<p>— Nu cunosc nici ideile, nici nestrămutarea D-tale.</p>
+<p>— Mi se pare că am mai discutat și altă dată în privința ideilor pe care voiți a vi le explica acum din nou.</p>
+<p>— Nu știu nimic.</p>
+<p>— E vorba. D-le Miulescu, despre căsătoria mea.</p>
+<p>— Cunosc explicarea ce aveți pentru D-l Dumitrescu.</p>
+<p>— Cu toate astea...</p>
+<p>— Da D-le Miulescu, nestrămutarea mea e tocmai în această privință.</p>
+<p>— Bine, ești liberă atunci să faci tot ce vei voi, eu nici nu pot, nici nu am dreptul să mă opun hotărârilor D-tale.</p>
+<p>— Fiți atunci bun, D-le Miulescu, a-mi restitui, în timpul cel mai scurt, banii ce vi am împrumutat, îi zise Maria Popovici sculăndu-se de pe scaun și apropiindu-se de fereastră.</p>
+<p>— Am să vi-i restitui, pronunță scurt Miulescu.</p>
+<p>În timpul acesta ușa se deschise și o femeie apăru înăuntru</p>
+<p>E D-na Eufrosina Miulescu, soția acuzatului,</p>
+<p>— Nae îl zise ea, am să-ți spun ceva.</p>
+<p>Miulescu ieși după dânsa.</p>
+<p>Ei intrară într-o altă odaie șl începură următoarea conversație:</p>
+<p>— Ai fost la D-l . . .</p>
+<p>— Da.</p>
+<p>— Ce ți-a spus.</p>
+<p>Miulescu se uită lung în ochii ei,</p>
+<p>— Spune-mi, continuă D-na Eufosrina, spunem-mi, ce răspuns ai luat?</p>
+<p>— Negativ.</p>
+<p>Eufrisina păli.</p>
+<p>— Voi încerca cu toate astea în altă parte, am speranță la un loc,</p>
+<p>— Ba D-l . . .</p>
+<p>— Da.</p>
+<p>— Al mai fost pe la ei</p>
+<p>— Acum trei zile.</p>
+<p>— Cu nepotul D-tale ai vorbit ceva?</p>
+<p>— Nimic,</p>
+<p>D-na Maria ce a zis pentru banii ce ai primit de la Primărie ?</p>
+<p>— Nimic, pronunță Miulescu încruntând sprincenele</p>
+<p>Lăsăm pentru un moment pe Miulescu convorbind cu nevasta sa, pentru a ne întorce într-o cârciumă de la marginea orașului.</p>
+<p>BANDITUL</p>
+<p>Sunt nouă ore seara. Cârciuma era plină de mușterii. Din toate părțile se comanda vin și cel doi băieți al prăvăliei se împiedicau alergând când colo, când dincolo.</p>
+<p>De la 10 1/2 insă închinătorii lui Bachus începură să părăsescă infectul local.</p>
+<p>Pe la 12 ore nu se mai vedea în toată toată cârciuma decât trei persoane, o femeie și doi bărbați, dintre care unul înalt și frumos, iar celălalt scurt, cu privirea pătrunzătoare, cu părul scurt, cu fața roșie și cu mustățile tot roșii,</p>
+<p>Acesta din urmă are niște antecedente forte urâte.</p>
+<p>Pe la anul 1866 a fost trimis la Ocnă de Curtea cu Juri.pentru 15 ani.</p>
+<p>Din mica lui copilărie el nu se îndeletnicise decât cu spargerile, hoțiile și bătăile,</p>
+<p>Și pentru a spune adevărul. nu în puține rânduri a torturat pe  acei care i-au căzut în mână.</p>
+<p>— Măi Vasile, îi zise omul cel înalt ; ce părere ai tu despre om ?</p>
+<p>— Ce părere să am măi Nicolae, răspunse Vasile ; Eu cred că omul cel sărac treime să fură de la cel bogat, pentru ca să poată trăi.</p>
+<p>— Foarte bine ! răspunse foamea care era între ei ducând paharul cu vin la gură.</p>
+<p>(Va urma)</p>
+<p>Toate drepturile rezervate autorului</p>
+<p>(urmare)</p>
+<p>— Tu să nu vorbești, nu ai cuvântul! pronunță cu un ton scurt Vasile.</p>
+<p>Acesta avea un necaz mare asupra Vasilcăi, femeia care se îndeletnicea cam potrivit cu paharele de vin.</p>
+<p>Era gelos sărmanul Vasile, pentru că ea nu iubea decăt pe Niculae.</p>
+<p>— Frumușico, îi zise el într-o zi ; pe tine te cheamă Vasilica, pe mine Vasile, pentru ce nu voiești ca să ne iubim amândoi ?</p>
+<p>- Pentru că tu ești urât și eu frumoasă; îi răspunse ea zâmbind.</p>
+<p>Când o femeie respinge pe un bărbat, atunci aprinde mai mult flacăra din pieptul său.</p>
+<p>În păcatul acesta călcă și Vasile.</p>
+<p>Cu cât vedea că încercările de-a atrage cel puțin una din privirile adoratei lui sunt zadarnice, cu atât ambiția îi muncea mal mult sufletul.</p>
+<p>Și fiind că era un om ordinar, se încercă în mai multe rânduri a o face să i se supună prin forță, cu toate că acest lucru se vede petrecendu-se și pe la cei nobili.</p>
+<p>Cu Vasilca însă nu era de glumit.</p>
+<p>Cănd ea nu iubea pe un om, apoi zadarnice i-ar fi fost toate silințele.</p>
+<p>Și tot în zadar se încercă și omul nostru într-o seară ca să încingă cu brațele lui cele mult încercate, talia frumoasei femei.</p>
+<p>Vasilca pe cât era de frumoasă, pe atât și de robustă.</p>
+<p>Și când se vezu amenințată de nesuferitul ei adorator, se repezi de lângă el cu forța unei leoaice, puse mâna pe drugul cu care închidea ușa și dacă îndrăgostitul Vasile nu ar fi scăpat cu fuga, nu se știe câte zile ar fi trebuit să-și mănânce amarul prin spitale.</p>
+<p>Iată în scurt pentru ce Vasile avea ne-</p>
+<p>caz pe Vasilca. El o ura de moarte și cu toate astea o iubea, sau mai bine zis voia să fie a lui și acesta pentru că nu putea suferi să fie a altuia.</p>
+<p>— Și pentru ce să nu vorbesc ? îl opri Niculae indignat de tonul arogant cu care porunci ibovnicei lui.</p>
+<p>—Pentru ce? pentru că așa voiesc eu.</p>
+<p>— Vasile! . . . pronuță comeseanul său.</p>
+<p>— Niculae ! ... îi răspunse acesta batjocoritor.</p>
+<p>Și amândoi se sculară în picioare,</p>
+<p>Băiatul din prăvălie, care dormea lângă tejghea, auzind zgomot se trezi și veni la masa lor.</p>
+<p>— Ei D-lor, v-ați îmbătat? le zise el.</p>
+<p>Cei doi rivali se priviră lung față în față și se așezară apoi pe scaunele lor, 1</p>
+<p>Trecu iute certa și Vasile cu Niculae ciocniră din nou paharele.</p>
+<p>Nu trecu mult și beția veni să le amețescă capul.</p>
+<p>Amândoi aveau parale, acesta făcu ca sticlele să se golescă iute una după alta.</p>
+<p>Și ce bun li se părea vinul băutorilor noștri, mai cu seamă că între el se afla o femeie ! căci drept vorbind, blagosovitul vin avu puterea ca să pună și în sufletul lui Vasile veșnică și nesațioasa speranță.</p>
+<p>Ceasul de la perete cântă de două ori „cucu”, erau ore dupe miezul nopții.</p>
+<p>Băiatul din cârciumă îi vesti ca să plece, deoarece ora e înaintată si i-e temă să nu-i facă comisarul proces verbal-</p>
+<p>Bețivii murmurară puțin, apoi se supuseră. </p>
+<p>Ieșiră în stradă.</p>
+<p>Un vânt de primăvară sufla puțin cam iute.</p>
+<p>El contribui ca să răcorescă frunțile asudate ale celor trei persoane.</p>
+<p>— Vasile, trage-te încoace, zise Niculae companionului său.</p>
+<p>— Vasile i se supuse, Vasilca rămase cățiva pași mai îndărăt.</p>
+<p>Ii veni poftă să fluiere și fluiera.</p>
+<p>— Ce ai să-mi spui Niculae? îi șopti acesta misterios la ureche. E vorba să furăm ceva ?</p>
+<p>— Nu.</p>
+<p>— Să batem pe cineva ?</p>
+<p>— Nu.</p>
+<p>— Să dormim undeva câteși trei ?</p>
+<p>— Nu.</p>
+<p>— Atunci poate să omorâm pe cineva, să vedem dacă iese ceva, .... și omul scurt făcu din mâini câteva mișcări gimnastice.</p>
+<p>— Ascultă, e vorba Vasile ca să . . .</p>
+<p>— Am înțeles : să strângem pe vreun bancheer de gât.</p>
+<p>— Să facem ca până în trei zile . .</p>
+<p>— A ha! am priceput, întrerupse nerăbdător Vasile, spune însă, te ascult.</p>
+<p>Niculae luă între mâini capul lui Vasile și îi șopti la ureche cam vreo trei minute.</p>
+<p>Vasilca încetase de-a mai fluiera.</p>
+<p>Cei doi tovarăși se înțeleseră. Femeia luă brațul lui Niculae și se sprijini de umărul lui. Deși observase șoaptele ce se urmase în secret de ea și deși era femeie, totuși nu se interesă ca să afle. Ea nu se amesteca în politica externă a tovarășilor săi.</p>
+<p>Se opriră la ușa unei case mici.</p>
+<p>— Vasile, să nu uiți ca să ne întâlnim mâine, pentru a vorbi în privința afacerii noastre.</p>
+<p>— Fii sigur, îi răspunse el uitându-se cu ochi râvnitori la Vasilca, de care trebuia să se despartă.</p>
+<p>— Noapte bună, îi mai zise Niculae.</p>
+<p>— Noaptă bună, murmură și Vasilca somnoroasă.</p>
+<p>Cei doi dispărură în odaia întunecoasă. Niculae o sărută înainte de-a aprinde lamba.</p>
+<p>Vasile urmă strada înainte cugetând la frumoasa Vasilca și murmurând:</p>
+<p>— N-ar fi rău, cu toate astea. . . mâine ne vom întâlni negreșit cu el. Sunt curios să-i știu planul.</p>
+<p>Și făcu din nou mișcări gimnastice din mână.</p>
+<p>Luna se ascunse în dosul unor nori, care acoperiră fața cerului. O ploaie măruntă și deasă începu să cadă. Vasile își îndesă mai mult pălăria în cap, băgă mâinile în buzunar, coti la drepta și dispăru în fundul unei strade întunecose.</p>
+<p>Vom urmări de aproape pe acest om.</p>
+<p>VISUL MARIEI POPOVICI.</p>
+<p>Ziua de 10 Mai trecu în sunetul muzicilor, în zgomotul cel mai mare.</p>
+<p>Străzile erau pline de stindarde tricolore.</p>
+<p>Seara tot Bucureștiul era iluminat. Ți se părea că au luat străzile foc.</p>
+<p>Uzina de gaz a câștigat mult, Primăria a cheltuit mult și mulți au știut să pună mult la buzunar.</p>
+<p>Lumea îndesată rătăcea prin toate părțile.</p>
+<p>Unii se minunau, pe când alții se mirau.</p>
+<p>La șosea se dădeau artificii.</p>
+<p>S-au găsit persoane care zicea că asemenea fleacuri sunt bune pentru copil, iar nu pentru oameni în toată firea.</p>
+<p>Pungașii de asemenea nu pierdură favorabila ocazie de-a revizui buzunarele particolarilor. Adică, la momente bine nimerite, nici agenți civili nu refuzau norocul, când mâna lor putea aluneca pe nevezute în vreun buzunar sunător.</p>
+<p>Ziua de 10 Mai a fost frumosaa din toate</p>
+<p>punctele de vedere. Au fost și mume care și-au pierdut copii.</p>
+<p>Numai un țăran stătea deoparte, lângă un pom de la intrarea în șosea.</p>
+<p>Privea la torentul de lume care se balansa în fața lui.</p>
+<p>Părea a zice:</p>
+<p>„Câți oameni nu sunt în lume care nu au nici ce mânca, și câți nebuni nu se găsesc care aruncă banii în vânt“</p>
+<p>Oricum însă ziua de 10 Mai era frumoasă și mai bine zis, era zgomotoasă.</p>
+<p>Maria Popovici! se gândea la acestă zi in seara de 11 Mai.</p>
+<p>Multe lucruri rătăceau prin mintea sa.</p>
+<p>Încetul cu încetul însă, trecutul pieri în fața viitorului.</p>
+<p>Zgomotul din 10 Mai dispăru și cugetând la o viață liniștită și frumosă, adormi pronunțând: Dumitrescu.</p>
+<p>Î1 iubea sărmana femeie.</p>
+<p>În casele de la No. 16 din strada Sorelui era tăcere. Niciun zgomot nu tulbura somnul Măriei Popovici.</p>
+<p>Numai razele lunii, străbătând prin geamuri luminau gingașa-i față.</p>
+<p>Pe la ceasurile 12 însă, ea avu un vis grozav.</p>
+<p>I se părea că se află într-un palat cu pereți de sticlă. Prin toate părțile vedea zburând păsări care nu semănau a fi de pe lumea aceasta.</p>
+<p>Sala ce locuia era spațioasă, dar afară de scheletele, care se plimbau prin interiorul sălii îndeplinind funcțiunea de servitori, nici o suflare omenescă nu se vedea.</p>
+<p>Maria părea a fi stăpâna, asestor locuri neînuflețite.</p>
+<p>Numai pașii ei se auzeau resunând în marele palat de sticlă, căci scheletele umblau astfel încat nu lăsau nici un zgomot în urma lor.</p>
+<p>Și cu toate astea nimic nu impresiona pe frumosa femeie. I se părea ceva obișnuit.</p>
+<p>Câteodată, voia parcă să dea ordine, dar întotdeauna cuvintele înghețau pe buzele sale.</p>
+<p>Nu avea putere ca să vorbească.</p>
+<p>Era un vis straniu!</p>
+<p>Deodată ea distinse o melodie jalnica, care răsuna până la urechile sale.</p>
+<p>Melodia se auzea din ce în ce mai tare, până ce tot palatul începu să răsune.</p>
+<p>Maria Popovici asculta cu atenție, sufletul el părea că se înalță, că se mărește din ce în ce mai mult.</p>
+<p>Erau niște accente îngerești, un acord divin, care făcea ca însuși scheletele să rămână ascultătoare.</p>
+<p>Și tocmai acum simți sărmana femeie că e singură, că în jurul ei nu e nimeni din cunoscuții săi.</p>
+<p>Era un contrast ciudat între mâhnirea, care deja începuse să-i brăsdeze sufletul; și între acel balsam de mângâiere, ce muzica îl revărsa.</p>
+<p>O astfel de muzică, ea nu mai auzise.</p>
+<p>Ea rămase în estas, când ușa de sticlă a marelui palat deschizându-se, o copilă intră înăuntru.</p>
+<p>Maria își recunosu fiica. O luă în brațe, o mângâie, o săruta, voi să-i vorbească,</p>
+<p>Nu putu.</p>
+<p>— Mamă ! îi zise mica copilă ; mamă! pentru ce m-ai părăsit?</p>
+<p>Și copila plângea. Lacrimi se văzură strălucind în ochii Măriei.</p>
+<p>— Da mamă, continuă copila, tu m-ai părăsit, și eu am suferit mult din acăstă cauză. Ori de căte ori ine gândeam la tine nu puteam să nu plâng! Toate fetele mă întrebau dacă nu am mamă, și eu tăceam, nu știam ce să le răspund. Îmi era așa de urât! toată lumea mi se părea străină pentru mine! Oriunde ne duceam, în orice parte ne uitam, priviri așa dulci ca ale tale, eu n-am putut să mai întâlnesc ! O mamă! vino, vino cu mine, să părăsim acest palat, răceala de aici mă înfiora!</p>
+<p>— Dar cum ? cum ai putut străbate până aici ? voia a-i zice Maria.</p>
+<p>Copila ei înțelegea totul.</p>
+<p>— M-am luat după o păsărică, care mă aduse până în acest loc, îl răspunse. Când am voit să deschid ușa ca să intru înăuntru, o mână nevăzută mă opri pe loc. Voi să intru, să-mi văd mama; am răspuns nevăzutului. Mâna se retrase și numaidecât apăru o altă mână. Printre degete ținea o carte negră. Pe ea scria:</p>
+<p>„Ai voie un ceas.”</p>
+<p>Ah! mamă, să plecăm mai curând, să plecăm, timpul trece și mi-e frică să nu văd acea mâna apropiindu-se de mine și împingându-mă afară.</p>
+<p>Abia termină aceste cuvinte și un sunet surd răsună sub temeliile palatului de sticlă</p>
+<p>Se distinseră apoi următorele voci:</p> 
+<p>întâia voce:</p>
+<p>„De la Nord”</p>
+<p>a doua voce:</p>
+<p>„Să iasă foc și pară”: </p>
+<p>a treia voce:</p>
+<p>„Nimic să nu rămână”</p>
+<p>I voce:</p>
+<p>„Să-i topim cărmurile în cazanul cu plumb clocotit”</p>
+<p>II voce:</p>
+<p>„Să-i aruncăm oasele în cuptorul tartarului”</p>
+<p>III voce:</p>
+<p>„Să suspine iadul”</p>
+<p>„Ieșiți”</p>
+<p>„Ieșiți”</p>
+<p>„Ieșiți”</p>
+<p>Duruitura deveni și mai mare, palatul se cutremură de un sunet de lugubru.</p>
+<p>Copila rămase împetrită, — care îi fu însă spaima, când vezi că sala se umple de mii de duhuri. </p>
+<p>Tăcerea reveni din nou.</p>
+<p>Atunci trei schelete apărură în jurul Mariei Popovici.</p>
+<p>Ele întinseră deșiratele lor brațe peste capul încremenitei femei</p>
+<p>Maria căzu la pământ.</p>
+<p>O cupă apăru. </p>
+<p>Unul din schelete luă lichidul ce conținea cupa și o stropi.</p>
+<p>Hainele Mariei i se prefăcură numai decât în cenușă.</p>
+<p>Scheletele se învârtiră de vreo trei ori în jurul femeii.</p>
+<p>Copila puse mâna la ochi pentru a nu vedea înfiorătorul spectacol.</p>
+<p>După 10 minute Maria era goală și carnea de pe dânsa putredă.</p>
+<p>Scheletele înfipseră osdsele lor unghii în corpul nemișcatei femei.</p>
+<p>Cărnurile putreficate cădeau cu ușurință.</p>
+<p>Ele se aruncau într-un cazan cu plumb topit.</p>
+<p>Maria gemea, coastele începură a i se vedea și din apropiere se zărea inima bătând.</p>
+<p>Dar deodată apărură încă alte trei schelete mici, de înălțimea unui metru.</p>
+<p>Ele înconjurară pe copilă.</p>
+<p>Maria pricepu că se va face aceeași operațiune și asupra fiicei sale.</p>
+<p>Ea o văzu căzând la pământ și pe unul din schelete suflând asupra ei.</p>
+<p>Duhorea ce ieșea din ososul piept era așa de grea, încât nici trei minute nu ar fi putut-o cineva respira. </p>
+<p>Puțin încă și copila trebuia să fie asfixiată.</p>
+<p>Ea întinse brațele către muma sa voind </p>
+<p>parcă să ceară ajutor.</p>
+<p>Deja însă carnea, de pe brațele ei, putrezind începu să cadă jos.</p>
+<p>— Copila mea!! strigă Maria, nemaiputând să-șî înece durerea.</p>
+<p>Și se trezi.</p>
+<p>In odaie era întuneric și înaintea sa părea că vede încă acel cazan cu plumb topit în care se puneau să fiarbă cărnurile ei putrezite.</p>
+<p>Părea că aude încă acele voci :</p>
+<p>„Ieșiți“</p>
+<p>„Ieșiți“</p>
+<p>„Ieșiți“</p>
+<p>Se sculă, aprinse lumânarea, deschise gemul dinspre stradă și scoase capul afară, pentru a mai respira puțin aer.</p>
+<p>Începea să se lumineze de ziuă. Agonia somnului ținu aproape trei ore.</p>
+<p>Mii de gânduri ratăceau prin mintea sărmanei femei.</p>
+<p>Nu voi să se mai culce. Visul o înspăimânta.</p>
+<p>Ar fi dorit să nu mai doarmă un secol pentru a nu mai vedea niciodată visul din astă noapte..................</p>
+<p>Vântul bătea cam rece. Maria se retrase lângă o masă. Lua o carte și începu să citească :</p>
+<p>„Omul e o picătură de rouă care se pierde îndată ce binefăcătoarea rază vine s-o sărute. Ferice de omul care murind, lasă în urma sa copii ce îl reprezintă și în al căror suflet se contractă sufletul acelui ce dispare“.</p>
+<p>Maria închise cartea. Ea rămase gănditoare. Din ochii ei porni un râu de lacrimi.</p>
+</div>
+<div type="chapter" n="2">
+<p>CAPITOLUL II</p>
+<p>ASASINAREA MARIEI POPOVICI </p>
+<p>VIOLAREA</p>
+<p>Cerem scuze lectorilor noștri, dacă din cauza multelor personaje, suntem nevoiți a încuonjura înfiorătorea secuțiune a crimei.</p>
+<p>Trebuie să facem însă acesta, pentru a putea intra dreptat în faptul odios din ziuaa de 12 Mai și pentru a introduce lucrurile astfel, încât să putem fi înțeleși de toți.</p>
+<p>Este anul 18 . . .</p>
+<p>In strada Trayan, într-o casă mică, locuia un tânăr fost altădată funcționar la un minister.</p>
+<p>El avea ca la 28 ani. Era nebunatic, de un temperament viu și nu puține bătăi a comis în furtunosa lui viață.</p>
+<p>Se zice că chiar din cauza conduitei sale a fost destituit din postul ce ocupa.</p>
+<p>Era într-adevăr inteligent, dar din cauza educației ce i se făcuse, acestă inteligență porni pe drumul cel fatal, astfel că ea nu folosea de căt pentru a înlesni comiterea relelor.</p>
+<p>Acest tânăr se numea Constantin.</p>
+<p>Era înalt, bine făcut și fața lui era brăzdată de una din acele frumuseți bărbătești și particulară numai la unii oameni.</p>
+<p>De felul său era foarte vesel și întotdeauna glumeț.</p>
+<p>În timpul însă în care îl întâlnim noi, sărăcia îl cam schimbase puțin.</p>
+<p>Trăia într-o mizerie completă, totuși se mai hrănea dintr-o speranță, care îl asigura că în curând va fi bogat.</p>
+<p>Era pe la sfârșitul lunii lui octombrie.</p>
+<p>Într-una din zile trecând din întâmplare pe strada Popa Tatu, văzu la ferestra unei case o copilă tânără și frumosă.</p>
+<p>Sărăcia nu-l opri de-a o iubi.</p>
+<p>Se informă numai decât și află că copila e orfană, că nu are decât numai o mumă bătrână și o zestre de 2.000 lei.</p>
+<p>Întrebând dacă nu cumva e în tratație de căsătorie cu cineva, i se răspunse negativ, deoarece Amelia (astfel se numea dânsa) nu avea decât 13 spre 14 ani.</p>
+<p>Constantin trecu o noapte neliniștită.</p>
+<p>Frumusețea Ameliei, cea 13-14 ani și le done mii de lei îi fermecau sufletul.</p>
+<p>Dormi foarte puțin și când se sculă dimineață, fruntea îi era obosită.</p>
+<p>— Mii de draci! exclamă Constantin aprinzându-și o țigară ; acea copilă trebuie să fie a mea.</p>
+<p>El avea un prieten și chiar în acea zi căută să-l întâlnească. Se numea Gheorghe. </p>
+<p> Către seară îl vedem vorbind cu el în grădina de la episcopie.</p>
+<p>— Constantine, dar mi-e frig și nu o să putem discuta planul tău, îl zicea Gheorghe cu un aer deghizat.</p>
+<p>El credea că prietenul său avea ceva parale și voia să-i ceară vreun acont, pentru misiunea cu care se obliga.</p>
+<p>Constantin însă nu-l lăsă mult la îndoială.</p>
+<p>El îl făcu să înțeleagă că tocmai după reușită va fi bine răsplătit.</p>
+<p>Cu toate astea Gheorghe avea dreptate.</p>
+<p>— Era prea mare frigul, zăpada cădea în cantitate prea mare și acesta nu le-ar fi permis ca să vorbescă.</p>
+<p>Intrară într-o cafenea și porunciră a li se aduce câte un ceai cu rom.</p>
+<p>Îl băură cam repede, căci acest ceai le servea și pentru fbme.</p>
+<p>— Ei bine Gheorghe, să vedem, zise Constantin uitându-se în jurul său, spre a se convinge dacă nu-i aude nimeni; nu ar fi o idee nimerită ca să iau în căsătorie pe acea copilă ?</p>
+<p>— Ar fi nimerită, mai cu seamă că are și două mii de lei.</p>
+<p>— Și în criza în care ne aflăm astăzi, acești două mii de lei, echivalează cu două mii de napoleoni.</p>
+<p>— Dar bine, mai întrebă Gheorghe ; după ce banii vor fi cheltuiți, ce vei face cu nevasta ta ?</p>
+<p>— Aici mă gândesc și eu.</p>
+<p>Amândoi rămaseră câteva minute gânditori, când Constantin întrerupse tăcerea cu următoarele cuvinte:</p>
+<p>— Mi-a venit o idee.</p>
+<p>— S-o vedem, zise curios prietenul său.</p>
+<p>— Să nu mă cunun cu frumosa Amelia.</p>
+<p>— Dar atunci nu vei putea reuși în dobândirea ei și a banilor.</p>
+<p>— Dacă vei voi să mă ajuți, am speranță că voi reuși.</p>
+<p>— Din partea mea al tot concursul, să vedem însă.</p>
+<p>- Tu ai o țiitore, nu știu, mai trăiești cu dânsa ?</p>
+<p>(Va urma)</p>
+<p>Toate drepturile rezervate autorului.</p>
+<p>(urmare)</p>
+<p>— Desigur.</p>
+<p>— Si ea te iubește ?</p>
+<p>— Poți să-ți închipui singur dacă o femeie iubește pe un bărbat, când ea este aceea care îl susține.</p>
+<p>— Fă atunci posibilul ca mâine se vină la mine; numai dânsa poate să ne ajute în planul nostru.</p>
+<p>— Voi face-o să vină.</p>
+<p>— Nu uita de asemenea să-i spui ca să mă asculte la tot ce voi ruga-o.</p>
+<p>— Casandra întotdeauna e supusă poruncilor mele</p>
+<p>— Atunci Gheorghe, tu ești fericit cu o astfel de femeie.</p>
+<p>— Ce vrei, tot omul trebuie să trăiască. Casandra e o femeie nebunatică. Îi plac copilăriile, cu toate că are mai bine ca 45 ani. Eu știu s-o mulțumesc și ea, la rândul el, știe să mi se supună.</p>
+<p>Încă o dată te rog, bunul meu prieten, nu uita s-o trimiți mâine la mine.</p>
+<p>—Fii sigur.</p>
+<p>Amândoi se sculară să plece.</p>
+<p>— Constantine, plătește ceaiurile, căci eu nu am parale.</p>
+<p>— Vezi, același lucru mi se întâmplă și mie.</p>
+<p>— Atunci . . .</p>
+<p>— Ia-ți pălăria și vino dupe mine.</p>
+<p>Cafeneaua era plină de oameni. Mușterii noștri se strecurară fără a fi bănuiți; ieșiră în curte, trecură gangul și dădură în stradă.</p>
+<p>— Mâine să fii acasă, zise Gheorghe lui Constantin în momentul când trebuiau să se despartă. Voi conduce eu singur pe Casandra până la tine.</p>
+<p>— Voi aștepta-o.</p>
+<p>Constantin dormi o noapte liniștită. El se sculă de dimineață, se îmbrăcă și nerăbdător aștepta sosirea femeii, care putea să-l facă fericit.</p>
+<p>Un lucru își propuse el. Trebuia să facă pe Casandra a crede că el iubește pe Amelia și că numai pentru acesta veste s-o ia.</p>
+<p>Ș-apoi în definiv nu o iubea el oare ?</p>
+<p>Un răspuns mai exact, ar fi cel negativ.</p>
+<p>În adevăr, ceea ce simțea în pieptul său era o pasiune brută, iar nicidecum un amor curat. •</p>
+<p>Iubea pe Amelia pentru că era frumoasă, era tânără, căci nu avea nici 14 ani, și pentru că acesta excita mult simțurile sale.</p>
+<p>Ș-apoi cum putea să fie altfel, când nu văzuse pe Amelia decât o singură dată?</p>
+<p>Amorul, poate fi el altceva decât întipărirea ce se face în mintea omului ? și poate lua el naștere, decât din suvenirele care veșnic lovesc sufletul?</p>
+<p>Amorul lui Constantin însă nu purcedea decât de la o idee fixă, care lovea simțirile sale.</p>
+<p>Cugeta încă, când o lovitură ușoară se auzea la ușă.</p>
+<p>—Intră! zise Constantin. </p>
+<p>Ușa se deschise și Casandra apăru.</p>
+<p>Ea era o femeie mai mult bătrână. Fața îi era aproape vestejită și pe ea se vedeau încrețituri provenite din cauza adresurilor.</p>
+<p>Pusese femeiușcă în vremea ei.</p>
+<p>— Mă rog, D-vostră , sunteți D-l Constantin ? întrebă ea. surprinsă la vederea unui tânăr atât de frumos.</p>
+<p>— Da doamna mea, sunt eu, îi răspunse Constantin cu o blăndețe prefăcută.</p>
+<p>„Trebuie s-o lingușescă”; își zise el în sine și o invită să șadă.</p>
+<p>Privirile, gesturile lui Constantin făcură pe zvăpăiata femeie să-și piardă puțin cumpătul.</p>
+<p>— Nu știu dacă cunoșteți cauza pentru care am venit, îi zise ea lâsănd ochii în jos.</p>
+<p>Gestul acesta era cu totul străin și de cauza care o făcea să vie la Constantin și de etatea ei mai mult înaintată.</p>
+<p>Constantin înțelese cu cine are a face și înțelese că interesul lui era s-o lingușească.</p>
+<p>— Da, frumosa mea Doamnă, prietenul meu Gheorghe v-a rugat să veniți până la mine. Ați fost bună și l-ați ascultat. Rămâne acum ca eu să fiu atât de îndrăzneț încăt să vă pot mărturisi . . .</p>
+<p>Vă ascult domnule, răspunse Casandra cu o voce pițigăiată.</p>
+<p>— În strada Popa Tatu, continuă Constantin ; locuiește o femeie bătrână care are o fată numita Amelia .</p>
+<p>— Amelia! pronunță Casandra cu o voce repede.</p>
+<p>— Da, ce o cunoști ?</p>
+<p>— Dacă o cunosc, dar acestă fată e rudă cu mine!</p>
+<p>—Rudă ! exclamă Constantin.</p>
+<p>— Scumpa mea Doamnă, îi zise el luân-du-i mâna în mâinile sale; mă lași a crede că voi fi ajutată de D-ta ?</p>
+<p>Casandra simți un fior care străbatu prin tot corpul ei.</p>
+<p>—Vorbește domnule, îl zise ea, nu cred că se va găsi femeie care să vă refuze vreo cerere.</p>
+<p>Constantin îngenuchie înaintea ei.</p>
+<p>—O iubesc ! Zise el; o iubesc cum un orb iubește lumina ochilor ! De când am văzut-o, numele de Amelia e pentru mine mai scump decât numele maicii mele. În tot minutul și în tot locul o văd înaintea mea! Rătăcitorul surâs de pe buzele ei stă veșnic în privirile mele ! O doamnă, numai d-ta poți șterge dorul care a străbătut cu atâta putere inima mea! fii bună și nu mă refuza.</p>
+<p>Aceste cuvinte, accentul cu care ele erau pronunțate, tulbura mult sufletul Casandrei.</p>
+<p>Ea îl luă de mână, îl ridică sus și îl apropie mult de pieptul său.</p>
+<p>Ce nu ar fi dat Casandra pentru a fi tânără și pentru a atrage privirile lui Constantin.</p>
+<p>Cu toate astea, fermecătorul ei sta drept în piciore, o privea în ochi, voind să citească în ea, dacă în adevăr a dat peste o femeie care știe să se devoteze și să bravede cu curaj toate piedicile ce li s-ar pune înaintea lor.</p>
+<p>El știa pe Casandra o femeie sâracă și-și închipuia că dându-i 2 sau 3 sute lei, ea îl va servi cu stăruință în planul său.</p>
+<p>Se înșăla.</p>
+<p>De la prima vedere, amorul zbârnâise în bătrâna inimă a Casandrei. Fața lui i se păru plină de farmece, ochii lui parcă aveau focul din soare, glasul lui era dulce și când auzi vorbindu-se de o femeie, când Constantin spuse dorul ce simte pentru Amelia, gelozia străbătu inima Casandrei și în momentele ei de furie își propuse sa omoare pe mica ei nepoată.</p>
+<p>—Ei bine Doamnă, continuă tânărul ; cererea ce voiesc să-ți fac este a-mi duce o scrisoare până la dânsa. Nu voiesc să știe nimic muma ei, până nu mă voi încredința că mă iubește. D-ta ca rudă îi poți vorbi, mă poți recomanda, și dacă va voi să mă vadă, vei aranja singură o întrevedere. Oh ! scumpa mea Doamnă, termină el luând măna ei în mâinele sale; nu mă refuza.</p>
+<p>Se duse apoi până la masă, trase sertarul, luă de acolo o scrisore pregătită pentru Amelia și dându-o Casandrei îi zise :</p>
+<p>—E pentru Amelia, de la răspunsul ei atârnă viața mea. Uite, veezi Doamnă, sunt sărac și cu toate astea, dacă Amelia are vreo dotă, ți-o dăruiesc d-tale.</p>
+<p>Constantin credea că prin asemenea promisiuni va reuși mai curând. Credea de asemenea că arătându-se cu o iubire adevărată și sinceră către Amelia, va putea decide mai curând pe Casandra, ca să stăruiască pentru el pe lângă frumosa copilă.</p>
+<p>Care îl fu însă mirarea când văzu pe Casandra luându-i scrisorea din mână și prefăcându-o iute în mii de bucăți!</p>
+<p>El rămase încremenit. Cffsandra îl privea și ochii ei fulgerau.</p>
+<p>—Mă iartă... murmură Constantin încurcat.</p>
+<p>Fel de fel de idei îi trecură prin minte, crezu că poate a insultat pe Casandra prin misiunea cu care o însărcina, sau poate că ea ca rudă nu voiește să consimtă la o astfel de însoțire.</p>
+<p>Îi părea rău de modul cum a procedat.</p>
+<p>Trebuia mai întâi să sondeze pe Casandra, trebuia să se convingă de ea.</p>
+<p>Nu putu să mai înțelegă însă nimic, când văzu Pe Casandra ca deodată izbucnește în lacrimi.</p>
+<p>Ea puse mâna la ochi și plângea ca un copil.</p>
+<p>—Pentru numele lui D-zeu Doamnă, ce aveți ? îl zise ei nemaiștiind ce să creadă și cum să-și explice această încurcătură.</p>
+<p>—Domnule, atât avu putere ca să răspundă și căzu pe pat în prada unul leșin.</p>
+<p>Fost-a un leșin adevărat sau prefăcut, nu putem ști, putem asigura însă pe orișicine, că în aceste minute Constantin își pierdu capul.</p>
+<p>—Dar Doamnă! ce aveți, sunteți bolnavă, nu vă simțiți bine, hei! Doamnă!.... îl zicea el clătinând-o și stropindu-o cu apă.</p>
+<p>Niciun răspuns, cu ochii închiși, cu corpul nemișcat, cu însuși respirarea mai slabă, părea a fi împrietenită cu mortea.</p>
+<p>—Ce înseamnă asta! se întrebă Constantin singur, scuipând de necaz.</p>
+<p>—De n-ar muri, își mai zicea el; atât îmi trebuie.</p>
+<p>Și iarăși se apropie de dânsa, o clătină și-i deschise un ochi cu degetele voind să se convingă dacă nu-l apropie de ducă.</p>
+<p>Dar pe când el se uita în ochiul ei mal mult roșu și pe când spaima îi împetrea carnea de pe el; Casandra întinse brațele sale, apucă pe Constantin de gât, îl lipi de ea și-l umplu de sărutări.</p>
+<p>—E nebună ! își zise acum el cu destulă convingere.</p>
+<p>Două săptămâni în urmă vedem pe Casandra intrând la nepoata sa din str. Popa Tatu.</p>
+<p>Era pe la amurgul serii.</p>
+<p>Mama Ameliel lipsea de acasă.</p>
+<p>Casandra avea un aer misterios pe fața sa, și când deschise ușa ca să intre înăuntru, aruncă o privire înspăimântătoare în jurul el, voia să știe dacă nu-i urmărită, văzută chiar de cineva.</p>
+<p>Amelia era singură, ea stătea lângă o masă, într-o odaie din fund și citea aceste rânduri din copia unei scrisori, pe care o expediase de cu vreme ;</p>
+<p>„Domnule Constantin”</p>
+<p>„Am citit scrisorea dumitale, nu te cunosc, nu te-am văzut niciodată și nici nu știu ce vrei să-mi spui. Te-am ascultat cu toate astea și nu am spus nimic mamei, îmi spui că voiești să ne vezi și că ai a-mi face o rugăminte de la care atârnă viața d-tale. Nu știu cu ce te-aș putea servi și nu știu ce putere aș avea eu, pentru a-ți putea veni în ajutor. Vino cu toate astea domnule, în astă seară, vom fi singuri, căci muma mea pleacă pe la orele cinci la o amică a sa, care-i aproape să moară. Se va reîntoarce târziu. Te aștept, și dacă voi putea face ceva pentru d-ta, mă voi crede fericită.</p>
+<p>„AMELIA”</p>
+<p>Aceasta scrisoare pe care ea o trimisese lui Constantin, era tot atât de inocentă ca și inima ei</p>
+<p>De altminteri Constrantin știu cum să procedeze.</p>
+<p>Scrisorea ce-i trimisese el printr-o altă femeie, căci Casandra îl refuzase ori ce fel de serviciu, insistând numai în amorul ei; acea scrisoare era așa de bine compusă, încât Amelia, fără a bănui realitatea, fu cuprinsă de curiozitate.</p>
+<p>I se păru ceva romantic, a scăpa viața unui june. Se crezu prea mult mândră de puterea ce avea, dar pe care nu putea s-o înțeleagă.</p>
+<p>Ea rămase pe gânduri, când deodată se trezi de un zgomot ce auzi în sală.</p>
+<p>Erau niște pași.</p>
+<p>Inima Ameliei începu să bată cu mai multă putere.</p>
+<p>Credea că e Constantin, era emoționată și cu toate astea nu știa de ce.</p>
+<p>Pentru întâia dată trebuia să fie față în față cu un tânăr, pentru întâia dată, fără scierea mumei sale, ea trebuia să asculte rugăciunile unui necunoscut și cu toate că nu înțelegea nimic din intențiile lui Constantin ; totuși un simțiment natural o făcea să fie emoționată, să cadă o lacrimă din ochii ei.</p>
+<p>Ușa se deschise, dar spre marea mirare a Ameliei, nu era Constantin acel ce intra, ci Casandra, mătușa ei.</p>
+<p>Îi păru bine.</p>
+<p>Simțise atâta zbuciumare în pieptul său,</p>
+<p>încât ar fi dorit ca niciodată să nu mai vadă pe acel Constantin.</p>
+<p>— Buna mea mătușa, îi zise copila aruncându-se în brațele ei.</p>
+<p>Viu pentru cea din urmă dată la tine.</p>
+<p>— Nu te înțeleg mătușă, îi răspunse Amelia puțin speriată.</p>
+<p>Casandra se puse pe pat și privind pe Amelia în ochi îi făcu acestă mărturisire :</p>
+<p>— Copila mea, e un tânăr care te iubește, nu-l cunoști și nici nu-l vei cunoaște. Tot pe acel tânăr îl iubesc și eu. M-am încercat în zadar ca să pot împiedica amorul ce-ți păstrează ție.</p>
+<p>„Am căutat în nenumărate feluri ca să-l pot uita, ca să nu me mal întâlnesc cu el, dar peste putință. Il iubesc Amelio, tu nu înțelegi încă puterea acestui cuvânt: iubesc.</p>
+<p>— O mătușica, înțeleg ca ești nenorocită și mă voi ruga lui D-zeu pentru tine.</p>
+<p>Ochii Casandrel scănteiară.</p>
+<p>— Nu, pronunță ea cu o voce detunătoare ; rugăciunile ce vei adresa lui d-zeu, nu-mi vor folosi nimic. Tu singură ești cauza nenorocirii și numai tu mă poți scăpa.</p>
+<p>— Ce pot să fac atunci mătușica ? spune-mi și te voi asculta la orișice.</p>
+<p>— Nimic alta decât să te hotărăști la N morte.</p>
+<p>Copila se înspăimântă. Nu știa dacă a auzit bine acest din urmă cuvânt al mătușii sale. </p>
+<p>— Da, trebuie să mori,continuă ea ; căci numai astfel voi putea câștiga iubirea lui.</p>
+<p>Amelia începu să plângă;</p>
+<p>—Oh ! exclamă Casandra, lacrimile tale îmi sfâșie de două ori inima; Dacă mi-ar fi cerut cineva viața mea, pentru a scăpa pe a ta aș fi jertfit-o fără ca să murmur și cu toate astea în fața acestui amor care mă muncește, simt destulă putere ca să te omor! M-am gândit în mai multe rânduri să-mi scurtez zilele, pentru a înlătura crima mea, dar n-am putut. Il iubesc așa de mult, sunt atât de geloasă, încât hotărârea de a muri îmi piere și mi se pare că trăind-o^i» o singură și numai cu el, voi simți dulceața unei vieți fără margini. Haide Amelio, hotărește-te și lasă-mă să te sărut.</p>
+<p>Copila plângea.</p>
+<p>Casandra scoase un cuțit cu două tăișuri, își sărută nepoata și o trânti pe pat.</p>
+<p>Nicio împotrivire din partea ei. Tremuârând din tot corpul, ea închise ochii pentru a nu vedea fierul care sclipea înaintea ei.</p>
+<p>Și ce putea să facă o copilă slabă ca dânsa ?</p>
+<p>Hotărârea Casandrei era nestrămutată și nimeni, nimeni nu era care să vină în ajutorul nenorocitei victime.</p>
+<p>— Mamă . . . mamă . . . murmură sărmana Amelie.</p>
+<p>— Vocea ei însă era surdă și suspinele copilei răsunau trist in singuratica odaie.</p>
+<p>Neînduplecata femeie ținti cuțitul în partea stângă a pieptului; voia să-i străpungă inima, pentru a-i scurta agonia.</p>
+<p>Un minut și sângele nevinovat va stropi pereții odăii, un minut încă și acel corp frumos al Ameliei, va fi un cadavru rece.</p>
+<p>Casandra împinge cuțitul cu putere, vârful fierului îi strepunge hainele. Atunci Amelia scote un răcnet îngrozitor. Frica morții se desfășură în slabul ei suflet.</p>
+<p>Inima Casandrel se înpietri. Un val roșu i se întinse înaintea ochilor.</p>
+<p>— Haide, trebue să mori! urlă ea .</p>
+<p>Nu avu însă timp ca fierul să străbată în nevinovatul piept și ușa deschizându-se Constantin apăru înăuntru.</p>
+<p>Spectacolul ce i se prezentă înaintea ochilor era înfiorător.</p>
+<p>El venea, după scrisoarea ce primise, ca să vorbescă cu Amelia, să-i destăinuiască amorul, venea cu sufletul plin de speranțe</p>
+<p>și ce văzu, când păși în odaia ei ?</p>
+<p>Pe Amelia întinsă pe pat și pe Casandra cu cuțitul îndreptat în pieptul tremurătoarei copile și odaia răsunând de surdele gemete ale aceleia ce-și vedea moartea cu ochii.</p>
+<p>—Iadule ! despică-te!... răcni Constantin când se văzu în fața acelei scene înfiorătore.</p>
+<p>El se repezi ca un leu asupra Casandrei, o apucă de spate și o trânti la pământ.</p>
+<p>Amelia se sculă, Constantin cu o putere supranaturală luă cuțitul care era să verse sângele copilei și-l înfipse cu putere în spatele Casandrei.</p>
+<p>Sângele îi înroși mâinile.</p>
+<p>Copila cuprinsă de spaimă, își puse mâinile la ochi, pentru a nu vedea infiorătorul spectacol.</p>
+<p>Când corpul femeieii rămase întins la pământ, Amelia căzu la piciorele lui Constantin zicându-i aceste cuvinte cu o voce plângătoare.</p>
+<p>—Domnule! cu ce îți pot mulțumi pentru viața pe care mi-ai scăpat-o ? Dar fugi domnule! fugi! Dacă te va găsi cineva aici, vei fi trecut drept un omorâtor! Vai! fugi ! fugi !</p>
+<p>—Nu, îi răspunse Constantin cu o voce fermă; nu te voi lăsa singură cu acest mizerabil cadavru, ș-apol vei putea să fii bănuită ! Nu, voi sta aici și voi mărturisi singur crima mea. Te-am iubit prea mult, și acum când am putut, printr-o minune ca să-ți scap viața, mă cred cel mai fericit dintre oameni. Oh ! Amelio !</p>
+<p>Și Constantin o rădică din genunchi, îi apropie fața de buzele sale și o sărută.</p>
+<p>—Piară de acum viața mea! esclamă el.</p>
+<p>Constantin simțea în aceste momente amorul cel mal curat pentru Amelia.</p>
+<p>Copila rămase nemișcată în brațele sale.</p>
+<p>ASASINAREA</p>
+<p>Este anul 1895.</p>
+<p>E Duminică, ziua de 12 Mai.</p>
+<p>In casele din str. Soarelui e tăcere.</p>
+<p>Pe stradă nu se vede niciun om.</p>
+<p>Sergentul de post dormea în vreun loc ascuns de vederile călduroase ale sorelui de primăvară.</p>
+<p>Doamna Maria Popovicî stătea în odaia ei și cânta la pian.</p>
+<p>Era o melodie tristă.</p>
+<p>Degetele ei rătăceau pe clapele pianului ca și gândurile, ca și dorul din inima frumoasei femei.</p>
+<p>Erau ceasurile trei după douăsprezece.</p>
+<p>Maria incetase de-a mai cânta.</p>
+<p>Visul din noptea trecută-i reveni în minte, spaima îi cuprinse inima și lacrimi calde picară din ochii ei.</p>
+<p>Plângea . . .</p>
+<p>De odată auzi o lovitură la ușa din afară.</p>
+<p>— Intră, zise femeia cu o voce dulce.</p>
+<p>(Va urma)</p>
+<p>Toate drepturile rezervate autorului</p>
+<p>(urmare)</p>
+<p>Un personaj apăru.</p>
+<p>—Vă salut, stimabilă doamna, îl zise cu o voce puțin emoționată.</p>
+<p>Maria Popovicî îl salută printr-un gest, în care se cuprindea o mirare vădită.</p>
+<p>Ea nu putea înțelege pe acest personaj, și ceva mai mult, nu putea înțelege pentru ce o salută.</p>
+<p>I se păru cam straniu.</p>
+<p>Simțea în inima ei un ce neexplicabil, care o făcea să aibă frică de acest om.</p>
+<p>Dar avea oare dreptate să se teamă de acela care o vizita ?</p>
+<p>Un raționament sănătos, ar fi putut-o constrânge ca să bănuiască ceva rău, pentru acela care stătea în fața ei ?</p>
+<p>Nu, orice om ar fi pronunțat acest nu.</p>
+<p>Și cu toate astea Maria Popovici păli, o frică neexplicată circula prin tot corpul ei și ar fi zis vizitatorul : Ieși! domnule, ieși!... dacă el nu ar fi înaintat înăuntru și dacă fără să-și mai ceară permisiune, nu s-ar fi așezat pe un scaun.</p>
+<p>—Ce voiești domnule ? întrebă Maria cu o voce încurcată.</p>
+<p>Ea nu bănuia pe vizitatorul ei pentru vreo crimă, nu putea să-i trecă vreun asemenea gând.</p>
+<p>După privirile lui însă, după acentul cu care vorbea, un alt gând voia să ghicescă frumoasa Marie, în gândurile omului, care o privea în față.</p>
+<p>El era tânăr, bine făcut, corpolent și se temea....</p>
+<p>I se părea că îl vede apropiindu-se de dânsa, i se părea că mâinile lui desfac sânu-i.... oroare.... era aspectul hidos ce se desfășura înaintea ochilor săi!</p>
+<p>Pierdută în nebuniile unei cugetări spontane, ea se trase iute înapoi, se uită cu</p>
+<p>groază în ochii aceluia care o privea, și cu o voce tare, detunătore îi zise :</p>
+<p>—Fugi domnule ! fugi !</p>
+<p>—Mario! îi răspunse el sculându-se în picioare ; ce înseamnă acesta ?</p>
+<p>—Domnule! exclamă ea pentru a doua oră ; domnule, te rog nu mă mai privi!</p>
+<p>—Dar bine doamnă, murmură criminalul căutând s-o liniștească, pentru întâia dată vă găsesc astfel.</p>
+<p>—Nu vă cunosc, domnule, îi respunse Maria tremurând din ce în ce mai mult.</p>
+<p>Criminalul zâmbi.</p>
+<p>Era un zâmbet sarcastic, crud și rece ca moartea.</p>
+<p>—Într-adevăr nu mă vei mai cunoște, își zise el în sine.</p>
+<p>Apoi se gândi.</p>
+<p>Trebue s-o liniștesc, treibuie să fiu cu multă precugetare.</p>
+<p>Ce voia el să facă ?</p>
+<p>Ce idee străbatea mintea lui ?</p>
+<p>De ce ochii lui începeau să se umple de sânge ?</p>
+<p>— Scumpa mea Doamnă, îi zise el luându-i măna în mâinile sale; pentru ce ești tristă, pentru ce acesta neliniște în sufletul dumitale ?</p>
+<p>Maria nu răspunse nimic.</p>
+<p>Ea începu să plângă.</p>
+<p>Sărmana femeie ! visul din noaptea trecută îi reveni din nou în minte, vedea scheletele plimbându-se înaintea sa și auzea parcă din nou acele voci:</p>
+<p>„ Ieșiți! “</p>
+<p>„ Ieșiți! “</p>
+<p>O ceață îi acoperi vederile, nu aștepta decât momentul în care carnea ei putrezită se va dezlipi de oase.</p>
+<p>Lacrimile îi curgeau în picături mari și</p>
+<p>printre ele vedea pe mica ei fiică tristă și rugătoare.</p>
+<p>Îi auzea vocea și distingea bine acel cuvânt :</p>
+<p>„ Mamă ! “</p>
+<p>Criminalul stete câteva minute gânditor, cu mâna ei în mâinile lui; — o privi apoi din nou și oricât de tiran era, oricât de mult inima lui era împetrită, nu putu opri o lacrimă, care plecă din ochii lui sângerați, spre a se lăsa încet în lungul obrazului.</p>
+<p>Ce se petrecea în aceste momente în inima călăului ?</p>
+<p>Ochii care privesc crima, cum mai pot scoate lacrimi ?</p>
+<p>— Mario! zise el femeii visătoare de lângă dânsul; Mario ! lacrimile tale îmi pătrund sufletul!</p>
+<p>Și cu aceste cuvinte, el se apropia și mai mult de dânsa ; își apropie buzele de fruntea ei și o sărută.</p>
+<p>Maria stete nemișcată. Ea nu mai simțea nimic.</p>
+<p>— Mi-e milă Doamnă, mi-e milă a vă vedea astfel și cu toate astea, continuă el ; trebue să vă omor.</p>
+<p>Vorbea adevărul.</p>
+<p>In aceste momente spiritului era în luptă cu materia.</p>
+<p>Binele se lovea cu răul și până la un punct, crima se întâlnea cu căința.</p>
+<p>Din ce în ce însă hotărârea nestrămutată, începea să-și ia locul în inima-i perversă.</p>
+<p>Raționamentele, frâmăntate atâta timp, discutate în atâtea rânduri; începeau să-l silească la săvârșirea faptului premeditat și ochii plini de sânge, numai sănge vedeau înaintea lor.</p>
+<p>— Nenorocit-o, îngână criminalul, ți-am spus că vei muri și trebuie să mori. Viața ta mă jenează, trăind tu, va trebui să fiu  sărac. A . . . dar sfârșească-se odată! . . .</p>
+<p>Tocmai acum înțelese Maria Popovici infernalul plan al aceluia care între mâinile sale, ținea încă mica ei mână.</p>
+<p>Începu să tremure, frica morții îi îngheță tot sângele.</p>
+<p>— Ai milă ! murmură ea. —</p>
+<p>Omorâtorul însă numai auzea nimic, în pieptul său nu auzea răsunând decât acea voce a infernului : să moară !</p>
+<p>El scoase un cuțit; pe când femeia disperată se smunci de lângă el.</p>
+<p>— Ce vrei să faci ?! îngână pentru a doua oară Maria Popovici.</p>
+<p>— Voiesc să te omor! fu răspunsul crud și rece al omului viguros.</p>
+<p>Până acum nenorocita victimă nu scose niciun țipet, nu chemă pe nimeni în ajutor, pentru că nu-și putea închipui că va fi asasinată. Acum însă când văzu cuțitul, când înțelese că acel fier ascuțit îi va străpunge sânul; mintea i se întunecă, o furnicare îî străbătu prin tot corpul, se uită cu o groază nedescrisă la acela care o privea, cum un tigru își privește prada și voi să strige, să scoată un țipăt prin care să deștepte atențiunea trecătorilor.</p>
+<p>Se găsea în fața morții și instinctul de conservare o făcea să caute mijlocul prin care să înlăture moartea.</p>
+<p>Criminalul înțelese acesta și nu mai perdu timpul.</p>
+<p>Ca un fulger se repezi el spre dânsa, întoarse mânerul cuțitului și cu o forță nedescrisă o lovi în tâmpla stângă.</p>
+<p>O astfel de lovitură, credea el, va fi de ajuns pentru o femeie ca Maria Popovici.</p>
+<p>Mânerul puternic al cuțitului sfărâmă osul tâmplei. Sângele înroși fatala unealtă a morții și fața aceea, care în curând își va da ultima suflare.</p>
+<p>Până acum însă, Maria tot mai avea putere, ea nu muri încă.</p>
+<p>Din contra, durerea cea mare, revoluțiunea ce se făcu în sângele ei, toate acestea îi dădu o forță supranaturală și repezindu-se spre omorâtorul ei, îi apucă mâna care o lovise și o strânse cu putere.</p>
+<p>— Săriți! . . . omorătorii! . . . asasinii ! . . . voia să srige sărmana femeie.</p>
+<p>Criminalul însă nu peirdu timpul, îi smunci mâna, se încruntă la dânsa, și o apucă de gât strângăndu-o așa de tare, încât degetele lui rămaseră imprimate pe alba și frageda ei carne.</p>
+<p>Nu mai putea să strige. Vocea îi era înecată și sângele care curgea necontenit, o făcea să-și piardă din ce în ce puterea.</p>
+<p>Ce înfiorător aspect! . . .</p>
+<p>O femeie tânără și frumoasă, rănită, plină de sânge, se lupta la disperare cu omul care voia s-o ucidă, pentru a o fura, pentru a fi—după cum zicea el— bogat.</p>
+<p>El îi dădu prima lovitură, acesta însă nu era de ajuns.</p>
+<p>Inima criminalului era încă setoasă de sânge.</p>
+<p>Ar fi voit s-o strângă de gât, pană când s-o asfixieze, asta însă i-ar fi luat un prea lung timp și operațiunea era necesar să fie curând terminată.</p>
+<p>În fața sângelui, inima criminalului se împetri și mai mult.</p>
+<p>El ridică din nou cuțitul și cu aceași putere o lovi încă o dată la gât, în partea stânga și mai mult ca două minute rămase fierul în rană, spălăndu-se cu sângele, care gâlgâia în spume.</p>
+<p>Maria Popovici pierdu puterea. Asasinul devenise acum o curată fiară.</p>
+<p>El trase cuțitul, sau mai bine numindu-l stiletele, și ținti sânul tremurând al muribundei femei.</p>
+<p>—Așa ! crâșni el, și cu putere izbi cuțitul în acel sân nevinovat, astfel că fierul intră aproape tot.</p>
+<p>Lovitura era dată tot în partea stângă, deasupra țâței.</p>
+<p>Maria căzu la pământ.</p>
+<p>Criminalul resuflă, victima lui nu putea să mai strige.</p>
+<p>Lacul de sânge, care curse din corpul femeii, loviturile mortale, ar fi făcut pe orice alt criminal ca să înceteze, să nu mai tortureze corpul care începea să devină un cadavru.</p>
+<p>Numai acest ucigaș nu se putu sătura.</p>
+<p>Numai o mâna ca a lui putea să mai ridice cuțitul.</p>
+<p>Dupe ce victima căzu la păment, omorâtorul se aplecă asupra ei. Îi apuca brațul stăng, îl strânse așa de tare, încât pielea se lipi de os și privindu-o, rânji ca un demon și o scuipă!....,</p>
+<p>Încă o dată cuțiiul căzu în partea dreptă a sânului.</p>
+<p>Maria murise.</p>
+<p>Numai acum sceleratul va înceta cu torturile. Numai acum pumnalul va înceta de-a mai străpunge un cadavru rece.</p>
+<p>Dar nu.</p>
+<p>Un gănd îl tortura.</p>
+<p>Îi era frica, credea că Maria nu murise încă și lăsănd-o, fie chiar cu o schânteie de viață, s-ar putea în urmă să vorbeacă, să pronunțe un nume, un singur nume și acesta ar fi fost de ajuns ca fericirea criminalului să se întrerupă și o temniță adăncă să-i adăpostescă infamul său corp.</p>
+<p>Pumnalul se ridică din nou și din nou străpunse cadavrul Măriei Popovici.</p>
+<p>O întoarse apoi cu fața în jos și implanta de mai multe ori pumnalul în spate.</p>
+<p>Osele crâșniră, sângele însă nu mai curgea.</p>
+<p>Nouăsprezece lovituri strepunsese acel rece cadavru.</p>
+<p>Ce putea să mai curgă din el.</p>
+<p>Dar totuși, setea ucigașului nu era stinsă-</p>
+<p>Voi să mai privescă încă o dată fața Mariei Popovici.</p>
+<p>O întorse din nou. Se uita la dânsa și fără a sti ce face, își apropie urechia de buzele el.</p>
+<p>Erau reci.</p>
+<p>Asculta, voia să se convingă dacă mai răsuflă.</p>
+<p>Ce nebunie! . . . .</p>
+<p>I se păru că nu-i încă moartă.</p>
+<p>Credea, se vede, că viață unui om cu greu se poate stinge.</p>
+<p>Trebuia s-o mai lovescă, trebuia să-i mai străpungă coastele .</p>
+<p>Nimeni nu ar crede că într-un om poate să existe atâta cruzime.</p>
+<p>Nimeni nu-și va putea închipui că o asemenea scenă s-a petrecut în Capitala regatului român.</p>
+<p>Nimeni nu-și va putea explica un asemenea curagiu.</p>
+<p>Cum? Ziua, în strada Soarelul, în apropiere de calea Victoriei, într-o di de săr-</p>
+<p>bătore, un om să intre la o femeie, să o ucidă, s-o tortureze atâta timp, fără să aibă frică că ar putea cineva da peste dânsul?</p>
+<p>Aceasta e neexplicabil, neapropiat de mintea unui om.</p>
+<p>Și cu toate astea faptul s-a petrecut în toată goliciunea în care l-am descris noi.</p>
+<p>Ucigașul stătea cu pumnalul ridicat și examina locul în care să mai loviască.</p>
+<p>Când mâna lui însă trebuia să cadă, când oasele trebuiau să fie din nou străpunse, o lovitură ușoră se auzi la ușă.</p>
+<p>Criminalul îngălbeni.</p>
+<p>Cine să fi fost ore ?</p>
+<p>—-Mii de draci ! îngână demonul cruzimii și se apropie de ușă.</p>
+<p>Apoi cu o mână nedecisă, crudul criminal deschise încet ușa și întrebă :</p>
+<p>—Ce cauți ?</p>
+<p>—S-a distins un mic zgomot, îi zise persoana de afară băgând capul printre ușă.</p>
+<p>Criminalul se liniști.</p>
+<p>—A trecut cineva pe stradă în timpul acesta ?</p>
+<p>—Da, răspunse persoana de afară ațintind ochii asupra cadavrului.</p>
+<p>—Bărbat, sau femeie?</p>
+<p>—Și de unii și de alții.</p>
+<p>—Ati auczit ceva ?</p>
+<p>—Nu pot sți.</p>
+<p>—I-ai văzut ascultând ?</p>
+<p>—Nu.</p>
+<p>—Nu s-a oprit nimeni în dreptul acestei case ?</p>
+<p>—Nu.</p>
+<p>—Bine, du-te și căuta să nu te zărescă nimeni.</p>
+<p>—Cât pentru asta fii sigur.</p>
+<p>—Hai, du-te.</p>
+<p>—Ea n-a murit încă?</p>
+<p>—Eu cred că e gata.</p>
+<p>—Vezi să nu te înșeli. Trebuie să nu rămâie nici urma de viață într-nsa, căci altfel vom putea să fim pierduți.</p>
+<p>—M-am gândit la asta.</p>
+<p>—Caută dragă să lucrezi astfel, încât niciodată sa nu putem fi bănuiți.</p>
+<p>—Du-te. du-te, îi mai zise ucigașul și închise ușa.</p>
+<p>Persoana de afară se depărta încet, strecurându-se ca o umbră într-un loc de unde putea spiona afară.</p>
+<p>Convorbirea acestor doi oameni denaturați, nu dură nici două minute.</p>
+<p>întrebările și răspunsurile erau făcute cu iuțeala unui fulger.</p>
+<p>Criminalul rămânând singur se apropie iarași de victima lui.</p>
+<p>Sângele din jurul cadavrului începu să se închege.</p>
+<p>Fața Măriei Popovici exprima o amărăciune adâncă.</p>
+<p>El puse mana pe dânsa și o pipăi.</p>
+<p>— Începe se se răcească! exclamă nelegiuitul cu un zâmbet drăcesc.</p>
+<p>Apoi uitănduse un minut la ea îi zise :</p>
+<p>— Tu mi-ai înveninat viața, necontenit mă gândeam la tine, și dacă te mai lăsam să trăești, eu trebuia să fiu sărac.</p>
+<p>Aceste cuvinte pronunțate cu un sarcasm nedescris, fiara fără inimă ridică piciorul și o lovi cu tocul în partea dreaptă a sânului așa de tare, încât coastele trosniră.</p>
+<p>Semnul rămase.</p>
+<p>Niciun semn însă nu va putea indica persoana acelui care comisese îngrozitoarea crimă.</p>
+<p>Cadavrul se clătină puțin.</p>
+<p>Era o amenințare pentru omorător.</p>
+<p>Cel puțin, astfel credea el-</p>
+<p>Totuși, el rămase cu sângele rece.</p>
+<p>Este un om exrcitat în asemenea fapte și aceasta ne-o probeză mult precauțiunile cu care lucra.</p>
+<p>Omorâtorul se apropie de biroul în care știa că se păstreză cheile de la casa de fier și o deschise fără nici o silire.</p>
+<p>Deschise apoi și casa de fier.</p>
+<p>Operațiunea lui era terminată ; dar scopul i s-a îndeplinit oare ?</p>
+<p>Vom vedea acesta mai târziu.</p>
+<p>Criminalul deschise ușa.</p>
+<p>Chemă pe persoana care îi servea de spion, se curață de sânge, luară toate precauțiunile, pentru a nu lăsa nici o urmă de bănuială asupra acelui ce a comis omorul și ieșiră afără.</p>
+<p>Crima se comisese la întunericul singurătății și nimeni! nimeni nu putea să ghicescă pe autorii ei.</p>
+<p>Cadavrul rămase lungit în sânge. .....</p>
+<p>Singur el era indiciul infiorătorei crime.</p>
+<p>PARCHETUL</p>
+<p>Intr-una din străzile Bucureștiului, două persoane se văd plimbăndu-se la braț-</p>
+<p>Pe fața lor se poate citi o liniște destul de mare, nu aceeași liniște însă domnește și în inimile lor.</p>
+<p>Din când în când, ele se uită în urmă, ar voi parcă să se convingă dacă nu sunt urmăriți de cineva.</p>
+<p>— Ei bine, întrerupse tăcerea una din acele persone : ce zici, vom putea fi bănuiți vreodată ?</p>
+<p>—Nu știu, dar mi-e frică, răspunse persoana de lângă dânsul.</p>
+<p>—Nu cumva ai uitat ceva acolo?</p>
+<p>—Mă crezi prea dobitoc, dacă îmi vorbești astfel, răspunse omul pe a cărei frunte se întinsese o rază de tristețe.</p>
+<p>—Nu, dar...</p>
+<p>—Niciun dar... acum mi-e frică, înțelege, mi-e frică.</p>
+<p>Cuvântul din urmă fu pronunțat cam tare.</p>
+<p>—Taci, dragă, taci! te-ar putea auzi cineva. Ce ? voiești să ne dăm singuri pe mâna parchetului ?</p>
+<p>—Ah ! nu-mi mai vorbi de parchet !</p>
+<p>Și după o mică pauză continuă:</p>
+<p>—Nu știu de ce, dar aș voi să intru în pământ.</p>
+<p>—Ei, mă obosești cu aceste vorbe. Numai acum văd că ești mai slab decât o femeie.</p>
+<p>—Am dreptul, răspunse celălalt; am dreptul, căci tu nu ai fost lângă mine, când am omorât pe Maria Popovici. Tu nu al spălat, ca mine, mâinele tale în sângele ei. Tu nu ai înfipt acest pumnal în corpul ei.</p>
+<p>Și rătăcit, cu capul încărcat de cugetări confuze, ar fi voit să scotă pumnalul, ce ținea ascuns la dânsul.</p>
+<p>— Ce vrei să faci ? se auzi vocea persoanei de lângă dânsul; și îl smuci mâna.</p>
+<p>—Fii mut, fii stăpân pe tine, căci altminteri, amândoi vom fi perduți.</p>
+<p>—E.... Criminalul voi să vorbescă, când vocea personei care îl acompania îl opri zicându-i:</p>
+<p>—Taci ! taci!</p>
+<p>(Va urma)</p>
+<p>Toate drepturile rezervate autorului</p>
+<p>(Urmare)</p>
+<p>Cadavrul Mariei Popovici stătea lungit într-una din odăile ale caselor din strada Soarelui No. 16.</p>
+<p>Era Duminică, ziua de 12 Mai.</p>
+<p>Aerul era răcoros și un vânt subțire, d-abia clătina vârful arborilor.</p>
+<p>Soarele începea a-și pierde din puterea sa. Somnoros, el se ducea să se culce.</p>
+<p>În timpul acesta între 4 și 5 două persoane se văd apropiindu-se de casele din strada Soarelui, de acele case unde se făptuise crima.</p>
+<p>Erau D-nul și D-na Miulescu.</p>
+<p>Ajunși în dreptul caselor, Miulescu se opri puțin pentru a vorbi cu un vecin al său, pe când D-na Miulescu alergă la ea în odaie.</p>
+<p>Abia deschise ușa și cadavrul rece al Mariei Popovici i se înfățișă înaintea ochilor</p>
+<p>Orice om, care s-ar fi găsit în fața unui cadavru lungit în sânge, nu ar fi putut să nu scotă un țipăt; necum D-na Eufrosina Miulescu, ea, care trăise atâta timp cu victima și de la care nici odată nu văzuse nici un rău.</p>
+<p>Cu o mână tremurândă trase puțin ușa și alergând către soțul ei, îi zise tare, pentru a se auzi și de alții:</p>
+<p>— Vino Nae, căci ce este la noi în casă, nu e bine.</p>
+<p>Atunci Miulescu alergă numai decât sus, deschise ușa, începu să strige și odaia se umplu de curioși, care alergau se vadă cadavrul celei mai bune dintre femei.</p>
+<p>Parchetul se înștiință imediat și un procuror sosi la fața locului.</p>
+<p>— Cine locuiește în aceste case? întrebă procurorul.</p>
+<p>— Eu și cu soția mea, răspunsă Miulescu.</p>
+<p>- Unde ați fost pe când s-a petrecut crima ?</p>
+<p>— Prin oraș.</p>
+<p>— Lipsiți de mult ?</p>
+<p>— De la ceasurile trei.</p>
+<p>— Altcineva nu mai locuiește aici?</p>
+<p>— Nu.</p>
+<p>— Nu aveți servitor, servitoare, nimic ?</p>
+<p>— O servitoare ce am avut, ne-a fugit ieri.</p>
+<p>Procurorul se gândi puțin.</p>
+<p>— Casa de fier nu a fost deschisă?</p>
+<p>— Nu.</p>
+<p>— Ce bani au fost într-ânsa ?</p>
+<p>— Douăsprezece mii de lei ai mei și optsprezece mii de lei ai sărmanei femei.</p>
+<p>— Și acum, zise procurorul uitându-se în casă, nu mai e nimic.</p>
+<p>Și iarăși căzu pe gânduri.</p>
+<p>Dupe cele spuse de D-l Miulescu, am fost 30 mii de lei, care s-au furat din casa de fier. Criminalul prin urmare a săvârșit acest omor pentru a fura banii.</p>
+<p>Vom vedea acesta mal târziu, tot ce putem spune acum e că Miulescu mințise.</p>
+<p>Cei 30 mii de lei erau la dânsul, îi cheltuise și acum spunea că erau în casa de fier.</p>
+<p>Procurorul, deocamdată, se încrezu în cuvintele lui.</p>
+<p>Nicio bănuială nu putu să aibă pentru Miulescu.</p>
+<p>Și cum putea să bănuiască pe un om care se bucura, de o reputație destul de mare, și cum s-ar fi putut ca Miulescu, omul cel blând, care întotdeauna vorbea cu dulceță, să fie acel crud omorîtor pe care îl văzurăm puțin mai înainte întingând stiletele în sânul sărmanei femei? Și cum s-ar putea ca Miulescu, un comersant, cunoscut până acum ca destul de</p>
+<p>onest, în fața unei scene atât de înfiorătore, la vederea acelui cadavru rece, se spună o minciună atât de cutezătore ?—Cum s-ar putea ca Niculae Miulescu, tipograful — din calea Victoriei, să caute a înșala justiția și a fura cadavrului din fața sa suma de 18 mii lei ?</p>
+<p>Cum s-ar putea? și cu toate astea s-a putut, și Niculae Miulescu a înșelat și justiția și pe moștenitorii Mariei Popovici voia să îi înșele.</p>
+<p>Procurorul crezu deocam dată cuvintele lui și atât Niculae, cât și soția lui rămăseseră liberi.</p>
+<p>Vestea acestui omor însă merse prin tot Bucureștiul și pe toți nu-i auzeai zicând decât: • .</p>
+<p>„Sărmana Maria Popovici!.... a fost omorâtă de tipograful Miulescu!?”</p>
+<p>Astfel vorbeau toți și cine ar fi zis contrariul, nu putea să fie privit decât ca un idiot.</p>
+<p>Un biet bătrân încă, era atât de convins că Miulescu era omorâtorul, încât voia să trimită o scrisore procurorului, prin care să-i spună că Miulescu a omorât pe Maria Popovici și că în zadar s-ar mai osteni parchetul a căuta pe crudul bandit, pe cât timp banditul le stă de față.</p>
+<p>AMELIA</p>
+<p>Ne aducem aminte că Constantin, trecând din întâmplare prin strada Popa Tatu văzu la ferestra unor căsuțe, o copilă tinerică și de o frumusețe răpitoare.</p>
+<p>Știm că Constantin era sărac, că nu avea deloc bani și că informându-și despre zestrea acelei copile numită Amelia, află că are 2000 de lei.</p>
+<p>Suma nu era tocmai mare, dar pentru un tânăr ca Constantin, care nu dispunea nici de două mii centime, i se păru o avere colosală.</p>
+<p>Pe lângă asta, Constantin voia să răpească pe Amelia, pentru că era frumoasă și pentru că nu avea nici 14 ani împliniți.</p>
+<p>Paisprezece ani! o astfel de etate la o copilă de frumusețea Ameliei, era un ce natural ca să răpească mințile tânărului Constantin.</p>
+<p>Și mințile lui erau rătăcite.</p>
+<p>Casandra, țiitoarea prietenului său Gheorghe, nu putu să-l ajute cu nimic în planul său.</p>
+<p>După cum am vezut puțin mai înainte, acesta femeie, îndată ce se găsi față în față cu Constantin, în loc de a-i asculta înfocata lui pasiune; ea căuta să-l facă a o iubi pe dânsa.</p>
+<p>—E nebună își zise el, când o văzu că îl apucă de gât și că-l umple de sărutări.</p>
+<p>—În adevăr, domnule, îi zise Casandra; în aceste momente sunt nebună, pentru că mă găsesc în fața dumitale. De când te-am văzut, am simțit pentru d-ta un ce neexplicabil și-ți spun drept, a-mi refuza acum un ceas, un singur ceas, de-a dormi cu tine, este a-mi destina mortea.</p>
+<p>Constantin, oricât de rău ar fi fost el, oricât de mult depravațiunea ar fi cuprins sufletul lui; de astă dată însă, se purtă ca un adevărat cavaler.</p>
+<p>—D-nă, îi zise el; v-am chiemat aici, pentru a vă ruga să interveniți pe lângă Amelia ca să mă iubeasă. V-am destăinuit tot amorul ce am pentru dânsa și mai curând m-aș fi așteptat să-mi spuneți că sunt nedemn de ea, decât să aud din gura voastră niște asemenea cuvinte.</p>
+<p>—E adevărat domnule, gândiți-vă însă, pronunță Casandra cu ochii învăpăiați, că după cum d-vostră iubiți pe Amelia, pe care ați văzut-o numai și cu care nu ați vorbit niciodată, tot astfel vă iubesc și eu.</p>
+<p>—Dacă în adevăr m-ați iubi Doamnă, îi zise Constantin ; ar trebui atunci să nu-mi refuzați rugămintea ce vă fac. In a mă ajuta sau a-mi refuza ajutorul ce ve cer, constă toată iubirea d-tale. O altfel de iubire, din partea unei femei de vârsta dumitale, nici nu o pot înțelege și nici nu poate fi.</p>
+<p>—O frumosul meu domn, îi zise Casandra cu o voce pițigăiată ; dar ce stric eu, dacă în inima mea arde focul unei dragoste fără margini. Zici că ar trebui să te ajut la ceea ce mă rogi, dar cum voi putea să stârnesc pe lângă nepoata mea să te ia pe d-ta, care ești atât de tânăr și atât de frumos! oh! ar trebui să am în totdeuna pe capul meu blestemele d-tale,.</p>
+<p>Și Casandra se aruncă încă o dată după gâtul lui Constantin.</p>
+<p>—Dar nu te înțeleg Doamnă, explică-te, pe legea mea nu te înțeleg deloc. Pentru ce blestemele mele ar cădea pe capul d-tale ? să vedem, sunt curios, întrebă el cu un aer de profundă mirare.</p>
+<p>—Pentru ce ? Pentru că Amelia e o fată depravată, pentru că ea are un amant, pentru că nepoata mea nu este pentru d-ta.</p>
+<p>La auzul acestor cuvinte, Constantin se scârbi și mai mult și deodată zise Casandrei cu un ton aspru.</p>
+<p>—D-nă, ieși afară!...</p>
+<p>—Dar d-le, voi să-i zică ea.</p>
+<p>—Ieși și să nu intri niciodată în casa mea.</p>
+<p>O lua apoi de spate, o scose afară și închise ușa.</p>
+<p>Casandra plecă.</p>
+<p>—Ăh ! exclamă ea pe drum, dacă n-ar fi nepoata mea, acest tânăr m-ar iubi pe mine.</p>
+<p>Și gelozia începu să-i roadă inima.</p>
+<p>Ajungând acasă, se trânti pe un pat și se gândi.</p>
+<p>Mii de idei îi trecură prin minte.</p>
+<p>Dupe câteva minute se scula și se duse în fața unei oglinzi..</p>
+<p>Se uită, se examină cu de-amănuntul și-și zise :</p>
+<p>—Sunt destul de frumoasă, câte alte femei mai urâte decât mine nu au norocul să fie iubite de tineri de seama lui Constantin ?</p>
+<p>Se duse apoi lângă o masă, își rezemă capul de mână și-și făcu următorele reflecții:</p>
+<p>—Dacă nepoata mea ar muri, dacă acest tânăr ar pierde speranța de la dânsa, și dacă eu aș ști cum să mă port cu el, cum să mă introduc încă odată la dânsul, sunt sigură că-l voi face, să mă iubescă. Pentru, ca să reușesc în acesta însă trebuie ca Amelia să nu mai existe.</p>
+<p>Două săptămâni în urmă, noi văzurăm pe Casandra intrând la nepoata sa, o văzurăm cu cuțitul, gata s-o omoare și-ar fi omorât-o daca tocmai în acel moment Constantin nu ar fi deschis ușa și ghicind ce trebuia să se petrecă nu ai- fi apucat-o de spate și trântin-do la pământ, nu ar fi implantat cu putere în corpul ei cuțitul ce era să verse sângele Ameliei.</p>
+<p>Ne aducem de asemenea aminte că Constantin nu voi se părăsească pe Amelia, se temea să nu fie bănuită de autoare a crimei.</p>
+<p>—Domnule, îi mai zise copila cu ochii plini de lacrimi; fugi, nu mai sta lângă mine, îndată ce vei fi zărit de cineva, vei fi pierdut.</p>
+<p>—Nu draga Amelio, nu voi pleca de lângă tine. A te ține astfel strânsă în brațele mele, este a simți dulceața unei vieți fără margini.</p>
+<p>—Dar nu te gândești că odată cu d-ta voi fi și eu pierdută? Zici că mă iubești, dar atunci ar trebui să-ți păzești viața, căci cum ai crede că eu aș putea trăi, știind că d-ta ai murit pentru mine.</p>
+<p>—Oh suflet nobil și neprețuit! Zise Constantin sărutandu-o cu foc; dacă inima ta simte amorul, dacă pieptul tău cunoște scânteia lui, vino cu mine, se plecăm amândoi.</p>
+<p>—Mă unesc la propunea d-tale, îi zise frumoasa copilă,cu condițiune însă, ca se plecăm din București. Ah! n-aș putea să mai stau nici o zi în acest oraș-</p>
+<p>Constantin nu mai era în aceste momente acel tânăr depravat de altă dată.</p>
+<p>Și putea să fie altfel ?</p>
+<p>Iubești orice lucru, pentru a cărui posesiune sacrifici ceva, și el putea să nu iubescă pe Amelia, care era așa de tânăra, așa de frumoasă și pentru care nu se îndoi a-și sacrifica viața?</p>
+<p>—Nu, Amelio, îi zise; nu putem pleca din București pentru că sunt sărac și nu am unde te duce. Cu tote astea vino în odaia mea, te voi ascunde acolo, voi munci ziua și noaptea pentru a-ți procura o viață comodă și te voi apăra cu sângele meu.</p>
+<p>Amelia se dezlipi de lângă dânsul, deschise o ladă, luă din ea o batistă, o puse în buzunar și zise tânărului:</p>
+<p>—D-ta mi-ai scăpat viața, de astăzi înainte ești stăpân pe ea.</p>
+<p>Și-l luă de mână, deschiseră ușa și ieșiră afară.</p>
+<p>Era întuneric, zăpada cădea cu putere și austrul gemea înfiorător.</p>
+<p>Constantin luă brațul Ameliei, ea se lipi mult de el și amândoi se pierdură prin întunericul nopții.</p>
+<p>Pe la 9 ore și jum. Amelia se afla în mica odăiță a lui Constantin.</p>
+<p>—Iacă vei locui această odăiță, îl zise el căzând la picioarele ei; și cine va cuteza să intre la tine ca să te ridice de aici, va trebui să treacă mai întâi peste corpul meu.</p>
+<p>—Nu, îi răspunse Amelia, vom trece noaptea asta aici la tine și mâine de dimineță vom merge pentru Constantinopol; acolo nimeni nu ne va da de urmă.</p>
+<p>—Oh! dragă Amelio, îl zise el sărutându-o pe frunte, dar eu sunt sărac și nu am cu ce se te duc în acel loc depărtat,. Ș-apoi cu ce te voi hrăni acolo. Ca străin, necunoscând nici limba nici moravurile de acolo ce voi putea să fac? Ah! m-aș vinde rob pentru ca să îndeplinesc și cea din urmă plăcere a ta, vezi însă singură că nu pot face nimic.</p>
+<p>Tocmai acum înțelese cât a fost de dobitoc atunci cănd arunca paralele în drepta și în stânga și când puse pe o singură carte 500 lei, și ca un fulger trecu prin mintea lui urgia dinr-o nopte, când pentru un singur capriciu dete unei dame mari 100 de galbeni. Se gândea că cu acei bani ar putea acum să împlinescă una din justele dorințe ale copilei ce sta lângă dânsul, și cum o săruta pe frunte, o lacrimă căzu pe fața Ameliei.</p>
+<p>—Tu plângi, scumpul meu, iî zise ea înduioșată.</p>
+<p>—Plâng Amelio, pentru că mă văd așa de nenorocit de-a nu te putea ajuta cu nimic.</p>
+<p>Atunci frumosa copilă scoase din buzunarul ei batista, ce luă din lada de acasă și dând-o lui Constantin îi zise:</p>
+<p>—Aici sunt 300 de napoleoni în hărții turcești. Cu acești bani vom putea trăi liniștiți în Constantinopol. Haide, scumpul meu domn, îngrijește ca mâine de dimineață să putem fi pe drum. Acești bani după cum îmi spunea buna mea mamă, sunt zestrea mea. In adevăr, lumea știa eă am două mii de lei, căci, cine mă va iubi, spunea buna mea mamă, nu va căuta la parale. Eu însă nu știu nimic din toate astea.</p>
+<p>Și copila zicând aceste cuvinte se aruncă în brațele lui Constantin. </p>
+<p>Sărmanul tânăr plângea.</p>
+<p>Numai în fața acestei copile se găsi el zdrobit.</p>
+<p>Și cu toate astea era un tablou răpitor a privi la această pereche.</p>
+<p>Ea ca o păsărică stătea aruncată pe umărul lui. și el ca o ramură verde o legăna pe brațele lui și o săruta cu foc.</p>
+<p>Vai! câtă dragoste zbuciuma în aceste minute inimile acestor doi tineri!...</p>
+<p>Avânt al tinereții!.... Momente dulci și pline de încântare!... Amor născând în tinere pepturi... de ce nu păstrați puterea voastră ca în primele momente ? Ca un fulger trecător, ca o speranță ștearsă, ca o fericire, pierdută voi dispăreți sau vă schimbați nelăsând în locu-vă decât întuneric și durere !...</p>
+<p>Frumoasa Amelie, deși avea numai 14 ani, simți însă revărsându-se în sufletul ei, toată puterea unei dragoste neînchipuite...</p>
+<p>Ca o jumătate de ceas ținu delirul acelui amor fără margini, ca o jumătate de ceas piepturile lor se lipiră cu căldură și buzele lor se întâlniră neîntrerupt...</p>
+<p>Și nimeni nu-i vedea... numai lampa, care fumega încet era martoră la această scenă a tinereții!....</p>
+<p>— Oh, dragă Amelio, îi zise în cele din urmă Constantin cu o voce răpitoare; de astăzi înainte tu vei fi regina mea. Te voi adora și te voi stima mai mult decât pe un înger.</p>
+<p>Amelia slăbită de puteri căzu pe pat, își rezemă capul de o pernă și rămase astfel îndreptând privirile ei galeșe către tânărul din fața ei.</p>
+<p>Constantin șezu pe un scaun lângă, pasul ei.</p>
+<p>El nu îndrăzni a se apropia mai mult de densa. Iubea pe acestă copilă, dar în același timp o și respecta și minte acel care va zice că poate exissta amor curat fără de respect.</p>
+<p>Am spus că Amelia era secată de puteri. Frica ce simți, atunci când Casandra se năpusti asupra ei cu cuțitul, groaza ce o cuprinse în urmă, la vederea cadavrului mătușii sale și emoțiunea ce avu în urmă când se lăsa a fi legănată de vânjoasele brațe ale acestui tânăr, pe care mai înainte, după scrisoarea ce primise, îl compătimea fără a-l cunoaște și pe care acum îl iubea, toate acestea o făcură ca să închidă ochii și sufletul ei să se lase în borul unui somn răpitor.</p>
+<p>Dormea.</p>
+<p>Tăcerea și singurătatea, pe lângă părțile lor cele bune au și părți rele.</p>
+<p>Constantin nu înceta de-a privi pe Amelia, de-a o admira.</p>
+<p>Dormind, i se părea de o mie de ori mai frumoasă.</p>
+<p>Și ca întotdeauna, ispita neagra și poftele nebune începură a  tulbura, a ameți din ce în ce mai mult.</p>
+<p>El privi cu nesațiu acele buze coralii, pe care se vedeau încă întipărite sărutările lui.</p>
+<p>Admira în rătăcire acel piept viriginal, care ca un val ușor se înălța și se lăsa.</p>
+<p>Ghicea parcă, ascuns sub corsetul care-i strângea talia, un sân de marmură, împodobit cu două mere abia înflorite pe care copila cu iscusință le fură din raiul ceresc.</p>
+<p>Pentru Constantin această copilă era o răpire nedumerită.</p>
+<p>Ochii lui, fără voință, plecară de la sân în jos, și sub rochia ei cea simplă, dar bine tăiată, vedea acele forme rotunde și răpitoare, acele picioare albe ca spuma laptelui, cărnoase și fragede ca bobocul ce se deschide sub rouă dimineții.</p>
+<p>Și micile ei picioare, ascunse în niște pantofi de atlas, păreau că sunt ale unei chineze.; ele aveau un farmec nespus și o provocațiune hotărâtă.</p>
+<p>Constantin nu mai era stăpân pe sine.</p>
+<p>După o involuntară examinare, ochii lui se opriră asupra taliei frumoasei copile.</p>
+<p>Era așa de subțire, încât ar fi cuorins-o între mâini.</p>
+<p>Trebuia să fii prea brut ca să o strângi vreodată, de frică ca să n-o frângi!.</p>
+<p>Și cu toate astea, buzele rumene ale frumosei copile cereau încă sărutări.</p>
+<p>Dormind, ea părea a-i zice:</p>
+<p>„Vino, scumpe Constantin. vino lângă mine. Tu știi că te iubesc, ți-am dat probe despre asta. Nu am lăsat eu oare pe muma mea pentru tine? Și puteam să fac altfel, când tu mi-ai scăpat viața ? Oh  vino! brațele mele te vor strânge cu căi-</p>
+<p>dura cum o altă amantă nu a mai strâns pe iubitul ei“.</p>
+<p>Astfel păreați a-i zice acele buze întredeschise ale frumosei Amelii.</p>
+<p>Constantin o privea cu nesațiu.</p>
+<p>El se sculă în picioare; voi să se arunce asupra ei, s-o sărute și să doarmă lângă dânsa o viață întregă.</p>
+<p>In adevăr, un moralist cu fruntea încrețită, un moralist însă din acei incărcați de prejudiciile actualei societăți, va bârfi contra conduitei tânărului Constantin.</p>
+<p>Cum ? Acest tânăr mai poate fi om de onoare, când seduce pe o biată copilă, și când își propune a o lua de soție, fără în a se cununa cu dânsa?</p>
+<p>(Va urma)</p>
+<p>Toate drepturile rezervate autorului</p>
+<p>(urmare)</p>
+<p>Constantin însă nu voia să știe despre asta,</p>
+<p>Pentru el contractul de căsătorie, era lanțul dragostei.</p>
+<p>Putea lumea să bărfescă, el nu ținea cont.</p>
+<p>Și cum sta în față frumosei Amelie, cum mintea lui era rătăcită, cum o privea cu nesațiu; nu aștepta de cât momentul oportun pentru a se arunca în brațele ei.</p>
+<p>Acel moment sosi.</p>
+<p>Gazul din lampă isprăvindu-se, ea începu să fumege și încetul cu încetul se știnse.</p>
+<p>Odaia rămase în întuneric.</p>
+<p>Nimic nu mai oprea acum pe Constantin de-a mai sta în rezervă.</p>
+<p>Cum o păsărică sa lasă lângă cuibul puilor săi el se lăsă lângă dânsa.</p>
+<p>Amelia îl simți.</p>
+<p>Ea părea că doarme, cu toate astea spiona toate mișcările amantului el.</p>
+<p>Ce vreți, era copilă, era femeie și curiozitatea nu putea să-i lipsească.</p>
+<p>Când Constantin se văzu lângă acea fr-mosă copilă, când lăngă dânsul auzi dulcea ei respirare și cănd fără voie, Amelia scose un profund suspin ; el pierdu răbdarea, apucă pe Amelia în brațe, o strânse mult la sânul său și o umplu de sărutări.</p>
+<p>Vai! curănd și nebunatica copilă va păși în spinosul câmp al lumii.</p>
+<p>Curând și trecutul ei va fi despărțit de viitor prin purtarea-i din astă noapte.</p>
+<p>Și respectul are o margine.</p>
+<p>Și dragostea are un sfârșit.</p>
+<p>Și iarăși acesta dragoste are o țintă.</p>
+<p>Respectul lui Constantin atinse ultimul țel, dragostea lui trebuia să fie, în sfârșit împăcată.</p>
+<p>Condamnatul simte în sufletul lui torturile, morții.</p>
+<p>Durerea ce o încercă înaintea morții fale, e mai grea decât momentul execuției.</p>
+<p>Pentru un amorezat sunt același torturi, când se află lângă amanta lui.</p>
+<p>Sărutările lui Constantin fură răsplătite prin noi sărutări din partea Ameliei.</p>
+<p>— Dragă îi zise el încet; tu vei fi a mea.</p>
+<p>Nn mai pot sta mult timp astfel lângă tine.</p>
+<p>Amelia tăcea.</p>
+<p>Ce putea să răspunda ?</p>
+<p>Momentul suprem sosi: Tăcerea copilei, arăta învoirea ei.</p>
+<p>Constantin deveni curajos.</p>
+<p>Sărutările își făcură efectul și îmbrațișările nu mai aveau dulceață.</p>
+<p>Și unul și altul parcau au simțit acest lucru.</p>
+<p>— Mă iubești dragă, nu-i așa? îi mai zise Constantin.</p>
+<p>Aceeași tăcere din partea ei,</p>
+<p>Un nou suspin însă scăpat după buzele ei, convinse pe tânărul nostru de respunsul cel mai fericit.</p>
+<p>Trecu de miezul nopții, frigul era mare și pe stradă, nici un om nu mai circula.</p>
+<p>Din când în când numai viscolul mugea înfiorător.</p>
+<p>Nici un timp nu poate fi mai favorabil pentru amanți ca acesta.</p>
+<p>Constantin desfăcu haina frumoasei copile.</p>
+<p>Numai o camașă subțire mai învelea albul ei sân.</p>
+<p>Înfocatul tânăr voi să desfacă și acesta din urmă apărare.</p>
+<p>Amelia, fără să pronunțe un cuvânt se opuse.</p>
+<p>Ea-și acoperi sânul cu mâinile.</p>
+<p>Se începu o mică luptă între ei.</p>
+<p>Era o luptă însă la care și un bătrân ar fi răvnit.</p>
+<p>Curând și cămașa copilei fu ruptă. Pieptul copilei rămase desfăcut.</p>
+<p>Amelia râse.</p>
+<p>Ah ? câtă naivitate și câtă tinerețe în acestă fetiță !...</p>
+<p>Buzele lui Constantin se lipiră de acel piept de marmură.</p>
+<p>Un fior îi străbătu tot corpul.</p>
+<p>Amelia nu zise nimic, era indignată și cu toate astea tot zâmbea.</p>
+<p>începutul e greu.</p>
+<p>Numai pasul dintăi conține judecată.</p>
+<p>Constantin se sculă de lângă dânsa și pe întuneric se dezbrăca iute.</p>
+<p>— Amelio, îi zise el în urmă ; voi să te dezbraci și tu.</p>
+<p>— Dar nu voiesc eu îi răspunse dânsa, ș-apoi sunt supărată pe tine.</p>
+<p>— Supărată.... și pentru ce?</p>
+<p>— Pentru că...</p>
+<p>Și tăcu, nu știa ce să răspundă.</p>
+<p>— Haide, pronunță Constantin, te voi face să-ți treacă supărarea. Nu vreau ca tocmai de pe acum să începi a fi rea cu mine.</p>
+<p>Cu aceste cuvinte, el o ridică de pe pat și pe când copila stătea ca o statuie, într-o nedumerire completă, el o sărută și începu să o dezbrace.</p>
+<p>Amelia rămase numai în cămașă.</p>
+<p>Ar fi rămas mult timp astfel nemișcată; dacă tot Constantin nu ar fi luat-o în brațe și nu ar fi pus-o pe pat.</p>
+<p>Un ceas, atârnat la peretele din fund, bătu de două ori.</p>
+<p>Erau două ore după miezul nopții.</p>
+<p>Pentru acești amorezați timpul trecu pe nesimțite.</p>
+<p>Amelia, mai mult goală se afla în brațele iubitului ei.</p>
+<p>Piepturile lor erau lipite. Aceleași suspine izbucneau din amândouă.</p>
+<p>— Acum vei fi a mea, îi mai zise el.</p>
+<p>— Nu te înțeleg, replică copilă.</p>
+<p>Constantin voi să-i sărute din nou pieptul, de astă dată însă, copila se opuse cu tot dinadinsul.</p>
+<p>Gluma, trecuse, și acea sfială, acea frică proprie numai fetelor începu să-i tulbure sufletul.</p>
+<p>— Dacă nu vei sta liniștit, voi pleca de lângă tine.</p>
+<p>— Și unde te vei duce.</p>
+<p>— Nu  vreau să-ți spun.</p>
+<p>— Haide! răutăcioaso !...</p>
+<p>O nouă luptă se începu între cei. De asta dată însă, ea era înverșunată.</p>
+<p>Amelia rămase ca răstignită pe pat.</p>
+<p>Constantin îi sfâșie toată cămașa. Numai întunericul din odaie mai acoperea acel corp trandafiriu.</p>
+<p>Un țipăt se auzi.</p>
+<p>Urmă un plâns destul de jalnic.</p>
+<p>Erau gemetele surde, care răsunau în negra singurătate.</p>
+<p>Când zorile zilei se arătară, copila era ofelită.</p>
+<p>Pe fața el se citea durerea și în ochii ei o rază de disperare.</p>
+<p>Acum nu mai surâdea, ea se îmbrăcă și privi pe Constantin cu tristețe!</p>
+<p>Părea ca dzce :</p>
+<p>„De astăzi înainte toată viața mea stă în mâinele tale. Tu ești stăpân pe mine, iubește-me până la sfârșit“.</p>
+<p>Si ochii Ameliei se umplură de lacrimi.</p>
+<p>Nu avea oare dreptul ca să plângă ?</p>
+<p>Ea-și plângea, greșeala, pentru care însă nimeni nu ar putea să o acuze.</p>
+<p>Constantin o mângâie și-i zise :</p>
+<p>— Scumpă Amelie, pe cât timp voi trăi eu, tu vei fi fericită.</p>
+<p>Copila drept răspuns-l privi încă o dată și ochii i se umplură și mai mult de lacrimi.</p>
+<p>— Iubite, zise ea, să plecăm mai curând din București.</p>
+<p>Trei ore în urmă, acești doi tineri se aflau într-o trăsură de voiaj.</p>
+<p>Ei mergeu spre Giurgiu, și de acolo la Constantinopol.</p>
+<p>Mii de suveniri rătăciră acum prin mintea copilei.</p>
+<p>Se gândea, că poate niciodată nu va mai vedea orașul în care s-a născut.</p>
+<p>Se gândea la muma ei de care se despărțea fără s-o mai vadă.</p>
+<p>Se gândea în sfârșit la viitorul ei ce i se deschide, și în care nu întrevedea decât o negură deasă.</p>
+<p>Toate acestea o umplură și mai mult de tristețe.</p>
+<p>Constantin însă nu o lăsă mult timp în acesta dureroasă rătăcire.</p>
+<p>El îi împresură talia cu o mână și o privea cu nesațiu și-i zâmbea cu tristețe.</p>
+<p>Drumul ce ducea spre Giurgiu era singuratic. Nu se auzea decât ciuruitul roților și glasul ascuțit al surugiului care plesnea din bici și striga necontenit :</p>
+<p>Hi! Hi!....</p>
+<p>Muma</p>
+<p>Noi am lăsat în strada Popa-Tatu un cadavru, căzut sub loviturile de moarte a lui Constantin.</p>
+<p>Muma Ameliei, după cum știm, lipsea de acasă.</p>
+<p>Când se întoarse, scoase un țipat la vederea acelui corp lungit în sânge.</p>
+<p>Vestea omorului se lăți numaidecât prin mahalaua întreagă și poliția de pe atunci fu avizată numaidecât.</p>
+<p>Cadavrul fu transportat numaidecât la un spital și cârmuirea-și începu cercetările ei.</p>
+<p>Nimeni însă nu putea mărturisi nimic.</p>
+<p>Crima, se comisese în întunericul singurătății și nu o știau decât Constantin, Amelia și cerul.</p>
+<p>Tocmai târziu de tot observă însâ bătrână mumă că fiica ei lipsește.</p>
+<p>Nu sția ce s-a petrecut cu dânsa,</p>
+<p>Cu toate astea o idee neagră-i strebătuse mintea.</p>
+<p>Se gândea că cineva i-a răpit copila și a omorât pe Casandra, care s-ar fi opus.</p>
+<p>Un lucru însă o punea în nedumerire.</p>
+<p>Din ladă lipseau banii. Ei erau puși într-un loc al cărui secret nu-l cunoștea decât Amelia. Lada nu era forțată. Ea era deschisă cu cheia, care se găsi în broască.</p>
+<p>Amelia prin urmare nu putea să fie răpită, și cu toate astea Amelia lipsea.</p>
+<p>Până pe la 4 ore aștepta sărmană mumă pe fiica ei. Și nu ar fi dormit întreaga noapte, dacă niște gânduri înspăimântătore nu i-ar fi rătăcit mintea, nu ar fi făcut-o să închidă ochii și să rămână astfel în nesimțire.</p>
+<p>Când zorile zilei se iviră, bătrâna femeie se trezi deodată,</p>
+<p>Ea intră în odaia din față, în care dormea fiica sa.</p>
+<p>Credea că poate s-a întors și s-a culcat. Dar deodată și pentru întâia dată ea-i văzu patul gol.</p>
+<p>— Unde să fie fiica mea, se întrebă dânsa și amețită, fără să știe ce face începu a se învârti prin casă.</p>
+<p>Și după aceea ieși afara, și o căută prin toate locurile, întrebă pe vecini, pe trecători, dacă n-au văzut cumva pe fiica ei; dar de pretutindeni: „nu știu, n-am văzut” primea răspunsul.</p>
+<p>Veni seara, veni noaptea, nenorocita mumă nu închise ochii ; veni dimineța și Amelia tot nu veni,</p>
+<p>Atnnci o disperare crudă cuprinse inima bătrânei.</p>
+<p>Fiica ei a dispărut, și nu știa încă dacă ă fugit cu cineva sau dacă a fost răpită.</p>
+<p>În tot cazul însă răpită ea nu putea să fie.</p>
+<p>După multe lactămi, după multe suspine și oftări, căzu sărmana mumă, zdrobită de durere, pe un scaun și buzele ei murmurară aceste cuvinte,</p>
+<p>— Amelio, copila mea iubită” pentru ce ai părăsit pe muma ta? Ea e bătrâna, ea nu avea altă îngânare decât pe tine. Fericirea mea, viața mea erai tu, numai tu!</p>
+<p>Și lacrimile scălzându-i fața, continuă înainte ; și spunea durerea, care-i umpluse pieptul și suvenirile reveniau înaintea ei mai jalnice, mai triste.</p>
+<p>— Oh ! dragă Amelio , zicea dânsa ; eu voi muri, căci nu voi mai putea duce astă viață fără de tine. Am pierdut pe tatăl tău, am îndurat dureri și necazuri ca să te pot crește, și acum, când eram singură, când nu mai avem în lumea asta decât pe tine, te-am pierdut... Dar tu nu cunoști durerea unei mume, nu știi ce cuțite străbat pieptul și inima sa!.... Amelio, te voi mai vedea ore ? te vei mai reîntorce la muma ta, îți vei aduce aminte de dânsa, de brațele care te-au purtat, de laptele ce</p>
+<p>ai supt, de bătrâna care va muri de dorul tău?!...</p>
+<p>Aceste din urmă cuvinte erau pronunțate cu suspine și cu o durere nedescrisă.</p>
+<p>Ea mai găngăni câteva cuvinte, vocea ei se stingea din ce în ce, până când căzu jos leșinată de pe scaun.</p>
+<p>Ea dormea, era somnul durerii, și deși cădeiid, se lovise cu capul de pragul ușel, de și sângele începu să curgp, ea tot dormea!...</p>
+<p>Si nimeni nu era ca să-i dea ajutor, căci ea nu era o femeie bogată ca să aibă servitori sau servitoare, și rămase acolo singură, mai mult moartă decât vie, până când însera.</p>
+<p>Românul are o vorbă care zice:</p>
+<p>„Numai mamă să nu fii.</p>
+<p>Muma Ameliel se sculă încet, privirile ei rătăciră prin toate părțile, părea că caută pe undeva, apoi disperată strigă :</p>
+<p>— Amelio! fiica mea, unde ești ?</p>
+<p>Dar nici un răspuns la vocea ei durerosă; numai pereții casei păreau că repetă cuvântul:</p>
+<p>„Amelio”.</p>
+<p>Dar deodată se vede plină de sânge, simte o durere la cap, duce mâna-i la rană și mâna-i se sângeră.</p>
+<p>— M-am lovit! exclamă nenorocita mumă și încet se apropie de masa lângă care stătea ziua fiica sa și citea.</p>
+<p>Lacrimile izvorâră din nou și suspinele izbucneu ca o furtună din bătrânu-i piept.</p>
+<p>Pe masă stătea deschisă cartea Paul și Virginia, pe care citea Amelia. Puțin mai departe stăteau aruncate mănușile, batista, și lângă batistă sfeșnicul a cărui lumânare arsese de tot.</p>
+<p>Muma Ameliei le privi pe toate, fiecare obiect desceptă în sufletul ei un simțământ dureros.</p>
+<p>De aici se îndreptă spre cuier, unde erau atârnate rochile frumoasei copile, și găsind pălăria ei o stropi cu lacrimi și o sărută cu foc.</p>
+<p>Tot ce vedea prin casă și care știa că era purtat sau iubit mai mult de fiica ei, o umplea de durere.</p>
+<p>Si casa i se părea pustie și lumea întregă schimbată, parcă nu mai trăia în lumea în care trăise.</p>
+<p>Se înoptă. Luna apăru de astă dată mai de cu vreme pe orizont, și razele ei străbătând prin geamurile odăii, unde se afla muma copilei răpite, o umplu cu o lumină plăcută.</p>
+<p>Muma Ameliei plânse cât plânse, apoi se culcă și adormi.</p>
+<p>A doua zi de dimineață în zadar se încercau înviorătorele raze ale soarelui ca să încălzească recele cadavru al bătrânei.</p>
+<p>Ea muri fără ca să-și vadă copila, și fără ca o lumânare să ardă la capul ei.</p>
+<p>Ea muri, dar fiica ei unde oare va fi ? Noi am lăsat-o în trăsură, alături de tânărul frumos.</p>
+<p>Ei se dueau după cum știm pentru Constantinopol</p>
+<p>Dar vor trăi ei mult timp împreună ? această tânără copilă va fi ea oare fericită, sau va deveni victimă ?</p>
+<p>Tot ce putem spune după acum este că lectorii noștrii vor vedea mai târziu pe această Amelie, bătrănă, gârbovită, vărsând o lacrimă pe cadavrul Mariei Popovici.</p>
+<p>Timpul care schimbă toate, au schimbat-o și pe dânsa.</p>
+<p>Noi o vom urmări de aproape, căci istoria ei ne interesează mult.</p>
+<p>Vom descrie viața-i de la plecarea ei din București, și o dată cu lacrimile ce va vărsa dânsa, vom vărsa poate și noi o lacrimă.</p>
+<p>Geniul rău</p>
+<p>In Consțantinopol, într-o stradă numită a Fanarului locuia un fanariot numit Costis.</p>
+<p>Era tânăr, bine făcut și de o frumusețe distinsă.</p>
+<p>Se bucura de o mică avere rămasă de la părinții săi.</p>
+<p>Cu ce se ocupa însă acest Costis, acest fanariot urgisit de toată lumea, chiar și de Grecii din Athena ?</p>
+<p>Avea o misia foarte delicată și foarte scârboasă totodată.</p>
+<p>Crescut în locurile calde, cn temperamentul violent și simțirile prea mult poftitoare, el nu făcea altceva, decât a spiona casele în care se găseau fete frumoase și a face toate chipurile pentru a le putea viola.</p>
+<p>Multe victime a lăsat el în urma lui.</p>
+<p>Bărbații, părinții, tremurau întotdeauna la numele de Costis, după cum odinioară, în Italia, tremurau bărbații, părinții la numele de Boccacio.</p>
+<p>Cine în Constantinopol nu cunoștea pe frumoasa Amelaiur?</p>
+<p>Era o turcoaică cunoscută și prin averea și prin frumusețea ei.</p>
+<p>Costis o urmărea de mult. Ea era măritată numai de un an cu un turc bogat, dar bătrân.</p>
+<p>Fanariotul nostru știa că fetele tinere nu pot ține la bărbații bătrâni.</p>
+<p>Ele-i respectă, nu pot însă și a-l iubi.</p>
+<p>Două săptămâni de-a rândul trecu Costis pe sub ferestrele ei.</p>
+<p>Si nu o dată numai locuitorii din vecinătate au auzit acest cântec noaptea, în negura întunericului, înălțându-se fermecător :</p>
+<p>Vino copilă, vin lângă mine P-ale mele brațe, vino, ah vin Căci viața-mi dragă, fără de tine E o durere, un lung suspin !..</p>
+<p>Ziua se duce, noaptea iar vine Luna se înalță pe cer senin,</p>
+<p>Vino copila, vin lângă, mine, P-a mele brațe, vino, ah, vin!...</p>
+<p>Destule lacrimi, crude suspine, Am scos din peptu-mi zdrobit de chin, Vino copilă, vin lângă mine, P-a mele brațe, vino, ah lin.</p>
+<p>Iar dacă vocea-mi până la tine</p>
+<p>Nu va ajunge, îngere lin, Lăsa-voi viața, și cu suspine Tu la mormântu-mi atunci vin!...</p>
+<p>(va urma).</p>
+<p>Anunțăm pe cititorii noștrii că acest roman, va apare de aici înainte exact în fiecare sâmbătă la 12 ore.</p>
+<p>Anunțăm de asemenea că a apărut ediția II din primul număr al acestui roman.</p>
+<p>Toate drepturile rezervate autorului</p>
+<p>(urmare)</p>
+<p>Puțin timp trecu și frumoasa turcoaică îl ascultă prefăcută-i durere și consimți la amorul său.</p>
+<p>Și într-un târziu de noapte, sub gingașele raze ale lunii, o barcă se legăna ușor pe valurile suspinătorului Bosfor.</p>
+<p>Era Almelaiur cu tânărul Costis.</p>
+<p>— Frumoaso îi zise el, cât timp va ține viața nostră, va ține amorul nostru, nu-i așa ?</p>
+<p>Turcoaica drept răspuns îl strânse în brațele sale.</p>
+<p>Noaptea era senină și tăcută, nu se auzea în depărtare, de cât lopețile corăbierilor, cari loveau ușor talazurile Bosforului.</p>
+<p>Până dimineața, Amelaiur petrecu lângă Costis.</p>
+<p>Legănată când de valuri, când de brațele tânărului ce iubea, ea simți cel mal tare farmec al vieții.</p>
+<p>Pe când însă pe apa Bosforului se petrecea acesta scenă a tinereții; acasă la Amelaiur domnea furtuna.</p>
+<p>Bătrânul ei soț se treizi din somn și văzând că tânăra-i soție lipsește de lângă dânsul ; începu să strige, să zbiere până ce toată casa era în picioare.</p>
+<p>Slugile căutau în drepta și în stânga, și cercetările lor însă, erau zadarnice.</p>
+<p>Turcul turba de mânie.</p>
+<p>Ar fi căutatu-o și în pământ, pentru a o putea găsi.</p>
+<p>Tocmai târziu de tot, în revărsatul zorilor intră frumoasă Amelaiur în odaia soțului său.</p>
+<p>— Unde ai fost ? o întrebă el.</p>
+<p> Am avut amețeală și m-am dus pe malul Bosforului, pentru a respira aerul ușor al nopții; îi răspunse ea.</p>
+<p>Amelaiur, tu mă minți! răcni turcul nemaiputându-și stâpăni mânia.</p>
+<p>— Iți jur pe Alah, că ți-am spus tot adevărul.</p>
+<p>— Tu minți Amelaiur, repeta turcul.</p>
+<p>Făcu apoi semn soției sale să se culce. Concedie pe toți servitorii, culcăndu-se și el.</p>
+<p>In pieptul lui fierbea răzbunarea.</p>
+<p>Amelaiur adormi.</p>
+<p>Scena din astă noapte se reînoi în visurile ei.</p>
+<p>Și cum era răpită în exstazul unei dragoste înfocate, ea strânse cu căldură pe soțul ei la pieptul, îl sărută și buzele ei murmurară :</p>
+<p>— Costis, te iubesc ! te iubesc ! . . .</p>
+<p>Ca un leu se repezi turcul de lângă dânsa, trase iataganul ce spânzura la peretele de la capu-i și gâtul frumosei Amelaiur fu crestat în două.</p>
+<p>Chiar a doua zi Costis află despre cele petrecute. Nu se sinchisi însă de loc.</p>
+<p>Asistă în persoană la transportarea cadavrului către cimitir, dar nu scose nici o lacrimă, nu avu nici o remușcare.</p>
+<p>Iată ce fel de om era Costis.</p>
+<p>De o jumătate an Constantin și cu Amelia se aflau în Constantinopol.</p>
+<p>Trăiau liniștiți.</p>
+<p>Frica pentru crima ce comisese în București, începu încetul cu încetul să dispară.</p>
+<p>Un lucru numai îl cam supăra. Banii începeau a se isprăvi.</p>
+<p>Aceasta neliniști mult pe Constantin și-l făcu a se gândi ce negoț să înceapă.</p>
+<p>În timpul căt șezu în Constantinopol, se făcu bun prieten cu un turc.</p>
+<p>Acesta avea puține parale și cu ceea ce-i mai rămaseră și lui Constantin, putură forma un capital.</p>
+<p>Se sfătuiră amândoi și deciseră a întreprinde un comerț de orez.</p>
+<p>Orezul era ieftin în Constantinopol și Constantin, în urma, calculelor făcute, văzu că la 10 mii oca orez vândut în România va putea câștiga numai partea lui aproape o sute galbeni.</p>
+<p>Orezul fu cumpărat.</p>
+<p>Constantin trebuia să se despartă de Amelia.</p>
+<p>— Dragă, îl zise el, în ziua plecării sale; te las singură, fii încredințată încă că peste cel mult 10 zile voi fi înapoi.</p>
+<p>— Dar eu nu vreau să pleci, îi zise ea, împresurându-i gâtul cu brațele sale și umplându-l de sărutări.</p>
+<p>— Nici eu nu aș voi să plec, știi însă în ce pozițiune ne aflăm. Ce om face, dupe ce vom isprăvi toți banii?</p>
+<p>Amelia tăcu.</p>
+<p>Momentul plecării era hotărât pentru cinci ore după prânz.</p>
+<p>Până la această oră ei se îmbrățișară, se sărutară cu căldură și Amelia nu înceta să roage pe Constantin a nu o uita.</p>
+<p>— Vezi mai cu seamă, îi zise ea, ca nu cumva ducându-te în România să fii recunoscut, bănuit de autor al crimei și dat pe mâna cărmuirii. Gănedește-te ca dacă ți se va întâmpla vreo nenorocire, mă voi omorî numaidecât. Tu știi bine că fără tine eu nu voi putea trăi.</p>
+<p>— Fii sigură dragă mea că D-zeu, care vede dragostea noastră, ne va feri de orice rău. Tu trebiie să nu-ți faci nici o închipuire urâtă.</p>
+<p>— Voi trece tot timpul lipsei tale în rugăciuni, îi răspunse ea.</p>
+<p>La trei ore și jumătate turcul tovarăș, veni să ia pe Constantin.</p>
+<p>El părăsi pe Amelia în mijlocul unei dureri nedescrise,</p>
+<p>Ea începu să plângă și lacrimi se văzură lucind în ochii lui Constantin.</p>
+<p>Amelia îl conduse pană la barieră. Aici se îmbrățișară încă o dată, fața tânărului fu stropită de lacrimile copilei.</p>
+<p>Și tot cu ochii înmuiați de lacrimi, privi ea pe Constantin, până ce îi pierdu urma, pană ce nu îl mai zări.</p>
+<p>— D-deule, apără-l de orice pericol! exclamă ea ridicând ochii spre cer și se întorse înapoi spre mica-i locuință.</p>
+<p>Ne este peste putință ca să putem descri tristeța Ameliei, în momentul întrării în acea cameră solidară, unde totul arăta prezența recentă a scumpului ei amic. *</p>
+<p>Ea șezu lângă acea masă, lângă care scaunul era încă gol pe care șezuse cu o oră mai înainte Cunstantin ; și fiindcă se hotărâse a nu se culca, luă o carte și începu să citescă.</p>
+<p>Se înoptă și Amelia, aprinse lumănarea.</p>
+<p>Dar,lucru singular, în timpul citirii sale lumănarea se stinse de trei ori și nu deodată, nu din întâmplare, ci singură, cu încetul, ca o gură care încetează de a respira ca un suflet care zboră.</p>
+<p>Amelia, ca toate femeile, era superstițioasă.</p>
+<p>Regretul ce simți pentru că a lăsat pe Constantin să plece, deveni o remușcare, tristețea sa o disperare.</p>
+<p>Totuși ea se liniști puțin, căci observă că cele trei agonii ale lumânării, avură loc pe când citea un pasaj care vorbea despre mortea unui amant în ajunul nunții sale.</p>
+<p>Veni ziua și Amelia tot citea. Ea contase pe ziuă, pentru a goni orice tristețe dar ziua era tristă și posomorâtă ca o zi de iarnă.</p>
+<p>*) După A. Dumas</p>
+<p>Lăsă cartea și începu să lucreze la o broderie, lucrul însă nu putu s-o distreze niciun moment.</p>
+<p>Își aducea necontenit aminte de stingerea lumânării, aceasta era pentru dânsa o prevestire tristă căci, desigur, se gândea ca trebuie să se fi întâmplat ceva lui Constantin.</p>
+<p>Ziua trecu plină de tristețe și se termină încă și mai tristă.</p>
+<p>Amelia, pentru prima dată, plecă singură să se plimbe pe malul Bosforului. Avea nevoie de aer.</p>
+<p>Seara, pe la 9 ore intră în camera, sa și obosită din cauza drumului, nu făcu nici un obstacol în contra somnului; se culcă și adormi îndată.</p>
+<p>Îndată însă ce lumânarea se stinse, îndată ce ochii ei fură închiși, îndată ce memoria își pierdu strălucirea sa. Aurelia dete un țipet, sări din pat și pipăind ici colo, alergă către ușă.</p>
+<p>Ceasornicul de la biserica cea mare bătu de 11 ori.</p>
+<p>După un minut de reflecție, Amelia aprinse lumânarea și văzu pe patul său, palidă, gănditoare, dar fără a-și întorce privirile de la ușă.</p>
+<p>Ea visase că Constantin fu arestat la întorsătura unei șosele, că se lupta cu vreo doisprezece oameni, care aveau niște fețe sinistre.</p>
+<p>I se păru chiar că a auzit îndoita detunătură a pistoalelor lui Constantin și o voce striga parcă la urechea sa.</p>
+<p>„Ajutor! “ . . .</p>
+<p>După căteva minute însă, rațiunea învinse acea frică care era fără motiv ; se culcă din nou și adormi.</p>
+<p>Dar visul ei urmă cu o acțiune începută și care trebuia să se termine,</p>
+<p>Ea văzu pe Constantin întins la pământ</p>
+<p>la marginea unui drum, cu o lovitură de pumnal la inimă.</p>
+<p>Și în line, în mijlocul unui pei agiuisiolat, între niște munți acoperiți de zăpadă, era o groapă de curând făcută, a cărei țarină rămase ca o pată neagră pe marea mantă albă a ernei,</p>
+<p>Când se deștepta Amelia, dupe acest al doilea vis, dispăruse.</p>
+<p>Ea nu mai pierdu timpul, îi veni o idee și-și luă o hortărâre nestrămutată. Cu puținele parale ce-i lăsase Constantin pentru cheltuială și ceea ce luă dupe vânzarea unor cercele ce avea ; ea își cumpără un cal, îmbrăca un costum bărbătesc și pleacă după urmele iubitului ei :</p>
+<p>A doua zi de dimineță era pe drum, ea umblă pană la 10 ore sear și ar fi vrut să umble încă, dacă calul nu i-ar fi refuzat această voință.</p>
+<p>Umblase cincisprezece mile și avea trebuință de puține ore pentru repaos.</p>
+<p>Astfel dar, Amelia fu silită a se opri la un mic orășel ce-l întâlni în drumul ei</p>
+<p>Trase la un birt, care după aspectul său dovedea că antreprenorii erau oameni săraci și de obicei acest loc nu era locuit decât de câțiva păstori.</p>
+<p>După ce dete toate îngrijirile necesarii calului, de care se ocupa forte mult, se gândi și la dânsa și ceru o supă.</p>
+<p>Proprietarii observând că tânărul aparținea unei clase superioare, celei care de obicei se oprea la birtul lor, îi serviră supeul într-o cameră mai separată.</p>
+<p>Acestă cameră era o sală forte mica abia luminată printr-o lumânare,</p>
+<p>O bătrână femeie conduse pe Amelia în aceasta camera, unde se prepară o masă și supeul său trebuia să înceapă printr-un pilaf și să termine printr-o friptură.</p>
+<p>Pe când toate acestea se preparau, deghizatul june neliniștit se plimbă de-a lungul și de-a latul camerei, ascultând zgomotul pașilor săi.</p>
+<p>În fine, supeul dorit sosi.</p>
+<p>Bătrâna termina prin a pune pe masă un pahar și o butelie. întrebă apoi pe Amelia dacă mai dorește ceva și la răspunsul ei negativ, ieși, lăsând pe voiajor singur în față supeului său..</p>
+<p>Amelia voia să termine mai curând cu acea slabă cină.</p>
+<p>În acest timp speră că calul ei, pe care îl pusese înaintea unei iesle cu ovăz, va relua forțele necesare pentru a putea urma drumul.</p>
+<p>Scoaie mantaua de pe dânsa, o puse pe o ladă, și șezu lângă masă.</p>
+<p>Dar abia se așezase pe scaun și în partea cealaltă a mesei, adică vis-a-vis de dânsa văzu, fără a știe pe unde intrase, nici cum venise pănă acolo, văzu pe Constantin, care ședea, cu brațele încrucișate și-i surâdea cu tristețe.</p>
+<p>Deși această expresie nu era aceea ce lucea de obicei pe fața iubitului ei, fiind totdeauna vesel sau cel puțin arătaându-se astfel; cu toate astea Amelia-l recunoscu numaidecât și dete un țipăt de extremă bucurie.</p>
+<p>— Ah! strigă ea, iată-te în fine scumpul meu Constantin!</p>
+<p>Și se sculă pentru a-l îmbrățișa.</p>
+<p>Dar nu strânse decât aerul. Brațele sale deschise se întâlniră fără a fi atins nimic.</p>
+<p>De trei ori aparițiunea dispăru ca un fum la îmbățișările copilei disperate</p>
+<p>Și cu toate astea fantoma era vizibilă, șezând în același loc fără a se mișca.</p>
+<p>Amelia începu a înțelege că are a face cu o umbră.</p>
+<p>Fiindcă era aceea a omului ce iubea mai mult în lume, nu se temu, ci din contră, începu a-i face mii de întrebări.</p>
+<p>Nu numai că nu primi nici un răspuns, dar încetul cu încetul viziunea păli, se stinse ca un fum și dispăru.</p>
+<p>Viziunea venise să confirme visul. Amelia nu se gândea decât numai la Constantin.</p>
+<p>Desigur, trebuie să se fi întâmplat vreun grav accident iubitului ei, pentru ca D-zeii să-i trimită acest triplu avertisment. -</p>
+<p>Chemă pe stăpâna birtului, plăti supeul ce nu măncaase și ducându-se în grajd, puse șena pe cal și plecă.</p>
+<p>Ș-ar fi zis că ceva supranatural ar însuflat și pe cal și pe copilă.</p>
+<p>Amelia umblă tot restul nopții, toată ziua următoare, și seara la șapte ore, sosi într-un alt orășel.</p>
+<p>Acolo, cu toată dorința ce avea a-și urma drumul, fu silită a se opri.</p>
+<p>Calul ei, nu putea să mai facă un pas.</p>
+<p>Și chiar ea însuși avea necesitate de repaos.</p>
+<p>Umblase o noapte și o zi fără a se repausa decât foarte puțin.</p>
+<p>Ceru o cameră și se culcă fără a supa.</p>
+<p>Deși oboseala Ameliei era mare, preocupațiunea spiritului însă era și mai mare.</p>
+<p>Aceasta făcu deși culcată, deși lumânarea nu mai ardea, ea însă nu putu să doarmă.</p>
+<p>Fereastra camerei sale nu avea nici perdele, nici transperant.</p>
+<p>Lumina lunii străbătea prin geamuri și din ce în ce devenea mai clară, luându-și reflexul de la zăpada ce presăra acel pământ.</p>
+<p>Amelia, era culcată, cu ochii fixați pe acea palidă lumină ce intra prin fereastră în cameră.</p>
+<p>Dar deodată auzi un sgomot ușor, cineva urca scările.</p>
+<p>Zgomotul deveni mai tare și se apropie de ușa sa.</p>
+<p>Ușa se deschise, Amelia luă un pistol după măsuță, de noapte și-l îndreptă spre ușă.</p>
+<p>Dar pe pragul ușii, apăru un june învelit într-un mantei negru, plin de zăpadă.</p>
+<p>Acest june se apropie de pat, trase la o parte mantelul ce-i acoperea o parte a feței, și Amelia recunoscu pe Constantin.</p>
+<p>Amelia aruncă pistolul, dete un țipăt și voi să sară jos din pat, însă Constantin îl făcu cu mâna un semn trist și imperativ în același timp.</p>
+<p>Amelia remase la locul său, fără voce, fără respirație, fără mișcare, cu ochii sgăiți de spaimă, în această pozițiune polidă ca o umbră adormită.</p>
+<p>Ea era foarte sigură că această viziune era aceeași ce îi apăruse la orășelul ce trecuse.</p>
+<p>Spectrul aruncă mai întăi mantelul, apoi hainele sale, făcând semn cu mâna Ameliei a-i lăsa în pat locul său obișnuit.</p>
+<p>În urmă se culcă lângă dânsa.</p>
+<p>Amelia era înspăimântată, rămânând inmobilă, rezemându-se în una din mâinile sale și privind în față pe iubitul ei.</p>
+<p>Apoi după un moment.</p>
+<p>— Constantine, zise ea cu o jumătate voce ești tu ? vorbește, răspunde.</p>
+<p>Constantin tăcea.</p>
+<p>— Dacă bunul Dumnezeu, urmă Amelia permite ca legile ordinare ale naturel să fie turmentate, Dumnezeu are un scop. Spune-mi ce voiești Constantine, și-ți jur pe iubirea noastră că voi face orice.</p>
+<p>Constantin nu răspunse.</p>
+<p>— Ești mort, continuă Amelia, și revii în virtutea jurămintelor noastre de dragoste de a nu ne părăsi niciodată ? In cazul acesta iubite, tu vezi bine că eu nu fug de tine.</p>
+<p>Pronunțând aceste cuvinte, Amelia se apropie de iubitul ei, cu brațele deschise, dar dete un țipăt de spaimă ; i se păru că atinsese o statuie de gheață.</p>
+<p>Un ce, care semăna unei lovituri mortale trecu prin tot corpul Ameliei.</p>
+<p>Cât pentru Constantin, tot cu acel surâs trist, ce Amelia văzuse deja pe buzele sale, se sculă, luă una după altă toate hainele sale și ieși din odaie, țiind fără a mișca capul întors câtre iubita lui și făcându-i cu mâna un semn de adio.</p>
+<p>În momentul când Constantin trecea pragul ușii, se păru Ameliei că auzise pe iubitul el oftând din adâncul, inimii.</p>
+<p>Apoi zgomotul pașilor se depărtă coborând scara.</p>
+<p>În urmă totul tăcu.</p>
+<p>— Ah! fără îndoială, murmura copila, lăsând să-i cadă capul pe pernele patului; fără îndoială, Constantin e mort...... cu desăvârșire mort...</p>
+<p>CERCETĂRILE CĂRMUIRII</p>
+<p>Muma Ameliel muri, după cum văzurăm a treia zi după disparițiunea fiicei sale.</p>
+<p>Parchetul după atunci își începu cercetările.</p>
+<p>Un procuror fu însărcinat cu această afacere.</p>
+<p>— Doamnă, întrebă el, în ziua crimei pe disperata mumă, cine venea de ordinar în casa d-tale ?</p>
+<p>— Nimeni domnule, răspunse ea.</p>
+<p>— D-ta aveai o fiică ?</p>
+<p>— Da, domnule.</p>
+<p>— Unde este acum ?</p>
+<p>Și sărmana mumă începu să plângă.</p>
+<p>— Fiica dumitale avea vreun amant doamnă ?</p>
+<p>— Domnule, pronunță nenorocita mumă ' suspinând, fiica mea nu avea de cât 14 ani.</p>
+<p>— Eu nu te întreb despre asta reluă procurorul cu un ton puțin aspru. Voi să știu numai dacă fiica d-tale avea vreun amant ?</p>
+<p>— Nu, d-le nu avea.</p>
+<p>— Atunci, unde e fiica d-tale ?</p>
+<p>— V-am spus domnule că nu știu.</p>
+<p>— Și cu toate astea a dispărut, murmură procurorul.</p>
+<p>Apoi reluă :</p>
+<p>— Femeia omorâtă, cum zici că se numește ?</p>
+<p>— Casandra.</p>
+<p>— E rudă cu D-ta ?</p>
+<p>— Da, Domnule.</p>
+<p>— Venia întotdeauna în casa d-tale ?</p>
+<p>— Nu, venea foarte rar.</p>
+<p>— Ea e măritată ?</p>
+<p>— Nu.</p>
+<p>__Cu ce se hrănește ?</p>
+<p>— Avea un amant.</p>
+<p>— Mai trăia cu dânsul ?</p>
+<p>— Nu pot știi.</p>
+<p>— Și cum se numea acel amant ?</p>
+<p>— Gheorghe.</p>
+<p>— Ce ocupație avea ?</p>
+<p>— Nu pot știi.</p>
+<p>— D-ta unde ai fost pe când s-a comis crimă ?</p>
+<p>— La o vecină, m-am dus să croiesc o rochie pentru Amelia.</p>
+<p>Bătrâna mumă începu din nou să plângă.</p>
+<p>— Aveai bani în casă.</p>
+<p>Ea se gândi puțin.</p>
+<p>— Nu am decât zestra fiicei mele.</p>
+<p>— În ce sumă sunt toți acești bani?</p>
+<p>— 300 de galbeni în hărții turcești.</p>
+<p>(Va urma)</p>
+<p>Toate drepturile rezervate autorului</p>
+<p>(Urmare)</p>
+<p>— Și unde țineai acești bani.</p>
+<p>— Aici, în acestă ladă.</p>
+<p>— Acum sunt tot acolo?</p>
+<p>— Nu știu.</p>
+<p>— Fii bună și caută.</p>
+<p>— Bătrâna femeie se apropie de ladă, o deschise, dar deodată rămase încremenită.</p>
+<p>Batista cu banii erau dispăruți.</p>
+<p>Ea dete un țipet.</p>
+<p>— Ce este Doamnă ? întrebă procurorul.</p>
+<p>— Banii de aici lipsesc.</p>
+<p>— Pe cine bănuiești că ți-a luat, întrebă iute procurorul căutând să surprindă bănuiala sărmanei femei.</p>
+<p>— Nu știu ce să zic, Domnule răspunse ea.</p>
+<p>— Lada era deschisă?</p>
+<p>— Nu.</p>
+<p>— Unde țineai cheia.</p>
+<p>— În acest săltar.</p>
+<p>— Cine știa că aici ai cheia ascunsă ?</p>
+<p>— Nimeni.</p>
+<p>— Cum nimeni ?</p>
+<p>— Da, Domnule, nimeni, afară de fiica mea.</p>
+<p>— Că ai bani, cine altul mai știa?</p>
+<p>— Tot nimeni, aceste erau secrete pe care numai eu și fiica mea le cunoșteam.</p>
+<p>— Procurorul se gândi puțin.</p>
+<p>— El puse mâna la frunte, voind parcă a nu lăsa să-i iasă gândurile, care căutau a izbucni din capu-i.</p>
+<p>— Doamnă, (zise el în urmă; în casa D-tale trebuie să fi venind cineva.</p>
+<p>— Nu, D-le, nu venea nimeni,</p>
+<p>— Fiica D-tale avea un amant! rosti pentru a doua oară Procurorul.</p>
+<p>— D-le, răspunse femeiea; ceea ce-mi spuneți D-voastră, mă face să mă înspăimânt.</p>
+<p>— Știi Doamnă, cu cine vorbești?</p>
+<p>— Domnule....</p>
+<p>— Sunt procurorul și pot să te arestez la orice minut.</p>
+<p>— Dar, D-le.....</p>
+<p>— Încă o dată te întreb, cine e amantul fiicei D-tale ?</p>
+<p>— Fiica mea, D-le nu avea amant.</p>
+<p>— Minți, Doamnă!.....</p>
+<p>— Bătrâna femeie începu să plângă cu hohot.</p>
+<p>Durerea ce se deschidea în pieptul el, era prea mare.</p>
+<p>Pe de o parte amenințările omului cârmuirii, de cealaltă parte disparițiunea fiicei sale, toate aceste o făceau să înebunească.</p>
+<p>Și cu toate astea procurorul avea dreptate.</p>
+<p>El se găsea în fața unei crime făptuită numai de câteva ceasuri;</p>
+<p>Pentru un moment procurorul aruncă totă bănuiala sa asupra bătrânei femei.</p>
+<p>O credea complice.</p>
+<p>Nu știa însă cum să-și explice disparițiunea fiicei sale.</p>
+<p>În tot cazul el trebuia să afle.</p>
+<p>Începu din nou interogatorul său:</p>
+<p>— Doamnă, caută să-mi spui tot adevărul îi zise el; cu felul acesta vei putea scăpa și D-ta și fiica D-tale.</p>
+<p>— Dar nu știu ce să vă spun Domnule.</p>
+<p>— E ! nu știi, lasă că am mai văzut eu de astea.</p>
+<p>— Vă jur D-le că nu știu nimic.</p>
+<p>— Înțeleg eu destul de bine, D-ta cunoști pe asasinul, ți-e frică însă a mi-l spune, ca nu cumva prin această să compromiți pe fiica D-tale; tăcând însă, o vei compromite mai mult.</p>
+<p>— În numele cerului D-le, dar nu te gândești că e destulă durerea ce am pentru pierderea fiicei mele ? !</p>
+<p>Aceste cuvinte erau pronunțate cu o durere profundă. Bătrâna fenice nu putu să mai vorbească. Ea căzu într-un delir de disperare. Procurorul o părăsi în speranță că revenindu-și în fire va putea să afle mai multe amănunte, care să-l pună pe urma omorâtorului.</p>
+<p>Se înșelă însă.</p>
+<p>Cu toții știm că bătrăna femeie muri puțin mai târziu.</p>
+<p>Și astăzi încă la cimitir, lângă mormântul Casandrei, se distinge și un alt mormânt, care este al sărmanei mume.</p>
+<p>O nelegiuire</p>
+<p>Tot în acest timp, o altă crimă se comitea în capitala României.</p>
+<p>In podul de pământ, astăzi calea Plevnei,la o distnață ca de 150 pași departe de fostul pod al gârlei, în niște bine ale făcute și de curând reparate, locuia D-l Z om învățat și cu o pozițiune mare în societate.</p>
+<p>Acest Domn e mai mult în etate, număra peste 40 ani, cu toate astea e bine făcut și nu arată mai mult decât 30 pănă la 35 ani.</p>
+<p>Față lui are culoarea bronzului, mustățile îi sunt lungi, ochii mici și pătrunzători.</p>
+<p>Sunt șase ore, D-l șade la masă, un servitor îmbrăcat în uniformă stă smirnă înaintea lui</p>
+<p>Nu isprăvise încă de mâncat, când clopoțelul de la poartă anunța venirea unui personaj.</p>
+<p>— June, zise D-l Z.</p>
+<p>— Porunciți! răspunse sluga din picioare cu un ton milităresc.</p>
+<p>— N-ai auzit ?</p>
+<p>— Ba da, auzit!</p>
+<p>— Du-te atunci de vezi cine este și întoarce-te curând.</p>
+<p>— Înțeles, Domnule.....Și Ion ieși afară.</p>
+<p>După trei minute se întoarse înapoi ținând în mână o scrisore.</p>
+<p>— Ce este? întrebă stăpănul său.</p>
+<p>— Telegramă, să trăiți Domnule ....</p>
+<p>— Telegramă, cine a adus-o ?</p>
+<p>— Impărțitorul de scrisori.</p>
+<p>— Din ce loc vine ?</p>
+<p>— Nu cunosc, nu pot sți.</p>
+<p>D-l Z.- rupse plicul, citi, rupse după aceea și depeșa și se adresă servitorului său zicăndu-i:</p>
+<p>— Vino mai aproape.</p>
+<p>— Îndată ; răspunse el cu un ton scurt</p>
+<p>— Du-te și spune vizitiul să puie caii la trăsură.</p>
+<p>— La cipeală, Domnule ....</p>
+<p>— Dar ascultă, știi tu când sosește trenul la gara Tărgoviște ? sau ești tot nătărău.</p>
+<p>— Da să trăiți D-le . . la ceasul opt ș-un sfert.</p>
+<p>— Haide du-te acum și fă ce ți-am poruncit.</p>
+<p>— Înțeles ! pronunuță servitorul îmbrăcat în uniformă și ieși afară,</p>
+<p>Ceasul din perete nu bătuse încă opt ore când D-l Z într-o trăsură trasă de doi cai negri că pana corbului, mergea spre gara Tărgoviște.</p>
+<p>— Trenul n-a sosit încă ? întrebă omul cu fața arămie pe un impiegat de acolo.</p>
+<p>— Nu, Domnule, îi răspunde acesta. Trebuie însă să sosească peste cinci minute.</p>
+<p>D-l Z* intră în bufet, luă o dulceață se mai plimbă puțin prin sală, când iată auzi o șuierătu depărtată.</p>
+<p>Era trenul. Șuierătura se auzea din ce în mai puternică, apoi încetă. Trenul sosise, D-l Z* se apropie de ușa unei cabine, ușa se deschise și o femeie tânără. înaltă</p>
+<p>și frumosă se dete jos;-era D-șoara lui. Amândoi se îmbrățișară, la amândoi buzele se întâlniră cu căldură, mai schimbară câteva cuvinte, apoi intrară în trăsură și trăsura luă drumul spre Podul de pământ.</p>
+<p>Trecuse o lună, fratele și sora trăiau amăndoi în aceeași casă și se iubeau.</p>
+<p>D-șoara. Z. iubea pe fratele ei cu o iubire frățescă ; nu tot astfel însă eraiubirea celuilalt.</p>
+<p>Era un timp destul de lung de când acești doi frați nu se văzuseră. Unul locuia în București, celălalt în Paris. Adesea D-l Z primea scrisori de la sora lui și mai în fiecare scrisoare îi spunea că suferă că are lipsă de parale.</p>
+<p>În adevăr, viața în Paris e destul de scumpă și D-șoara Z* ducea o viață destul de modestă și onorabilă totodată.</p>
+<p>Cu două sute lei pe lună ce-i trimitea fratele ei de un timp de mai mulți ani, plătea o mică chirie unei familii unde găzduia, avea un profesor, care o medita la limba engleză, cumpăra haine și alte trebuințe.</p>
+<p>Ea iubea, pe fratele el și-l respectă totodată. Se vede de aici că au trăit sub condițiuni diferite pozițiunea cea înaltă a unuia, mica pozițiune a celeilalte, protecțiunea ce-i datora unul, respectul și recunoștința ce-i păstra celălalt; toate acestea făcea să dispară ideea de frate, singură, care poate ține îndepărtare pe unul de altul.</p>
+<p>D-l. Z. la prima vedere, după o lipsă de atâția ani, i se păru că sora lui e frumoasă, îi părea bine de asta.</p>
+<p>Dar nu însă, nu doamne ferește cu vreun gând rău.</p>
+<p>Cu toate astea se deschidea un gol din zi în zi mai mare în inima d-lui Z.</p>
+<p>Acest gol, care începuse a-l tortura,</p>
+<p>care-l făcea adesea, să apese mâna pe piept și să viseze, ore multe sa stea în nemișcare dus pe gânduri, acest gol dispărea numai atunci, când ochii surorii se întâlneau cu ai lui.</p>
+<p>Avea se vadă electricitate d-ra Z. în ochii săi, și această electricitate nu-i pătrundea numai vederile, pătrundeau până la inimă, după cum zice poporul.</p>
+<p>Ii plăcea s-o vadă, și văzând-o azi, văzând-o mâine, un ce neiertat se ivea între dânșii, și acest ce-i strângea, ce-i lega.</p>
+<p>Sora lui-i cam înțelesese ideile cele rătăcite și se cam ferea, de privirile lui aprinse, înflăcărate, care cădeau asupra ei.</p>
+<p>O dată d-l Z. ostenit intră în iatacul de toaletă, se trânti pe pat și adormi. Peste câteva minute intră și sora lui și văzându-l adormit se apropie de dânsul, luă o manta și voi să-l învelească. El se trezi se uită lung la ea, o apucă de mână și-i zise:</p>
+<p>— Mă gândeam la tine dragă surioară.</p>
+<p>— Dar dormind te gândeai ?</p>
+<p>— Da, te visam : erai tot așa de frumoasă, după cum ești. Dar nu erai parcă în aceste haine îmbrăcată. Părul tău era dezpletit, aruncat pe spate și fața ta abia se zărea prin el. Pieptul tău, mai mult gol ca un val spumat se lăsa și se ridica sub greutatea unul suspin.</p>
+<p>După aceea te văzui tremurând, aveai o neliniște sufletescă. Dormeai și tu, erai lângă mine, însă nu purtai aceste haine, aveai o rochie albă..., nu era rochie...</p>
+<p>Și d-l Z. strânse mâna surorii sale, o apropie de dânsul și o sărută.</p>
+<p>De mai multe ori s-au sărutat ei, de mai multe ori buzele lor s-au întâlnit și au rămas lipite, dar nicio ată ca astă dată, n-au simțit atâta căldură, inimile lor n-au bătut cu atâta foc.</p>
+<p>— Știi tu dragă surioară-i zise D-l Z. din ce în ce mai impresionat, știi tu că înainte de-a te vedea nici nu mă gândeam la tine.</p>
+<p>— Dar bine, de când mă cunoști?</p>
+<p>— De’o lună.</p>
+<p>— Ce spui?... Îi răspunse ea bătându-l ușor cu palma pe obraz. Ce spui... o lună o fi, dar mai înainte de a mă duce la Paris ?</p>
+<p>— O, atunci era atunci; au trecut prea mult timp și anii m-au făcut să te uit. Când însă te-am văzut așa de frumoasă, cu niște ochi așa de mari, așa de negri și scântâietori, era atunci când te- am văzut pentru întâia dată.</p>
+<p>Astfel trecu timpul; ei tot se iubeau și nimeni nu știa aceasta, nimeni afară de ei. . .</p>
+<p>Și cine putea să-și închipuie vreodată că doi frați s-ar putea iubi cu un asemenea amor.</p>
+<p>Trecuse o jumătate an, d-l Z. începu să slăbească.</p>
+<p>Un gând negru, gând afurisit-i muncea sufletul.</p>
+<p>Venise iarna, era luna Februarie. Un ger îngrozitor înghețase pământul și un vânt amestecat cu zăpadă, mugea, mugea înfiorător.</p>
+<p>E miezul nopții. Ceasul din perete a bătut 12 ore.</p>
+<p>Intr-o odaie dormea d-l. Z., într-alta sora d-lui.</p>
+<p>D-l Z. însă nu dormea, același gând-i amețea capul, și aceleași idei nelegiuite îi rătăceau mintea.</p>
+<p>Deodată el își luă o hotărâre.</p>
+<p>Se sculă în picioare, și încet, încet, numai în vârful degetelor, trecu în odaia cealaltă.</p>
+<p>Aici dormea sora lui.</p>
+<p>O candelă atârnată înaintea iconei Maicii Domnului, răspândea o lumină slabă și dulce.</p>
+<p>Poate că și dânsa-l visează acum, poate că sufletul ei, sub zborul nopții alergă spre el, spre fratele ei și poate că acum nu vede împosibilitatea pe care le-o pune lumea.</p>
+<p>În întunericul nopții, ca și în întunericul care domnea în pieptul ei, vede pe omul ce iubește, nu pe fratele căruia-i datorează respect.</p>
+<p>D-le Z se apropie mai mult de patul ei și o atinse încet cu mâna.</p>
+<p>Totul dormea și numai când buzele lui întâlniră alba ei frunte se trezi frumoasa copilă și cea dintâi ființă ce văzu fu fratele ei.</p>
+<p>— Tu ești ? întrebă ea.</p>
+<p>— Da, sunt eu răspunse el cu o voce scurtă și puțin încurcată.</p>
+<p>— Dar ce cauți aici ? îl întrebă mișcată de această purtare.</p>
+<p>— Ce cauți? nimic, am venit să te văd.</p>
+<p>— Dar bine, nu ți-e somn ?</p>
+<p>— Nu Dragă, nu; pronunță D-l Z. . . . uitându-se fix la dânsa.</p>
+<p>—Pentru ce stai atunci aici ? pentru ce mă privești cu atâta curiozitate ?</p>
+<p>— Pentru ce te privesc ? Mai întreba în zadar, și mai bine pentru ce D-zeu te-a făcut așa de frumoasă, pentru ce în pieptul tău păstrez atâta foc, pentru ce ochii tăi pătrund așa de adânc în inima mea ? fă-mi aceste întrebări și poate-ți voi răspunde mai curând. Da, îți voi răspunde ? Pentru că te iubesc.</p>
+<p>— Mă iubești ? și în ce fel ?</p>
+<p>— Cu un amor nedescris, cu un amor pe care în timp de o jumătate de an caut în zadar ca să-l sting.</p>
+<p>— Dar eu nu înțeleg nimic. </p>
+<p>— Vei înțelege, când buzele mele vor sta mai mult lipite de ale tale, când brațul meu te va strânge și te va lipi de mine, atunci vei înțelege, vei înțelege, dragă surioară.....</p>
+<p>— O, taci! taci-i zise ea acoperindu-și fața.</p>
+<p>Dar D-nu Z. nu mai pierdu timpul , șterse orice păcat, intră sub plapumă, un lung și necurmat sărutat urmă și numai zorile zilei putură să-l deștepte din delirul unui neleguit amor.</p>
+<p>Și de atunci nu a fost seară ca să nu doarmă amândoi, nu a fost noapte ca întunericul să nu-i cuprindă pe amândoi sub neagra lui manta.</p>
+<p>Trecu timp, trecu zile și luni și tot amândoi trăiau.</p>
+<p>Și erau fericiți.</p>
+<p>Nimic nu-i tulbura ~</p>
+<p>Nici o mână nevăzută nu veni să-i oprească din calea pe care apucaseră și pășeau cu cutezanță.</p>
+<p>De la o vreme însă totul se schimbase.</p>
+<p>Binele se prefăcu în rău, fericirea în nefericire, delirul dragostei în grozăvia disperării.</p>
+<p>Într-o zi, D-nu Z. întorcându-se de la o afacere, la care-l reclama serviciul, găsi pe sora lui plângând.</p>
+<p>— Ce ai ? o întrebă el. Pentru ce aceste lacrimi se văd pe fața ta ?</p>
+<p>— Oh! nu mă întreba, îi răspunse ea, simt că voi muri, o greutate care mă apasă-mi va zdrobi pieptul și inima.</p>
+<p>— Nu înțeleg deloc, zise D-nu Z. apropiindu-se de sora lui și cuprinzând-o în brațe.</p>
+<p>— Tu nu știi încă, tu nu știi, murmură nenorocita sora că peste cinci luni voi fi mamă.</p>
+<p>— Mamă exclamă atunci și dânsul ridicându-se în picoare, încruntând sprincenele</p>
+<p>și uităndu-se în pământ cu o pauză gănditoare.</p>
+<p>— Vei deveni mamă ! . . .</p>
+<p>Și cu gândurile încurcate, cu privirile rătăcite, dar cu săngele tot rece, sănge de militar, întrebă, fără a scie ce întrebă:</p>
+<p>— Dar de unde stii că peste cinci luni vei deveni mamă ?</p>
+<p>— Întrebarea ta, îi răspunse dânsa cu vocea înecată în suspine, întrebarea ta îmi arată o nouă pedeapsă a cerului.</p>
+<p>— Nu, dragă surioară, nu ; pronunță D-l Z. omul învățat și cu pozițiune înaltă în societate. Cerul nu va putea niciodată ca să pedepsescă pe sora unul....</p>
+<p>Și tăcu, și amândoi tăceau.</p>
+<p>Din când în când numai, câte un oftat dureros întrerupea serioasele reflecțiuni ale D-lui Z.</p>
+<p>Au trecut cele cinci luni din ziua când frumoasa surioară povesti fratelui ei ascunsa tăină.</p>
+<p>Sosi momentul în care D-l Z.-. trebuia să devină tată și criminal totodată, cel puțin lumea credea astfel.</p>
+<p>Și ce era el vinovat dacă— chiar așa— sora lui ?</p>
+<p>Vinovat e amorul și minte acel care va spune că omul e stăpân pe amor.</p>
+<p>Au trăit sub condițiuni diferite, am arătat aceasta și e legea naturală, care permite să se iubească.</p>
+<p>Proba o avem evidentă, toți câți ați cunoscut și cunosc încă pe D-l Z. vor zice că e o persoana bună, inteligentă și amabilă.</p>
+<p>Vom arăta așadar pe frate și vom inculpa circumstanțele, care au adus lucrurile astfel.</p>
+<p>Să lăsăm însă vorba lungă, frazele pompoase și fără niciun efect și să vedem, nu cu puține curiozitate, ce va face D-l Z. cum va scăpa din încurcutură în care singur a intrat.</p>
+<p>Sună clopotul, Ion servitorul îmbrăcat în uniformă intră înăuntru.</p>
+<p>— Ascultă, îl zise el cu o voce sonoră.</p>
+<p>— Porunciți! răspunse servitorul.</p>
+<p>— Spune vizitiului să puie căii la trăsură.</p>
+<p>— Am înțeles !</p>
+<p>Și Ion ieși afară.</p>
+<p>Peste o jumătate ceas D-l Z. era pe drum și se opri la o casă mică a unui moșii.</p>
+<p>Trebuie să spunem însă că criminalul frate—să întrebuințăm această calificație o bicinuită—era cu totul schimbat.</p>
+<p>Nimeni nu l-ar fi putut cunoaște. Și haine, și față, cu totul era schimbat.</p>
+<p>El intră înăuntru și împreună cu el încă alte două persoane.</p>
+<p>(Va urma)</p>
+<p>Toate drepturile rezervate autorului</p>
+</div>
+  </body>
+ </text>
+</TEI>

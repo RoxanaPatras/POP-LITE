@@ -1,0 +1,1570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ileana. Roman de senzație: ediție POPLITE</title>
+                <author>Caselli, D.</author>  
+                <respStmt>               
+                    <resp>codare POPLITE</resp>
+                    <name>Teodora Iuriusciuc</name></respStmt>   
+                <respStmt>
+                    <resp>corectură manuală</resp>
+                    <name>Maria Ardelean</name>
+                </respStmt>
+                <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>UAIC</publisher>
+                <date></date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+                <ref type="doi" target="10.5281/zenodo.7342136"></ref>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Caselli, D.</author>
+                    <title>Ileana. Roman de senzație</title>
+                    <pubPlace>București</pubPlace>
+                    <publisher>FOITA ZIARULUI „ROMÂNUL”</publisher>
+                    <date>1899</date>
+                    <decoNote type="ilustratii" subtype="no"/>
+                    <dim unit="char" type="mic"/>
+                    <extent>
+                        <measure unit="word">16890</measure>
+                        <measure unit="page" type="under_250"/>
+                        <measure unit="foileton" type="under_65"/>
+                        <measure type="incomplete"></measure>
+                    </extent>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme='https://opentheso.huma-num.fr/opentheso/api/theso/Typologie'>
+                    <term type='domaine' ref="https://hdl.handle.net/20.500.11942/crteb7oodgosm">literatura</term>
+                    <term type='factualite' ref="https://hdl.handle.net/20.500.11942/crt22aacdhvi7">fictiune</term>
+                    <term type='forme' ref="https://hdl.handle.net/20.500.11942/crtnufdew1lfb">proza</term>
+                    <term type='genre' ref="https://hdl.handle.net/20.500.11942/crthuyig1pxri">roman</term>
+                    <term type='agencement' ref="https://hdl.handle.net/20.500.11942/crtbdm5xnc6io">foileton</term>
+                    <term type='origine' ref="https://hdl.handle.net/20.500.11942/crtxolq1evsr9">opera originala</term>
+                    <term type='discours' ref="https://hdl.handle.net/20.500.11942/crt4wma17ncnj">narativ</term>
+                    <term type='public' ref="https://hdl.handle.net/20.500.11942/crthb4el4r5qc">non défini (public cible)</term>
+                    <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
+                </keywords>
+                <keywords>
+                    <term type="receptare" n="5"/>
+                    <term type="republicare" n="2"/>
+                    <term type="finished"></term>                
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+                <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+                <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
+                <p>Masura de tip "incomplete" indica faptul ca am gasit romanul in forma incompleta.</p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+<body>
+<div type="part" n="1">
+<p>1</p>
+<p>FOITA ZIARULUI „ROMANUL"</p>
+<p>ILEANA</p>
+<p>ROMAN DE MARE SENZAȚIE</p>
+<p>de</p>
+<p>D. CASELLI</p>
+<div type="section" n="1">
+<p>Capitolul I</p>
+<p>O noapte îngrozitoare</p>
+
+<p>Să năvălească, dar nu va găsi decât un pământ pustiu, unde armata lui va muri de foame!</p>
+<p>Marele postelnic.</p>
+
+ <p>Pe la miezul nopții al lunii lui Octombrie din anul 1330 doi călăreți singuratici amândoi călare pe doi cai negri și înfășurați în lungi mantale și cu căciuli boierești pe cap călăreau pe şoseaua - sau mai bine zis pe drumul - ce ducea de la Câmpulung la sătulețul Mărăcine.</p>
+<p>Norii negri făceau noaptea și mai neagră și mai întunecoasă.</p>
+<p>Dinspre colo după munți o furtună se deslănțuia cu o putere și cu un vuiet teribil.</p>
+<p>Arborii se legănau încoace și încolo.</p>
+<p>Vântul care bătea cu o furie din ce în ce mai tare, dezrădăcina pomii și arborii din colul lor.</p>
+<p>Călăreții erau în tot momentul amenințați cu moartea.</p>
+<p>Crăcile rupte din arbori cădeau la pământ cu un zgomot asurzitor și în căderea lor era cât pe-aci să lovească pe cei doi călăreți.</p>
+<p>Cu un curaj nemaipomenit acești doi oameni mergeau înainte fără teamă.</p>
+<p>În tot timpul acestei călătorii niciunul nu adresă vreun cuvânt.</p>
+<p>Fiecare își avea gândurile lui.</p>
+<p>La ce se gândeau oare acești oameni?</p>
+<p>Poate-și plângeau patria lor ce suferea?</p>
+<p>Cine știe!</p>
+<p>Deodată furtuna trecu și o tăcere solemnă se făcu.</p>
+<p>Vântul nu mai vâjâia.</p>
+<p>O ceață deasă și rece făcea a nu se distinge un lucru la doi pași. Nicio stea nu lucea pe cer, nicio lumină nu se zărea pe tot întinsul câmpului.</p>
+<p>Domnea singurătatea cea mai completă.</p>
+<p>S-ar fi crezut cineva în mijlocul deșertului Sahara, pe unde a trecut de curând Samumul, acel vârtej care zgândărește și înalță cu putere nisipul pustiei, cum biciuește uraganul talazurile mării, și care îngroapă întotdeauna caravane întregi.</p>
+<p>Și așa era!</p>
+<p>Furtuna teribilă trecuse și liniștea cea mai profundă domnea. Jur împrejur, înainte ca și îndărăt era cea mai mare tăcere.</p>
+<p>Cei doi călăreți păreau în mijlocul acestei pustietăți, ca două umbre care dispăreau fără viață.</p>
+<p>— Iarna o să ne apuce prea devreme — întrerupse tăcerea unul dintre călăreți.</p>
+<p>— Adevărat! Timpul e prea rece și abia suntem pe la începutul lui Noiembrie, răspunse tovarășul său. Mai avem mult până să ajungem.</p>
+<p>— Drumurile nu le cunosc eu bine, credeam că d-ta care ești experimentat și mai umblat decât mine, le vei fi cunoscut mai bine.</p>
+<p>— Ai dreptate. Sunt experimentat și umblat. Nu e drum pe care să nu-l cunosc. Însă de când Voievodul a pus să ardă sute de sate, de la Turnu-Severin și până la Craiova, nu se mai găsește nicio cale.</p>
+<p>— Atât de barbar și fără de inimă ca și Carol Robert, nici că am mai văzut! răspunse călărețul dintâi ce se numea Dragota.</p>
+<p>„ Să atace dânsul țara cu ungurii lui, fără ca să aibă cel mai mic cuvânt din partea noastră.</p>
+<p>„ Și să se ia cu un Voievod ca Alexandru care nu i-a făcut niciun rău.</p>
+<p>„ Ce dracu o fi având cu noi?</p>
+<p>— Dar parcă numai cu noi a avut de-a face!</p>
+<p>« Pe Venețieni nu i-a bătut, nu le-a luat Dalmația? </p>
+<p>— Dar pe Palatinul de Treuciu şi pe Milutiu Serbiei?</p>
+<p>— Cum zici ?</p>
+<p>— Și acum umblă să ne ia țara noastră.</p>
+<p>— După cum spui! Dar țara noastră nu este de luat așa ușor, răspunse celălalt  cu un ton mândru care după înfățișarea lui părea a fi un postelnic.</p>
+<p>— Dar tot mai deștept e dânsul. Ne-a apucat înainte cine se scoală mai devreme.</p>
+<p>— Așa este cum zici! </p> 
+<p>— L-apucă somnul mai curând. </p>
+<p> — Lasă gluma la o parte, nu vezi că dânsul a intrat în tunelul Severinului, care și supus lui, și acum se pregătesc ca să năvălească în Muntenia.</p>
+<p>(Va urma)</p>
+</div>
+</div>
+    
+<div type="part" n="2">
+<p>2</p>
+<p>FOITA ZIARULUI „ROMANUL"</p>
+<p>ILEANA</p>
+<p>ROMAN DE MARE SENZAȚIE</p>
+<p>de</p>
+<p>D. CASELLI</p>
+    <div type="section" n="1">
+<p>Capitolul I</p>
+<p>O noapte îngrozitoare</p>
+<p>— Să năvălească, dar nu va găsi decât un pământ pustiu unde armata lui va muri de foame!</p>
+<p>Marele postelnic.</p>
+<p>— Să năvălească, dar nu va găsi decât un pământ pustiu, unde armata lui va muri de foame!</p>
+<p>— Dar povestește-mi cum s-au petrecut lucrurile, cum Carol Robert a intrat în țară? En nu am auzit multe!</p>
+<p>— Iată această narațiune — răspunse marele Epostelnic. Ascultă.</p>
+<p>— Carol Robert, regele Ungariei, supranumit Neapoliteanul punându-se în capul armatei sale care era foarte numeroasă, și fără niciun cuvânt intră în Muntenia pe la Orșova.</p>
+<p> Dânsul avu misiunea mai mult decât toți de a persecuta pe ortodocşi și de a da război muntenilor.</p>
+<p> Dintre Voievozii români din Transilvania care deveniseră catolici, Tomas Farcaș și Dionisie al lui Nicolae, interesați și intrigați, puseseră ochii pe amândouă voievodate Danubiane spre a deveni domni; invitară pe Carol Robert să nu mai dea repaus Muntenilor, pe care îi numeau schismatici și pe care Papa de la Roma prin epistolele sale îi califică de păgâni fărădelegi..  Pe de altă parte curtea acestui rege ad-hoc era plină de cardinali și propagandiști ce întăreau fanatismul papiștilor. Carol Robert nu întârzia dar de a declara război lui Alexandru Basarab.</p>
+<p>— Dar de ce fu supranumit Neapolitanul? întrebă Dragota. </p>
+<p>— Asta e o altă chestiune și am să ți-o spun mai la urmă; dar lasă-mă să isprăvesc întâi — răspunse Marele Postelnic. Alexandru trimise atunci ambasadori la rege — urmă marele Postelnic — ca să-i spună că, deși pe nedrept a intrat cu armele în țară, dânsul însă fiindcă vrea să rămână cu el în pace și amic credincios, ia că-i lasă de bunăvoie Banatul, îi mai plătește și osteneala că a venit cu armata până la dânsul, ba se îndatorează a-i trimite și tribut pe fiecare an și spre mai bună încredințare îi dă chiar pe fiul său, Vladislav, zălog să servească la Curtea regească, toate acestea le îngăduie voios numai ca regele să se întoarcă mai curând în pace și să nu meargă mai departe căci dacă un pas va mai face inainte, nu va fi bine nici de capul lui, nici de armata sa. Aceste ultime cuvinte ,,că nu va fi bine nici de capul lui, nici de armata sa“, făcură pe rege mânios, pe urmă răspunse cu mândrie ambasadorilor : ,,Mergeți de spuneți celui ce va trimis că el este ciobanul oilor mele și de barbă am să-l scot din vizuinele sale“. Pășiră doar Ungurii mai înainte, Muntenii îi așteptară deciși, la primul atac Uugurii fură nevoiți a se retrage, cerură pace. Pacea le fu acordată cu mari foloase pentru Ungaria.</p>
+<p>— Atunci de ce Ungurii n-au părăsit Banatul Severinului?</p>
+<p>— Asta nu pot să știu, dar c-am dau cu gândul.</p>
+<p>— Cam dai cu gândul?</p>
+<p>— Da!</p>
+<p>— Cum?</p>
+<p>— Ascultă: Dionisie, ban al Severinulul, pus de către Carol Robert, nu-i venea lui la socoteală de a părăsi Banatul, unde petrecea de minune și a pierde și acest oferit de regele Ungariei. Dar să nu vorbim despe aceasta și să trecem la Carol Robert. Mi-ai spus de ce fu numit Neapoliteanul.</p>
+<p>— Da!</p>
+<p>— Ei bine! răspunse Marele Postelnic, iată de ce: Tatăl lui, Robert I, este rege al regatului de Neapole și Carol Robert, fiul său, care e tot deodată regele Ungariei și moștenitor al Neapolulul — de aceea fu numit Neapolitanul..</p>
+<p>— Oprește puțin calul, parcă aud ceva, zise Dragota, ținând și calul în loc și trăgând cu urechea ca să audă mai bine.</p>
+<p>— Ce ai auzit?</p>
+<p>— Nu ți se pare, ca un zgomot de pași!</p>
+<p>— Zgomot de pași în vremea aceasta? Nu se poate!</p>
+<p>(Va urma)</p>
+        </div>
+</div>
+    <div type="part">
+<p>3</p>
+<p>FOITA ZIARULUI „ROMANUL"</p>
+<p>ILEANA</p>
+<p>ROMAN DE MARE SENZAȚIE</p>
+<p>de</p>
+<p>D. CASELLI</p>
+        <div type="section" n="1">
+<p>Capitolul I</p>
+<p>O noapte îngrozitoare</p>
+<p>— Să năvălească, dar nu va găsi decât un pământ pustiu, unde armata lui va muri de foame!</p>
+<p>Marele postelnic.</p>
+<p>— Da! Da! Aud foarte lămurit! Este un cal sau un om!</p>
+<p>— Dacă ar fi așa, atunci suntem lângă un sat.</p>
+<p>— Nu e de mirare, se apropie deja zorii.</p>
+<p>Deodată un călăreț trecu pe lângă dânșii.</p>
+<p>Era îmbrăcat într-o rasă călugărească.</p>
+<p>Marele postelnic cum îl văzu avu vreme să-l oprească zicându-i:</p>
+<p>— Cinstite părinte, unde merge calea asta?</p>
+<p>— Unde vă duceți d-voastră? răspunse călugărul călăreț.</p>
+<p>— Voim să știm unde ne aflăm, deoarece nu ne lasă întunericul acesta să găsim calea.</p>
+<p>— Calea asta duce drept în capitala fostului Banat, răspunse călugărul.</p>
+<p>— La Craiova?</p>
+<p>— Da!</p>
+<p>— Apoi acolo n-avem ce căuta!</p>
+<p>— Unde voiți să vă duceți ?</p>
+<p>— La castelul lui Vladislav Mărăcine.</p>
+<p>— Ați greșit calea. Să vă întoarceți înapoi. Veți găsi un deal pe care-l veți lăsa la stânga. Urmați drept înainte și aveți să vă duceți acolo.</p>
+<p>După ce mulțumiră călugărului, ambii călăreți părăsiră calea pe care umblau și apucară pe aceea ce le arătase călugărul.</p>
+</div>
+<div type="section" n="2">
+<p>Capitolul II</p>
+<p>Castelul</p>
+<p>La poalele unui munticel era un sat.</p>
+<p>Satul acesta fusese și el ars împreună cu celelalte sate din ordinul voievodului Alexandru Basarab, care se afla în luptă cu Carol Robert ce năvălise cu armatele sale în țară.</p>
+<p>Din acest sat nu rămăsese decât locuința unui Ban.</p>
+<p>Locuința acestui Ban — sau mai bine zis castelul era situat pe vârful acestui munticel.</p>
+<p>Avea niște ziduri înalte.</p>
+<p>O stradă sau șosea ducea până la poarta castelului.</p>
+<p>În mijlocul curții castelului se ridica falnic o clădire veche între diferiți arbori sălbatici, având prin împrejurul ei mai multe case mici ce păreau a fi ascunse de calea pe care umblau și apucară pe aceea ce le arătase călugărul.</p>
+<p>Aceste mici case sau dependințe erau locuite de oamenii Banului, care se numeau Vladislav.</p>
+<p>Clădirea întreagă se compunea din mai multe camere locuite numai de Banul.</p>
+<p>El împărțise aceste odăi în modul următor: camera de dormit, cancelaria și biroul, biblioteca, camera invitațior sau cum se zice astăzi, sala de audiență.</p>
+<p>Încăperile cele mici erau locuite de servitori, de intendentul castelului și o parte dintre ele serveau ca grajduri.</p>
+<p>La poarta castelului zidul era ridicat mai mult ca de obicei, formând un fel de turn. După cum erau castelele în Evul Mediu.</p>
+<p>Banul Vladislav, ce locuia acest vechi și falnic castel, era un om încă tânăr, de o statură înaltă, cu o fizionomie frumoasă, adevărat oltean, cu un păr în plete lungi ce-i cădeau pe umerii săi lați, cu niște ochi mari negri, plini de vioiciune și de neastâmpăr, cu un aer cavaleresc, adevărat gentilom al Evului Mediu, mândru și iute în toate încercările sale.</p>
+<p>Locuia în castelul acesta moștenire a părinților lui, de mulți ani - putem spune că nici nu părăsise de loc — de când Voievodul Munteniei încorpora Banatul cu Muntenia, dânsul fiind nevoit să se retragă în viață, petrecându-și timpul cu  vânătoarea și cu lectura.</p>
+<p>Vladislav era un om foarte instruit.</p>
+<p>El avea în castelul său, într-una dintre camere, făcută bibliotecă, și aici venea în fiecare zi de-și petrecea orele citind.</p>
+<p>În această cameră el era la momentul când cel doi călăreți urcau singuratici, urcau strada ce ducea la castelul lui.</p>
+<p>Ei găsiră poarta castelului  închisă.</p>
+<p>(Va urma)</p>
+</div>
+        </div>
+    
+    <div type="part" n="4">
+<p>4</p>
+<p>FOITA ZIARULUI „ROMANUL"</p>
+<p>ROMAN DE MARE SENZAȚIE</p>
+<p>de</p>
+<p>D. CASELLI</p>
+        <div type="section" n="2">
+<p>Capitolul II</p>
+<p>Castelul</p>
+<p>Marele postelnic bătu de vreo câteva ori cu ciocanul de fier care atârna afară, la al cărui sunet portarul veni să-i întrebe cine erau și ce voiau.</p>
+<p>Unul dintre călători scoase o hârtie un sul — din sânul său și o arătă aceluia ce venise să se informeze despre dânșii.</p>
+<p>Omul aruncă o privire asupra hârtie, pe urmă deschise ușa și călăreții intrară înăuntru.</p>
+</div>
+<div type="section" n="3">
+<p>CAPITOLUL III</p>
+<p>Banul și Solii</p>
+<p>,,Acum când se vede încolțit de armatele ungurești și și-a adus aminte de mine, ca sa-mi ceară o mână de ajutor și eu voi fi atât de nebun ca să-i întind mâna mea...“</p>
+<p>Banul Vladislav</p>
+<p>Călăreții despre care am vorbit în capitolul întâi erau doi ambasadori trimiși de Voievodul Alexandru Basarab la Banul Vladislav.</p>
+<p>Ce căutau ei la Banul?</p>
+<p>Vom explica.</p>
+<p>Intrați în curtea castelului, ei fură primiți de intendentul banului.</p>
+<p>Caii lor fură duși în grajd și îngrijiți.</p>
+<p>Intendentul intră la Ban și îi comunică faptul că doi ambasadori au venit de la Voievodul țării cu o misiune către banul Vladislav.</p>
+<p>Banul se uită la intendentul său cu mirare.</p>
+<p>— Solii la mine! zise el — ce caută ei aici?</p>
+<p>— Nu știu! răspunse servitorul.</p>
+<p>— Du-te de vezi!</p>
+<p>Intendentul se înclină și părăsi camera.</p>
+<p>Banul se sculă de pe scaun și se plimbă cu pași mari prin odaie.</p>
+<p>După câteva minute intendentul apăru.</p>
+<p>— Măria Ta — zise el, înclinându-se — solii voiesc a vorbi cu Măria Ta; n-au voit să-mi spună nimic!</p>
+<p>— Bine! Du-i pe soli să aștepte în sala de primire. Vin îndată.</p>
+<p>Intendentul se înclină și se retrase spre a împlini porunca stăpânului său.</p>
+<p>Banul intră în camera de primire.</p>
+<p>Solii se sculară și salutară cu o ușoară închinătură a capului.</p>
+<p>— Ce vânt vă aduce în locuința mea? întrebă mirat Banul.</p>
+<p>— Venim din ordinul și porunca stăpânului nostru, Alexandru Basarab, răspunse marele Postelnic.</p>
+<p>— Ce voiește de la mine stăpânul vostru?</p>
+<p>— Binevoiți a citi scrisoarea aceasta — răspunse marele Postelnic, înaintând către Ban și dându-i o scrisoare.</p>
+<p>— Ce este asta? Cine vă trimite cu această scrisoare?</p>
+<p>— Stăpânul nostru, Alexandru Basarab, am mai spus odată — răspunseră solii.</p>
+<p>„Puteți citi și o să aflați.</p>
+<p>Banul aruncă o privire asupra adresei ce era scrisă în limba latină.</p>
+<p>Deschise hârtia ce avea forma unui sul și citi.</p>
+<p>Fața lui se întunecă.</p>
+<p>Se vede că scrisoarea nu-i convenea deloc.</p>
+<p>Iată scrisoarea.</p>
+<p>„Eu, loan Alexandru Basarab, Voievodul Ţării Româneşti, vă rog cu umilință de iertare pentru răul ce vi l-am făcut împotriva voastră.</p>
+<p>„Astăzi văzându-ne într-o singură primejdie vă rog și vă întind mâna în semn de pace.</p>
+<p> „Având în vedere împrejurarea în care ne aflăm, cred că nu-mi veți refuza ajutorul pe care-l aveți, mai cu seama influența voastră asupra întregii Oltenii.</p>
+<p>„Vă rog dar trimitem ajutorul vostru, care împreună cu oștirea mea, să pot alunga pe Unguri din țară.</p>
+<p>„Cred că nu o să vă fie atât de greu să împliniți această a mea dorință și a țării întregi.</p>
+<p>Dată și făcută în Câmpulung - anul mântuirii, 1330'.</p>
+<p>(Va urma)</p>
+    </div>
+    </div>
+    
+    <div type="part" n="6">
+<p>6</p>
+<p>FOITA ZIARULUI „ROMANUL"</p>
+<p>ILEANA</p>
+<p>ROMAN DE MARE SENZAȚIE</p>
+<p>de</p>
+<p>D. CASELLI</p>
+        <div type="section">
+<p>Capitolul II</p>
+<p>Castelul</p>
+<p>— Cine sunteți?</p>
+<p>— Sunt soția spătarului Vintilă.</p>
+<p>- Ești jupâneasa Ileana!</p>
+<p>— Da, Măria Ta, răspunse ea.</p>
+<p>— Și ce voiești de la mine?</p>
+<p>— Din ordinul Măriei Tale, s-a dat foc tuturor satelor care sunt în drumul Ungurilor...</p>
+<p>— Ce-i cu asta?</p>
+<p>— Este, Măria Ta, căci moșiile mele ce le-am avut au ars toate și azi n-am nimic, am rămas pe drumuri; în afară de asta, soțul meu m-a părăsit, spunând că nu ne mai poate ține.</p>
+<p>- Voi vedea ce este de făcut, căci asemenea plângeri am primit multe - zise Voievodul.</p>
+<p>- Dar...eu ce să mă fac...într-o astfel de situație...cea mai mică... </p>
+<p>— Situația în care se află țara e mult mai tristă și cea mai mică întârziere ar putea să-i aducă pierirea și cu dânsa vom fi pierduți cu toții — întrerupse Voievodul.</p>
+<p>„Am să mă gândesc la d-ta! „Vino peste câteva zile.</p>
+<p>— Bine! răspunse jupâneasa Ileana, părăsind sala audienței.</p>
+</div>
+<div type="section" n="5">
+<p>CAPITOLUL V</p>
+<p>Mama și fiul</p>
+<p>„Această scrisoare trebuie sa o ascunzi bine și să o predai în mâna Eminenței Sale! Vai de sfinția ta dacă o pierzi sau o vei da la cineva să o citească.</p>
+<p>Doamna Clara</p>
+<p>În partea stângă a sălii de audiență a Voievodulul se vede o ușă.</p>
+<p>Deschizând-o intrăm într-o odaie mobilată cu mare lux.</p>
+<p>E camera de lucru a contesei Clara Kukenus, soția a doua a lui Alexandru Câmpulungeanul.</p>
+<p>În odaie se afla o masă în jurul căreia erau câteva scaune.</p>
+<p>Avea mai multe ferestre și uși.</p>
+<p>Ferestrele erau ornate cu perdele de mătase.</p>
+<p>Covoare scumpe erau așternute pe jos.</p>
+<p>Pe unul dintre scaunele din jurul mesei ședea contesa Clara și scria o scrisoare.</p>
+<p>Purta o rochie de mătase galbenă brodată cu albastru.</p>
+<p>În picioare purta pantofi auriți cu vârf.</p>
+<p>O piele de tigru era așternută la picioarele sale.</p>
+<p>Cui scria dânsa scrisoarea?</p>
+<p>Scrisoarea era adresată Marelui Inchizitor, Andrei din Turnu-Severin.</p>
+<p>Un zgomot de pași o făcu să tresară.</p>
+<p>Întoarse capul înspre ușa camerei și văzu că perdeaua de la ușă s-a dat la o parte și un tânăr intră.</p>
+<p>Tânărul avea o înfățișare plăcută și niște apucături nobile.</p>
+<p>Este fiul lui Alexandru făcut cu prima lui soție, cu Marghita, fiica boierului Ivancu Basarab.</p>
+<p>Contesa Clara văzându-l se liniști.</p>
+<p>Vladislav sărută mâna mamei sale vitrege și zise:</p>
+<p>— Cui îi scrii?</p>
+<p>— Eminenței Sale, Marelui Inchizitor din T.-Severin.</p>
+<p>Vladislav făcu o mină mirată.</p>
+ <p>— Marele Inchizitor - urmă contesa — este un Venerabil părinte din ordinul Dominicanilor, dânsul e șeful lor și trebuie să-ți fie sacru numele lui, fiindcă este credincios ca nume religiei catolice.</p>
+<p>Trebuie să spunem, contesa Clara Kukemus aparținea nobilei familii ungare Kukemus, era una dintre cele mai catolice.</p>
+<p>Vladislav nu răspunse.</p>
+<p> —Scrisoarea ce îi scriu Eminenței Sale - urmă înainte — este referitoare la războiul în care ne aflăm.</p>
+<p>Îi scriu că voi îndreptăți pe soțul meu de a primi toate condițiile impuse de regele Carol Robert...</p>
+<p>— Cum așa? exclamă Vladislav indignat.</p>
+<p>- Tatăl tău va lăsa T -Severin in posesia regelui, continuă Clara, neluând de seamă indignarea lui Vladislav — va plăti un tribut și te va trimite pe tine să servești în Curtea Regească a lui Carol Robert!</p>
+<p>„Vrei să mergi?</p>
+<p>(Va urma)</p>
+</div>
+    </div>
+    
+    <div type="part" n="7">
+<p>7</p>
+<p>FOITA ZIARULUI „ROMANUL"</p>
+<p>ROMAN DE MARE SENZAȚIE</p>
+<p>de</p>
+<p>D. CASELLI</p>
+<div type="section">
+<p>Punând piciorul în chioșc lăsă să-i cadă mantia.</p>
+<p>Era de o frumusețe admirabilă.</p>
+<p>Un păr negru ca ebenul îi cădea în valuri pe spate.</p>
+<p>Buza mică purpurie, ochii de o culoare castanie.</p>
+<p>Era îmbrăcată cu o rochie de mătase roz și n-avea drept orice juvaericale decât o cruce mică de aur legată cu o panglică de mătase roz și agățată pe piept.</p>
+<p>Nu făcuse doi pași înăuntru și o mână tremurătoare se puse pe a ei și o voce murmură:</p>
+<p>— Ana, tu ești?</p>
+<p>Drept orice răspuns fata strânse mâna care o apucase pe a ei.</p>
+<p>— Vladislav! Ana! murmurară în același timp două voci tinere, fragede și armonioase.</p>
+<p>Apoi se făcu un moment de tăcere.</p>
+<p>Vladislav o contemplă pe Ana cu beție, Ana din parte îl privea pe Vladislav cu amor.</p>
+<p>În acest moment erau așa de frumoși încât cineva văzându-i ar fi zis că erau doi îngeri coborâți din cer.</p>
+<p>Fata fu aceea care rupse întâi tăcerea.</p>
+<p>— Ei bine! zise ea cu vocea emoționată și tremurătoare, dar fericită — vezi, iată-mă!</p>
+<p>— Ah! Ana, nu așteptam mai puțin de la amorul d-tale! murmură tânărul.</p>
+<p>— Și acum o să te îndoiești? întrebă Ana cu un glas mângâios și cu un zâmbet care conținea toate bucuriile cerului.</p>
+<p>— Pentru ce îmi zici asta? replică Vladislav trăgând binișor fata pe pieptul său.</p>
+<p>„Mă mai pot îndoi oare despre ceea ce este lumina, despre ceea ce este adevărul, despre ceea ce este viața, și oare nu ești d-ta toate acestea, Ana ?</p>
+<p>- Nu știu, dar lucrul despre care sunt sigură este că te iubesc din tot sufletul și pentru totdeauna.</p>
+<p>— Da, o cred, Ana!</p>
+<p>— Vladislav, astă seară ești mai trist decât de obicei.</p>
+<p>— Nu sunt trist, Ano, sunt nenorocit.</p>
+<p>— Și cu toate astea suntem împreună!</p>
+<p>— Da! răspunse Vladislav dureros — dar pentru cea din urmă oară!</p>
+<p>-Ce vrei să zici cu asta, iubite?</p>
+<p>— Peste câteva zile plec.</p>
+<p>- Unde?</p>
+<p>— În Ungaria.</p>
+<p>— Pleci în Ungaria la cine? repetă fata zdrobită.</p>
+<p>— În serviciul lui Carol Robert!</p>
+<p>— La Carol Robert?</p>
+<p>— Da!</p>
+<p>— Ce o să faci acolo?</p>
+<p>— Voi servi la dânsul.</p>
+<p>Urmă o tăcere.</p>
+<p>— Pentru ce te vei duce acolo? întrebă fata.</p>
+<p>— Iată de ce: Tatăl meu va încheia un tratat cu regele Ungariei în privința războiului de față, cu condițiile următoare: Va lăsa Banatul Severinului în mâinile regelui, va plăti spesele războiului și un tribut mic, şi ca zălog va trimite pe fiul său — pe mine — să servească la curtea lui.</p>
+<p>— Dar acum când te am aici, pe inima mea, lasă-mă să te privesc, să te contemplez, să te ador.</p>
+<p>— Asta îți dau cu plăcere voie să o faci — răspunse Ana cu naivitate — deoarece în acest timp eu din parte-mi voi face același lucru.</p>
+<p>Și se priviră într-adevăr cu acel amor, cu acea beție și acea reculegere care sunt darurile fericite ale tinereții și pe care nu le mai regăsim niciodată după ce ne-am dezvățat de ele...</p>
+<p>Vai! Omul nu e tânăr decât numai o dată.</p>
+</div>
+<div type="section">
+<p>Capilolul VII</p>
+<p>Catolicismul în Muntenia</p>
+<p>Să facem puțină istorie și să vorbim despre propaganda catolică în Muntenia și deapre instituțiile ei.</p>
+<p>În secolul al XIII-lea Inchiziția era în floare în Oltenia.</p>
+<p>Toți știm ce a fost insituția asta, cu toate astea cred că nu este de prisos de a vorbi puțin de dânsa;</p>
+<p>Ichiziția, un tribunal ecleziatic secret, a fost creată de papa Inocențiu al III-lea în anul 1229 și a fost încredințată Dominicanilor.</p>
+<p>(Va urma)</p>
+    </div>
+    </div>
+    <div type="part" n="9">
+<p>9</p>
+<p>FOITA ZIARULUI „ROMANUL"</p>
+<p>ILEANA</p>
+<p>ROMAN DE MARE SENZAȚIE</p>
+<p>de</p>
+<p>D. CASELLI</p>
+        <div type="section">
+<p>Acești călugări exploatară cu prisos puterea ce li se dăduse pentru a-și întări ordinul, încă tânăr pe atunci.</p>
+<p>Constituirea tribunalului inchiziției sau al sfântulul oficiu cum și pronunțarea sentințelor erau cu totul arbitrare.</p>
+<p>Numele spionilor numiți familiari care denunțau tribunalului secret victimele lor nu erau declarate niciodată.</p>
+<p>Acuzatul n-avea voie să-și ia un apărător, ba prin modul cum i se lua interogatoriul îi tăia până și orice putința și ocazie de apărare.</p>
+<p>În timpul nopții nenorociții care erau denunțați inchiziției ca suspecți de erezie erau smulși pe furiși din casele lor și aruncați în niște temnițe igrasioase și întunecoase unde erau nevoiți să zacă adesea săptămâni și luni până să se găsească cineva a le lua interogatoriul.</p>
+<p>Și cum se proceda apoi cu acești nenorociți:</p>
+<p>Inculpații erau întrebați pur și simplu dacă se declară vinovați de faptele ce li se impută.</p>
+<p>Dacă acuzatul răspundea în mod afirmativ la această întrebare era condamnat să fie ars de viu și din când în când condamnații erau arși cu toţii laolaltă.</p>
+<p>Aceste arderi cu toptanul se numeau auto-da-fe, adică acte de credință.</p>
+<p>Dacă acuzatul tăgăduia că ar fi comis crimele ce i se imputa era torturat.</p>
+<p>Dacă avea destulă energie ca să persiste în primele sale declarații în ciuda chinurilor îngrozitoare la care îl supuneau călăii săi, era declarat drept o ființă infamă, bunurile i se confiscau — jumătate în folosul statului — iar el însuși era condamnat la exil, sau la temniță pe viață.</p>
+<p>Oricărui om simțitor i se zbârlește părul de groază când studiază istoria acelei epoci; când află cu ce cruzime rafinată niște oameni s-au purtat cu semenii lor și încă ad majorem Dei gloriam.</p>
+<p>Nimic nu poate scuza asprimea și cruzimea inchiziției; și dacă cel ce din punctul lor de vedere ar dori poate să apere procedurile sfântului Oficiu, voiesc s-o scuze susținând că în acea epocă de depravare severitatea era necesară pentru a întări Biserica și a face pe oameni să se întoarcă la Dumnezeu, apoi acești apărători mai mult condamnă decât apără această instituție.</p>
+<p>Căci nu prin cruzime și strășnicie trebuie întors la Dumnezeu omul care a păcătuit, ci prin dragoste și blândețe Dumnezeul nostru e Dumnezeul iubirii și al milostivirii și o oroare sunt în ochii Lui asemenea infamii care se săvârșesc în numele Lui.</p>
+<p>După ce am arătat în aceste câteva linii ce a fost această instituție, să continuăm acum studiul nostru:</p>
+<p>Cel mai vechi document care ne atestă despre inchiziția în țările române este Diploma sau Hrisovul regelui Ungariei, Bella IV.</p>
+<p>Acesta fiind gonit de tătari din regatul său, se refugiase în Dalmația.</p>
+<p>După ce tătarii au fost bătuți și o parte uciși, dânsul se întoarse în Ungaria și începu să repare stricăciunile ce cauzaseră acești barbari.</p>
+<p>Ca să poată de aici înainte rezista mai cu tărie invită pe Cavalerii Sf. Ioan a se stabili în cetăți întărite în Oltenia, căci trebuie să amintească că Ţara Românească era dependentă de Ungaria — unde le dărui domenii întinse în punctele cele mai strategice de apărare.</p>
+<p>Acești cavaleri în număr de 120 nu erau altceva decât niște familiari ai inchiziției.</p>
+<p>După numărul lor se învederează că nu erau o armată mare de apărare, ci mai mult o bandă de călugări-cruciați, însărcinați  să facă propagandă întorcând populația română la religia catolică.</p>
+<p>Marele Oficial sau șeful lor se numea Rimbaldo 1)</p>
+<p>1) Diploma Relae IV a 1247 quarto non Junii fratri Remboldo dom.hosp. Ierosolym, datum.</p>
+<p>(Va urma)</p>
+            </div>
+    </div>
+<div type="part" n="10">
+<p>9</p>
+<p>FOITA ZIARULUI „ROMANUL"</p>
+<p>ILEANA</p>
+<p>ROMAN DE MARE SENZAȚIE</p>
+<p>de</p>
+<p>D. CASELLI</p>
+<div type="section">
+<p>Dăm aici această diplomă:</p>
+<p>„Bela cu mila Lui Dumnezeu, Craiul Ungariei, Dalmației, Croației, Romei, Serbiei, Galiției, Lodomeriei și al Comanei pururea.</p>
+<p>Mărimii Crailor și Diregătoriei celor învățați se cuvine ca între cele multe cu atâta mai mare râvna să se silească a-și înmulți supușii, cu cât mai mult li se înalță vâlva cu mulțimea noroadelor celor de sub dânșii mai vârtos știindu-se că pururea pacea și sigurătatea Crailor și a Craimelor stă în tărimea supușilor lor. La aceasta mai bine încă, și cuprinde în sine, partea cea mai mare a grijii Crăești, ca pe acei cu milostivi ochi să-i vadă, și cu mai mari faceri de bine să-l încarce de la craii și folos vremelnic se așteaptă și Împăratul împăraților mai mult se cinstește.</p>
+<p>Drept aceea așa cugetând, și îndelung sfătuindu-se cu cinstitul Bărbat, fratele Rembald, marele Magistru al casilor Hospitalulul din Ierusalim celor dincoace de Mare, iubit prietenul nostru, și cu Prinții și Baronii țării noastre, cum am putea împodobi Crăimea noastră, care mare pagubă au suferit prin potrivnica năvălire a neamului barbar ce se numește Tătari, nu numai în pierderea averilor, ci și în uciderea locuitorilor, cu toții în comun întru acesta ne-am vorbit ca:</p>
+<p>Pentru ca același Magistrat cu numele casei Hospitalulul, s-a legat pe sine și casa Hospitalulul din bunăvoința sa că, întru ajutorul Crăimei noastre spre apărarea Credinței Creștinești, că prinde arme după forma mai jos adusă, și că întru împoporirea țării noastre ne va ajuta cu sfatul și cu credincioasa împreună lucrare, nici se va trage de la condițiile ce se vor pune acuși în cartea aceasta:</p>
+<p>Să-i dăruim, și dăm lui și printr-însul numitei case tot pământul Zevrinulul cu munții ce se țin de dânsul, așijderea cu Cnezatele lui Ioan și al lui Farcaș, până în râul Oltului, luând afară pământul Cnezatulul Voievodulul Limoiu căruia îl lăsăm Olahilor precum l-au avut acesta și până acum.</p>
+<p>Totuși așa le dăm, cât ținem pentru noi și pentru următorii noștri jumătate din toate folosurile, veniturile și slujbele din tot pământul Sevrinulul, și al Cnezatelor, ce s-au numit numai cealaltă jumătate dând spre traiul casei etc., etc.</p>
+<p>Pescuitul din Dunăre și pescăriile din Celeg le ținem noi, și zișilor de comun. Așijderea și jumătatea tuturor veniturilor și a folosurilor care se vor culege Craiului de la Românii care locuiesc în Litva cu ținutul Harșaculul va fi a Craiului; casa Hospitalulul va lua ca mai sus.</p>
+<p>Aceasta încă o voim ca numiții Români să fie datori a sta întru ajutorul zișilor frați, bine gătiți de oaste spre apărarea țării, și spre isbânda necuviințelor ce ni s-ar face prin străini, și în asemenea întâmplare frații încă să fie datori a ajuta pe Olachi sau Români, cât le va fi cu putință, etc.</p>
+<p>Lângă aceasta am dăruit numitului Magistru și prin Munții Ardealului toată Comania sub acele condiții care s-au zis mai sus despre Zevrin luând afară țara lui Seneslav Voievodulul Olachilor pe care o lăsăm acelorași precum și până acum s-au ținut etc., etc.</p>
+<p>Dat prin mâinele cinstitului Părintelui Benedict Arhiepiscopului Colocei și cancelarului Curții noastre. În anul de la întreruparea Domnului 1247.3 nond Iunie - în anul crăimei noastre 12.</p>
+<p>În anul 1245 se alege voievod al Olteniei Mihai Basarab 1245-1278 supranumit Liteanul adică papistașul, fiindcă era catolic.</p>
+<p>În aceste vremuri propaganda catolică se întindea din ce în ce (123 - 1260).</p>
+<p>În anul 1278 voievod al Olteniei este Bărbat Basarab (1278-1288).</p>
+<p>Bărbat ocrotește pe catolici (1284) și prigonește pe ortodocşi din care cauză este răsturnat de Dan Basarab care apucă domnia si domnește de la 1288 până la 1298.</p>
+<p>(Va urma)</p>
+</div>
+</div>
+<div type="part" n="11">
+<p>10</p>
+<p>FOITA ZIARULUI „ROMANUL"</p>
+<p>ILEANA</p>
+<p>ROMAN DE MARE SENZAȚIE</p>
+<p>de</p>
+<p>D. CASELLI</p>
+    <div type="section">
+<p>După Dan urmează Mircea Basarab (1298 — 1310) și după el Alexandru Basarab (1310-1363).</p>
+<p>La 1327 Alexandru se afla în relație cu Papa loan al XXIII-lea.</p>
+<p>El avea de soție pe Clara Kukeus, o catolică foarte zeleoasă.</p>
+<p>Papa Clement al VI-lea îi adresează o bulă prin care îi numește pe el și pe toți boierii lui Romană.</p>
+<p>Alexandru autoriza înființarea unui episcop vizitator peste bisericile catolice din țară.</p>
+<p>Dintre cele arătate mai sus vedem cum Carol Robert Neapolitanul avea drepturi nu numai asupra Banatului Turnului Severin, ci și asupra Munteniei întregi.</p>
+<p>Alexandru Câmpulungeanul primind răspunsul Banului Vladislav, se temea să înceapă războiul cu stăpânul său, Carol Robert, fără ajutorul acelui mare și viteaz soldat, căci se gândea să nu-i aducă vreo împedicare în conducerea războiului.</p>
+<p>Ambasadorii ce-i trimise la Turnu-Severin, nici ei nu putură să facă o mai mare treabă, decât cei pe care îi trimise și la Banul Vladislav. Ei se întoarseră  aducând refuzul lui Carol.</p>
+<p>În această mare încurcătură se află dânsul când i se anunță sosirea soției Spătarului Vintiă - Ileana.</p>
+</div>
+<div type="section">
+<p>CAPITOLUL VIII</p>
+<p>Voievodul și Ileana</p>
+<p>,,Ce pot să fac eu, o femeie, o ființă fără nicio putere?“</p>
+<p>Ileana</p>
+<p>Am arătat că Voievodul se află într-o mare încurcătură, din care nu putea să se desfacă.</p>
+<p>Deodată i se anunță revenirea Ileanei care urmând porunca ce primise de la dânsul, venea acum să-i amintească promisiunea dreptății pentru care-l solicitase.</p>
+<p>O idee îi trăsni prin mintea acestui domnitor.</p>
+<p>Să descriem în puține trăsături fizionomia lui.</p>
+<p>De o statură nu tocmai înaltă, brun, ochii negri și strălucitori, părul îi cădea în plete mari, avea o înfățișare nu tocmai urâtă.</p>
+<p>Îndată ce dânsul văzu pe Ileana înaintea lui, îi veni în minte să se servească de această armă rară ca se înduplece pe Banul Vladislav a-i da ajutorul, pe care nu voia să i-l dea.</p>
+<p>Ileana era fermecătoare.</p>
+<p>Înaintea ei nimic nu putea să reziste.</p>
+<p>Farmecul ei subjuga pe orice om.</p>
+<p>Voievodul își puse planul în executare.</p>
+<p>Nu venea dânsa oare să-i ceară dreptate?</p>
+<p>Nu venea să-i redea averea pierdută?</p>
+<p>— Minunat! — murmură el în sineși, ideea aceasta punând-o în lucrare nu mi se arătă înconjurată de nicio greutate.</p>
+<p>Și dânsul începu:</p>
+<p>— Vino mai aproape să ne înțelegem bine!</p>
+<p>Ileana făcu câțiva pași înainte închinându-se.</p>
+<p>— Vorbele ce am să ți le zic nu trebuie să le audă nimeni, vino, deci mai aproape de mine.</p>
+<p>-Am să-ți vorbesc între patru ochi.</p>
+<p>„Pune-te pe jețul acesta de lângă mine — urmă Alexandru, arătându-i un scaun înalt și îmbrăcat cu stofă roșie.</p>
+<p>— Ascult și în picioare — răspunse frumoasa femeie cu un aer de sfială.</p>
+<p>— De ce nu te supui voinței mele?</p>
+<p>Atunci Ileana se puse pe jeț și șezu.</p>
+<p>Ținea ochii aplecați deasupra unei piei de tigru ce era așternută sub picioarele Voievodului.</p>
+<p>— Ascultă-mă, frumoasă jupâneasă; știi ce va să zică un Domnitor ce poartă o coroană?</p>
+<p>— Dânsul poate tot când vrea — răspunse Ileana.</p>
+<p>— Da, dânsul poate să facă și bine și rău.</p>
+<p>Ileana ridică ochii.</p>
+<p>Se sili a pătrunde înțelesul acestor cuvinte.</p>
+<p>— Pentru ce vă uitați așa speriat la mine?</p>
+<p>„Ați găsit vreun rău în vorbele mele?</p>
+<p>(Va urma)</p>
+    </div>
+</div>
+    <div type="part" n="12">
+<p>11</p>
+<p>FOITA ZIARULUI „ROMANUL"</p>
+<p>ILEANA</p>
+<p>ROMAN DE MARE SENZAȚIE</p>
+<p>de</p>
+<p>D. CASELLI</p>
+        <div type="section">
+<p>— Mă îndreptățești, Măria Ta, n-am cugetat niciodată la așa ceva...</p>
+<p>— Bine atunci — o întrerupse Voievodul — dacă nu vezi niciun rău în vorbele mele sau în ce am să-ți mai spun, fii atentă şi supusă la ceea ce-ți voi cere, și eu îți voi da ceea ce mi-ai cerut. O mână spală pe cealaltă zice o zicătoare veche.</p>
+<p>— Ascult!</p>
+<p>— Îți iubești țara.</p>
+<p>— Mai încape vorbă? Cum să nu o iubesc?! Într-însa m-am născut și într-însa și-au închis ochii părinții mei.</p>
+<p>— Foarte bine, jupâneasă. Dacă îți iubești țara, dacă îți este scump locul în care te-ai născut și mormântul în care au fost depuși părinții de la care ai primit viața, nu ești oare datoare să faci ceva ca să o scapi din sclavia în care se află?</p>
+<p>— Ce pot să fac eu, o femeie, o ființă fără nicio putere! — exclamă Ileana mirată.</p>
+<p>— Frumoasă jupâneasă, ești în stare să faci mai mult decât aş putea face eu.</p>
+<p>„Dumnezeu ți-a dat niște arme atât de puternice, încât poți să faci ca ungurii ce au năvălit în țară ca să fie alungați îndată.</p>
+<p>„Lucrul acesta îți este posibil dacă vei voi.</p>
+<p>— Nu vă înțeleg! zise Ileana din ce în ce mai mirată.</p>
+<p>«Care sunt acele arme?</p>
+<p>— Frumoasă jupâneasă, dânsele se află în frumusețea pe care o ai...</p>
+<p>— Nu pot să înțeleg nici acum. Ce pot să fac eu cu frumusețea mea ca să scap țara din robie?</p>
+<p>— Iți voi explica, dar mai deslușit — zise Alexandru. Peste Olt, întru-un vechi castel pe care am să ți-l spun, trăiește un bărbat, care altădată ocupa funcții înalte. Unul dintre boierii țării. Acest om poate să ridice toată Oltenia în picioare printr-un singur semn, numai pentru că toată suflarea din acele părți îl iubește și se închină la numele său. Având ajutorul acelui om pe lângă mica oștire ce o am pentru luptă, sunt încredințat că o voi duce la capăt, adică voi goni pe unguri din țară. Fără puterea acelui om nu vom putea face nimic și țara va cădea din nou în mâinele lor. M-ai înțeles acum?</p>
+<p>- Am înțeles eu acum, dar la o asemenea faptă, acum îl voi îndupleca eu, pe când Măria Ta dispune de atâtea mijloace...</p>
+<p>- Orice mijloc am întrebuințat eu a fost zadarnic.</p>
+<p>— Atunci și mijloacele mele vor fi zadarnice.</p>
+<p>— Aceasta este cu neputință.Îndată ce te vei arăta înaintea lui, te va vedea, dânsul se va ameți, te va iubi, va fi ca un smintit, iar d-ta îl vei lăsa să creadă în fericirea pe care-l vei face să viseze, și îi vei spune că dacă va scăpa țara de unguri, mâna ta va fi răsplata lui. M-ai înțeles acum?</p>
+<p>— Dar eu sunt măritată! — zise Ileana cu mirare - cum să mă învoiesc eu la aceasta?</p>
+<p>— Nu mi-ai spus că soțul tău te-a lăsat? răspunse Voievodul la rândul său mirat.</p>
+<p>— Așa este! Dar rolul acesta pe care Măria Ta îmi spuneți să-l joc este rolul unei curtezane — răspunse Ileana indiginată — și eu nu sunt curtezană. Pentru așa ceva aveți destule femei în palat.</p>
+<p>— Toate sunt bune; femei am eu în palatul meu, dar niciuna nu face, ca să poată juca rolul acesta. De aceea eu te-am ales pe d-ta, și cred că nu vei refuza. De altfel, aici este vorba de scăparea țării, și orice mijloace vom întrebuința, toate sunt bune. Nu știi zicătoarea aia că „scopul scuză mijloacele"?</p>
+<p>Ileana stătu pe gânduri o clipă şi pe urmă răspunse:</p>
+<p>— Aveți dreptate, dar eu, o femeie... singură... și fără mijloace, fără...</p>
+<p>— Nicio grijă nu vei avea de asta, eu am pus totul la cale. Îți voi da o căruță cu o escortă care te va însoți și care te va păzi.</p>
+<p>(Va urma)</p>
+        </div>
+    </div>
+    <div type="part" n="13">
+<p>12</p>
+<p>FOITA ZIARULUI „ROMANUL"</p>
+<p>ILEANA</p>
+<p>ROMAN DE MARE SENZAȚIE</p>
+<p>de</p>
+<p>D. CASELLI</p>
+        <div type="section">
+<p>— Ajunsă odată acolo vei povesti că ai fost urmărită de niște haiduci, care neputând să te ajungă, te așteaptă la întoarcere ca să te omoare și să te fure. După aceasta vei cere un adăpost acolo până ce vor vedea haiducii că așteptarea lor a fost zadarnică și se vor risipi.</p>
+<p>— În timpul acesta, tu vei întrebuința armele tale — adică frumusețea ta fermecătoare — asupra acelui om și când vei găsi minutul princios — adică momentul în care dânsul te va ține în brațele sale, palpitând de amor și va căuta să satisfacă plăcerile sale, înainte de a te da lui — tu îi vei face propunerile. Celelalte ce vor urma sunt lucrurile mele, ceea ce rămâne de făcut spre a te scăpa de el mă privește pe mine.</p>
+<p>— Și acel om cine este el? Nu l-ați numit? răspunse Elena.</p>
+<p>— Omul acela este Banul Vladislav Mărăcine.</p>
+<p>— Banul Vladislav Mărăcine! îngână Ileana sculându-se ca împinsă de o baterie electrică — Banul Vladislav Mărăcine.</p>
+<p>—Îl cunoști? întrebă Alexandru mirat.</p>
+<p>— Banul Vladislav este fratele meu! răspunse Ileana, apropiindu-se de Alexandru.</p>
+<p>— Fratele d-tale! zise Voievodul cu disperare. Sunt frați și eu n-am știut nimic. Cum se poate lucrul acesta?</p>
+<p>— Da, Măria Ta! răspunse Ileana.</p>
+<p>— Atunci pentru ce trăiești despărțită de dânsul?</p>
+<p>— Când eu eram încă copilă, fratele meu era dat la un francez rătăcit prin țara noastră, ca să învețe carte, de către tatăl meu. Francezul iubea nespus de mult pe fratele meu văzându-1 aplecat la învățătura. Când mai târziu tatăl meu a plecat din Craiova a lăsat pe Vladislav sub îngrijirea lui, până la întoarcerea sa. Vladislav era încă mic pe atunci. Mama murise mai înainte. Eu m-am dus cu tatăl meu. Dar dânsul m-a lăsat la Argeș la o călugăriță și și-a văzut de drumul său mai departe.</p>
+<p>— Unde se dusese tatăl d-tale? zise Voievodul.</p>
+<p>— Ce știam eu copilă mică — răspunse Ileana — în urmă aflarăm că tatăl nostru a fos omorât în Ardeal, nu se știe de cine. Eu am fost crescută în casa călugăriței. Fratele meu a călătorit prin țările de la Apus și, întorcându-se în țară, a fost numit Ban al Craiovei, post pe care l-a ocupat până la suirea Măriei Tale pe tronul țării.</p>
+<p>„Eu am fost măritată, și din copilăria mea și până astăzi nu m-am întâlnit cu Vladislav.</p>
+<p>— Dânsul n-a dorit să vadă pe sora sa?</p>
+<p>— A dorit, și de multe ori a scris călugăriței ca să mă ducă la dânsul, deoarece el nu putea părăsi locul său, dar călugărița care era suferindă nu putea să facă o călătorie atât de lungă.</p>
+<p>Alexandru se gândi puțin şi pe urmă zise:</p>
+<p>— Lucrurile acum se schimbă, dacă Banul ți-e frate, lucrul e și mai ușor, pentru însărcinarea ce ți-am dat. Mi-ai spus că erai o copilă mică de când v-ați despărțit.</p>
+<p>— Da!</p>
+<p>— Niciodată nu v-ați văzut?</p>
+<p>— Nu, niciodată.</p>
+<p>— Dacă te va vedea acum dânsul, nu va putea să te recunoască cine ești, să bagi bine de seamă să nu-i spui numele tău.</p>
+<p>— Nu cred să mă cunoscă!</p>
+<p>— Atunci d-ta vei trece drept o străină, vei lua un alt nume și după ce vei ajunge la capăt, te vei descoperi lui, îi vei spune cine ești și atunci orice îndatorire ce te-a legat cu dânsul cade de la sine — zise Voievodul.</p>
+<p>— Nu este așa! răspunse Ileana gânditoare. Este o mare deosebire între o curtezană și o soră. O curtezană ca să ajungă la scopul ei dorit poate jertfi orice, dar o soră nu poate nici decum da fratelui său ceea ce va putea să-i dea o curtezană.</p>
+<p>Voievodul replică iute:</p>
+<p>(Va urma)</p>
+        </div>
+    </div>
+    <div type="part" n="14">
+<p>12</p>
+<p>FOITA ZIARULUI „ROMANUL"</p>
+<p>ILEANA</p>
+<p>ROMAN DE MARE SENZAȚIE</p>
+<p>de</p>
+<p>D. CASELLI</p>
+        <div type="section">
+<p>— Ți-am mai spus că aici este vorba de scăparea țării. Orice jerfă făcută pentru țară este o faptă nobilă, demnă de cine a făcut-o. Însă cred că lucrurile nu vor ajunge până acolo, și dacă....</p>
+<p>— Și dacă? întrebă Ileana.</p>
+<p>— Și dacă, vor trebui să ajungă până acolo, d-ta te vei jertfi pentru țară — termină Voievodul.</p>
+<p>Ileana cu ochii umezi, consimți.</p>
+<p>*</p>
+<p>O căruța domnească, trasă de 6 cai boierești și escortată de un pluton de panduri, era dis-de-dimineață a doua zi din curtea palatului domnesc. Într-însa tolănită pe pernele de mătase ale trăsurii era Ileana, întovărășită de Marele postelnic.</p>
+<p>În aceeași zi, cu câteva ore mai în urmă după plecarea căruței domnești, bărbatul ei, Spătarul Vintilă, sosi la Câmpulung și, aflând că dânsa plecase la Craiova, imediat se puse în urmărirea ei.</p>
+</div>
+<div type="section" n="7">
+<p>CAPITOLUL IX</p>
+<p>Bănuit ca spion</p>
+<p>Unde vă duceți, sfinția voastră?</p>
+<p>Soldatul</p>
+<p>În dimineața unei zile frumoase de toamnă, un om mergea cu pași grăbiți pe șoseaua ce duce de la orașul Câmpulung la Turnu-Severin.</p>
+<p>În afară de dânsul nu se vedea pe câmp de jur împrejur nicio ființă omenească, până în bătătura situată colea de vale și care este, desigur, un semn că un sat ori oraș se află prin apropiere, totul este cufundat în tăcere.</p>
+<p>Omul întoarce adeseori capul pentru a se uita îndărăt ca și cum n-ar fi sigur pe şosea.</p>
+<p>Dacă observăm cu atenție pe acest om, atunci vedem că este de o statură medie, îmbrăcat într-o rasă călugărească munteană.</p>
+<p>Acest om nu e nimeni altul decât pater Mateus, preotul pe care îl văzurăm în cabinetul de lucru al Contesei Clara Kukenus.</p>
+<p>Dar dânsul era catolic!</p>
+<p>Cum se face că îl vedem îmbrăcat în portul călugărilor munteni?</p>
+<p>Vom explica aceasta travestire.</p>
+<p>Preoții catolici erau amenințați în Valahia și batjocoriți.</p>
+<p>Pe teritoriul Banatului însă aveau toată libertatea și puterea.</p>
+<p>Știm că Banatul se află în mâinele regelui Carol Robert.</p>
+<p>Aici ei erau onorați și feriți de orice atac.</p>
+<p>Nimeni nu cuteza să le zică vreo vorbă necuviinciosă, fiindcă se temeau de puterea lor și mai ales de Inchiziție.</p>
+<p>De-a lungul Oltului erau postați soldați, despărțiți în mici cete și supravegheau locul.</p>
+<p>Pe timpul războiului n-avea niciun om voie să treacă râul din partea munteană în partea Banatului.</p>
+<p>Calea între Câmpulung și Turnu-Severin e foarte lungă, însă călugărul nu cruță osteneala, nu se teme de primejdii, ci merge înainte.</p>
+<p>Cerul după ce fusese așa de senin în timpul dimineții, se înnora din ce în ce mai mult așa încât spre seară întunericul crescu repede.</p>
+<p>Înaintea lui începe o pădure mare, plină de arbori înalţi.</p> 
+<p>Trecând pădurea aceasta, călugărul se opri un moment întinzând urechea la pândă...</p>
+<p>De jur împrejur nimic nu mișcă, nimic nu turbură liniștea adâncă ce domnea!</p>
+<p>O patrulă ce era ascunsă în niște arbori, era adâncită în somn, băuseră foarte mult noaptea aceasta.</p>
+<p>Călugărul se ascunse după un arbor.</p>
+<p>Numai un soldat nu dormea, ci se plimba de sus în jos cu arma în mână.</p>
+<p>Deodată se opri și ascultă.</p>
+<p>Colo după arbori se mișcă ceva.</p>
+<p>Nu este oare o umbră omenească?</p>
+<p>Soldatul se târî încet și ajunge tocmai în fața preotulul.</p>
+<p>(Va urma)</p>
+</div>
+    </div>
+<div type="part" n="15">
+<p>13</p>
+<p>„FOITA ZIARULUI „ROMANUL"</p>
+<p>ILEANA</p>
+<p>ROMAN DE MARE SENZAȚIE</p>
+<p>de</p>
+<p>D. CASELLI</p>
+    <div type="section">
+<p>Văzând pe omul îmbrăcat în haine preoțești, se dădu înlături cu un pas.</p>
+<p>Însă datoria îi spunea să întrebe ce caută acest călugăr noaptea pe drum.</p>
+<p>Apropiindu-se de călugăr îl întrebă:</p>
+<p>— Unde vă duceți, sfinția voastră? Calea este oprită!</p>
+<p>— Fiule, Dumnezeu să fie lăudat — zise călugărul — merg la un bolnav care trage de moarte.</p>
+<p>— În ce loc se află bolnavul? întrebă soldatul.</p>
+<p>— Într-un sat de aici prin apropiere, răspunse călugărul.</p>
+<p>— Nu pot să vă las să treceți, sfinția voastră, până nu-mi veți spune numele satului — zise soldatul.</p>
+<p>— Mă duc la Castelul Banului.</p>
+<p>— La castelul Banului?</p>
+<p>— Da! răspunse călugărul.</p>
+<p>Călugărul mințea.</p>
+<p>— Te rog acum, fiule, să-mi spui care este calea cea mai scurtă de aici la Castel?</p>
+<p>— Cu toată bunăvoința mea nu știu, zise soldatul — Dar... ia stai... Este un luntraș pe aici prin apropiere, poate că știe dânsul.</p>
+<p>— Du-mă dar la acel luntraș — zise călugărul — și vei căpăta un bun dar.</p>
+<p>— Nu pot părăsi postul meu de sentinelă — zise soldatul — dar îți voi spune calea:</p>
+<p>Apucă drumul acesta, dacă vei merge drept, vei ieși la malul Oltului; acolo se vede o căsuță mică, țărănească. În căsuța aceea locuiește luntrașul.</p>
+<p>— Mulțumesc! zise călugărul, dând soldatului o piesă de aur.</p>
+<p>Soldatul luă moneda, sărută mâna călugărului, se puse în genunchi și zise:</p>
+<p>— Binecuvintează-mă, părinte!</p>
+<p>Preotul puse mâna pe capul soldatului și buzele sale murmurară o scurtă rugăciune.</p>
+<p>Pe urmă apucă calea ce ducea la râu și ajunse la locuința luntrașului.</p>
+    </div>
+    <div type="section">
+<p>CAPITOLUL X</p>
+<p>În Castel</p>
+<p>„Ce, ai început sa cunoști și tu lumea, atât de tânără?</p>
+<p>Banul Vladislav.</p>
+<p>Soarele începu să apună.</p>
+<p>Într-una dintre odăile sale, Banul Vladislav ședea lângă o fereastră deschisă, privind apusul acela de soare atât de frumos.</p>
+<p>Ochii săi străbateau toate locurile acelea frumoase care se desfășurau înaintea sa.</p>
+<p>Deodată scoase un suspin.</p>
+<p>La ce se gândește oare?</p>
+<p>Ce amintire a fost aceea care îl făcu să suspine?</p>
+<p>Dânsul ce trăia retras în castelul său de atâţia ani?</p>
+<p>Ce avea o inimă de fier? Ce magnet a fost acela care a lovit acea inimă ca să scoată dintr-însa un suspin?</p>
+<p>Vladislav simte azi pentru prima oară urâtul singurătății.</p>
+<p>Intrarea intendentului său puse capăt acestor gânduri.</p>
+<p>El spuse că o căruță domnească a sosit cu o tânără jupâneasă însoțită de un bătrân ostaș.</p>
+<p>— O tânără jupâneasă! exclamă el cu mirare.</p>
+<p>Aproape voia să întrebe pe intendentul dacă jupâneasa aceea tânără era și frumoasă, dar se opri.</p>
+<p>Apoi zise intendentului său să introducă pe noii sosiți în sala de audiență.</p>
+<p>Intendentul se închină și Vladislav intră în budoarul său.</p>
+<p>Acolo își făcu toaleta pieptănându-și părul lui cel lung și frumos.</p>
+<p>După câteva minute ieși spre a întâmpina pe noii sosiți.</p>
+<p>Înainte de a intra în sala de audiență, el dădu ordin să se îngrijească de căruța domnească și de cai.</p>
+<p>În urmă intră în sala de audiență unde așteptau oaspeții.</p>
+<p>Noii sosiți se sculară și se închinară.</p>
+<p>Sunt marele Postelnic al domnitorului, cu fiica mea, Stanca - zise el.</p>
+<p>(Va urma)</p>
+    </div>
+</div>
+<div type="part" n="16">
+<p>14</p>
+<p>„FOITA ZIARULUI „ROMANUL"</p>
+<p>ILEANA</p>
+<p>ROMAN DE MARE SENZAȚIE</p>
+<p>de</p>
+<p>D. CASELLI</p>
+    <div type="section">
+<p>— Pe d-ta te cunosc — răspunse Vladislav, aducându-și aminte de Marele Postelnic, ambasadorul Voievodulul pe care îl primise cu câteva săptămâni înainte.</p>
+<p>— Ce vânt vă aduce pe la mine — urmă Banul — uitându-se la Stanca.</p>
+<p>— Niște haiduci ne-au urmărit! răspunse bătrânul demitor — și am fost nevoiți a intra în locuința d-voastră pentru câteva zile, până când cred că haiducii se vor risipi.</p>
+<p>— În locuința mea puteți fi siguri, nimeni nu va cuteza să intre.</p>
+<p>Ochii lui se preumblară din nou asupra frumoasei jupânese.</p>
+<p>— Jupâneasa a simțit o mare spaimă — zise el adresându-se către Stanca.</p>
+<p>— Nici decum! - răspunse ea râzând — căci am știut să suntem aproape de castelul d-voastră.</p>
+<p>Surprins Banul replică:</p>
+<p>— Și de unde, frumoasă jupâneasă, erai încredințată că porțile castelului meu erau să se deschidă îndată la orice călător care cere intrare?</p>
+<p>— Știam că sunteți un boier. Numele d-voastră e cunoscut în țară și de aceea am cutezat să intru având încredințarea că nu voi fi respinsă — răspunse Stanca.</p>
+<p>— Și nu te-ai înșelat! zise Banul.</p>
+<p>În acel moment intendentul apăru pe pragul ușii.</p>
+<p>— Bine, amice, ai îngrijit de masă, domniile lor sunt de pe drum și au nevoie să fie ospătați.</p>
+<p>Intendentul se închină și părăsi sala.</p>
+<p>— Oricine apelează la mine este primit, cu bunăvoință ajutat, hrănit și adăpostit, căci așa sunt eu, ospitalier — urmă Banul, vorba de unde o întrerupse prin intrarea intendentului.</p>
+<p>— În lumea asta oamenii sunt mai toți răi și puțin sunt buni — răspunse Stanca.</p>
+<p>Marele postelnic stătea la o parte retras, și nu spunea niciun cuvânt.</p>
+<p>Se vedea că el dinadins căuta să evite convorbirea cu Banul.</p>
+<p>— Ce ai început să cunoști și tu lumea, atât de tânără? Asta ar trebui lăsată la o parte, femeile tinere nu trebuie să cunoască decât plăcerile lor, și dacă acele femei tinere sunt frumoase ca tine trebuie să-și vadă de frumusețea lor, să nu sufere vreo vătămare, iar nu la lucrurile lumii. Adevărata fericire pentru o tânără femeie frumoasă stă în neștiința lucrurilor acestei lumi. Tu, frumoasă copilă, nu trebuie să te îngrijești decât de tine, căci ție mai cu seamă ți-a dat natura una dintre acele podoabe cu care te poți înfățișa orișiunde și întotdeauna vei găsi poarta oricărei locuințe deschisă. Acea podobă care este frumusețea pe care o ai, face pe oricine - dacă mai cu seamă acela este bărbat - să nu-ți refuze nimic și să-ți împlinească orice dorință ai. Și dacă eu aș ști că ziua de mâine îmi păstrează vreo fericire, fie numai pentru o singură zi, pentru câteva ore numai, aș da tot viitorul meu cu care nu mai am ce face! zise Vladislav.</p>
+<p>— Cine știe! zise Stanca gânditoare — poate că ziua de mâine să vă aducă o fericire la care d-voastră nici nu v-ați așteptat.</p>
+<p>— Să fie venirea ta aici la Castel o fericire pentru mine, zise Banul apropiindu-se de tânăra femeie și apucându-i mâinile.</p>
+<p>Stanca își aruncă vălul ce îi acoperea capul și întreaga faţă și rămase înaintea Banului într-o rochie decoltată, ce lăsa să se  vadă formele ei nespus de frumoase.</p>
+<p>Sânul ei palpitabil zvâcnea cu o putere parcă ar fi voit să iasă din locul lui.</p>
+<p>Banul privea pe încântătoarea fată ce o ținea lângă dânsul cu o pasiune ce ajungea câteodată până la extremitate.</p>
+<p>(Va urma)</p>
+    </div>
+</div>
+    
+    <div type="part" n="17">
+<p>15</p>
+<p>„FOITA ZIARULUI „ROMANUL"</p>
+<p>ILEANA</p>
+<p>ROMAN DE MARE SENZAȚIE</p>
+<p>de</p>
+<p>D. CASELLI</p>
+        <div type="section">
+<p>El tremura de fericire.</p>
+<p>Voia să posede pe această încântătoare copilă.</p>
+<p>Ileana se uită la dânsul și vedea bine câtă impresie făcuse asupra lui.</p>
+<p>Ea deja știa acum că scopul ei este ajuns.</p>
+<p>Dar voia să mai mărească pasiunea acestui om ca să poată în urmă să-l țină mai bine prins în mrejele sale.</p>
+<p>Ea își dădu părul peste spate cu o mișcare cochetă din mână și își rezemă spatele de fotoliu. Prin mișcarea asta sânul se desveli lăsând să iasă din cămașa decoltată pieptul ei alb ornat cu două țâțe rumene și moi.</p>
+<p>Banul tremură din tot corpul.</p>
+<p>Ar fi vrut să o apuce de mijloc și sa îi ia tot ce avea mai scump; să-i soarbă sucul tinereții și al fecioriei.</p>
+<p>Ea râdea galeș.</p>
+<p>Nemaiputându-se stăpâni el voia să se arunce asupra ei.</p>
+<p>Dânsa la rândul ei era aproape să se lase în brațele lui când intendentul intră și anunță că masa era gata, punând astfel capăt acestei scene de amor.</p>
+<p>Marele Postelnic dispăruse.</p>
+<p>Din momentul în care dânșii începură să vorbească de amor, bătrânul Postelnic văzu că locul său nu este acolo.</p>
+<p>El se sculă încet și trecu în sala de mâncare.</p>
+<p>După ieșirea intendentului, Banul luă de braț — dar mai bine o ducea pe sus — pe frumoasa copilă, care îl mușcă pe obraji și o duse în sala de mâncare.</p>
+</div>
+<div type="section">
+<p>CAPITOLUL XI</p>
+<p>Coliba</p>
+<p>„Dacă sfinția voastră se mulțumește cu o saltea de paie, atunci îți dau adăpostul cerut.</p>
+<p>Luntrașul</p>
+<p>Pe malul Oltului, lângă pădure se afla o căsuță mică țărănească.</p>
+<p>Căsuța, sau mai bine zis coliba, era acoperită de paie și avea două încăperi.</p>
+<p>Ea aparținea unui luntraș muntean.</p>
+<p>Într-una din odăi vedem o mulțime de lucruri de care se servesc luntrași și pescari.</p>
+<p>Cealaltă era simplu mobilată având un pat de lemn, o masă și două trei scaune tot de lemn.</p>
+<p>Este noapte.</p>
+<p>O noapte întunecoasă.</p>
+<p>Cerul era negru și nicio stea nu se zărea.</p>
+<p>Un vânt tare desrădăcina arborii din locul lor.</p>
+<p>O parte din fereastra veche a colibei vântul o aruncă departe în valurile râului.</p>
+<p>Vântul, intrând prin fereastră, stinse lampa de uleiul ce ardea în colibă.</p>
+<p>Pe patul mizerabil era culcat un om de o statură înaltă și sălbatică.</p>
+<p>Avea o față bărboasă, părul nepieptănat, niște ochi vicleni, buzele groase și gura mare.</p>
+<p>Când deschidea gura, lăsa a se vedea o dantură ca a unui câine, niște dinți mari și ascuțiți care sfășiau pe un om.</p>
+<p>În momentul în care lampa se stinse, el scoase un blestem și se sculă să aprindă a doua oară.</p>
+<p>În acel moment se auzi o bătaie ușoară la ușă.</p>
+<p>Întinse urechea și ascultă.</p>
+<p>— Pentru numele Lui Dumnezeu, deschide!</p>
+<p>Luntrașul merse și deschise ușa.</p>
+<p>Vâzând pe un preot și mirosind vreo afacere zise:</p>
+<p>— Ce voiți, sfinția voastră?</p>
+<p>— Dați-mi un adăpost noaptea asta, până va trece furtuna și îți voi plăti boierește, zise călugărul, care nu era altcineva decât pater Mateus.</p>
+<p>— Hm! făcu luntrașul.</p>
+<p>— Nu vrei să-mi dai adăpostul?</p>
+<p>— Dacă sfinția voastră se mulțumește cu o saltea de paie, atunci îți dau adăpostul cerut.</p>
+<p>— Mă mulțumesc cu orice — răspunse călugărul - numai o singura noapte am să stau, mâine dimineață mă vei trece dincolo de rău și îți voi da o răsplată bună.</p>
+<p>— Bine, poftim, intrați! zise luntrașul, eu merg să aduc ceva de mâncare.</p>
+<p>Luntrașul ieși și călugărul se așeză pe o bancă de lemn lângă masă.</p>
+<p>(Va urma)</p>
+    </div>
+    </div>
+    <div type="part" n="17">
+<p>„FOITA ZiARULUI „ROMANUL"</p>
+<p>17</p>
+<p>ILEANA</p>
+<p>ROMAN DE MARE SENZAȚIE</p>
+<p>de</p>
+<p>D. CASELLI</p>
+        <div type="section">
+<p>După puțin timp, barca ajunse la țărmul celălalt și călugărul se sculă și punând un picior pe pământ zise:</p>
+<p>— Vino afară să-ți plătesc ospitalitatea ce mi-ai dat!</p>
+<p>El puse mâna în buzunarul rasei sale și scoase îndată cu un strigat de mirare.</p>
+<p>—A pierit! murmură el, gândindu-se că luntrașul îl jefuise noaptea.</p>
+<p>Luntrașul se uită la el cu un zâmbet diavolic.</p>
+<p>Călugărul scoase atunci un strigăt de turbare și răcni :</p>
+<p>—Adio! Ne vom revedea în curând!</p>
+<p>Luntrașul se uita după el.</p>
+<p>Pe urmă, luând lopețile în mână vâsli cu putere, până ajunse înaintea colibei sale.</p>
+<p>Călugărul, luând calea ce ducea la Turnul Severin, ajunse acolo după o călătorie de câteva zile.</p>
+<p>Intrând în oraș, schimbă rasa călugărească munteană într-o rasă catolică, cafenie, din ordinul dominicanilor.</p>
+<p>Cu pași grăbiți luă calea cea mare și ajunse înaintea porții palatului Inchizitorial.</p>
+<p>Luă ciocanul în mână si bătu de două ori.</p>
+<p>— În numele ordinului dominican, deschideți!</p>
+<p>Poarta nu se deschise, dar fereastra porții fu deschisă si un cap omenesc zise: </p>
+<p>— Cine sunteți?</p>
+<p>— Ce, nu mă cunoști, pater portar? Sunt Pater Mateus.</p>
+<p>Poarta se deschise și călugărul intră.</p>
+<p>— Lăudat fie numele Domnului!</p>
+<p>— Amin! zise fratele portar si închise uşa.</p>
+</div>
+<div type="section">
+<p>CAPITOLUL XII</p>
+<p>În templul amorului</p>
+<p>,,Deoarece ți-am dat cuvântul că-ți voi îndeplini dorința, acum-mi aparții mie."</p>
+<p>Banul Vladislav</p>
+<p>Stanca, când se deșteptă două ceasuri după mijlocul zilei, obosită fiind că dormise prea mult, se întoarse cu pieptul pe pat, desfăcu picioarele, puse obrazul în mână și se gândea.</p>
+<p>Mai întâi de toate ea știa că făcuse pe Vladislav să-și piardă mințile prin frumusețea sa și prin înfățișarea ei de regină.</p>
+<p>Omul acela era acum în puterea ei!</p>
+<p>Putea să se joace cu dânsul cum va voi.</p>
+<p>Nu-l ținea ea oare în mrejele sale?</p>
+<p>Nu era el nebun după dânsa?</p>
+<p>Dar se mai gândea.</p>
+<p>Dacă va pofti de dânsa și nu-i va satisface dorința?</p>
+<p>Atunci?</p>
+<p>Asta nu putea să se întâmple!</p>
+<p>Vladislav era un boier!</p>
+<p>Dar dânsa nu era sora lui?</p>
+<p>Cum putea să-l lase să guste deliciile amorului?</p>
+<p>Nu era asta un sacrilegiu?</p>
+<p>Necăjită, ea își desfăcu părul și zise, vorbindu-și sieși :</p>
+<p>— Și ce e cu asta? Oare istoria nu ne arată atâtea exemple? Cum regii din Antichitate posedau pe surorile lor și chiar pe fiicele lor? Pentru ce eu să refuz fratelui meu?</p>
+<p>— Didino! Didino! strigă Stanca.</p>
+<p>Didina era o țărancă frumoasă, o roabă pe care Banul o avea ca servitoare în Castel, pe care o pusese la dispoziția Stancii.</p>
+<p>Roaba intră și se opri lânga ușă fără să o închidă de tot.</p>
+<p>— Didino, ce face Banul?</p>
+<p>— Nu știu! Poate doarme, căci nu s-a sculat încă.</p>
+<p>— Bine. Mi se pare că am dormit prea mult.</p>
+<p>Stanca se întoarse pe pat.</p>
+<p>Lăsă un picior să-i pice pe covor și se întinse.</p>
+<p>Didina fu gonită.</p>
+<p>Stanca se învârtea încet prin odaie cu mâinele înodate la ceafă gândindu-se numai la voluptatea de a se simți goală.</p>
+<p>Pe urmă intră în baie.</p>
+<p>După cinci minute, Stanca se ridică în picioare în piscină, ieși din apă și merse spre ușă.</p>
+<p>Urmele piciorușelor sale străluceau pe podeaua camerei.</p>
+<p>Legănându-se parcă obosită, deschise ușa de perete și se opri cu brațul întins spre clanță</p>
+<p>(Va urma)</p>
+    </div>
+        </div>
+    <div type="part" n="18">
+<p>FOITA ZIARULUI „ROMANUL“</p>
+<p>18</p>
+<p>ILEANA</p>
+<p>ROMAN DE MARE SENZAȚIE</p>
+<p>de</p>
+<p>D. CASELLI</p>
+        <div type="section">
+<p>Când o văzu, Didina intră în cameră.</p>
+<p>Stanca lângă pat, în picioare și udă toată, zise roabei să o șteargă.</p>
+<p>Roaba luă un șervet mare în mână și o freacă până ce pielea îi deveni roșie.</p>
+<p>Îi unse părul cu ulei mirositor.</p>
+<p>Stanca se trânti pe un jeț și îi zise să o pieptene.</p>
+<p>Părul strălucea ca o ploaie luminată de soare.</p>
+<p>Didina îl luă părul cu amândouă mâinele și îl răsuci.</p>
+<p>Îi răsuci în loc și îi înfipse într-însul câteva ace lungi de aur.</p>
+<p>Stanca ținea o mică oglindă venețiană în mână.</p>
+<p>Se uită distrată la mâinile roabei care se mișcau prin părul său.</p>
+<p>Didina deschise geamantanul Stancii și scoase o cutiuţă de lemn.</p>
+<p>Era pudră. Roaba luă pămătuful și începu să o pudreze peste tot corpul.</p>
+<p>Cu un penson negru înnegri sprâncenele.</p>
+<p>Cu un altul încărcat cu roșu, roși buzele și sfârcurile țâțelor.</p>
+<p>Toaleta era sfârșită.</p>
+<p>Atunci Ileana zâmbi și zise roabei:</p>
+<p>— Să vină Banul!</p>
+<p>Didina ieși.</p>
+<p>După câteva minute Vladislav intră în odaia Stancii.</p>
+<p>Banul era îmbrăcat într-un superb caftan de mătase subțire.</p>
+<p>Se închină cu curtenie înaintea jupânesei.</p>
+<p>Ea îl salută cu o înclinare din cap.</p>
+<p>Ședea așa de frumos în fotoliul de catifea!</p>
+<p>Acele din părul ei străluceau.</p>
+<p>Ținea mâinile pe piept.</p>
+<p>Vladislav contemplă cu privirea sa arzătoare formele frumoasei jupânese.</p>
+<p>Stanca râse galeș și zise:</p>
+<p>— Ieri îmi spuneai că dacă ziua de mâine îmi păstrează vreo fericire, fie numai pentru o singură zi, pentru câteva ore numai, aș da tot viitorul meu, cu care nu mai am ce face!</p>
+<p>— Eu nu doresc viitorul d-voastră, dar dacă d-voastră îmi veți împlini una dintre dorințele mele la care țin ca la viața mea, atunci eu sunt la dispoziția d-voastră, putând să dispuneți de mine cum voiți!</p>
+<p>— V-am spus ieri: Cine știe! Poate că ziua de mâine să vă aducă o fericire la care d-voastă nici nu v-ați așteptat. Fericirea vă stă în mână, n-aveți decât să o apucați ca să nu vă scape.</p>
+<p>Vladislav răspunse:</p>
+<p>— Îți voi îndeplini toate dorințele ce le ai!</p>
+<p>— Una singură dorință am.</p>
+<p>— Și care este?</p>
+<p>— Să o spun?</p>
+<p>— Spune-o îndată!</p>
+<p>— Am multe moșii în Banatul Severin. Precum știți, astăzi el e în mâinele Ungurilor care, nemulțumiți cu partea aceasta, vor să cuprindă și Valahia. Eu cunosc prea bine câtă mare trecere aveți d-voastră...</p>
+<p>— Am înțeles — întrerupse Vladislav. Vrei să mă duc și să răscol Oltenia asupra ungurilor, astfel să-i alungăm din țară.</p>
+<p>— Asta este!</p>
+<p>— Voievodul Alexandru mi-a mai făcut această propunere prin doi ambasadori, dintre care unul este tatăl d-tale.</p>
+<p>— Și ce răspuns ați dat?</p>
+<p>— Am refuzat!</p>
+<p>— Atunci eu...</p>
+<p>— Îți voi îndeplini dorința. Mâine voi pleca la Craiova.</p>
+<p>— Îmi dați... cuvântul...?</p>
+<p>— Da!</p>
+<p>— Îți mulțumesc!</p>
+<p>— Deoarece ți-am dat cuvântul meu că-ți voi îndeplini dorința... acum ești a mea.</p>
+<p>Vladislav se apropie de Stanca.</p>
+<p>— Vreau să gust un ceas de fericire. Vederea ta m-a înnebunit. Ochii tăi sunt precum crinii albaștri și buzele tale flori de mac roșu. Șoldurile tale sunt tari ca marmura albă, iar țâțele tale sunt două păvaze de argint ale căror vârfuri au fost scăldate în sânge.</p>
+<p>La aceste cuvinte de un amor înflăcărat, Stanca se înroși pentru prima dată.</p>
+<p>Dar frumusețea lui Vladislav o învinse și ea se lăsă, timidă, blândă, ca el să-i facă orice va voi.</p>
+<p>(Va urma)</p>
+        </div>
+    </div>
+    <div type="part" n="19">
+<p>FOITA ZIARULUI „ROMANUL"</p>
+<p>19</p>
+<p>ILEANA</p>
+<p>ROMAN DE MARE SENZAȚIE</p>
+<p>de</p>
+<p>D. CASELLI</p>
+        <div type="section">
+<p>Tremurând de voluptate și pasiune se apropie de dânsa să o strângă în brațe.</p>
+<p>Simțurile îi erau aprinse.</p>
+<p>Stanca se sculă după jeț.</p>
+<p>Luă o poziție încântătoare și se întinse.</p>
+<p>Își scoase afară pântecele, lăsând să se vadă prin mișcarea asta acea particularitate rară la care dânsul râvnea atât de mult.</p>
+<p>— Iată floarea de mac ce conține mierea cea mai suavă și cea mai dulce.</p>
+<p>Și Vladislav își apropie fața de floarea de mac despicată în două, deschise gura și scoase limba.</p>
+<p>O puse pe această floare mai dulce și mai suavă decât mierea sorbind-o toată, făcând pe Stanca să tremure de voluptate și plăcere.</p>
+<p>Terminase sorbirea acelui parfum atât de delicat.</p>
+<p>Se sculă și o apucă încet de șolduri, o puse pe divanul moale și se așeză pe dânsa.</p>
+<p>La rândul lui voia să fie răsplătit de plăcerea pe care dânsul o făcuse să o simtă ea.</p>
+<p>Piciorul lui se pierdu printre ale ei.</p>
+<p>Ca două valuri de carne fierbinte, tremurând, pulpele Stancii, începură să strângă piciorul lui Vladislav.</p>
+<p>Un tremur...</p>
+<p>Un fior de plăcere...</p>
+<p>Îi ameți și-i lipi și mai mult.</p>
+<p>Corpul lui Vladislav apăsă peste trupul mlădios și excitat al Stancii care se lăsă în brațele lui fără nicio putere.</p>
+<p>— Ajunge, frate... plângea dânsa. Mâna lui o duce pe sub corpul care tremura.</p>
+<p>Stanca zăpăcită, înnebunită de voluptate și plăcere, îngână iar:</p>
+<p>— Ajunge, frate... Ajunge...</p>
+</div>
+<div type="section">
+<p>CAPITOLUL XIII</p>
+<p>O convorbire interesantă</p>
+<p>„Am venit să-mi iau soția. Niciun om, nicio lege nu poate să-mi ia dreptul de bărbat pe care-l am asupra ei.“</p>
+<p>Spătarul Vintilă.</p>
+<p>Am spus într-unul dintre capitolele precedente că Spătarul Vintilă, bărbatul Ileanei, cu câteva ore mai în urmă după plecarea căruței domnești, sosi la Câmpulung și, aflând că dânsa plecase la Craiova, imediat se puse în urmărirea ei.</p>
+<p>Cititorul nostru cunoaște prea puțin pe acest Spătar, de aceea și noi ne facem o datorie să-i arătăm aici în puține cuvinte.</p>
+<p>El era un om înalt, bine făcut și nu tocmai urât.</p>
+<p>După înfățișarea lui, el nu putea să aibă decât 40 de ani.</p>
+<p>Deci era tânăr încă.</p>
+<p>Intrase în armată de timpuriu și ajunsese la cetatea aceasta la gradul de spătar.</p>
+<p>Trecând într-o zi pe la Argeș și abătându-se pe la locuința Călugăriței şi văzând pe frumoasa copilă, întrebuință toate mijloacele sale pe lânga dânsa, ca să-i dea fata de nevastă.</p>
+<p>Călugărița răspunse că se va gândi, căci fata nu era a ei, dar după trecerea câtorva luni ea consimți.</p>
+<p>Astfel, Ileana deveni soția Spătarului Vintilă.</p>
+<p>Dar acest om nu era făcut ca să fie un bun soț.</p>
+<p>El își vedea de treburile și de aventurile sale și câteodată făcea cu luni ca să mai dea pe acasă.</p>
+<p>O astfel de viață conjugala i se urâse Ileanei, până când, intrând Ungurii în țară și arzându-i toate satele ei, se hotărî să meargă la Voievodul, căci bărbatul ei o părăsise, și să-i pună la dispoziția lui serviciile sale.</p>
+<p>Astfel noi am văzut-o convorbind de două ori cu Alexandru.</p>
+<p>Acum Vintilă se vede că i-a părut rău de această faptă pe care o făcuse, sau că auzise de la curtezanii palatului că Alteța Sa va da Ileanei alte sate si moșii, s-a hotărât să se ia după dânsa, poate ar fi putut să se înțeleagă iar.</p>
+<p>Noi îl vedem acum învârtindu-se pe lângă Castelul Banului.</p>
+<p>Marele Postelnic, ca să-și mai omoare vremea și ca să lase Stancii toată libertatea ei în Castel, dis-de-dimineață se îmbrăcă într-un costum de vânătoare și plecă la vânat.</p>
+<p>(Va urma)</p>
+</div>
+    </div>
+    <div type="part" n="21">
+<p>FOITA ZIARULUI „ROMANUL"</p>
+<p>20</p>
+<p>ILEANA</p>
+<p>ROMAN DE MARE SENZAȚIE</p>
+<p>de</p>
+<p>D. CASELLI</p>
+        <div type="section">
+<p>Întâmplarea făcu ca la câțiva metri departe de Castel să se întâlnească cu Spătarul Vintilă.</p>
+<p>El era palid, cu ochii plini de ură și mânie.</p>
+<p>— Cine ești? Ce vrei? îl întrebă Marele postelnic.</p>
+<p>— Cine sunt vrei să stii? zise el — întreabă pe femeia pe care o ai la Castel și pe care am venit s-o întreb ce caută aici.</p>
+<p>Marele postelnic, surprins de a vedea pe Spătarul Vintilă, și temându-se ca dânsul să nu intre în castel să facă scandal, căută vreun mijloc cum l-ar fi putut îndepărta mai mult.</p>
+<p>— Nu știu cine ești — zise el — și ce ai cu o femeie pe care d-ta crezi că ai să o găsești în Castel, dar încă odată te întreb, cine ești?</p>
+<p>— Cine sunt, vrei să afli? Îți spun că în castel se află o femeie, pe mine nu mă puteți înșela și femeia aceasta, pe care o găsesc aici, și care m-a făcut să o caut de când a fugit din casă ei, ea, pe care nu o credem așa de jos căzută, este soția mea!</p>
+<p>— Bine - răspunse bătrânul demnitar. Știi d-ta unde se găsește? Într-a cui casă se găsește așa-zisa soția d-tale?</p>
+<p>— N-am niciun zor despre aceasta - zise Vintilă. Mi s-a spus că este la fratele său, pe care nici nu-l cunosc, și care puteți să fiți chiar d-voastră, asta nu mă oprește nici decum să-mi caut nevasta.</p>
+<p>— Îndrăznești să-mi vorbești așa? zise marele Postelnic. Vii să-ți cauți soția, după ce ai părăsit-o. Să-ți fie rușine, om de nimic. Ai părăsit-o fiindcă i s-au ars satele și, rămânând fără avere, ai crezut, nu-i așa, să nu mai trăieşti cu dânsa? Și acum ai venit aici pentru că ai aflat că domnitorul are să-i dea o despăgubire?</p>
+<p>— Nu vreau să știu cine ești — răspunse Spătarul. Am venit să-mi iau soția.Niciun om, nicio lege nu poate să-mi ia dreptul de bărbat pe care-l am asupra ei.</p>
+<p>— Bine, zise Marele postelnic, o vei lua dacă dânsa va voi să te urmeze.</p>
+<p>— Asta e treaba mea, zise Vintilă. Dacă am plăcere, o voi lua, dacă nu, n-am să o iau. Am venit pentru altceva.</p>
+<p>— Pentru ce?</p>
+<p>— Pentru ce? răspunse Vintilă ironic.</p>
+<p>— Da, pentru ce ai venit?</p>
+<p>— Am venit să înfierez...</p>
+<p>— Niciun cuvânt mai mult! strigă bătrânul amenințător, scoțându-și sabia. Am avut răbdare să te las să vorbești, căci nu-mi era dat mie să vă ating drepturile d-voastră de soț, dar din momentul când nu este asta ce te aduce aici, ci răzbunarea, te opresc de a mai vorbi, și tot deodată îți ordon că la moment să părăsești locul acesta.</p>
+<p>— Ha! Ha! Ha! - râse Vintilă, mă ameninți!</p>
+<p>Și scoase sabia.</p>
+<p>— Ne vom bate!</p>
+<p>— Bine! — răspunse Marele Postelnic.</p>
+<p>Mai înainte de a se apuca la luptă, acesta din urmă scoase un fluier mic de argint și fluieră de trei ori.</p>
+<p>Imediat pădurea se umplu de călăreți.</p>
+<p>Era plutonul de panduri care escortase căruța domnească.</p>
+<p>Căpitanul plutonului se prezentă.</p>
+<p>—Luați pe acest om — zise bătrânul- și puneți-l în căruța domnească și duceți-l departe de aici, cale de câteva poște. Pe urmă dați-1 jos din căruță și întorceți-vă înapoi.</p>
+<p>Pandurii executară numaidecât ordinul marelui Postelnic.</p>
+<p>După plecarea Spătarului Vintilă, bătrânul își aruncă arcușul pe spate și își urmă calea înainte.</p>
+<p>Mergea să vâneze puțin, știind că a făcut un bine, scăpând pe Stanca de acel om.</p>
+<p>Se întoarse la Castel aducând cu dânsul câteva păsări.</p>
+<p>Vânatul pe care îl omorâse.</p>
+<p>În puține minute el se dezbrăcă de hainele sale de vânătoare și se duse să aibă o convorbire cu Stanca.</p>
+<p>Didia stătea la ușa camerei postată acolo de către Vladislav spre a nu lăsa să intre nimeni înăuntru câtă vreme el era acolo.</p>
+<p>(Va urma)</p>
+            </div>
+    </div>
+    <div type="part" n="21">
+<p>FOITA ZIARULUI „ROMANUL"</p>
+<p>21</p>
+<p>ILEANA</p>
+<p>ROMAN DE MARE SENZAȚIE</p>
+<p>de</p>
+<p>D. CASELLI</p>
+        <div type="section">
+<p>Roaba, văzând pe ambasador, se dădu la o parte și acesta intră în cameră.</p>
+<p>Stanca era singură.</p>
+<p>Stătea tot pe jețul acela de catifea. Ea primi pe ambasador, surâzând misterios.</p>
+<p>Printr-un semn îl făcu să se apropie de ea.</p>
+<p>- Ce este?</p>
+<p>Bătrânul îi povesti totul cum se întâmplase.</p>
+<p>Stanca se făcu galbenă de spaimă.</p>
+<p>Prin ajutorul lui, ea scăpase de scandalul ce era să se petreacă la Castel.</p>
+<p>Ea îi apucă mâinele și le duse la buze:</p>
+<p>— Îți mulțumesc! Îți mulțumesc.</p>
+<p>— Cu Banul cum a rămas?</p>
+<p>— S-a făcut totul — răspunse ea.</p>
+<p>-Își va ține oare cuvântul?</p>
+<p>— Banul Vladislav niciodată n-a mințit, mâine pleacă la Craiova. În timpul acesta noi vom merge la Câmpulung la domnitor să-i spunem că toate au fost îndeplinite după cum a dorit.</p>
+<p>— Putem pleca: să nu întârziem!</p>
+<p>Bătrânul ieși ca să facă pregătirile pentru călătorie.</p>
+<p>*</p>
+<p>Înainte ca Banul să plece la Craiova, se duse în camera Stancii și îi zise:</p>
+<p>— Stăncuță, iubita mea! Cred că timpul va duce astfel lucrurile încât să fim nedespărțiți de aici înainte, oricât ne va fi dat s-avem o viaţă pe pământ. Ești hotărâtă, draga mea, să luptăm împreună pentru fericirea noastră?</p>
+<p>— Sunt hotărâtă a nu mă mai despărți de d-ta cât timp voi trăi - răspunse ea.</p>
+<p>—Vei rămâne aici până mă voi întoarce din Craiova, unde mă duc să-ți împlinesc dorința.</p>
+<p>— O să ne aștepți, dragul meu, după ce te vei întoarce din Craiova? Căci și eu plec spre a-mi regula afacerile mele.</p>
+<p>— Bine, voi aștepta sosirea ta.</p>
+<p>Ea își desfăcu brațele, puse fața ei pe pieptul lui Vladislav, trase capul lui lângă al ei și-l acoperi de sărutări.</p>
+<p>— Frumoasa Stăncuța! îngână el, să ne despărțim!</p>
+<p>El se desfăcu cu blândețe din brațele ei și părăsi camera</p>
+<p>A doua zi dis-de-dimineață, Vladislav, urmat de câțiva cavaleri, părăsi Castelul, luând drumul Craiovei.</p>
+</div>
+<div type="section">
+<p>CAPITOLUL XIV</p>
+<p>Răpirea</p>
+<p>„Acum poate să vină iubitul tău să te ia, dar va găsi camera goală, tu vei fi departe, departe de aici!“</p>
+<p>Familiarul</p>
+<p>Pe șoseaua ce duce de la orașul Turnul-Severin la Câmpulung mergea o căruță țărănească închisă, trasă de doi cai.</p>
+<p>Trăsura avea șase oameni îmbrăcați în rase călugărești.</p>
+<p>Acești oameni erau niște familiari. 1)</p>
+<p>Șoseaua era tăcută; niciun om nu se zărea; cerul era ici și colea acoperit de nori.</p>
+<p>După ce călătoria dură vreo câteva zile, ajunseră în fine pe malul Oltului.</p>
+<p>Pe partea cealaltă se zărea din depărtare coliba luntrașului.</p>
+<p>Trăsura se opri pe loc și un</p>
+<p>1) Ajutoarele Inchiziției</p>
+<p>călugăr se coborî dintr-însa.</p>
+<p>Imediat după dânsul săriră şi ceilalți.</p>
+<p>Călugărul, care se dădu jos cel dintâi, dădu câteva ordine vizitiului și celuilalt familiar care ședea lângă el, pe urmă scoase un semnal și fluieră de trei ori.</p>
+<p>Luntrașul din colibă, auzind semnalul, ieși afară.</p>
+<p>Văzu că i se făcea semn, imediat el înțelese, sări în luntre, luă lopețile în mână și în câteva momente era la dânșii.</p>
+<p>— Va trebui să ne treci dincolo, zise unul dintre călugări, în care luntrașul recunoscu pe pater Mateus, cel pe care îl jefuise.</p>
+<p>— Îndată! răspunse luntrașul.</p>
+<p>Cei cinci familiari și călugărul săriră în barcă.</p>
+<p>Luntrașul vâslă cu putere.</p>
+<p>Ei ajunseră după câteva minute înaintea colibei.</p>
+<p>(Va urma)</p>
+    </div>
+    </div>
+    <div type="part" n="22">
+<p>FOITA ZIARULUI „ROMANUL"</p>
+<p>22</p>
+<p>ILEANA</p>
+<p>ROMAN DE MARE SENZAȚIE</p>
+<p>de</p>
+<p>D. CASELLI</p>
+        <div type="section">
+<p>Căruța cu vizitiul și celălalt familiar rămaseră pe malul de vis-a-vis; pe urmă se înfundă într-o pădure.</p>
+<p>Familiarii săriră din barcă, plătiră luntrașului și luară calea ce ducea la Câmpulung.</p>
+<p>După o călătorie obositoare ajunseră în Câmpulung și traseră la un han.</p>
+<p>Acesta le dădu odaie de dormit și ceva de mâncare, fiindcă erau foarte flămânzi.</p>
+<p>Dis-de-dimineață intrară în Câmpulung.</p>
+<p>Soarele se scufundase în valurile mării depărtate și se stinse ca un glob de foc.</p>
+<p>Amurgul serii pieri și el repede și noaptea învălui Câmpulung cu valurile sale nepătrunzătoare.</p>
+<p>Cu toate că nu era târziu, străzile erau pustii și nu se mai vedea o suflare de om.</p>
+<p>Pretutindeni viața părea a fi amorțită și întunecate erau atât locuințele săracilor, cât și ale bogaților.</p>
+<p>Numai din fereastra cu zăbrele a unei casei situată în mahalaua cea mai depărtată a orașului Câmpulung, se furișa pe stradă o zare slabă de lumină.</p>
+<p>Se putea presupune că acolo veghează cineva.</p>
+<p>Printr-o tindă întunecoasă așternută cu covoare ajungem la o scară.</p>
+<p>Suind-o dăm într-un coridor unde se văd mai multe uși.</p>
+<p>Îndată găsim ușa care duce în odaia luminată și intrăm înăuntru.</p>
+<p>Este o odaie nu tocmai mare, dar mobilată cu un lux deosebit, având covoare prețioase așternute pe jos și altele atârnate pe pereți.</p>
+<p>Un pat având niște perdele albe era așezat la un colț al odăii.</p>
+<p>Pe acest pat este culcată o tânără și frumoasă fată.</p>
+<p>Era îmbrăcată într-o rochie foarte simplă.</p>
+<p>Părea adormită.</p>
+<p>Deodată însă ea se trezi speriată.</p>
+<p>I se păru că ar fi auzit un zgomot dinspre fereastră.</p>
+<p>Voi să se scuture de amorțeala somnului, însă înainte de a izbuti întru aceasta i se păru că un corp negru se repezea ușor spre dânsa.</p>
+<p>I se păru că visează.</p>
+<p>Dar nu, nu era vis, nu era o fantasmagorie...</p>
+<p>Dinspre ușă se strecoară un corp încovoiat, pășind spre patul ei.</p>
+<p>În momentul următor un nor de aburi amețitori înconjură pe tânăra fată.</p>
+<p>Un miros neplăcut și îmbătător îi îngreuna simțurile.</p>
+<p>Cu un geamăt ușor, fata căzu răsturnată pe patul ei.</p>
+<p>*</p>
+<p>Pe una dintre străzile ce ducea în mahalaua în care locuia fata, se mișcau câteva persoane.</p>
+<p>Erau șase bărbați înveliți în mantale lungi.</p>
+<p>Când ajunseră lângă casa tinerei fete, acești oameni se opriră.</p>
+<p>Acum, unul dintr-înșii care nu era nimeni altul decât pater Mateus, luă cuvântul:</p>
+<p>—Iată-ne ajunși — zise el — colea e casa în care trebuie să pătrundeți și anume prin tinda aceasta întunecoasă. Eu voi rămâne aici, și voi veți pătrunde înăuntru. Fata trebuie să ajungă neatinsă în mâinile mele, altfel toată treaba n-are nicio valoare pentru mine. Ați înțeles?</p>
+<p>— Fii fără griji, venerabile părinte, niciun fir de păr nu i se va strâmba — asigurară familiarii.</p>
+<p>— Așa sper — răspunse pater Mateus — acum la lucru, fiindcă se face ziuă.</p>
+<p>Familiarii înaintară încet de tot în tindă și se opriră ascultând.</p>
+<p>Urcară scara și ajunseră în coridor.</p>
+<p>—Iată-ne la fața locului — șopti unul dintre ei, care spionase în ziua precedentă cu atenție toate unghiurile casei.— Acum la lucru, băieți. Faceți lumină aici, ca să putem vedea de ne amenință vreun pericol sau dacă ne observă cineva.</p>
+<p>La această poruncă unul dintre familiari scoase un felinar și-l aprinse.</p>
+<p>Ridică felinarul în sus și observă cu atenție coridorul.</p>
+<p>(Va urma)</p>
+            </div>
+    </div>
+    <div type="part" n="23">
+<p>FOITA ZIARULUI „ROMANUL"</p>
+<p>23</p>
+<p>ILEANA</p>
+<p>ROMAN DE MARE SENZAȚIE</p>
+<p>de</p>
+<p>D. CASELLI</p>
+        <div type="section">
+<p>Nimeni nu se zărea, niciun servitor nu era pe aici.</p>
+<p>— Așteptați-mă aici, eu voi merge înăuntru — zise familiarul.</p>
+<p>Fata se mișcă pe culcușul ei.</p>
+<p>Familiarului i se păru că ea se ridică.</p>
+<p>Nu mai era niciun moment de pierdut, căci nu trebuia s-o lase pe ea a se dezmetici, fiindcă astfel era să strige fără îndoială în ajutor îndată ce-l zărea în camera ei de culcare.</p>
+<p>Familiarul se târî înconvoiat până lângă patul fetei.</p>
+<p>Cu toate astea trebuie să-l fi auzit ea, căci întinse deodată brațele și se scutură ca și când un fior ar fi cuprins corpul virginal.</p>
+<p>Familiarul scoase o basma din buzunarul rasei sale.</p>
+<p>Un miros dulceag și grețos izbucni dintr-însa.</p>
+<p>Pentru a nu fi silit a respira el însuși acest miros, familiarul întoarse capul și păși înainte pe dibuite.</p>
+<p>Acum simți că stătea lângă patul fetei.</p>
+<p>Deodată îl izbiră urechea aceste cuvinte, șoptite cu un accent plin de groază:</p>
+<p>— Pentru numele Lui Dumnezeu, ce e aceasta? Ce vrei?..</p>
+<p>În momentul următor familiarul își aruncase basmaua pe obrazul fetei.</p>
+<p>Cu un geamăt ușor, fata căzu înapoi pe spate în pat.</p>
+<p>Acum familiarul întoarse capul și își observa opera zâmbind.</p>
+<p>Fata se luptă cu ultimul rest al puterilor ei contra amețelii ce o învingea.</p>
+<p>Familiarul scoase niște râsete batjocoritoare.</p>
+<p>— Acum poate să vină iubitul tău, să te ia, zise el — dar va găsi camera goală, tu vei fi departe, departe de aici!</p>
+<p>Ridică cu putere pe fata buimăcită și aleargă la ușă.</p>
+<p>Familiarii întinseră brațele pentru a lua în primire pe fata răpită.</p>
+<p>Unul dintre ei își smuci mantia de pe umeri și o înfășură de tot pe fată într-însa.</p>
+<p>Ieșiră în stradă și se repeziră cât putură mai iute spre locul unde-i aștepta pater Mateus într-o trăsură închisă.</p>
+<p>— Au mers toate bine? Trăiește? întrebă acesta.</p>
+<p>— Da, trăiește — zise familiarul - dar trebuie să ne grăbim, fiindcă zorile se ivesc.</p>
+<p>Ridicară fata amețită și o puseră în trăsură.</p>
+<p>Pater Mateus, familiarul și alți doi luară loc în fața ei.</p>
+<p>Doi familiari se urcară pe capră și unul dintre ei luă hățurile în mână.</p>
+<p>Trăsura se puse în mișcare.</p>
+<p>*</p>
+<p>Casa fetei rămase într-o tăcere profundă.</p>
+<p>Dar această tăcere nu dură mult.</p>
+<p>O figură omenească se strecură cu o lumânare în mână de-a lungul zidului coridorului.</p>
+<p>E o femeie bătrână; o servitoare.</p>
+<p>Stând în camera ei, auzi niște pași ușori și niște voci care se schimbau într-una.</p>
+<p>Îndată luă o lumânare venind să vadă ce este.</p>
+<p>Sosise prea târziu.</p>
+<p>Și dacă venea la momentul acela, tot nu putea să facă ceva, fiindcă era singură și în afară de asta bătrână, şi dânșii erau în număr mai mare.</p>
+<p>Ajunsă în fața odăii de culcare a stăpânii sale, văzu ușa întredeschisă.</p>
+<p>Trase cu urechea.</p>
+<p>Nici nu se auzea.</p>
+<p>Deschise nițel ușa și intră înăuntru.</p>
+<p>Văzu patul gol și îndată pricepu că stăpâna ei fusese răpită.</p>
+<p>Se puse pe un scaun plângând și frecându-și mâinile.</p>
+<p>Deodată cineva îi bătu pe umeri.</p>
+<p>Ridică capul și văzu înainta ei un om înfășurat într-o manta mare.</p>
+<p>Deodată scoase un țipăt de bucurie.</p>
+<p>Îl recunoscu: era Vladislav!</p>
+<p>— Mămucă! exclamă el - unde e Ana?</p>
+<p>— Maica Domnului s-o aibă în sfânta ei pază! răspunse bătrâna plângând.</p>
+<p>— Pentru numele Lui Dumnezeu, vorbește, ce s-a întâmplat? Ce s-a făcut Ana, vorbește, întrebă el cu un ton imperic.</p>
+<p>(Va urma)</p>
+            </div>
+    </div>
+    <div type="part" n="24">
+<p>FOITA ZIARULUI „ROMANUL"</p>
+<p>24</p>
+<p>ILEANA</p>
+<p>ROMAN DE MARE SENZAȚIE</p>
+<p>de</p>
+<p>D. CASELLI</p>
+        <div type="section">
+<p>Bătrâna se liniști puțin, pe urmă zise că, auzind niște voci omenești în coridor, veni să vadă ce este, dar sosi prea târziu, stăpâna ei probabil fusese răpită.</p>
+<p>Prințul ascultase cu o spaimă nespusă aceste comunicări și nu putu scoate un singur cuvânt.</p>
+<p>Pe urmă, cuprins de o durere nebună, se repezi afară în stradă.</p>
+<p>— Dumnezeu să-l țină în paza Lui! șopti bătrâna făcându-și cruce.</p>
+<p>Prințul, după ce colindă ca un nebun prin străzile orașului, se pomeni deodată în fața portiței din dos a palatului princiar.</p>
+<p>Intră în grădină și de acolo în camera sa.</p>
+</div>
+<div type="section">
+<p>CAPITOLUL XV</p>
+<p>În palatul regal</p>
+<p>„Condițiile Excelenței Sale Marelui Inchizitor sunt înțelepte, dar mă îndoiesc eu că le va primi Voievodul"</p>
+<p>Dionisie</p>
+<p>Pe fluviul Dunărea, lângă marginea Ungarică, este situat orașul Turnul-Severin.</p>
+<p>Acesta este un oraș vechi, având mai multe case boierești mari și o mulțime de turnuri, care astăzi sunt în ruină.</p>
+<p>Lângă munți se află un turn mare care pe timpul narațiunii noastre era transformat în citadelă.</p>
+<p>La anul 222 după Hristos, murind împăratul Heliogabal, la Roma fu proclamat în locul său Alexandru Sever, tânăr plin de energie și virtuos.</p>
+<p>După o expediție ce întreprinse în contra Perșilor, venind în Dacia, fondase o cetate, dându-i numele de Severinopole, care astăzi românii o numesc Turnu Severin.</p>
+<p>Turnu conservă însă numele de Severin și Episcopia de peste Olt, numită Episcopia Severinului sau Râmnicului.</p>
+<p>Alexandru Sever fu ucis de militari împreună cu mama sa în anul 235.</p>
+<p>Acest împărat apăra pe creștini. Se zice că mama lui era creștină.</p>
+<p>Dacă o luăm pe calea cea mare ce taie orașul și mergem până la mijlocul străzii, vedem o casă mare, un palat.</p>
+<p>Acest palat era pe timpul când Banatul își avea independența sa, reședința Banului.</p>
+<p>În timpul acesta își avea aici reședința regele Ungariei, Carol Robert, Dionisie, Banul Craiovei și fiul său, Deciu.</p>
+<p>Pe vârful palatului fâlfâia steagul regal.</p>
+<p>Intrăm în sala de audiență a acestui palat.</p>
+<p>Vedem că adunarea aici strânsă discuta un consiliu de război.</p>
+<p>Pe un baldachin de mătase roșie ședea Regele Robert, având la dreapta pe Marele Inchizitor Pietro, pe Andrei, Mihai, și Niculae cardinal; la stânga pe Dionisie, Deciu și Andrei plebanul.</p>
+<p>Andrei era prepozitul Albei regale, sub cancelarul regelui și un bărbat onorabil.</p>
+<p>Mihai era prepozitul Poșeghei și Niculae, prepozitul din Alba Transilvaniei.</p>
+<p>În jurul unei mese ce era în mijlocul sălii ședeau o mulțime de generali, căpitani, magnați și demnitari ai regatului, așteptând ca regele să vorbească.</p>
+<p>— V-am chemat, domnilor - începu regele — spre a lua în comun deciziile și măsurile ce trebuie să luăm în acest război. Am înaintat fără rezistență până la Craiova, am cucerit Banatul, punând ban pe Dionisie, fiul lui Niculae, dar nici n-am făcut încă cunoștință inamicilor noștri, știm însă destul spre a ne aștepta din partea lor la rezistență disperată.</p>
+<p>„Excelență — zise regele întorcându-se către Marele inchizitor - comunicați ceea ce au aflat spionii pe care i-ați trimis prin orașele muntene.</p>
+<p>Marele Inchizitor Pietro se ridică și raportă cele aflate. </p>
+<p>— Majestate — zise dânsul, spionii mei au aflat că Voievodul Alexandru a trimis din ambasadori la Banul Vladislav Mărăcine, ca să-i ceară ajutorul pentru a ne bate și a ne goni din Turnul-Severin.</p>
+<p>(Va urma)</p>
+</div>
+    </div>
+    <div type="part" n="25">
+<p>FOITA ZIARULUI „ROMANUL"</p>
+<p>25</p>
+<p>ILEANA</p>
+<p>ROMAN DE MARE SENZAȚIE</p>
+<p>de</p>
+<p>D. CASELL1</p>
+        <div type="section">
+<p>— Și ce a răspuns Banul Vladislav—zise regele.</p>
+<p>— Banul a zis că dacă dânsul nu va fi ales din nou Ban al Olteniei nu dă niciun ajutor măcar cât de mic.Voievodul se află într-o astfel de stare încât putem să îi punem toate condițiile pe care le voiți și sunt sigur că le va primi. În această privință am vorbit și cu soția Voievodulul, Doamna Clara, care este, ca și noi, credincioasă religiei catolice, și mi-a zis să nu întârziem cu condițiile.</p>
+<p>— Care sunt aceste condiții?</p>
+<p>— Condițiile sunt acestea: Orașul Turnu-Severin rămâne al nostru; Voievodul va plăti speșele războiului şi un tribut mic pe fiecare an; spre zălog ne va trimite pe fiul său, Vladislav, să slujească la Curtea regească.</p>
+<p>— Și ce zice dânsul la aceste lucruri? Primește aceste condiții? întrebă regele.</p>
+<p>— Se înțelege că le primește! zise Pietro.</p>
+<p>— Atunci voi trimite peste câteva zile la dânsul ambasadori spre a împlini aceste condiții — zise Regele.</p>
+<p>— Foarte bine! răspunse Marele Inchizitor.</p>
+<p>Se făcu tăcere în sală.</p>
+<p>Fiecare vorbea între dânșii cu privire la aceste condiții.</p>
+<p>Cei trei prepoziți schimbară o privire cu Marele Inchizitor.</p>
+<p>Aceasta nu scăpă lui Dionisie.</p>
+<p>Știa el că dânșii urmăreau scopurile lor.</p>
+<p>De aceaa el nu adresă niciun cuvânt când începură deezbaterile.</p>
+<p>El nu se împăcă cu aceste condiții.</p>
+<p>Voia că Banatul Craiovei să rămână al său și Turnu Severin să-l dea fiului său, Decin.</p>
+<p>Fața sa uitându-se la cei patru Inchizitori se întunecă din ce în ce mai mult.</p>
+<p>Regele se întoarse spre dânsul și-l întrebă:</p>
+<p>— Excelență, ce ziceți la asta?</p>
+<p>— Condițiile Excelenței Sale Marelui Inchizitor sunt înțelepte, dar mă îndoiesc că le va primi Voievodul.</p>
+<p>— Eu o să urmez sfatul Marelui meu Inchizitor — zise regele.</p>
+<p>—Cum voiește Majestatea Voastră.</p>
+<p>Regele făcu cu mâna un semn că audiența e terminată și toți părăsiră sala.</p>
+<p>Regele se retrase în odăile rezervate lui, pe când Deciu plecă la fortăreață, cei patru inchizitori luară calea către palatul lor.</p>
+</div>
+<div type="section">
+<p>CAPITOLUL XVI</p>
+<p>O noapte îngrozitoare</p>
+<p>E noapte.</p>
+<p>O noapte furtunoasă pe Olt.</p>
+<p>Potopul se ridică și spumegă turbat, fulgere despică văzduhul, tunetul bubuie, furtuna urlă peste suprafața apei.</p>
+<p>Pare că toate forțele elementelor s-au slobozit pentru a prăpădi pe oamenii care navighează pe apă în acest moment.</p>
+<p>Barca luntrașului, având 8 oameni înăuntru se legăna încolo și încoace.</p>
+<p>Șase dintre acești oameni erau îmbrăcați în haine călugărești.</p>
+<p>Erau pater Mateus și familiarii săi.</p>
+<p>Ceilalți doi erau o tânără fată și luntrașul.</p>
+<p>Fata era galbenă;</p>
+<p>Ochii ei așa de frumoși altădată erau stinși.</p>
+<p>Stătea tremurândă lângă acești diavoli în formă de oameni.</p>
+<p>„Care îi va fi soarta? se gândea ea — Cum voi scăpa?</p>
+<p>Valurile întăritate se înalță sus de tot și vor să înghită barca care este azvârlită încoace și încolo ca o coajă de nucă.</p>
+<p>Cu o furie mereu reînnoită se năpustește torentul asupra nenorocitei bărci, parcă ar vrea să o strivescă sub imensă putere.</p>
+<p>Un uragan teribil transformă Oltul în câteva minute într-o mare turbată, revoltată.</p>
+<p>(Va urma)</p>
+</div>
+    </div>
+    <div type="part" n="25">
+<p>FOITA ZIARULUI „ROMANUL"</p>
+<p>25</p>
+<p>ILEANA</p>
+<p>ROMAN DE MARE SENZAȚIE</p>
+<p>de</p>
+<p>D. CASELLI</p>
+        <div type="section">
+<p>Trăsnetele cădeau în apă ca niște săbii de foc ce taie în drepta și în stânga.</p>
+<p>In curând văzură că totul era în zadar și că barca era pierdută cu oameni cu tot.</p>
+<p>Cârma se rupse, luntrașul nu mai putea să vâslească, iar călugării murmurau rugăciuni.</p>
+<p>Valuri enorme se năpusteau peste barcă.</p>
+<p>Părea că Oltul s-ar fi transformat într-un cazan clocotitor.</p>
+<p>Deodată un talaz enorm se năpusti peste barcă și trase în mare pe toți cei ce se aflau pe dânsa.</p>
+<p>Fata fu asemenea târâtă de torent însă, deoarece se ținea cu curaj de o lopată, curentul o duse iar pe suprafață.</p>
+<p>Ea întoarse capul și se uită înapoi.</p>
+<p>Un tablou îngrozitor i se înfățișă; călugării erau jumătate înghițiți de talazuri; luntrașul se luptă cu putere ca să ajungă la barcă.</p>
+<p>Deoarece barca fusese numai resturnată, ea fu din nou readusă de valuri la suprafață.</p>
+<p>Luntrașul izbuti să ajungă barca, sări înăuntru și cu o lopată se îndreptă cât îi permiteau valurile către mal.</p>
+<p>Fata se legănă încoace și încolo pe suprafața apei.</p>
+<p>Văzând că nu este nicio scăpare, ea adresă către Atotputernicul Dumnezeu o fierbinte rugăciune.</p>
+<p>Întunericul deveni din secundă în secundă mai de nepătruns.</p>
+<p>Furtuna urlă, valurile vâjâiau, vântul bătea cu furie.</p>
+<p>Ea văzu plutind pe dinaintea ei cadavre de înecați și recunoscu că erau călugări.</p>
+<p>Nici dânsa nu mai putea să reziste mai mult timp; o nemărginită oboseală o cuprinse; mâinile îi dădură drumul lopeții salvatoare.</p>
+<p>Corpul ei alunecă fără zgomot în torentul spumegând.</p>
+<p>*</p>
+<p>Valurile încetară, furtuna trecuse, tunetele nu mai bubuiau, trăsnetele nu mai cădeau!</p>
+<p>O barcă străbatea râul cu iuțeala săgeții.</p>
+<p>Un om vâslea cu putere.</p>
+<p>Acest om era luntrașul care așa de miraculos de moarte.</p>
+<p>Deodată barca se izbi de un corp.</p>
+<p>În momentul acela luntrașul lăsă lopețile din mână, se uită la corp și recunoscu că era acela al nefericitei fete.</p>
+<p>Se aplecă peste ea, o înfășură într-o pătură groasă de blană și începu să-i dea primele ajutoare.</p>
+<p>Și când pieptul fetei dădu primul semn de viață, luntrașul luă lopețile și, vâslind, întoarse barca spre coliba sa.</p>
+</div>
+<div type="section">
+<p>CAPITOLUL XVIII</p>
+<p>Tribunalul secret</p>
+<p>„Puterea și domnia ce ne promit acei capi în acest moment de nevoie le avem și fără ei, și... știți, fraților, că asemenea promisiuni se evaporă îndată ce am dat ajutorul cerut, dacă nu putem să ne ținem de un singur om!“</p>
+<p>Marele Inchizitor Andrei</p>
+<p>Pe strada cea mare a Turnuului Severin între palatul Banul și citadelă se află palatul Inchiziției.</p>
+<p>Acest palat era o veche boierească compusă de un avânt în față ușa principală cu patru ferestre'</p>
+<p>Deasupra ușii principale se află coroana si steagul.</p>
+<p>Deasupra coroanei erau în limba latină următoarele cuvinte;</p>
+<p>„PAX IN VICTORIA!"</p>
+<p>Dacă intrăm pe poarta principală dăm într-un coridor  care se pierde într-o frumoasă grădina ce era situată în  palatului.</p>
+<p>În coridorul acesta erau multe uși care corespundeau diferitelor odăi.</p>
+<p>În total erau șase, trei în partea dreapă și trei în partea stângă.</p>
+<p>Fiecare ușă avea câte o inscripție.</p>
+<p>Trecem ușa întâi din partea dreaptă și ne oprim la a doua.</p>
+<p>(Va urma)</p>
+</div>
+    </div>
+    <div type="part" n="26">
+<p>FOIȚA ZIARULUI „ROMANUL"</p>
+<p>26</p>
+<p>ILEANA</p>
+<p>ROMAN DE MARE SENZAȚIE</p>
+<p>de</p>
+<p>D. CASELLI</p>
+        <div type="section">
+<p>Ridicăm puțin capul și vedem inscripția aceasta:</p>
+<p>„Tribunalul secret"</p>
+<p>Intrăm înuntru.</p>
+<p>Camera era mare, avea în mijloc o masă acoperită cu pânză neagră. Pereții erau acoperiți tot cu negru.</p>
+<p>Cele două ferestre ce corespundeau în curte aveau perdele negre.</p>
+<p>Scaunele îmbrăcate tot în negru.</p>
+<p>N-avea nicio podoabă, niciun ornament.</p>
+<p>Pe unul dintre pereții acoperiți cu negru se afla numai un tablou lucrat în ulei reprezentând pe papa Ion XXII.</p>
+<p>La masa cea neagră ședeau trei călugări: Petru Marele Inchizitor, Andrei și Mihai, mai la o parte ședea administratorul palatului, părintele Nicolae.</p>
+<p>Marele Inchizitor se sculă și luă în mână un pergament îndoit în patru ce se află pe masa neagră.</p>
+<p>— Părăsește sala, părinte Nicolae, zise el - nu mai avem nevoie de sfinția ta.</p>
+<p>Părintele Nicolae se închină și părăsi sala.</p>
+<p>— Venerabilul frate Sebastian ne-a trimis un mesager din Castelul Banului Vladislav Mărăcine — urmă marele Inchizitor — mesagerul în chestiune ne-a adus această misivă pe care a ținut-o ascunsă în cizmele lui.</p>
+<p>Ați citit-o?</p>
+<p>— Această misivă n-are niciun scop — răspunse Mihail — armata munteană e atât de slăbită din cauza bătăliilor pierdute, încât Alexandru nu mai poate aduna nicio forță pentru a da ultima lovitură.</p>
+<p>— Capii care au vorbit cu venerabilul Sebastian se leagă cu jurământ a ne acorda pentru totdeauna puterea și stăpânirea — zise Petre aruncând o privire pe pergament pe care un călugăr cerșetor îi aduse cu un ceas mai înainte în palatul Inchiziției, după ce în calitatea sa de confident al fratelui Sebastian din Castelul Banului furișase acest document prin liniile românești, ținându-l ascuns în cizmele lui.</p>
+<p>— Puterea și domnia ce ne promit acei capi în acest moment de nevoie le avem și fără el — zise Andrei — și știți, fraților, că asemenea promisiuni se evaporă îndată ce am dat ajutorul cerut, dacă nu putem să ne ținem de un singur om!</p>
+<p>— Venerabile frate, trimite înapoi pe mesagerul care ne-a adus această misivă cu răspunsul acesta;</p>
+<p>— Niciodată! zise Mihail.</p>
+<p>O tăcere se făcu după aceste cuvinte.</p>
+<p>— Să punem la vot propunerea, bilele vor decide! — zise Marele Inchizitor, președintele acestui tribunal secret al Celor trei, în care se hotăra soarta unor națiuni și se pronunțau sentințe de o importanță mare, fără ca cineva să știe de unde veneau.</p>
+<p>Marele Inchizitor luă de pe masă o armă acoperită cu postav negru și din buzunarul rasei sale în care se aflau două bile, una albă și alta roșie, scoase pe  prima, ridică pânza și o lăsă să cadă în urmă.</p>
+<p>Apoi urmă pater Mateus și în cele din urmă Mihail.</p>
+<p>Pietro dădu la o parte pânza neagă ce acoperea urna, apoi, luând urna în mână, o răsturnă.</p>
+<p>Trei bile se rostogoliră pe masă; două din ele erau roșii, numai una era albă.</p>
+<p>— Încă astă seară voi trimite fratelui Sebastian, răspunsul prin care se respinge propunerea lui — zise Marele Inchizitor.</p>
+<p>După aceea părăsiră sala tribunalului secret, mergând fiecare în camera de culcare.</p>
+<p>CAPITOLUL XVIII</p>
+<p>Seducerea</p>
+<p>„Inima mea bate pe inima d-tale și buzele noastre se unesc: oare nu e asta tot ce există în amor?</p>
+<p>Roxandra</p>
+<p>Pe când cei doi Inchizitori mergeau fiecare în camera Marelui Inchizitor, părăsi și el tribunalul secret îndepărtându-se către grădina palatului.</p>
+<p>(Va urma)</p>
+        </div>
+    </div>
+    <div type="part" n="27">
+<p>FOITA ZIARULUI „ROMANUL"</p>
+<p>27</p>
+<p>ILEANA</p>
+<p>ROMAN DE MARE SENZAȚIE</p>
+<p>de</p>
+<p>D. CASELLI</p>
+        <div n="section">
+<p>Umblând înainte, coti la stânga într-o stradă a grădinii care avea de amândouă părți arbori uriași, așezați unul lângă altul.</p>
+<p>În fundul străzii se află un mare tufiș.</p>
+<p>Dădu la o parte tufișul și se află înaintea unei uși de lemn.</p>
+<p>Scoase cheia din buzunar și deschise.</p>
+<p>Intră într-un pavilion construit sub tufiș.</p>
+<p>Nu era nimeni înăuntru.</p>
+<p>Pereții aveau covoare scumpe.</p>
+<p>Pe jos se găseau asemenea covoare.</p>
+<p>În fața lui se afla o altă ușă.</p>
+<p>Apăsă pe un nasture secret și imediat ea se deschise.</p>
+<p>Intră într-o cameră mobilată.</p>
+<p>Pereții erau acoperiți cu mătase.</p>
+<p>Ferestrele imitate — fiindcă nici camera și nici pavilionul n-avea ferestre - erau acoperite cu perdele tot de mătase.</p>
+<p>Covoare de un preț colosal erau așternute pe jos.</p>
+<p>O masă era în mijlocul camerei.</p>
+<p>Masa era plină de cărți.</p>
+<p>Mai erau un pat cu perdele albe şi o canapea moale.</p>
+<p>Un candelabru colosal atârna din tavan respândind o lumină magică.</p>
+<p>Camera era luminată cu am zice „a giorno".</p>
+<p>Pe așternutul alb al patului se află culcată o tânără fată de vreo douăzeci de ani, de o frumusețe orbitoare.</p>
+<p>Părea că doarme.</p>
+<p>Abia auzi pașii apropiindu-se de pat, deschise ochii.</p>
+<p>Un surâs încântător apăru pe buzele ei.</p>
+<p>— Ai venit, venerabile pater — zise ea — gândeam că n-ai să vii noaptea asta.</p>
+<p>— Iubita mea, de ce te gândeai că n-am să vin?</p>
+<p>— Am așteptat atâta, și, văzând că nu mai vii, m-am culcat.</p>
+<p>— Bine ai făcut, iubita mea; o să vin și eu îndată.</p>
+<p>— Dar unde ai stat atâta vreme?</p>
+<p>— În sala tribunalului secret am fost, răspunse Marele Inchizitor — și am prezidat un consiliu.</p>
+<p>— Ah! Înțeleg! Dar dezbracă-te, ce mai stai cu rasa asta călugărească pe care nu o pot suferi!</p>
+<p>— Ai nițică răbdare, vin îndată!</p>
+<p>Marele Inchizitor se dezbrăcă de rasă călugărească și îmbrăcă un costum de noapte.</p>
+<p>El să urcă în pat lângă frumoasa fată.</p>
+<p>Prinse cu putere corpul ei și o sărută cu un foc pasionat.</p>
+<p>După ce o simți palpitând și beată de amor pe inima sa, Pietro îi zise:</p>
+<p>— Scumpa mea Roxandra, vrei să fii cu totul a mea?</p>
+<p>— Oare nu sunt cu totul a d-tale? Oare n-ai inima mea și sufletul meu? Oare n-ai fiecare din gândurile și visurile mele?</p>
+<p>— Roxandro, vreau mai mult!</p>
+<p>— Dar ce oare? Inima mea bate pe inima d-tale și buzele noastre se unesc: oare nu e asta tot ce există în amor?</p>
+<p>— Nu, nu e asta tot!</p>
+<p>Fata tăcu.</p>
+<p>— Ah! zise Roxandra, vrei...?</p>
+<p>— Dacă ghicești ce vreau, trebuie....</p>
+<p>— Simt că fără tine nu pot să trăiesc, zise ea. A ta cu trup și suflet!</p>
+<p>Drept orice răspuns Pietro, al cărui sânge ardea în minutul acela și ale cărui artere se băteau cu furie, strânse cu un fel de frenezie lascivă pe fermecătoarea Roxandra în brațele sale, acoperind buzele, ochii pieptul cu sărutări și caută să-și potolească pofta lui dorită.</p>
+<p> În templul acesta al plăcerilor sucombă în noaptea asta fermecătoarea Roxandra... sub atacurile cele mai înfocate ale Marelui Inchizitor Pietro.</p>
+</div>
+<div type="section">
+<p>CAPITOLUL XIX</p>
+<p>Revederea neașteptată</p>
+<p>„Jură-mi că vei fi numai a mea."</p>
+<p>Prințul Vladislav,</p>
+<p>Fiul lui Alexandru străbatea camera cu pași mari; lacrimile fierbinți îi curgeau din ochi, durerea pentru pierderea iubitei îi sfâșia inima.</p>
+<p>(Va urma)</p>
+</div>
+    </div>
+    <div type="part" n="27">
+<p>FOITA ZIARULUI „ROMANUL"</p>
+<p>27</p>
+<p>ILEANA</p>
+<p>ROMAN DE MARE SENZAȚIE</p>
+<p>de</p>
+<p>D. CASELLI</p>
+    <div type="section">
+<p>Mii de planuri îi frământau creierii săi surexcitați, pentru a găsi un mijloc cum să o regăsească pe Ana; dar pe cât de iute le concepea, tot atât de repede le abandona iar; — căci vai! Nu știa nici unde se afla iubita lui.</p>
+<p>Fusese la babă, dar în zadar; ea nu știa mai mult decât ceea ce îi spusese seara precedentă.</p>
+<p>Străbătu tot orașul; dar nu găsi nimic; spionii săi îi raportară același rezultat.</p>
+<p>Se puse pe un scaun lângă fereastră gândindu-se cine puteau să fie răpitorii?</p>
+<p>Ce interes aveau cu această ființă nevinovată?</p>
+<p>Nenorocitule! Nu știi că iubita ta se află în mâinile Inchiziției, în mâinele acelui tribunal sacru care nu cunoaște mila?</p>
+<p>Interesul ce avea Inchiziția cu acea ființă nevinovată e lesne de ghicit.</p>
+<p>Inchiziția, punând mâna pe ea, avea o armă bună în mână.</p>
+<p>Un sprijin puternic în persoana ei, Ana, odată catolică, putea să convertească la catolicism pe supușii ei.</p>
+<p>Iată pentru ce Inchiziția o răpise.</p>
+<p>Pe când Vladislav tot mereu gândea, portiera de mătase se dădu la o parte și o tânără fată apăru.</p>
+<p>Prințul era adâncit în gânduri.</p>
+<p>Nu auzi nimic.</p>
+<p>— Vladislav! răsună deodată o voce.</p>
+<p>El tresări și întoarse capul.</p>
+<p>Cunoștea vocea aceasta.</p>
+<p>— Ana! exclamă el, sărind în sus de bucurie.</p>
+<p>— Da, Ana! zise fata, care nu era nimeni alta decât ea.</p>
+<p>Se aruncară unul în brațele altuia și buzele lor se uniră într-o sărutare fierbinte.</p>
+<p>Așa de dulce fu această îmbrățișare, încât uitară pentru moment prezentul.</p>
+<p>Prințul o trase binișor și cu blândețe lângă un jeț și, așezându-se acolo, o întrebă:</p>
+<p>— Ce ți s-a întâmplat, iubita mea, scumpa mea Ana, vorbește-mi! Spune-mi, unde ai fost târâtă? Și de cine? Și pe Dumnezeul meu, îmi va plăti cu capul acesta!</p>
+<p>Ana povesti că niște oameni mascați cu mantale lungi o răpiseră seara, dar că dânsa nu știa unde o duceau, fiindcă îi dăduseră o băutură adormitoare.</p>
+<p>Când se deșteptă, era într-o barcă pe râul Olt.</p>
+<p>În urmă îi povesti furtuna îngrozitoare, înecarea oamenilor aceia mascați și scăparea luntrașului.</p>
+<p>Căzând în apă, ea fu luată de torent și-şi pierdu simțurile.</p>
+<p>Când se deșteptă, era culcată într-un pat țărănesc și îngrijită.</p>
+<p>Era în coliba luntrașului.</p>
+<p>El îi povesti toată întâmplarea și dânsa îi promise un bun bacșiș dacă o va duce la Câmpulung.</p>
+<p>Se învoiră amândoi și plecară.</p>
+<p>La poarta casei sale se despărțiră și ea dădu o pungă cu bani luntrașului.</p>
+<p>„— Ah! Iubita mea stăpână — îmi zise baba când mă văzu — unde ai fost atâta vreme ?</p>
+<p>I-am răspuns că am fost chemată de d-ta, dar dânsa nu crezu.</p>
+<p>În urmă ea tăcu și-mi povesti că venise în noaptea aceea la mine.</p>
+<p>— Da, iubita mea, și eram așa de consternat că nu te-am găsit, încât era cât pe aci să mă...</p>
+<p>— Să te...</p>
+<p>— Sinucid! zise Vladislav.</p>
+<p>— Sinuciderea? Ce vorbă ai zis? exclamă fata cu durere.</p>
+<p>— Da! Să mă sinucid, pentru că fără tine nu pot să trăiesc!</p>
+<p>— Ah! Iubitul meu! zise Ana și depuse o sărutare pe fruntea lui.</p>
+<p>Și acesta o strânse tot mai mult pe pieptul său, depunând pe buzele ei sărutări înfocate.</p>
+<p>— Ascultă-mă,- zise el după o pauză — mâine voi vorbi tatălui meu să-mi dea voie să iau de soție.</p>
+<p>Ana scoase niște chicote de bucurie.</p>
+<p>— Îi voi spune că-mi voi alege eu singur soția: şi aceea va fi care-mi va fi pe placul meu. Eu te voi lua, că nu voi putea mă însor nici</p>
+<p>„Jură-mi că vei fi numai a mea!"</p>
+</div>
+    </div>
+    <div type="part" n="29">
+        <p>29</p>
+        <p>FOITA ZIARULUI „ROMANUL"</p>
+        <p>ROMAN DE MARE SENZAȚIE</p>
+        <p>de</p>
+        <p>D. CASELLI</p>
+        <div type="section">
+            <p>Ea repeta cu buzele tremurătoare și în mod distinct:</p>
+            <p>— Jur!</p>
+            <p>- Jurăm! — continua Vladislav - că acela care va călca acest jurământ va muri de mâna celuilalt!</p>
+            <p>- Jur! repetă Ana, căzând în genunchi și ridicând mâna drept în sus, pe când cealaltă o duse la inimă.</p>
+            <p>Vladislav arzând de amor, strânse în brațe pe Ana, care se prelingea sub povara voluptății și buzele lor se atinseră într-o sărutare înfocată.</p>
+        </div>
+        <div type="section">
+            <p>CAPITOLUL XX</p>
+            <p>Înainte de luptă</p>
+            <p>Întregul Câmpulung era în picioare.</p>
+            <p>Tânăr și bătrân, sărac și avut boier, și plebeu alergau către marginea orașului, unde se întindea o mare câmpie, ca să asiste la defilarea trupelor înaintea Voievodului.</p>
+            <p>Din revărsatul zorilor, șiruri lungi de trupe străbateau orașul și înaintau către câmpia spre a ocupa pozițiile ce li se indicau.</p>
+            <p>Intâi venea pedestrimea: dorobanții compuși din arcași, care purtau arcuri și din lancieri, care purtau lancea.</p>
+            <p>După pedestrime urma călărimea.</p>
+            <p>Călărașii, erau armați cu scut și sabie și ședeau pe cal; Roșii purtau cămăşi de zale pe piept și căciuli în cap. Lancea lor, care atârna de șaua calului era o armă primejdioasă.</p>
+            <p>Curtenii formau cavaleria ușoră. Ei purtau platoșe pe piept și coifuri de fier care apărau de împunsături și lovituri. Curtenii erau cavaleria, după modul cavaleriei ungurești. Ei erau sub comanda prințului Vladislav.</p>
+            <p>Fiecare corp de armată sosea în parte.</p>
+            <p>După ce trupele voievodulul își luară locul, boierii prințului apărură cu oamenii lor care erau obligați să-i pună în serviciul voievodulul.</p>
+            <p>Acum era ceva de privit.</p>
+            <p>Tablouri noi se desfășurau necontenit înaintea privitorilor curioși.</p>
+            <p>Boierii își echipaseră oamenii lor fiecare după placul și mijloacele de care dispunea.</p>
+            <p>Fiecare voia să întreacă pe celălalt atât în privința originalității, cât și în privința luxului echipării.</p>
+            <p>Fiecare dintre ei asculta cu mândrie strigătele de admirație ale privitorilor.</p>
+            <p>Ceasuri întregi zăboviră până ce toți boierii trecură.</p>
+            <p>Pajiștea pe care se orânduiseră trupele prezenta un aspect impunător.</p>
+            <p>Mitropolitul sosi și el cu o suită de preoți, care se duceau și ei în campanie pentru a satisface trebuințele religioase ale soldaților.</p>
+            <p>Poporul, la apropirerea mitropolitului, făcu semnul crucii și plecă capul cu smerenie.</p>
+            <p>Ajuns lângă locul reservat Voievodulul, suita Mitropolitului luă loc la dreapta acestuia, cu toate că locul din stânga era încă gol.</p>
+            <p>Dar și aceasta fu în curând ocupat.</p>
+            <p>Ultima trupă care apăru fu aceea a Banului Vladislav Mărăcine.</p>
+            <p>Ea nu era condusă de Ban, ci de Spătarul Vintilă.</p>
+            <p>Banul nu voise să conducă în persoană trupa, ci dăduse această însărcinare lui Vintilă, pe care îl întâlnise la Craiova.</p>
+            <p>Trupa Banului atrase atenția generală.</p>
+            <p>Îmbrăcămintea și echiparea oamenilor din trupă era ceva așa de nou, încât privitorii nu puteau pricepe cum vor putea fi utilizați în luptă.</p>
+            <p>Un călăreț fără cămașă de zale era o imposibilitate.</p>
+            <p>Și acum apărea deodată o întreagă trupă de călăreți fără cămăși de zale, tot oameni voinici, adevărați olteni, înarmați cu o sabie și călăre pe cai.</p>
+            <p>Ei erau îmbrăcați tot în alb cu cămăși și pantaloni numai, având la piept un fel de „ecu" reprezentând un leu roșu.</p>
+            <p>Sosirea lor produse mare uimire și printre rândurile celorlalte trupe, uimire care se mări încă când se văzu că călăreții albi înaintau direct către locul rezervat voievodului unde luară loc în partea stângă care mai rămăsese liberă.</p>
+            <p>(Va urma)</p>
+        </div>
+    </div>
+</body> 
+    </text>
+</TEI>

@@ -1,0 +1,1118 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dragomir: ediție POPLITE </title>
+            <author>Vulcan, Petru</author>
+            <respStmt>
+               <resp>codare POPLITE</resp>
+               <name>Teodora Iuriusciuc</name></respStmt>   
+            <respStmt>
+            <resp>verificare codare POPLITE</resp>
+            <name>Lucreția Pascariu</name></respStmt>   
+            <respStmt>
+               <resp>corectură manuală</resp>
+               <name>Maria Luisa Budacea</name>
+            </respStmt>
+            <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>UAIC</publisher>
+            <date></date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+            <ref type="doi" target="10.5281/zenodo.7342136"></ref>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Vulcan, Petru</author>
+               <title>Dragomir</title>
+               <pubPlace>Craiova</pubPlace>
+               <publisher>TIPOGRAFIA DAVID J. BENVENISTI</publisher>
+               <date>1895</date>
+               <decoNote type="ilustratii" subtype="no"/>
+               <dim unit="char" type="mare"/>
+               <extent>
+                  <measure unit="word">29758</measure>
+                  <measure unit="page" type="under_250"/>
+                  <measure unit="foileton" type="under_65"/>
+                  <measure type="complete"></measure>
+               </extent>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme='https://opentheso.huma-num.fr/opentheso/api/theso/Typologie'>
+               <term type='domaine' ref="https://hdl.handle.net/20.500.11942/crteb7oodgosm">literatura</term>
+               <term type='factualite' ref="https://hdl.handle.net/20.500.11942/crt22aacdhvi7">fictiune</term>
+               <term type='forme' ref="https://hdl.handle.net/20.500.11942/crtnufdew1lfb">proza</term>
+               <term type='genre' ref="https://hdl.handle.net/20.500.11942/crthuyig1pxri">roman</term>
+               <term type='agencement' ref="https://hdl.handle.net/20.500.11942/crtbdm5xnc6io">foileton</term>
+               <term type='origine' ref="https://hdl.handle.net/20.500.11942/crtxolq1evsr9">opera originala</term>
+               <term type='discours' ref="https://hdl.handle.net/20.500.11942/crt4wma17ncnj">narativ</term>
+               <term type='public' ref="https://hdl.handle.net/20.500.11942/crthb4el4r5qc">non défini (public cible)</term>
+               <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
+            </keywords>
+            <keywords>
+               <term type="receptare" n="5"/>
+               <term type="republicare" n="2"/>
+               <term type="finished"></term>
+               
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
+            <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
+         </projectDesc>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>DRAGOMIR</p>
+         <p>București</p>
+         <p>CRAIOVA</p>
+         <p>TIPOGRAFIA DAVID J. BENVENISTI, STR. JUSTIȚIEI, 20 ison.</p>
+         <p>în semn de stimă și iubire.</p>
+         <p>DRAGOMIR</p>
+      </front>
+ <body>
+<div type="chapter" n="1">
+<head>I</head>
+<p>Sala școlii comunale era plină de lume, căci în ziua de „Sîm-Petru” dascălul satului, Domnul Vintilă Udrea, avea să împartă premii școlarilor, care s-au silit în cursul anului.</p>
+<p>Părinții și rudele, primarul și toți consilierii veniseră să asiste la această sărbătoare măreață, unde aveau să asculte și cuvântarea, pe care trebuia să le-o țină Domnul Vintilă Udrea.</p>
+<p>Chiar flăcăii și fetele alergaseră de la horă, care nu era departe de școală, sub umbra unui nuc bătrân și bogat în frunză.</p>
+<p>Însuși lăutarul Oniță se așezase pe pragul ușii cu vioara la subțioară, de unde se uita uimit la Domnul Vintilă Udrea, înconjurat de o mulțime de buchete de flori și tot atâtea coroane de frunză verde...</p>
+<p>Era curios și însuși Tolea, văcarul satului, căci nici el nu lipsea de la ceremonia publică.</p>
+<p>Căldura din luna lui iunie înăbușea lumea din școală. </p>
+<p>Domnul Vintilă începu cuvântarea. Dumnealui vorbi sătenilor în câteva cuvinte înțelept alcătuite de marile foloase ce câștigă omul, care trece prin școală; făcu o comparație minunată între știință și mult dorita lumină, precum și între neștiință și urâtul întuneric.</p>
+<p>Le arătă ca un petagog destoinic, cum silința la învățătură se recompensează prin cununi, care înseamnă admirația, lauda și stima noastră pentru acei ce merită a fi încununați și îndemnă pe toți locuitorii fără excepție, fie oricât de sărac ar fi cineva, să-și trimită copilul la școală, de unde poate asculta numai pilde frumoase și cum trebue să se poarte în lume.</p>
+<p>Notabilii satului, cu proprietarul în frunte, ascultau cu luare aminte și printre ei se auzea din când în când: „da, așa e, așa e!”. Iar Tolea văcarul mai amplifică: „așa e, de mă dădeau ai mei la învățătură ieșeam și eu mai pricopsit, nu rămâneam văcar”.</p>
+<p>După ce sfârși Domnul Vintilă Udrea cuvântarea, începu să cheme la apel pe cel dintâi premiant al clasei a IV-a: Dragomir Munteanu! zise el, pe când în sală domnea cea mai mare tăcere.</p>
+<p>„Copilul răposatului primar”, ziseră mai mulți din bănci, pironindu-1 cu privirile.</p>
+<p>„Băiatul ăsta s-a silit mai bine ca toți”, zise Domnul Vintilă, depunând pe fruntea elevului pe care-1 numise Dragomir Munteanu, cea mai aleasă cunună, și dându-i cărțile ce i se cuveneau.</p>
+<p> — Mama e aici Dragomire? îl întrebă Domnul Vintilă.</p>
+<p> — Nu e aici, răspunse Dragomir sfios.</p>
+<p> — Dar de ce n-a venit și dumneaei? urmă Vintilă.</p>
+<p> — Fiindcă e bolnavă rău, răspunse copilul podidindu-1 plânsul.</p>
+<p>«Taci, nu plânge, nu» îi zise Domnul Vintilă, netezindu-i părul mătăsos.</p>
+<p>«O să-i treacă mamei — vezi să fii tot așa de cuminte precum ai fost până acum.</p>
+<p>Copilul răposatului primar Munteanu trecu printre mulțimea curioasă, care privea ținta Ia el, încât nu scăpă nici de curiozitatea lui Oniță lăutarul, nici de a lui Tolea văcarul. După împărțirea premiilor ceremonia se sfârși.</p>
+<p>Dragomir se duse acasă purtându-și cununa pe cap și cărțile la subțioară, ca și alți copii, care formau un cortegiu în urma Iui.</p>
+<p>Hora se încherbă la loc. Flăcăi și fete multe râdeau și se înveseleau, unii prinși în horă, alții mai în raznă, schimbând pe bete o sărutare înflăcărată; după aceea iar se prindeau în horă fiecare lângă mândra lui: flăcăii în cămăși cusute cu flori și la pălării cu panglici tricolore, fetele în costume naționale și mai minunate.</p>
+<p>Uncheșii și lelițele deoparte stăteau Ia sfat și taina lor se rezuma într-o singură vorbă: «tinerețe, tinerețe, eh...am fost și noi odată ca ei.»</p>
+<p>Din când în când se vedea ieșind din școală câte vreun copil, purtând cu o mândrie naiva cunună pe cap.</p>
+<p>Copilul răposatului primar fusese în ziua aceea subiectul de vorbă al tuturor sătenilor.</p>
+<p>De nu s-o prăpădi numai și mumă-sa— ce băiat cuminte ziceau unele femei, vecine cu Maria lui Munteanu.</p>
+<p>Una de curând venită aduse vestea, că auzi chirăind pe Tudora, fata Mariei, pe când trecea pe lângă casa lor.</p>
+<p>«Sărmana de ea!», ziseră celelalte înduioșate. «Și e singură cuc — nu știm sora ei e aici au ba?»</p>
+<p>În vremea aceasta Tudora, sora lui Dragomir mai mare decât el, fugise din casă, smulgându-și perii și țipând pe linia satului, să aducă pe Dragomir de la școală, fiindcă mama lor trăgea să moară și muribunda ceruse să-și vadă odorul.</p>
+<p>Dragomir tocmai venea cu cununa pe cap și cu cărțile la subțioară.</p>
+<p>«Fuga Dragomire, fuga puiule, mama moare puiule»...Începu să se bocească sărmana fată, care apucând de mână pe Dragomir, alergă cu el în curtea casei lor.</p>
+<p>Mătușa Lena venise de la oraș, unde se dusese să cumpere doctorii pentru bolnavă și acum își ștergea lacrimile și se silea din toate puterile să nu țipe la vederea lui Dragomir. «Vino maică, vino,» zise mătușa Lena, luând pe Dragomir din mâna Tudorei și apropiindu-1 de patul Mariei.</p>
+<p>Tăcerea din casă era sublimă; suspinele din ce în ce mai stinse ale bolnavei mai întrerupeau liniștea de criptă.</p>
+<p>La spatele bolnavei, în firida icoanei, ardea o lumânărică de ceară, rămășița unui coșuleț de la Paști.</p>
+<p>Pe o masă de lemn câleva sticle de doctorii goale; prin două ferestre pătrundeau razele soarelui în camera jalei.</p>
+<p>Copilul se apropie de mamă.</p>
+<p>Bolnava deschise ochii cu o durere chinuitoare.</p>
+<p>Se forță pentru cea din urmă oară...clătină ușor din cap...și un zâmbet dureros i se zugrăvi pe conturul gurii...o lacrimă, numai una...se scurse din globii ochilor duși în fundul orbitelor, apoi făcu un gest din mână, iar Dragomir cu ochii roșii de plâns se alipi de pieptul mumei sale.</p>
+<p>Maria își ținu copilul câteva clipe la piept, se mai uită încă o dată la el, apoi la Tudora și pronunță stins de tot: «Să nu te lași de învățătură Drag...meu...Leno...ai grijă de ei...»</p>
+<p>Apoi închise pleoapele, brațele-i căzură în lături și-și dădu duhul...</p>
+<p>Tudora și Dragomir țipau, mătușa Lena tremura de jale și de groază, iar Maria întinsă și rece dormea somnul de veci...</p>
+<p>Tudora și Dragomir rămaseră de aici înainte orfani, sub îngrijirea mătușei Lena.</p>
+<p>Mama sa îi recomandase în ora morții să nu se lase de învățătură și el respecta voința răposatei, a cărei sfântă imagine l-a însoțit în tot locul. Într-o zi se hotărî să plece din sat.</p>
+<p>Tudora însă își iubea frățiorul și nu l-ar fi lăsat să se înstrăineze pentru orice în lume, de aceea ea-1 ruga cu lacrimi în ochi să mai îngăduie, până ce mătușa Lena va putea să vândă casele cu un preț convenabil și apoi să se mute cu toții la oraș, dar Dragomir nu mai avu răbdare și plecă în orașul cel mal apropiat de comuna-i natală în căruța primarului, lăsând pe Tudora în grija mătușii Lena.</p>
+<p>«Mă duc la învățătură Tudoro dragă», fură cuvintele lui din urmă, «nu te întrista, nu, am să-ți scriu și tu să-mi răspunzi», și se duse singur singurel printre străini.</p>
+</div>
+<div type="chapter" n="2">
+<head>II</head>
+<p> — Dragomire?</p>
+<p> — Ce poftești, Domnule Simonis?</p>
+<p> — Țe poftesco,— eu nu poftesco, eu porunțesc să stropești, să meturi bine și pe urmă să iei un paio de metur să scoți bobile ăla de orez, țe-a scăpat printre crăpăturile tarabei: zețe bobi azi, douzețe mâine, continuă Simonis băcanul, se fațe un gogiamiti saco. M-ai prițeput?</p>
+<p> — Da, Domnule Simonis.</p>
+<p>Și Dragomir, băiat în prăvălia D-lui Simonis, fără să mai stea mult de vorbă, luă într-o mână stropitoarea, în cealaltă mătura; sfârși în câteva clipe de măturat, căută un pai de mătură și se apucă să scoată de prin crăpăturile tarabei boabele de orez bob cu bob, căci așa-i poruncise Domnul Simonis.</p>
+<p>Lumina zilei începu să se arate azurie prin obloanele deschise ale prăvăliei, situată pe două din străzile orașului monoton, încă de dimineață. Dragomir stinse lămpile, căci se luminase deja. Sculându-se în fiecare zi cu două ceasuri până în zori, sfârșea celelalte treburi înainte de a începe să-nglotească mușterii prăvălia: împachetase peste o sută kilograme de zahăr și le așezase sub tarabă; pregătise porțiuni obișnuite de mac, piper, stafide, migdale, vanilie etc; expusese lăzile de portocale și lămâie; așezase la locul ei tinicheaua cu gaz și alte articole al căror loc era destinat afară din prăvălie; se duse în sfârșit mai în fundul prăvăliei, unde, sfârșit de oboseală, se rezemă cu cotul mâinii de tarabă, care se prelungea pănă în fund.</p>
+<p>Cu capul plecat, încercând să răsfoiască paginile unei cărți, părea că se ferește de a produce vreun zgomot prin întoarcerea foilor, ce ar fi putut deștepta curiozitatea lui Simonis, care în acest minut își sufla mucul de țigară din țigareta-i de chihlimbar.</p>
+<p> — Dragomire?</p>
+<p> — Porunciți! se auzi Dragomir din fund.</p>
+<p> — Țe lucrezi?</p>
+<p> — Am isprăvit ce aveam de făcut.</p>
+<p> — Și acuma să dormimo, nu este așa?</p>
+<p> — Ba eu cred că nu, dar dacă e ceva, n-aveți decât să porunciți și îndată se va face.</p>
+<p>Simonis la aceste zise, își plimbă privirile prin toate părțile, prin saci cu marfă, așezați în ordine și prin rafturi și văzând că totul e în regulă încleștă fălcile, murmură ceva neînțeles, se așeză ca un stâlp la ușa prăvăliei și părea nerăbdător de nesosirea mușteriilor până în vremea asta, pe când Dragomir îngâna: «dacă zece lucrători, lucrând câte nouă ore pe zi în zece zile sfârșesc o casă, apoi cincisprezece lucrători lucrând câte douăsprezece ore pe zi o vor sfârși în cinci zile, și închise repede aritmetica lui Haret, căci cineva intra în prăvălie și după acel cineva altul și iar altul pănă ce gloata deveni ca la moară.</p>
+<p>Simonis era zgârcit și n-ar fi ținut doi băieți în prăvălie pentru toată lumea, de aceea se auzea cât îi lua gura: «Iute...iute...ai dat la dumneaei zahăr? la dumneaei orez? Ai primit parale pe mac, pe stafide, pe piper?», etc.</p>
+<p>Între unsprezece și douăsprezece se mai potolise lumea în prăvălia d-lui Simonis și acum din când în când se mai auzea câte o germană: «ein kilo launstein ich bitte».</p>
+<p>Plecase și aceasta din urmă; sosise vremea prânzului și lui Kir Simonis îi era foame.</p>
+<p> — Dragomire?</p>
+<p> — Porunciți, d-le Simonis?</p>
+<p> — Spune la cocoana să pue masa, este doușpece și trebue să muncăm.</p>
+<p>Dragomir se grăbi să treacă prin ușa din fund la al doilea etaj, să anunțe pe cucoană că Kir Simonis poftește să vie la masă.</p>
+<p>într-o clipă fu înapoi spunându-i d-lui Simonis că deja e așteptat.</p>
+<p>Mulțumit că rămâne singur, răsfoi istoria.</p>
+<p>În acest timp, însă, o țigancă intră în prăvălia din colț «la spițerie» să târguie picături de inimă, de al cărei dor se văita.</p>
+<p>Dragomir fără să se mai miște din loc o îndreptă la farmacie, spunându-i că aici e băcănie.</p>
+<p>Dar țiganca în durerea ei, nevrând să-i dea crezământ, ezită o clipă, astfel că, pe când Kir Simonis apărea din fund în vârful degetelor, obișnuit totdeauna să surprindă câte ceva...aude din gura lui Dragomir, că nu este, nu e. Țiganca ieșise din prăvălie, însă, Simonis, care crezuse că Dragomir îi gonise mușteriul din prăvălie, îngălbeni de mânie și apropiindu-se de Dragomir începu din ce în ce mai furios: «așa, în lipsa mea gonești mușterii si țitești la cărțile aste? Țe, țe, țe însemnează cărțile aste?», și începu să arunce prin toate părțile tot avutul lui Dragomir; niște cărți de scoală, de care nu se despărțise de cum părăsise clasa a IV-a primară. Dar Kir Simonis nu se mulțumise să le azvârle cât colo, ci pe cartea ce punea mâna o și sfâșia vulturește așa încât într-o clipă un maldăr de foi risipite, zburau prin toată prăvălia, în urma căror Dragomir, suspină amar.</p>
+<p>Simonis, furios, trecu repede cu un șir de chei pănă la casa de bani; o deschise, luă catastiful unde se afla contul lui Dragomir, murmură ceva neînțeles, în timp ce Dragomir sta smirnă și cu un ton caracteristic grecilor, exclamă: «Iacus, na me clefti (gr. i-auzi, să mă fure)...să pleți de la mine, d-ta ești un hoțo, aide, na socotală, ținti luni cate treizeți lei fă-le o sută țințizeți, optseți ai primit poftim și resto; aid, aid, dar curândo să pleți de la mine».</p>
+<p>Dragomir, vru să-i explice, că n-a gonit mușterii din prăvălie, că aceste cărți i-au fost dăruite drept premiu la finele clasei a IV-a primară, că pe nedrept îl învinovățește, dar Simonis ce înțelegea de una ca asta: nu mai era nimic de făcut în fața lui Kir Simonis, care nu se încredea el însuși în mâna sa cea stânga. Spirit viclean, se temea de orice semen al său, că-l va întrece în șiretenie.</p>
+<p>Îi studiase Dragomir firea, de aceea nici că insistă mai mult și adresându-i un «rămâneți cu bine d-le Simonis» de la care n-a mai primit nici un răspuns, ieși din prăvălie, se duse de-și împachetă rufăria în cufăraș, tocmi o birjă și merse drept la gară. Plăti birjarului după ce se informă de sosirea și plecarea trenului, trecu la casă să-și scoată bilet de drum și se așeză pe o bancă de pe peronul gării, țintind privirile cu interes dincotro trebuia să vină trenul, a cărui apariție o aștepta cu mare nerăbdare.</p>
+<p>Soneria gării anunțase deja, că trenul pornise din gara precedentă; după câteva minute omul de serviciu sună clopotul de trei ori, iar pasagerii stăteau gata, îngrămădiți pe peron să-și ocupe fiecare locul în vagon.</p>
+<p>O coloană de fum amenințătoare se văzu apropiindu-se în direcția șinelor, apoi, ca un balaur din povești, apăru dintr-o cotitură locomotiva, în urma căreia veneau în pripă vagoanele ca niște năluci; o huruitură de roate, o fluierătură ascuțită, un fășâit puternic produs din eliberarea aburilor prin țevile ascuțite și în sfârșit trenul se opri, iar un conductor, dându-se cel dintâi jos, strigă cât îi lua gura: «25 de minute». Oameni de toate națiunile: nemți, italieni, greci, sârbi, turci, etc. se grămădiră pe peron.</p>
+<p>Dragomir se pierduse în acest furnicar de lume; auzise din gura conductorului cât timp va sta trenul în gară, de aceea nu se prea grăbi să ocupe loc în vagon.</p>
+<p>Mai erau încă vreo zece minute și trenul trebuia să-și urmeze calea. Pe peron lumea se mai împuținase.</p>
+<p>Dragomir se sui în vagon, se retrase într-un colțișor și la zgomotul produs de zăngănitul roatelor căzu pe gânduri și nu se trezi din picoteală decât la glasul brusc al conductorului, care veni să vizeze biletele.</p>
+<p>Conductorul trecu înainte, iar Dragomir căzu din nou pe gânduri. La ce se gândea?</p>
+<p>Trecut, prezent și viitor, probleme pe care nu le pricepea și nici nu  încercase să le dezlege, îi frământau creierul. Nenorocirile fac pe om mai prevăzător.</p>
+<p>Dragomir Împlinise 15 ani și grija acelui mâine îndoielnic îl îngrozea.</p>
+<p>Când se văzu într-un vagon printre atâta lume străină, depărtându-se din ce în ce mai mult de comuna-i natală, îl trecu un dor de acasă, de mormântul părinților săi, dar mai cu seamă de soră-sa orfană ca și el.</p>
+<p>Sărmana lui soră, părea că pricepe, cum odată plecat nu-1 va mai vedea, căci acum se ducea fără să se mai oprească, fără să se mai întoarcă în sat la dânsa să-l mai vadă...</p>
+<p>Acest dor îl ținea legat cu trup și suflet de casa-i părintească. Soră-sa î1 rugase mult, să nu o părăsească, să rămână pe lângă casă, că doar o fi vreun Dumnezeu al săracilor, dar cine s-ar fi putut împotrivi firii lui?</p>
+<p>«Ce să fac eu aci, răspundea el surorii sale, mă duc departe să mă fac om; am certificat de patru clase primare, și-mi place să învăț înainte: ori ajung ceva, ori mai bine mor»...</p>
+<p>Și de la aceste idei temeinice nu l-a putut abate nimeni.</p>
+<p>Dar când se văzu răpit în zborul trenului și dus înainte, fără să știe nici el unde merge, îl podidi un plâns chiar în vagon, de aceea își acoperi fața cu amândouă mâinile și-și întoarse capul spre fereastra deschisă</p>
+<p>Totuși nu scăpă de curiozitatea câtorva cucoane mai nervoase.</p>
+<p>O cucoană șopti vecinei sale: «Ce o avea soro, băiețașu ăla de plânge?» Întrebare, care ajunse la urechile lui Dragomir, ceea ce-1 făcu să se oprească din plâns.</p>
+<p>Trenul fugea, ca o nălucă; Dragomir reculegându-se își zise: de-mi va ajuta Dumnezeu să reușesc la examenul de bursă!</p>
+<p>Cu acest gând pășea el în capitala țării, unde nu mai fusese niciodată și nu și-o putea închipui cât e de frumoasă și cât e de mare.</p>
+<p>Băiatul din prăvălia lui Simonis băcanul nutrea demult acest gând să dea examen de bursă, de aceea nu Încetase de a se ocupa cu problemele aritmetice, nici în timpul serviciului.</p>
+<p>Era ziua de 26 iulie și Dragomir se gândea că are destulă vreme să mai repete cele învățate: se baza pe cunoștințele sale, mai departe la alte piedici— la răutatea oamenilor, la câte alte investigații, nu se gândea câtuși de puțin.</p>
+<p>Nu-și putea închipui cât e de greu să treacă peste barierele înălțate de invidia și trufia omenească, când cineva e sărac și n-are pe nimeni în lume.</p>
+<p>Țiganca, biata țigancă, ieșise în drum, ca o înțeleaptă ursitoare să-i schimbe mai curând direcția vieții, așa precum plănuise demult însuși Dragomir.</p>
+<p>Banii, deocamdată îi ajungeau ca să întâmpine primele necesități.</p>
+<p>Cu cât trenul îl apropia de capitală, cu atât simțea în sine nu știu ce emoție; inima începu să-i bată mai cu putere; un neastâmpăr se vedea în toate mișcările sale; nu cunoștea pe nimeni în acest labirint, unde-l ducea destinul; nu cunoștea nicio stradă și la orice pas putea să se rătăcească.</p>
+<p>La cine ar putea să găzduiască, se gândi un moment.</p>
+<p>«La hotel?» La hotel lui nu-i venea la socoteală. Cu banii ce-i avea se gândea că va avea mult de luptat; unde mai pui cărțile și mâncarea, căci până <emph>«la internare»</emph> mai erau două luni cel puțin.</p>
+<p>Acestea toate îl făcură mai timid și mai sceptic de cum se apropia de capitala țării.</p>
+<p>Între acestea, trenul dădu o fluerătură lungă și ascuțită, dovadă că se apropia de capitală.</p>
+<p>Dragomir își luă în mâini cufărașul și sta gata să se dea jos pe peron.</p>
+<p>Era atâta lume la gară, că orice călător trebuia să treacă unul câte unul printre două șiruri de oameni, care formau o strâmtă potecuță pentru ca să lase drumul liber călătorilor pănă-n cea1altă parte a gării de nord. Globurile luminoase așezate din distanță în distanță, felinarele alimentate cu gaz aerian, sutele de birje, tramvaiele, făcură pe Dragomir să și uite de unde vine și încotro se duce. «Ce zgomot! Amețește omul.», murmură și păși înainte încotro se îndrepta mulțimea.</p>
+<p>Observă, cum mulți se așează în tramvaie, dar temându-se de vreun preț exagerat și totodată neștiind unde-1 poate duce, renunță la ideea aceasta, de aceea o porni înainte, unde l-o scoate norocul: și se duse, se tot duse până ce nădușeala începu să-i curgă șiroae pe față pănă ce se simți sfârșit de oboseală, fără să mai dea de capăt acestui oraș.</p>
+<p>Ora înaintase și Dragomir încă rătăcea pe cheiul Dâmboviței. În dreptul Bisericii Bălașa Doamna, trecu podul, înaintă pe calea Rahovei fără să-și dea seama încotro va însenina. În apropiere, un fel de crâșmă-birt, se afla încă deschisă pe vremea aceea. «Aici voi găzdui» șopti, apoi intră în birt.</p>
+<p> — «Domnule, vă rog, aveți camere de găzduit?».</p>
+<p> — «Da» fu răspunsul birtașului, dând poruncă celui dintâi băiat, ce-i sta înainte, să conducă pe Dragomir într-o cameră.</p>
+<p>Băiatul îl conduse într-o cameră nu tocmai mică, mai mult lungă decât lată.</p>
+<p>Paturi erau destule. Băiatul îl pofti în termeni neglijenți: «poftește unde-ți place domnule, că tot un franc plătești».</p>
+<p>În sfârșit ceru ceva de-ale mâncării: îmbucă de vreo două-trei ori și, ostenit cum era, adormi fără să-și poată face nici măcar un mic plan ce va face pe ziua de mâine.</p>
+<p>În somn avu diferite vedenii unele mai fioroase decât altele.</p>
+<p>Dis-de-dimineață sări din pat ca speriat de ceva, se frecă la ochi și se uită pe fereastră în curte.</p>
+<p>Se luminase deja. În câteva momente fu îmbrăcat.</p>
+<p>Plăti datoria, încredință cufărașul birtașului drept siguranță că va mai veni și ieși pe același drum, pe unde venise.</p>
+<p>Ziua aceasta ca și altele vreo douăzeci de-a rândul le-a jertfit pe la direcțiunile școlilor, unde spera că va fi înscris printre aspiranții de bursă, dar în zadar, era prea de timpuriu, căci toți și toate se aflau în vacanță.</p>
+<p>Sfârșit de osteneală, se întorcea la gazda sa, căreia îi plătea regulat în fiecare dimineață, când iar trebuia să colinde prin pierdutele străzi ale capitalei, să încerce și iar să mai încerce...</p>
+<p>Birtașul se mira, unde mănâncă Dragomir în celelalte zile ale săptămânii, că doar joile și duminicile cerea să i se dea câte o porție de mâncare și câte o bucată de pâine, așa ca întotdeauna să nu treacă peste suma de cincizeci de bani la fiecare masă.</p>
+<p>Mihai Cotlaru, birtașul, se mira de ce Dragomir numai joia și duminica mănâncă la birtul său. Până când, într-o seară, văzându-1 atât de mult schimbat la față, palid și ars de soare, se hotărî să-l întrebe.</p>
+<p> — «Da bine Dragomire, unde mănânci d-ta în timpul zilei?»</p>
+<p> — Unde pot.</p>
+<p> — Cum așa?</p>
+<p> — O...ce să-ți mai spui, n-am nici o masă regulată. Fiind prea mult Îngrijorat cu chestia bursei mele, nu mă îngrijesc deloc unde și ce mănânc.</p>
+<p>Mihai Cotlaru, crezând că nu este în drept de a mai insista asupra întrebărilor, tăcu și se mulțumi să încheie conversația cu un «Dumnezeu să-ți ajute băiete». Dragomir se jena, bineînțeles, să-și arate starea sufletească către gazdă, care l-ar fi putut umili doar, cum gândea el și fără folos.</p>
+<p>Zile lungi de vară într-un oraș imens, mai mult nemâncat și nebăut (căci și de sete omul străin și sărac se poate prăpădi în capitală), le trecea cu amarul în suflet.</p>
+<p>Și totuși nici o clipă de furie în contra ursitei, nici o idee bizară în creierul lui, de a-și curma șirul suferințelor odată pentru totdeauna.</p>
+<p>Era duminica în zori de zi. Dragomir își Îndreptă pașii către biserica Sf. Spiridon să se roage celui puternic pentru a-1 ocroti cu paza sa și să-l ajute în calea pe care a apucat-o, căci: „sunt fericiți cei curați cu inima, că aceia vor vedea pe Dumnezeu...” și celelalte le pregătise îndeajuns pentru examen și Dragomir ținea să se prezinte lui Dumnezeu, să-și spună focul, ce-l arde pe inimă.</p>
+<p>Astfel se gândea pe când pășea pragul bisericii, cu evlavia unui eremit și cu ochii lui înlăcrimați de suferință.</p>
+<p>Se așeză într-o raznă a bisericii și cu mintea pironită la cel sfânt începu să se închine ca un nazaritean în floarea vârstei.</p>
+<p>Si nu ieși afară decât odată cu păstorii bisericești.</p>
+<p>Prezența lui Dragomir în biserică atrase numai puțin atenția lor.</p>
+<p>Când fu să iasă din Biserică, se întoarse pentru cea din urmă oară de a se închina întocmai: ca un ava Domnului; atunci un popă, care ieșea și el din biserică îl întrebă:</p>
+<p> — la ascultă băiețaș, de unde ești d-ta?</p>
+<p> — Sunt străin părinte.</p>
+<p> — Din care parte a lumii? urmă Popa.</p>
+<p> — Tocmai de peste Olt...</p>
+<p> — Și cum te numești?</p>
+<p> — Dragomir Munteanu.</p>
+<p> — Și cu ce ești pe aici, dragule Dragomir?</p>
+<p>Și Dragomir însoțind pe Popa Neculai până la locuința sa, își povesti în câteva cuvinte istoricul tristei sale vieți.</p>
+<p> — Cu un cuvânt ai venit pentru învățătură?</p>
+<p> — Da, părinte.</p>
+<p> — Foarte frumos taică, lucru nimerit și Tudorel al meu e candidat de bursă; de ce nu v-ați pregăti amândoi la un loc; te văd că ești băiat destul de deștept și cred să faceți mai bună treabă de v-ați pregăti împreună.</p>
+<p>Du-te taică de-ți ia geamantanu de la han și vino la noi; uite în odaia asta aveți două paturi, veți învăța împreună cu Tudorel al meu și vei avea și d-ta cele trebuincioase de la mine, pană te vei interna.</p>
+<p>Dragomir, în extazul bucuriei sale, nu se putu opri de a nu săruta mâna binecuvântatului preot în persoana căruia i se părea că vede pe Dumnezeu.</p>
+<p>Aceasta, într-adevăr era o minune pentru Dragomir, căruia nu-i mai rămăsese din toți banii decât vreo cinci-șase lei.</p>
+<p>Se duse într-un suflet până la M. Cotlaru, își luă cufărașul, plăti un mic cont și de aici înainte se instală la popa Neculai din strada Olimpului.</p>
+<p>Din ziua aceea, „duminica mântuirii” după cum o botezase Dragomir, el își îndoi activitatea, încât într-o zi Popa Neculai se adresă necăjit câtre Tudorel al lui, care nu mai slăbea zmeul din mână: mă, ștrengarule, mă, nu mai lași zmeul din mână mă, nu te uiți la Dragomir cum citește în odaie? Haimanao ce ești...Stăi satane, să nu-mi reușești numai și a-i vedea tu pe necuratu' cu ochii...</p>
+</div>
+<div type="chapter" n="3">
+<head>III</head>
+<p>Examenele se sfărșiseră. Tudorel al Popei Neculai din strada Olimpului nu reușise, dar nici Dragomir nu fuse mai norocos: din cauza vârstei sale înaintate nu fu admis printre candidați. Cu toate acestea, Dragomir nu disperă, ci se înscrise cu actele pe care le poseda la unul din liceele capitalei, ca elev extern. Singura greutate ce avea de învins era de a-și procura mijloacele de trai pentru anul întâi; haine și cărți deocamdată avea. Dar acest hop e greu de învins, când cineva e străin și în capitală era și mai greu.</p>
+<p>Popa Neculai era singurul om care mai știa că exista un Dragomir, venit de cine știe unde în capitală ca să învețe, dar care n-are nici părinți, nici mijloace și tocmai de aceea făcuse pentru «ăl băiat pricăjit» ce putuse și avea de gând tot să mai facă pentru «Dragu» căci Dragu, zicea popa preotesei, e un băiat așternut pe carte, supus, silitor și cuminte și că ar dori să ia pildă după cum e Dragu și Tudorel al lui și că ar fi mai nimerit să nu despartă pe Tudorel al lui de Dragomir, care ar putea să ajute mult pe fiul său la lecții. De aceea, Popa Neculai și Preoteasa Maria se hotărâră să-l ție la ei în gazdă că apoi este o faptă lăudabilă din partea lor, să-și facă o pomană de felul acesta, că cine-și face în lumea asta, e bine pentru suflet în lumea aceea.</p>
+<p>«Ferice de ăl de poate, își face pentru suflet» ziceau vecinii de câte ori vedeau pe Dragomir alături de Tudorel al Popei venind de la școală; mulți i-au strâns Popei mâna și i-au adresat cuvinte de laudă.</p>
+<p>Popa Neculai avea două rânduri de case într-o curte; într-un rând locuia el cu familia sa compusă din Cornelia și Tudorel, copiii Popei și din Preoteasa Maria, iar pe cele de alături le ținea cu chirie demult o familie germană.</p>
+<p>Domnul Hillebrand, inginer de profesie, era chiriașul popei Neculai. El venise în capitală cu afacerile sale tehnice. Era originar din Valea Hațegului, își terminase studiile în științe la statul major din Viena și după ce-și luă diploma, începu a practica ingineria în capitală.</p>
+<p>Luă în antrepriză terasamentul căilor ferate și câștigase întru începutul carierei sale o sumă bunicică de parale, prin care își asigurase poziția-i socială prin propria sa muncă; se însurase cu o germană. Dânsul o iubise, dânsa se supusese voinței părintești, totuși trăiau bine, iar acum aveau și o fetiță. Domnul Hillebrand, de multă vreme trăia în casele Popei Neculai și Popa Neculai părea cel mai mulțumit proprietar de case fiindcă așa chiriași „mai rar“, zicea popa Neculai. D-nul Hiliebrand cu nevasta sa își făcuse educația în Austria, de aceea doreau și fiicei lor să-i dea aceeași educație. Nina, fiica lor, terminase două clase secundare într-un institut din capitală, iar acasă învăța germana sub îngrijirea mamei sale. Dar progresul ce-1 făcuse în institut Nina, nu convenea deloc părinților, căci de câte ori Nina venea de la institut cu colega ei Cornelia, fata proprietarului, spunea mamei sale că i-au spus fetele la institut că acum e d-șoară mare și nu-i mai stă bine să poarte rochie scurtă.</p>
+<p>”Să-mi faci rochie lungă mamă, căci mă râd fetele; să-mi cumperi pălărie ca a Zenobiei mamă.</p>
+<p>Zenobia, Elvira și chiar Cornelia mi-au spus că sunt curtate...Ce înseamnă asta mamă?»</p>
+<p>Iar când se ducea la institut nu mai voia să se ducă cu fiece birjă, ci voia cupeu, căci așa-i vorbiseră Zenobia și cu Cornelia: că ele când se vor mărita se vor plimba numai în cupeu și Nina voia să le ia pe dinainte.</p>
+<p>Doamna Hillebrand o certă atunci aspru să nu mai îndrăznească altădată să mai pronunțe vorbe de acestea și se hotărî să-și retragă fata de la institut. Nina mai spusese că fetele la institut primesc scrisori de la băieți și mai zicea, că ele în fiecare duminică fac „rendez-vous”, la auzul cărora d-nul Hillebrand se îngrijorase serios.</p>
+<p>Cornelia și Nina aflaseră și ele că Tudorel al Popei Neculai, de azi înainte va avea un coleg pe lângă el, care a fost premiant în clasele primare și care-1 va ajuta la lecții și că Popa ține mult la Dragomir, fiindcă-i băiat cuminte și silitor.</p>
+<p>Tudorel se mai potolise de când trăia trup și suflet cu Dragomir; uitase pustiul și zmeiele și arșicele și nici de „bonjour magar” nu-și mai aducea aminte; copiii lui Costea cizmarul și ai lui Hristea dulgherul nu mai îndrăzneau să se apropie de el să-l angajeze la joc, căci Tudorel se afla veșnic lăngă Dragomir și acesta era mai mare decât băieții din mahala și nu-și permitea niciunul din ei să se apropie de el.</p>
+<p>Popa Neculai era foarte mulțumit de această schimbare a lui Tudorel și de modul cum învăța și aceasta mulțumită lui Dragomir. Dragomir făcea meditație regulată și nu lăsa se iasă afară pe Tudorel până ce nu-i spunea lecția frumos și bine. Temele latinești și franțuzești i le făcea Dragomir. Și Tudorel începu să învețe de minune.</p>
+<p>Dragomir se deprinsese în casa Popei ca la el acasă; făcea voile fiecăruia, era amabil cu toți și chiar cu chiriașii din curte, de aceea și ei se simțeau fericiți, când Dragomir saluta, plecând sau venind de la școală.</p>
+<p>Popa Neculai mai avea și altă cauză de ținea atât de mult la Dragomir și anume fiindcă nu lipsea niciodată de la biserică sărbătorile și aceasta plăcea Popei.</p>
+<p>Cornelia și Nina se deprinseseră și ele cu Dragomir, de aceea dacă zoreau acum sâmbăta seara să vină acasă, era că Dragomir le făgăduise să le povestească urmarea suferințelor sale, care le impresionase atât de mult încât Nina la fiecare cuvânt al lui Dragomir lăcrima pănă ce făcea și pe Cornelia să lăcrimeze.</p>
+<p>„Atunci nu vă mai spun”, le spunea Dragomir, văzându-le că într-adever plâng.</p>
+<p>Păi cum să nu plângem, urma Nina, când știm acum că ați rămas amândoi fără părinți în niște case mari și-n grija nimănui.</p>
+<p>Dar Dragomir se ferise să le arate că mai fusese în prăvălia d-lui Simonis înăinte de a-l cunoaște ele. Iar dacă-1 întrebau, cum se face că el așa băiat inteligent, ce se găsește abia în clasa I-a? El le răspundea în termeni echivoci: că a fost nevoit să întrerupă câțiva ani cursurile din cauza afacerilor familiale, dar niciodată nu le spusese adevărul. Adică pentru ce le-ar mai fi spus și asta? Ce folos i-ar fi putut aduce?</p>
+<p>Ar fi intrat noutatea în urechile Popei și Popa ar fi cătat să-l descoasă și atunci cine știe ce mai rezulta și din asta.</p>
+<p>Era de ajuns că Dragomir era iubit și stimat de toți. Pentru Nina, însă, devenise cel mai simpatic. Nina în naivitatea ei spusese odată Corneliei că ar dori ca Dragomir să-i fie frate...O, cât ar fi dorit una ca aceasta! Dar Cornelia se supărase foc pe ea atunci și i-a zis să-și „puie pofta în cui”, că Dragomir face parte din familia ei și când ar fi vorba de frate ea și l-ar face mai degrabă.</p>
+<p>De aici înainte fetele nu-și mai vorbeau de Dragomir: Nina se ferea de Cornelia și aceasta de Nina; dar și una și alta știau că Dragomir învață cel mai bine din clasă și se gândeau că mâine-poimâine Dragomir va ajunge cineva. Popa Neculai era mulțumit de Dragomir, care făcuse din băiatul lui ceea ce spera el: un băiat așezat și cu gândul la carte, dar ar fi fost și mai mulțumit dacă Tudorel ar fi încercat să dea încă o dată examen pentru bursă; cât pentru Dragomir s-ar fi angajat el însuși să-l așeze în familia cumnatului său, care avea vreo șase dolofani de copii, care de care mai sărit. De multe ori Popa Neculai adusese chiar vorba la masă și-i zisese cumnatului, că „numai Dragomir ar fi pentru copiii tăi, cumnate”.</p>
+<p>Acesta era planul Popei Neculai, apoi fata se mărește din zi în zi, gândea el, și ar fi mai înțelept să nu prea fie în contact cu băieții, căci ei sunt mari acum și era vorba de Dragomir căruia începuse a-i miji mustața și oricât de așezat să fie cineva, vorba Popei: flăcăul e flăcău, n-ai ce-i face...</p>
+<p>Fata e ispita flăcăului și flăcăul a fetei și mai adăuga: știu eu ce va să zică tinerețe.</p>
+<p>Pe lângă aceasta știa el doar atâta seamă de lucru că, Cornelia a lui nu-i deloc astâmpărată; observase cu ochii lui la masă că, Cornelia își face loc veșnic pe lângă Dragomir: ba într-o zi i s-a părut că parcă piciorul ei ar fi apăsat pe al lui Dragomir, sub masă și că Dragomir s-ar fi roșit.</p>
+<p>În sfârșit, motivele părintești erau multe și binecuvântate, căci Cornelia era o natură prea mlădioasă, care ar fi putut-o încovoia cea mai mică batere de vânt.</p>
+<p>Tudorel, constrâns de părintele său, mai încercă încă o dată norocul pentru câștigarea bursei, însă de astă dată citise în gros cu Dragomir toată vacanța, iar în toamna viitoare reuși al treilea printre candidați — Popa îl instală atunci la internatul statului ca elev al clasei a II-a liceală și acest progres nu-1 datora Popa decât lui Dragomir: la rândul lui Popa Neculai era dator să se îngrijească de Dragomir.</p>
+<p>Pe Cornelia a înstalat-o iar la pension, însă de aici înainte ea nu mai avea colegă, căci pe Nina, fata chiriașilor, s-au hotărît părinții să o trimită Ia Viena să-și urmeze studiile, căci trecuseră deja vacanțele.</p>
+<p>Dragomir se informase despre plecarea ei și nu știa el însuși de ce din acel moment un voal de tristețe-i înfășurase inima: era deprins să o aștepte venind de la institut în fiecare sâmbătă seara; să citească prin curte duminica și ea să-l privească de la geam, de unde privea asemeni; să o asculte exersând la pian sau să se plimbe la braț cu, Cornelia prin curte. Nu pricepea farmecul ce-l producea Nina asupra întregii sale persoane, dar i se părea, că are înaintea lui pe Tudora; privirea Ninei și-o asemăna în minte cu dulcea privire a mamei sale, atunci când îl chemase pentru cea din urmă oară să-l îmbrățișeze și să-l sărute. Nina s-a uitat la el totdeauna frumos și blând, i se părea că numai privirile ei înțeleg ce dorește el.</p>
+<p>Nina îl întrebase de multe ori: mai ții minte imaginea mamei Dragomire, ce bună trebuia să fie! Oh, cum aș fi iubit-o Dragomire, și ea atunci lăcrima, iar Dragomir o asculta, se uita în ochii ei cu sfiiciune și de aici înainte începea să simtă o zilnică nevoie de prezența ei; de aceea, de multe ori se dusese singur să o aducă de la pension și de câte ori nu o dusese tot el! Și acum după un an de cunoștință, Nina, care se apropiase atât de mult de Dragomir, ea, care începu să citească în sufletul lui Dragomir, trebuia să se ducă mult departe, unde cine știe de o va mai putea vedea! Atunci, Dragomir începu să simtă cum un gol pustiu și rece se lărgește în inima sa, așa cum n-a simțit poate nici la moartea mamei sale, nici la despărțirea de Tudora; îl cuprinse un fel de jale amară și un dor de cine știe ce dorință. Era duminică, o zi frumoasă de toamnă. Căderea frunzelor tremurânde de pe ramurile lor inspira atâta melancolie lui Dragomir! Nina trecu la proprietăreasă să -și ia ziua bună. Era gătită de călătorie. Birjarul luă cufărul din antreu și-l așeză pe capra trăsurii.</p>
+<p> — Multe complimente Corneliei! Să-i spuneți să-mi scrie, am să-i scriu și eu: mă duc să-mi iau ziua bună și de la Dragomir.</p>
+<p>Dragomir o auzi și era cât pe ce să cadă din picioare: îi tremura mâna, corpul, sufletul; se forță, însă, să fie tare.</p>
+<p> — La revedere, Dragomire!</p>
+<p>Dragomir rămase ca o statuie și nu fu în stare să-i răspundă.</p>
+<p> — Ce ești trist?</p>
+<p>Lui Dragomir îi alunecă o lacrimă din ochi, apoi alta.</p>
+<p> — Plângi?</p>
+<p>Dar nici Nina nu se putu stăpâni.</p>
+<p> — Nu-i așa, că nu o să ne mai uităm, Dragomire?</p>
+<p> — Nu...niciodată...d-șoară... atât putu să zică sărmanul Dragomir!</p>
+<p>În acel moment simți atâta durere, atâta groază încât i se păru că afară doar de el, n-a mai rămas nimeni pe lume și el singur fiind nu putea nici să moară, nici să trăiască.</p>
+<p>Nina îi intinse mânuța ei albă și mică. Dragomir i-o strânse tremurând: ar fi vrut să i-o sărute de zeci de mii de ori, dar...n-a putut, n-a putut...și Nina s-a dus! Acum era în trăsură cu mamă-sa și saluta pe toți cu mâna, dar ochii ei căutau pe Dragomir pe care nu-1 mai văzu.</p>
+<p>Dragomir plângea în odaie.</p>
+</div>
+<div type="chapter" n="4">
+<head>IV</head>
+<p>Cumnatul Popei Neculai trimise deja servitorul la Popa după Dragomir, căci școlile se deschiseră și avea nevoie de preparatorul pe care îl recomandase cumnatul. Dragomir, lăcrimând atunci, sărută mâna Popei, apoi pe a Preotesei, iar după ce popa îi dădu binecuvântarea sa, zise solemn: «Mergi taică unde te cheamă datoria; calea ți-i deschisă și n-avea grijă de nimic, căci Dumnezeu nu lasă pe oamenii cei buni. Dacă-i merge în casa cumnatului însă, să iei seama să nu uiți pe a mea, căci eu te iubesc deopotrivă cu Tudorel. Duminicile, sărbătorile și vacanțele să știi să te găsești la noi împreună cu Tudorel — căci așa ne-am învoit cu cumnatul.»</p>
+<p>Domnul Grozăvescu avea șase copii și toți mărunți între patru și 12 ani, adică cam așa mergea progresia aritmetică a vârstei copiilor: Richard nebunul de 12 ani; după el venea Mircea ipocritul de 10 ani; apoi Dodu prostul de 8 ani; Costică înțeleptul de 7 ani; Take bătăiosul de 6 ani și în fine, Mitiță îndrăcitul de 4 ani și cel mai piperat, vorba Anicăi, jupâneasă în casă.</p>
+<p>Fiecare din copii avea câte o poreclă, care se potrivea de minune cu natura fiecăruia, căci porecla dată era rezultanta unui studiu psihologic, studiu făcut de jupâneasa Anica, doica copiilor, care se văita mereu că o îmbătrânise fără de vreme, căci numai ea gustase amarul cu ei până în fundul paharului, de aceea la vederea lui Dragomir «profesorul», jupâneasa Anica, ștergând geamurile de praf, strigă: e de nesuferit d-le, cu copiii ăștia». Și avea dreptate jupâneasa Anica. Dragomir părăsise liniștea și aici dădu de un zgomot, care nu se astâmpăra decât vreo oră-două în timpul nopții, încolo zarvă mare în casa d-lui Grozăvescu. Până să astâmpere pe unul, jupuneasa Anica se pomenea în cealaltă parte cu altul: «uaa...Mamăă...m-a lovit Dodu...» și când jupuneasa Anica îl sorcovea cu vreun pumn îndesat să se astâmpere, atunci Dodu era în stare să înalțe tavanul cu zbieretele lui, care transforma casa intr-o havră ovreiască, așa precum o spunea jupâneasa Anica.</p>
+<p>Dar acestea nu erau nimic pe lângă alte isprăvi ale lui Richard nebunul.</p>
+<p>Sus în etajul al doilea e sindrofie. Multe Doamne și mulți Domni sunt invitați și înainte de masă se plimbă la braț prin coridor. Doamna unuia este cu D-nu celorlalte; o tânără în floare, de curând măritată, se lasă molatic pe brațul cavalerului, care o conduce și vorbesc mai mult în șoaptă; amândoi au aerul de a se feri de privirile celorlalți. Cavalerul îi spune mereu că e cea mai frumoasă, că e regina seratei; dânsa zâmbește platonic și îi strânge mai vârtos brațul; ar vrea să-l strângă și mai mult; cavalerul nu-și slăbește o clipă mustața; la fiecare schimbare de privire cu o mână și-o răsucește; amândoi sunt transportați; mintea lor zboară prin locuri singuratice, visează «verzi dumbrăvi cu filomele».</p>
+<p>Ca frumos ar fi, îi șoptește el!</p>
+<p>Dânsa pleacă ochii în jos cu pudoare și râde, dar nenea Leonard cu favoriți albi și creți se oprește în dreptul lor și-i trezește pe amândoi din vis.</p>
+<p> - Scumpă Olgă, dar nu vezi dragă, că damele te așteaptă în salon?</p>
+<p> - Ce anost ești, șoptește ea părăsind pe tânărul Cela în frac, cu care s-ar potrivi de minune — Nenea Leonard e fericitul ei soț...</p>
+<p>În salon se admiră și se fac elogii pălăriilor, stofelor de rochii și dantelelor.</p>
+<p>Se discută de torți și brățări, de cele din urmă mode, de preț, care de unele se găsește destul de ieftin, de altele destul de exagerat; apoi intră în vorbă de chestiuni mai serioase - se admiră cățelușa Doamnei Leonard; cățelușa cât un arici de mare se uită vioi la toate, latră, dă din coadă, scâncește, se lasă pe covor întinsă și cu zgaibele în sus; o doamnă o ia, o strânge la piept, râde la ea și-i dă mii de pupături; trece din mână în mână și cățelușa Julieta primește nesfârșite sărutări; unele suspină cum de n-au și ele un dobitoc așa de inteligent; altele își petrec vremea admirând un papagal dresat; în sfârșit, iată și Mimi, gentila pisică a Doamnei Grozăvescu, care trage o labă în ochii Julietei, ce începe a schelălăi; Julieta nu încetează a schelălăi cu toate pupăturile ce primește de la fiecare cucoană în parte.</p>
+<p>Domnii discută politică: fac haz de căderea guvernului Brătianu, unii au aerul de oratori; se încinge o discuție aprinsă între D-nul Grozăvescu - conservator și D-nul Leonard, liberal înfocat; acesta din urmă se înfurie și-i dă cu tifla, uită regulile buneicuviințe, că aici e la sindrofie și nu la întrunire.</p>
+<p>Se face zgomot; cucoanele curioase aleargă prin coridor să vadă ce e și văzându-și bărbații în culmea furiei, vin între ei ca niște Sabine și stabilesc pace și iubire... Însă nici jos nu-i mai puțină liniște; pe Dragomir îl trec mii de nădușeli și iată de ce: Richard nebunul lipi de gura sticlei de lampă o hârtie udă și prin acest fenomen întrerupându-se comunicația oxigenului cu flacăra lampei, se auzi în clipă un țac și sticla împroșcă cioburile în jurul lampei, de care accident nu scăpă nici însuși Dragomir.</p>
+<p>Pe Dodu îl ajunse un ciob drept în vârful nasului, pe Mircea la sprânceană, pe Take bătăiosul la buza de sus, pe Dragomir la mir. Atunci revolta durerii izbucni într-un plâns unanim: toți plângeau pe întrecute, numai Richard râdea și n-avea tovarăși de întrecere. Domnul și Doamna Grozăvescu erau deprinși cu asemenea scene și fără să se mai neliniștească de ceva, contribuiră prin chiar prezența lor la liniștea invitaților. „Copiii jos fac zgomot, nu e nimic, nu e nimic; preparatorul e cu ei“, zise Doamna Grozăvescu, fără a bănui adevărul lucrurilor.</p>
+<p>În salon o d-șoară, executa „perfect“ la pian „L'orage“ din Weber, care concorda admirabil cu uraganul ridicat în meditație.</p>
+<p>Sindrofiștii își continuă serata, iar copiii trec în camera de culcare: Dragomir trecu și el să se culce, dar aici altă belea; își găsi patul cu josul în sus și căptușit cu cărămizi din curte, iar cărțile de studiu muiate în cerneală violetă; și câte alte năzdrăvenii nu mai săvârșeau Richard, Mircea și Dodu, cei mai mari! Iar când Doamna Grozăvescu îi întreba prefăcendu-se că se răstește la ei: „ce aveți cu băiatu' meu, nebunilor?”, ștrengarii râdeau, sărind într-un picior și ziceau: „am glumit, am glumit, ce ee...”!</p>
+<p>Și în condițiile acestea numai meditație nu se putea face. Dragomir se vedea nevoit să-și înceapă lecțiile sale de la unsprezece ceasuri înainte după ce se potoleau nebunii, care nu-i dau nici o clipă pace și-i furau timpul cel mai priincios.</p>
+<p>Richard mai avea obiceiul să și mintă: când îl întreba Dragomir ce lecție are, Richard îi arăta tot aceleași lecții „fiindcă n-a venit profesorul în clasă, dar în realitate avea lecții înaintate și când îl ascultau profesorii Richard veșnic nu știa: trei, trei, trei, unu și câte vreun zero îndrăcit, acestea erau notele lui Richard și bietul Dragomir se rușina de câte ori D-nul Grozăvescu îl întreba „cum merge Richard?”. Căci Dragomir i-ar fi spus adevărul cum stau lucrurile, dar îi interzisese Doamna Grozăvescu „să mai reclame pe copiii ei la Domnul“ și Dragomir nu putea să spună nici așa nici altfel.</p>
+<p>De aceea, îndura multe în casa D-lui Grozăvescu și nu se plângea nimănui de asta, căci n-avea niciun drept. Copiii rău crescuți nu-i dădeau pace nici ziua, nici noaptea. Așa erau deprinși ei și n-aveau ce să le facă nici servitorii, nici stăpânii și avea dreptate jupâneasa Anica, când spunea lui Dragomir din convingere: «nesuferiți copiii D-le, lua-i-ar naiba să-i ia, m-au înnebunit». Dragomir atunci suspina greoi. Într-o zi, însă, pierdu răbdarea și reclamă D-lui Grozăvescu necuviințele ce i le făcea mai cu seamă Richard. Atunci D-nul Grozăvescu, în culmea furiei, porunci lui Costache, feciorul de masă, să-l ia in spinare și îi croi cu o nuia de corn vreo douăzeci și cinci pe spate, încât, însăși cucoana leșinase în fața acestui spectacol neplăcut; Dumneaei deși încercase cu bine să îl scoată din mâini, totuși „coconu n-a lăsat trebile pe voia cocoanei” ci a înbrâncit-o înfuriat, iar dânsa, ca să nu cadă, se agățase de colțul mesei, și masa răsturnându-se, toate bucatele formau un amestec nedeslușit printre cioburile de farfurii și covorul multicolor. „Pentru aceea plătesc eu profesorilor, pentru aceea țin preparator deosebit”, striga înfuriat D-nul Grozăvescu. „Mi-ai nenorocit copiii Margo, Margo!”, sfârși D-nul atunci, lundu-și ghiozdanul și plecând la Tribunal fără să guste din bucate.</p>
+<p>Dar din ziua aceea nici Dragomir nu mai avu trai bun în casa D-lui Grozăvescu: într-adevăr începu să se îngrozească în lunga epocă de patru ani cât a stat la D-nul Grozăvescu. Duminicile și sărbătorile mai gusta liniște când se ducea la Popa Neculai din strada Olimpului. Însă, nici aici nu se putea bucura de fericirea pe care ar fi dorit-o. Absența Ninei, aducerile aminte ale unor clipe dulci, zâmbetul Ninei, vorba ei la plecare „așa-i că nu ne vom mai uita?”. Toate acestea îi treceau prin minte și-l împresura atunci o melancolie și un dor nebun, care-1 făcea trist, tăcut și posomorât.</p>
+<p>Cornelia, care stăruia atât de mult să converseze cu el, abia îi smulgea din când în când câte vreo vorbă și el căuta întotdeauna să evite de a rămâne numai cu ea singură. Nina, în fiecare scrisoare a Corneliei, nu uita de a-i trimite complimente și lui Dragomir și să întrebe ce mai face el, totuși Cornelia a păstrat tăcere adâncă și nu i-a pomenit niciodată de Nina. De câte ori însă, Dragomir venea pe la Popa Neculai și vedea casa unde locuesc părinții Ninei, de atâtea ori suspina și cu amărăciune își zicea: „așa-i că nu ne vom uita?! Mi-a zis ea și ce lesne m-a uitat!”. Câtă nestatornicie nu deducea el din înțelesul acestor cuvinte când își închipuia că Nina l-a uitat!</p>
+<p>Trei ani de-a rândul Nina rămăsese la Viena fără ca părinții ei să o aducă în țară, voind să-și uite orice apucături și deprinderi rele, de care se influențase prin mijlocul educației institutelor noastre. În vacanța celui de-al treilea an, s-au hotărât să o aducă, căci le era dor de ea.</p>
+<p>D-na Hillebrand a scris surorii sale să vină cu ea în persoană.</p>
+<p>Nina a telegrafiat. Telegrama a primit-o Cornelia din mâna factorului și o citi împreună cu Doamna Hillebrand, că Nina sosește chiar în ziua aceea. Se nimerise și Dragomir la Popa Neculai. Dânsul auzise din gura Corneliei, căci ea venise să spună în gura mare, că Nina sosește cu trenul de două.</p>
+<p>Dragomir își apăsa degetele pe inimă: îi venea să sară de bucurie, din posomorât și tăcut ce era, începu să vorbească multe fără să-și dea seama ce spune; povesti Corneliei din viața sa de școlar diferite scene de clasă, că la cutare profesor o tulesc toți din clasă și când profesorul intră, rămâne în clasă unul de formă, care îi spune: „crezurăm că nu veniți astăzi d-le profesor”, și profesorul pleca, căci el însuși făcea prea multe absențe și n-avea ce zice când găsea clasa goală. Și câte alte nu povesti Dragomir Corneliei de astă dată, care-1 asculta uimită de o așa bruscă schimbare a lui Dragomir, de vreun ceas încoace, odată cu sosirea depeșei, pănă când o birjă se opri la poartă și dintr-însa se dădu jos zveltă, Nina, însoțită de mătușa sa.</p>
+<p>Era așa de frumoasă, dulce și guralivă! Obrajii ei erau așa de rumeni! Ochii ei albaștri ca azurul dimineții de mai, așa de dulci, încât Dragomir, din fereastra de unde contempla, nu îndrăzni mult să o privească. Nina devenise domnișoară în puterea cuvântului; se dezvoltase în cei trei ani așa de bine și nu mai avea rochie scurtă, acum avea și voal cu picățele albe: acestea toate le observase Dragomir dintr-o privire. Nina sărută pe mamă-sa, apoi pe Cornelia, în sfârșit, mâna Preotesei Maria și ochii ei căutau prin toate părțile pe Dragomir: nu-l văzu, de aceea întrebă în mod echivoc: ce? Tudorel și Dragomir nu mai sunt aici? Ba da, răspunse Cornelia, Dragomir e în odaia de alături, trebuie să vie și Tudorel numaidecât din târg.</p>
+<p>După răspunsul Corneliei, Nina trecu nerăbdătoare în camera de alături să vadă ce face Dragomir.</p>
+<p>Dragomir era galben ca ceara: un fel de rușine î1 cuprinse în fața Ninei; încercă să zâmbească și să se uite în ochii ei, dar î1 cuprinse amețeala; i se păru că Nina deja citește în sufletul său; că ea știe, că el o visează și zi și noapte și suferă de dorul ei.</p>
+<p>Nina îl luă de mână și cu o dulce apropriere, care aparține virginelor, urmă:</p>
+<p> - Așa-i că nu ne-am uitat?</p>
+<p>Dragomir era transportat de fericire. În curând veni și Tudorel. Nina trecu în casele părintești să-și schimbe costumul de călătorie, apoi reveni într-o rochiță simplă de culoarea liliacului. Ce frumos îi mai stătea! Cornelia își mușca buzele: Nina era mai frumoasă decât ea; în privirea ei, în mișcările ei, se vedea superioritatea inteligenței și influența educației - Cornelia înțelegea atâta lucru...</p>
+<p>Trecură în salon. Aici, Dragomir a luat poziție pe canapea în dreptul Ninei și în tot timpul conversației s-a uitat numai la Nina; cu Nina își găsea subiect de vorbă și numai de întrebările ei era îngrijit, iar față de Cornelia se purtase mai rezervat ca orișicând; și când Dragomir și-a exprimat dorința că ar dori să mai asculte «Vorrei morir» s-a adresat Ninei, iar după ce ea sfârși la pian, Cornelia observă emoția lui Dragomir și nu se putu stăpâni să nu-1 întrebe:</p>
+<p> — Îți place atât de mult?</p>
+<p> — Da, merită admirația noastră, zise Dragomir entuziasmat.</p>
+<p> — Nu știam, îngână Cornelia, întorcându-și privirile aiurea.</p>
+<p>Dragomir se pierduse în reverie: ultimul refren din «Vorrei morir», părea mereu că-i încânta auzul; măiestria cu care executase Nina această romanță...îl impresionase înlr-atâta, încât căuta în sufletul său acea tainică simțire, care se manifestă și ia naștere într-o inimă de artist; ar fi voit în acel moment să aducă laude talentului Ninei și nu găsea «cuvântul care exprimă adevărul».</p>
+<p>I se înșirau în minte crâmpee de versuri, dar toate i se păreau slabe; se sculă și se grăbi să-i facă un compliment sincer.</p>
+<p>Nina roși. În tăcerea lui Dragomir se ghicea totul.</p>
+<p>Popa Neculai chemă copiii la masă, căci era zi de sărbătoare și Popei Neculai îi plăcea să fie toți la masă. Nina se sculă și ea să plece, dar când a ieșit din salon, n-a uitat să mai privească încă o dată pe Dragomir atât de blând, încât Cornelia se întunecă. La masă ea nu mai șezu ca altă dată lângă Dragomir și pe lângă altele mai zise că n-are poftă de mâncare și că se duce iar în salon să se liniștească, că o doare capul. Cornelia trecu din nou în salon și se porni pe un plâns: plângea fără să se poată stăpâni, pănă ce i se roșiră ochii. Dragomir o observase, de și ea se silea să se ascundă.</p>
+<p>Nina, din contră, era veselă și nu mai știa cum să zugrăvească persoana lui Dragomir mamei sale, care o asculta cu drag că ea îi vorbea de Dragomir și iar de Dragomir.</p>
+<p>Seara se despărțiră Dragomir de Tudorel și amândoi de Nina și de Cornelia.</p>
+<p>Dragomir, la plecare, strânse mâna Ninei mai cu dragoste, lucru care-1 observase Cornelia, căreia-i întinsese mâna cam rece. De aici înainte, însă, Nina și Cornelia nu se mai puteau suferi cu ochii și nu mai schimbau decât foarte rar câte vreo vorbă și aceasta pentru politețe.</p>
+<p>Dragomir plecă iar la zgomot, cu care se obișnuise; dintre toți copiii D-lui Grozăvescu numai Richard nebunul lipsea, căci îl dădură părinții la școala militară, deoarece acasă nu era mijloc de îndreptare. Ceilalți erau mai astâmpărați, căci se mai măriseră și înaintaseră și ei în studii, astfel cei mai mari puteau să mediteze pe cei mici, prin urmare Dragomir putea să-și caute un loc mai potrivit cu rangul studiilor sale, de aceea tot cu permisiunea Popei Neculai se angajase ca pedagog într-un institut din capitală, unde pe lângă întreținere mai avea și un salariu de 100 lei lunar.</p>
+<p>Dragomir se închisese în institut. Nina plecă din nou la Viena, iar Cornelia fu retrasă din institut pentru motive serioase: era „grande mademoiselle”.</p>
+</div>
+<div type="chapter" n="5">
+<head>V</head>
+<p>Veșnic deștept, cu cartea în mână, făcându-și diurna în meditație, explicând și ascultându-și elevii, supraveghindu-i prin curte și în dormitor să nu se întâmple vreun zgomot neobișnuit sau ducându-i la plimbare și iar aducându-i la institut, ținându-le conferințe săptămânale și dându-le sfaturi prietenești, el însuși înconjurat de o mulțime de prieteni; binevoitor și îndatoritor către oricine, astfel îl cunoșteau colegii săi pe Dragomir.</p>
+<p>Tot în același institut se afla și colegul său Lucescu; diviziunea muncii înlesnea calea studiilor amândurora, căci făceau cu rândul într-o zi el, într-o zi Lucescu.</p>
+<p>Lucescu era un tânăr inteligent, venit în capitală tot ca și Dragomir pentru învățătură, însă mai fericit decât Dragomir, căci Lucescu avea părinți, care deși nu se bucurau de o stare materială suficientă, totuși îi mai trimiteau din când în când câte vreun pol pentru cărți și altele necesare; amândoi însă coincideau perfect în modul de a gândi și de a simți. Directorul institutului le oferise o cameră deosebită, care să servească de dormitor pedagogilor și totodată pentru cameră de recreație.</p>
+<p>Amândoi dormeau în aceeași cameră și trăiau nedespărțiți. De multe ori se întâmpla ca Lucescu, fiind de rând, să deștepte pe elevi și să-i adune în meditație. Îl înșela somnul și cu tot ceasornicul cu clopoțel, care-1 punea lângă căpătâi să sune la ora hotărâtă, totuși, nu se putea deștepta; atunci Dragomir, deși nu era rândul lui, se scula cu două ore până în zi, căci așa era obișnuit, zicea el, se ducea la patul fiecăruia, îl mișca de două-trei ori de mână, îl aducea în stare de simțire și zicea scurt: «la meditație», cu toate că elevilor le era greu să se scoale, când somnul e mai dulce pentru copii, totuși n-aveau ce face, sărmanii, erau datori să se supună regulamentului care ordona: „toți elevii institutului la 5:30 punctual se vor găsi în sala de meditație, iar cei absenți se vor pedepsi aspru de către pedagogul respectiv etc.”, cu toate că numai aspru nu era Dragomir.</p>
+<p>Elevii îl aflaseră că e blajin și de câte ori voiau să iasă pe afară cu, sau fără trebuință din meditația plictisitoare, nu-și mai cereau voie de la Lucescu, căci «e rău» ziceau ei, ci se îndrumau direct la Dragomir, căci noul pedagog le dă voie să meargă prin curte printr-un gest din cap, fără să-i mai întrebe cum și pentru ce, până ce într-o zi se pomeniră în meditație din o sută de elevi numai Lucescu și Dragomir.</p>
+<p>Lucescu se uită atunci la Dragomir și nu și-a putut stăpâni râsul.</p>
+<p> — «Unde-ți sunt oile, Dragomire?», îl întrebă colegul său, zâmbind.</p>
+<p>Dragomir se uită întâi în ochii lui Lucescu, apoi împrejurul lui și văzând că n-a mai rămas niciun elev în meditație, roși la față, lăsă chimia din mână, se uită la ceas și zise: mai sunt cinci minute, voi suna de ieșire.</p>
+<p>După aceea sună.</p>
+<p>«Sună de ieșire; sună de ieșire», repetă elevii jucând „hop-zdrob” prin curte, iar Dragomir se duse în camera pedagogilor să mai citească, pănă ce sufragiul să sune de masă. Masa dura câteva minute, căci numai un fel de bucate preparate și nepreparate; pentru niște ființe fragede, care muncesc intelectualmente să lupte cu uriașa știință, nu prezenta nicio greutate, pentru ca să sfârșească atât de repede.</p>
+<p>Chiar elevilor le era urât să mai întârzie în sufragerie în fața meselor întinse, însă goale; atunci își lua fiecare sfertul de pâine uscat de trei zile în mână, (din principiul domnului Director ca să nu mănânce multă pâine}, îl ascundea în buzunarul hainei și-1 mânca prin curte printre jocuri nevinovate și suspine, pe care nu le mai uitau nici în vremea maturității. De aceea sărmanii elevi, abia așteptau cu nerăbdare să sosească vesela primăvară, să cadă mai repede florile de cireși, de mere și de pere, să se arate pe pomii din grădină fructe necoapte încă, pentru ca într-o săptămână să facă culesul înainte de vreme. Mâncau siliți de foame pe furiș, căci directoarea, Doamna Iulci, era o femee piperată, care ar fi fost în stare să facă omor de om, dacă ar fi prins pe vreun elev îndrăcit. Cu toată severitatea doamnei Iulci însă, elevii erau și mai dibaci, căci foamea era în stare să dărâme cetăți.</p>
+<p>În primăvară, infirmeria institutului era mai populată, cu elevi bolnavi, ca-n orice alt anotimp al anului; deși picior de doctor nu nimerea prin faimosul institut, totuși elevii nu erau lipsiți de doctori, căci doamna Directoare se mândrea în fața părinților ai căror copii se aflau în institut, că numai dânsa este în stare să vindece orice boală, că ea e cea mai bună mamă de copii, că precum îngrijește dumneaei copiii alta nu e-n stare. Ba-și făcea singură apoteoza, că a fost în stare să stârpească din institut chiar râia și tifosul.</p>
+<p>Sosea iarna. Doamna Iulci, era pasionată de economii: două brațe de lemne pentru toate dormitoarele în număr de șapte, aceasta era porția pe care o dădea servitorului din pivniță; și căldura în dormitor nu se simțea niciodată; elevii tremurau de frig; îi apucau dureri teribile de stomac; se învinețeau și clănțăneau din dinți; atunci își părăseau mai mulți paturile și se adunau câte trei într-un pat să se poată încălzi; cearșafurile și fețele pernelor nu se schimbau cu luna; primeneli li se dădeau la două săptămâni o dată; dormitoarele se aeriseau și se măturau la perioade nedeterminate; o putoare pestilențială domnea prin toate părțile, afară de camera pedagogilor, care singuri își îngrijeau de curățenie.</p>
+<p>În chipul acesta într-o iarnă se declară o râie teribilă; abia atunci autoritățile școlare s-au interesat să fie trimiși elevii atinși de râie fiecare la locuința sa. Și toate aceste economii le făcea doamna directoare spre a putea în vacanțe să se plimbe pe la băile din Öliopatak, de unde era din naștere.</p>
+<p>într-o zi, elevii cu mic, cu mare se puseră în grevă: reclamația lor, murmurul, ce se ridica și izbea auzul directorului, indiferent de toate aceste neajunsuri, era că nu li se dădea de ajuns nici pâine, nici de mâncare; că multora mai slabi de costituție le-a venit să leșine în clasă; că părinții lor plătesc câte 700 și 800 anual, pe lângă taxa doctorului și a băilor câte 40 de lei de fiecare elev, și pe când părinții lor îi cred îngrijiți părintește, Directorul își bate joc de sănătatea lor și de banii părinților lor; că Directorul luase angajament față de părinții lor să le aducă profesori în institut, pe când el lăsase întregul institut în mâna unui singur pedagog și abia acum după multă stăruință a elevilor le aduse pe Dragomir pentru latină și greacă; în sfârșit și pentru multe alte motive binecuvântate se puseseră elevii în grevă, care grevă avu drept rezultat de a le îmbunătăți starea prin următoarele modificări: că în locul fasolei cu pastramă mirositoare și cartofi încolțiți încă din anul al treilea să li se mai adauge de aici înainte și carne de berbec cu orez fiert în apă curată, iar joia și duminica să li se dea și gogoși pregătite cu cocă. Cu astfel de hrană, elevii ajungeau din zi în zi mai piperniciți; toți păreau că ar fi zăcut de langoare, și studiile le secau forțele fără să aibă alimente necesare, prin care să le înlocuiască. Astfel indicele liceelor la sfârșitul anului școlar erau împestrițate cu corigenți și repetenți îndeosebi.</p>
+<p>Iar cei în competență se mirau de regresul școlilor noastre.</p>
+<p>Prezența lui Dragomir înlocuia toate promisiunile Directorului. Apoi, cu venirea noului pedagog în institut se aplanaseră toate lucrurile.</p>
+<p>Sâmbătă seara și în ajunul sărbătorilor, Dragomir le ținea cuvântări prin care îndulcise spiritele: adesea ori se servea de pilde din viața sa de elev proletar, fără să numească persoana, care pățise atâtea pentru dragostea învățăturii de a se lumina prin sine, el le spunea cu elocvența unui orator, care se pricepe a fi înțeles de cei ce-1 ascultă: că a cunoscut un elev așa și așa fără mijloace, fără părinți, străin, dar plin de nădejdea viitorului, care a învins toate mizeriile și a ajuns la scopul final etc.</p>
+<p>Elevii îl ascultau cu luare aminte, se linișteau și începeau să înțeleagă întru câtva problema vieții. În interval de doi ani de când Dragomir se afla în mijlocul lor, se deprinseseră cu el și le era drag ca de un om pe care-1 iubești fiindcă și el te iubește.</p>
+<p>Dragomir și Lucescu erau elevi ai clasei VII-a; de doi ani aproape trăiau nedespărțiți. În clasă Dragomir se ținea printre fruntași.</p>
+<p>Cu toată grija institutului, cu toate preparațiile particulare ce le avea, Dragomir părea că înclină spre partea literară, de aceea profesorul de matematică, Domnul Jora, care ura din principiu tot ce aparținea literaturii, nu se cam învoia cu Dragomir și pace, cu toate că la figură îi semăna lui Dragomir, încât mulți îl credeau de fiul D-lui Jora.</p>
+<p>Domnul Jora era un om de o statură potrivită, figură rotundă și grasă; mustață mică și fără vârfuri, deși în vârstă de 50 de ani, totuși la mers păstra tactul unui adolescent. Ochii sunt oglinda sufletului, dar la el era contrariul.</p>
+<p>Era într-adevăr un om excepțional: nu-i convenea societatea nimănui; se ținea departe de orice manifestație națională, politică și în fine departe de societate. Astfel fiind Domnul Jora, inima lui nu fusese deprinsă a se impresiona nici de lacrima, nici de bucuria aproapelui; atât cât și-a putut cultiva mintea prin mijlocul cifrelor, lăsa mult de dorit așa precum trebuie să fie un pedagog destoinic, menit a lumina generațiile viitoare.</p>
+<p>Dragomir nu fusese amenințat în nicio clasă la obiectul D-lui Jora, însă constatase el, că acest om, care calculează atât de bine distanța astrelor, nu se pricepe câtuși de puțin la analiza stărilor sufletești. Personalitatea D-lui Jora ajunsese ciudată: generațiile, care se îndrumau în scena lumii, cu oroare își aminteau cum D-nul Jora îi satiriza cu ironie, căci dacă intra în clasă și scotea pe vreun elev la tablă dânsul nu proceda ca orice profesor cu simțul conștiinței și cu acea vocațiune de pedagog antic de a stabili între elev și profesor perfecta armonie a unor sentimente frumoase, ci proceda după sistemul său unic și nemaiauzit.</p>
+<p>Elevul ieșea la tablă: sufletul lui, mintea lui era concentrată la paralaxa soarelui sau la vreun con de umbră și penumbră al lunii.</p>
+<p>Domnul Jora îl măsura cu privirea, apoi urma cu un ton pițigăiat: D-ta prea-ți răsucești mustața des; prea mult te joci cu ea de-ți stă așa înfoiată. Ce? Ori vrei să-mi scoți ochii cu ea?</p>
+<p>Elevul se dezechilibra; starea lui sufletească se tulbura și devenea inconștient de eul său.</p>
+<p>Domnul Jora: poftim de lucrează.</p>
+<p>Elevul punea mâna pe cretă, lucra câtva, și rămânea gânditor, iar sfârșitul lecției rămânea nesfârșit.</p>
+<p>Domnul Jora de la catedră: treci la loc; îți pun unu; să-ți răsucești mai rar mustața, m-ai înțeles? Odată a scos pe Dragomir.</p>
+<p>Domnul Jora de la catedră: poftim de lucrează lecția 22: înălțimea munților în lună. Dragomir începu să deseneze: trase cu creta și dintr-un condei făcu un cerc; duse axa lunii, apoi ecuatorul și celelalte; în clipa aceea i se păru că D-nul Jora voiește să-i obiecteze ceva; se uită la el cu sfiiciune.</p>
+<p>Domnul Jora de la catedră: la poezii și ode te-ai pricepe mai bine, nu este așa? Am auzit că scrii și la reviste, ai publicat și o carte?</p>
+<p>Iar Dragomir se pierdu în mizeriile unei lumi pline de ironie și nu s-a mai suit în munții din lună; un vârtej furios păru că-1 cuprinse; clasa i se păru că se clatină și vorbele D-lui Jora păreau că mereu pică pe inima-i, precum picură untdelemnul pe un jăratic aprins.</p>
+<p>Și din zi în zi se stabilea o răceală reciprocă între elevi și D-nuI Jora.</p>
+<p>învățau toți de frică, nu de dorul de a se lumina, căci profesorul urât de elevii săi, sta în legătură cu obiectul. Totuși, Dragomir își făcea datoria și nu se îndoise o clipă de inteligența sa. Nu lipsea niciodată din clasă. Intr-o zi se întâmplă să lipsească: clasa păru că se întunecă.</p>
+<p>Colegii lui se întrebau: mă, ce-i cu Dragomir? Aceasta se întâmplase cu o săptămână înăintea sărbătorilor de Paști. La institut nu ședea nicio clipă fără să se ocupe cu ceva. Sâmbătă seara suia în camera de dormitor și scria ore întregi și nimeni altul n-ar fi îndrăznit să-l întrerupă, decât Lucescu, dar și atunci părea că dorește să nu-i pătrundă secretul și începea el întâi șă întrebe pe Lucescu; a venit D-nul Director? Ce fac copiii Lucescule, și câte altele. Trăise atâta vreme cu Lucescu si niciodată nu îndrăznise să-i destăinuiască taina inimii sale. Ceea ce îi spusese lui Lucescu în convorbirile zilnice ce întreținea cu el în ore de recreație, se referea la modul cum a făcut cunoștință cu Popa Neculai, cum a trăit în timp de un an la el, apoi, îi povestia pățaniile ce a suferit în interval de patru ani cu copiii D-Iui Grozăvescu și în fine cum venise la institut.</p>
+<p>Dar peripețiile unor clipe de dragă memorie și le zăvorise în sanctuarul sufletului său.</p>
+<p>Numele Ninei nu-1 pomenise niciodată în institut, ca și cum i-ar fi făcut cel mai mare rău ca să-l pronunțe și altcineva; dar de câte ori imaginea ei strălucea în pervazul minții sale, devenea gânditor și se cufunda într-o melancolie chinuitoare. În asemenea momente Lucescu nu îndrăznea nici să priviască în ochii lui, i se părea schimbat cu totul; îl vedea atunci că scrie, mereu scrie, dar nu știa nici el ce. Într-o zi Dragomir se simți așa de tulburat încât i-a fost cu neputință să meargă în clasă; rămase în dormitor fără să se mai intereseze de elevi, și după plecarea lor, luă un condei și încercă să scrie ca altă dată. Scrise și iar șterse, continuă din nou, i se părea că ziua aceea e o zi fatală, neproductivă și pustie; lăsă condeiul din mână și se așeză în pat; peste câteva clipe adormi cum nu i se întâmplase niciodată să adoarmă peste zi.</p>
+<p>Lucescu sosi, deschise ușa cu băgare de seamă să nu producă zgomot, ca să nu-1 întrerupă din reverie după cum credea el, dar se miră când îl văzu că doarme în pat. Se apropie de masă, unde lăsase Dragomir manuscrisul și cu inima tremurândă citi:</p>
+
+<l> În regiunea cea polară,</l>
+<l> De Nord, aco1o-i a ta țară,</l>
+<l> Ce m-am deprins a o iubi,</l>
+<l> Cu crânguri stepe ce ’nfioară</l>
+<l>        E a ta țară.</l>
+
+<p>Prima strofă se putea citi, iar celelalte, care urmau erau șterse și nedeslușite.</p>
+<p>Lucescu se uită la Dragomir: acesta dormea, iar el răsfoi o altă pagină și citi:</p>
+
+<l> "Speranțele mereu se sting</l>
+<l> De un vânt stârnit de vijelii, </l>
+<l> Ca niște galbene făclii...</l>
+<l> Se sting, le aprind și iar se sting!</l>
+
+<l> Răsun' a jale și-a pustiu</l>
+<l> Al disperării aiurit.</l>
+<l>C’un vuiet lung și nesfârșit</l>
+<l> Tot repetând: târziu! târziu!</l>
+
+<l> Din ochi-mi stropi se scurg mereu</l>
+<l> În al vieții răsărit</l>
+<l> Și-mi sting lumina ce a lucit</l>
+<l> În fundul sufletului meu.”</l>
+
+<p>Dragomir făcu o mișcare fără să deschidă ochii, iar Lucescu emoționat se retrase în vârful degetelor din dormitor; după câteva minute se sculă din pat ca și cum s-ar fi speriat de ceva, se frecă la ochi, i se păru că a dormit prea mult, își văzu manuscrisul pe masă și se cutremură la ideea că Lucescu i-ar fi putut citi în suflet; Închise manuscrisul în bibliotecar și căzu din nou pe gânduri; toată viața sa zbuciumată îi defila prin minte; își aminti de Tudora, de la care primea regulat scrisori, dar căreia îi răspundea arareori; îi reveni în minte imaginea mamei sale și ultimele ei cuvinte:</p>
+<p>«Dragul meu să nu te lași de învățătură»; ziua Sfântutui Petru, distribuirea premiilor, hora din satul lui poetic, Oniță lăutarul, Tolea văcarul, toate acestea parcă le vedea pictate într-un tablou de un maiestru, dar așezat în fundul unei camere întunecoase, deasupra căruia străbătea abia o rază de lumină; apoi i se părea că vede un alt tablou, așezat într-o cameră mai luminoasă, unde se distingea Kir Simonis băcanul ca o căpetenie a vandalilor, care se năpustește asupra întregului său avut; mai la o parte i se părea că vede un templu zidit în onoarea Sf. Spiridon în care distingea glasul Popii Neculai, iar el într-un colț al bisericii făcând mătănii; de aici vedea alte tablouri mai de curând pictate și așezate într-un salon mobilat, unde imaginea Ninei le dădea un farmec minunat și o viață fericită.</p>
+<p>În toate aceste vedenii, Nina reieșea mai clară, mai interesantă și mai reușită de zeul numit „întâmplare”.</p>
+<p>În cei din urmă timpi, părinții Ninei se mutaseră din Str. Olimpului; odată cu mutarea lor însă, Dragomir încetă de a se mai duce pe acolo; îi făceau rău casele de alături goale și pustii. Nu mai ieșia nici în oraș, ci se închidea în camera sa și citea. Toți banii ce-i câștigase din preparații și de la institut îi cheltuise cu o bibliotecă în valoare de 400 lei, pe care o cumpărase de la un tânăr care-și ruinase sănătatea cu femeile pierdute și avea nevoie să-și o repare pe la băi...</p>
+<p>Sărmanul Dragomir, își răzbuna tocmai acum vandalismul ce i-l făcuse odinioară Simonis. Avea un fel de cult pentru cărți; se lăsase cu un singur rând de haine de slăbiciunea cărților.</p>
+<p>Tudorel mai venise de vreo câteva ori să-l cheme, că e invitat de Popa Neculai la masă, însă Dragomir se scuzase, că e ocupat și nu poate părăsi institutul.</p>
+<p>Sosiră și sărbătorile Paștilor. Dragomir spusese lui Lucescu că dacă va mai veni Tudorel al Popei să-i spună că a plecat la țară în comuna sa natală cu ocazia sărbătorilor.</p>
+<p>Intr-adevăr Tudorel venise să-l cheme cu o scrisoare din partea Popei și a întregii familii, dar aflând despre plecarea lui Dragomir se întristase el însuși.</p>
+<p>A treia zi după sărbătorile Paștilor, Dragomir primi prin poștă o altă scrisoare: nerăbdător a deschis-o.</p>
+<p>Se aștepta la dojeni din partea Popei Neculai, dar nu se întâmplase întocmai așa.</p>
+<p>Cuprinsul scrisorii era următorul:</p>
+
+<p>                      «Domnule Dragomir!»</p>
+<p> Află ca am sosit din Viena, însă această dată cu hotărârea de a nu mă mai înapoia. Bazată pe cunoștința D-tale, îndrăznesc a te ruga să binevoiești a lua osteneala până la noi strada P. T. N...unde locuim.</p>
+<p> Familia mea te dorește. Terminând studiile în limba germană , simțind azi necesitate de cunoștințe mai întinse în materia limbii române, m-am gândit la D-ta să-mi predai noțiuni de literatură română.</p>
+<p> Cunoscând aptitudinea D-tale in materia sus menționată doresc să am fericirea a mă socoti printre elevele D-tale asiduitoare.</p>    
+
+<p>                Te salut cu adâncă stimă. „Nina Hillebrand.”</p>
+
+<p>Dragomir citi scrisoarea și iar o reciti, apoi o strânse în palme și o alipi de sân.</p>
+<p>Nina, acel înger blond, acea dulce vedenie, care-l urmărea în tot locul, îl chema să-i predea lecții.</p>
+<p>Inima lui începu să-i bată ca un pendul neregulat; i se păru pentru un moment că-i un vis, dar scoase din nou scrisoarea, se uită la iscălitură și o apăsă asupra buzelor: nu e vis, nu, murmură el, și atunci părea că-i răsună mai clar ca orișicând vorbele ei: „asa-i că nu ne vom uita?”.</p>
+<p>Mă duc, șopti printre buze în extazul bucuriei. Și ce fericit era că de astă dată nu mai avea ocazie să mai dea ochii cu Cornelia, care de câte ori se ducea pe la casa părinților ei în lipsa Ninei îl amețea, că el făcea altă dată vizite mai dese pentru că-i plăcea fata chiriașilor din curte și câte alte banalități, care îi produceau un adevărat dezgust, motiv pentru care hotărî în cele din urmă să nu se mai ducă pe la Popa Neculai. Se găti ca de sărbătoare cu costumul de Paști: cravată nouă, guler nou, redingotă și pantaloni negri. Lucescu se miră de el; nu-1 mai văzuse altă dată așa de bine gătit.</p>
+<p>Ochii lui Dragomir exprimau atâta fericire lăuntrică, încât părea că nu e în stare să o zăvorească în inima-i. Își luă bastonul și pălăria, apoi zise: „la revedere mio caro”. „La revedere, răspunse Lucescu, dar încotro dragă?”.</p>
+<p>„La întoarcere îți voi destăinui, ce n-ai știut pănă acum, însă pănă atunci ai răbdare, carissimo!”. Și ieși din institut așa de vesel precum nu-1 văzuse Lucescu niciodată de când îl cunoscuse.</p>
+</div>
+<div type="chapter" n="6">
+<head>VI.</head>
+<p>Noile case, unde se mutase familia Hillebrand, erau așezate în fundul unei curți vaste, care amintește de curțile boierești de la țară.</p>
+<p>Câțiva plopi înalți, a căror frunză tremură la cea mai mică adiere de vânt, se învecinau cu un dud bătrân, cu mai multe sălcii pletoase și cu vreo câțiva dafini; la mijlocul curții se afla o grădină de formă rotundă, împrejmuită cu răchite tăiate simetric cu foarfecile.</p>
+<p>Curtea cu binalele dintr-însa erau proprietatea unui neamț bătrân, fost maior în armata austriacă și pe vremea aceea rentier.</p>
+<p>Intr-un apartament locuia el cu bătrâna-i îngrijitoare, iar în etajul de jos locuia familia Hillebrand. Două camere cu un mic antreu, un salon și o bucătărie, aceasta era noua instalație a părinților Ninei.</p>
+<p>Salonul era simplu aranjat, însă estetic: un pian de abanos lucitor, păstra splendoarea trecută a posesorilor; iar de asupra lui atârna pe pereți în ramă bronzată portretul Ninei lucrat în desen și admirabil reușit; la mijloc o masă de nuc, deasupra căreia se afla un album de fotografii și un altul îmbrăcat în catifea roz, împodobit cu un leu de argint: albumul de versuri, pe care îl dăduse Dragomir ca semn de admirație pentru măiestria ei la pian. Împrejurul căminului câteva glastre cu flori: un chiparos, o lămâiță, un ficus și o zambilă învoaltă exalau un parfum amețitor în salon.</p>
+<p>Câteva canapele îmbrăcate în alb mătăsos și o lampă metalică cu abajurul roșu mătăsos de forma unui cort, concurau în frumusețe cu tablourile în desen și pictură.</p>
+<p>Prometeu legat de lanțuri în munții caucaz, căruia vulturul îi rodea ficații, cu figura lui chinuită, cu musculatura lui în unele părți contractată, în altele dilatată, cu trăznetele lui Jupiter: acest tablou desenat în mărime naturală reieșea printre altele ca: Beethoven, Verdi, Wagner etc.</p>
+<p>Pe lângă acestea, tablourile părinților Ninei pictate Ia Viena și încă altele vreo patru, reprezentând: o noapte sub poalele Vezuviului, pe Adriatică și în fine un răsărit și un apus de soare, toate acestea făceau impresia unei galerii de tablouri.</p>
+<p>În câteva momente Dragomir ajunse în strada P...T... și intră prin curte cu sfiiciune. Nina exersa la pian. Își aruncă din întâmplare privirile spre poarta din dreptul ferestrei. „Dragomir”, șopti dânsa tresărind și ieși întru întâmpinarea lui.</p>
+<p> — Am primit o scrisoare din partea D-tale, zise Dragomir, salutând respectuos.</p>
+<p> — Da, ți-am scris, și îți mulțumesc de grabnica atențiune, ce mi-ai dat D-le Dragomir, ce bun ești!</p>
+<p> — Aș fi cel mai fericit muritor D-șoară, de aș putea să te servesc cu ceva.</p>
+<p> — O...D-le Dragomir, te știam demult cât ești de bun și nu mă îndoiam nici de astă-dată, de aceea ți-am scris. După cum cunoști D-le Dragomir, din anul trecut am terminat cursul secundar la Viena; conservatorul si școala de croitorie m-au făcut să mai întârzii; cunoștințele mele mi-ar salva situațiunea întru-cât s-ar raporta la viitor, dar aceasta cu privire la țara mea; deoarece însă, ocupațiunea părintelui meu e pentru totdeauna în România, de aceea m-am gândit să fiu inițiată în literatura limbii vorbitoare, în care pot mărturisi fără să mă jenez sunt slabă D-le Dragomir.</p>
+<p> — Vorbești mai clar si mai dulce decât cea mai neaoșă româncă, D-soară.</p>
+<p> — A...D-le Dragomire, poate limba mea maternă nu mă îndoesc, întru-cât privește limba română însă, am nevoie de un profesor.Dispui D-ta de ore libere D-le Dragomir?</p>
+<p> — Negreșit că da.</p>
+<p> — Atunci te rog, în orele de care vei dispune să binevoiești a te ocupa și de viitoarea D-tale elevă Nina Hillebrand, fie chiar de două ori pe săptămână și tot sper să fac un progres.</p>
+<p> — Și chiar în fiecare zi D-șoara, numai să nu ți se urască.</p>
+<p> — A nu, D-le Dragomir, voi fi cea mai zeloasă elevă.</p>
+<p>Dragomir zâmbi fericit. I se părea că se deschide înăintea sa o nouă lume «cu alte ceruri, cu alte stele, cu alți zei».</p>
+<p>Doamna Hillebrand sosi din anticameră. Dragomir se sculă în picioare și respectos îi sărută mâna.</p>
+<p>Discuția ce mai urmă se raporta la viitorul lui Dragomir, la chestia bacalaureatului și altele. Din ziua aceea Dragomir începu a preda lecții de literatură D-soarei Nina Hillebrand în fiecare zi cu o regularitate matematică.</p>
+<p>De aici înainte își încordase puterile și mai mult: se închidea în camera-i de la institut, răsfoia pe masă maieștri în ramura ce avea să predea și după ce devenea stăpân pe materie, pleca să-și facă orele de lecție: vorbea așa de clar și cu așa rară dibăcie de pedagog, încât ar fi crezut cineva că deja ocupă vreo catedră la liceu. Într-o zi vorbi despre frumos. „Frumosul,”,îi zise Dragomir, „este tot ce ne impresionează într-un mod plăcut atât în natură cât și în producțiunile artei neatârnător de interesele omului. Culoarea, forma, sunetul și mișcarea sunt elementele sale: acestea reunite măresc frumosul” etc.</p>
+<p>Nina îl asculta cu luare aminte.</p>
+<p>„De pildă,” urmă Dragomir, „D-ta întrunești toate aceste elemente, culoarea feței Matale rumenă în contrast cu albastrul ochilor, mișcările grațioase, vocea de îngeri, formele perfect proporționale, toate concură la mărirea frumosului”.</p>
+<p>Nina roși, apoi urmă: și D-ta crezi că sunt frumoasă?</p>
+<p> — Nu numai cred — dar și văd.</p>
+<p> — Îți place atât de mult frumusețea D-le Dragomir ?</p>
+<p> — Și mai mult frumusețea însoțită de rare calități.</p>
+<p> — Și găsești vreo calitate în mine, care să-ți placă ?</p>
+<p> — O...de ar fi toate înzestrate cu calitățile Matale, lumea ar fi o societate de îngeri.</p>
+<p>Nina plecă ochii în jos, apoi continuă: nu mi-ai vorbit niciodată ca în ziua de azi; n-am fost deprinsă cu complimente din partea D-tale.</p>
+<p>Dragomir era tulbure: își simțea tâmplele cum îi zvâcnesc. Explicația lui de astă-dată era o curată declarație de amor; nu-și putuse zăvori secretul în inimă; se trădase ca un copil; dar și imaginea Ninei nu-i dăduse pace nicio clipă de când o cunoscuse.</p>
+<p>Dragomir simțea demult că o iubește și se încercase să nu dea nici un fel de importanță acestui sentiment, care îi răzvrătea liniștea gândurilor de până acum, dar încerca o luptă zadarnică.</p>
+<p>Afară o ploae însoțită de bubuituri răcorea pământul ars de secetă; pe cer se succedau fulgere; un fulger violent despică într-o clipă bolta apoi tună groaznic. Sublimul în natură, D-șoară, zise Dragomir; lecția ce urmează vom lua despre sublim.</p>
+<p>Nina devenise palidă; era cât pe aci să dea un țipăt, însă prezența lui Dragomir o îmbărbăta.</p>
+<p>Natura se mai liniștise, norii fură duși de vânt departe în alte regiuni, seninul și calmul se restabiliră pe cer.</p>
+<p>Am spus adevărul, zise el, urmând șirul conversației. Nina iarăși tăcu. Dragomir de astă-dată i se păru cu totul altul, încerca să ghicească sensul cuvintelor lui și nu putea.</p>
+<p> — La ce te gândești atât de mult o întrebă Dragomir?</p>
+<p> — La ce ai spus D-ta adineauri, zise ea.</p>
+<p> — N-am făcut decât am spus adevărul, urmă Dragomir fixând-o cu privirea.</p>
+<p> — Și acest adevăr mi l-ai spus mie pentru întâia oară?</p>
+<p> — Negreșit că da...</p>
+<p> — Ai luat seamă să nu fie vreo iluziune optică, D-le Dragomir?</p>
+<p> - Iluziunile optice, D-șoară, se întâmplă de câte ori obiectul zărit e la o distanță foarte depărtată, pe când nu e același lucru între D-ta și mine.</p>
+<p> — Și totuși mămița îmi zice că sunt urâtă.</p>
+<p> — De mult dragă ce-i ești te poreclește astfel.</p>
+<p>Nina surâse. Ora mesei sosise, iar Dragomir se sculă să plece.</p>
+<p> — Am pregătit să iei cina cu noi zise Nina, dacă-ți va face plăcere...</p>
+<p> — În caz când prezența mea n-ar deranja pe nimeni, mă simt cel mai fericit de câte ori pot întârzia în familia D-lui Hillebrand.</p>
+<p> — Atunci nu te grăbi, ci șezi, zise Nina: până acum mi-ai fost profesorul meu, de acum fii bunul nostru oaspete.</p>
+<p>Dragomir mulțumi printr-un gest din cap, iar Nina se duse să așeze masa.</p>
+<p>Rămas singur în salon, începu să studieze cu patimă portretul Ninei. Ce frumoasă ești! Și ce fericit m-ai face! - șopti el. Dar nu se poate, nu, eu am fost fiul nenorocirii! Nu se poate! Sufletul ei e însăși fericirea de care n-am avut parte niciodată.</p>
+<p>Și rămase mult timp așa, contemplând portretul, pănă ce Nina deschise ușa salonului și-1 pofti la masă.</p>
+<p> - Fără îndoială, zise Nina, că vei exagera cu portretu-mi tot așa cum ai exagerat și cu originalul.</p>
+<p> - E un model perfect, zise Dragomir așezându-se la masă. </p>
+<p>După ce sfârșiră masa, Doamna Hillebrand îsi văzu de treburi.</p>
+<p>Nina și Dragomir mai ieșiră în grădina situată în spatele caselor bătrânului rentier.</p>
+<p>O bancă se afla așezată sub umbra unui dud bătrân, iar pe bolta senină se ivi și luna rotundă ca un glob de foc.</p>
+<p>Dragomir și Nina se așezară tocmai pe banca de sub dud. El privi când în ochii Ninei, când la lună, apoi urmă: sunt clipe de mulțumire în viața noastră D-șoară, cu care răscumpărăm un veac de suferințe.</p>
+<p> — Și ai simțit multe clipe de acestea Domnule Dragomir ?</p>
+<p> — De câte ori am avut fericirea să fiu lângă Dumneata.</p>
+<p> — Găsesti atâta mulțumire în casa noastră?</p>
+<p> — Cum n-aș fi putut-o găsi în casa părintească...mărturisesc că n-aș mai putea să trăiesc mult timp departe de familia D-voastră.</p>
+<p> — Și nu ne vei uita niciodată?</p>
+<p> — O...nu!...</p>
+<p> — Dar de ce lăcrimezi?</p>
+<p>Dragomir se uită împrejurul lui, suspină ușor să nu fie observat de Nina în timp ce o stea căzătoare lăsa pe boltă o dungă de văpaie, apoi zise: „mi-e greu să-ți spun D-șoară! Ce greu e pentru omul singur, singurel!”.</p>
+<p>Nina suspină și ea, plecă ochii în jos și tăcu.</p>
+<p> — Așa-i că am dreptate să lăcrimez?</p>
+<p> — Nu mai lăcrima, îi zise Nina strângându-l de mână.</p>
+<p> — Nu ești singur...crede-mă, nu...</p>
+<p>Dragomir o fixă din nou cu ochii. În acel moment își simți inima cu totul robită și numai fu stâpân pe sine. Nina se afla lângă dânsul și-1 ținea strâns de mână; capul ei plecat, atingea fruntea lui arzândă: în tăcerea amândurora se legăna poate același răspuns, aceeași dorință, aceleași aspirații.</p>
+<p>După o pauză scurtă Dragomir urmă: „îmi place să cred că nu vei uita noaptea aceasta cu farmecul ei sfânt D-șoară”.</p>
+<p> — Impresiunile primite din armonizarea unor dulci sentimente nu se uită niciodată D-le Dragomir, ci rămân adânc gravate în suflet: amintirile lor trăiesc în noi și noi trăim prin ele; ai putea să crezi una ca asta sau te-ai încerca D-ta poate?</p>
+<p>Dragomir rămase o clipă nehotărât; își șterse cu batista sudoarea de pe marginile frontale, voia să-i spună în sfârșit, că un dor nebun îl muncește, că o iubește, că fără dânsa ar fi nenorocit, dar îl cuprindea sfiala aceea copilărească și îi era greu să spună cuvântul dintâiul.</p>
+<p> — D-ta ai fi în stare să ne uiți D-le Dragomir, zise ea văzându-1 că tace.</p>
+<p> — Niciodată, niciodată, aș fi cel mai nenorocit D-soară.</p>
+<p> - Nenorocit?</p>
+<p> - Da, aș fi nenorocit, urmă el, acoperindu-și fața cu mâinile, fiindcă n-aș mai putea trăi fără D-ta!</p>
+<p>Nina roși ca un trandafir înflorit, obrajii ei ardeau ca para focului: cu ochii plecați în jos nu zise decât foarte încet: „știam Dragomire...”</p>
+<p>Dragomir îi cuprinse în mâini frumosu-i cap; o sărută lung pe frunte, în ochi, în gură, apoi zise ca un om în delir: „ce dulce și frumoasă ești!”.</p>
+<p>Nina inconștientă se rezemă de umărul lui se alipi și mai mult de el și îi șopti:</p>
+<p> — Acum mă crezi că nu mai ești singur?...</p>
+<p>Dragomir îi sărută mâna.</p>
+<p> — Și în totdeauna mă vei iubi ca astă seară? N-ai să mă mai uiți, n-ai să mă mai părăsești?</p>
+<p> — Țin la Maica mea, ca un fanatic la Iisus: amintirea ei fie-ți drept garanție că în totdeauna te voi iubi, zise Dragomir.</p>
+<p>- Te cred îi zise Nina, acoperindu-i gura cu părul ce-i unduia pe umeri, dar uiți greutățile ce ai de învins ? Uiți că mai ai trebuință să fii mult timp liber?</p>
+<p>Aceste simple cuvinte ale Ninei, îi aminteau că realitatea era într-adevăr cu totul altfel decât aceste dulci clipe, totuși el încheie scurt:</p>
+<p> - N-avea nicio grijă. Te-ai gândit vreodată să-ți legi viața de pasul vreunei ființe pe pământ?</p>
+<p> - Și dacă m-am gândit, zise ea, ideea aceasta mi s-a părut întotdeauna nerealizabilă.</p>
+<p> — Pentru ce?</p>
+<p>—Pentru că trebuie să ghicești...mai târziu poate...dar pănă atunci e nevoie să suferim...</p>
+<p> — La o mică întârziere te gândești, zise Dragomir, prefăcându-se că înțelege, că de el e vorba: adică, timpul ce-i trebuia pentru absolvirea liceului.</p>
+<p> — Poate și mai mult, zise Nina.</p>
+<p> — Fie un an, urmă el, însă pănă atunci iată ce am hotărât și-n acel moment scoase din buzunarul vestei două verghete de aur: una cu numele ei, alta cu numele lui.</p>
+<p> — Ai proiectat o logodnă?</p>
+<p> — M-ai priceput.</p>
+<p> - Păstrează-le încă la tine, pentru aceasta voi trebui să pregătesc pe mama. În orice caz, frumos te-ai gândit- și întinse brațele pe după gâtul lui.</p>
+<p>„Mămița”, zise Nina tresărind.</p>
+<p>Doamna Hillebrand veni să-și cheme fiica, căci ora era zece, când trebuia să se culce.</p>
+<p>Dragomir se sculă ca dintr-un vis feeric; adresă câteva cuvinte de mulțumire doamnei Hillebrand, apoi sărutându-i mâna, iar pe a Ninei strângând-o călduros, le adresă la plecare un „somn ușor și vise plăcute”.</p>
+<p>În luna dragostelor, când păsările vin de la mare, când luncile și pădurile răsună de concertele lor, în ziua de 1 mai, Nina și Dragomir realizară primnul pas al visului lor. Se logodiră.</p>
+</div>
+<div type="chapter" n="7">
+<head>VII</head>
+<p>Lucescu era obișnuit să vadă pe Dragomir în toate serile, în camera lor de la institut, iar dacă se întâmplase arareori să lipsească, aceasta cel mult până la nouă. Într-o seară îl așteptă ca de obicei să vină, însă ceasul înaintase și Dragomir nu mai venea. Și tot așteptându-l, somnul îl părăsi, dar curios cum era de lucrările lui Dragomir, care se ferise întotdeauna de el, se apucă să caute prin vravurile bibliotecarului: un nou manuscris îi atrase atenția. Î1 luă în mână și se așeză la masa, unde lucra Dragomir. Titlul era scris cu litere gotice: «Lumină și adevăr»; și se apucă să citească; căută repede autorul; două inițiale, D. M., îl denunțară. Apoi începu să citească cu lăcomie însoțită de frică. Citi ca un hoț, care se grăbește să fure ce-i mai bun, dar pe care îl trec nădușelile morții de frică să nu fie prins. Era frumos cea ce citea Lucescu, încât nu slăbi caietul din mână, de la 12 din noapte până la 6 dimineața. Din fericire ziua ce urma era duminică și nu avea nicio grabă să deștepte elevii pentru meditație, prin urmare, îi lăsă să mai doarmă si tot mai citi din «Lumină și adevăr». Se luminase de ziuă, iar Lucescu stinse lampa. Încă două pagini, încă una, în sfârșit a terminat; după aceea deschise din nou bibliotecarul și așeză manuscrisul la loc. Apoi reveni la masă și începu să se gândească la cele ce citise. „Se poate?”- zise Lucescu. Istoria unui amor deși e veșnic veche, totuși în manuscrisul lui Dragomir i se păru nouă; ceea ce-l supăra pe Lucescu, era că numele eroinei din romanul său, era înlocuit cu trei steluțe. Cine să fie persoana aceea? Toată istoria aceasta i se părea ca un basm. În acel moment ușa dormitorului se deschise și Dragomir îi curmă firul gândirii. Era îmbrăcat tot ca-n ziua a treia de paști, cu deosebire că la butoniera hainei purta și un boboc de trandafir. Lucescu îl măsură de la creștet până-n picioare, până ce ochii lui îi alunecară asupra unei verighete de aur; dar n-apucă să-l întrebe de unde vine și ce însemnează această înfățișare galantă, când Dragomir reluă:</p>
+<p> — Nu te mira, mio caro, m-am logodit.</p>
+<p> — Adevărat?</p>
+<p> — Da, răspunse el fericit.</p>
+<p> — Cu cine, amicul meu?</p>
+<p> — Cu D-șoara Nina Hillebrand.</p>
+<p> — Te felicit dragă, te felicit, dar se poate să nu-mi spui pănă acum nimic despre toate acestea?</p>
+<p> — Am ținut în secret, dragă Lucescule, și aș dori să nu mai știe vreun altul, nici chiar colegii noștri...La nuntă, doresc să le fac surpriză, pănă atunci însă sper să-mi faci plăcerea.</p>
+<p> — N-avea nicio grijă, șopti Lucescu, Dumnezeu să-ți ajute frate Dragomire, și l-a îmbrățișat călduros.</p>
+<p> — Dar verigheta, amicul meu, uiți că te poate demasca?</p>
+<p> — Voi avea grijă să nu o port în clasă.</p>
+<p>Și din ziua aceea Lucescu se făcu părtaș al întregii sale vieți.</p>
+<p>Terminară în același an liceul și după ce repurtară victoria amîndoi la bacalaureat, Dragomir alergă într-un suflet să anunțe logodnica-i de reușită.</p>
+<p>Și cum se ducea în fuga mare pe străzile capitalei, cineva îl opri în cale.</p>
+<p> — Dragomire, unde fugi așa?</p>
+<p> — A...părintele Neculai, zise Dragomir, schimbându-și culoarea feței.</p>
+<p> — La Sfinția ta veneam părinte, să-ți anunț izbânda de la bacalaureat.</p>
+<p> — Să trăiești taică- apoi îl sărută pe frunte. Copiii taichii cei cuminți, nu mă îndoiam câtuși de puțin, odată ce Tudorel al meu a reușit, se putea Dragu să rămână mai prejos?!</p>
+<p>Și Dragomir, însoțit de Popa Neculai, din vorbă în vorbă, ajunseră acasă.</p>
+<p>Pe drum, Popa Neculai îl mai certă părintește, că cum se poate el, Dragomir să nu-și aducă aminte un an întreg de casa Popei, să nu mai dea pe la Sfinția sa atâta vreme; iar Dragomir se scuză, zicând că a fost anul preparator de bacalaureat, că avea un motiv destul de serios de n-a putut să vină, iar Popa Neculai l-a iertat, dar cu condiția ca să nu mai facă altă dată așa.</p>
+<p>Popa Neculai pofti pe Dragomir să treacă în camera Corneliei ca să-i mai țină de urât. Fiindcă Cornelia e bolnavă, - zise Popa — de vreo trei-patru săptămâni.</p>
+<p>Tudorel nu mai venise din târg, iar Preoteasa Maria era ocupată cu de-ale mâncării și tocmai de la «cuhnie», care era situată in fundul curții, îi adresă lui Dragomir un : «bine ai venit, bine ai venit!».</p>
+<p>Iar Cornelia, auzind în antreu vocea iui Dragomir, tresări din pat, se schimbă la față și inima începu să-i bată când mai încet, când mai grăbit și n-a putut să nu lăcrimeze, cu toate că s-a încercat să fie „tare”.</p>
+<p>Dragomir bătu la ușă, iar Cornelia lăsând broșura din mână pe care se vedea o scenă din Rocambole, zise: «Intră. A...D-ta ești Dragomire!».</p>
+<p> — Mă iartă că mă găsești în starea aceasta, care nu mai plăcere nu poate să-ți procure.</p>
+<p> — Fii liniștită Cornelio, dacă aș ști că sunt socotit ca un străin, atunci îți mărturisesc, că-mi pare rău de am venit să te jenez cu prezența mea.</p>
+<p> — Și fără să mă jenezi, nu-ți pare de fel rău că ai venit pe la noi?</p>
+<p> — Eu cred, că mă bucur de câte ori vin pe la părinții mei cei buni.</p>
+<p> — Te bucurai poate altădată, însă acum nu cred, zise Cornelia, poftindu-1 să ia loc.</p>
+<p> — Nu te înțeleg Cornelio.</p>
+<p> — Se poate - zise ea cu un surâs prefăcut, care ascundea cea mai fină ironie și de odată schimbă vorba.</p>
+<p> — Știi că Nina s-a mutat de la noi?</p>
+<p> — Nu, zise Dragomir, prefăcăndu-se că se miră.</p>
+<p> — Se poate? A...ai și o verighetă?!</p>
+<p>Dragomir se uită și el la verighetă pe care o uitase în deget și devenind galben ca ceara zise: «E un obicei al elevilor absolvenți de liceu verigheta asta, n-are nicio însemnătate.</p>
+<p> — Îmi dai voie? - zise Cornelia, întinzând mâna să-i scoată verigheta din deget; din fericire însă, nu ieșea.</p>
+<p> — De ce să nu? - și se prefăcu, că dorește și el să o scoată, dar fu în zadar.</p>
+<p>Cornelia suspină greoi, îi veniră noi amețeli, o cuprinseră din nou frigurile și nu mai putu să urmeze șirul conversației.</p>
+<p> — Mă iartă Dragomire, mi-e frig. Apoi începu să tremure și-și ascunse fața sub plapumă. Ar fi țipat și nu putea; ar fi voit să-l oprească de a face pasul acesta și nu se mai pricepea.</p>
+<p>Vedea în curând pe Dragomir soțul Ninei și pe Nina la brațul lui, plimbând-o la șosea — sau ducând-o la teatru sau la vreun concert. De ce s-a temut n-a scăpat și Cornelia îl iubise, dar n-a îndrăznit să i-o spună, fiindcă Nina fusese mai îndrăzneață și mai dibace decât ea, că slavă Domnului, Părintele Neculai îi dădea ei o zestre bunicică și era destul de potrivit dacă Dragomir, care n-avea nicio avere ar fi contractat căsătorie cu dânsa. Dar acum era prea târziu poate; spusese ea Preotesei, că dacă s-ar mărita vreodată, n-ar lua pe altul decât pe Dragomir, și Preoteasa șoptise Popei și Popa Neculai plecase însuși după Dragomir — după destăinuirea Preotesei — să-i vorbească ceva serios, acum când e vorba de viitorul lui și tocmai de aceea Popa Neculai îi zisese să treacă în odaia Corneliei să vorbiască întâi tinerii împreună; apoi să aranjeze ăi bătrâni toate cu rost și cu socoteală.</p>
+<p>Și de aceea, Popa Neculai pofti pe Dragomir să vină in camera sa și începu să-l întrebe din fir până în ață, că ce gând are acum, iar Dragomir dacă-i răspunse, că se va înscrie la litere, Popa Neculai i-a mai zis că s-a gândit vreodată și la căsătorie. Iar Dragomir a roșit la întrebarea Popei Neculai și n-a știut ce să mai zică și a răspuns așa fără să se mai gândească, că mai are vreme pentru asta, dar Popa Neculai i-a atras luarea aminte și s-a mulțumit cu atât, ca Dragomir să nu facă pasul ăsta până ce n-o întreba pe Popa Neculai.</p>
+<p>Apoi s-a întins taina și mai departe și s-a vorbit și despre chiriașii din curte, iar Popa Neculai se miră cum de nu știe Dragomir, că chiriașii nu mai locuiesc aici; se făcea, de asemenea, și Dragomir că se miră de asta...</p>
+<p>Dar când Popa Neculai a început să-i spună lucruri pe care el nu le știa, Dragomir se schimbă cu totul la față.</p>
+<p> — Nu se putea altfel -urmă Popa Neculai-, nu-mi plătise chiria pe un an; bătrânul s-a întors de la Viena. Doctorii nu i-au dat nicio speranță, din cauza unui reumatism neîngrijit, bătrânul a devenit paralitic.</p>
+<p> — Care bătrân, întrebă Dragomir?</p>
+<p> — Domnu' Hillebrand, chiriașul meu.</p>
+<p> — Ce fel Domnul Hillebrand suferea de reumatism?</p>
+<p> — Ce, nu știai?</p>
+<p> — Știam că-i dus în străinătate, ocupat cu niște afaceri, însă cum stau lucrurile nu m-am interesat să aflu.Și acum ce a devenit familia Hillebrand? - întrebă Dragomir, prefăcendu-se, că n-are nicio știre de părinții Ninei.</p>
+<p> — Presupun că se află tot în capitală, dar ceea ce știu, e că bătrânul le-a scris să se mute în provincie.</p>
+<p> — Și ce crezi, a primit familia propunerea D-lui Hillebrand de a părăsi capitala?</p>
+<p> — Bineînțeles că da, deoarece nu mai aveau alte resurse de trai, și apoi e știut, că viața în capitală e scumpă, pe când în provincie o duce omul cum poate.</p>
+<p>Dragomir aflase din gura Popei Neculai multele pe care el nu le știuse și Popa Neculai îi spusese toate aceste fără să bănuiască, că Dragomir era logodnicul fetei D-lui Hillebrand.</p>
+<p>Dragomir nu căutase să intre în intimitățile familiare ale logodnicei sale. Nu își întrebase decât inima și deoarece ea îl îndemnase să-și lege viața de o ființă iubită, nu vru să mai întrebe, nici să asculte de nimeni.</p>
+<p>După vreo două ceasuri de ședere, să sculă să plece. Popa Neculai nu-l opri, dar îl rugă să vină mai des, după ce-1 aviză că e nevoit să cheme un Doctor să vadă ce are Cornelia.</p>
+<p>Când trecu în camera Corneliei să-și ia ziua bună, dânsa dormea, de acea nu o mai supără și Dragomir plecă tulburat ca niciodată, încât, însăși Preoteasa Maria se miră de schimbarea lui.</p>
+</div>
+<div type="chapter" n="8">
+<head>VIII.</head>
+<p> — E, ce impresie a produs logodnicei tale vestea reușitei?</p>
+<p> — De unde dragă Lucescule, nici n-am fost.</p>
+<p> — Cum se poate, că parcă într-acolo plecaseși?!</p>
+<p> — Plecasem într-acolo și pe drum m-am întâlnit cu Părintele Neculai.</p>
+<p> — E și, ce are a face una cu alta?</p>
+<p> — Nu mă pricepi, mă întrebă că unde alerg așa și eu care nu puteam să-i spun adevărul, îi spusei că tocmai la Sfinția sa plecasem să-i aduc vestea reușitei; pe drum mi-a reproșat, că de ce n-am mai fost demult pe la Sfinția sa și câte altele. În sfârșit intru în casă, când colo ce să vezi. Cornelia îmi observă verigheta.</p>
+<p> — Ce imprudență! - zise Lucescu mirat. E, și ce ai făcut?</p>
+<p> — Ce puteam să fac decât să mint, dar ce folos, că a ghicit totul mai bine de cum i-ar fi spus cineva. Părintele Neculai a mers pănă acolo, încât mi-a vorbit despre căsătorie.</p>
+<p> — Și tu ce i-ai zis ?</p>
+<p> — I-am dat să înțeleagă, că nu mă pot hotărî de-acum la așa ceva.</p>
+<p> — Desigur nădăjduește să-ți dea pe fiică-sa, și după mine unu, n-aș fi refuzat o zestre bunicică și o pereche de case frumușele.</p>
+<p>Dragomir privi o clipă pe camaradul său crunt, deveni mai posomorât de cum era și după un moment de tăcere, urmă: «Ești mai tânăr ca mine Lucescule, și permite-mi să-ți fac o mică observație: prima oară te aud vorbind așa, ceea ce-mi dovedește că ești un materialist în puterea cuvântului. Pentru că vorbim de căsătorie, te întreb, cunoști tu însemnătatea acestui cuvânt?».</p>
+<p>Lucescu dete din umeri apoi: «Aș putea să zic ba, pentru că n-am avut niciodată vreun motiv să mă ocup de însemnătatea căsătoriei, dar după mine o repet, prefer pe una bogată de cât pe una mai săracă decât mine».</p>
+<p>Dragomir zâmbi, apoi: «Avem câte o părere contrarie, de aceea îmi place să discutăm: ne căsătorim. Dar pentru ce, naște întrebarea? Mă voi mărgini să-ți explic în marginile cunoștinței mele. Cei mai mulți din care faci și tu parte, ținta căsătoriei lor este a se îmbogăți în mod nedemn, te rog să-mi ierți expresia. Și astfel contractează căsătoria așa-numită de interes.</p>
+<p>O mică parte dintre noi însă, bineînțeles de un temperament deosebit de al celorlalți, privim cu totul altfel căsătoria.</p>
+<p>Ne hotărâm la acest pas, având drept țintă: perpetuarea și îmbunătățirea speciei umane și pe baza aceasta suntem determinați să alegem ce-i mai bun și mai superior, cu privire la gen și la cultură. Lupta vieții este grea și în consecință ne trebuie un tovarăș de luptă, de suferință, și în cele din urmă, de fericire: acest tovarăș însă, e greu de găsit sub orice condiții s-ar găsi lumea. Nepotrivire de cultură, de caracter și de avere, sunt motive, care contribuie la nașterea divorțului. Mai cu seamă, cultura superficială a temei, pedantismul, îndrumarea ei cu atâta ușurința în lume, năzuințele ei paradoxale, luxul, vanitățile și alte calități urâcioase își au origina în educația maternă si de unde rezultatul funest: alcătuirea unei societăți putrede, care n-are nicio temelie, nestatornică si care-i amenințată de o sigură pieire. Femeia e prototipul îngerilor, însă acest înger cobărât pe pământ, are misiunea cea mai grea, de la virtutea căreia depinde fericirea generațiilor ce vor veni».</p>
+<p>Lucescu privind în ochii lui Dragomir, asculta cu luare aminte fără să zică un cuvânt. Dragomir făcu o pauză.</p>
+<p> — Vorbește - zise el -, îmi place ceea ce-mi spui, pentru care nu pot decât să-ți mulțumesc.</p>
+<p> — Da, acestea sunt părerile mele dragul meu, și cred că nu va urma între noi doi vreo supărare, dacă discutăm.</p>
+<p>  — Din contră, mă interesează Dragomire, pe cinste îți spun, că am început să fiu de o părere cu tine.</p>
+<p>  — A nu, fiecare e demn din partea-i să-și urmeze principiilor sale, dacă e convins că, corespund cu adevărul și lumina. Eu unul, astfel gândesc și pot să termin discuția ce am început: după mine, educația, căsnicia, economia și cinstea, ce o pretindem de la femeie stau opus diametral cu averea, pe care o pretindem de la dânsa; una din două: sau femeie înger — sau avere, iar celelalte cerințe -  simple formalități; căci belșugul averii, venit din senin e adesea cauza unei nenorociri perpetue, decât o fericire reală.</p>
+<p>Adolescenta ca și adolescentul din zilele noastre se sprijină pe miile de poli ce-i vor rămâne moștenire de la părinți, iar educația serioasă pentru ei va rămâne o taină: cunoștințele serioase, cari reclamă o muncă onestă, vor fi reduse la simple formalități până la sosirea momentului de „mariage”.</p>
+<p>Iată care au fost motivele mele, mio caro, de am evitat din răsputeri căsătoria din interes. Sunt sigur, că me vei condamna, ca și mulți alții, de ce n-am dat preferință Corneliei, care-i bogată și am preferat pe Nina. Însă ți-am spus, am principiile mele și mă conduc după ele.</p>
+<p>Lucescu se simți atins sub impresia celor din urmă cuvinte așa precum se simțise atins Dragomir la începutul conversației, când Lucescu îi amintise ca un apropo de zestre. «Conversația de astăzi îmi va servi ca o normă după care mă voi conduce în viață», zise Lucescu, căzând pe gânduri. «În sfârșit Lucescule, eu te părăsesc deocamdată», zise Dragomir, sculându-se de pe scaun.</p>
+<p> — Unde vrei să mergi, nu stai să prânzim?</p>
+<p> — Nu, nu mi-e foame, mă duc să văd ce fac ai mei.</p>
+<p>Lucescu îl pricepu ce vrea să zică, de aceea îi întinse mâna călduros si-i zise la revedere. Dragomir se îndreptă în strada P. T. N. Îl apucase un dor nebun de Nina.</p>
+<p>Popa Neculai, nu fără intenție îi arătase niște adevăruri crude, dar tocmai din cauza aceasta Dragomir simțea trebuința de a vedea pe Nina să o întrebe în mod intim, să se apropie tot mai mult de dânsa, să o roage chiar, numai să-i arate situația familiei sale. Să-și deschidă cu un cuvînt cartea inimii înaintea lui și dacă va fi într-adevăr precum spusese Popa Neculai, atunci el însuși să ia asupra-și orice greutate...Și dacă interesele familiei Hillebrand reclamau trebuința de a se muta din capitală se gândea să se asigure de pe acum de un serviciu în provincie și în termen de un an să-și prepare cursurile sale universitare în particular. Astfel se gândea când se îndreptase spre locuința Ninei.</p>
+</div>
+<div type="chapter" n="9">
+<p>IX</p>
+<p> — Liniștește-te Nino maică, lasă, Dumnezeu e mare, să sperăm! Nu mai plânge, zău te rog. De nu-ncetezi, mă duc, mă duc, să nu mă mai văd încotro oi însenina.</p>
+<p> — Nu pot, nu pot mamă, mi-e greu; de azi înainte nu mai avem pe nimeni...</p>
+<p>Domnul Motz e hotărât; îl văzuși ce furios a devenit, când am renunțat și-și văzu toate proectele sale nimicite; în cele din urmă, ieșind din salon îl auziși ce a zis: să ne căutăm casă în scurtă vreme. Oh, cât e de greu mamă, să se vadă cineva într-un mod așa de brusc scăpătat! - și Nina acoperindu-și fața cu amândouă mâinile, începu să plângă în hohote.</p>
+<p> — Te rog pentru cea din urmă oară să încetezi Nino, de unde nu, îți mărturisesc că se întâmplă o nenorocire.</p>
+<p> — Dar ce să fac mamă!</p>
+<p> — Ce să faci, să nu mai plângi: cu prudență și răbdare vom învinge orice greutate.</p>
+<p> — Bătrânul Mötz e hotărât mamă ! Ori primesc să devin soția nepotului său Adolf, ori să ne mutăm în cea mai mare grabă; și unde să ne ducem?</p>
+<p>Oh, de știam inlențiile D-lui Mötz, să-mi fi dat universul întreg și nu ți-aș fi dat voie să te muți aici mamă!</p>
+<p> — Dar nu înțelegi, că nici nu-mi închipuiam să aibă vreun nepot. L-ai văzut tu Nino vreodată mai de aproape? Eu odată mi-aduc aminte să-l fi zărit în treacăt, dar nici că-1 știu cum e la față.</p>
+<p> — Oh, mai bine aș prefera să mă însoțesc cu moartea mea mamă, decât cu Adolf! Ce urât e, parcă ar fi un perciunat de Moldova.</p>
+<p> — Și cu ce se ocupă?</p>
+<p> — Cu ce să se ocupe: când e urât și ploauă, șade prin cafenele, când e senin se plimbă cu muscalii la hipodrom. Noaptea joacă în cărți. Astfel mi l-a descris M-me Cati, bătrâna lor îngrijitoare.</p>
+<p>N-aș schimba pe Dragomir al meu pentru toate comorile din lume.</p>
+<p> — Știu scumpa mea Nină, și nici că te-aș sili vreodată să te însoțești cu vreunul pe care nu-1 poți suferi; Dragomir a fost alesul tău și eu te-am binecuvântat. Bătrânul Mötz, văzând rezistența mea, a scris tatălui tău de la consimțământul căruia își așteaptă realizarea proiectelor sale.</p>
+<p> - A scris tatei? Nenorocitul, mă crede o marfă de vânzare! O mamă, mamă, ce nenorocită sunt!</p>
+<p>Doamna Hillebrand își ținea strânsă la sân fiica, fără să mai poată găsi cuvinte de consolare. Era aproape vremea prânzului; mama și fiica nu se așteptau în acest moment la vizita nimănui. Dar tocmai atunci ușa camerei lor se deschise fără de veste si un bătrân cu bastonul în mână surâse ironic printre gingii lipsite de dinți.</p>
+<p> — A...Domnul Mötz, exclamară amândouă tresărind!</p>
+<p>Domnul Mötz era un om înalt și spătos; obrajii lui falcoși îi atârnau ca niște urechi de elefant; umerii înalți îi dădeau înfățișarea unui cocoșat; rezemat pe baston, la pragul ușii se legănă din picioare și cu ochii lui mărunți și negri urmări pe Nina.</p>
+<p>«E...te-ai mai gândit răutăcioaso? Am scris și D-lui, tatăl d-tale despre frumoasa mea hotărâre. Ți s-a spus dacă nu mă-nșel că Adolf al meu e moștenitorul a 8 milioane. Familia Huber din Londra s-a stins și ultimul coborâtor al acestei familii e Adolf Huber; toate jurnalele au publicat această fericită noutate. Adolf al meu în curând va pleca la Londra să intre în posesia acestei colosale moșteniri; pe lângă aceasta, toată averea și casele mele vă rămân tot vouă, iar părinții d-tale vor avea o pensie anuală de 20 de mii de lei. Adolf mi-a mărturisit cu lacrimi în ochi că te iubește ștrengarițo, și fiindcă îl iubesc atât de mult țin să-i fac completă fericirea. Sper în sfârșit să fii cu minte și să nu mai dai norocului cu piciorul».</p>
+<p>Inima Ninei tremura ca o frunză expusă vijeliei. Cuvintele bălrânului Mötz, îi răsunau sinistru pe lângă urechi, ca sunetul bulgărilor de pământ, care se izbesc de capacul unui coșciug; nu simțise niciodată mizeria vieții ca în acel moment.</p>
+<p>Nina părea că nu găsește niciun cuvânt de obiecție. Un fel de groază îi cuprinse întreaga ființă. Șezând pe scaun ochii ei păreau că urmăresc pe cineva să vină din spre poartă și nu putea să pronunțe nici un singur cuvînt: nu îndrăznea nici să afirme, nici să nege ceva.</p>
+<p>Doamna Hillebrand de asemenea tăcea, iar bătrânul Mötz urmă:</p>
+<p>«Ce? Numai nebunii susțin în ziua de azi că există amor. I-auzi gogomănie, să preferi pe un elev sărac, care nu și-a terminat studiile încă, fiindcă îți ameți capul cu niște versuri nesărate. Sunt în stare să-i zdrobesc creierii, să nu-l mai văd pe aici...El e mai capabil decât Adolf al meu care-i milionar?! Și ce are a face, dacă Adolf al meu n-are bacalaureat...</p>
+<p>Câți licențiați n-am văzut eu lihniți de foame!».</p>
+<p>Bătrânul devenise furios cu atât mai mult, cu cât tăcerea Ninei și-a mamei sale se prelungea mai mult.</p>
+<p> — Băiatul este sărac, însă e destul de înțelept D-le Mötz, și apoi trebuie să știi că-1 iubesc.</p>
+<p>Domnul Mötz tremură de mânie.</p>
+<p> — Cuvintele tale mă fac să cred sau că ești nebună, sau că...de pe acum să te socotesc madama acelui sărăntoc...</p>
+<p>Nina gemu sub pulsul cuvintelor lui sarcastice. Nu era de ajuns că o umilise, dar o și insultase pe față. Câteva clipe rămase mută ca o epileptică, apoi după ce se reculese:</p>
+<p> — Respect bătrînețele d-tale, d-le Mötz, însă nu si poziția d-tale bogată față de o proletară, pe care îndrăznești să o insulți. Sunt chiriașa d-tale și nimic mai mult; voiesc să fiu lăsată în pace, cât timp mai stăm aici; numai părinților mei le datorez supunere, iar cât pentru d-ta, n-am decât...</p> 
+<p>Bătrânul clătină din cap, apoi cu un gest de dispreț:</p>
+<p> — Să-mi eliberați casele în scurt timp. Omul nu se poate înțelege cu voi în niciun chip ; nu voiesc să vă mai țin nici o zi, nu, în locul recunoștinței găsesc disprețul, he!</p>
+<p> — Nicidecum, d-le Mötz, ceea ce ți se cuvenea.</p>
+<p> — N-ai vrut să scapi greaua situație a părinților tăi, nu, fii nenorocită atunci - sfârși bătrânul Mötz, trântind ușa după sine.</p>
+<p>Era așa ceva ca și cum o vijelie ar fi întunecat pământul. Nina și mamă-sa plângeau fiecare în parte și amândouă se sileau să se ascunză.</p>
+<p>Nina în întunericul ce se lărgea înaintea vederilor sale, nu zăria decât o mică rază de speranță: această rază pătrundea în fundul sufletului ei. «Dragomir» -  șoptea atunci. «Unde ești tu Dragomire, o...numai tu n-ai să mă părăsești!». Iubirea lui de care ea era convinsă, o făcea să spere și să creadă că nu e singură, că împreună cu ea, mai e încă o ființă care va lupta și care o va scoate din întuneric. Între acestea, sosi o scrisoare de la D-nul H. prin care le vestea să se mute din capitală.</p>
+<p>Nina dădu scrisoarea mamei sale să nu asiste și la durerea ei. Ochii ei erau înroșiți de atâta plâns; o clipă se gândi la sinucidere; dar dragostea pentru Dragomir cine i-ar fi putut-o ucide?</p>
+<p>«Voi trăi» - șopti printre buze. Apoi: «a...uite și Dragomir!». Vru să alerge, să se ascunda să-și spele fața înlăcrimată, dar era prea târziu, Dragomir era lângă dânsa și o apucase de mijlocel.</p>
+<p> — Ce, tu ai plâns Nino?</p>
+<p> — De dorul tău Dragomire, dar iată n-am să mai plâng...</p>
+<p> — Copilă ce ești, dar se poate? Și Dragomir își strânse la piept logodnica.</p>
+<p>Nina se feri de astă dată să întâlnească privirile lui Dragomir; ochii ei plecați în jos, păreau că fixează un punct și numai unul.</p>
+<p>El îi ținea mâinile strâns într-ale sale si totuși i se părea că-i mâniată pe el de ceva. Venise vesel să-i aducă noutatea reușitei de la bacalaureat, dar fiindcă n-a găsit-o precum spera, noutatea lui se învechise în raznele inimii. Schimbarea Ninei il preocupa și altceva nimic. În acel moment mii de idei îi trecură ca un vârtej prin cap. I se părea că Nina și-a schimbat ideea, că l-a dat deja uitări și câte altele. Numai la scenele dintre ea și D-nul Mötz sau la scrisoarea D-lui Hillebrand nu s-ar fi putut gândi niciodată.</p>
+<p> — Ce ai tu, Nino, dragă?</p>
+<p> — N-am nimic Dragomire - însă răsuna atâta durere în glasul ei! Tu-mi pari a fi mai mâhnit decât mine.</p>
+<p> — Fiindcă te-am văzut mâhnită pe tine, de aceea am devenit și eu așa de posomorât. O, eram așa de vesel înainte de a intra în curte, dar deodată parcă fusei cuprins de o vijelie, așa mi s-a părut când te-am văzut. Spune-mi Nino, întâmplatu-sa ceva în lipsa mea?</p>
+<p>Nina nu se mai putu abține; ochii ei inundară în pârâie. Cu greu se putu uita în ochii lui, apoi: </p>
+<p> — D-nul Mötz, ne dă afară din casă Dragomire, nu mai voiește cu nici un preț să prelungească termenul șederii. Am fi rămas până să vedem hotărârea ce va lua tata, dar nu voiește cu niciun chip.</p>
+<p> — Și pentru aceasta urmează să disperi?</p>
+<p> — Fiindcă n-am pe nimeni Dragomire!</p>
+<p> — După cum observ Nino, tu nu mă mai iubești, zise el cu durere.</p>
+<p> — Ba da, te iubesc, uitasem că tu nu mă vei părăsi, cu toate că Dumnezeu m-a părăsit.</p>
+<p> — Știu scumpă Nină, Popa Neculai mi-a destăinuit totul, de aceea m-am grăbit să viu la tine, să-mi arăți situația cum stați. Acum însă, nu mai e nevoie de alte comentarii. Te-am priceput. Lacrimile tale mi-au vorbit mai mult decât trebuia să știu. Dar nu mai e nevoie să disperi câtuși de puțin. Dacă întâmplarea ți-a luat sprijinul părintelui tău, tot ea ți-a dat un tovaroș de luptă, care-și ia angajament solemn, că nu te va părăsi.</p>
+<p> — Îți mulțumesc, Dragomire.</p>
+<p> — Nu mă mai reține nimic în capitală. Am terminat și cu bacalaureatul; prin urmare, primul an de studiu îl voi prepara în particular.</p>
+<p> — Ce fel, ai reușit?</p>
+<p> — Da...Nino; m-am grăbit pentru ca să-ți aduc și ție vestea.</p>
+<p>Nina, ca și cum s-ar fi deșteptat dintr-un vis amar, îl sărută și parcă toți norii grămădiți pe fruntea ei se împrăștiară în zare.</p>
+<p> — Voi solicita suplinirea pentru ocuparea unei catedre în orașul C. și nu vom avea de ce să ne mai tânguim. În provincie viața e mai ieftină, aide-mi, nu te îngândura, suntem tineri, vom munci.</p>
+<p> — Da, suntem tineri Dragomire, și muncind amândoi putem produce mult...</p>
+<p>Nina se învioră la auzul acestor cuvinte și nu mai plânse. După aceea, începu să-i istorisiască intențiile D-lui Mötz, la auzul cărora el grăbi plecarea din capitală.</p>
+<p>Pentru transportul lucrurilor se găseau în ființă 1000 de lei.</p>
+<p>Deocamdată erau de ajuns și pentru necesitățile celor trei persoane, care în curând trebuiau să părăsească capitala.</p>
+</div>
+<div type="chapter" n="10">
+<p>X</p>
+<p> — O sută patruzeci de la suplinire, o sută de la institut și o sută de la D-nul R...fac trei sute patruzeci de lei pe lună. Nu e așa, dragă Nino, că vom fi fericiți?</p>
+<p> — Da, Dragomire, nici nu mă îndoiesc de aceasta, de aceea eu nu doream nimic pe lume decât să fiu lângă tine; de azi înainte nu vreau să mai știu de nimeni. Privește Dragomire, odăița asta o voi pregăti să-ți servească de cancelarie; aici îți voi așeza bibliotecarul cu toate cărțile tale, o masă și două canapele, una pentru tine și alta pentru mine; precum și glastrele cu flori, care-ți vor produce totdeauna impresii plăcute de câte ori te vei apuca să scrii.</p>
+<p> — Nu uita și portretul tău, Nino.</p>
+<p> — Bine dragă, aici pe peretele din fața ferestrei, voi așeza și covorul cu cadâna aceea care-ți va inspira poezia orientului.</p>
+<p> — Iar portretul tău să-mi inspire poezia nordului.</p>
+<p> — Ba nu, cu aceasta se obligă originalul, încheie Nina zâmbind.</p>
+<p> — Ce dulce ești - zise Dragomir îmbrățișând-o.</p>
+<p> — Lasă-mă. lasă-mă - îl apostrofă Nina, plină de grații, smulgându-se din brațele lui și căutând să aranjeze fiecare obiect la locul său în noile case. Era atât de fericită, încât tărăgăna încet și nedeslușit printre buze o melodie dintr-o romanță, care se potrivea de minune cu momentul plin de farmec...</p>
+
+<l>                       ”Ce dulce, ce dulce.</l>
+<l>                        E sincera iubire...”</l>
+
+<p>Dragomir o observa și se îmbăta de fericirea ei.</p>
+<p>Nina suită pe scaun bătea un cui în perete, pentru ca să atârne covorul și de acolo apoi urmă:</p>
+<p> — Nu este așa Dragomire, că in trei săptămâni cel mult vom putea fi și cununați...ah, atunci să vezi cum te va iubi Nina!</p>
+<p> — Nici vorbă, toată zăbava constă în termenul celor trei publicații, ce se fac la oficiul stării civile. Ce blând și ce frumos s-a purtat D-nul C.,ofițerul stării civile cu mine zilele trecute!</p>
+<p>M-a scutit de o mulțime de cheltueli; un legist destoinic dragă. După cum știi îmi trebuiau acte de decesul părinților, care reclamau o sumă de cheltueli, căci, trebuia să le scot cu martori falși. E bine, bunătatea acestui om n-o voi uita niciodată. În ochii lui cineva lesne poate citi un suflet mare și plin de noblețe. Ce crezi că mi-a făcut acest om? Cu singurul act de naștere ce-1 posedam mi-a formulat toate actele căsătoriei și fără nici o cheltuială. Vom mai aștepta să se facă si cele două publicații și în zece zile, am scăpat și de greutatea asta.</p>
+<p> — Ce liniștită sunt Dragomire, și ce fericită mă simt că în curând ne vom uni în fața legii și a lui Dumnezeu! Și cât aș dori să nu ne știe nimeni cuibul! N-ai văzut camera noastră, vino-ncoa dragă, să vezi ce frumoasă e; iar alături de noi am pregătit și camera părinților.</p>
+<p>Dragomir se sculă de pe scaunul de unde o asculta și amândoi se introduseră în celelalte încăperi.</p>
+<p> — Privește la spatele casei ce grădiniță! Uite și un dud bătrân.  Nu e așa că ție-ți plac mult, duzii? E bine, parcă ai fi poruncit, așa s-au nimerit casele astea.</p>
+<p> — Mă simt încântat dragă Nino, ah, ce fericiți o să fim!  Nu o să mai fie prin aproprierea noastră nici Cornelia să ne mai pună bețe-n roate.</p> 
+<p> — Adevărat Dragomire, eu mă mir cum poți găsi tu întotdeauna termenii potriviți pentru orice idee.</p>
+<p> — Păi nu e așa dragă, putut-am eu să respir în libertate lângă tine, cât timp am trăit în casele părintelui Neculai? De câte ori veneam îmi facea mereu reproșuri, că te plac pe tine, că dacă fac vizite din ce în ce mai rare, este că tu nu mai ești acolo și câte altele, pe care cu oroare mi le amintesc.</p>
+<p> — Acum le vom uita pe toate nu este așa? Și vom trăi pentru altul.</p>
+<p> — Da Nino, ce frumoasă e liniștea de provincie! Nu ne va mai ameți zgomotul capitalei, cu huruitul sutelor de birji, cu acea lume grămădită din câte patru părți a lumii. Privește strada ce liniștită e!</p>
+<p> — Apropo, e ora de clasă, 2 fără un sfert. Mă duc dragă, la revedere, cată să nu răcești și apoi să te îmbolnăvești; să știi camera mea de culcare va fi chiar în localul școlii - Dragomir plecă la scoală.</p>
+<p>Precedentul lui Dragomir, Domnul E., fusese transferat într-un oraș de pe marginea Dunării, din cauza conduitei sale incorecte. Domnul E. arareori intra în clasă și atunci cam pe la sfârșitul orei; elevii erau supraveghiați în lipsa lui de servitorii școlii. Școala n-avea de cât trei clase, căci era întru începutul formării. Cei mai mari prin urmare, erau elevii clasei a III-a, al cărei profesor fusese D-nul E. Elevii în lipsa D-sale stăteau la sfat cu servitorii: cel mai giambaș dintre ei atunci, povestea câte și mai câte năzdrăvenii din mahala ce văzuse si ce auzise, iar Nicolae, servitorul cel mai bătrân, suit pe catedră cu brațele și cu capul întins, asculta și făcea haz ca și loniță, al doilea servitor, dintr-un cap de bancă. Elevii râdeau și ei de se țineau de inimă de snoavele pe care le spunea Sulea geambașul.</p>
+<p>Dar Nicolae tot mai avea grijă din când în când să facă câte vreo observație amicală, bineînteles.</p>
+<p> — Tăceți, nu faceți zgomot porcilor!</p>
+<p> — Huideo!! - se auzea din fund căte vreunul mai „ceapcân”.</p>
+<p> — Taci, fir-ai al dracului să fii, se precipita atunci și Nicolae cu vorbă rea.</p>
+<p> — Ia mai spune Suleo, ia, și pe urmă?</p>
+<p> — E pe urmă...din cârciumă a tulit-o pe strada aia...</p>
+<p> — Domnu', he! Ce vorbești!! Si acum unde o fi?</p>
+<p> — Mă copii, sări Lișteveanu din fund, știu eu mă, să mor de-oi minți: l-am văzut de la geamul unei berării, colo mă, unde-i pus un neamț cu paharul în mână din care-i curg spumele.</p>
+<p> — E și ce făcea acolo?</p>
+<p> — Uite sta pe un scaun el și pe altul un tovarăș de ai D-lui și-i trăgea nene la chifle, carambol mă, nu glumă cu niște din alea în mână.</p>
+<p> — Juca table mă prostule, ce tot spui tu de chifle, nu știu eu ce sunt ălea- replică Ivănescu.</p>
+<p> — E vezi, table, table camilo...</p>
+<p> — Ghici-mici, licurici...- îl apostrofă Ivănescu -, apoi: pe el copii, bâz, bâz...dați mă....una, două, tatarararatrrrrrr...</p>
+<p> — Nu vine Domnu, nici azi, sunați copii, să o ștergem ura...a, huideo Niculae bobârnac, păstărnac pac...încet găsi-v-ar năbădăile, replică Nicolae dându-se jos de pe catedră ca un savant universitar.</p>
+<p>Zgomotul asurzitor din clasă în curând se pierdu prin curtea vastă a școlii până ce nu se mai auzi.</p>
+<p>Aceasta era situația școalii, unde fusese numit Dragomir. Știau chiar elevii motivele pentru care Domnul E. fusese transferat; părinții, prinseseră de veste că, copiii lor nu fac niciun progres, căci D-nul E. mai făcea și politică militantă. El se afla întotdeuna în fruntea alegerilor electorale. „Până când din școala toată o ruină a rămas”.</p>
+<p>Domnul E. venea să explice elevilor subiectul; atunci căta să exceleze, și cu gramatica D-lui Manliu făcută sul în mână intră în cancelarie și începea să citească, căci de când terminase dumnealui studiile d-sale, trecuse vreme și uitase însemnătatea subiectului și ce se numește subiect pur gramatical.</p>
+<p>În declinări D-nul E. se socotea și mai tare. Descoperise o nouă regulă, pe care însuși D-nul Manliu uitase să o menționeze în gramatica sa.</p>
+<p>Regula aceasta, D-nul E. le-o enunța astfel elevilor săi, care-1 ascultau cu luare aminte: „Toate vorbele limbii românești, care se termină în „ă”, sunt substantive. De ex: împreună, e substantiv și se poate declina astfel: eu împreună cu tine, tu împreună cu mine, noi împreună cu voi.”</p>
+<p>D-nuI E. le-o dictase frumos și cu mare paciență, iar elevii o scriseseră și pe caiet curat, cu care regulă se mândreau la examen.</p>
+<p>Acestea erau cunoștiințele elevilor, care se plămădiseră în creierul lor fraged înainte de a face cunoștință cu Dragomir.</p>
+<p>Dragomir intra de prima oară în clasă, unde de astădată domnea o tăcere sfântă.</p>
+<p>Sosirea noului profesor în clasă, inspiră elevilor un fel de frică însoțită de respect. Ochii tuturora erau ațintiți asupra Iui Dragomir. Dragomir își luă scaunul de la catedră și se apropie de ei în fața primei bănci. „Ședeți copii”, le zise el. Apoi urmă : „voi știți datoria ce se impune unui elev: silință la învățătură și purtare bună; cu acestea două, dragi copii, vom merge departe, mult departe ne vom lumina și vom deveni cetățeni vrednici ai țării. Intrase cu atâta dragoste în clasă, încât copii pe care-i vedea pentru prima oară i se păreau niște îngeri; cea mai mare parte dintr-înșii desculți și sărăcăcios înveștmântați, însă cu ochii inteligenți și atenți la el. Îl impresionase atât de mult, încât i se păru că se vede printre rândurile lor, ascultând pe Vintila Udrea cum le explică și le spune numai lucruri frumoase și folositoare. El, care nu părăsise un moment banca școlii, se vedea acum deasupra nevoilor, menit să ducă obolul muncii lui oneste, să lumineze o generație, care mâine-poimâine își va aminti cu drag de el, precum își amintea și el de Vintilă Udrea.</p>
+<p>Prin stăruință și blândețe căuta să împlinească lacunele lăsate de predecesorul său. Cuvântul lui, „dragi copii”, pe care elevii nu-1 mai auziseră, activa într-înșii toate facultățile lor de gândire și simțire.</p>
+<p>Orele de aritmetică, îi aminteau de satiricul Jora a cărui metodă cu groază și-o amintia.</p>
+<p>De-și găsise elevi, care nu se pricepeau să scrie numărul 1007, totuși, printr-un mod pedagogic în câteva săptămâni de zile, elevii scriau cu ușurință și miliardele.</p>
+<p>Cu venirea lui, ei aflaseră multe cunoștințe, despre care nu li se pomenise; în primele luni avusese o luptă și o muncă amețitoare, până să-i îndrume pe adevărata cale.</p>
+<p>Ceea ce găsise nu mai era clasă, ci un staul de viței. Auzise din gura lor năzdrăvenii de care Dragomir nu-și închipuia, că e-n stare un creier omenesc să le născocească. I se spusese că „măgar” este verb.</p>
+<p>Dragomir: „conjugă”.</p>
+<p>Elevul, plin de nădejde că știe conjuga, urmează: „eu măgar, tu măgar, el măgar etc.</p>
+<p>Și totuși un elev, fiul unui tâmplar neamț, e-n stare să observe și zâmbește printre buze.</p>
+<p>Dragomir: „tu știi copile?”.</p>
+<p>Elevul: „este substantiv D-le, și nu se poate conjuga”.</p>
+<p>își poate închipui oricine situația clasei și întunericul ce lăsase D-nul E.</p>
+<p>Dragomir ieșea din clasă poate pentru a suta oară, se îndruma și la celelalte două preparații și după ce sfârșea și cu acestea venea acasă.</p>
+<p>Lăngă Nina simțea un repaus de sărbătoare și o liniște sufletească, care-i recrea puterile.</p>
+<p> — Ai venit dragă? Vezi ce urât ești, abia ai venit și-mi spui că e târziu, ca să pleci mai curând; parcă ți-ar fi urât lăngă mine.</p>
+<p> — Dar tu știi, că e timpu serviciului Nino, care nu suferă întârziere.</p>
+<p> — E da. Nu suferă întârziere, totdeauna așa te-am pomenit.</p>
+<p>Nina, într-adevăr se simțea jignită; orele lui de serviciu pentru dânsa păreau o tortură; ea ar fi dorit, ca Dragomir să nu se miște din casă; ar fi dorit să se ție de urmele pașilor săi; îl iubea în mod exagerat și aceasta este începutul unei nenorociri, ale cărei consecințe sunt ecourile unei vieți pustii și zbuciumate. Socotea pas cu pas clipele cu ceasornicul în mănă și cu ochii la poartă: „La 4 a ieșit din clasă, la 5 de la prima preparație, la 6 de la a două, acum e 7 și un sfert, iată aproape 7 și jumătate și el tot nu mai vine; Doamne, Dragomir nu mă mai iubește, da, o simt. Când vine acasă și e mult până să plece și atât cât șade lângă mine, nu-mi spune nici o vorbă, citește sau gazete, sau reviste; tot timpul și-l consacră pentru treburile sale și pentru mine nu găsește nici un moment. Ce? Dacă n-am simți plăcerea vieții acum în tinerețe, dar mai târziu, nu mai trăim pentru noi, ci pentru o altă generație. Dumnezeule, cât sufăr! A, nu, n-am să-l mai las să facă lecții particulare, nu, mai bine prefer să fiu lipsită de orice decât așa...”. De aceste idei era dominată, când Dragomir, obosit de muncă se arăta în pragul ușii.</p>
+<p> — Bună seara Ninule! Ce fel, nu mă săruți?</p>
+<p>Nina cu ochi plecați în jos rămase indecisă.</p>
+<p>Este 8 Dragomire, și pare-mi-se, că am tot dreptul să fiu mâniată pe tine.</p>
+<p> — Dar nu socotești dragă, la 4 jumătate ieșim din clasă, pănă la institut un sfert de oră și cu una preparația și iar alt sfert de oră pănă la D-nul R. O oră și jumătate preparația a două și distanța de acolo și pănă aci, privește e 7 jumătate. Așa e, că-mi dai dreptate?</p>
+<p> — Da întotdeauna tu ai dreptate și eu niciodată. Ți-o spui să știi, eu nu mai pot suferi asemenea viață, mă înțelegi? Vreau să trăiești pentru mine, nu pentru lume...</p>
+<p> — Nici nu mă gândesc altfel dragă, aide-mi vino și nu mai fi supărată.</p>
+<p>Nina veni, întinse brațele pe umerii lui, îl privi drept în ochi, apoi: „Sunt răutăcioasă, iartă-mă Dragomire. Iubirea mă face să fiu astfel. Ce vrei, sunt geloasă și de umbra ta. Vezi tu, aș voi ca ochii tăi să-mi zâmbească numai mie. Așa e, că tu mă vei iubi numai pe mine și niciodată pe alta?</p>
+<p> — Nino, de ce te gândești astfel? Tu nu știi cât mă doare, când nutrești asemenea gânduri?</p>
+<p> — lartă-mă Dragomire, iartă-mă, am greșit, ce nebună sunt - și Nina se alipi de soțul ei, care o ținea strânsă în brațe ca pe un copil, care se pocăiește de greșeala ce a făcut-o.</p>
+</div>
+<div type="chapter" n="11">
+<head>XI</head>
+
+<p>Benoarele și lojele Teatrului Național sunt pline de lume. Lumina electrică, decorurile scenei, artiștii și artistele, militarii prin stalurile de rangul I, toate aceste prin formă, culoare, și mișcare măresc frumosul și farmecă privirile. Tineri de prin stal se văd din când în când benoclând câte o frumusețe clasică prin loji și nu-și întorc privirile nici o clipă de la ele. Acțiunea se începe în scenă. Se reprezintă primul act din piesa 423. Artiștii în costume variate de ghighel, găsesc destule tipuri ridicole la ordinea zilei spre a le satiriza, printr-o înfățișare identică după chip și asemănare.</p>
+<p> — Bre, da bine mai seamănă cu coconu afurisitu ăla de actor - se aude din galerie glasul inocent al unui biet fecior. După vorba ălui din galerie, încep aplauze frenetice, „bis bis...”. Totuși tineretul pare încântat în seara aceasta mai mult de farmecul altui tineret decât de reușita artiștilor.</p>
+<p> — Ia împrumută-mi și mie binoclul, te rog!</p>
+<p> — Așa că e frumoasă? - șoptește un ofițer de cavalerie vecinului său.</p>
+<p> — Dar cine să fie tânărul care stă lângă ea?</p>
+<p> — Ce, nu-l cunoști? - șopti cel întrebat ofițerului. Dragomir, care s-a însurat de curând cu o frumoasă germană; știe tot orașul aproape despre aceasta.</p>
+<p> — Cu ce se ocupă acest Dragomir?</p>
+<p> — Știu atâta că e student, urmează facultatea de litere.</p>
+<p>Domnii au trebuit să se întoarcă cu fața spre scenă, căci cortina se ridica pentru a două oară.</p>
+<p> — Îți place Nino, așa e, că artiștii sunt la apogeul lor în seara aceasta?</p>
+<p>Nina cu ochii îndreptați spre scenă, părea că nu se îngrijește așa de mult de întrebarea lui Dragomir.</p>
+<p> — Da, joacă bine, șopti dânsa. Asistase de-a rândul la „Burg-Theater” în Viena, la reprezentațiile celebrităților artistice și teatrul nostru i se părea un fel de imitație nereușită. O nouă furtună de aplauze izbucni în toată sala ; de astă dată aplaudă și Dragomir din băierile inimii. Nina asculta cu atenție, însă privea rece.</p>
+<p>Dragomir se uită în partea opusă a lojelor.</p>
+<p>	„A...D-soară R!”, murmură și se înclină salutând. Nina se uită la el, apoi la d-șoara pe care o salutase, tremură ca zguduită de un curent electric, deveni palidă și se ridică puțin de pe scaun, voind să se retragă mai în fundul lojei.</p>
+<p> — Nu ți-e bine dragă? Nina tăcu. Viermele geloziei oarbe își reîncepea misiunea-i distrugătoare. Acum ea le vedea pe toate cu alți ochi. I se părea că D-șoara R. nu numai salută pe Dragomir, dar îi și trimite un izvor de sărutări prin blândul ei surâs. Ce voia să știe Nina, că a saluta o persoană cunoscută e o datorie, cu atât mai mult pe D-șoara R., care se afla cu părinții în loje și pe care o medita.</p>
+<p>Dragomir își mai aruncă privirile prin staluri; doi prieteni îl salutară, cărora a trebuit să le răspundă printr-un gest din cap.</p>
+<p>Nina din fundul lojei observă, că Dragomir iar salută, însă nu-și dădu seama pe cine. Atunci își închipuiește că trebue să fie vreo altă d-șoară, vreo altă cunoștință și această închipuire îi otrăvește sufletul.</p>
+<p>În mintea ei toarce un fir de gândiri bizare. Cu fruntea rezemată pe o mână privește în jos și nu mai spune nimic.</p>
+<p>Mai e un act pănă la sfârșitul spectacolului și i se par veacuri.</p>
+<p>Toate îi sunt nesuferite. Orchestra-i face și mai mare rău. Îi pare rău de ce n-a rămas acasă și să nu mai fi avut ocazia să vadă ce a văzut: „Dragomir să zâmbească alteia?”.</p>
+<p>Își privește în treacăt toaleta în oglinda de la spate și se întristează și mai rău. Ba se înfurie încăt îi vine să-și smulgă camelia de la piept. Ce-i folosesc toate, dacă Dragomir a zâmbit alteia. A...de astă dată furia ei contra lui Dragomir ia proporții însemnate. Totuși nu e-n stare nici să-i vorbească, nici să privească în ochii lui. În inima ei se petrece o luptă înverșunată. Ar vrea să găsească un cuvînt împotriva lui și nu poate. Și-l inchipuiește că e un demon, care o-nșeală, dar se simte dominată de puterea lui.</p>
+<p> — Nino, nu-ți iei locu'? S-a ridicat cortina.</p>
+<p> — Mă doare capu', nu pot să mai ascult nici să mai văd pe nimeni.</p>
+<p> — Atunci să plecăm dragă, dacă ți-e rău.</p>
+<p> — Dacă tu o voiești!</p>
+<p> — Voința ta este și a mea dragă, ce să mai stăm, dacă nu te simți bine.</p>
+<p>Dragomir se ridică, îi servi să se îmbrace, apoi în liniștea cea mai mare ieșiră din lojă.</p>
+<p> — Birjar! - strigă Dragomir..</p> 
+<p>Trăsura se opri, Nina și Dragomir suiră. Peste câteva minute erau acasă. În tot drumul nici o vorbă nu se schimbă intre dânșii.</p>
+<p> — Dar bine, dragă, cum ți-a venit așa deodată rău, că erai bine când am plecat la teatru.</p>
+<p>Nina tăcu.</p>
+<p> — De ce nu-mi vorbești Nino? Oh, de ai ști tu ce rău îmi faci prin asta! Ce n-aș da să nu mai fii așa!</p>
+<p>Nina începu să plângă și cu mâinile își acoperi fața.</p>
+<p> — E poftim, dar pentru Dumnezeu, ce ai? Tu nu vezi, că plânsul tău mă omoară? Dar e grozav să trecem toată viața în plâns. Îți mărturisesc mie unu' mi s-a urât.</p>
+<p> - Da, știu, o simt că ți s-a urât cu mine; înțeleg, că te simți nefericit lângă mine. Vezi, de aceea plâng!</p>
+<p> — Nino, de ce ești copilă, dar bine dragă, eu înțelegeam altfel omenirea.</p>
+<p> — Desigur, azi ești deziluzionat.</p>
+<p> — Nu am vrut să zic așa dragă, dar cred și sper, că educația trebuie să-și imprime binefăcătoarea înrâurire asupra persoanelor culte. Aș vrea să știu, ce înseamnă plânsul tău?</p>
+<p> — Cine a fost d-șoara aceea pe care ai salutat-o?</p>
+<p> — Dumnezeule, ce gânduri, ce gânduri! Dar salutul dragă, e o datorie și nimic mai mult decât o datorie. D-șoara era eleva mea. Vai, se poate tu să crezi despre mine astfel?!</p>
+<p>Nina nu zise nimic, dar nu se opri din plâns. „Cu un cuvânt nu mă crezi”, zise Dragomir în spasmul celei mai crude dureri. Murmură ceva printre buze și trecu în cancelaria sa. Nu blestemase niciodată, dar sufletul său simțea atâta groază încât sub impresia dezacordului conjugal începu a deznădăjdui. Părea că un nor gros amenință seninul orizontului său. Deodată se lăți întunericul de dinaintea sa și atunci o tristețe neînțeleasă îi încinse întreaga ființă. Nu închise ochii toată noaptea. Ar fi dorit să treacă în camera Ninei, să se încredințeze, dacă a încetat de a mai plânge, dar nu, un sentiment vag îl opri pe loc.</p>
+<p>Se luminase de zi. Era o dimineață argintie de vară. În aer plutea un miros sfânt de tei. În grădiniță, ascunsă printre frunzele de dud, doinea poetic o privighetoare. Câte nu spunea ea lui Dragomir în limba ei! Razele soarelui pătrundeau prin ferestre în toate încăperile. Dragomir se gătise să plece, căci se apropiase ora serviciului. Dar nu-l răbdă inima fără să se intereseze cel puțin la plecare ce face Nina, de aceea trecu în vârful degetelor până-n camera Ninei, cu gând să nu o deștepte, dacă va dormi. Dar se înșelă. Nina ședea pe scaun la colțul unei mese și broda un piept pentru ziua onomastică a lui Dragomir.</p>
+<p> — A...tu te-ai sculat deja, credeam că dormi!</p>
+<p> — Nu m-am culcat de fel Dragomire...</p>
+<p> — De ce?</p>
+<p> — De dorul tău, și buzele amândurora se reîntâlniră cu aceeași dragoste nouă întotdeauna după furtuni conjugale.</p>
+<p> — Îmi promiți că n-ai să mă mai întristezi, Ninule!</p>
+<p>Pe cât timp voi fi convinsă că mă iubești, nu te voi supăra niciodată dragă.</p>
+<p> — Să ne iubim cu rațiune, nu cu pasiune, Nino. Numai astfel vom putea progresa.</p>
+<p> — Bine dragă, mă voi sili să devin precum dorești.</p>
+<p> — Îți mulțumesc. Acum te las, însă cu condiția, că vei fi veselă în absența mea. Treci în grădină și mă așteaptă acolo. Ia ascultă ce frumos cântă privighetoarea! Fii tot ca ea de dulce, privighetoare - zise Dragomir plecând la treburi.</p>
+</div>
+<div type="chapter" n="12">
+<head>XII</head>
+
+<p>Ca o ultimă speranță soarele apunea după dealuri verzi. Pe cerul ca de foc roșiatic se desenau tablouri admirabile. Liniștea de pădure era sfântă. Copacii seculari reieșeau pe ici pe colo sumbri și gravi printre tufani. Câteva păsări călătoare veneau a se opri pe crengile lor, dar fără a mai ciripi se lăsau molcom și misterioase. Izvorul doar făcea să se audă un murmur lin...cătându-și de cale printre potecuța singuratică, care se pierdea de vale. Din depărtare abia se auzea clopotul însoțit de mugetul unui taur, pierzându-se cu încetul, pe când în dulcea răcoare a serii, venea să se amestece armonia unei doine cântată din gură.</p>
+
+<l>        „Prin desiș de codru verde</l>
+<l>        Frică mi-i, că mă voi pierde.</l>
+<l>         Vino neică, de-mi arată</l>
+<l>        Drumu satului îndată,</l>
+<l>        Că-s străină neumblată!</l>
+<l>        Foiliță de trifoi</l>
+<l>        Flăcăiaș cu ochi vioi</l>
+<l>        Săruta-i-aș pe amândoi...”</l>
+
+<p> — Voiești să odihnim puțin dragă, ascultă ce frumos cântă; trebuie să fie vreo țărăncuță.</p>
+<p> — Dacă voiești tu, Dragomire, numai să nu înnoptăm; mi-ar fi frică; n-am înnoptat in pădure, de când sunt. Ce crezi, mai avem mult pănă în sat?</p>
+<p> — Să tot fie două ore, mai mult nu cred să fie : eu sunt de părere să odihnim Nino atât noi cât și caii, căci de aici înainte avem povârniș.</p>
+<p> — Atunci să odihnim.</p>
+<p>Bița, ia oprește caii, stăi! Bița strânse hățurile și opri trăsura pe loc; apoi se dete jos, frecă urechile cailor, făcu un văluș dih fân și îl șterse de nădușeală.</p>
+<p>Dragomir și Nina înaintară la braț încotro se auzea cântecul. Fata coborî pe potecuță, terminându-și doina prin versurile:</p>
+
+<l>         «Flăcăiaș cu ochi vioi</l>
+<l>         Săruta-i-aș pe amândoi».</l>
+
+<p>După acea se așeză în genunchi, se aplecă pe luciul apei de izvor și începu să soarbă cu o sete de nedescris: bău, se răcori pe față și iar se sculă în picioare. Dragomir și Nina priveau de pe costiș la cântăreața codrilor, care se credea, că e singură.</p>
+<p> — Ce frumoasă e mititica! - exclamă Nina, examinându-i trăsăturile feței. Ce fericită e Dragomire, oh! Cât aș dori să fiu în locul ei, însă tu să fii pe coastă și să mă admiri!</p>
+<p> — Da, în orice caz e mai fericită decât multe muritoare, în viața cărora se petrece o dramă continuă.</p>
+<p> — Așa e, că viața ei e o poemă idilică? Am s-o chem să stea, sunt curioasă să vorbesc cu ea, să o întreb din ce sat e.</p>
+<p> — Fetiță, fetiță dragă, ia stai puțin!</p>
+<p>Fata iși întoarse privirile; tocmai acum vedea ea că mai era lume în pădure. Stătu pe loc făcând o mișcare de a fi surprinsă pe neașteptate.</p>
+<p>„Boerii, boerii. Doamne, ce o fi cătând prin pădure?”.</p>
+<p>Dragomir și Nina, ținându-se strânși de mână coborau cu băgare de seama coasta, agățându-se când de un tufan, când de altul, și se apropiaseră de fata de lângă izvor. Dragomir ei:</p>
+<p> — Bună vreme, fetită.</p>
+<p> — Mulțumim d-voastră, d-le.</p>
+<p>Nina, ei: — Cum te numești fetiță dragă?</p>
+<p> — Florica lui Petruț Mușatu.</p>
+<p>„Ce drăguță e!” - după aceea urmă:</p>
+<p> — Din ce comuna ești, Florică dragă?</p>
+<p>— Din satul B...coconița.</p>
+<p>„E dintr-un sat cu mine”, șopti Dragomir.</p>
+<p> — Vintilă Udrea, învățătorul comunei, mai trăiește, Florico?</p>
+<p>  —A murit acum un an, cel mai bun învățător era d-le!</p>
+<p>Dragomir simți o lacrimă cum îi alunecă pe obraji. Florica privea la el mirată.</p>
+<p>Nina urmă: — Cunoști pe una Tudora, Florico?</p>
+<p> — Tudora fata răposatului primar, he! Care are un frate în școlile mari din București!</p>
+<p> — Da, aceea Florico!</p>
+<p> — Cum să nu o cunosc, nu e vecină cu mine, nevasta fiului răposatului Vintilă, are și două fetițe de toată măndrețea: pe una o cheamă Margarita și pe cealaltă Lilica.</p>
+<p>Dragomir simți altă lacrimă mai pronunțată, până ce nu mai văzu pământu' cu ochii decât ca prin sită.</p>
+<p>„Ce însemnează asta Dragomire? Tu mă întristezi”, zise Nina.</p>
+<p>Din vorbă în vorbă, înaintaseră o bună distanță. Dragomir se întoarse grăbit la locul unde odihneau caii să spună lui Bița să pornească. Nina si Florica mergeau alături.</p>
+<p> — De ce o fi plângând domnu' dumitale coconiță?</p>
+<p> — Fiindcă se apropie de satul lui pe care nu l-a văzut de zece ani, Florico.</p>
+<p> — Domnu' e din sat cu mine?</p>
+<p> — Da, e fratele Tudorei.</p>
+<p>Florica era să dea un țipăt de bucurie...</p>
+<p> — Domnu' e fratele Tudorei? Mumă, ce măndrețe de om! Mă duc coconită să spui Tudorei că cineva vine.</p>
+<p>Ce înger! Iată niște oameni simpli, care se bucură de bucuria altora.</p>
+<p> — O să mergi cu noi în trăsură Florico.</p>
+<p> — Nu coconiță, eu tai drumu' mai scurt prin livezi. D-voastră o să ocoliți mult pe drumul mare.</p>
+<p>Nina stătu pe loc și privi la Florica cum se pierdu printre copaci, care se răreau din ce în ce; trăsura se aproprie; după aceea, suiră amândoi.</p>
+<p>Dragomir părea abătut. Mintea lui era preocupată cu toate amintirile copilăriei. Aceste locuri le mai văzuse el. Însă când? Acum zece ani...Și în atâta timp câte nu se schimbă! Pădurea prin oare treceau i se părea mai bătrână ca altădată; copacii de aici înainte începeau a se rări; printre ramurile lor razele soarelui abia mai lăsau câte vreo dungă aurie.</p>
+<p>Începură a coborî costișul; întăia clădire, care se zări fu biserica cu turla ei. Apoi după aceea, în rând mai multe locuințe pănă ce se văzu satul întreg.</p>
+<p> — Locul nașterii tale ce măreț e Dragomire! Ce păcat că numai pentru două luni ești hotărât să stăm.</p>
+<p> — Cât timp vor dura vacanțele, m-am gândit, că unde vom putea petrece mai bine decât în satul meu. Eram sigur că o să-ți placă. Dar când ne-o vedea Tudora?!</p>
+<p> — Ce nerăbdătoare sunt Dragomire, oh, cum aș dori să o îmbrățișez! Sărmana fată, cât a trebuit să sufere de dorul tău!</p>
+<p> — Da Nino, tu ai dreptate; eu însumi mă cred nedemn de dragostea ei.</p>
+<p>În acest timp treceau în fața unei cârciumi pe pragul căreia Oniță, vechiul lăutar al satului, cânta de zor chindia unor oameni, care se înveseleau înăuntru. Onița fără să mai cunoască pe cei din trăsură, scoase pălăria din cap și salută cu respect. Niște câini, care dormiau în ogradă, fuga, fuga se înșirară unii de o parte, alții de altă parte a trăsurii și începură a lătra după trăsură, care lăsa în urma ei un nor de praf. În aproprierea primăriei un țigan juca pe fratele Martin, tovarășul lui de existență. Nichita se apucase la luptă cu el pentru 50 de bani dați de privitori, și tocmai atunci șoptea ursului la urechi să se lase de bunăvoie să cadă. Martin într-adevăr căzu, dar bietul Nichita nefiind slăbit din brațe, alunecă deasupra ursului și tot în aceeași clipă și Martin deasupra lui Nichită. Nina vedea primă oară o scenă de felul acesta, de aceea zâmbi fără să se poată stăpâni. Nu mai aveau mult până acasă.</p>
+<p>Satul e situat pe plan: linii drepte și cu răscruci. În curând se vede si o casă mai mare și mai cu vază decât cele de prin prejur.</p>
+<p>În dreptul șoselei un gard de stinghii vopsite și din distanță în distanță câțiva dafini; la mijloc porțile și de aici înainte în prelungirea gardului alți dafini printre care și câte vreo plută.</p>
+<p>Prin porți dai într-o curte tapisată cu un covor de iarbă verde prin care o grupă însemnată de boboci cu labele intinse și cu ciocurile în puf sau alții smulgând firicelele de iarbă apropiate, țin un ison armonic lângă patru mume și un tată. Un mânz și un vițel fac în neștință alergări celebre de la un capăt până la celălalt al curții.</p>
+<p>Mai deoparte, pe lângă gardul din afară un curcan înfoiat în pene și cu moțul lăsat în jos se ține de câra unui cocoș turcesc, care de câte ori sare cu agerime este respins de curcan printr-o pereche de ghiare și printr-o batere din aripi. Cocoșul presimte că adversarul său e mai tare și fuge ca o săgeată, apoi se oprește iar în loc, se uită la adversar, bate din aripi și anunță fuga-i victorioasă printr-un cucurigu! Înaintea porților e mai multă lume: copii, fete, neveste, se uită curioase în partea dincotro vine trăsura. Acei, care vin se uită la lumea grămădită la porțile casei numite. Și dintre toți numai pe Florica sunt în stare să o cunoască. Florica pare nerăbdătoare și de bucurie tremură; strânge pe Tudora de mănă, apoi îi șoptește la urechi: „Ghici, cine vine-n trăsură, ghici!”. Tudora cu mânecile cămășii suflecate, privește cu neastâmpăr. Vede de la distanță un domn în negru și o doamnă în floare, dar nu e-n stare să priceapă cine sunt străinii. Își închipuie că sunt niscaiva rude de a le proprietarului, care vor să întrebe ceva. Nu mai e decât un pas și trăsura se oprește în dreptul acelei lumi grămădite la poarta locuinței.</p>
+<p>Bița oprește caii. Dragomir sare din trăsură. Ajută și Ninei să se dea jos, se uită la femei și nu e-n stare să recunoască pe Tudora din mulțime. Florica însă e nerăbdătoare, o împinge de la spate și-i zice cu glas pronunțat: „Tudoro, nu vezi, că-i Dragomir!”.</p>
+<p>Tudora tresare. Da, odată cu auzul acestui nume imaginea lui Dragomir reiese în persoana noului sosit. Parcă l-a mai văzut cândva. Dragomir avea o aluniță pe partea stângă a feței și noului sosit nu-i lipsește acest semn; dar ochii, această pecete imprimată de natura divină, care e întăiul semn de recunoaștere, ochii lui Dragomir nu i-a uitat ea. Privește în ochii lui căprui, e-ncredințată că numai Dragomir avea asemenea ochi și totuși nu-ndrăznește să se apropie de el. Hainele, înfățișarea lui, îi sunt străine. Femeia, care-1 însoțește și mai străină. Îi plac acești străini, se simte fericită să-i admire o-ntreagă veșnicie, însă nu îndrăznește să creadă cuvintelor Floricăi, că e Dragomir. Dar Dragomir, e mai curajos decât dânsa. O clipă rămâne în fața ei, apoi fără multă ceremonie zice: „Tudoro!”. Acum ea recunoaște și glasul lui Dragomir. Sunt zece ani de când nu l-a auzit, dar și-l amintește ca prin vis.</p>
+<p> — Tu ești, Dragomire?</p>
+<p> — Eu, Tudoro!</p>
+<p>„Muică, Doamne!”, atâta poate să mai zică Tudora și îi întinde brațele amândouă, îl sărută pe frunte, pe ochi, în gură; o sărută și el, o strânge la piept, apoi lacrimile picură ca o ploae caldă din toate părțile. Nina e cea mai atentă și cea mai mișcată în fața acestei scene. Tudora e amețită de o fericire atât de neașteptată. Nu-i rămâne vreme să se intereseze de persoana a doua. Dragomir, cu batista la ochi, arată surorii, care se pregătește cu el strâns la piept să intre în casă.</p>
+<p> — Nina, nevasta mea, Tudoro!</p>
+<p>Tudora se uită în ochii Ninei, ca și cum i-ar cere iertare că n-a observat-o într-un moment atât de grav, întinde brațul celălalt, o cuprinde de talie și intră tustrei în casă. Tudora sărută când pe unul, când pe altul...</p>
+<p>Era un moment rar din viața lor: iubirea unea această trinitate într-o singură persoană.</p>
+<p>In odaie rămân singuri aproape unul de altul, ba mai vin Margarita și Lilica în vârstă între 8 și 9 ani.</p>
+<p>Celelalte femei se opresc în pridvor. Baba Rada exclamă teatral: „Ce mândrețe de oameni, ce mândrețe, să-i trăiască sfîntu!”.</p>
+<p>Iar Florica adaugă: „Ea parcă ar fi o stea și el un luceafăr”.</p>
+<p>„Și ce credeți voi, o să rămâie multă vreme pe lângă Tudora?”, urmează Baba Rada.</p>
+<p>Nimeni nu știe să răspundă. „Dar Vasile al Tudorei unde o fi soro?”.</p>
+<p>„S-o dus la târg, trebuie să vină și el acum”, răspunde Florica.</p>
+<p>Femeile vorbesc când de una, când de alta prin prispa casei, până ce amurgul se lasă peste satul liniștit.</p>
+<p>Florica însă e curioasă și parcă tot ar mai vrea să fie spectatoare la scena aceasta, de aceea privește printre geamuri în odaia luminată de o lampă, care arde pe masă.</p>
+<p>În odaie e tăcere. Nu se aud decât suspine din când în când, nu se văd decât batiste duse la ochi și nu-ndrăznește nimeni să-ntrerupă fericita pace.</p>
+<p>Margarita se vâră în brațele mă-sei; n-a mai văzut-o plângând ca-n seara aceasta și fetei nu-i face bine. Margarita se uită cu ochii sperioși la străini. Dragomir îi întinde mâna, vrea să o ia în brațe.</p>
+<p>„Du-te maică, du-te, - îi zice Tudora -, e unchiu' Dragomir”.</p>
+<p>Margarita nu se mai uită le el sperioasă, aleargă la unchiu' și se așează pe genunchii lui. Pe Lilica, care-i mai blândă din fire, o ia Nina în poale, o sărută și îi udă obrajii micuței cu lacrimi. Lilica întinde mânuță-i și se pricepe să șteargă lacrimile Ninei. Tudora e fericită, Nina și Dragomir nu mai puțin. Tustrei nu se pot sătura cu privirile; ar voi să se întrebe reciproc de câte altele, dar gurile sunt mute; numai ochii vorbesc multele și toți parcă înțeleg aceasta.</p>
+<p>La poartă se aude venind o nouă trăsură cu clopoței la cai. „Tătița, tătița”, strigă fetele, sărind din brațele noilor sosiți. În mijlocul lor apare Vasile deodată. Prezența necunoscuților îl uimește. Tudora îl scoate din încurcătură.</p>
+<p>„Frate-meu Dragomir și cumnată-mea Nina, Vasile!”.</p>
+<p>Se îmbrățișează din nou. Vasile și el se simte cel mai fericit. Îi spusese Tudora, că are un frate la București și acum îl vede și-i dă dreptate. Vasile simte pentru Dragomir un respect profund, pentru Nina nu mai puțin. Sunt oameni învățați își zice el, și se încearcă din răsputeri să servească cu ce-i stă în putință, când pe unul, când pe altul. Vasile e locțiitorul părintelui său la școala comunală. E și el om cu carte, cel mai învățat și cel mai harnic om din sat, dar știe că Dragomir e mai superior în știință și se gândește câte nu va putea afla de la cumnatul Dragomir, care a trăit în capitală. Se repede pe afară și întreabă pe oamenii curții lui, dacă s-a dat îngrijire cailor lui Dragomir.</p>
+<p>I se răspunde afirmativ.</p>
+<p>Aduce singur la masă tot ce e trebuincios și nu mai isprăvește: ouă proaspete de rațe leșești, de câță, de curcă, lapte, smântână, brânzeturi, unt prospăt, etc. Îndeamnă pe Nina să mănânce apoi se scuză, că așa e la țară.</p>
+<p>Vasile ține mult la belșugul casei, dar în seara aceasta se gustă foarte puțin din bucate, căci bucuria unanimă suspendă foamea. Tudora șade la masă între Dragomir și Nina, le strânge mâinile și le sărută când pe ale unuia, când pe ale celuilalt. Masa se sfârșește, dar de vorbit se vorbește foarte puțin. Cumnatu' Vasile doar mai întrerupe tăcerea și din când în când în șoapte Margarita și Lilica.</p>
+<p>„E unchiu' fa, Dragomir și țața Nina”, șoptește Margarita Lilicăi. Dragomir și Nina le ascultau și și nu se mai săturau privindu-le.</p>
+<p>Vasile trece bariera liniștii: „Vreau să vă înveseliți cumnate, în casele unde ați pomenit pe părinți; ce înseamnă atâta plâns? Tudoro, fii tu mai veselă să se înveselească și d-lor”.</p>
+<p>„E plâns de bucurie Vasile, nu ne-am văzut de când eram cât Margarita aproape”. „E uite, acum vă vedeți mari, sănătoși și înțelepți și o să vă vedeți întotdeauna. Nu este așa cumnate?”. „Da, întotdeauna cumnate”.</p>
+<p>După acestea, urmează vremea odihnei. Dragomir și Nina intră în camera lor, acolo unde cu zece ani mai înainte Maria își dăduse sfârșitul...</p>
+<p>Portretele părinților lui, obiectele din casă, toate îsi au efectul unei noi melancolii. Nina se uită când la mama când la tata lui Dragomir și parcă simte bunătatea lor, născând în persoana lui Dragomir.</p>
+</div>
+<div type="chapter" n="13">
+<head>XIII</head>
+
+<p>Oniță, vestitul lăutar, face mare alarmă cu toba lui, atârnată de gât cu un șnur pestriț, în fața casei lui Vasile Udrea. Prin aceasta, Oniță vrea să dea de veste flăcăilor și fetelor, că s-a Început claca pentru curățat de porumbi la D-nu' Vasile Udrea. E spre amurgit de seară, iar flăcăii și fetele vin cu droaia, știind că vor petrece de minune sub farmecul doinelor și sârbelor executate de Oniță cu dipla lui cea din vremea lui moș Pantelimon.</p>
+<p>Baba Rada și Florica, ca cele mai apropiate vecine, sunt cele dintâi care apucă locul de cinste în odaia cea mare, în mijlocul căreia se află mormanul de drugi ca o piramidă egipteană.</p>
+<p>Care cum vine își apucă locul fără multă ceremonie, și se apucă de lucru, frecând prin podul palmei câte doi drugi, care după vreo câteva frecări rămâne glodul alb în mână, iar boabele cad și se îmulțesc într-o cergă. E un tablou rustic, însă fermecător să vezi atâtea mâini în mișcare, cum se îndeamnă și cum Oniță din picioare cu vioara lui înveselește inimile și le-ndeamnă la lucru. Fiecare mai spune câte ceva, dar baba Rada știe să le spună mai cu șic. Florica și Safta lui Bogoe se țin de câra ei să le spună cum se descântă de dragoste; dar în acel moment apar în pragul ușii două persoane străine pentru cea mai mare parte din lumea care a venit la clacă.</p>
+<p>E Dragomir însoțit de Nina, și pe urma lor vine Vasile și cu Tudora. Fiecare din ei se așează pe câte un scaun. Nina, care nu mai avusese ocazii să vadă asemenea tablouri. Se minunează. Această lume simplă, naivă și muncitoare o mulțumește adânc în suflet.</p>
+<p>În momentul intrării lor însă, se face o tăcere în toată odaia. Cu toate acestea, baba Rada își ia curajul să întrerupă tăcerea chiar în fața boierilor. „Moare un țigan”, zice ea.</p>
+<p>Un râs general ici pronunțat, colo înfundat izbucnește, iar baba Rada amplifică serios: „Da copii - când atâta lume se pomenește deodată tăcând -, să știți că vreun țigan își dă duhul”.</p>
+<p> — Trebuie să știi multe d-ta, îi zice Dragomir.</p>
+<p> — Știu și eu ce am auzit de la ăi bătrâni, boierule.</p>
+<p>Florica și cu Safta îi dau zor mereu să le spună cum se descântă de dragoste.</p>
+<p> — Altă dată, altă dată fetelor - le zice baba Rada.</p>
+<p> — Ba o să ne spui acușica.</p>
+<p> — Acușica nu, că mă aud boierii.</p>
+<p> — Spune-le, babo Rado, o roagă Vasile din fund, uite și boierii au plăcere să te aculte.</p>
+<p> — Așa e boerilor?</p>
+<p> — Da, da, babă Rado, ne face mare plăcere să te-ascultăm.</p>
+<p> — E, vezi - șoptește Florica -, aide începe.</p>
+<p> — De dragoste o să vă spun altă dată, când om fi numai noi singure, cât pentru astă seară o să vă spun alte cele.</p>
+<p> — Spune-ne atunci cum se descântă de deochi - zice Florica.</p>
+<p> — Apoi despre asta mă învoiesc - și baba Rada începe -:</p>
+<p>Când niște ochi răi și vrășmași se uită în ochii omului cu inima bună, acel om amețește și-l apucă niște dureri de cap, încât se întâmplă de multe ori să moară. Atunci când mă cheamă cineva să-i descânt, ca să-l lecuiesc de acest rău, eu zic așa:</p>
+<l>                    „Păsărică pistricioară,</l>
+<l>                    Saltă ici, saltă colea,</l>
+<l>                    Saltă-n chiatră nestimată</l>
+<l>                    Ca o moroaică, ca o strigoaică;</l>
+<l>                    Vin' de ia durerea mea;</l>
+<l>                    Fie ea de la cumnată</l>
+<l>                    De la mumă, de la tată</l>
+<l>                    Ia-o din dâra obrazului</l>
+<l>                    Și din sfârcul nasului</l>
+<l>                    Du-o-n zarea Soarelui”.</l>
+
+<p>După ce zic vorbele acestea,trebuie să sufle omul deocheat de trei ori și e vindecat.</p>
+<p>Dragomir cu creionul în mână și cu o agendă pe genunchi, scrie. „Ce scrii tu acolo Dragomire?”, îl întreabă Nina.</p>
+<p>„Iau notițe dragă” - șoptește el. Mă interesează aceste noutăți. Când ne vom duce la București îmi voi formula o serie de articole la revista mea sub titlul „Descântece și Datine”.</p>
+<p>„De mai spune-ne ceva, babă Rado!”, strigară mai multe fete. Baba Rada e glumeață și vorbăreață și n-așteaptă să fie din nou rugată. „Bine muică, ascultați acum cum se descântă de „cuțitu’ la inimă”:</p>
+
+<l>                   „Tu cuțite ascuțite!</l>
+<l>                   Eu de când te-am cumpărat,</l>
+<l>                   Nici o slujbă nu ți-am dat,</l> 
+<l>                   Dar acum să-ți dau și ție</l> 
+<l>                   Slujbuliță grăsulie:</l>
+<l>                   S'umbli țara în cruciș,</l>
+<l>                   În cruciș și-n curmeziș</l>
+<l>                   Vindecare să-mi găsești.</l> 
+<l>                   Dacă oamenii cei răi,</l>
+<l>                   Mi l-au pus în piept cu trei,</l> 
+<l>                   Eu l’i-l pun de patru ori</l>
+<l>                   Să le meargă cu fiori;</l>
+<l>                   De l-au pus pe nesărate,</l>
+<l>                   Eu l’il pun pe ardeiate</l>
+<l>                   Și cu popi pe tămâiate.</l>
+<l>                   Dac’o fi din ale sfinte</l>
+<l>                   Să-și aducă rog aminte,</l>
+<l>                   Să strebată veacurile,</l>
+<l>                   Să-mi aducă leacurile”.</l>
+
+<p>De nouă ori se descântă cu aceste vorbe, atingând inima omului cu vârful cuțitului și după aceea se înfinge cuțitu’ în pământ.</p>
+<p>Dragomir încântat de aceste noutăți pe care nu le-a citit în nicio carte și despre care crede că e de cuviință să le vulgarizeze prin condeiul său, de aceea scrie cu pasiune. Iar Nina și Tudora ascultă si ele cu luare aminte.</p>
+<p>Baba Rada înțelege importanța destăinuirilor sale, de aceea urmează: „Ascultați acum muică, cum se descântă de „dalac”.</p>
+
+<p>„Măncătură de furnică, măncătură de hidră, măncătură de pește, de gaiță, de coțofană, de turturică, și toate păserile din lume, de 99 de mâncăruri, cum se potolesc porcii în cocină, oile în târle, vacile în sat, nu înnod ața, ci înnod junghiurile și durerile din toate închieturile”.</p>
+
+<p>Se descântă așa de nouă ori și se leagă buba.</p>
+<p>„De soare sec”, e mai pe scurt: o femeie trebuie să calce pe urma vacii și trebuie să zică: </p>
+<p>„Lele, eu credeam că soare sec e-n cap și el a fost în lac!“.</p>
+<p>După aceea aruncă peste umeri trei boabe de grâu.</p>
+<p>Baba Rada le spune frumos, Încât, pe lângă Dragomir, pe care-l interesează acestae și ceilalți ascultă si se minunează de câte mai știe dânsa.</p>
+<p>Mormanul de drugi dispare în câteva ore. Se lucrează cu tragere de inimă sub farmecul snoavelor pe care le spune baba Rada.</p>
+<p>Nu mai rămâne niciun drug și glodurile albe le cară cu coșurile doi flăcăi, după aceea ies unul câte unul din odaie. Baba Rada tace, iar Oniță cheamă lumea în curte prin încântătoarele-i melodii ce se nasc din vioara sa. Într-o clipă toți sunt prinși în horă.</p>
+<p>Luna de sus varsă blondele-i raze pe capetele atâtor dragi copii, iar Dragomir și Nina par transportați în lumea basmelor.</p>
+<p>Lumea se potolește în satul adormit și de aici înainte reintră totul în pace și împrejurul locuinței lui Vasile Udrea. Nina, Tudora și cu copiii mai stau la sfat într-o cameră, pe când Vasile și cu Dragomir în camera alăturată singuri par misterioși. Vasile lui Dragomir:</p>
+<p> — Cumnate, ai o scrisoare personală, sosită cu poșta de azi la primărie și am crezut de cuviință să ți-o dau între patru ochi.</p>
+<p> — O scrisoare? Și Dragomir, căutând adresa și marca, exclamă nedumerit: „A...de la București!”. O deschide, în vreme ce Vasile iese pe afară, fără să fie simțit de Dragomir, și iată ce citește:</p>
+
+<p>                   „Stimate Domn,”</p>
+<p>       „E mult de atunci, desigur azi m-ai uitat. M-am încercat și eu să te dau uitării și am căutat mijloace diferite pentru aceasta, însă n-am putut...Te-am iubit, fără să mă iubești. O știu. Am fost o ființă nenorocită și dacă mai trăiesc, este că doresc să te mai văd și apoi...și apoi să rup lanțul suferințelor mele. Amorul meu, îndeosebi azi, când știu că o dulce soție îți procură toate fericirile și că iubirea intre d-ta și dânsa e sinceră și reciprocă, bineînțeles e nelegiuit, din care cauză nu îndrăznesc a-ți pronunța nici numele și nici că mă pot iscăli. Nu mă îndoesc, că vei ghici cine sunt. O...da, sunt o nenorocită!</p>
+<p>Te-am iubit și nu pot altfel, decât să-mi curm zilele pentru totdeauna. Adio!!“</p>
+
+<p>Dragomir scăpă scrisoarea din mână, tremură ca un paralitic, apoi: „Cornelia, Cornelia, este cea care-mi scrie, oh! Ce grozav e destinul omenirii.</p>
+<p>Eu să devin cauza nenorocirei unei familii, căreia îi datorez recunoștință. A... dar asta e mai grozavă tortură, decât toate chinurile din iad!”. Și bietul acoperindu-și fața cu amândouă mâinile, părea că voiește să-și înnăbușe hohotul plânsului dureros. Era și momentul, căci Nina se pregătea să intre la el și ar fi putut bănui ceea ce voia el să rămână mister pentru dânsa. De aceea se repezi, luă scrisoarea de jos, o făcu în mii de bucățele, le asvârli pe fereastra din grădiniță și se încercă din răsputeri să-și ia o înfățișare liniștită în fața Ninei.</p>
+</div>
+<div type="chapter" n="14">
+<head>XIV</head>
+
+<p>Căldura din luna lui iulie devine din ce în ce mai simțitoare. În sat nu se zărește țipenie de om, afară de vreo tânără femeie, care se vede cu postava în cap, grăbind spre holde, unde muncitorii așteaptă merinde. Vasile Udrea e cu oamenii la prășit de porumb. N-a plouat demult și bulgării de pământ se pulverizează sub sapa muncitorilor. Ogoarele nu sunt departe de locuință, în spatele grădinii, unde se află și stupăria. Nina și Dragomir se află deja de un ceas pe lângă stupărie. Stupii sunt așezați din distanță în distanță și ridicați de la pământ cu vreo jumătate de metru. Împrejurul lor flori și arbuști. Albinele zbărnâie ca niște lautari în ajunul nunții. Zece intră în stup și alte zece ies afară, se pierd prin văzduh, apoi cad obosite pe vreun boboc de floare. Dragomir atrage atenția Ninei. „Privește Nino, ce gingaș se sărută albinuța cu acel boboc de trandafir! Într-adevăr ar fi crezut cineva că se țin îmbrățișați”. Partea posterioară doar a albinuței se zărește mișcându-se din când în când. Capul și toracele sunt cufundate în sânul trandafirului. Împrejurul acestui popor de albine domnește o curățenie și o adevărată sfințenie. Vasile Udrea posedă o sută de stupi, care îi aduc un venit de o mie de lei pe an. Nina și Dragomir așezați pe o bancă admiră silința lucrătoarelor.</p>
+<p> — Ce repede trec zilele Dragomire, șase săptămâni de când trăim departe de zgomotul orașelor și parcă n-au fost nici șase zile. Oh, cât aș dori să mai rămânem aici! Nu e așa că și tu ești mulțumit cu viața câmpenească?</p>
+<p> — Bineînțeles, Nino.</p>
+<p>Dragomir cu fruntea rezemată pe mână, părea absorbit de alte gânduri.</p>
+<p> — Aș vrea să-ți ghicesc gândurile, Dragomire.</p>
+<p> — Ah, nu e nimic Nino, mă gândeam la...câte zile mai avem să mai stăm aici, pentru că știi se apropie vremea examenului...</p>
+<p> — Nu e adevărat, tu te gândeai la altceva, da. Tristețea ta îmi dovedește aceasta.</p>
+<p> — Ce fel, eu sunt trist?</p>
+<p> — Da, ești trist, așa precum nu te-am văzut niciodată.</p>
+<p> — Se poate dragă, și totuși n-am de ce să fiu trist, pe câtă vreme tu ești lângă mine.</p>
+<p>Dragomir tăcu și părea că se consultă cu sine însuși cum ar fi îndrăznit să spună Ninei ceea ce se petrecea în sufletul său. Scrisoarea Corneliei îi întuneca orizontul, îi dezichilibra armonia conjugală și dacă s-ar fi întâmplat așa precum îi scria Cornelia, atunci era amar de dureros pentru morala conștiinței sale. Pe lângă aceasta, niște vise urâte care se succedase în câteva nopți în somnul său, îl nelinișteau și-1 făceau să presimtă apropierea unei catastrofe. Cuvintele din urmă din scrisoarea Corneliei: „Te-am iubit și nu pot altfel”, parcă le auzea rostindu-le ea cu hotărâre și el, care s-a ferit întotdeauna de dânsa, care a tratat-o cu indiferență și care crezuse, că ea nici că se va mai gândi la el, iată-1 factorul unei nenorociri, iată-l într-o situație grea de la care nu se pricepea cum să scape. Ar fi voit să fugă mai mult ca orișicând din apropierea Corneliei și tocmai acum îl silia interesul se se așeze din nou în capitală, unde putea fi martorul vreunei drame.</p>
+<p> Și Nina nu știa nimic din toate acestea.</p>
+<p> — Așadar, nu vrei să-mi spui de ce ești trist.</p>
+<p> — Impresia unui vis urât Nino, crede-mă zău, nu e nimic altceva.</p>
+<p> — Un vis? Ești bun să-mi spui și mie ce-ai visat ?</p>
+<p> — Închipuește-ți dragă, la ce nu m-aș fi putut gândi niciodată: Visam pe Cornelia că a murit și noi amândoi o conduceam la veșnica-i locuință. Nina tresări.</p>
+<p> — A...cu un cuvânt tu te gândești încă la Cornelia! Și Nina porni într-un plâns ca și cum în visul lui Dragomir ar fi întrezărit restul întregii realități, care i se ascundea.</p>
+<p> — Nino, dar ce înseamnă toate acestea, dragă? Vezi ce rău fac, de-ți destăinuiesc niște nimicuri? Un vis, nu e decât iarași vis! Ce, deduci din aceasta vreo incorectitudine din partea mea?</p>
+<p> — Da, de nu te-ai fi gândit la dânsa, n-ai fi putut-o visa, zise ea cu tonul înnecat în lacrimi.</p>
+<p>Dragomir se apropie binevoitor de ea apoi. „Înțelege-mă, aide Nino, n-aș voi să-mi remână vreo impresie neplăcută în timpul șederii noastre la țară. Iată, de când suntem aici, nu ne-am certat, nici o singură dată, cum ni se întâmplase la oraș, aide-mi Nino, mâine cu voia lui Dumnezeu trebue să plecăm. Tu știi că avem de regulat multe în orașul C. și în scurtă vreme trebuie să ne așezăm în București”. Nina parcă se mai liniștise, însă în mintea ei repeta mereu: „Dacă va fi iubind și pe Cornelia, dacă...</p>
+</div>
+<div type="chapter" n="15">
+<head>XV</head>
+
+<p>Într-o odăiță, al cărei mobilier se compunea dintr-un pat de fier, dintr-o mescioară deasupra căreia se afla atârnată de perete o oglindă de cleștar, din două scaune si dintr-o bibliotecă cu cărți, ședeau doi tineri și vorbeau mai mult în șoapte.</p>
+<p>Afară o ploaie deasă însoțită de un vânt turbat pliscuia pe geamuri stropi, care turuiau printre giurgiuvele.</p>
+<p> — Parcă ar fi sfârșitul pământului. Oh, ce urât îmi e! - șopti tânăra femeie convorbitorului ei.</p>
+<p> — Curaj Nino dragă! Când eram mic, am luptat singur, singurel cu atâtea nevoi, încât de le-aș pune pe hârtie mă prind că din viața mea aș alcătui un roman didactic, care să servească de pildă atâtor proletari nobili cu sufletul! Ne-am propus să luptăm alături și am speranța precum am avut-o întotdeauna, să ieșim la liman.</p>
+<p> — Așa e Dragomire, tu ai dreptate, dar vezi, noi femeile suntem mai slabe în totdeauna în fața situațiilor grele.</p>
+<p> — Și care sunt acele situații grele ce te pot speria?</p>
+<p> — Mă gândesc la multe Dragomire, la sărmana mamă ce va fi făcând. Scrisoarea-i prin care ne vestește că după plecarea noastră a căzut la pat mă-ngândurează. Mă mai gândesc la noi ce vom face...și la câte altele...</p>
+<p> — E...la noi, la noi nu te gândi tu, asta e grija mea, da, nu te privește pe tine.</p>
+<p> Și Dragomir nu mai găsi cuvânt de încurajare, prin care să o liniștească. Cu ochii plecați în pământ, își pipăi fruntea și printre buze murmură:</p>
+<p> — Da, mamă-ta se înțelege, e singură...</p>
+<p>Nina se uită galeș în ochii lui, apoi:</p>
+<p> — Dragomire tu vei fi ghicit tristețea mea. De când am venit în capitală, nu e nici o lună de atunci și mi se par veacuri. Nu-mi priește nici mâncarea, nu pot nici dormi, visez în totdeauna numai rău. Tu ești bun. Nu este așa? Și-mi vei acorda cererea ce ți-o voi face!</p>
+<p>Dragomir părea că-nțelege de mai înainte sensul cuvintelor ei. Se sculă de pe scaun și uitându-se în ochii ei, urmă:</p>
+<p> — Spune-mi ce dorești, Nino!</p>
+<p> — Să mă lași să plec la mama Dragomire. Remușcarea, că am părăsit-o mă muncește în fiecare minut. Datoria mea de copil față de mama mă obligă să văd de dânsa.</p>
+<p>Un fior rece străbătu prin toate oasele lui Dragomir:</p>
+<p> — Dorești să pleci, ha...dar uiți tu așa de lesne că ai devenit soția mea și că de aici înainte aparții cu trup și suflet soțului tău? Uiți că azi ai datorii imediate față de mine și pe urmă de mamă-ta.</p>
+<p> — O...nu vorbi asa, ai milă!</p>
+<p> — N-aș fi vorbit niciodată astfel, dar fiindcă mi-ai dat ocazie pot să adaug: că soția, care dorește să-și părăsească soțul în primele luni ale căsătoriei, iubirea ei e moartă.</p>
+<p> — Dragomire, ai milă, vorbele tale mă omoară, dorești tu să mor?</p>
+<p> — A...nu, nu doresc să mori, căci aș muri și eu, dar dacă aproprierea mea îți poate cauza moartea, atunci du-te!</p>
+<p> — Mă respingi, Dumnezeule! - strigă Nina în criza disperării sale. </p>
+<p>„Îl iubesc cum nu și-a iubit soție soțul în lume, dar ce să fac între două datorii?”.</p>
+<p>Apoi apropiindu-se de Dragomir:</p>
+<p> — Nu plec Dragomire, nu, mai îndată aș muri decât să știu ca ți-am făcut vreun rău. Iartă-mă - și se apropie de el rugătoare.</p>
+<p>Dragomir reflectă un moment. O luptă înverșunată între două sentimente opuse se încinse în inima lui: lupta între datorie și iubire.</p>
+<p>Să plece Nina, unde? La mamă-sa era bineînțeles o datorie; dar să-l părăsească pe el? E-n stare Nina să se decidă la aceasta? „O, desigur m-am înșelat... - murmură. Ea nu mă iubește, căci dacă m-ar iubi n-ar fi în stare un minut să stea departe de mine...Ce mai vrei alta Nino, ți-am dat voie poți să mergi. Trebue să-ți faci datoria și mai cu seamă în cazuri de boală”. Aceste din urmă vorbe i le spusese cu atâta indiferență încât Nina simți o groază în toată ființa ei; vru să mai zică ceva, însă cuvântul ei amuți în gură, se clătină pe loc, și într-o clipă nu se auzi decât un țipăt subit, și Nina căzu întinsă de-a lungul camerei.</p>
+<p>Dragomir se precipită la capul ei. Groaza, că poate a pierdut-o pentru totdeauna îl făcu să tremure. Întinse brațele după mijlocul ei, o așeză în pat și plângând ca un copil vinovat de greșala ce a făcut începu să-și ceară iertare la căpătâiul ei: „Iartă-mă Nino, iartă-mă! Ah, ce nenorocit sunt Dumnezeule!”. Îi frecă tâmplele cu oțet, apoi pulsul până ce trecu momentul crizei, iar Nina putu să deschidă ochii. Dragomir privind în ochii ei plângea, iar Nina îi ceru printr-un gest să vină mai aproape de el, apoi urmă:</p>
+<p> — Tot mă mai iubești? Indiferența ta mi-a făcut atâta rău!</p>
+<p> — Da, zise el, te-am iubit și te voi iubi întotdeauna.</p>
+<p> — Atunci nu mai plânge, adaugă dânsa.</p>
+<p>În cameră se făcu tăcere, iar pe afară ploaia încetase.</p>
+<p>În acest moment cineva bătu la ușa camerei lor. „Cine să fie”, șopti Dragomir indecis să deschidă sau nu. „Deschide - zise Nina -, eu mă voi preface că dorm, scuză-mă că-s bolnavă”.</p>
+<p>Dragomir se îndreptă spre ușă, o deschise, iar în prag se arătă fostul său coleg de liceu.</p>
+<p> — A, tu ești Lucescule? - și cei doi colegi s-au sărutat în urma unei întrevederi după un an de zile si mai bine.</p>
+<p> — Dragomire, a...scumpul meu amic, de când nu te-am văzut! Închipuește-ți dragă, cât mi-a trebuit până să te găsesc unde locuești. A, pardon, e bolnav cineva! - zise Lucescu mirat, privind spre pat.</p>
+<p> — E nevasta mea bolnavă Lucescule, dar nu e nimic, sper să se facă bine.</p>
+<p> — O...mă iartă amice, ce imprudență am făcut, de am venit, când nu te așteptai la vizita nimănui - adaugă Lucescu în șoapte.</p>
+<p> — Ne-ai făcut cea mai mare plăcere Lucescule. De câte ori n-am vorbit cu nevastă-mea despre tine?! Doream chiar eu să ies prin oraș să te înâlnesc, căci afară de tine mai intim crede-mă că n-am.</p> 
+<p> — Îți mulțumesc Dragomire, de prietenia ce mi-ai păstrat. Nu mă îndoiam cătuși de puțin, că m-ai fi putut uita.</p>
+<p> — Ce vești ne mai aduci de prin oraș Lucescule? Cu boala Ninei, n-am ieșit, sunt trei zile aproape.</p>
+<p> — Apropo, ai aflat Dragomire, de noutatea din strada Olimpului?</p>
+<p>Dragomir deveni palid: un fior rece îi furnică prin oase.</p>
+<p> — Nu știu nimic, zise înălțând din umeri.</p>
+<p> —Aș...jurnalele se ocupă de afacerea aceasta de aproape o săptămână, uite dragă, citește și vezi.</p>
+<p>Lucescu scoase din buzunar mai multe ziare. Dragomir smulse jurnalul din mâna lui Lucescu, îi făcu semn cu mâna să fie discret cu destăinuirile față de Nina și citi în tăcere și cu inima palpitând: «D-șoara Cornelia, fiica venerabilului preot Neculai, s-a sinucis, luând o doză însemnată de acid azotic diluat, procurându-și de la diferite farmacii otrava numită în cantități mici, ceea ce n-a dat de bănuit farmaciștilor. Din scrisoarea ce a lăsat sinucisa, rezultă că un amor vechi, a împins-o la acest act disperat. Spre a dovedi aceasta, reproducem ultimile rânduri ale sinucisei: „Partea, ce mi se cuvine de la părinți o las lui Dragomir Munteanu și soției sale Nina”...».</p>
+<p>Dragomir scăpă jurnalul din mână, se clătină ca o trestie expusă vijeliei și vru să cadă jos, dar Lucescu îl sprijini pe la spate.</p>
+<p> — Dragomire, ce ai?</p>
+<p>Dragomir îi făcu un semn să ascundă jurnalele și printr-un gest, pe care Lucescu îl pricepu, îl opri din a destăinui amănuntele acestei drame în fața Ninei.</p>
+<p> — Du-te, ne vom întâlni la facultate, nu te supăra, fi-mi cel mai drag prieten, la revedere.</p>
+<p>Lucescu îl strînse de mână și șopti: „La revedere”.</p>
+<p>Dragomir ieși până-n tindă să-l petreacă, dar era atât de zbuciumat, încât abia nimeri ușa; fără șă-și dea seama, că Nina era trează, fără să mai gândească, exclamă într-un moment de acces: „Ce ironie a soartei crude! Și ea m-a iubit, și ea!!”.</p>
+<p> — Cine Dragomire, cine alta te-a mai iubit? - strigă Nina sărind din pat înfiorată.</p>
+<p> — A...ce e? Ce am zis eu? A...n-am zis nimic, nu m-a iubit nimeni...Ba da, m-a iubit mama, dar ea a murit...</p>
+<p>Dragomir holbă ochii mari la dânsa, se uită împrejurul lui sperios, apoi cu un ton înspăimântător:</p>
+<p> — Ah, mă doare...Uite ici, mă doare...Nu vine nimeni să-mi ajute...M-a părăsit și Nina...Nina a plecat la, la...maică-sa; eu sunt iarăși singur-singurel! Ce dureros, ce amar e! Ne naștem din păcat; păcatul ne paște și sfârșim păcătoși. Uite, mă doare colea - și Dragomir aiurind arăta cu degetul în dreptul inimii.</p>
+<p>Nina, care nu-1 văzuse niciodată într-o asemenea stare, avu un moment atât de amar, atât de sinistru, încât scena precedentă pieri din pervazul minții sale. Acum nu mai auzea decât fiorosul lui glas, nu mai vedea de cât zâmbetul lui rece de o clipă și gesturile lui care o înmărmureau. „Dragomire”, zise ea căzănd în genunchi înaintea lui și sărutându-i amândouă mâinile.</p>
+<p> — Nu vezi tu, că Nina-i lângă tine, uiți tu iubirea noastră! Oh, de ce mă faci să tremur Dragomire, uită-te în ochii mei iubite, nu vezi cât mă faci să sufăr! Dumnezeule, ce să mă fac! El nu mă mai recunoaște! Dragomire!!</p>
+<p> — Fără voia noastră, fără să ne gândim că facem rău cuiva, fiindcă ne naștem din păcat, cauzăm rău altora cu o privire, cu un tremur de gene, da, suntem criminali de cum vedem lumina soarelui, pănă ne afundăm în groapă...</p>
+<p> — Dar ce rău ai făcut tu cuiva, Dragomire?</p>
+<p> — Am omorât...A nu, nu este așa că sunt nevinovat, Nino?</p>
+<p>Nina respiră mai ușor, auzind că-i pronunță numele. Apoi, drintr-un sentiment de dragoste către Dragomir, se închină îngânând: „Doamne, fii bun cu noi!”.</p>
+<p> — Îmi promiți tu, că n-ai să te omori Nino? Oh, nu vreau, nu vreau și tu să mori!</p>
+<p> — Voi trăi pentru tine Dragomire, da, vom lupta amândoi și vom fi fericiți.</p>
+<p> — Fericiți! Ce fericire ciudată, si alții să moară...Oh, mă doare uite colea -  și Dragomir căzu în pat halucinând mereu: S-a sinucis, mă iubise și ea...!</p>
+<p> — Cine a fost ea Dragomire?!</p>
+<p> — Ea? Ea, da, aceea a fost, a fost știi tu, a fost colega ta...</p>
+<p>Cu brațele lăsate, cu capul rezemat de maldărul prinelor, râmase cu ochii fixați spre tavan, în timp ce Nina, tremurândă la căpătâiul lui strigă în deznădejde:</p>
+<p> — Cornelia s-a sinucis, Dragomire?</p>
+<p> — Da, Cornelia, fiindcă...</p>
+<p> — Fiindcă te-a iubit! A...ce nenorocită sunt!</p>
+<p>Acum își explica visul lui Dragomir din ajunul plecării lor de la țară. Dar dacă Dragomir ar fi întreținut vreo corespondență secretă cu dânsa, dacă și el ar fi iubit-o? Un moment i se păru Dragomir sinistru ca un criminal celebru, care și-a bătut joc de iubirea ei; Dragomir încleștase mâinile într-ale Ninei; Nina voi să se smulgă de lângă dânsul, dar înainte de a proceda la vreun act disperat urmă:</p>
+<p> — Te conjur pe sufletul maicii tale, spune-mi, tu ai iubit-o?</p>
+<p> — Ți-o jur, n-am iubit pe alta decât pe tine. Iubirea ta din cer am coborât-o - îngână el gemând.</p>
+<p>Nina se mai liniști, apoi:</p>
+<p> — Cine ți-a spus că s-a sinucis, de unde ai aflat, spune-mi, te rog?</p>
+<p> — Am citit în gazeta prietenului Lucescu, însă spune-mi, nu-i așa că eu nu sunt vinovat de aceasta? Oh, și familia ei, căreia îi datorez recunoștință, ce nenorocită a rămas din cauza mea!</p>
+<p>Nina se aproprie de el și fiind convinsă de iubirea lui, îl privi galeș, apoi în delirul unei sărutări lungi, păreau că s-au ușurat reciproc. Cornelia, însă, murise de mult...</p>
+</div>  
+</body>
+ </text>
+</TEI>
