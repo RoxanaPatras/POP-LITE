@@ -43,12 +43,12 @@
                <pubPlace>București</pubPlace>
               <publisher>WIEGAND</publisher>
                <date>1890</date>
-               <decoNote type="ilustratii" subtype="no"/>
+               <decoNote type="illustration" subtype="no"/>
                <dim unit="char" type="mare"/>
                <extent>
                   <measure unit="word">28540</measure>
                   <measure unit="page" type="under_250"/>
-                  <measure unit="foileton" type="under_65"/>
+                  <measure unit="feuilleton" type="under_65"/>
                   <measure type="complete"></measure>
                </extent>
             </bibl>
@@ -68,8 +68,8 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="5"/>
-               <term type="republicare" n="2"/>
+               <term type="reception" n="5"/>
+               <term type="print_count" n="2"/>
                <term type="finished"></term>
                
             </keywords>
@@ -77,8 +77,8 @@
       </profileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
             <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
             <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
          </projectDesc>
@@ -187,8 +187,7 @@
 <p>Acoperământurile caselor învelite cu tablă albă sau văpsită cu roșu, erau de un luciu umed, cu pereții din bătaia ploii uzi și de o culoare mai închisă; tablou posomorât în privaz de ceață.</p>
 <p>Tocmai urmăream cearta a două pisici ce se întâlniseră pe un vârf de acoperământ, venind din părți opuse, și așa de ude cum le erau blănile, dădeau din cozi și miorlăiau una la alta cu câte una din labele de dinainte ridicate, în semn de ostilități deschise.</p>
 <p>Ia te uită, îmi zise Emil, abia răsuflând, și-mi întinse o carte de vizită pe care citi:</p>
-<p>La General conte L. Halcinschi de Zabretzka</p>
-<p>Rue Polonă No...</p>
+<p>„La General conte L. Halcinschi de Zabretzka, Rue Polonă No...”</p>
 <p>— Ce e asta ? întrebasem cu nedumerire, ridicându-mă de pe pat.</p>
 <p>— Adineauri când am venit acasă, gazda mi-a dat cartea spunându-mi că m-a căutat un domn cu mustăți lungi și că a lăsat vorbă să mă duc să-l găsesc acasă la el...</p>
 <p>— Acasă la el? Cum se poate?</p>
@@ -245,7 +244,7 @@
 <p>Și Emil ieși șovăind ca un om beat. Pământul i se învârtea sub picioare; ochii îi rătăceau tulburi și nehotărâți: creierul lui, stăpânit numai de ideea pierderii dureroase a iluziilor sale, pierduse noțiunea existenței omului și a poziției locului... Pașii îl conduseră dar unde se nimeri...</p>
 </div>
  <div type="chapter" n="2">
-<p>III</p>
+<head>III</head>
 <p>Tocmai într-un târziu se deșteptă și începu să cugete... Atunci se gândi la mine...</p>
 <p>După ce îmi povesti întrevederea lui cu generalul, stătu un moment pe gânduri...</p>
 <p>— Ei, tu ce zici? mă întrebă el apoi, ridicând repede capul.</p>
@@ -275,7 +274,7 @@
 <p>Emil plecă de la mine foarte abătut.</p>
 </div>
  <div type="chapter" n="3">
-<p>IV.</p>
+<head>IV.</head>
 <p>Am văzut o parte din casa generalului Halcinschy: sala și biroul.</p>
 <p>Salonul, alăturat, destul de mare, era îmbrăcat în stofă de culoarea mușchiului pe lemn negru sculptat și încrustat cu sidef.</p>
 <p>Celelalte odăi însă, a sa de culcare, a copiilor și sala de mâncare erau mobilate cu strictul necesar, de-o simplitate vecină cu lipsa.</p>
@@ -346,7 +345,7 @@
 <p>Astfel - dar, și la Marcela și la Emil Doneanu aceeași stare se stabili după o trecere de vreme : resemnarea și durerea, spuză ușoară peste cărbunii apiinși ai pasiunii lor adevărată și mare, statornică și desăvârșită primejdioasă stare!..</p>
 </div>
  <div type="chapter" n="4">
-<p>V</p>
+<head>V</head>
 <p>„D-na Ecaterina Vergescu are onoare a vă face cunoscută căsătoria fiicei sale Adela cu d-nul Emil Doneanu, etc...</p>
 <p>Când primi acest bilet de invitare la nuntă, urmă Formureanu, fu cuprins de mirarea cea mai adâncă, mai ales că nu văzusem pe Doneanu de un an și mai bine, de când se dusese ca substitut în provincie. </p>
 <p>Așadar marea pasiune a lui, dacă nu se stinsese încă cu totul, pornise pe o cale numită: logica existenței.</p>
@@ -381,7 +380,7 @@
 <p>La întâia vedere, Adela nu impresionează mult. Dar curând apoi ochii săi mari și negri, ce caută galeș printre gene lungi întoarse, gura-i mică pururea zâmbitoare, glasu-i mângâietor, purtarea-i prietenoasă, lipsa completă de cochetărie pretențioasă, iți deșteaptă atenția și îți fac pe Adela simpatică...</p>
 <p>În tot timpul cât am stat acolo a fost vioaie, cu fața înbujorată, ceea ce o prindea mult mai bine: fii plină de atenții pentru mine și pentru frații mai mari ai lui Emil; fii un izvor nesecat de glume pline de spirit, totdeauna bine găsite și la locul lor; vedeai fericirea în întreaga ei înfățișare.</p>
 <p>  Ne arătă, mie numai și lui Emil, rochia de mireasă, darurile primite de pe la rude și o brățară frumoasă și scumpă, dar grea și de formă veche, dată de mama lui Emil.</p>
-<p>_ — Vezi tu, amice? Eu nu i-am dat nimic, zise Emil, căutând la mine cu părere de rău.</p>
+<p>— Vezi tu, amice? Eu nu i-am dat nimic, zise Emil, căutând la mine cu părere de rău.</p>
 <p>— Nu-l crede, domnule, răspunse Adela c-un zâmbet drăguț de tot, și coborând ochii... mi-a dat un giuvaer din cele mai scumpe: inima lui...</p>
 <p>Emil îi sărută mâna.</p>
 <p>Găzduit de Emil, nu-mi vorbi toată noaptea decât de fericirea ce-l așteptă... Nicio amintire de Marcela... Și cu toate acestea, nu știu de ce și cum, există o temere tainică într-un colț al inimii mele.</p>
@@ -389,7 +388,7 @@
 <p>Mă temeam.</p>
 </div>
  <div type="chapter" n="5">
-<p>VI</p>
+<head>VI</head>
 <p>Doi ani trecură, timp în care Emil îmi scrise de vreo trei ori.</p>
 <p>Uite un fragment din a doua lui scrisoare; ascultă, ți-l citesc eu:</p>
 <p>„Nu știu cum trece timpul, sunt fericit. Îndată ce ies de la tribunal, alerg acasă cu grabă, intru cu bătăi de inimă, sunt întâmpinat pururea de Adela și seara zboară lăsându-ne în convorbirile cele mai dulci.</p>
@@ -456,7 +455,7 @@
 <p>— Numai de n-ar fi cei dintâi nori ai vreunei furtuni dăunătoare,—mă gândii...</p>
 </div>
  <div type="chapter" n="6">
-<p>VII</p>
+<head>VII</head>
 <p>Maiorul în retragere Vulpan trăia cu pensiunea gradului și cu micul venit al zestrei nevestei sale.</p>
 <p>Locuia în propria sa casă, nu de înfățișare pretențioasă, dar curată și în care strânsese cu timpul mobile bunișoare, lucruri de gust, îmbrăcăminte aproape luxoasă.</p>
 <p>Buna alegere și întocmire a lucrurilor, stofelor și culorilor, împlinea lipsa scumpetei lor și mulțumea ochiul, chiar mai pretențios fiind. Dar fiindcă maiorul, om guraliv și deschis, nu afișă nici un fel de pretenție în casa lui, nimeni nu putea să-i ia în nume de rău luxul fals cu care se împrejmuise.</p>
@@ -543,9 +542,9 @@
 <p>Regretele sunt grele ca gloanțele de plumb, cad pe inimă, stârnesc pulberea amintirilor și aceste amintiri devin apoi atât de aprinse, încât topesc gloanțele ca să le apropie și să facă din ele o masă consistentă, unită, mai grea de pierdut și mult mai grea de desfăcut și de readus la forma primitivă; regretul e moartea liniștii; regretul ucide iubirea nouă care începuse a ne asigura fericirea unei vieți pașnice.</p>
 </div>
  <div type="chapter" n="7">
-<p>VIII</p>
+<head>VIII</head>
 <p>Adela era fericită; plină de încredere în bărbatul ei, iubindu-l cu toată puterea de pasiune a firii sale curate, arzătoare și dreaptă, nu vedea nimic altceva pentru viitor în viața ei decât reflectul acestor trei ani aproape de farmec, plăcere intimă, mulțumire de sine și amor.</p>
-<p>Intr-o seară, ședeau amândoi în biroul lui Emil.</p>
+<p>Într-o seară, ședeau amândoi în biroul lui Emil.</p>
 <p>Ușa de la odaia lor de culcare era deschisă, înăuntru ardea numai veghetoarea de noapte împrăștiind o lumină dulce d-un albastru șters.</p>
 <p>Ceasurile erau aproape zece. Emil citea într-o carte de drept; Adela se juca fără zgomot cu părul creț, mare și alb al unui cățel, care gemea încet de mulțumire, și de răsfățat ce era.</p>
 <p>— Știi ce una, puiule, zise de-odată Emil închizând cartea cu zgomot: mi-a venit o idee cam ciudată. Hai să facem ștrengării în noaptea aceasta. E bal mascat; hai să ne mascăm să mergem la bal la teatrul național și de-acolo undeva să facem o mică gustare cu stridii, icre, etc, etc... Ce zici?</p>
@@ -679,7 +678,7 @@
 <p>O singură ființă, știa cine fusese sultanul: Marcela. Nu un amic, ci însuși Emil și numai el putea să vorbească cu atâta pornire, în care ea simțea focul pasiunii și amărăciunea situațiunei dureroase a însuși suferindului.</p>
 </div>
  <div type="chapter" n="8">
-<p>IX</p>
+<head>IX</head>
 <p>De multe ori, alături cu o simțire ce să manifestă într-un sens și anume în cel rațional și logic, se naște și lucrează, în sens contrar, altă simțire.</p>
 <p>Prima simțire este a judecății, cea de-a doua este a inimii; prima e voința, cea de-a doua dorința.</p>
 <p>Marcela se întoarse acasă putemic impresionată de cuvintele lui Emil Doneanu...</p>
@@ -751,7 +750,7 @@
 <p>— Haide... Până acum a fost suferința; de-acuma o să înceapă martirul!</p>
 </div>
  <div type="chapter" n="10">
-<p>X</p>
+<head>X</head>
 <p>În seara de 1 februarie, biserica albă strălucea de lumină și curtea ei era plină de cupeuri și trăsuri; era cununia d-șoarei Vulpan cu d-nul Eugeniu Valdinescu-Rucăreanu.</p>
 <p>Neastâmpărată era și ca mireasă. Ochii îi jucau în toate părțile, râdea și glumea cu mirele, în timp ce se făcea serviciul religios, schimbă priviri cu prietenele sale, făcea complimente hazlii nașei sale, soția ministrului de lucrări publice.</p>
 <p>Și când diaconul citi fraza finală a apostolului: iar femeia să se teamă de bărbat, Smărăndița se întoarse către bărbatu-său și-i șopti:</p>
@@ -811,7 +810,7 @@
 <p>Când plecară de la restaurant, Emil abia se ținea pe picioare, încât ea se simți înroșindu-se, sub mască: zâmbetul chelnerului ce-i servise era batjocoritor?</p>
 <p>De ce? De ce se amețise?</p>
 <p>Acasă ajunși, el îi zisese:</p>
-<p>-- lartă-mă, Adelă, de starea în care mă vezi... Când sunt avid de o petrecere, mă amețesc iute, mai ales când sunt vesel la culme... Mă ierți ?</p>
+<p>- Iartă-mă, Adelă, de starea în care mă vezi... Când sunt avid de o petrecere, mă amețesc iute, mai ales când sunt vesel la culme... Mă ierți ?</p>
 <p>De ce minciuna aceasta că fusese vesel la culme? Mai ales că chiar în fraza aceasta a lui pătrundea parcă un fel de ironie, la adresa lui, un fel de amărăciune...</p>
 <p>De ce? Ce putea să aibă?</p>
 <p>Atâtea și atâtea întrebări.</p>
@@ -830,7 +829,7 @@
 <p>Și ce e drept, ochii Adelei se pironiră asupra lui Emil de îndată ce trecurăm pragul.</p>
 <p>Emil se duse lâ dânsa drept și o luă ia polca ce se dansa.</p>
 <p>După trei înconjururi o duse la loc și se așeză lângă ea, roșu la față puțin și cu zâmbetul pe buze.</p>
-<p>— Ai fost de ai fumat? îl întrebă.</p>
+<p>— Ai fost de-ai fumat? îl întrebă.</p>
 <p>— Da, puișor.</p>
 <p>— Se cunoaște. Ai un fir de tutun în barbă, — și i-l scutură.</p>
 <p>— Cine-i tânărul care-i lângă d-ra Marcela Halcinsky? Vorbește numai cu ea, și numai cu ea dansează, întrebă Adela fără gând ascuns</p>
@@ -900,7 +899,7 @@
 <p>Marcela, adânc mișcată, fugi în salon. Înaintase destul.</p>
 </div>
  <div type="chapter" n="11">
-<p>XI.</p>
+<head>XI.</head>
 <p>— Domnule Doneanu, se apropia servitoarea și-i șopti, cucoana dv. e bolnavă și vă poftește...</p>
 <p>— Bolnavă? Unde? întrebă Emil cu grabă, cu toate că era amețit.</p>
 <p>Urmă pe servitoare și intră în iatacul cucoanei bătrâne.</p>
@@ -1000,7 +999,7 @@
 <p>Plecară la d-na Seuleșteanu.</p>
 </div>
  <div type="chapter" n="12">
-<p>XII.</p>
+<head>XII.</head>
 <p>D-na Seuleșteanu, al cărei soț e președinte al unei societăți financiare și membru în consiliile de administrație ale câtorva alte societăți,— e o femeie care a ajuns la cincizeci de roze.</p>
 <p>E înaltă, slăbuță, cu pielița obrazului încă bine păstrată, deși oricare încrețituri indiscrete se ivesc pe ici colo; cu ochii căprui închiși, încă vioi; cu spiritul mușcător și savant chiar, căci e una din femeile ce și-l cultivă cu stăruință; cu maniere distinse care vădesc pe femeia de Curte și ținând la vanitatea aceasta de a o face cunoscut, și cui o știe și cui n-o știe, că are dese relații cu Curtea, invitată fiind de regina însăși, care îi acordă a sa înaltă prietenie.</p>
 <p>Cu închipuirea vie, dar și cu inima prea vie, d-na Seuleșteanu a fost, în „tinerețile amândouă”, o cochetă foarte nestatornică.</p>
@@ -1075,8 +1074,9 @@
 <p>Se însărcinară d-nele Muglisch, Aldiad și Verbescu să compună partea muzicală și în ședința de a doua zi, s-o prezinte comitetului. Pentru ședința următoare la ordinea zilei era: desemnarea persoanelor care să execute bucățile.</p>
 </div>
  <div type="chapter" n="13">
-<p>XIII.</p>
-<p>TEATRUL NAȚIONAL</p>
+<head>XIII.</head>
+
+	 <p>TEATRUL NAȚIONAL</p>
 <p>Reprezentare dată în folosul incendiaților, de doamne din înalta societate, sub patronajul doamnelor Halcinschy și Seuleșteanu.</p>
 <p>PROGRAMME:</p>
 <p>I</p> 
@@ -1113,7 +1113,8 @@
 <p>Nelly ........ M-lle Marcelle Halcinschy</p>
 <p>Lord Edward ..... Mr. Virgile Oțeleșteano</p> 
 <p>Un domestique .... X.</p>
-<p>Acesta fu afișul ce peste câteva zile fu răspândit în oraș, tipărit pe coale mari, fiecare din trei culori.</p>
+
+	 <p>Acesta fu afișul ce peste câteva zile fu răspândit în oraș, tipărit pe coale mari, fiecare din trei culori.</p>
 <p>Iar în timp ce lumea citea acest program și l'Indépendance Roumaine anunță reprezentarea în limbajul bècarre al lui Claymoor, doamnele și domnii din „înalta societate” făceau repetiții peste repetiții.</p>
 <p>Alte ziare, lăudând scopul, se întrebau cu drept cuvânt dacă reprezentația se dă în vreun oraș, al Franței, deoarece partea teatrală era compusă numai din acte în limba franceză.</p>
 <p>Altele atingeau direcția teatrului pentru limbajul hibrid al afișului, care era și franțuzesc și românesc; cel puțin nu s-a neglijat cu totul, patriotismul, — zicea un cronicar isteț.</p>
@@ -1212,7 +1213,7 @@
 <p>— Tocmai bine: veneam să vă invit la o mică gustare... care să amintească pe aceia de la 4 ore, din pensioane... Iar în gând își zise prea repetă în conștiință d-șoara Halcinschy și d-nul Doneanu.</p>
 </div>
  <div type="chapter" n="14">
-<p>XIV</p>
+<head>XIV</head>
 <p>A doua zi au fost de față la repetiție Edwiga și Adela: Edwiga rugată de sora sa Adela dintr-un simțământ tăcut de gelozie.</p>
 <p>În sfârșit o zi îi despărțea de seara reprezentării și în acea zi trebuia să se facă pe scena teatrului repetiția generală.</p>
 <p>Sala era plină de lumea „pschutt” care alergase să fie de față și la repetiție, iar președinta comitetului, prevăzând această mișcare a curiozității, pusese prețurile pe jumătate la repetiție.</p>
@@ -1258,7 +1259,7 @@
 <p>Cu glasul ei fermecător, cântă amândouă cavatinele, în executarea cărora puse tot focul nervilor săi ațâțați, și spectacolul se sfârși... lăsând o amintire desfătătoare.</p>
 </div>
  <div type="chapter" n="15">
-<p>XV.</p>
+<head>XV.</head>
 <p>Adela, dintr-o lojă de pe scenă, căci în doliu fiind nu voise să se arate în sală,—urmărise cu ochi geloși jocul „Cușcii Leului”.</p>
 <p>În această piesă vedea o potrivire de simțăminte și de situații care o făcea să se gândească la amorul bărbatului său pentru Marcela Halcinschy, și acum atribuia izbutirea atât de bine a execuției numai acestui amor împărtășit și de fiica generalului.</p>
 <p>O amărăciune adâncă îi îngreuna sufletul, deja destul de amărât, și până să se sfârșească actul, chinurile cele mai ascuțite o împunseră.</p>
@@ -1299,7 +1300,7 @@
 <p>— Adelo, repetă încă o dată Emil.</p>
 <p>— Emil, ce ai ? întrebă dânsa cu blândețe și ochii i se umplură de lacrimi.</p>
 <p>Se ridică într-un cot și vorbi cu glas stins:</p>
-<p>— lartă-mă Adelo, că te fac să suferi... Sunt un mișel, însă pasiunea pentru... mă omoară... Știu, tu trebuie să fi înțeles tot și demult... însă nu mi-ai imputat o dată măcar; ești un înger de bunătate, înconjurat de lumina senină a conștiinței curate și a datoriei îndeplinite, iar eu, orbit de-o patimă veche, crudă și neasemănat de răzvrătitoare, nu mai pot vedea această lumină; ai ajuns martiră a iubirii tale statornice și eu nu mai pot să-ți curm chinul, căci nu mă mai pot stăpâni și avea pe mine însumi.. A! cât am suferit în aceste patru zile de rătăcire prin împrejurul Bucureștiului... De la teatru chiar am plecat ca un nebun și a doua zi m-am văzut cutreierând câmpii... Am intrat într-o cârciumă și am cerut să beau, spre marea mirare a cârciumarului, desigur.. Am băut și am căzut amețit de vin și dihocat de povara suferințelor mele morale. Pe seară m-am deșteptat în odaia cârciumarului și am plecat plin de rușine, dar cu cât mă apropiam de București orice altă simțire dispărea din mine și singura, aceea a patimii mele, se ridica, se înnăsprea, mă ardea și mă făcea să-mi pierd calea cumpătului și orice judecată.</p>
+<p>— Iartă-mă Adelo, că te fac să suferi... Sunt un mișel, însă pasiunea pentru... mă omoară... Știu, tu trebuie să fi înțeles tot și demult... însă nu mi-ai imputat o dată măcar; ești un înger de bunătate, înconjurat de lumina senină a conștiinței curate și a datoriei îndeplinite, iar eu, orbit de-o patimă veche, crudă și neasemănat de răzvrătitoare, nu mai pot vedea această lumină; ai ajuns martiră a iubirii tale statornice și eu nu mai pot să-ți curm chinul, căci nu mă mai pot stăpâni și avea pe mine însumi.. A! cât am suferit în aceste patru zile de rătăcire prin împrejurul Bucureștiului... De la teatru chiar am plecat ca un nebun și a doua zi m-am văzut cutreierând câmpii... Am intrat într-o cârciumă și am cerut să beau, spre marea mirare a cârciumarului, desigur.. Am băut și am căzut amețit de vin și dihocat de povara suferințelor mele morale. Pe seară m-am deșteptat în odaia cârciumarului și am plecat plin de rușine, dar cu cât mă apropiam de București orice altă simțire dispărea din mine și singura, aceea a patimii mele, se ridica, se înnăsprea, mă ardea și mă făcea să-mi pierd calea cumpătului și orice judecată.</p>
 <p>Emil se opri... Buzele îi erau arse, gura cleioasă, limba încărcată și greoaie, fruntea îi ardea și pieptul îi era cuprins de o arsură care-l sfâșia. Ceru apă. Adela, crud lovită de această destăinuire, se ridică și se simți șovăind; nu mai era nimic pentru bărbatul ei... Singur zisese că nu mai putea să facă nimic pentru ea...</p>
 <p>Pentru întâia și cea din urmă oară îi trecu prin gând o idee îngrozitoare: de ce nu putea să-i dea otravă în paharul cu apă ce el îi ceruse! Ar fi băut și ea după el și... s-ar fi sfârșit cu o viață nesuferită...</p>
 <p>După ce Emil bău cu scârbă, căci apa n-avea nici un gust pentru el,—se culcă și urmă.</p>
@@ -1312,7 +1313,7 @@
 <p>În cugetul ei Emil era mai puțin vinovat... dar, în sfârșit la ce-i folosea aceasta?...</p>
 </div>
  <div type="chapter" n="16">
-<p>XVI</p>
+<head>XVI</head>
 <p>Martie, către sfârșitul său, își preschimbase furiile într-un șir de zile calde, pline de lumină și de liniște, pline de miros de primăvară și de plăcere.</p>
 <p>Zăpada se ridicase cu desăvârșire; ploile din zilele din urmă spălaseră noroiul leșios al zăpezii stătute toată iarna, aerul era curat și nu se putea cineva sătura să-l respire.</p>
 <p>Primăvara aduce cu sine altă dispoziție de spirit, un fel de veselie ce vine de la sine, fără cauză, ușoară, născând o mulțumire tainică, dulce și mângâioasă.</p>
@@ -1352,7 +1353,7 @@
 <p>În seara acestei zile ea porni cu Dolfineanu, mândru de cucerirea ce făcuse.</p>
 </div>
  <div type="chapter" n="17">
-<p>XVII</p>
+<head>XVII</head>
 <p>A doua zi după reprezentația teatrală, care produsese neto suma de cincisprezece mii de lei,— d-na Halcinschy chemă pe Marcela în odaia ei.</p>
 <p>— Dragă Cela, spune-mi din ce pricină te-am surprins plângând? o întrebă cu îngrijorare.</p>
 <p>Marcela avea o privire obosită, o figură palidă și zâmbetul ei atât de drăgălaș îi era trișt și descurajat. În fața mamei sale nu-și mai prefăcu aerul, ci după întrebare, își ascunse capul la sânul mume-sii și izbucni în plâns.</p>
@@ -1432,7 +1433,7 @@
 <p>Catinca alergă singură, ușoară ca o pană, plină de bucuria cea mai dulce că stăpână-sa putea fi scăpată, odată ce domnul se întorsese iar la dânsa.</p>
 </div>
  <div type="chapter" n="18">
-<p>XVIII</p>
+<head>XVIII</head>
 <p>După o săptămână de zile, în care timp Emil nu se depărtă de lângă căpătâiul soției sale și-i dădu îngrijirile cele mai călduroase, ziarele de seară anunțară plecarea la Nissa a d-nei și d-lui Emil Doneanu.</p>
 <p>În acea seară generalul Halcinschy da o masă pentru a sărbători sosirea din Paris a tânărului Zablotowschy, logodnicul Edwigei.</p>
 <p>Din cauza întâmplării nenorocite ce dăduse peste Oțeleșteanu, logodnicul Marcelei, planul celor două nunți se schimbase.</p>
@@ -1527,7 +1528,7 @@
 <p>— Citește-o, Cela... porunci generalul, sunt curios, iar tu n-ai ce ascunde de tatăl și de mama ta.</p>
 </div>
  <div type="chapter" n="19">
-<p>XIX.</p>
+<head>XIX.</head>
 <p>Îndată ce sosiră la Nissa, Adela și Doneanu se așezară într-o vilă închiriată telegrafic prin doctorul Ermacovici, de la o cunoștință veche de-a lui.</p>
 <p>Doi medici înștiințați tot de Ermacovici, îndată ce au fost chemați, sosiră la locuința lui Doneanu și examinară pe Adela.</p>
 <p>Unul dintre ei prescrise un tonic oarecare și apoi îl chemă pe Emil să-i vorbească de-o parte, în timp ce celălalt a rămas lângă Adela.</p>
@@ -1579,7 +1580,7 @@
 <p>Era ultima petrecere, ultima plăcere ce avea să mai guste.</p>
 <p>Până să se întoarcă iubitul ei Emil cu cupeul, ea își dădu gătelei îngrijirile cele mai amănunțite și izbuti să se facă drăgălașă, mai ales că mulțumirea de sănătatea sa îi pusese pe obraji o roșeață plăcută.</p>
 <p>Emil o găsi ispititoare, plină de frăgezime și de tinerețe.</p>
-<p>162</p>
+
 <p>Plimbarea lor fu dulce gongonitură de porumbei, o reamintire a plimbărilor de la Vergești, în primele luni ale însoțirii lor.</p>
 <p>Când se întorseseră după trei ore acasă. Adela era fericită, însă simțea o sfârșeală de puteri care îl răpea din farmecul acelei zile, căci îi amintea ziua de mâine, icoană a zilelor trecute</p>
 <p>A doua zi, într-adevăr, avea friguri și arse toată ziua: medicul impută lui Emil abuzul ce făcuse de puterile soției sale.</p>
@@ -1627,7 +1628,7 @@
 <p>Doctorul stă lângă căpătâiul patului, cufundat într-o mâhnire rece și dominând tabloul ca un geniu nepăsător al morții.</p>
 </div>
  <div type="chapter" n="20">
-<p>XX</p>
+<head>XX</head>
 <p>După ce Marcela Halcinschy citi scrisoarea Adelei Doneanu, o întinse tatălui său și, palidă, cuprinsă de un tremur nervos, cu ochii înotând în lacrimi, fugi din sala de mâncare în odaia ei.</p>
 <p>D-na Halcinschy alergă după copila ei, generalul rămase posomorât, deși atins, și cu fruntea între mâini.</p>
 <p>Copiii ceilalți încetară a mânca și întrebându-se din ochi, rămaseră și ei tăcuți, intimidați de atitudinea tatălui.</p>
@@ -1777,7 +1778,7 @@
 <p>—Uite așa ne înțelegem noi amândoi, strigă ea râzând voios. Nu te teme, puiule, i se adresă lui Dolfineanu: între noi e potrivire de caracter, amândoi o să ne mâncăm amarul vieții până la sfârșit...</p>
 <p>Amice Formurene, bine ai judecat-o pe Smărăndița, încă de la început... ți-aduci aminte la șosea...</p>
 <p>Zilele iubirii sale cu Dolfineanu sunt numărate ... dacă mai poate fi și la ea iubire!...</p>
-<p>SFÂRȘIT.</p>
+<trailer>SFÂRȘIT.</trailer>
 </div>
 </body>
  </text>
