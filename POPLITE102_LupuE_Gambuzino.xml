@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Gambuzino sau Căutătorii de aur: ediție POPLITE</title>
+    <author>Arbore, Zamfir C.</author> 
+    <respStmt>               
+     <resp>codare POPLITE</resp>
+     <name>Teodora Iuriusciuc</name></respStmt>   
+    <respStmt>              
+     <resp>verificare codare POPLITE</resp>
+     <name>Lucreția Pascariu</name></respStmt>   
+    <respStmt>
+     <resp> corectură manuală</resp>
+     <name>Teofana Botezatu, Maria Ciubotaru, Ștefania Mumuruz, Elena Enea, Ana Maria Costin, Lenuța Maria Coroamă</name>
+    </respStmt>
+    <respStmt>
+     <resp>verificare corectură manuală</resp>
+     <name>Loredana Cuzmici</name>
+    </respStmt>
+    <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>UAIC</publisher>
+    <date></date>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+    </availability>
+    <ref type="doi" target="10.5281/zenodo.10781227">PopLite_ShadowRepository</ref>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <author>Arbore, Zamfir C.</author>
+     <title>Gambuzino</title>
+     <pubPlace>București</pubPlace>
+     <publisher>AMICUL COPIILOR</publisher>
+     <date>1891</date>
+     <decoNote type="ilustratii" subtype="yes"/>
+     <dim unit="char" type="mare"/>
+     <extent>
+      <measure unit="word">20071</measure>
+      <measure unit="page" type="under_250"/>
+      <measure unit="foileton" type="under_65"/>
+      <measure type="complete"></measure>
+     </extent>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords scheme='https://opentheso.huma-num.fr/opentheso/api/theso/Typologie'>
+     <term type='domaine' ref="https://hdl.handle.net/20.500.11942/crteb7oodgosm">literatura</term>
+     <term type='factualite' ref="https://hdl.handle.net/20.500.11942/crt22aacdhvi7">fictiune</term>
+     <term type='forme' ref="https://hdl.handle.net/20.500.11942/crtnufdew1lfb">proza</term>
+     <term type='genre' ref="https://hdl.handle.net/20.500.11942/crthuyig1pxri">roman</term>
+     <term type='agencement' ref="https://hdl.handle.net/20.500.11942/crtbdm5xnc6io">foileton</term>
+     <term type='origine' ref="https://hdl.handle.net/20.500.11942/crtxolq1evsr9">opera originala</term>
+     <term type='discours' ref="https://hdl.handle.net/20.500.11942/crt4wma17ncnj">narativ</term>
+     <term type='public' ref="https://hdl.handle.net/20.500.11942/crthb4el4r5qc">non défini (public cible)</term>
+     <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
+    </keywords>
+    <keywords>
+     <term type="receptare" n="5"/>
+     <term type="republicare" n="2"/>
+       <term type="finished"></term> 
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+    <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+    <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
+    <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
+   </projectDesc>
+  </encodingDesc>
+ </teiHeader>
+ <text>
+<body>
+<div type="part" n="1">
+<head>GAMBUZINO SAU CĂUTĂTORII DE AUR</head>
+<div type="section" n="1">
+<head>PRIMUL Bufalo</head>
+<p>Soarele arzător cu razele prea drepte deasupra capului, arată amiaza. Un om cu pușca pe umăr, urmă o potecă îngustă pe malul stâng al râulețului St. Jago din statul New-Mexico, în vecinătatea orășelului Tubac. Omul stătu, apropiindu-se de o colină.</p>
+<p>— Dacă mă voi sui în vîrf voi vedea departe prin împrejur, prin urmare, și locul unde râulețul se desparte in două, așa gândea dânsul urcându-se.</p>
+<p>— Ce căldură, murmura el încet, ce ar face acum pe căldura asta Mr. Good, de sigur ar înjura ca un birjar.</p>
+<p>Tânărul, căci era tânăr, surâse, și se așeză să se mai odihnescă.</p>
+<p>— Aci voi sta, căci e locul unde trebuie să ne întrunim.</p>
+<p>Vânătorul era vechiul prieten al nostru, lorgu Lupu, care din orășelul Tubac plecase împreună cu frații săi, Alecu și Miron la vânătoare.</p>
+<p>— Duceți-vă, camarazilor! le spuse Bufalo cu o zi înainte, conducătorul lor și șeful Cook, și mai luați aer... avem de stat, în moina asta de Tubac, încă vreo trei, patru zile, până ce se vor aduna toți Gambuzino; am încă multe de cumpărat și de făcut, astfel că n-aveți ce face, puteți să vă duceți la vânătoare. În apropierea Tubaculul sunt încă bufalo, încercați-vă puterile... până acum ați fost întotdeauna sub aripa altuia, încercați și singuri</p>
+<p>Repede s-au pregătit frații, și în zori de ziuă sâmbătă plecară cu gândul să fie acasă Duminică spre seară.</p>
+<p>— Dar, ascultați; de-ți vâna ceva, sau nu, Duminică seara, să fiți înapoi negreșit, altminterea voi crede că vi s-a întâmplat ceva neplăcut.</p>
+<p>— Luară cu dânșii și pe Solomon, urmă fostul director și companion bătrânul Good, căci băeții încă sunt neexperimentați, Doamne ferește de ceva...</p>
+<p>— Dimpotrivă, lasă-i singuri, ca să vedem pot oare face ceva fără sprijinul celor mai bătrâni, altfel niciodată nu vor fi în stare să cunoască ce pot și ce nu. Practica și nevoia sunt cei mai buni consilieri... numai să fie cu băgare de minte, urmă vânătorul, și atunci, sunt sigur, că nu se va întâmpla nimic.</p>
+<p>Astfel, frații au plecat.</p>
+<p>— Căutați, le spuse la plecare Cook, spre miazăzi de la Tubac curge St.Iago, în apropiere de locul unde acest pârâu se dezbină în două brațe, o să dați peste o colină, acolo să vă fie locul de întâlnire în orice caz.</p>
+<p>După plecarea tinerilor, James Good întrebă pe vânător: nu e periculos unde i-ai trimis?</p>
+<p>— Ba din contra, foarte periculos, răspunse acesta.</p>
+<p>— Vai de mine! Cred că glumești!</p>
+<p>— Niciun pic, nu-s nici dispus să glumesc.</p>
+<p>— Apoi ce-ai făcut? să trimiți dumneata amicii, pot zice așa, la o plimbare periculosă? Nu este deloc frumos.</p> 
+<p>— Depinde cum înțelege fiecare amiciția.</p>
+<p>— Dumneata o înțelegi așa, ca să fii în tot momentul gata de a apăra amicul; cum o înțeleg eu, ca să-l înveți să se poată și singur apăra de orice primejdie.</p>
+<p>- Dumneata poate înțelegi că se hrănescc amicii totă viața, eu din contra, înțeleg amiciția ca să-l ajuți pe om până la atât, în cât să poată singur sprijini pe forțele sale, în fine eu sunt pentru sistema de a lăsa individul singur să se lupte pentru viață, și în lupta asta să-și procure stiința necesară pentru a putea întotdeauna reuși, sau de a nu  pieri. Cei slabi și fricoși trebuie să piară. Sunt forte bucuros că tinerii Români au avut simțul și inteligența de a alege tocmai America ca școală, numai aici fiecare poate să-și dezvolte toate forțele sale intelectuale și morale...</p>
+<p>Bătrânul Good asculta pe vânători cu gura căscată, asemenea lucruri el nu mai auzise; teoria de a lăsa pe amicul tău să se lupte, să piară chiar, pentru a avea plăcerea de a-i dezvolta forțele lui morale și intelectuale, i se par cam ciudate.</p>
+<p>— -Nu înțeleg, spuse el după o tăcere, pentru ce ar trebui să mă bag în pericol, să-l caut chiar cu lumânarea, ca luptându-mă, să-mi dezvolt forțele?</p>
+<p>— Europenii, aceasta n-au s-o înțeleagă niciodată, noi Americanii o înțelegem, și de asta America e o țară superioră dintre toate celelalte țări din lume; prin luptă s-a dezvoltat curajul, întreprinderea și inteligența Americanilor: luptându-se ei au dezvoltat cele mai grele chestiuni de stiință și artă.</p>
+<p>In fine nu crede că iubesc mai puțin tinerii Români decât dumneata, dar iubindu-i voiesc să fac ceva pentru dânșii, cel puțin dacă nu alții, apoi să fac dintr-înșii oameni curajoși și întreprinzători.</p>
+<p>Bătrânul tăcu, scărpinându-se la ceafă.</p>
+<p>— Dar dacă, Doamne ferește, voind să faci dintr-înșii niște curajoși, și expunându-i mereu la pericolele de orice fel, va pieri vreunul dintr-înșii, atunci cum ți se va părea, conștiința dumitale nu-ți va zice nimic?</p>
+<p>— Deloc! Voi avea conștiința curată. Oamenii curajoși, dar totodată cu minte, reușesc acolo unde zece fricoși sau curajoși fără cugetare pier. Deviza mea este curajul și prudența, asta trebuie să fie și ale lor.</p>
+<p>Cum sciu deja cititorii noștrii, Frații Lupu împreună cu James Good și cu tânărul Tigrero... Cook plecară din statele fostei Americi spre Vest, unde p>
+Cook posedă o moștenire de la tatăl său, un plațero de aur, care trebuia găsit, luat din mâinile Indienilor și exploatat. In timpul de față întreaga companie de vreo 50 de oameni se găsea în orășelul mexican, Tubac în statul New-Mexico, acolo caravana stătea, ca să completeze încă cu vreo 10 vânători, să cumpere proviziile necesare, și după asta să plece spre Liano-Estocado, sa treacă acestă zahară americană ca să ajungă în sfîrșit la munții Perduți, unde era mina de aur a vânătorului. Frații Lupu înainte de a sta față în față cu adevăratele primejdii, au fost trimiși de șeful caravanei la o încercare, la o vânăture de bufalo. Sa-i urmărim și noi în întreprinderea lor.</p>
+<p>Soarele trecuse de amiază, iar Iorgu de pe Colină nu vedea nicio umbră de om, ca să apară pe suprafața neteda a preeriei acoperite cu iarbă înaltă și deasă.</p>
+<p>De urât și de foame el scotea din geantă câte uu pesmet, și rozându-1 mereu privea orizontul.</p>
+<p>— Nu știu ce să mai zic, gândea băiatul, ne-am despărțit de dimineață, pentru ca după prânz să ne întrunim pe colina asta, dar văd că nici Alecu, nici Miron nu vin. S-o fi întâmplat oare ceva?</p>
+<p>El stătea pe gânduri de ceva timp, pe urmă scoase un petic de hârtie și scrise pe dânsul :</p>
+<p>Am fost, v-am așteptat, n-ați venit, mă duc să vă caut; dacă veniți nu vă mai duceți.</p>
+<p>«Trei ceasuri p.m. Al vostru,</p>
+<p>lorgu Lupu.»</p>
+<p>Aceasta scrisoare a înfipt-o într-o plantă uscată ca să se vadă de departe și luându-și pușca a plecat.</p>
+<p>La cinci kilometrii de la colină, o câmpie largă se întindea la marginea pădurii; iarba cam uscată, arsă de soare acoperea câmpia; numai în apropierea pârâului, verdeața vie făcea contrast cu cealaltă parte și parcă te poftea să te odihnești aici. De bună seamă pe o movilă de cârtiță ședea alt prieten al nostru, Miron, și cu băgare de seamă privea spre poalele pădurii!</p>
+<p>— Sau mi se părea, sau e un bou... dar ce fel de bou, si de unde pe locurile astea? Asemenea întrebări își făcea tânărul Lupu, acoperind cu palmele ochii, ca să-i apere de razele soarelui. — Tocmai, e un dobitoc, dar nu seamănă parcă a fi bou, mai de grabă e un bivol...</p>
+<p>Băiatul nu văzuse încă nici un bufalo și nu putea recunoaște, ce fel de dobitoc, încet păscând se apropia de pârâu.</p>
+<p>— În orice caz mă ascund, să nu mă zărească ca sa nu fugă, și zicând asta vânătorul nostru se scula de unde ședea, găsi un șanț în care se tologi, ridicând din când în când capul ca să vadă ce face dobitocul.</p>
+<p>Dacă ar fi știut el la ce primejdie se expunea dorind a se întâlni cu asemenea vânat ar fi fugit și l-ar fi lăsat în pace.</p>
+<p>Bizonii, bufalo sau boii sălbatici se țin de obicei în cirezi mai mici sau mai mari, singuratici umblă numai buhaii bătrâni, care din cauza răutății lor nu sunt suferiți în cireadă și pot zice, să fie dați afară din societatea semenilor săi.</p>
+<p>Vânătorii, chiar cei mai curajoși se feresc a se întâlni cu asemenea bufalo și preferă mai bine să-i ocolească decât să tragă asupra lor. Numai lovit în ochi sau inimă poți să fii sigur că l-ai ucis.</p>
+<p>Dar Miron nu știa nimic despre moravurile bizonilor și din șanțul său cu bucurie privea cum dobitocul se apropia de pândă, stând uneori ca să ragă și să arunce pământul și iarba cu piciorul de dinainte cum fac în cireadă buhaii și boii noștri.</p>
+<p>—Lasă, lasă că te voi sătura eu de azvîrlit. Și la momentul când bizonul se apropia de dânsul la 15 pași deodată se scula în picioare, puse pușca la umăr și țintind drept între ochi, slobozi cocoșul.</p>
+<p>Bizonul mirat de întâlnirea atât de neașteptată, stătu un moment locului, și plecând capul se arunca înainte.</p>
+<p>Miron trase, dar glonțul se lovi de fruntea tare ca fierul, acoperită de păr des și se turti, amețind numai dobitocul, care se opri o clipă pentru că având o furie nemărginită, răgînd, se arunca asupra lui Miron.</p>
+<p>Miron nu a avut timp nici să gândească cum a fost lovit de animal și aruncat în aer. Când s-a pomenit, s-a pomenit călare pe bizon, care, încălecat astfel de un inamic, fugea prin preerie cât îi lua piciorul. Primul moment era greu, dar văzându-se teafăr călare și ținându-se de coama bizonului, Miron zâmbi puțin și întoarse capul ca să vadă de unde a încălecat atât de neașteptat.</p>
+<p>— Ce ar spune Mr. Good, Cook și alții, de m-ar vedea călare pe un asemenea fugar.</p>
+<p>De data aceasta el râse. Bizonul speriat fugea înainte. Bre, da iute mai ești, spuse băietanul astfel, mă vei duce până la gura iadului, să văd, dacă nu, nu pot să-ți mai scurtezi iuțeala. El pipăi șoldul și simți că cuțitul e la locul său, un cuțit mare bine ascuțit, fără de care nici un vânător nu pleacă la vânătore.</p>
+<p>— Să încercăm! Aici scoase cuțitul, și ținându-se cu o mână de coamă, cu alta înfipse în șoldul stâng, repede îl scose și îl mai băgă  a doua oară</p> 
+<p>De durere bizonul răgea și îndoi fuga, crezând prin asta să scape de inamicul de pe spatele său, dar în zadar îi era încercarea, căci Miron mereu scotea cuțitul, pentru ca să-l bage din ce in ce mai adânc.</p>
+<p>În sfirșit obosit de atâta fugă și de pierdere de sânge, el căzu în apropiere de râuleț. Căzu cu dânsul și Miron, dar fără să sufere ceva; căzu și se ridică vesel și radios.</p>
+<p>— Tot am fost eu mai tare, dobitocule, și mai norocos, căci de aș fi căzut jos, vai de pielea mea, ce mai terci făceai din persoana mea, dar acum... tu ești mort, nobil animal,... dar cum să te transport eu la colină? aici e aici...</p>
+<p>Miron, tare e bună bucuța din cocoașa bizonului de pe spinare despre
+care citise că e admirabilă la gust, mai taie și o bucată de pulpă și roșu de sânge ca un măcelar, și încărcat de carne plecă spre colină pe care dimineța o zărise, și nici nu era greu să o găsescă, trebuia numai să urmeze cursul apei pârâului.</p>
+<p>Peste vreo trei ceasuri de mers ajunse în fine la colină, se urca pe dânsa, găsi scrisoarea lui lorgu și o citi.</p>
+<p>— Al dracului lucru, nu știu ce să fac să stau aici, cum rămâne cu bizonul, să plec, când mă întorc?!...</p>
+<p>Lung s-a gândit băietanul și în sfârșit se hotărî.</p>
+<p>— Nu plec, mai bine stau aici și îi aștept. .</p>
+<p>El strânse buruieni uscate, ațâță un foc ca să-și frigă o bucată de carne.</p>
+<p>Dar n-apucă bine încă să frigă carnea cum auzi niște pași; era și de astă dată lorgu. De departe el strigă.</p>
+<p>— Tu ești, Miron?</p>
+<p>— Eu, dar cine să fie?</p>
+<p>— Alecu nu a venit?</p>
+<p>— Ași! dar de unde, îl aștept și eu.</p>
+<p>— Prost lucru, Miroane!</p>
+<p>— Cam așa, bădiță.</p>
+<p>— Ce crezi tu să facem?</p>
+<p>— Mai întâi să mâncăm, pe urmă vom vedea.</p>
+<p>— Tu tot cu mâncarea! Frate-tu poate e în pericol în momentul ăsta, și el, dă întâi să mâncăm!</p>
+<p>— Du-te dacă vrei flămând sau poate ai mâncat răbdări prăjite sau supă de vânt?</p>
+<p>— Eu însă, singur nici oțâră n-am avut în gură de ieri seară, prin urmare trebuie să mănânc căci nu înțelegi tu frațioare, că sătulul face mai mult decât 10 flămânzi!</p>
+<p>— Eu, frate știi ce, nu pot băga în mine dacă gândesc că poate...</p>
+<p>— Știu, știu, nu-mi mai cânta bufnița! Îți spun, mâncăm puțin și plecăm. Cum au zis, astfel au și făcut.</p>
+<p>Peste o jumătate de ceas, frații plecară, lăsând o altă scrisoare:</p>
+<p>«Te-am așteptat, așteaptă-ne și tu»</p>
+<p>Iorgu, Miron.</p>
+<p>Ce crezi tu că e de făcut? întrebă Miron.</p>
+<p>— După mine, răspunse lorgu, să ne ducem mai curând înapoi la Tubac și să-i povestim lui Cook afacerea.....să meargă și el cu noi în căutare, ce putem noi face, doi nepricepuți!</p>
+<p>— Ține-ți epitetul de nepriceput pentru tine, în ceea ce privește anunțarea la Tubac, eu sunt de parerea ta.</p>
+<p>Amândoi se îndreptară spre Tubac. Spre seară erau în orășel.</p>
+<p>— Ei, vânătorilor, unde e vânatul? întrebă Cook, care cel întâi îi văzu parcă era vorba să vă întoarceți mâine seară, ați uitat?</p>
+<p>— Ba nu, Mr. Cook, dar ni s-a întâmplat ceva...</p>
+<p>— Ce anume?</p>
+<p>— Până la 6 ceasuri, după amiază Alecu nu s-a mai întors spre colină, socoteam că vreo nenorocire a dat peste dânsul, am crezut să venim mai bine să spunem, decât să ne hotărâm să ne ducem să-l căutăm.</p>
+<p>— Bine ați făcut! răspunse vânătorul. Asta numesc eu a fi cu minte!</p>
+<p>Seara 10 oameni călare în cap cu Cook, Solomon și Billi Bent plecară în căutarea lui Alecu; câinele lui, Alfa, pe care el îl lăsase acasă fugea înaintea călăreților.</p>
+<p>Pe la miază-noapte sosi la colină, unde găsi biletul fraților, lăsat pentru Alecu; aici stătu noaptea și în zori de zi plecă după Alecu.</p>
+<p>Merseră până la amiază, după-amiază se risipiră doi câte doi, la vreo 500 de pași unul de altul, făcând un cerc, astfel urmară câtva timp când deodată de la un capăt al cercului se auzi o detunătură, semn ca unul din vânători găsi ceva.</p>
+<p>Cu toții s-adunară lângă un om tologit la pământ; era Alecu, care se vede lipsit de forțe, cădu in mijlocul preriei, Alfa la capul stăpânului său urla jalnic și lugubru.</p>
+<milestone unit="E.Lupu"></milestone>
+</div>
+</div>
+ 
+ <div type="part" n="2">
+  <head>GAMBUZINO SAU CĂUTĂTORII DE AUR</head>
+<div type="section" n="2">
+<head>FĂRĂ DE APĂ</head>
+<p>Razele soarelui de amiză ferbinte și pătrunzătoare cădeau asupra grămezii de oameni care înconjoară caravana de patru care, fiecare cu 6 boi. Mai mulți oameni călare urmau drumul muntos.</p>
+<p>Unul din boi de la carul din frunte căzuse sleit de căldură, osteneală și lipsă de apă. De patru zile de când compania de căutători de aur-gambusino trecuse granița provinciei Sonora intrase în stepele seci lipsite aprope de iarbă numită de Mexicani, Llanos.</p>
+<p>Era tocmai pe timpul cel mai nefavorabil, pe timpul secetei. De mai multe luni, provincia Sonora nu văzuse nici un strop de ploaie. Toate râulețele, bălțile, până și cișmelele se uscase.</p>
+<p>Nu era, dar nimic extraordinar precum caravana vechilor prieteni Djames Good, Cook și fraților Lupu compusă din 50 de oameni cu vreo 150 de capete de boi, cai și catâri ajunseră aprope, aproape să cadă din cauza lipsei de apă. Conducătorii minerilor Billi Bent și Cook, triști aprope disperați au urmat caravana. Presimțiri negre rodeau inima și sufletul fiecăruia, dar se sileau să nu le arate unul la altu.</p>
+<p>— Ce zici Billi? lung vom mai duce? întrebă John.</p>
+<p>— Dacă peste 24 ore nu vom ajunge la «Munții Pierduți», atunci de sigur vom pieri.</p> 
+<p>— Nu văd nici pe un român, urmă Cook, unde se fie ?</p>
+<p>— Miron și cu Alecu sunt în avangardă, George trebuie să fie în urmă, calul său pierduse potcoava, și îl văzusem cu negru Solomon că se ocupa de dânsa.</p>
+<p>— Oare ce stătură furgonetele și s-au grămădit oamenii, s-o fi întâmplat ceva? n-ai grijă... haideți mai repede!» Carele ajunsese aprope în creștetul muntelui și șefii erau în vale, așa că era imposibil la o distanță aproape de un kilometru să cunoască pricina opririi caravanei.</p>
+<p>In timpul acesta s-auzi un strigăt și un om călare cât îi lua piciorul calului înconjurat de nori de praf care iute se apropia spre Bent și Cook.</p>
+<p>— Mira! Mira! El Cerro Perdido1! strigă el în limba spaniolă, cu un accent care arăta că tocmai spaniol sau mexican nu e. Calul acoperit cu clăbuci mari de spumă deodată se opri lângă gambusinos.</p>
+<p>— Ce este Mr. Miron ? dumneata strigi, parcă un ligion de draci te urmăresc, ce este?</p>
+<p>— Dar ce n-ați auzit, ce v-am spus? întrebă Miron.</p>
+<p>Pornirea caravanei</p>
+<p>Vânătorii dau pinteni cailor, dar în zadar, sărmanele dobitoace abia își mișcau picioarele, numai calul lui Miron, cal de rasă, parcă nici nu simțea că nu băuse 24 de ore măcar o picătură de apă.</p>
+<p>— Dacă ar fi toți caii noștri ca al dumitale, Mr. Miron, atunci până la asfințitul soarelui am ajunge. *Cerro Perdido </p>
+<p>— Da Mauru meu parcă acum a ieșit din grajd, spuse Miron, netezind favoritul său. El încet trase de dârlog și dispăru într-un moment din ochii vânătorilor.</p>
+<p>— Bătrânul Pedro Vicente, cu care eram tocmai pe celălalt deal mi-a arătat Muntele Perdut, urma băietanul.</p>
+<p>— Și altă noutate încă: un bou de la întâiul car a căzut mort...</p>
+<p>— Se înțelege acum de ce stătură caravana, spuse Billi Bent.</p>
+<p>— Ce admirabil dobitoc, și ieftin l-ai cumpărat, reflectă Bent!</p>
+<p>— Trebue să fie de furat, ce zici, Bent?</p>
+<p>— Probabil!</p>
+<p>Vânătorii ajunseră la caravană.</p>
+<p>Conducătorii furgonetelor — arrieros, vacheros — îngrijitorii de vite împreună cu minerii, înconjurase boul căzut de la car și încercau să îl ridice în picioare.</p>
+<p>— In zadar pierdeți timpul, domnilor, le spuse Cook, nu uitați că avem încă 20 de ceasuri de mers, până ce vom atinge ținta noastră, și fiecare moment fără de apă poate să ne coste mult! Dezjugați boul și puneți altul.</p>
+<p>Porunca a fost executată și caravana porni înainte.</p>
+<p>— Priviți, acesta e Muntele Pierdut! Și acolo vom găsi apă! Aceste vorbe repetate din gură în gură cu desăvârșire ridicaseră curajul caravanei.</p>
+<p>— Ești sigur Mr. Cook că acolo vom găsi apă? întreba un glas de om, care în momentul când vânătorul trecea pe lângă car, scoase capul afară.</p>
+<p>— Fii pe pace, Mr. Good! vom găsi acolo tot ce ne trebuie.</p>
+<p>— Dar ești sigur dumneata că muntele acela ce se zărește la stânga e Muntele Pierdut ?</p>
+<p>— Mai mult decât atât, că văd persoana Dumnealui. </p>
+<p>— Mr. Good? întreba un glas subțirel din fundul carului, dar muntele acela e tare aproape și dumneata spuseseși că trebue să mai mergem 20 de ceasuri.</p>
+<p>— Așa ți se pare, Miss Blanca, vei vedea singură.</p>
+<p>— Of, ce căldură, ce căldură, suspină fostul saltinbac, m-am topit cu desăvârșire.</p>
+<p>— Totă ziulica stai trântit aici, mai ieși și tu pe afară, îi spuse sora sa Eva, care mergea alăturea cu carul.</p>
+<p>— Eu să ies afară? Dar ce, am înebunit? Și aici abia respir, dar încă să mai merg pe jos.</p>
+<p>— Atunci încalecă!</p>
+<p>— In viața mea n-am încălecat și tocmai la bătrânețe, nu merge !</p>
+<p>— Anda / Adelante / (înainte !) răcni Pedro Vicente, principalul conducător a caravanei. Și vorbele lui repetate de mineri și vacheros și urmate» de pocnituri de biciuri grăbi mersul furgonetelor.</p>
+	<milestone unit="E.Lupu"></milestone>
+</div>
+ </div>
+ 
+ <div type="part" n="3">
+  <head>GAMBUZINO SAU CĂUTĂTORII DE AUR</head>
+<div type="section" n="3">
+<head>II CAYOTEROS</head>
+<p>În amurgul zilei, pe când compania cunoscuților noștrii Lupu, aproape prăpădită de lipsă de apă, se apropia de ținta călătoriei sale, de Muntele-Pierdut, o altă ceată de oameni asemenea se apropia de acest munte, însă din partea opusă. Oamenii aceștia în număr ca de vreo 100 erau călare. Caii lor mici, dar plini de foc și iuți, cai de preerie — mustangos, de loc nu se păreau obosiți, căci proprietarii lor aleseră ca drum, valea râului Horcasitas, acoperită cu pășuni admirabile. Fețe arămii, capete acoperite cu plete lungi, împodobite cu fel de fel de lucruri bizare ca pene de vultur, piei de șerpi sunători, cozi de jaguar și altele precum și diferite culori roșii, albastre, galbene și negre care acopereau obrazul și trupul călăreților, toate arătau ca acești oameni ce fac parte într-adevar din vreun trib indian pe cale de război.</p>
+<p>Lipsa de bagaje, femei, copii și câini, dovedesc și mai mult că războiul va fi crâncen și fără de milă. Încotro se îndreptă această bandă?</p>
+<p>Muntele Pierdut sau Nauchampa-Tepetl era un loc sfânt pentru Indienii Apaces- Cayeteros, și de atâta înainte de se porni spre omoruri și prădături, ei voiau să aducă jertfe Marelui Duh și să ceară ajutorul lui în războiul contra peilor albe.</p>
+<p>înainte cu un an, locuitorii orășelului Santa Magdalena* într-o luptă contra Cayeteros* făcuse mai mulți prizonieri pe care din furie îi masacrase. Sângele vărsat cerea răsplată și indienii care știu numai o lege: ochi pentru ochi și dinte pentru dinte, plecau acum să se răzbune contra Santa-Magdalienilor.</p>
+<p>Când Muntele-Pierdut se arătă în depărtare, ceata întreagă se opri. Erau prudenți să se apropie de acest loc, atât de deseori vizitat de fel de fel de aventurieri, mai cu seamă indienii cunoșteau bine că acolo se găsea și aur.</p>
+<p>Cinci oameni din ceată se despărțiseră de ceilalți și se adunaseră într-o parte. Îmbrăcămintea, armătura, precum și caii lor mult mai superiori arătau că acești cinci trebuie să fie șefii bandei. Unul, mai ales pe care cei patru îl ascultau cu sfințenie se deosebia cu totul de ei. De o statură colosală el nu avea fața mânjită cu vopsele, numai pieptul său larg era tatuat cu diferite figuri de animale cu care el se bătu în viața sa, în mijloc era zugrăvit artistic un cap de mort încovoiat de un șarpe sunător. Acesta era emblema și numele lui căci el se numea „El Cascabel” (Șarpe sunător). După o mică discuție El Cascabel sări jos de pe cal și își înfipse  sulița în pământ, semn că aci întrega ceată va face halt.</p>
+<p>După obicei și acum Indienii după ce descălecaseră, au început prin a se îngriji de cai; au găsit o pajiște acoperită cu o iarbă moale, îi împedica și le dădu drumul să pască.</p>
+<p>Alții în acest timp strânseseră burueni uscate și lemne, căci în apropiere era o pădurice, și făcu un foc mare; vreo câțiva aleseseră doi cai mai grași și într-o clipă le tăiară gâtlejele și îi jupuiră. După asta bucăți mari de carne înfipte în bețe începu a se prăji pe cărbuni. Mâncau în tăcere. După masă aprinse pipele și fumară cu plăcere și aveau satisfacția oamenilor cărora le merge bine.</p>
+<p>Soarele se ascunse după munți și întunericul, care în țările calde survine numai decât după asfințirea soarelui, învălui întregul peisaj: trupuri de oameni învâliți în  „zerape” și rostogoliți pe iarbă și lângă caii lor, care liniștiți pășteau. Sub orizont se arăta luna și miliardele de stele foarte luminoase care împodobeau bolta cerului. Dacă ai fi privit acestă bandă atât de pașnic adormită pe câmpia nemărginită, nici nu ți-ar fi putut trece prin cap, că sunt cei mai teribili din toți Indienii din America de Nord și că s-au adunat aici nu pentru a lua aer curat ci pentru a aduce chinuri și moarte semenilor săi. Dacă ar fi știut ei că în partea opusă a muntelui se găsesc inamicii lor cei mai neîmpăcați,atunci cred că somnul fugea departe de ochii lor, și ei, în loc ca să doarmă, încălecau pentru a ajunge mai repede  „Cerro Perdido”.</p>
+<p>În sfârșit apă!</p>
+<p>În timpul acesta caravana prietenilor Lupu cu mare greutăți se apropia de Cerro-Perdido. Dobitoacele și oamenii mai mult se târau decât mergeau. Boii cât pe ce să cadă unul după altul. Lovituri de bice și strigăte de „Anda mula maldita!...” din când în când întrerupeau tăcerea de mormânt a deșertului.</p>
+<p>De la căderea primului bou mai merseră încă cinci ceasuri, însă afurisitul de munte, cum îl botezase Miron, nu se părea mai aproape decât înainte. În sfârșit spre seară s-au apropiat într-atât de Muntele-Pierdut încât acum se puteau bine distinge toate particularitățile și contururile lui ciudate. Acest munte are aspect de masă uriașă sau al unui cufăr, care se înălța deasupra planului orizontal al câmpiei. Coastele se ridicau aproape perpendicular la vreo 500 de picioare deasupra solului și erau acoperite cu o vegetație abundentă.</p>
+<p>— Mr. Cook, unde e lacul? întrebă Miron pe vânător — cu care mergea alături în capul caravanei, parcă spuneai că e aci un lac admirabil?</p>
+<p>— Lacul e în partea sudică a muntelui, și noi numai decât îl vom zări...</p>
+<p>În timpul acesta Billi Bent cu lorgu și Alecu se apropiară de dânșii.</p>
+<p>— Cook, spuse Bent încet... ce crezi n-ar fi bine să trimetem o avangardă înainte de a ne apropia de lac... cine știe ce fel de musafiri pot să fie acolo...</p>
+<p>— Dragă Billi, tu ai întotdeauna dreptate... eu am uitat unde mă găsesc. Căldura asta îmi topi și creierii din cap.</p>
+<p>— Și mie, spuse o voce la spatele lor, și bătrânul Djames Good gâfuind și suflând, ca un vapor, iute se apropie de tinerii omeni.</p>
+<p>— E tot ce se poate, urma Cook, cine știe dacă vreo bandă de hoți cu mutrele vopsite n-au ocupat Muntele; nu voi fi deloc surprins dacă până la asfințitul soarelui ne vom și bate... toate sunt posibile...</p>
+<p>— Mr. Good, luneta e cu dumneata? întreba el pe bătrânul saltimbac.</p>
+<p>— În orice moment, ziua și noaptea, nici nu mă despart de acest lucru atât de necesar în țările astea barbare.</p>
+<p>— Te rog, dacă ești bun, pentru un moment.</p>
+<p>— Cu mare plăcere.</p>
+<p>Vânătorul întinse mâna, luă luneta, o puse la ochi și lung privi coastele muntelui și locurile vecine de lac.</p>
+<p>— Nimic, absolut, spuse el, dar asta nu împedică pe mizerabilii sălbatici să se ascundă undeva în vreo crăpătură a muntelui... Bent se adresă el către amicul său, alege vreo duzină de oameni mai curajoși și cu caii mai puțin prăpădiți lasă să ne aducă vești pozitive.</p>
+<p>— Well! respunse Billi și un grup de oameni între care se găseau românii, Solomon și chiar bătrânul Good, precum și Pedro Vicente, noul amic al lui Miron și cu vreo 3 de-ai săi, repede se despărți de corpul caravanei.</p>
+<p>La o distanță de vreo 500 metri, avangarda se dădu jos de pe cai, îi legă sub un grup de arbori; aici Billi Bent urmat de ceilalți, încet cu băgare de seamă începu să înainteze spre lac.</p>
+<p>O liniște adâncă domnea pe lac și împrejurul lui. Două căprioare urmate de un pui se apropiau să bea apă. Deodată ele stătură și ridicară capetele. Capul familiei bătu supărat de vro câteva ori cu piciorul după ce tustrele o croiră la fugă.</p>
+<p>— Nu e niciun pericol până acum, spuse încet Bent, priviți căprioarele au fost speriate de noi, căci alminterea n-au fi stat aci așa de liniștite.</p>
+<p>— Dar poate mai departe este ceva? întreba lorgu.</p>
+<p>— Privește! spuse vânătorul arătând cu mâna în sus.</p>
+<p>lorgu ridică capul. Un stol de rațe sălbatice zburau spre lac.</p>
+<p>— Rațele n-ar fi zburat spre lac, dacă vedeau vreo primejdie, ăsta e cel mai bun semn... poate mai departe să fie ceva, dar aici împrejur nu e nici țipenie de om... putem să ne întoarcem, nu e nevoie să ne ducem pană la lac.</p>
+<p>Cu toții se întoarseră. Caravana întreagă nerăbdătoare aștepta rezultatul cercetărilor lui Billi.</p>
+<p>— Totul e în regulă, strigă el de departe, puteți porni, n-am găsit nimic bănuitor.</p>
+<p>După aceste vorbe din nou se auzi:</p>
+<p>„Anda! Adelante!”</p>
+<p>Douăzecizeci de minute după asta, întreaga caravană își schimbă fața. Animalele cu nările tremurătore ridicau capetele și cu forță răsuflau aerul umed. Boii începu a rage și caii a necheza. Caravana până atunci liniștită se prefăcu în ceva nemaipomenit. N-ar fi fost putere omenescă care să poată ține în loc toate aceste animale turbate de sete.</p>
+<p>— „Guarda la estampeda!” răcni Vincente, dând drumul calului în galop, după dânsul întreaga caravană începu o fugă nebună. Nu mai era nevoie de biciuri; animalele se simțeau în apropierea apei și spre dânsa își îndrepta fuga. Era o galopadă furiosă. Mulii, caii, boii, toți amestecați, fugeau de-a ruptul capului. Furgonele greu încărcate zburau cu o rapiditate nespusă abia atingând cu roțile de pământ. Din fericire nimic nu se întâmplă în furia asta.</p>
+<p>Peste puțin timp voiajorii obosiți și însetați zăriră o priveliște bucurătoare: un lac mare, imens de mare, se întindea înaintea lor. Țărmurile erau acoperite de iarbă, stuf și papură.</p>
+<p>Animalele însetate mereu urmau fuga lor nebună, până ce ajunse la apă, dar nici aici ele nu s-au oprit și intrară în lac până la gât.</p>
+<p>De aici nu se mai auzea nici muget nici nechezat, auzeau numai cum sute de guri cu aviditate înghițeau apă, și după asta o liniște și tăcere. Toate parcă se îmbătase de apă</p>
+<p>— Bine c-am ajuns, frate, spuse Alecu lui Miron, m-a plictisit deja drumul ăsta.</p>
+<milestone unit="E.Lupu"></milestone>
+</div>
+ </div>
+ 
+ <div type="part" n="4">
+  <head>GAMBUZINO SAU CĂUTĂTORII DE AUR</head>
+<div type="section" n="4">
+<head>LUPTA DE NOAPTE</head>
+<p>Caravana căutătorilor de aur atinse în sfîrșit ființa ei: era la poalele „Muntelui Pierdut”. Soarele asfințea, și ultimele raze luminau tabăra minerilor aranjate astfel, că la nevoie să poată ține piept vrăjmașilor. Conducătorii caravanei Cook, Bent și Vincente erau oamenii prea experimentați ca să nu ia toate precauțiile la caz de luptă. Furgoanele trase și puse în șir formau o baricadă formidabilă.</p>
+<p>Caii, boii și alte vite lângă tabără, pe malul lacului aveau destulă iarbă ca să nu se îndepărteze prea mult de dânsa.</p>
+<p>Aprinse focuri pentru a face mâncare și vânătorii gustau în liniștea amurgului odihna după un drum atâta de obositor.</p>
+<p>Mare parte din minerii gambuzino erau Mexicani, o alta mai mică făcea parte, din locuitorii Canadei, dar aceștia din urmă erau mai mult vânători decât căutători de aur.</p>
+<p>Împrejurul focului la marginea taberei sunt prietenii noștrii frații Lupu, James Good, Bob Cook și Pedro Vincente. Furgonu Victoria cu familia fostului director era tras la o parte. Miss Eva cu copilele pregăteau mâncarea.</p>
+<p>— Eu nu mă pot deprinde cu „tortilas” ale lor, spunea sora ex-directorului, iartă-ne doamne, dar pâinea lor e o batjocoră... fără sare, coaptă în cenușă... de multe ori crudă.</p>
+<p>— E mai bună mămăliga românilor, adaugă Blanca.</p>
+<p>— Ce are a face, spuse Nelly, nu mai e greu de făcut, de câte ori am încercat să o fac ieșea crudă.</p>
+<p>— Mr. Miron, nu oi fi așa de bun să vrei să faci „măligă”, strigă Miss Eva.</p>
+<p>— Nu, măliga Miss Eva, ci mămăliga.</p>
+<p>— Ei bine, fie cum zici, dar vino de o fă, căci la noi ea iese crudă și cu grungi.</p>
+<p>— La moment, răspunde Miron, sculându-se de lângă foc și îndreptându-se către Covcegu lui Noe, cum numea dânsul furgonu familiei Good.</p>
+<p>— Billi, ce vei crede tu despre zarea roșiatică care abia se zărește la nord-vest? întrebă Bob Cook, dând luneta amicului său. Billi luă luneta o îndreptă spre punctul desemnat și lung privi orizontul.</p>
+<p>— Nu pot să spun nimic... dar mi se pare cam ciudată zarea asta, poate că razele sorelui se răsfrâng asupra vreunui lac... sau poate că vântul ridică sloiuri de nisip...</p>
+<p>— Flacără fără foc nu există! spuse bătrânul Solomon, și dovadă că e flacără, priviți că sus e mai închisă, focul e făcut cu lemne sau buruiene umede, fumul ascunde păturile superioare.</p>
+<p>— Poate că ai dreptate... vom vedea.</p>
+<p>Alecu și lorgu priveau și dânși orizontul, dar ochii lor nedesprinși de a cerceta depărtarea, nu vedeau nimica.</p>
+<p>— Poftiți la masă, se auzi vocea Nellei, se recește mămăliga.</p>
+<p>Cu toții râse de modul cum copila pronunță cuvântul mămăligă, dar se sculă și se îndreptă spre furgon.</p>
+<p>Soarele asfinți și după asfințit întunericul cuprinse întregul peisaj.</p>
+<p>Cook se sculă și șopti ceva la urechea lui Billi.</p>
+<p>— Bine, răspunse acela, fii pe pace...eu singur cu băieții voi face prima santinelă.</p>
+<p>— Băieți, cine vrea să se ducă cu mine să vadă dacă toate sunt în regulă ?</p>
+<p>— Cu toții, răspunse Miron.</p>
+<p>Femeile s-au depărtat în furgon pe când bărbații, afară de Solomon și Good, care era cam bolnav, cu puștile pe spinare s-au sculat de la masă și au plecat.</p>
+<p>— Billi, spuse Cook, eu mă reped să văd ce face Pedro Vincente... pe când tu, vei pleca unde ți-am zis.</p>
+<p>— Bine, bine, plecă.</p>
+<p>Tabăra întregă adormise, numai pe împrejur santinelele ca niște stâlpi stăteau nemișcați și din când în când șuera încet ca să dea de veste că veghează asupra tuturor. Milioane de stele împodobeau cerul senin, pe când luna melancolică privea de sus pe gambuzinii adormiți.</p>
+<p>Caii încet rodeau iarba și sforăiau, simțind că se vede vreun lup în apropiere.</p>
+<p>La marginea opusă a taberei, patru umbre încet vorbeau între dânsele.</p>
+<p>— E timpul, băieți, spuse Billi Bent, trebuie să ne grăbim, sunteți gata?</p>
+<p>— Gata, gata, răspunse românii, nu ai decât să purcezi înainte și noi te vom urma.</p>
+<p>— Atunci să plecăm! Billi aruncă pușca pe umăr și începu repede, însă cu băgare de seamă, păși înainte spre Muntele pierdut.</p>
+<p>— Băieți, vă rog, pășiți mai cu grijă, dar fără zgomot, în pas indian, sfătui vănătorul pe români.</p>
+<p>El mergea înainte și la vreo doi pași de dânsul unul după altul ca gâștele îi urmăreau pe băieți.</p>
+<p>Deodată vănătorul căzu la pământ și românii auziră șopta: jos, jos !</p>
+<p>Dânșii urmară sfatul și căzură și ei în iarba care îi ascunse.</p>
+<p>— Veniți încoace! se auzi din nou.</p>
+<p>Cu toții s-au apropiat de vânător.</p>
+<p>— La cincizeci de pași înaintea noastră iarba se clătina, poate să fie vreun animal, dar probabil, poate fi vreun om, și dacă e astfel, atunci e vreun vrăjmaș, cu orice preț trebuie prins. . .</p>
+<p>În timpul ăsta luna se acoperi de nori și întunericul deveni mai des.</p>
+<p>— Momentul e tocmai favorabil... lângă poalele colinei de înaintea nostră, am zărit ceva bănuitor, stați voi aici, și dacă veți auzi urlete de lup, atunci săriți în ajutor...</p>
+<p>După asta românii stătură locului reținându-și aproape suflarea. Inimile le băteau și timpul se părea că trece forte încet.</p>
+<p>Deodată se auzi un urlet de lup, atât de natural și asemănător, încât fără de voie băieții începu a privi pe împreur să vadă unde se găsește animalul.</p>
+<p>Un alt urlet mai depărtat se auzi din nou.</p>
+<p>— Haideți frățiorilor, Billi Bent cere ajutor și noi stăm aici... Poate că e deja târziu.</p>
+<p>Toți trei se ridicară repede și în fugă se îndreptară spre colină. Luna din nou ieși din nori și lumina părea adormită, însă într-un loc iarba se mișca parcă era clătinată de un vânt puternic.</p>
+<p>Se auzi al treilea urlet.</p>
+<p>Nu apucară românii să-și dea seama ce să facă, cum parcă din pământ răsăriră doi oameni și se aruncară asupra lui Alecu care era înaintea fraților cu vreo câțiva pași înainte. Flăcăul avu însă timp să scoată cuțitul din brâu și a lovi pe cel dintâiul care la moment căzu jos. Miron și Iorgu apucă pe cel de-al doilea pe care Alecu îl ținea de plete. Toți patru căzură jos și fiecare din băieți izbuti să apuce pe indian de câte o mână pe când Alecu îl strângea de gât încăt sălbaticii începu a horăi dându-și sufletu.</p>
+<p>— Mai ușor, Alecule, că îl omori, spuse Iorgu, simțind cum mâna pe care o ținea el își pierdu forța.</p>
+<p>— Asta nu aș dori să o fac, dar puțin masaj la gât nu strică d-lui sălbatic, căci prea nepoliticos se aruncă asupra-mi.</p>
+<p>— Dăi drumul, Alecule, nu vezi că nu răsuflă.</p>
+<p>— Nu îl crede, se face... aoleu, nu am zis, blestematul mă încolți cu dinții.</p>
+<p>Alecu voia să-și tragă mâna însă indianul își înfipse colții încât nu era chip să o rupi. Miron apuca pe sălbatec de gât și îl strânse de astă-dată de bună seamă era cât pe ce să-și dea sufletul. El descleștă dinții și lăsă mâna lui Alecu. Bieții legară mâinile sălbaticului cu brâul lui Miron și îi băgă în gură și o batistă, ca să nu poată țipa.</p>
+<p>După asta, îl ridică și îl târî până la poalele colinei. Acolo găsi pe Billi Bent leșinat, dar viu și pe un Indian cu capul spart.</p>
+<p>Nu departe curgea un râuleț. Miron aduse apă și stropi pe vânător, care numaidecât își veni în fire.</p>
+<p>El se sculă și privi lung, frecându-și fruntea, părea aducându-și aminte de cele întâmplate, în sfârșit spuse: bine că ați venit că alminterea ne lua naiba... am crezut că e numai unu și pe când voiam să-l leg pe onorabilul, el făcu cu capul spre mort, care nici cu un preț nu voia a sta, alți mizerabili... pare-mi-se doi mă apucă de picioare, mă trânti jos, atunci am urlat de întâia oră, am izbutit să-l apuc pe unul de gât pe când mă târau, și am urlat a doua oară al treilea nici nu țin  minte când... ei, dar voi... ați scăpat cu noroc?</p>
+<p>— Cum vezi Mr. Bent: unul e omorât sau rănit de mine, altul e aici, poate vrei să-l vezi?</p>
+<p>Bent se sculă în picioare, se întări, bău încă puțină apă cu rom și spuse.</p>
+<p>— Acum băieți știm destule, ne ajunge, mâine în zori vom avea în spinarea nostră ceata întregă de acești mizerabili.</p>
+<p>— Să ne grăbim să dăm de știre. Pe cei morți îi lăsăm aici, pe acesta îl luăm cu noi.</p>
+<p>Indianu și-a venit în fire și putea sta în picioare. Ceilalți doi erau morți, morți ca toți morții. Vulturii și lupii vor avea de lucru după plecarea nostră, spuse încet vânătorul. Hai, băieți!</p>
+<p>Repede, aproape cu fuga, împingând Indianul, care nu prea vrea să mergă, înainta eroilor noștri spre tabără.</p>
+<p>— Cine vine? auziră ei de departe, stați locului că primiți un cadou de la mine, urmă vocea santinelei.</p>
+<p>— Mr. Good, noi suntem, spuse Billi râzând.</p>
+<p>— Nu știu eu, cine sunteți... spune parola, căci, îți trântesc una în cap. Cu toții auzi cum bătrânul ridica cocoșii la carabină.</p>
+<p>— Mr. Good, pentru numele lui Dumnezeu, suntem noi Billi Bent și cu Românii: Alecu, George și Miron, lasă-ne să trecem.</p>
+<p>— Nu știm „parola”, noi am plecat înainte de a se spune „parola”.</p>
+<p>— De ar ieși luna, bătrânul ne-ar vedea și ne-ar recunoște, spuse Miron, nu e ce face, să așteptăm.</p>
+<p>— Mr. Good, se supără Billi Bent, nu e timp de joc, ai să dai seama de răul pe care îl faci, ai luat prea în serios slujba de santinelă, nu avem de pierdut niciun moment, Indienii peste patru cesuri ne vor ataca, și dumneta nu ne lași se intrăm în tabără... nu cunoști vocile nostre?</p>
+<p>— Nu cunosc.</p>
+<p>— Atunci cheamă pe Mr. Cook...</p>
+<p>— Nu am nevoie să-l chem... așteptați până va ieși luna.</p>
+<p>— Luna nu mai iese, cheamă pe Pedro Vincente.</p>
+<p>— Nu am nevoie, așteptați.</p>
+<p>— A înebunit bătrânul, spuse Miron, stai, onorabile, că îți fac eu. Băietanul iute schimbă patronl din pușcă, puse altul cu ploaie și după asta, până ce ceilalți să bage de seamă, întinse pușca și trase în picioarele bătrânului.</p>
+<p>Un țipăt și o înjurătură nemaiauzită; izbucni din gura fostului director de  saltimbaci. El căzu la pământ văitându-se că l-a ucis, și că e mort.</p>
+<p>La împușcătură, la țipete alergă Cook, Vincente Solomon și alții. Aprinse făclii și atunci înțelese tot. Noroc că Mr. Good avea în piciore cizme de piele de bizon, altminterea o pățea bătrânul.</p>
+<p>— Ce eram se facem dacă onorabilul director nu vrea nici cu un preț să ne dea drumul, se justifică Miron.</p>
+<p>— În orice caz trebuia să tragi în aer, ci nu în picioarele lui Mr. Good.</p>
+<p>— Lasă, că mă iartă el, dacă va ști ce putea să facă.</p>
+<p>Billi Bent adună șefii expediției și le spuse scurt: «peste patru ceasuri vom fi înconjurați de Indienii Apaces, cei mai teribili din toate triburile sălbatice, și cei mai neîmpăcați vrăjmași al neamului nostru; am ucis pe doi spioni și am adus pe al treilea, ceata trebuie să fie mare dacă va îndrăzni se trimită spioni până la tabăra noastră.»</p>
+<p>Toți se strânseră împrejur să se sfătuiască ce să facă. Opiniile se 
+împărți: Cei mai bătrâni și mai experimentați erau de părere să părăsească lacul și să se întărească pe Muntele Perdut, cei tineri ziceau să aștepte pe Indieni în vale și să se apare.</p>
+<p>Bătrânul izbuti să convingă tinerimea să lepede toate greutățile, bagagele, vitele, în sfîrșit tot ce nu se poate sui pe Muntele Perdut.</p>
+<p>Peste o jumătate de ceas nimeni n-ar fi putut zice că pe malul sudic al lacului ar fi fost odată vreo tabără.</p>
+<milestone unit="E.Lupu"></milestone>
+ </div>
+  </div>
+ 
+ <div type="part" n="5">
+  <head>GAMBUZINO SAU CĂUTĂTORII DE AUR</head>
+  <div type="section" n="4">
+<p>Țipenie de om nu se zărea pe aici; furgonele părăsite și vitele care pășteau liniștit, iată tot ce rămase din tabără.</p>
+<p>Luna asfințise. Șeful Indienilor, Cascabel,și încă cu trei ajutoare ale sale, nu dormise în noaptea asta. Ei, la un kilometru de lagăr, așteptau întorcerea spionilor.</p>
+<p>Presupuneau că din partea opusă a Muntelui Perdut trebuia să fie ceva, căci zăriseră deasupra lacului acela, niște puncte negre care au fost recunoscute, că erau vulturi, de către agerii ochi ai șefului. Ce au căutat vulturii și încă așa de numeroși deasupra Muntelui Perdut ? Să fi fost vreun hoit acolo, nu s-ar fi îngrămădit atâția.</p>
+<p>Pe urmă, pe seară, o lumină roșiatică se ridică din partea lacului.</p>
+<p>Toate împreună făceau pe Cascabel să trimită spioni. Deja mai mult de un ceas trecuse și Indienii răbdători așteptau vreo veste, însă vremea trecea și trimișii nu se mai întorceau.</p>
+<p>— S-a întâmplat ceva, zise încet șeful suprem, nu se poate să zăbovească atât.. e vreo nenorocire.</p>
+<p>— Luna se ridica, când au plecat, și acum asfințește, urmă vorbele șefului Calul-Alb, alt șef, un tânăr înalt și spătos.</p>
+<p>— Manitu ne pedepsește, urmă vorbele celui de al treilea, un bătrân, cu niște ochi șireți și care din cauza vicleniei sale se numea Vulpe.</p>
+<p>La vorbele Vulpei, Cascabel tresări. Manitu ne va ierta, după jertfa ce o vom aduce pe Muntele Perdut.</p>
+<p>— Hug! exclamă Vulpea, dar șeful suprem uită, că mai întâi trebuie s-ajungem la Munte, să-l găsim liber și pe urmă s-aducem jertfă.</p>
+<p>Vulpea era rivalul lui Cascabel, căci după toate drepturile și după vechime el trebuia să fi fost ales ca șef după moartea Vulturului Negru, părintele lui Cascabel. Dar Vulpea n-avea tocmai calitățile necesare unui șef suprem. Dânsul era prea nehotărâtor, prea lung cumpănea pană ce-și lua o hotărâre. Cascabel era mai tânăr, dar de o bravură și cutezanță nemaipomenită. Asta făcu pe Indieni să-l alăgă, deși pe nedrept, în locul Vulturului Negru.</p>
+<p>După o tăcere, Cascabel deodată se ridică: </p>
+<p>— Vulpea va pleca și va da ordin oamenilor să fie gata; fratele meu deși bătrân, încă aleargă ca un tânăr!</p>
+<p>Vulpea era totodată și măgulit și atins de vorbele șefului. El înghiți obida, șoptind printre dinți: să nu te îneci de bătrânele mele oase.</p>
+<p>— Tânărul meu frate, s-adresă el către Calul-Alb, mă vei urma, pe când Cerbul Roșu se va duce în partea opusă ca să vadă și să audă. Indienii se înclină respectos și într-un moment dispăru în iarba înaltă a Preriei.</p>
+<p>Șeful Peilor Roșii în timp de război se bucură de o autoritate nemărginită. Lângă dânsul și după cererea lui se adună , un fel de consiliu, compus din șefii de a doua mână, , însă numai ca sfetnici; dorința și porunca șefului suprem e absolută și se execută fără dezbateri.</p>
+<p>Rămas singur cu Calul-Alb, Cascabel îi spuse: Acum noi să vedem ce s-a întâmplat cu cercetașii noștri, și, privind orizontul, adaugă: e miezul nopții, avem, până ce Pasărea Zorilor va începe cântecul său, destul timp ca să ne întoarcem îndărăt. Pleacă și eu te voi urma.</p>
+<p>Tânărul indian se culcă pe burtă și începu fără a face cel mai mic zgomot, a înainta spre apus.</p>
+<p>Peste un sfert de ceas de mers foarte greu prin câmpia deschisă, indienii s-au ridicat în picioare și merseră de la copac la copac până ce trecură și pădurea. Aici ei stau și resuflă.</p>
+<p>— Bine, îi șopti la ureche un glas, bine, fratele meu e ușor ca vântul, el poate să treacă prin rândurile vrăjmașilor, ca jaguarul printr-o stână de oi, de aici înainte vei purta numele de Yaguar!</p>
+<p>— Hug! răspunse celălalt.</p>
+<p>Niciun zgomot, o liniște de moarte împrejur, numai din când în când, departe spre munții, plânsul șacalilor răsuna jalnic și întrererup tăcerea nopții.</p>
+<p>— Mare lucru de n-au căzut în capcană oamenii noștri, șopti din nou Cascabel, și din nou se ascunse în iarbă și începu a urma drumul spre Muntele-Perdut.</p>
+<p>—Auzi? întrebă Jaguarul?</p>
+<p> Cascabel ridică capul de la pământ și clătină din el: „Nimica, ce crezi că e?“</p>
+<p>In vale, șacalii se ceartă de la un hoit.</p>
+<p>— Urechile fratelui meu sunt deschise și auzul său întrece auzul cerbilor, are s-ajungă un mare șef... pornim înainte... vom vedea.</p>
+<p>Trecu încă câtva timp; sălbaticii tot încovoiați, tot cu ochii țintiți înainte și ascultând mereu, se mai apropie de Munte. Deodată ceva negru trecu pe lângă dânșii aprope călcându-i.</p>
+<p>— Fratele meu avea dreptate, șacalii fug din drumul nostru în vale... trebue să fie ceva...</p>
+<p>— Stai aci și așteptă-mă, când vei auzi urletul de lup, apropie-te, spuse încet Cascabel, după ce ei ajunseră în vale.</p>
+<p>Zicând asta, dispăru. Peste un minut răsună un urlet jalnic, Jaguarul se sculă în picioare și se duse spre dânsul.</p>
+<p>Jos sta Cascabel lângă un cadavru, și încă altul fu zărit de Jaguar.</p>
+<p>— Doi morți, spuse repede el, al treilea urmărește inamicii, sau e prins și luat de dânșii.</p>
+<p>— Stai aici, eu mă duc să văd ce este. Cercetează ce s-a întâmplat aci, îmi vei spune la întoarcere.</p>
+<p>După plecarea lui, tânărul indian adună o mână de taio, care pe ici pe colea luminau iarba. La lumina fosforescentă a gândacilor putea fi observată pozițiunea cadavrelor, rănile lor și iarba mototolită și călcată în picioare.</p>
+<p>La venirea lui Cascabel, el îi spuse: Au fost oameni.. albi... neexperimentați de a-și ascunde faptele... tinerii ce mergeau împreună la început s-au despărțit pe urmă... găsii locul unde au stat... unul merse înainte.... a fost apucat de ai noștri, rănit, au venit pe urmă ceilalți trei, ei uciseră oamenii noștri, al treilea fuse dus de inimici... abia viu, bătut, sau rănit.</p>
+<p>— Bine, așa este, i-am urmărit pănă aprope de sentinelele lor... Pisica-Sălbatică a fost dus rănit și se găseșce Ia dânșii. Tânărul meu frate va ajunge departe...</p>
+<p>— Să mergem îndărăt, până în zori să fim la tabără; pe frații noștri omorîți îi vom lua cu noi. Acum indienii mergeau încet împovărați de greutatea cadavrelor, dar neferindu-se de nimic. Deodată un om sări dintr-o groapă de alături de dânșii. Era Cerbul Roșu.</p>
+<p>— Fratele meu, zise Cascabel, adevărat sare ca un Cerb. Ce veste mi-ai adus?</p>
+<p>Cerbul Roșu repetă șefului său noutățile deja cunoscute de noi.</p>
+<p>— Bine, spuse șeful, ai ochi de lup și urechi de vulpe, poporul nostru e fericit având asemenea ostași.</p>
+<p>Nimic nu bucură atât de mult pe un indian ca lauda, primită de la superiorul său; pentru o asemenea laudă fiecare ostaș e gata să se azvârle în foc; șiretul Cascabel cunostea bine slăbiciunea supușilor săi și nu se scumpea să-l laude, voind să-i atragă cu totul spre sine.</p>
+<p>In zori ajunseră toți trei la tabără.</p>
+<p>Acolo, mica oștire, deja călare pe cai, gata de plecare, aștepta numai sosirea șefului. Sosind, le ținu o mică cuvântare:</p>
+<p>„Fii ai bravei și puternicei națiuni, începu el cu o voce înnăbușită, trebuie să vă comunic o veste tristă. Doi din mijlocul nostru nu mai există, umbrele lor sunt acum la mare vânătoare după bizoni pe lumea cealaltă, împreună cu Manitu, părintele tuturor ființelor și creatorul universului. Inimicii noștri, neîmpăcați, care cu fețele palide, cu inimele negre, cu vitejia iepurilor, lepădătura neamului omenesc, cerșetorii nemernici ai aurului, pentru care sunt gata să-ți vîndă cinstea și sufletul, Gambuzino, mișelește au omorât pe doi și pe al treilea rănit l-au dus în tabăra lor de lângă lacul Muntelui-Perdut. Terminând discursul, chemă pe ajutorii săi, rămași în urmă cu cadavrele și arătă cetei pe cei uciși.</p>
+<p>Efectul produs de vorbele șefului fu teribil.</p>
+<p>Un urlet de ură neîmpăcată izbucni din piepturile roșilor ostași.</p>
+<p>— Da, fraților, numai moartea lor și svalpurile') atârnate în vigvamurile2) noastre ne vor mai putea puțin liniști și împăca cu moartea celor trei din cei mai bravi din ostașii noștri.</p>
+<p>După un sfert de ceas întraga  ceată în frunte cu Cascabel porni spre Muntele Pierdut. Mergeau încet unul după altul în linia indiană trimițând înainte spioni.</p>
+<p>Vreo 10 oameni rămaseră ca să îngrijăscă de cadavre. Ostașii uciși împreună cu armele lor, au fost înveliți într-o piele de bizon și aruncați într-o groapă. Întreaga ceremonie nu a durat mult; peste un sfert de ceas cei rămași ajunseră majoritatea cetei.</p>
+<p>La vreo doi kilometri de lac, Indienii se opreau. Începuse a se crăpa de ziuă, o lumină roșiatică s-aprinse la orizont, stoluri de pasări sălbatice zburau despre lac, semn că soarele trebue să răsară.</p>
+<p>În depărtare se zăreau acoperișurile albe ale furgonelor. Focurile aprinse de cu seară nu se stinseră, căci un fum alb se ridica deasupra lagărului Minerilor.</p>
+<p>Spionii se întoarseră. Vestea adusă de dânșii era cu totul favorabilă: „Albii dorm ca niște guzgani în corturile lor, spuneau ei. Îi vom omorî ca pe niște câni și carnea lor o vom arunca ciorilor și șacalilor.</p>
+<p>Cascabel se sfătuia cu șefii: „Dorm sau ne păzesc și voiesc să ne pună vreo capcană, de arată atâta liniște? nu se poate să nu știe de prezența nostră!” La aceste întrebări ale șefului, Vulpea răspunse: „Nici nu dorm, nici capcană. Am zis."</p>
+<p>— Cred că ne așteaptă și sunt pregătiți să ne întâmpine, spuse Jaguarul.</p>
+<p>— Eu însă, cred că dorm și nu știu despre prezența nostră, adăugă Cerbul-Roșu.</p>
+<p>— Vom vedea numaidecât, răspunse Cascabel, și dădu poruncă ca ceata să se împartă în două grupe și să înconjoare lagărul Pieilor albe.</p>
+<p>Indienii se despărțiră și în goana mare a cailor, porniră spre vrăjmași.</p>
+<p>La 50 de pași depărtare de corturi deodată se opriră și scoțând niște urlete asurzitoare descărcă puștile asupra corturilor și furgonelor.</p>
+<p>Din lagăr nimeni nu se mișcă.</p>
+<p>— Ți-am spus că găsești numai locul. Șeful suprem e încă tânăr și are nevoie de oameni experimentați, pasările au zburat lăsând cuiburile. Vulpea știa asta!</p>
+<p>— Părintele meu avea dreptate, răspunse Cascabel, dar în tot cazul, în apă sau în aer trebuie să fie aici nu departe.</p>
+<p>Indienii mai descarcă încă odată și văzând că nici de astă dată n-a produs nici un efect, au renunțat să mai piardă praful degeaba.</p>
+<p>Ei se apropiară de corturi și căruțe, dar și de data asta țipenie de om nu se arătă.</p>
+<p>Atunci Cascabel ridică capul în sus și văzu pe vârful Muntelui un steag mare, albastru cu roșu, care fâlfâia în aer.</p>
+<p>— Avea bătrânul dreptate, șopti el.</p>
+<milestone unit="E.Lupu"></milestone>
+  </div>
+ </div>
+   <div type="part" n="6">
+    <head>GAMBUZINO SAU CĂUTĂTORII DE AUR</head>
+    <milestone unit="(urmare)"></milestone>
+    <div type="section" n="5">
+<head>EVENIMENTELE PRIMEI ZILE</head>
+<p>Să ne întorcem la amicii noștri, frații Lupii și ceilalți, care faceau parte din caravana căutătorilor de aur de sub conducerea lui Bob Cook și Pedro.</p>
+ <p>Cititorii noștri cunosc împrejurările care au făcut pe Gambuzino să scape de Indieni pe Muntele Perdut.</p>
+<p>In primele momente, pe platoul acestui munte domnea o dezordine și o învălmășală nemaivăzută.</p>
+<p>Oamenii speriați și îngrămădiți într-un loc, vorbeau și țipau cu toții, bagajele aruncate fără nici o socoteală; sacii cu previziuni, lăzile cu munițiuni și armele, toate cereau o regulă.</p>
+<p>— Zece oameni, cu armele încărcate, să vină încoace! Tună  deodată vocea lui Cook. Ca prin minune se făcu liniște, și din cârdul de mineri se despărțiră 10 inși și se așezară lângă șeful lor.</p>
+<p>— Billi Bent cu vânătorii vor ocupa trecătoarea; apoi el mai zise: Pedro Vincente cu 20 de oameni vor așeza bagajele; Solomon cu 10 oameni va întinde corturile; cinci vânători se vor duce după vânat.. Românii vor face de gardă pe vârful muntelui.</p>
+<p>Din mulțime au ieșit Alecu și Jorgu, cât despre Miron, nimeni nu știa unde e. L-au strigat, l-au căutat prin mulțime, însă nu aflară nimic.</p>
+<p>— Dragii mei băieți, ocupați posturile, s-adresă Bob Book către Români, în ce privește dispariția amicului nostru Miron, mă voi îngriji eu singur și zicând acestea pentru ca să mai liniștească pe Alecu și Jorgu, luă pușca și se scoborî în vale prin îngusta trecătoare, prin care Gambuzino a suit muntele.</p>
+<p>In vale, la poalele Cerro-Perdito, domnea o tăcere adîncă. La o depărtare de trei kilometri, pe malul lacului, se zărea o mișcare ; indienii înconjurau fosta tabără a minerilor.</p>
+<p>De odată din tufișul de alături se auzi un geamăt însoțit de o voce plângătoare, ce zicea: O! dragul mei amic, iubitul meu Maurică, am să te pierd, ce nenorocire, ce crudă nenorocire!... După asta urmă o tăcere, un suspin, o sărutare și mai târziu din nou vocea, pe care vânătorul o recunoscu numaidecât, urmă: bietul meu cal, cum să te părăsesc, cine știe în ce mâini vei ajunge, maî bine nu te mai cunoșteam... rămâi sănătos, nu cred să ne mai vedem pe lumea asta... După aceasta, din nou, un suspin adânc și o sărutare.</p>
+<p>Vânătorul își duse mâna la ochi și-și sterșe o lacrimă.</p>
+<p>— Bietul băiat, cât de mult suferă, șopti el încet și tuși ca să fie auzit.</p>
+<p>Miron s-arătă urmat de Maurul său.</p>
+<p>— Domnule Miron, nu e timp de pierdut, zise Cook încet, întristat de figura prăpădită a băiatului, lasă calul și nu te mâhni, căci pentru un asemenea fugar speranța de scăpare nu e de tot pierdută, dar îi trebuie și lui vreme ca să se mai depărteze de bivuacul sălbaticilor. Miron mai sărută odată calul, îi netezi coama și purcese, cu capul plecat, după vânător. In timpul acesta o nechezeală ascuțită s-auzi în vale și un cal fugind cât îi lua, piciorul, s-arată urmat de vreo zece călăreți sălbatici.</p>
+<p>— Calul lui Bent, goana începe, șopti vânătorul.</p>
+<p>Vezi că am avut dreptate? Privește iapa lui Billi Bent, biata Vulpe, peste un sfert de ceas va fi în stăpînirea inamicilor noștri, dacă și de astă dată nu le va juca vreo șotie.</p>
+<p>— Așa va păți și Maurul meu? Zise Miron.</p>
+<p>— Vom vedea! Insă, în tot cazul, greu vor reuși dihăniile roșii să pună mâna pe asemenea fugari ca Vulpea și Maurul; se ne suim mai sus ca se privim goana; din partea Indienilor până acum nu e nici un pericol, căci sunt ocupați cu prinderea dobitocelor nostre.</p>
+<p>De pe o stâncă, care, prin înălțimea sa domina câmpul văzură Miron și vânătorul un tablou admirabil.</p>
+<p>Ceata sălbaticilor se despărți în trei grupuri. Un grup se ocupa cu jefuirea furgoanelor lăsate, alta, și cea mai numeroasă cu prinderea vitelor și a treia compusă, se vede, din cei mai abili lazero, pe cai mai sprinteni, caută se înconjoare iapa lui Bent.</p>
+<p>— Bob, unde ești; se auzi glasul lui Bent.</p>
+<p>— Vino aci, dar urcă-te prin dreapta, acolo e o cărărușă... se vede tot ce se petrece în vale . . .</p>
+<p>Peste un moment capul lui Bent s-arătă de după stâncă.</p>
+<p>— Bine, domnule Miron, începu el, dacă ești sănătos de ce n-ai dat cel puțin un semn de viața; toți oamenii noștri sunt înspăimântați că ți s-a întâmplat ceva.</p>
+<p>— Nu m-am dus să-l caut și nu l-am găsit? zise Cook cam supărat.</p>
+<p>— Da, da așa e, însă . . .</p>
+<p>— Taci și vino încoace, îl întrerupse Cook, Vulpea ta, Billi, e în mare primejdie.</p>
+<p>— Bătrîna mea, se poate?</p>
+<p>— Da, da, mârțoaga ta, privește.</p>
+<p>De bună seamă, iapa, care era la început la mare depărtare înaintea călăreților sălbatici, acum începuse, pe văzute a-și micșora fuga sa.</p>
+<p>— Se poate oare un cal de rasă să se lase se fie ajuns de niște mustangos ? Billi Bent nu mai zîmbi.</p>
+<p>— Lasă, lasă, zise el, vei vedea ce prețuește bătrîna mea.</p>
+<p>Iapa însă se găsea în cercul cel mai apropiat făcut de călăreți, când un indian văzînd o distanță de vreo cinci pași între dânsul și iapă, întinse mâna și aruncă lațul, însă vicleana ființă deodată stătu locului, astfel că indianul arunca în deșert lațul, și neașteptând o asemenea manevră din partea iepei nu-și putu opri fugarul și se lovi de dânsa. In timpul acesta ea se ridică puțin pe piciorele de dinainte și cu cele de dindărăt lovi așa tare în costa calului indianului încât acesta, ca secerat, se rostogoli la pămînt împreună cu călărețul. După aceasta ea își întorse capul, privi inimicul trîntit, necheză ascuțit, și facînd douâ, trei sărituri enorme, într-o clipă dispăru din ochii celor ce o urmăriau.</p>
+<p>— Ei, nu-ți spuneam eu, că bătrâna mea prețuiește ceva, ce zici amice Cook ? întreabă Billi, frecăndu-și mânele de bucurie, sunt aprope sigur, că acel cal lovit de iapa mea e mort, iar călărețul e cel puțin cu vreun picior frânt; vedeți, vedeți, n-avui dreptate? Priviți calul e mort sau rănit de moarte, iată că sălbaticii descalecă și încep a-l jupui... Bietul călăreț, urmă Billi, care avea o vedere admirabilă, iată îl ridică, îl țin ... vai! le-a scăpat, iată-1, cade jos... Îți place, D-le Miron?,</p>
+<p>— Bine, minunat, numai de ar scăpa și Maurul meu atît de fericit, cum scăpă iapa d-tale, D-le Billi, zise mai cu veselie bietul băiat.</p>
+<p>— N-ai grijă, D-le Miron, n-ai grijă, va scăpa și Maurul cu onoare.</p>
+<p>De bună seamă, parcă spre a se adeveri cuvintele spuse de vânător, goana după Maur se încinse imediat. El păștea pe malul stâng al râulețului, care se vărsa în lac. Indienii învățați minte de iapa lui Billi, făcând un semi-cerc împrejurul Iui, începură a înainta încet spre dânsul.</p>
+<p>Maurul ridică capul, privi stînca unde știea el că se află stăpînul său și necheză jalnic, parcă ar fi vrut se arate primejdia în care se afla.</p>
+<p>— Pierdut, pierdut, strigă Miron, deoparte lacul, de altă parte rîul, pe care e cu neputință să-l treacă, apoi cercul diavolilor roșii, nu-i nădejde de scăpare!</p>
+<p>— N-ai grijă, D-le Miron, nu crede, că dacă Maurul n-ar avea vreo scăpare ar paște atît de liniștit; doar nu e prost...</p>
+<p>Cercul vrăjmașilor se strângea mereu, calul urma a paște, apropiindu-se de rîu. Când primul indian ridică mâna cu lațul, calul făcu o săritură înainte și de la înălțimea malului s-aruncă drept în mijlocul rîului. Un strigăt de mânie și de surprindere izbucni din partea Indienilor.</p>
+<p>Ei, ce zici despre săritura Maurului, s-a mai văzut o asemenea săritură? întreabă râzând Cook.</p>
+<p>— Tăceți, e ceva nemaipomenit, bolborosi Bent, o săritură așa de grozavă, Doamne ferește, nu e lucru curat trebue sâ se fi făcut bucățele...</p>
+<p>Miron rămăsese cu gura căscată, cu ochii holbați, alb ca varul și tremurînd.</p>
+<p>— Privește la stînga, arată Cook, privește D-le Miron, ce vezi acolo?</p>
+<p>— Maurul care se agață ca o pisică pe celălalt mal, spuse baiatul aproape plângând de bucurie. A! Ce fericire! Ce fericire! a scăpat iubitul meu, scumpul meu, drăguțul meu cal. Și-ncepu a bate din palme și a sări de bucurie.</p>
+<p>— Mai încet, D-le Miron, mai încet, nu uita că suntem în apropierea celor mai teribili vrăjmași ai noștri. Acum după ce Maurul și cu Vulpea au scăpat, putem și noi. se ne urcăm sus.</p>
+<p>— Priviți cât de plouați se întorc indienii spre șatrele lor, zise Miron.</p>
+<p>Din depărtare vântul aduse o nechezeală, prin care Maurul parcă își lua remas bun de la stăpînul său.</p>
+<p>— Du-te sănătos, du-te, drăguțul meu, bine că ești liber, acum cred și eu că nimeni nu e in stare se pună mâna pe tine.</p>
+<p>— Ascultați, întrebă Billi Bent, n-auziți ceva ?</p>
+<p>— Ba da, ba da, un cal nechează și alții îi răspund.</p>
+<p> — Tocmai, așa este, Maurul întreabă în pustietate care din camarazii săi a rămas liber și bătrîna mea îi răspunde: eu, singură eu.</p>
+<p>Toți râseră de această explicație.</p>
+<p>— Acum să ne ținem, la noapte sau în zori de ziuă mutrele vopsite vor încerca se ne prindă și pe noi cum voiră să prindă dobitocele nostre, zise Cook, dar mare e Dumnezeu, vom vedea cine pe cine.</p>
+<p>— Să nu pățească ca și cu bătrîna mea, zise Bent.</p>
+<p>— Sau ca și cu Maurul meu, adaugă vesel Miron.</p>
+<p>Peste un sfert de ceas ei se aflau în mijlocul amicilor lor.</p>
+<p>O NOAPTE FURTUNOASĂ.</p>
+<p>În cortul principal, lângă un foc uriaș, cunoscutele ndstre, Miss Eva și ambele copilițe Nelly și Blanca se jucau lângă un cuptor improvizat de Solomon.</p>
+<p>Bătrînul negru tăia niște vreascuri, pe când James Good își fuma liniștit pipa, privind cum o bucată de carne de cerb se prăjea, stropind jăratecul tras sub ea și răspândind, în aerul de seară, o aromă îmbătător de gustosă.</p>
+<p>— Iată -ne și pe noi, zise Cook, punând pușca lângă un stejar bătrân.</p>
+<p>— Bine că ați venit și că sunteți cu toții, căci noi era aproape să murim de neliniște, ziseră femeile.</p>
+<p>— Unde ai fost Miron? se poate să te rătăcești atâta timp? Dar dacă, doamne ferește se întâmpla ceva rău cu tine.</p>
+<p>— Nu am fost departe ... în vale, îmi luai rămas bun de la Maurul meu.</p>
+<p>— Dar ce s-a întâmplat cu el ? întrebă Nelly.</p>
+<p>— Nu e timp acum domnișoară de povestit, lasă că-ți va povesti el pe urmă întâmplările Maurului; acum, D-le Miron, te rog, du-te de cheamă pe frații dumitale, dar tot odată, spune lui Paolo și lui Huan să stea la locul lor.</p>
+<p>— Cu plăcere.</p>
+<p>Peste câteva minute Românii strângeau în brațe pe ștrengarul de Miron.</p>
+<p>— Bine, mă, tu tot nu te astâmperi? îi zise răstit Alecu.</p>
+<p>— Lasă, frate, nu mă mai certa și dumneata, sunt eu destul de certat, haideți acum la cartierul general, eu sunt ordonanța șefului nostru, D-l Bob Cook, de la care v-am adus porunca, ca într-o clipă să fiți la fața locului amândoi, pe când Paolo și cu Huan vă vor înlocui. Jorgu nu zicea nimica, numai surâdea privind pe ștrengarul său frate.</p>
+<p>— Porunca e îndeplinită, D-le Cook, zise Miron grav, amândouă santinelele  sunt de față.</p>
+<p> — Bine, mulțumesc, acum la masă și pe urmă ne vom sfătui ce e de făcut.</p>
+<p>Mâncară repede și în tăcere; situația era prea gravă, ca să se permită glume, din partea celor mari, afară, se înțelege, de Miron, care izbuti în timpul mesei să supere pe Miss Eva vărsându-i cafeaua</p>
+<p>să se certe cu Jorgu și să facă pe fetițe să moară de râs povestindu-le întâmplarea cu bătrâna mârțoagă a lui Bent.</p>
+<p>— Acum tăcere, zise Cook, după ce femeile se ridicară de la masă.</p>
+<p>Știm cu toții situația noastră. Muntele numai prin strâmtoare se poate ataca; prin urmare trebuie întărită strâmtoarea. În zori, după obicei, Indienii vor căuta să ne atace; aproape e cu neputință să poată izbuti. Cunosc îndestul poziția noastră, suntem aici în siguranță, afară însă dacă vor îndrăzni să  ne asedieze; atunci vom căuta alte mijloace de scăpare. Pedro  Vincente, cam câte zile crezi d-ta să ne ajungă provizia pe care o avem ?</p>
+<p>— Nu e multă, D-le Cook, răspunse Mexicanul, pentru patru zile vom avea destulă, după acestea ce va da Dumnezeu.</p>
+<p>— Sally, se adresă Cook atunci către bătrânul negru, în privința vânatului, ce crezi? Îmi pare că ai fost astăzi la vânat ?...</p>
+<p>— Nu, nu am fost eu, dar vânătorii au ucis 10 căprioare într-un timp foarte scurt; ei spun că au văzut  destule, așa că aș  crede că putem nădăjdui ca vânat să fie destul pe munte.</p>
+<p>Se făcu tăcere, toți deveniră triști și gânditori.  </p>
+<p>— Acum trebuie să facem trecătoarea nepracticabilă.</p>
+<p>Se sculară cu toții. — Soarele apunea.</p>
+<p> — Mai avem un ceas, zise Solomon, privind soarele.</p>
+<p>— E destul timp.</p>
+<p>— Billi Bent, ocupă-te de arme și de muniții.</p>
+<p>— Solomon cu 30 de oameni va aduna toate pietrele din împrejurimi, aceasta va fi artileria noastră; zece oameni cu  D-l Good vor săpa două șanțuri; Românii cu zece oameni vor căra lemne, iar noi Vincente avem altceva de făcut.</p>
+<p>  În scurt timp platoul, până atunci tăcut și liniștit se prefăcu într-un câmp de activitate și energie. Toți din răsputeri, înțelegând, că de reușita întăririi strâmtoarei atârnă scăparea tuturora.</p>
+<p>Pietroaie enorme fură adunate și formară niște grămezi considerabile pe marginea occidentală a platoului; ca vreun stânjen de lemne uscate era așezat la îndemână. Un șanț adânc împiedica suirea pe platou; numai cu ajutorul unei scânduri late puteai trece dincolo.</p>
+<p>Cook cu Vincente plecară să viziteze locurile pentru a pune santinelele.</p>
+<p>Înainte de asfințitul soarelui întărirea muntelui era isprăvită.</p>
+<p>O liniște adâncă domnea în vale, dar printr-un ochean se putea vedea mișcarea din tabăra indienilor. Un miros de carne arsă venia din partea lacului.</p>
+<p>  În  partea opusă a strâmtorii, pe colțul unei stânci, doi oameni vorbeau încet.</p>
+<p>— Ți-e frică, Iorgule ?</p>
+<p>— Ba nicidecum . ..</p>
+<p>— Mie, frate, îmi pare că mă găsesc pe stradă în Galați.</p>
+<p>— Oare de ce Billi ne-a spus să stăm aici să-l așteptăm?</p>
+<p>— Nu știu, dar tu ce crezi ?</p>
+<p>— Vrea să ne arate ceva, poate de asta ...</p>
+<p>— Unde să fie Alecu ? se aude din nou glasul lui Miron.</p>
+<p>— E cu D-l Good și cu Vincente, vizitează santinelele.</p>
+<p>— Postul nostru e unul din cele mai importante, ai auzit ce a spus Vincente?</p>
+<p>— Ba bine că nu ...  </p>
+<p>— Privește Iorgule, continuă tot aceeași voce, abia asfinți soarele și se făcu întuneric, ai luat seama?</p>
+ <p>— Nici nu am avut când ... ce țară ciudată, aici seară, ca la noi, nu există, după zi numaidecât cade noaptea, uită-te, nu se vede nimica, și nu de mult se vedea încă destul de bine.</p>
+<p>Amândoi frații ședeau ghemuiți în iarba cea înaltă și rară de pe stâncă.</p>
+<p>Jos, în vale, se auzi urletul unui lup.</p>
+<p>— Cum urlă, săracu, trebuie să fie flămând?</p>
+<p>— Nici vorbă, răspunsE Iorgu încet; nu striga așa de tare să nu ne audă vreun blestemat.</p>
+<p>— Iorgule, auzi, parcă a căzut ceva ... ca și cum ar da cineva dura vreo pietricică?</p>
+<p>— Nu aud... mi se pare ...</p>
+<p>— Ascultă, ascultă...</p>
+<p>De astă dată jos, în vale, la poalele muntelui, se auzea un zgomot.</p>
+<p>— Jorgule, spuse Miron la urechea fratelui său, cineva umblă . . . caută ceva . . .</p>
+<p>— Auzi, parcă umblă cineva . . .</p>
+<p>Nu apucă Jorgu să pronunțe cuvintele, acestea și iată pe cer se  arătă luna. De odată tabloul se schimbă. Amândoi Românii rămaseră uimiți, cu gurile căscate, de splendoarea peisajului luminat de razele lunii.</p>
+<p>Lacul în depărtare se arată ca o oglindă imensă, stuful din împrejurul său abia se mișca clătinat de un vântișor. </p>
+<p>— Ce frumos e, privește Miroane . . .</p>
+<p>— Taci... nici o vorbă ... uită-te jos, la poalele muntelui...</p>
+<p>Iorgu încremeni, după ce aruncă o privire în jos.</p>
+<p>— Doi indieni, șopti el, doi spioni, unu are pe piept zugrăvit un cap de mort, ce urâcios e ... ce e de făcut? Să dăm de știre cuiva ...</p>
+<p>-Taci și nu face  zgomot, știu eu ce să fac; să încercăm cum bate pușca asta, darul pe care mi l-a făcut Billi; el mi-a spus că o mână sigură și un ochi bun nu pot să piardă încărcătura...</p>
+<p>Băiatul nostru întinse pușca, un superb Lancaster, ținti în mijlocul capului de mort desenat pe pieptul sălbaticului, și așteptă până ce țeava nu mai tremură și trase cocoșul. Se auzi o detunătură, un urlet de durere, poate chiar de agonie; luna se ascunse sub un nor și totul se cufundă într-un adânc întuneric. Când luna din nou se arătă pe cer, jos la poalele muntelui nu se vedea nimic, numai departe, spre lac, o umbră, cam ciudată abia-abia se zărea.</p>
+<p>— Bravo, D-le Miron, bravo, auziră băieții strigând la spatele lor glasul lui Billi Bent, am știut eu ce fac, când ți-am dăruit Lencasterul ; o lovitură admirabilă, drept în mijlocul capului... nu mai e om teribilul Cascabel, s-a dus pe lumea cealaltă. . .</p>
+<p>Vânătorul se ridică în picioare ca să strângă mâna lui Miron.</p>
+<p>— Acum nici un câine roșu nu va îndrăzni să se arate la Munte mai aproape de un kilometru ; putem deci, să ne ducem să luăm o cafea ... ce întâmplare fericită... acolo  îți voi povesti pe cine a atins glonțul d-tale.</p>
+<p>Băieții se ridicară mândri de faptul săvârșit și urmară pe Billi Bent.</p>
+<p>— Mulțumește-i numaidecât D-lui Miron și nu întreba pentru ce, vei vedea numaidecât. Cu asemenea vorbe întâmpină Billi pe amicul său Cook, când acela, obosit de atâta umblet, veni la cartierul general, cum numeau toți în glumă cortul lui James Good, să ia o cafea.</p>
+<p>— Bine, mulțumesc, dar ați auzit detunătura, de cine a fost făcută?</p>
+<p>— De dumnealui, zise Billi arătând pe Miron, care roșu de atâtea laude, nu se simțea tocmai bine.</p>
+<p>— Dumneata ai descărcat pușca, D-le Miron, ce greșeală !</p>
+<p>— Nu vorbi prostii Bob, D- l Miron a ucis, sau a rănit de moarte pe Cascabel, înțelegi tu, pe Cascabel, pe oribilul Cascabel!</p>
+<p>— Nu glumi Billi, cu asemenea lucruri nu se glumește, spuse Cook, cu o voce, cam tremurătoare... dacă e adevărat aceasta, apoi, de știu și eu, dar nu cred... ar fi prea mare fericire...</p>
+<p>— Adevărat Bob, adevărat, cu ochii mei am văzut, drept în piept l-a lovit.</p>
+<p>— Atunci, dacă e adevărat, suntem scăpați. Cook se ridică repede de pe locul unde ședea, întinse brațele și începu a strânge la piept pe băiatul nostru.</p>
+<p>— Mai încet, D -le Bob, că mi-ai strivit capul, abia putea zice Miron.</p>
+<p>La zgomotul făcut de împușcătură aproape toți Gambuzino, afară de santinele, se strânseră lângă cartierul general.</p>
+<p>-  Domnilor, se adresă Cook către mineri, o noutate fericită, Cascabel șeful indienilor, dușmanul nostru cel mai neîmpăcat, a murit de mâna D-lui Miron.</p>
+<p>Un  hola-ho zgomotos cutremură și frunzele copacilor: Să trăiască D-l Miron!</p>
+<p>   Americanii în loc de ura strigă: hola-ho.</p>
+<p>   În sănătatea eroului s-a băut un butoiaș mic de wisky. </p>
+<p>— Poftiți la cafea, se auzi glasul Evei. Cu toții se puseră împrejurul focului, căci noaptea era cam răcoroasă.</p>
+<p>— Acum să-mi povestiți cum s-au întâmplat lucrurile, se adresă Cook către Billi Bent.</p>
+<p>—  Începe D-le Miron, zise Billi, eu te voi urma.</p>
+<p>— D-l Bent, începe Miron, ne duse pe stânca dinspre apus de strâmtoare și ne zise: D-le George și D-le Miron, aici e postul cel mai important din toate, ascultați și priviți, și dacă veți vedea ceva periculos fiți bărbați. După aceasta s-a dus și noi rămaseserăm singuri. Vorbirăm, cât vorbirăm, se făcuse întuneric, de nu se vedea nimic, de odată amândoi auzim parcă un zgomot jos în vale, la poalele muntelui. Ne întrebarăm că ce putea să fie, dar cum pe neașteptate răsări luna, și se făcuse lumină ca ziua, atunci zărirăm doi sălbatici, care veneau spre munte, unu se întoarse cu fața spre noi și o rază de lună îi lumină un cap de mort zugrăvit pe piept cu culori albe.</p>
+<p>Atunci întinsem pușca ... urmarea o știți.</p>
+<p>— Eu, continuă Bent, mă  găseam tocmai în momentul acela lângă băieți, voiam să văd, cum fac dumnealor pe santinelele. Deodată apăruse luna, Cascabel cu tovarășul său nu s-au așteptat la așa ceva, ei prea s-au apropiat de Munte, luna i-a trădat. Veniseră, se vede, să asculte, sau să încerce chiar, dacă nu se poate și de altă parte să ne atace; pe urmă distanța era prea mare ca o pușcă ordinară să-i poată atinge, însă s-a întâmplat cu totul altminteri.</p>
+<p>— Să vă povestesc acum cine e Cascabel, dar pe scurt.</p>
+<p>Acum trei ani puneam capcane pe lacul Ciorci-see, unde se știe că sunt mulți castori. Lacul aparține Indienilor, așa zic ei, să presupunem, dar castorii tot lor le aparțin? În fine punem capcane și puțin ne pasă cui aparține lacul.</p>
+<p> Într-o noapte, năvăliră peste mine o ceată de sălbatici, mă legară dublu, până ce nu avui timp să zic măcar cârc! Mă trântiră pe bătrâna mea iapă și ca pe un sac mă duseră în satul lor din Munții Crik.</p>
+<p>Acolo peste două zile de chinuri mă condamnară la răstignire pe cruce.</p>
+<p>Sachem era Cascabel. El alesese moartea prin răstignire. Dar, zise el, înainte de moarte, ca să fie cunoscut pe lumea cealaltă, că a fost robul meu în viață, să-i zugrăvesc și emblema mea pe piept și, uitați-vă, port și azi emblema lui și voi purta-o până la moarte. Billi Bent își dezveli pieptul și la lumina focului cu toții văzură un cap de mort zugrăvit atât de bine, încât trebuie să fi fost artist acela care-l desenase.</p>
+<p>— Și cu ce l-a desenat ? întrebară cu toții de odată.</p>
+<p>— Cu un piron înroșit în foc, răspunse vânătorul. Sachem, șef suprem.</p>
+<p>După o mică tăcere Bent continuă: înțelegeți acum bucuria mea? Eu am rămas numai cu emblema lui Cascabel, căci izbuti  să scap din ghearele sale. M-am prefăcut că am leșinat după operație, iapa mea nu era departe, i-am făcut un semn, m-am agățat de dânsa și le-am spus rămas bun indienilor.</p>
+<p>Se făcu tăcere; de odată din vale se auzi un strigăt de răzbunare și de furie, amestecat cu alte strigăte jalnice și mișcătore.</p>
+<p>— Auziți? zise Bob, indienii  își bocesc șeful și jură răzbunare... Acum sunt sigur că Cascabel e mort...   În zori să așteptăm musafirii, — trebuie să ne pregătim să-i întâmpinăm cum se cade.</p>
+<p>Cu toții se sculară și se îndreptară spre strâmtoare.</p>
+<p>— Aprindeți focurile! zise Cook gambuzinilor de lângă strâmtoare.</p>
+<p> În curând două  focuri enorme făcute din lemne uscate fură aprinse și flacăra lor lumina departe, în jos, coastele strâmtorii.</p>
+<p>— Acum să poftească domnii indieni, dacă le dă mână, zise Billi Bent posomorât.</p>
+<milestone unit="E.Lupu"></milestone>
+     </div>
+    </div>
+ 
+ <div type="part" n="7">
+  <head>GAMBUZINO SAU CĂUTĂTORII DE AUR</head>
+<milestone unit="(urmare)"></milestone>
+<div type="section" n="6">
+<head>ATACUL DE NOAPTE</head>
+<p>Luna se ascunse în nori. Un întuneric  cuprinse împrejurul; numai focurile de pe marginea muntelui, pe ambele laturi ale trecătoarei, luminau un cerc mare în jos. Nu se auzea țipenie de om, tăcerea morții parcă a dat peste locul acesta, atât de zgomotos acum câteva ore.</p>
+<p>Departe în vale, spre lac, se auzea cum urlau lupii și din când în când la urletul lor se amesteca câte vreo voce de om intonând vreun cântec sălbatic.</p>
+<p>În noaptea asta nimeni din  ˂˂stanovistea Cerro-Perdido ˃˃ , de pe vârful muntelui, nu dormea; bărbații în număr de patruzeci cu puştile încărcate erau așezați în umbră după nişte buturugi mari tăiate de cu vreme și aduse la gura ravinului. Sub asemenea adăpost gloanțele  sălbaticilor nu erau deloc primejdioase, pe când vânătorii puteau lovi în jos de vale aproape cu siguranță.</p>
+<p>Zece oameni de lângă movilele de piatră erau gata să arunce sau să dea de  vale materialul lor de artilerie și de asediu.   Între acești zece erau și James Good și negrul Solomon.</p>
+<p>— Să fiu al dracului, dacă eu singur cu bătrânul, nu vom putea să ținem piept dușmanilor; ce zici, bătrâne? cred că nu ai uitat încă cum ne jucam cu ghiulelele câte de o sută de kilograme?</p>
+<p>Negru da din cap, scrâșnind din dinți, scuipând cu dispreț în partea indienilor</p>
+<p>— Voi, băieți, să nu apucați bolovanii cei mari, se adresa bătrânul director către mica sa comandă, voi să aruncați pietricele de cele mici, auziți?</p>
+<p>— Bine, Mr. Good, bine, răspundea comanda, râzând pe sub mustăți de activitatea celor doi herculi.</p>
+<p>— Să poftească haita roșie, să poftească, să-i arătăm noi cu Solomon ce va să zică a supăra pe James Good!</p>
+<p>Către ziuă Bob Cook încetișor atinse cu mâna pe Alecu și îi spuse la ureche.</p>
+<p>— Mr. Allik, ia pe frații d-tale și duceți-vă de vă ascundeți în  dosul ˂˂Cartierului general», femeile noastre au rămas singure fără nici o pază, doamne ferește, ce se va întâmpla...</p>
+<p>— Bine, Mr. Cook!  </p>
+<p>Și chemând pe Iorgu și Miron, care nu prea vreau să se depărteze de câmpul de luptă, plecară să îndeplinească ordonanța șefului.</p>
+<p>Femeile nu dormeau, așa că vânătorii noștri le-au găsit pregătindu-se de luptă.</p>
+<p>— Ce credeți că noi avem frică de sălbatici? vorbea Nelly arătând un revolver microscopic, habar să nu aveți de noi, duceți-vă îndărăt de unde ați venit... auzi, pază nouă ne trebuie! ? Ce zici Blancă, nu-ți vine a râde de copilandru ăsta de Miron? dumnealui a venit să ne apere, ce om strașnic! Să nu ne mănânce vreo dihanie!</p>
+<p>— Miss — răspunse eroul nostru înfuriat de asemenea întâlnire, dacă nu mi-ar fi spus Mr. Cook să vin aici, ca să nu vi se întâmple ceva, nici nu mă gândeam să vin, și d-ta în loc de recunoștință, mă batjocorești, ce vorbă e asta?</p>
+<p>— Ți-ai dat, domnule, arama pe față! Auzi, Blanco? mai bine nu mai spuneai! D-lui a venit, fiindcă i-a fost poruncit, și nu că i-a fost adevărat milă de noi și frică să nu ni se întâmple ceva rău. Frumos îți șade, D-le Miron!</p>
+<p>Băiatului îi venea să plângă de ciudă.</p>
+<p>— Să știți că dau toți sălbaticii peste tine, nu stau aici, auzi mă rog, să-și bată joc de mine nitam-nisam! Rămâi sănătoasă, domnișoară!</p>
+<p>— De ce te-ai supărat pe Miron, miss Nelly, întrebă Alecu râzând, iată că ai mai puțini păzitori!</p>
+<p>— Nici nu-mi trebuiesc păzitori, nu e așa Eva?</p>
+<p>— Nu știu, răspunse miss Eva... aș  crede de prisos pază lângă noi... puteți  să vă duceți, d-le Allik, și mulțumiți din partea mea d-lui Cook, că nu ne-a uitat. Românii, s-au întors îndărăt la posturile ce le ocupau înainte.</p>
+<p>Așa trecu noaptea, dar cu toată neliniștea și oboseala, către zori, ochii santinelelor, fără voie, începură a se închide. Cook avea grijă să spună că o jumătate din oameni să se culce de cu seară; orișicum somnul îi dobora pe cei deștepți.</p>
+<p>Când ciocârlanul de livezi începu cântecul său, Cook trezi pe toți și îi puse la cale ce să facă.</p>
+<p>— Nu vă grăbiți și nu dați în deșert; când mutrele roșii se vor grămădi mai multe, atunci să sloboziți puştile .</p>
+<p>  În  vale se auzi cum o piatră alunecând de sub un picior neîndemânatic se dădea de-a dura de vale.</p>
+<p>Acest zgomot aproape imperceptibil pentru urechea oricărui alt om, fu însă pentru Bili-Bent și Cook îndestul ca ei să priceapă ce se petrece în vale. Făcură un semn cu mâna, oamenii întinseră puştile  și așteptau.</p>
+<p>— Acum e timpul: foc! comandară ei. O detunătură de 40 de puşti,   amestecate cu țipete și urlete de 300 de sălbatici, răsună tocmai în vale, se duse peste lac și sperie păsările adormite pe apă.</p>
+<p> În  momentul când vânătorii s-au retras să-și încarce puştile, ravinul la moment se umplu de ostași indieni sub conducerea Vulpii și al Jaguarului; momentul era critic; însă se auzi vocea lui Good : loc, copii, faceți-mi loc, să le trimit un cadou! Un bolovan enorm de piatră ridicat de puternicul director, se slobozi în jos ca o ghiulea strivind și omorând tot ce întâlnea înaintea drumului său.</p>
+<p>— Acum rândul tău, Sally! O altă piatră și mai mare zbura, aruncată de negru.</p>
+<p>— Bravo! ura! am curățat ravinul.</p>
+<p>De bună seamă strâmtoarea nu mai avea oameni vii într-însa. </p>
+<p>De trei ori făcură Indienii asalt, a patra oară izbutiră să ajungă, ba chiar să treacă șanțul, după ce îl umplură cu cadavre.</p>
+<p> În  vălmășeala bătaiei, vânătorii nu mai putură trage asupra dușmanilor, care înarmați cu topoare, începură a împinge pe vânători din locul lor.</p>
+<p>Gambuzino întoarseră puştile cu patu și loveau în Indieni, însă numărul sălbaticilor creștea astfel că trebuia să facă o sforțare supra-omenească să-i respingă din nou la șanț.</p>
+<p>— La o parte, la o parte răcni de o dată Good. Salii, ține-te de mine.</p>
+<p>Și amândoi bătrânii, ca nişte giganți, înarmați cu nişte ciomege, buzdugane, pe care nu le-ar fi putut un om să le ridice, începu a lovi în sălbatici. La fiecare lovitură, omul peste care cădea teribila măciucă se prefăcea într-o bucată de carne și oase. Astfel, că în mai puțin de cinci minute nu mai rămase iarăși nici un Indian în strâmtoare.</p>
+<p>Se iviră zorile zilei. Lacurile se umpluseră de movila de cadavre aruncată în ele. Sălbaticii nu mai năvăleau, ci din fundul strâmtorii de jos trimiteau gloanțe spre vârful muntelui. Vânătorii acum descărcau și ei puştile, nefiind siguri dacă nimeresc.</p>
+<p>— Destul, nu mai stricați praful, — spuse Cook, ștergându-și fața asudată și neagră de praf.</p>
+<p>Billi Bent pe un trunchi de stejar își încărca pușca; vânătorul era rănit la piciorul drept încă de la începutul luptei, dar de pe trunchi nebăgat de nimeni în seamă descărca mereu pușca în mijlocul dușmanilor.</p>
+<p>Soarele ieși și lumina câmpul de bătaie.</p>
+<p>Priveliște tristă: Sânge și cadavre.</p>
+<p>— Acum să vedem cine a dispărut, pentru ca să nu mai apară și cine e rănit, spuse din nou Cook.</p>
+<p>Vânătorii s-au dat la o parte. Zece oameni lipseau, uciși, și 15 răniți ușor.</p>
+<p>— Ne-au frecat bine! îngână posomorât Cook, am pierdut a patra parte din oastea noastră!</p>
+<p>Miron, negru ca dracu, de praf de pușcă, umbla de colo până colo, de la un cadavru la altu, ridica, se uita și negăsind ce voia, mergea mai departe.</p>
+<p>Cook îl băgă de seamă. — Ce cauți Mr. Miron?</p>
+<p>— Îmi caut frații !</p>
+<p>— Trebuie strigați, altminterea e cu neputință să găsești aici ceva, răspunse vânătorul speriat de fața băiatului.</p>
+<p>Cu toții au căutat, însă nu au găsit nimic: Alecu și lorgu dispăruseră.</p>
+<p>Toți s-au strâns la un loc să-și dea părerea.</p>
+<p>— L-am văzut pe Mr. Alic, după a doua năvălire a sălbaticilor, se bătea lângă mine cu un indian uriaș, căruia i-a spart capul cu patul puștii, pot să vă arăt locul.</p>
+<p>De bună seamă, s-a găsit pușca lui Alecu și Indianul cu capul spart, însă românul nu era.</p>
+<p>— Pe Iorgu l-am văzut eu după primul asalt, spuse Miron, ne-am sfătuit să ne ținem împreună, astfel am izbutit să ucidem cinci sălbatici, când de odată ceva cald mă stropi drept în față, închisei ochii pentru un moment; când i-am deschis, Iorgu dispăruse, nu mai era lângă mine, numai la picioarele mele zăcea un Indian cu capul spart, se vede sângele și creierii mi-au udat fața. De atunci nu-i văzui nici pe unul nici pe altul, singur eu nu aveam când să-i caut, căci sălbaticii mă înconjuraseră din toate părțile, așa că abia scăpai din mâinile lor, cu ajutorul lui Vincente. Să nu fi fost el, mă ucideau sau mă luau cu dânșii.</p>
+<p>După ce cadavrele toate au fost ridicate, s-au văzut ca vreo sută de Indieni zăcând morți, pe munte, în șanț și în strâmtoare.</p>
+<p> Însă nici urmă de român nu era.</p>
+<p>— Evident că sunt prinși și duși prizonieri, spuse Billi Bent.</p>
+<p>— Cum, copiii mei, prizonieri? răcni James Good; ei vezi, Mr. Cook, așa e că din pricina dumitale, am pierdut pe tinerii mei tovarăși?</p>
+<p>— D-le Good, aici nu e nici locul nici timpul de a ne învinovăți unul pe altul, răspunse vânătorul. La Cartierul General ne vom încheia socotelile.</p>
+<p>Bătrânul tăcu și, luându-și vestita măciucă, porni spre cortul său, unde femeile făceau un zgomot infernal bocindu-și bărbații morți sau presupuși morți.</p>
+<p>— Ce facem Billi cu cadavrele? întreabă șeful pe amicul său, după amiezi, aici nu vom mai putea sta de miros, trebuie ceva făcut.</p>
+<p>— Tu ce crezi să faci? spuse Bent.</p>
+<p>— Să le ardem, fu răspunsul.</p>
+<p>— Astfel cred și eu!</p>
+<p>— Mai întâi să regulăm răniții, spuse Cook, și pe urmă pe cei morți.</p>
+<p>Cei 15 răniți albi și 10 sălbatici fuseseră transportați sub cortul cel mare al lui Mr. Good. Femeile cu miss Eva ca șef începuseră numaidecât îngrijirea lor. La marginea strâmtoarei patru focuri enorme fură aprinse și toate cadavrele aruncate în foc și arse.</p>
+<p>Pagubele inamicului erau mari; el a pierdut aproape a treia parte din oamenii săi. Din cei scoși vii, o mulțime erau răniți ușor, dar, în orice caz, nu ar fi putut lua la moment o parte activă în viitoarea încercare de a goni pieile albe de pe locul lor sacru.</p>
+<p>— De Indieni acum nu avem teamă, își spuse părerea sa Vincente, ar fi destul o santinelă de cinci oameni să punem; cum crede Mr. Cook?</p>
+<p>— Cred că după pierderile ce au suferit, le-a  pierit pofta să ne mai atace... putem să ne retragem.</p>
+<p>Toți s-au întors pe culmea muntelui. Acolo domnea o activitate grozavă: Miss Eva, cu ajutorul fetițelor, spăla rănile, făcea pansamente și distribuia la răniți bulion și cafea.</p>
+<p>— Tovarășii noștri nu-s grav răniți: zgârieturi și împunsături de săgeți —raporta Miss Eva lui Cook — pe când aproape toți sălbaticii, nu știu, zău, de vor scăpa cu zile.</p>
+<p>— Și de ce ?</p>
+<p>— Sunt aproape toți cu capetele sparte  și cu mâinile strivite.</p>
+<p>— Vom face și noi, ce vom putea, răspunse Cook.</p>
+<p>La vestea dispariției românilor, toate trei femeile se puseră pe bocit, astfel că, când veni Cook, fetițele se aruncară pe dânsul plângând: Bietul Alik, bietul Djordje, cine știe unde sunt acum, și cine știe ce se va întâmpla cu tovarășii noștri!</p>
+<p>Vânătorul le-a consolat, cât a putut, supând că lucrurile n-au să rămână așa, și că pentru a-i elibera, dacă sunt luați de sălbatici, el va face tot posibilul să-i scape.</p>
+<p>Fetițele triste s-au întors la răniții lor.</p></div>
+	 
+<div type="section" n="7">
+<head>O SĂRITURĂ PRODIGIOASĂ</head>
+<p>Noaptea s-a petrecut liniștit. Din partea sălbaticilor nu s-a făcut nici o încercare a pătrunde încă o dată în lagărul albilor.</p>
+<p>— Se vede că n-au șef cum se cade, vorbeau a doua zi dimineața Cook și Vincente, stând pe marginea de la răsărit și observând prin ochean mișcările Indienilor.</p>
+<p>— Ce te face să crezi astfel, Vincente ?</p>
+<p>— Apoi să piardă ocazia cea mai favorabilă a ne ataca în noaptea trecută, trebuie să fie cineva prost la culme...</p>
+<p>— Cine știe ce au de gând...</p>
+<p>— Ba’s proști.</p>
+<p>— Ce crezi Vincente, că se va petrece cu românii noștri?</p>
+<p>— Să nu ai grijă de dânșii... nu avem noi în mâinile noastre 10 oameni de ai lor, între care se găsesc și doi șefi ? Glumă e asta!</p>
+<p>— Adevărat! Azi mâine trebuie să trimită parlamentari, vom vedea ce e de făcut, în tot cazul nu li se va întâmpla nimica... până ce vom păstra bine pe cei 10 răniți. Ai pus santinela lângă dânșii ?</p>
+<p>— Apoi, nu sunt Billi Bent și Angelo culcați tot în cortul unde se găsesc și ei.</p>
+<p>— Bine zici, atunci sunt liniștit...</p>
+<p>De acolo vânătorii plecară să caute ceva vânat. Pe culmea dealului zăriră trei capete de berbeci sălbatici.</p>
+<p>— Asta ne-a trebuit nouă, observă Cook culcându-se jos la pământ, și trăgând după sine pe Vincente.</p>
+<p>— Să ne apropiem ceva, șopti Cook, distanța e prea mare.</p>
+<p>Trăgându-se pe pământ au făcut astfel ca vreo sută de pași. Înaintea lor zări ceva alb.</p>
+<p>— Oare ce să fie? întrebă încet Vincente.</p>
+<p>— Doi oameni culcați pe burtă ca și noi, și care se apropie de berbeci, oare cine să fie ?</p>
+<p>— Vom vedea numaidecât.</p>
+<p>Apropiindu-se încă vreo sută de pași, recunoscură pe Miron și pe bătrânul Solomon.</p>
+<p>La un semn făcut de Bob Cook, Miron întoarse capul și zâmbi, așteptând să se întoarcă vânătorii.</p>
+<p>  În curând toți patru începură a urmări berbecii, ascunși acum după culmea unui pisc.</p>
+<p>— Câți sunt? întrebă încet Pedro Vincente pe Miron.</p>
+<p>— Patru, tocmai cât putem duce noi...</p>
+<p>— Nu vorbiți că ne vor auzi, — spuse și mai încet Solomon... priviți că ne-au simțit... ce spuneam eu?</p>
+<p>  Într-adevăr, berbecul care se părea că e conducătorul micii  turme se arătă din nou pe piscul cel  mai înalt, acolo stătu câteva momente, bătu din picior și strigă pe cele trei tovarășe care numaidecât sosiră, voind, se vede, a se depărta de tufișul primejdios din vale, unde erau ascunși vânătorii.</p>
+<p>Însă socoti rău, căci abia se iviră celelalte animale, și Cook comandă foc: patru detunături se amestecă într-una teribilă și trei din berbeci căzură jos pe când al patrulea o croi la fugă. Apropiindu-se de marginea platoului, vânătorii văzură cum el făcu o săritură și se precipită în beznă.</p>
+<p>Ei rămaseră cu gurile căscate. Asemenea săritură de 500 metri în jos, nu era glumă!</p>
+<p> -Desigur, că bietul berbec, speriat de detunătura noastră, a sărit în prăpastie și s-a sfărâmat, trebuie să-i găsim cadavru — spuse Miron.</p>
+<p>— Nu crede, Mr. Miron, că e prost berbecul de munte, ho, ho, încă prea e cu minte, ai să vezi!  Într-adevăr, departe în vale vânătorii zăriră ceva mic care iute se apropia de pădurea vecină.</p>
+<p>— Privește, Mr, Miron, privește, iată prostul dumitale cum o întinde de îi pârâie copitele.</p>
+<p> Mult au stat vânătorii privind la locul de unde sări berbecul, observând coastele muntelui prin ochean, au observat că ele, deși   par cu desăvârșire netede și aproape perpendiculare, totuși pe ici pe colo se desenau niște ieșiri, de care se vede că știa berbecul și de care s-a servit, făcând teribila săritură.</p>
+<p>Dacă a putut ajunge valea un dobitoc prost, de ce n-am putea adică să facem asta noi oameni cu minte, cum crezi Vincente, și tu Solomon? — Cu ajutorul unei funii, răspunse Solomon, s-ar putea ajunge prea bine până acolo, la colțul cel mai apropiat de pământ, apoi de acolo parcă coasta e mai cotită...</p>
+<p>— Putem încerca, spuse Vincente, nu ne costă mult, funie avem de ajuns...</p>
+<p>— Și odată jos în vale? întrebă Miron.</p>
+<p>— O dată jos în vale, lucrul cel dintâi  ce facem — răspunse Cook — e să căutăm să dobândim carne, căci provizie avem numai încă pentru două zile și răniții trebuie să-i hrănim bine, apoi vom căuta să cunoaștem ce e cu frații D-lui, în ce stare se află și ce voiesc să facă cu dânșii.</p>
+<p>Vânătorii văzură cum el făcu o săritură și se precipită în beznă</p>
+<p>— Dar dacă astă- zi ne vor schimba atunci... nu e trebuință... răspunse Miron.</p>
+<p>— Este trebuință să cunoaștem ce vor în general să facă Indienii. Acum să mergem acasă, căci e târziu, și nu se știe ce vor mai întreprinde inamicii noștri! </p>
+<p>Au ridicat berbecii uciși și cu mare greutate au ajuns la cartierul general. Acolo au găsit toată garnizoana în mare mișcare. Veniseră solii indieni și nu voiau.</p>
+<p> — Ce este, Maurică, ce este, puiule, îl întrebă Miron, de cine îți este frică? 
+Calul nechează încet, privind cu spaimă copacul apropiat și își acoperă urechile. </p>
+<p> — Acolo, ziua e boală, bine că știu, n-ai frică, dragă, ești cu mine! </p>
+<p> În timpul ăsta, o miorlăitură s-auzi de pe copac, și două puncte luminoase se văzură din fundul frunzișului, trădând cu lumina lor fosforică, cei doi ochi ai jaguarului. Era timpul de a lua o hotărâre, căci de astă dată jaguarul se supără de prezența omului și lăsă din gâtlej un urlet puternic. </p>
+<p> — Bravo, zise Miron, te-ai dat pe față! El își puse pușca la umăr, ținti drept între cele două puncte sclipinde și trase cocoșul. După detunătură, numai se cunoscu că vânătorii erau înconjurați de o familie întreagă de jaguari. </p>
+<p> N-apucă Miron să sloboade pușca, când zări o masă mare și neagră apropiindu-se de dânșii. Abia avu timp să pună din nou pușca pe umăr și să tragă. Și de această dată, norocul îi sluji; căci fiara în care trase nu se mai mișcă. Atunci se auzi pușca lui Billi Bent și glasul lui înjurând afurisitele animale care nu lasă oamenii nici noaptea în pace; după asta se mai auzi o detunătură, însă acum dintr-o pușcă cu totul străină lui Miron. </p>
+<p> — Oare cine a împușcat, se gândi el, să fie tot Billi, dar cu care pușcă? </p>
+<p> În fine, se auzi încă o dată glasul lui Bent: </p>
+<p> — Ce faci, Ro- No, păzește-ți mâna, că rămâi fără de dânsa! </p>
+<p> — Ro- No? Care Ro- No? Indianul nostru, prizonierul? se întrebă băietanul. </p>
+<p> — Mr. Bent, răcni el, ce faci acolo, cu cine vorbești? </p>
+<p>În timpul ăsta, se mai auzi o detunătură, un urlet puternic și totul încetă deodată. Focul se aprinse ca prin minune și lumină două umbre. </p>
+<p> — Mr. Billi! răcni încă o dată Miron. </p>
+<p> Caii se astâmpărase și n-arătau o nici urmă de spaimă. </p>
+<p> — Vino încoace, vino, destul, ai piei pentru trei, patru covoare, s-auzi glasul vânătorului. </p>
+<p> Miron se apropie de foc, lângă care acum ședeau doi oameni. Un om se sculă, era Ro-No învelit în zarapa vânătorului. Soarele răsări, razele lui străbătui desișul copacilor și lumina fețele palide ale celor albi și fața roșie-arămie a indianului. </p>
+<p> — Corpul meu aparține acum fraților mei albi, spuse indianul, sufletul l-au luat încă de ieri. </p>
+<milestone unit="E.Lupu"></milestone>
+</div>
+ </div>
+</div>
+ 
+ <div type="part">
+  <head>GAMBUZINO SAU CĂUTĂTORII DE AUR</head>
+<div type="section">
+<milestone unit="Sfârșit"></milestone>
+<p> Lângă cortul lui James Good erau strânși toți prietenii noștri; lipseau numai Miron și Pedro Vicente. Domnea o tăcere; nimeni nu voia să-și arate cel dintâi părerea asupra situației.</p>
+<p> Fiecare simțea că  șederea mai prelungită ar aduce asupra lui Cerro Perdido vreun sfârșit funest, dar niciunul nu avea date pozitive pentru a-și susține părerea sa.</p>
+<p> Miron și Bent se așteptau pentru a fi lămuriți dacă noii   veniți erau indienii Comanchas, adversarii Caioteros sau vreun un alt trib sălbatic, poate chiar amical. </p>
+<p> Caioteros, cu care, dacă vă aduceți aminte, vânătorii și căutătorii noștri de aur făcură alianță, erau  din moment în moment să sosească, căci așa a fost învoiala cu șefii lor supremi, Vulpea și Jaguarul.</p>
+<p> O parte dintr-ânșii trebuiau să întărească pe Gambuzino și alta să se ascundă în apropiere și,  la timpul cuvenit, să lovească pe la spate, după obiceiul luptelor între indieni.</p>
+<p> Nu sosi nici Bet, nici noii aliați și asta punea pe toți de pe Muntele Pierdut pe gânduri.</p>
+<p> Soarele s-ascunsese după vârful codrului. Răcoarea serii făcu pe prietenii noștri să mai arunce în foc vreo trei sau patru buturugi de brad din grămada de lemne strânsă lângă cartierul general.</p>
+<p> În țările tropicale, odată cu apusul soarelui, se face atât de răcoare, că fără o bună îmbrăcăminte sau foc, e anevoie de a sta sub bolta cerului.</p>
+<p> Fraţii Lupu păreau mai trişti din întreaga adunare; Miron lipsea de două zile şi nici o veste bună sau rea nu se știa despre dânsul. </p>
+<p> Din cort se arăta Miss Eva. </p>
+<p> — Ce facem, să strângem masa sau mai așteptăm pe străinul nostru? întreba ea, adresându-se către Cook. </p>
+<p> — Cum nu, cum nu, Miss Eva, așteptăm, din moment în moment, Miron și Billi trebuie să sosească. </p>
+<p> — Dar poate să fie vreo întârziere... poate că încă n-au putut isprăvi toate treburile, îngâna cu un glas nehotărât bătrânul director de circ; el simțea o foame de nu mai putea răbda. </p>
+<p> — Ași, ce întârziere! Aud de mult tropăitul cailor prin prerie... sunt amicii noștri, sigur.... </p>
+<p> — Atunci, mai așteptăm, spuse Miss Eva. </p>
+<p> — Da, da, fără dor și poate vor fi aici peste un sfert de ceas. </p>
+<p> James Good nu spuse nimic la asemenea afirmație; el se scula numai și mai trânti pe foc un lemn  din grămadă. </p>
+<p> Jos, în vale, se auzi cârâitul coțofenei. Cook ridică privirea, se sculă de pe piatra pe care ședea și, nespunând nici o vorbă, se îndreptă spre marginea opusă a platoului unde se găsea ieșirea. </p>
+<p> Acolo, lângă un foc uriaș, zece oameni țineau santinela. </p>
+<p> Vânătorul puse mâna la gură și scoase o fluierătură, imitând atât de bine Priveghetoarea Preriei, încât unul din Gambuzino spuse încet: </p>
+<p> — Al naibii, Priveghetoare, și-a pierdut, se vede, perechea.</p>
+<p> Din nou, jos, s-auzi glasul Coțofenei, din nou Privighetoarea îi răspunse de sus. </p>
+<p> O piatră se strivi de piciorul cuiva și cu un zgomot ușor, căzu și se lovi de stâncă.</p>
+<p> Santinela se apropie de marginea ravinului și întrebă: </p>
+<p>— Cine e acolo? Răspunde sau trag!</p>
+<p> Bob Cook râse.</p>
+<p> — Lasă, amice, nu mai trage, că faci moarte de om. Nu cunoști că sunt ai noștri? </p>
+<p> — Niciun habar n-am, răspunse acela, dar dacă ziceți dumneavoastră, așa trebuie să fie. </p>
+<p> Deasupra marginei se arătă două capete și două guri strigă: </p>
+<p> — Bine v-am găsit! </p>
+<p> Erau Bent și Miron. </p>
+<p> — Bine ați venit, îi întâmpină vânătorul. Fie că ați zăbovit... Vi s-a întîmplat ceva? </p>
+<p> — Aproape nimic, răspunse Bent, dar în urma noastră sosesc și Comancos, spre zorile zilei vor fi aici. </p>
+<p> Billi Bent vorbea cu Cook într-o limbă pe care nimeni din tabără n-o înțelegea: era limba care se vorbește în nordul Canadei, o amestecătură de cuvinte indiene irocheze cu vechea franceză. </p>
+<p> — Am presimțit așa ceva, spuse posomorât Cook, - o nenorocire pe capul nostru, ne merge ca la cei spânzurați. Numai ce am scăpat ca prin minune, de  Caioteros, cum vin alți draci... însă n-avem încotro! Acum mergem să mâncăm, cu toții murim de foame. Miss Eva e supărată, i s-a stricat cafeaua.  </p>
+<p> Sosirea lui Billi și al lui Miron a fost primită de toți cu cele mai mari semne de bucurie. </p>
+<p> — Zău, dacă spuneți minciuni, v-am socotit deja între cei morți, vorbea bătrânul director de circ. Și cred că nu erați departe de moarte? </p>
+<p> — De moarte, nu tocmai, dar cât pe aproape s-o pățim.</p>
+<p> S-au pus la masă şi, după ce foamea a fost potolită cu un ceaun de cartofi fierţi şi cu câte o câşcă de cafea, Billi Bent şi cu Miron povestiră societăţii întâmplările petrecute, din momentul plecării la vânătorea după bizoni.</p>
+<p> — Ei, şi, va să zică, v-aţi întors cu mâinile goale, fără să aduceţi vreo bucăţică de carne? întrebă fostul director, şi noi cu toţii vom fi nevoiţi să roadem lemne în loc de altă mâncare. </p>
+<p> — Cu toţii râseră, astfel de neaşteptată fu încheirea lui James Cook. </p>
+<p> — Nicidecum, Mr. Cook, nicidecum, se grăbi Billi Bent să liniştească pe bătrân. </p>
+<p> Am adus cu noi peste patru sute de kilograme de pemican x), ne va ajunge pentru o săptămână, timp în care vom găsi mijloace să ieşim din încurcătură. </p>
+<p> — Bine ai vorbit, adăugă negrul Solomon, cu neputinţă să stăm mai mult decât o săptămână. </p>
+<p> Astfel, liniştiţi în privinţa merindelor, vânătorii s-au pus să se sfătuiască cum să facă să respingă şi acest viitor atac al sălbaticilor Comancos, cum a fost deja respins şi atacul săptămânei trecute, făcut de foştii inamici Caioteros. </p>
+<p> După obiceiul indian, femeile au fost foarte politicos poftite să părăsească locul de consiliu, căci după părerea tuturor, în afară numai de Miron şi Alecu, fiinţele slabe nu pot fi admise la sfat de o importanţă capitală.</p>
+<p> — Apoi, preotese Miron, istoria ne dă pilde unde sfatul femeiesc a preţuit mai mult decât acela bărbătesc, chiar şi Troia a fost luată în urma sfatului unei femei. </p>
+<p> — Se poate, dar noi vânătorii avem obiceiurile noastre, pe care nu le putem călca, am spus. </p>
+<p> Mai mult de toate, Nelly se împotrivea, zicând că ea, ca şi o fată, nu are deloc frică de toţi sălbaticii de pe suprafaţa pământului.</p>
+<p> Trecând pe lângă Miron, şi strângându-i mâna, dânsa spuse: îmi pare foarte rău, Mr. Miron că m-am putut atât de amarnic înşela în privinţa dumitale; dumneata este mai just şi decât tata. După aceea, cu capul ridicat, copila trecu pe lângă consiliul rebelilor, care păreau cam ruşinați de vorbele ei.</p>
+<p> — Ei, poftim, mai creşte copii, că să auzi asemenea vorbe, spuse bătrânul Good, privind supărat pe fiica sa.</p> 
+<p> Toţi râseră, după ce s-au pus la sfat. Părerile tuturor erau să se facă un şanţ la intrarea în ravină, să-l mineze cu trei-patru sute de kilograme de praf de puşcă şi la timp de nevoie, când inamicii vor îndrăzni să ocupe platoul, să-i arunce în aer. </p>
+<p> — Cum crezi, Billy, când vor sosi Comancos ? întrebă Cook.</p>
+<p> — Cred că peste 5-6 ceasuri după ce va ieşi luna, vor porni spre noi. </p>
+<p> — Atunci trebuie să ne grăbim. Hai, băieţi, la lucru. </p>
+<p> Bătrânul Solomon a fost însărcinat cu facerea şanţului; cinci oameni au plecat cu Miron să aducă pemicanu din vale, pe când Alecu a fost trimis în tabăra indienilor Caioteros ca să le spună că inamicii sunt la o distanţă de șase ceasuri, ca să se grăbească să trimită o jumătate din ceata lor ca ajutor, după învoială, pe când cealaltă jumătate să se pitească dincolo de lac, luând cu dânşii vitele şi caii. Luna răsări maiestuos pe cerul senin de un albastru închis, acoperit cu miliarde de stele, care mai de care mai sclipitoare.</p>
+<p> În vale nu s-auzea nici o suflare, parcă toate muriseră din tabăra indienilor, zgomotoasă cu un ceas înainte. Furgonii Gambuzino numai singuri arătau locul taberei. </p>
+<p> La marginea ravinului, un grup de cinci oameni vorbeau încetișor.</p>
+<p> — N-are să treacă un ceas până vor sosi, se auzi glasul lui Billy Bent. </p>
+<p> — Cred că mai mult, îi răspunse Cook. </p>
+<p> — Doamne fereşte.</p>
+<p> — Nu vezi nimic? s-auzi din nou un glas. </p>
+<p> — Parcă zăresc ceva... aşa este, tocmai, ei sunt, priveşte! Şi Billy întinse ochianul lui Cook. </p>
+<p> Vânătorul privi lung, după care, la rîndul său, întinse instrumentul lui Vincente— scuipând într-o parte. </p>
+<p> — Nu te-ai înşelat Billy, îi văd forte bine, acolo, la dreapta de movila aceea... </p>
+<p> Un nor acoperi luna şi valea întreagă se scufundă în întuneric. </p>
+<p> Când norul trecu în vale, la o distanţă cam de vreo trei kilometri, foarte bine se zărea şi cu ochiul liber un şir lung de călăreți, care cu mare băgare de seamă se apropiau de tabăra părăsită. </p>
+<p> La trei- patru sute de pași, indienii stătură locului, întinseră puştile şi traseră asupra furgonilor. </p>
+<p> Ecoul răsună departe peste lac, tocmai în munţii vecini. Tăcerea de după zgomotul împuşcăturilor  părea şi mai mare. </p>
+<p> Numai deasupra lacului populaţia de gâşte şi raţe sălbatice speriate de împuşcături, nu-şi putea găsi locul. </p>
+<p> Foc pentru Dumnezeu </p>
+<p> Comancos au rămas surprinşi de atâta nepăsare din partea inamicului şi mai traseră încă o dată, însă nici acum nu primiră nici un răspuns. </p>
+<p> — Trageţi, dacă aveţi mult praf de stricat, spuse Billy râzând. </p>
+<p> De sus, admirabil de bine se vedea cum indienii încă nu se hotărâseră ce să facă: să înceteze cu focul sau poate să continue. </p>
+<p>  — Acum va veni rândul nostru, dar nu cred scă se vor arunca ei aşa de-a ruptul capului, neştiind nici cu cine au de-a face? Lor nici prin minte nu le trece că în afară de noi, mai au încă de furcă şi cu vechii lor prieteni. </p>
+<p> — Ai dreptate, priviţi, întorc capetele spre noi... cred că ne-au zărit... spuse Cook punând din nou ochianul la ochi. </p>
+<p> — Eu văd şi fără ochian, cum o coadă de 100 oameni s-au dezlipit de grosul corpului lui și se îndreaptă spre noi.</p>
+<p> Băieţanul are dreptate, adăuga Cook, de bună seamă o ceată se îndrepta spre noi în galop... tăcere acum... să vedem ce vor face diavolii roşii. La o distanţă de vreo 300 de metri, cata sălbaticilor se opri deodată ca un om. Manevra a fost îndeplinită cu atâta dibăcie, încât vânătorii noştri de pe munte fără să vrea, nu s-au putut stăpâni ca să nu scoată un strigăt de mirare şi admiraţie. </p>
+<p> — Cum călăresc, cum călăresc, domnule, domnule, artiştii care ar putea să se arate la cel mai celebru circ din lume, exclamă Billy Bent, care şi singur călărea perfect.</p> 
+<p> — Dar cu asemenea adversari, e greu de luptat în câmpia deschisă, adăugă Pedro Vincente; am văzut mulţi călăreţi buni, călăreţi de meserie, ca kaució din pampele Braziliei, dar Comancos i-au întrecut pe toţi. Din mijlocul cetei s-au despărţit trei oameni; unul care călărea pe un cal sur de sânge, se ţinea puţin mai înainte, cei doi îl urmăresc ; el ţinea în mână un baston cu o cârpă albă pe dânsul. </p>
+<p> Era împodobit cu fel de fel de lucruri strălucitoare.</p>
+<p> — "Domnilor", spuse el, curat spanioleşte, adresându-se către munte, pentru Vulturul Alb, tăcerea nu înseamnă că Cerro-perdido e pustiu. Tăcerea îmi vorbeşte mai mult decât credeţi.</p>
+<p> Nu v-am făcut niciun rău ca să căutați să vă răzbunaţi contra tribului bravilor Comancos. V-aţi aliat cu inamicii noştri, şacalii preriei, Caioteros. Însă nici asta nu face nimic. V-ați aliat, că nu ați ştiut cu ce fel de pungaşi aţi avut de-a face.</p>
+<p> Marele trib Comancos iartă greşelele făcute din neştiinţă. Aliaţi-vă cu noi, daţi afară pe cânii de Coiateros şi securea războiului va fi pe veci îngropată între noi, atât de adânc, astfel încât urmaşii noştri să nu o poată dezgropa. Am spus, aştept răspuns! </p>
+<p> După logosul pronunţat, Vulturul Negru şi dă înfăţişarea unui om care e gata să aştepte întreaga noapte. </p>
+<p> — Ce e de făcut? întrebă încet Bob Cook pe camarazii săi. </p>
+<p> — Ce e de făcut? Nimic. Nu trebuie să răspundem, ce ar aduce orice răspuns, spuse Billy Bent—nu e aşa, Vincente? </p>
+<p> — Ai dreptate, cine ştie ce vrea hoţul cu mutra boită! </p>
+<p> — Atunci, să-l lăsăm să aştepte!</p>
+<p> După un sfert de ceas de aşteptare, în linişte şi tăcere de mormânt, Vulturul Negru ridica privirea şi striga:</p>
+<p> — Am aşteptat destul! Am vrut să înlătur vărsarea de sânge ce se va întâmpla, dar dumneavostră nu vreți. Așadar, să cadă, dar sângele vărsat pe capul vostru, am spus. El întoarse calul şi se îndreptă la pas spre ceata sa, care îl aştepta, şi cu care se îndreptă spre lac.</p>
+<p> — Parcă e gata tot, Billy? întrebă Cook pe amicul său Bent. </p>
+<p> Numai musafirii să vină, că masa e pusă, îi vom primi cum li se cuvine! </p>
+<p> — Păcat, răspunse vânătorul, mie, drept vorbind, sunt mai plăcuţi Comancos decât aliaţii noştri de nevoie —Caioteros. Comancos sunt cei mai curajoși şi mai cinstiţi dintre toate triburile indiene din Vest. Mi se pare foarte că trebuie să ne batem cu dânşii, dar n-avem ce face.</p>
+<p> Pe la miezul nopții, Cook şi cu Bent vizitară santinela de pe platou, şi găsiră totul în bună regulă. </p>
+<p> Aliaţii indieni, sub comanda lui Iaguar, ocupai coastele strâmtorii. Ascunşi după bolovanii mari de piatră, se purtau făcuţi şi ei din piatră. Împreună cu indienii, garnizoana platoului se ridica la o sută şi jumătate de oameni, cantitate îndestulătoare pentru a apăra o asemenea poziţie. </p>
+<p> Pe la zorile de zilei, pe când ciocârlanul ridica glasul său, anunţând apropierea dimineţii, deodată, un ţipăt sau mai nimerit de spus, un urlet asurzitor cutremura văzduhul.</p> 
+<p> Era semnalul de bătaie a Comanchilor. Numaidecât un alt urlet, nu mai puţin sălbatic, scos din gâtlejele Coiateros, le răspunde. După aceasta, se petrecu ceva de nepovestit. Sute de demoni, ca nişte smintiţi, începură a sui trecătoarea; erau Comancos; respinşi de atâtea ori de Caioteros, ei nici nu se gândeau să înceteze cu suirea, ba din contră, cu cât fură respinşi mai energic, cu atât se azvârleau mai furioşi asupra stâncilor trecătoarei, după care se țineau ascunşi adversarii lor. </p>
+<p> Furia lor, bărbăţia şi dibăcia de a urca trecătoarea fură atât de mari încât cu toate avantajele ce le aveau Caioteros, Comancos îi respinse îi arunca de vale şi, ca un potop, năvăliră asupra intrăriii întărite, unde îî aşteptau vânătorii şi Gambuzino. Era hotărît că, numai în cazul cel mai grav, adică după ce Comancos nu vor putea fi respinși şi după ce ei vor lua vârf în luptă, numai atunci să fie atraşi spre şanţul minat, pentru a fi aruncaţi în aer.</p>
+<p> Lupta devenea din ce în ce mai sângeroasă; să băteau cu straturile de puşcă, cu cuţitele, cu ciomegele. Vulturul Negru înaintea năvălitorilor, armat cu un topor colosal, spărgea şi tăia tot ce se arăta înaintea lui. Un drum mare de cadavre era aşternut în urma lui. Toţi care sau încercat să-l ţină în drumul său spre cortul general unde flutura un steag mare și alb, cu 32 de stele albastre, erau culcaţi morţi sau răniţi. </p>
+<p> — Lăsaţi-mâ pe mine, că îl voi potoli eu numaidecât, strigă James Good, mătăhăind cu un ciomag pe care îl pregătise demult, pentru orice caz.</p>
+<p> —Hei, hola, Vulture, sau mai bine Cocoşule, vino că-ţi voi arăta eu drumul spre strămoşii tăi, vino încoace şi lasă copiii să se joace, vino dacă ai curaj. </p>
+<p> De bună seamă, şeful Indienilor înţelese insultele bătrânului director de Circ sau întâmplarea îl aduse în locul unde Good sfărâma cu măciuca sa capetele indienilor. Numai, deodată, bătrînul simţi o lovitură straşnică peste mâna sa dreaptă, lovitură care făcu să scape măciuca. </p>
+<p> —Aha, tu mi-ai fost ! spuse el scrîşnind din dinţi de durere şi nelăsându-i indianului timp să-şi repete lovitura, bătrînul, cu o săritură uriaşă, se năpusti asupra adversarului său, îl apucă de mijloc cu mâna stângă, îl strînse la piept, îl ridică în sus şi îl trînti la pâmânt, aproape mort, —zdrobit. </p>
+<p> Pe de altă parte, Negru Solomon, asemenea înarmat cu o despicătură de lemn, scoase din grămadă și făcea pârjol împrejurul său. Un morman mare de cadavre era grămădit înaintea lui. El răgea ca un taur, ridica colosala sa bâtă, lovea, o ridica din nou şi îngrămădea cadavre peste cadavre.</p>
+<p> — Tinete, bătrîne, strigă el, văzând pe bătrânul director înconjurat de o ceată de indieni, care voiau să răzbune moartea şefului lor, — ţine-te bătrîne, vine Sammy, dar era târziu.</p>
+<p> Deodată, zece Comancos din cei mai vârtoşi se aruncară asupra directorului, care numai cu mâna stângă putea să se apere; unii îl apucară de picioare, alţii de mâini, alţii de gât, astfel că, sub povara greutăţii, James Good căzu, întâia dată, poate, în viaţa sa. Când sosi la locul de luptă bătrânul negru, indienii săriră de pe cadavru lui Good, ca să atace şi pe negru cum I-au atacat pe Good, dar Samuel care era mai cu seamă tare în picioare şi gât, se întări bine, strivi pe primii doi care îl apucaseră de mâini, lovi încă pe doi cu pumnii peste cap, îi culcă la pământ, întoarse unuia capul care voia să-l muşte de picior şi astfel, în mai puţin de cinci minute, toţi zăcea morţi la pământ. </p>
+<p> Speriaţi de asemenea putere, indienii se retraseră tocmai pe locul minat. Nebun de durere când văzu pe Good mort, Bob Cook răcni: "Foc, pentru Dumnezeu!" Pedro Vincente, însărcinat cu aprinderea minei, scăpără într-un burete uscat, îl apropiă de fitil şi asigurat că arde, fugi în partea opusă a platoului, strigând: "Fugiţi cu toţii, am dat foc la mină!"</p>
+<p> Peste un minut, se auzi o zguduitură care cutremură muntele şi o masă enormă de pietre și pământ se ridică în sus sub picioarele nenorociţilor Comancos. Răsări soarele şi lumina cu razele sale locul distrugerii şi măcelului. Indienii Comancos au pierdut o mare parte din ostaşii lor, iar rămăşiţile lor descurajate părăsiră Cerro-Perditto şi, sub conducerea unui şef neînsemnat, se îndreptară spre munţi, cum au declarat spionii trimişi de Caioteros.</p>
+<p> Cadavrele acelor albi, precum şi roşii, au fost îngropate într-o groapă comună la marginea ravinului. Din compania vânătorilor şi Gambuzino, abia au scăpat 15 oameni, socotind şi pe cunoscuţii noştri. Cu o companie aşa de mică nu era chip să mai sapi aur astfel că, Bob Cook cu ai săi s-au hotărît să plece în California la St. Francisco să găsescă oameni şi să revină din nou în anul viitor. Cu atât mai mult trebuiau să vină la S. Francisco că Miss Eva, cu ambele fetiţe, voia să stabilească acolo şi românii noştri. Asemenea, pierdură gustul de viaţă de aventuriei, hotărâţi a se întorce în ţară.</p>
+<p> Peste trei luni de voiaj prin munţii Sierra, au ajuns la S.Francisco. În tot voiajul au fost urmaţi de noii lor amici, indienii Caioteros, cu atât mai mult că o mare parte de voiaj trebuia să-l facă prin ţara lor, pe unde trece drumu spre California. Astfel s-a terminat voiajul fraţilor Lupu prin America. Din S. Francisco, ei împreună cu Bob Cook, Pedro Vincente şi Negru Solomon şi fiica lui Bianca s-au îmbarcat pentru Europa. Ce s-a întâmplat cu dânşii la urmă va fi descris într-o altă povestire intitulată „Diamantul pierdut". </p>
+<milestone unit="E.LUPU "></milestone>
+ </div>
+ </div>
+ </body>
+  </text>
+</TEI>

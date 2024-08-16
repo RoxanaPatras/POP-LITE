@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Olteanca cea frumoasă sau Inchiziția în Valachia în secolul al XIII-lea: ediție POPLITE </title>
+            <author>Caselli, D.</author>
+            <respStmt>
+               <resp>codare POPLITE</resp>
+               <name>Teodora Iuriusciuc</name></respStmt>  
+            <respStmt>
+               <resp>verificare codare POPLITE</resp>
+               <name>Roxana Patraș</name></respStmt>  
+            <respStmt>
+               <resp>corectură manuală</resp>
+               <name>Melisa Cazacu-Gheorghiu</name>
+            </respStmt>
+            <respStmt>
+               <resp>verificare corectură manuală</resp>
+               <name>Loredana Cuzmici</name>
+            </respStmt>
+            <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>UAIC</publisher>
+            <date></date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+            <ref type="doi" target="10.5281/zenodo.10781442"></ref>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Caselli, D.</author>
+               <title>Olteanca cea frumoasă sau Inchiziția în Valachia în secolul al XIII-lea</title>
+               <pubPlace>București</pubPlace>
+              <publisher>FOILETONUL REVISTEI LIGA ORTODOXĂ</publisher>
+               <date>1896</date>
+               <decoNote type="ilustratii" subtype="no"/>
+               <dim unit="char" type="mare"/>
+               <extent>
+                  <measure unit="word">1360</measure>
+                  <measure unit="page" type="under_250"/>
+                  <measure unit="foileton" type="under_65"/>
+                  <measure type="incomplete"></measure>
+               </extent>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme='https://opentheso.huma-num.fr/opentheso/api/theso/Typologie'>
+               <term type='domaine' ref="https://hdl.handle.net/20.500.11942/crteb7oodgosm">literatura</term>
+               <term type='factualite' ref="https://hdl.handle.net/20.500.11942/crt22aacdhvi7">fictiune</term>
+               <term type='forme' ref="https://hdl.handle.net/20.500.11942/crtnufdew1lfb">proza</term>
+               <term type='genre' ref="https://hdl.handle.net/20.500.11942/crthuyig1pxri">roman</term>
+               <term type='agencement' ref="https://hdl.handle.net/20.500.11942/crtbdm5xnc6io">foileton</term>
+               <term type='origine' ref="https://hdl.handle.net/20.500.11942/crtxolq1evsr9">opera originala</term>
+               <term type='discours' ref="https://hdl.handle.net/20.500.11942/crt4wma17ncnj">narativ</term>
+               <term type='public' ref="https://hdl.handle.net/20.500.11942/crthb4el4r5qc">non défini (public cible)</term>
+               <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
+            </keywords>
+            <keywords>
+               <term type="receptare" n="5"/>
+               <term type="republicare" n="2"/>
+               <term type="unfinished"></term>
+               
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "unfinished" indica stadiul realizarii operei de catre autor.</p>
+            <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma incompleta.</p>
+         </projectDesc>
+      </encodingDesc>
+    </teiHeader>
+ <text>
+<body>
+<div type="part" n="5">
+<p>FOIȚA ziarului „LIGA ORTODOXĂ literară”</p>
+<p>5</p>
+<p>Olteanca cea frumoasă</p>
+<p>SAU</p>
+<p>Inchiziția din Valachia în secolul al XIII-lea</p>
+ <div type="section" n="5">
+<p>Capitolul V</p>
+<p>Doamna Olara și fiul ei</p>
+<p>Această scrisoare trebuie să o ascunzi bine și să o predai în mâna Eminenței Sale! Vai de Sfinția ta dacă o pierzi și o vei da la cineva să o citească.</p>
+<p>Dacă apăsăm pe buton, imediat se deschide o ușă și intrăm într-o cameră mobilată cu cel mal mare lux.</p>
+<p>Această cameră e cabinetul de lucru al principesei Clara, soția lui Alexandru Basarab.</p>
+<p>În mijlocul camerei, se află o masă de eban și în jurul ei, două sau trei scaune îmbrăcate în catifea roșie.</p>
+<p>Camera avea două ferestre și încă o ușă.</p>
+<p>Ușa aceasta dădea în camera de dormit a principesei, iar cele două ferestre, spre curte.</p>
+<p>Ferestrele aveau perdele verzi de damasc.</p>
+<p>Niște covoare scumpe erau așternute pe jos.</p>
+<p>Pe un scaun îmbrăcat cu catifea roșie, de lângă masă, ședea principesa Clara și scria o scrisoare.</p>
+<p>Ea era o femeie cam de treizeci și cinci de ani. Purta o rochie de mătase galben cu albastru.</p>
+<p>În picioare purta niște pantofi.</p>
+<p>O piele de tigru, de o valoare mare, era așternută la picioarele sale.</p>
+<p>Cui scria dânsa această scrisoare?</p>
+<p>Această scrisoare o adresă marelui inchizitor, Andrei, din Turnu Severinului .</p>
+<p>Un zgomot de pași o făcu să tresară.</p>
+<p>Întoarse capul înspre ușa camerei de dormit și văzu că perdeaua de la ușă se dădu la o parte și un tinerel intră.</p>
+<p>Tânărul avea o înfățișare plăcută și niște apucături nobile.</p>
+<p>Era cam de optsprezece ani.</p>
+<p>Acesta nu era altcineva decât Vladislav, fiul ei.</p>
+<p>Principesa scoase un strigăt de bucurie și deschise brațele, exclamând:</p>
+<p>- Fiul meu, iubitul meu fiu!</p>
+<p>- Scumpa mea mamă! exclamă el și se aruncă în brațele ei.</p>
+<p>A fost un moment de supremă fericire, fiul și mama se imbrățișaseră și se sărutară cu tandrețe.</p>
+<p>Vladislav se desfăcu cu blândețe din brațele mamei sale și zise, vazând scrisoarea:</p>
+<p>- Cui îi scrii, dragă mamă?</p>
+<p>- Scriu eminenței sale, marelui inchizitor din Turnu Severin. </p>
+<p>- Cine este acest mare inchizitor? întreabă Vladislav cu mirare. </p>
+<p>- Marele inchizitor este un venerabil părinte din ordinul dominicanilor, dânsul este capul lor și trebuie să-ți fie sacru numele lui, fiindcă este credincios ca și mine religiei catolice. </p>
+<p>- Cum poruncește mama, așa o să fie! zise Vladislav, cu supunere. </p>
+<p>- Așa te vreau! zise mama lui. Întotdeauna trebuie să asculți. </p>
+<p>- Această scrisoare, pe care o scriu eminenței sale, este relativ la războiul în care ne aflăm. </p>
+<p>- În această scrisoare, îi descriu că voi îndupleca pe soțul meu de a primi toate condițiile impuse de către regele Ungariei, Carol Robert.</p>
+<p>- Cum așa? zise Vladislav. </p>
+<p>- Tatăl tău va lăsa orașul Turnu Severin în posesia regelui Carol Robert - continuă mai departe principesa Clara- va plăti un mic tribut regelui Ungariei și, ca zălog, te va trimite pe tine să servești în curtea regală a lui Carol Robert. Vrei să mergi?</p>
+<p>- Dacă dumneata, mama mea, poruncești, eu să mă supun la toate - replică Vladislav. </p>
+<p>- Am scris mai departe marelui inchizitor că vei fi tratat cumsecade și vei căpăta și un ordin de la rege. 
+La toate acestea, va mijloci marele inchizitor, pe lângă Carol Robert. </p>
+<p>- Mă duc cu bucurie, zise Vladislav. Acolo îmi voi face un nume celebru și temut. </p>
+<p>- Toți se vor teme de mine, adăuga Vladislav cu însuflețire. </p>
+<p>- Așa te vreau - zise mama cu bucurie, sărutând pe fiul ei. 
+Dacă vrei, poți să te duci acum să te plimbi puțin prin grădină, timpul este frumos. </p>
+<p>Imediat după plecarea fiului său, principesa Clara se sculă și lovi cu un ciocănaș într-o tablă de argint, care scoase un sunet răsunător.
+ Îndată, apăru camerista ei. </p>
+<p>- Introdu pe pater Mateus - zise principesa Clara, cu un ton poruncitor!
+Camerista se înclină și părăsi sala. </p>
+<p>Îndată, după aceea, perdelele se dăduseră la o parte, și un călugăr, de o statură medie, se închină înaintea ei. </p>
+<p>-Venerabile pater - zise principesa Clara către călugăr - vei duce această scrisoare marelui inchizitor, Andrei, la Turnu Severin. M-ai înțeles? </p>
+<p>- Va urma -</p>
+<p>D. CASELLI</p>
+</div>
+</div>
+   <div type="part" n="7">
+      <p>FOIȚA ziarului „LIGA ORTODOXĂ literară”</p>
+      <p>7</p>
+      <p>Olteanca cea frumoasă</p>
+      <p>SAU</p>
+      <p>Inchiziția din Valachia în secolul al XIII-lea</p>
+      <div type="section" n="6">
+         <p>Capitolul VI</p>
+<p>În acest moment, erau așa de frumoși, încât cineva, văzându-i, ar fi zis că erau doi îngeri coborâți din cer. Fata a fost aceea care rupse întâi tăcerea. </p>
+<p>- Ei bine - zise ea cu vocea emoționată și tremurătoare, dar fericita - vezi, iată-ne!</p>
+<p>- Ah! Ana, nu mă așteptam mai puțin de la amorul dumitale, murmură tânărul. </p>
+<p>- Și acum, o să te îndoiești? întrebă Ana, cu un glas mângâios și cu un zâmbet care conținea toate bucuriile cerului. </p>
+<p>-Pentru ce îmi zici asta? replică Vladislav, atragând binișor fata pe pieptul său. </p>
+<p>Mă mai pot îndoi oare despre ceea ce e lumină, despre ceea ce e adevăr, despre ceea ce e viața, și oare nu ești dumneata toate acestea, Ana?</p>
+<p>- Nu știu, dar lucrul de care sunt sigură este că te iubesc din tot sufletul și pentru totdeauna. </p>
+<p>- Da, o cred, Ana!</p>
+<p>-Vladislav, astă seara ești  mai trist decat de obicei.</p>
+<p>- Nu sunt trist, Ana, sunt nenorocit. </p>
+<p>- Și, cu toate astea, suntem împreună!</p>
+<p>- Da, răspunse Vladislav, cu vocea dureroasă - dar pentru ultima oară!</p>
+<p>- Ce vrei să zici cu asta, iubitule?</p>
+<p>- Peste câteva zile plec în Ungaria. </p>
+<p>- Pleci în Ungaria - repetă fata cu vocea zdrobită - la cine?</p>
+<p>- În serviciul regelui Carol Robert!</p>
+<p>- În serviciul regelui Carol Robert? zise fata cu mirare.</p>
+<p>- Da!</p>
+<p>- Ce vei face acolo?</p>
+<p>- Voi servi la dânsul, așa mi-a zis mama!</p>
+<p>Se făcu o tăcere profundă.</p>
+<p>-Dacă tatăl meu nu mă va opri - reluă Vladislav,trebuie să mă conformez poruncii mamei mele.</p>
+<p>- Pentru ce vei pleca în Ungaria?</p>
+<p>- Uite de ce: tatăl meu va încheia un tratat cu regele Carol Robert, în privința războiului de față.</p>
+<p>Condițiile acestui tratat sunt: Principele Alexandru Basarab - adică tatăl meu - va lăsa Banatul Severinului în mâinile lui Carol Robert, va plăti pe deasupra spezele războiului și un mic tribut și ca zălog va trimite pe fiul său - adică pe mine - să servească la curtea regească. -</p>
+<p>Dar acum că te am aici -  continuă Vladislav - pe inima mea, lasă-mă să te privesc, să te contemplez, să te ador .</p>
+<p>Asta îți dau cu plăcere voie să o faci, răspunse Ana cu naivitate - deoarece, în acest timp, eu din partea mea aș face același lucru.</p>
+<p>Și se priviră, într-adevăr, cu acel amor, cu acea beție, cu acea reculegere, căci sunt darurile fericite ale anului optsprezece și pe care nu le mai regăsim niciodată după ce ne-am dezvățat de ele.</p>
+<p>Vai! Omul nu e tânăr decât odată. </p>
+</div>
+ <div type="section" n="7">
+    <p>Capitolul VII</p>
+    <p>DIPLOMA REGELUI BELLA IV</p>
+<p>Regele Ungariei, Carol Robert Neapolitanul, avea un drept nu numai asupra Banatului Turnului Severin, ci și asupra Valahiei întregi. </p>
+<p>Se știe că aceste două voievodate din Oltenia și Valahia făceau parte din Imperiul Bulgaro-Românilor. Iar la o mie două sute treizeci, devenind dependente de Regatul Ungariei, încet-încet, regele Bella al IV-lea reușește a câștiga suveranitatea asupra lor, folosindu-se, în aceasta, de slăbirea în care căzuse Imperiul Bulgaro-Român, după moartea lui Ion Asen al II-lea, sub Calliman. </p>
+<p>Pentru aceste timpuri este de însemnat diploma regelui Bella al IV-lea, dată cavalerilor Ioaniți la anul o mie două sute patruzeci și șapte.  </p>
+<p>Pentru care scop a stabilit regele Bella al IV-lea pe acești așa-ziși cavaleri în Oltenia?</p>
+<p>Pentru propaganda catolică. </p>
+<p>Ținta Ungurilor, susținuți de Papa de la Roma, era catolicizarea românilor.   </p>
+    <p>- Va urma -</p>
+    <p>D. CASELLI</p>
+ </div>
+   </div>
+</body>
+    </text>
+</TEI>
