@@ -39,12 +39,12 @@
                <pubPlace>Brașov</pubPlace>
                <publisher>EDITURA LIBRĂRIEI CIURCU</publisher>
                <date>1892</date>
-               <decoNote type="ilustratii" subtype="yes"/>
-               <dim unit="char" type="mare"/>
+               <decoNote type="illustration" subtype="yes"/>
+               <dim unit="char" type="big"/>
                <extent>
                   <measure unit="word">30999</measure>
                   <measure unit="page" type="under_250"/>
-                  <measure unit="foileton" type="under_65"/>
+                  <measure unit="feuilleton" type="under_65"/>
                   <measure type="complete"></measure>
                </extent>
             </bibl>
@@ -64,8 +64,8 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="5"/>
-               <term type="republicare" n="2"/>
+               <term type="reception" n="5"/>
+               <term type="print_count" n="2"/>
                <term type="finished"></term>
                
             </keywords>
@@ -73,8 +73,8 @@
       </profileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
             <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
             <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
          </projectDesc>
@@ -83,8 +83,8 @@
    <text>
    <body>
          <div type="chapter" n="1">
-            <p>I.</p>
-            <p>Era o frumoasă dimineață de primă-vară. — Soarele arunca razele-i aurii și bine făcătoare asupra satului Gruen. — Bătrâna Vochița, eșise in bătătură să dea grăunțe paserilor și în cele mai fragete desmierdări își hrănea bobocii și puișorii.</p>
+            <head>I.</head>
+            <p>Era o frumoasă dimineață de primăvară. — Soarele arunca razele-i aurii și bine făcătoare asupra satului Gruen. — Bătrâna Vochița, eșise in bătătură să dea grăunțe paserilor și în cele mai fragete desmierdări își hrănea bobocii și puișorii.</p>
             <p>Ochii bătrânei erau obosiți.— Părea că nu dor-mise toată noaptea.— După ce termină de hrănit paserile, se așeză pe prispă și cu nerăbdare 'și arunca din când în când privirile spre drumul cel mare. — Aștepta pe cine-va. — Cine putea desluși.— De o cam dată vom spune numai, că, după o lungă așteptare, bătrâna intră în casă, își îmbrăcă o scurteicuță și porni spre biserică.</p>
             <p>— Mă duc să întâlnesc pe moș popa, mur-mură ea, lucrul nu-mi pare curat.</p>
             <p>Peste un moment dispăru. In urma ei ușa se întredeschise și un cap omenesc apăru, care urmări cu privirile pe bătrâna Vochița;—și când se asigură că ea nu mai putea vedea nimic in urmă, acel om misterios se arătă în întregul său.</p>
@@ -164,7 +164,7 @@
             <p>Aceasta e în rânduiala naturei.—Florile mor, dar vestejindu-se, ele îmbălsămesc aerul cu dul-cele lor parfume și ornează câmpiile cu dalbele lor frumuseți.</p>
          </div>
          <div type="chapter" n="2">
-            <p>II</p>
+            <head>II</head>
             <p>Era în luna lui Mai. Aerul era dulce și par-fumat; paserile cântau prin dafini și prin bos-chete. — Nu departe de orășelul din munți dili-gența, care venea din Târgoviște, cobora o repede coastă, încărcată de călători.—Printre persoanele care ocupau fundul diligenței, se afla și un tî-năr, a cărui nobilă figură, brună, se distingea dintre cele alte.—Acest tînăr avea ca la 22 de ani.</p>
             <p>— Mai avem mult până să ajungem? întrebă el pe unul din vecinii săi.</p>
             <p>— Vre-o două ceasuri, așa cred, răspunse în-trebatul.</p>
@@ -223,7 +223,7 @@
             <p>— Corbeo!... strigă Marioara și căzu jos fără cunoștință.</p>
          </div>
          <div type="chapter" n="3">
-            <p>III</p>
+            <head>III</head>
             <p>La sunetul ce produse detunarea revolverului lumea din salonul vecin alergă spăimântată.</p>
             <p>Tabloul ce o aștepta aci, era înfiorător: Ia-nacbe zăcea pe scânduri în mijlocul camerei și cu cămașa sângerată; Marioara leșinată pe o ca-napea și Corbea palid, lângă dânsa, palid cu sprân-cenile crunte, aștepta evenimentele cu sânge rece.</p>
             <p>Invălmășeala fu mare. Câte-va doamne, leșinară. — Cuconul și cucoana Arhondărescu, crezând că Marioara e moartă scoaseră țipete îngrozitoare.</p>
@@ -266,8 +266,8 @@
             <p>Corbea și Marioara erau dar fericiți.</p>
          </div>
          <div type="chapter" n="4">
-            <p>IV</p>
-            <p>Dioa necinstei se apropia. — Corbea trebuea să fie judecat, și poate spânzurat. — Toată lumea ar fi fost de sigur în favoarea lui Corbea, dacă Chesat 
+            <head>IV</head>
+            <p>Zioa necinstei se apropia. — Corbea trebuea să fie judecat, și poate spânzurat. — Toată lumea ar fi fost de sigur în favoarea lui Corbea, dacă Chesat 
                   Efendi
                 și toți lingușitorii lui n-ar fi căutat toate mijloacele să 'l condamne la moarte.</p>
             <p>Să-i fi auzit, ai fi crezut că Ianache fusese un sfânt, un om muncitor și plin de virtute, care 'și câștigase averea în modul cel mai onorabil, cel mai constiincios, care făcea onoare orașului și cele-l-alte.</p>
@@ -317,7 +317,7 @@
             <p>Iată pentru ce câinele Leu, rămas în urma lui Corbea, urla în toate zilele dimineața și seara</p>
          </div>
          <div type="chapter" n="5">
-            <p>V</p>
+            <head>V</head>
             <p>Era noapte. Alexandru III Vodă, sta într-o sală înconjurat de curtezanii săi cei mai de aproape. Acest om era în vârsta dintre bătrânețe și ma-turitate; figura lui esprima pismă și răutate. In adevăr, cercetând viața sa, vedem trăsuri de ace-lea ce ne arată pe omul pismăreț, bănuitor, cu suflet mic, fără conștință, fără principii nici în viață privată nici în viață politică, iubind tro-nul numai pentru tron.</p>
             <p>In acest moment un Bulubașa anunță că sei-menii au adus pe Corbea.</p>
             <p>— Să-l aducă aici, zise Domnul.</p>
@@ -342,7 +342,7 @@
             <p>Guardienii plecară la închisoare.</p>
          </div>
          <div type="chapter" n="6">
-            <p>VI</p>
+            <head>VI</head>
             <p>— L-ai cuminicat părinte? întreabă unul din ei întorcându-se către preot. Gădea așteaptă... cată să sfârșim odată.</p>
             <p>— Preotul dete cuminicătura lui Corbea. Acesta o sorbea și zise:</p>
             <p>— Voința lui Dumnezeu fie îndeplinită!...</p>
@@ -378,7 +378,7 @@
             <p>Spre acest scop el trimiese cei patru sbiri, pe care 'i-am văzut la început în casa bătrânei Vo-chița. — De și cam târziu dar am crezut de da-torie a lămuri începutul acestei istorii.</p>
          </div>
          <div type="chapter" n="7">
-            <p>VII</p>
+            <head>VII</head>
             <p>Ne-aducem aminte, că cei 4 sbiri, se ascunse-seră în ograda lui Corbea, — doi în podul coșarului, iar cei alți doi în podul casei.</p>
             <p>Peste vre-o două ceasuri bătrâna Vochiță se reîntoarse cu inima mulțumită, căci moș popa îi citise molifta; — ea intră în casă. și se îmde-letnici cu de-ale trebei, fără să bănuească de tâlharii ce era ascunși în casa ei.</p>
             <p>Către seară, sosi și Corbea, ostenit și gânditor.</p>
@@ -561,7 +561,7 @@
             <p>— Iată-te în mâinele mele, copilă nesocotită! Ha!... Preferă în locul unui domn pe un țără-naș puțin cam viteaz, dar vinovat și fără de pu-tere în fața voinței mele. Vom vedea ce voiu face și cu tine!</p>
          </div>
          <div type="chapter" n="8">
-            <p>VII</p>
+            <head>VII</head>
             <p>Trecuseră 6 zile de la această întâmplare, și sărmana Marioara dusă departe într-un castel de țară, închisă în câte-va camere singuratice, nu vedea alt om de cât pe hidosul Gruia, care era șchiop și spân, de o talie mică și cu vorbirea pițigăiată.</p>
             <p>Ea plângea într-una, se ruga lui Dumnezeu, dar toate era în zadar, căci el nu o auzea.</p>
             <p>A șeasea zi sosi Alexandru Vodă, și mai în-flăcărat ca altă dată voi să facă pe Marioara a-l iubi în contra voinței ei.</p>
@@ -610,7 +610,7 @@
             <p>Spre acest scop, ultima ei speranță era de a se duce la Grueni la mama lui Corbea și acolo să întrebe să afle sau de nu să spue nenorocitei lui mume soarta fiului ei și luând-o cu dânsa să aibă o ființă cu care să împlinească cumplita ei durere.</p>
          </div>
          <div type="chapter" n="9">
-            <p>VIII</p>
+            <head>VIII</head>
             <p>Să trecem acum la oare care fapte istorice, care ne vor da desnodământul acestei grele situațiuni ale celor trei victime și împreună cu muma lui Corbea, patru. — Iată ce zice Bolintineanu asupra tronului lui Alecsandru al III, înainte de a fi resturnat:</p>
             <p>Alecsandru al III căzuse într-un fel de efemi-nare. El simțise că Mihaiu, vărul său, o să-i ea locul la domnie, o poliți furișă urmărea pe Mihaiu în toate părțile și raporta Domnului toate faptele și vorbele lui. In acest timp vistierul Iane scrie lui Mihaiu să caute să facă legături cu principele Transilvaniei Sigismund Batori, cu care el însuși ntrase în vorbă. Tot de o dată scrie și Domnului țărei României să înceteze de a prigoni pe nepotul său.</p>
             <p>Alecsandru al IlI-lea se împăcase cu Mihaiu în față-i, dar în ascuns îl iscodea și îl bănuia. Mihaiu din parte-i scrie lui Batori după ordinul unchi-lui său, făcând un tablou dureros de starea țărei, în care inundaseră Turcii, din pricina slăbiciunei lui Alecsandru a IIII-lea și pregăti ast-fel pe prinț la ideia unei alianței între Valachia, Moldova și Transilvania împotriva Turcilor.</p>
@@ -660,7 +660,7 @@
             <p>Acestea făcu pe Mihaiu să se înverșuneze în contra Turcilor și a împilărilor, care sugeau munca românului în țara sa.</p>
          </div>
          <div type="chapter" n="10">
-            <p>IX</p>
+            <head>IX</head>
             <p>Iată cea ce s-a petrecut în tot timpul cât Corbea a stat în închisoase și cat biata Mari-oară devenise victima lui Alecsandru III, Domn crud și neomenos. Când el fugi la Turci în Con-santinopol, uitase să ia din Graba Șt Pe Marioara. Ast-fel ea rămase. Toți lingușitorii, toți partizanii lui Alexandru se făcuseră nevăzuți, până și Gruea. Ea rămăsese singură. Dar unde era să apuce?... La cine era să se ducă?... Cui trebuea să ceară ajutor?... Nu știa!... locuința retrasă ce-i detese Alecsandru, o sustrăsese de la toate cunoștințele ce putea să aibă asupra lumei.</p>
             <p>Devenită liberă ea merse la locuința mumei sale, dar cocoana Arhondărescu, nu mai locuea în acea casă. Nimeni nu știa unde plecase. Săr-mana Marioara rămăsese ca un fulg în mijlocul valurilor.</p>
             <p>Și cum? Nu avea ea oare la cine să se ducă? pe cine să întrebe? Corbea nu mai trăea oare? Da!... Corbea trăea în închisoarea lui, în care-și pierduse aproape speranțele, cu toate acestea ea nu mai îndrăsnea să se arate privirilor lui!... să credea nedemnă de dânsul!... I se părea că vocea acelui Martir o urmează pretudindeni, i se părea că 'l aude pronunțând belstemul ei!... în sfârșit ea nu mai putea să apară înaintea lui Corbea când apăruse altuea mai înaintea lui.</p>
@@ -672,7 +672,7 @@
             <p>De sigur că Corbea ar fi recunoscut-o! Dar vai! această recunoaștere, 'i-ar fi părut mai a-mară decât închisoarea lui; de sigur că la prima vedere, i-ar fi strigat: Marioară!... Dar la pri-mele ei cuvinte, la prima ei pri-vire, ar fi simțit asprimele unei mâni hidoase care atinsese fru-moasele ei farmece; de sigur că Corbea ar fi iubit-o chiar în această stare. Un amor ca al lor nu să șterge așa de iute, acela ce iubește întâia oară și suferă îndelungat acea iubire, remâne aceiaș toată viața. Corbea 'i-ar fi zis tot iubita lui Marioară! Negreșit, ea nu era vinovată. Dar iluziunea?... Ce devenise ea?... Nu perise oare cu primele raze ale purităței? Și Corbea ce ar fi pu-tut face, când aceasta iluziune, acea lume plină de ideale se stinsese? Ce-ar fi putut zice el?... Nimic!... Decât să sufere, să sufere mereu, să vază în tot-d-auna o figură suferindă și mâna în-tinsă a unui seducător infam, să-și apropie inima lângă sînul Marioarei și o putere supra-omeneacă să-l respiugă departe. Intr-adevăr soarta bietului Corbea ar fi fost tristă și Marioara se gândea adese-ori la toate acestea. Câte o dată se mai liniștea puțin și în locul acelei tendințe de a fugi de Corbea, năștea un dor nemărginit... i so părea că-l aude vorbind, i se părea c-o ia în brațe, i se părea că-i șoptește de iubire, și din acele visări pline de fericire, din acele desmierdări ale lui Corbea închipuit, ea se deștepta, își amintea locuința lui Alecsandru, își ascundea fața între mâni, și plângea, plângea ceasuri întregi.</p>
          </div>
          <div type="chapter" n="11">
-            <p>X</p>
+            <head>X</head>
             <p>Cât despre Corbea el se deprinsese cu închi-soarea și ceea ce-l turbura numai era că de trei luni și ce-va nu mai văzuse pe Marioara. O mie de idei îi trecură prin cap și nici una nu putea să-l întărească a crede cutare sau cutare întâm-plare asupra bietei Marioare.</p>
             <p>Intr-o dimineață, temnicerul, un bătrân, ros de timp și de suferințele pensionarilor săi, veni ca de obiceiu să-l visiteze.</p>
             <p>— Bună dimineața, băete, îi zise el.</p>
@@ -698,7 +698,7 @@
             <p>— Ești prea generos, tinere; — afla că resplata mea, ori-care ar fi, este prea târzie; eu m-am deprins cu viața mea, așa că chiar tronul ar fi fără nici o valoare pentru mine.</p>
          </div>
          <div type="chapter" n="12">
-            <p>XI</p>
+            <head>XI</head>
             <p>Peste 5 zile Mihaiu colindă toate închisorile și toți nevinovați fură ertați. Ajuns aci, bătrânul temnicer îl duse și pe la Corbea, care se pros-ternă la picioarele Domnului, și-i povesti toate fap-tele sale necruțând nici crimele ce săvârșise.</p>
             <p>— Ascultă, tinere, îi zise Mihaiu. Tu ai făcut tot ce putea să facă ori-ce român cu simțimânt creștinesc. Dacă ai omorât nelegiuiți, ai scăpat țara de câte-va neghine. Fii dar liber, de azi înainte zise Mihaiu temnicerului.</p>
             <p>Corbea sărută mâna și poalele bunului Domn, și după ce acesta plecă, bătrânul temnicer îl primi în casa lui, apoi peste două ceasuri Cor-bea eși din acel locaș de dureri și de suferințe nemângâiate.</p>
@@ -729,7 +729,7 @@
             <p>A doua zi, prea de dimineață, Gorbea 'și luă drumul spre mănăstirea Negrești.</p>
          </div>
          <div type="chapter" n="13">
-            <p>XII</p>
+            <head>XII</head>
             <p>Marioara și cu muma sa, luaseră calea călu-găriei; căci acesta era singurul azil ce le mai rămânea. Intr-adevăr, ce mai aveau ele de făcut în lumea profană, când viața nu era decât o po-vară. Ambele femei se crezură împovărate de pă-catele strămoșilor lor și monastirea o socotiră ca cel mai bun locaș de pocăire.</p>
             <p>Maica starița le primi cu multă bunătate, și îngrijirile ce le da, erau mai deosebite de cât a celor alte pocăite, mai mult âncă ea le iubea căci bietele femei se arătară așa de supuse și așa de bune, că atraseră simpatia bătrânei su-perioare.</p>
             <p>Dimineața ele se duceau în biserica mănăsti-rei și în cele mai pioase rugăciuni se prosternau din 'naintea altarului Maicei Domnului, și împreună plângeau cu șiroae de lacrămi. Seara, la vecernie, făceau acelaș lucru, așa încât dupe câte-va săptămâni ele se crezură aproape iertate, și când începură a se mai deprinde cu viața mo-nastireasacă, veselia reapăru pe fețele lor, cu a-cea culoare cucernică care desparte pe mireni de locuitorii mănăstirelor.</p>
@@ -826,7 +826,7 @@
             <p>Să vedem care a fost causa arestarei lui Cor-bea. Cunoaștem mijlocul ce înrebuințase el spre a putea lua pe Marioara mai ușor din mânăstire. Știm asemenea ca stanța iertase purtarea lui, aceasta era ânse numai o prefăcătorie, pentru că se temea de Corbea. Aflând ânsâ că oamenii jus-tiției află în anchetă într-un sat din poalele pădurei, trimise imediat să-i cheme în ajutor. Pe când cirbea vorbea cu Marioara în năuntru, sta-rița povesti judecătorului cele întâmplate, și a-cesta își făcu datoria.</p>
          </div>
          <div type="chapter" n="14">
-            <p>XIII</p>
+            <head>XIII</head>
             <p>Cinci zile în urmă, Marioara zăcea bolnavă în patul chiliei sale, vegheată de bătrâna ei mama și de Olimpia, care nu se deslipise un singur mo-ment de prietena sa.</p>
             <p>— Cum îți mai este, zise ea Marioarei când aceasta se deșteptă dintr-o adâncă cugetare.</p>
             <p>— Azi sunt mai liniștită, sora mea, — mintea 'mi este mai puțin abătută. Cât esti de bună; Cerul te-a trimes ca să-mi alini durerile. ’</p>
@@ -856,7 +856,7 @@
             <p>Și unchiașul plecă, lăsând pe Olimpia să a-lerge la Marioara să-i povestească cele aflate.</p>
          </div>
          <div type="chapter" n="15">
-            <p>XIV</p>
+            <head>XIV</head>
             <p>A doua zi de dimineață după ce bătrînul Vin-tilă vorbi ca la un ceas cu sora Olimpia, plecă la București. El ajunse maii degrabă de cât s-ar putea crede și când se arătă la poarta palatului, mare 'i fu mirarea, când vezu pe Corbea liber și îmbrăcat în haine de verzișori cu gradul de căpitan. Bietul Vintilă, nu-i venea să se încrează ochilor săi. Cu toate acestea se îndreptă cu ho-tărâre către căpitanul care eșa din palat, și 'i zise:</p>
             <p>— Mă iartă stăpâne, dar mi se pare că se-meni întocmai cu...</p>
             <p>— Cu cine?</p>
@@ -976,7 +976,7 @@
             <p>Nu mult după aceia, Marioara făcu toate pu-tincioasele și aduse pe muma sa de la mânăstire ca să stea împreună; dar ea rămase tot călugă-riță, de și locuia acum cu fiică-sa în oraș.</p>
          </div>
          <div type="chapter" n="16">
-            <p>XV</p>
+            <head>XV</head>
             <p>Mihaiu pentru îndeplinerea marelui scop de a-si scăpa țara trimise soli la Sigismund Batori, în Ardeal, ca sa încheie aliența cu dânsul în po-triva Turcilor. Sigismund văzând aceasta, se mul-țumi foarte și promise ajutor lui Mihaiu, ânsă cu condiția să recunoasca supremația Ardealului. Mihaiu, pentru că politica îl silea, făcu acest pas, dar păstrînd ca pe viitor ase scutura și de aceasta rușine.</p>
             <p>Alianța se încheiă în modul următor si Sigis-mund Batori dete următoarea carte:</p>
             <p>Noi Sigismund, din darul lui Dumnezeu, a țărilor Ardealului, a Moldovei, a țărei Munte-nești și a împerăției Rîmului Domn; a părților crăiei Ungurești stăpânilor și a secuilor oblă-duitor. (1)</p>
@@ -1100,7 +1100,7 @@
             <p>Intr-un cuvânt ast-fel erau petrecerile și părerile de rău ale Românilor, dupe ce coprinseră Silistra.</p>
          </div>
          <div type="chapter" n="16">
-            <p>XVI</p>
+            <head>XVI</head>
             <p>Vedem acum, ce făcuse Marioara în timpul cât Corbea lipsea la răsboiu. Știm că din ziua în care plecase iubitul ei reușise a aduce pe mu-ma sa de la monastire, ca să locuească împreu-nă. Ast-fel avea o inimă de mumă, la bunătatea căreia să-și îndulcească suferințele. Ii lipsea ânsă acea inimă iubitoare la ale cărei dulce accente să-și desvelească adâncul inimei sale, la ale cărei priviri să se arunce în brațele cele mai inocente fericiri. Lipsea Corbea!.... și pentru Marioara toată lumea devenise un haos fără margini un gol, care nu conținea de cât lașități și mizerii. Suferea, sărmana Marioara, căci iubea cu înfocare pe acela care de mult timp lipsea de lângă dânsa; plângea, căci nu mai avea putere să-și înece suferința: dorea, căci nimeni nu răspundea iubirei sale înflăcărate: Corbea plecase, și ea-l dorea atât de mult, încât tot timpul și-l petrecea gândindu-se la dânsul.</p>
             <p>Unica ei mângâere era înștiințările ce-i trimitea Corbea, ori de câte ori ajungea unde-va pe câmpul de luptă. El o vestea de sănătatea lui sau de isbânzile ce frații săi săvârșiau.</p>
             <p>Indată însă ce Corbea fu prins, ea, nu mai primi nici o veste și acésta o neliniști foarte mult. Neliniștea-i creștea cu cât trecea timpul.</p>
@@ -1210,7 +1210,7 @@
             <p>— Daca au fost beți, de ce nu s-au ucis pre ei!.. replica o altă parte de privitori.</p>
          </div>
          <div type="chapter" n="17">
-            <p>XVII</p>
+            <head>XVII</head>
             <p>Dar să lăsăm pe cei doi soldați omorâtori să-și dea ultima suflare în țeapa îngrozitoare și să revenim la victima lor rămasă în viață, la Gherghina, care nu mai știa cum să mulțumească ofițerului și celor două femei ce-l însoțeau.</p>
             <p>— Marioara, văzând marea nenorocire a Gherghinei, că este orfană și fără de nici un sprijin în lume, îi propuse să meargă cu ea, făgăduind c-o va avea ca o tovarășe a sa, ca pe o prietenă de nenorociri.</p>
             <p>Gherghina primi bucuros, și chiar în acea zi plecară împreună spre Silistra, unde Marioara ardea de nerăbdare să afle de Corbea.</p>
@@ -1240,7 +1240,7 @@
             <p>Când resbelul lui Mihaiu cu Turcii fu terminat, oastea românească se întoarse în țară, și Corbea cu Marioara se stabili în București unde duseră o viață dulce și neturburată. Muma Marioarei era geniul bun, care veghia în totdeauna asupra lor; Gherghina devenise cea mai bună și cea mai devotată prietină a Marioarei, căci ea fusese luată de femeea lui Corbea, întocmai ca o adevărată soră. Nu mult după aceea, veni și muma lui Corbea, bătrâna Vochița să se împărtășească la fericirea acestor copii. Ea însă nu locui cu dânșii în oraș, nu voise să stea de cât la țară; dar din când în când, și foarte arare ori, venea să-i vadă și să se bucure de norocirea lor.</p>
             <p>De atunci trăiră tot restul vieței lor într-o iubire continuă, femeea făcând fapte bune și caritabile față cu semenii săi; iar bărbatul servindu-și țara ca un adevărat fiu.</p>
         
-         <p>FINE</p>
+         <trailer>FINE</trailer>
          </div>
       </body>
        </text>
