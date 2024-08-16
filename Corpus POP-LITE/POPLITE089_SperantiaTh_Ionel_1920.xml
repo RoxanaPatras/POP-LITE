@@ -36,12 +36,12 @@
                <pubPlace>București</pubPlace>
                <publisher>EDITURA LIBRĂRIEI SOCEC</publisher>
                <date>1921</date>
-               <decoNote type="ilustratii" subtype="yes"/>
-               <dim unit="char" type="mare"/>
+               <decoNote type="illustration" subtype="yes"/>
+               <dim unit="char" type="big"/>
                <extent>
                   <measure unit="word">41115</measure>
                   <measure unit="page" type="under_250"/>
-                  <measure unit="foileton" type="under_65"/>
+                  <measure unit="feuilleton" type="under_65"/>
                   <measure type="complete"></measure>
                </extent>
             </bibl>
@@ -61,8 +61,8 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="5"/>
-               <term type="republicare" n="2"/>
+               <term type="reception" n="5"/>
+               <term type="print_count" n="2"/>
                <term type="finished"></term>
                
             </keywords>
@@ -70,8 +70,8 @@
       </profileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
             <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
             <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
          </projectDesc>
@@ -80,10 +80,10 @@
  <text>
     <front>
        <div type="titlepage">
-          <p>SAR și IONEL</p>
-          <p>TH. D. Speranția</p>
-          <p>Librăria Socec  Co., Societate Anonimă</p>
-          <p> Prețul Lei 12</p>
+          <head>SAR și IONEL</head>
+          <head>TH. D. Speranția</head>
+          <head>Librăria Socec  Co., Societate Anonimă</head>
+          <head> Prețul Lei 12</head>
        </div>
        
        <div type="titlepage">
@@ -100,7 +100,7 @@
     </front>
    <body>
 <div type="part">
-      <p>SAR și Ionel</p>
+      <head>SAR și Ionel</head>
 <p>Sar nume mare, titlu de împărat din vechime, din țările răsăritului: Sar-Danapal, Salmana-Sar, Nabueadne-Sar.</p>
 <p>Sar al nostru nu-i împărat, nu e nici om; e prietenul lui Ionel, Sar cățel.</p>
 <p>Sar și Ionel trăiesc în aceeași casă. Părinții lui Ionel îngrijesc și de Sar.</p>
@@ -136,7 +136,7 @@
 <p>—Na, bate-mă! Taie-mă! Spânzură-mă! Sunt un ticălos, sunt un păcătos, un nemernic, care se bagă în gunoi, care nu știe să se respecte! Na! Ia-mă de coadă și mă aruncă peste gard !...</p>
 <p>Și lui Ionel i se face milă.</p>
 <p>— Săracul Sar! Săracul mititel! Se teme! Nu te teme, Sar!</p>
-<p>Il ia în brațe. »</p>
+<p>Îl ia în brațe. »</p>
 <p>—Nu te teme! Haide în casă! Haide să-ți dau ceva, ceva bun! Zahăr.</p>
 <p>II duce-n casă. Îi dă zahăr.</p>
 <p>El mănâncă zaHărul și apoi s-apucă iar de alergat prin casă, de tras cu dinții de colțurile covoarelor, de ros picioarele scaunelor și ghetele musafirilor, până ce dă de dânsul mama lui Ionel.</p>
@@ -147,7 +147,9 @@
 <p>Se așeza din când în când cu labele pe treapta de jos și se uita în sus la lumea care umbla pe acolo, prin odaia de la scară, când e ușa deschisă; dar atât, mai mult nu.</p>
 <p>Când te uiți însă la dânsul parcă citești în ochii lui întrebarea:</p>
 <p>— Dar pe mine când mă mai luați sus?!</p>
-<p>*</p>
+
+	<p>*</p>
+	
 <p>Până acum Sar încă nu știe că el e câine. Nu știe de ce zic oamenii că el e cățel. EI crede că zic cățel, pentru că e mic, dar când o fi mai mare, atunci o să fie și el băiețel ca Ionel, și apoi om ca tatăl lui Ionel. El socoate că tatăl lui Ionel a fost odată cățel, apoi s-a făcut copil și pe urmă om. Chiar se gândește Sar, câteodată, cum o să-i șadă lui când o fi îmbrăcat cu pantaloni, cu hăinuță și cu pălărie pe cap, ca Ionel. Și mai ales se gândește el, dacă atunci când o fi mare o să mai aibă coadă, deoarece la oameni nu vede această podoabă.</p>
 <p>Gândul cozii îl frământă mult pe Sar. Ar vrea el să se încredințeze dacă coada se ține bine la locul ei, ori dacă poate are de gând să cadă. De aceea nu te mai pomenești că îl vezi învârtindu-se împrejur,ca să-și prindă coada cu dinții.</p>
 <p>Și i se pare curios că, cu cât se învârte mai repede să prindă coada, cu atât coada fuge mai repede împrejur, de nu poate s-o ajungă.</p>
@@ -337,7 +339,9 @@
 <p>— Da, dragă, fă. zice mama, și Ionel începe numaidecat:</p>
 <p>Înger Îngerașul meu...își face cruce și se culcă.</p>
 <p>Dimineața cum deschide ochii, numaidecat se scoală, se spală, se îmbracă, se închină, își ia gustarea sau cafeaua: într-o jumătate de ceas e gata cu totul. Când e gata, hai la joacă.</p>
-<p>* * *</p>
+
+	<p>* * *</p>
+	
 <p>Joaca Iui ... îi zicem noi joacă, dar |pentru dânsul e o ocupație foarte serioasă. De obicei el face tot ce fac cei de pe împrejurul lui și numai ceea ce i se pare mai nou și mai ales, tot ceea ce seamănă a meșteșug, a mașinărie. Umblă cineva cu vreun clește, c-un ciocan numaidecât se duce să vadă ce face și dacă poate și dacă are cu ce face și el la fel. Și-a făcut și el grădinița lui pe care o îngrijește și o udă în fiecare zi: are două puicuțe și un cocoșel pe care le îngrijește el. Le dă mâncare, se uită câteodată ziua să le vadă. și când vor avea pui, atunci de la fiecare o să-și aleagă câte doi pui. A cerut să-i dea și un purcel pe care să-l îngrijască. Iar când o fi mai mare vrea să aibă vreo doi stupi cu albine, câțiva pomi, și o bucată de pământ, să-și facă grădină.</p>
 <p>De mult a învățat a citi și a scrie. A citi a învățat deodată de pe numele gazetelor și al revistelor: Adevărul, Epoca. Universul, Dimineața, Viitorul, Revista Copiilor.</p>
 <p>Iar prin casă știe tot ce se face și cine ce face. Trebuie să știe mămica lui dacă Costache e acasă, ori Frusina, ori bucătăreasa, întreabă pe Ionel; s-au pierdut cheile sau un foarfece, un briceag, întreabă pe Ionel, el știe sau el le găsește.</p>
@@ -355,8 +359,8 @@
 <p>Acelaș lucru a făcut în tren. La Ploiești, unde stă trenul mai mult, el stătea la fereastră și se uita în toate părțile după lume și cum vedea câte un tregher, numai ce-1 auzeai mârrrr ... se vede că lui i se părea că tregherii sunt postași.</p>
 <p>Și părinții lui Ionel din pricina asta vorbeau între ei:</p>
 <p>— Ce facem cu dânsul când o veni conductorul?</p>
-<p>— Să-1 dăm sub canapea.</p>
-<p>— Să-1 dăm, dar stă?</p>
+<p>— Să-l dăm sub canapea.</p>
+<p>— Să-l dăm, dar stă?</p>
 <p>— Atunci ce faci cu el?</p>
 <p>— Să-1 dăm la o parte, să-i punem ceva pe cap, să nu vadă pe conductor.</p>
 <p>S-a întâmplat însă că conductorul cât a fost ziuă, lumină, n-a venit; iar după ce-a înserat și nu se mai vedea afară, Sar n-a mai stat nici el la fereastră. A stat o bucată și el pe canapea, la rând cu oamenii până ce-a început a moțăi cum făcea și acasă, apoi Mama lui Ionel l-a culcat lângă fereastră.</p>
@@ -368,7 +372,7 @@
 <p>— Ar trebui acoperit să nu se vadă: vine conductorul.</p>
 <p>— E acoperit bine și-l mai acopăr eu.</p>
 <p>— Mamă, întreabă Ionel, dar dacă l-o vedea conductorul, îl dă jos?</p>
-<p>— Nu, de ce să-1 dea?...</p>
+<p>— Nu, de ce să-l dea?...</p>
 <p>— Apoi de ce zice tata să-1 acoperi să nu-l vadă?</p>
 <p>— Pentru că nu-i voie să se ia câini în vagon.</p>
 <p>— Și dacă nu-i voie, ce e?</p>
@@ -866,8 +870,10 @@
 <p>A venit mama iui Ionel</p>
 <p>În adevăr ușa se deschide, mama lui Ionel intră și merge repede drept la copil, iar Ionel îi sare de gât și se prinde cu mâinile de gâtul ei și strigă:</p>
 <p>— Mama!... Mama!...</p>
-<p>PARTEA II</p>
-<p>Îngrijorare.</p>
+	</div>
+	   <div type="part" n="2">
+<head>PARTEA II</head>
+<head>Îngrijorare.</head>
 <p>Mama și tatăl lui Ionel stau de vorbă.</p>
 <p>— N-am vrut, dragă Mario, să-ți scriu acolo în străinătate câte se-ntâmplau aici cu Ionel, căutam să-ți las mintea liberă să te ocupi cum trebuie numai de sănătate...</p>
 <p>Aici însă, în lipsa ta cu Ionel, au mers toate așa de prost cum pot să meargă în lipsa unei mame. Ne-am stricat copilul!</p>
@@ -1420,7 +1426,9 @@
 <p>— Mamă, ia te uită la Marcu cum mișcă urechea.</p>
 <p>— Da, se vede că ascultă.</p>
 <p>— Mamă, dar omul de ce nu mișcă urechile?</p>
+		   
 <p>Sar.</p>
+		   
 <p>Sar se prostise și el în vremea când a lipsit de-acasă mama lui Ionel, dar acuma se făcuse iar de treabă. Nu mai fura, nu mai intra în casă nepoftit, asculta când îl chemai ori când îi spuneai să se ducă ori să se dea deoparte. Nici pe stradă nu mai ieșea. Adică se ducea el din când în când, ca omul care are treburi, dar nu alerga ca nebunul să se ducă tun, ca vorba veche, unde-a dus mutul roata și surdul iapa.</p>
 <p>De altfel se și cuvine ca Sar să fie cuminte, nu mai e cățel, e câine în tot bunul.</p>
 <p>Cum s-a întors acasă, mama lui Ionel a-nceput să-1 aibă și pe dânsul de-aproape în grijă.</p>
@@ -1796,7 +1804,8 @@
 <p>Gheata și la pârleaz un băiat.</p>
 <p>— Ți-am adus gheata. Ți-a trimis-o omul de la cărămidărie.</p>
 <p>Bucurie mare simte unul care află că a câștigat la loterie o sumă zdravănă, bucurie mare simte unul care se face rege, dar pe Ionel chiar împărat să-l fi făcut și nu-i părea mai bine de cum i-a părut când și-a căpătat gheata.</p>
-<p>PISICA DOAMNĂ</p>
+
+		   <p>PISICA DOAMNĂ</p>
 <p>Basmu spus lui Ionel de către Mama lui.</p>
 <p>A fost odată când a fost, de mult, de mult tare, pe când era lupul cățel, sau pe când erau lupii albi și stăteau prin sate și purtau opinci și pălărie și suman și chimir cu scăpărători, de scăpărau să aprindă focul că pe atunci nu erau chibrituri bune ca cele de astăzi a Regiei care nu se aprind și de la care îți sare gămălia în ochi când le tragi pe cutie. A fost odată o babă, dar babă nu prea bătrână, că îngropase numai vreo șapte bărbați cu cununie că cei fără cununie nici chiar hogia nu-i mai știe: iar când s-a măritat întâi ere d-abia fetișcană că n-avea încă nici o sută de ani. Și așa nu prea bătrână cum era ținea minte de mult de pe când pietrele erau de zahăr, munții de mămăligă, pe gârle curgea vin, marea era de rachiu, pe drumuri și pe străzi în loc de noroi era brânză cu smântână, iar prin pomi în loc de nuci pietroase de-ți ies ochii până strici una și în loc de mere pădurețe din care când muști ți se încrețește nu numai gura de se face pungă, dar și fruntea și fața și fundul căciulii și talpa de la cizme, prin pomi creșteau pui fripți, cornuri cu lapte și plăcinte moldovenești cu poalele în brâu de care mănânci și înghiți de-ți face gâtul gheorghiț!</p>
 <p>Și baba asta. Dumnezeu s-o ierte, că socot că până acum o fi iertat-o D-zeu, n-o fi fost doar ca soacra lui chiar Panait, care tot făgăduia că moare și nu mai murea,până ce la urma urmei chiar Panait pierde răbdarea și într-o bună dimineață se scoală și moare el. Baba asta, zic, avea o pisică.</p>
@@ -1914,7 +1923,8 @@
 <p>În sfârșit de la ușă o iau la fugă, iar când trec lângă tufă, unul c-un cojocel scurt fuga, fuga după mine, se vede, să mă prindă acum. Eu însă am ținut-o tot într-o fugă pănă ce-am ajuns la voi. Asta am găsit acolo. Acuma hotărâți ce vreți să facem.</p>
 <p>— Ce-om face ori ce n-om face nu știu, zice un lup mai bătrân, dar de dus pe la casa aceea nu ne mai ducem.</p>
 <p>Și de atunci lupii au rămas prin păduri și pe câmpii, n-au mai venit să șadă prin case, prin satele lor. Iar ce-a făcut pisica și cu tovarășii, s-au dus la marea, au rămas acolo, nu știu. Cine veți afla, vă rog nu uitați să-mi spuneți și mie.</p>
-<p>PAPUȘICA.</p>
+
+		   <p>PAPUȘICA.</p>
 <p>Istorioară spusă lui Ionel de către mama lui.</p>
 <p>— Cuconiță, a venit o fetiță, din sat, una mică...</p>
 <p>— Și ce vrea?</p>
@@ -2037,8 +2047,9 @@
 <p>— Eu, leică Smarando, ți-am adus pe Sica.</p>
 <p>— Dar unde ai găsit-o?</p>
 <p>— He-hei!... tocmai pe la Podul Călugărului, prin pădure. Și era sloi de gheață. Dacă nu treceam eu cu căruța să dau peste ea...</p>
-<p>TREI PLĂCERI</p>
-<p>lonel într-o zi umblând printr-o magazie, găsește o scuturătoare de praf făcută dintr-o coadă de cal legată la o coadă de lemn.</p>
+
+		   <p>TREI PLĂCERI</p>
+<p>Ionel într-o zi umblând printr-o magazie, găsește o scuturătoare de praf făcută dintr-o coadă de cal legată la o coadă de lemn.</p>
 <p>Ti-i-i, zice el, ia te uită ce mai coadă!... Cu asta s-ar putea face un buhai!... Dacă ai buhai ai plugușorul întreg, poți face un Sf. Vasile în tot bunul.</p>
 <p>În timpul din urmă s-au întâmplat două lucruri, care i-au făcut mare plăcere lui Ionel. Dacă ar putea să facă acum cu coada asta de cal un buhai ca la Sf. Vasile, asta ar fi o nouă plăcere, mai mare, mult mai mare decât celelalte două.</p>
 <p>Întâia plăcere a fost când l-au dat la școală.</p>
@@ -2106,7 +2117,8 @@
 <p>Sar s-a făcut și el cuminte. E câine în tot bunul, foarte bun prieten cu Ionel și foarte bun paznic al casei. Nu e chip să intre cineva în curte fără să știe el. Dânsul e cel mai bun clopoțel vestitor, soneria casei, sonerie vie. </p>
 <p>Peste câțiva ani și Ionel o să fie mare. Anii trec. O să-1 vezi mare, o să-1 vezi și pe el tată, cu copii și o să-și aducă aminte să bage de seamă cum se cresc copiii.</p>
 <p>În timpul acesta chiar Ionel l-a sculat pe Sar în două picioare și-i strigă: Drepți!... Și Sar stă drept ca un soldat!...</p>
-<p>Sfârșit!</p>
+</div>
+	   <trailer>Sfârșit!</trailer>
 </div>
   </body>
  </text>
