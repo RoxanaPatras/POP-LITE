@@ -32,12 +32,12 @@
                <pubPlace>București</pubPlace>
                <publisher>„FOIȚA EVENIMENTULUI”</publisher>
                <date>1899</date>
-               <decoNote type="ilustratii" subtype="no"/>
-               <dim unit="char" type="mare"/>
+               <decoNote type="illustration" subtype="no"/>
+               <dim unit="char" type="big"/>
                <extent>
                   <measure unit="word">5027</measure>
                   <measure unit="page" type="under_250"/>
-                  <measure unit="foileton" type="under_65"/>
+                  <measure unit="feuilleton" type="under_65"/>
                   <measure type="incomplete"></measure>
                </extent>
             </bibl>
@@ -57,18 +57,18 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="under 5"/>
-               <term type="republicare" n="under 10"/>
+               <term type="reception" n="under 5"/>
+               <term type="print_count" n="under 10"/>
                <term type="finished"></term>
             </keywords>
          </textClass>
       </profileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
             <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
-            <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma incompleta.</p>
+            <p>Masura de tip "incomplete" indica faptul ca am gasit romanul in forma incompleta.</p>
          </projectDesc>
       </encodingDesc>
    </teiHeader>
@@ -76,12 +76,12 @@
         <body>
            <div type="part" n="1">
            <p>„FOIȚA EVENIMENTULUI”</p>
-           <p>1</p>
-           <p>AMOR ASCUNS</p>
-           <p>DE</p>
-           <p>Mihăescu-Nigrim</p>
+           <head>1</head>
+           <head>AMOR ASCUNS</head>
+              <head>DE</head>
+              <head>Mihăescu-Nigrim</head>
            <div type="section" n="1">
-           <p>I.</p>
+           <head>I.</head>
            <p>Bine, bine, frumos o fi pe acolo, dar ia să ne spui drept, cât ai stat la băi, ai făcut vreo dragoste cu vreo blondă?</p>
            <p>— Ha: dacă ascultați și-mi făgăduiți că nu râdeți de cele ce am să vă spun, vă voi povesti pe scurt una, zise Mihnea, care pănă aici istorisise celor trei prieteni, strânși în jurul unei mese din camera sa, cele ce văzuse și observase în călătoria sa din vara trecută prin câteva orașe mari ale Germaniei, și felul curios de viață petrecut la stațiunea balneară Worishofen din Bavaria.</p>
            <p>El începu:</p>
@@ -91,18 +91,18 @@
            <p>De unde ai cumpărat pălăria asta îl întreb eu.</p>
            <p>Vrai să cumperi și d-ta una? Vino cu mine, am să te duc aici peste drum la o văduvă blondă, tânără și atât de drăguță: are magazin cu pălării de paie.</p>
            <p>Plecarăm îndată, deși ideea de a-mi cumpăra o pălărie intrase cu totul în umbră și în locul ei mi se zugrăvea o copilă blondă, blondă, frumoasă și văduvă.</p>
-           <p>(Va urma).</p>
+           <trailer>(Va urma).</trailer>
            </div>
            </div>
            
            <div type="part" n="2">
-              <p>„FOIȚA EVENIMENTULUI”</p>
-              <p>2</p>
-              <p>AMOR ASCUNS</p>
-              <p>DE</p>
-              <p>Mihăescu-Nigrim</p>
+              <head>„FOIȚA EVENIMENTULUI”</head>
+              <head>2</head>
+              <head>AMOR ASCUNS</head>
+              <head>DE</head>
+              <head>Mihăescu-Nigrim</head>
               <div type="section" n="1">
-           <p>I.</p>
+           <head>I.</head>
            <p>Nu știu de ce când auzi de o văduvă tânără și frumoasă, parcă-ți crește sufletul și fără să știi cine e, ai vrea s-o iubești, zise el uitându-se cu naivitate în ochii unuia din prietenii săi. Cu voi nu e tot așa? Ce zici, poete și tu, filosofule ?</p>
            <p>Apoi, dacă ar avea bărbat, în jurul ei ți s-ar învârti o speranță, iar în jurul bărbatului ei, zece griji, zise „poetul".</p>
            <p>-Gura... înțeleptului, adevăr grăește, isprăvi filosoful.</p>
@@ -139,18 +139,18 @@
            <p>- Păcat că nu știi de ajuns nemțește, că e fată bună, și... am văzut-o eu cum te privea,... nu te-ar lăsa să te pierzi pe la poarta ei degeaba...</p>
            <p>Ea se uita la noi ca un om care nu înțelege nimic din ce aude, deși vede că despre el e vorba.</p>
            <p>Plecarăm. Pe stradă el imi spunea că e foarte șireată și că știe să te întoarcă pe deget.</p>
-           <p>(Va urma)</p>
+           <trailer>(Va urma).</trailer>
               </div>
            </div>
            
            <div type="part" n="3">
-              <p>„FOIȚA EVENIMENTULUI”</p>
-              <p>3</p>
-              <p>AMOR ASCUNS</p>
-              <p>DE</p>
-              <p>Mihăescu-Nigrim</p>
+              <head>„FOIȚA EVENIMENTULUI”</head>
+              <head>3</head>
+              <head>AMOR ASCUNS</head>
+              <head>DE</head>
+              <head>Mihăescu-Nigrim</head>
               <div type="section" n="1">
-           <p>I.</p>
+           <head>I.</head>
            <p>— De când umblu eu după ea și degeaba! Erau zile în care stăteam ore intregi singuri și-i spuneam că mi-e dragă, c-o iubesc și ea cu o nepăsare de marmură, râdea și-mi spunea că are inimă de piatră, că de la moartea bărbatului său, nu mai poate iubi pe nimeni. Și de atunci am lăsat-o în pace, dar parcă tot mi-e dragă. Ba, nu! Eu mi-am luat nădejdea de la ea.</p>
            <p>Încearcă tu, poate că pe tine te va iubi, mai știi? Privirea și întrebările ei asupra ta m-au făcut să cred că nu ești indiferent.</p>
            <p>— Știi ce, Moscule ? Mâine venim iar la ea, te voi pune să-i zici din partea mea câteva vorbe frumoase.</p>
@@ -172,18 +172,18 @@
            <p>Mă sculai și îi spusei cum putui: lch habe eiu Worterbuch; ich gehe... ober ich komm mit gleich !</p>
            <p>I-am spus că mă duc să-mi aduc dicționarul de acasă și ea a primit bucuros...</p>
            <p>Când m-am întors, mă uit în magazin, dar nu o văd. Aud însă gură în odaia ei, pe care o avea deasupra celei care forma magazinul cu pălării. Suirea în acea odaie se făcea printr-o scară, care ducea la o deschizătură ca la podurile caselor. Dacă le ridicai pe acea seară și-ți roteai privirea în cameră vedeai un pat simplu, un dulap mare, un lavoir, și o oglinoă pusă în perete între două ferestre, care dau în stradă, iar pe jos, așternute niște covoare ușoare până la acea deschizătură.</p>
-           <p>(Va urma)</p>
+           <trailer>(Va urma).</trailer>
               </div>
            </div>
            
            <div type="part" n="4">
-              <p>„FOIȚA EVENIMENTULUI”</p>
-              <p>4</p>
-              <p>AMOR ASCUNS</p>
-              <p>DE</p>
-              <p>Mihăescu-Nigrim</p>
+              <head>„FOIȚA EVENIMENTULUI”</head>
+              <head>4</head>
+              <head>AMOR ASCUNS</head>
+              <head>DE</head>
+              <head>Mihăescu-Nigrim</head>
               <div type="section" n="1">
-           <p>I.</p>
+           <head>I.</head>
            <p>Ea coboară împreună cu o femeie care pleca imediat. Și zise să mă urc sus la ea. M-am urcat și drept la fereastră m-am dus să văd până unde se-ntinde privirea spre hotelul în care stăteam eu. Vedeam multe case, dar ochii mi se opriră pe terasa de la al doilea etaj a hotelului meu, la depărtare cât zvîrli cu o piatră. Care va să zică după terasa unde aveam libertatea de a sta ore când puteam s-o văd pe ea. Cum de nu m-am uitat până acuma? Aș fi văzut-o poate seara la lumina lămpii dezbrăcându-se! Și ce fiori mă cuprindeau la gândul acesta!</p>
            <p>O auzii urcând. Cum intră se așeză la masă pe un scaun și începu să lucreze. Aștepta să-i vorbesc. Dar cum? Când eu abia puteam forma câte o frază, și aceia ca vai de ea! Mi-a spus multe, multe; puține am priceput și acelea căutate în dicționar.</p>
            <p>Acum vă închipuiți ce ciudată e dragostea cu dicționarul!</p>
@@ -200,8 +200,9 @@
            <p>M-am ridicat, și plecai. Nici o părere de rău în ochii ei, totuși la plecare mi s-a părut că m-a strâns de mână, și parcă mă ținea in loc. Ciudat! Dar unde-o ieși, să iasă! Tot n-am ce face eu prin Worishofen, n-am s-o slăbesc deloc! Poate că se preface: poate că nu-i vine să fie așa deodată apropiată de mine, deși e prietenoasă. Nu se poate să nu i se înmoaie inima odată și odată.</p>
            <p>Mihnea se opri, se sculă de pe scaun, se învârti prin casă, preocupat de ceea ce avea să mai spună, pe când prietenii săi, cu fețele zâmbitoare și pline de curiozitate și nerăbdare, îl urmăreau cu ochiii, așteptând să continue.</p>
           </div>
-           <div type="section" n="2">
-           <p>II.</p>
+           
+		   <div type="section" n="2">
+           <head>II.</head>
            <p>Mihnea, reașezându-se pe scaun, cu ochii fixați într-un punct al spațiului, stăpânit de reamintiri începu:</p>
            <p>Au mai trecut vreo trei zile in care, din cauza unor ploi, nu m-am mai putut duce pe la ea.</p>
            <p>Dar într-o zi cu soare, o plecai. Cînd am intrat la ea, am găsit-o trisită cu capul sprijinit pe mână, și visând.</p>
@@ -211,18 +212,19 @@
            <p>— E soțul meu! A murit de un an aproape! începu să plângă.</p>
            <p>Mihnea se adresară prietenilor săi, încălzit de amintirea chipului ei plângător:</p>
            <p>Ați văzut voi vreodată o femeie frumoasă plîngând? Desigur! Dar nu cred să fi fost mișcați așa de dureros pe cât am fost eu în fața acestei blonde.</p>
-           <p>(Va urma).</p>
+           <trailer>(Va urma).</trailer>
            </div>
            </div>
            
            <div type="part" n="5">
-              <p>„FOIȚA EVENIMENTULUI”</p>
-              <p>5</p>
-              <p>AMOR ASCUNS</p>
-              <p>DE</p>
-              <p>Mihăescu-Nigrim</p>
+              <head>„FOIȚA EVENIMENTULUI”</head>
+              <head>5</head>
+              <head>AMOR ASCUNS</head>
+              <head>DE</head>
+              <head>Mihăescu-Nigrim</head>
               <div type="section" n="2">
-           <p>II.</p>
+           
+		      <head>II.</head>
            <p>Ochii scaldați în lacrimele unei iubiri adânci și stinse atât de repede; gura ei mică, cu buza de sus lăsată, puțin peste cea de jos, se mișca din când în când sub puterea suspinelor calde, atât de dureros; încât părea o mireasă tânără și tristă că și-a pierdut logodnicul pe veci! Și deodată m-a cuprins o milă înduioșătoare de-mi venea să plâng. Cum aș fi vrut s-o mângîi pe obrajii lăcrămați, și ca pe un copil fără mamă, s-o iau la sân și să-i spun vorbe dulci, blânde, mângâietoare!</p>
            <p>Și abia acum vedeam ce fel de femeie e aceasta. Cât de rece și nepăsătoare, mi se păruse până atunci, și cât de simțitoare și suferitoare o vedeam acuma! Și, rău, n-o fi așa cu toate femeile? Nu cumva ele râd prea mult, pentru că prea mult au de plâns? Unde e femeia, care să zică: În săptămâna aceasta nu am plâns deloc! Sau alta, care să zică: Azi n-am râs! Ar fi o mirare! Căci așa le e firea lor într-un ceas, plâng, și-n altul râd,</p>
            <p>Dar aș vrea să știu, fiindcă e vorba de blonda noastră, care plângea cu atâta dor pe bărbatul său mort de aproape un an, unde e bărbatul, pe care, după o lună de la moartea prea iubitei sale soții să-l vezi plîngând de dorul ei, și mai ales în fața unei tinere frumoase și libere? S-ar crede ridicol!</p>
@@ -248,18 +250,18 @@
            <p>Când m-am trezit din visul acesta, îndată m-am gândit că mâine poîmâine, voi pleca în țară, și ce dulce mi-aș mîngâia amintirele cu portretul ei! Și îl și cerui.</p>
            <p>Care nu fu însă mirarea mea, cînd o auzii zicîndu-mi: Das hat kein zweck!</p>
            <p>Dar asta ce o mai fi? Zweck,..., Zweck... de o sută de ori Zweck, și tot nu pricepeam ce însamnă cuvânlul ăsta.</p>
-           <p>(Va urma).</p>
+           <trailer>(Va urma).</trailer>
                  </div>
            </div>
            
            <div type="part" n="7">
-              <p>„FOIȚA EVENIMENTULUI”</p>
-              <p>7</p>
-              <p>AMOR ASCUNS</p>
-              <p>DE</p>
-              <p>Mihăescu-Nigrim</p>
+              <head>„FOIȚA EVENIMENTULUI”</head>
+              <head>7</head>
+              <head>AMOR ASCUNS</head>
+              <head>DE</head>
+              <head>Mihăescu-Nigrim</head>
               <div type="section" n="2">
-           <p>II.</p>
+           <head>II.</head>
            <p>Ce puteam face ca s-o mângâi? Am tăcut cuprins de înduioșare.</p>
            <p>Am lăsat-o să plângă, privind cum apune soarele. Suluri de raze aurii năvăleau asupra ei învăluind-o într-o aureolă sfântă. Sărmana! Ce tristă e viața sufletească a unei femei, care și-a pierdut bărbatul iubit atât de mult!</p>
            <p>Când s-a ridicat de pe mormânt, era plânsă, cu privirea suferitoare și porni spre casă încet, încet, cu pas rar, și pierdut în amintiri dureroase.</p>
@@ -303,25 +305,26 @@
            <p>Nu-mi puteam explica deloc, de ce cu o clipă mai înainte să mă sărute, și mai pe urmă, luându-și seamă, să mă lase să plec așa doar cu bună-ziua! Ori mă iubea într-adevăr, ori se prefăcea. Dacă mă iubea, de ce să se ferească, odată ce atât de dulce-mi spusese că mă iubește? Dacă nu mă iubea deloc, atunci de ce să se prefacă simulând iubirea, când atât de ușor i-ar fi fost de a-mi spune să nu mai vin pe la ea așa de des.</p>
            <p>În niciun caz nu mă puteam liniști. Ciudat!</p>
            <p>Curioasă femeie, Mihneo! Și ce atâta bătaie de cap cu o capricioasă? zise unul din ei, voind a o caracteriza cu un epitet.</p>
-           <p>(Va urma).</p>
+           <trailer>(Va urma).</trailer>
               </div>
            </div>
            
            <div type="part" n="8">
-              <p>„FOIȚA EVENIMENTULUI”</p>
-              <p>8</p>
-              <p>AMOR ASCUNS</p>
-              <p>DE</p>
-              <p>Mihăescu-Nigrim</p>
+              <head>„FOIȚA EVENIMENTULUI”</head>
+              <head>8</head>
+              <head>AMOR ASCUNS</head>
+              <head>DE</head>
+              <head>Mihăescu-Nigrim</head>
               <div type="section" n="2">
-           <p>II.</p>
+           <head>II.</head>
            <p>— Tu zici? Ei, dacă n-ai fost în locul meu! Faceți țigări!</p>
            <p>Foile de hârtii de țigară începură a fâșîi printre degete.</p>
            <p>După o clipă patru suluri de fum vânăt de țigară se încolăceau liniștite, urcând spre tavan.</p>
               </div>
               
            <div type="section" n="3">
-           <p>III.</p>
+           
+		   <head>III.</head>
            <p>Care nu fu lovitura mea, când, a doua zi pe seară, primii din țară o telegramă prin care tatăl meu mă chema de urgență a casă.</p>
            <p>Ce să fac? Să mai întârzii? Dar cine știa ce se întâmplase pe acasă!</p>
            <p>Hotărât! Trebuia să renunț cu o amară părere de rău la văduva mea. Și cât mă întristase acest lucru neașteptat! Tocmai acum cînd deja era prea târziu: o iubeam, prieteni din toată inima și cu atât mai mult, cu cât nu o puteam înțelege!</p>
@@ -354,9 +357,9 @@
            <p>De atunci câte scrisori calde, sfâșietoare, în care mă implora să mă întorc în Bavaria la ea, căci mă iubește și sunt singurul de la care mai poate nădăjdui iubire și sprijin în viața asta.</p>
            <p>Cum isprăvi Mihnea, toți rămaseră întristați, cuprinși de înduioșare.</p>
            <p>Se sculară cu toții și fără a zice o vorbă, tăcuți ieșiră în stradă.</p>
-           <p>1895, București.</p>
-           <p>N. Mihăescu-Nigrim.</p>
-           <p>FINIT</p>
+           <trailer>1895, București.</trailer>
+           <trailer>N. Mihăescu-Nigrim.</trailer>
+           <trailer>FINIT</trailer>
            </div>
            </div>
         </body>
