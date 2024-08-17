@@ -40,12 +40,12 @@
                     <pubPlace>București</pubPlace>
                     <publisher>FOIȚA ZIARULUI „ROMÂNUL”</publisher>
                     <date>1893</date>
-                    <decoNote type="ilustratii" subtype="no"/>
-                    <dim unit="char" type="mic"/>
+                    <decoNote type="illustrations" subtype="no"/>
+                    <dim unit="char" type="small"/>
                     <extent>
                         <measure unit="word">37578</measure>
                         <measure unit="page" type="under_250"/>
-                        <measure unit="foileton" type="under_65"/>
+                        <measure unit="feuilleton" type="under_65"/>
                         <measure type="incomplete"></measure>
                     </extent>
                 </bibl>
@@ -65,16 +65,16 @@
                     <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
                 </keywords>
                 <keywords>
-                    <term type="receptare" n="under 5"/>
-                    <term type="republicare" n="under 10"/>
+                    <term type="reception" n="under 5"/>
+                    <term type="print_count" n="under 10"/>
                     <term type="finished"></term>                
                 </keywords>
             </textClass>
         </profileDesc>
         <encodingDesc>
             <projectDesc>
-                <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-                <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+                <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+                <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
                 <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
                 <p>Masura de tip "incomplete" indica faptul ca am gasit romanul in forma incompleta.</p>
             </projectDesc>
@@ -83,7 +83,7 @@
 <text>
 <body>
     <div type="part" n="1">
-<p>FOIȚA ZIARULUI «ROMÂNUL». 1. DORIN MOLNA</p>
+<head>FOIȚA ZIARULUI «ROMÂNUL». 1. DORIN MOLNA</head>
         <div type="section" n="1">
 <p>Ca Roma veche, pe șapte dealuri, e sălășluit lașul, frumoasă capitală a Moldovei, din care nu a mai rămas decât o amintire. Așezământul ei același ca ’n vremea veche, civilizația înseși, pe di nimicește Iașul de odinioară, cu casele mari boierești înconjurate de ziduri, ogrăzi negre de robi, gherghiruri cu lăzi de aur, și țara îmbelșugată de moșiile lor. Astăzi din când în când mai vezi o casă boierească, cele mai de multe ori cu stăpâni străini, mulți din robi, prin inteligentă și talente au ajuns omeni cu vază. Gherghirurile au rămas pustii, și moșiile împart aceeași soartă ca și casa boierească. Numai luxul bisericilor ce ca ’n nici o parte a țării de numeros au rămas, zidite de domni vechi pământeni, mari și avute rămânând tot mai pustii de credincioșii de odinioară răpiți de învățătura ce nu-i lasă de cât, admiratorii arhitecturii din trecut.</p>
 <p>„Apa trece pietrele rămân“.</p>
@@ -102,7 +102,7 @@
     </div>
     
     <div type="part" n="4">
-<p>FOIȚA ZIARULUI «ROMÂNUL». 4. DORIN MOLNA DE ADELA XENOPOL</p>
+<head>FOIȚA ZIARULUI «ROMÂNUL». 4. DORIN MOLNA DE ADELA XENOPOL</head>
         <div type="section" n="1">
 <p>— Necșo, nu știi de ce mă cheamă mama?</p>
 <p>— Pesemne unde ți-a venit logodnicul puicuță.</p>
@@ -137,7 +137,7 @@
     </div>
     
     <div type="part" n="5">
-<p>FOIȚA ZIARULUI «ROMÂNUL». 5. DORIN MOLNA DE ADELA XENOPOL</p>
+<head>FOIȚA ZIARULUI «ROMÂNUL». 5. DORIN MOLNA DE ADELA XENOPOL</head>
         <div type="section" n="1">
 <p>— Vă cred e atât de greu ate despărți de cineva iubit —șopti Liliana cu graiul jumătățit de bătăile inimii, și pe când Molna se închina smerit fără a-i grăi nimic, ea palidă se lăsă pe scaunul îndemânat de Războianu, care crezându-l pentru el și acea impresie vădită și acele graiuri dulci, o privea nesățios sub fluxul sângelui ce năvălea înroșindu-i obrajii.</p>
 <p>— Duduia Liliana ii mulțumită văzându-mă îndărăt?</p>
@@ -166,7 +166,7 @@
     </div>
     
     <div type="part" n="6">
-<p>FOIȚA ZIARULUI «ROMÂNUL». 6. DORIN MOLNA DE ADELA XENOPOL</p>
+<head>FOIȚA ZIARULUI «ROMÂNUL». 6. DORIN MOLNA DE ADELA XENOPOL</head>
         <div type="section" n="1">
 <p>— Da! șopti Liliana cu surprindere, apoi vioaie îl întrebă. — Cum se numește inima?</p>
 <p>Turec— răspunse Molna iubitor pe când ea intonă tot mai trist și mai stins —Dar iubire?</p>
@@ -203,7 +203,7 @@
     </div>
     
     <div type="part" n="7">
-<p>FOIȚA ZIARULUI «ROMÂNUL». 7. DORIN MOLNA DE ADELA XENOPOL</p>
+<head>FOIȚA ZIARULUI «ROMÂNUL». 7. DORIN MOLNA DE ADELA XENOPOL</head>
         <div type="section" n="1">
 <p>— A! dacă s-ar petrece viața unui stat așa după plăcerile nostre, apoi ar fi rău de tot. Te întreb duduie, pentru ca să ajungi la mal câte valuri despici? și până la malul libertății mă crede că multe titre a trebuit să zdrobim. Cât lumea e sălbatică trebui să fim și noi pentru a ne apăra țara și drepturile iei.</p>
 <p>— Domnule Molna dar voi, câte capete de turci ați dejucat? întrebă Petru cu ton ironic.</p>
@@ -235,7 +235,7 @@
     </div>
     
     <div type="part" n="8">
-<p>FOIȚA ZIARULUI «ROMÂNUL». 8. DORIN MOLNA DE ADELA XENOPOL</p>
+<head>FOIȚA ZIARULUI «ROMÂNUL». 8. DORIN MOLNA DE ADELA XENOPOL</head>
         <div type="section" n="1">
 <p>Apoi se curmă sfatul, se despărțiră, retrăgându-se fiecare în camerele lor, și totul reintră în liniște.</p>
 <p>Numai când se apropie vremea reîntoarcerii lor, Liliana ieși pe cerdac, iar soarele scăpându-se spre asfințit îi dezmierda cu raze calde obrajii ce se rumeniseră când îi văzu trecând în zare. Războianu strălucea sub aur și decorații, iar lângă el, blânduț, pășea Dorin, în simpla uniformă a ambulanței, neavând ca semn deosebit decât crucea roșie de pe braț. Când reintrară totul se primeni a bucurie și cele de pe urmă raze ale asfințitului se jucau pe chipul Lilianei, ce rămase pe prag, privindu-i pe amândoi, pe când în suflet și în gând simțea acea luptă între veselie și întristare.</p>
@@ -262,7 +262,7 @@
     </div>
     
     <div type="part" n="9">
-<p>FOIȚA ZIARULUI «ROMÂNUL». 9. DORIN MOLNA DE ADELA XENOPOL.</p>
+<head>FOIȚA ZIARULUI «ROMÂNUL». 9. DORIN MOLNA DE ADELA XENOPOL.</head>
         <div type="section" n="1">
 <p>Omul nerăbdător e ca un cititor de rând, pe care nu-l interesează amănuntele ci intriga dintr-o lucrare, artistul însă în detalii se oprește, și omul de elită știe să se supună împrejurărilor și să rabde cu acea hotărâre atât de aristocratică. De la o vreme Liliana strânse lumina, totul reintra în liniștea nopții, numai gândul își mai făurea acea zi fericită, Fără a ști pe care scenă sau frază o să-i apună gândul, când neștirea va rupe firul, și iar anume de unde va reîncepe în acele legende ale sufletului pe care le numim, vise.</p>
         </div>
@@ -292,7 +292,7 @@
     </div>
     
     <div type="part" n="11">
-<p>FOIȚA ZIARULUI «ROMÂNUL». 11. DORIN MOLNA DE ADELA XENOPOL</p>
+<head>FOIȚA ZIARULUI «ROMÂNUL». 11. DORIN MOLNA DE ADELA XENOPOL</head>
         <div type="section" n="2">
 <p>Liliana auzindu-i că se apropie, aruncă scrisoarea în sertar, și deschizând o carte se ridică când Ruxandra deschizând ușa rosti, semeț.</p>
 <p>„Liliano e pentru cea de pe urmă dată îți mai spun, să iei seama cum vorbești cu Războianu, când vei mai îndruga cuvinte nesocotite să știi că îți fac rușinea înaintea oricui? - izbind ușa trecu în salon, pe când tânăra rămase ca o statuie simțind puterea lângă care se încumetă să lupte, fără a-și putea tălmăci pricina astei asprimi.</p>
@@ -316,7 +316,7 @@
     </div>
     
     <div type="part" n="12">
-<p>FOIȚA ZIARULUI «ROMÂNUL». 12. DORIN MOLNA DE ADELA XENOPOL.</p>
+<head>FOIȚA ZIARULUI «ROMÂNUL». 12. DORIN MOLNA DE ADELA XENOPOL.</head>
         <div type="section" n="2">
 <p>— Tată nu mă mărit cu Războianu, te rog în genunchi, stăruie la mama, îmi e cu neputință.</p>
 <p>Pe când astfel șoptea, un văitat înădușit îi făcu se tresară, și privind spre ușă văzură prin deschizătură, chipul Ruxandrei care pe dată dispăru, lăsându-le în urmă, impresia înfiorătoarei ei figuri. Petru rămase surprins lămurindu-și că Ruxandra îl temea până și de fața ei. Nedumerită Liliana îl întrebă, ce se întâmplase, pe când Aramă ieșind îi spuse, „Liliano trebui să te măriți.“ apoi se îndrumă în oraș, pe când în urmă-i Necșa intrând întrebă speriată. Ce-a fost? că maică-ta ca o leoaică se plimba prin cerdac, are ochii tulburi de mânie și rupe cu dinții năframa ce ține la gură.. Ce-o fi copilă că și tu te uiți împrăștiat?</p>
@@ -349,7 +349,7 @@
     </div>
     
     <div type="part" n="13">
-<p>FOIȚA ZIARULUI «ROMÂNUL». 13. DORIN MOLNA DE ADELA XENOPOL</p>
+<head>FOIȚA ZIARULUI «ROMÂNUL». 13. DORIN MOLNA DE ADELA XENOPOL</head>
         <div type="section" n="3">    
 <p>Curtea era luminată, numai camera Lilianei lăsată în întuneric o ascundea cu întristarea ei, căutând să-și potolească prin înțelepciune iubirea, bolnavă de suferință. Mult se sfătui cu gândul apoi tresări de hotărârea ce își impuse spunându-i Necșei.</p>
 <p>— Du-te, de vestește pe Dorin că sunt în grădină. </p>
@@ -383,7 +383,7 @@
     </div>
     
     <div type="part" n="14">
-<p>FOIȚA ZIARULUI «ROMÂNUL». 14. DORIN MOLNA DE ADELA XENOPOL</p>
+<head>FOIȚA ZIARULUI «ROMÂNUL». 14. DORIN MOLNA DE ADELA XENOPOL</head>
         <div type="section" n="3">    
 <p>— Știi, răcni el lovind cu piciorul în pământ, și Înaintând cu ochii țintiți,—figură ce o înspăimântă, îl primi însă în loc când îi șopti. „Poți să mă ucizi că nu știu nimic.</p>
 <p>Ca lovit Dorin rămase gândind la cumplita durere a iubitei lui, în care suferința se adâncise până în delirul acelei crize nervoase. Ridicând palida frunte privi în urma Lilianei pe pașii pe care se pierduse Necșa, și ochii îi rămaseră pe două umbre ce se mișcau alături pierzându-se acolo, în fund unde bătrâna ajută pe iubita lui să pășească în spre casă. Când Liliana ajunse în camera ei, căzu pe sofa. Simți că îi arde creierul în care-și concentrase toată puterea. Necșa o înveli cu blănuri, ea însa nu-și dădea seama de nimic, dinaintea ochilor ei se făurea chipul lui Dorin, pe când în auz răsunau necontenit înfiorătoarele cuvinte ale Ruxandrei. Și atât era de adâncită, că nici dovedea să asculte ce mereu îi șoptea Necșa, cuvintele îi păreau ca niște sunete neînțelese cum ai asculta vorbind printr-un perete subțire. Se mai liniști, după ce sorbi ceaiul de tei, tămâios, de crângul primăverii, apoi iar se lasă pe culticele de mătasei privind bătrâna ce sta lângă ea, și descântând-o șoptea tăcut de încetișor, purtându-și mâna uscată pe deasupra ochilor Lilianei; apoi își încleșta degetele strângându-i tâmplele, și suflându-i peste cap și obraz se auzea mai lămurit „Piară duhul rău“. De la o vreme nu se mai auzi nimic, adormi trudită de durere, și când în zori se trezi, privirea-i se opri pe Necșa, ce-și mișca buzele în mutele șoapte a rugăciune, și făcând cruce bătea metanie privind îndurător icoanele, umbrite de amijie și veșteda rază a candelei.</p>
@@ -439,7 +439,7 @@
     </div>
     
 <div type="part" n="16">    
-    <p>FOIȚA ZIARULUI «ROMÂNUL». 16. DORIN MOLNA DE ADELA XENOPOL</p>
+    <head>FOIȚA ZIARULUI «ROMÂNUL». 16. DORIN MOLNA DE ADELA XENOPOL</head>
     <div type="section" n="4">    
 <p>— Iată gîndul meu Ruxandră dragă; toată averea ta e în case, și bani pe care-i ai nu știu la ce bancă; crede că și aceasta mă supără mult văzînd atâta pază de mine. Găsesc cu cale să vindem casele și cu ajutorul banilor ce mai sunt, să ne cumpărăm o moșie unde ne vom retrage și vom fi fericiți. Eu, având în locul petrecerilor distracția agriculturii, și tu scumpa mea soție mă vei îngriji, și unul pe altul așa în dragoste ne va găsi bătrinețea.</p>
 <p>— Viață de rai, cuvîntă Ruxandra ștergîndu-și lacrimele bucuriei, și Petru o sărută depunînd acest sigil pe o hotărîre atît de plăcută.</p>
@@ -467,7 +467,7 @@
 </div>
     
     <div type="part" n="17">
-        <p>FOIȚA ZIARULUI «ROMÂNUL». 17. DORIN MOLNA DE ADELA XENOPOL</p>
+        <head>FOIȚA ZIARULUI «ROMÂNUL». 17. DORIN MOLNA DE ADELA XENOPOL</head>
         <div type="section" n="4">    
 <p>Un gol simțea și Liliana, care trebuia să se mărite cu un om atât de străin inimii ei. Și trebuia să se mărite cu toate că simțea acea durere nedestăinuită, durere pe care ar simți-o un nenorocit căruia i s-ar fi tăiat un picior ori o mână; sufere cumplit dar trebuie să se deprindă cu schiloada lui făptură.</p>
   </div>
@@ -523,7 +523,7 @@
     </div>
     
     <div type="part" n="19">
-        <p>FOIȚA ZIARULUI «ROMÂNUL». 18. DORIN MOLNA DE ADELA XENOPOL</p>
+        <head>FOIȚA ZIARULUI «ROMÂNUL». 18. DORIN MOLNA DE ADELA XENOPOL</head>
         <div type="section" n="5">    
 <p>Îndărăt faldurile taliei slobozindu-se tot mai lărguț se împrăștiau desfăcându-se în poale trenei, lungă. —înconjurată de cunoscuți, Ruxandra le răspundea surâzând sub pulberea de briliante, și fiind răpită în sfatul curteniritor ce o întinereau de bucurie, nici lua seamă de Aramă care își ieșite din fire ca oricine când e prea înamorat. Cu lăcomie se uita la Dora, înaltă ca o trestie, și căpușorul ei mai frumos ca al unui înger de Rafael, și-l purta în toate părțile răspunzând, râzând necontenit; și în fericire își luneca de abia privirea în acele sute de ochi ce fără de voie o admirau, pe când Aramă, își înholba mereu pe ai săi, cu acea cerșire de a fi văzut. Privirele însă se desprinseră de ea când corul izbucni în cântec, și lumea ferind în lături, deschise cărare până la masa de taină, ce era în mijlocul bisericii și în jurul căreia stăteaau popii înveșmintați în stofe scumpe. - Din fundul pridvorului mai întunecat Războianu ce strălucea de fir și decorații, își întovărășea mireasa, pășind pe cărări deschise sub bolta luminată de făclii. Liliana era mai măreață ca oricând, în astă seară sub mica ghirlandă de flori de alămâie așezată ceva mai sus pa fruntea senină. De asupra-i răsărea ca o creastă curmezișă peteala ce cădea îndărăt unele vițe se ridicau prinse pe umeri, iar ițele din creștet se slobozeau împrăștiindu-se pe trena lungă și simplă ca întreaga rochie albă, din care răsărea ca un înger.</p>
 <p>Era mai frumoasă ca oricând în acea seară când totul era pentru Liliana, ea însă pentru nimic, ci se supunea ca o roabă stăpânilor săi. —Ca un copil întinse mâna când în deget îi trecu verigi late, sorbi de trei ori vinul roș din cupa de argint, își plecă capul sub Evanghelie pe care citi mitropolitul după ce-și dezveli capul de mitra bătută în pietre scumpe, pe când corul sorocit cântă. Cununi si preoți prinzîndu-se de mini, făcură lanțul horei, în jurul mesei, sub ploaie de flori și bomboane după ce li se așeză cununile, cercuri de argint.</p>
@@ -542,7 +542,7 @@
     </div>
     
     <div type="part" n="20">
-        <p>FOIȚA ZIARULUI «ROMÂNUL». 19. DORIN MOLNA DE ADELA XENOPOL</p>
+        <head>FOIȚA ZIARULUI «ROMÂNUL». 19. DORIN MOLNA DE ADELA XENOPOL</head>
         <div type="section" n="5">    
 <p>Sătenii care au nevoie la târg, înjugă boii, și șuierând un cântec pleacă car după car, gând după gând; astfel merg ei culcați în carul moale de fân, și adesea stingherind cântecul cu câte un hăis-ța îndemnător leneșului mers al boilor. — Și se tot duc privind cu drag curtea de piatră cenușie de veche durată în architectură posomorâtă. Cu toate că-n două caturi, e insă cam joasă, poate și fiindcă de vechime temelia s-a mai îngropat. Are mult farmec, farmec neasămător, astă casă, când de pe șoseaua ce-o desparte de lanul întins de grâu o vedi, ca prin ostrețe, printre plopii ce se ridică hăt sus ca un lanț de straje pânditoare, înșirându-se, sute, de-a dreapta și de-a stânga poștei de piatră mare și arcată ca un arc de triumf. Și pe ea, printre sutele de chi</p>
 <p>puri tăiate, răsare in mijloc capul de zimbru, marca Moldovei, poartă împodobită și de natură căci acoperământul de oale cu streașină lătuță e prins, ici și colo, de mușchi și de ierburi ce înfloresc. — Fațada casei are la mijloc, sus, două ferestre mari, late, de-a lungul cărora se sfârșeste balconul de fier, și despărțite de două uși arcate sus ca și ele de un semi-cerc brăzdat curcubeul de geamuri colorate. Acest mijloc ce e afundat cât ține lățimea bal</p>
@@ -562,7 +562,7 @@
     </div>
     
     <div type="part" n="21">
-        <p>FOIȚA ZIARULUI «ROMÂNUL». 20. DORIN MOLNA DE ADELA XENOPOL</p>
+        <head>FOIȚA ZIARULUI «ROMÂNUL». 20. DORIN MOLNA DE ADELA XENOPOL</head>
         <div type="section" n="5">    
 <p>...adorat-o Moina pe acea nenorocită.</p>
 <p>...în luxul si petrecerile lunii până ..., apoi cu voința stăpânirei din ... aruncată la mănăstire fiindcă ... un neam al ei, pe care incă îl rară de nu se mai știaîi Ani își Uarerea și când Dragoș o văzu pensia oară acea iubire se stinsese, ^tatâ pentru el.</p>
@@ -585,7 +585,7 @@
     </div>
     
     <div type="part" n="22">
-        <p>FOIȚA ZIARULUI «ROMÂNUL». 21. DORIN MOLNA DE ADELA XENOPOL</p>
+        <head>FOIȚA ZIARULUI «ROMÂNUL». 21. DORIN MOLNA DE ADELA XENOPOL</head>
         <div type="section" n="5">    
 <p>Mulți care se lipsiră de aceste măriri care ridică țara, se retrăsese în străinătate îndată ce și la noi se deschisese drumul de fler atât de îndemânatic, și de al cărui lipsă, înainte vreme stăteam toți în țară. Românul nu e ca alt popor să fie fericit că e bogat și luminat pentru țară, locul lui e străinătatea, îndată ce-i bogat în străinătate își face viața, ori poate vine de acolo, că mai toată societatea română e în mare parte un amestec de străini.</p>
 <p>Se gândea Molna, cât de frumoasă ar fi țara, dacă luminații ar sta toți aici lăsînd egoismul pentru binele poporului, și cât de minunat s-ar petrece, și târgurile s-ar ridica prin bogăția familiei înstrăinate de fanfaronadă.</p>
@@ -604,7 +604,7 @@
     </div>
     
     <div type="part" n="23">
-        <p>FOIȚA ZIARULUI «ROMÂNUL». 22. DORIN MOLNA DE ADELA XENOPOL</p>
+        <head>FOIȚA ZIARULUI «ROMÂNUL». 22. DORIN MOLNA DE ADELA XENOPOL</head>
         <div type="section" n="5">    
 <p>Ca și el fără de fală, și cu toate acestea cu înfățișare atât de trufașă se mai adunase o ceată mare de tineri care se hotărâse să lupte unii in politică alții la țară rânduind cu asprime cele mai mici amănunțimi. Un obiect de artă nu e datorit decât amănunțimii măiestrite, tot astfel și un popor nu pote ajunge „trainic”, mare decât atunci când trepta de jos va fi sănătoasă și luminată. Și aici jos la obârșia atât de neîngrijită se hotărâseră ei se lucreze, cu soțiile lor neîmpărtășind barbara dezbinare atât de înjosită, de a considera femeia sclavă „el“ deplin stăpân. Astfel se hotărâse ca și cu ele să pună crucea, ăstei biserici atât de sfinte a neamului lor.</p>
 <p>Până atunci însă cârmuia Molna bătrânul, care nu era cum sunt mulți bătrâni, ridicoli prin eleganța tinerească, văpsiți și gala a face pe tinerelul.</p>
@@ -623,7 +623,7 @@
         </div>
     
     <div type="part" n="24">
-        <p>FOIȚA ZIARULUI «ROMÂNUL». 23. DORIN MOLNA DE ADELA XENOPOL</p>
+        <head>FOIȚA ZIARULUI «ROMÂNUL». 23. DORIN MOLNA DE ADELA XENOPOL</head>
         <div type="section" n="5">    
 <p>Aceste cuvinte căzură ca un duș pe bietul bătrân care deschizând ochii mari întrebă cu mirare.-</p>
 <p>— Și ce lipsuri te-au făcut se iei această hotărâre, acum când mai ai atât de puțin, pentru a deveni un om, desăvârșit cu voiai să să fii ?</p>
@@ -641,15 +641,13 @@
 <p>— Se cunoaște că generație trecută a fost frumoasă, D-nă, spuse tinărul simțindu-i slăbiciunea, și Tarsița trăgându-și cu două degete tâmpla părului ondulat mai pe ochi, și privindu-l pe sub gene, răspunse legănat: Da, și noi tot odrasle mândre am dat. ce vezi ce fată drăguță am.</p>
 <p>— Nici pot crede altfel, de va semăna mumei.</p>
 <p>— Apoi să vii să o vezi, și ea dorește mult să te cunoască.</p>
-<p>— Nu mai târziu decât astăzi vom veni, spuse bătrânul, și Dorin de și ne-</p>
-<p>mulțumit însă primi cu bucurie, ceea ce învoioșă vechea prietenă.</p>
-<p>Ei mai sfătuiră câtva apoi Dorin simțind că le-ar fi priit mai lesne se rămână singuri, pentru a se sfătui în voie, ieși plecându-se la ei. Când fu în antreu, rămase o clipă, și trecându-și mâna pe frunte, își șopti cu disperare. „De ce nu mi-a spus mai demult, dacă aș fi știut, că nu sunt decât eu. În aceste gânduri intră în una din camerele lui, și ca obosit se lăsă pe sofaua de catifea albastră, șoptindu-și ca unui prieten. Dacă aș fi știut, Ca niciodată simțea acel nepriceput amestec de jale și de nemulțumire! pe care îl simte oricine când e lovit și dezmierdat de aste două simțiri. Mâhnirea, că moșul său îl credea atât de interesat se îmblânzise cunoscându-i inima nevătămată, și suferințele pe care ar fi putut să nu le îndure Liliana, se potoleau, se pierdeau cu desăvârșire în gândurile mulțumite, când iubita lui stăpână intra în casa in care nu va mai fi a altuia decât a lui. Era sigur că moșul său va sfârși prin a-i încuviința această cerere, care îi era mai scumpă decât viața. Și șirurile gândurilor se revărsau unul din altul ca poveștile „O mie și una de nopți”. O vedea albă, cu manta de beteală alături de el în pareclisul mic, o admiră cu nesaț printre zăbrelele harpei</p>
-<p>pe care atingându-le, vor răsuna ... îngerești, în care va adormi ... care l-ar privi cu acea dragoste ... o simțea el în acele clipe, simțindu-și ... adânc și nemărginit ce ... simțirea. Dor ce fără de voie, te ... te face să umbli fără s-o știi, să vorbești fără să auzi, și cu ochii țintiți pe arbor sau case , să-i vezi chipul ... . Și cum pășise lângă terestră privind în livada ce-i trezi nespus de multe amintiri. Arborii cei ..., fost răsădiți de bunii lui, cei verzi... moșul său, iar peste puțin și aceștia ...cădea sub umbra celor ce îi va ... el. Dăr după dânsul? Aici gândul se ... desprinzându-se de tot ce e in ... când Liliana resări ca o icoană... atunci rând pe rând îi mai amijă ea bogăția în care era să fie stăpân, care cu atâta fericire o să se ... cu Liliana, lângă moșul lui. Și întristarea de cele întâmplate îi ... iarăși planul de fericire ce ... așteptare. Încetul cu încetul negurii ... pe cugetul său se ridicară, fața se ... la priveliștea satului ce se ... departe sub ochii lui.</p>
+<p>— Nu mai târziu decât astăzi vom veni, spuse bătrânul, și Dorin de și nemulțumit însă primi cu bucurie, ceea ce învoioșă vechea prietenă.</p>
+<p>Ei mai sfătuiră câtva apoi Dorin simțind că le-ar fi priit mai lesne se rămână singuri, pentru a se sfătui în voie, ieși plecându-se la ei. Când fu în antreu, rămase o clipă, și trecându-și mâna pe frunte, își șopti cu disperare. „De ce nu mi-a spus mai demult, dacă aș fi știut, că nu sunt decât eu. În aceste gânduri intră în una din camerele lui, și ca obosit se lăsă pe sofaua de catifea albastră, șoptindu-și ca unui prieten. Dacă aș fi știut, Ca niciodată simțea acel nepriceput amestec de jale și de nemulțumire! pe care îl simte oricine când e lovit și dezmierdat de aste două simțiri. Mâhnirea, că moșul său îl credea atât de interesat se îmblânzise cunoscându-i inima nevătămată, și suferințele pe care ar fi putut să nu le îndure Liliana, se potoleau, se pierdeau cu desăvârșire în gândurile mulțumite, când iubita lui stăpână intra în casa in care nu va mai fi a altuia decât a lui. Era sigur că moșul său va sfârși prin a-i încuviința această cerere, care îi era mai scumpă decât viața. Și șirurile gândurilor se revărsau unul din altul ca poveștile „O mie și una de nopți”. O vedea albă, cu manta de beteală alături de el în pareclisul mic, o admiră cu nesaț printre zăbrelele harpei pe care atingându-le, vor răsuna ... îngerești, în care va adormi ... care l-ar privi cu acea dragoste ... o simțea el în acele clipe, simțindu-și ... adânc și nemărginit ce ... simțirea. Dor ce fără de voie, te ... te face să umbli fără s-o știi, să vorbești fără să auzi, și cu ochii țintiți pe arbor sau case , să-i vezi chipul ... . Și cum pășise lângă terestră privind în livada ce-i trezi nespus de multe amintiri. Arborii cei ..., fost răsădiți de bunii lui, cei verzi... moșul său, iar peste puțin și aceștia ...cădea sub umbra celor ce îi va ... el. Dăr după dânsul? Aici gândul se ... desprinzându-se de tot ce e in ... când Liliana resări ca o icoană... atunci rând pe rând îi mai amijă ea bogăția în care era să fie stăpân, care cu atâta fericire o să se ... cu Liliana, lângă moșul lui. Și întristarea de cele întâmplate îi ... iarăși planul de fericire ce ... așteptare. Încetul cu încetul negurii ... pe cugetul său se ridicară, fața se ... la priveliștea satului ce se ... departe sub ochii lui.</p>
         </div>
     </div>
     
     <div type="part" n="25">
-        <p>FOIȚA ZIARULUI «ROMÂNUL». 24. DORIN MOLNA DE ADELA XENOPOL</p>
+        <head>FOIȚA ZIARULUI «ROMÂNUL». 24. DORIN MOLNA DE ADELA XENOPOL</head>
         
         <div type="section" n="5">    
 <p>Satul în care ca un stindard de glorie o se se ridice școala, mare și frumoasă, în care puii de români vor învăța, și-n orice talent se vor deosebi, va cânta să-i cultive pe cât se poate mai perfect, ca un părinte avut și bun, prevăzător pentru copiii lui cei buni.</p>
@@ -676,7 +674,7 @@
     </div>
     
     <div type="part" n="26">
-        <p>FOIȚA ZIARULUI «ROMÂNUL». 25. DORIN MOLNA DE ADELA XENOPOL</p>
+        <head>FOIȚA ZIARULUI «ROMÂNUL». 25. DORIN MOLNA DE ADELA XENOPOL</head>
         <div type="section" n="5">    
 <p>Prin două gărăfi clare de cristal se prevedeau vinul de „Odobesci ” gălbui ca chihlibarul și altul „Cotnarul” roșu ca sângele de iepure. Amândouă pe talerul de argint, argint lucrat de minune în vasele ce se ridic cu fiori și fructe. Bătrânul așezându-se zâmbi ascuns, în barbă, de farsa pe care plănuise să-i joace lui Dorin și vecinilor. Avea o nespusă mulțumire să-l vadă zăpăcit pe ei iscusitul care știa să se descurce într-un chip atât de fin fără să supere nici pe moșul său și nici el să cadă-n laț</p>
 <p>Și-i plăcea bătrânului să-l vâdă rumen cu desăvârșire, cu ochii strălucitori în iuțela gândurilor. Acum voi să-l vadă cum se va descurca din mrejele însurătoarei. Molna bătrânul poate nu ar fi făcut ăst pas dacă d-na Sandru nu ar fi stăruit atât și acum se pregătea să-l vadă pe Dorin, zăpăcit pe Vochițica înamorată și pe biată Tarsița purtându-se de suveica între casa lui și a ei.</p>
@@ -706,7 +704,7 @@
     </div>
     
     <div type="part" n="27">
-        <p>FOIȚA ZIARULUI «ROMÂNUL». 26. DORIN MOLNA DE ADELA XENOPOL</p>
+        <head>FOIȚA ZIARULUI «ROMÂNUL». 26. DORIN MOLNA DE ADELA XENOPOL</head>
         <div type="section" n="5">   
 <p>După ce bătrânul Molna porunci să înhame, amândoi încetul străbătură antretul tapetat tot în marmură și ieșiră pe cerdatul dinspre drum, și ca de obicei făcură câțiva pași fumând și sfătuind, apoi reintrară în salonele unde se deteră la privit tablourile străbunilor, cu înfățișarea impunătoare și într-ales și numa bine de priveai vedeai neînsemnatele știrbituri ce-au suferit din corcitină, aceeași figură cu mici modificări, cum sunt bonetele Dogilor venețiani.</p>
 <p>Stăteau aievea tablourile a cărora ființe erau cenușă, pe când Moina netezindu-și barba albă ca și obrazul, ca și pletele fine și moi, formau un minunat tabloul viu sfătuind cu Dorin care asculta cu sfințenie.</p>
@@ -739,7 +737,7 @@
     </div>
     
     <div type="part" n="28">
-        <p>FOIȚA ZIARULUI «ROMÂNUL». 27. DORIN MOLNA DE ADELA XENOPOL</p>
+        <head>FOIȚA ZIARULUI «ROMÂNUL». 27. DORIN MOLNA DE ADELA XENOPOL</head>
         <div type="section" n="5">
 <p>Pe atunci nu ne ierați vecine, acum am fi fost prieteni din copilărie,</p>
 <p>— Într-adevăr, de abia ăst an mi-am cumpărat moșia, dumneata încă nu erai pe când prietenia noastră cu cuconu Dragoș. dar e din copilărie și-a fost sortit, ca la bătrânețe să fim vecini.</p>
@@ -762,8 +760,7 @@
 <p>O turmă de duduci năvăliră de umplură odaia, și pe când Tarsița se ridica înaintând spre Zoița muma fetelor, una alteia sărutându-și mâinele și obrajii, in timp ce Vochița se îmbrățișă cu fetițele ce trăgeau cu coada ochiului pe Dorin, rămas în picioare, privind cu drag cum fetițele sărutau mâna moșului său, care spunându-le câte o vorbă dulce le săruta pe frunte.</p>
 <p>Ele apoi, se închinară când bătrânul le făcu cunoscut pe nepotul său, și după astă ceremonie cu toții luară loc pe când d-nu Sandu întrebă „Când ai venit Zoiță ? credeam că nu te mai întorci de la Iași</p>
 <p>— Cu adevărat Tarsița, nu mi dădeam urmite fetele, se întărtase în petreceri. Cu mare ce le-am desrădăcinat; și la plecare zău e plăcut când ai fete frumoase, doar tot ce lașul are elită era la gară se ne petreacă cu buchete...</p>
-<p>— De eram la Iași de sigur că aș fi fost și eu intre ei—spuse Dorin cu măgulire, pe când ochii mari și albaștri ai Dorei se țintiră vorbitor pe Molna. —Infățișarea lui o suprinse, cuvintele lui o ademeneau, astfel că într-o clipă începu alt plan lăsându-l în rezevă pe Aramă și</p>
-<p>gata a face mândrețe cu Dorin, căruia nu-i trebui mult să captive pe oricine, și de multe ori nu era mulțumit mai mult de exteriorul ce-l apropia de un Don Juan. Astfel cum să nu-i placă și ei când era atât de plăcut, și el cum se nu admire un cap atât de perfect. O fată ori cât de rele apucături ar avea nu se poate însă abține de a nu iubi ceea ce e demn de dragoste.</p>
+<p>— De eram la Iași de sigur că aș fi fost și eu intre ei—spuse Dorin cu măgulire, pe când ochii mari și albaștri ai Dorei se țintiră vorbitor pe Molna. —Infățișarea lui o suprinse, cuvintele lui o ademeneau, astfel că într-o clipă începu alt plan lăsându-l în rezevă pe Aramă și gata a face mândrețe cu Dorin, căruia nu-i trebui mult să captive pe oricine, și de multe ori nu era mulțumit mai mult de exteriorul ce-l apropia de un Don Juan. Astfel cum să nu-i placă și ei când era atât de plăcut, și el cum se nu admire un cap atât de perfect. O fată ori cât de rele apucături ar avea nu se poate însă abține de a nu iubi ceea ce e demn de dragoste.</p>
 <p>Astfel totae petrecerile, toaletele și luxul remaseră în umbră, când îl văzu pe Dorin, pentru care crezu o clipă că ar lăsa totul; apoi cu încetul urmărindu-și gândul, sfârși și cu el ca și cu Aramă, că l-ar face să vândă totul și să mergă acolo unde era ținta vieții ei. Acolo unde de mică era crescută, căci nu trebue să uităm că mulți din fruntași de pe atunci, mai ales grecii și ciocoii boieriți ca nici o nație pe lume: își urăsc mai întâi limba și țara; dacă mai rămâne ceva de folos pentru patrie după aceste cred că le-o jertfesc.</p>
 <p>Întâia lor grijă însă este (sau era) mai întâi să-și trimită cât de mici copiii în străinătate ducându-se mai totdeauna ei să-i vadă, și dacă mai de multe ori sunt mai străini decât străinii nu e tocmai vina lor. Cea mai mare slavă și admirație era până mai anii trecuți când un român sau româncă venea din străinătate și nu cunoșteau deloc românește. Așa ... și fetele cu ...Joiței care încă ... atât chibzuesc, că na voe să așeze fetele in șc61ă, guvernante, de vreme ce la Para lumea vorbește franțuzește. Atât eu. Iul instrucției; ast-fel că iconomisi g bani pentru petreceri. Domnișoarei înce nu ajunsese până la culmea cir ției fiind-că nu-și uitase ; raiul căutară să’și strice accentul pentru i de rea străine, Și fetele ei, du putea s pi viața da țâră, dorind să se măritei»; di inătate cu ori cine numai străin â sp cum este obiceiul să se căsătorii te: </p>
 <p>t6te fetele de magnat.—Acum insă m pe Dorin Moina, mersul gândurilor li prit de inima ce intr’o clipă se pri» tru el.—Dorin încă cn tdtă iubirea ea sginită ce simția pentru Liliana mse a tea opri de a nu privi cc drag aste pa i, fetițe at*t de irumdse, care luase ta s cui parizian—veselia.</p>
@@ -771,7 +768,7 @@
     </div>
     
     <div type="part" n="29">
-        <p>FOIȚA ZIARULUI «ROMÂNUL». 28. DORIN MOLNA DE ADELA XENOPOL</p>
+        <head>FOIȚA ZIARULUI «ROMÂNUL». 28. DORIN MOLNA DE ADELA XENOPOL</head>
         <div type="section" n="5">
 <p>Bătrânii sprijinindu-se în cultura de mătase, despregiurară de pe brațe șiragurile de metane, pe care mănuindu-le începură a vorbi de ale moșiei. Tinerii însă se cercuiră în jurul mesei din mijlocul salonului, iar Vochița scoțând din saltar o pereche de cărți spuse.</p>
 <p>— Hai să ne jucăm in cărți, cum să stăm așa?</p>
@@ -826,7 +823,7 @@
     </div>
     
     <div type="part" n="30">
-        <p>FOIȚA ZIARULUI «ROMÂNUL». 29. DORIN MOLNA DE ADELA XENOPOL</p>
+        <head>FOIȚA ZIARULUI «ROMÂNUL». 29. DORIN MOLNA DE ADELA XENOPOL</head>
         <div type="section" n="5">
 <p>La Paris sunt atâtea distracții încât nu ai nevoie de studii pentru a-ți omorî orele sunt petrecerile care dimpotrivă le dă viață. Și drept se ve spun îmi plac foarte mult petrecerile.</p>
 <p>—E placul tuturor ființelor frumoase ca voi, în petreceri puteți fi necontenit cântate, admirate. Numai ființele mai puțin frumoase îngălbenesc citind, ca măcar prin învățătură să poată fi atrăgătoare.</p>
@@ -868,7 +865,7 @@
 </div>
     
     <div type="part" n="31">
-        <p>FOIȚA ZIARULUI «ROMÂNUL». 30. DORIN MOLNA DE ADELA XENOPOL</p>
+        <head>FOIȚA ZIARULUI «ROMÂNUL». 30. DORIN MOLNA DE ADELA XENOPOL</head>
         <div type="section" n="5">
 <p>— Adică mai mult plină decât verde— se gândi Dorin, pe când unchiului său îi răspunse. Ai dreptate moșule e fată sănătoasă, are niste mușchi ca de gladiator, ș-apoi nu găsești și mata că e prea roșie?</p>
 <p>— Așa sunt fetele, dar dacă se mărită pe urmă se prefac.</p>
@@ -895,7 +892,7 @@
     </div>
     
     <div type="part" n="32">
-        <p>FOIȚA ZIARULUI «ROMÂNUL». 31. DORIN MOLNA DE ADELA XENOPOL</p>
+        <head>FOIȚA ZIARULUI «ROMÂNUL». 31. DORIN MOLNA DE ADELA XENOPOL</head>
         <div type="section" n="5">
 <p>Toată acea zi petrecută atât de sarbăd, toate acele chipuri răzlețite, ii redeșteptară mai viu în inimă și-n minte icona Lilianei.</p>
 <p>Astfel în dorul ei îi scrise lui Războianu.</p>
@@ -919,7 +916,7 @@
     </div>
     
     <div type="part" n="34">
-        <p>FOIȚA ZIARULUI «ROMÂNUL». 33. DORIN MOLNA DE ADELA XENOPOL</p>
+        <head>FOIȚA ZIARULUI «ROMÂNUL». 33. DORIN MOLNA DE ADELA XENOPOL</head>
         
         <div type="section">
 <p>Dorin și moșul său stătea lângă fereastră privind la o îmormântare ce trecea prin fața curții, și pe când bătrânul își făcea semnul crucii șoptind: „Dumnezeu să-l ierte“ asculta uimit femeile desculțe și despletite care, plătite plâng în versuri bocitoare.</p>
@@ -954,7 +951,7 @@
     </div>
     
     <div type="part" n="35">
-        <p>FOIȚA ZIARULUI «ROMÂNUL». 34. DORIN MOLNA DE ADELA XENOPOL</p>
+        <head>FOIȚA ZIARULUI «ROMÂNUL». 34. DORIN MOLNA DE ADELA XENOPOL</head>
         
         <div type="section">
 <p>— Adevărat moșule, de abia îmi amintesc că foștii noștri guvernori sunt străini. Doar numele poate a mai rămas, căci sunt poate mai români decât mulți băștinași, și Dorin revenind adause ca scuză: iată de ce era să-mi aleg cariera moșule, nu cum ai tăinuit atât de rău, crezând poate ca pentru ca să-mă hotărești de moștenitor. Nu pntru avere moș iubit, ci pentru ca se o pot lua pe acea fetiță, care îmi e atât de dragă, moșule. Și Dorin ca un copil se lăsa pe bătrânul ce-l cuprinsese și dezmierdându-l îi șopti mișcat.</p>
@@ -989,7 +986,7 @@
     </div>
     
 <div type="part" n="37">
-    <p>FOIȚA ZIARULUI «ROMÂNUL». 36. DORIN MOLNA DE ADELA XENOPOL</p>
+    <head>FOIȚA ZIARULUI «ROMÂNUL». 36. DORIN MOLNA DE ADELA XENOPOL</head>
     
     <div type="section">
 <p>„M-am trezit. ș-am pipăit, dar nimica n-am găsit. Numai dorul inimei, scris pe fața pernei, cu mătase genelor, și cu rouă ochilori</p>
@@ -1014,7 +1011,7 @@
         <p>FOIȚA ZIARULUI «ROMÂNUL». 37. DORIN MOLNA DE ADELA XENOPOL</p>
     <div type="section">
 <head>CONSTANȚA</head>
-<p>Lungiș și curmeziș cât ochiul nu poate coprinde, se intinde cernita mare snopită de talazuri, și din fundul nelămurit, de unde parcă cerul se îngână cu valul, un punct negru se tot mărește - e vaporul fumegând care despică valul, lăsând in urmă brazda pe unde a trecut. Corăbii cu pânzele încovoiate se leagănă amețitor pe când vintul cîrmaciu prielnic sudând in aripele de pânzi întinse, le ajută, săltându-le prin munții și văile mării învrăjbite de curenții ce le dușmănesc in luptă din care răsar mii și miliarde de valuri ce se risipesc, se făuresc talaz de talaz. Și parcă marea muge când văzduhul se stârnește, mișcat de talazurile negre ce se ridic ca munții și din crestele albe ca de ninsori se împrăștie erupțiune de picături ca snopuri de diamante.</p>
+<head>Lungiș și curmeziș cât ochiul nu poate coprinde, se intinde cernita mare snopită de talazuri, și din fundul nelămurit, de unde parcă cerul se îngână cu valul, un punct negru se tot mărește - e vaporul fumegând care despică valul, lăsând in urmă brazda pe unde a trecut. Corăbii cu pânzele încovoiate se leagănă amețitor pe când vintul cîrmaciu prielnic sudând in aripele de pânzi întinse, le ajută, săltându-le prin munții și văile mării învrăjbite de curenții ce le dușmănesc in luptă din care răsar mii și miliarde de valuri ce se risipesc, se făuresc talaz de talaz. Și parcă marea muge când văzduhul se stârnește, mișcat de talazurile negre ce se ridic ca munții și din crestele albe ca de ninsori se împrăștie erupțiune de picături ca snopuri de diamante.</head>
 <p>Cu încetul vijelia se potoală, fața-i sbărcită de acel potop de moșiroaie începe a se netezi, fiorosul urlet se micșoreză până ce rămâne numai sunetul metalic al undelor de abia chiotuite, iar clăbucii albi mai rămăn nițel, ca ostrove de omăt pătând noianul întunecat. Vasele se mișcă drept, pe când vaporul trece ca un vultur pe cerul iutins al mării, și corăbiile lunecă lin sub pânzele lor ca pasări cu aripile întinse, imprăștiindu-se din calea vaporului care ca un uriaș își măsură puterea cu adâncele valuri. Valui i ce scaldă de-a lungul țărmul Dobrogei, îmbătrânită în sclavie, dar care rupând lanțurile scăpătă din înstrăinare, și a cărei istorie se des-lâgă incă de pe mormintele străbune de pe al căror pietre rose se alcătuesc astăzi firul ei. E o ruină tristă și pustie pentru un nepăsător; pentru omul învățat insă e o comoară; el pe ruin! se abate, le des-gropă le tălmăcește căutând să în ghebe iarăși așa cum au trăit de mult.</p>
 <p>Frumoase și demne de laudă ar fi, toate aceste ruini refăurite de pe sub pământul ce le-a acoperit, de pe pământul pe care de abea se mai țin, cum sunt ruinele cetății Ienisale zidită de Ghenovezi, pe o înălțime a cărei poale sunt scăldate de întinsul lac Razem.</p>
 <p>Iaz ce hăt departe se împreună cu marea, vărgând o dungă neagră, pare că și </p>
@@ -1027,7 +1024,7 @@
     </div>
     
 <div type="part" n="39">
-    <p>FOIȚA ZIARULUI «ROMÂNUL». 39. DORIN MOLNA DE ADELA XENOPOL</p>
+    <head>FOIȚA ZIARULUI «ROMÂNUL». 39. DORIN MOLNA DE ADELA XENOPOL</head>
     
 <div type="section">
 <p>Lângă ea Viorica își tot așeza pe fereastră păpușele abătându-și din când in când privirea pe depărtatele corăbii ce-i par jucării, apoi iar mânuindu-și păpușele ce sunt ca niște clape pe care atingindu-le sar, cum inima ei vrea. Să stingheri însă din joc cănd Liliana intră înmânându-i cartea, iar D-na Meliny își slobozi în poală horbota albă și fragedă ca o spumă prinzind a-și privi fetița așezată pe scăunelul mic, mlădios plecată, cu cartea pe genuchi.</p>
@@ -1052,7 +1049,7 @@
 </div>
     
     <div type="part" n="40">
-        <p>FOIȚA ZIARULUI «ROMÂNUL». 38. DORIN MOLNA DE ADELA XENOPOL</p>
+        <head>FOIȚA ZIARULUI «ROMÂNUL». 38. DORIN MOLNA DE ADELA XENOPOL</head>
     <div type="section">
 <p>— Liliano, să nu-mi taci nimic, mărturisește-mi pricina acelei despărțiri așa, nefățarnic, cum îi spui inimioarei tale când stai singurică.</p>
 <p>— Iertare, însă să nu me mai întrebi nici dată, să uităm cu desăvârșire, Dorin.</p>
@@ -1097,7 +1094,7 @@
 </div>
     
     <div type="part" n="41">
-        <p>FOIȚA ZIARULUI «ROMÂNUL». 39. DORIN MOLNA DE ADELA XENOPOL</p>
+        <head>FOIȚA ZIARULUI «ROMÂNUL». 39. DORIN MOLNA DE ADELA XENOPOL</head>
         <div type="section">
 <p>Ana de lângă fereastră privea din când in când cu acel ochi de mamă pe Viorica ce acum se juca in ogradă cu mingea; aruncând’o tot in sus de se sălta și ea apoi cu mânuțele potir, privind cum se tot mărea, iși cumpănea trupul sub căderea ei. De ostenea aburită se așeza sub-copaciul cel mare, lângă Necșa ce’i faptuia pe crăcane de crenguțe, păpuși țărănești zugrăvindu le chipul cu dâră de tăciune, și cosind mătasea de păpușoi in loc de păr.</p>
 <p>Viorica de multe ori lăsa păpușele de marmură și chiar pe cea mai frumoasă dăruită de Liliana, pentru astea, cu care petrecea mai mult vățlendu-le cum se înjgheb din scoarță’n scoarță.</p>
@@ -1129,7 +1126,7 @@
     </div>
     
     <div type="part" n="42">
-        <p>FOIȚA ZIARULUI «ROMÂNUL». 39. DORIN MOLNA DE ADELA XENOPOL</p>
+        <head>FOIȚA ZIARULUI «ROMÂNUL». 39. DORIN MOLNA DE ADELA XENOPOL</head>
         <div type="section">
 <p>— Iești Zorvasfru spuse Liliana.</p>
 <p>— Credincioșii cel mai inteligenți, pe care îi urmăm noi sub alt scut, ei închinau la soare. Ia focul fără de care nu ar există nimic, noi ne inchiuăm luminei care ne face să descoperim atîtea minuni din intuneric.</p>
@@ -1158,7 +1155,7 @@
     </div>
     
     <div type="part" n="43">
-        <p>FOIȚA ZIARULUI «ROMÂNUL». 40. DORIN MOLNA DE ADELA XENOPOL</p>
+        <head>FOIȚA ZIARULUI «ROMÂNUL». 40. DORIN MOLNA DE ADELA XENOPOL</head>
         <div type="section">
 <p>Molna se ridică — inchinându-se doamnei Meliny, și îmbrățișindu-și prietenul ce se lasă rece, plecă urmat de ei și petrecut de adâncile priviri a Lilianei ce-i-șopti stins rămas bun.</p>
 <p>Când fu afară, Molna rămase in gânduri neindnrându-se a se depărta de cuibul iubitei lui, și cum privea iu jos ca atunci când iești mâhnit, ochi’i lunecară pe o umbră ce se apropia. Dorin ridică fruntea și cu mulțumire privi la Necșa care’i spuse. Ce gând te poartă cocon frumos, că Puica se topesce ca ceara la focul dragostei. Vezi cum s’a prefăcut? — spuse bătrâna stergăndn’și ochii cu năframa, pe când cu graiul tremurător rosti am să mor de scârbă, când o văd că se mistuie așa.</p>

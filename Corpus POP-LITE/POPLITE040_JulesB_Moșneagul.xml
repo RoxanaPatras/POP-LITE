@@ -16,11 +16,11 @@
                 <name>Lucreția Pascariu</name></respStmt>   
                 <respStmt>
                     <resp>corectură manuală</resp>
-                    <name>Larisa Avram, Evelina Adumiroaei, Delia Albu, Andreea Dascălu, Loredana Constantinel</name>
+                    <name>Larisa Avram, Evelina Adumiroaei, Delia Albu, Andreea Dascălu, Loredana Constantinel, Teodora Pînzaru</name>
                 </respStmt>
                 <respStmt>
                     <resp>verificare corectură manuală</resp>
-                    <name>Teodora Pînzaru</name>
+                    <name>Loredana Cuzmici</name>
                 </respStmt>
                 <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
             </titleStmt>
@@ -39,12 +39,12 @@
                     <pubPlace>București</pubPlace>
                     <publisher>FOILETONUL ZIARULUI „ADEVĂRUL”</publisher>
                     <date>1904</date>
-                    <decoNote type="ilustratii" subtype="no"/>
-                    <dim unit="char" type="mic"/>
+                    <decoNote type="illustrations" subtype="no"/>
+                    <dim unit="char" type="small"/>
                     <extent>
                         <measure unit="word">82480</measure>
                         <measure unit="page" type="under_250"/>
-                        <measure unit="foileton" type="under_65"/>
+                        <measure unit="feuilleton" type="under_65"/>
                         <measure type="complete"></measure>
                     </extent>
                 </bibl>
@@ -64,16 +64,16 @@
                     <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
                 </keywords>
                 <keywords>
-                    <term type="receptare" n="over 5"/>
-                    <term type="republicare" n="under 10"/>
+                    <term type="receptions" n="over 5"/>
+                    <term type="print_count" n="under 10"/>
                     <term type="finished"></term>                
                 </keywords>
             </textClass>
         </profileDesc>
         <encodingDesc>
             <projectDesc>
-                <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-                <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+                <p>Cuvantul cheie de tip "receptions" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+                <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
                 <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
                 <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
             </projectDesc>
@@ -81,15 +81,18 @@
     </teiHeader>
     <text>
 <front>
+    <div type="titlepage">
     <p>   MOȘNEAGUL DE LA MUNTE </p> 
     <p> JULES BRUN și N. PAPA-HAGI </p>  
     <p>   MOȘNEAGUL     DE LA MUNTE </p>
     <p> BUCUREȘTI </p>
-    <p> «MINERVA», Institut de arte grafice și editură. — Strada Regală. 6 (Hotel Union) 1904 </p>  
+    <p>„MINERVA”, Institut de arte grafice și editură. — Strada Regală. 6 (Hotel Union) 1904 </p>  
+    </div>
     
-    <p> Domunului Ioan Kalinderu </p>  
+    <div type="liminal">
+    <epigraph><p> Domunului Ioan Kalinderu </p>  
     <p> Doctor al Facultății de Drept a Universității din Paris </p>
-    <p>Președinte a Academiei Române etc., etc. </p>
+        <p>Președinte a Academiei Române etc., etc. </p></epigraph>
     
     <p>   PREFAȚĂ </p>
     <p>   Familia românească. </p>
@@ -110,9 +113,10 @@
     <p> Cartea aceasta e o carte de bună credință, e un roman care ar voi să fie citit pretutindeni, și care ar putea fi citit de toți, un roman cultural, împăcându-se foarte bine cu poveștile de haiduci extraordinare și autentice, care sunt, după spusa distinsului meu colaborator Nicolae Papahagi, un fel de «Carnet mondain» pentru frații săi de peste Dunăre. </p>
     
     <p> Jules Brun. </p>
-    
+    </div>
 </front>
         <body>
+            <div type="part" n="1">
 		<head> PARTEA I </head>
     <head> PĂSTORII </head>
 <div type="chapter" n="1">
@@ -235,7 +239,7 @@
 <p> Deci, vezi-ți de treabă, eunucule. Și tu, Șahrazade din  O mie și una de nopți, caută în târgurile depărtate femei pentru poveștile tale către comandorul credincioșilor — fie rugăciunea și pacea asupra lui, umbră a lui Alah îngăduitorul și milostivul — caută în altă parte ce n-ai găsi aici ca materie pentru descrieri ușuratice: «o frunte  ca razele lunei pline», ochi «ca ochii gazelelor», sprâncene, «ca coarnele lunii din luna Ramazanului», obraji  «ca un mânuchiu de iasomie și de dediței», sâni «strâmți ca două rodii gemene», să punem un etc. prudent. </p>
 <p> Deci, vezi-ți de treabă, eunucule. Și tu, Șahrazade din  O mie și una de nopți, caută în târgurile depărtate femei pentru poveștile tale către comandorul credincioșilor — fie rugăciunea și pacea asupra lui, umbră a lui Alah îngăduitorul și milostivul — caută în altă parte ce n-ai găsi aici ca materie pentru descrieri ușuratice: o frunte «ca razele lunei pline», ochi ca ochii gazelelor», sprâncene, «ca coarnele lunii din luna Ramazanului», obraji  ca un mânuchiu de iasomie și de dediței», sânuri «strâmte ca două rodii gemene*, să punem un etc. prudent. </p>
 <p> Dar nici femeile acestea n-ar vrea să fie ale padișahului cu comorile sale de diamante, de mărgăritare și de peruzele, cu muselinele sale împletite cu fire de aur, cu mătăsurile sale din Damasc și cu țesăturile sale din Indii. Mai bine s’ar sugruma cu cingă-toarea lor, aceste femei sperioase ca cerboaicele, reci ca izvoarele Pindului și vrednice toate de inscripția pusă pe mormântul unei matroane romane : </p>
-<p> «A împărțit patul cu un singur bărbat!» </p>
+<p>A împărțit patul cu un singur bărbat!» </p>
 <p> Și femeia pe care o studiam este servitoarea supusă ca și soția credincioasă a acestui bărbat. Și în toți ceilalți bărbați, ea respectă pe acela care a ales-o; sexul său slab se închină înaintea sexului tare, căruia Dumnezeu a dat dreptul de întâietate; ea va săruta mâna oaspelui străin cât timp părul ei nu e presărat cu fire de argint, sculându-se în picioare pentru a onora barba și a celui mai umil fiu al lui Adam, torcând ca regina Berta, brodând ca Penelopa, țesând ca Arahne lidiana. </p>
 <p> Binecuvântată fie soția tăcută, a cărei buză este închisă cuvintelor amare sau deșerte — acea buză dulce ca mierea de tei! Binecuvântate mâinile sale harnice, și cam aspre! Binecuvântat sufletul ei simplu, rămas neprihănit chiar după ce a zămislit. Binecuvântată virtutea ei senină, fără fățărnicie și fără sforțare! Binecuvântate neștiința ei sfântă și stângăcia ei atingătoare! stângăcie cât de relativă, de altfel; căci dacă nu cunoaște întorsăturile unei reverențe de curte și nazurile flirtului, e foarte firească în mișcările sale obicinuite, în împlinirea îndatoririlor casnice. </p>
 <p> Nausicaa, fiica lui Alcinou, spălătoreasă nobilă a lui Homer, n-ar fi știut mai bine să prezinte străinului, cu o grabă plină de nobleță și de pudoare înăscută, ibricul pentru aș spăla mâinile înainte de masă și mai pe urmă să-i îndindă prosopul brodat. </p>
@@ -281,7 +285,7 @@
 <p> Un băiețaș și o fetiță ca de zece până la doisprezece ani — absența talului a fost relativ scurtă — se joacă în curte. Drumețul s-a oprit, simțind de odată că picioarele i se rup de la glesnă, că răsuflarea i se scurtează; nu spune nimic, se codește, deși a ghicit. «Ce zdreveni sunt! Ce voinici!...» Deodată lasă să-i scape bățul, întinde brațele... și cei doi copilași fug strigând : «Uite, mamă, colea un om rău vrea să ne prinză!» </p>
 <p> Neliniștită, mama iese din casă. Bărbatul și femeia se uită unul la altul lung, țintă; floarea ținereții s-a vestejit pe obrajii lor, pe care grija și truda au săpat zbârcituri timpurii. Și înainte chiar de a se îmbrățișa pentru întoarcere, bărbatul a și întrebat cu o tremurătură in glas: «Da celălaltalt băiat unde e? Femeia a înțeles neliniștea părintească: «E la pășunat, are să vie numaidecât, e bine!, căci pe atunci rar își trimiteau scrisori, nu era poștă prin Macedonia; căci, în lipsă de vești aflate din gura vreunui nou venit din partea locului, bietul înstrăinat mai că nu avea nici o știre de pe la el, afară doar că lăsase la plecare nevastă tînără și trei copilași mici de tot... Dacă sărmanul de el nu-i ar găsi pe toți ! Dacă i s-ar spune: «A murit ăl mai mare sau a mai mică!» </p>
 <p> Insă socoteala e exactă. Și atunci numai bărbatul și femeia, sub ochii băiețașului și ai fetiței, care stau mai la o parte și privesc uimiți, se îmbrățișează, însă cu cumpăneală, stăpânindu-și emoția. Nu strânsori nebunatice, nu sărutaturi delirante, nu; s-ar crede că e un domn din București, care sosește, în fiecare Sîmbătă seara la Sinaia, cu trenul bărbaților. </p>
-<p> «Ia veniți încoace, voi băieților, să sărutați mina tăticului! Și copiii se supun fără a se grăbi, cam neîncrezători, cam rușinoși, mai mult târâți de mama lor. </p>
+<p>Ia veniți încoace, voi băieților, să sărutați mina tăticului! Și copiii se supun fără a se grăbi, cam neîncrezători, cam rușinoși, mai mult târâți de mama lor. </p>
 <p> lute însă li se dă drumul ; femeii i-e degrabă să știe ce este în chimirul care umflă mijlocul călătorului. Se închid ușile și atunci, ca în tabloul lui Quentin Metzys, la Luvru, o ploae de aur cade pe masă... și atunci emoțiunea e vădită la acești janseniști ai ortodoxiei. </p>
 <p> Mama lui Toli, Tana, nevasta lui Mitri Samota, fusese fetița acestei povestiri... care însă nu s-a petrecut tocmai așa. Necunoscutul care veni acasă, pe la 1875, n-avea o barbă nerasă de trei săptămâni, nu târa piciorul îmbrăcat ca un cerșetor. El venise cu cârvanea (caravana), călare pe un bun catâr și însoțit de un alt catâr încărcat cu daruri bogate, ce se aduc de obicei pentru toți din casă și toate rudele, după o lipsă atât de lungă. Era însoțit de prietenii săi de copilărie, care veniseră întru întâmpinarea lui la câteva ore de depărtare. </p>
 <p> Căci întoarcerea se făcea în două feluri: ori pe ascuns sau cu alai mare, după cum era mai multă sau mai puțină siguranță publică. </p>
@@ -289,7 +293,7 @@
 </div>
 <div type="chapter" n="9">
 <head> CAP. IX. De la cântecul de leagăn la cântecul de drum. </head>
-<> O mamă, oricât ar fi de duioasă și de devotată, nu poate să trăiască numai pentru copil. Lângă leagănul lui, ea are nevoe să simtă o altă dragoste, o dragoste bărbătească, puternică. Trebuie ca obrajii fini și rumeni să se frece de obrajii care înțeapă, trebuie ca pruncul să fie ridicat de jos, pentru a fi sărutat, într-un avânt zvăpăiat, care pricinuește oarecare spaimă, căci dacă mama se apleacă peste fiul ei pentru a-l săruta, tatăl îl înalță până la buzele sale. </p>
+<p> O mamă, oricât ar fi de duioasă și de devotată, nu poate să trăiască numai pentru copil. Lângă leagănul lui, ea are nevoe să simtă o altă dragoste, o dragoste bărbătească, puternică. Trebuie ca obrajii fini și rumeni să se frece de obrajii care înțeapă, trebuie ca pruncul să fie ridicat de jos, pentru a fi sărutat, într-un avânt zvăpăiat, care pricinuește oarecare spaimă, căci dacă mama se apleacă peste fiul ei pentru a-l săruta, tatăl îl înalță până la buzele sale. </p>
 <p> Toii avusese fericirea că Mitri Samota, îmbogățindu-se din tinerețe prin moștenirea ce i-o lăsase bunicu-său, care avea turme frumoase, nu se gândise niciodată să plece în străinătate. In căminul căldicel, când se dezlipea de sânul mamei cu laptele curat, el nu era adormit cu duiosul cântec de leagăn al semi-orfanilor: </p>
 <l> Dormi, dormi, </l>
 <l> Puiul mamei. </l>
@@ -302,21 +306,21 @@
 <l> Cu el să mă-ntâlnesc, </l>
 <l> Și amândoi să, ne-ntoarcem împreună. </l>
 <p> Nu. Alt cântec îi cânta mă-sa fericită și mândră, ale cărei gânduri n-aveau nevoie să zboare spre acele țări necunoscute soției, unde soțul se dusese să facă avere. Și acest cântec de leagăn, vesel și senin sună astfel: </p>
-<ab><p> 1) Toate poeziile care se găsesc aci sunt date aproape textual după poeziile populare macedoromâne. </p></ab>
+<ab> 1) Toate poeziile care se găsesc aci sunt date aproape textual după poeziile populare macedoromâne. </ab>
 
-<l> «Nani, nani, puiul meu </l> 
+<l>Nani, nani, puiul meu </l> 
 	<l>— nani, nani, suflete; </l>
 		<l>voiosule somn vino, </l>
 			<l>— adoarme-mi micuțul pe pernă. </l>
-<l> «Nani, nani, luluulu». </l>
-<l> «Nani, nani, în livezi, fiul mamei; </l>
+<l>Nani, nani, luluulu». </l>
+<l>Nani, nani, în livezi, fiul mamei; </l>
 	<l>— nani, nani printre flori </l>
 	<l>— fața ta să-ți strălucească : </l>
 		<l>— nani sub măr, </l>
 			<l>— fetele după tine să se prăpădească; </l>
 				<l>nani, nani și sub stele, </l>
 	<l>tu cu sprâncene îmbinate. </l>
-<l> «Nani, nani lu lu luu». </l>
+<l>Nani, nani lu lu luu». </l>
 <p> își închipue ori și cine că, între această mamă și acest tată, a trebuit să fie foarte fericită copilăria lui Toli, care d-abia începuse să se ție pe picioare și se juca cu mielușeii și cu dulăii teribili, însă pentru dânsul foarte blajini. Bătrânul Simu, care încă pe atunci era bătrân, îi făcuse un mic cârlig și, dându-și aerul de a fi foarte ocupat, comic, copilașul sta neclintit la postul său păzind, în micul țarc unde îi se aduceau, trei, patru miei despărțiți de mamele lor după cari behăiau. Și deodată Toli începea să dea în ei cu bulgărași de pământ pentru a-i face să umble, sau îi prindea de picior cu cârligul, ca și când sărăcuții de ei ar fi vrut să fugă, sau se năpustea cu chiote asupra unui lup închipuit, înfățișat printr-o buturugă, pe care o lovea cu toiagul, făcând pe voinicul, pe grozavul, pe învingătorul monștrilor, ca un mic Hercule. </p>
 <p> Și amândouă bunicile sale — amândouă încetate din viață mai în același timp, pe la sfârșitul veacului trecut, adică vreo trei, patru ani înainte de epoca povestire! noastre — amândouă bunicile se întreceau care mai de care a-i povesti cele mai frumoase basme. </p>
 <p> Când frate-său Steriu și soră-sa lulia născuse aducând o nouă bucurie în casă, el rămase totuși privilegiatul, deoarece era întâiul născut față de frate-său mai mic, deoarece era băiatul față de fata. </p>
@@ -331,7 +335,7 @@
 <p> Nicăeri jocul zis bar nu este mai complicat ca in Pind: câteodată se lovesc îngrozitor la spate cu brâul răsucit ca un otgon; nicăeri jocul capra nu e mai periculos, jocul baba oarba mai îndrăzneț. Și se joacă cu mingea — un ghem tare de lână — cum se jucau cu mingea gentilomii francezi pe timpul lui Carol al IX, și azvârlă cu piatra—niște pietre rotunjite de torenți cum azvârleau atleții acum douăzeci și patru de secole discurile. </p>
 <p> Și când Toli se întorcea acasă roșu la față, nădușit, gâfâind, mă-sa îngrijată îi spunea:  Prea din cale afară te joci, ai să te îmbolnăvești! </p>
 <p> Insă tată-său zâmbea cu mândrie : </p>
-<p> «Dă-i înainte, băiete, nu fii găină plouată!» — acest Mitri Samota care nu era un tată intermitent ca atâția alții, cum sunt de pildă acei aventurieri ai negoțului depărtat, care se fac iar părinții copilandrilor pe care îi lăsaseră acasă în leagăn. </p>
+<p>Dă-i înainte, băiete, nu fii găină plouată!» — acest Mitri Samota care nu era un tată intermitent ca atâția alții, cum sunt de pildă acei aventurieri ai negoțului depărtat, care se fac iar părinții copilandrilor pe care îi lăsaseră acasă în leagăn. </p>
 <p> Și în toți anii, pentru Toli băiatul era o mare tevatură toamna când locuitorii din Șopote plecau în Tesalia. </p>
 <p> Ceata copiilor o lua înainte de bătrânele care-i păzeau și care, pentru a-i face să uite osteneala, începeau să cânte cu o voce tremurătoare : </p>
 <l> Un sărac călugăr, </l>
@@ -426,7 +430,7 @@
 <p> Se alegea cu exilul sau cu deportarea în Asia Mică. </p>
 <p> Și mitropolitul grec își smnese mânecele. iar Apostol Mărgărit își întinse mușchii pentru o luptă care avea să devie epică. </p>
 <p> Da, într-o țară în care cel mai mândru  celnic se lăsa a fi bătut de un prelat, dacă-i venea pofta acestuia să facă o bâtă din cârja lui, Mărgărit a fost cel dintâi care a îndrăznit să se pună împotriva unui demnitar bisericesc atât de temut și să-i spună: </p>
-<p> «Sunt în Turcia supus credincios al Sultanului, stăpânul meu și al tău, și nici de cum sclavul unui călugăr grec ignorant într-atâta în cât nu știe nici numele să-și iscălească!» </p>
+<p>Sunt în Turcia supus credincios al Sultanului, stăpânul meu și al tău, și nici de cum sclavul unui călugăr grec ignorant într-atâta în cât nu știe nici numele să-și iscălească!» </p>
 <p> Era un adevăr strașnic. Dar ignorantul era un om câinos. S-a plâns la autoritățile din Castoria, s-a plâns la Constantinopol, a intervenit patriarhia ecumenică și a obținut în sfârșit de la sublima Poartă un ordin prin care Mărgărit era trimis, fără voie de a se mișca de acolo, la Avdela, comuna sa natală, care pe atunci depindea de vilaetul Ianina.  K  </p>
 <p> Plecă, sub escortă, între jandarmi, înnecat în datorii, lipsit de toate, numai de curaj nu. </p>
 <p> Și aci, nu stă pe gânduri. Având o recomandație către un hangiu român din Ianina, el, care într-o zi avea să stea de vorbă, cu marii viziri și să se așeze la masa Regelui Carol, cere să vorbească pașei, un om teribil, care fusese ministru la Constantinopol și de care tremura toată provincia. Îi explică scopul ce urmărește. A fost elocinte, a fost tare, a fost convingător. A atins coarda simțitoare arătând pașei că scopul ce urmărește e conform cu interesele Turciei. Ce voiesc grecii din Atena? Să facă să li se cedeze, strigând pe lângă Puteri, o parte din statele Sultanului, sub pretext că ar fi locuite de Eleni. </p>
@@ -463,15 +467,15 @@
 <p>   — Nu, n-avem să ne mai vedem, reluă Apostol Mărgărit. Sunt la capătul drumului meu, care a fost anevoios; însă ceva m-a susținut: credința nestrămutată în ursita neamului meu. Căci nu de geaba ați căpătat conștiință de naționalitatea voastră. Adevărul vă spuiu, abia sunteți la începutul luptelor voastre. Aveți însă parte de a ști cu ce și în contra cui să luptați. </p> 
 <p> Auditorul atent se apropiase de bătrân pentru a primi acest fel de testament. Cu toții erau așezați turcește, numai dânsul ședea pe un scăunel. </p>
 <p> — Arma voastră vă este limba. Pentru unele popoare cucerite și asuprite, a-și păstra limba este a avea în mână cheile închisorii lor. Soarta a voit ca țara noastră să fie cucerită de turci, dar nu sunteți asupriți. Ați deveni însă asupriți în ziua când ați cădea în mâinile pretinșilor voștri liberatori... Mi-aduc aminte că într-o zi spuneam unui mare vizir: «Alteță, dacă un creștin vine să vă spuie că iubește pe turci pentru ei înșiși, să-l dați afară ca pe un mincinos de rând.» </p>
-<p> «Eu, armân, vă declar că nu pentru ochii lor frumoși le sunt credincios.» </p>
-<p> «Situația noastră însă este întocmai ca a unui om - care se află pe o corabie obosită. Furtuna se deslănțuește; atunci omul acesta, deși n-a fost plătit să puie mâna pe lopată sau pe frânghie, își înțelege datoria de a ajuta ca să scape corabia de înec, oricare ar fi cârmaciul.» </p>
-<p> «Suntem români, vedem imperiul otoman amenințat de dușmanii săi din afară, al căror triumf ar însemna peirea naționalității noastre, pe cari voi o lăsați să trăiască bine, rău. De aceea noi dăm fuga la pompe, punem mâna pe frânghii, ajutăm din răsputeri la mânarea corăbiei, căci sfârșitul Turciei e și sfârșitul naționalităței noastre !» </p>
+<p>Eu, armân, vă declar că nu pentru ochii lor frumoși le sunt credincios.» </p>
+<p>Situația noastră însă este întocmai ca a unui om - care se află pe o corabie obosită. Furtuna se deslănțuește; atunci omul acesta, deși n-a fost plătit să puie mâna pe lopată sau pe frânghie, își înțelege datoria de a ajuta ca să scape corabia de înec, oricare ar fi cârmaciul.» </p>
+<p>Suntem români, vedem imperiul otoman amenințat de dușmanii săi din afară, al căror triumf ar însemna peirea naționalității noastre, pe cari voi o lăsați să trăiască bine, rău. De aceea noi dăm fuga la pompe, punem mâna pe frânghii, ajutăm din răsputeri la mânarea corăbiei, căci sfârșitul Turciei e și sfârșitul naționalităței noastre !» </p>
 <p> - Că bine zici, întrerupse un bătrân. </p>
 <p> Și nu numai că cu toții aprobară, ba încă acești munteni erau mândri că unul din ai lor a avut îndrăzneala să ție un asemenea liinbagiu unui mare-vizir. </p>
 <p> - În momentul acesta, mai zise Mărgărit, Macedonia e sfâșiată de răscoala bulgărească. Un ferment revoluționar adus din afară, a înăcrit această cocă inertă ce păreau că sunt slavii din Turcia. Foarte adesea, voi românii de la Pind ați dat ajutor grecilor și v-ați căit amar. Am sfătuit dar pe frații voștri din ținuturile unde slavii sunt amestecați cu români, să nu facă jocul lui Sarafoff. Înțeleg foarte bine ca unui locuitor din Vlaho-Clisura să-i pară rău de ce nu poate să-și zică englez, francez, german, în sfârșit cetățean al unei națiuni superioare, dar ca un român din Vlaho-Clisura să aspire a se vârî într-o colibă din Mocrina sau din cutare alt mizerabil sat bulgăresc, asta nu o înțeleg. Și vouă vă spui același lucru întru cât privește pe greci. Cu cât ei au câștigat mai mult, cu atât mai mult am pierdut noi, căci au câștigat întotdeauna în dauna noastră și numai a noastră. Ia uitați-vă să vedeți ce au făcut din Tesalia; în ce stare de plâns a ajuns acest pământ atât de binecuvântat alta dată! </p> 
 <p>   — Numai să ne ajute cei din București, că apoi știm noi ce mai trebuie făcut! întrerupse un tânăr. </p> 
 <p>   — Nu eu voi nesocoti pe cei din București, răspunse Apostol Mărgărit. Dacă frații noștri din România vor avea bună-voința să ne ajute la înălțarea edificiului nostru național, le vom rămânea foarte îndatorați și le suntem recunoscători pentru sprijinul ce ne au dat până acum. Dar dacă, pentru un motiv sau altul, acest sprijin nu ni s-ar mai da sau ar deveni intermitent, n-ar li de loc un cuvânt pentru noi ca să ne acoperim capul cu cenușă și să dosim de la datoria noastră. Prin noi înșine, cu propriele noastre mijloace, și, în lipsă de unelte, sfîrșindu-ne mâinile de pietrele zgrunțuroase, suntem datori să isprăvim clădirea edificiului care va adăposti pe copiii noștri... înainte de toate însă păstrați-vă limba, că aveți mari interese a o păstra, pe lângă datoria ce aveți pentru aceasta. Dialectul nostru are cea mai mare asemănare cu unele din cele mai nobile limbi europenești. Intr-un an sau doi, un român învață franțuzeasca, italieneasca sau latineasca, pentru că e la jumătatea drumului. Un slav sau un grec va pune de două sau de trei ori mai mult timp, pentru că drumul, pentru dânșii, este de două sau de trei ori mai lung.» </p>
-<p> «Și apoi, dacă Macedonia ar cădea în mâinile unuia din aceia care aruncă priviri atât de galeșe asupra ei, credeți oare că nu vom perde în curând înlesnirea de a ne instrui în propia noastră limbă, adică acest bun neprețuit de a nu fi nevoiți să perdem câți va ani pentru a învăța mai întâiu limba în care ni s-ar da pe urmă învățătura?... Dar nu-i nevoie să vă spun mai multe ca să mă înțelegeți; de altfel știți ce am propovăduit în toată viața mea. Acolo unde este bulgarul, am spus totdeauna românilor : «Pentru turc, in contra bulgarului». Acolo unde este grecul, le-am spus in totdeauna: «Pentru turc, în contra grecului». Și vă spui lucrul următor: Voi puteți să dați Turciei un sprijin moral, care va amâna pentru foarte lung timp ceasul fatal; puteți să declarați și să arătațî lunci înșelată prin minciuna sistematică, ca în această Macedonie descrisă ca o țară blestemată, o naționalitate creștină voiește să se dezvolte, să crească și să prospere sub autoritatea Sultanului, pe când din satele și orașele voastre un strigăt de jale ar răsuna în ziua când Europa v-ar da pradă ambițiunilor cari vă pândesc .. </p>
+<p>Și apoi, dacă Macedonia ar cădea în mâinile unuia din aceia care aruncă priviri atât de galeșe asupra ei, credeți oare că nu vom perde în curând înlesnirea de a ne instrui în propia noastră limbă, adică acest bun neprețuit de a nu fi nevoiți să perdem câți va ani pentru a învăța mai întâiu limba în care ni s-ar da pe urmă învățătura?... Dar nu-i nevoie să vă spun mai multe ca să mă înțelegeți; de altfel știți ce am propovăduit în toată viața mea. Acolo unde este bulgarul, am spus totdeauna românilor : «Pentru turc, in contra bulgarului». Acolo unde este grecul, le-am spus in totdeauna: «Pentru turc, în contra grecului». Și vă spui lucrul următor: Voi puteți să dați Turciei un sprijin moral, care va amâna pentru foarte lung timp ceasul fatal; puteți să declarați și să arătațî lunci înșelată prin minciuna sistematică, ca în această Macedonie descrisă ca o țară blestemată, o naționalitate creștină voiește să se dezvolte, să crească și să prospere sub autoritatea Sultanului, pe când din satele și orașele voastre un strigăt de jale ar răsuna în ziua când Europa v-ar da pradă ambițiunilor cari vă pândesc .. </p>
 <p> Și acum, oameni buni, nu uitați că ne-am strâns aci ca să petrecem. Fiți veseli și Dumnezeu să ajute neamuiui nostru! » </p>
 <p> Și Toli, apropiindu-se grav și modest, sărută mâna nașului său. </p>
 </div>
@@ -522,7 +526,7 @@
 <p> La mire, aproape aceeași scenă. </p>
 <p> El s-a îmbrăcat cu hainele de nuntă, după ce bărbierul a venit să-l rază. În tot timpul cât ține aceasta operație rudele stând în jurul lui cântă cântece de ocazie, exaltând calitățile mirelui. </p>
 <p> După ce isprăvește de ras, bărbierul prezintă ligheanul rudelor și prietenilor, care aruncă într-însul câte o monedă de argint. Nunta e costisitoare pentru invitați, căci trebuie să dea mereu din punga lor, fie pentru a răsplăti zelul lăutarilor, fie pentru a lua parte la masa care are întru câtva caracterul unui   piqitc-mqite.   Miei fripți, plăcinte, cozonaci sunt trimeși de la casele invitaților, în mari tipsii acoperite cu un văl și purtate pe cap. La fiecare plocon ce sosește unul din colăceri, cavalerii de onoare, anume însărcinat, îl ia în primire zicând cu glas tare cuvintele tradiționale: </p>
-<p> «Bine a venit darul lui X. Să trăiască, să se pricopsească și Dumnezeu să-i dea bucurie și spor în casa lui !» </p>
+<p>Bine a venit darul lui X. Să trăiască, să se pricopsească și Dumnezeu să-i dea bucurie și spor în casa lui !» </p>
 <p> Puțin în urmă, mirele cu taifa lui, dip care mulți sunt călareri, pornesc, precedați de lăutari, pentru ase duce să iea pe mireasă. Unul din fârtați a primit de la mama mirelui o pereche de încălțăminte înfășurate într-o basma de mătase pentru mireasă. Insă pentru a pătrunde în camera unde idolul așteaptă acum în picioare, mereu nepăsător, are să primească și să dea câteva ghionturi, deoarece voinicii din partea miresei apără intrarea odâiei unde se află ea. Firește că, în cele din urmă, tot emisarii mirelui rămân biruitori și depun ghetele la picioarele miresei. In fiecare sânt câți-va bani de argint ca prevestire de bogăție. De două ori, ea le respinge cu piciorul; ei stăruie, atunci ea se resemnează și primește darul mirelui și o încalță cu ele. </p>
 <p> E momentui solemn. Rudele miresei cântă : </p>
 <l> Să-ți am binecuvântarea, tată. </l>
@@ -583,9 +587,11 @@
 <p> Și atunci s-a ivit pe cer bolidul luminos, semnul pe care împrejurările îl făceau îngrozitor chiar în ochii celor mai puțin superstițioși. </p>
 <p> Și în casă, nu mai rămăsese de cât femeile care plângeau și un bătrân sleit de forțe, Apostol Mărgărit, adâncit în gânduri dureroase. </p>
 </div>
+        </div>
+            <div type="part" n="2">
+                <head> PARTEA II </head>
+                <head> STRAINA </head>
 <div type="chapter" n="15">
-<head> PARTEA II </head>
-<head> STRAINA </head>
 <head> CAP. 1. Mâna Justiției. </head>
 <p> Cine dintre cititori ar bănui că un om, care a jucat un rol sinistru în revoluția noastră națională din 1821, se găsește încă printre cei vii ? De o fi murit de atunci încoace, cel puțin putem spune cu siguranță că el era încă în lumea asta până mai acum câteva luni, adică până cam pe la sfârșitul verii trecute. </p>
 <p> Așa dar, până în anul 1903 — dar de când numai Dumnezeu o fi știind, căci nimeni nu-și aducea aminte de când, atâta era el de bătrân — trăia în munții Pindului un moșneag pe care l-ai fi luat drept Matusalem. </p>
@@ -704,7 +710,7 @@
 <p> Acesta întinse mâna cam anevoie și zise hotărât: </p>
 <p>   — Jur că voi păstra tăcerea; jur că te voiu ajuta; jur că te voiu asculta! </p> 
 <p>   — Bine. Ascultă ! Ceata lui Garelia este, pe cât știu, pe aici aproape, pe muntele Vasilița sau în Valea-Caldă. Garelia, este din Gridali. Spune-i că trebuie să iea apărarea satului său;  spune-i că o fată mare cere dreptate de la haiduci... Arată-i rănile tale! Ah, dacă ar putea să vază și rana inimii mele!... Spune-i toată necinstea ce mi-au făcut ai lui Samota: logodna-mi stricată, viața-mi desfăimată, deznădejdea unei fecioare nevinovate, pe care nici un flăcău nu o mai vrea de nevastă... Spune-i tot ce-i vrea; însă caută să-l hotărăști să răpească pe Toli Samota, chiar în noaptea nunții și, auzi! înainte de a fi rămas singur cu Vasilichia Hagi-Steriu, care mi-a furat... Căci era al meu, căci preotul ne binecuvântase logodna din vârsta cea mai fragedă, căci tată-său și al meu își dăduseră cuvântul unul altuia. Gândește-te numai ce frumoasă rescumpârare ar putea să ceară Garelia de la Samota. Ei sunt bogați, și, uite, parcă se tot îmbogățesc cu cât noi sărăcim. </p> 
-<p> «Vezi, dragă Gavril, n-am tată și mai că nici mamă; toată nădejdea mi-o pun în tine, un sărman păstor de douăzeci de ani... Și, îți jur, pe ce am mai scump pe lume, că mă spânzur, în noaptea de 24 Iunie, dacă nunta lui Toii s-o isprăvi cu bine. Spune-i și asta lui Garelia; el e om cu suflet... Și, ascultă, dacă tu mă vrei, dacă, după ce ți-ai fi făcut norocul cu galbenii din salba mea, ai mai avea plăcerea să iei de nevastă pe fata vechilor tăi stăpâni, pe nefericita Frosa, n-ai decât să spui un cuvânt; am să te aștept și am să te îngrijesc, am să te cinstesc, am să te iubesc, pentru că m-ai fi răzbunat. Am să te iubesc, pentru că fața îți va fi brăzdată de semne care nu s-or șterge niciodată și pentru că rănile  astea ți-au fost făcute de un păstor de-ai lui Samota, precum tot un Samota mi-a făcut și mie o rană ce sângeră ca a ta, și ce nu s-o închide decât atunci numai când oi fi răzbunată*» </p>
+<p>Vezi, dragă Gavril, n-am tată și mai că nici mamă; toată nădejdea mi-o pun în tine, un sărman păstor de douăzeci de ani... Și, îți jur, pe ce am mai scump pe lume, că mă spânzur, în noaptea de 24 Iunie, dacă nunta lui Toii s-o isprăvi cu bine. Spune-i și asta lui Garelia; el e om cu suflet... Și, ascultă, dacă tu mă vrei, dacă, după ce ți-ai fi făcut norocul cu galbenii din salba mea, ai mai avea plăcerea să iei de nevastă pe fata vechilor tăi stăpâni, pe nefericita Frosa, n-ai decât să spui un cuvânt; am să te aștept și am să te îngrijesc, am să te cinstesc, am să te iubesc, pentru că m-ai fi răzbunat. Am să te iubesc, pentru că fața îți va fi brăzdată de semne care nu s-or șterge niciodată și pentru că rănile  astea ți-au fost făcute de un păstor de-ai lui Samota, precum tot un Samota mi-a făcut și mie o rană ce sângeră ca a ta, și ce nu s-o închide decât atunci numai când oi fi răzbunată*» </p>
 <p> Și în acel moment, transfigurată de pasiunea ce-i ardea pieptul, Frosa era frumoasă. Și tânărul păstor simți că în inima sa se mișcă ceva necunosct și desfătător. Se sculă anevoie de pe grămada de lână ce-i ținea loc de așternut. O altă viață i-se înfățișa într-o clipă. $e vedea de acuma negustor undeva, foarte departe, la București, de pildă, unde atâția prieteni de-ai lui făcuseră avere, cu Frosa lângă dânsul. </p>
 <p> Gavril se uită lung la fată și-i zise: </p>
 <p> — Ai să fii răzbunată, Froso, mă logodesc cu tine; Froso, am să te fac bogată și fericită departe de aici. Primesc salba ta; e zestrea ce mi-o dai de mai înainte. M-oi pricepe eu ce câștig să trag din ea, fii pe pace! Și m-oi înapoia să te găsesc... Da, ai să fii răzbunată, pentru că știu eu unde să-l găsesc pe Garelia, sau mai drept are să mi-1 găsească călugărul Isaia... Toli Samota are să fie prins, iar eu am să-i ciuntesc vitele, și trag nădejdea să scurtez cu o palmă pe ticălosul lui păstor care m-a adus în halul ăsta... Aibi încredere în mine, Froso!... A! ce iute am să mă fac bine acum, pentru ca și tu să te vinfleci de durerea ta ! </p>
@@ -772,7 +778,7 @@
 <p> Și plângeau după neîndurata lor soră : </p>
 <p> — Froso!... Froso!... </p>
 <p> Și fără o lumânare aprinsă, fără un creștin care să-l vegheze, tatăl mort, sinucisul cu alcool, zăcea colea în casa lui, între cele două sticle goale, cele două sticle ucigașe, pe când vecinii eșeau la ferestre atrași de aceste strigăte : </p>
-<p> «Mamă!... Froso’... Mamă!... Froso!...» </p>
+<p>Mamă!... Froso’... Mamă!... Froso!...» </p>
 <p> Dar unde era mama lor? </p>
 <p> Unde era sora lor? </p>
 <p> înainte de a le urma, să ne întoarcem iar spre celălalt sat, spre Șopote, unde se desfășură o scenă la fel, de vreme ce un tată, frați, rude, prieteni, toți invitații unei nunți se răspândesc prin sat și răscolesc toate colțurile strigând : «Toli!... Toli!...» ; pe când acelea care, in casa lui Samota, varsă sau înghit lacrimi nefolositoare, o mamă, o mireasă, o soră, plâng cu hohote și suspină și ele : «Toli! Toii !...» </p>
@@ -925,10 +931,10 @@
 <p> O lăsară să se depărteze puțin de casă, apoi, văzând că grecoaica nu era urmată de nimeni, se năpustiră asupra ei. într-o clipă îi puseră un căluș în gură și o legară cobză. </p>
 <p> Gurguli o luă dup-aceea în cârcă, după cum Despali făcuse cu Toli Samota. </p>
 <p> Talia era ca moartă. În tot timpul greului urcuș a trebuit să fie purtată într-una în spinare, fie de Gurguli singur, fie ajutat de Salamura, care cânta cântecul lui Niși : </p>
-<p> Măi Niși, închide-ți-s-ar poarta, </p>
-<p> Iți va zice fiul «patera»; </p>
-<p> Mai bine luai una din neamul tău. </p>
-<p> Ca să-ți zică fata «tată» </p>
+<l> Măi Niși, închide-ți-s-ar poarta, </l>
+<l> Iți va zice fiul «patera»; </l>
+<l> Mai bine luai una din neamul tău. </l>
+<l> Ca să-ți zică fata «tată» </l>
 <p> Insă ursuzul de Gurguli îi tăie pofta de cântare zicându-i : </p>
 <p>   — Ia ascultă, spurcăciune, când ei putea să ne spui ce naș te-a botezat, atunci ei putea să urmezi cântecul... Până atunci, fă bine și mai taci. </p> 
 <p> Și fiindcă obraznicul de Salamura îi replică : </p>
@@ -975,12 +981,15 @@
 <p> Peste câteva minute luminile se stinseseră în camera vistieriei, a cărei intrare era astupată de bolovanul cu resorturi. Moșneagul de la Munte, coborât cu frânghii, fusese așezat iarăși la locul său obișnuit, în partea de jos a peșterei, lângă pâinea pe care  o fărmița în găleata de lemn în care se mulgeau caprele, lângă focul ce depărta dihaniile. </p>
 <p> Pentru multa vreme, cădea iarăși în tăcerea-i de speriat, cufundat în gânduri asupra vieței sale seculare și asupra neamului său de două ori milenar, și ținând lângă el, înfiptă in vârful bățului, mâna justiției, care prezidase la cununia unei fete și la sugrumarea mamei sale. </p>
 </div>
+            </div>
+            <div type="part" n="3">
+                <head> PARTEA III </head>
+                <head> HAIDUCII </head>
 <div type="chapter" n="23">
-<head> PARTEA III </head>
-<head> HAIDUCII </head>
+
 <head> CAP. I. Daca Dumnezeu s-ar coborî pe pământ... </head>
 <p> Vom împrumuta de la d-l Frantz Funck-Brentano cele dintâi rânduri din însemnata sa lucrare asupra   Haiducilor  (Paris, Hachette editeur, 1904): Șă nu confundăm  haiduc cu un hoț, un bandit, cu un ucigaș ordinar. Să ne ocupăm de ucigași și de hoți n-ar fi de nici un folos. Viața haiducilor însă este interesantă: și-a avut importanța ei în istoria tutulor popoarelor. </p> 
-<p> «Haiducii jefuesc cu arma în mână, pe față. Formează un Stat în Stat, o societate deosebită și care trăieste în dușmănie declarată în sânul unei societăți vrăjmașe. Se va vedea că, alăturea de ființe lacome și crude, au fost printre dânșii eroi, aproape oameni mari: Roger de Fior, care s-a făcut Cesar al Constantinopolului, Rodrigue de Villandrando și Archipreotul, căpitani al căror renume stă în cumpănă cu al lui Du Guesclin. Pirații au fost cât p-aici să dea America Franței: Mandrin, spirit exaltat, cu aspirații generoase, a visat să stabilească domnia dreptăței și a egalităței prin puterea carabinei sale». </p>
+<p>Haiducii jefuesc cu arma în mână, pe față. Formează un Stat în Stat, o societate deosebită și care trăieste în dușmănie declarată în sânul unei societăți vrăjmașe. Se va vedea că, alăturea de ființe lacome și crude, au fost printre dânșii eroi, aproape oameni mari: Roger de Fior, care s-a făcut Cesar al Constantinopolului, Rodrigue de Villandrando și Archipreotul, căpitani al căror renume stă în cumpănă cu al lui Du Guesclin. Pirații au fost cât p-aici să dea America Franței: Mandrin, spirit exaltat, cu aspirații generoase, a visat să stabilească domnia dreptăței și a egalităței prin puterea carabinei sale». </p>
 <p> D-l Funck-Brentano merge până a spune, sau mai-mai, că haiducia a făcut Franța. Pentru a se apăra de haiduci s-au întocmit senioriile, sau format orașele și poporul a ajutat creșterea puterii regale. </p>
 <p> Și dacă autorul acestei frumoase cărți, în loc de a se închide în hotarele țărei sale, și-ar fi întins privirea dincolo de Alpi și de Pirinei, ne-ar ti arătat neapărat, în Italia și în Spania, puterea uriașă a lui Napoleon ținută pe loc de niște cete de haiduci patrioți, al căror tip mai popular a rămas Fra Diavolo. </p>
 <p> Totul a degenerat. </p>
@@ -994,8 +1003,8 @@
 <p> Unele spirite sperioase ne vor dojeni, poate, de ce am dat un călugăr bătrânului venerabil și sinistru al cărui portret a fost făcut atât de magistral de Neyies. Vom răspunde mai întăi invocând răpirea foarte adevărată a lui Simu Naum, un armân din Pind, stabilit acum la Belgrad, o răpire în care un călugăr, afiliat al tâlharilor, a jucat rolul de mijlocitor interesat între aceștia și părinții victimei; și apoi nu cumva nu s-au mai găsit și-n alte țări membri ai unui alt cler card răspundeau la acest tip de călugăr-haiduc? </p>
 <p> Exemplu: </p>
 <p> S-a văzut în Franța, sub directorat, faimoasa bandă din Orgères, astfel numită după numele satului unde a săvârșit ultima nelegiuire. Cităm, tot după cartea d-lui Funck-Brentano: </p>
-<p> «Numără o mie de membri, cari trăesc ca vagabonzi prin pădurile din Loiret. Capul lor poreclit Fieur-D’Epine, e negustor de piei de iepuri de casă. </p>
-<p> «Această oștire de briganzi are un învățător, pe părintele Elotiis, om în vârstă de optzeci și trei de ani. Ea mai are un popă, pe preotul din Pingres, patriarh octogenar, însărcinat cu căsătoriile; căci tâlharii și tâlhăroaicele se căsătoresc, iar ceremonialul nu e lipsit nici de pitoresc, nici de oarecare curtenie. Logodnicii se înfățișează înaintea preotului, purtând fiecare în mână câte un băț în loc de făclii. Preotul întreabă: «Calicule, o vrei pe golanca asta?» - «Da, calicule!» —  «Golanco, îl vrei pe calicul ăsta?» — «Da, calicule». Consimțimântul astfel dat, se prezintă bețele întinse tinerei perechi! «Sari, golanule!» Soțul sare atunci peste cele două bețe. Insă, când vine rândul soției, ele sunt date în lături dinaintea ei și-i lasă drumul liber. </p>
+<p>Numără o mie de membri, cari trăesc ca vagabonzi prin pădurile din Loiret. Capul lor poreclit Fieur-D’Epine, e negustor de piei de iepuri de casă. </p>
+<p>Această oștire de briganzi are un învățător, pe părintele Elotiis, om în vârstă de optzeci și trei de ani. Ea mai are un popă, pe preotul din Pingres, patriarh octogenar, însărcinat cu căsătoriile; căci tâlharii și tâlhăroaicele se căsătoresc, iar ceremonialul nu e lipsit nici de pitoresc, nici de oarecare curtenie. Logodnicii se înfățișează înaintea preotului, purtând fiecare în mână câte un băț în loc de făclii. Preotul întreabă: «Calicule, o vrei pe golanca asta?» - «Da, calicule!» —  «Golanco, îl vrei pe calicul ăsta?» — «Da, calicule». Consimțimântul astfel dat, se prezintă bețele întinse tinerei perechi! «Sari, golanule!» Soțul sare atunci peste cele două bețe. Insă, când vine rândul soției, ele sunt date în lături dinaintea ei și-i lasă drumul liber. </p>
 <p> Un călugăr ca Isaia e mult mai puțin respingător decât un preot din Pingres, precum și haiducii noștri din Pind, care se silesc pe cât e cu putință să împace umanitatea cu îndeplinirea meseriei lor, sunt cu mult mai nobili, mai cavalerești, de cât acei demoni de tâlhari (chauffeurs) care, atacând o casă, locuința vreunui arendaș, un castel, pentru a afla unde stăpânul casei și-a ascuns banii, îi frigeau tălpile picioarelor la un foc mare și, pentru a-i face arsura m-i usturătoare, le stropeau cu rachiu, le presărau cu piper, le ciopârțeau cu cuțitul, le crestau cu briceagul. </p>
 <p> Dacă Garelia ne-ar auzi, ar striga, în indignarea lui în contra acestor monștri: «A ! de ce n-am fost pe acolo eu cu voinicii mei!» </p>
 </div>
@@ -1055,14 +1064,14 @@
 <p> Păcatul neăertat care a adus pe capul meu osânda, îl săvârșesc acum iarăși înaintea voastră; la el vă fac părtași și pe voi... fie ca înaintea lui Dumnezeu, marele nostru judecător, să ne înfățișăm numai cu acest păcat! </p>
 <p> Astăzi, frați români, ascultați, și veți asculta mereu de aci înainte, sfânta liturghie în limba românească, iar nu într-o limbă străină, într’o limbă moartă, care nu e nici măcar greceasca ce o înțeleg unii dintre voi. </p>
 <p> Și pentru ce oare vorba românească să fie alungată de aici? E graiul unui popor care ține la legea ortodoxă. Același simbol pe care-l spuneam pe grecește, îl spui și-l voi spune mereu în limba ce ne-a fost lăsată de la Dumnezeu; astfel va putea fi înțeles și de femeia care nu știe deloc carte și de cel mai mic dintre copiii noștri. Și numai acum veți putea spune că vă rugați cu adevărat, așa cum vrea Domnul nostru Iisus Hristos, adică cu duhul și cu adevărul. </p>
-<p> «Mergeți și propoveduiți evanghelia» a spus Mântuitorul nostru ucenicilor săi; iar Sfântul Duh le-a dat darul limbilor, pentru ca să poată duce pretutindeni cuvântul de viață. Nu cumva a fost spusă în grecește pentru întâiași dată sublima rugăciune «Tatăl nostru carele ești în ceruri?» Apostolul Pavel a predicat grecește înaintea areopagului, pentru că se adresa la greci; insa dacă apostolul păgânilor ar fi vizitat pe străbunii noștri afundați în întunericul păgânismului, nu în grecește le-ar fi dat buna vestire. De aceea eu, cea din urmă dintre cele din urmă slugi ale lui Dumnezeu, chem în ajutor pe acest Dumnezeu în limba românească, pentru că-mi îndrept cuvîntul către el în numele unei comunități românești. </p>
+<p>Mergeți și propoveduiți evanghelia» a spus Mântuitorul nostru ucenicilor săi; iar Sfântul Duh le-a dat darul limbilor, pentru ca să poată duce pretutindeni cuvântul de viață. Nu cumva a fost spusă în grecește pentru întâiași dată sublima rugăciune «Tatăl nostru carele ești în ceruri?» Apostolul Pavel a predicat grecește înaintea areopagului, pentru că se adresa la greci; insa dacă apostolul păgânilor ar fi vizitat pe străbunii noștri afundați în întunericul păgânismului, nu în grecește le-ar fi dat buna vestire. De aceea eu, cea din urmă dintre cele din urmă slugi ale lui Dumnezeu, chem în ajutor pe acest Dumnezeu în limba românească, pentru că-mi îndrept cuvîntul către el în numele unei comunități românești. </p>
 <p> Nu cumva chivotul sfânt e profanat, nu cumva catapeteasma se rupe, nu cumva tămâia jertfelnicului are să se piarză în vânturile deșertului, pentru că zicem «Tatăl nostru carele ești în ceruri», în loc de Pater inioii o en tis uranis ? </p>
 <p> Om de puțină credință, iată de ce tremuram până mai adineaori! iată de ce o neliniște chinuitoare îmi strângea inima! iată de ce am fost cât p-aici să mă îndoiesc că hotărârea mea ar fi bună... Dar nu, am să mai îndrăznesc să aduc jertfă pe altar. </p>
 <p> In potriva anatemei care mă izbește fac apel la Dumnezeu, amintindu-mi de preceptul evangelic «Binecuvântați pe cei ce vă blestemă!» </p>
 <p> Căci astăzi rugăciunea mea e mai plăcută lui Dumnezeu; căci o turmă mai numeroasă s-a strâns în jurul păstorului ei; căci, de aici înainte veți voi cu toții să fiți mai cu adevărat creștini, pentru a fi mai cu adevărat români; căci, afirmându-vă credința, vă afirmați și naționalitatea. </p>
 <p> Lăsați-mă deci să salut ziua în care un episcop român, frate venerat al S. S. patriarhului ecumenic, va putea hirotonisi preoți români pentru nevoile sufletești ale parohiilor noastre sufletești. Lăsați-mă să salut ziua când va fi ruptă, împreună cu cele care au mai izbit și pe alți preoți vinovați de păcatul meu și de nici unul altul, sentința deșartă care n-are să mă mai facă să tremur. </p>
 <p> Lăsați-mă să salut ziua în care limba, ce dincolo de Dunăre servește la înălțărea sufletului a mii de drepț-credincioși, are să repete laudele Domnului în această țară frățească. Amin! </p>
-<p> ..................................................................... </p>
+<milestone unit="dots"/>
 <p> Femeile plângeau, bărbații erau duși pe gânduri ascultându-i predica. </p>
 <p> Iată ce se petrecuse: </p>
 <p> Acest preot, un excelent preot, fiindcă, după cererea părinților, botezase pe un copil în limba românească. fu pârât autorităței bisericești. </p>
@@ -1071,9 +1080,9 @@
 <p> Încurajat însă foarte călduros de către partidul adevărat românesc din comuna sa, care pusese stăpânire cu forța pe una din cele trei biserici ale comunei, ceea ce dase loc la certuri, ba chiar și la încăierări sângeroase cu partidul grecoman, preotul îndrăzni să facă slujba, de altfel fără tămbălău, în limba română. De astădată episcopul arunca asupra bietului popă anatema bisericească. Grecomanii se năpustiră asupra preotului răsvrătit care a fost huiduit, batjocorit, ocărât, ba chiar urmărit cu pietre pe drum, după îndemnul dascălului grec. </p>
 <p> Și atunci, susținut de patrioții români, se hotăra să facă slujba cu pompă mare, așa cum l-am văzut, înaintea a o mulțime de drept-credincioși, care îl primiseră ca păstor. </p>
 <p> Cât pentru țidula de excomunicare, n-ar fi poate fără interes să-i dăm pe scurt textul: </p>
-<p> «... Să moștenească anatema noastră îngrozitoare, făcută de Noi, în biserica noastră episcopală, îmbrăcat în odăjdiile Noastre și ținând în mână o lumânare neagră aprinsă, care lumânare se va stinge după ce vom fi isprăvit anatema, așa, cum e regula când se face afurisenia!» </p>
-<p> «Și blestemul cuprins în aceasta sună astfel: Fostul preot X, scos din rândurile preoților, caterisit, să fie bătut de Dumnezeu și în corpul lui și în sufletul lui. Să se izbească de piedica nevăzută și să cadă; ograda sâ-i fie goală și casa pustie; Dumnezeu să trimită peste capul lui pe Cel rău; să nu fie pus în rândul celor aleși, iar numele său să fie șters din cartea vieței. Copiii săi să rămâie fără tată, iar femeia lui văduvă ; să fugă de sub coperământul casei sale; averea să-i fie luată de dușmani! Străinii să-i nimicească rodul muncei sale; credincioșii să nu-i dea apă și foc; neamul lui să se stingă, iar amintirea lui să fie ștearsă de pe fața pământului. Să aibă parte numai de vânt, de zăpadă, de furtună și de trăsnet. Să rămână veșnicie între Iuda și Arius, în valea chinurilor.» </p>
-<p> «De trei ori, blestem, blestem, blestem pe capul lui! Blestem în numele celor trei-sute și opt-spre-zece sfinți Părinți! în numele soborului din Nicea, blestem!» </p>
+<p>... Să moștenească anatema noastră îngrozitoare, făcută de Noi, în biserica noastră episcopală, îmbrăcat în odăjdiile Noastre și ținând în mână o lumânare neagră aprinsă, care lumânare se va stinge după ce vom fi isprăvit anatema, așa, cum e regula când se face afurisenia!» </p>
+<p>Și blestemul cuprins în aceasta sună astfel: Fostul preot X, scos din rândurile preoților, caterisit, să fie bătut de Dumnezeu și în corpul lui și în sufletul lui. Să se izbească de piedica nevăzută și să cadă; ograda sâ-i fie goală și casa pustie; Dumnezeu să trimită peste capul lui pe Cel rău; să nu fie pus în rândul celor aleși, iar numele său să fie șters din cartea vieței. Copiii săi să rămâie fără tată, iar femeia lui văduvă ; să fugă de sub coperământul casei sale; averea să-i fie luată de dușmani! Străinii să-i nimicească rodul muncei sale; credincioșii să nu-i dea apă și foc; neamul lui să se stingă, iar amintirea lui să fie ștearsă de pe fața pământului. Să aibă parte numai de vânt, de zăpadă, de furtună și de trăsnet. Să rămână veșnicie între Iuda și Arius, în valea chinurilor.» </p>
+<p>De trei ori, blestem, blestem, blestem pe capul lui! Blestem în numele celor trei-sute și opt-spre-zece sfinți Părinți! în numele soborului din Nicea, blestem!» </p>
 <p> Și această țidulă fu semnată, tocmai de episcopul grec, al cărui cavas, pentru perceperea dinarului lui Caiafa, smulgea învelitoarea lăuzelor și scutecile pruncilor. </p>
 </div>
 <div type="chapter" n="26">
@@ -1106,7 +1115,7 @@
 <p>   — Moș Simu, ajută-mă să-mi găsesc copilul. </p> 
 <p> Stăpânul și sluga se privesc printr-o sită de lacrimi. </p>
 <p> Apoi, recăpătându-și sângele rece printr-o încordare de voință, Mitri puse pe Simu în curent cu tot ce știe. </p>
-<p> îl târăște spre șopron; îi arată spărtura făcută de haiduci; îl duce de asemenea înaintea cadavrului păstorului înjunghiat, iar Simu clatină capul zicând: </p>
+<p> Îl târăște spre șopron; îi arată spărtura făcută de haiduci; îl duce de asemenea înaintea cadavrului păstorului înjunghiat, iar Simu clatină capul zicând: </p>
 <p> — Asta e isprava lui Strâmbu, sau mai drept a lui Gavril... Ala care a fost znopit în bătaie deunăzi a dat cu cuțitul... Piară însă toți păstorii, cu mine în cap, numai Toli să fie scăpat! </p>
 <p> Și zorile începură să albească cerul, când dinspre Gridali sosesc în goana cailor niște călăreți, care se duseseră să-și facă de știre pe un alt drum decât acela pe care apucase Simu. Și povestesc tot ce au aflat la Gridali, tot ce nu știe încă bătrânul păstor: copiii lui Strâmbu rătăcind pe drumuri, tatăl mort, mama și fiica dispărute. Sâ fi fost oare răpite cum fusese răpit și Toli? Ori or fi fost în înțelegere cu haiducii și s-or fi ascunzând undeva pentru a scăpa de răzbunarea familiei Samota?... </p>
 <p> Dar nu se poate. Cu toții conchid că grecoaica e prea bleagă, iar fata prea tânără; ce înțelegere puteau să aibă ele cu cetele de haiduci? Și apoi pentru ce oare să-și piarză vremea cu fel de fel de păreri, ba că o fi așa, ba că o fi pe dincolo? Vorba e să scape pe Toli. </p>
@@ -1390,113 +1399,115 @@
 <p> La o asemenea ceremonie impunătoare și sfâșietoare, întreruptă totdeauna în timpul nopții pentru a reîncepe a doua zi pănă la înmormântare, vom asista deci înaintea cadavrului haiducului Gurguli, greu de cunoscut în hainele noi fărșerotești, cu care a fost îmbrăcat, căci un armân nu s-ar înfățișa înaintea marelui Judecător cu o fustanelă neagră ca funinginea. Îmbrobodită cu o basma de jale, mamă-sa stă în genunchi în genunchi sau ghemuite, tovarășele ei din corturi stau în jurul mortului, fiecare cu câte un mănuchi de flori de câmp în mână și cu câte o lumânare înfiptă in buchet. </p>
 <p> Și bocitul începe, cântat pe o melodie monotonă, jalnică, tărăgănată, sfâșietoare, fiecare suspin sfârșindu-se printr-un hohot de plâns. </p>
 
-	<p> Fiul meu, voinicul meu. </p>
-<p> Cum nu ți-a fost milă de mă-ta ! </p>
-<p> Vai, ce nenorocire pentru bătrânețile mele!  </p>
-<p> Trebuia să trăiesc eu pentru a-ți închide ochii! </p>
-<p> Întoarce-te, scumpule, întoarce-te că te chem. </p>
-<p> Sub cortul unde ai crescut, </p>
-<p> Unde te-am hrănit cu laptele meu. </p>
-<p> Unde te-am legănat pe genunchi! </p>
-<p> Intoarce-te, Soarele tremură </p>
-<p> Și e urât drumul acolo unde te duci! </p>
-<p> Intoarce-te, mielușelul meu;  </p>
-	<p> întoarce-te, leul meu. </p>
+	<l> Fiul meu, voinicul meu. </l>
+<l> Cum nu ți-a fost milă de mă-ta ! </l>
+<l> Vai, ce nenorocire pentru bătrânețile mele!  </l>
+<l> Trebuia să trăiesc eu pentru a-ți închide ochii! </l>
+<l> Întoarce-te, scumpule, întoarce-te că te chem. </l>
+<l> Sub cortul unde ai crescut, </l>
+<l> Unde te-am hrănit cu laptele meu. </l>
+<l> Unde te-am legănat pe genunchi! </l>
+<l> Intoarce-te, Soarele tremură </l>
+<l> Și e urât drumul acolo unde te duci! </l>
+<l> Intoarce-te, mielușelul meu;  </l>
+	<l> întoarce-te, leul meu. </l>
 	
 <p> Lacrimile înăbușă vocea. O altă femeie urmează atunci bocetul: </p>
 	
-<p> Întoarce-te sub cortul mamei </p>
-<p> Pe care moartea l-a făcut negru ca păcura! </p>
-<p> îmbrățișează pe cea care te-a născut </p>
-<p> Apoi pleacă iar la munte </p>
-<p> Cu voinicii tăi tovarăși! </p>
-<p> Dar mama a început iar: </p>
-<p> Tu ești Gurguli cel viteaz. </p>
-<p> Cuibul vulturilor e sălașul tău. </p>
-<p> Muntele tremură sub pașii tăi, </p> 
-<p> Armele tale scânteiază la soare. </p>
-<p> Lanțurile de argint strălucesc pe pieptul tău </p>
-<p> Și binecuvântată e icoana ta de argint. </p>
-<p> Dormi, fiul meu ? Deșteaptă-te! </p>
-<p> Moartea s-ar speria de Gurguli. </p>
-<p> Ea n-ar îndrăzni să-l atace! </p>
-<p> Și corul bocitor repetă: </p>
-<p> Moartea s-ar speria de Gurguli. </p>
-<p> Ea n-ar îndrăzni să-l atace; </p>
+<l> Întoarce-te sub cortul mamei </l>
+<l> Pe care moartea l-a făcut negru ca păcura! </l>
+<l> îmbrățișează pe cea care te-a născut </l>
+<l> Apoi pleacă iar la munte </l>
+<l> Cu voinicii tăi tovarăși! </l>
+<l> Dar mama a început iar: </l>
+<l> Tu ești Gurguli cel viteaz. </l>
+<l> Cuibul vulturilor e sălașul tău. </l>
+<l> Muntele tremură sub pașii tăi, </l> 
+<l> Armele tale scânteiază la soare. </l>
+<l> Lanțurile de argint strălucesc pe pieptul tău </l>
+<l> Și binecuvântată e icoana ta de argint. </l>
+<l> Dormi, fiul meu ? Deșteaptă-te! </l>
+<l> Moartea s-ar speria de Gurguli. </l>
+<l> Ea n-ar îndrăzni să-l atace! </l>
+<l> Și corul bocitor repetă: </l>
+<l> Moartea s-ar speria de Gurguli. </l>
+<l> Ea n-ar îndrăzni să-l atace; </l>
 	
 <p> Vai, biata mamă și-a dat seama de deșertăciunea speranței sale! Atunci ea ocărește moartea : </p>
 	
-<p> Moarte neagră și otrăvitoare. </p>
-<p> Moarte fără ochi și fără urechi, </p>
-<p> Ai învins prin viclenie! </p>
-<p> Ai biruit pe acest viteaz! </p>
-<p> Vrei să mi se stingă neamul </p>
-<p> Tu care-mi trimeți băiatul pe drumul întunecos </p>
-<p> Cu lumânări în loc de arme ? </p>
-<p> Să fle vârât în pământ pentru totdeauna ? </p>
-<p>Vrei ca fiul să meargă în rai Și lași pe mamă în iad ! </p>
-<p> A...! A...!</p>
+<l> Moarte neagră și otrăvitoare. </l>
+<l> Moarte fără ochi și fără urechi, </l>
+<l> Ai învins prin viclenie! </l>
+<l> Ai biruit pe acest viteaz! </l>
+<l> Vrei să mi se stingă neamul </l>
+<l> Tu care-mi trimeți băiatul pe drumul întunecos </l>
+<l> Cu lumânări în loc de arme ? </l>
+<l> Să fle vârât în pământ pentru totdeauna ? </l>
+<l>Vrei ca fiul să meargă în rai Și lași pe mamă în iad ! </l>
+<l> A...! A...!</l>
 	
 <p> Apoi începu o femeie tânără, a cărei voce contrastează cu vocea răgușită a septuagenarei: </p>
 
-	<p> Mamă, așa a fost voia lui D-zeu. </p>
-<p> Suferă ce au suferit și alții! </p>
-<p> În leagăn mi-a răpit mie Moartea </p>
-<p> Pe noul născut, alb ca spuma laptelui: </p>
-<p> A plecat lăsându-mi dorul. </p>
-<p> Dar muma lui Gurguli nu vrea să se mângâie: </p>
-<p> Femeie, sânul tău e tânăr, </p>
-<p> Vei naște iarăși, </p>
-<p> Eu însă, la sfârșitul vieții. </p>
-<p> Mă văd singură în lume ! </p>
-<p> Sub cortul tău va fi iarăși </p>
-<p> Un ciripit de păsărele, </p>
-<p> Pe când bufnița se va cocoța </p>
-<p> Pe cortul meu negru ca păcura... </p>
-<p> Fiul meu, scumpul meu fiu, </p>
-<p> Tu nu ai frați nici surori </p>
-<p> Cari să mă poată consola ! </p>
-<p> Au plecat toți înaintea ta, </p>
-<p> Și bietele mele degete tremurătoare </p>
-<p> Au culcat mulți morți in sicriu : </p>
-<p> In al tău îmi închid inima zdrobită. </p>
-<p> A... ! A...! </p>
-<p> Și corul ține isonul văitării mumei : </p>
-<p> Da, bietele-i degete tremurătoare. </p>
-<p> Au culcat mulți morți în sicriu; </p>
-<p> În al tău, ea îsi închide inima-i zdrobită. </p>
+	<l> Mamă, așa a fost voia lui D-zeu. </l>
+<l> Suferă ce au suferit și alții! </l>
+<l> În leagăn mi-a răpit mie Moartea </l>
+<l> Pe noul născut, alb ca spuma laptelui: </l>
+<l> A plecat lăsându-mi dorul. </l>
+
+    <p> Dar muma lui Gurguli nu vrea să se mângâie: </p>
+
+    <l> Femeie, sânul tău e tânăr, </l>
+<l> Vei naște iarăși, </l>
+<l> Eu însă, la sfârșitul vieții. </l>
+<l> Mă văd singură în lume ! </l>
+<l> Sub cortul tău va fi iarăși </l>
+<l> Un ciripit de păsărele, </l>
+<l> Pe când bufnița se va cocoța </l>
+<l> Pe cortul meu negru ca păcura... </l>
+<l> Fiul meu, scumpul meu fiu, </l>
+<l> Tu nu ai frați nici surori </l>
+<l> Cari să mă poată consola ! </l>
+<l> Au plecat toți înaintea ta, </l>
+<l> Și bietele mele degete tremurătoare </l>
+<l> Au culcat mulți morți in sicriu : </l>
+<l> In al tău îmi închid inima zdrobită. </l>
+<l> A... ! A...! </l>
+<l> Și corul ține isonul văitării mumei : </l>
+<l> Da, bietele-i degete tremurătoare. </l>
+<l> Au culcat mulți morți în sicriu; </l>
+<l> În al tău, ea îsi închide inima-i zdrobită. </l>
 	
 <p> Și cea mai în vârstă din toate, aproape o centenară, spune jalea mormintelor răspândite prin toate colțurile acestui pământ și părăsite rând pe rând de tribul rătăcitor: </p>
 
-	<p> Voi toate pe care v-am căzut nâscăndu-vă, </p>
-<p> Noi Fărșeroții rătăcitori </p>
-<p> N-avem nici măcar mângâierea </p>
-<p> De-a ne ruga și de a plânge pe morminte, </p>
-<p> De a pune pe ele flori îmbobocite. </p>
-<p> Morții noștri rămân stingheri </p>
-<p> Când smulgem țărușii de la corturi </p>
-<p> Ca să ne ducem să îngropăm alți morți </p>
-<p> In alte văi, în alte pășuni, </p>
-<p> Acolo unde ne duc   celnicii   noștri. </p>
-<p> A... ! A...! </p>
-<p> Și toate vocile repetă pe ritm jalnic: </p>
-<p> Noi n-avem măngâierea </p>
-<p> De a plânge și a ne ruga pe morminte. </p>
-<p> Morții noștri rămân stingheri </p>
-<p> Când smulgem țărușii de la corturi </p>
-<p> Mama îndurerată își reîncepe atunci bocitul: </p>
-<p> Închideți-mă, surorile mele, </p>
-<p> In coșciugul voinicului Gurguli ! </p>
-<p> Și rugați-vă pentru mamă, și rugați-vă pentru fiu </p>
-<p> Ca să nu simtă singurătatea ! </p>
-<p> Putea-voi eu să-mi mai iau bățul </p>
-<p> Ca să urmez pe   celnic   în alte imașuri, </p>
-<p> Ca să duc în alte văi </p>
-<p> Bietele oi ce mi-a dat fiu-meu? </p>
-<p> Rodul a căzut de pe pom, </p>
-<p> De pe pomul pe jumătate uscat; </p>
-<p> Veniți, veniți, tăietorilor, </p>
-<p> Să tăiați lemnul nefolositor! </p>
+	<l> Voi toate pe care v-am căzut nâscăndu-vă, </l>
+<l> Noi Fărșeroții rătăcitori </l>
+<l> N-avem nici măcar mângâierea </l>
+<l> De-a ne ruga și de a plânge pe morminte, </l>
+<l> De a pune pe ele flori îmbobocite. </l>
+<l> Morții noștri rămân stingheri </l>
+<l> Când smulgem țărușii de la corturi </l>
+<l> Ca să ne ducem să îngropăm alți morți </l>
+<l> In alte văi, în alte pășuni, </l>
+<l> Acolo unde ne duc   celnicii   noștri. </l>
+<l> A... ! A...! </l>
+<l> Și toate vocile repetă pe ritm jalnic: </l>
+<l> Noi n-avem măngâierea </l>
+<l> De a plânge și a ne ruga pe morminte. </l>
+<l> Morții noștri rămân stingheri </l>
+<l> Când smulgem țărușii de la corturi </l>
+<l> Mama îndurerată își reîncepe atunci bocitul: </l>
+<l> Închideți-mă, surorile mele, </l>
+<l> In coșciugul voinicului Gurguli ! </l>
+<l> Și rugați-vă pentru mamă, și rugați-vă pentru fiu </l>
+<l> Ca să nu simtă singurătatea ! </l>
+<l> Putea-voi eu să-mi mai iau bățul </l>
+<l> Ca să urmez pe   celnic   în alte imașuri, </l>
+<l> Ca să duc în alte văi </l>
+<l> Bietele oi ce mi-a dat fiu-meu? </l>
+<l> Rodul a căzut de pe pom, </l>
+<l> De pe pomul pe jumătate uscat; </l>
+<l> Veniți, veniți, tăietorilor, </l>
+<l> Să tăiați lemnul nefolositor! </l>
 <p> Și bocetele continuă, nesfârșite, mereu aceleași și mereu diferite. </p>
 	
 <p> Și mâine, un preot, chemat din satul cel mai apropiat, va veni să binecuvinteze sicriul grosolan, ale cărui scânduri Fărșeroții le cioplesc cu barda. </p>
@@ -1550,9 +1561,11 @@
 <p>   — O știam... De le ar găsi, ca să moară cel puțin sub ele! adăugă Garelia gândindu-se la tovarășul rănit de moarte. </p> 
 <p> Și în acel moment chiar, voința îi era împlinită. </p>
 </div>
+            </div>
+            <div type="part" n="4">
+            <head> PARTEA IV  </head>
+            <head> OSTATICUL </head>
 <div type="chapter" n="34">
-<head> PARTEA IV  </head>
-<head> OSTATICUL </head>
 <head> CAP. I. Ascunzătoarea. </head>
 <p> Toli Samota și-a deschis ochii, după un somn greu, de care n-ar putea să-și dea seamă cât a ținut; nicio mișcare însă nu-i trădează deșteptarea. </p>
 <p> Cu capul vârât în pernă, cu învelitoarea trasă până peste bărbie, stă culcat pe o saltea aruncată într-un fel de firidă arcuită formând alcov pentru această împrejurare, la capătul unei pivnițe spațioase, solid boltită, închisă cu o ușă de ștejar bătută cu piroane cu capul lat și gogoneț și a cărei unică răsuflătoare a fost astupată cu scânduri, peste care s'a mai îndesat și un strat gros de paie menținut de o perdea de pânză, — fără îndoială pentru a izola încă și mai mult această carceră, totdeodată însă și pentru ca mirosul boccelelor de tutun grămădite în acest depozit ascuns să nu se trădeze afară. </p>
@@ -1836,14 +1849,14 @@
 <p> Intr-adevăr, o schimbare se produsese în Vechiul-Seraiu; Sultanului îi părea rău de cinstitul său sfetnic pe nedrept urgisit. </p>
 <p> Armânul nostru, după ce-și isprăvi treaba în târg, dă fuga și încunoștiințează pe oaspele său de această schimbare de soartă și-i înlesnește mijloace de a se întoarce la Constantinopol. «Bine, zise Turcul; îndată ce voiu li pus iar în slujba mea, să vii la mine și-ți voi da tot ce-mi vei cere». </p>
 <p> Și când sosi momentul, iată ce ceru Floca fostului său îndatorat ajuns iarăși omul cel mai puternic din împărăție: </p>
-<p> «Tot cât se poate cuprinde cu privirea din vârful cutărui deal să fie pământul orașului meu. Nici un Turc să nu aibă dreptul să se statornicească aci, iar acela care, excepțional, ar fi voit să străbată această zonă privilegiată, să-și despotcovească calul înainte de a ieși din ea, pentru ca să nu ducă cu dânsul cel mai mic grăunte de praf din acest pământ. Din punct de vedere religios, orașul să se bucure de o autonomie completă și să atârne de a dreptul de patriarhie». </p>
+<p>Tot cât se poate cuprinde cu privirea din vârful cutărui deal să fie pământul orașului meu. Nici un Turc să nu aibă dreptul să se statornicească aci, iar acela care, excepțional, ar fi voit să străbată această zonă privilegiată, să-și despotcovească calul înainte de a ieși din ea, pentru ca să nu ducă cu dânsul cel mai mic grăunte de praf din acest pământ. Din punct de vedere religios, orașul să se bucure de o autonomie completă și să atârne de a dreptul de patriarhie». </p>
 <p> Aceste privilegii, ciuntite de Ali-pașa, au fost desființate în 1854, drept pedeapsă pentru Amincenii cari se răsculaseră după îndemnul Greciei. Cu toate astea, Poarta le-a lăsat dreptul să-și aleagă pe exarcul care îndeplinește puterea spirituală. </p>
 <p> Legaturi numeroase și bogate au făcut din Arninciu unul din orașele cele mai de invidiat de pe lume; un oraș american în unele privințe. Nu numai că vreo douăzeci și cinci de binefăcători ca Averoff, Toșița, Sturnara, l-au înzestrat cu biserici minunate, cu școli frumoase, cu profesori bine plătiți, cu ospicii, cu fântâni, cu străzi, cu grădini publice, ba încă toți locuitorii acestui oraș, fără nicio excepție, au gratis îngrijirile medicale și pe deasupra toate medicamentele și încă din cele mai bune; douăzeci de fete sunt măritate, în fiecare an, dându-li-se o zestre și ale casei; ajutoare lunare mergând până la 50 de lei sânt împărțite familiilor scăpătate; școlarilor, oricare ar li situația părinților lor, li se dă în dar cărțile, hârtia de scris, linii, creioane, tăblițe, tocuri, penițe, e țara Făgăduinței. </p>
 <p> Orașul lui Floca numără o mulțime de negustori ale căror contoare se răsfață în orașele Turciei, în Egipt și în România; argintăria e lucrată acolo cu multă măestrie. Mulți din locuitorii Aminciului se îndeletnicesc cu creșterea vitelor. </p>
 <p> Populația se împarte în trei clase, ușor de deosebit după port, ele se deosebesc după lățimea mai întinsă sau mai îngustă a garniturei de postav roșu, care se coboară mai mult sau mai puțin jos pe sarica, comună ambelor sexe. Femeile întrebuințează păr adăugat: coade mari învîrtite în jurul fesului sau banșului dupe cap; multe din ele se îmbracă în bogate rochii de mătase, însă nici una — chiar de ar fi fata unui arhimilionar ca Averoff care a făcut Olimpicile — nu se dau în lături de a pune peste aceste rochii sarica grosolană. Multe din ele au vizitat capitalele Occidentului și în călătorie au fost nevoite să lase la o parte costumul locului; îndată însă ce s-au întors la vetrele lor, prima grijă a fost să-și reia portul. </p>
 <p> Și toți acești greconiani vorbesc dialectul armânesc cel mai curat, cel mai apropiat de latineasca: nu întrebuințează mai de fel greceasca, mai cu seamă femeile, care nu știu nici măcar un cuvânt grecesc. </p>
 <p> Astfel este această Țară a Făgăduinței prin care curge lapte și miere, în care patriotismul local e foarte dezvoltat și care atâția cetățeni care și-au lăsat nume în viață prin așezămintele întocmite de ei, ar fi putut să-și sape pe morminte acest verset din Ecleziast: </p>
-<p> «Am săvârșit lucrări mărețe; am făcut grădini și împrejmuiri în care am pus tot felul de arbori; am făcut rezervor de apă pentru a stropi răsadul tinerilor copaci». </p>
+<p>Am săvârșit lucrări mărețe; am făcut grădini și împrejmuiri în care am pus tot felul de arbori; am făcut rezervor de apă pentru a stropi răsadul tinerilor copaci». </p>
 </div>
 <div type="chapter" n="41">
 <head>   CAP. VIII. O lectură și comentariul ei. </head>
@@ -1922,13 +1935,13 @@
 <head> CAP. IX. Nepot de Rege. </head>
 <p> Starea lui Toli se înrăutățea. Acum nici vorbă nu mai era de lectură; tânărul abia își ridica capul de pe pernă; căzuse într-o stare de prostrație care dădea de gândit; frigurile nu-l mai slăbeau, membrele îi erau îndurerate, ca și cum ar fi fost supus la o bătaie cumplită, o sete nestinsă, însoțită de mari nădușeli, îl mistuia. Și erupția îi cauza, rând pe rând, niște mâncârimi nesuferite și sensația unei arsuri prin acțiunea unui coroziv, ca și când mii de furnici s-ar fi plimbând pe bietul său corp și apoi s-ar fi pus pe mâncare cu toatele de odată. </p>
 <p> Ultimul bilet al Tanei Samota, adus de un emisar al lui Garelia, cuprindea numai aceste cuvinte: </p>
-<p> «Scumpul meu fiu, așteaptă și speră; nu te vom părăsi. Tată-tău face pe dracu in patru pentru a-și procura ce trebuie; pentru aceasta a și plecat la Vlaho-Clisura.» </p>
+<p>Scumpul meu fiu, așteaptă și speră; nu te vom părăsi. Tată-tău face pe dracu in patru pentru a-și procura ce trebuie; pentru aceasta a și plecat la Vlaho-Clisura.» </p>
 <p>  N-am putut căpăta nicio reducere asupra sumei, ni s-a acordat însă o prelungire de termen de cincisprezece zile.» </p>
-<p> «Frații tăi și surorile tale, n-ai ideie cât țin la tine; bieții copii ne tot spun să nu ducem grijă de viitorul lor; nu le pasă deloc că o să ne ruinăm, băieții vorbesc de pe acum să plece în străinătate, ca să-și câștige traiul ca atâția alții. Nevastă-ta a voit să-mi dea pentru tine toți banii ce-i are precum și salba. Vai, de ce nu se prefac lacrimile in aur, că ai fi de mult în mijlocul nostru!» </p>
+<p>Frații tăi și surorile tale, n-ai ideie cât țin la tine; bieții copii ne tot spun să nu ducem grijă de viitorul lor; nu le pasă deloc că o să ne ruinăm, băieții vorbesc de pe acum să plece în străinătate, ca să-și câștige traiul ca atâția alții. Nevastă-ta a voit să-mi dea pentru tine toți banii ce-i are precum și salba. Vai, de ce nu se prefac lacrimile in aur, că ai fi de mult în mijlocul nostru!» </p>
 <p>  Rămâi cu bine, scumpul meu fiu, supus la grele suferințe; noi am  încins  pentru tine toate bisericile din satul nostru și din satele vecine. Tana Samota». </p>
 <p> Trimisul aștepta răspunsul, pe care avea să-1 ducă într-un ciomag scobit. Toli abia putu să scrie câte-va rânduri, făcând o sforțare nespus de mare. În scrisoare spunea că e bine, de sănătate, pe câtă vreme scrisul său îi dădea o desmințire flagrantă. </p>
 <p> Scrisoarea se termina cu aceste cuvinte: </p>
-<p> «Am speranță și curaj, scumpii mei părinți. Faceți cum vă va dicta dragostea, dar și conștiința; nu uitați că, în afară de mine, mai sunt și alți copii către care aveți datorii. Chiar de ar fi să mor, n-aș vrea ca ai mei să scapete din pricina mea, să le fac eu rău fraților și surorilor mele. Să dea Dumnezeu să ne vedem cât de curând, iubită mamă și scumpă nevastă!» </p>
+<p>Am speranță și curaj, scumpii mei părinți. Faceți cum vă va dicta dragostea, dar și conștiința; nu uitați că, în afară de mine, mai sunt și alți copii către care aveți datorii. Chiar de ar fi să mor, n-aș vrea ca ai mei să scapete din pricina mea, să le fac eu rău fraților și surorilor mele. Să dea Dumnezeu să ne vedem cât de curând, iubită mamă și scumpă nevastă!» </p>
 <p> Toli dădu scrisoarea deschisă lui Despali. Ca și în rândurile trecute, haiducul o suci și o învârti în mâinile sale neștiutoare de carte. Se prefăcu că voiește s-o îndoaie; dar se opri, căci trebuia să ia cunoștință de cuprins, temându-se ca nu cumva vreun amănunt să pună familia pe urmele ostaticului. Porunci deci lui Salamura să se ducă să cheeme pe Teșa, spunând haidamacului să se ducă și să stea în odaia de sus până când s-o întoarce Teșa. </p>
 <p> încă o delicateță din partea lui: voia ca gândurile intime ale lui Toli sâ fie cunoscute de cât mai puțini străini. </p>
 <p> Teșa citi cu voce tare, vădit înduioșată; apoi Despali zise cu tonul cam aspru al unui om care voiește să și ascunză emoțiunea : </p>
@@ -1988,7 +2001,7 @@
 <p> — Dar comorile bunicului? banii depuși la băncile din Londra? dar banii băgați în acareturi și în comerț? dar partea de acțiuni din vestita societate pentru jefuirea călătorilor? dar venitul de la șoseaua Tebei după ce a fost reparată? Și ce a câștigat mai târziu bunicul când și-a abdicat regalitatea pentru a deveni mai întăiu senator, apoi, după șase luni, mare-vizir... adică președinte al consiliului de miniștri al Greciei..? toate aceste bogății, unde sunt? </p>
 <p> — Vai, sărmane copil, Hagi-Stavros era un mare păcălici care și-a bătut joc de un străin, de un Frânc   care alerga după potcoave de cai morți, adică după povești din Atica. Și acest Frânc — un oarecare domn Abo... Abu, înaintea căruia am dansat pentru o drahmă — a însemnat toate palavrele bătrânului palicar, pentru a face din ele o carte... Tot ce e adevărat, e că bietul moșu-tău era un haiduc... ca ăsta (și arată pe Despali); n-a lăsat o para chioară, când a murit, </p> 
 <p>   — Dumnezeu să-l ierte!... </p> 
-<p> «Cu toate astea mai e ceva adevărat în ce s-a povestit despre dânsul și e tocmai răpirea familiei Voida, la care a luat și el parte, cu încă vreo alți treizeci poate... și asta nu i-a adus cine știe ce... Abia vreo sută de drahme, pe care le-a perdut la cărți într-o cafenea din Pireu, — căci suma răscumpărărei n-a fost nici a zecea parte din ce a spus acelui domn Abo...Abu, care a răspândit în toată lumea atâtea mofturi despre răposatu-meu... Mai boacănă decât toate e Fotini îmbrăcată ca domnișoară și pusă în pension pentru a se mărita după vreun prinț german, ea care n-avea nici cămașe pe dânsa! Ha! ha! ha!...» </p>
+<p>Cu toate astea mai e ceva adevărat în ce s-a povestit despre dânsul și e tocmai răpirea familiei Voida, la care a luat și el parte, cu încă vreo alți treizeci poate... și asta nu i-a adus cine știe ce... Abia vreo sută de drahme, pe care le-a perdut la cărți într-o cafenea din Pireu, — căci suma răscumpărărei n-a fost nici a zecea parte din ce a spus acelui domn Abo...Abu, care a răspândit în toată lumea atâtea mofturi despre răposatu-meu... Mai boacănă decât toate e Fotini îmbrăcată ca domnișoară și pusă în pension pentru a se mărita după vreun prinț german, ea care n-avea nici cămașe pe dânsa! Ha! ha! ha!...» </p>
 <p> Perla neagră râdea, Despali râdea, Teșa râdea — un surâs palid se urca pe buzele lui Toli; pivnița devenise deodată veselă. </p>
 <p>   — Apoi atunci coroana asta de pe brațul meu...? </p> 
 <p> Și Salamura făcu o mutră caraghioasă care spori ilaritatea generală. </p>
@@ -2016,7 +2029,7 @@
 <p> Știți cine mi-a dat numele de Perlă neagră ?... Ali din Tebelen... Eram fecioară și eram numai de doisprezece ani... Și se pricepea în asta, el care răsfira mereu între degete niște mătănii având nouăsprezece mărgăritare, unul ca și altul la fel și mari cât niște alune... Eu singură numai prețuiam cât aceste mărgăritare, așa spunea el. </p>
 <p> Apoi, aprinzându-se, țiganca își puse în brâu luleaua ei scurtă și infectă și începu să evoace nu un personaj convențional ca acela care străbate  Monte-Cristo al lui Dumas, ci pe adevăratul Ali-Pașa din Ianina, tiranul Epirului, jumătate tigru, jumătate vulpe, monstrul viclean și crud, care, putând totul, îndrăzni totul, până când a sleit favorurile unui noroc trufaș. </p>
 <p> Un contemporan care a trăit în familiaritatea lui Ali-pașa, acel Pouqueville deja citat, al cărui nume va fi totdauna scump Armânilor, a judecat în modul următor pe acest satrap, pe lângă care era acreditat ca consul general al Franței : </p>
-<p> «Zi și noapte, vizunia lui Cacus e deschisă denunțării, crimei și perfidiei. Garda sa e compusă din asasini; pagii săi sunt copiii desfrânați ai victimelor cruzimii sale; emisarii săi, niște lași Români, gata să săvârșească orice nelegiuire*, iar credincioșii săi, niște otrăvitori cari își fac o glorie din crimele lor. Miniștri sacrilegi ai Dumnezeului viu sunt admiși în ascunsurile întunecoase ale sfaturilor sale, pentru a-i dezvălui gândul nevinovăției și taina spovedaniei. Spioni deghizați sub toate formele caută și scotocesc locurile unde sunt ascunși banii văduvei și ai orfanului. Fecioara sfiicioasă, ascunsă in întunericul încăperilor rezervate sexului lor, nu poate scăpa privirilor pătrunzătoare ale acestor mișei. Ea e smulsă de la sânul mamei, precum e smuls și fiul, speranța unei familii virtoase; și cinstea, frumusețea, pudoarea, cad jertfa celor mai josnice pasiuni. Nici o grație, nici o favoare nu cade asupra omului de bine; deși reprobațiea lovește probitatea, pioasa filantropie locuește cu toate acestea încă în acest oraș (Ianina), în prada celei mai scandaloase imoralități </p>
+<p>Zi și noapte, vizunia lui Cacus e deschisă denunțării, crimei și perfidiei. Garda sa e compusă din asasini; pagii săi sunt copiii desfrânați ai victimelor cruzimii sale; emisarii săi, niște lași Români, gata să săvârșească orice nelegiuire*, iar credincioșii săi, niște otrăvitori cari își fac o glorie din crimele lor. Miniștri sacrilegi ai Dumnezeului viu sunt admiși în ascunsurile întunecoase ale sfaturilor sale, pentru a-i dezvălui gândul nevinovăției și taina spovedaniei. Spioni deghizați sub toate formele caută și scotocesc locurile unde sunt ascunși banii văduvei și ai orfanului. Fecioara sfiicioasă, ascunsă in întunericul încăperilor rezervate sexului lor, nu poate scăpa privirilor pătrunzătoare ale acestor mișei. Ea e smulsă de la sânul mamei, precum e smuls și fiul, speranța unei familii virtoase; și cinstea, frumusețea, pudoarea, cad jertfa celor mai josnice pasiuni. Nici o grație, nici o favoare nu cade asupra omului de bine; deși reprobațiea lovește probitatea, pioasa filantropie locuește cu toate acestea încă în acest oraș (Ianina), în prada celei mai scandaloase imoralități </p>
 <p> *Această judecată ne este suspectă. Nu doar că ar fi neverosimil ca Ali-pașa să fi numărat și ceva Români printre campionii anturajului său, dar e știut de toată lumea că, departe de a favoriza pe Armâni, el a făcut totul pentru a le desființa privilegiile. Ne pare straniu de a găsi un epitet atât de ofensator pentru Români in Pouqueville care vorbește cu entuziasm ori de câte ori e vorba de Români și de capitanatele lor. De altfel Ali-pașa era un rău musulman, purtând nu cialmaua, ci un tichie să mânând mult cu corna dogilor. Era mâncăcios ca un Bourbon, și în timpul Ramazanului, înainte de asfințitul soarelui, Pouqueville l-a văzut înghițind trei kilograme de carne de miel, mai multe căpățâne de usturoii, ouă tari și un țipar». </p>
 <p> În adevăr, caritatea publică hrănea pe numeroșii închiși ai lui Ali-pașa, ba chiar se strângea cu talerul bani pentru răscumpărarea arestaților. </p>
 <p> Cartea lui Pouqueville se resimte de epoca în care a fost publicată (1820 și 1821), romanticii nu «făcuseră încă o vijelie în fundul călimărilor» și nu «puseseră încă o bonetă roșie vechiului dicționar»; cu toate astea, deși scrisă într-un stil plin de formule banale, Călătoria în Grecia  este o mină de știri prețioase. </p> 
@@ -2044,54 +2057,54 @@
 <p>   — Zic că, în tinerețea mea, au fost doi oameni care, alături cu ceilalți oameni, erau ce este cedrul pe lângă ienupăr: Bunaberdi, sultan al și Ali, pașă al Epiroților. </p>
 <p> Bătrâna țigantă nu putea ști că cel dintâi a apreciat mult pe cel de-al doilea, care admira în Napoleon un geniu foarte puternic, înrudit cu al său. Aceia care au citit ultimele volume ale «Originilor Franței contemporane» de Taine ne vor înțelege.</p>
 <p> *In tradițiile orientale, numele lui Bonaparte a devenit Bunaberdi; și fiincă au păstrat mai mult faptele care se raportează la campania din Egipt, țările Islamului își aduc mai mult aminte de Bonaparte decât de Napoleon.  </p>
-<p> «Am vărsat atâta sânge încât valul mă urmărește, nu îndrăznesc să mă uit în urma mea». Captivul de la S-ta Elena n-ar fi putut oare să-și aplice această frază a lui Ali-pașa? — O culegem din cartea lui Pouqueville. </p>
+<p>Am vărsat atâta sânge încât valul mă urmărește, nu îndrăznesc să mă uit în urma mea». Captivul de la S-ta Elena n-ar fi putut oare să-și aplice această frază a lui Ali-pașa? — O culegem din cartea lui Pouqueville. </p>
 <p> Și unul și altul își află sfârșitul într-o insulă; însă, ca pentru a arăta oarecum proporțiunea între «sultanul Francilor» și «pașa Epiroților», S-ta Elena este un gigant pe lângă stânca care se ridică peste lacul laninei unde Ali din Tebelen a fost omorât prin vicleșug — orice lucru primindu-și răsplata cuvenită în lumea asta — de către Turcii care îi aduceau, dupe cum se jurau, firmanul prin care Sultanul Mahmud ierta pe răzvrătit și-1 întărea în vechia sa demnitate. </p>
 <p> Bătrânul, care se refugiase în catul de sus al unei clădiri pe deplin conservată încă, a fost împușcat de jos în sus, prin podeala ciuruită de gloanțe... </p>
 <p> Intre haiduc și Perla neagră a fost deci un fel de luptă, unul susținând acuzația, iar celălalt apărarea. Despali, cunoscător al acestei istorii seculare pe care haiducii și-o povestesc noaptea la popas, amintise faimosul blestem al dervișului lusuf, un sfânt al Islamului. </p>
 <p> Cel mai mare dintre liricii din toate timpurile, Victor Hugo, a gravat pentru eternitate întâlnirea dreptului între drepți și a păcătosului între păcătoși. Fie-ne permis să înlocuim o proză umilă prin aceste strofe magice din Orientalele: </p>
 <p> Dervișul. </p>
 	
-<p> Ali trecea-ntr-o zi călare, ș-oricare frunți, și cât de-nalte </p>
-<p> Se aplecau cu umilință înaintea mândrei sale oaste: </p>
-<p> «Alah ! poporul îi striga. Dar un derviș păru deodată in două frânt de bătrânețe, </p>
-<p> Și loc făcându-și prin mulțime, îi prinse calul de căpăstru </p>
-<p> Vorbind apoi precum urmează: </p>
-<p> «Lumină a luminei înalte, nebiruite Tepeleni, </p> 
-<p> «Tu ce-n divan vorbești întâiul, pe loc ce tace padișahul, </p>
-<p> Ș-al cărui nume crește-n veci, </p>
-<p> «Tu care ești chiar a lui umbră, candela lui Alah e umbră, </p>
-<p> « Vizir pe taberi de războinici, vitezi așa cum nu sunt alți, </p>
-<p> Ești blestemat și ești un câine.</p>
-<p> «Când a mormântului văpaie, făptura ta o înfășoară, </p>
-<p> «Tu făr' să știi ce te așteaptă, îți verși mânia peste oameni </p>
-<p>«Ș-o scânteiezi pe fruntea lor </p>
-<p> «Precum o secera-și revarsă fiorul morții peste iarbă, </p>
-<p> «Și faci din sânge și din oase o tencuială îngrozitoare </p>
-<p> «Spre-a-ți întări cu ea Palatul. </p>
-<p> «Dar ceasu-osândei tale sună și hotărât e ca-n Ianina </p>
-<p> «Sub pașii tăi crăpând pământul în hăul negru să te-nghită, </p>
-<p> «Și-n ladu-al șeaptelea căzând, </p>
-<p> «Un cerc de foc să-ți strângă gâtul înlănțuit de chiar copacul </p>
-<p> «Ce poartă numele de segjin și pe-ale cărui crăci se vaită </p>
-<p> «Și urlă duhurile rele. </p>
-<p> «Lăsa-va sufletu-ți în urmă făloasa lui deșertăciune, </p>
-<p> «Și nu vei duce după tine decât cumplita amintire </p>
-<p> «A blăstematei tale vieți; </p> 
-<p> «Năluci scăldate-n al lor sânge vedea-vei jertfele-ți deodatâ </p>
-<p> «Că te-nconjoară spăimântoase și fi-vor mai nenumărate </p>
-<p> «De cât cuvintele-ți de groază. </p>
-<p> «Si nici cetatea-ți fără seamăn, și nici corăbiile tale </p> 
-<p> «Nu vor putea să te ajute în ziua când veni-va ceasul, </p>
-<p> «Și scrisa ta se va-mplini, </p>
-<p> «Chiar dacă tu când ți-ai da duhul ai face tocmai ca ovreiul </p> 
-<p> «Ce-și schimbă numele să-nșele Dumnezeirea și să scape </p> 
-<p> «De hotărâta lui osândă». </p>
-<p> Ali, sub blana lui cea scumpă avea un junghiu tăios ca briciul </p>
-<p> Și-o flintă gata să trăsnească și trei pistoale încărcate, </p>
-<p> Dar el tăcu. Și-apoi, zâmbind, </p> 
-<p> Caftanul său cusut cu aur și-mpodobit cu nestemate </p> 
-<p> Și-l scoase-n tihnă, de pe umeri și îmbrăcă cu el dervișul, </p>
-<p> Și către soarta lui se duse*. </p>
+<l> Ali trecea-ntr-o zi călare, ș-oricare frunți, și cât de-nalte </l>
+<l> Se aplecau cu umilință înaintea mândrei sale oaste: </l>
+<l>Alah ! poporul îi striga. Dar un derviș păru deodată in două frânt de bătrânețe, </l>
+<l> Și loc făcându-și prin mulțime, îi prinse calul de căpăstru </l>
+<l> Vorbind apoi precum urmează: </l>
+<l>Lumină a luminei înalte, nebiruite Tepeleni, </l> 
+<l>Tu ce-n divan vorbești întâiul, pe loc ce tace padișahul, </l>
+<l> Ș-al cărui nume crește-n veci, </l>
+<l>Tu care ești chiar a lui umbră, candela lui Alah e umbră, </l>
+<l> Vizir pe taberi de războinici, vitezi așa cum nu sunt alți, </l>
+<l> Ești blestemat și ești un câine.</l>
+<l>Când a mormântului văpaie, făptura ta o înfășoară, </l>
+<l>Tu făr' să știi ce te așteaptă, îți verși mânia peste oameni </l>
+<l>«Ș-o scânteiezi pe fruntea lor </l>
+<l>Precum o secera-și revarsă fiorul morții peste iarbă, </l>
+<l>Și faci din sânge și din oase o tencuială îngrozitoare </l>
+<l>Spre-a-ți întări cu ea Palatul. </l>
+<l>Dar ceasu-osândei tale sună și hotărât e ca-n Ianina </l>
+<l>Sub pașii tăi crăpând pământul în hăul negru să te-nghită, </l>
+<l>Și-n ladu-al șeaptelea căzând, </l>
+<l>Un cerc de foc să-ți strângă gâtul înlănțuit de chiar copacul </l>
+<l>Ce poartă numele de segjin și pe-ale cărui crăci se vaită </l>
+<l>Și urlă duhurile rele. </l>
+<l>Lăsa-va sufletu-ți în urmă făloasa lui deșertăciune, </l>
+<l>Și nu vei duce după tine decât cumplita amintire </l>
+<l>A blăstematei tale vieți; </l> 
+<l>Năluci scăldate-n al lor sânge vedea-vei jertfele-ți deodatâ </l>
+<l>Că te-nconjoară spăimântoase și fi-vor mai nenumărate </l>
+<l>De cât cuvintele-ți de groază. </l>
+<l>Si nici cetatea-ți fără seamăn, și nici corăbiile tale </l> 
+<l>Nu vor putea să te ajute în ziua când veni-va ceasul, </l>
+<l>Și scrisa ta se va-mplini, </l>
+<l>Chiar dacă tu când ți-ai da duhul ai face tocmai ca ovreiul </l> 
+<l>Ce-și schimbă numele să-nșele Dumnezeirea și să scape </l> 
+<l>De hotărâta lui osândă». </l>
+<l> Ali, sub blana lui cea scumpă avea un junghiu tăios ca briciul </l>
+<l> Și-o flintă gata să trăsnească și trei pistoale încărcate, </l>
+<l> Dar el tăcu. Și-apoi, zâmbind, </l> 
+<l> Caftanul său cusut cu aur și-mpodobit cu nestemate </l> 
+<l> Și-l scoase-n tihnă, de pe umeri și îmbrăcă cu el dervișul, </l>
+<l> Și către soarta lui se duse*. </l>
 	
 <p> Gestul a fost frumos. Insă Ali-pașa nu procedase mai blajin cu niște alchimiști care îi propuneau o infailibilă formulă de apă de tinerețe. Stăpânul le procură fără multă, vorbă ingredientele costisitoare ce-i cereau, le acordă tot timpul trebuincios pentru fabricarea elixirului lor, dar, fiindcă, la expirarea termenului, își mărturisiră nereușita, îi spânzură numaidecât. </p>
 </div>
@@ -2101,9 +2114,9 @@
 <p> Distinsul poet român Macedonski a binevoit a traduce anume pentru Moșneagul de la Munte aceasta poezie a lui Hugo. </p>
 <p> Vom mai aminti însă numai pe una din aceste povești pe atât de uimitoare pe cât de îngrozitoare, reducând-o la elementele sale esențiale, adică scutind pe cititor atât de digresiunile țigănești cât și de polemicile ei cu Despali și Toli Samota, — căci Salamura, nepăsător, în aparență cel puțin, de tot ce se petrecea în jurul său, se încăpățâna în mutismul său îmbufnat. </p>
 <p> — Pe vremea aia, zise baba, era un sat în Pind care se chema Gramoste și pe care de sigur îl cunoașteți, dacă nu după văzute, cel puțin după auzite, așa de frumos, așa de înfloritor că nu s-a mai pomenit altul la fel de când e lumea. S-a risipit — veți afla îndată cum — ca și când focul din cer îl nimicise, și numai câteva colibe păcătoase au răsărit pe ruinele lui ca niște ciuperci otrăvitoare pe un trunchi trăsnit. </p>
-<p> «Din Gramoste era acel Paciurea, vestit prin bogățiile lui, așa că și astăzi, ca să dai o idee de ceva de o frumusețe rară, se mai zice încă: «Ca la casa lui Paciurea». Renumitul celnic fusese cu toate astea multă vreme un om de nimic, aproape un nevoiaș. </p>
-<p> «Pe atunci avea numai o slugă cam prostuță, care într-o zi aduse stăpânului său mai mulți drugi trăgând greu în cumpănă și-i zise: «Uite ce am găsit, dacă i-am da la ferar să-i lucreze, ne-ar putea face potcoave pentru caii noștri» — căci băiatul ăsta credea că pusese mâna pe cine știe ce metal de rând. </p>
-<p> «Fără să-și arate câtuși de puțin plăcuta lui uimire, Paciurea îi răspunde: «Nu zic ba: dar de unde naiba i-ai luat?» </p>
+<p>Din Gramoste era acel Paciurea, vestit prin bogățiile lui, așa că și astăzi, ca să dai o idee de ceva de o frumusețe rară, se mai zice încă: «Ca la casa lui Paciurea». Renumitul celnic fusese cu toate astea multă vreme un om de nimic, aproape un nevoiaș. </p>
+<p>Pe atunci avea numai o slugă cam prostuță, care într-o zi aduse stăpânului său mai mulți drugi trăgând greu în cumpănă și-i zise: «Uite ce am găsit, dacă i-am da la ferar să-i lucreze, ne-ar putea face potcoave pentru caii noștri» — căci băiatul ăsta credea că pusese mâna pe cine știe ce metal de rând. </p>
+<p>Fără să-și arate câtuși de puțin plăcuta lui uimire, Paciurea îi răspunde: «Nu zic ba: dar de unde naiba i-ai luat?» </p>
 <p>   — «L-am găsit in cutare loc, sub un bolovan mare de piatră pe care apele il săpaseră-. </p> 
 <p>   — «Așa! Și ai adus tot ce era acolo?» </p> 
 <p>   — «O, o, mai e acolo încă de zece ori, de douăzeci de ori pe atâta . </p> 
@@ -2118,9 +2131,9 @@
 <p> — Se prea poate, zise Perla neagră... Deci, pe vremea domnului și stăpânului meu Ali din Tebelen, Gramostea era un mândru orășel. Intr-o zi pașa dete de știre că are să-1 viziteze și într-adevăr sosește cu alaiul său de Albanezi. E izbit însă de o ciudățenie: vede o mulțime de bărbați foarte bine făcuți, pe când toate femeile ce-i ies înainte, dar toate, sunt urâte foc. Își arătă mirarea. «Așa a vrut Dumnezeu», i s-a răspuns. «Nu pot să-l laud pentru asta», zise stăpânul. </p>
 <p>  Câ-va timp după aceea, Ali pașa vine iar la Gramoste, însă, de astă dată, pe tăcute, fără ca vreunul dintre locuitori să fi prins de veste iar pentru a ascunde ce nu voiau să-l lase să vază. De departe, zărește cu ocheanul o mândră fecioară de o frumusețe rară, care umplea un urcior la fântâna afară din orășel. «Uite, uite minune, zise ; s-ar părea că Dumnezeu și-a luat seama de mai deunezi! Fata, văzând că e observată, o rupe la fugă ca o cerboaică. Ali din Tebelen strânge pe fruntașii Grămosteni în piață și le zice: «Am zărit la fântână o fecioară frumoasă. A cui este?»; Fruntașii se codesc la început, se fac că nu pricep, în sfârșit însă sunt nevoiți să spună, n-au încotro : «E fata cutăruia», îi răspund. Tatăl fetei, se afla de față și pașa-i zise: Pentru a nu contraria gândurile Providenței, care a voit ca toate femeile din Gramoste să fie urâte, doresc să duc în haremul meu pe fiica ta, care face o scandaloasă excepție la regulă. Deci să mi-o dai! </p>
 <p> — «Ordinele Excelenței voastre sunt firmanuri pentru mine; să binevoiască însă a ne lăsa noaptea asta, atât pentru a se pregăti copila ca să se prezinte înaintea cinstitului său obraz, cât și pentru a-și lua rămas bun de la ai săi». «— Bine, te aștept cu dânsa mâine dimineață». </p>
-<p> «îndată ce pașa s-a retras în casa ce i se pregătise, tatăl zise fratelui său: «Fă cum ai face, dar ia doi cai, săriți pe ei cu nepoată-ta și plecați iute, umblați toată noaptea și să nu vă opriți decât când veți ajunge în vilaetul Salonicului. Dumnezeu să aibă milă de mine! Oi face ce oi putea cu pașa». </p>
+<p>îndată ce pașa s-a retras în casa ce i se pregătise, tatăl zise fratelui său: «Fă cum ai face, dar ia doi cai, săriți pe ei cu nepoată-ta și plecați iute, umblați toată noaptea și să nu vă opriți decât când veți ajunge în vilaetul Salonicului. Dumnezeu să aibă milă de mine! Oi face ce oi putea cu pașa». </p>
 <p> Ziua următoare, stăpânul e înșelat în așteptarea sa. El însuși vine să caute pe tânăra fecioară. I se spune adevărul. Atunci se înfurie, răcnește, spumegă, își rupe hainele de ciudă, își bate capul cu pumnii. Apoi poruncește Albanezilor săi să ia pe răzvrătit, să-1 ducă în mijlocul pieței și să-i rupă mâinele și picioarele, să-i taie pleoapele și să-l lase să-și dea ultima suflare cu fața spre soare... Cât pentru Gramostea, ea are să fie distrusă din temelie, după ce va fi prădată și jefuită fără milă. Albanezii dau năvală în turme și răpesc tot ce le ese înainte; sabia și focul răzbună capriciul nepotolit al lui Ali din Tebelen. </p>
-<p> «Și, după ce opera Albanezilor a fost desăvârșită, nu mai râmase de cât un morman de ruine fumegătoare acolo unde se înălța mândrul orășel al lui Paciurea, acea Gramoste pe care Ali-pașa, în dorința de a fi ascultat orbește, a măturat-o cu dreapta sa, precum un copil șterge cu piciorul liniile ce a tras pe nisip.» </p>
+<p>Și, după ce opera Albanezilor a fost desăvârșită, nu mai râmase de cât un morman de ruine fumegătoare acolo unde se înălța mândrul orășel al lui Paciurea, acea Gramoste pe care Ali-pașa, în dorința de a fi ascultat orbește, a măturat-o cu dreapta sa, precum un copil șterge cu piciorul liniile ce a tras pe nisip.» </p>
 <p> Astfel vorbi Perla neagră, c-un glas adânc, în tăcerea nopții din 19 spre 20 Iulie. </p>
 <p> — Din pricina asta, zise Toli, Gramostenii, goniți din căminele lor pustiite, se află acum răspândiți în toată Macedonia, la Hruj ișta, la Crușova, la Nijopole, Magarova, Calivele din Iauița și in alte locuri, ușor de recunoscut după portul lor de odinioară, pe care nu l-au lepădat... Hărțile trebuiau refăcute după Ali-pașa. Moscopole a avut aceeași soartă ca și Gramostea, ca și Nicolița, ca și Linotopi, cu deosebire că Moscopole nu era un orășel, ci un oraș curat românesc, numărând între cincizeci sau șaiezeci de mii de suflete, cel mai înfloritor din toată Albania, fiind în relații comerciale continue cu Veneția, patria baronului Șina și a lui Dumba, cel dintâi centru al românismului, patria lui Boiagi, care a fost excomunicat de patriarch, la începutul secolului trecut, pentru că tipărise la Viena cea dintâi gramatică a dialectului armânesc... Le știu toate astea de la nașu-meu Apostol Mărgărit. Ali-pașa lăsă Moscopolea în voia Albanezilor jefuitori. Dacă ruina ei a fost mai puțin repede decât a Gramostei, mărețul oraș rămase însă un biet sat de trei sute de case... A! babo, stăpânul tău de altă dată a fost grozav. Pentru noi, timpurile rele au început de la dânsul; înainte niciun alt popor nu gustase ca al nostru farmecul vieții... </p>
 <p> Pe când Toli Samota isprăvea vorba, niște pași pripiți răsunară pe scară; ușa se învârti în balamalele sale ruginite și Garelia apăru. Salamura, care se prefăcea că doarme, sări în picioare. </p>
@@ -2227,8 +2240,8 @@
 <p> Mă simt ridicat pe spinarea lui Despali, care o ia la sănătoasa cu mine... Deodată însă mă lasă jos, îmi strivește degetele cu o strângere de mână prietenoasă și amândoi haiducii fug cât îi țin picioarele părăsindu-mă acolo, căci cât p-aci erau să fie ajunși. </p>
 <p> Nu auzisem nimic; însă zguduitura fugii cu mine în cârcă, strângerea de mână și mai ales părăsirea — vădită prin faptul că nu mă mai țineau de coate și că capătul frânghiei atârna în urma mea — toate astea îmi deteră de gândit... </p>
 <p> Cu atât mai bine, îmi zisei! brațele nu-mi sunt așa strâns legate în cât, încovoindu-mă puțin, să nu pot să-mi duc mâna până la legătura de la ochi. O smulg... nimeni alături de mine. Îmi scot călușul, mă scap de cocoloașele de ceară care-mi astupă urechile... văd mai mulți oameni înarmați cari vin drept spre mine, aud chiotele lor... Nu înțeleg, mă sperii; mă pitulesc într-un șanț, mă dau pe brânci și mă prefac mort. Niște mâini zdravene mă ridică în picioare. «Ce faci acolo?». îmi strigă. Răspund: «Nu știu. Sunt Toli Samota, răpit de haiduci la Șopote...» </p>
-<p> «Cum, tu ești prizonierul despre care s-a vorbit atâta!» răspunde un bun Turc. Și toți vorbesc deodată; nimeni nu se mai gândește la cei trei haiduci care fug. Grădinarul, care a tras cu pușca, aduce în triumf un pepene verde și-mi spune cum s’- petrecut lucrurile. «Gustă cel puțin din pepenele mântuirii tale!» Ce ironie a soarții: eu am mâncat pepenele care i-a costat o mie de lire pe haiducii mei! Numai e de trebuință să-ți spun, scumpe și venerate naș, cât mi s-a părut de bun! </p>
-<p> «Allah să fie slăvit!» zise   muhtariil   satului. Te voi găzdui până mâine dimineață, apoi te vom duce la autoritățile din Vlaho-Clisura (căci aci fusesem ținut in pivniță) cărora ai să le spui cum s-au petrecut lucrurile. </p>
+<p>Cum, tu ești prizonierul despre care s-a vorbit atâta!» răspunde un bun Turc. Și toți vorbesc deodată; nimeni nu se mai gândește la cei trei haiduci care fug. Grădinarul, care a tras cu pușca, aduce în triumf un pepene verde și-mi spune cum s’- petrecut lucrurile. «Gustă cel puțin din pepenele mântuirii tale!» Ce ironie a soarții: eu am mâncat pepenele care i-a costat o mie de lire pe haiducii mei! Numai e de trebuință să-ți spun, scumpe și venerate naș, cât mi s-a părut de bun! </p>
+<p>Allah să fie slăvit!» zise   muhtariil   satului. Te voi găzdui până mâine dimineață, apoi te vom duce la autoritățile din Vlaho-Clisura (căci aci fusesem ținut in pivniță) cărora ai să le spui cum s-au petrecut lucrurile. </p>
 <p> Și în timpul acesta, biata mamă aștepta în pădure cu cele o sută de lire în buzunar. Ce urâtă noapte a petrecut, crezându-mă mort, de vreme ce nu mai veniam. Firește, nu avea de ce să se teamă pentru banii ce-i avea cu dânsa și călugărul o însoți iar până la pragul casei noastre pe femeia care-și plângea fiul. </p>
 <p> A doua zi gazda mea mă duse până la Vlaho-Clisura. Aș fi putut sâ denunț pe Teșa, pivnița cu tutun, modul cum era construită, firida ce-mi servea de pat de culcare, semnele ce le făcusem pe perete, data celor două petreceri cu danț. Îmi luasem seama însă în timpul nopțIi. Teșa mă căutase cât se poate de bine; conștiința mă oprea să o dau pe față. </p>
 <p> Am spus magistratului când m-a chemat să-mi ia interogatorul: «Nu știu nimic; am fost cu ochii legați și cu urechile astupate cât m-au ținut lângă ei. Vă rog deci șă mă lăsați să plec, căci mi-e de grabă să-mi văd nevasta și părinții». </p>
@@ -2259,13 +2272,13 @@
 <p> apoi, întinzând mâna peste icoană, am făcut marele jurământ de atunci: </p>
 <p> Împărate al lumii, jur a nu mă pleca </p>
 <p> Niciodată sub voința tiranilor! </p>
-<p> «Și curând urmară zilele eteriei, zilele lui Alexandru Ipsilanti. Mă angajai în bandele sale; eram cu el în Martie 1821... Ce de vreme a trecut de atunci, și cu toate astea mi se pare că ar fi ieri!» </p>
-<p> «Da, eram dintre aceia care păzeau la ușă în timpul primei sale întrevederi cu Tudor Vladimirescu, venit la București cu pandurii săi... Știi cine a fost Tudor și eu nu mă înșelasem recunoscând într-însul pe dușmanul grecilor, prin urmare pe amicul Turcilor — însă un amic, am cugetat mai târziu, care nu se temea să le ceară, cu armele în mână, dreptul pentru țara sa de a se cârmui ea însăși, în loc de a suferi exploatarea rușinoasă a Fanarului. Și îl uram de moarte pentru aceasta; îl consideram ca operând o diversiune care ar stânjeni, ar nimici poate mișcarea emancipării elene. Ofițerii milițieni din Tara Românească, cu armânul lordache Olimpiotul în frunte, erau cu toții de partea lui Ipsilante. Acesta porunci o faptă mârșavă. Olimpiotul se descarcă de sarcina dată lui trecând-o grecului Sava: era vorba să pună mâna pe Tudor prin trădare. A fost ușor. Pandurii lui, sătui de asprimea unei căpetenii care pedepsea jaful, îl părăsiră; nimeni nu-l apăra...Îl văd încă, pe acest viteaz, strâns în mondirul lui lung în poale, pe cap cu o căciulă înaltă care semăna cu potcapiul tău, mândru și frumos sub lanțurile sale, când fu adus înaintea lui Ipsilante, care, după o formă de judecată, îl dete pe mâna ucigașilor... </p>
+<p>Și curând urmară zilele eteriei, zilele lui Alexandru Ipsilanti. Mă angajai în bandele sale; eram cu el în Martie 1821... Ce de vreme a trecut de atunci, și cu toate astea mi se pare că ar fi ieri!» </p>
+<p>Da, eram dintre aceia care păzeau la ușă în timpul primei sale întrevederi cu Tudor Vladimirescu, venit la București cu pandurii săi... Știi cine a fost Tudor și eu nu mă înșelasem recunoscând într-însul pe dușmanul grecilor, prin urmare pe amicul Turcilor — însă un amic, am cugetat mai târziu, care nu se temea să le ceară, cu armele în mână, dreptul pentru țara sa de a se cârmui ea însăși, în loc de a suferi exploatarea rușinoasă a Fanarului. Și îl uram de moarte pentru aceasta; îl consideram ca operând o diversiune care ar stânjeni, ar nimici poate mișcarea emancipării elene. Ofițerii milițieni din Tara Românească, cu armânul lordache Olimpiotul în frunte, erau cu toții de partea lui Ipsilante. Acesta porunci o faptă mârșavă. Olimpiotul se descarcă de sarcina dată lui trecând-o grecului Sava: era vorba să pună mâna pe Tudor prin trădare. A fost ușor. Pandurii lui, sătui de asprimea unei căpetenii care pedepsea jaful, îl părăsiră; nimeni nu-l apăra...Îl văd încă, pe acest viteaz, strâns în mondirul lui lung în poale, pe cap cu o căciulă înaltă care semăna cu potcapiul tău, mândru și frumos sub lanțurile sale, când fu adus înaintea lui Ipsilante, care, după o formă de judecată, îl dete pe mâna ucigașilor... </p>
 <p> Flacăra din vatră punea reflecte de sânge pe barba și pe părul alb al centenarului, și părintele Isaia, care o știa cu toate acestea, părintele Isaia tresări când vocea de dincolo de mormânt adaugă: </p>
 <p> — Călugăre, eram dintre acești ucigași și încă cel mai înverșunat... De trei ori îmi împlântai pumnalul în nobilul lui piept... și un sânge căldicel se revărsă pe mâna care lovea — așa că se făcuse roșie mâna neagră care e colo, în săculeț... Și în seara aceea am dormit mulțumit... </p>
 <p> După o lungă pauză, vocea vizionară o porni iar de-a lungul veacului de amintiri. </p>
 <p> — După aceea, mă dusei să mă bat în Etolia alăturea de Bociari; am fost printre apărătorii orașului Misolonghi... Într-o zi am dat titva mea cu apă de băut unui Englez de neam mare și poet care se chema Byron... Am luat parte la războiul de șapte ani, din care a ieșit independența Greciei, proclamată la 1829... </p>
-<p> «Și când se isprăvi, mi se dădu drumul; mă întorsei în munții mei lipsit de totul, numai de răni nu, pentru a mă  face, rând pe rând, haiduc, păstor și cărăuș... Nu mă mai gândeam aproape deloc la Tudor Vladimirescu. Mă întrebam numai, ce ne folosise nouă, Românilor din Pind, această liberare a Greciei, care se arăta nerecunoscătoare către apărătorii ei ? A urmat chestia cu autohtonii, politicieni îmbuibați, și cu   eterohtonii, care fuseseră buni de luptă, dar cărora li se tăgăduiau acum drepturile de cetățean...» </p>
+<p>Și când se isprăvi, mi se dădu drumul; mă întorsei în munții mei lipsit de totul, numai de răni nu, pentru a mă  face, rând pe rând, haiduc, păstor și cărăuș... Nu mă mai gândeam aproape deloc la Tudor Vladimirescu. Mă întrebam numai, ce ne folosise nouă, Românilor din Pind, această liberare a Greciei, care se arăta nerecunoscătoare către apărătorii ei ? A urmat chestia cu autohtonii, politicieni îmbuibați, și cu   eterohtonii, care fuseseră buni de luptă, dar cărora li se tăgăduiau acum drepturile de cetățean...» </p>
 <p> Un acces de tuse sfâșie pieptul bătrânului. Bău puțin lapte din ceașcă și urmă iarăși : </p>
 <p>   — Acum, părinte, ascultă cu luare-aminte! La 1863 îmi veni gustul să mă duc să văd mănăstirile de la Sf. Munte. Aci făcui cunoștință cu un stariț, părintele Averchie, care trebuia să se ducă în România, ca să se plângă în contra secularizării mănăstirilor. Îi spusei că cunoșteam țara, deoarece petrecusem în ea un an sau doi în tinerețea mea; îmi propuse să mă ia drept cavas; primii. Starețul era foarte supărat pe Cuza, care voia să pună mâna pe toate averile bisericești. Și eu mi-l închipuiam ca pe un alt Tudor Vladimirescu, însă mai norocos în întreprinderea lui. Dar aceasta mă lăsa nepăsător; nu-i doriam nici bine, nici rău. Principatele Unite, România întreagă, era pentru mine o țară ca oricare altă țară străină, mă simțeam tot atât de înrudit cu locuitorii ei, ca și cu Sârbii ori cu Ungurii; veneam în țara lor, pentru că-mi plăceau schimbările și pentru că părintele Averchie se purta frumos cu mine... </p> 
 <p> Centenarul visa. Pauza fu atât de lungă, încât călugărul Isaia crezu că trebuie să spună și el un cuvânt. </p>
@@ -2323,20 +2336,25 @@
 <p> Și cu toate astea tânărul nu putea să urască pe niște oameni ca Garelia, ca Despali și ca Cianaca și încă mai puțin să-i disprețuiască. Oricum, erau din neamul său și din neamul vitejilor luptători dinaintea cuceririi musulmane, nepoți ai «Blachilor», războinici care făcuseră să tremure Bizanțul și băgaseră în draci pe tovarășii lui Willehardouin, pe vremea cruciadelor. Toli nu scârbea decniște oameni ca Garelia, ca Despali și ca Cianaca și încă mai puțin să-i disprețuiască. Ori-cum, erau din neamul său și din neamul vitejilor luptători din naintea cucerirei musulmane, nepoți ai «Blachilor», războinici care făcuseră să tremure Bizanțul și băgaseră în draci pe tovarășii lui Willehardouin, pe vremea cruciadelor. Toii nu scârbia de cât pe acel   Greculus,   pe acel Salamura, vițios și guraliv, a cărui abatere dăduse cu toate astea prilej liberării gratuită a ostaticului din Vlaho-Clisura. </p>
 <p> * Să se vadă doina din partea 11-a, cap. 7 «Iarba Uitării».</p>
 <p> Da, Toli Samota simțea încă căldura strângerii de mână a bunului haiduc care-și lua rămas bun de la prizonierul său, așa de voios. Și apoi vorba lui Garelia se adeverise: bucuria întoarcerii la cămin răsplătise însutit suferințele captivității. Și pe când ochii săi plângeau pe Apostol Mărgărit, buzele-i surâdeau imaginii plăcute a preaiubitei sale Vasilichia. </p>
-<p> ........................................................................................................</p>
-<p> Când totul se sfârși la cimitir, soarele apunea; era ceasul ultimei rugăciuni a Islamului, a acelei chemări a muezinului, pe care comunele românești din Pind n-au auzit-o niciodată. </p>
+<milestone unit="dots"/>
+	    <p> Când totul se sfârși la cimitir, soarele apunea; era ceasul ultimei rugăciuni a Islamului, a acelei chemări a muezinului, pe care comunele românești din Pind n-au auzit-o niciodată. </p>
 <p> A fost atunci un fior cu totul nou pentru sufletul creștin al acestui tânăr și tot deodată amintirea brutală a supunerii raialei, mai simțitoare într-un oraș cu moschee în care glasul clopotelor nu se înalță niciodată. </p>
 <p> Apostol Mărgărit veni iarăși în ajutorul lui Toli Samota, pentru a risipi mâhnirea fiului acelor glorioși învinși de acum patru sute de ani, care depuseră înaintea căpeteniei Islamului nu o sabie de mânuit, ci o sabie sfărâmată. Era scris. </p>
 <p> Și învățământul auzit altă dată, învățământul neuitat, se făcu mai vioi, mai elocvent, mai doveditor, solemnizat de moarte*: </p>
-<p> «Cată să scăpăm limba și naționalitatea străbunilor noștri de uneltirile Grecului. Nu trebuiesc deci primite cu niciun chip sforțările și speranțele de eliberare ce ne-ar putea oferi acesta.» </p>
-<p> «Pe de altă parte, nu ne putem bizui numai pe forțele noastre, deoarece, răzlețiți în număr mic pe o întindere mare, răspândiți în comunități de negustori între lumea greacă și slava, nu formăm și nu vom forma niciodată un corp de națiune compact. Și nu ne putem de asemenea întemeia pe ajutorul fraților noștri din România, care, fiind prea departe de noi, nu vor putea niciodată să ne întindă mâna pe de asupra Serbiei sau Bulgariei. Nu ne rămâne deci, pentru a salva naționalitatea noastră, decât să lucram pentru menținerea stăpânului actual, care, cel puțin, depărtează de noi pe Sârbi, pe Bulgari și pe Greci.» </p>
+<p>Cată să scăpăm limba și naționalitatea străbunilor noștri de uneltirile Grecului. Nu trebuiesc deci primite cu niciun chip sforțările și speranțele de eliberare ce ne-ar putea oferi acesta.» </p>
+<p>Pe de altă parte, nu ne putem bizui numai pe forțele noastre, deoarece, răzlețiți în număr mic pe o întindere mare, răspândiți în comunități de negustori între lumea greacă și slava, nu formăm și nu vom forma niciodată un corp de națiune compact. Și nu ne putem de asemenea întemeia pe ajutorul fraților noștri din România, care, fiind prea departe de noi, nu vor putea niciodată să ne întindă mâna pe de asupra Serbiei sau Bulgariei. Nu ne rămâne deci, pentru a salva naționalitatea noastră, decât să lucram pentru menținerea stăpânului actual, care, cel puțin, depărtează de noi pe Sârbi, pe Bulgari și pe Greci.» </p>
 <p> Și Toli Samota jură să rămână credincios testamentului politic al lui Apostol Mărgărit. </p>
 	    <trailer>FINE</trailer>
-</div></div>
+</div>
+</div>
         </body>
         <back>
+            <div type="liminal">
             <p> *Citația care urmează este luată dintr-o scriere a lui Mărgărit, intitulată: Leu Grecs, les Valaques, les Albunais et l’Empire Ottoman. —   Bruxelles, 1886. </p>
-            <p> TABLA DE MATERII </p>
+            </div>
+            
+            <div type="liminal">
+            <head> TABLA DE MATERII </head>
             <p> PREFAȚĂ </p>
             <p> Familia românească.................................7 </p>
             <p> PARTEA 1. </p>
@@ -2398,6 +2416,7 @@
             <p> XV. Sufletul liberat, mâna tăiată................296  </p> 
             <p> Epilog </p>  
             <p> Testamentul lui Mărgărit.........................305   </p>
+            </div>
         </back>
     </text>
 </TEI>

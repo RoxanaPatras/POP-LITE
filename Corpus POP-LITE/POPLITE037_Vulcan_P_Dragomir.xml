@@ -18,6 +18,10 @@
                <resp>corectură manuală</resp>
                <name>Maria Luisa Budacea</name>
             </respStmt>
+            <respStmt>
+               <resp>verificare corectură manuală</resp>
+               <name>Oana Ionescu</name>
+            </respStmt>
             <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
          </titleStmt>
          <publicationStmt>
@@ -35,12 +39,12 @@
                <pubPlace>Craiova</pubPlace>
                <publisher>TIPOGRAFIA DAVID J. BENVENISTI</publisher>
                <date>1895</date>
-               <decoNote type="ilustratii" subtype="no"/>
-               <dim unit="char" type="mare"/>
+               <decoNote type="illustrations" subtype="no"/>
+               <dim unit="char" type="big"/>
                <extent>
                   <measure unit="word">29758</measure>
                   <measure unit="page" type="under_250"/>
-                  <measure unit="foileton" type="under_65"/>
+                  <measure unit="feuilleton" type="under_65"/>
                   <measure type="complete"></measure>
                </extent>
             </bibl>
@@ -60,8 +64,8 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="under 5"/>
-               <term type="republicare" n="under 10"/>
+               <term type="reception" n="under 5"/>
+               <term type="print_count" n="under 10"/>
                <term type="finished"></term>
                
             </keywords>
@@ -69,8 +73,8 @@
       </profileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
             <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
             <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
          </projectDesc>
@@ -78,12 +82,17 @@
    </teiHeader>
    <text>
       <front>
+         <div type="titlepage">
          <p>DRAGOMIR</p>
          <p>București</p>
          <p>CRAIOVA</p>
          <p>TIPOGRAFIA DAVID J. BENVENISTI, STR. JUSTIȚIEI, 20 ison.</p>
+         </div>
+         
+         <div type="liminal">
          <p>în semn de stimă și iubire.</p>
          <p>DRAGOMIR</p>
+         </div>
       </front>
  <body>
 <div type="chapter" n="1">
@@ -222,7 +231,7 @@
 <p>Si nu ieși afară decât odată cu păstorii bisericești.</p>
 <p>Prezența lui Dragomir în biserică atrase numai puțin atenția lor.</p>
 <p>Când fu să iasă din Biserică, se întoarse pentru cea din urmă oară de a se închina întocmai: ca un ava Domnului; atunci un popă, care ieșea și el din biserică îl întrebă:</p>
-<p> — la ascultă băiețaș, de unde ești d-ta?</p>
+<p> — Ia ascultă băiețaș, de unde ești d-ta?</p>
 <p> — Sunt străin părinte.</p>
 <p> — Din care parte a lumii? urmă Popa.</p>
 <p> — Tocmai de peste Olt...</p>
@@ -621,7 +630,7 @@
 <p>Popa Neculai, nu fără intenție îi arătase niște adevăruri crude, dar tocmai din cauza aceasta Dragomir simțea trebuința de a vedea pe Nina să o întrebe în mod intim, să se apropie tot mai mult de dânsa, să o roage chiar, numai să-i arate situația familiei sale. Să-și deschidă cu un cuvînt cartea inimii înaintea lui și dacă va fi într-adevăr precum spusese Popa Neculai, atunci el însuși să ia asupra-și orice greutate...Și dacă interesele familiei Hillebrand reclamau trebuința de a se muta din capitală se gândea să se asigure de pe acum de un serviciu în provincie și în termen de un an să-și prepare cursurile sale universitare în particular. Astfel se gândea când se îndreptase spre locuința Ninei.</p>
 </div>
 <div type="chapter" n="9">
-<p>IX</p>
+<head>IX</head>
 <p> — Liniștește-te Nino maică, lasă, Dumnezeu e mare, să sperăm! Nu mai plânge, zău te rog. De nu-ncetezi, mă duc, mă duc, să nu mă mai văd încotro oi însenina.</p>
 <p> — Nu pot, nu pot mamă, mi-e greu; de azi înainte nu mai avem pe nimeni...</p>
 <p>Domnul Motz e hotărât; îl văzuși ce furios a devenit, când am renunțat și-și văzu toate proectele sale nimicite; în cele din urmă, ieșind din salon îl auziși ce a zis: să ne căutăm casă în scurtă vreme. Oh, cât e de greu mamă, să se vadă cineva într-un mod așa de brusc scăpătat! - și Nina acoperindu-și fața cu amândouă mâinile, începu să plângă în hohote.</p>

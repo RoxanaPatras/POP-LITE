@@ -16,11 +16,11 @@
                     <name>Lucreția Pascariu</name></respStmt>   
                 <respStmt>
                     <resp>corectură manuală</resp>
-                    <name>Lorena Vlad</name>
+                    <name>Lorena Vlad, Adriana-Teodora Biholar</name>
                 </respStmt>
                 <respStmt>
                     <resp>verificare corectură manuală</resp>
-                    <name>Adriana-Teodora Biholar</name>
+                    <name>Oana Ionescu</name>
                 </respStmt>
                 <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
             </titleStmt>
@@ -39,12 +39,12 @@
                     <pubPlace>București</pubPlace>
                     <publisher>FOILETONUL REVISTEI „AMICUL COPIILOR”</publisher>
                     <date>1893</date>
-                    <decoNote type="ilustratii" subtype="no"/>
-                    <dim unit="char" type="mic"/>
+                    <decoNote type="illustrations" subtype="no"/>
+                    <dim unit="char" type="small"/>
                     <extent>
                         <measure unit="word">10988</measure>
                         <measure unit="page" type="under_250"/>
-                        <measure unit="foileton" type="under_65"/>
+                        <measure unit="feuilleton" type="under_65"/>
                         <measure type="complete"></measure>
                     </extent>
                 </bibl>
@@ -64,16 +64,16 @@
                     <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
                 </keywords>
                 <keywords>
-                    <term type="receptare" n="under 5"/>
-                    <term type="republicare" n="under 10"/>
+                    <term type="reception" n="under 5"/>
+                    <term type="print_count" n="under 10"/>
                     <term type="finished"></term>                
                 </keywords>
             </textClass>
         </profileDesc>
         <encodingDesc>
             <projectDesc>
-                <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-                <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+                <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+                <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
                 <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
                 <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
             </projectDesc>
@@ -151,7 +151,7 @@
     
     <div type="part" n="2"> 
     <head>DIAMANTUL PIERDUT (SCENE DIN VIAȚA COLONIȘTILOR DE SUD)</head>
-    <milestone unit="URMARE"></milestone>
+    <milestone unit="URMARE"/>
     <div type="section">
 <p>Primul lor simțământ a fost simțământul libertății. Ei se priveau cu ochii strălucitori de bucurie, fără a respira câteva momente. Dar această stare sufletească trecu în curând. Micuța mână a Suzanei apucă haina băiatului, parcă cerându-i protecție. El înțelese acesta și stărui s-o liniștească cu două, trei vorbe.</p>
 <p>— De sigur că caravana nu e departe încă, astfel că îndată ce ei vor vedea că noi lipsim, se vor lua după noi. Copiii iuțiră pasul. Serele care le slujea zilnic de călăuză, și urmele prospere lăsate de roțile carelor, nu puteau să-i înșele. Aerul răcoritor al amurgului, care schimba căldura și zăduful zilei, parcă îl făcu să respire mai adânc și să se simtă mai curajoși.</p>
@@ -207,7 +207,7 @@
     
     <div type="part" n="3"> 
         <head>DIAMANTUL PIERDUT (SCENE DIN VIAȚA COLONIȘTILOR DE SUD)</head>
-        <milestone unit="URMARE"></milestone>
+        <milestone unit="URMARE"/>
         <div type="section">
 <p>- Mama!</p>
 <p>Glasul copilei răsuna în tăcerea nopții. Poate i s-a năzărit ceva, poate că visa ceva urât?</p>
@@ -279,7 +279,7 @@
     
     <div type="part" n="4"> 
         <head>DIAMANTUL PIERDUT (SCENE DIN VIAȚA COLONIȘTILOR DE SUD)</head>
-        <milestone unit="URMARE"></milestone>
+        <milestone unit="URMARE"/>
         <div type="section">
 <p>Voiajul spre tabăra noilor cunoscuți călare pe niște cai mici, însă iuți ca vântul, era pentru Clerans și Siuzu o sărbătoare întreagă. Câmpia luminată de razele lunii scăpărea argintită. Mii de steluțe zburătoare treceau pe dinaintea lor.</p>
 <p>— Ce sunt aceste focuri care zbor Clerans? întrebă de odată fetița, arătând licuricii.</p>
@@ -356,7 +356,7 @@
     
     <div type="part" n="5"> 
         <head>DIAMANTUL PIERDUT (SCENE DIN VIAȚA COLONIȘTILOR DE SUD)</head>
-       <milestone unit="URMARE"></milestone>
+       <milestone unit="URMARE"/>
         <div type="section">
 <p>Masa urmă înainte, toți erau veseli, afară de Clerans care mereu să gândea că tovarășa sa de căletorie nu se poartă cuviincios, cum ar trebui să se poarte o fetiță bine crescută</p>
 <p>— Ce faci Siuzi? șopti el la urechea fetiței, aceasta e furculiță și nu o lingură, sa nu o bagi în ceașca cu lapte!</p>
@@ -450,7 +450,7 @@
     
     <div type="part" n="6"> 
         <head>DIAMANTUL PIERDUT (SCENE DIN VIAȚA COLONIȘTILOR DE SUD)</head>
-        <milestone unit="Sfârșit"></milestone>
+        <milestone unit="Sfârșit"/>
         <div type="section">
 <p>— Copiilor la culcare! dacă, mâine nu vor veni să vă ia, trebuie noi să-i căutăm, să vedem care e cauza întărzierii tovarășilor voștri!</p>
 <p>Clerans își luă seara bună de la dl și d-na Buns și plecă să se culce sub un șopron.</p>

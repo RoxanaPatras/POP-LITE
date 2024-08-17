@@ -11,9 +11,16 @@
                 <respStmt>               
                     <resp>codare POPLITE</resp>
                     <name>Teodora Iuriusciuc</name></respStmt>   
+                <respStmt>               
+                    <resp>verificare codare POPLITE</resp>
+                    <name>Roxana Patraș</name></respStmt>   
                 <respStmt>
                     <resp>corectură manuală</resp>
                     <name>Miruna-Maria Apopuțoaie</name>
+                </respStmt>
+                <respStmt>
+                    <resp>verificare corectură manuală</resp>
+                    <name>Roxana Patraș</name>
                 </respStmt>
                 <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
             </titleStmt>
@@ -32,12 +39,12 @@
                     <pubPlace>București</pubPlace>
                     <publisher>EDITURA LIBRĂRIEI SOCEC  Co.</publisher>
                     <date>1920</date>
-                    <decoNote type="ilustratii" subtype="no"/>
-                    <dim unit="char" type="mic"/>
+                    <decoNote type="illustrations" subtype="no"/>
+                    <dim unit="char" type="small"/>
                     <extent>
                         <measure unit="word">36469</measure>
                         <measure unit="page" type="under_250"/>
-                        <measure unit="foileton" type="under_65"/>
+                        <measure unit="feuilleton" type="under_65"/>
                         <measure type="complete"></measure>
                     </extent>
                 </bibl>
@@ -57,16 +64,16 @@
                     <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
                 </keywords>
                 <keywords>
-                    <term type="receptare" n="under 5"/>
-                    <term type="republicare" n="under 10"/>
+                    <term type="reception" n="under 5"/>
+                    <term type="print_count" n="under 10"/>
                     <term type="finished"></term>                
                 </keywords>
             </textClass>
         </profileDesc>
         <encodingDesc>
             <projectDesc>
-                <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-                <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+                <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+                <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
                 <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
                 <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
             </projectDesc>
@@ -140,9 +147,9 @@
 <p>Domnul Brateș conducea tacticos barca, indiferent în aparență, pe când o întristare tot mai mare îi cuprindea sufletul. Nu putea să îndure intimitatea pictorului cu Ani.</p>
 <p>Urmă o scurtă tăcere. Sunetul unui clopot părea că jelește ziua murindă.</p>
 <p>Ani nu voia însă ca oaspeții să rămână rău impresionați.</p>
-<p>— Declamă câteva versuri din „Le Lac,, se întoarse ea către Aglae. Își amintea ce frumos le recitase aceasta, la un examen.</p>
+<p>— Declamă câteva versuri din „Le Lac” se întoarse ea către Aglae. Își amintea ce frumos le recitase aceasta, la un examen.</p>
 <p>Aerul îmbălsămat, scânteierea stelelor, șoaptele frunzelor, chiar zborul rar al unui liliac care o făcea să-și ducă de teamă mereu mâna la cap, provocase la domnișoara Pruteanu o dispoziție stranie, molatecă, neresimțită încă.. „O temps!-suspends ton vol, et vous heu-res propices“.</p>
-<p>„Suspendez votre cours,,...</p>
+<p>„Suspendez votre cours”...</p>
 <p>Aglae alesese tocmai aceste versuri și le declamă c-un sentiment pornit din inimă.</p>
 <p>— Mai lasă-ne cu poetul care a zăpăcit lumea, zise pictorul c-un aer de dispreț. Nu putea să sufere sentimentalitatea Aglaei, și mustrările îndreptățite ce le ghicea în privirea-i atât de blândă..</p>
 <p>Lăsați să compun eu ceva ocazional.</p>
@@ -153,6 +160,7 @@
 <p>O vede mai ideală ca oricând și o stranie înduioșare îi cuprinde inima.</p>
 <p>Domnul Noreanu după câteva minute de gândire, începe a improviza cu ton șovăelnic. Nu poate declamă după cum simte. Gândul la text si ritm îi ocupă toată atenția.</p>
 <p>La un ton glumeț, în realitate însă e foarte mișcat. Începe a declamă rar privind spre arendaș care conducea barca parcă în direcția lunei :</p>
+    
 <l>Când prin unda înfiorată barca drumul iși croește</l>
 <l>În a nopții feerie... parcă tainic îmi șoptește</l>
 <l>Vocea miilor de inimi ce pe aici au rătăcit.</l>
@@ -166,6 +174,7 @@
 <l>Ne arată armonia ce in sânul ei domnește:</l>
 <l>Pe când noi stăpânii lumii, ori și cât ea va dură,</l>
 <l>Nu vom fi liberi odată dorințele a ne urmă...</l>
+    
 <p>Nu-ți cunoșteam acest talent.</p>
 <p>Aglae se grăbi a asigură pe pictor, care așteptase în deșert un cuvânt de aprobare din partea Anii. Arendașul părea că nu auzise nimic și făcea pentru a treia oară ocolul lacului. Își propunea să fie energic și să numai dea pe la curte pe cât timp va dura vizita pictorului.</p>
 <p>— Nu ți-au plăcut versurile mele?</p>

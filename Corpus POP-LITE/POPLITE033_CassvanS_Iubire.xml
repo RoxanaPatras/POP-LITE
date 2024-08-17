@@ -39,12 +39,12 @@
                     <pubPlace>București</pubPlace>
                     <publisher>EDITURA LIBRĂRIEI H. STEINBERG</publisher>
                     <date>1918</date>
-                    <decoNote type="ilustratii" subtype="no"/>
-                    <dim unit="char" type="mic"/>
+                    <decoNote type="illustrations" subtype="no"/>
+                    <dim unit="char" type="small"/>
                     <extent>
                         <measure unit="word">36752</measure>
                         <measure unit="page" type="under_250"/>
-                        <measure unit="foileton" type="under_65"/>
+                        <measure unit="feuilleton" type="under_65"/>
                         <measure type="complete"></measure>
                     </extent>
                 </bibl>
@@ -72,8 +72,8 @@
         </profileDesc>
         <encodingDesc>
             <projectDesc>
-                <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-                <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+                <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+                <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
                 <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
                 <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
             </projectDesc>
@@ -1435,7 +1435,7 @@
             <milestone unit="dots"/>
             <p>Zgomotul încetă, artiștii se risipiră, se întunecă și când portarul veni să închidă porțile salonului, Codin mai sta încă în fața tabloului cu fața în palme, sărutând în gând imaginea dorită...</p>
             <p>Cât despre Cristina, plecă spre alte locuri ducând cu sine triumful ce-l plătise cu tot sufletul ei.</p>
-            <p>— FINE —</p>
+            <trailer>— FINE —</trailer>
          </div>
       </body>
       <back>

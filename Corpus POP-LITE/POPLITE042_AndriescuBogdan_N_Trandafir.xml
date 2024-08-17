@@ -35,12 +35,12 @@
                     <pubPlace>Iași</pubPlace>
                     <publisher>FOILETONUL REVISTEI „CABINETUL DE LECTURĂ”</publisher>
                     <date>1878</date>
-                    <decoNote type="ilustratii" subtype="no"/>
-                    <dim unit="char" type="mic"/>
+                    <decoNote type="illustrations" subtype="no"/>
+                    <dim unit="char" type="small"/>
                     <extent>
                         <measure unit="word">25575</measure>
                         <measure unit="page" type="under_250"/>
-                        <measure unit="foileton" type="under_65"/>
+                        <measure unit="feuilleton" type="under_65"/>
                         <measure type="incomplete"></measure>
                     </extent>
                 </bibl>
@@ -60,16 +60,16 @@
                     <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
                 </keywords>
                 <keywords>
-                    <term type="receptare" n="under 5"/>
-                    <term type="republicare" n="under 10"/>
+                    <term type="reception" n="under 5"/>
+                    <term type="print_count" n="under 10"/>
                     <term type="finished"></term>                
                 </keywords>
             </textClass>
         </profileDesc>
         <encodingDesc>
             <projectDesc>
-                <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-                <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+                <p>Cuvantul cheie de tip "receptions" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+                <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
                 <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
                 <p>Masura de tip "incomplete" indica faptul ca am gasit romanul in forma incompleta.</p>
             </projectDesc>
@@ -133,8 +133,8 @@
           <div type="part" n="2">
 <head>TRANDAFIR</head>
 <head>(Roman Original)</head>
-<trailer>(Urmare) 2</trailer>
-<div type="section" n="2">
+              <milestone unit="(Urmare2)"/>
+              <div type="section" n="2">
 <head>II. Lunca Bârnovei.—Teiul lui Dragos.— Juramântul</head>
 <p>După dealurile ce înconjură Iașul spre miază-zi era un sat vechi numit Lunca Bârnovei, una din cele mai frumoase localități rustice din câte se găsea pe atunci.</p>
 <p>Izvorele ce-l adăpa, arborii ce-l umbrea, păsările ce-l desfăta, în fine acrul său dulce și curat ce-l poseda, făcea ca acest sătișor să fie un adevărat locaș de fericire. Număra in totul vreo treizeci de case; gustul și modul cu care ele erau așezate era sublim; O casă însă, ca cele printre celelalte, se zărea din depărtare, strălucea de frumuseța aranjamentului ce nu se găsea nici la una din casele vecine; un zid mare o înconjură, înăuntru o grădină splendidă după cum știa a le cultiva strămoșii noștri; câteva trepte ale unei scări conducea intr-un balcon boltit ornat cu cuști de diferite pasări, cu flori gingașe și îmbătătore, iar la extremitate se vedea o frumoasă fântână curgătore într-un bazin de piatră, în care pluteau feluriți peștișori ce străluceau la fiecare mișcare.</p>
@@ -176,8 +176,8 @@
 <div type="part" n="3">
 <head>TRANDAFIR</head>
 <head>(Roman Original)</head>
-<trailer>(Urmare) 3</trailer>
-<div type="section" n="3">
+    <milestone unit="(Urmare3)"/>
+    <div type="section" n="3">
 <head>III. Ruga Copilei.Logofătul Bonlia.</head>
 <p>Pe când soarele măreț și luciu ca-n disc de Briliante se ridică cu încetul de după- costișa Tatarășilor și lasă splendidele-i raze să lumineze umbroasele văi ale Iașiului; pe când ciocârlia se înalță in aer, strigând prin melodiosu-i glas pe poetul ce doarme; plutind în visuri fantastice, prinzând inspirațiunea perilor sale din Zefirii dimineții și șoptitul suav o mii de floricele; pe când Iașiul era predominat, de o profundă liniște și monotonie neauzindu-se decât unde și unde câte o copiliță ce merge să-și răcorească fața; la fântână sau bătrânul plugar ce conduce plavanii săi spre ogor.— În aceste momente line, o jună copilă cu fața palidă, cu părul despletit, cu ochii plini de lacrimi corpul tremurând,;ședea ingenunchiată înaintea Madonei și cu mâinile înălțate spre cer, locașul sublimului creator, lasă, ca vocea-i se timbreze niște sunete evlavioase, care ar fi umilit pe cel mai îndrăcit zbir.</p>
 <p>Camera ei mică era mai mult întunecată, mica ei candelă ce atârna deasupra Madonei, abia mai arunca câte o palidă lumină, canarul din colivie tăcea ca o lugubră noapte lăsând câte o dată un geamăt ce părea de compătimire; tot mobilierul camerei se compunea dintr-un pat de fier, o măsuță și un scăunaș.</p>
@@ -252,7 +252,7 @@
           <div type="part" n="4">
 <head>Trandafir</head>
 <head>(Roman Original)</head>
-<trailer>(Urmare) 4 </trailer>
+              <milestone unit="(Urmare4)"/>
 <div type="section" n="4">
 <head>IV. Năluca — Răpirea</head>
 <p>Soarele săturat de strălucirea zilei porni la apus spre a-și ascunde razele după dealurile Galatei. Era cum zice Românul pe la flămânzitul soarelui.— Vânturile răcoroase începură a umple văile, frunzele și iarba începură a șopti tainicul lor murmur, peștișorii lacului săreau pe suprafața apei, păsările de apă săreau și se jucau liniștite, în fine toată natura lua o privire mai dulce, mai liniștită, decât în ziua trecută, când arșița soarelui de cuptor frigea și dogorea tot ce-i ieșea înainte. </p>
@@ -328,7 +328,7 @@
           <div type="part" n="5">
 <head>TRANDAFIR</head>
 <head>(Roman Original)</head>
-<trailer>(Urmare). 5</trailer>
+              <milestone unit="(Urmare5)"/>
 <div type="section" n="5">
 <head> V. Deșteptarea.—Bine cuvântarea.</head>
 <p>Viorica ședea jumătate culcată pe o canapea, iar la picioarele sale, pe un scaun stătea verișoara ei Ruxandra. Ele păreau palide, Întristate și o durere adâncă li se imprima pe față. — Ochii lor tremurători se ridicau numai câte puțin privind tapițeriile camerei unde se aflau și apoi cu o repeziciune gravă picau în jos, înspăimântați de un ce neînțeles.</p>
@@ -367,12 +367,11 @@
           </div>
           
 <div type="part" n="6">
-<p>TRANDAFIR</p>
-<p>(Roman Original)</p>
-<p>(Urmare). 6</p>
+<head>TRANDAFIR</head>
+<head>(Roman Original)</head>
+    <milestone unit="(Urmare6)"/>
 <div type="section" n="6">
-<p>VI.</p>
-<p>Plângerea la Domnie.—Judecata.</p>
+<head>VI. Plângerea la Domnie.—Judecata.</head>
 <p>Era orele 12 din zi când, o cupea mare și lucioasă, trasă.de patru cai ieșea din Curtea lui Boanță Logofetul, traversă strada lui Ștefan cel Mare, Intră In strada S-t. Nicolae de unde, în cea a lui Alexandru Și apoi se îndreptă spre palatul Domnesc de lăngă Trei-Ierarhi. — Ajunse la scară și când ușa cupelei se deschise, Boanță și fiul său loniță deschise dintr-trânsa, primind de la straja palatului onorurile extraordinare.— Ei se sui pe scară și intră in una din Camerele de așteptare ale Domnului.</p>
 <p>Într-o sală mare, ornată cu scumpe draperii turcești, și aurită de jos pănă sus investită cu oglinzi enorme și armături felurite a Domnilor trecuți, cu o mulțime de candelabre ce stăteaU atârnate de bagdadie și flori care de care mai mirositoare, care lăsau un parfum fin umplând tot aerul, spre partea de miază-noapte, era așezat un Jeț aurit și Îmbrăcat cu catifea scumpă, așezat pe trei trepte Învelite cu covoarele turcești din cele mai bogate.</p>
 <p>Pe acel tron, ședea stăpânitorul Moldovei, bunul Domn Vasilie Lupul, ținând în măna sa dreaptă toiagul stăpânirii, lucrat din aur și ornat cu pietre de diamant deasupra căruia strălucea capul Zimbrului, Marca patriei Moldovenești, iar de mâna stângă sta rezemat frumosul său cap umbrit de o Coronă ce strălucea, de pietrile nestimate cu care era Împodobită, ca și razele soarelui înfocat.—El purta o mantie lungă de catifea vișinie ornată cu blana cea mai bună de cacum, ciubotele-i erau galbene strălucitoare, haina de dedesubt era în formă de autereu de matasă verde peste care era încins cu un scump brâu a cărui poftale era făcute tot in formă de cap de zimbru și între ale cărui coarne strălucea o mare piatră de diamant. De același brâu atârna în formă de semi-cerc, sabia vechilor stăpânitori ai Moldovei. La dreapta lui ședea Doamna soția sa cu fiul său cel mare, iar la stânga sta Domnițele tinere, cu fiii cei mai mici; de lângă tron împrejurul salei  erau o mulțime de Jețuri pe care stăteau miniștrii, sfetnicii și Marii Bocri ai țării. Toți erau învesmântați de ceremonie și toți cu armele pregătite lângă dânșii, dar toți stătea triști și gânditori ca și stăpânul lor, care le aștepta sfatul.</p>
@@ -398,18 +397,17 @@
 <p>—Aduceți-vă aminte, M. Ta! întrerupse Hatmanul Andrei că, acela e Trandafir Dragoș, căpitanul de Dorobanți care în lupta de la satul Costeiu au alungat un polc de dușmani numai cu vreo cinci șase soldați moldoveni.— Tot el e fiul lui Ștefan Dragoș care v-au scăpat de un tâlhar ce vroia se vă ucidă când ve duceți la Sânta Biserică Domnească spre a primi încoronarea.</p>
 <p>—El e ?!... strigă Lupul surprins, și după o pausă de meditare, continua:</p>
 <p>— Într-adevăr, îi datorase mult, dar odată am hotărît cu Divanul întreg și nu pot să-mi retrag cuvântul.</p>
-<p>N. Andriescu-Bogdan</p>
-<p>(Va urma).</p>
+<trailer>N. Andriescu-Bogdan</trailer>
+<trailer>(Va urma).</trailer>
 </div>
 </div>
        
        <div type="part" n="7">
 <p>TRANDAFIR</p>
 <p>(Roman Original)</p>
-<p>(Urmare). 7</p>
+           <milestone unit="(Urmare7)"/>
 <div type="section" n="7">
-<p>VII.</p>
-<p>Nunta.—Semnul Prevestitor</p>
+<head>VII.Nunta.—Semnul Prevestitor</head>
 <p>Era ziua Sfintei Duminici. </p>
 <p>Tot satul Bârnovei era în mișcare; Clopotele sunau cu putere, lăutari se auzeau cântând la fiecare două—trei case, sătenii jucau și se veseleau așa cum nu se veselise de multă vreme și la toți inima cuprindea o bucurie nespusă, o bucurie sădită de o dorință sântă.</p>
 <p>Curtea lui Dragoș insă, era puntul de culminațiune a veseliei și fericirei; jadurile de sus pănă jos erau acoperite numai cu flori și crengi de arbori roditori, toate camerile deschise și o mulțime de oameni furnică și se îngrămădea nemaiîncăpând nici în camere nici în camere nici în ogradă. Și D-zeu voia ca acea zi să-și aibă toată splendoarea care trebuia; drept acea lasă un soare mândru și voios a cărui raze desfăta pe admiratorii săi, un cer senin, un zefir dulce învietor și cârduri de păserele ce se-nvârteau pe d-asupra caselor lăsând melodiile lor ce pătrundea in toate inimile.</p>
@@ -423,18 +421,17 @@
 <p>Viorica încleștă brațul iubitului ei soț și depuse pe fruntea lui un fierbinte sărut.—Trandafir urmă asemine.—Juna fată, simți o bucurie mare în inima sa; ea era fericită că răpitorul ei săvârșise acest act de creștinism și religiune, căci aceasta i se părea mai necesar decât orice.</p>
 <p>Junii soți, porniră din. Biserică, ca doi fluturei strălucind de razele soarelui și alergă în mijlocul vecinilor lor, care la aspectul ce  le dicta tipul virginal sau mai bine zis angelic a Vioricăi care acum devenise soție, descoperiră toți capetele ș-intr-o voce de veselie culminanta datară drumul unui.</p>
 <p>„Ura .... Trăiască Măriile lor.”</p>
-<p>N. Andriescu-Bogdan</p>
-<p>(Va urma).</p>
+<trailer>N. Andriescu-Bogdan</trailer>
+<trailer>(Va urma).</trailer>
 </div>
        </div>
           
           <div type="part" n="8">
-              <p>TRANDAFIR</p>
-              <p>(Roman Original)</p>
-              <p>(Urmare). 7</p>
+              <head>TRANDAFIR</head>
+              <head>(Roman Original)</head>
+              <milestone unit="(Urmare7)"/>
               <div type="section" n="7">
-                  <p>VII.</p>
-<p>Nunta.—Semnul Prevealilor</p>
+                  <head>VII. Nunta.—Semnul Prevealilor</head>
 <p>Tinerele copile ale Bârnovei ieșiră înaintea noii perechi și îngenunchind câte una, ofereau frumoasei Viorica, buchete mărețe, buchete compuse din florile cele mai alese.—Viorica primea și apoi le întindea mâna pe care țărăncuțele depuneau câte un respectuos sărut.— Apoi mai mulți țărani bătrâni apărură înaintea lor urându-le fericire și iubire. Trandafir mulțumea fiecărui aparte când ajunse la cel de pe urmă el întrebă :</p>
 <p>—Dacă pronia cerească mă va sili vrodată să lupt pentru ținerea frăției și iubirii cu soția mea, imi veți da voi și fiii voștri mână de ajutor?</p>
 <p>—Vom lupta pentru Măriile voastre până la cea de pe urmă picătură de sânge!... strigară într-un cor toți sătenii ce se afla primprejur.</p>
@@ -457,17 +454,16 @@
 <p>—Trandafire, reîncepu ea, inima mea se zbate grozav, acel porumbel și acel uliu nu poate să fie alta decât o prevestire... porumbelul vom fi noi... și uliul va fi Ioniță și tatăl meu; mă tem, că crudul meu frate să nu facă tot pentru a te...ucide...mă mai tem tu cum ai făcut cu uliul, să nu faci și cu fratele meu. O D-zeule !...îmi este frate, frate... să te gândești.</p>
 <p>Dacă Trandafir și ea mai spunea câteva cuvinte, desigur ca juna copilă era aproape de a se înăduși, dar bătrânul Ștefan Dragoș apăru în cameră și fața Vioricăi se lumină și toate suvenirurile triste pieri de pe fața ei ca o umbră la lumina soarelui.—După puțină convorbire ieșiră din nou afară și reîncepură a privi la petrecerile ce li se ofereau, pană când noaptea împrăștie pe toți jucătorii și nuntașii pe la casele lor.</p>
 <p>In aceeași zi, Bujor și Ruxandra primise și ei bine-cuvăntarea sfântă de la Biserică și-și legase sufletele unul cu altul întocmai ca și verișorii lor.</p>
-<p>N. A.-B. (Va urma)</p>
+<trailer>N. A.-B. (Va urma)</trailer>
               </div>
           </div>
                   
                   <div type="part" n="9">
-<p>TRANDAFIR</p>
-<p>(Roman Original)</p>
-<p>(Urmare 9).</p>
+<head>TRANDAFIR</head>
+<head>(Roman Original)</head>
+                      <milestone unit="(Urmare9)"/>
 <div type="section" n="8">
-<p>VIII.</p>
-<p>Visul.</p>
+<head>VIII. Visul.</head>
 <p>A doua zi pe când zorile începeau a revărsa razele lor peste dealurile și câmpiile  Iașului, Viorica sta încă culcată pe patul său alb ca zăpada și întinzând din când în când albele și gingașele-i mâini în sus, permitea unui respir înfocat a se furișa printre roșiile sale buze; buclele auriului său păr se lăsa pe sânu-i în valuri line, un zefir lin și parfumat pătrundea printr-o fereastră și răcorea corpul său, plin de comorile cele mai sacre ale acestei lumi. Viorica sta dezvelită de tot, ascultând concertele mulțimii de păsărele de care era plină camera, și din când în când, își arunca ochii într-o oglindă mare ce era așezată în fața patului său; ea privea ... privea juna mireasă toate odorurile scumpe ce i le-a hărăzit bunul D-zeu; admira parcă ea singură existența a atâtor fericiri—fericiri pentru care nu se cruțase nimica, nici chiar viața ... și oare ea era destinată numai pentru tristețe oare inima ei nu-i batea ca și la ceilalți oameni, oare ea nu simțea ce va să zică fericirea lumii acestea, în fine, ea nu era oare o fiică a Evei?...</p>
 <p>Dar,... ce poate fi mai înspăimântător pentru o jună femeie în aceste momente supreme, decât, când zărește deodată în oglinda în care privea, un chip străin ce observează....</p>
 <p>Sărmana, scoase un mic țipăt și se ascunse în grabă sub marele său oghial.</p>
@@ -485,17 +481,16 @@
 <p>Viorica ridica mânuțele ei albe și  înconjură cu ele gâtul lui Trandafir.</p>
 <p>—De aș ști că voi fi făcută în mii de bucăți nu voi părăsi niciodată iubirea ta, scumpul meu Trandafir.</p>
 <p>Trandafir se aplecă puțin spre dânsa o cuprinse în brațe și depuse pe rumenele ei buze un înfocat sărut.</p>
-<p>N. A.-B. (Va urma).</p>
+<trailer>N. A.-B. (Va urma).</trailer>
 </div>
                   </div>
 
 <div type="part" n="10">
-<p>TRANDAFIR</p>
-<p>(Roman Original)</p>
-<p>(Urmare 10).</p>
+<head>TRANDAFIR</head>
+<head>(Roman Original)</head>
+    <milestone unit="(Urmare10)"/>
 <div type="section" n="9">
-<p>IX.</p>
-<p>Hatmanul ei Logofăt. — Lupta. — Plecarea.</p>
+<head>IX. Hatmanul ei Logofăt. — Lupta. — Plecarea.</head>
 <p>Trecură șase zile d-albe și strălucitoare, pentru viața unor tineri ce încep a gusta plăcerile lumii. — Surâdeau zorile brilantine în fața lor, șopteau tainic florile parfumate sub piciorul lor, murmurau undele argintoase ale pârâielor cristaline, concertau păsările cerului strânse în cor, — vesela ciocârlia ca și mândra privighetoare — sufla un zefir dulce și liniștit, strălucea soarele cu maiestate cum nu mai strălucise de mult timp, zâmbea seninul cerului cu albia-i plină d-azur; era o zi dulce, o zi mândră, o zi voioasă, cum nu se gustase de mult timp pe aici. </p>
 <p>Junii soți nu se ocupau de altă decât a zbegui toată ziua în mijlocul gradinii, a alerga după fluturi, a sorbi parfumul, a hrăni păsărelele, — a juca și cânta. </p>
 <p>Fericire — și iar fericire. </p>
@@ -519,18 +514,17 @@
 <p>Trandafir intră în acel moment în cameră purtând la brațul său pe juna Viorică.</p>
 <p>— Iată iubiților mei, pe Trandafir și soția lui Viorica, zise Dragoș luând de mână fiii săi și ducându-i înaintea verilor săi.</p>
 <p>Ambii soți se plecă și sărutară mâinile lui Andrei și Ionașcu primind de la ei câte o îmbrățișare calduroasă și câte un sărut pe frunte.</p>
-<p>(Va urma).</p>
-<p>N. A.-B.</p>
+<trailer>(Va urma).</trailer>
+<trailer>N. A.-B.</trailer>
 </div>
 </div>
                   
 <div type="part" n="11">              
-<p>TRANDAFIR.</p>
-<p>(Roman Original)</p>
-<p>(Urmare 11).</p>
+<head>TRANDAFIR.</head>
+<head>(Roman Original)</head>
+    <milestone unit="(Urmare11)"/>
 <div type="section" n="9">
-<p>IX.</p>
-<p>Hatmanul și Logofetul. — Lupta. Plecarea.</p>
+<head>IX. .Hatmanul și Logofetul. — Lupta. Plecarea.</head>
 <p>Se dea D-zeu, începu Andrei, ca  fericirea voastră să dureze în întreaga viață și nici un val al lumii să nu o poată surpa.</p>
 <p>— Să vă dea D-zeu, adăugă și Ionașcu să vedeți nepoți și strănepoți, fericirea să fie în calea voastră și ura primejdia și toate răutățile să piara dinainte-vă cum pier nourii bătuți de vânt.</p>
 <p>După puține felicitări, cei doi boieri sau mai bine zis miniștri, făcură un semn secret lui Dragoș și adresa cătră fii săi.</p>
@@ -583,18 +577,17 @@
 <p>Inserase de mult, și încă erau de regulat multe trebi; Bujor și Ruxandra trebuia să rămâie pentru pază și preveghere, deci ei deși cu mare părere de rău că se desparțesc pentru moment de bunele lor rude, dar se hotărâ se râmâie în sat sub forma unor simpli țărani în gazda bătrânului preot.</p>
 <p>Dintre toți numai Trandafir ațipi oleacă pe un strat de iarbă; — cei1alți vegheară necontenit și până-n ziua regulase toate trebile lor.-</p>
 <p>Când Trandafir se trezi, puterile îi revenise, îmbrățișă pe părintele și soția sa, apoi suindu-se pe cal, toți din urui îl imită și plecă în galop spre miază-noapte.</p>
-<p>(Va urma).</p>
-<p>N. .A - B.</p>
+<trailer>(Va urma).</trailer>
+<trailer>N. .A - B.</trailer>
 </div>
 </div>
 
 <div type="part" n="12">
-<p>TRANDAFIR</p>
-<p>(Roman Original)</p>
-<p>(Urmare 12).</p>
-<div type="section" n="10">
-<p>X.</p>
-<p>Nenorocita Expedițiune</p>
+<head>TRANDAFIR</head>
+<head>(Roman Original)</head>
+    <milestone unit="(Urmare12)"/>
+    <div type="section" n="10">
+<head>X. Nenorocita Expedițiune</head>
 <p>Cei câțiva soldați care mai rămăsese încă vii, merseră de-a dreptul la Domnie. — Iară M. Sa nu era la palat și de aceea ei nu-i putură da rezultatul luptei.</p>
 <p>A doua zi numai, ei istorisi întreaga scena de la Bârnova, și Vodă. Lupul, auzind aceasta, se înfurie și ordonă ca, 300 de călăreți, să alerge înspre palatul Dragoșilor, spre a-i împlini ceea ce au ordonat. — Deci ei porniră în goana cailor și peste puțin timp fură sub zidurile Bârnovei. — Căpitanul, Filopulos, era un om cu minte, el aranja câmpul de bătaie în modul următor: toți soldații înconjură palatul și incepu mai întâi a da nenumărate focuri, pe de asupra zidului; nimeni însă nu răspunde, decât tristul ecou al luncii deșarte; atunci căpitanul ordonă asalt; toți soldații se repeziră cu o furie nespusă și escaladând zidurile, începură a da buzna prin camerele din lăuntru ; dar deodată în învălmașala in care ei erau, un strigăt sinistru se izbi de urechea victorioșilor și acela fu...</p>
 <p>„Trădare! Trădare!”</p>
@@ -631,8 +624,7 @@
 <p>Cavalerul, tăcând îmboldi pe negrul său și porni urmat de cei șase nou veniți.</p>
 </div>
 <div type="section" n="12">
-<p>XII.</p>
-<p>Înaintea atacului</p>
+<head>XII. Înaintea atacului</head>
 <p>Neagra noapte începu a-și întinde umbroasele sale aripi, și punea în întuneric toate comorile acestui pâmânt. Orizontul era limpede ca diamantul, și mândrele stelișore luceau scânteind, acompaniate numai d-un mic colțișor, al luncii.</p>
 <p>Trandafir, cu caravana lui, se depărtase mult de Iassi; ajunsese la Satul Șipotele, tocmai când cocoșul începea a anunța meciul nopții; Ionașcu dădu semnalul de oprire, și toți descălicară. — Caii era plini de spume și abia se mai ținea in picioare, călăreții nu mai puțin erau obosiți și slăbiți, de bunișoara cursă, ce o făcură cu atâta repeziciune.</p>
 <p>Satul Șipotele, era situat pe moșia lui Ionașcu; el însă nu trase la curțile sale ci bătu la ușa unui bordei din marginea satului; un plăieș înalt și zdravăn apăru, și aruncând o privire numai, el începu a se complimenta, cu sfială.</p>
@@ -648,8 +640,7 @@
 <p>Stăpânii și slugile din bordei, cinară împreună, și apoi lăsându-se unii pe scânduri alții chiar pe pământul gol, se aruncă cu corp și suflet, în brațele mângăietorului Morfeu.</p>
 </div>
 <div type="section" n="13">
-<p>XIII.</p>
-<p>Poteca Iadului.</p>
+<head>XIII. Poteca Iadului.</head>
 <p>Până să se facă ziua, nu era decât vreo trei ore. — Ciocârlia căuta în cuibușorul ei de flori; privighetoarea se trezea speriată din visurile ei; iepurii furnica prin iarbă, și luna încă mai revărsa puține raze palide.</p>
 <p>Între șleahul cel mare al Botoșenilor și Satul Șipotele, era o iezetură, a unui mare pârău numit Păscarul, deasupa căruia o mică punte de crengi, și frânturi de lemne, servea de oarece trecătore, atât pentru pedestrași cât și pentru căruțași. Pe alăturea nu era nici o cale de mers, deoarece niște râpe colțurose, bucăți de deal și pietre, sta gata de a se prăvăli, la cea mai mica mișcare. La orice pas, trebuiai a sui și coborâ sbărcuri pietrose, printre mulțimea unei păduri dese. Spun bătrânii că D-nul Ștefan cel Mare fiind strâns greu, de către horde de Turci și Tatari într-o luptă, se retrăsese prin aceste locuri, de unde organizând o apărare cu bolovani, și hărtuele diferite îi sfărâmă cu totul și curăță țara de ei.</p>
 <p>Toți plăieșii de prin prejur erau mai dibaci, pentru a trece aceste prăpăstii iar călătorii nedeprinși rare ori mai puteau scăpa teferi, ceea ce făcu ca să-și numească aceste locuri: Poteca Iadului.</p>
@@ -698,8 +689,7 @@
 <p>Si toți se puseră de împărțiră egal leii după care luară sumanele pe spete topoarele pe umeri și porni iar fluierând.</p>
 </div>
 <div type="section" n="14">
-<p>XIV.</p>
-<p>Șerpele nu piere</p>
+<head>XIV. Șerpele nu piere</head>
 <p>Se ne mai aruncăm puțin privirile asupra celor ce devenise prada potecii.</p>
 <p>Cei doi servitori, neștiind să înoate, se cufundară deodată în apă; Ioniță, însă, după cât îl cunoaștem puțin, era bun înotător. — Când fu trântit în apă, el cercă fundul bălții cu corpul său, însă, nu odihni mult și ieși pe suprafață, târându-se încet pe un mal umbrit de un arbor bătrân. Aici răsuflă puțin și privind în juru-i dădu drumul printre clănțănitorii săi dinți, acestor cuvinte : !</p>
 <p>— Sărman părinte! . . .</p>
@@ -731,8 +721,7 @@
 <p>Ioniță, urlă ca un lup printre colțoșii dinți, și bătând calul porni și se făcu nevăzut.</p>
 </div>
 <div type="section" n="15">
-<p>XV.</p>
-<p>Noi tovarăși</p>
+<head>XV. Noi tovarăși</head>
 <p>Trecu nenorocitul general, dealul ce îl zărise de la Șipote mai trecu 3-4 tot asemenea, întrebă la fiecare sat și casă unde ajungea, dar nici un răspuns mulțumitor nu primea; cu multă greutate ajunsese în fine la bariera Botoșenilor; drept toată santinela era un bătrân soldat, fără nici o armă, într-o colibă de trestie, care se necăji de a întreba pe trecători Cine-s, și din care, unii răspundeau, iar alții îl lua in râs.</p>
 <p>Bravul nostru ar fi înaintat poate fără a se opri la aspectul colibei, dacă dubola sa de cursier, n-ar fi plesnit astfel, ca el să rămăie în mijlocul drumului. — El intră deci în colibă, și găsi pe gardist dormind, deși soarele era aproape de-amiază.</p>
 <p>- He hei!  moșule, începu loniță.</p>
@@ -809,8 +798,7 @@
 <p>Acești patru indivizi încălecară și-n negurele nopții îi răpi din ochiul privitorilor.</p>
 </div>
 <div type="section" n="16">
-<p>XVI.</p>
-<p>Un fulg de Sperantia</p>
+<head>XVI. Un fulg de Sperantia</head>
 <p>Se ne mai întoarcem la ceilalți companioni ai noștri spre a-i privi puțin.</p>
 <p>Era sorele d-o suliță, când Trandafir răsare din somn, zguduit d-un vis fantastic. — Alergă în grabă la Viorică, trezi, apoi pe tatăl său, și în fine pe toți camarazii.</p>
 <p>Când toți fu pe piciore, el incepu:</p>
@@ -845,8 +833,7 @@
 <p>Andrei și Ionașcu, încălecară și se făcurără nevăzuți, printre stânci și dealuri.</p>
 </div>
 <div type="section" n="17">
-<p>XVII.</p>
-<p>Cursa. — Șarpele Triumfător.</p>
+<head>XVII. Cursa. — Șarpele Triumfător.</head>
 <p>Trandafir, Viorica și Dragoș se culcă pe prispă casei și adormi</p>
 <p>Era aproape de ziua, când Sandu servitorul îi trezi spre a porni. </p>
 <p>Toți se sculară și erau gata de drum când un om, în costum de vânători cu pușcă, torbă și 2 câini mari, se ivea la casă unde ai noștri popășia.</p>
@@ -860,17 +847,16 @@
 <p>— Bine, tot ne va trebui pe drum.</p>
 <p>— Atunci faceți bunătate de vă coborâți cu mine aici după dealul ăsta, și vi le-oi da.</p>
 <p>— Trandafir era mult prea curios, astfel, el porni fără multă invitare, în urma Vânătorului.</p>
-<p>(Va urma.) N. A.-B.</p>
+<trailer>(Va urma.) N. A.-B.</trailer>
 </div>
 </div>
 
 <div type="part" n="13">
-<p>TRANDAFIR</p>
-<p>(Roman Original)</p>
-<p>(Urmare 13).</p>
+<head>TRANDAFIR</head>
+<head>(Roman Original)</head>
+    <milestone unit="(Urmare13)"/>
 <div type="section" n="17">
-<p>XVII.</p>
-<p>Cursa. -Șarpele Triumfător</p>
+<head>XVII. Cursa. -Șarpele Triumfător</head>
 <p>Coborî dealul ce i se arătase și ajunse lângă baltă.</p>
 <p>— Unde-ți sunt rațele, întrebă Trandafir.</p>
 <p>Drept respuns Vânătorul puse degetele-n gură și dete drumul unui șuier sinistru.</p>
@@ -904,8 +890,7 @@
 <p>Obosiți, cu rana în inimă, nu mai avea ce face și porniră înapoi.</p>
 </div>
 <div type="section" n="18">
-<p>XVIII.</p>
-<p>Monastirea.— Moarta reînviată.</p>
+<head>XVIII. Mănăstirea.— Moarta reînviată.</head>
 <p>Soarele ostenit de privirea sa luminoasă începu a se coborî pe după dealurile Iașului făcând loc negrii nopți spre a cuprinde câmpiile și munții cu întunericul ei.</p>
 <p> Hlincea era pe atunci un schit mic de călugăriți din cele mai bine îngrijite și privilegiate.</p>
 <p>Murii săi tari făcea pătrunderea în întru imposibilă. Biserica deşi mică însă zidită cu gust dădea cel mai frumos aspect. Sunetul clopotelor chemau pe călugăriţi şi preoţi la rugâciunea de seară. Toţi înaintau în linişte spre Sf. Locaş spre a depune suvenirile lor 
@@ -953,7 +938,7 @@ la picioarele lui Crist.</p>
 <p>Viorica reînviase!... ea se uită cu spaimă la tot ce o înconjura și crezu că se află în cealaltă lume !... frica o cuprinsese ! ea tremura grozav, se ridică încet și puse piciorul pe pietre! un țipăt eși îndată din slaba sa voce, zărind pe companioana sa, sora Irina.</p>
 <p>— Dumnezeule!... murmură ea !...</p>
 <p>— N-ai frică Viorică, începu Irina. — Irino!... tu ești ?</p>
-<p>. — Da!... eu sunt scumpa mea vară, eu trăiesc și tu trăiești încă, ești în Biserică... fii liniștită!...</p>
+<p>— Da!... eu sunt scumpa mea vară, eu trăiesc și tu trăiești încă, ești în Biserică... fii liniștită!...</p>
 <p>— Dumnezeule!... Mai trăiesc. eu încă?... mai sunt încă pe pământ?</p>
 <p>— Da Viorico.</p>
 <p>Ambele vere se aruncară una în brațele alteia și câteva momente fură nedespărțite !</p>
@@ -1023,8 +1008,7 @@ la picioarele lui Crist.</p>
 <p>Irina se plecă și apoi porni în casă cu mâhnire în inimă și cu blestemul pe buze contra ultimelor cuvinte ce auzise din gura stariței.</p>
 </div>
     <div type="section" n="19">
-<p>XIX</p>
-<p>Condamnarea.</p>
+<head>XIX. Condamnarea.</head>
 <p>Să ne mai transportăm, iubite lector în alte regiuni, în alte locuri, pentru a privi și altceva!...</p>
 <p>Era într-o miercuri, soarele ședea pe vârful cerului lăsând fierbinți raze să străbată pământul. Mare îngrijire predomina între tot poporul și vorbele deșarte șuiera ca plumbii dintr-o gură în alta.</p>
 <p>Cunoaștem de mai înainte sala cea mare a Tronului în care Vasile Lupul ținea sfat cu curtenii săi.</p>
@@ -1078,8 +1062,7 @@ la picioarele lui Crist.</p>
 <p>— Moartea de pușcă să fie, repetă Domnitorul, și doi gardiști luă pe Trandafir și îl scoaseră din Sala Tronului.</p>
 </div>
 <div type="section" n="20">
-<p>XX.</p>
-<p>Închisoarea- Eșafodul.—Iertarea.</p>
+<head>XX. Închisoarea- Eșafodul.—Iertarea.</head>
 <p>Trandafir fiind transportat din sala Tronului se trezi într-o chilie mică, rece și întunecoasă al cărei mobilier coopta nunai în câteva paie și o cană de lut cu apă; o mică ferestruică umplută de gratii de fier dădea o lumină de abia zăritoare. El ședea jos culcat și gemea sub inpresiuna crudelor dureri cei sfâșia corpul.</p>
 <p>— Dumnezeule murmură el, cât sunt de mari faptele tale, ai ajutat pe mulți de pe acest pământ, ajută-mă și pe mine, lasă-mă Doamne să mai văd o dată pe iubita inimii, să îi șoptesc doua vorbe ce șed pe inima mea, ș-apoi fă ce vei ști, ia-mi viața căci nu-mi va mai trebui.</p>
 <p>Un nor bubuitor se prezentă înaintea cugetului seu, scântei electrice îl pătrunde și fiorii morții se părea că vor să-și facă loc in recele său corp. El căzu într-un delir grozav și remase fără simțire, de tot ce se petrecea in jurul lui. — Trecu trei zile și trei nopți și bietul Trandafir se hrănise cu o ocă de apă ce din când în când o aducea la buzele-i  arzătoare spre a-mi răcori sufletul seu.</p>
@@ -1105,18 +1088,17 @@ la picioarele lui Crist.</p>
 <p>El mergea fără a se opri, ajunsese întreaga escortă pe strada Frumoasei. Trecură cu repeziciune și astă stradă și ajunse la locul unde, zărea întunecând vederile sale.... negrul eșafod!</p>
 <p>El se apropia din ce în ce, și soldații se desfăcu în două coloane făcăndu-i loc lui, de a sui trei trepte ale eșafodului.</p>
 <p>Acest scaun a pocăinței era înălțaț de la pământ de jumătate stânjen; trei scări îmbrăcate în negru înconjurau piedestalul. — Când Trandafir era așezat deasupra, un călău îmbrăcat tot în roș se arătă lângă el și deschise lanțurile ce înconjură mâinile și picioarele lui. Călăul se retrase, un preot bătrân și plin de respect păși treptele eșafodului și s-alatură de condamnat.</p>
-<p>(Va urma)</p>
-<p>N. A.-B.</p>
+<trailer>(Va urma)</trailer>
+<trailer>N. A.-B.</trailer>
 </div>
 </div>
 
 <div type="part" n="14">
-<p>TRANDAFIR</p>
-<p>(Roman Original)</p>
-<p>(Urmate 14).</p>
+<head>TRANDAFIR</head>
+<head>(Roman Original)</head>
+    <milestone unit="(Urmare14)"/>
     <div type="section" n="20">
-<p>XX.</p>
-<p>Închisoarea. Eșafodul.—Iertarea.</p>
+<head>XX. Închisoarea. Eșafodul.—Iertarea.</head>
 <p>— Fiule, începu el, oamenii au hotărât ca pentru faptele tale să-ți pierzi viața... dar bucură-te, căci pășind de pe acest pământ plin de răutăți, vei ajunge înaintea Judecătorului celui mare care va ierta pe toate făpturile sale și le va da mila sa.</p>
 <p>Dacă ești pedepsit pe pământ, în ceruri vei fi răsplătit... . “</p>
 <p>— Prea sfinte părinte, mor nevinovat...</p>
@@ -1147,8 +1129,7 @@ la picioarele lui Crist.</p>
 <p>Hatmanul îl luă de mână și-l îndemnă să încalece pe un bun cursier, Trandafir cu toată slăbăciunea-i ascultă, și astfel acești doi urmați de cinci călăreți, porni spre Bârnova.</p>
 </div>
 <div type="section" n="21">
-<p>XXI.</p>
-<p>Iar întristare!...</p>
+<head>XXI. Iar întristare!...</head>
 <p>Când astă mică trupă ajunsese în Bârnova, găsiră murii dărâmați, palatul ruinat și prefăcut în cenușă, totul distrus și deșert încât inspira groază oricărui vizitator.</p>
 <p>Trandafir surâse trist la vederea ăstui spectacol, și intră sub boltele ruinate, percură mai multe strâmtori și ajunse la camerele secrete; intră prin ele și se opri in sala Tronului.</p>
 <p>Când Trandafir intră aci, văzu pe părintele său căruia lacrimile îi șiroia din ochi și cruda disperare se zugrăvise cu cel mai tragic penel pe increstăturile veteranei sale fețe.—Lângă el stătea juna Ruxandra cu soțul ei Bujor.</p>
@@ -1169,8 +1150,7 @@ la picioarele lui Crist.</p>
 <p>Trandafir oftă și se așeză pe un scaun; gustă apoi puțină mâncare și se puse într-un pat spre a-și aduna puterile, ce le pierduse în ultimele zile de locuință a temniței de la Sf. George.</p>
 </div>
 <div type="section" n="22">
-<p>XXII.</p>
-<p>Căutarea și aflarea.</p>
+<head>XXII. Căutarea și aflarea.</head>
 <p>Mai toate străzile Iașului erau traversate de câtva vreme de doi cavaleri sprinteni la trup și voioși ca cerul unul mai înalt și delicat, altul scurt și robust.—Casele erau pe rând vizitate de ei, și puținii locuitori ce rămaseră în urma expedițiunii, se miră de aceste curioase vizite, fără a putea înțelege adevăratul lor scop.</p>
 <p>Trebuie să spun că cavalerul cel nalt purta un costum extraordinar. - El aducea aminte tuturor bravilor moșteni de strălucitorele luxuri ale nobililor poloni.</p>
 <p>Calul său alb varsă tot drumul nori groși de fum din nervoasele-i nări și sărea ușor ca pana neputând a-și opri zburdalnicul său mers.— Cavalerul purta o mantie mare albastră, garnisită cu frumoase ciucuri și blană de samur ale cărei poale acoperea tot trupul său ș-al calului; o cascheta patricornă lucrată în catifea, samur , și fir, orna frumosul său cap, fiind așezată pe niște bucle crețite ce străluceau și fluturau pe catifelații lui umeri; o frumosă barbă lungă orna obrajii săi și tristeța împreună cu răzburnarea erau zugrăvite ca de penelul ilustrului Rafael pe bruna sa față.</p>
@@ -1210,9 +1190,9 @@ la picioarele lui Crist.</p>
 <p>— Azi e Duminică, în toată Duminica vine veste de la Viorica printr-un  slujitor, trece pe aici de ia amănunte ș-apoi se întoarce fără a putea noi să scoatem o singură vorbă din gura lui.</p>
 <p>— A venit azi ? !...</p>
 <p>— Taci!... Iaca acu vine !...</p>
-<p>Tustrei ne uitarăm spre răsărit și văzurăm un călăreț ce abia ridica potica de pe deal. •</p>
+<p>Tustrei ne uitarăm spre răsărit și văzurăm un călăreț ce abia ridica potica de pe deal.</p>
 <p>— Buna ziua, ne dădu el întâi.</p>
-<p>— Mulțumim!- răspunsem. •</p>
+<p>— Mulțumim!- răspunsem.</p>
 <p>— Dar ce-a pățit palatul Logofetului. </p>
 <p>— Se preface în scrum!</p>
 <p>— Dacă avea drept, căci era prea bătrân.</p>
@@ -1233,9 +1213,11 @@ la picioarele lui Crist.</p>
 <p>— Unde-i scrisoarea, întrebă cu grăbire nobilul polon ce nu era altul decât Trandafir deghizat.</p>
 <p>— Iată, și Dragoș înaintea fiului său o mică scrisoare.</p>
 <p>Trandafir desfăcu cu mare iuțeală scrisorica și citi:</p>
+    
 <p>„Iubitul meu Trandafir!</p>
 <p>„Vei ști că sunt așezată în Chiliele mănastirei Hlincea, scapă-mă căci nu mai pot suferi acest trai, însă astfel ca nimeni să nu afle despre aceasta. Răspunde-mi prin omul ce ți-a dat scrisoarea,</p>
 <p>„Viorica”</p>
+    
 <p>— Ea la Hlincea? și eu înebunesc cătând prin Iași!... Aș fi scăpat-o până azi de o mie de ori, un singur cuvânt să fi auzit.</p>
 <p>Trandafir sărea ca un nebun, și ieși afară urmat de colegii săi. —Un om necunoscut le apăru în față.</p>
 <p>— Răspunsul!... zise el.</p>
@@ -1247,8 +1229,7 @@ la picioarele lui Crist.</p>
 <p>— Cu toții, repetară toți în cor, și ca fulgerul ce dispare cu iuțeală din nori în nori, Trandafir se făcu nevăzut împreună cu ai săi.</p>
 </div>
 <div type="section" n="23">
-<p>XXIII.</p>
-<p>Pregătiri de salvare.</p>
+<head>XXIII. Pregătiri de salvare.</head>
 <p>Luna călătorea încet dintr-un punct până la altul pe limpedele orizont lăsând palidele-i raze să privească cu gelozie două femei care, împreunate într-un singur suflet, se strângea cu amiciție și-și revărsa focul inimilor lor.</p>
 <p>Ele se află într-un mic rond a unei imense grădini a căreia muri se zăreau în depărtare ca niște grele lanțuri ce apasă pe sărmanul sclav, ședeau ambele sub un mic arbore, pe un scăunaș de iarbă! Dar ele păreau prea nenorocite, suspinurile spumegau printre rubinoasele lor buze și inimile lor scânteiau la cea mai mică adietură a zefirului.</p>
 <p>— Dumnezeule, începu cea mai jună, nimic nu se înoiește; fetița nu mai vine, inima pare că-mi spune că i s-a întâmplat ceva; a trecut trei ceasuri de când trebuie să fie aici și cu toate astea n-a mai venit.</p>
@@ -1293,8 +1274,7 @@ la picioarele lui Crist.</p>
 <p>—Vom fi, diseară ambele fete deodată.</p>
 </div>
 <div type="section" n="24">
-<p>XXIV.</p>
-<p>Subterana—Salvare.</p>
+<head>XXIV. Subterana—Salvare.</head>
 <p>Trandafir ajuns acasă în câteva momente, începu a se consulta cu amicii săi despre noua strategimă ce trebuia a păstra.</p>
 <p>Trecu toată noaptea fără ca cineva să închidă ochii, iară în zori se văzu drept rezultat a deliberețiunilor, pe Bujor de a cărui braț se stârni Ruxandra deghizată precum ați văzut, că înaintează spre Hlincea; se opresc la poartă luându-și unul de la altul ziua bună, Ruxandra rămâne bătând în poartă iar Bujor dispare.</p>
 <p>Ceea ce s-a petrecut cu Ruxandra, știm.</p>
@@ -1322,8 +1302,7 @@ la picioarele lui Crist.</p>
 <p>Păși în subterană căci vremea nu era de pierdut, trase oblonul asupra căruia se așeza prin meșteșug pământul nelăsând nicio urmă de bănuială unei atare uși, și ei porni înainte și înainte merse pănă se opri în vechiul și ruinatul palat  care se adăpostea suveranul tron a lui Bogdan Dragoș.</p>
 </div>
 <div type="section" n="25">
-<p>XXV.</p>
-<p>Laieșii.—Sora ranită.</p>
+<head>XXV. Laieșii.—Sora ranită.</head>
 <p>Pentru a luai descrie bucuria ce cuprinse fiecare inimă la întoarcerea în acest dulce loc, pentru a spune entuziasmul și extazul fiecăreia la strângerea în brațe a iubirei lor, mi-ar fi ceva prea mult.</p>
 <p>Soarele lumina cu dulceață întreaga zi, și încălzi și reanimă toată ființa ce răsuflă pe pământ.</p>
 <p>Florile reînflorisă, arborii reînverziră păsărele de reinviară și parfumul amestecat cu dulcele ciripit adormiră abia pentru câteva momente pe junii soți ce erau de atâta vreme despărțiți.</p>
@@ -1346,7 +1325,7 @@ la picioarele lui Crist.</p>
 <p>—Pe cine ?... strigă Viorica disperată.</p>
 <p>— Pe Ioniță!... respunse el.</p>
 <p>Și biata soție pică leșinată în brațele lui Dragoș și Trandafir care se repezi de a o sprijini.</p>
-<p>(Finea va urma). N. A.-B.</p>
+<trailer>(Finea va urma). N. A.-B.</trailer>
 </div>
 </div>
     </body>

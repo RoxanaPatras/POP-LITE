@@ -18,6 +18,10 @@
                     <resp>corectură manuală</resp>
                     <name>Silviu Panaite</name>
                 </respStmt>
+                <respStmt>
+                    <resp>verificare corectură manuală</resp>
+                    <name>Alexandra Olteanu</name>
+                </respStmt>
                 <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
             </titleStmt>
             <publicationStmt>
@@ -35,12 +39,12 @@
                     <pubPlace>București</pubPlace>
                     <publisher>FOILETONUL REVISTEI „UV”</publisher>
                     <date>1892</date>
-                    <decoNote type="ilustratii" subtype="no"/>
-                    <dim unit="char" type="mic"/>
+                    <decoNote type="illustrations" subtype="no"/>
+                    <dim unit="char" type="small"/>
                     <extent>
                         <measure unit="word">15399</measure>
                         <measure unit="page" type="under_250"/>
-                        <measure unit="foileton" type="under_65"/>
+                        <measure unit="feuilleton" type="under_65"/>
                         <measure type="complete"></measure>
                     </extent>
                 </bibl>
@@ -60,16 +64,16 @@
                     <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
                 </keywords>
                 <keywords>
-                    <term type="receptare" n="under 5"/>
-                    <term type="republicare" n="under 10"/>
+                    <term type="reception" n="under 5"/>
+                    <term type="print_count" n="under 10"/>
                     <term type="finished"></term>                
                 </keywords>
             </textClass>
         </profileDesc>
         <encodingDesc>
             <projectDesc>
-                <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-                <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+                <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+                <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
                 <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
                 <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
             </projectDesc>
@@ -78,10 +82,9 @@
   <text>
 <body>
     <div type="part" n="1">
-<p>Vezinas.</p>
-<p>Istorisire de Nic. T. Zorilă</p>
+<head>Vezinas. Istorisire de Nic. T. Zorilă</head>
         <div type="section">
-<p>Introducere.</p>
+<head>Introducere.</head>
 <p>Eu să pier?</p>
 <p>Eu niciodată!. . .</p>
 <p>Mi se pare, că văd legiunile străbunilor noștri plecând de acasă ca uraganul spre a da pipet cu inamicul patriei.</p>
@@ -105,7 +108,7 @@
 <p>Eu nu pier niciodată!</p>
         </div>
 <div type="section" n="1">
-<p>I.</p>
+<head>I.</head>
 <p>Înaintea noastră se întinde o vale lungă. De amândouă laturile se ridică câte un șir de munți negri, acoperiți de brădet. Vârful lor este pleșuv și stâncos. Valea la intrare este largă, și brădetul cam rar, din ce ne afundăm însă mai mult într-însa, ea se face mai îngustă, iar pădurea mai deasă și mai întunecoasă.</p>
 <p>Câteva stânci răsturnate de vreme, câțiva brazi gigantici frânți de furia vijeliei zăc aruncați în mijlocul văii.</p>
 <p>Prin mijlocul ei șerpuiește spumegând un pârâu cu apă cristalină și rece ca gheața. Zece până în doisprezece pași la dreapta și la stângă lui crește iarbă verde împestrițată cu felurite flori, mirosul cărora amestecându-se cu mirosul balsamic al brazilor produce un parfum natural de o fineță îmbătătoare.</p>
@@ -136,14 +139,13 @@
 <p>Duras șede în fața intrării. Lângă el se așeză un flăcău tânăr cam de vreo douăzeci și trei—patru de ani, fără pic de mustață ori barbă. Din ochii lui izvorăște o privire plină de energie tinerească. Nasul puțin cam încovoiat ca de vultur și obrazul plin și roșu dă feței lui expresiunea unei cutezări impunătoare. Părul tăiat scurt după obiceiul roman ni-l vădește mai mult ca pe un Roman decât ca pe unu Dac.</p>
 <p>Flăcăul acesta se numește Ziraxis.</p>
 <p>Toți ceilalți au fețe negricioase și crunte. Părul le e lăsat în plete scurte pe spate la vale.</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
     </div>
     </div>
     
     <div type="part" n="2">
-<p>Vezinas</p>
-<p>Istorisire de Nic. T. Zorilă.</p>
-<p>(Continuare.)</p>
+<head>Vezinas. Istorisire de Nic. T. Zorilă.</head>
+<milestone unit="(Continuare.)"/>
         <div type="section" n="1">
 <p>Duras se ridică maiestos și cu o voce convingătoare și sigură se îndreptă către soții săi și zice:</p>
 <p>„Iubiți frați de arme! În urma dorinței voastre comune mi-am luat îndrăzneala de a vă chema la sfătuire în locul acesta. Anume v-am chemat în singurătatea asta, deoarece spionii generalului pe aicea pretutindenea au știut să se furișeze și să ne descopere planurile. Beliducele acesta ambițios și semeț a sădit, precum cu toții știm, în inima regelui, favoritul căruia este, orgoliul și pofta de mărire. L-a încurcat în războaie, la început ce e drept norocoase, dar cu atâta mai nefericite mai târziu, după ce consultatul la Roma l-a luat Traian. Acest împărat, numai vreo câțiva ani sunt de atunci, a pătruns în patria nostră până aproape de capitală. Cu multe daruri, cu mari și solemne promisiuni de pace fățărite a succes regelui a îndupleca pe împăratul Traian a se reîntoarce la Roma. Ziraxis, solul partidei noastre de pace, pe vremea aceea a convenit de mai multe ori cu Traian atât la Roma, unde a crescut, cât și în castrele romane de la Tapae. El s-a convins din vorbele împăratului, că Romanii nu au de cuget a preface Dacia într-o provincie romană, dacă poporul și regele Decebal vor rămâne credincioși păcii și nu vor prăda mai mult provinciile romane Tracia și Panonia. Cu toții ne-am putut convinge despre acesta din trecerea legiunilor peste Danubia după finirea celui dintâi război nefericit. Căci dacă împăratul ar fi voit acel lucru, el atunci desigur l-ar fi putut face. Abia au ajuns însă oștile împăratului la Roma, și regele a și călcat pacea în chipul cel mai fățiș. Când Traian a auzit despre acesta, s-a înfuriat cumplit și a jurat răzbunare asupra regelui și poporului dac. Vrea să ne șteargă de pe fața pământului și Dacia să o facă provincie romană. — M-ați înțeles, iubiți amici? — El o va face aceasta nimicind cu foc și cu sabie tot, ce i se va împotrivi. În toate luptele de până acuma Decebal a fost învins cu pierderi nereparabile. Triburile Geților și-au plecat capul, legiunile trec munții, și nu peste mult o să-i vedem iar înaintea Sarmisegetusei. Toată clipeala pierdută este câte o rană periculoasă pe trupul națiunii. Traian este mânios cu deosebire asupra regelui Decebal și a generalului Vezinas. Îndată ce aceștia doi nu vor mai fi conducătorii națiunii, furia împăratului se va mai domoli, și am sperare, că lui Ziraxis îi va succede a îndupleca pe Traian, ca pe lângă o pace sinceră și daruri multe și bogate să cruțe poporul decât de alte lovituri grele. Tatăl meu și-a jertfit tronul pentru binele patriei, căci s-a simțit slab și n-a voit, să o cârmuiască rău”.</p>
@@ -163,14 +165,13 @@
 <p>Ei merg înainte. Ceilalți în frunte cu Duras și cu Ziraxis urmează, și cu toții părăsesc locul adunării pe calea, pe care au venit.</p>
 <p>Răsunetul aduce din ce în ce mai slab zgomotul pașilor.</p>
 <p>Jăraticul se stinge pe încetul și se preface în cenușă. Vatra arsă și un tăciune, ce fumegă, ne arată locul, unde a fost focul.</p>
-            <p>(Va urma.)</p>
+            <trailer>(Va urma.)</trailer>
         </div>
     </div>
     
     <div type="part" n="3">       
-<p>Vezinas.</p>
-<p>Istorisire de Nic. T. Zorilă</p>
-<p>(Continuare.)</p>
+        <head>Vezinas. Istorisire de Nic. T. Zorilă.</head>
+        <milestone unit="(Continuare.)"/>
         <div type="section" n="1">
 <p>În dosul unor tufe mici pârâiașul face o cotitură în formă de semicerc. Ziraxis se așeză aici. Își astâmpără setea arzătoare, apoi se așeză pe spate întins pe iarba verde și oftă cugetându-se la luptele vieții.</p>
 <p>Ce fericit era în copilăria sa! Nu cunoștea răul și binele. Nu vedea, cum se omoară omenii unii pe alții pentru dușmănia și ura regilor. Nu a auzit, cum unul își blestemă soarta cea atât de nefavorită, cum altul o binecuvânta, pentru că-i este cuiva contrar. Nu vedea, cum omul omoară pe vecinul său, ca să-i ia ceea ce acela în toată viața sa și-a strâns cu sudori amare. Nu vedea, cum un nevinovat învinovățit de crimă se ucide. Și nu vedea, cum păcătoșii sunt onorați. Nici Dumnezeu nu-și întoarce mânia asupra capului lor. Nu știa, cum omul se luptă pentru trai și bunăstare. Era când se vede, s-au mai bine i se pare, că se vede la ținta dorințelor sale, când adică s-ar odihni după atâtea oboseli și pericole ducând o viață liniștită, atunci fără veste i se zice: Omule, ai lucrat, te-ai obosit destul. Ți-am căutat un loc minunat de odihnă. Vino cu mine și te așează acolo, căci aceea e cea mai frumoasă a ta răsplată pe pământ.</p>
@@ -207,7 +208,7 @@
 <p>Sosiți în sătulețul cel mai de aproape încălecă cu toții și pe căi diferite ajung în capitală.</p>
 </div>
 <div type="section" n="2">
-<p>III.</p>
+<head>III.</head>
 <p>Un mare sfat de război se ține la casa regelui Decebal.</p>
 <p>Toți capii armatei dace fără de excepție au urmat grabnicei chemări a comandantului suprem. Pierdută ar fi onoarea aceluia, care din orișice cauză n-ar fi sosit la timpul hotărât: cei adunați l-ar fi încărcat cu mustrări, iar regele nu l-ar fi cerut sfatul ca de la ceilalți.</p>
 <p>O astfel de rușine n-a voit să pațească nimeni. Toți așteaptă cu încordată luare aminte, ce va zice regele.</p>
@@ -226,14 +227,13 @@
 <p>Ostașii sunt adunați. Regele întotdeauna îi însoțește. Trec Danubiul, nimicesc neînsemnatele garnizoane ducând la reîntoarcere cu ei tot, ce se poate duce.</p>
 <p>Furioasa vitejie a generalului Vezinas este irezistibilă.</p>
 <p>Astfel se făceau invaziile Dacilor în provincia romană Mesia, până când divul împăcat Traian a făcut un sfârșit domniei lor.</p>
-    <p>(Va urma.)</p>
+    <trailer>(Va urma.)</trailer>
 </div>
     </div>
     
     <div type="part" n="4">
-<p>Vezinas.</p>
-<p>Istorisire de Nic. T. Zorilă.</p>
-<p>(Continuare.)</p>
+        <head>Vezinas. Istorisire de Nic. T. Zorilă.</head>
+        <milestone unit="(Continuare.)"/>
         <div type="section" n="2">
 <p>Lin și maiestos, dar triști, pășește Vezinas drept spre Decebal zicând:</p>
 <p>„Regele meu, împărtășește-ne și nouă dreptele tale îngrijiri. Te vom sprijini și noi cu vreun sfat bun”.</p>
@@ -270,14 +270,13 @@
 <p>Aproape toate armatele au fost zdrobite pe câmpurile de război de teribilul și neîmpăcatul împărat. Chiar Sarmizegetusa va fi împrejurată și nu peste multă vreme cucerită.</p>
 <p>Una mai rămâne Dacilor. Armata ce se formează în munți.</p>
 <p>Aceasta ultimă și slabă speranță o mai au. Alta nu!</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
         </div>
     </div>
     
     <div type="part" n="5">
-<p>Vezinas.</p>
-<p>Istorisire de Nic. T. Zorilă</p>
-<p>(Continuare.)</p>
+        <head>Vezinas. Istorisire de Nic. T. Zorilă.</head>
+        <milestone unit="(Continuare.)"/>
         <div type="section" n="2">
 <p>Regele ia în fine cuvântul:</p>
 <p>„Este dureros, iubiții mei, a ne vedea cu ochii pierirea patriei. Câtă vreme vom trăi noi, și Dacia va fi, și o vom apăra cu viața noastră a tuturor. Noi nu vom mai putea învinge pe inamici, dar vom muri cel puțin cu cinste. Urmașii noștri ne vor păstra cu fală numele și ne vor aminti ca pe un popor brav. Cineva numai atunci a fost vrednic să trăiască, dacă văzând moartea cu ochii, este liniștit și moare bucuros. Să murim și noi mai bine cu glorie decât să ne plecăm capul sub jugul cel tiranic al Romanilor. După cucerirea capitalei — pe care Zamolxe să o păzească de așa ceva — toți câți veți putea și veți voi a scăpa, veniți în tabăra mea dintre munți spre a ne pregăti la cea din urmă luptă. Arme de tot felul vom îngriji să fie cu prisos, ca toți câți vor putea a le purta, să aibă. Acasă numai bătrâni, femei și copii vor rămâne. Armata acesta va fi cea de pe urmă speranță. Dacă și ea va fi învinsă și zdrobită, Dacia nu va mai fi fără numai după nume. Odată pentru totdeauna vă conjur, să lucrați, cum vă va conduce mintea și inima voastră de Daci. Dacă cineva mai are ceva de zis, sfatul pare a fi sfârșit Eu regele Daciei, luându-mi rămas bun de la voi, iubiți frați de arme, vă rog în numele lui Zamolxe, să mă iubiți numai cum v-am iubit eu, iubiți patria numai cum am iubit-o eu și muriți bucurați pentru ea, numai cum voi muri eu. . . Când nu voi mai fi..... Păstrați în inimile voastre amintirea lui Decebal”</p>
@@ -288,7 +287,7 @@
 <p>Ei se roagă pentru fericirea patriei.</p>
 </div>
 <div type="section" n="3">
-<p>IV.</p>
+<head>IV.</head>
 <p>Singur șede în odaie sa Vezinas culcat pe un pat de lemn. Privește la focul, ce luminează din cămin.</p>
 <p>Un vânt și o ploaie rece bate acoperișul casei. Este o seară friguroasă de toamnă, când puțini trecători se văd pe străzile Sarmisegetusei.</p>
 <p>Vezinas privește la cărbuni, cum se acoperă cu un strat de cenușă subțire. Gândul îi zboară departe, și tinerețea i se ivește înaintea ochilor ca un vis frumos. Parcă numai ieri alaltăieri era june cu mustăcioară abia răsărită. Ce zile fericite au fost acelea. Patria atunci asemenea era fericită și glorioasă. Privea cu invidie la ostași, cum se reîntorceau din lupte încărcați cu prăzi și cu trofee. Atunci se rugă de tatăl său, să-l lase și pe el în expediția, ce va urma.</p>
@@ -309,14 +308,13 @@
 <p>Acest „acum” și această liniște rece începe să neliniștească pe Dapix.</p>
 <p>„Ești forte obosit. Șezi colea pe scaun lângă cămin. Puțină căldură te va mai întări.”</p>
 <p>Și generalul arată servitorului său un scaun mic de lemn.</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
 </div>
     </div>
     
     <div type="part" n="6">
-<p>Vezinas.</p>
-<p>Istorisire de Nic, T. Zorîtt.</p>
-<p>(Continuare.)</p>
+        <head>Vezinas. Istorisire de Nic. T. Zorilă.</head>
+        <milestone unit="(Continuare.)"/>
         <div type="section" n="3">
 <p>Dapix își răzemă și-și acoperi fruntea cu mâna cufundându-se în gânduri.</p>
 <p>„Ce întrebări trebuie să aud de la domnul meu, viața căruia este periclitată? Pentru ce e oare așa de nepăsător? În loc să-mi dea porunci, să știu, ce să fac, îmi lasă mână liberă. Cum voi ști eu și așa, ce va fi de isprăvit.”</p>
@@ -340,14 +338,13 @@
 <p>Dapix s-a mirat, când a auzit, că tezaurul e dus departe, fără ca el să știe ceva. Dar și-a adus aminte, că nimănui nu-i este permisă a ști locul, ca secretarul regelui în prima luptă, la care a participat, a căzut lovit de o săgeată în piept și de alta în spate, că e mai bine a nu ști acest secret periculos.</p>
 <p>Dapix tresare ca speriat dintr-un somn adânc la cuvintele, cu care domnul său întrerupe tăcerea:</p>
 <p>„Iată” zice acesta aspru, „dimineața s-a ivit, și noi nici n-am închis ochii. Mergem. Regele va pleca acuși, și nesmintit trebuie să fim acolo. Te deghizează bine și te amestecă printre popor, ca nu cumva vreun trădător să te recunoască, că dacă te-ar recunoaște, toate contraplanurile ne vor fi nimicite. Bagă samă numai, să știi, care și câți vor rămâne aici și câți vor urmări pe regele, pentru ca de timpuriu să iei măsurile de lipsă spre a le zdrobi planurile lor mișelești. Regele, — ori care vor merge după el, — va ști, ce are de făcut. Îi voi spune. De ajutor poți lua pe amicul tău Cotiso. Vă recomand însă la amândoi precauțiune, deoarece Duras vede cu singurul ochi, cât voi amândoi cu amândoi ochii. Eu voi însoți pe regele până la un loc anumit spre a-i mai cere sfaturi, și așa voi vedea și eu pe conjurații, care se depărtează. Acum te du. Pregătește-mi un cal. Regele cred că este gata de mult de plecare. Dea cerul, ca planurile să ne fie încoronate de succes, ca mult iubita și cercata noastră patrie să reînvieze.</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
             </div>
     </div>
     
     <div type="part" n="7">
-<p>Vezinas.</p>
-<p>Istorisire de Nic. T. Zorilă.</p>
-<p>(Continuare.) V.</p>
+        <head>Vezinas. Istorisire de Nic. T. Zorilă.</head>
+        <milestone unit="(Continuare.)"/>
         <div type="section" n="3">
 <p>Au trecut două săptămâni de la cele scrise până aici.</p>
 <p>Este o dimineață răcoroasă de toamnă. O negură foarte deasă acoperă văile. Ploi neîncetate au răcit aerul, încât omul ar crede, că e pe la sfârșitul anotimpului.</p>
@@ -378,14 +375,13 @@
 <p>„Ce sfaturi țineți?” zice privind crunt. „Nu știți, că e oprită vorbirea între santinelele de pe ziduri? De nu-mi veți da explicări demne de crezut, vă voi pedepsi aspru. Ați auzit? Vino și tu încoace! Spune ce ați vorbit?”</p>
 <p>„Privește. Negura s-a mai ridicat puțin. Poți vedea mai bine ca noi. În zorile zilei am observat, că inamicii peste noapte au înconjurat pădurea și au început a face o întăritură. Ne sfătuiam, cum am putea să te încunoștințăm, căci nu vedeam pe nimeni în apropiere, iar locurile noastre de pază nu am putut să le părăsim. Cred că beliducele ar trebui să audă cât mai de grabă despre acest lucru.”</p>
 <p>Dapix își ridică mâna deasupra ochilor spre a vedea mai bine. Toți trei privesc tăcuți în depărtare, unde dușmanii să vedă lucrând.</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
         </div>
     </div>
     
     <div type="part" n="8">
-<p>Vezinas.</p>
-<p>Istorisire de Nic. T. Zorilă</p>
-<p>(Continuare.)</p>
+        <head>Vezinas. Istorisire de Nic. T. Zorilă.</head>
+        <milestone unit="(Continuare.)"/>
         <div type="section" n="3">
 <p>Sorele a răsărit. Caldele lui raze brăzdează și împrăștie negura cea deasă. Picăturile de rouă dispar de pe frunzele arborilor. Insectele oricât de neînsemnate și mititele, se văd umblând cu vioiciune. Pasările cântătoare fac de răsună brădetul. Razele soarelui devin din ce în ce mai calde. Întreaga natură parcă zice: „Uite, ce frumoasă m-a făcut Ziditorul tuturor!”</p>
 <p>Atunci omul, care-i cunoaște toate tainele, se pune la umbra unui arbore pe iarba verde și-o admiră — o admiră, căci e frumoasă și e vrednică de admirat.</p>
@@ -423,16 +419,15 @@
 <p>„Du-te, de pregătește pe toți prizonierii la venirea mea . . . Stai puțin .  . parcă ...” Și privește spre castrele inamice, de unde se vede apropiindu-se ceva de cetate.</p>
 <p>Este prizonierul curier. Împăratul Romanilor l-a retrimis fără de vreun cuget fățarnic.</p>
 <p>După-ce a spus salutările tuturor amicilor lui Longinus și după ce n-a uitată a coase în tunică otravă omorâtoare, s-a despărțit de prieteni și de soții de arme cu o inimă de vechi Roman. Regulus n-a ieșit din senat mai cu mândrie ca prizonierul acesta, când a părăsit castrele romane.</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
         </div>
     </div>
     
     <div type="part" n="9">
-<p>Vezinas</p>
-<p>Istorisire de Nic. T. Zorilă</p>
-<p>(Continuare.)</p>
+        <head>Vezinas. Istorisire de Nic. T. Zorilă.</head>
+        <milestone unit="(Continuare.)"/>
 <div type="section" n="4">
-<p>VI.</p>
+<head>VI.</head>
 <p>Într-o pivniță umedă și rece din locuința lui Vezinas zăcu în diferite despărțăminte mai mulți prizonieri.</p>
 <p>Dintr-un foișor de zid boltit unde păzesc lănceri, omul poate merge în închisoare pe niște uși și trepte de piatră înguste și alunecoase.</p>
 <p>Prizonierii zac pe un așternut de paie putrede și apătoase. Îmbrăcămintea le este mai de tot zdrențuită.</p>
@@ -485,14 +480,13 @@
 <p>Ce nefericire însă. Otrava la al șaselea ostaș s-a sfârșit.</p>
 <p>Așadar ei totuși vor ajunge pe mâna călăului spre a muri de chinurile cele mai lungi și mai înfricoșate?</p>
 <p>Oare soarta spre aceea i-a destinat?</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
     </div>
     </div>
     
     <div type="part" n="10">
-<p>Vezinas.</p>
-<p>Istorisire de Nic. T. Zorilă</p> 
-<p>(Continuare.)</p>
+        <head>Vezinas. Istorisire de Nic. T. Zorilă.</head>
+        <milestone unit="(Continuare.)"/>
         <div type="section" n="4">
 <p>În acest minut Dapix, care vine înainte, ajunge cu o mică făclie la capătul treptelor.</p>
 <p>După el vine Vezinas, apoi îndată cinci lănceri de statură uriașă.</p>
@@ -523,16 +517,15 @@
 <p>„N-ai băgat de seamă,” îi răspunde cel întrebat, „când a intrat, ce față urâtă a făcut? Parcă numai de silă a vorbit”.</p>
 <p>„Ce e drept, eu fiindcă întoars cu spatele către voi nu l-am putut vedea, dar din vocea-i iritată am observat o luptă sufletească. Desigur că nu poate uita prăpastia în care l-a aruncată Ziraxis”.</p>
 <p>„Tăcere!” zice Duras. „Auziți zgomotul? Vin. Vom vedea ce voiește. Doar ne vor spune sentința de moarte. Fiți cu toții deciși. Ei vorbesc în numele tuturor. Ceva îmi spune, că acum se va hotărî soarta noastră.”</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
             </div>
     </div>
     
     <div type="part" n="11">
-<p>Vezinas.</p>
-<p>Istorisire de Nic. T. Zorilă</p>
-<p>(Continuare.)</p>
+        <head>Vezinas. Istorisire de Nic. T. Zorilă.</head>
+        <milestone unit="(Continuare.)"/>
 <div type="section" n="5">
-<p>VII.</p>
+<head>VII.</head>
 <p>Dapix intrând tot tremură de mânie. Ochii plini de ură îl scânteie, iar printre buze murmură: „Așadar tot o să-i ierte. Eu voi fi cu ce am căpătat, fără de a-mi putea răzbuna eu ceva. Asta mă omora. Vom vedea. Sperarea nu mă părăsește”</p>
 <p>În fine stau față în față cu prizonierii.</p>
 <p>Vezinas caută lung și serios la ei cu o privire străpungătoare.</p>
@@ -555,16 +548,15 @@
 <p>Fața lui Dapix se înseninează văzând bucuria cea sinceră din ochii domnului său.</p>
 <p>„Fie!“ zice el în fine pășind un pas înainte și strângând în brațe pe Ziraxis...</p>
 <p>Inima lui Dapix bate cu tărie. Dar ura și setea de răzbunare nu mai sunt într-însul. El mai strânge încă o dată pe Ziraxis în brațe ca pe un adevărată frate, apoi se suie cu toții pe scara, ce duce afară din temniță.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
     </div>
     
     <div type="part" n="12">
-<p>Vezinas.</p>
-<p>Istorisire de Nic. T. Zorilă</p>
-<p>(Continuare.)</p>
+        <head>Vezinas. Istorisire de Nic. T. Zorilă.</head>
+        <milestone unit="(Continuare.)"/>
 <div type="section" n="5">
-<p>VII.</p>
+<head>VII.</head>
 <p>Intrând în casă cu Vezinas, cu Duras cu Ziraxis și cu Dapix aflăm acolo o mare adunare de căpetenii de ale tuturor triburilor încredințate în apărarea cetății.</p>
 <p>Sunt împărțiți în cete mici, și fiește care vorbește despre viitoarea luptă.</p>
 <p>La intrarea beliducelui toți tac și privesc spre noii veniți.</p>
@@ -617,7 +609,7 @@
 <p>Și tot vă numiți urmașii lor!</p>
 </div>
 <div type="section" n="6">
-<p>VIII.</p>
+<head>VIII.</head>
 <p>În mijlocul munților, care se află dincolo de fluviul Marisus, pe un șes presărat ici colea cu brazi și încunjurat juru-împrejur de munți stâncoși și acoperiți de păduri, se văd o mulțime de corturi de ostași.</p>
 <p>Aici e tabăra regelui Decebal.</p>
 <p>În timpul asediului Sarmisegetusei el, precum știm, a adunat în munți o nouă armată spre a cerca ultima dată norocul armelor în contra Romanilor! În depărtări mari a trimis sute de căpitani spre a aduna pe toți bărbații, care pot purta armă.</p>
@@ -640,14 +632,13 @@
 <p>O presimțire i-o spune aceasta.</p>
 <p>Decebal încalecă și însoțit de mai mulți căpitani iese înaintea acestor ostași, pe care îi întâlnește la intrarea în tabără.</p>
 <p>Vezinas călărește în fruntea lor.</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
 </div>
     </div>
     
     <div type="part" n="13">
-<p>Vezinas.</p>
-<p>Istorisire de Nic. T. Zorilă</p>
-<p>(Fine.)</p>
+        <head>Vezinas. Istorisire de Nic. T. Zorilă.</head>
+        <milestone unit="(Fine.)"/>
     <div type="section" n="7">
 <p>„Bine ați venit” salută regele apropiindu-se calul de al beliducelui, mână căruia o strânge și o ține multă vreme într-a sa. „Vino în cortul meu. Acolo ai foarte multe de spus.”</p>
 <p>Pe coastele muntelui într-o pădure de goruni nou-veniții își ridică și ei corturi.</p>

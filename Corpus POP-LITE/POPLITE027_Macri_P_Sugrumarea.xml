@@ -40,12 +40,12 @@
                     <pubPlace>București</pubPlace>
                     <publisher>EDITURA TIPO-LITOGRAFIEI DOR. P. CUCU</publisher>
                     <date>1886</date>
-                    <decoNote type="ilustratii" subtype="yes"/>
-                    <dim unit="char" type="mic"/>
+                    <decoNote type="illustrations" subtype="yes"/>
+                    <dim unit="char" type="small"/>
                     <extent>
                         <measure unit="word">27548</measure>
                         <measure unit="page" type="under_250"/>
-                        <measure unit="foileton" type="under_65"/>
+                        <measure unit="feuilleton" type="under_65"/>
                         <measure type="complete"></measure>
                     </extent>
                 </bibl>
@@ -65,16 +65,16 @@
                     <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
                 </keywords>
                 <keywords>
-                    <term type="receptare" n="under 5"/>
-                    <term type="republicare" n="under 10"/>
+                    <term type="reception" n="under 5"/>
+                    <term type="print_count" n="under 10"/>
                     <term type="finished"></term>                
                 </keywords>
             </textClass>
         </profileDesc>
         <encodingDesc>
             <projectDesc>
-                <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-                <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+                <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+                <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
                 <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
                 <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
             </projectDesc>
@@ -1044,37 +1044,37 @@
 <p>— Ea iubește așa de mult munții și pădurea și te mai plângi de dânsa că ce se va face aici. Dar aici draga mea, e viața cea mai liniștită și ferice de o mie de ori ferice acela care nu va cunoaște lumea. Durerea și necazul, iată ce-l va împresura. Eu am trăit într-ânsa și am gustat prea mult din otrava ei! Rămas de mic orfan, când m-am făcut de 19 ani, m-am simțit destul de puternic pentru a putea munci. Dar fiindcă eram sărac, eram hulit de toți. După multe căutări am găsit un om, care părea a fi bun, blând și cu inimă omenească. Am intrat la el cu o leafă destul de mică și cu însărcinarea de a-i ține socotelile venitului său. Îl slujeam ca un rob, pentru a-l putea mulțumi, și cu toate astea pe fiecare zi îl auzeam bufnind, bârfind. Într-o Duminică își aruncă ochii în condice și le aruncă făcându-mă să înțeleg că l-am înșelat. Nu m-a numit hoț, dar aceasta era ceva mai mult. De mi-ar fi dat această numire, mi-ar fi părut mult mai bine, căci i-aș fi spus în față: Minți boierule, neam de neamul meu nu au fost hoți și nu pot să fiu nici eu. Ai un suflet prea mic, un caracter prea murdar pentru a crede că m-aș înjosi să te fur cu câțiva lei, deși sunt sărac. Și aș fi avut încă îndrăzneala să-i zic: Acel ce crede că toată lumea îl fură, fură el pe toată lumea! Dar pentru că mi-a dat numai să înțeleg că sunt un hoț, n-am putut să-i spun nimic, am înghițit în pieptul meu tot necazul care mă turba, am potolit tot sângele care fierbea în vinele mele și am răbdat până la 15 ale lunii, când socotindu-mă, am plecat de la el. Și de atunci și până în ziua când am luat pușca în mână și calea pădurii, nu am întâlnit decât oameni de felul acesta... Lumea, draga mea, lumea e un hoit putred, pe care fâșâiesc viermii! Vai! de acea inimă, care va încăpea în gura acestor spurcăciuni!... Aș dori să am o putere ca să strâng toată această lume în pumnul meu, să mă uit la ea și s-o scuip!...</p>
 <p>Pe când în afundatul bordei se urmează această convorbire în care Constantin descria așa de bine ticăloasa lume în care și atunci și astăzi trăim; noi să ne retragem puțin pe coasta muntelui din apropiere, pentru a întâlni pe Teodora.</p>
 <p>După ce vom ieși din pădure, vom înainta ca o jumătate de ceas pe o colină verde, unde vom vedea pe frumoasă copilă ascultând cu religiozitate la un păstor, care puțin mai departe, trântit pe iarbă, făcea să răsune văile de acest cântec:</p>
-            <p>Mândruliță, mândra mea!</p>
-            <p>Vin la mine, vin colea,</p>
-            <p>Căci de când eu te-am zărit,</p>
-            <p>Dorul tainic m-a lovit!</p>
-            <p>Mândruliță, mândra mea!</p>
-            <p>Fața-ți albă ca de nea</p>
-            <p>Este mult mai răpitoare,</p>
-            <p>Mai frumoasă ca o floare!</p>
-            <p>Vino dar oh! mândra mea!</p>
-            <p>Înc-o dată a te vedea,</p>
-            <p>Să-ți spun dorul, focul meu</p>
-            <p>Și să mor la sânul tău!</p>
+            <l>Mândruliță, mândra mea!</l>
+            <l>Vin la mine, vin colea,</l>
+            <l>Căci de când eu te-am zărit,</l>
+            <l>Dorul tainic m-a lovit!</l>
+            <l>Mândruliță, mândra mea!</l>
+            <l>Fața-ți albă ca de nea</l>
+            <l>Este mult mai răpitoare,</l>
+            <l>Mai frumoasă ca o floare!</l>
+            <l>Vino dar oh! mândra mea!</l>
+            <l>Înc-o dată a te vedea,</l>
+            <l>Să-ți spun dorul, focul meu</l>
+            <l>Și să mor la sânul tău!</l>
 <p>Teodora ascultându-1, îi pică fără voie o lacrimă din ochii ei. Haiducii îi ziseră:</p>
 <p>— Ce frumos cântă ciobănașul Niță!</p>
 <p>Și iară-și se făcu tăcere, căci păstorul după ce făcu o mică returnelă din caval începu din nou:</p>
-            <p>Peste munți stăpân sunt eu!</p>
-            <p>De ce nu-s stăpân pe focul</p>
-            <p> Care-arzând în pieptul meu</p>
-            <p>Mă omoară cu încetul?!...</p>
-            <p>Am oițe, cer, pământ,</p>
-            <p>Toate, toate-s ale mele!</p>
-            <p>Dar mai bine-i un mormânt,</p>
-            <p>Ca să-ngrop zlele-mi grele!...</p>
-            <p>Tu copilă, draga mea,</p>
-            <p>Pentru ce nu vii la mine,</p>
-            <p>Să stingi focul, jalea grea</p>
-            <p>Și să-nec orice suspine... </p>
-            <p>În pădure, printre flori</p>
-            <p>Stai ascunsă totdeauna,</p>
-            <p>Eu din seară până-n zori</p>
-            <p>Plâng, suspin, oftez într-una!</p>
+            <l>Peste munți stăpân sunt eu!</l>
+            <l>De ce nu-s stăpân pe focul</l>
+            <l> Care-arzând în pieptul meu</l>
+            <l>Mă omoară cu încetul?!...</l>
+            <l>Am oițe, cer, pământ,</l>
+            <l>Toate, toate-s ale mele!</l>
+            <l>Dar mai bine-i un mormânt,</l>
+            <l>Ca să-ngrop zlele-mi grele!...</l>
+            <l>Tu copilă, draga mea,</l>
+            <l>Pentru ce nu vii la mine,</l>
+            <l>Să stingi focul, jalea grea</l>
+            <l>Și să-nec orice suspine... </l>
+            <l>În pădure, printre flori</l>
+            <l>Stai ascunsă totdeauna,</l>
+            <l>Eu din seară până-n zori</l>
+            <l>Plâng, suspin, oftez într-una!</l>
 <p>— Oh! sărmanul Niță, îngână Teodora, când ciobănașul isprăvind cântecul se porni pe un plâns jalnic. Se apropie apoi de dânsul și pe când el sta trântit cu fața la pământ, ea îl atinse ușurel cu mâna și-i zise:</p>
 <p>— Ce mai faci tu Niță?</p>
 <p>— Plâng frumușico, îi răspunse el.</p>
@@ -1129,10 +1129,10 @@
 <p>— Frică? și pentru ce? un adevărat român niciodată nu se teme de un haiduc. Care frate se teme de fratele lui?</p>
 <p>— De boierule, poate că ai dreptate, dar ce pot să-i fac eu?</p>
 <p>În timpul acesta intră și Teodora. Ea venise după coasta muntelui unde trebuia să întâlnească pe ciobanul Niță. Dacă trecea o zi fără a ieși din pădure, din depărtare ea auzea acel cântec duios al păstorului:</p>
-               <p>În pădure, printre flori</p>
-               <p>Stai ascunsă totdeauna;</p>
-               <p>Eu din noapte până-n zori</p>
-               <p>Plâng, suspin, oftez într-una!</p>
+               <l>În pădure, printre flori</l>
+               <l>Stai ascunsă totdeauna;</l>
+               <l>Eu din noapte până-n zori</l>
+               <l>Plâng, suspin, oftez într-una!</l>
 <p>Și atunci un magnet, un farmec o trăgea la acel loc.</p>
 <p>— Oh! mamă! îi zise ea la vederea Vasilcei, de când nu ai mai venit pe aici!</p>
 <p>— Uite Teodoro, pronunța Constantin, muma ta a venit ca să te ia de aici, ce zici, vrei să pleci?</p>
@@ -1141,10 +1141,10 @@
 <p>Constantin se gândi câteva minute, el văzu că nu are niciun drept asupra Teodorei, acestă femeie i-o dete în paza lui și nu putea să abuzeze de o putere mai mare, decât aceea ce avea Vasilca asupra ei.</p>
 <p>— Femeie, îi zise el, nu mă pot împotrivi voinței tale, ia copila și du-te.</p>
 <p>Câteva minute mai în urmă cele două femei erau afară din pădure. Teodora se uită înapoi, văzu copacii cei înalți, auzea șuierăturile haiducilor și auzea parcă glasul duios al ciobănașului, care-i zicea:</p>
-               <p>Unde te duci? eu voi muri</p>
-               <p>Căci făr’a te vedea,</p>
-               <p>Nu se poate a trăi</p>
-               <p>Cel ce-atâta te iubea !</p>
+               <l>Unde te duci? eu voi muri</l>
+               <l>Căci făr’a te vedea,</l>
+               <l>Nu se poate a trăi</l>
+               <l>Cel ce-atâta te iubea !</l>
 <p>Ochii Teodorei erau plini de lacrimi, inima-i bătea cu putere și trebuia să-și pună o prea mare resistență pentru a nu cădea jos.</p>
 <p>Pădurea fu cea dintâi care deșteptase în ea durerea și amorul și acum și-ar fi dat viața toată pentru câteva zile numai, ce ar fi trăit încă în pădurea Măgura, la o depărtare de jumătate ceas de verdea coastă a muntelui...</p>
 <p>Legea nostră creștinească ne zice: din păcatele părinților se pedepsesc fiii. Stiința a demonstrat mai în urmă că acesta e un mare adevăr. Dar legea noastră nu ne zice că suferințele ce le trag părinții de la semenii lor, suferințe născute din tiranie, sunt suferințele perpetue a fiilor.</p>
@@ -1255,17 +1255,17 @@
 <p>„Sunt ani, zise acesta, de când te caut peste tot locul; sunt ani de când sângele clocotește în vinele mele! Și acum când mi-am făcut datoria către omorâtorul părintelui meu, mă duc să găsesc pe Florica, pe logodnica mea!”</p>
 <p>Aruncă apoi o privire duioasă asupra cadavrului Teodorei, își șterse două lacrimi, care îi picară din ochi, și dispăru.</p>
 <p>Până mai acum câțiva ani, cine ar fi trecut prin pădurea Măgura, la o depărtare ca jumătate ceas de orașul Câmpu-Lung, ar fi văzut în acea pădure o cruce de lemn de pe care timpul, care șterge toate, șterse și aceste versuri:</p>
-            <p>Aici când am sosit</p>
-            <p>Ah! moartă te-am găsit</p>
-            <p>Și în groapa ce-am săpat</p>
-            <p>Plângând te-am îngropat!</p>
-            <p>Aicea te-am zărit</p>
-            <p>Și azi ursit eu sunt</p>
-            <p>Să plâng pe-al tău mormânt!</p>
-            <p>Să plâng, să plâng voiesc!</p>
-            <p>Și-n plâns să mă sfîrșesc,</p>
-            <p>Căci cum voi mai trăi,</p>
-            <p>Când sufletu-mi muri?!...</p>
+            <l>Aici când am sosit</l>
+            <l>Ah! moartă te-am găsit</l>
+            <l>Și în groapa ce-am săpat</l>
+            <l>Plângând te-am îngropat!</l>
+            <l>Aicea te-am zărit</l>
+            <l>Și azi ursit eu sunt</l>
+            <l>Să plâng pe-al tău mormânt!</l>
+            <l>Să plâng, să plâng voiesc!</l>
+            <l>Și-n plâns să mă sfîrșesc,</l>
+            <l>Căci cum voi mai trăi,</l>
+            <l>Când sufletu-mi muri?!...</l>
 <p>Și sub aceste rânduri era iscălit: Niță Ciobanul.</p>
 </div>
 </body>
