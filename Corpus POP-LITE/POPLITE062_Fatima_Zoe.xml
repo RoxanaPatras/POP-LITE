@@ -39,12 +39,12 @@
                <pubPlace>București</pubPlace>
                <publisher>FOILETONUL REVISTEI „UNIVERSUL LITERAR”</publisher>
                <date>1892</date>
-               <decoNote type="ilustratii" subtype="no"/>
-               <dim unit="char" type="mare"/>
+               <decoNote type="illustration" subtype="no"/>
+               <dim unit="char" type="big"/>
                <extent>
                   <measure unit="word">4257</measure>
                   <measure unit="page" type="under_250"/>
-                  <measure unit="foileton" type="under_65"/>
+                  <measure unit="feuilleton" type="under_65"/>
                   <measure type="incomplete"></measure>
                </extent>
             </bibl>
@@ -64,8 +64,8 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="under 5"/>
-               <term type="republicare" n="under 10"/>
+               <term type="reception" n="under 5"/>
+               <term type="print_count" n="under 10"/>
                <term type="finished"></term>
                
             </keywords>
@@ -73,22 +73,21 @@
       </profileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
             <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
-            <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma incompleta.</p>
+            <p>Masura de tip "incomplete" indica faptul ca am gasit romanul in forma incompleta.</p>
          </projectDesc>
       </encodingDesc>
    </teiHeader>
   <text>
        <body>
           <div type="part">
-          <p>Universul literar No. 15</p>
-          <p>ZOE</p>
-          <p>SAU</p>
-          <p>DUPĂ DIVORȚ</p>
+          <head>Universul literar</head>
+		  <head>15</head>
+          <head>ZOE SAU DUPĂ DIVORȚ</head>
 <div type="section">
-   <p>(Urmare).</p>
+   <head>(Urmare).</head>
 <p>Bietul Deleanu,  care se simțea de prisos între dânșii, era ca pe ghimpi. Era mulțumit de întorsătura ce o luaseră lucrurile. După fizionomia lui Alexandru, care părea tare mișcat, presimți o împăcăciune între amândoi soții. Se bucură cu deosebire pentru mult încercata Zoe, și-și luă rămas  bun de la ei întru-un mod  foarte amical.</p>
 <p>Zoe presimți și ea niște dispoziții mai bune la Alexandru, dar nu se bucură atât, întâi pentru că suferise prea mult din cauza lui, ca să-l poată ierta așa ușor, apoi pentru că-i cunoștea acum ușurința și nici mai avea atâta încredere în bunele lui rezoluții.</p>
 <p>Oricum, mândria ei o făcu să înlăture pentru moment orice altă explicație; de aceea, în timpul când Alexandru îl conducea pe Deleanu, ea se retrase numaidecât în camera ei.</p>
@@ -100,7 +99,7 @@
 <p>Alexandru avu și de această dată ocazia de a prețui delicateța și discreția Zoei, care îl lăsa stăpân de-a regula situației cum ar voi el, punându-se  la discreția lui.</p>
 </div>
 <div type="section">
-<p>XI</p>
+<head>XI</head>
 <p>Cel dintâi lucru pe care-l făcu Alexandru, după ce se sculă, fu să scrie Elvirei pentru a-și lua adio de la dânsa.</p>
 <p>„Nu pot să te părăsesc, draga mea Elviro — îi scria el— fără să-ți explic cauza care m-a adus la această crudă și dureroasă extremitate. Femeia mea a aflat legătura noastră, și tu ești oleacă de vină. Ea m-a lăsat, a ieșit din casă, nevoind să știe de nimic, cât timp nu rup cu tine. Ce pot face, dragă Elviro? Să mă despart acum după 15 ani de căsătorie și când ea nu mi-a  dat cel mai mic motiv de plângere? Aș ridica lumea contra mea, ar fi un scandal, în fine văd că este imposibil. Dar bun este Dumnezeu, poate ne vom regăsi odată iar, căci tu mă iubești oleacă. Eu nu te voi uita niciodată. Din când în când îmi vei face plăcerea să primești câte un  mic dar de la mine. De această dată primește biletul acesta, cu care-ți vei cumpăra ce vei pofti în amintirea celui ce te va iubi întotdeauna.</p>
 <p>Scrisoarea lui o găsi pe Elvira în momente de disperare.</p>
@@ -133,7 +132,7 @@
 <p>Ieși din casă cu moartea în suflet, curgându-i șiroaie de lacrimi pe obraz.</p>
 </div>
 <div type="section">
-<p>XII</p>
+<head>XII</head>
 <p>Moșul nostru, care cam ostenise istorisind, se opri câteva minute, apoi urmă:</p>
 <p>Zoe rămase nedumerită în stradă, apoi apucă spre casa noastră, căci mătușa noastră îi era cea mai bună amică.</p>
 <p>Cu greu putu să ne spună cele ce i se întâmplaseră, căci se zbuciuma de durere.</p>
@@ -145,12 +144,11 @@
           </div>
           
           <div type="part">
-             <p>Universul literar No. 16</p>
-             <p>ZOE</p>
-             <p>SAU</p>
-             <p>DUPĂ DIVORȚ</p>
+             <head>Universul literar</head>
+		  <head>16</head>
+             <head>ZOE SAU DUPĂ DIVORȚ</head>
 <div type="section">
-<p>(Urmare)</p>
+<head>(Urmare)</head>
 <p>— Îmi închipui de ce-ai venit — îmi zise el— Zoe este la d-ta?</p>
 <p>— Ea m-a trimis,— îi zisei,—-căci vrea numaidecât să plece din Vaslui.</p>
 <p>— O înțeleg. Trebuie să am grija ei, măcar atât, după loviturile pe care i le-am dat. Nenorocul ei și-al meu, dragă amice, a fost ca Elvira să vină peste mine. D-zeu mi-e martor că nu în vederea acestei urmări am anunțat-o că soția m-a părăsit. Sunt mișel însă, o recunosc, și n-am avut curajul să iau asupra mea răspunderea acestei ruperi, ci îi arătai că mi se impunea. Sunt mișel și acum, căci cu toată conștiința ce am despre conduita nedemnă a Elvirei, n-am curajul s-o iau de spate, s-o dau afară; în scurt nu pot scăpa de dânsa. Apoi,— adaugă el vorbind încet de tot,— nici nu este așa ușor, cum și-ar închipui un neștiutor, să te scuturi de femei ca Elvira. Pe acestea nu le poți depărta c-o vorbă. Ele n-au mândria Zoei. Pentru rușinea mea declar că nu mă mai simt capabil de-a lucra contra voinței acestei femei care m-a înlănțuit, m-a fermecat. Cine știe dacă nu m-aș fi întors la dânsa chiar dacă mă împăcăm cu Zoe? Aceasta a fost prea perfectă pentru mine, prea bună, prea încrezătoare. Ca să mă domine trebuia să aibă calități d-ale Elvirei. Iată, scumpul meu, am trei mii de galbeni în casă. Îi dau toți Zoei și cu o poliță de alți trei mii de galbeni pe care-i voi plăti curând. Acești bani sunt averea rămasă de la părinții ei. I s-ar cuveni însă jumătate din averea mea, căci cu dânsa am adunat-o. O voi mai asigura în moșie pentru suma de șase mii de galbeni. Le dau cuvântul de onoare. Acum fii bun și spune-i că o rog să nu ceară divorț prin tribunal, să-mi poarte numele, căci va fi cu demnitate purtat, să mă ierte că sunt atât de pecătos. Cred că am să am iar nevoie de dânsa.</p>
@@ -164,7 +162,7 @@
 <p>La primirea acestor înștiințări, biata Zoe, simțea o supărare adâncă. Iubirea ce simțea încă pentru dânsul, unită cu mila și ciuda ce i-o cauza purtarea lui, îî cauzase o durere nespusă, și ne scria cum se roagă lui Dumnezeu zi și noapte pentru a-i limpezi mintea acestui nenorocit, ca să înțeleagă odată că acea femeie își bate joc de dânsul. Ceea ce făcea mai mult pe Zoe să se teamă de soarta bărbatului său, nu era că ar rămâne sărac, dar să nu ajungă la dezonoare. Odată alunecat, cine știe unde s-ar putea opri?</p>
 </div>
              <div type="section">
-<p>XIII</p>
+<head>XIII</head>
 <p>În timpul acesta se produse o schimbare în viața Zoei.</p>
 <p>Lucrând într-o zi la fereastră, aude o trăsură oprindu-se la ușa ei. Aceasta o surprinse mult, căci era întâia vizită ce o primea de când venise la Iași. Abia avu timp să lase lucru, și să iasă pentru a vedea cine este, când se pomeni față în față cu Deleanu.</p>
 <p>Vederea lui îi făcu atâta surpriză și plăcere încât nu se putu opri de-a i-o arăta.</p>
