@@ -39,12 +39,12 @@
                <pubPlace>București</pubPlace>
                <publisher>FOILETONUL REVISTEI „SĂPTĂMÂNA ILUSTRATĂ”</publisher>
                <date>1893</date>
-               <decoNote type="ilustratii" subtype="no"/>
-               <dim unit="char" type="mare"/>
+               <decoNote type="illustration" subtype="no"/>
+               <dim unit="char" type="big"/>
                <extent>
                   <measure unit="word">2916</measure>
                   <measure unit="page" type="under_250"/>
-                  <measure unit="foileton" type="under_65"/>
+                  <measure unit="feuilleton" type="under_65"/>
                   <measure type="incomplete"></measure>
                </extent>
             </bibl>
@@ -64,8 +64,8 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="under 5"/>
-               <term type="republicare" n="under 10"/>
+               <term type="reception" n="under 5"/>
+               <term type="print_count" n="under 10"/>
                <term type="finished"></term>
                
             </keywords>
@@ -73,22 +73,20 @@
       </profileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
             <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
-            <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma incompleta.</p>
+            <p>Masura de tip "incomplete" indica faptul ca am gasit romanul in forma incompleta.</p>
          </projectDesc>
       </encodingDesc>
    </teiHeader>
   <text>
        <body>
           <div type="part">
-             <p>Săptămâna iliustrată</p>
-             <p>MĂRITATĂ!</p>
-             <p>ROMAN NOU</p>
+             <head>Săptămâna ilustrată</head>
+             <head>MĂRITATĂ! ROMAN NOU</head>
 <div type="section" n="1">
-          <p> I </p>
-		   <p>Știri diferite </p>
+          <head> I. Știri diferite </head>
 		   <p>Cînd deschise ochii, Emil Victorian, noul redactor la Republicanul, zări pe masa din mijloc ziarele de seara, care ședeau trîntite deauspra cărților, hîrtiilor și ziarelor vechi, uitate de săptămîni întregi în același loc. </p>
 		   <p>Pe fereastra îngustă, soarele de primăvară pătrundea vesel în odaia de obicei posomorîtă, și, cum dormise destul de bine, tînărul se simți vesel și el, gata la orice lucru pe care altădată nu l-ar fi făcut.</p>
 		   <p>I se păru că ar găsi ceva nou, aproape plăcut în aceste gazete pe care se desprinse să le disprețuiască, nedeschizîndu-le cu lunile. </p>
@@ -116,14 +114,14 @@
            <p>«Anunțăm cu plăcere căsătoria fostului nostru colaborator D. Paul Vestian. cu gentila Domnișoară Lacremonia Bereanu, fiica D-lui maior în retragere Mi-ha.il Bereanu, din Focșani. </p>
            <p>«Transmitem tinerilor soți și fericiților părinți, felicitările noastre cele mai cordiale.» </p>
            <p>-Ce banal! șopti el, cînd isprăvi. Măcar pentru un fost colaborator, trebuiau sa mai schimbe fraza... </p>
-           <p>Apoi, cu un fel do desgust pentru iubita-1 meserie pe care o vedea și de astă dată profanată: </p>
+           <p>Apoi, cu un fel do desgust pentru iubita-i meserie pe care o vedea și de astă dată profanată: </p>
            <p>— Cine dracul o fi scris-o ?</p>
            <p>Dar alt gînd îl stăpîni îndată și rămase visător, cu o adâncă mâhnire întipărită pe față.</p>
            <p>Deodată ușa se deschise largă și un om mijlociu, blond, spilcuit, cu un joben nou ca și mănușile și ghetele, rămase în prag cu clanța lovită de perete.</p>
            <p>Un rîs plin umplu odaia în același timp cu valul gros de lumină, și glasul cunoscutului reporter al Republicanului, răsună : </p>
            <p>- Hă! hă! tot nu te-ai mai sculat mă! Ce dracu! e unu aproape... </p>
            <p>Cu o mișcare elegantă, scoase ceasornicul fără lanț, se uita la el de sus, dînd puțin capul pe spate cu o cochetărie de cocotă, adăogînd: </p>
-           <p>— Uite douăsprezece jumătate' </p>
+           <p>— Uite douăsprezece jumătate. </p>
            <p>Ca hipnotizat, Emil se uită și el la ceasornicul de pe masă, deșteptător de opt lei și zise: </p>
            <p>- Așa e! </p>
            <p>Apoi, desmețit, ca să nu pară rău crescut, întrebă: </p>
@@ -153,8 +151,7 @@
            <p>— La revedere! sfîrși el, și trîntind ușa ca un om căruia nu-i pasa de nimic, plecă, zîmbitor. </p>
            </div>
 <div type="section" n="2">
-           <p>II </p>
-           <p>Noapte de nuntă</p>
+           <head>II . Noapte de nuntă</head>
            <p>Pregătirile, zgomotul fără margini care dura de mai bine de o săptămînă, îi ținea într-o amețeală nesfîrșită, o beție ciudata pe care pînă atunci nici ei nu căutaseră să o înlăture. </p>
            <p>Și acum, aduși pînă în mijlocul odăii de culcare, de către nuna bine dispusă de excelenta șampanie care spumega cu viclenie în paharele largi de cristal, stăteau nehotăriți, cu urechile pline de sunetele orchestrei care nu mai incetau, cu mintea obosită de larma pe care o înduraseră din zori de ziuă. </p>
             <p>Printr’o sforțare neașteptată, el izbuti să se dezmeticească puțin. Și cum ea făcuse câțiva pași mai mult decit dînsul, se apropie zîmbito apucă de mijloc, și întrebă: </p>
@@ -162,20 +159,18 @@
             <p>Fată tresări. </p>
             <p>Era așa de deprins cu gîndul asta încît, în acel moment, el nu înțelegea cum s-ar fi putut supăra cineva pentru atîta lucru, și apoi, pentru ce erau acolo amîndoi, singuri, pe cînd în celelalte odăi toată lumea remăsese să petreacă pînă a douazi ? </p>
             <p>Dar într’însa, toată educația dintîi, primită de la călugărițe, toată fățărnicia pe care societatea o impune mai ales femeilor, fu răscolită cu putere, de aceste cuvinte atît de simple, atît de firești. Sîngele îi pieri din față pentru o clipă, spre a se întoarce mai mult, mai aprins, umflîndu-î vinele. Se smunci din slaba lui îmbrățișare și, cu glasul șuierător, țipă: </p>
-            <p>—Lasă mă ! </p>
-            <p>(Va urma). </p>
+            <p>—Lasă-mă ! </p>
+            <trailer>(Va urma). </trailer>
            <p>Eugen Vaian</p>
 </div>
              </div>
              
            
           <div type="part">
-             <p>Săptămâna iliustrată</p>
-             <p>MĂRITATĂ!</p>
-             <p>ROMAN NOU</p>
+             <head>Săptămâna iliustrată</head>
+             <head>MĂRITATĂ! ROMAN NOU</head>
              <div type="section" n="2">
-                <p> II</p>
-           <p>Noapte de nuntă</p>
+                <head> II. Noapte de nuntă</head>
              <p>El rămase ca trăsnit.I se păru că se clatenă, că are să cadă, atît de deosebit era răspunsul pe care’l primise, de cel pe care’l aștepta. </p>
              <p>În sfîrșit, căutînd să’și stăpînească revolta, noînțelegînd ce însemnă această izbucnire de mînie neîndreptățită de nimic,  crezînd după o secundă că a fost numai o părere, făcu din nou un pas către dînsa. Zîmbi în silă și întrebă, căutînd accentele cele mai dulci, aproape înduioșătoare: </p>
              <p>— Ce ai, duduie ?. </p>
@@ -204,8 +199,8 @@
              <p>Dar ea se zmunci și mai întărtată, dădu drumul plînsului: </p>
              <p>— Fugi! Lasă-mă ! țipă ea, bătînd din picior și răsturnînd de pe toaletă o elegantă sticluță de parfum. </p>
              <p>Apoi, după o clipă, începu a’și smulge furioasă hainele de pe dînsa, rupîndu-Ie cu ciudă, aruncîndu-le în toate părțile. Cînd obosi, se aruncă pe patul nedesfăcut, își înfundă capul în perne, plîngînd înăbușit, pănă ce adormi. </p> 
-             <p>Eugen Vaian </p>
-             <p>(Va urma). </p>
+             <trailer>Eugen Vaian </trailer>
+             <trailer>(Va urma). </trailer>
              </div>
           </div>
         </body>
