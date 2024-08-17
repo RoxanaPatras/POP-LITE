@@ -36,12 +36,12 @@
                     <pubPlace>București</pubPlace>
                     <publisher>FOILETONUL REVISTEI „DUMINECA”</publisher>
                     <date>1905</date>
-                    <decoNote type="ilustratii" subtype="no"/>
-                    <dim unit="char" type="mic"/>
+                    <decoNote type="illustration" subtype="no"/>
+                    <dim unit="char" type="small"/>
                     <extent>
                         <measure unit="word">16604</measure>
                         <measure unit="page" type="under_250"/>
-                        <measure unit="foileton" type="under_65"/>
+                        <measure unit="feuilleton" type="under_65"/>
                         <measure type="complete"></measure>
                     </extent>
                 </bibl>
@@ -61,16 +61,16 @@
                     <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
                 </keywords>
                 <keywords>
-                    <term type="receptare" n="under 5"/>
-                    <term type="republicare" n="under 10"/>
+                    <term type="reception" n="under 5"/>
+                    <term type="print_count" n="under 10"/>
                     <term type="finished"></term>                
                 </keywords>
             </textClass>
         </profileDesc>
         <encodingDesc>
             <projectDesc>
-                <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-                <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+                <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+                <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
                 <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
                 <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
             </projectDesc>
@@ -80,8 +80,8 @@
   <body>
 
 <div type="part">
-    <p>COPILAȘII MĂRIOAREI</p>
-    <p>ROMAN</p>
+    <head>COPILAȘII MĂRIOAREI</head>
+    <head>ROMAN</head>
 <div type="section">
 <p>Întâiul prilej pentru o evenimentele ce vom povesti s-a întâmplat în chipul următor, Surioara mea măritata mi-a adresat o scrisoare, mie, Harro Burkner, comersant și holtei în vârstă de 28 ani. Am primit scrisoarea tocmai când chibzuiam cum să petrec cele 14 zile de concediu de care dispuneam,</p>
 <p>Schondorf, 16 Iunie 1878</p>
@@ -127,12 +127,11 @@
 <p>— Ah, da, Maria și Martha, crezi!</p>
 <p>— Da, tocmai Marfa zic și eu !</p>
 <p>— Tu, vlau să văd seasonicu, zise Teddi, apucând lanțul de la vesta mea și încălecând pe genunchii mei. O-ho! Și eu vreau strigă Bob încălecându-mă de asemenea și ștergându-și ghetele de pantalonii mei.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
 </div>
     <div type="part">
-        <p>COPILAȘII MĂRIOAREI</p>
-        <p>ROMAN</p>
+        <head>COPILAȘII MĂRIOAREI. ROMAN</head>
         <div type="section">
 <p>Scoasei prețiosul meu ceas de aur și le arătai cadranul cu arătătorii.</p>
 <p>— Așa, nu asta vreau! Roțile care se-nvârtesc, vreau să le văd ! Roțile vreau, șuieră Bob.</p>
@@ -205,12 +204,11 @@
 <p>Atunci Iona a început să plângă și i s-a făcut milă lui D-zeu și l-a scos din pește afară !</p>
 <p>— Pește afară! repetă ecoul.</p>
 <p>— Nene Addo, mai spune !</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
             </div>
     </div>
       <div type="part">
-          <p>COPILAȘII MĂRIOAREI</p>
-          <p>ROMAN</p>
+          <head>COPILAȘII MĂRIOAREI. ROMAN</head>
           <div type="section">
 <p>Întâiul prilej pentru evenimentul ce vom povesti, s-a întâmplat în timpul următor. Surioara mea mi-a adresat o scrisoare, mie, Burkner, comersant și holtei care stă de 28 ani. Am primit scrisoarea tocmai când chibzuiam cum trec cele 14 zile de concediu de care dispuneam</p>
               
@@ -260,12 +258,11 @@
 <p> Da, tocmai Marfa zic si eu ! </p>
 <p> Tu, vlau să văd seasonicu, zise Teddi, apucând lanțul de la vesta și încălecând pe genunchii mei.</p>
 <p> Și eu vreau ! strigă Bob încălecându-mă de asemenea și ștergându-și ghetele de pantalonii mei.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
       </div>
           <div type="part">
-              <p>COPILAȘII MĂRIOAREI</p>
-              <p>ROMAN</p>
+              <head>COPILAȘII MĂRIOAREI. ROMAN</head>
               <div type="section">
 <p> — Ba nu, zise Bob, mai bine câtă-ne ceva !</p>
 <p> Începui să cânt o romanță sentimentală.</p>
@@ -368,12 +365,11 @@
 <p>D zeu știe că, ce am îgânat atunci nu a fost o rugăciune</p>
 <p>— Nene Har-rrooo !!</p>
 <p>— Ee! Stai băiete că te învăț eu carte, zisei în gândul meu. Poți să strigi cât poți, nu mă mișc.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
                   </div>
           </div>
       <div type="part">
-          <p>COPILAȘII MĂRIOAREI</p>
-          <p>ROMAN</p>
+          <head>COPILAȘII MĂRIOAREI. ROMAN</head>
           <div type="section">
 <p>— Nene Harrrrrooo ?</p>
 <p>Strigă, tinere, strigă până răguși!</p>
@@ -506,12 +502,11 @@
 <p>— Așa acum povestește-ne altceva.</p>
 <p>Eram ferm decis să nu mă mai hazardez în istorisiri biblice, căci experiența făcută în această direcție nu mă încură  deloc.</p>
 <p>Încercai deci cu o povestire războinică.-</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
               </div>
       </div>
       <div type="part">
-          <p>COPILAȘII MĂRIOAREI</p>
-          <p>ROMAN</p>
+          <head>COPILAȘII MĂRIOAREI. ROMAN</head>
           <div type="section">
 <p>— ROA</p>
 <p>— Știți ce este un război? întrebai eu pentru a face recunoașterea terenului.</p>
@@ -566,12 +561,11 @@
 <p>In acel moment o bătaie ușoară în ușă ne întrerupse,</p>
 <p>— Intră ! strigai eu.</p>
 <p>Cu o mutră foarte misterioasă intră vizitiul Hinnerk și îmi predă o scrisoare împreună cu cutia pe care i-o încredințasem odinioară, cutia în care pusesem florile destinate d-șoarei Cora Maybach.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
       </div>
       <div type="part">
-          <p>COPILAȘII MĂRIOAREI</p>
-          <p>ROMAN</p>
+          <head>COPILAȘII MĂRIOAREI. ROMAN</head>
           <div type="section">
 <p>Ce putea să însemneze aceasta? Cu violență, smulg cutia din mâinile vizitiului, și în aceiaș clipă Teddi scoase un țipăt.</p>
 <p>— O, uite, uite-o, iaca tutusa de la papusa mea, iaca, uite !</p>
@@ -642,12 +636,11 @@
 <p>— M-m, vlau în pat la tine, nene!</p>
 <p>— De ce Teddi 1</p>
 <p>— Ca să ne dăm dea bebeleatu. Papa ne lasă în toate Duminisele în pat la el ca să ne dăm dea bebeleatu.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
           </div>
       </div>
       <div type="part">
-          <p>COPILAȘII MĂRIOAREI</p>
-          <p>ROMAN</p>
+          <head>COPILAȘII MĂRIOAREI. ROMAN</head>
           <div type="section">
 <p>Un strigăt de bucurie era răspunul lui Bob.</p>
 <p>Intr-o clipă sări din pătuțul lui și fu lângă mine, în partea lăsată liberă de Teddi.</p>
@@ -673,14 +666,16 @@
 <p>Spre bucuria copiilor, ucisei pe drum un șarpe, cu care ocazie mi-am rupt bastonul.</p>
 <p>Din fericire, una din bucăți era tocmai bună spre a servi lui Bob de baston.</p>
 <p>M-am folosit de întoarcere spre a încheia o convenție solemnă cu Bob care se obligă în numele său și al fratelui său :</p>
-<p>1. Să nu facă nici o încercare de a pătrunde în camera mea:</p>
+
+		  <p>1. Să nu facă nici o încercare de a pătrunde în camera mea:</p>
 <p>2. Să nu se bată între ei:</p>
 <p>3. De a căra gunoi numai cu lopata iar nu cu pălăriile, nici cu șorțul;</p>
 <p>4. De a nu rupe flori;</p>
 <p>5. De a nu pompa apa:</p>
 <p>6. De a înștiința pe bucătăreasă despre orice accident:</p>
 <p>7. De a nu construi case din cărțile noi ce am depus în sala de lectură.</p>
-<p>In caz de îndeplinire a acestor condițiuni mă obligam de a permite lui Bob să se ducă în școala de Duminică.</p>
+
+		  <p>In caz de îndeplinire a acestor condițiuni mă obligam de a permite lui Bob să se ducă în școala de Duminică.</p>
 <p>Deoarece între orele 11 și 1 Teddi era de obicei culcat, mă puteam duce la biserică liniștit, cu gândul că Bob singur nu va comite nici un dezastru.</p>
 <p>In biserică, servitorul îmi indică o strană închisă.</p>
 <p>La intrare, mă găsii față în față cu, d-șoara Cora Maybach.</p>
@@ -710,12 +705,11 @@
 <p>— Vezi, nene Harro, îmi explică Bob pe drum,—școala nu era deschisă și m-am gândit să vin la Biserică și te-am căutat în pupitru lui papa și am știut că trebuie să fii undeva și d-aia te-am tot căutat.</p>
 <p>- Domnul să te binecuvânteze, zisei în mintea mea, apoi adăugai tare, sărutându-l :</p>
 <p>— Nu-i nimic, Bob, te-ai purtat foarte bine, sunt mulțumit.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
       </div>
       <div type="part">
-          <p>COPILAȘII MĂRIOAREI</p>
-          <p>ROMAN</p>
+          <head>COPILAȘII MĂRIOAREI. ROMAN</head>
 <div type="section">
 <p>Masa de Duminică era neîntrecută. Dar eram neliniștit: aveam remușcări din cauză că poate nu făceam îndeajuns pe copil să înțeleagă și să simtă importanța acestei zile solemne.</p>
 <p>Mă hotărîi deci să-l întreb cum proceda Duminica tatăl lor.</p>
@@ -786,12 +780,11 @@
 <p>De odată auzii o serie de țipete grozave.</p>
 <p>Înspăimântat, întorsei capul și văzui fața îngrozită a lui Bob care se apleca peste apă.</p>
 <p>Teddi căzuse în balta noroioasă și apucând mâna întinsă a fratelui său, căzu și acesta înăuntru.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
       </div>
           <div type="part">
-              <p>COPILAȘII MĂRIOAREI</p>
-              <p>ROMAN</p>
+              <head>COPILAȘII MĂRIOAREI. ROMAN</head>
 <div type="section">
 <p>Dintr-o săritură fusei lângă dânșii și apucând pe unul de un braț, pe celalt de alt braț începui să trag.</p>
 <p>Dar, o, nenorocire! Piatra pe care stam se afundă în noroi și, la rândul meu făcui o bae de nămol.</p>
@@ -853,12 +846,11 @@
 <p>Și chiar dacă veniți, vă invit la noi pentru restul verei.</p>
 <p>O repet: copii sunt niște îngeri și Cora Maybach e un înger și eu sunt cel mal fericit muritor din toată branșa manufacturei.</p>
 <p>Te îmbrățișez frățește Harro*.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
           </div>
           <div type="part">
-              <p>COPILAȘII MĂRIOAREI</p>
-              <p>ROMAN</p>
+             <head>COPILAȘII MĂRIOAREI. ROMAN</head>
               <div type="section">        
 <p>A doua zi dimineață caut pe nepoții mei.</p>
 <p>Aveam nevoie de a vorbi pe cineva.</p>
@@ -919,12 +911,11 @@
 <p>Ce-i Teddi? Ce s-a întâmplat?</p>
 <p>— Bob m-a bătut! — Hu — u — u! —</p>
 <p>— Bob, cum îndrăznești să bați pe fratele tău?</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
           </div>
           <div type="part">
-              <p>COPILAȘII MĂRIOAREI</p>
-              <p>ROMAN</p>
+              <head>COPILAȘII MĂRIOAREI. ROMAN</head>
 <div type="section">
 <p>— Da nici nu l-am bătut?</p>
 <p>— Ba da! strigă Teddi furios.</p>
@@ -1017,12 +1008,11 @@
 <p>— Acuma dragă Teddi mulțumesc c-ai fost tare cuminte, răsună glasul Teddi, — vin la mama să te sărute</p>
 <p>Dorind să știu cine figura pe Teddi în sceneta în care Teddi însuși avea rolul mamei, băgai încet capul prin ușa întredeschisă.</p>
 <p>Spectacolul ce se înfățișă ochilor mei, mă făcu să rămîn împietrit.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
           </div>
       <div type="part">
-              <p>COPILAȘII MĂRIOAREI</p>
-              <p>ROMAN</p>
+              <head>COPILAȘII MĂRIOAREI. ROMAN</head>
               <div type="section">
 <p>Îmi era cu neputință să pot cuprinde cu vederea întregul spectacol. Teddi credea, că dacă un album cu portrete se prinde bine pe masă, de ce adică n-ar tăia dintr-însul toate figurile, și nu le-ar lipi de arândul pe perete? Una după alta, neținând cont dacă se potrivește sau nu, le-a întins până la ușa care duce în odăița lui.</p>
 <p>Și dacă din întâmplare a căzut vreunul din acele poze, nu se vedea decât restul de gumă cu care a fost lipit, și cum strălucea pe frumoasele tapete din perete.</p>
@@ -1144,12 +1134,11 @@
 <p>Bine a zis cine a zis că copiii sunt niște diavoli pe pământ.</p>
 <p>L-am luat în brațe de necaz și l-am dus în casă din care cauză a început să țipe chemând în ajutor pe amicul lui lăsat singur în casă.</p>
 <p>— Bob! Bob! strigă el.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
       </div>
           <div type="part">
-              <p>COPILAȘII MĂRIOAREI</p>
-              <p>ROMAN</p>
+             <head>COPILAȘII MĂRIOAREI. ROMAN</head>
 <div type="section">
 <p>N-a fost nevoie de mai mult pentru ca și micul Bob să vină afară în care interval luptam cu celălalt ca să-l duc în casă.</p>
 <p>„Am venit!” strigă Bob către Teddi.</p>
@@ -1235,12 +1224,11 @@
 <p>— Am visat ceva frumos.</p>
 <p>— Și ce ai visat ?</p>
 <p>Aici Teddi îl poftește pe micul Bob să se așeze lângă dânsul și să-i acorde toată atenția, în care interval profitai de ocazie lăsându-i singuri pe amândoi.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
           </div>
           <div type="part">
-              <p>COPILAȘII MĂRIOAREI</p>
-              <p>ROMAN</p>
+              <head>COPILAȘII MĂRIOAREI. ROMAN</head>
               <div type="section">
                   
 <p>N-a trecut multă vreme, și am părăsit acest oraș unde am stat atâta timp în apropierea alor mei.</p>
@@ -1278,7 +1266,7 @@
 <p>— Ce face și timpul!</p>
 <p>Din copiii cei mici pe care îi băteam ca să fie cuminți, au ieșit bărbați cu vază, oameni cu situații strălucite.</p>
 <p>Așa e, și toate acestea le face vremea.</p>
-<p>SFIRȘIT</p>
+<trailer>SFIRȘIT</trailer>
           </div>
       </div>
   </body>
