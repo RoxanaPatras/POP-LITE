@@ -67,7 +67,7 @@
                 <keywords>
                     <term type="reception" n="under 5"/>
                     <term type="print_count" n="under 10"/>
-                    <term type="unfinished"></term>                
+                    <term type="finished"></term>                
                 </keywords>
             </textClass>
         </profileDesc>
@@ -75,8 +75,8 @@
             <projectDesc>
                 <p>Cuvantul cheie de tip "receptions" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
                 <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
-                <p>Cuvantul cheie de tip "unfinished" indica stadiul realizarii operei de catre autor.</p>
-                <p>Masura de tip "incomplete" indica faptul ca am gasit romanul in forma completa.</p>
+                <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
+                <p>Masura de tip "incomplete" indica faptul ca am gasit romanul in forma incompleta. Este un roman-foileton inedit din care au fost editate 12 numere. Apar erori de numerotare in versiunea tiparita</p>
             </projectDesc>
         </encodingDesc>
     </teiHeader>
