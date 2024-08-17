@@ -39,12 +39,12 @@
                     <pubPlace>București</pubPlace>
                     <publisher>FOIȚA REVISTEI „DUMINECA”</publisher>
                     <date>1910</date>
-                    <decoNote type="ilustratii" subtype="no"/>
-                    <dim unit="char" type="mic"/>
+                    <decoNote type="illustration" subtype="no"/>
+                    <dim unit="char" type="small"/>
                     <extent>
                         <measure unit="word">13619</measure>
                         <measure unit="page" type="under_250"/>
-                        <measure unit="foileton" type="under_65"/>
+                        <measure unit="feuilleton" type="under_65"/>
                         <measure type="incomplete"></measure>
                     </extent>
                 </bibl>
@@ -64,16 +64,16 @@
                     <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
                 </keywords>
                 <keywords>
-                    <term type="receptare" n="under 5"/>
-                    <term type="republicare" n="under 10"/>
+                    <term type="reception" n="under 5"/>
+                    <term type="print_count" n="under 10"/>
                     <term type="finished"></term>                
                 </keywords>
             </textClass>
         </profileDesc>
         <encodingDesc>
             <projectDesc>
-                <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-                <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+                <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+                <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
                 <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
                 <p>Masura de tip "incomplete" indica faptul ca am gasit romanul in forma incompleta.</p>
             </projectDesc>
@@ -82,11 +82,12 @@
   <text>
 <body>
     <div type="part" n="1">
-<p> FOIȚA REVISTEI «DUMINICA» </p>
-<p> 1) </p>
-<p> Triumful Iubirii </p>
+<head> FOIȚA REVISTEI «DUMINICA» </head>
+<head> 1) </head>
+<head> Triumful iubirii </head>
+    <head> Roman de D. Nicolescu-Wollmar </head>
 <div type="section">
-<p> La bal </p>
+<head> La bal </head>
 <p> Era ziua de 2 Mai 1866 când frumosul sublocotenent Victor Chirculescu îmbrăca pentru prima oaară uniforma de mare ținută a regimentului 2 de artilerie, urmând a se prezenta comandantului diviziei București din care făcea parte. </p>
 <p> Într-o ținută ireproșabilă, el se prezentă generalului, care îl primi cu mare bunăvoință. În salon făcu cunoștința tânărului locotenent Mișu Papadopol, care venise în același scop la general, căci cu trei zile înainte fusese permutat, din Buzău, în urma înaintării la gradul de locotenent. După o jumătate de oră ambii ofițeri părăsiră pe general și, suindu-se în trăsură, se plimbară câtva timp, apoi s-au despărțit plecând prin oraș. </p>
 <p> În ziua de 10 mai mare paradă militară. Trupele defilară fără greșeală, iar ofițerii, în ținuta lor falnică, au fost admirați. Seara, după obișnuita retragere cu torțe, se anunțase un bal la cercul militar. La orele 9 începură să sosească ofițerii din diferite arme. La orele 10 sala se umpluse cu felurite uniforme care de care mai strălucitoare sub potopul de lumină. Doamnele și domnișoarele, în toalete elegante, cu rochii albe, aveau aspectul unor zâne din povești. Pe la 10 și jumătate toate conversațiile încetară și privirile tuturor se îndreptară spre intrarea principală unde, în sunetul melodios al muzicii militare, își făcea apariția d-nul general Mitulescu, un bărbat de 50-55 ani, căruia însă nu i-ai fi dat mai mult de 45 ani, însoțit de d-na Elena Mitulescu, un tip de frumusețe, ce avea numai 33 ani, și d-ra Elena Mitulescu, fiica sa, de 17 ani, care semăna mamei sale, fiind de o frumusețe strălucitoare. Ambele purtau rochii albe și pantofi mici de lac. </p>
@@ -119,16 +120,17 @@
 <p> — Vai! Doamne, zise el, cu ce am greșit eu spre a merita o astfel de pedeapsă? De ce mi-ai mai scos în calea mea pe această ființă ? De ce ai zis inimii mele «iubește-o»? De ce nu m-ai chemat la tine înainte de a primi acest bilet care nu este altceva decât condamnarea mea? De ce, de ce? </p>
 <p> Se așeză pe un scaun, și, ascunzâudu-și fața în mâini, începu să plângă ca un copil. După ce se mai liniști, începu să reflecteze mai serios, zicându-și: </p>
 <p> — Nebun ce am fost, când mi-am făurit astfel de planuri! </p>
-<p> (Va urma)  D. Nicolescu-Wollmar </p>
+<trailer> (Va urma)  D. Nicolescu-Wollmar </trailer>
     </div>
     </div>
     
     <div type="part" n="2">
-<p> FOIȚA REVISTEI «DUMINICA» </p>
-    <p> 2) </p>
-    <p> Triumful Iubirii </p>
+<head> FOIȚA REVISTEI «DUMINICA» </head>
+    <head> 2) </head>
+    <head> Triumful iubirii </head>
+    <head> Roman de D. Nicolescu-Wollmar </head>
 <div type="section">
-<p> Zbucium </p>
+<head> Zbucium </head>
 <p> «Ce minte am avut și ce copilărește am judecat! Cum mi-am putut ridica ochii până la fata generalului, eu, un simplu ofițer; cum mi-am putut închipui că m-aș putea uni cu fata bogatului general, eu, un om care sper numai în leafa mea, neavând o altă sursă de câștig, eu, care sunt fiul unor oameni, deși muncitori și cinstiți, iubiți de toată lumea, dar simpli și cu o avere modestă... </p>
 <p> «Se logodește cu Mișu, fiul cunoscutului colonel Papadopol, om bogat și bine văzut, stimat și apreciat de conducătorii țării. Ambele familii se cunosc de ani de zile, de mult poate ei au hotărât unirea tinerilor. </p>
 <p> «Sărmană Eleonoră, cât de mult te plâng! Tu, nevinovată ca un înger, curată ca o sfântă, te unești cu destrăbălatul Mișu, cu acest bețiv și afemeiat, cu acest om lipsit de orice calitate, te unești cu acest stricat, numai pentru că este fiul unui colonel și acest colonel e bogat. </p>
@@ -166,14 +168,15 @@
 <p> — Timpul este scump, căci orele sunt înaintate și trebuie să mergem în salon... </p>
 <p> — Acesta este ultimul tău cuvânt ? </p>
 <p> — Ce-aș mai avea să-ți spun? </p>
-<p> (Va urma)   D. Nicolescu-Wollmar </p>
+<trailer> (Va urma)   D. Nicolescu-Wollmar </trailer>
     </div>
         </div>
     
     <div type="part" n="3">
-<p> FOIȚA REVISTEI «DUMINECA» </p>
-        <p>  3) </p>
-        <p>Triumful Iubirii </p>
+<head> FOIȚA REVISTEI «DUMINICA» </head>
+        <head>  3) </head>
+        <head> Triumful iubirii </head>
+    <head> Roman de D. Nicolescu-Wollmar </head>
 <div type="section">
 <p> — Mă văd silită a te urma, domnule, dar nu uita că nu te iubesc și nu te voi iubi niciodată, căci port și voi purta în inima mea imaginea ființei nobile și iubite care mă iubește pe mine, iar nu zestrea mea. </p>
 <p> — Vorbe goale, zise el luând brațul tinerei fete și conducând-o în salon. </p>
@@ -201,14 +204,15 @@
 <p> — Da, domnule colonel. </p>
 <p> — Poftim, zise colonelul întinzându-i un plic închis; mi-a sosit azi și sunt fericit de acest fapt, căci de sosea mâine era prea târziu, deoarece la noapte trecem Dunărea, iar pe ziua de mâine vom fi în Bulgaria. Du-te și te prezintă d-lui căpitan Cocoș, comandantul corpului III-a, la care ești repartizat. </p>
 <p> Ofițerul salută pe colonel, care îi întinse mâna amical, și se retrase. Abia fu afară și, întrebându-se cine i-ar putea scrie, rupse nervos plicul. Nu puțin rămase mirat când citi următoarele rânduri: </p>
-<p> (Va urma)   D. Nicolescu-Wollmar </p>
+<trailer> (Va urma)   D. Nicolescu-Wollmar </trailer>
 </div>
     </div>
     
     <div type="part" n="4">
-<p> FOIȚA REVISTEI „DUMINECA" </p>
-        <p> 4) </p>
-        <p>Triumful iubirii</p>
+<head> FOIȚA REVISTEI «DUMINICA» </head>
+        <head> 4) </head>
+       <head> Triumful iubirii </head>
+    <head> Roman de D. Nicolescu-Wollmar </head>
 <div type="section">
 <p> «Scumpul meu, </p>
 <p> «Nu-mi lua în nume de rău faptul că îndrăznesc a-ți scrie, deși știu bine că nu este nobil ca o domnișoară să scrie unui cavaler o scrisoare de acest fel; nu mă condamna deci până nu mă vei asculta. </p>
@@ -236,14 +240,15 @@
 <p> Inimi îndurerate </p>
 <p> În timpul războiului gazetele erau mai numeroase ca oricând și cu cât dau știri mai noi, mai amănunțite și mai exacte (întrucât era posibil), cu atât erau mai căutate. Toți românii, în deosebi cei din țară, așteptau cu mare nerăbdare știri de la război. </p>
 <p> În acest timp familia generalului Mitulescu era tot la țară, dar, după dorința Eleonorei, mergea în fiecare zi un om, călare, la Pitești și cumpăra din toate ziarele câte un număr. Atât mama cât și fiica citeau cu lăcomie ziarele, atât că d-na căuta numele soțului ei, în timp ce fata căuta numele iubitului său. De tatăl său nu avea a se teme, căci, purtând gradul de general, era atașat la statul major. Ea urmărea cu mare interes și cu luare-aminte mersul batalionului al doilea de vânători; află de trecerea Dunării, începutul focurilor, și azi trebuiau să sosească noi știri. </p>
-<p> (Va urma) D. Nicolescu-Wollmar </p>
+<trailer> (Va urma) D. Nicolescu-Wollmar </trailer>
     </div>
     </div>
     
     <div type="part" n="5">
-<p> FOIȚA REVISTEI „DUMINICA" </p>
-        <p>4)</p>
-        <p>  Triumful iubirii </p>
+<head> FOIȚA REVISTEI «DUMINICA» </head>
+        <head>4)</head>
+        <head> Triumful iubirii </head>
+    <head> Roman de D. Nicolescu-Wollmar </head>
 <div type="section">
 <p> Cu câtă nerăbdare aștepta ea omul care trebuia să-i aducă ziarele, cu câtă nerăbdare! Dar de data aceasta, parcă în ciuda ei omul întârzia. «Ce Înseamnă asta» ? își zise ea. </p>
 <p> Cu o oră mai târziu sosi omul. El spuse că în oraș era sărbătoare mare, căci în ziua trecută reduta Grivița a fost luată de vânătorii români. </p>
@@ -284,14 +289,15 @@
 <p> Rănitul luă doctoria ce-i dădea bătrânul medic, apoi căzu într-un somn adânc ce-l ținu două zile și două nopți. </p>
 <p> În timpul celor povestite aici Eleonora se afla într-o stare de nedescris. </p>
 <p> . </p>
-<p> (Va urma) D. Nicolescu-Wollmar </p>
+<trailer> (Va urma) D. Nicolescu-Wollmar </trailer>
     </div>
     </div>
     
     <div type="part" n="6">
-<p> FOIȚA REVISTEI „DUMINECA" </p>
-        <p> 6) </p>
-        <p> Triumful Iubirii </p>
+<head> FOIȚA REVISTEI «DUMINICA» </head>
+        <head> 6) </head>
+       <head> Triumful iubirii </head>
+    <head> Roman de D. Nicolescu-Wollmar </head>
 <div type="section">
 <p> Nesiguranța în care se afla despre iubitul ei o tortura îngrozitor. Nopți întregi nu dormea, ci se ruga plângând, iar spre ziuă, când ațipea puțin, avea visuri îngrozitoare; vedea pe Victor plin de sânge, rănit, mort, și adesea se deștepta țipând. </p>
 <p> În aceeași zi, când Domnitorul țării era lângă patul rănitului, Eleonora aștepta omul cu ziarele. Era în prada unei extreme surescitări; se plimba agitată prin odaie și-și vorbea singură: </p>
@@ -327,14 +333,15 @@
 <p> Eleonora își luă rămas bun de la mama sa, care îi șopti: «Dumnezeu cu tine! </p>
 <p> — Cu noi cu toți! zise Eleonora și, sărutând pe mama sa, se depărtară. </p>
 <p> El o conduse la o barcă și, luând numai patru soldați spre a vâsli, se avântară pe apă. Abia plecară când locotenentul se apropie de Eleonora și-i zise: </p>
-<p> (Va urma)   D. Nicolescu-Wollmar </p>
+<trailer> (Va urma)   D. Nicolescu-Wollmar </trailer>
 </div>
     </div>
     
     <div type="part" n="7">
-<p> FOIȚA REVISTE „DUMINICA" </p>
-        <p> 7) </p>
-        <p> Triumful Iubirii </p>
+<head> FOIȚA REVISTEI «DUMINICA» </head>
+        <head> 7) </head>
+        <head> Triumful iubirii </head>
+    <head> Roman de D. Nicolescu-Wollmar </head>
 <div type="section">
 <p> — Ai văzut, draga mea, că drăguțul tău și-a găsit moartea? De acum cred că te poți mărita cu mine fără vreo grijă. Să se termine doar războiul acesta afurisit și ne vom căsători. </p>
 <p> O scârbă umplu sufletul Eleonorei. Ea voi să-i strige: </p>
@@ -389,15 +396,15 @@
 <p> — Fii bine venită, te primesc fără a te întreba chiar cine ești, de unde vii și ce te-a făcut a veni aici; hotărârea d-tale îmi arată îndeajuns cât ești de nobilă. </p>
 <p> El o conduse lângă patul tânărului sublocotenent care murmura cuvinte neînțelese și privea pe cei din jurul său fără însă a-i recunoaște. </p>
 <p> — Aici zace grav un sublocotenent, care, prin bravura ce a dovedit la asaltul redutei Grivița, a fost luat sub înalta protecție a Domnitorului și Doamnei țării. </p>
-<p> (Va urma)   D Nicolescu-Wollmar </p>
+<trailer> (Va urma)   D Nicolescu-Wollmar </trailer>
 </div>
     </div>
     
     <div type="part" n="10">
-<p> FOIȚA REVISTEI „DUMINECA" </p>
-        <p> 10)  </p>  
-        <p> Triumful iubirii </p>
-        <p> Roman de D. Nicolescu-Wollmar </p>
+<head> FOIȚA REVISTEI «DUMINICA» </head>
+        <head> 10)  </head>  
+       <head> Triumful iubirii </head>
+    <head> Roman de D. Nicolescu-Wollmar </head>
 <div type="section">
 <p> Căpitanul, care se oprise în mijlocul camerei recunoscând pe aceea care îi vorbea, se apropie de pat. </p>
 <p> — Stai pe scaun, aici, lângă patu’ meu, voiesc a-ți vorbi, a mă spovedi ție, zise ea — și, după ce el se așeză pe scaun cu oarecare sfială, ea începu a spune: </p>
@@ -442,17 +449,17 @@
 <p> În prada durerii </p>
 <p> Victor se sculase de dimineață, căci vise rele îi tulburaseră somnul. Pe la 5 după prânz ceru să vorbească d-lui general, dar îi se spuse că nu-l poate primi, căci d-șoarei i-a fost foarte rău la întoarcerea de la bal și că medicul i-a prescris a fi foarte liniștită. </p>
 <p> El se retrase, dar vestea ce primise îl puse în neliniște: ce avea Eleonora? În zilele următoare luă vești despre ea și rămase uimit când auzi că Eleonora și mama ei aveau să plece la moșie pentru o lună. </p>
-<p> (Va urma) </p>
+<trailer> (Va urma) </trailer>
 </div>
     </div>
     
     <div type="part" n="11">
-<p> FOIȚA REVISTEI „DUMINICA" </p>
-    <p> 11) </p>  
-    <p> Triumful iubirii </p>
-    <p> Roman de D. Nicolescu-Wollmar </p>
+<head> FOIȚA REVISTEI «DUMINICA» </head>
+    <head> 11) </head>  
+   <head> Triumful iubirii </head>
+    <head> Roman de D. Nicolescu-Wollmar </head>
 <div type="section">
-<p> În prada durerii </p>
+<head> În prada durerii </head>
 <p> Căută s-o întâlnească pe Eleonora, dar părea că fata îl ocolește, îi scrise, iar ea îi răspunse: </p>
 <p> «Eu nu mă vând și nu voi aparține unuia care a cumpărat o prostituată, căci el nu mă va lua pe mine, ci zestrea mea». </p>
 <p> În acest timp Mișu, care promisese amantei sale 100 lei pentru cursa ce-i întinsese lui Victor, nu dăduse amantei lui nici un ban. Ea îi fixase un nou termen de 3 zile și trecuseră 4 zile fără ca el să fi dat vreun semn de viață. În vremea asta însă se prezentase de două ori generalului, rugându-l a fixa nunta sa, dar, din cauza bolii fetei, generalul a amânat-o pentru mai târziu. </p>
@@ -490,17 +497,17 @@
 <p> - Da. </p>
 <p> Eleonora pofti pe Sesila la biroul ei din odaia vecină și-i luă o declarație de stratagema jucată de Mișu, apoi dete fetei o hârtie de 100 lei, plata ce-i promisese Mișu. Fata însă refuză. După un sfert de oră ea părăsea moșia, iar în după-amiaza acelei zile Eleonora și cu mama sa veneau spre București. </p>
 <p> A doua zi, la 10 dimineața, Victor, care fusese chemat de Eleonora, se prezentă și citi declarația ce ea îi întinse și care purta semnătura Sesilei. </p>
-<p> (Va urma) </p>
+<trailer> (Va urma) </trailer>
 </div>
     </div>
     
     <div type="part" n="12">
-<p> FOIȚA REVISTEI „DUMINICA" </p>
-        <p> 12) </p>
-        <p> Triumful iubirii </p>
-        <p> Roman de D. Nicolescu-Wollmar </p>
+<head> FOIȚA REVISTEI «DUMINICA» </head>
+        <head> 12) </head>
+        <head> Triumful iubirii </head>
+    <head> Roman de D. Nicolescu-Wollmar </head>
 <div type="section">
-<p> Inocența triumfă </p>
+<head> Inocența triumfă </head>
 <p> Pe măsură ce citea, fața sa devenea palidă. Când termină cu cititul fața sa era ca a unui cadavru. El privi lung în ochii Eleonorei, apoi, acoperindu-și fața cu mâinile, începu să plângă. </p>
 <p> După ce se mai liniști, se sculă și zise: </p>
 <p> — Am fost trădat și înjosit de o fostă amică și de un amic, care nu-mi va mai fi amic și care astăzi chiar îmi va spăla cu sângele său pata care m-a mânjit, și d-ta m-ai crezut culpabil! Astăzi am primit o scrisoare de la Sesila în care își cere iertare, d-ta mă crezi nevinovat, iar mizerabilul îmi va da satisfacție. </p>
@@ -526,17 +533,17 @@
 <p> „Sublocotenentul intră în focuri, se luptă ca un viteaz, îmbărbătă soldații săi, apără drapelul batalionului său, cu propria sa viață, câștigă bătălia luând reduta Grivița, însă zăcu două luni în spital. </p>
 <p> „Domnul țării era protectorul său, Doamna țării era mama sa și Dumnezeu, care vede pe cei buni, îi dărui viața. El părăsi spitalul cu gradul de căpitan și cu pieptul plin de decorații. În acest timp,locotenentul, amicul meu, se plimba fără griji și, din cauză de părăsire de post, fu pedepsit cu zile de arest. </p>
 <p> „Trecuseră vreo 20 zile de la cele povestite, când în seara zilei de 10 Mai s-a dat un bal la cercul ofițerilor. </p>
-<p> (Va urma) </p>
+<trailer> (Va urma) </trailer>
     </div>
     </div>
     
     <div type="part" n="13">
-<p> FOIȚA REVISTEI „DUMINICA" </p>
-    <p> 13) </p>
-    <p>  Triumful iubirii </p>
-    <p> Roman de D. Nicolescu-Wollmar </p>
+<head> FOIȚA REVISTEI «DUMINICA» </head>
+    <head> 13) </head>
+    <head> Triumful iubirii </head>
+    <head> Roman de D. Nicolescu-Wollmar </head>
 <div type="section">
-<p> Adevăr din inimă curată </p>
+<head> Adevăr din inimă curată </head>
 <p> „Amicul meu, locotenentul, care voia cu orice preț să fiu a lui, dar care știa că nu se va putea atâta timp cât voi simpatiza pe fostul sublocotenent, acum căpitan, recurse la o faptă josnică, nedemnă pentru un om, pentru un ofițer, </p>
 <p> „Iată ce făcu: Se duse la amanta sa, o fată pierdută, și-i spuse că în seara zilei de 10 Mai, între orele 10-11, să se prefacă bolnavă, muribundă chiar, și când va veni în camera ei căpitanul simpatic mie, pe care îl cunoștea din copilărie, să se vaiete că regretă viața ei din trecut și că l-a chemat să mai vadă odată pentru vecie pe singurul ei amic. Când la fereastră vor apărea două umbre, ea să își dea aparența că voiește a se ridica, dar că nu poate, și deci să fie ajutată de căpitan. </p>
 <p> „Totul a mers fără piedică, căpitanul a fost chemat la patul unei muribunde, o fostă amică a sa, și, părăsind sala de bal, se duse. În același timp locotenentul Papadopol veni la mine și-mi spuse că simpaticul meu căpitan a părăsit serbarea spre a face o vizită amantei sale și că, dacă nu cred, n-am decât să mă las condusă de el spre a-mi dovedi. </p>
@@ -556,17 +563,17 @@
 <p> Se făcu roșu de mânie, dar tăcu. După un lung timp reluă: </p>
 <p> — Văd că totul este contra locotenentului Papadopol, nu-l pot condamna însă pânâ nu-l voi asculta și pe el. Vă rog a amâna decizia mea până mâine seară la 9. </p>
 <p> — Da, dar eu trebue să trimit martorii mei d-lui locotenent chiar astă seară, observă căpitanul. </p>
-<p>(Va urma) </p>
+<trailer>(Va urma) </trailer>
 </div>
     </div>
     
     <div type="part" n="14">
-<p> FOIȚA REVISTEI „DUMINECA" </p>
-    <p> 14) </p>
-    <p> Triumful iubirii </p>
-    <p> Roman de D. Nicolescu-Wollmar </p>
+<head> FOIȚA REVISTEI «DUMINICA» </head>
+    <head> 14) </head>
+    <head> Triumful iubirii </head>
+    <head> Roman de D. Nicolescu-Wollmar </head>
 <div type="section">
-<p> Adevăr din inimă curată </p>
+<head> Adevăr din inimă curată </head>
 <p> — Nu veți face acest lucru decât mâine seară după ce veți auzi verdictul meu și atunci când el n-ar condamna pe locotenentul Papadopol. </p>
 <p> Căpitanul se sculă și în același timp fu imitat de d-na și d-ra Mitulescu. </p>
 <p> — Sună telefonul! zise în clipa asta generalul, părăsind camera; rog scuzați-mă un moment. </p>
@@ -609,7 +616,7 @@
 <p> Peste doi ani de la cele arătate mai sus o mare serbare avea loc în saloanele generalului Mitulescu. Ginerele său serba avansarea la gradul de maior și botezul fiului său Bombonel. </p>
 <p> Generalul și soția sa erau în culmea fericirii văzând fericirea copiilor lor, iar Eleonora, cu capul rezemat de umărul soțului său Victor, mulțumea lui D-zeu că i-a făcut parte de atâta fericire. Victor, sărutându-și soția, zise: </p>
 <p> — Fericirea nu este decât: triumful iubirii sincere și curate. </p>
-<p> — SFÂRȘIT — </p>
+<trailer> — SFÂRȘIT — </trailer>
     </div>
 </div>
   </body>
