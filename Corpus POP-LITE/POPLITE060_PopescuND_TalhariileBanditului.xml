@@ -11,9 +11,16 @@
                 <respStmt>               
                     <resp>codare POPLITE</resp>
                     <name>Teodora Iuriusciuc</name></respStmt>   
+                <respStmt>               
+                    <resp>verificare codare POPLITE</resp>
+                    <name>Roxana Patraș</name></respStmt>   
                 <respStmt>
                     <resp>corectură manuală</resp>
                     <name>Florentina Pocovnicu</name>
+                </respStmt>
+                <respStmt>
+                    <resp>verificare corectură manuală</resp>
+                    <name>Roxana Patraș</name>
                 </respStmt>
                 <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
             </titleStmt>
@@ -73,77 +80,83 @@
         </encodingDesc>
     </teiHeader>
  <text>
-  <body>
-<p>TÂLHĂRIILE</p>
-<p>BANDITULUI MIHALE BUNEA</p>
-<p>NĂSCUT</p>
-<p>ÎN COMUNA ROȘU, DISTRICTUL ILFOV</p>
-<p>BUCUREȘTI</p>
-<p>editura librăriei h. steinberg</p>
-<p>Ștrada Sblari No, 18</p>
-<p>1894.</p>
-<p>Tîlhăriile banditului Mihale Bunea</p>
-<p>Prolog.</p>
+     <front>
+         <div type="titlepage">
+     <p>TÂLHĂRIILE</p>
+     <p>BANDITULUI MIHALE BUNEA</p>
+     <p>NĂSCUT</p>
+     <p>ÎN COMUNA ROȘU, DISTRICTUL ILFOV</p>
+     <p>BUCUREȘTI</p>
+     <p>editura librăriei h. steinberg</p>
+     <p>Ștrada Sblari No, 18</p>
+     <p>1894.</p>
+         </div>
+     </front>
+     <body>
+         <div type="chaper">
+<head>Tîlhăriile banditului Mihale Bunea</head>
+<head>Prolog.</head>
 <p>Mulți au văzut, ca și naratorul acestor tâlhării într-unul din cimitirele din jurul capitalei, piatra învechită pe care nu stau scrise decât aceste două litere: M... B... și sub care zace țărâna lui Mihalea Bunea. În loc de flori, buruieni și urzici ornează monumentul aceluia care rămase pururea surd la rugi și la lacrimi, nedeschizând gura decât pentru a pronunța vorbe de injurie și de rușine.</p>
 <p>Copil din flori el nu se știe cărui fiu de ciocoi, care binevoise a batjocori o sărmană țărancă de pe moșia tatălui său, Mihale Bunea, rău văzut din fragedă copilărie de toți cei care aveau un tată și o mamă, simți dezvoltându-se încetul cu încetul instinctul revoltei, al răzbunării, al ferocității cu care î1 dotase natura, și trecu tânăr încă în rândul celor care, departe a mai respecta întocmirile părtinitoare ale societății, nu mai au altă lege decât voința lor.</p>
 <p>Teribile fuseseră faptele lui Mihale Bunea.</p>
+         </div>
 <div type="chapter" n="1">
 <p>Era în ziua de 22 lulie 185..., aproape de apusul soarelui.</p>
 <p>Din mijlocul unui luminiș înconjurat de copaci groși și numeroși, pe coasta răsăriteană a Bucegiului, se înălța o spirală de fum des și ondulând; ea ieșea dintr-o grămădă de lemne ce ardea. În jurul acestui rug stau mai mulți oameni: unii, cu brațele rezemate de puștile lor, vorbeau liniștiți între dânșii: alții pe jumătate tolăniți pe pământ, își petreceau timpul curățindu-și armele. Hainele, culoarea pielii lor, precum și cuțitele cele lungi ce le purtau petrecute pe sub cingătoarea corpului, arătau în destul că toți acei oameni făceau parte din neamul atât de crud și de răpitor al bandiților.</p>
 <p>Vreo zece pași departe de aceștia stă o femeie, legată de un copac, cu mâinile la spate. Obrazul ei era nobil și frumos, persoană înaltă și bine făcută, costumul potrivit celor avuți în bani și în obiceiuri alese. Părul cel negru ce-i cădea răsfirat pe umeri, pupilele ochilor înălțate înspre cer într-o atitudine rugătoare, paliditatea nespusă a obrazului, bubele ei acum roase și acum lipsite de sânge, toate acestea făceau mai măiestoasă frumusețea acelei femei, în necazul durerii ce nefericită suferise și suferea încă. Dânsa se găsea legată în fața capului bandei. Mihale Bunea, care o contempla cu o privire imobilă, în care se trăda un orgoliu sălbatic și o poftă bestială.</p>
-<p>— «Destul atât!», strigă acesta reluând conversația un moment întreruptă și făcând un pas înainte.</p>
-<p>— «O! nu te apropia... mă sperii».</p>
-<p>— «Dar îți spun că, pentru binele bărbatului și al copilului tău trebuie să cedezi».</p>
-<p>— «Eu!... eu să cedez omorâtorului tatălui meu! A! nu... nu! mai bine să mor de o mie de ori.</p>
-<p>— «Dar copilul tău? dar bărbatul tău? Nu vezi viața lor în mâinile mele?</p>
-<p>— «Însă vei ști să o respecți».</p>
-<p>— «O fi».</p>
-<p>— «Mișelule!»</p>
-<p>- «A! sunt mișel», strigă Mihale Bunea făcând un alt pas înainte. «Bine, să cerem cu sila».</p>
-<p>— «Înapoi, tâlharule! îngână femeia.</p>
+<p>— Destul atât!, strigă acesta reluând conversația un moment întreruptă și făcând un pas înainte.</p>
+<p>— O! nu te apropia... mă sperii.</p>
+<p>— Dar îți spun că, pentru binele bărbatului și al copilului tău trebuie să cedezi.</p>
+<p>— Eu!... eu să cedez omorâtorului tatălui meu! A! nu... nu! mai bine să mor de o mie de ori.</p>
+<p>— Dar copilul tău? dar bărbatul tău? Nu vezi viața lor în mâinile mele?</p>
+<p>— Însă vei ști să o respecți.</p>
+<p>— O fi.</p>
+<p>— Mișelule!</p>
+<p>- «A! sunt mișel, strigă Mihale Bunea făcând un alt pas înainte. «Bine, să cerem cu sila.</p>
+<p>— Înapoi, tâlharule! îngână femeia.</p>
 <p>Și, căzând leșinată, rămase pe jumătate atârnată cu brațele de copaci.</p>
 <p>Banditul necutezând să o atingă, se opri: o altă infamă cugetare îi trecea prin minte.</p>
 <p>Alergă la o colibă apropiată, împinse ușa păzită de doi tâlhari, și intră. Dacă cineva s-ar fi ținut după dânsul, ar fi văzut cum, după ce a ridicat un oblon acoperit cu puține paie el se coborî pe o scară de cele portative într-o subterană adâncă, unde se găseau provizii de arme și de mâncăruri. În acel loc abia luminat de razele zilei străbătând prin câteva găuri ale olanului, stau închiși un bărbat tânăr, bărbatul femeii ce o văzură legată de copac și un copil putând să aibă abia etatea de patru ani.</p>
 <p>Nu s-a știut niciodată bine cine să fi fost acești nefericiți, de unde să fi venit și încotro mergeau; fapt este însă că ei căzuseră în dimineața acelei zile în mâinile bandei, care-i pândise la drumul mare. Însuși Mihale Bunea întinse mort cu o lovitură de cuțit pe tatăl femeii, care făcea și el parte dintre călători și care nu voise să-și predea punga, susținând că nu o luase cu sine.</p>
 <p>Capul bandei, coborât în subterană, se opri un moment, căutând cu privirea pe băiețel, care ținându-se ghemuit între genunchiul tatălui, căuta să rămână ascuns. Mihale Bunea îl văzu și apropiindu-se de dânsul, îl smulse cu brutalitate de la sânul părintesc, târându-l spre scară.</p>
-<p>— «De milă, domnule, unde-i duci?» strigă cu o voce sfâșietoare sărmanul părinte.</p>
+<p>— De milă, domnule, unde-i duci?» strigă cu o voce sfâșietoare sărmanul părinte.</p>
 <p>Dar asasinul, fără să ia seamă la această întrebare, își puse copilul sub brațul drept și ieșind din subterană, aplecă din nou oblonul. Îl acoperi cu paie și alergă la femeia pe care o lăsase leșinată.</p>
 <p>Copilul încetând de a plânge la vederea mamei, strigă cu suspine :</p>
-<p>— «Mamă!... Mamă!... A murit mama!»</p>
+<p>— Mamă!... Mamă!... A murit mama!</p>
 <p>Și căută să-și scoată mânuța din cleștele de mușchi a tâlharului. Acesta cu o mișcare involuntară, desfăcu degetele și lăsă copilul liber. Micuțul, aruncându-se la gâtul mamei.. începu să-i mângâie cu dreapta părul ei răsfirat, iar cu stânga îi pipăia binișor obrazul, chemând-o cu numiri dulci și afectuoase. În fine, femeia începu a se dezmetici, scoase din piept un suspin adânc și deschise ochii. Cu mintea încă zăpăcită, simțindu-se mângâiată, crezu întâi că se află în brațele banditului și dădu un țipăt de groază: însă, recunoscându-și copilul, lăsă să-i alunece pe buze un surâs amar,neputând nici să-l îmbrățișeze nici să pronunțe vreo vorbă. Atât numai că Mihale Bunea, urându-i-se cu acea scenă, se apropia de el, apucă băiețelul de păr și-l târî cu bruschețe înapoi exclamând :</p>
-<p>— «Vei avea timp în destul să-ți mângâi copilul, cucoană, dacă ți-ai schimbat gândul».</p>
-<p>— «O nu: nu-mi voi schimba gândul niciodată».</p>
-<p>— «Nu?»</p>
-<p>— «Nu, nu, de o mie de ori nu.»</p>
-<p>— «Dar e vorba de viața alor tăi, muiere încăpățânată. Ți-o zic pentru ultima oară: învoiește-te».</p>
-<p>— «Dumnezeul meu!»</p>
-<p>— «Ei bine?»</p>
-<p>— «Fie-ți milă!»</p>
-<p>— «Hotărăște».</p>
-<p>— «A !...nu».</p>
+<p>— Vei avea timp în destul să-ți mângâi copilul, cucoană, dacă ți-ai schimbat gândul.</p>
+<p>— O nu: nu-mi voi schimba gândul niciodată.</p>
+<p>— Nu?</p>
+<p>— Nu, nu, de o mie de ori nu.</p>
+<p>— Dar e vorba de viața alor tăi, muiere încăpățânată. Ți-o zic pentru ultima oară: învoiește-te.</p>
+<p>— Dumnezeul meu!</p>
+<p>— Ei bine?</p>
+<p>— Fie-ți milă!</p>
+<p>— Hotărăște.</p>
+<p>— A !...nu.</p>
 <p>Îndârjit de mânie, asasinul târî atunci pe inocentul copilaș spre rugul aprins și ținându-l de păr, atârnat în aer, fără a lua seama la țipetele ce-i smulgeau durerea, strigă :</p>
-<p>— «De la o vorbă a ta atârnă viața fiului tău»</p>
-<p>— «O! oprește-te... ucide-mă pe mine! cruță-l pe dânsul... cruță-l».</p>
-<p>— «Te învoiești?</p>
-<p>— «Ascultă ; pentru păcatele morților domniei tale, scutește de o așa durere pe o sărmană mamă. Vrei o victimă ? Ei bine, varsă sângele meu».</p>
-<p>— «Ei! câte vorbe! E destul un singur : da, ca să-1 scapi».</p>
-<p>— «Prea mult!... Prea mult!... Nu...»</p>
+<p>— De la o vorbă a ta atârnă viața fiului tău</p>
+<p>— O! oprește-te... ucide-mă pe mine! cruță-l pe dânsul... cruță-l.</p>
+<p>— Te învoiești?</p>
+<p>— Ascultă ; pentru păcatele morților domniei tale, scutește de o așa durere pe o sărmană mamă. Vrei o victimă ? Ei bine, varsă sângele meu.</p>
+<p>— Ei! câte vorbe! E destul un singur : da, ca să-1 scapi.</p>
+<p>— Prea mult!... Prea mult!... Nu...</p>
 <p>Banditul, fără a mai aștepta sfârșitul frazei, dădu drumul copilului în flăcări. Sărmana mamă, nebună de durere, încercă cu o zvâcnitură să se desfacă de legătura ce o ținea strânsă de copac, ca să alerge să ajute pe bietul copilaș ! dar zvâcnitura ce făcu strânse și mai mult funia pe membrele ei. Ea murmură câteva vorbe neînțelese, și pe când rugul își devora prada, leșină pentru a doua oară.</p>
 <p>Muți și nemișcați asistaseră la această scenă tâlharii ceilalți, fiindcă astfel li se poruncise de capul lor. Acesta ordonă către doi dintr-înșii să-l târască dinainte pe tatăl copilului.</p>
-<p>— «Dacă va ieși zadarnică și încercarea aceasta, știe Dracul ce-mi rămâne de făcut», se gândi Mihale Bunea, pe când se aducea în față-i tânărul bărbăt căruia-i zise:</p>
-<p>— «Îți dau drumul cu un singur preț».</p>
-<p>— «Care?»</p>
-<p>- «Să-ți înduplici nevasta să mă iubească».</p>
-<p>— «Eu!... Eu!...»</p>
-<p>— «Cum!...te îndoiești?»</p>
-<p>-«Ba, de îndoit, nu mă îndoiesc deloc».</p>
-<p>— «Așadar, refuzi?»</p>
-<p>— «Refuz».</p>
+<p>— Dacă va ieși zadarnică și încercarea aceasta, știe Dracul ce-mi rămâne de făcut, se gândi Mihale Bunea, pe când se aducea în față-i tânărul bărbăt căruia-i zise:</p>
+<p>— Îți dau drumul cu un singur preț.</p>
+<p>— Care?</p>
+<p>- «Să-ți înduplici nevasta să mă iubească.</p>
+<p>— Eu!... Eu!...</p>
+<p>— Cum!...te îndoiești?</p>
+<p>-«Ba, de îndoit, nu mă îndoiesc deloc.</p>
+<p>— Așadar, refuzi?</p>
+<p>— Refuz.</p>
 <p>Mihale Bunea, în culmea necazului, se întoarse către ai săi și strigă:</p>
-<p>— «Să se împuște nemernicul ăsta !»</p>
+<p>— Să se împuște nemernicul ăsta !</p>
 <p>Tâlharii, obișnuiți cu asemenea comenzi, îndreptară spre acel nefericit carabinele lor și traseră focul, întinzându-l rece pe pământ.</p>
 <p>La detunătura armelor femeia ucisului deschise ochii și-i ridică cu groază spre obrazul sălbaticului cap de bandă, care-i arătă cu degetul cadavrul celui împușcat.</p>
-<p>— «Doamne sfânte! ai milă de mine, și iartă-l», pronunță dânsa, leșinând pentru a treia oară.</p>
+<p>— Doamne sfânte! ai milă de mine, și iartă-l, pronunță dânsa, leșinând pentru a treia oară.</p>
 <p>Dar astă dată nu se mai sculă: durerea o ucise.</p>
 <p>Pe câmp Mihale Bunea privea nemișcat victimele sale, se auzi deodată semnalul depărtat al unui bandit, pus ca santinelă de anteposturi, anunțând apropierea unei trupe de soldați. Acelui strigăt de alarmă îi răspunse ca un ecou un zgomot confuz, urmat de o mișcare și mai confuză a bandiților, de voci poruncitoare, de îndemnuri, de comenzi și de blesteme.</p>
 <p>După un scurt preludiu de împușcături câțiva dintre bandiți, răniți, căzură prinși în mâinile soldaților, pe când restul fugea pe unde putea.</p>
@@ -152,45 +165,45 @@
 </div>
 <div type="chapter" n="2">
 <p>La extremitatea unei mese lungi și înguste, într-o cârciumă mică din fundul unei ulicioare care răspundea pe marginea Dâmboviței, spre partea Văcăreștilor, ședeau, unul în fața altuia doi oameni jucând cărți. Cel care se găsea cu spatele spre perete era calfă în prăvălia unui pantofar, celălalt pretindea a fi zugrav de portrete.</p>
-<p>— «Asul!», strigă cel dintâi. «Partida e a mea».</p>
-<p>— «Se vede că a intrat diavolul în cărțile astea de nu cumva o fi intrat în sufletul tău», mormăi companionul său, lovind masa cu pumnul și făcând să se clatine o sticlă de vin și două pahare goale precum și grămezile de bani ce se găseau pe dânsa.</p>
-<p>— «Domnilor», interveni cârciumarul, ridicându-se de pe lavița pe care ședea și apropiindu-se de jucători», a bătut o jumătate după miezul nopții și cârciuma trebuia să fie demult închisă. Să nu vă fie cu supărare, căci e ordinul poliției. Așadar, plătiți-mi socoteala și mergeți în pace la casele domniilor voastre».</p>
-<p>_ «Încă o jumătate de oră și ne ducem», răspunse zugravul de portrete.</p>
-<p>— «Nu pot, domnii mei».</p>
-<p>— «Încă cincisprezece minute».</p>
-<p>— «Nu pot... nu pot».</p>
-<p>— «O singură partidă numai».</p>
-<p>— «Dar nu vă spun că nu pot? Cum o să mai vorbesc acum?»</p>
-<p>— «Ei, prietene, poți, nu poți, noi trebuie să rămânem; am pierdut mulți bani și trebuie să mi-i întorc».</p>
-<p>— «Dacă e astfel, luați cărțile mele și mergeți la unul din domniile voastre, unde să puteți juca în toata voia».</p>
-<p>— «Nu zici rău».</p>
-<p>— «Dar îngrijiți să-mi aduceți mâine cărțile.»</p>
-<p>— «Doar n-om strica prieteșugul pentru o pereche de cărți».</p>
-<p>— «Dar socoteala?»</p>
-<p>— «Mâine; mâine facem și socoteala», zise calfa de pantofar, care până atunci nu intervenise încă și, după ce băgă în buzunar banii ce avea pe masă, se sculă.</p>
+<p>— Asul!, strigă cel dintâi. «Partida e a mea.</p>
+<p>— Se vede că a intrat diavolul în cărțile astea de nu cumva o fi intrat în sufletul tău, mormăi companionul său, lovind masa cu pumnul și făcând să se clatine o sticlă de vin și două pahare goale precum și grămezile de bani ce se găseau pe dânsa.</p>
+<p>— Domnilor, interveni cârciumarul, ridicându-se de pe lavița pe care ședea și apropiindu-se de jucători, a bătut o jumătate după miezul nopții și cârciuma trebuia să fie demult închisă. Să nu vă fie cu supărare, căci e ordinul poliției. Așadar, plătiți-mi socoteala și mergeți în pace la casele domniilor voastre.</p>
+<p>_ «Încă o jumătate de oră și ne ducem, răspunse zugravul de portrete.</p>
+<p>— Nu pot, domnii mei.</p>
+<p>— Încă cincisprezece minute.</p>
+<p>— Nu pot... nu pot.</p>
+<p>— O singură partidă numai.</p>
+<p>— Dar nu vă spun că nu pot? Cum o să mai vorbesc acum?</p>
+<p>— Ei, prietene, poți, nu poți, noi trebuie să rămânem; am pierdut mulți bani și trebuie să mi-i întorc.</p>
+<p>— Dacă e astfel, luați cărțile mele și mergeți la unul din domniile voastre, unde să puteți juca în toata voia.</p>
+<p>— Nu zici rău.</p>
+<p>— Dar îngrijiți să-mi aduceți mâine cărțile.</p>
+<p>— Doar n-om strica prieteșugul pentru o pereche de cărți.</p>
+<p>— Dar socoteala?</p>
+<p>— Mâine; mâine facem și socoteala, zise calfa de pantofar, care până atunci nu intervenise încă și, după ce băgă în buzunar banii ce avea pe masă, se sculă.</p>
 <p>Însoțitorul său se sculă asemene și luă cu sine cărțile.</p>
 <p>După ce urară noapte bună cârciumarului cei doi jucători ieșiră.</p>
 <p>Trecură mai multe ulicioare înguste și obscure,luminate numai la distanțe foarte mari de câte un felinar rău îngrijit; în fine se opriră la o ușicioră solid construită închinând intrarea unei case aproape ruinate. Zugravul scoase din buzunarul pantalonilor o cheie mare, o introduse în broasca ușcioarei, deschise și făcu semn amicului să intre. După ce acesta trecu pragul zugravul trase cheia din broască, intră și el și închise la loc ușicioara, împingând veriga.</p>
 <p>Cei doi amici suiră o scară murdară și prăfuită și ajunseră astfel la o odăiță de la etajiul al doilea. Un pătișor, câteva scaune, o măsuță, o pânză măsluită și acoperită de case de păianjeni, aceste erau mobilele. Câteva pensule și un vas în care nu mai rămăsese nici pic de apă, toate aruncate pe jos, arătau că de câtva timp zugravului i se urâse de a-și exercita profesia ; și într-adevăr el încetase de a lucra, pentru a se face pungaș.</p>
 <p>După ce aprinse o lumânare, se așezară amândoi de o parte și de alta a măsuței și-și reîncepură jocul. Din când în când, zugravul, care în noaptea aceea pierdea peste măsură, arunca câte o înjurătură.</p>
-<p>— «Pe tatăl dracului», strigă el în cele din urmă; ce o fi, o fi, joc pe o carte ultimii cinci șfanți ce mi-au rămas: «Șase».</p>
-<p>— «Opt», răspunse celălalt.</p>
+<p>— Pe tatăl dracului, strigă el în cele din urmă; ce o fi, o fi, joc pe o carte ultimii cinci șfanți ce mi-au rămas: «Șase.</p>
+<p>— Opt, răspunse celălalt.</p>
 <p>Și amestecându-se și tăindu-se cărțile, începu șă le distribuie.</p>
-<p>— «Opt: iată opt», reluă el oprindu-se; și încercă să tragă la sine banii ce zugravul pusese dinaintea sa. Dar zugravul se opuse, strigând:</p>
-<p>— «Partida asta nu merge».</p>
-<p>— «Pentru ce?»</p>
-<p>— «Pentru că ai întors cărțile cu meșteșuguri.</p>
-<p>— «Eu?»</p>
-<p>— «Da. Încă o dată!»</p>
-<p>— «Dar nu vreau să trag încă o dată. Am câștigat, și atâta e tot».</p>
-<p>— «Da, dar ai câștigat cu șiretlic».</p>
-<p>— «Pe Dumnezeul care m-aude...»</p>
-<p>— «Ei! Ce e? Ce te-a apucat?»</p>
-<p>— M-a apucat că eu nu sunt gâscă, și că-mi vei da banii cu voie fără voie».</p>
-<p>- «Ție!... Tu nu știi, se vede, că sunt în stare să te spintec ca pe un câine ? Păcătosule!»</p>
-<p>— «Poate ai spinteca pe altul, dar pe mine nu, tâlhărule», urlă pantofarul sculându-se de la masă și ridicând cu amândouă mâinile scaunul deasupra capului.</p>
+<p>— Opt: iată opt, reluă el oprindu-se; și încercă să tragă la sine banii ce zugravul pusese dinaintea sa. Dar zugravul se opuse, strigând:</p>
+<p>— Partida asta nu merge.</p>
+<p>— Pentru ce?</p>
+<p>— Pentru că ai întors cărțile cu meșteșuguri.</p>
+<p>— Eu?</p>
+<p>— Da. Încă o dată!</p>
+<p>— Dar nu vreau să trag încă o dată. Am câștigat, și atâta e tot.</p>
+<p>— Da, dar ai câștigat cu șiretlic.</p>
+<p>— Pe Dumnezeul care m-aude...</p>
+<p>— Ei! Ce e? Ce te-a apucat?</p>
+<p>— M-a apucat că eu nu sunt gâscă, și că-mi vei da banii cu voie fără voie.</p>
+<p>- «Ție!... Tu nu știi, se vede, că sunt în stare să te spintec ca pe un câine ? Păcătosule!</p>
+<p>— Poate ai spinteca pe altul, dar pe mine nu, tâlhărule, urlă pantofarul sculându-se de la masă și ridicând cu amândouă mâinile scaunul deasupra capului.</p>
 <p>Dar zugravul, scoțând un cuțit din buzunarul de desubt al hainei, începu a-l amenința, căutând a se apropia de dânsul și strigând:</p>
-<p>— «Vei vedea tu... vei vedea... dacă te pot spinteca sau nu».</p>
+<p>— Vei vedea tu... vei vedea... dacă te pot spinteca sau nu.</p>
 <p> Și pronunțând aceste strigăte cu o voce răgușită împlântă de mai multe ori cuțitul până la mâner în stomacul adversarului său.</p> 
 <p>Nefericitul căzu rănit de moarte de treisprezece lovituri.</p>
 <p>În chinurile agoniei, zise :</p> 
@@ -198,145 +211,145 @@
 <p>Tăcu un moment.</p>
 <p>Zugravul cu privirea neclinlită și ținând încă în mână cuțitul roșit de sânge, așteptă cu nerăbdare.</p>
 <p>Muribundul reluă cu o voce mai slabă :</p>
-<p>— «Ah !... ești neînduplecat... și viața mă lasă. Mor... Dar încă... fii afurisit!... Dumnezeu va... avea milă... milă de...»</p>
+<p>— Ah !... ești neînduplecat... și viața mă lasă. Mor... Dar încă... fii afurisit!... Dumnezeu va... avea milă... milă de...</p>
 <p>O clipă în urmă, nu mai era decât un cadavru.</p>
-<p>— «Unde să-l îngrop ? murmură între dinți omorâtorul.» Drace ! Bate cineva la portița de jos... cine să fie?»</p>
+<p>— Unde să-l îngrop ? murmură între dinți omorâtorul.» Drace ! Bate cineva la portița de jos... cine să fie?</p>
 <p>Într-adevăr, se auzea bătând. Zugravul alergă la o fereastră, o deschise, aruncă o privire în stradă și se retrase exclamând;</p>
-<p>— «Este Mihale Bunea! Blestemată fie noaptea asta! Sunt un om pierdut... Afară numai dacă.... Bunea este om de înțeles... Dacă va voi, va găsi el mijloc de a mă scoate din încurcătură».</p>
+<p>— Este Mihale Bunea! Blestemată fie noaptea asta! Sunt un om pierdut... Afară numai dacă.... Bunea este om de înțeles... Dacă va voi, va găsi el mijloc de a mă scoate din încurcătură.</p>
 <p>Și alergă să deschidă.</p>
 <p>Fostul om de codru al Bucegiului intră.</p>
-<p>— «Noapte bună, Mihale», îi zise zugravul.</p>
-<p>— «Noapte bună».</p>
-<p>— «Pot să-ți încredințez un secret?»</p>
-<p>— «Firește».</p>
-<p>— «Pe cinste?»</p>
-<p>— «La naiba cu cinstea ta! Ci spune odată».</p>
-<p>— «Am!... am omorât pe pantofar».</p>
-<p>— «Tu!... când?»</p>
-<p>— «Chiar acum».</p>
-<p>— «Unde?»</p>
-<p>— «În odaie la mine»</p>
-<p>— «Va să zică mortul?...»</p>
-<p>— «E acolo, întins pe scânduri».</p>
-<p>— «Au fost martori ?»</p>
-<p>— «Nu. Eram singuri».</p>
-<p>— «A strigat?»</p>
-<p>— «Nu».</p>
-<p>— « Atunci e lucru lesne. N-au să fie martori care să te denunțe».</p>
+<p>— Noapte bună, Mihale, îi zise zugravul.</p>
+<p>— Noapte bună.</p>
+<p>— Pot să-ți încredințez un secret?</p>
+<p>— Firește.</p>
+<p>— Pe cinste?</p>
+<p>— La naiba cu cinstea ta! Ci spune odată.</p>
+<p>— Am!... am omorât pe pantofar.</p>
+<p>— Tu!... când?</p>
+<p>— Chiar acum.</p>
+<p>— Unde?</p>
+<p>— În odaie la mine</p>
+<p>— Va să zică mortul?...</p>
+<p>— E acolo, întins pe scânduri.</p>
+<p>— Au fost martori ?</p>
+<p>— Nu. Eram singuri.</p>
+<p>— A strigat?</p>
+<p>— Nu.</p>
+<p>—  Atunci e lucru lesne. N-au să fie martori care să te denunțe.</p>
 <p>Se suiră amândoi în camera unde se petrecuse asasinatul.</p>
-<p>— «Ziseși că ai nevoie de ajutorul meu, Franț», reîncepu Mihale Bunea, oprindu-se la prag».</p>
-<p>— «Da».</p>
-<p>— «Bine. Află însă că am și eu nevoie de tine».</p>
-<p>— «Explică-te. Cum te pot ajuta?»</p>
-<p>— «Trebuie să pui mâna ca să răpim o fetiță în stradă».</p>
-<p>— «În noaptea asta?»</p>
-<p>— «Nu; mâine la mijlocul nopții.</p>
-<p>— «E lume multă în casa aceea?»</p>
-<p>— «Fetița stă singură».</p>
-<p>— «Are parale multe?»</p>
-<p>— «Așa și așa: e o croitoreasă. Ai s-o vezi».</p>
-<p>— «Bine, sunt omul tău. Dar acum să ne gândim la încurcătura mea. Unde să ascundem puturosul acesta de stârv?»</p>
+<p>— Ziseși că ai nevoie de ajutorul meu, Franț, reîncepu Mihale Bunea, oprindu-se la prag.</p>
+<p>— Da.</p>
+<p>— Bine. Află însă că am și eu nevoie de tine.</p>
+<p>— Explică-te. Cum te pot ajuta?</p>
+<p>— Trebuie să pui mâna ca să răpim o fetiță în stradă.</p>
+<p>— În noaptea asta?</p>
+<p>— Nu; mâine la mijlocul nopții.</p>
+<p>— E lume multă în casa aceea?</p>
+<p>— Fetița stă singură.</p>
+<p>— Are parale multe?</p>
+<p>— Așa și așa: e o croitoreasă. Ai s-o vezi.</p>
+<p>— Bine, sunt omul tău. Dar acum să ne gândim la încurcătura mea. Unde să ascundem puturosul acesta de stârv?</p>
 <p>Fostul cap de bandă cercetă parchetul cu vârful unui băț și răspunse:</p>
-<p>— «Aici îi e locul deocamdată; să ridicăm două scânduri și să punem dedesubt. Mâine l-om transporta aiurea».</p>
+<p>— Aici îi e locul deocamdată; să ridicăm două scânduri și să punem dedesubt. Mâine l-om transporta aiurea.</p>
 <p>Propunerea fu primită, executarea îl urmă îndată, cu toate îngrijirile necesare și fără cel mai mic zgomot.</p>
 <p>O jumătate de oră în urmă, Mihale Bunea ieșea din casa zugravului, care reintra în tăcere.</p>
 <p>Croitoreasa pe care pusese ochii sălbatecul Mihale Bunea locuia într-o căsuță cu un singur etaj din strada. Îngereasca frumusețe a obrazului său și formele regulate ale corpului atrăseseră asupră-i privirile multor aspiranți, care-i treceau în sus în jos pe dinaintea ferestrelor; dar Voichița G (astfel se numea croitoreasa; fată onestă, deși săracă, nu băgă în seamă pe niciunul, fiind logodită cu un tânăr și avut comerciant, care o iubea cu amor sincer și durabil.</p>
 <p>O amică a Voichiței, croitoreasă și dânsa, frumosă și dânsa, ținea cu chirie singura cameră ce mai avea căsuța de care vorbirăm, pe lângă aceea ocupată de Vochița. În fine, înapoia casei locuită de cele două fete se întindea curtea; iar în fundul curții, într-un fel de colibă își găsea adăpostul un biet muncitor, cu nevasta și cei doi băieți ai săi.</p>
 <p>În dimineața ce urmă nopții în care se petrecuse evenimentul mai sus narat, cele două fete coseau împreună dinaintea unei măsuțe, în odaia celei logodite.</p>
-<p>— «Haide Măndico liniștește-te», zicea Voichița amicei sale, pe obrazul căreia alunecau încet două lacrimi mari. Mai la urmă, un om care nu-și ține cuvântul nu merită atâtea regrete».</p>
-<p>— «Dar eu îl iubeam... și fără să vreau, îl iubesc încă». Și așa voiesc!</p>
-<p>— « Trebuie, din contra, să-1 onorezi numai cu disprețul tău, scumpa mea».</p>
-<p>— «N-am destulă putere pentru aceasta, nu pot».</p>
-<p>— «Iartă-mi însă această imputare : dar nu știai tu oare că un cuconaș ca acela, nu curteză o fată sărmană ca noi, decât pentru a o înșela ?»</p>
-<p>— «Va să zică vorbele și jurămintele lui erau»...</p>
-<p>— «Minciuni, curate minciuni».</p>
-<p>— «Ingratul! suspină Măndica scoțând o hârtie de la sân și ștergându-și lacrimile cu șorțul. Ingratul! Să-mi sfâșie astfel inima, după atâtea promisiuni!»</p>
+<p>— Haide Măndico liniștește-te, zicea Voichița amicei sale, pe obrazul căreia alunecau încet două lacrimi mari. Mai la urmă, un om care nu-și ține cuvântul nu merită atâtea regrete.</p>
+<p>— Dar eu îl iubeam... și fără să vreau, îl iubesc încă». Și așa voiesc!</p>
+<p>—  Trebuie, din contra, să-1 onorezi numai cu disprețul tău, scumpa mea.</p>
+<p>— N-am destulă putere pentru aceasta, nu pot.</p>
+<p>— Iartă-mi însă această imputare : dar nu știai tu oare că un cuconaș ca acela, nu curteză o fată sărmană ca noi, decât pentru a o înșela ?</p>
+<p>— Va să zică vorbele și jurămintele lui erau»...</p>
+<p>— Minciuni, curate minciuni.</p>
+<p>— Ingratul! suspină Măndica scoțând o hârtie de la sân și ștergându-și lacrimile cu șorțul. Ingratul! Să-mi sfâșie astfel inima, după atâtea promisiuni!</p>
 <p>Și desfăcând hârtia, citi:</p>
 <p>- «Măndico!</p>
-<p>- «La ce servește să te las mai mult într-o iluzie care-ți poate fi fatală? Tu nu poți fi a mea, fiindcă boierul, tatăl meu n-ar permite-o niciodată. Vai! vai mie, dacă aș îndrăzni măcar să i-o propun! Închipuiește-ți că ceea ce a fost între noi n-ar fi existat niciodată și că eu aș fi murit pentru tine, după cum tu ești moartă pentru mine».</p>
-<p>«Alexandru Belof».</p>
-<p>— «Dar îmi putea oare scrie mai rău ?» strigă iară Măndica, punând din nou scrisoarea la sân. «A! înșelătorul... dar, poate că într-o zi... tu încă...»</p>
+<p>- «La ce servește să te las mai mult într-o iluzie care-ți poate fi fatală? Tu nu poți fi a mea, fiindcă boierul, tatăl meu n-ar permite-o niciodată. Vai! vai mie, dacă aș îndrăzni măcar să i-o propun! Închipuiește-ți că ceea ce a fost între noi n-ar fi existat niciodată și că eu aș fi murit pentru tine, după cum tu ești moartă pentru mine.</p>
+<p>«Alexandru Belof.</p>
+<p>— Dar îmi putea oare scrie mai rău ?» strigă iară Măndica, punând din nou scrisoarea la sân. «A! înșelătorul... dar, poate că într-o zi... tu încă...</p>
 <p>Se auzea bătându-se la ușă.</p>
-<p>- «Vine devreme astăzi Ștefan al meu», zise Voichița alergând să deschidă ușa. «Trebuie să-mi aducă vreo noutate bună».</p>
+<p>- «Vine devreme astăzi Ștefan al meu, zise Voichița alergând să deschidă ușa. «Trebuie să-mi aducă vreo noutate bună.</p>
 <p>Stefan intră și strânse prietenește mâinile celor două amice, fără a observa tulburarea Măndichii.</p>
-<p>— «Mergeți diseară la teatru, întreabă tânărul, așezându-se alături cu Voichița, care-și reluase locul lăngă măsuță.</p>
-<p>— «Bucuros», răspunse aceasta.</p>
+<p>— Mergeți diseară la teatru, întreabă tânărul, așezându-se alături cu Voichița, care-și reluase locul lăngă măsuță.</p>
+<p>— Bucuros, răspunse aceasta.</p>
 <p>Măndica nu zise nimic.</p>
-<p>— «Bine de tot», adăugă Ștefan; «am luat o lojă la Bossel».</p>
-<p>— «Am să-mi pun rochia cea nouă», reluă Voichița. «Dar tu, Măndico?»</p>
-<p>— «Eu mă simt rău draga mea; și nu cred să pot...»</p>
-<p>— «Nicidecum, nicidecum! Ai să mergi și tu! fiindcă n-ar sta frumos să mă arăt la teatru singură cu Ștefan. Nu e așa Ștefane?» </p>
+<p>— Bine de tot, adăugă Ștefan; «am luat o lojă la Bossel.</p>
+<p>— Am să-mi pun rochia cea nouă, reluă Voichița. «Dar tu, Măndico?</p>
+<p>— Eu mă simt rău draga mea; și nu cred să pot...</p>
+<p>— Nicidecum, nicidecum! Ai să mergi și tu! fiindcă n-ar sta frumos să mă arăt la teatru singură cu Ștefan. Nu e așa Ștefane?» </p>
 <p>Acesta făcu din cap un semn afirmativ.</p>
 <p>Atunci Măndica ca să nu displacă amicei sale pe care o iubea mai mult decât pe o soră, zise cu o voce puțin cam șovăindă:</p>
-<p>— «Bine; voi veni și eu».</p>
-<p>- «Așa da. Voi veni deci să vă iau la șapte și jumătate», confirmă Voichița, strângându-i mâna.</p>
-<p>— «La revedere, Măndico».</p>
-<p>— «La revedere», răspunse aceasta, întinzându-i mâna, pe care tânărul o strânse într-ale sale.</p>
-<p>— «La revedere, prețioaso», zise apoi, întorcându-se spre iubita lui.</p>
-<p>— «La revedere».</p>
+<p>— Bine; voi veni și eu.</p>
+<p>- «Așa da. Voi veni deci să vă iau la șapte și jumătate, confirmă Voichița, strângându-i mâna.</p>
+<p>— La revedere, Măndico.</p>
+<p>— La revedere, răspunse aceasta, întinzându-i mâna, pe care tânărul o strânse într-ale sale.</p>
+<p>— La revedere, prețioaso, zise apoi, întorcându-se spre iubita lui.</p>
+<p>— La revedere.</p>
 <p>Ștefan ieși.</p>
 <p>Cele două femei își reluară lucrul.</p>
 <p>La ora fixată, Ștefan se întoarse la casa celor două amice, care erau deja gata de ieșire; le luă și le conduse la teatru.</p>
 <p> O oră în urmă, Mihale Bunea și Franț se plimbau la pas prin podul Beilicului, vorbindu-și încetișor.</p>
-<p>— «Dar birjarul acela», zicea Mihale Bunea «doar nu ne-o da de gol?»</p>
-<p>— «E destul să-i plătim bine și să-i șoptim câteva cuvinte la urechi... cuvinte de cele sărate și piperate. De astfel, are și el multe daraveri cu cinstita judecătoreasă; s-a apucat și el cam de meșteșugul cel bun».</p>
-<p>— «Cum îl cheamă?»</p>
-<p>— «Numele nu i-l știu; dar porecla îi e Ochi-Verzi. Vrei să-i vorbesc?»</p>
-<p>— «Se înțelege; vreau să-i spun unde să ne aștepte. În ce loc șade?»</p>
-<p>- «La ora aceasta nu poate fi acasă. Dar îl găsim desigur la cârciuma lui Crâmpeiu».</p>
-<p>— «Haidem la Crâmpeiu».</p>
+<p>— Dar birjarul acela, zicea Mihale Bunea «doar nu ne-o da de gol?</p>
+<p>— E destul să-i plătim bine și să-i șoptim câteva cuvinte la urechi... cuvinte de cele sărate și piperate. De astfel, are și el multe daraveri cu cinstita judecătoreasă; s-a apucat și el cam de meșteșugul cel bun.</p>
+<p>— Cum îl cheamă?</p>
+<p>— Numele nu i-l știu; dar porecla îi e Ochi-Verzi. Vrei să-i vorbesc?</p>
+<p>— Se înțelege; vreau să-i spun unde să ne aștepte. În ce loc șade?</p>
+<p>- «La ora aceasta nu poate fi acasă. Dar îl găsim desigur la cârciuma lui Crâmpeiu.</p>
+<p>— Haidem la Crâmpeiu.</p>
 <p>Și se îndreptară spre cârciumă, unde găsiră pe birjar. Îl chemară la o parte și luară toate înțelegerile.</p>
-<p>— «La unsprezece», zise Mihale Bunea, îndreptându-se spre ușă, «lângă biserica Sfântului George».</p>
-<p>— «Am înțeles», răspunse Ochi-Verzi.</p>
+<p>— La unsprezece, zise Mihale Bunea, îndreptându-se spre ușă, «lângă biserica Sfântului George.</p>
+<p>— Am înțeles, răspunse Ochi-Verzi.</p>
 <p>Si se întoarse să se așeze lângă amicii săi.</p>
 <p>Ceilalți doi complici ieșiră.</p>
 <p>Când se auzi vibrând în spațiu a unsprezecea bătaie a orologiului, tulburând singura liniște a nopții. Mihale Bunea și Franț se îndreptau deja cu repeziciune spre biserica Sfântului George. Ei zăriră birja, se apropiară și se suiră. Ochi-Verzi atinse caii cu sfârcul biciului, și porniră.</p>
 <p>Birja se opri dinaintea locuinței Voichiței. Ușa care răspundea de o parte în stradă, iar de alta în sala ce despărția camerele celor două amice, situată una în dreapta, cealaltă în stânga; această ușă a cărei broască era poate stricată; sau pe care netemându-se de hoți, și știind de altfel solid încuiate ușile care răspundeau din sală direct în odaia fiecăreia, tinerele fete n-avuseseră grija a o încuia... această ușă zicem, era descuiată.</p>
 <p>Mihale Bunea și Franț se dădură jos din trăsură și intrară în sala casei. Ei aprinseră lumânarea dintr-un felinar orb și-și acoperiră obrajii cu câte o bucată de postav negru. Ajunși la ușa Voichiței, îndreptară felinarul astfel cum să vadă mai bine, desfăcură broasca de la ușă cu cuțitele ce purtau asupra lor, și pe care le petrecură apoi pe sub cingătoare, și intrară palpitânzi. Priviră de jur împrejur; nimeni. Se apropiară de pat: așternutul era nedesfăcut. Scotociră pretutindeni: nimeni.</p>
-<p>— «Nu s-a întros încă», strigă cu mânie fostul hoț de codru, «Dar vom aștepta-o aici».</p>
-<p>— «Aici?!... Ești nebun?»</p>
-<p>— «Atunci vom aștepta afară, în jurul casei».</p>
-<p>— «Și birja?»</p>
-<p>— «Birja se va duce să stea ceva mai departe.</p>
+<p>— Nu s-a întros încă, strigă cu mânie fostul hoț de codru, «Dar vom aștepta-o aici.</p>
+<p>— Aici?!... Ești nebun?</p>
+<p>— Atunci vom aștepta afară, în jurul casei.</p>
+<p>— Și birja?</p>
+<p>— Birja se va duce să stea ceva mai departe.</p>
 <p>Zis, făcut. Birja se depărtă.</p>
-<p>— «Să se fi dus să doarmă la vreo rudă», reîncepu Franț ca și cum și-ar fi vorbit singur, după ce amândoi complici așteptaseră zadarnic vreo cincisprezece minute în cea mai adâncă tăcere.</p>
-<p>— «S-ar putea și asta: dar...»</p>
-<p>— «Dar o să aștept de surda până mâine. Și dacă o trece vreun om al poliției și o vedea trăsura oprită acolo, o să caute să descoasă pe birjar. Ce să răspundă birjarul? Și ce o să putem face noi?... Eu aș zice, ba încă o zic pozitiv: Să ne amânăm întreprinderea pentru vreo altă noapte. Mai la urmă, timp vom avea întotdeauna».</p>
-<p>— «Cum văd eu, ți-e frică?»</p>
-<p>— «Frică, nu. Dar iar să cădem în vreo cursă ca niște nerozi...»</p>
-<p>— «Bine, bine. Ne-om întoarce mâine noapte, zise Mihale Bunea, căruia vorbele complicelui începură a-i părea sănătoase.</p>
+<p>— Să se fi dus să doarmă la vreo rudă, reîncepu Franț ca și cum și-ar fi vorbit singur, după ce amândoi complici așteptaseră zadarnic vreo cincisprezece minute în cea mai adâncă tăcere.</p>
+<p>— S-ar putea și asta: dar...</p>
+<p>— Dar o să aștept de surda până mâine. Și dacă o trece vreun om al poliției și o vedea trăsura oprită acolo, o să caute să descoasă pe birjar. Ce să răspundă birjarul? Și ce o să putem face noi?... Eu aș zice, ba încă o zic pozitiv: Să ne amânăm întreprinderea pentru vreo altă noapte. Mai la urmă, timp vom avea întotdeauna.</p>
+<p>— Cum văd eu, ți-e frică?</p>
+<p>— Frică, nu. Dar iar să cădem în vreo cursă ca niște nerozi...</p>
+<p>— Bine, bine. Ne-om întoarce mâine noapte, zise Mihale Bunea, căruia vorbele complicelui începură a-i părea sănătoase.</p>
 <p>Își descoperiră amândoi obrajii și se depărtară.</p>
 <p>Nu făcuseră doi sau trei pași, când zăriră, trecând pe lângă birja cu care înșiși veniseră, un bărbat însoțit de două femei. Fostul cap de bandă lovi cu cotu pe companionul său, ca să-i atragă luarea aminte și-i șopti:</p>
-<p>— «Iat-o».</p>
+<p>— Iat-o.</p>
 <p>Ajunse lângă ușa casei, Voichița... căci era într-adevăr dânsa... zise logodnicului său:</p>
-<p>- «Până aici ți-e drumul. Adio reputație, dacă cineva și-ar închipui că ieși la ora asta din casa noastră! Noapte bună, Ștefane».</p>
-<p>- «Noapte bună», adăugă Măndica.</p>
-<p>— «Noapte bună», răspunse Ștefan.</p>
+<p>- «Până aici ți-e drumul. Adio reputație, dacă cineva și-ar închipui că ieși la ora asta din casa noastră! Noapte bună, Ștefane.</p>
+<p>- «Noapte bună, adăugă Măndica.</p>
+<p>— Noapte bună, răspunse Ștefan.</p>
 <p>Și se depărta, reluând calea pe care venise.</p>
 <p>Cele două fete ajunseră pe dibuite dinaintea camerei Voichiței. Acesta voi să vâre cheia, pe care o avea deja în mână, în broasca ușii; dar la cea dintâi apăsare ușa se mișcă fără rezistență. Biata fată îngrozită, dădu un țipăt.</p>
-<p>— «Ce s-a întâmplat?» întrebă amica.</p>
-<p>— «Am găsit ușa deschisă».</p>
-<p>— «Cum se poate?... stai s-aduc lumânarea de la mine».</p>
+<p>— Ce s-a întâmplat?» întrebă amica.</p>
+<p>— Am găsit ușa deschisă.</p>
+<p>— Cum se poate?... stai s-aduc lumânarea de la mine.</p>
 <p> Măndica-și deschise odaia și intră cam tremurândă; căută pe dibuite lumânarea pe care o lăsase pe masă, și o găsi; căută apoi chibriturile și le găsi și pe acestea. Luă unul, î1 frecă de perete, îl aprinse și dădu foc lumânării. Cu aceasta în mână, se întoarse lângă Voichița, care, abia respirând, nu se mișcase. Intrară apoi amândouă în camera vizitată de hoți.</p>
-<p>— «Să strigăm ajutor; să chemăm pe vecinii din fundul curții, fuseseră întâile vorbe ale Voichiței, care-și alergă și deschise o fereastră care răspundea în curte.</p>
-<p>__ «Dar dacă nu ne vor auzi; dacă vor fi dormind greu? Ș-apoi, dacă hoții vor fi prin curte?»</p>
-<p>__ «Dar mie mi-e frică să stau astfel. Ce să facem?»</p>
-<p>__ «Vino să dormim amândouă; odaia mea are două rânduri de uși și verigi țepene. Mâine apoi, mâine vom vedea».</p>
+<p>— Să strigăm ajutor; să chemăm pe vecinii din fundul curții, fuseseră întâile vorbe ale Voichiței, care-și alergă și deschise o fereastră care răspundea în curte.</p>
+<p>__ «Dar dacă nu ne vor auzi; dacă vor fi dormind greu? Ș-apoi, dacă hoții vor fi prin curte?</p>
+<p>__ «Dar mie mi-e frică să stau astfel. Ce să facem?</p>
+<p>__ «Vino să dormim amândouă; odaia mea are două rânduri de uși și verigi țepene. Mâine apoi, mâine vom vedea.</p>
 <p>În spaima fetelor, părăsiră camera Voichiței, fără a se mai gândi să închidă fereastra pe care o deschise aceasta, și trecură în aceea a Măndichei, a cărei intrare se hotărâră să apere cu toate mijloacele ce aveau la îndemână.</p>
 <p>Ascultară apoi cu luare aminte, căci se auzea un zgomot ușor de pași. </p>
-<p>— «Sfântă fecioară!» Sfântă fecioară!» exclamă cu voce înecată sărmana Voichița;» cineva umblă prin sală... Auzi?... Vai de noi! Vai de noi.</p>
+<p>— Sfântă fecioară!» Sfântă fecioară!» exclamă cu voce înecată sărmana Voichița;» cineva umblă prin sală... Auzi?... Vai de noi! Vai de noi.</p>
 <p>În adevăr, cei doi complici, văzând pe Ștefan departe, se întoarseră să-și reîncerce efectuarea planului care-i adusese.</p>
-<p>— «Să stingem lumânarea», șopti Măndica, făcând astfel cum zise, «și să așteptăm».</p>
+<p>— Să stingem lumânarea, șopti Măndica, făcând astfel cum zise, «și să așteptăm.</p>
 <p>Peste câteva minute, auziră o voce (era aceea a lui Bunea) care murmura:</p>
-<p>— «Am făcut rău că nu le-am urmat îndată ce au intrat, se vede că au fugit pe fereastră, căci iată fereastra deschisă. Crăpar-ar toți dracii! în noaptea asta trebuie să ne punem pofta în cui. Acestor vorbe urmă iară un zgomot de pași care se depărtau; apoi, acela al unei trăsuri, care asemenea se depărta.</p>
-<p>- «Ce voia să zică cu vorbele astea?» șopti Voichița. «Pentru ce să-și pună pofta în cui? Puteau foarte lesne să-mi fure totul».</p>
-<p>- «Știi ce voia să zică, draga mea?» răspunse Măndica, reaprinzând lumânarea. Eu am înțeles că oamenii aceia veniseră șă te răpească».</p>
-<p>— «Pe mine?»</p>
+<p>— Am făcut rău că nu le-am urmat îndată ce au intrat, se vede că au fugit pe fereastră, căci iată fereastra deschisă. Crăpar-ar toți dracii! în noaptea asta trebuie să ne punem pofta în cui. Acestor vorbe urmă iară un zgomot de pași care se depărtau; apoi, acela al unei trăsuri, care asemenea se depărta.</p>
+<p>- «Ce voia să zică cu vorbele astea?» șopti Voichița. «Pentru ce să-și pună pofta în cui? Puteau foarte lesne să-mi fure totul.</p>
+<p>- «Știi ce voia să zică, draga mea?» răspunse Măndica, reaprinzând lumânarea. Eu am înțeles că oamenii aceia veniseră șă te răpească.</p>
+<p>— Pe mine?</p>
 <p>- »Da. N-ai auzit că a zis că au făcut rău neurmându-ne?</p>
-<p>— «Dumnezeule! Și pentru ce?»</p>
-<p>— «Pentru ce... ei știu. Poate vreun coconaș ce știu eu ?... o fi pus ochii pe tine».</p>
-<p>— «Dar cine să fie oare? N-a venit niciun coconaș să-mi facă vreo propunere.. Pe la fereastră nu-mi trec decât băieții din mahalaua noastră, și nu cred pe nici unul dintr-înșii să meargă cu îndrăzneală prea departe... Cine poate să fie ?»</p>
-<p>— «Scumpa mea amică, în privința acesta, eu știu cât tine. Ce vrei să-ți spun? Nu pot să-ți dau alt consiliu decât ca să te ferești; să dai de știre lui Ștefan, și să vă înțelegeți împreună.</p>
+<p>— Dumnezeule! Și pentru ce?</p>
+<p>— Pentru ce... ei știu. Poate vreun coconaș ce știu eu ?... o fi pus ochii pe tine.</p>
+<p>— Dar cine să fie oare? N-a venit niciun coconaș să-mi facă vreo propunere.. Pe la fereastră nu-mi trec decât băieții din mahalaua noastră, și nu cred pe nici unul dintr-înșii să meargă cu îndrăzneală prea departe... Cine poate să fie ?</p>
+<p>— Scumpa mea amică, în privința acesta, eu știu cât tine. Ce vrei să-ți spun? Nu pot să-ți dau alt consiliu decât ca să te ferești; să dai de știre lui Ștefan, și să vă înțelegeți împreună.</p>
 <p>Unde putea să înceteze acest dialog plin de supozițiuni nefondate și foarte departe de adevăr, or cine și-o poate închipui! Fetele se puseseră în pat după miezul nopții.</p>
 <p>A doua zi, se sculară totuși foarte de timpuriu; trecură să inspecteze odaia Voichiței și, găsind toate lucrurile la locurile lor, începură din nou convorbirea de dinaintea culcării.</p>
 <p>Veni Ștefan, care în fiecare dimineață, mai înainte de a se duce la prăvălie, trecea să le viziteze. Fetele îi narară cu multe exclamațiuni întâmplarea, și se puseră câte trei să cugete la ceea ce rămânea de făcut.</p>
@@ -348,21 +361,21 @@
 <p>Se luă după dânșii, îi urmări până se întoarseră acasă, în strada Soarelui.</p>
 <p>Greutatea era acum a vedea cum era împărțită casa aceasta și câte persoane o locuiau. Bunea învinse și această greutate, schimbându-se în cerșetor și întorcându-se astfel în domiciliul lui Ștefan, pe când acesta se găsea la prăvălie.</p>
 <p>Bătu la ușă; o bătrână veni să-i deschidă.</p>
-<p>— «Pentru sfânta Vineri de astăzi», zise el cu o voce plângătoare și întinzând mâna, «dați ceva unui neputincios».</p>
-<p>— «Du-te cu Dumnezeu. N-avem astăzi nimic în casă».</p>
+<p>— Pentru sfânta Vineri de astăzi, zise el cu o voce plângătoare și întinzând mâna, «dați ceva unui neputincios.</p>
+<p>— Du-te cu Dumnezeu. N-avem astăzi nimic în casă.</p>
 <p>— Însă cucoana Efimia îmi dădea întotdeauna, reluă hoțul, lăsând, să se creadă că ar fi știind acolo vreo cucoană pe care o cunoștea demult.</p>
-<p>— «Cuconița Voichița, vrei să zici?»</p>
-<p>- «Nu, cucoana Efimia»,.</p>
-<p>— «Dar aici nu e nicio cucoană Efimia».</p>
-<p>— «Să se fi, mutat aiurea! dar cine, șade aici?» ,</p>
-<p>- «Stăpânii mei: doi tineri luați de curând».</p>
-<p>— «Și alt nimeni?».</p>
-<p>— «Nimeni. Du-te acum; ai mai veni altădată».</p>
-<p>- «Fă-ți milă cel puțin cu o bucățică de pâine: e mai mult de o zi de când n-am mâncat».</p>
+<p>— Cuconița Voichița, vrei să zici?</p>
+<p>- «Nu, cucoana Efimia,.</p>
+<p>— Dar aici nu e nicio cucoană Efimia.</p>
+<p>— Să se fi, mutat aiurea! dar cine, șade aici?» ,</p>
+<p>- «Stăpânii mei: doi tineri luați de curând.</p>
+<p>— Și alt nimeni?.</p>
+<p>— Nimeni. Du-te acum; ai mai veni altădată.</p>
+<p>- «Fă-ți milă cel puțin cu o bucățică de pâine: e mai mult de o zi de când n-am mâncat.</p>
 <p>- «Cine e Marghioala?» Întrebă Voichița din casă.</p>
-<p>- «Un cerșetor: cere pâine, răspunse bătrâna».</p>
-<p>- «Spune-i să vină mai târziu».</p>
-<p>— «Ai auzit?», zise Marghioala prefăcutului neputincios.</p>
+<p>- «Un cerșetor: cere pâine, răspunse bătrâna.</p>
+<p>- «Spune-i să vină mai târziu.</p>
+<p>— Ai auzit?, zise Marghioala prefăcutului neputincios.</p>
 <p>- «Facă-se voia Domnului!» mormăi Bunea și plecă. Bătrână închise ușa în urma lui.</p>
 <p>Din ziua aceea fostul cap de bandă și complicele său Franț, travestiți în diferite moduri, începură a da în fiecare seară ocoale casei lui Ștefan, așteptând să vadă ieșind pe baba Marghioala, ca s-o tragă în cursa ce-i întinseseră.</p>
 <p>Într-o Duminică, în sfârșit, se prezentă o ocazie în totul nimerită. Marghioala ieși din casă ducându-se nu se știe unde. Ora cea târzie: timpul întunecat și ploios; strada deșartă. Mihale Bunea, rămas să aștepte pe bătrâna care terminându-și afacerile pentru care ieșise, din casă, trebuia să se întoarcă pe unde se depărtase; pe când Franț, în goană, alerga să înștiințeze pe Ochi-Verzi, care se ținea continuu gata cu birja, pe la vreuna din cârciumile din apropiere.</p>
@@ -370,65 +383,65 @@
 <p>După câteva minute, tâlharii, văzură pe bătrâna întorcându-se cu o legătură sub braț. Când fusese în destul de aproape, Bunea îi astupă gura cu o batistă, iar Franț, luând-o de mijloc, o aruncă în birjă. Răpitorii se așezară de ambele părți ale răpitei și caii porniră.</p>
 <p>Sărmana bătrână se zvârcolea cât putea încercând să țipe; dar batista îi înecă toate sunetele. </p>
 <p>După ce făcu un ocol destul de lung, birja se opri. Atunci Marghioalei i se puse o bandă peste ochi; fusese dată jos din trăsură și introdusă în casa lui Franț. O dată acolo i se luă batista de la gură și banda de la ochi.</p>
-<p>— «Dar, domn...», încercă ea să zică. .</p>
-<p>— «Taci!», o întrerupse Bunea. «Avem nevoie de tine, ca sa trimitem în altă lume un om care ne e spre povară. Îți vom spune acum ce e de făcut: dacă primești, vei avea bani cât să-ți umpli pumnii cu el; dacă refuzi, sau dacă te prefaci numai a primi, și să te duci apoi să ne denunți, poliției... măcar că n-ai ști pe cine să denunți deoarece nu cunoști nici locul unde te afli, nici cine-ți vorbește... dacă însă ți-ar trece numai prin minte așa ceva, poți fi sigură că nici Drac nici Dumnezeu nu te-o putea scăpa de răzbunarea noastră... nici Drac, nici Dumnezeu? mă înțelegi?... Haide, spune: ce hotărăști».</p>
+<p>— Dar, domn..., încercă ea să zică. .</p>
+<p>— Taci!, o întrerupse Bunea. «Avem nevoie de tine, ca sa trimitem în altă lume un om care ne e spre povară. Îți vom spune acum ce e de făcut: dacă primești, vei avea bani cât să-ți umpli pumnii cu el; dacă refuzi, sau dacă te prefaci numai a primi, și să te duci apoi să ne denunți, poliției... măcar că n-ai ști pe cine să denunți deoarece nu cunoști nici locul unde te afli, nici cine-ți vorbește... dacă însă ți-ar trece numai prin minte așa ceva, poți fi sigură că nici Drac nici Dumnezeu nu te-o putea scăpa de răzbunarea noastră... nici Drac, nici Dumnezeu? mă înțelegi?... Haide, spune: ce hotărăști.</p>
 <p>- «Dar domnia voastră vedeți bine că».. </p>
-<p>- «Pentru ce atâtea vorbe; de aici nu scapi decât cu un da sau un nu».</p>
-<p>- «Bine... bine, m-oi sili să vă mulțumesc. Însă...»</p>
-<p>- «Nu încape nici un însă; altfel...»</p>
-<p>— «Voi face cum veți porunci».</p>
-<p>— «Vorbe multe, pierdere de timp. Trebuie să otrăvești pe Ștefan și să ne dai în mână pe Voichița».</p>
-<p>— «Sfântă mamă a Domnului!... dar cum să fac eu?...»</p>
-<p>— «Vom face astfel încât să se creadă că dânsa și-ar fi otrăvit bărbatul, ca să fugă la vreun amant; drept probă, vom vârî printre lucrurile ei o scrisoare ca venită din partea amantului și în care să se explice cum și ce fel...»</p>
-<p>- «O scrisoare de la amantul cuconiței?!»</p>
-<p>— «O scrisoare falsă, se înțelege. Iată scrisoarea și sticluță cu otravă».</p>
+<p>- «Pentru ce atâtea vorbe; de aici nu scapi decât cu un da sau un nu.</p>
+<p>- «Bine... bine, m-oi sili să vă mulțumesc. Însă...</p>
+<p>- «Nu încape nici un însă; altfel...</p>
+<p>— Voi face cum veți porunci.</p>
+<p>— Vorbe multe, pierdere de timp. Trebuie să otrăvești pe Ștefan și să ne dai în mână pe Voichița.</p>
+<p>— Sfântă mamă a Domnului!... dar cum să fac eu?...</p>
+<p>— Vom face astfel încât să se creadă că dânsa și-ar fi otrăvit bărbatul, ca să fugă la vreun amant; drept probă, vom vârî printre lucrurile ei o scrisoare ca venită din partea amantului și în care să se explice cum și ce fel...</p>
+<p>- «O scrisoare de la amantul cuconiței?!</p>
+<p>— O scrisoare falsă, se înțelege. Iată scrisoarea și sticluță cu otravă.</p>
 <p>Și luând numitele obiecte dintr-un dulap, le dădu bătrânei.</p>
 <p>După ce-i dădu încă alte multe lămuriri și câteva monede de acel metal pe care nevoia sau capriciul omenesc l-au făcut atotputernic, el puse din nou banda pe ochi și o reconduse la trăsură.</p>
 <p>Apoi Marghioala, Bunea și Franț se suiră în trăsură și se întoarseră la locuința lui Ștefan. Acolo bătrâna se dădu jos și intră în casă pe când tâlharii porneau de unde veniseră.</p>
 <p>Voichița făcu naturalmente oarecare observații servitoarei sale pentru lunga-i întârziere; dar Marghioala îndrugă o minciună de acelea de care au întotdeauna gura plină servitoarele care nu știu prețul timpului.</p>
 <p>Marghioala iubea foarte mult pe tânărul său stăpân (pe care după spusa ei, îl văzuse născându-se și cu niciun preț n-o lăsa inima să-i facă neajunsul dorit de tâlharii care o plătiseră. Gândindu-se toată noaptea la mijlocul cu care ar putea să iasă din acel impas, și tot deodată să scape viața lui Ștefan, îi veni în minte că necunoscuții nu doreau moartea tânărului decât ca să-i fure nevasta și hotărî să se servescă de scrisoarea ce-i dăduse Bunea ca să acuze pe Voichița de adulter în fața bărbatului său, scuzându-se apoi, dinaintea necunoscutului, cu pretextul că nu putuse face altfel, deoarece Ștefan ar fi descoperit la dânsa sticluța cu otravă.</p>
-<p>— «Bietul stăpânul-meu, în culmea turbării își va ucide nevasta; dar vom scăpa cu atâta, se gândea Marghioala». Și dacă și-o va ucide... și... dacă neucigând-o, s-o lămuri încurcătura? Rămân eu între două focuri?... Ce să fac?... Să fug? Dar unde?...Însă, nefăcând nimic, cum mă descurc cu omul care m-a plătit?... Acela nu glumește... N-am încotro... trebuie să lucrez cum m-am hotărât, Stăpânul e un om iute și sângeros, o va ucide... Ei da! se știe că niciodată nu se înfurie mai rău un bărbat decât în asemenea prilejuri... S-au văzut atâția și atâția  care și-au omorât nevestele... Pe urmă o ști el cum să scape... Ș-apoi cine poate da pe față cum au fost lucrurile?... Aceea desigur nu, eu și mai puțin. Are să fie o lovitură dureroasă pentru sărmanul meu stăpân ; e adevărat, dar mai bine să-ți pierzi nevasta decât viața ; o altă nevastă găsești lesne... n-a fost niciodată lipsă de neveste... Dar era o nevastă cuminte credincioasă și frumoasă... Se mai găsesc însă și de astea, și mai bune...» Cu astfel de gânduri, adormi.</p>
+<p>— Bietul stăpânul-meu, în culmea turbării își va ucide nevasta; dar vom scăpa cu atâta, se gândea Marghioala». Și dacă și-o va ucide... și... dacă neucigând-o, s-o lămuri încurcătura? Rămân eu între două focuri?... Ce să fac?... Să fug? Dar unde?...Însă, nefăcând nimic, cum mă descurc cu omul care m-a plătit?... Acela nu glumește... N-am încotro... trebuie să lucrez cum m-am hotărât, Stăpânul e un om iute și sângeros, o va ucide... Ei da! se știe că niciodată nu se înfurie mai rău un bărbat decât în asemenea prilejuri... S-au văzut atâția și atâția  care și-au omorât nevestele... Pe urmă o ști el cum să scape... Ș-apoi cine poate da pe față cum au fost lucrurile?... Aceea desigur nu, eu și mai puțin. Are să fie o lovitură dureroasă pentru sărmanul meu stăpân ; e adevărat, dar mai bine să-ți pierzi nevasta decât viața ; o altă nevastă găsești lesne... n-a fost niciodată lipsă de neveste... Dar era o nevastă cuminte credincioasă și frumoasă... Se mai găsesc însă și de astea, și mai bune...» Cu astfel de gânduri, adormi.</p>
 <p> A doua zi se deșteptă de timpuriu ; rechema în minte cugetările din timpul nopții, schimbă, sau mai bine zis îmbunătăți planul ce făcuse și socoti timpul ce-i trebuia pentru realizarea lui.</p>
 <p> Aproape de miezul zilei (ora la care Ștefan se întorcea acasă, pentru mâncare, și tot deodată ora aleasă de Marghioala ca să-și încerce lovitura), servitoarea intră în camera stăpânei, pe care o găsi brodând lângă o măsuță de lucru. Se apropie de dânsa cu o înfățișare lingușitoare și, fără a o lăsa să-i vadă în față nici urmă măcar din gândurile care o munceau, lăudând încă brodăria ca să o distreze, îi strecură în buzunare scrisoarea și sticluța cu otravă.</p>
 <p>Cinci minute în urmă, mișcarea clopoțelului anunță că Stefan era la ușă.</p>
 <p>Marghioala alerga să-i deschidă.</p>
-<p>— «Domnule Ștefan» zise ea stăpânului său, îndreptându-se spre bucătărie, «vino după mine».</p>
+<p>— Domnule Ștefan» zise ea stăpânului său, îndreptându-se spre bucătărie, «vino după mine.</p>
 <p>Ștefan o urmă. Când fuse înăuntru, bătrâna, după ce închise ușa cu băgare de seamă, șopti cu repeziciune.</p>
-<p>— Am să-ți spun un mare secret, care te privește pe dumneata. Trebuie însă să juri, domnule Ștefan, că n-ai să descoperi nimănui că l-ai aflat de la mine».</p>
-<p>— «Spune, spune». .</p>
-<p>— «Jură întâi fiindcă e vorba de viață».</p>
-<p>— «De viață?»</p>
-<p>— «Da, domnule».</p>
-<p>— «Bine: jur».</p>
+<p>— Am să-ți spun un mare secret, care te privește pe dumneata. Trebuie însă să juri, domnule Ștefan, că n-ai să descoperi nimănui că l-ai aflat de la mine.</p>
+<p>— Spune, spune». .</p>
+<p>— Jură întâi fiindcă e vorba de viață.</p>
+<p>— De viață?</p>
+<p>— Da, domnule.</p>
+<p>— Bine: jur.</p>
 <p>— Află dar că să nu-ți mai spun de un ofițer, care tot trece pe la ferestrele cuconiței, și care schimbă bezele cu dânsa... află că azi dimineață, îndată ce ai plecat de acasă, a venit aici un vânzător de mărunțișuri prefăcut, care de fel trebuie să fi fost...un...un...</p>
-<p>— «Un ce?»</p>
-<p>-  « Un Turc din aceia care umblă cu fel de fel de ape și unsori. El a dat cuconiței o sticluță și o scrisoare și a plecat fără să primească vreo plată, că și cum ar fi fost plătit de mai înainte. Cuconița ține lucrurile astea în...»</p>
-<p>— «Unde?...Unde?...»</p>
-<p>— «În buzunarul rochiei».</p>
-<p>— «Așteaptă aici, tu» zise Ștefan, căruia stă pe aproape să-i vină un atac de apoplexie.</p>
+<p>— Un ce?</p>
+<p>-  « Un Turc din aceia care umblă cu fel de fel de ape și unsori. El a dat cuconiței o sticluță și o scrisoare și a plecat fără să primească vreo plată, că și cum ar fi fost plătit de mai înainte. Cuconița ține lucrurile astea în...</p>
+<p>— Unde?...Unde?...</p>
+<p>— În buzunarul rochiei.</p>
+<p>— Așteaptă aici, tu» zise Ștefan, căruia stă pe aproape să-i vină un atac de apoplexie.</p>
 <p>Apoi, punând mâna pe un cuțit din bucătărie și deschizând ușa, alergă la Voichița murmurând:</p>
-<p>- «Ce nevastă mi-am adus eu în casă? O.. femeie de poduri!.. Bine-mi spuseseră vecinii din mahalaua ei că avea a face cu o droaie de cuconași care-i tot treceau pe la ferestre... și care desigur nu-și ostenea picioarele de surdă... Afurisit fie momentul când am văzut-o pentru întâia oară!»</p>
+<p>- «Ce nevastă mi-am adus eu în casă? O.. femeie de poduri!.. Bine-mi spuseseră vecinii din mahalaua ei că avea a face cu o droaie de cuconași care-i tot treceau pe la ferestre... și care desigur nu-și ostenea picioarele de surdă... Afurisit fie momentul când am văzut-o pentru întâia oară!</p>
 <p>Ajuns în camera în care se găsea Voichița, se repezi la dânsa, o apucă cu o mână de păr și, învârtind cu cealaltă cuțitul amenințător, strigă cu voce poruncitoare:</p>
-<p>- «Dă-mi scrisoarea ce ai primit astăzi»</p>
-<p> «Ce scrisoare? Dumnezeule!..Ce scrisoare!» N-am primit nimic... nu știu nimic».</p>
-<p>— «Nimic! A! nu știi nimic...»</p>
+<p>- «Dă-mi scrisoarea ce ai primit astăzi</p>
+<p> «Ce scrisoare? Dumnezeule!..Ce scrisoare!» N-am primit nimic... nu știu nimic.</p>
+<p>— Nimic! A! nu știi nimic...</p>
 <p>Și-i înfipse de două ori cuțitul în piept; apoi o răsturnă pe pământ, îi băgă mâna în buzunar și trase afară scrisoarea și sticluța cu otravă.</p>
-<p>— «Nimic, hai? Si acestea ce sunt?» reîncepu furiosul desfăcând hârtia și citind:</p>
-<p>«Aleasa inimii mele, poți acum să te scapi de garantul tău responsabil și să mă urmezi».</p>
-<p>- «Dar cine e acesta? Răspunde: cine e înșelătorul acesta?»</p>
-<p>— «La ce mi-ar servi să mai neg?... Nu știu ce să-ți răspund... Este un... mister... groaznic. Dar eu sunt inocentă, răspunse cu voce slăbită nefericita, încercând să smulgă fierul pe care bărbatul ei î1 lăsase înfipt în piept.</p>
-<p>— «Dar mărturisește-ți păcatul... te-oi ierta».</p>
-<p>— «Ștefane... sunt inocentă».</p>
-<p>— «Femeie afurisită, nu vezi că ai să mori? Nu mai nega».</p>
-<p>— «Sunt inocentă».</p>
-<p>— «Și îndrăznești s-o mai spui, când vezi lucrurile acestea în mâna mea!» Stărui Ștefan, arătând scrisoarea și otrava.</p>
-<p>— «Da... sunt... inocentă ».</p>
-<p>— «Gândește-te la sufletul tău».</p>
-<p>— «Dumnezeu...știe... că... sunt... inocentă».</p>
-<p>— «Iadul să te aibă!» urlă bărbatul exasperat și orb de turbare:</p>
+<p>— Nimic, hai? Si acestea ce sunt?» reîncepu furiosul desfăcând hârtia și citind:</p>
+<p>«Aleasa inimii mele, poți acum să te scapi de garantul tău responsabil și să mă urmezi.</p>
+<p>- «Dar cine e acesta? Răspunde: cine e înșelătorul acesta?</p>
+<p>— La ce mi-ar servi să mai neg?... Nu știu ce să-ți răspund... Este un... mister... groaznic. Dar eu sunt inocentă, răspunse cu voce slăbită nefericita, încercând să smulgă fierul pe care bărbatul ei î1 lăsase înfipt în piept.</p>
+<p>— Dar mărturisește-ți păcatul... te-oi ierta.</p>
+<p>— Ștefane... sunt inocentă.</p>
+<p>— Femeie afurisită, nu vezi că ai să mori? Nu mai nega.</p>
+<p>— Sunt inocentă.</p>
+<p>— Și îndrăznești s-o mai spui, când vezi lucrurile acestea în mâna mea!» Stărui Ștefan, arătând scrisoarea și otrava.</p>
+<p>— Da... sunt... inocentă .</p>
+<p>— Gândește-te la sufletul tău.</p>
+<p>— Dumnezeu...știe... că... sunt... inocentă.</p>
+<p>— Iadul să te aibă!» urlă bărbatul exasperat și orb de turbare:</p>
 <p>Și, apăsând cu piciorul gâtul victimei, îi înfipse pentru ultima oară cuțitul sub țâța stânga.</p>
 <p>Voichița expiră murmurând fără ca el să asculte:</p>
-<p>— «Eu tot te iubesc... Ce femeie... pierzi!» </p>
+<p>— Eu tot te iubesc... Ce femeie... pierzi!» </p>
 <p>Ștefan, afară din fire, își contempla nevasta.</p> 
 <p> Deodată, duse la gura sticluța cu otrava pe care o ținea încă în mâna stângă, o zdrobi în dinți și dădu un urlet sălbatic: înnebunise.</p>
 <p>Puține minute în urmă, expiră în cea mai dureroasă agonie.</p>
@@ -445,33 +458,33 @@
 <p>Puțin în urmă bătea la ușa unei case mici din strada Mihai-Vodă.</p>
 <p>Un obrăjor de muiere se arătă la fereastră și, fiind Bunea persoană cunoscută alergă să-i deschidă.</p>
 <p>Bunea intră.</p>
-<p>— «Ce rău te-ai făcut de la o vreme, domnule Mihalache!», îi zise femeia, conducându-1 într-o mică cameră foarte frumos mobilată și invitându-l să șadă. «Iată trei săptămâni de când nu te-ai arătat pe la mine».</p>
-<p>— «Ți-am spus, dragă Tereso, că țin în tovărășia cu frate-meu două prăvălii în Ploiești.</p>
-<p>Trebuie din când în când să mă duc să mai văd cum stăm».</p>
+<p>— Ce rău te-ai făcut de la o vreme, domnule Mihalache!, îi zise femeia, conducându-1 într-o mică cameră foarte frumos mobilată și invitându-l să șadă. «Iată trei săptămâni de când nu te-ai arătat pe la mine.</p>
+<p>— Ți-am spus, dragă Tereso, că țin în tovărășia cu frate-meu două prăvălii în Ploiești.</p>
+<p>Trebuie din când în când să mă duc să mai văd cum stăm.</p>
 <p>__«Scuzele obișnuite! Scuzele obișnuite! Îmi vine mai lesne să cred, eu, că ți s-a urât cu mine». •</p>
-<p>— «Nu, Tereso, deoarece, mai mult decât oricând, sunt hotărât să mă cunun cu tine».</p>
-<p>— «Să te cununi cu mine! Mi-ai zis-o de multe ori... dar eu nu pot uita că sunt o femeie publică».</p>
-<p>— «Ce-mi pasă mie, dacă te iubesc!»</p>
-<p>— «Dar numele și onoarea ta? Cu o nevastă ca mine, ai fi arătat cu degetul... ai ajunge râsul lumii... n-ar mai îndrăzni nimeni să se apropie de tine... Hei nu! Știu eu că nu pot fi nevasta nimănui».</p>
-<p>— «Si eu îți spun că vei fi nevasta mea. Vom lăsa Bucureștiul și ne vom duce să trăim la Ploiești. Un singur sacrificiu trebuie să faci».</p>
-<p>— «Care?»</p>
+<p>— Nu, Tereso, deoarece, mai mult decât oricând, sunt hotărât să mă cunun cu tine.</p>
+<p>— Să te cununi cu mine! Mi-ai zis-o de multe ori... dar eu nu pot uita că sunt o femeie publică.</p>
+<p>— Ce-mi pasă mie, dacă te iubesc!</p>
+<p>— Dar numele și onoarea ta? Cu o nevastă ca mine, ai fi arătat cu degetul... ai ajunge râsul lumii... n-ar mai îndrăzni nimeni să se apropie de tine... Hei nu! Știu eu că nu pot fi nevasta nimănui.</p>
+<p>— Si eu îți spun că vei fi nevasta mea. Vom lăsa Bucureștiul și ne vom duce să trăim la Ploiești. Un singur sacrificiu trebuie să faci.</p>
+<p>— Care?</p>
 <p>Bunea îi expuse hotărârea lui, de a răpi banii preotului.</p>
-<p>— «Dar asta e o hoție»! strigă Teresa, după ce fini amantul ei.</p>
-<p>— «Nu, sufletul meu; nu e o hoție a smulge banii din mâna unui cămătar prefăcut, pentru a ajuta o femeie să iasă din calea pieirii; ba ceva mai mult banii fiind prilej de păcat în mâinile unui popă, facem lui însuși un bine luându-i».</p>
+<p>— Dar asta e o hoție»! strigă Teresa, după ce fini amantul ei.</p>
+<p>— Nu, sufletul meu; nu e o hoție a smulge banii din mâna unui cămătar prefăcut, pentru a ajuta o femeie să iasă din calea pieirii; ba ceva mai mult banii fiind prilej de păcat în mâinile unui popă, facem lui însuși un bine luându-i.</p>
 <p>Prostituata răspunse cu un suspin.</p>
-<p>- «Tu fă cum îți zic eu», mai zise Bunea sculându-se. Diseară la șase, mă voi întoarce să te iau cu trăsura, ca să te duc acasă la mine. Strânge-ți până atunci gătelile cu care crezi a te arăta mai frumoasă, și să ne punem pe lucru».</p>
-<p>— «Ascultă, Mihalache, e încă o sumă mare?»</p>
-<p>— «Hei!, poate să se urce la, vreo 50 mii de lei».</p>
-<p>— «Cu atâta am putea trăi fericiți!» exclamă Terasa cu bucurie, gonind orice scupule din minte și cugetând numai la viitorul strălucit ce i se prepara.</p>
+<p>- «Tu fă cum îți zic eu, mai zise Bunea sculându-se. Diseară la șase, mă voi întoarce să te iau cu trăsura, ca să te duc acasă la mine. Strânge-ți până atunci gătelile cu care crezi a te arăta mai frumoasă, și să ne punem pe lucru.</p>
+<p>— Ascultă, Mihalache, e încă o sumă mare?</p>
+<p>— Hei!, poate să se urce la, vreo 50 mii de lei.</p>
+<p>— Cu atâta am putea trăi fericiți!» exclamă Terasa cu bucurie, gonind orice scupule din minte și cugetând numai la viitorul strălucit ce i se prepara.</p>
 <p>Mihale Bunea o îmbrățișă și plecă zicându-și:</p>
-<p>— «Am băgat-o în sac».</p>
+<p>— Am băgat-o în sac.</p>
 <p>Ultimele raze ale soarelui abia mai atingeau încă punctele cele mai înălțate ale orașului, când Teresa îmbrăcată cu o rochie de tulpan, care lăsă descoperiți umerii albi și grăsulii, partea superioară a sânului dezvoltat și pietros și brațele de o neasemănată perfecțiune, se așeză în galeria casei lui Bunea, ținând în mână o cusătură neterminată.</p>
 <p>Mihale Bunea, ca să lase locul liber popii plecase de acasă.</p>
 <p>Când prostituata văzu că intrase în camera sa de dormit, începu să cânte:</p>
 <p> »Nu vreau tron, nu vreau mărire,</p>
 <p> »Luxul efemer:</p>
 <p> »Drept unică fericire.</p>
-<p> «Doar iubire cer».</p>
+<p> «Doar iubire cer.</p>
 <p>Vocea puternică și sentimentală a Teresei mișcă toate fibrele sărmanului preot, care, împins de curiozitate, se precipită la fereastră.</p>
 <p>Dânsa ridică ochii de deasupra lucrului și îl privi cu dulceață; farmecul acelei priviri îl împietri.</p>
 <p>Teresa își reluă cântecul:</p>
@@ -482,117 +495,117 @@
 <p> »I-aș da... ce-i mai scump în lume:</p>
 <p> »Onoarea și amor...</p>
 <p> »Dar el tace!... Cu ce nume</p>
-<p> «Vrei să te implor ?»</p>
+<p> «Vrei să te implor ?</p>
 <p>Pronunțând aceste ultime cuvinte, cântăreața lăsă să-i scape degetaral în grădina popii, exclamând:</p>
-<p>— «A! Dumnezeule... cum să-l iau!»</p>
-<p>- «Așteaptă, cuconiță», îndrăzni să zică popa; «mă dau eu jos să-l caut».</p>
+<p>— A! Dumnezeule... cum să-l iau!</p>
+<p>- «Așteaptă, cuconiță, îndrăzni să zică popa; «mă dau eu jos să-l caut.</p>
 <p>Și alergă în grădină.</p>
 <p>După ce ridică degetarul, reintră în casă și se întoarse la fereastră, de unde, cu ajutorul unui băț lung, înapoia mica unealtă Teresei.</p>
-<p>— «Îmi pare rău, în adevăr că v-ați dat atâta osteneală», îi zise prostituata. «Vă sunt îndatorată până în suflet».</p>
-<p>— «Ba eu, cuconiță, mă cred foarte fericit de a fi avut ocazia să vă fac un mic serviciu, și cred și oricare»...</p>
-<p>— «Ce ar face? Sfinția voastră vrea să mă măgulească» ; și lăsă să-i scape un suspin, care zăpăci cu totul pe bietul popă.</p>
-<p>— «Mă iartă cuconiță», reîncepu el; «domnia voastră sunteți nevasta lui Bunea?</p>
-<p>— «Nu părinte îi sunt soră».</p>
-<p>— «Și ați venit de curând la București?»</p>
-<p>— «Da...astăzi am sosit»</p>
-<p>— «Aveți să stați mult prin orașul nostru?</p>
-<p>— «O săptămână?</p>
+<p>— Îmi pare rău, în adevăr că v-ați dat atâta osteneală, îi zise prostituata. «Vă sunt îndatorată până în suflet.</p>
+<p>— Ba eu, cuconiță, mă cred foarte fericit de a fi avut ocazia să vă fac un mic serviciu, și cred și oricare»...</p>
+<p>— Ce ar face? Sfinția voastră vrea să mă măgulească» ; și lăsă să-i scape un suspin, care zăpăci cu totul pe bietul popă.</p>
+<p>— Mă iartă cuconiță, reîncepu el; «domnia voastră sunteți nevasta lui Bunea?</p>
+<p>— Nu părinte îi sunt soră.</p>
+<p>— Și ați venit de curând la București?</p>
+<p>— Da...astăzi am sosit</p>
+<p>— Aveți să stați mult prin orașul nostru?</p>
+<p>— O săptămână?</p>
 <p>- «Vă rog să nu vă fie cu supărare. Dar v-aș întreba: unde aveți să vă întoarceți?</p>
-<p>— «La Giurgiu, unde...» </p>
-<p>— «Unde vă așteaptă cineva, care vă este drag?» suspină popa la rândul lui.</p>
-<p>— «Aș! nicidecum».</p>
-<p>— «Cu greu aș crede că o cuconiță ca domnia ta să nu fi lăsat pe acolo toată lumea cu dor... o cuconiță așa de nostimă!»</p>
-<p>— «Într-adevăr!»</p>
-<p>— «O cuconiță ca un îngeraș... tocmai ca un îngeraș... Eu unul nu pot să privesc ochișorii aceia ai matale... fără să... fără să simt un dor!»</p>
-<p>— «Dar sfinția voastră preot...»</p>
-<p>— «Oh! crede că am inimă duioasă și iubitoare».</p>
-<p>— «Dacă aș putea crede...»</p>
-<p>— «M-ai iubi atunci și matale?»</p>
-<p>— «Ah!»</p>
-<p>— «Spune, spune, ființă îngerească! spune că m-ai iubi!»</p>
-<p>— «Ah!... nu mă întreba»...</p>
-<p>— «Nu te întreb te rog...o vorbă... o vorbuliță...»</p>
-<p>— «Ei bine... cine ar putea răspunde unui asemenea iubiri altfel... decât prin iubire?»</p>
-<p>— «Adevărat! urlă preotul nebun de bucurie și întinzând brațele de la fereastra lui ca și cum ar fi voit să îmbrățișeze pe Teresa. «Va să zică mă iubești? Mai spune-o o dată... mai spune-o!</p>
-<p>— «Da, te iubesc cu amor imens... vreau să fiu a ta.»</p>
+<p>— La Giurgiu, unde...» </p>
+<p>— Unde vă așteaptă cineva, care vă este drag?» suspină popa la rândul lui.</p>
+<p>— Aș! nicidecum.</p>
+<p>— Cu greu aș crede că o cuconiță ca domnia ta să nu fi lăsat pe acolo toată lumea cu dor... o cuconiță așa de nostimă!</p>
+<p>— Într-adevăr!</p>
+<p>— O cuconiță ca un îngeraș... tocmai ca un îngeraș... Eu unul nu pot să privesc ochișorii aceia ai matale... fără să... fără să simt un dor!</p>
+<p>— Dar sfinția voastră preot...</p>
+<p>— Oh! crede că am inimă duioasă și iubitoare.</p>
+<p>— Dacă aș putea crede...</p>
+<p>— M-ai iubi atunci și matale?</p>
+<p>— Ah!</p>
+<p>— Spune, spune, ființă îngerească! spune că m-ai iubi!</p>
+<p>— Ah!... nu mă întreba»...</p>
+<p>— Nu te întreb te rog...o vorbă... o vorbuliță...</p>
+<p>— Ei bine... cine ar putea răspunde unui asemenea iubiri altfel... decât prin iubire?</p>
+<p>— Adevărat! urlă preotul nebun de bucurie și întinzând brațele de la fereastra lui ca și cum ar fi voit să îmbrățișeze pe Teresa. «Va să zică mă iubești? Mai spune-o o dată... mai spune-o!</p>
+<p>— Da, te iubesc cu amor imens... vreau să fiu a ta.</p>
 <p>Aceste ultime vorbe dădură ultima lovitură minții părintelui Dionisiu, ai cărui ochi străluciră cu o lumină neobișnuită.</p>
-<p>— «Cu amor imens, inimioara mea!» reîncepu el. «Dar atunci putem face altfel decât să ne vorbim de pe acoperișuri ca pisicile. Diseară, voi rezema o scară de zidul acesta. Coborându-ne pe dânsa în grădină, vei intra apoi pe ușa de din dos în casă la mine.»</p>
-<p>— «Dar ai o scară trainică ?»</p>
-<p>— «N-avea grijă».</p>
-<p>— «Aud pe frate-meu, care s-a întors. Adio și la revedere diseară».</p>
-<p>Apoi Teresa se retrase, trimițând o sărutare preotului».</p>
+<p>— Cu amor imens, inimioara mea!» reîncepu el. «Dar atunci putem face altfel decât să ne vorbim de pe acoperișuri ca pisicile. Diseară, voi rezema o scară de zidul acesta. Coborându-ne pe dânsa în grădină, vei intra apoi pe ușa de din dos în casă la mine.</p>
+<p>— Dar ai o scară trainică ?</p>
+<p>— N-avea grijă.</p>
+<p>— Aud pe frate-meu, care s-a întors. Adio și la revedere diseară.</p>
+<p>Apoi Teresa se retrase, trimițând o sărutare preotului.</p>
 <p>Mihale Bunea intrase, în adevăr, în casă.</p>
-<p>— «Ei bine!» întrebă dânsul pe întreținuta lui.</p>
-<p>— «Merge de minune, Craiul a căzut în plasă».</p>
-<p>— «Zău! nu te credeam atât de meșteră».</p>
-<p>— «Mâine comoara va fi în mâinile noastre».</p>
-<p>— «Cum?»</p>
-<p>— «La noapte trebuie să mă duc la dânsul».</p>
-<p>— «Nu speram că mergi așa repede. Vezi să nu uiți secretul cu care se deschide bisacteaua».</p>
-<p>— «Fii sigur. Trebuie să apăs nasturele care se află la dreapta pe capac și să trag afară pe cel din stânga. Dar te-ai încredințat bine că se deschide astfel?»</p>
-<p>— «Se înțelege ca m-am încredințat. Am văzut pe popă de vreo trei-patru ori când a deschis-o».</p>
-<p>— «Ascultă, Mihalache, dacă nu voi reuși să-l țin adormit cu cârpa aceea udată în apă de mac, pe care mi-ai dat-o însuți, cum să fac ca să plec cu banii?»</p>
+<p>— Ei bine!» întrebă dânsul pe întreținuta lui.</p>
+<p>— Merge de minune, Craiul a căzut în plasă.</p>
+<p>— Zău! nu te credeam atât de meșteră.</p>
+<p>— Mâine comoara va fi în mâinile noastre.</p>
+<p>— Cum?</p>
+<p>— La noapte trebuie să mă duc la dânsul.</p>
+<p>— Nu speram că mergi așa repede. Vezi să nu uiți secretul cu care se deschide bisacteaua.</p>
+<p>— Fii sigur. Trebuie să apăs nasturele care se află la dreapta pe capac și să trag afară pe cel din stânga. Dar te-ai încredințat bine că se deschide astfel?</p>
+<p>— Se înțelege ca m-am încredințat. Am văzut pe popă de vreo trei-patru ori când a deschis-o.</p>
+<p>— Ascultă, Mihalache, dacă nu voi reuși să-l țin adormit cu cârpa aceea udată în apă de mac, pe care mi-ai dat-o însuți, cum să fac ca să plec cu banii?</p>
 <p>După ce cugetă un moment fostul om de codru răspunse:</p>
-<p>— «Să facem astfel. Vreo zece minute după ce vei fi intrat la dânsul, eu, schimbat la față și la haine, voi veni să-l chem, ca să mergă să îngrijească pe un muribund. Popa nu va putea să refuze, ca să nu-și micșoreze numele de slugă harnică a bisericii. Când va fi afară din casă, vei intra în iatacul lui si vei bate de trei ori din palme; eu voi sări în grădină, îmi vei arunca banii pe fereastră, și ne vom întoarce apoi amândoi acasă».</p>
-<p>— «Dar popa, când se va încredința sau va ghici minciuna pretinsului muribund, întorcându-se, nemaigăsindu-mă pe mine, iar bisacteaua găsindu-și-o goală, neapărat că ne va bănui pe noi... ne va acuza de hoție...»</p>
-<p>— «Cu ce probe?» !</p>
-<p>— «Cu proba aceasta ne va duce la poliție,acolo toți mă știu că sunt Teresa Fențer, femeie publică, și atunci...»</p>
-<p>— «Încet! Mâine, mai înainte ca el să fi avut timpul de a-și privi bisacteaua, tu te vei așeza iar pe scaun, în galerie, și, cântând tare, îl vei atrage din nou la fereastră...»</p>
+<p>— Să facem astfel. Vreo zece minute după ce vei fi intrat la dânsul, eu, schimbat la față și la haine, voi veni să-l chem, ca să mergă să îngrijească pe un muribund. Popa nu va putea să refuze, ca să nu-și micșoreze numele de slugă harnică a bisericii. Când va fi afară din casă, vei intra în iatacul lui si vei bate de trei ori din palme; eu voi sări în grădină, îmi vei arunca banii pe fereastră, și ne vom întoarce apoi amândoi acasă.</p>
+<p>— Dar popa, când se va încredința sau va ghici minciuna pretinsului muribund, întorcându-se, nemaigăsindu-mă pe mine, iar bisacteaua găsindu-și-o goală, neapărat că ne va bănui pe noi... ne va acuza de hoție...</p>
+<p>— Cu ce probe?» !</p>
+<p>— Cu proba aceasta ne va duce la poliție,acolo toți mă știu că sunt Teresa Fențer, femeie publică, și atunci...</p>
+<p>— Încet! Mâine, mai înainte ca el să fi avut timpul de a-și privi bisacteaua, tu te vei așeza iar pe scaun, în galerie, și, cântând tare, îl vei atrage din nou la fereastră...</p>
 <p>Nu reproducem finele acestei convorbiri pentru că se va vedea mai jos ce instrucțiuni dădu Mihale Bunea întreținutei sale.</p>
 <p>În fine, s-a făcut întuneric.</p>
 <p>Bunea trase afară dintr-o ladă o haină de lucrător veche și uzată; și se îmbrăcă cu dânsa; își scoase apoi ghetele și se încălță cu un fel de pantofi cu tălpile întărite cu cuie, își lăsă părul pe frunte: își acoperi mâinile și obrazul cu praf de cărbune și puse pe cap o pălărie de pâslă cu bordurile largi.</p>
 <p>Puțin în urmă, Teresa se duse să se așeze în galerie și zise preotului, care se arătase îndată la fereastră, să așeze scara la locul hotărât, fiind deja fratele-său dus de acasă pentru mai multe ore.</p>
 <p>Părintele Dionisiu coborî repede în grădină cu o scară nouă, pe care o rezemă de zid. Prostituata trecu peste balustrada galeriei, puse picioarele întâi pe zid, apoi pe scară și începu să coboare. Când fusese aproape de a ajunge jos, preotul o ridică în brațele sele, zicând:</p>
-<p>— «N-oi uita niciodată cât ai fost de miloasă cu mine, inimioara mea.</p>
+<p>— N-oi uita niciodată cât ai fost de miloasă cu mine, inimioara mea.</p>
 <p>O luă apoi de mână și intrară amândoi în casă.</p>
-<p>— «Dacă mă iubești cum zici» zise atunci Teresa trântindu-se cu neglijență într-un fotoliu cu brațe», sper că n-ai să abuzezi în încrederea ce am avut venind aici, căci am contat pe delicatețea domniei tale».</p>
-<p>— «Și ai făcut foarte bine, îngerașule... N-oi face decât ce-o fi cu voia matale... Ah!»</p>
-<p>— Dar pentru ce suspini?»</p>
-<p>- «Mă gândesc la afurisita de popie, care mă oprește de a te iubi la lumina zilei și în fața oamenilor, care mă oprește de a te face soața mea».</p>
+<p>— Dacă mă iubești cum zici» zise atunci Teresa trântindu-se cu neglijență într-un fotoliu cu brațe, sper că n-ai să abuzezi în încrederea ce am avut venind aici, căci am contat pe delicatețea domniei tale.</p>
+<p>— Și ai făcut foarte bine, îngerașule... N-oi face decât ce-o fi cu voia matale... Ah!</p>
+<p>— Dar pentru ce suspini?</p>
+<p>- «Mă gândesc la afurisita de popie, care mă oprește de a te iubi la lumina zilei și în fața oamenilor, care mă oprește de a te face soața mea.</p>
 <p>- «A și început să mă tutuiască!» se gândi Teresa în sine.</p>
-<p>— «Parcă, fiind popă, n-aș mai fi om!» urmă el. Destul însă că tu mă iubești!... Dar daca vreodată te-aș vedea nevasta altuia!...»</p>
-<p>— «Aceasta nu va fi, deoarece singurul bărbat căruia m-aș fi dat nu mă poate lua, nici nu mă voi mărita niciodată».</p>
+<p>— Parcă, fiind popă, n-aș mai fi om!» urmă el. Destul însă că tu mă iubești!... Dar daca vreodată te-aș vedea nevasta altuia!...</p>
+<p>— Aceasta nu va fi, deoarece singurul bărbat căruia m-aș fi dat nu mă poate lua, nici nu mă voi mărita niciodată.</p>
 <p>Zgomotul unor ciocnituri la poarta mare întrerupse conversația.</p>
-<p>— «Să ia dracul pe supărăciosul care vine acum!» exclamă părintele Dionisiu.</p>
+<p>— Să ia dracul pe supărăciosul care vine acum!» exclamă părintele Dionisiu.</p>
 <p>Și alergă la fereastra de la care putea privi în stradă.</p>
-<p>— «Cine e? mai strigă el, scoțând capul pe fereastră.</p>
-<p>— Binecuvântează, părinte, și fă-ți pomană să vii să îngrijești un biet creștin care moare», răspunse Mihale Bunea din stradă, cu voce prefăcută.</p>
-<p>— «Nu pot să viu; sufăr de reumatism».</p>
-<p>— «Vai de mine, părinte! Sfinția ta n-a lăsat pe nimeni fără grijanie. Doar nu ți-ai face păcat cu omul ăsta».</p>
-<p>— «Dar daca nu pot să mă țin pe picioare! du-te la părintele Timotei».</p>
-<p>— «Bolnavul nu vrea pe altul decât pe Sfințenia ta. Mă duc atunci să aduc o birjă».</p>
-<p>— «Nu, nu, așteaptă-mă, că vin acum», mormăi părintele Dionisiu, nemaiavând ce să obiecteze.</p>
+<p>— Cine e? mai strigă el, scoțând capul pe fereastră.</p>
+<p>— Binecuvântează, părinte, și fă-ți pomană să vii să îngrijești un biet creștin care moare, răspunse Mihale Bunea din stradă, cu voce prefăcută.</p>
+<p>— Nu pot să viu; sufăr de reumatism.</p>
+<p>— Vai de mine, părinte! Sfinția ta n-a lăsat pe nimeni fără grijanie. Doar nu ți-ai face păcat cu omul ăsta.</p>
+<p>— Dar daca nu pot să mă țin pe picioare! du-te la părintele Timotei.</p>
+<p>— Bolnavul nu vrea pe altul decât pe Sfințenia ta. Mă duc atunci să aduc o birjă.</p>
+<p>— Nu, nu, așteaptă-mă, că vin acum, mormăi părintele Dionisiu, nemaiavând ce să obiecteze.</p>
 <p>Apoi, întorcându-se spre Teresa:</p>
-<p>— «Inimioară, alerg la un bolnav și mă întorc îndată. Nu pot să refuz, ca să nu se facă vorbe pe socoteala mea. Peste zece minute însă sunt aici».</p>
-<p>— «Oi aștepta, iubite. Grăbește-te».</p>
-<p>— «Da, da,» mai zise preotul.</p>
+<p>— Inimioară, alerg la un bolnav și mă întorc îndată. Nu pot să refuz, ca să nu se facă vorbe pe socoteala mea. Peste zece minute însă sunt aici.</p>
+<p>— Oi aștepta, iubite. Grăbește-te.</p>
+<p>— Da, da,» mai zise preotul.</p>
 <p>Și, luându-și potcapiul și bastonul, ieși.</p>
 <p>Jos, în stradă, găsi pe necunoscut și plecă cu dânsul. La răspântia care dă în strada Țăranilor, Bunea îi zise:</p>
-<p>— «Părinte, eu trebuie să alerg și la doctor. Casa bolnavului e în strada Polonă No. **. Mergi sfinția ta acolo, că vin și eu curând, cu doctorul».</p>
-<p>— «Bine, bine», răspunse necăjit Dionisiu.</p>
+<p>— Părinte, eu trebuie să alerg și la doctor. Casa bolnavului e în strada Polonă No. **. Mergi sfinția ta acolo, că vin și eu curând, cu doctorul.</p>
+<p>— Bine, bine, răspunse necăjit Dionisiu.</p>
 <p>Și se despărți de Bunea, care intrând în strada Țăranilor și apucând prin niște ulicioare, se întoarse repede acasă la dânsul.</p>
 <p>Bunea ajunse în galerie tocmai când întreținuta lui dădea semnalul. Răspunse și se coborî în grădină.</p>
 <p>Dânsa, deschizând bisacteaua, luă de acolo cele cinci fișicuri de aur ce conținea și le aruncă pe fereastră. Bunea le primi în mână și le duse în camera sa.</p>
 <p>Teresa, atunci, se întoarse în odaia de dormit a preotului. Ea trase din buzunar o sticluță bine astupată, stropi scândurile cu câteva picături din lichidul ce avea într-însa, și care nu era altceva decât sânge; stropi tot astfel patul, traversă apoi odăile prin care o condusese Dionisiu și se coborî în grădină. În fine, cu ajutorul scării ce fusese pusă acolo de însuși înamoratul preot, putu să se întorcă în casa lui Mihale Bunea.</p>
 <p>Acesta numărase banii: în fiecare din cele cinci fișicuri se aflau câte zece mii de lei.</p>
 <p>Când veni a doua zi să-și ia locul în galerie, Teresa văzu pe preot preumblându-se prin camera lui: o aștepta de mai bine de o oră, ca să ceară lămuriri asupra sângelui vărsat și asupra disperațiunii sale. Cât despre disparițiunea banilor, se vede că n-o văzuse încă.</p>
-<p>— «Părinte», îi șopti prostituata, când el văzu aproape de fereastră; «nu mi-aș fi închipuit niciodată să fii atât de mișel».</p>
-<p>— «Eu!»</p>
-<p>— «Taci! să mă faci să-ți vin în casă și, sub pretext că te duci la bolnavi, să mă lași în voia a două bestii; să mă batjocorească, să...</p>
-<p>— «Dar ascultă ce vreau».</p>
-<p>— «Fie-ți rușine! cum ai ieșit din casă, au intrat la mine doi bărbați, care m-au târât într-o odaie unde era un pat și... și apoi s-au dus, purtând în mână niște fișicuri cu bani».</p>
-<p>— «Banii mei!... banii mei!...» urla părintele Dionisiu.</p>
+<p>— Părinte, îi șopti prostituata, când el văzu aproape de fereastră; «nu mi-aș fi închipuit niciodată să fii atât de mișel.</p>
+<p>— Eu!</p>
+<p>— Taci! să mă faci să-ți vin în casă și, sub pretext că te duci la bolnavi, să mă lași în voia a două bestii; să mă batjocorească, să...</p>
+<p>— Dar ascultă ce vreau.</p>
+<p>— Fie-ți rușine! cum ai ieșit din casă, au intrat la mine doi bărbați, care m-au târât într-o odaie unde era un pat și... și apoi s-au dus, purtând în mână niște fișicuri cu bani.</p>
+<p>— Banii mei!... banii mei!...» urla părintele Dionisiu.</p>
 <p>Și se precipită asupra bisactelei, o deschise în grabă... privi cu ochi sperioși... deveni palid... începură să-i tremure genunchii, începu să i se întunece vederea... căzu pe scaun plângând cu suspine:</p>
-<p>— «M-au furat... mi-au luat roadele a zece ani de sudori și de vegheri... sângele meu... viața mea... O! comoara mea, comoara mea!»</p>
+<p>— M-au furat... mi-au luat roadele a zece ani de sudori și de vegheri... sângele meu... viața mea... O! comoara mea, comoara mea!</p>
 <p>Când se întoarse la fereastră, Teresa dispăruse.</p>
-<p>— «Coconiță! coconiță!», o rechemă popa, cu voce tremurândă și ca și cum n-ar mai fi știind în ce lume trăia.</p>
+<p>— Coconiță! coconiță!, o rechemă popa, cu voce tremurândă și ca și cum n-ar mai fi știind în ce lume trăia.</p>
 <p> Prostituata se întoarse.</p>
-<p>— «În zadar, în zadar sunt toate» îi zise ea. «Nu mă mai prind eu cu vorbe dulci. Rana aceasta (și arătă brațul drept, înfășurat cu o cârpă ceva mai sus de cot,) rana ce mi-a făcut unul din tâlharii aceia fiindcă n-am voit să mă-nduplec, va ține continuu deștept în mine cel mai adânc dezgust pentru sfinția ta... de altfel, voi părăsi chiar astăzi casa aceasta, ca să nu ne mai vedem».</p>
-<p>— «Dar ascultă cel puțin. Eu nu...»</p>
-<p>— «Rămâi în pace și Dumnezeu să te ierte, părinte, mai zise Teresa.</p>
+<p>— În zadar, în zadar sunt toate» îi zise ea. «Nu mă mai prind eu cu vorbe dulci. Rana aceasta (și arătă brațul drept, înfășurat cu o cârpă ceva mai sus de cot,) rana ce mi-a făcut unul din tâlharii aceia fiindcă n-am voit să mă-nduplec, va ține continuu deștept în mine cel mai adânc dezgust pentru sfinția ta... de altfel, voi părăsi chiar astăzi casa aceasta, ca să nu ne mai vedem.</p>
+<p>— Dar ascultă cel puțin. Eu nu...</p>
+<p>— Rămâi în pace și Dumnezeu să te ierte, părinte, mai zise Teresa.</p>
 <p>Și plecă.</p>
 <p>Părintele Dionisiu rămase cu gura căscată. În fine, se luă cu mâinile de păr, strigând:</p>
-<p>- «Afurisită ziua de azi... am pierdut tot... am pierdut tot».</p>
+<p>- «Afurisită ziua de azi... am pierdut tot... am pierdut tot.</p>
 <p>Vom vedea mai încolo ce s-a întâmplat și cu acest sfânt servitor al bisericii.</p>
 <p>Cât despre Mihale Bunea, lui nu-i mai rămânea decât să pună în lucrare ultima parte a proiectului său, să se scape de Teresa, ca să rămână singur proprietar al celor cincizeci de mii de lei.</p>
 <p>Pe la finele lui August, Bunea zise complicei sale că, sosind timpul nimerit pentru a fugi din București dânsa va trebui să plece cea dintâi pe la începutul lui Septembrie și să se ducă să-l aștepte la Brașov, unde el va veni tocmai peste o săptămână, ca să nu bănuiască nimeni înțelegerea lor.</p>
@@ -601,13 +614,13 @@
 <p> În dimineața de 2 Septembrie, Mihale Bunea depuse portofelul (hârtiile) ce de obicei purta asupră-și, în caseta de bani în care închisese și păstra încă cei 50 mii de lei, și ieși.</p>
 <p>Abia fostul cap de bandă se depărtase cu vreo zece pași de casă curiozitatea împinse pe Teresa a căuta în mulțimea cheilor ce avea la îndemână, una care să se potrivească pe casetă, s-o deschidă si s-o scotocească.</p>
 <p>Găsi, pe lângă un pașaport pentru străinătate, o scrisoare a unui boier din capitală, care recomanda pe Bunea unui amic al său de la Belgrad, unde Bunea trebuia să plece în curând.</p>
-<p>— «A!» strigă prostituata, «Bunea voiește să se scape de mine, trimițându-mă cu vreo două-trei sute de lei la Brașov, iar el să se ducă să toace restul la Belgrad!... dar, lasă că i-o fac eu».</p>
+<p>— A!» strigă prostituata, «Bunea voiește să se scape de mine, trimițându-mă cu vreo două-trei sute de lei la Brașov, iar el să se ducă să toace restul la Belgrad!... dar, lasă că i-o fac eu.</p>
 <p>Puse scrisoarea înapoi, în casetă; iar pe aceasta, o închise la loc.</p>
 <p>După patru zile, Teresa, purtând în mână un sac de voiaj cât se poate de ușor, se suia în diligența care pornea la Brașov.</p>
 <p>	În seara aceleiași zile însă, Mihale Bunea, deschizând caseta ca să-și revizuiască hârtiile, nu găsi din toți banii decât o singură mie de lei și următorul bilet:</p>
 <p>«Mihalache,</p>
 <p>»Îți dăruiesc o mie de lei, ca să te recompensez pentru osteneala ce ți-ai dat, procurându-mi mijloacele de a ieși din calea pieirii.</p>
-<p>«Teresa Fenzer».</p>
+<p>«Teresa Fenzer.</p>
 <p>Inchipuiască-și cititorul mirarea și înjurăturile lui Mihale Bunea.</p>
 </div>
 <div type="chapter" n="4">
@@ -617,80 +630,80 @@
 <p>Ploua cu găleata și întunericul era mare.</p>
 <p>Tâlharii așteptau diligența care trebuia să vină dinspre Urziceni.</p>
 <p>Deodată un om se arătă pe pragul ușii și zise:</p>
-<p>— «Gata, toți!»</p>
+<p>— Gata, toți!</p>
 <p>Și-și scuturară apa de pe manta.</p>
-<p>— «Gata!» zise el încă o dată; »se apropie o căruță...»</p>
+<p>— Gata!» zise el încă o dată; »se apropie o căruță...</p>
 <p>Acesta era al șaptelea al cetei.</p>
 <p>Într-o clipire, asasinii, săriră în picioare, își luară caradinele și se aruncară la drum.</p>
 <p>Căruța, trasă de un singur cal ajunsese la câțiva pași: Bunea aplecă carabina și făcu foc; glonțul lovi la frunte pe bietul cal, care căzu agonisind.</p>
 <p>Un pocnet de pistol, al cărui glonț nu nimeri însă pe nimeni, răspunse mai în același timp. Îndată căruța fuse înconjurată de bandiți.</p>
 <p>Vizitiul și doi domni fuseră târâți afară din căruță și ușurați de pungile și lucrurile mai prețioase ce purtau.</p>
-<p>— «Împușcați?» întrebă un tâlhar.</p>
-<p>— «Nu; spânzurați de vreun copac» zise altul.</p>
-<p>— «Arși de vii!» urlă Mihale Bunea». Mișeii ăștia au tras un pistol: în foc să piară! Iată că stă și ploaia».</p>
+<p>— Împușcați?» întrebă un tâlhar.</p>
+<p>— Nu; spânzurați de vreun copac» zise altul.</p>
+<p>— Arși de vii!» urlă Mihale Bunea». Mișeii ăștia au tras un pistol: în foc să piară! Iată că stă și ploaia.</p>
 <p>Doi din tâlhari abătură atunci cu patul carabinelor lemnăria neudată de ploaia din căsuța în care așteptară, luară apoi paiele ce găsiră la îndemână în același loc, și le grămădiră și unele și altele în jurul unui stejar mai bătrân din apropriere.</p>
 <p>Cei trei călători fuseră aruncați deasupra grămezii de lemne și paie, iar asasinii, după ce-i legară de copac, dădură foc uscăturilor. În curând flacăra se înălță și învălui victimile sale, care expirară în mijlocul urletelor și al rușinoaselor ocări ale bandei.</p>
-<p>— «Ehe ! zise după câteva momente Mihale Bunea; cu timpul ăsta afurisitul, diligența se vede că n-a găsit cu cale să se pună pe drum în noaptea asta. Unde mergem noi acum să ne găsim un adăpost până la ziuă?»</p>
-<p>— «Și ceva de mâncare ca să nu dormim cu stomacul gol», adăugă un tânăr înalt și uscățiv, poreclit Lupul.</p>
-<p>— «Așteptați, că găsim de toate», răspunse Bunea, îndreptându-se în direcțiunea capitalei.</p>
-<p>— «Acoperiți-vă bine carabinele cu mantale, și veniți după mine».</p>
+<p>— Ehe ! zise după câteva momente Mihale Bunea; cu timpul ăsta afurisitul, diligența se vede că n-a găsit cu cale să se pună pe drum în noaptea asta. Unde mergem noi acum să ne găsim un adăpost până la ziuă?</p>
+<p>— Și ceva de mâncare ca să nu dormim cu stomacul gol, adăugă un tânăr înalt și uscățiv, poreclit Lupul.</p>
+<p>— Așteptați, că găsim de toate, răspunse Bunea, îndreptându-se în direcțiunea capitalei.</p>
+<p>— Acoperiți-vă bine carabinele cu mantale, și veniți după mine.</p>
 <p>Îl urmară toți în tăcere.</p>
 <p>Trecură vreo doi kilometri și se opriră la ușa unei modeste căsuțe țărănești.</p>
-<p>— «Iată tocmai ce ne trebuie», zise capul bandei.</p>
+<p>— Iată tocmai ce ne trebuie, zise capul bandei.</p>
 <p>Si bătu cu putere în ușă, servindu-se cu patul carabinei.</p>
 <p>Nu răspunse nimeni.</p>
 <p>Bunea bătu încă o dată.</p>
 <p>Atunci se deschise o ferestruică și un țăran bătrân întrebă:</p>
-<p>— «Ce căutați, oameni buni?»</p>
-<p>— «Deschide!» răspunseră încrucișându-se mai multe voci.</p>
-<p>— «Dar cine sunteți?»</p>
-<p>— «Deschide odată», strigă Bunea; «deschide repede, căci n-am obiceiul s-aștept mult».</p>
-<p>— «Pentru numele Dom...»</p>
-<p>— «Pun să ți se înfunde ușa».</p>
-<p>— «Nu... nu... vin».</p>
+<p>— Ce căutați, oameni buni?</p>
+<p>— Deschide!» răspunseră încrucișându-se mai multe voci.</p>
+<p>— Dar cine sunteți?</p>
+<p>— Deschide odată, strigă Bunea; «deschide repede, căci n-am obiceiul s-aștept mult.</p>
+<p>— Pentru numele Dom...</p>
+<p>— Pun să ți se înfunde ușa.</p>
+<p>— Nu... nu... vin.</p>
 <p>Și alergă să deschidă.</p>
 <p>Mihale Bunea intră urmat de ai săi, și văzând pe bătrân, care tremura ca o frunză, exclamă:</p>
-<p>— «Ei! nu-ți fie frică: nu voim să-ți facem rău... suntem oameni cumsecade, ce dracu! Haide, scoate ceva numai de îmbucat și vin... vin evreiesc, înțelegi? nu botezat».</p>
-<p>— «Vin se găsește»., răspunse țăranul, dar mâncare nu. Vedeți că sunt un biet calic».</p>
-<p>— «O oaie, ceva găini, brânză ; de-astea trebuie să ai... Cine sunt aceștia?»</p>
+<p>— Ei! nu-ți fie frică: nu voim să-ți facem rău... suntem oameni cumsecade, ce dracu! Haide, scoate ceva numai de îmbucat și vin... vin evreiesc, înțelegi? nu botezat.</p>
+<p>— Vin se găsește»., răspunse țăranul, dar mâncare nu. Vedeți că sunt un biet calic.</p>
+<p>— O oaie, ceva găini, brânză ; de-astea trebuie să ai... Cine sunt aceștia?</p>
 <p>Și arătă două copile nostimioare, o femeie bătrână și trei băieți, care speriați, ședeau pitiți la spatele scării care ducea în podul casei.</p>
-<p>— «Sunt copiii și nevasta mea».</p>
-<p>— «Bine, gătește mâncarea».</p>
+<p>— Sunt copiii și nevasta mea.</p>
+<p>— Bine, gătește mâncarea.</p>
 <p>Îndată bătrânul ieși și se întoarse cu o oaie, pe care o duse în bucătărie; apoi pe când fetele îngrijeau să învârtească frigarea în care fuse pusă oaia la para focului, el se coborî în pivniță cu doi tâlhari, care ieșiră de acolo cu un butoiaș măricel de vin ales.</p>
 <p>În același timp bătrâna și cu băieții întindeau o pânză pe o masă lungă și largă dintr-o altă cameră. </p>
 <p>Când totul fuse gata, asasinii se așezară la masă, ținându-și carabinele pe genunchi.</p>
 <p>Friptura fuse adusă pe o tavă întinsă.</p>
 <p>Bunea se puse să o despintece cu cuțitul lui deja pătat de niște pete roșiatice.</p>
-<p>— «Dar cuțitul ți-e plin de sânge», observă Lupul lui Bunea, lângă care ședea,</p>
-<p>— «Cu atât va fi mai gustoasă friptura», răspunse capul bandei.</p>
+<p>— Dar cuțitul ți-e plin de sânge, observă Lupul lui Bunea, lângă care ședea,</p>
+<p>— Cu atât va fi mai gustoasă friptura, răspunse capul bandei.</p>
 <p>Și împărți carnea în șase părți. Fiecare tâlhar își luă partea sa.</p>
 <p>Țăranii, care așteptau strânși într-un colț poruncile lui Bunea, păliră cu toții auzind vorbele pronunțate de acesta.</p>
 <p>Finindu-se mâncarea, Bunea întrerupse tăcerea (până atunci neîntreruptă decât de sunetul furculițelor și al cuțitelor izbite de farfurii, sau de câte o vorbă abia șoptită de unul sau de altul) și zise :</p>
-<p>— «Să bem!»</p>
+<p>— Să bem!</p>
 <p>Îndată un omuleț scurt și urât, însă voinic, se sculă și, ridicând în sus paharul său, exclamă:</p>
-<p>— «Să bem în sănătatea de veci a victimelor noastre trecute, de față și viitoare».</p>
+<p>— Să bem în sănătatea de veci a victimelor noastre trecute, de față și viitoare.</p>
 <p>Un hohot de râs și ciocniri de pahare, golite pe nerăsuflate, răspunseră la această urare. Apoi, toți se sculară.</p>
-<p>— «Duceți în pod pe cei doi bătrâni, cum și pe mucoșii lor, și legați-i pe toți cu mâinile la spate», zise Mihale Bunea. «Voi vă puteți apoi culca în paturile lor; îngrijiți însă să-mi lăsați mie o cameră și să-mi duceți acolo mironosițele».</p>
+<p>— Duceți în pod pe cei doi bătrâni, cum și pe mucoșii lor, și legați-i pe toți cu mâinile la spate, zise Mihale Bunea. «Voi vă puteți apoi culca în paturile lor; îngrijiți însă să-mi lăsați mie o cameră și să-mi duceți acolo mironosițele.</p>
 <p>— Domnule!» strigă bătrânul înaintând spre capul tâlharilor, «fetele mele».,.</p>
-<p>— «Tu ai auzit ce am poruncit pentru tine; ți-e destul!», îi răspunse Bunea, trântindu-i o palmă, care-l răsturnă peste cap.</p>
-<p>Unul din băieți se mișcă ca să vină în ajutorul tatălui său; dar simțind apăsându-i-se pe piept țeava unei carabine și auzind poruncindu-i-se la ureche un «stai pe loc!», se opri, mușcându-și buzele până la sânge.</p>
+<p>— Tu ai auzit ce am poruncit pentru tine; ți-e destul!, îi răspunse Bunea, trântindu-i o palmă, care-l răsturnă peste cap.</p>
+<p>Unul din băieți se mișcă ca să vină în ajutorul tatălui său; dar simțind apăsându-i-se pe piept țeava unei carabine și auzind poruncindu-i-se la ureche un «stai pe loc!, se opri, mușcându-și buzele până la sânge.</p>
 <p>Asasinii împliniră comenzile capului lor. Acesta rămase singur cu copilele.</p>
 <p>Mai lesne își poate închipui cineva decât am putea noi descrie groaza acelor nefericite.</p>
-<p>— «Dau viața și mărgeanele astea cui m-o iubi», le zise tâlharul, arătându-i-le un colan prețios de mărgele legate cu aur.</p>
-<p>— «Eu nu», răspunse cea mai mare din fete. Bunea îi lipi de frunte gura țevei unui revolver, zicându-i:</p>
-<p>— «Schimbă-ți hotărârea».</p>
+<p>— Dau viața și mărgeanele astea cui m-o iubi, le zise tâlharul, arătându-i-le un colan prețios de mărgele legate cu aur.</p>
+<p>— Eu nu, răspunse cea mai mare din fete. Bunea îi lipi de frunte gura țevei unui revolver, zicându-i:</p>
+<p>— Schimbă-ți hotărârea.</p>
 <p>În același moment, copila cea mică, căreia tâlharul îi întorsese spatele împinsă de frica morții, acea frică care dă curaj până și iepurilor, ridică carabina lăsată de Bunea într-un colț al odăii, o îndreptă spre dânsul și trase. Din nefericire, încărcătura udată de ploaie, nu luă foc. Tâlharul se întoarse repede și descărcă asupra sărmanei fete ultimele două gloanțe ce mai avea în revolverul său.</p>
-<p>— «Haide de!», exclamă el pe când ucisa se zvârcolea în agitațiunile agoniei;» s-au cercat și alții să găurească pielea lui Mihale Bunea. Ai să-i întâlnești acum pe toți...»</p>
+<p>— Haide de!, exclamă el pe când ucisa se zvârcolea în agitațiunile agoniei;» s-au cercat și alții să găurească pielea lui Mihale Bunea. Ai să-i întâlnești acum pe toți...</p>
 <p>Fata cea mare leșinase. Virtutea ei fuse batjocorită.</p>
 <p>Se ivea aurora. Timpul începea a se însenina în mare parte, promițând o zi de roze.</p>
 <p> Mihale Bunea se deșteptă, se sculă și se îmbrăcă în grabă; aceasta în camera în care siluise pe sărmana fată a țăranului. El aruncă o privire lungă asupra victimei sale, care abia începuse să amorțească, și murmură:</p>
-<p>— «Nu mă lasă inima s-o ucid; e prea frumoasă... Mi-e milă de tinerețea ei... dar, totuși ea trebuie să moară, mai înainte ca tovarășii mei... Ș-apoi ce mai fac atâta socoteli? Trebuie să moară».</p>
+<p>— Nu mă lasă inima s-o ucid; e prea frumoasă... Mi-e milă de tinerețea ei... dar, totuși ea trebuie să moară, mai înainte ca tovarășii mei... Ș-apoi ce mai fac atâta socoteli? Trebuie să moară.</p>
 <p>Și-și luă cuțitul.</p>
 <p>În momentul de a o lovi, alte cugetări îi veniră în minte :</p>
-<p>— «Voi s-aud pentru ultima oară vocea ei..</p>
-<p>O nu ! nu... ar suferi prea mult... oricum, eu sunt totuși un om. Mai bine astfel».</p>
-<p>Și ridică pentru a doua dată fierul ucigător, dar brațul său recăzu iarăși fără să lovească».</p>
-<p>— «N-am curajul», exclamă el». Ce să mai fie și asta! N-am mai ucis eu oare femei?... Eu! O! dacă vreunul din tovarăși m-ar vedea astfel ar râde de mine... Trebuie, trebuie să omor».</p>
+<p>— Voi s-aud pentru ultima oară vocea ei..</p>
+<p>O nu ! nu... ar suferi prea mult... oricum, eu sunt totuși un om. Mai bine astfel.</p>
+<p>Și ridică pentru a doua dată fierul ucigător, dar brațul său recăzu iarăși fără să lovească.</p>
+<p>— N-am curajul, exclamă el». Ce să mai fie și asta! N-am mai ucis eu oare femei?... Eu! O! dacă vreunul din tovarăși m-ar vedea astfel ar râde de mine... Trebuie, trebuie să omor.</p>
 <p>Pronunțând aceste ultime vorbe cu vocea slabă Bunea făptui omorul. Un singur suspin scăpă nefericitei, căreia cuțitul îi pătrunse inima. Atunci, omorâtorul îi smulse de la gât colanul ce-i dăduse cu puține ore mai înainte și ieși sau mai bine zis fugi din acel loc.</p>
 <p>Alergă să-și deștepte tovarășii și casa fu jefuită.</p>
 <p>După ce luară puținele monede și lucruri mai de preț ce găsiră acolo, bandiții deciseră a da foc casei și a arde de vii pe stăpânii ei care așteptau în cele mai crude chinuri sufletești și trupești sfârșitul nefericirii lor.</p>
@@ -703,11 +716,11 @@
 <p>Una din atractivele zisei cofetării, atractivă astăzi mult mai răspândită decât atunci, era faimoasa înghețată, introdusă de curând la noi de renumitul Giovani.</p>
 <p>Printre diferitele cercuri de mușterii grămădiți în jurul meselor și vorbind de bune și de rele, vorbind adică între altele și de fieroasele fapte ale tâlharilor vestiți din toți timpii, era unul compus din trei persoane, ascultând cu luare aminte pe un oarecare Deleanu, care tocmai citea un ziar în care se povestea cu amănunte una din obișnuitele scene de sânge datorate celui mai renumit dintre tâlhari, Mihale Bunea.</p>
 <p>În același moment chiar, un individ, purtând barba plină, având înfățișarea aspră, manierele brutale și puțin convenabile, veni și se aruncă pe o canapea pe care se găseau deja cei trei de mai sus și zise cu o voce tare :</p>
-<p>— «Băiete! o înghețată».</p>
+<p>— Băiete! o înghețată.</p>
 <p>Și, fiindcă băiatul nu se cam grăbea, individul cu o înfățișare aspră adăugă:</p>
-<p>— «Mergi mai repede, secătură, că eu nu sunt de-aceia care așteaptă pofta altuia».</p>
+<p>— Mergi mai repede, secătură, că eu nu sunt de-aceia care așteaptă pofta altuia.</p>
 <p>Și, zicând acestea se întorse către unul din comeseni, din gura căreia auzise ieșind o vorbă injurioasă la adresa lui Mihale Bunea, și-i zise;</p>
-<p>— «Ia seama! Se vede că Bunea acela ar fi un os cam greu de ros. Întreabă și pe alții».</p>
+<p>— Ia seama! Se vede că Bunea acela ar fi un os cam greu de ros. Întreabă și pe alții.</p>
 <p>Cei din jurul mesei se întoarseră spre cel care vorbise, privindu-l cu un aer ironic foarte vădit.</p>
 <p>Nu puțin mirați fuseră însă când văzură pe necunoscut apropiindu-se de tejghea și aruncând cofetarului o monedă de argint și un portret în josul căruia și-a scris numele.</p>
 <p>Al cui nume? Al lui Bunea, al vestitului tâlhar, care ieșea liniștit din cofetărie, rânjind și privind cu un aer de provocațiune pe toți ce întâlni în drumul său.</p>
@@ -716,7 +729,7 @@
 <p>Dar fuse o urmărire zadarnică.</p>
 <p>Mihale Bunea dispăruse, repetând după puține zile aceeași scenă la cafeneaua din Pasaj.</p>
 <p>În fine, spre culmea îndrăznelii, trimise prefectului poliției un bilet cuprinzând între altele că:</p>
-<p>«Orice osteneli și cercetări din partea poliției ar rămâne continuu zadarnice, neîndrăznind nimeni se pună gheara pe dânsul iar dânsul simțindu-se în stare a se arăta la teatru, la baluri, la casele de joc, la cele dintâi birturi și grădini, în fine pretutindeni unde i-ar face plăcere să se ducă».</p>
+<p>«Orice osteneli și cercetări din partea poliției ar rămâne continuu zadarnice, neîndrăznind nimeni se pună gheara pe dânsul iar dânsul simțindu-se în stare a se arăta la teatru, la baluri, la casele de joc, la cele dintâi birturi și grădini, în fine pretutindeni unde i-ar face plăcere să se ducă.</p>
 </div>
 <div type="chapter" n="6">
 <p>Primăvara anului viitor a sosit.</p>
@@ -746,30 +759,30 @@ După ce o subsemnă, începu s-o citească tare.</p>
 <p>«Ce duioase senzațiuni şi ce dulci amintiri deşteptă in inima mea medalionul cu portretul tău, ce mi-ai trimis săptămâna trecută. Da, imaginea ta îmi era gravată în inimă, dar acum ochii mei se vor putea înveseli şi dânşii, privind trăsurile figurii tale. Câte lacrimi am vărsat pe acest medalion,gândindu-mă cât de departe eşti de mine! De zeci de ori am citit şi recitit paginile scrisorii tale, în care-mi anunţi că peste puţine zile ai să te întorci la sânul meu... O ! dar aceste lacrimi au fost lacrimi de consolațiune. Bunul tău tată, care a fost ieri la noi, văzând
 ochii mei încă umezi de lacrimi, îmi zise:</p>
 <p>Copila mea, înainte ce Petrică se fi început să te iubească, Dumnezeu îi dăduse o familie în care
-toţi de la cel dintâi până la cel din urmă şi-au făcut singuri cariera. Dacă Petrică se găsește departe de noi, aceasta e tocmai ca să aibă dreptul să zică că a ştiut să ţină tradiţiunea familiei şi că e de acum în stare să întocmească el însuşi o nouă familie».</p>
-<p>«Oh, cât bine mi-au făcut vorbele acestea. Ele mă susţin astfel încât să sufer cu mai puţină durere depărtarea ta».</p>
-<p>«Dragă Petrică, îţi trămit cu aceasta nenumărate sărutări. Gândește-te câteodată la mine şi cată să nu se împuţineze iubirea ce ai pentru «Maria ta».</p>
+toţi de la cel dintâi până la cel din urmă şi-au făcut singuri cariera. Dacă Petrică se găsește departe de noi, aceasta e tocmai ca să aibă dreptul să zică că a ştiut să ţină tradiţiunea familiei şi că e de acum în stare să întocmească el însuşi o nouă familie.</p>
+<p>«Oh, cât bine mi-au făcut vorbele acestea. Ele mă susţin astfel încât să sufer cu mai puţină durere depărtarea ta.</p>
+<p>«Dragă Petrică, îţi trămit cu aceasta nenumărate sărutări. Gândește-te câteodată la mine şi cată să nu se împuţineze iubirea ce ai pentru «Maria ta.</p>
 <p>După ce reciti astfel ce scrisese, copila îndoi hârtia, o băgă într-un un plic; iar pe acesta puse adresa :</p>
-<p>«D-lui Petru Fundăţeanu... etc. București».</p>
+<p>«D-lui Petru Fundăţeanu... etc. București.</p>
 <p>«Fericită scrisoare!» mai exclamă copila, aruncând asupra plicului o privire plină de duioşie. Tu vei fi atinsă şi poate sărutată de dânsul !... eu te invidiez... dar ce gemete aud în salon, unde am lăsat pe tata şi pe mama?» Şi se repezi spre uşă, care se deschise de la sine: Mihale Bunea şi tovarăşii săi apărură pe prag Maria dădu un ţipat. Tâlharii o întrerupseră.</p>
-<p>— «Hoţii! Tâlharii ! Aju...» începu ea să strige.</p>
+<p>— Hoţii! Tâlharii ! Aju...» începu ea să strige.</p>
 <p>Dar Bunea îî astupă gura cu batista, zicându-i :</p>
-<p>— «Vino cu noi. Nu ţi se face nici un rău».</p>
+<p>— Vino cu noi. Nu ţi se face nici un rău.</p>
 <p>Şi, ridicând-o in braţe, ajutat de Lupul, o duse afară din casă. Tâlharii ceilalți îi urmară.</p>
 <p>În trecerea lor prin salon, nefericita Maria văzu două corpuri care înnotau în sângele lor... își recunoscu părinţii... şi leşină.</p>
 <p>Tâlharii o duseră în pădurea vecină şi ce nu spunem, cititorul şi-o imaginează.</p>
 <p>Două zile în urmă, în aceiaşi pădure, un păstor, fugit acolo cu dobitoacele lui ca să scape de furia unui uragan îngrozitor, încercă, cu băţul, să înfunde uşcioara care oprea intrarea într-un fel de subterană. După câteva silinţe, uşcioara se deschise : păstorul şi turma sa putură să intre. Deodată câinele lui se opri şi începu să latre ; Ţăranul se apropia.</p>
-<p>Privirea lui se opri asupra unui cadavru de femeie... se aplecă, examină obrazul şi să ridică exlamând : — «Tânăra  care a fost alaltăier răpită de ceata lui Bunea! va să zică tâlharii sunt în pădurea aceasta... adăpostul nu e sigur».</p>
-<p>Şi întorcând privirea spre uşă, adăugă : «Din fericire, ploaia s-a mai potolit, şi pot fugi de aici».</p>
+<p>Privirea lui se opri asupra unui cadavru de femeie... se aplecă, examină obrazul şi să ridică exlamând : — «Tânăra  care a fost alaltăier răpită de ceata lui Bunea! va să zică tâlharii sunt în pădurea aceasta... adăpostul nu e sigur.</p>
+<p>Şi întorcând privirea spre uşă, adăugă : «Din fericire, ploaia s-a mai potolit, şi pot fugi de aici.</p>
 <p>Îşi goni îndată turma înainte şi cu destulă osteneală se întorse acasă la dânsul. Lăsă dobitoacele în paza unui frate al său, iar el alergă la subprefectură.</p>
-<p>— «Cum te cheamă pe tine? îl întrebă subprefectul.</p>
-<p>— «Vasile de la Rescruci».</p>
-<p>— «Va să zică nu ești de pe la noi ?»</p>
-<p>— «De fel nu, domnule».</p>
-<p>— «Ce-ai văzut ?»</p>
+<p>— Cum te cheamă pe tine? îl întrebă subprefectul.</p>
+<p>— Vasile de la Rescruci.</p>
+<p>— Va să zică nu ești de pe la noi ?</p>
+<p>— De fel nu, domnule.</p>
+<p>— Ce-ai văzut ?</p>
 <p>Păstorul povesti cu cleamănuntul cele ce văzuse.</p>
 <p>Pe când el vorbea, subprefectul însemna într-un portofoliu unele observaţiuni ale sale.</p>
-<p>— «Bine, bine,» zise subprefectul, după ce ţăranul își  finisase deposiţiunea». Vom trimite pe urmele tâlharilor şi judeţul va fi eliberat de lepra asta... tu trebue să ne duci la subterană. </p>
+<p>— Bine, bine,» zise subprefectul, după ce ţăranul își  finisase deposiţiunea». Vom trimite pe urmele tâlharilor şi judeţul va fi eliberat de lepra asta... tu trebue să ne duci la subterană. </p>
 <p>Vasile se închină până la pământ, ca semn de aprobaţiune.</p>
 <p>Se puseră caii la o căruţă, în care luară loc subprefectul, un scriitor, medicul localităţii şi ţăranul.</p>
 <p>Sergentul de plasă primise şi el ordinile sale.</p>
@@ -785,27 +798,27 @@ toţi de la cel dintâi până la cel din urmă şi-au făcut singuri cariera. D
 <p>Suntem în dimineaţa unei zile călduroase de vară.</p>
 <p>Unul din pichetele de soldaţi şi sergentul de plasă trămişi în urmărirea cetei lui Mihale Bunea, şedeau odihnindu-se în jurul unui copac, după o alergătură de aproape două ore prin pădure.</p>
 <p>Pe când se încinsese între ei o convorbire animată asupra faptelor sălbaticului bandit, se auzi de o dată un pocnet carabină, la mică depărtare de locul în care se găseau.</p>
-<p>— «Iată ! începe muzical, strigă sergentul încruntându-se.</p>
+<p>— Iată ! începe muzical, strigă sergentul încruntându-se.</p>
 <p>Soldaţi săriră în picioare.</p>
 <p>«Fiţi voinici, copii !» adaugă sergentul.</p>
-<p>«Curaj! să alergăm într-acolo!»</p>
+<p>«Curaj! să alergăm într-acolo!</p>
 <p>Şi se îndreptă înspre partea din care venise detunătura.</p>
 <p>Cum ieşiră în drum, zăriră două femei, care alergau spre dânşii ţipând:</p>
-<p>— «Ajutor... Ajutor! Săriţi !»</p>
-<p>— «S-au arătat tâlharii, hai ?» întrebă sergentul, când văzu pe cele doue femei mai aproape.</p>
-<p>— «Da, domnule sergent», răspunse cea mai bătrână. «Au făcut praf şi cenuşă tot satul».</p>
-<p>— «Şi nu li s-a pus înpotrivă nimeni?»</p>
-<p>— «Dacă n-au cu ce. Chiar acum, tâlharii, au îngropat cu capul în pământ»...</p>
-<p>— «Pe cine?«</p>
-<p>— «Pe bietul popă. Grăbiţi-vă... grăbiţi-vă...scăpaţi aţâţia nefericiţi din ghiarele diavolilor acelora, care jefuesc şi ucid după cum le e pofta».</p>
-<p>— «Câţi sunt?»</p>
-<p>— «Unii zic şase, alţii opt, alţii zece»</p>
-<p>— «Bine, bine: văd ca spaima v-a oprit să-i număraţi».</p>
-<p>— «Oh! dar nu mai staţi! un singur minut de întârziere poate fi spre răul atâtor sărmani.</p>
+<p>— Ajutor... Ajutor! Săriţi !</p>
+<p>— S-au arătat tâlharii, hai ?» întrebă sergentul, când văzu pe cele doue femei mai aproape.</p>
+<p>— Da, domnule sergent, răspunse cea mai bătrână. «Au făcut praf şi cenuşă tot satul.</p>
+<p>— Şi nu li s-a pus înpotrivă nimeni?</p>
+<p>— Dacă n-au cu ce. Chiar acum, tâlharii, au îngropat cu capul în pământ»...</p>
+<p>— Pe cine?«</p>
+<p>— Pe bietul popă. Grăbiţi-vă... grăbiţi-vă...scăpaţi aţâţia nefericiţi din ghiarele diavolilor acelora, care jefuesc şi ucid după cum le e pofta.</p>
+<p>— Câţi sunt?</p>
+<p>— Unii zic şase, alţii opt, alţii zece</p>
+<p>— Bine, bine: văd ca spaima v-a oprit să-i număraţi.</p>
+<p>— Oh! dar nu mai staţi! un singur minut de întârziere poate fi spre răul atâtor sărmani.</p>
 <p>Sergentul se întoarse încă o dată către ai săi:</p>
-<p>— «Suntem aproape tot una la număr. Tâlharii sunt însă cei cu musca pe căciulă. Faceţi-vă inimă şi înainte!»</p>
+<p>— Suntem aproape tot una la număr. Tâlharii sunt însă cei cu musca pe căciulă. Faceţi-vă inimă şi înainte!</p>
 <p>Trupa porni în fugă.</p>
-<p>— «Să le ajute Dumnezeu!» exlamară cele două femei.</p>
+<p>— Să le ajute Dumnezeu!» exlamară cele două femei.</p>
 <p>Şi aşteptară cu nerăbdare. Când pichetul dorobanţilor intră în sat ceata 84 — lui Bunea tăiase şi spânzurase deja în dreapta şi în stânga.</p>
 <p>După cum am auzit spunând pe cele două femei, tâlharii uciseră pe preot, iar băiatul care îngrijea de biserică fusese şi el spânzurat de funiile clopotelor, pentru că afirmase cu jurământ că în biserică nu era nimic de luat. Doi săteni mai avuţi, fuseseră mutilaţi într-un mod barbar după ce li se luase mai întâi tot ce aveau prin lăzi şi prin dulapuri.</p>
 <p>Mai mulţi săteni care încercaseră să vină în ajutorul celor atacaţi, fuseseră ucişi, iar câţiva numai răniţi. Patru fete fuseră violate în odaia unul cârciumar, căreia, fiindcă făcuse gură, îi zburase creierul cu glonţul unei carabine.</p>
@@ -824,31 +837,31 @@ toţi de la cel dintâi până la cel din urmă şi-au făcut singuri cariera. D
 <p>Un asemenea mişel, căruia puţin sânge rău îi făceau suspinele şi lacrămile victimelor siluirilor sale, ei căzu în mână o nouă pradă, pe care se decise s-o apuce cu aceleaşi mijloace mârşave cu care de atâte ori își ilustrase titlu de craiu. Joiţa, frumoasa Joiţa, abia în etate de treisprezece ani, fiica unor muncitori cinstiţi şi zeloşi, deşteptă în sânul neamţului (Franţ era un austriac deşertat din armată) pofta celor mai scârboase petreceri, celui mai condamnabil amor.</p>
 <p>Oprind în drum pe feţişoară, urmărind-o când fugea cu stăruinţă unui om cuprins de cea mai înflăcărată pasiune, de şi fără să fi iubit sau binevăzut de copiliță, care până atunci nu simţea în inima-i altă iubire decât  pentru părinţii şi fratele său. Franţ decise într-o zi a face extrema încercare.</p>
 <p>Intră cu hotărâre în locuinţa fetei, pe care o credea singură:</p>
-<p>— «Frumoasă Joiţa,» îi zise perfidul ; n-aș da eu pentru o sărutare a ta ! Viaţa-mi întreagă ar fi un preţ mic, nedemn, pentru a putea să ating buzele tale rumeoare, bujorii care îți luminează faţa».</p>
+<p>— Frumoasă Joiţa,» îi zise perfidul ; n-aș da eu pentru o sărutare a ta ! Viaţa-mi întreagă ar fi un preţ mic, nedemn, pentru a putea să ating buzele tale rumeoare, bujorii care îți luminează faţa.</p>
 <p>Şi, vorbind astfel, obraznicul nu lipsea de a-și însoţi vorbele aprinse de mişcări îndrăzneţe şi neruşinate.</p>
-<p>— «Pleacă !... Lasă-mă !scapă-mă, frate!»strigă Joiţa, încercând să se ferească de stăruitoarele mângâieri ale aceluia care, cu totul înfierbântat şi aprins la faţă, îi repeta:</p>
-<p>— Joiţo! draga mea fetiţă!... dă-mi cel puţin floarea ce ţii colo, pe pieptul tău...»</p>
+<p>— Pleacă !... Lasă-mă !scapă-mă, frate!»strigă Joiţa, încercând să se ferească de stăruitoarele mângâieri ale aceluia care, cu totul înfierbântat şi aprins la faţă, îi repeta:</p>
+<p>— Joiţo! draga mea fetiţă!... dă-mi cel puţin floarea ce ţii colo, pe pieptul tău...</p>
 <p>«O nu !.. obraznicule... vai mie, nefericita!..</p>
 <p>Nicule ! frate!... Ajutor! Ajutor!</p>
 <p>Şi Franţ, în turburarea lui, nu simţi paşii fratelui, care însă auzise, din gradina în care lucra, strigătele Joiţei. Din contra, Franţ își îndoia silinţele şi pofta brutală. Astfel, când apucă de mijloc pe tânăra copilă, dânsa luptându-se din ce în ce cu mai multă disperare ca să scape din strinsoarea fatală onoarei sale, strigă încă cu voce năbuşită : — Oprește-te !... Fie-ţi milă!</p>
 <p>Iar Franţ ajuns în culmea pasiunei, răspunse cu voce aspră:</p>
-<p>— «Taci, sau, de nu, cuţitul ăsta»</p>
+<p>— Taci, sau, de nu, cuţitul ăsta</p>
 <p>Trase cuţitul şi era aproape să făptuiască ameninţarea ce sta să-i iasă din gură când dădu un ţipăt sfâşietor lăsă să-i scape prada din gheara, întinse braţele, să deţină câteva momente şi se rostogoli pe pământ, suspinând : </p>
-<p>— «Vai! sunt mort»...</p>
+<p>— Vai! sunt mort»...</p>
 <p>Nicu, fratele Joiţeî alergase la strigătele ei şi văzând pe soră-sa iubită aproape siluită de mişelul ei antagonist, lovise pe acesta drept în cap cu sapa de fier cu care lucra în grădină.</p>
 <p>2) Bătrâna Marghioala după ce asistase la catastrofa stăpânilor săi, Stefan şi Voichiţa, fără ca justiţia s-o poată trage la răspundere, neștiindu-se de nimeni ce rol avusese ea în acea întâmplare, trecu în serviciul unui funcţionar bătrân.</p>
 <p>Într-o noapte, în vis, îi apăru Mărgioalei de a se găsi într-o peşteră întunecată şi de a auzi nişte ţăcănituri de lanţuri, întrerupte de urlete şi de rugăciuni. Deodată, zgomotul ajungând la culmea lui văzu dezlipindu-se de perete o fantasmă albă, înapoia căreia înaintă un spectru negru înconjurat de flăcări.</p>
 <p>În fantasmă, Marghioala recunoscu pe Voichiţa, în spectru, pe Ștefan.</p>
-<p>— «Eram nevinovat!», zise fantoma.</p>
-<p>— «Iartă-mă, iartă-mă!», exclamă spectrul.</p>
-<p>— «Te voi ierta», răspunse fantasma, «după ce voi fi expirat crima orbirii mâniei tale».</p>
+<p>— Eram nevinovat!, zise fantoma.</p>
+<p>— Iartă-mă, iartă-mă!, exclamă spectrul.</p>
+<p>— Te voi ierta, răspunse fantasma, «după ce voi fi expirat crima orbirii mâniei tale.</p>
 <p>După vorbele aceste, peştera începu să urle şi Marghiolei i se păru că o omorau doi strigoi care-i înfipseră ghiarele în gât.</p>
 <p>Atunci Marghiola dădu un ţipăt şi se deşteptă. Se văzu jos pe scânduri, căci în zvârcolirile ei</p>
 <p>căzuse din pat.</p>
 <p>Lampa care ardea în odaie aproape de a se stinge, arunca din când în când câte o lumină mai vie, căreia îi  urma un întuneric mai pronunţat.</p>
 <p>Marghiola încerca să se dezmeticească cu totul însă scheletul lui Stefan îi sta mereu dinainte.</p>
 <p>Urlând, ea se ridică de jos şi se repezi spre uşă; însă un capăt ai cămăşii sale, agăţându-se de o masă, o opri pe loc.</p>
-<p>— «Lasă-mă! lasă-mă !... Întoarce-te în groapa ta!» strigă Marghioala cu groază.</p>
+<p>— Lasă-mă! lasă-mă !... Întoarce-te în groapa ta!» strigă Marghioala cu groază.</p>
 <p>Și făcu o nouă mişcare înainte, resturnând masa şi lampa, şi cauzând astfel un zgomot.</p>
 <p>Uşa se deschise. O fiinţa albă se prezenta la intrare. Bătrâna fusese aproape să ţipe iară; dar recunoscu pe stăpânul său, care se deşteptase la atâta zgomot şi care venea s-o întrebe ce s-a întâmplat.</p>
 <p>Margioala îi descrise cu vorbe înfiorătoare visul ce avusese. Bătrânul funcţionar credul în Fantasmoscopie păli la auzul vorbelor Margheoală şi începu să reciteze psalmii, ca să alunge din casa sa duhurile necurate.</p>

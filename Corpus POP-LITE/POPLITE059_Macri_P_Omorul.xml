@@ -8,10 +8,17 @@
                 <author>Macri, Panait</author>  
                 <respStmt>               
                     <resp>codare POPLITE</resp>
-                    <name>Teodora Iuriusciuc</name></respStmt>   
+                    <name>Teodora Iuriusciuc</name></respStmt> 
+                <respStmt>               
+                    <resp>verificare codare POPLITE</resp>
+                    <name>Roxana Patraș</name></respStmt>   
                 <respStmt>
                     <resp>corectură manuală</resp>
                     <name>Lorena Gîtlan</name>
+                </respStmt>
+                <respStmt>
+                    <resp>verificare corectură manuală</resp>
+                    <name>Roxana Patraș</name>
                 </respStmt>
                 <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
             </titleStmt>
@@ -72,35 +79,37 @@
     </teiHeader>
  <text>
 <body>
-<div type="chapter" n="1">
+    <div type="part" n="1">    
+        <head>Omorul din strada Soarelui sau Asasinii Mariei Popovici. Roman Original de Panait Macri</head>
+<div type="section" n="1">
 <head>Cap. I. În ajunul omorului</head>
 <p>Din strada Criviței se vede cotind spre drepta, în strada Manea Brutaru, un om în etate ca de 30 până la 35 ani.</p>
 <p>El merge iute, fața îi este sperioasă, din când în când privește în urma sa.</p>
 <p>S-ar părea a fi unul din acele persone, care scapă din Otelul Văcărești sau din spitalul Mărcuța.</p>
 <p>Cu părul mai mult vulvoi, cu ochii rătăciți, el căuta parcă un loc, o ascunzătoare, o gaură unde să poată fi ferit de privirile omaenilor.</p>
 <p>Din când în când, îl auzi crâșnind din măsele și din buzele lui ieșind aceste cuvinte: '</p>
-<p>„Se uita lung”</p>
+<p>Se uita lung.</p>
 <p>Dar cine să fie acest straniu personaj, cu privirea atât de cruntă, cu fața întunecată, cu inima tremurând de frică ?</p>
 <p>Îl vom numi mai târziu, până atunci însă să-l urmărim de aproape ca să vedem unde se duce și ce va face.</p>
 <p>Din strada Manea Brutaru, la cea de</p>
 <p>întâi răspântie o ia în sus pe o stradă care dă în Calea Victoriei.</p>
 <p>Merse, când de o dată se opri la al doilea colț al străzii. Prea multă lume era pe calea Victoriei și el care voia să fugă de privirile oamenilor, ar fi făcut o neghiobie ca să intre în marea strada.</p>
 <p>Stătuse cam vreo trei minute pe loc, privi lung spre strada care se deschidea zgmotoasă în fața sa și deși avea aerul a se gândi pe unde trebue s-o pornescă, totuși mintea lui rătăcea și din gura lui ieșiră încă o dată murmurătoarele cuvinte -</p>
-<p>„Se uita lung“</p>
+<p>Se uita lung.</p>
 <p>Se întoarse apoi, o lună pe strada Fântânii, dădu în strada Popa Tată, o luă la stânga pe acesta stradă, intră în strada Stirbei Vodă, merse pe acesta stradă și înainte de-a intra în strada Brezoianu se opri la o cârciumă.</p>
 <p>Pentru a fi mal mult ferit de aceia care, i se părea lui, că se uitau necontenit la dânsul; intră în odaia din fund și porunci să i se aducă o jumătate oca de vin.</p>
 <p>— Vechi sau nou, Domnule ? întrebă băiatul.</p>
 <p>— Nou, ba nu, vechi, pronunța scurt misteriosul nostru personaj.</p>
 <p>I se aduse vinul și pe când turna în pahar, rosti din nou :</p>
-<p>„Se uita lung la mine”</p>
+<p>Se uita lung la mine.</p>
 <p>Era sâmbătă, 11 mai și ziua se cobora spre seară.</p>
 <p>Până să înopteze el mai bău încă două jumătăți de vin și fuma vreo șapte țigări.</p>
 <p>Când manta întunericului înveli fața pământului, omul nostru plăti consumația și ieși afară.</p>
 <p>Era liniștit, vinul în loc să-l amețescă, îl desmeteci puțin; totuși ideaa ca un comisar de poliție s-ar fi uitat lung la el, că i-ar fi ghicit poate gândul, nu-l părăsi cu totul.</p>
 <p>Și făcându-și curaj păși înainte prin întunericul nopții cugetând astfel:</p>
-<p>„Trebuie să fiu nebun ca să-mi închipui lucruri neputincioase. Cine ar putea străbate în inima mea? cine ar putea pune mâna pe mine?cine mi-ar putea spune: Ești arestat pentru omorul ce mâine-l vei săvârși? Cine mă va putea opri de la fericirea care mă așteptă ? cine îmi va putea reteza frumosa existență ce-mi voi crea ? Nimeni.</p>
-<p>„Numai eu și satana cunoaștem misterul crimei ce mâine se va săvârși.</p>
-<p>„Numai eu și fierul ascuțit, care îi va străpunge sânul vom putea mărturisi numele omorâtorului, dar fierul e mut și eu voi fi tot mut.</p>
+<p>Trebuie să fiu nebun ca să-mi închipui lucruri neputincioase. Cine ar putea străbate în inima mea? cine ar putea pune mâna pe mine?cine mi-ar putea spune: Ești arestat pentru omorul ce mâine-l vei săvârși? Cine mă va putea opri de la fericirea care mă așteptă ? cine îmi va putea reteza frumosa existență ce-mi voi crea ? Nimeni.</p>
+<p>Numai eu și satana cunoaștem misterul crimei ce mâine se va săvârși.</p>
+<p>Numai eu și fierul ascuțit, care îi va străpunge sânul vom putea mărturisi numele omorâtorului, dar fierul e mut și eu voi fi tot mut.</p>
 <p>Cu niște astfel de reflexii ajunse acasă la dânsul.</p>
 <p>Intră înăuntru, bătu la ușa unei odăi și după ce un glas dulce întrebă: cine-i ? ușa se deschise și necunoscutul nostru se găsi față în față cu o femeie încă tânăra și de o frumuseță prcvocatoare.</p>
 <p>—Te așteptam m nerăbdare, îl zise tânăra femeie.</p>
@@ -119,9 +128,9 @@
 <p>— Te voi sfâșia cu unghiile, zise ea : Ce înseamnă acesta barbarie.</p>
 <p>El nu răspunse nimic, cu o pasiune dobitocească îi desfăcu rochia și-i sfâșie cămașa.</p>
 <p>In singuratica și tăcuta odaie nu se auzea decât un gemet surd.</p>
-
-	<p>MIULESCU ȘI MARIA</p>
-	
+</div>
+        <div type="section">
+	<head>MIULESCU ȘI MARIA</head>
 <p>Să venim puțin la D-l Miulescu, eroul din romanul nostru și să vedem cum sta el cu D-Sa Maria Popovici și dacă el pote fi acela care o ucise într-un mod atât de barbar.</p>
 <p>Vom vedea cu toții, dacă Niculae Miulescu, azi musafirul din penitenciarul Văcăresti, e crudul omorâtor al Mariei Popovici, dacă el e fiul, care cu câțiva ani mai înainte, își omorise părinții.</p>
 <p>Sunt ceasurile 1 p. m. într-o odaie modest mobilată, cu ferestrele din spre strada Soarelui deschise, stă pe un scaun, lângă o mică masă de nuc, o femeie tânără și frumoasă.</p>
@@ -207,9 +216,9 @@
 <p>D-na Maria ce a zis pentru banii ce ai primit de la Primărie ?</p>
 <p>— Nimic, pronunță Miulescu încruntând sprincenele</p>
 <p>Lăsăm pentru un moment pe Miulescu convorbind cu nevasta sa, pentru a ne întorce într-o cârciumă de la marginea orașului.</p>
-
-	<p>BANDITUL</p>
-	
+        </div>
+        <div type="section">
+	<head>BANDITUL</head>
 <p>Sunt nouă ore seara. Cârciuma era plină de mușterii. Din toate părțile se comanda vin și cel doi băieți al prăvăliei se împiedicau alergând când colo, când dincolo.</p>
 <p>De la 10 1/2 insă închinătorii lui Bachus începură să părăsescă infectul local.</p>
 <p>Pe la 12 ore nu se mai vedea în toată toată cârciuma decât trei persoane, o femeie și doi bărbați, dintre care unul înalt și frumos, iar celălalt scurt, cu privirea pătrunzătoare, cu părul scurt, cu fața roșie și cu mustățile tot roșii,</p>
@@ -220,12 +229,14 @@
 <p>— Măi Vasile, îi zise omul cel înalt ; ce părere ai tu despre om ?</p>
 <p>— Ce părere să am măi Nicolae, răspunse Vasile ; Eu cred că omul cel sărac treime să fură de la cel bogat, pentru ca să poată trăi.</p>
 <p>— Foarte bine ! răspunse foamea care era între ei ducând paharul cu vin la gură.</p>
-
 	<trailer>(Va urma)</trailer>
-	
 <trailer>Toate drepturile rezervate autorului</trailer>
-<trailer>(urmare)</trailer>
-	
+        </div>
+    </div>
+    <div type="part" n="2">
+        <head>Omorul din strada Soarelui sau Asasinii Mariei Popovici. Roman Original de Panait Macri</head>
+        <trailer>(urmare)</trailer>
+        <div type="section">     
 <p>— Tu să nu vorbești, nu ai cuvântul! pronunță cu un ton scurt Vasile.</p>
 <p>Acesta avea un necaz mare asupra Vasilcăi, femeia care se îndeletnicea cam potrivit cu paharele de vin.</p>
 <p>Era gelos sărmanul Vasile, pentru că ea nu iubea decăt pe Niculae.</p>
@@ -303,7 +314,7 @@
 <p>Numai un țăran stătea deoparte, lângă un pom de la intrarea în șosea.</p>
 <p>Privea la torentul de lume care se balansa în fața lui.</p>
 <p>Părea a zice:</p>
-<p>„Câți oameni nu sunt în lume care nu au nici ce mânca, și câți nebuni nu se găsesc care aruncă banii în vânt“</p>
+<p>Câți oameni nu sunt în lume care nu au nici ce mânca, și câți nebuni nu se găsesc care aruncă banii în vânt.</p>
 <p>Oricum însă ziua de 10 Mai era frumoasă și mai bine zis, era zgomotoasă.</p>
 <p>Maria Popovici! se gândea la acestă zi in seara de 11 Mai.</p>
 <p>Multe lucruri rătăceau prin mintea sa.</p>
@@ -323,7 +334,7 @@
 <p>Era un vis straniu!</p>
 <p>Deodată ea distinse o melodie jalnica, care răsuna până la urechile sale.</p>
 <p>Melodia se auzea din ce în ce mai tare, până ce tot palatul începu să răsune.</p>
-<p>Maria Popovici asculta cu atenție, sufletul el părea că se înalță, că se mărește din ce în ce mai mult.</p>
+<p>Maria Popovici asculta cu atenție, sufletul ei părea că se înalță, că se mărește din ce în ce mai mult.</p>
 <p>Erau niște accente îngerești, un acord divin, care făcea ca însuși scheletele să rămână ascultătoare.</p>
 <p>Și tocmai acum simți sărmana femeie că e singură, că în jurul ei nu e nimeni din cunoscuții săi.</p>
 <p>Era un contrast ciudat între mâhnirea, care deja începuse să-i brăsdeze sufletul; și între acel balsam de mângâiere, ce muzica îl revărsa.</p>
@@ -337,25 +348,25 @@
 <p>— Dar cum ? cum ai putut străbate până aici ? voia a-i zice Maria.</p>
 <p>Copila ei înțelegea totul.</p>
 <p>— M-am luat după o păsărică, care mă aduse până în acest loc, îl răspunse. Când am voit să deschid ușa ca să intru înăuntru, o mână nevăzută mă opri pe loc. Voi să intru, să-mi văd mama; am răspuns nevăzutului. Mâna se retrase și numaidecât apăru o altă mână. Printre degete ținea o carte negră. Pe ea scria:</p>
-<p>„Ai voie un ceas.”</p>
+<p>Ai voie un ceas..</p>
 <p>Ah! mamă, să plecăm mai curând, să plecăm, timpul trece și mi-e frică să nu văd acea mâna apropiindu-se de mine și împingându-mă afară.</p>
 <p>Abia termină aceste cuvinte și un sunet surd răsună sub temeliile palatului de sticlă</p>
 <p>Se distinseră apoi următorele voci:</p> 
 <p>întâia voce:</p>
-<p>„De la Nord”</p>
+<p>De la Nord.</p>
 <p>a doua voce:</p>
-<p>„Să iasă foc și pară”: </p>
+<p>Să iasă foc și pară: </p>
 <p>a treia voce:</p>
-<p>„Nimic să nu rămână”</p>
+<p>Nimic să nu rămână.</p>
 <p>I voce:</p>
-<p>„Să-i topim cărmurile în cazanul cu plumb clocotit”</p>
+<p>Să-i topim cărmurile în cazanul cu plumb clocotit.</p>
 <p>II voce:</p>
-<p>„Să-i aruncăm oasele în cuptorul tartarului”</p>
+<p>Să-i aruncăm oasele în cuptorul tartarului.</p>
 <p>III voce:</p>
-<p>„Să suspine iadul”</p>
-<p>„Ieșiți”</p>
-<p>„Ieșiți”</p>
-<p>„Ieșiți”</p>
+<p>Să suspine iadul.</p>
+<p>Ieșiți.</p>
+<p>Ieșiți.</p>
+<p>Ieșiți.</p>
 <p>Duruitura deveni și mai mare, palatul se cutremură de un sunet de lugubru.</p>
 <p>Copila rămase împetrită, — care îi fu însă spaima, când vezi că sala se umple de mii de duhuri. </p>
 <p>Tăcerea reveni din nou.</p>
@@ -385,19 +396,19 @@
 <p>Și se trezi.</p>
 <p>In odaie era întuneric și înaintea sa părea că vede încă acel cazan cu plumb topit în care se puneau să fiarbă cărnurile ei putrezite.</p>
 <p>Părea că aude încă acele voci :</p>
-<p>„Ieșiți“</p>
-<p>„Ieșiți“</p>
-<p>„Ieșiți“</p>
+<p>Ieșiți.</p>
+<p>Ieșiți.</p>
+<p>Ieșiți.</p>
 <p>Se sculă, aprinse lumânarea, deschise gemul dinspre stradă și scoase capul afară, pentru a mai respira puțin aer.</p>
 <p>Începea să se lumineze de ziuă. Agonia somnului ținu aproape trei ore.</p>
 <p>Mii de gânduri ratăceau prin mintea sărmanei femei.</p>
 <p>Nu voi să se mai culce. Visul o înspăimânta.</p>
 <p>Ar fi dorit să nu mai doarmă un secol pentru a nu mai vedea niciodată visul din astă noapte..................</p>
 <p>Vântul bătea cam rece. Maria se retrase lângă o masă. Lua o carte și începu să citească :</p>
-<p>„Omul e o picătură de rouă care se pierde îndată ce binefăcătoarea rază vine s-o sărute. Ferice de omul care murind, lasă în urma sa copii ce îl reprezintă și în al căror suflet se contractă sufletul acelui ce dispare“.</p>
+<p>Omul e o picătură de rouă care se pierde îndată ce binefăcătoarea rază vine s-o sărute. Ferice de omul care murind, lasă în urma sa copii ce îl reprezintă și în al căror suflet se contractă sufletul acelui ce dispare“.</p>
 <p>Maria închise cartea. Ea rămase gânditoare. Din ochii ei porni un râu de lacrimi.</p>
-</div>
-<div type="chapter" n="2">
+    </div>
+<div type="section" n="2">
 <head>CAPITOLUL II. ASASINAREA MARIEI POPOVICI </head>
 <head>VIOLAREA</head>
 <p>Cerem scuze lectorilor noștri, dacă din cauza multelor personaje, suntem nevoiți a încuonjura înfiorătorea secuțiune a crimei.</p>
@@ -444,11 +455,14 @@
 <p>— Dacă vei voi să mă ajuți, am speranță că voi reuși.</p>
 <p>— Din partea mea al tot concursul, să vedem însă.</p>
 <p>- Tu ai o țiitore, nu știu, mai trăiești cu dânsa ?</p>
-	
 <trailer>(Va urma)</trailer>
 <trailer>Toate drepturile rezervate autorului.</trailer>
+</div>
+    </div>
+    <div type="part" n="3"> 
+        <head>Omorul din strada Soarelui sau Asasinii Mariei Popovici. Roman Original de Panait Macri</head>
 <trailer>(urmare)</trailer>
-	
+        <div type="section">
 <p>— Desigur.</p>
 <p>— Si ea te iubește ?</p>
 <p>— Poți să-ți închipui singur dacă o femeie iubește pe un bărbat, când ea este aceea care îl susține.</p>
@@ -472,7 +486,7 @@
 <p>Un lucru își propuse el. Trebuia să facă pe Casandra a crede că el iubește pe Amelia și că numai pentru acesta veste s-o ia.</p>
 <p>Ș-apoi în definiv nu o iubea el oare ?</p>
 <p>Un răspuns mai exact, ar fi cel negativ.</p>
-<p>În adevăr, ceea ce simțea în pieptul său era o pasiune brută, iar nicidecum un amor curat. •</p>
+<p>În adevăr, ceea ce simțea în pieptul său era o pasiune brută, iar nicidecum un amor curat. </p>
 <p>Iubea pe Amelia pentru că era frumoasă, era tânără, căci nu avea nici 14 ani, și pentru că acesta excita mult simțurile sale.</p>
 <p>Ș-apoi cum putea să fie altfel, când nu văzuse pe Amelia decât o singură dată?</p>
 <p>Amorul, poate fi el altceva decât întipărirea ce se face în mintea omului ? și poate lua el naștere, decât din suvenirele care veșnic lovesc sufletul?</p>
@@ -484,7 +498,7 @@
 <p>Pusese femeiușcă în vremea ei.</p>
 <p>— Mă rog, D-vostră , sunteți D-l Constantin ? întrebă ea. surprinsă la vederea unui tânăr atât de frumos.</p>
 <p>— Da doamna mea, sunt eu, îi răspunse Constantin cu o blăndețe prefăcută.</p>
-<p>„Trebuie s-o lingușescă”; își zise el în sine și o invită să șadă.</p>
+<p>Trebuie s-o lingușescă”; își zise el în sine și o invită să șadă.</p>
 <p>Privirile, gesturile lui Constantin făcură pe zvăpăiata femeie să-și piardă puțin cumpătul.</p>
 <p>— Nu știu dacă cunoșteți cauza pentru care am venit, îi zise ea lâsănd ochii în jos.</p>
 <p>Gestul acesta era cu totul străin și de cauza care o făcea să vie la Constantin și de etatea ei mai mult înaintată.</p>
@@ -535,9 +549,11 @@
 <p>Mama Ameliel lipsea de acasă.</p>
 <p>Casandra avea un aer misterios pe fața sa, și când deschise ușa ca să intre înăuntru, aruncă o privire înspăimântătoare în jurul el, voia să știe dacă nu-i urmărită, văzută chiar de cineva.</p>
 <p>Amelia era singură, ea stătea lângă o masă, într-o odaie din fund și citea aceste rânduri din copia unei scrisori, pe care o expediase de cu vreme ;</p>
-<p>„Domnule Constantin”</p>
-<p>„Am citit scrisorea dumitale, nu te cunosc, nu te-am văzut niciodată și nici nu știu ce vrei să-mi spui. Te-am ascultat cu toate astea și nu am spus nimic mamei, îmi spui că voiești să ne vezi și că ai a-mi face o rugăminte de la care atârnă viața d-tale. Nu știu cu ce te-aș putea servi și nu știu ce putere aș avea eu, pentru a-ți putea veni în ajutor. Vino cu toate astea domnule, în astă seară, vom fi singuri, căci muma mea pleacă pe la orele cinci la o amică a sa, care-i aproape să moară. Se va reîntoarce târziu. Te aștept, și dacă voi putea face ceva pentru d-ta, mă voi crede fericită.</p>
-<p>„AMELIA”</p>
+<p>Domnule Constantin.</p>
+<p>Am citit scrisorea dumitale, nu te cunosc, nu te-am văzut niciodată și nici nu știu ce vrei să-mi spui. Te-am ascultat cu toate astea și nu am spus nimic mamei, îmi spui că voiești să ne vezi și că ai a-mi face o rugăminte de la care atârnă viața d-tale. Nu știu cu ce te-aș putea servi și nu știu ce putere aș avea eu, pentru a-ți putea veni în ajutor. Vino cu toate astea domnule, în astă seară, vom fi singuri, căci muma mea pleacă pe la orele cinci la o amică a sa, care-i aproape să moară. Se va reîntoarce târziu. Te aștept, și dacă voi putea face ceva pentru d-ta, mă voi crede fericită.</p>
+        </div>
+        <div type="section"> 
+<head>AMELIA.</head>
 <p>Aceasta scrisoare pe care ea o trimisese lui Constantin, era tot atât de inocentă ca și inima ei</p>
 <p>De altminteri Constrantin știu cum să procedeze.</p>
 <p>Scrisorea ce-i trimisese el printr-o altă femeie, căci Casandra îl refuzase ori ce fel de serviciu, insistând numai în amorul ei; acea scrisoare era așa de bine compusă, încât Amelia, fără a bănui realitatea, fu cuprinsă de curiozitate.</p>
@@ -556,7 +572,7 @@
 <p>— Nu te înțeleg mătușă, îi răspunse Amelia puțin speriată.</p>
 <p>Casandra se puse pe pat și privind pe Amelia în ochi îi făcu acestă mărturisire :</p>
 <p>— Copila mea, e un tânăr care te iubește, nu-l cunoști și nici nu-l vei cunoaște. Tot pe acel tânăr îl iubesc și eu. M-am încercat în zadar ca să pot împiedica amorul ce-ți păstrează ție.</p>
-<p>„Am căutat în nenumărate feluri ca să-l pot uita, ca să nu me mal întâlnesc cu el, dar peste putință. Il iubesc Amelio, tu nu înțelegi încă puterea acestui cuvânt: iubesc.</p>
+<p>Am căutat în nenumărate feluri ca să-l pot uita, ca să nu me mal întâlnesc cu el, dar peste putință. Il iubesc Amelio, tu nu înțelegi încă puterea acestui cuvânt: iubesc.</p>
 <p>— O mătușica, înțeleg ca ești nenorocită și mă voi ruga lui D-zeu pentru tine.</p>
 <p>Ochii Casandrel scănteiară.</p>
 <p>— Nu, pronunță ea cu o voce detunătoare ; rugăciunile ce vei adresa lui d-zeu, nu-mi vor folosi nimic. Tu singură ești cauza nenorocirii și numai tu mă poți scăpa.</p>
@@ -595,14 +611,15 @@
 <p>—Piară de acum viața mea! esclamă el.</p>
 <p>Constantin simțea în aceste momente amorul cel mal curat pentru Amelia.</p>
 <p>Copila rămase nemișcată în brațele sale.</p>
-
+        </div>
+        <div type="section">
 	<p>ASASINAREA</p>
 <p>Este anul 1895.</p>
 <p>E Duminică, ziua de 12 Mai.</p>
 <p>In casele din str. Soarelui e tăcere.</p>
 <p>Pe stradă nu se vede niciun om.</p>
 <p>Sergentul de post dormea în vreun loc ascuns de vederile călduroase ale sorelui de primăvară.</p>
-<p>Doamna Maria Popovicî stătea în odaia ei și cânta la pian.</p>
+<p>Doamna Maria Popovici stătea în odaia ei și cânta la pian.</p>
 <p>Era o melodie tristă.</p>
 <p>Degetele ei rătăceau pe clapele pianului ca și gândurile, ca și dorul din inima frumoasei femei.</p>
 <p>Erau ceasurile trei după douăsprezece.</p>
@@ -611,11 +628,15 @@
 <p>Plângea . . .</p>
 <p>De odată auzi o lovitură la ușa din afară.</p>
 <p>— Intră, zise femeia cu o voce dulce.</p>
-
 	<trailer>(Va urma)</trailer>
 <trailer>Toate drepturile rezervate autorului</trailer>
-<trailer>(urmare)</trailer>
-	
+</div>
+    </div>
+    
+    <div type="part" n="4">
+        <head>Omorul din strada Soarelui sau Asasinii Mariei Popovici. Roman Original de Panait Macri</head>
+        <trailer>(urmare)</trailer>
+        <div type="section">      
 <p>Un personaj apăru.</p>
 <p>—Vă salut, stimabilă doamna, îl zise cu o voce puțin emoționată.</p>
 <p>Maria Popovicî îl salută printr-un gest, în care se cuprindea o mirare vădită.</p>
@@ -650,13 +671,13 @@
 <p>Maria nu răspunse nimic.</p>
 <p>Ea începu să plângă.</p>
 <p>Sărmana femeie ! visul din noaptea trecută îi reveni din nou în minte, vedea scheletele plimbându-se înaintea sa și auzea parcă din nou acele voci:</p>
-<p>„ Ieșiți! “</p>
-<p>„ Ieșiți! “</p>
+<p> Ieșiți! </p>
+<p> Ieșiți! </p>
 <p>O ceață îi acoperi vederile, nu aștepta decât momentul în care carnea ei putrezită se va dezlipi de oase.</p>
 <p>Lacrimile îi curgeau în picături mari și</p>
 <p>printre ele vedea pe mica ei fiică tristă și rugătoare.</p>
 <p>Îi auzea vocea și distingea bine acel cuvânt :</p>
-<p>„ Mamă ! “</p>
+<p> Mamă ! </p>
 <p>Criminalul stete câteva minute gânditor, cu mâna ei în mâinile lui; — o privi apoi din nou și oricât de tiran era, oricât de mult inima lui era împetrită, nu putu opri o lacrimă, care plecă din ochii lui sângerați, spre a se lăsa încet în lungul obrazului.</p>
 <p>Ce se petrecea în aceste momente în inima călăului ?</p>
 <p>Ochii care privesc crima, cum mai pot scoate lacrimi ?</p>
@@ -787,9 +808,9 @@
 <p>Crima se comisese la întunericul singurătății și nimeni! nimeni nu putea să ghicescă pe autorii ei.</p>
 <p>Cadavrul rămase lungit în sânge. .....</p>
 <p>Singur el era indiciul infiorătorei crime.</p>
-	
-<p>PARCHETUL</p>
-	
+        </div>
+        <div type="section">      
+<head>PARCHETUL</head>
 <p>Intr-una din străzile Bucureștiului, două persoane se văd plimbăndu-se la braț-</p>
 <p>Pe fața lor se poate citi o liniște destul de mare, nu aceeași liniște însă domnește și în inimile lor.</p>
 <p>Din când în când, ele se uită în urmă, ar voi parcă să se convingă dacă nu sunt urmăriți de cineva.</p>
@@ -811,11 +832,15 @@
 <p>—Fii mut, fii stăpân pe tine, căci altminteri, amândoi vom fi perduți.</p>
 <p>—E.... Criminalul voi să vorbescă, când vocea personei care îl acompania îl opri zicându-i:</p>
 <p>—Taci ! taci!</p>
-	
 <trailer>(Va urma)</trailer>
 <trailer>Toate drepturile rezervate autorului</trailer>
-<trailer>(Urmare)</trailer>
-	
+</div>
+        </div>
+    
+    <div type="part" n="5">
+        <head>Omorul din strada Soarelui sau Asasinii Mariei Popovici. Roman Original de Panait Macri</head>
+        <trailer>(urmare)</trailer>
+        <div type="section">   
 <p>Cadavrul Mariei Popovici stătea lungit într-una din odăile ale caselor din strada Soarelui No. 16.</p>
 <p>Era Duminică, ziua de 12 Mai.</p>
 <p>Aerul era răcoros și un vânt subțire, d-abia clătina vârful arborilor.</p>
@@ -855,12 +880,13 @@
 <p>onest, în fața unei scene atât de înfiorătore, la vederea acelui cadavru rece, se spună o minciună atât de cutezătore ?—Cum s-ar putea ca Niculae Miulescu, tipograful — din calea Victoriei, să caute a înșala justiția și a fura cadavrului din fața sa suma de 18 mii lei ?</p>
 <p>Cum s-ar putea? și cu toate astea s-a putut, și Niculae Miulescu a înșelat și justiția și pe moștenitorii Mariei Popovici voia să îi înșele.</p>
 <p>Procurorul crezu deocam dată cuvintele lui și atât Niculae, cât și soția lui rămăseseră liberi.</p>
-<p>Vestea acestui omor însă merse prin tot Bucureștiul și pe toți nu-i auzeai zicând decât: • .</p>
-<p>„Sărmana Maria Popovici!.... a fost omorâtă de tipograful Miulescu!?”</p>
+<p>Vestea acestui omor însă merse prin tot Bucureștiul și pe toți nu-i auzeai zicând decât:</p>
+<p>Sărmana Maria Popovici!.... a fost omorâtă de tipograful Miulescu!?.</p>
 <p>Astfel vorbeau toți și cine ar fi zis contrariul, nu putea să fie privit decât ca un idiot.</p>
 <p>Un biet bătrân încă, era atât de convins că Miulescu era omorâtorul, încât voia să trimită o scrisore procurorului, prin care să-i spună că Miulescu a omorât pe Maria Popovici și că în zadar s-ar mai osteni parchetul a căuta pe crudul bandit, pe cât timp banditul le stă de față.</p>
-
-	<p>AMELIA</p>
+        </div>
+            <div type="section">   
+	<head>AMELIA</head>
 <p>Ne aducem aminte că Constantin, trecând din întâmplare prin strada Popa Tatu văzu la ferestra unor căsuțe, o copilă tinerică și de o frumusețe răpitoare.</p>
 <p>Știm că Constantin era sărac, că nu avea deloc bani și că informându-și despre zestrea acelei copile numită Amelia, află că are 2000 de lei.</p>
 <p>Suma nu era tocmai mare, dar pentru un tânăr ca Constantin, care nu dispunea nici de două mii centime, i se păru o avere colosală.</p>
@@ -951,18 +977,21 @@
 <p>Trebuia să fii prea brut ca să o strângi vreodată, de frică ca să n-o frângi!.</p>
 <p>Și cu toate astea, buzele rumene ale frumosei copile cereau încă sărutări.</p>
 <p>Dormind, ea părea a-i zice:</p>
-<p>„Vino, scumpe Constantin. vino lângă mine. Tu știi că te iubesc, ți-am dat probe despre asta. Nu am lăsat eu oare pe muma mea pentru tine? Și puteam să fac altfel, când tu mi-ai scăpat viața ? Oh  vino! brațele mele te vor strânge cu căi-</p>
+<p>Vino, scumpe Constantin. vino lângă mine. Tu știi că te iubesc, ți-am dat probe despre asta. Nu am lăsat eu oare pe muma mea pentru tine? Și puteam să fac altfel, când tu mi-ai scăpat viața ? Oh  vino! brațele mele te vor strânge cu căi-</p>
 <p>dura cum o altă amantă nu a mai strâns pe iubitul ei“.</p>
 <p>Astfel păreați a-i zice acele buze întredeschise ale frumosei Amelii.</p>
 <p>Constantin o privea cu nesațiu.</p>
 <p>El se sculă în picioare; voi să se arunce asupra ei, s-o sărute și să doarmă lângă dânsa o viață întregă.</p>
 <p>In adevăr, un moralist cu fruntea încrețită, un moralist însă din acei incărcați de prejudiciile actualei societăți, va bârfi contra conduitei tânărului Constantin.</p>
 <p>Cum ? Acest tânăr mai poate fi om de onoare, când seduce pe o biată copilă, și când își propune a o lua de soție, fără în a se cununa cu dânsa?</p>
-
 	<trailer>(Va urma)</trailer>
 <trailer>Toate drepturile rezervate autorului</trailer>
-<trailer>(urmare)</trailer>
-
+            </div>
+    </div>
+    <div type="part" n="6">
+        <head>Omorul din strada Soarelui sau Asasinii Mariei Popovici. Roman Original de Panait Macri</head>
+        <trailer>(urmare)</trailer>
+        <div type="section">   
 	<p>Constantin însă nu voia să știe despre asta,</p>
 <p>Pentru el contractul de căsătorie, era lanțul dragostei.</p>
 <p>Putea lumea să bărfescă, el nu ținea cont.</p>
@@ -1048,7 +1077,7 @@
 <p>Pe fața el se citea durerea și în ochii ei o rază de disperare.</p>
 <p>Acum nu mai surâdea, ea se îmbrăcă și privi pe Constantin cu tristețe!</p>
 <p>Părea ca dzce :</p>
-<p>„De astăzi înainte toată viața mea stă în mâinele tale. Tu ești stăpân pe mine, iubește-me până la sfârșit“.</p>
+<p>De astăzi înainte toată viața mea stă în mâinele tale. Tu ești stăpân pe mine, iubește-me până la sfârșit“.</p>
 <p>Si ochii Ameliei se umplură de lacrimi.</p>
 <p>Nu avea oare dreptul ca să plângă ?</p>
 <p>Ea-și plângea, greșeala, pentru care însă nimeni nu ar putea să o acuze.</p>
@@ -1102,11 +1131,11 @@
 <p>Ea dormea, era somnul durerii, și deși cădeiid, se lovise cu capul de pragul ușel, de și sângele începu să curgp, ea tot dormea!...</p>
 <p>Si nimeni nu era ca să-i dea ajutor, căci ea nu era o femeie bogată ca să aibă servitori sau servitoare, și rămase acolo singură, mai mult moartă decât vie, până când însera.</p>
 <p>Românul are o vorbă care zice:</p>
-<p>„Numai mamă să nu fii.</p>
+<p>Numai mamă să nu fii.</p>
 <p>Muma Ameliel se sculă încet, privirile ei rătăciră prin toate părțile, părea că caută pe undeva, apoi disperată strigă :</p>
 <p>— Amelio! fiica mea, unde ești ?</p>
 <p>Dar nici un răspuns la vocea ei durerosă; numai pereții casei păreau că repetă cuvântul:</p>
-<p>„Amelio”.</p>
+<p>Amelio”.</p>
 <p>Dar deodată se vede plină de sânge, simte o durere la cap, duce mâna-i la rană și mâna-i se sângeră.</p>
 <p>— M-am lovit! exclamă nenorocita mumă și încet se apropie de masa lângă care stătea ziua fiica sa și citea.</p>
 <p>Lacrimile izvorâră din nou și suspinele izbucneu ca o furtună din bătrânu-i piept.</p>
@@ -1126,8 +1155,9 @@
 <p>Timpul care schimbă toate, au schimbat-o și pe dânsa.</p>
 <p>Noi o vom urmări de aproape, căci istoria ei ne interesează mult.</p>
 <p>Vom descrie viața-i de la plecarea ei din București, și o dată cu lacrimile ce va vărsa dânsa, vom vărsa poate și noi o lacrimă.</p>
-
-	<p>GENIUL RĂU</p>
+        </div>
+            <div type="section">   
+	<head>GENIUL RĂU</head>
 <p>In Consțantinopol, într-o stradă numită a Fanarului locuia un fanariot numit Costis.</p>
 <p>Era tânăr, bine făcut și de o frumusețe distinsă.</p>
 <p>Se bucura de o mică avere rămasă de la părinții săi.</p>
@@ -1149,13 +1179,17 @@
 <p>Destule lacrimi, crude suspine, Am scos din peptu-mi zdrobit de chin, Vino copilă, vin lângă mine, P-a mele brațe, vino, ah lin.</p>
 <p>Iar dacă vocea-mi până la tine</p>
 <p>Nu va ajunge, îngere lin, Lăsa-voi viața, și cu suspine Tu la mormântu-mi atunci vin!...</p>
-
 	<trailer>(va urma).</trailer>
 <trailer>Anunțăm pe cititorii noștrii că acest roman, va apare de aici înainte exact în fiecare sâmbătă la 12 ore.</trailer>
 <trailer>Anunțăm de asemenea că a apărut ediția II din primul număr al acestui roman.</trailer>
 <trailer>Toate drepturile rezervate autorului</trailer>
-<trailer>(urmare)</trailer>
-	
+            </div>
+    </div>
+    
+    <div type="part" n="7">
+        <head>Omorul din strada Soarelui sau Asasinii Mariei Popovici. Roman Original de Panait Macri</head>
+        <trailer>(urmare)</trailer>
+        <div type="section">   
 <p>Puțin timp trecu și frumoasa turcoaică îl ascultă prefăcută-i durere și consimți la amorul său.</p>
 <p>Și într-un târziu de noapte, sub gingașele raze ale lunii, o barcă se legăna ușor pe valurile suspinătorului Bosfor.</p>
 <p>Era Almelaiur cu tânărul Costis.</p>
@@ -1219,7 +1253,7 @@
 <p>Regretul ce simți pentru că a lăsat pe Constantin să plece, deveni o remușcare, tristețea sa o disperare.</p>
 <p>Totuși ea se liniști puțin, căci observă că cele trei agonii ale lumânării, avură loc pe când citea un pasaj care vorbea despre mortea unui amant în ajunul nunții sale.</p>
 <p>Veni ziua și Amelia tot citea. Ea contase pe ziuă, pentru a goni orice tristețe dar ziua era tristă și posomorâtă ca o zi de iarnă.</p>
-<p>*) După A. Dumas</p>
+<ab>*) După A. Dumas</ab>
 <p>Lăsă cartea și începu să lucreze la o broderie, lucrul însă nu putu s-o distreze niciun moment.</p>
 <p>Își aducea necontenit aminte de stingerea lumânării, aceasta era pentru dânsa o prevestire tristă căci, desigur, se gândea ca trebuie să se fi întâmplat ceva lui Constantin.</p>
 <p>Ziua trecu plină de tristețe și se termină încă și mai tristă.</p>
@@ -1230,7 +1264,7 @@
 <p>După un minut de reflecție, Amelia aprinse lumânarea și văzu pe patul său, palidă, gănditoare, dar fără a-și întorce privirile de la ușă.</p>
 <p>Ea visase că Constantin fu arestat la întorsătura unei șosele, că se lupta cu vreo doisprezece oameni, care aveau niște fețe sinistre.</p>
 <p>I se păru chiar că a auzit îndoita detunătură a pistoalelor lui Constantin și o voce striga parcă la urechea sa.</p>
-<p>„Ajutor! “ . . .</p>
+<p>Ajutor!  . . .</p>
 <p>După căteva minute însă, rațiunea învinse acea frică care era fără motiv ; se culcă din nou și adormi.</p>
 <p>Dar visul ei urmă cu o acțiune începută și care trebuia să se termine,</p>
 <p>Ea văzu pe Constantin întins la pământ</p>
@@ -1301,9 +1335,9 @@
 <p>Apoi zgomotul pașilor se depărtă coborând scara.</p>
 <p>În urmă totul tăcu.</p>
 <p>— Ah! fără îndoială, murmura copila, lăsând să-i cadă capul pe pernele patului; fără îndoială, Constantin e mort...... cu desăvârșire mort...</p>
-
-	<p>CERCETĂRILE CĂRMUIRII</p>
-	
+        </div>
+            <div type="section">   
+	<head>CERCETĂRILE CĂRMUIRII</head>
 <p>Muma Ameliel muri, după cum văzurăm a treia zi după disparițiunea fiicei sale.</p>
 <p>Parchetul după atunci își începu cercetările.</p>
 <p>Un procuror fu însărcinat cu această afacere.</p>
@@ -1345,11 +1379,14 @@
 <p>— Nu am decât zestra fiicei mele.</p>
 <p>— În ce sumă sunt toți acești bani?</p>
 <p>— 300 de galbeni în hărții turcești.</p>
-
 	<trailer>(Va urma)</trailer>
 <trailer>Toate drepturile rezervate autorului</trailer>
-<trailer>(Urmare)</trailer>
-
+            </div>
+    </div>
+    <div type="part" n="8">
+        <head>Omorul din strada Soarelui sau Asasinii Mariei Popovici. Roman Original de Panait Macri</head>
+        <trailer>(urmare)</trailer>
+        <div type="section">   
 	<p>— Și unde țineai acești bani.</p>
 <p>— Aici, în acestă ladă.</p>
 <p>— Acum sunt tot acolo?</p>
@@ -1535,10 +1572,10 @@
 <p>Trebuie să spunem însă că criminalul frate—să întrebuințăm această calificație o bicinuită—era cu totul schimbat.</p>
 <p>Nimeni nu l-ar fi putut cunoaște. Și haine, și față, cu totul era schimbat.</p>
 <p>El intră înăuntru și împreună cu el încă alte două persoane.</p>
-
 	<trailer>(Va urma)</trailer>
 <trailer>Toate drepturile rezervate autorului</trailer>
-</div>
+        </div>
+    </div>
   </body>
  </text>
 </TEI>

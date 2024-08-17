@@ -11,9 +11,16 @@
                 <respStmt>               
                     <resp>codare POPLITE</resp>
                     <name>Teodora Iuriusciuc</name></respStmt>   
+                <respStmt>               
+                    <resp>verificare codare POPLITE</resp>
+                    <name>Lucreția Pascariu</name></respStmt>   
                 <respStmt>
                     <resp>corectură manuală</resp>
                     <name>Maria Ardelean</name>
+                </respStmt>
+                <respStmt>
+                    <resp>verificare corectură manuală</resp>
+                    <name>Oana Ionescu</name>
                 </respStmt>
                 <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
             </titleStmt>
@@ -30,7 +37,7 @@
                     <author>Caselli, D.</author>
                     <title>Ileana. Roman de senzație</title>
                     <pubPlace>București</pubPlace>
-                    <publisher>FOITA ZIARULUI „ROMÂNUL”</publisher>
+                    <publisher>FOIȚA ZIARULUI „ROMÂNUL”</publisher>
                     <date>1899</date>
                     <decoNote type="illustration" subtype="no"/>
                     <dim unit="char" type="small"/>
@@ -75,12 +82,8 @@
     <text>
 <body>
 <div type="part" n="1">
-<p>1</p>
-<p>FOITA ZIARULUI „ROMANUL"</p>
-<p>ILEANA</p>
-<p>ROMAN DE MARE SENZAȚIE</p>
-<p>de</p>
-<p>D. CASELLI</p>
+<head>1. FOIȚA ZIARULUI „ROMÂNUL”</head>
+<head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>
 <div type="section" n="1">
 <head>Capitolul I. O noapte îngrozitoare</head>
 
@@ -131,12 +134,8 @@
 </div>
     
 <div type="part" n="2">
-<head>2</head>
-<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
-<head>ILEANA</head>
-<head>ROMAN DE MARE SENZAȚIE</head>
-<head>de</head>
-<head>D. CASELLI</head>
+    <head>2. FOIȚA ZIARULUI „ROMÂNUL”</head>
+    <head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>
     <div type="section" n="1">
 <head>Capitolul I. O noapte îngrozitoare</head>
 <p>— Să năvălească, dar nu va găsi decât un pământ pustiu unde armata lui va muri de foame!</p>
@@ -164,13 +163,9 @@
 <trailer>(Va urma)</trailer>
         </div>
 </div>
-    <div type="part">
-<head>3</head>
-<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
-<head>ILEANA</head>
-<head>ROMAN DE MARE SENZAȚIE</head>
-<head>de</head>
-<head>D. CASELLI</head>        
+    <div type="part" n="3">
+        <head>3. FOIȚA ZIARULUI „ROMÂNUL”</head>
+        <head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>   
 	    <div type="section" n="1">
 <head>Capitolul I. O noapte îngrozitoare</head>
 <p>— Să năvălească, dar nu va găsi decât un pământ pustiu, unde armata lui va muri de foame!</p>
@@ -218,12 +213,8 @@
         </div>
     
     <div type="part" n="4">
-<head>4</head>
-<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
-<head>ILEANA</head>
-<head>ROMAN DE MARE SENZAȚIE</head>
-<head>de</head>
-<head>D. CASELLI</head>
+        <head>4. FOIȚA ZIARULUI „ROMÂNUL”</head>
+        <head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>
         <div type="section" n="2">
 <head>Capitolul II. Castelul</head>
 <p>Marele postelnic bătu de vreo câteva ori cu ciocanul de fier care atârna afară, la al cărui sunet portarul veni să-i întrebe cine erau și ce voiau.</p>
@@ -275,12 +266,8 @@
     </div>
     
     <div type="part" n="6">
-<head>6</head>
-<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
-<head>ILEANA</head>
-<head>ROMAN DE MARE SENZAȚIE</head>
-<head>de</head>
-<head>D. CASELLI</head>
+        <head>6. FOIȚA ZIARULUI „ROMÂNUL”</head>
+        <head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>
         <div type="section">
 <head>Capitolul II. Castelul</head>
 <p>— Cine sunteți?</p>
@@ -336,12 +323,8 @@
     </div>
     
     <div type="part" n="7">
-<head>7</head>
-<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
-<head>ILEANA</head>
-<head>ROMAN DE MARE SENZAȚIE</head>
-<head>de</head>
-<head>D. CASELLI</head>
+        <head>7. FOIȚA ZIARULUI „ROMÂNUL”</head>
+        <head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>
 <div type="section">
 <p>Punând piciorul în chioșc lăsă să-i cadă mantia.</p>
 <p>Era de o frumusețe admirabilă.</p>
@@ -395,12 +378,8 @@
     </div>
     </div>
     <div type="part" n="9">
-<head>9</head>
-<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
-<head>ILEANA</head>
-<head>ROMAN DE MARE SENZAȚIE</head>
-<head>de</head>
-<head>D. CASELLI</head>
+        <head>9. FOIȚA ZIARULUI „ROMÂNUL”</head>
+        <head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>
         <div type="section">
 <p>Acești călugări exploatară cu prisos puterea ce li se dăduse pentru a-și întări ordinul, încă tânăr pe atunci.</p>
 <p>Constituirea tribunalului inchiziției sau al sfântulul oficiu cum și pronunțarea sentințelor erau cu totul arbitrare.</p>
@@ -429,12 +408,8 @@
             </div>
     </div>
 <div type="part" n="10">
-<head>9</head>
-<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
-<head>ILEANA</head>
-<head>ROMAN DE MARE SENZAȚIE</head>
-<head>de</head>
-<head>D. CASELLI</head>
+    <head>9. FOIȚA ZIARULUI „ROMÂNUL”</head>
+    <head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>
 <div type="section">
 <p>Dăm aici această diplomă:</p>
 <p>„Bela cu mila Lui Dumnezeu, Craiul Ungariei, Dalmației, Croației, Romei, Serbiei, Galiției, Lodomeriei și al Comanei pururea.</p>
@@ -455,12 +430,8 @@
 </div>
 </div>
 <div type="part" n="11">
-<head>10</head>
-<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
-<head>ILEANA</head>
-<head>ROMAN DE MARE SENZAȚIE</head>
-<head>de</head>
-<head>D. CASELLI</head>
+    <head>10. FOIȚA ZIARULUI „ROMÂNUL”</head>
+    <head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>
     <div type="section">
 <p>După Dan urmează Mircea Basarab (1298 — 1310) și după el Alexandru Basarab (1310-1363).</p>
 <p>La 1327 Alexandru se afla în relație cu Papa loan al XXIII-lea.</p>
@@ -510,12 +481,8 @@
     </div>
 </div>
     <div type="part" n="12">
-<head>11</head>
-<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
-<head>ILEANA</head>
-<head>ROMAN DE MARE SENZAȚIE</head>
-<head>de</head>
-<head>D. CASELLI</head>
+        <head>11. FOIȚA ZIARULUI „ROMÂNUL”</head>
+        <head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>
         <div type="section">
 <p>— Mă îndreptățești, Măria Ta, n-am cugetat niciodată la așa ceva...</p>
 <p>— Bine atunci — o întrerupse Voievodul — dacă nu vezi niciun rău în vorbele mele sau în ce am să-ți mai spun, fii atentă şi supusă la ceea ce-ți voi cere, și eu îți voi da ceea ce mi-ai cerut. O mână spală pe cealaltă zice o zicătoare veche.</p>
@@ -547,12 +514,8 @@
         </div>
     </div>
     <div type="part" n="13">
-<head>12</head>
-<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
-<head>ILEANA</head>
-<head>ROMAN DE MARE SENZAȚIE</head>
-<head>de</head>
-<head>D. CASELLI</head>
+        <head>12. FOIȚA ZIARULUI „ROMÂNUL”</head>
+        <head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>
         <div type="section">
 <p>— Ajunsă odată acolo vei povesti că ai fost urmărită de niște haiduci, care neputând să te ajungă, te așteaptă la întoarcere ca să te omoare și să te fure. După aceasta vei cere un adăpost acolo până ce vor vedea haiducii că așteptarea lor a fost zadarnică și se vor risipi.</p>
 <p>— În timpul acesta, tu vei întrebuința armele tale — adică frumusețea ta fermecătoare — asupra acelui om și când vei găsi minutul princios — adică momentul în care dânsul te va ține în brațele sale, palpitând de amor și va căuta să satisfacă plăcerile sale, înainte de a te da lui — tu îi vei face propunerile. Celelalte ce vor urma sunt lucrurile mele, ceea ce rămâne de făcut spre a te scăpa de el mă privește pe mine.</p>
@@ -584,12 +547,8 @@
         </div>
     </div>
     <div type="part" n="14">
-<head>12</head>
-<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
-<head>ILEANA</head>
-<head>ROMAN DE MARE SENZAȚIE</head>
-<head>de</head>
-<head>D. CASELLI</head>
+        <head>12. FOIȚA ZIARULUI „ROMÂNUL”</head>
+        <head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>
         <div type="section">
 <p>— Ți-am mai spus că aici este vorba de scăparea țării. Orice jerfă făcută pentru țară este o faptă nobilă, demnă de cine a făcut-o. Însă cred că lucrurile nu vor ajunge până acolo, și dacă....</p>
 <p>— Și dacă? întrebă Ileana.</p>
@@ -634,11 +593,8 @@
 </div>
     </div>
 <div type="part" n="15">
-<head>13</head>
-<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
-<head>ILEANA</head>
-<head>ROMAN DE MARE SENZAȚIE</head>
-<head>de</head>
+    <head>13. FOIȚA ZIARULUI „ROMÂNUL”</head>
+    <head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>
 <head>D. CASELLI</head>
     <div type="section">
 <p>Văzând pe omul îmbrăcat în haine preoțești, se dădu înlături cu un pas.</p>
@@ -693,12 +649,8 @@
     </div>
 </div>
 <div type="part" n="16">
-<head>14</head>
-<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
-<head>ILEANA</head>
-<head>ROMAN DE MARE SENZAȚIE</head>
-<head>de</head>
-<head>D. CASELLI</head>
+    <head>14. FOIȚA ZIARULUI „ROMÂNUL”</head>
+    <head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>
     <div type="section">
 <p>— Pe d-ta te cunosc — răspunse Vladislav, aducându-și aminte de Marele Postelnic, ambasadorul Voievodulul pe care îl primise cu câteva săptămâni înainte.</p>
 <p>— Ce vânt vă aduce pe la mine — urmă Banul — uitându-se la Stanca.</p>
@@ -729,12 +681,8 @@
 </div>
     
     <div type="part" n="17">
-<head>15</head>
-<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
-<head>ILEANA</head>
-<head>ROMAN DE MARE SENZAȚIE</head>
-<head>de</head>
-<head>D. CASELLI</head>
+        <head>15. FOIȚA ZIARULUI „ROMÂNUL”</head>
+        <head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>
         <div type="section">
 <p>El tremura de fericire.</p>
 <p>Voia să posede pe această încântătoare copilă.</p>
@@ -790,11 +738,8 @@
     </div>
     </div>
     <div type="part" n="17">
-<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
-<head>ILEANA</head>
-<head>ROMAN DE MARE SENZAȚIE</head>
-<head>de</head>
-<head>D. CASELLI</head>
+        <head>FOIȚA ZIARULUI „ROMÂNUL”</head>
+        <head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>
         <div type="section">
 <p>După puțin timp, barca ajunse la țărmul celălalt și călugărul se sculă și punând un picior pe pământ zise:</p>
 <p>— Vino afară să-ți plătesc ospitalitatea ce mi-ai dat!</p>
@@ -855,11 +800,8 @@
     </div>
         </div>
     <div type="part" n="18">
-<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
-<head>ILEANA</head>
-<head>ROMAN DE MARE SENZAȚIE</head>
-<head>de</head>
-<head>D. CASELLI</head>
+        <head>FOIȚA ZIARULUI „ROMÂNUL”</head>
+        <head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>
         <div type="section">
 <p>Când o văzu, Didina intră în cameră.</p>
 <p>Stanca lângă pat, în picioare și udă toată, zise roabei să o șteargă.</p>
@@ -917,11 +859,8 @@
         </div>
     </div>
     <div type="part" n="19">
-<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
-<head>ILEANA</head>
-<head>ROMAN DE MARE SENZAȚIE</head>
-<head>de</head>
-<head>D. CASELLI</head>
+        <head>FOIȚA ZIARULUI „ROMÂNUL”</head>
+        <head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>
         <div type="section">
 <p>Tremurând de voluptate și pasiune se apropie de dânsa să o strângă în brațe.</p>
 <p>Simțurile îi erau aprinse.</p>
@@ -967,12 +906,9 @@
 <trailer>(Va urma)</trailer>
 </div>
     </div>
-    <div type="part" n="21">
-<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
-<head>ILEANA</head>
-<head>ROMAN DE MARE SENZAȚIE</head>
-<head>de</head>
-<head>D. CASELLI</head>
+    <div type="part" n="20">
+        <head>FOIȚA ZIARULUI „ROMÂNUL”</head>
+        <head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>
         <div type="section">
 <p>Întâmplarea făcu ca la câțiva metri departe de Castel să se întâlnească cu Spătarul Vintilă.</p>
 <p>El era palid, cu ochii plini de ură și mânie.</p>
@@ -1012,11 +948,8 @@
             </div>
     </div>
     <div type="part" n="21">
-<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
-<head>ILEANA</head>
-<head>ROMAN DE MARE SENZAȚIE</head>
-<head>de</head>
-<head>D. CASELLI</head>
+        <head>FOIȚA ZIARULUI „ROMÂNUL”</head>
+        <head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>
         <div type="section">
 <p>Roaba, văzând pe ambasador, se dădu la o parte și acesta intră în cameră.</p>
 <p>Stanca era singură.</p>
@@ -1074,11 +1007,8 @@
     </div>
     </div>
     <div type="part" n="22">
-<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
-<head>ILEANA</head>
-<head>ROMAN DE MARE SENZAȚIE</head>
-<head>de</head>
-<head>D. CASELLI</head>
+        <head>FOIȚA ZIARULUI „ROMÂNUL”</head>
+        <head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>
         <div type="section">
 <p>Căruța cu vizitiul și celălalt familiar rămaseră pe malul de vis-a-vis; pe urmă se înfundă într-o pădure.</p>
 <p>Familiarii săriră din barcă, plătiră luntrașului și luară calea ce ducea la Câmpulung.</p>
@@ -1127,11 +1057,8 @@
             </div>
     </div>
     <div type="part" n="23">
-<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
-<head>ILEANA</head>
-<head>ROMAN DE MARE SENZAȚIE</head>
-<head>de</head>
-<head>D. CASELLI</head>
+        <head>FOIȚA ZIARULUI „ROMÂNUL”</head>
+        <head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>
         <div type="section">
 <p>Nimeni nu se zărea, niciun servitor nu era pe aici.</p>
 <p>— Așteptați-mă aici, eu voi merge înăuntru — zise familiarul.</p>
@@ -1190,12 +1117,8 @@
             </div>
     </div>
     <div type="part" n="24">
-<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
-<head>ILEANA</head>
-<head>ROMAN DE MARE SENZAȚIE</head>
-<head>de</head>
-<head>D. CASELLI</head>
-	    
+        <head>FOIȚA ZIARULUI „ROMÂNUL”</head>
+        <head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>
         <div type="section">
 <p>Bătrâna se liniști puțin, pe urmă zise că, auzind niște voci omenești în coridor, veni să vadă ce este, dar sosi prea târziu, stăpâna ei probabil fusese răpită.</p>
 <p>Prințul ascultase cu o spaimă nespusă aceste comunicări și nu putu scoate un singur cuvânt.</p>
@@ -1234,11 +1157,8 @@
 </div>
     </div>
     <div type="part" n="25">
-<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
-<head>ILEANA</head>
-<head>ROMAN DE MARE SENZAȚIE</head>
-<head>de</head>
-<head>D. CASELLI</head>
+        <head>FOIȚA ZIARULUI „ROMÂNUL”</head>
+        <head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>
 	    <div type="section">
 <p>— Și ce a răspuns Banul Vladislav—zise regele.</p>
 <p>— Banul a zis că dacă dânsul nu va fi ales din nou Ban al Olteniei nu dă niciun ajutor măcar cât de mic.Voievodul se află într-o astfel de stare încât putem să îi punem toate condițiile pe care le voiți și sunt sigur că le va primi. În această privință am vorbit și cu soția Voievodulul, Doamna Clara, care este, ca și noi, credincioasă religiei catolice, și mi-a zis să nu întârziem cu condițiile.</p>
@@ -1286,11 +1206,8 @@
 </div>
     </div>
     <div type="part" n="25">
-<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
-<head>ILEANA</head>
-<head>ROMAN DE MARE SENZAȚIE</head>
-<head>de</head>
-<head>D. CASELLI</head>
+        <head>FOIȚA ZIARULUI „ROMÂNUL”</head>
+        <head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>
         <div type="section">
 <p>Trăsnetele cădeau în apă ca niște săbii de foc ce taie în drepta și în stânga.</p>
 <p>In curând văzură că totul era în zadar și că barca era pierdută cu oameni cu tot.</p>
@@ -1340,11 +1257,8 @@
 </div>
     </div>
     <div type="part" n="26">
-<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
-<head>ILEANA</head>
-<head>ROMAN DE MARE SENZAȚIE</head>
-<head>de</head>
-<head>D. CASELLI</head>
+        <head>FOIȚA ZIARULUI „ROMÂNUL”</head>
+        <head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>
         <div type="section">
 <p>Ridicăm puțin capul și vedem inscripția aceasta:</p>
 <p>„Tribunalul secret"</p>
@@ -1381,11 +1295,8 @@
         </div>
     </div>
     <div type="part" n="27">
-<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
-<head>ILEANA</head>
-<head>ROMAN DE MARE SENZAȚIE</head>
-<head>de</head>
-<head>D. CASELLI</head>
+        <head>FOIȚA ZIARULUI „ROMÂNUL”</head>
+        <head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>
         <div n="section">
 <p>Umblând înainte, coti la stânga într-o stradă a grădinii care avea de amândouă părți arbori uriași, așezați unul lângă altul.</p>
 <p>În fundul străzii se află un mare tufiș.</p>
@@ -1442,12 +1353,9 @@
 <trailer>(Va urma)</trailer>
 </div>
     </div>
-    <div type="part" n="27">
-<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
-<head>ILEANA</head>
-<head>ROMAN DE MARE SENZAȚIE</head>
-<head>de</head>
-<head>D. CASELLI</head>
+    <div type="part" n="28">
+        <head>FOIȚA ZIARULUI „ROMÂNUL”</head>
+        <head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>
     <div type="section">
 <p>Mii de planuri îi frământau creierii săi surexcitați, pentru a găsi un mijloc cum să o regăsească pe Ana; dar pe cât de iute le concepea, tot atât de repede le abandona iar; — căci vai! Nu știa nici unde se afla iubita lui.</p>
 <p>Fusese la babă, dar în zadar; ea nu știa mai mult decât ceea ce îi spusese seara precedentă.</p>
@@ -1497,12 +1405,8 @@
 </div>
     </div>
     <div type="part" n="29">
-        <p>29</p>
-        <head>FOIȚA ZIARULUI „ROMÂNUL"</head>
-<head>ILEANA</head>
-<head>ROMAN DE MARE SENZAȚIE</head>
-<head>de</head>
-<head>D. CASELLI</head>
+        <head>29. FOIȚA ZIARULUI „ROMÂNUL”</head>
+        <head>ILEANA. ROMAN DE MARE SENZAȚIE de D. CASELLI</head>
         <div type="section">
             <p>Ea repeta cu buzele tremurătoare și în mod distinct:</p>
             <p>— Jur!</p>
