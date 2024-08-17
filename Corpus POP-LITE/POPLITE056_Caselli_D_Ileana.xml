@@ -32,12 +32,12 @@
                     <pubPlace>București</pubPlace>
                     <publisher>FOITA ZIARULUI „ROMÂNUL”</publisher>
                     <date>1899</date>
-                    <decoNote type="ilustratii" subtype="no"/>
-                    <dim unit="char" type="mic"/>
+                    <decoNote type="illustration" subtype="no"/>
+                    <dim unit="char" type="small"/>
                     <extent>
                         <measure unit="word">16890</measure>
                         <measure unit="page" type="under_250"/>
-                        <measure unit="foileton" type="under_65"/>
+                        <measure unit="feuilleton" type="under_65"/>
                         <measure type="incomplete"></measure>
                     </extent>
                 </bibl>
@@ -57,16 +57,16 @@
                     <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
                 </keywords>
                 <keywords>
-                    <term type="receptare" n="under 5"/>
-                    <term type="republicare" n="under 10"/>
+                    <term type="reception" n="under 5"/>
+                    <term type="print_count" n="under 10"/>
                     <term type="finished"></term>                
                 </keywords>
             </textClass>
         </profileDesc>
         <encodingDesc>
             <projectDesc>
-                <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-                <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+                <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+                <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
                 <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
                 <p>Masura de tip "incomplete" indica faptul ca am gasit romanul in forma incompleta.</p>
             </projectDesc>
@@ -82,8 +82,7 @@
 <p>de</p>
 <p>D. CASELLI</p>
 <div type="section" n="1">
-<p>Capitolul I</p>
-<p>O noapte îngrozitoare</p>
+<head>Capitolul I. O noapte îngrozitoare</head>
 
 <p>Să năvălească, dar nu va găsi decât un pământ pustiu, unde armata lui va muri de foame!</p>
 <p>Marele postelnic.</p>
@@ -127,20 +126,19 @@
 <p>— Așa este cum zici! </p> 
 <p>— L-apucă somnul mai curând. </p>
 <p> — Lasă gluma la o parte, nu vezi că dânsul a intrat în tunelul Severinului, care și supus lui, și acum se pregătesc ca să năvălească în Muntenia.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
 </div>
     
 <div type="part" n="2">
-<p>2</p>
-<p>FOITA ZIARULUI „ROMANUL"</p>
-<p>ILEANA</p>
-<p>ROMAN DE MARE SENZAȚIE</p>
-<p>de</p>
-<p>D. CASELLI</p>
+<head>2</head>
+<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
+<head>ILEANA</head>
+<head>ROMAN DE MARE SENZAȚIE</head>
+<head>de</head>
+<head>D. CASELLI</head>
     <div type="section" n="1">
-<p>Capitolul I</p>
-<p>O noapte îngrozitoare</p>
+<head>Capitolul I. O noapte îngrozitoare</head>
 <p>— Să năvălească, dar nu va găsi decât un pământ pustiu unde armata lui va muri de foame!</p>
 <p>Marele postelnic.</p>
 <p>— Să năvălească, dar nu va găsi decât un pământ pustiu, unde armata lui va muri de foame!</p>
@@ -163,19 +161,18 @@
 <p>— Ce ai auzit?</p>
 <p>— Nu ți se pare, ca un zgomot de pași!</p>
 <p>— Zgomot de pași în vremea aceasta? Nu se poate!</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
         </div>
 </div>
     <div type="part">
-<p>3</p>
-<p>FOITA ZIARULUI „ROMANUL"</p>
-<p>ILEANA</p>
-<p>ROMAN DE MARE SENZAȚIE</p>
-<p>de</p>
-<p>D. CASELLI</p>
-        <div type="section" n="1">
-<p>Capitolul I</p>
-<p>O noapte îngrozitoare</p>
+<head>3</head>
+<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
+<head>ILEANA</head>
+<head>ROMAN DE MARE SENZAȚIE</head>
+<head>de</head>
+<head>D. CASELLI</head>        
+	    <div type="section" n="1">
+<head>Capitolul I. O noapte îngrozitoare</head>
 <p>— Să năvălească, dar nu va găsi decât un pământ pustiu, unde armata lui va muri de foame!</p>
 <p>Marele postelnic.</p>
 <p>— Da! Da! Aud foarte lămurit! Este un cal sau un om!</p>
@@ -197,8 +194,7 @@
 <p>După ce mulțumiră călugărului, ambii călăreți părăsiră calea pe care umblau și apucară pe aceea ce le arătase călugărul.</p>
 </div>
 <div type="section" n="2">
-<p>Capitolul II</p>
-<p>Castelul</p>
+<head>Capitolul II. Castelul</head>
 <p>La poalele unui munticel era un sat.</p>
 <p>Satul acesta fusese și el ars împreună cu celelalte sate din ordinul voievodului Alexandru Basarab, care se afla în luptă cu Carol Robert ce năvălise cu armatele sale în țară.</p>
 <p>Din acest sat nu rămăsese decât locuința unui Ban.</p>
@@ -217,26 +213,25 @@
 <p>El avea în castelul său, într-una dintre camere, făcută bibliotecă, și aici venea în fiecare zi de-și petrecea orele citind.</p>
 <p>În această cameră el era la momentul când cel doi călăreți urcau singuratici, urcau strada ce ducea la castelul lui.</p>
 <p>Ei găsiră poarta castelului  închisă.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
         </div>
     
     <div type="part" n="4">
-<p>4</p>
-<p>FOITA ZIARULUI „ROMANUL"</p>
-<p>ROMAN DE MARE SENZAȚIE</p>
-<p>de</p>
-<p>D. CASELLI</p>
+<head>4</head>
+<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
+<head>ILEANA</head>
+<head>ROMAN DE MARE SENZAȚIE</head>
+<head>de</head>
+<head>D. CASELLI</head>
         <div type="section" n="2">
-<p>Capitolul II</p>
-<p>Castelul</p>
+<head>Capitolul II. Castelul</head>
 <p>Marele postelnic bătu de vreo câteva ori cu ciocanul de fier care atârna afară, la al cărui sunet portarul veni să-i întrebe cine erau și ce voiau.</p>
 <p>Unul dintre călători scoase o hârtie un sul — din sânul său și o arătă aceluia ce venise să se informeze despre dânșii.</p>
 <p>Omul aruncă o privire asupra hârtie, pe urmă deschise ușa și călăreții intrară înăuntru.</p>
 </div>
 <div type="section" n="3">
-<p>CAPITOLUL III</p>
-<p>Banul și Solii</p>
+<head>CAPITOLUL III. Banul și Solii</head>
 <p>,,Acum când se vede încolțit de armatele ungurești și și-a adus aminte de mine, ca sa-mi ceară o mână de ajutor și eu voi fi atât de nebun ca să-i întind mâna mea...“</p>
 <p>Banul Vladislav</p>
 <p>Călăreții despre care am vorbit în capitolul întâi erau doi ambasadori trimiși de Voievodul Alexandru Basarab la Banul Vladislav.</p>
@@ -275,20 +270,19 @@
 <p>„Vă rog dar trimitem ajutorul vostru, care împreună cu oștirea mea, să pot alunga pe Unguri din țară.</p>
 <p>„Cred că nu o să vă fie atât de greu să împliniți această a mea dorință și a țării întregi.</p>
 <p>Dată și făcută în Câmpulung - anul mântuirii, 1330'.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
     </div>
     </div>
     
     <div type="part" n="6">
-<p>6</p>
-<p>FOITA ZIARULUI „ROMANUL"</p>
-<p>ILEANA</p>
-<p>ROMAN DE MARE SENZAȚIE</p>
-<p>de</p>
-<p>D. CASELLI</p>
+<head>6</head>
+<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
+<head>ILEANA</head>
+<head>ROMAN DE MARE SENZAȚIE</head>
+<head>de</head>
+<head>D. CASELLI</head>
         <div type="section">
-<p>Capitolul II</p>
-<p>Castelul</p>
+<head>Capitolul II. Castelul</head>
 <p>— Cine sunteți?</p>
 <p>— Sunt soția spătarului Vintilă.</p>
 <p>- Ești jupâneasa Ileana!</p>
@@ -304,8 +298,7 @@
 <p>— Bine! răspunse jupâneasa Ileana, părăsind sala audienței.</p>
 </div>
 <div type="section" n="5">
-<p>CAPITOLUL V</p>
-<p>Mama și fiul</p>
+<head>CAPITOLUL V. Mama și fiul</head>
 <p>„Această scrisoare trebuie sa o ascunzi bine și să o predai în mâna Eminenței Sale! Vai de sfinția ta dacă o pierzi sau o vei da la cineva să o citească.</p>
 <p>Doamna Clara</p>
 <p>În partea stângă a sălii de audiență a Voievodulul se vede o ușă.</p>
@@ -338,16 +331,17 @@
 <p>— Cum așa? exclamă Vladislav indignat.</p>
 <p>- Tatăl tău va lăsa T -Severin in posesia regelui, continuă Clara, neluând de seamă indignarea lui Vladislav — va plăti un tribut și te va trimite pe tine să servești în Curtea Regească a lui Carol Robert!</p>
 <p>„Vrei să mergi?</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
     </div>
     
     <div type="part" n="7">
-<p>7</p>
-<p>FOITA ZIARULUI „ROMANUL"</p>
-<p>ROMAN DE MARE SENZAȚIE</p>
-<p>de</p>
-<p>D. CASELLI</p>
+<head>7</head>
+<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
+<head>ILEANA</head>
+<head>ROMAN DE MARE SENZAȚIE</head>
+<head>de</head>
+<head>D. CASELLI</head>
 <div type="section">
 <p>Punând piciorul în chioșc lăsă să-i cadă mantia.</p>
 <p>Era de o frumusețe admirabilă.</p>
@@ -392,22 +386,21 @@
 <p>Vai! Omul nu e tânăr decât numai o dată.</p>
 </div>
 <div type="section">
-<p>Capilolul VII</p>
-<p>Catolicismul în Muntenia</p>
+<head>Capitolul VII. Catolicismul în Muntenia</head>
 <p>Să facem puțină istorie și să vorbim despre propaganda catolică în Muntenia și deapre instituțiile ei.</p>
 <p>În secolul al XIII-lea Inchiziția era în floare în Oltenia.</p>
 <p>Toți știm ce a fost insituția asta, cu toate astea cred că nu este de prisos de a vorbi puțin de dânsa;</p>
 <p>Ichiziția, un tribunal ecleziatic secret, a fost creată de papa Inocențiu al III-lea în anul 1229 și a fost încredințată Dominicanilor.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
     </div>
     </div>
     <div type="part" n="9">
-<p>9</p>
-<p>FOITA ZIARULUI „ROMANUL"</p>
-<p>ILEANA</p>
-<p>ROMAN DE MARE SENZAȚIE</p>
-<p>de</p>
-<p>D. CASELLI</p>
+<head>9</head>
+<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
+<head>ILEANA</head>
+<head>ROMAN DE MARE SENZAȚIE</head>
+<head>de</head>
+<head>D. CASELLI</head>
         <div type="section">
 <p>Acești călugări exploatară cu prisos puterea ce li se dăduse pentru a-și întări ordinul, încă tânăr pe atunci.</p>
 <p>Constituirea tribunalului inchiziției sau al sfântulul oficiu cum și pronunțarea sentințelor erau cu totul arbitrare.</p>
@@ -432,16 +425,16 @@
 <p>După numărul lor se învederează că nu erau o armată mare de apărare, ci mai mult o bandă de călugări-cruciați, însărcinați  să facă propagandă întorcând populația română la religia catolică.</p>
 <p>Marele Oficial sau șeful lor se numea Rimbaldo 1)</p>
 <p>1) Diploma Relae IV a 1247 quarto non Junii fratri Remboldo dom.hosp. Ierosolym, datum.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
             </div>
     </div>
 <div type="part" n="10">
-<p>9</p>
-<p>FOITA ZIARULUI „ROMANUL"</p>
-<p>ILEANA</p>
-<p>ROMAN DE MARE SENZAȚIE</p>
-<p>de</p>
-<p>D. CASELLI</p>
+<head>9</head>
+<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
+<head>ILEANA</head>
+<head>ROMAN DE MARE SENZAȚIE</head>
+<head>de</head>
+<head>D. CASELLI</head>
 <div type="section">
 <p>Dăm aici această diplomă:</p>
 <p>„Bela cu mila Lui Dumnezeu, Craiul Ungariei, Dalmației, Croației, Romei, Serbiei, Galiției, Lodomeriei și al Comanei pururea.</p>
@@ -458,16 +451,16 @@
 <p>În aceste vremuri propaganda catolică se întindea din ce în ce (123 - 1260).</p>
 <p>În anul 1278 voievod al Olteniei este Bărbat Basarab (1278-1288).</p>
 <p>Bărbat ocrotește pe catolici (1284) și prigonește pe ortodocşi din care cauză este răsturnat de Dan Basarab care apucă domnia si domnește de la 1288 până la 1298.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
 </div>
 <div type="part" n="11">
-<p>10</p>
-<p>FOITA ZIARULUI „ROMANUL"</p>
-<p>ILEANA</p>
-<p>ROMAN DE MARE SENZAȚIE</p>
-<p>de</p>
-<p>D. CASELLI</p>
+<head>10</head>
+<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
+<head>ILEANA</head>
+<head>ROMAN DE MARE SENZAȚIE</head>
+<head>de</head>
+<head>D. CASELLI</head>
     <div type="section">
 <p>După Dan urmează Mircea Basarab (1298 — 1310) și după el Alexandru Basarab (1310-1363).</p>
 <p>La 1327 Alexandru se afla în relație cu Papa loan al XXIII-lea.</p>
@@ -480,8 +473,7 @@
 <p>În această mare încurcătură se află dânsul când i se anunță sosirea soției Spătarului Vintiă - Ileana.</p>
 </div>
 <div type="section">
-<p>CAPITOLUL VIII</p>
-<p>Voievodul și Ileana</p>
+<head>CAPITOLUL VIII. Voievodul și Ileana</head>
 <p>,,Ce pot să fac eu, o femeie, o ființă fără nicio putere?“</p>
 <p>Ileana</p>
 <p>Am arătat că Voievodul se află într-o mare încurcătură, din care nu putea să se desfacă.</p>
@@ -514,16 +506,16 @@
 <p>Se sili a pătrunde înțelesul acestor cuvinte.</p>
 <p>— Pentru ce vă uitați așa speriat la mine?</p>
 <p>„Ați găsit vreun rău în vorbele mele?</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
     </div>
 </div>
     <div type="part" n="12">
-<p>11</p>
-<p>FOITA ZIARULUI „ROMANUL"</p>
-<p>ILEANA</p>
-<p>ROMAN DE MARE SENZAȚIE</p>
-<p>de</p>
-<p>D. CASELLI</p>
+<head>11</head>
+<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
+<head>ILEANA</head>
+<head>ROMAN DE MARE SENZAȚIE</head>
+<head>de</head>
+<head>D. CASELLI</head>
         <div type="section">
 <p>— Mă îndreptățești, Măria Ta, n-am cugetat niciodată la așa ceva...</p>
 <p>— Bine atunci — o întrerupse Voievodul — dacă nu vezi niciun rău în vorbele mele sau în ce am să-ți mai spun, fii atentă şi supusă la ceea ce-ți voi cere, și eu îți voi da ceea ce mi-ai cerut. O mână spală pe cealaltă zice o zicătoare veche.</p>
@@ -551,16 +543,16 @@
 <p>Ileana stătu pe gânduri o clipă şi pe urmă răspunse:</p>
 <p>— Aveți dreptate, dar eu, o femeie... singură... și fără mijloace, fără...</p>
 <p>— Nicio grijă nu vei avea de asta, eu am pus totul la cale. Îți voi da o căruță cu o escortă care te va însoți și care te va păzi.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
         </div>
     </div>
     <div type="part" n="13">
-<p>12</p>
-<p>FOITA ZIARULUI „ROMANUL"</p>
-<p>ILEANA</p>
-<p>ROMAN DE MARE SENZAȚIE</p>
-<p>de</p>
-<p>D. CASELLI</p>
+<head>12</head>
+<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
+<head>ILEANA</head>
+<head>ROMAN DE MARE SENZAȚIE</head>
+<head>de</head>
+<head>D. CASELLI</head>
         <div type="section">
 <p>— Ajunsă odată acolo vei povesti că ai fost urmărită de niște haiduci, care neputând să te ajungă, te așteaptă la întoarcere ca să te omoare și să te fure. După aceasta vei cere un adăpost acolo până ce vor vedea haiducii că așteptarea lor a fost zadarnică și se vor risipi.</p>
 <p>— În timpul acesta, tu vei întrebuința armele tale — adică frumusețea ta fermecătoare — asupra acelui om și când vei găsi minutul princios — adică momentul în care dânsul te va ține în brațele sale, palpitând de amor și va căuta să satisfacă plăcerile sale, înainte de a te da lui — tu îi vei face propunerile. Celelalte ce vor urma sunt lucrurile mele, ceea ce rămâne de făcut spre a te scăpa de el mă privește pe mine.</p>
@@ -588,28 +580,27 @@
 <p>— Atunci d-ta vei trece drept o străină, vei lua un alt nume și după ce vei ajunge la capăt, te vei descoperi lui, îi vei spune cine ești și atunci orice îndatorire ce te-a legat cu dânsul cade de la sine — zise Voievodul.</p>
 <p>— Nu este așa! răspunse Ileana gânditoare. Este o mare deosebire între o curtezană și o soră. O curtezană ca să ajungă la scopul ei dorit poate jertfi orice, dar o soră nu poate nici decum da fratelui său ceea ce va putea să-i dea o curtezană.</p>
 <p>Voievodul replică iute:</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
         </div>
     </div>
     <div type="part" n="14">
-<p>12</p>
-<p>FOITA ZIARULUI „ROMANUL"</p>
-<p>ILEANA</p>
-<p>ROMAN DE MARE SENZAȚIE</p>
-<p>de</p>
-<p>D. CASELLI</p>
+<head>12</head>
+<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
+<head>ILEANA</head>
+<head>ROMAN DE MARE SENZAȚIE</head>
+<head>de</head>
+<head>D. CASELLI</head>
         <div type="section">
 <p>— Ți-am mai spus că aici este vorba de scăparea țării. Orice jerfă făcută pentru țară este o faptă nobilă, demnă de cine a făcut-o. Însă cred că lucrurile nu vor ajunge până acolo, și dacă....</p>
 <p>— Și dacă? întrebă Ileana.</p>
 <p>— Și dacă, vor trebui să ajungă până acolo, d-ta te vei jertfi pentru țară — termină Voievodul.</p>
 <p>Ileana cu ochii umezi, consimți.</p>
-<p>*</p>
+<milestone unit="*"/>
 <p>O căruța domnească, trasă de 6 cai boierești și escortată de un pluton de panduri, era dis-de-dimineață a doua zi din curtea palatului domnesc. Într-însa tolănită pe pernele de mătase ale trăsurii era Ileana, întovărășită de Marele postelnic.</p>
 <p>În aceeași zi, cu câteva ore mai în urmă după plecarea căruței domnești, bărbatul ei, Spătarul Vintilă, sosi la Câmpulung și, aflând că dânsa plecase la Craiova, imediat se puse în urmărirea ei.</p>
 </div>
 <div type="section" n="7">
-<p>CAPITOLUL IX</p>
-<p>Bănuit ca spion</p>
+<head>CAPITOLUL IX. Bănuit ca spion</head>
 <p>Unde vă duceți, sfinția voastră?</p>
 <p>Soldatul</p>
 <p>În dimineața unei zile frumoase de toamnă, un om mergea cu pași grăbiți pe șoseaua ce duce de la orașul Câmpulung la Turnu-Severin.</p>
@@ -639,16 +630,16 @@
 <p>Colo după arbori se mișcă ceva.</p>
 <p>Nu este oare o umbră omenească?</p>
 <p>Soldatul se târî încet și ajunge tocmai în fața preotulul.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
     </div>
 <div type="part" n="15">
-<p>13</p>
-<p>„FOITA ZIARULUI „ROMANUL"</p>
-<p>ILEANA</p>
-<p>ROMAN DE MARE SENZAȚIE</p>
-<p>de</p>
-<p>D. CASELLI</p>
+<head>13</head>
+<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
+<head>ILEANA</head>
+<head>ROMAN DE MARE SENZAȚIE</head>
+<head>de</head>
+<head>D. CASELLI</head>
     <div type="section">
 <p>Văzând pe omul îmbrăcat în haine preoțești, se dădu înlături cu un pas.</p>
 <p>Însă datoria îi spunea să întrebe ce caută acest călugăr noaptea pe drum.</p>
@@ -674,8 +665,7 @@
 <p>Pe urmă apucă calea ce ducea la râu și ajunse la locuința luntrașului.</p>
     </div>
     <div type="section">
-<p>CAPITOLUL X</p>
-<p>În Castel</p>
+<head>CAPITOLUL X. În Castel</head>
 <p>„Ce, ai început sa cunoști și tu lumea, atât de tânără?</p>
 <p>Banul Vladislav.</p>
 <p>Soarele începu să apună.</p>
@@ -699,16 +689,16 @@
 <p>În urmă intră în sala de audiență unde așteptau oaspeții.</p>
 <p>Noii sosiți se sculară și se închinară.</p>
 <p>Sunt marele Postelnic al domnitorului, cu fiica mea, Stanca - zise el.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
     </div>
 </div>
 <div type="part" n="16">
-<p>14</p>
-<p>„FOITA ZIARULUI „ROMANUL"</p>
-<p>ILEANA</p>
-<p>ROMAN DE MARE SENZAȚIE</p>
-<p>de</p>
-<p>D. CASELLI</p>
+<head>14</head>
+<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
+<head>ILEANA</head>
+<head>ROMAN DE MARE SENZAȚIE</head>
+<head>de</head>
+<head>D. CASELLI</head>
     <div type="section">
 <p>— Pe d-ta te cunosc — răspunse Vladislav, aducându-și aminte de Marele Postelnic, ambasadorul Voievodulul pe care îl primise cu câteva săptămâni înainte.</p>
 <p>— Ce vânt vă aduce pe la mine — urmă Banul — uitându-se la Stanca.</p>
@@ -734,17 +724,17 @@
 <p>Stanca își aruncă vălul ce îi acoperea capul și întreaga faţă și rămase înaintea Banului într-o rochie decoltată, ce lăsa să se  vadă formele ei nespus de frumoase.</p>
 <p>Sânul ei palpitabil zvâcnea cu o putere parcă ar fi voit să iasă din locul lui.</p>
 <p>Banul privea pe încântătoarea fată ce o ținea lângă dânsul cu o pasiune ce ajungea câteodată până la extremitate.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
     </div>
 </div>
     
     <div type="part" n="17">
-<p>15</p>
-<p>„FOITA ZIARULUI „ROMANUL"</p>
-<p>ILEANA</p>
-<p>ROMAN DE MARE SENZAȚIE</p>
-<p>de</p>
-<p>D. CASELLI</p>
+<head>15</head>
+<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
+<head>ILEANA</head>
+<head>ROMAN DE MARE SENZAȚIE</head>
+<head>de</head>
+<head>D. CASELLI</head>
         <div type="section">
 <p>El tremura de fericire.</p>
 <p>Voia să posede pe această încântătoare copilă.</p>
@@ -763,10 +753,11 @@
 <p>După ieșirea intendentului, Banul luă de braț — dar mai bine o ducea pe sus — pe frumoasa copilă, care îl mușcă pe obraji și o duse în sala de mâncare.</p>
 </div>
 <div type="section">
-<p>CAPITOLUL XI</p>
-<p>Coliba</p>
+<head>CAPITOLUL XI. Coliba</head>
 <p>„Dacă sfinția voastră se mulțumește cu o saltea de paie, atunci îți dau adăpostul cerut.</p>
-<p>Luntrașul</p>
+
+	<p>Luntrașul</p>
+	
 <p>Pe malul Oltului, lângă pădure se afla o căsuță mică țărănească.</p>
 <p>Căsuța, sau mai bine zis coliba, era acoperită de paie și avea două încăperi.</p>
 <p>Ea aparținea unui luntraș muntean.</p>
@@ -795,16 +786,15 @@
 <p>— Mă mulțumesc cu orice — răspunse călugărul - numai o singura noapte am să stau, mâine dimineață mă vei trece dincolo de rău și îți voi da o răsplată bună.</p>
 <p>— Bine, poftim, intrați! zise luntrașul, eu merg să aduc ceva de mâncare.</p>
 <p>Luntrașul ieși și călugărul se așeză pe o bancă de lemn lângă masă.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
     </div>
     </div>
     <div type="part" n="17">
-<p>„FOITA ZiARULUI „ROMANUL"</p>
-<p>17</p>
-<p>ILEANA</p>
-<p>ROMAN DE MARE SENZAȚIE</p>
-<p>de</p>
-<p>D. CASELLI</p>
+<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
+<head>ILEANA</head>
+<head>ROMAN DE MARE SENZAȚIE</head>
+<head>de</head>
+<head>D. CASELLI</head>
         <div type="section">
 <p>După puțin timp, barca ajunse la țărmul celălalt și călugărul se sculă și punând un picior pe pământ zise:</p>
 <p>— Vino afară să-ți plătesc ospitalitatea ce mi-ai dat!</p>
@@ -828,9 +818,8 @@
 <p>— Amin! zise fratele portar si închise uşa.</p>
 </div>
 <div type="section">
-<p>CAPITOLUL XII</p>
-<p>În templul amorului</p>
-<p>,,Deoarece ți-am dat cuvântul că-ți voi îndeplini dorința, acum-mi aparții mie."</p>
+<head>CAPITOLUL XII. În templul amorului</head>
+<p>„Deoarece ți-am dat cuvântul că-ți voi îndeplini dorința, acum-mi aparții mie."</p>
 <p>Banul Vladislav</p>
 <p>Stanca, când se deșteptă două ceasuri după mijlocul zilei, obosită fiind că dormise prea mult, se întoarse cu pieptul pe pat, desfăcu picioarele, puse obrazul în mână și se gândea.</p>
 <p>Mai întâi de toate ea știa că făcuse pe Vladislav să-și piardă mințile prin frumusețea sa și prin înfățișarea ei de regină.</p>
@@ -862,16 +851,15 @@
 <p>După cinci minute, Stanca se ridică în picioare în piscină, ieși din apă și merse spre ușă.</p>
 <p>Urmele piciorușelor sale străluceau pe podeaua camerei.</p>
 <p>Legănându-se parcă obosită, deschise ușa de perete și se opri cu brațul întins spre clanță</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
     </div>
         </div>
     <div type="part" n="18">
-<p>FOITA ZIARULUI „ROMANUL“</p>
-<p>18</p>
-<p>ILEANA</p>
-<p>ROMAN DE MARE SENZAȚIE</p>
-<p>de</p>
-<p>D. CASELLI</p>
+<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
+<head>ILEANA</head>
+<head>ROMAN DE MARE SENZAȚIE</head>
+<head>de</head>
+<head>D. CASELLI</head>
         <div type="section">
 <p>Când o văzu, Didina intră în cameră.</p>
 <p>Stanca lângă pat, în picioare și udă toată, zise roabei să o șteargă.</p>
@@ -925,16 +913,15 @@
 <p>— Vreau să gust un ceas de fericire. Vederea ta m-a înnebunit. Ochii tăi sunt precum crinii albaștri și buzele tale flori de mac roșu. Șoldurile tale sunt tari ca marmura albă, iar țâțele tale sunt două păvaze de argint ale căror vârfuri au fost scăldate în sânge.</p>
 <p>La aceste cuvinte de un amor înflăcărat, Stanca se înroși pentru prima dată.</p>
 <p>Dar frumusețea lui Vladislav o învinse și ea se lăsă, timidă, blândă, ca el să-i facă orice va voi.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
         </div>
     </div>
     <div type="part" n="19">
-<p>FOITA ZIARULUI „ROMANUL"</p>
-<p>19</p>
-<p>ILEANA</p>
-<p>ROMAN DE MARE SENZAȚIE</p>
-<p>de</p>
-<p>D. CASELLI</p>
+<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
+<head>ILEANA</head>
+<head>ROMAN DE MARE SENZAȚIE</head>
+<head>de</head>
+<head>D. CASELLI</head>
         <div type="section">
 <p>Tremurând de voluptate și pasiune se apropie de dânsa să o strângă în brațe.</p>
 <p>Simțurile îi erau aprinse.</p>
@@ -958,8 +945,7 @@
 <p>— Ajunge, frate... Ajunge...</p>
 </div>
 <div type="section">
-<p>CAPITOLUL XIII</p>
-<p>O convorbire interesantă</p>
+<head>CAPITOLUL XIII. O convorbire interesantă</head>
 <p>„Am venit să-mi iau soția. Niciun om, nicio lege nu poate să-mi ia dreptul de bărbat pe care-l am asupra ei.“</p>
 <p>Spătarul Vintilă.</p>
 <p>Am spus într-unul dintre capitolele precedente că Spătarul Vintilă, bărbatul Ileanei, cu câteva ore mai în urmă după plecarea căruței domnești, sosi la Câmpulung și, aflând că dânsa plecase la Craiova, imediat se puse în urmărirea ei.</p>
@@ -978,16 +964,15 @@
 <p>Acum Vintilă se vede că i-a părut rău de această faptă pe care o făcuse, sau că auzise de la curtezanii palatului că Alteța Sa va da Ileanei alte sate si moșii, s-a hotărât să se ia după dânsa, poate ar fi putut să se înțeleagă iar.</p>
 <p>Noi îl vedem acum învârtindu-se pe lângă Castelul Banului.</p>
 <p>Marele Postelnic, ca să-și mai omoare vremea și ca să lase Stancii toată libertatea ei în Castel, dis-de-dimineață se îmbrăcă într-un costum de vânătoare și plecă la vânat.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
     </div>
     <div type="part" n="21">
-<p>FOITA ZIARULUI „ROMANUL"</p>
-<p>20</p>
-<p>ILEANA</p>
-<p>ROMAN DE MARE SENZAȚIE</p>
-<p>de</p>
-<p>D. CASELLI</p>
+<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
+<head>ILEANA</head>
+<head>ROMAN DE MARE SENZAȚIE</head>
+<head>de</head>
+<head>D. CASELLI</head>
         <div type="section">
 <p>Întâmplarea făcu ca la câțiva metri departe de Castel să se întâlnească cu Spătarul Vintilă.</p>
 <p>El era palid, cu ochii plini de ură și mânie.</p>
@@ -1023,16 +1008,15 @@
 <p>Vânatul pe care îl omorâse.</p>
 <p>În puține minute el se dezbrăcă de hainele sale de vânătoare și se duse să aibă o convorbire cu Stanca.</p>
 <p>Didia stătea la ușa camerei postată acolo de către Vladislav spre a nu lăsa să intre nimeni înăuntru câtă vreme el era acolo.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
             </div>
     </div>
     <div type="part" n="21">
-<p>FOITA ZIARULUI „ROMANUL"</p>
-<p>21</p>
-<p>ILEANA</p>
-<p>ROMAN DE MARE SENZAȚIE</p>
-<p>de</p>
-<p>D. CASELLI</p>
+<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
+<head>ILEANA</head>
+<head>ROMAN DE MARE SENZAȚIE</head>
+<head>de</head>
+<head>D. CASELLI</head>
         <div type="section">
 <p>Roaba, văzând pe ambasador, se dădu la o parte și acesta intră în cameră.</p>
 <p>Stanca era singură.</p>
@@ -1050,7 +1034,9 @@
 <p>— Banul Vladislav niciodată n-a mințit, mâine pleacă la Craiova. În timpul acesta noi vom merge la Câmpulung la domnitor să-i spunem că toate au fost îndeplinite după cum a dorit.</p>
 <p>— Putem pleca: să nu întârziem!</p>
 <p>Bătrânul ieși ca să facă pregătirile pentru călătorie.</p>
-<p>*</p>
+		
+<milestone unit="*"/>
+		
 <p>Înainte ca Banul să plece la Craiova, se duse în camera Stancii și îi zise:</p>
 <p>— Stăncuță, iubita mea! Cred că timpul va duce astfel lucrurile încât să fim nedespărțiți de aici înainte, oricât ne va fi dat s-avem o viaţă pe pământ. Ești hotărâtă, draga mea, să luptăm împreună pentru fericirea noastră?</p>
 <p>— Sunt hotărâtă a nu mă mai despărți de d-ta cât timp voi trăi - răspunse ea.</p>
@@ -1063,8 +1049,7 @@
 <p>A doua zi dis-de-dimineață, Vladislav, urmat de câțiva cavaleri, părăsi Castelul, luând drumul Craiovei.</p>
 </div>
 <div type="section">
-<p>CAPITOLUL XIV</p>
-<p>Răpirea</p>
+<head>CAPITOLUL XIV. Răpirea</head>
 <p>„Acum poate să vină iubitul tău să te ia, dar va găsi camera goală, tu vei fi departe, departe de aici!“</p>
 <p>Familiarul</p>
 <p>Pe șoseaua ce duce de la orașul Turnul-Severin la Câmpulung mergea o căruță țărănească închisă, trasă de doi cai.</p>
@@ -1085,16 +1070,15 @@
 <p>Cei cinci familiari și călugărul săriră în barcă.</p>
 <p>Luntrașul vâslă cu putere.</p>
 <p>Ei ajunseră după câteva minute înaintea colibei.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
     </div>
     </div>
     <div type="part" n="22">
-<p>FOITA ZIARULUI „ROMANUL"</p>
-<p>22</p>
-<p>ILEANA</p>
-<p>ROMAN DE MARE SENZAȚIE</p>
-<p>de</p>
-<p>D. CASELLI</p>
+<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
+<head>ILEANA</head>
+<head>ROMAN DE MARE SENZAȚIE</head>
+<head>de</head>
+<head>D. CASELLI</head>
         <div type="section">
 <p>Căruța cu vizitiul și celălalt familiar rămaseră pe malul de vis-a-vis; pe urmă se înfundă într-o pădure.</p>
 <p>Familiarii săriră din barcă, plătiră luntrașului și luară calea ce ducea la Câmpulung.</p>
@@ -1124,7 +1108,9 @@
 <p>În momentul următor un nor de aburi amețitori înconjură pe tânăra fată.</p>
 <p>Un miros neplăcut și îmbătător îi îngreuna simțurile.</p>
 <p>Cu un geamăt ușor, fata căzu răsturnată pe patul ei.</p>
-<p>*</p>
+
+		<milestone unit="*"/>
+		
 <p>Pe una dintre străzile ce ducea în mahalaua în care locuia fata, se mișcau câteva persoane.</p>
 <p>Erau șase bărbați înveliți în mantale lungi.</p>
 <p>Când ajunseră lângă casa tinerei fete, acești oameni se opriră.</p>
@@ -1137,16 +1123,15 @@
 <p>—Iată-ne la fața locului — șopti unul dintre ei, care spionase în ziua precedentă cu atenție toate unghiurile casei.— Acum la lucru, băieți. Faceți lumină aici, ca să putem vedea de ne amenință vreun pericol sau dacă ne observă cineva.</p>
 <p>La această poruncă unul dintre familiari scoase un felinar și-l aprinse.</p>
 <p>Ridică felinarul în sus și observă cu atenție coridorul.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
             </div>
     </div>
     <div type="part" n="23">
-<p>FOITA ZIARULUI „ROMANUL"</p>
-<p>23</p>
-<p>ILEANA</p>
-<p>ROMAN DE MARE SENZAȚIE</p>
-<p>de</p>
-<p>D. CASELLI</p>
+<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
+<head>ILEANA</head>
+<head>ROMAN DE MARE SENZAȚIE</head>
+<head>de</head>
+<head>D. CASELLI</head>
         <div type="section">
 <p>Nimeni nu se zărea, niciun servitor nu era pe aici.</p>
 <p>— Așteptați-mă aici, eu voi merge înăuntru — zise familiarul.</p>
@@ -1177,7 +1162,9 @@
 <p>Pater Mateus, familiarul și alți doi luară loc în fața ei.</p>
 <p>Doi familiari se urcară pe capră și unul dintre ei luă hățurile în mână.</p>
 <p>Trăsura se puse în mișcare.</p>
-<p>*</p>
+		
+<milestone unit="*"/>
+		
 <p>Casa fetei rămase într-o tăcere profundă.</p>
 <p>Dar această tăcere nu dură mult.</p>
 <p>O figură omenească se strecură cu o lumânare în mână de-a lungul zidului coridorului.</p>
@@ -1199,16 +1186,16 @@
 <p>— Mămucă! exclamă el - unde e Ana?</p>
 <p>— Maica Domnului s-o aibă în sfânta ei pază! răspunse bătrâna plângând.</p>
 <p>— Pentru numele Lui Dumnezeu, vorbește, ce s-a întâmplat? Ce s-a făcut Ana, vorbește, întrebă el cu un ton imperic.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
             </div>
     </div>
     <div type="part" n="24">
-<p>FOITA ZIARULUI „ROMANUL"</p>
-<p>24</p>
-<p>ILEANA</p>
-<p>ROMAN DE MARE SENZAȚIE</p>
-<p>de</p>
-<p>D. CASELLI</p>
+<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
+<head>ILEANA</head>
+<head>ROMAN DE MARE SENZAȚIE</head>
+<head>de</head>
+<head>D. CASELLI</head>
+	    
         <div type="section">
 <p>Bătrâna se liniști puțin, pe urmă zise că, auzind niște voci omenești în coridor, veni să vadă ce este, dar sosi prea târziu, stăpâna ei probabil fusese răpită.</p>
 <p>Prințul ascultase cu o spaimă nespusă aceste comunicări și nu putu scoate un singur cuvânt.</p>
@@ -1218,8 +1205,7 @@
 <p>Intră în grădină și de acolo în camera sa.</p>
 </div>
 <div type="section">
-<p>CAPITOLUL XV</p>
-<p>În palatul regal</p>
+<head>CAPITOLUL XV. În palatul regal</head>
 <p>„Condițiile Excelenței Sale Marelui Inchizitor sunt înțelepte, dar mă îndoiesc eu că le va primi Voievodul"</p>
 <p>Dionisie</p>
 <p>Pe fluviul Dunărea, lângă marginea Ungarică, este situat orașul Turnul-Severin.</p>
@@ -1244,17 +1230,16 @@
 <p>„Excelență — zise regele întorcându-se către Marele inchizitor - comunicați ceea ce au aflat spionii pe care i-ați trimis prin orașele muntene.</p>
 <p>Marele Inchizitor Pietro se ridică și raportă cele aflate. </p>
 <p>— Majestate — zise dânsul, spionii mei au aflat că Voievodul Alexandru a trimis din ambasadori la Banul Vladislav Mărăcine, ca să-i ceară ajutorul pentru a ne bate și a ne goni din Turnul-Severin.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
     </div>
     <div type="part" n="25">
-<p>FOITA ZIARULUI „ROMANUL"</p>
-<p>25</p>
-<p>ILEANA</p>
-<p>ROMAN DE MARE SENZAȚIE</p>
-<p>de</p>
-<p>D. CASELL1</p>
-        <div type="section">
+<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
+<head>ILEANA</head>
+<head>ROMAN DE MARE SENZAȚIE</head>
+<head>de</head>
+<head>D. CASELLI</head>
+	    <div type="section">
 <p>— Și ce a răspuns Banul Vladislav—zise regele.</p>
 <p>— Banul a zis că dacă dânsul nu va fi ales din nou Ban al Olteniei nu dă niciun ajutor măcar cât de mic.Voievodul se află într-o astfel de stare încât putem să îi punem toate condițiile pe care le voiți și sunt sigur că le va primi. În această privință am vorbit și cu soția Voievodulul, Doamna Clara, care este, ca și noi, credincioasă religiei catolice, și mi-a zis să nu întârziem cu condițiile.</p>
 <p>— Care sunt aceste condiții?</p>
@@ -1281,8 +1266,7 @@
 <p>Regele se retrase în odăile rezervate lui, pe când Deciu plecă la fortăreață, cei patru inchizitori luară calea către palatul lor.</p>
 </div>
 <div type="section">
-<p>CAPITOLUL XVI</p>
-<p>O noapte îngrozitoare</p>
+<head>CAPITOLUL XVI. O noapte îngrozitoare</head>
 <p>E noapte.</p>
 <p>O noapte furtunoasă pe Olt.</p>
 <p>Potopul se ridică și spumegă turbat, fulgere despică văzduhul, tunetul bubuie, furtuna urlă peste suprafața apei.</p>
@@ -1298,16 +1282,15 @@
 <p>Valurile întăritate se înalță sus de tot și vor să înghită barca care este azvârlită încoace și încolo ca o coajă de nucă.</p>
 <p>Cu o furie mereu reînnoită se năpustește torentul asupra nenorocitei bărci, parcă ar vrea să o strivescă sub imensă putere.</p>
 <p>Un uragan teribil transformă Oltul în câteva minute într-o mare turbată, revoltată.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
     </div>
     <div type="part" n="25">
-<p>FOITA ZIARULUI „ROMANUL"</p>
-<p>25</p>
-<p>ILEANA</p>
-<p>ROMAN DE MARE SENZAȚIE</p>
-<p>de</p>
-<p>D. CASELLI</p>
+<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
+<head>ILEANA</head>
+<head>ROMAN DE MARE SENZAȚIE</head>
+<head>de</head>
+<head>D. CASELLI</head>
         <div type="section">
 <p>Trăsnetele cădeau în apă ca niște săbii de foc ce taie în drepta și în stânga.</p>
 <p>In curând văzură că totul era în zadar și că barca era pierdută cu oameni cu tot.</p>
@@ -1327,7 +1310,9 @@
 <p>Ea văzu plutind pe dinaintea ei cadavre de înecați și recunoscu că erau călugări.</p>
 <p>Nici dânsa nu mai putea să reziste mai mult timp; o nemărginită oboseală o cuprinse; mâinile îi dădură drumul lopeții salvatoare.</p>
 <p>Corpul ei alunecă fără zgomot în torentul spumegând.</p>
-<p>*</p>
+		
+<milestone unit="*"/>
+		
 <p>Valurile încetară, furtuna trecuse, tunetele nu mai bubuiau, trăsnetele nu mai cădeau!</p>
 <p>O barcă străbatea râul cu iuțeala săgeții.</p>
 <p>Un om vâslea cu putere.</p>
@@ -1338,8 +1323,7 @@
 <p>Și când pieptul fetei dădu primul semn de viață, luntrașul luă lopețile și, vâslind, întoarse barca spre coliba sa.</p>
 </div>
 <div type="section">
-<p>CAPITOLUL XVIII</p>
-<p>Tribunalul secret</p>
+<head>CAPITOLUL XVIII. Tribunalul secret</head>
 <p>„Puterea și domnia ce ne promit acei capi în acest moment de nevoie le avem și fără ei, și... știți, fraților, că asemenea promisiuni se evaporă îndată ce am dat ajutorul cerut, dacă nu putem să ne ținem de un singur om!“</p>
 <p>Marele Inchizitor Andrei</p>
 <p>Pe strada cea mare a Turnuului Severin între palatul Banul și citadelă se află palatul Inchiziției.</p>
@@ -1352,16 +1336,15 @@
 <p>În total erau șase, trei în partea dreapă și trei în partea stângă.</p>
 <p>Fiecare ușă avea câte o inscripție.</p>
 <p>Trecem ușa întâi din partea dreaptă și ne oprim la a doua.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
     </div>
     <div type="part" n="26">
-<p>FOIȚA ZIARULUI „ROMANUL"</p>
-<p>26</p>
-<p>ILEANA</p>
-<p>ROMAN DE MARE SENZAȚIE</p>
-<p>de</p>
-<p>D. CASELLI</p>
+<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
+<head>ILEANA</head>
+<head>ROMAN DE MARE SENZAȚIE</head>
+<head>de</head>
+<head>D. CASELLI</head>
         <div type="section">
 <p>Ridicăm puțin capul și vedem inscripția aceasta:</p>
 <p>„Tribunalul secret"</p>
@@ -1390,21 +1373,19 @@
 <p>Trei bile se rostogoliră pe masă; două din ele erau roșii, numai una era albă.</p>
 <p>— Încă astă seară voi trimite fratelui Sebastian, răspunsul prin care se respinge propunerea lui — zise Marele Inchizitor.</p>
 <p>După aceea părăsiră sala tribunalului secret, mergând fiecare în camera de culcare.</p>
-<p>CAPITOLUL XVIII</p>
-<p>Seducerea</p>
+<head>CAPITOLUL XVIII. Seducerea</head>
 <p>„Inima mea bate pe inima d-tale și buzele noastre se unesc: oare nu e asta tot ce există în amor?</p>
 <p>Roxandra</p>
 <p>Pe când cei doi Inchizitori mergeau fiecare în camera Marelui Inchizitor, părăsi și el tribunalul secret îndepărtându-se către grădina palatului.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
         </div>
     </div>
     <div type="part" n="27">
-<p>FOITA ZIARULUI „ROMANUL"</p>
-<p>27</p>
-<p>ILEANA</p>
-<p>ROMAN DE MARE SENZAȚIE</p>
-<p>de</p>
-<p>D. CASELLI</p>
+<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
+<head>ILEANA</head>
+<head>ROMAN DE MARE SENZAȚIE</head>
+<head>de</head>
+<head>D. CASELLI</head>
         <div n="section">
 <p>Umblând înainte, coti la stânga într-o stradă a grădinii care avea de amândouă părți arbori uriași, așezați unul lângă altul.</p>
 <p>În fundul străzii se află un mare tufiș.</p>
@@ -1454,21 +1435,19 @@
 <p> În templul acesta al plăcerilor sucombă în noaptea asta fermecătoarea Roxandra... sub atacurile cele mai înfocate ale Marelui Inchizitor Pietro.</p>
 </div>
 <div type="section">
-<p>CAPITOLUL XIX</p>
-<p>Revederea neașteptată</p>
+<head>CAPITOLUL XIX. Revederea neașteptată</head>
 <p>„Jură-mi că vei fi numai a mea."</p>
 <p>Prințul Vladislav,</p>
 <p>Fiul lui Alexandru străbatea camera cu pași mari; lacrimile fierbinți îi curgeau din ochi, durerea pentru pierderea iubitei îi sfâșia inima.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
     </div>
     <div type="part" n="27">
-<p>FOITA ZIARULUI „ROMANUL"</p>
-<p>27</p>
-<p>ILEANA</p>
-<p>ROMAN DE MARE SENZAȚIE</p>
-<p>de</p>
-<p>D. CASELLI</p>
+<head>FOIȚA ZIARULUI „ROMÂNUL"</head>
+<head>ILEANA</head>
+<head>ROMAN DE MARE SENZAȚIE</head>
+<head>de</head>
+<head>D. CASELLI</head>
     <div type="section">
 <p>Mii de planuri îi frământau creierii săi surexcitați, pentru a găsi un mijloc cum să o regăsească pe Ana; dar pe cât de iute le concepea, tot atât de repede le abandona iar; — căci vai! Nu știa nici unde se afla iubita lui.</p>
 <p>Fusese la babă, dar în zadar; ea nu știa mai mult decât ceea ce îi spusese seara precedentă.</p>
@@ -1519,10 +1498,11 @@
     </div>
     <div type="part" n="29">
         <p>29</p>
-        <p>FOITA ZIARULUI „ROMANUL"</p>
-        <p>ROMAN DE MARE SENZAȚIE</p>
-        <p>de</p>
-        <p>D. CASELLI</p>
+        <head>FOIȚA ZIARULUI „ROMÂNUL"</head>
+<head>ILEANA</head>
+<head>ROMAN DE MARE SENZAȚIE</head>
+<head>de</head>
+<head>D. CASELLI</head>
         <div type="section">
             <p>Ea repeta cu buzele tremurătoare și în mod distinct:</p>
             <p>— Jur!</p>
@@ -1531,8 +1511,7 @@
             <p>Vladislav arzând de amor, strânse în brațe pe Ana, care se prelingea sub povara voluptății și buzele lor se atinseră într-o sărutare înfocată.</p>
         </div>
         <div type="section">
-            <p>CAPITOLUL XX</p>
-            <p>Înainte de luptă</p>
+            <head>CAPITOLUL XX. Înainte de luptă</head>
             <p>Întregul Câmpulung era în picioare.</p>
             <p>Tânăr și bătrân, sărac și avut boier, și plebeu alergau către marginea orașului, unde se întindea o mare câmpie, ca să asiste la defilarea trupelor înaintea Voievodului.</p>
             <p>Din revărsatul zorilor, șiruri lungi de trupe străbateau orașul și înaintau către câmpia spre a ocupa pozițiile ce li se indicau.</p>
@@ -1562,7 +1541,7 @@
             <p>Și acum apărea deodată o întreagă trupă de călăreți fără cămăși de zale, tot oameni voinici, adevărați olteni, înarmați cu o sabie și călăre pe cai.</p>
             <p>Ei erau îmbrăcați tot în alb cu cămăși și pantaloni numai, având la piept un fel de „ecu" reprezentând un leu roșu.</p>
             <p>Sosirea lor produse mare uimire și printre rândurile celorlalte trupe, uimire care se mări încă când se văzu că călăreții albi înaintau direct către locul rezervat voievodului unde luară loc în partea stângă care mai rămăsese liberă.</p>
-            <p>(Va urma)</p>
+            <trailer>(Va urma)</trailer>
         </div>
     </div>
 </body> 
