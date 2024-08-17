@@ -35,12 +35,12 @@
                     <pubPlace>București</pubPlace>
                     <publisher>FOILETONUL ZIARULUI „OPINIA NAȚIONALĂ”</publisher>
                     <date>1865</date>
-                    <decoNote type="ilustratii" subtype="no"/>
+                    <decoNote type="illustration" subtype="no"/>
                     <dim unit="char" type="mic"/>
                     <extent>
                         <measure unit="word">14729</measure>
                         <measure unit="page" type="under_250"/>
-                        <measure unit="foileton" type="under_65"/>
+                        <measure unit="feuilleton" type="under_65"/>
                         <measure type="incomplete"></measure>
                     </extent>
                 </bibl>
@@ -60,16 +60,16 @@
                     <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
                 </keywords>
                 <keywords>
-                    <term type="receptare" n="under 5"/>
-                    <term type="republicare" n="under 10"/>
+                    <term type="reception" n="under 5"/>
+                    <term type="print_count" n="under 10"/>
                     <term type="finished"></term>                
                 </keywords>
             </textClass>
         </profileDesc>
         <encodingDesc>
             <projectDesc>
-                <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-                <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+                <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+                <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
                 <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
                 <p>Masura de tip "incomplete" indica faptul ca am gasit romanul in forma incompleta.</p>
             </projectDesc>
@@ -78,11 +78,10 @@
     <text>
 <body>
     <div type="part">
-<p>FOILETONUL OPINIUNI NAȚIONALE</p>
-<p>O RĂZBUNARE NOUĂ.</p>
+<head>FOILETONUL OPINIUNI NAȚIONALE</head>
+<head>O RĂZBUNARE NOUĂ.</head>
 <div type="section"  n="1">
-<p>I.</p>
-<p>Cafeneaua franceză.</p>
+<head>I.Cafeneaua franceză.</head>
 <p>Câți ați călătorit în Moldova, sau mai bine în Iași, știți că în acest oraș, cu toate împrejmuirile sale cele frumoase, cu toate grădinile sale interiore, cu tot caracterul cel vesel și bine-voitor al Iașiului, viața publică nu este nicidecum dezvoltată. Un singur stabiliment public este Cafeneua franceză și acela numai pentru străini și pentru câțiva din locuitorii care au mai voiajat, cel puțin până la București. Toate petrecerile acestor locuitori al fostei capitale a Moldovei se mărginesc în adunări de familie, la teatrul român și, din când în când, la opera italiană care este adusă Dumnezeu știe cum, și susținută Dumnezeu știe prin ce mijloace, căci ambele teatre sunt foarte puțin vizitate.</p>
 <p>Abia sosisem în Iași, și un amic văzându-mă trecând cu diligența pe dinaintea casei sale, veni la Otel să mă vadă.</p>
 <p>— Unde vă adunați voi seara? îl întrebai eu. Unde putem să întîlnim pe ceilalți amici?</p>
@@ -114,8 +113,7 @@
 <p>- Voi fi, răspunsei eu... și ne despărțirăm.</p>
 </div>
 <div type="section"  n="2">
-<p>II.</p>
-<p>DUELUL</p>
+<head>II. DUELUL</head>
 <p>La șase ore fără un cart eram la Copou.</p>
 <p>Nu era nimeni. Mă plimbai prin grădină pînă să vie ceilalți. Era luna lui Octombrie. Căldura se lupta cu frigul; soarele încă nu începuse să apară de cât pe vîrfu1 unor dealuri depărtate. Călcam pe un tapet galben de frunze care începuseră a se desface din arbori și a urma destinația lor. Nici o pasăre nu cânta. Domnea liniștea cea mai mare. Când am intrat în grădină am apucat la dreapta. Am ocolit toată acea parte și m-am oprit înaintea unui pedestal. sau obelisc, ce este situat în mijlocul acestei grădini. Să nu vă așteptați să vă descriu un monument ca cele europene. Nu. Este un mic piedestal pe care sunt puși patru lei într-o formă colosală Peste lei este un obelisc aproape de doi stînjeni. Un poet a făcut o dată patru versuri pe acest monument, dar poliția guvernelor trecute le-a șters și nu se ținu minte decât ideea lor. „Dacă leii, ziceau acele versuri, duc atâta povară, ce să ne mai mirăm noi de sărmana țară."</p>
 <p>V-am spus că este mic monumentul, dar e făcut pentru o cauză mare. Credeți poate că pentru cele patruzeci de bătălii ale lui Ștefan cel mare? Pentru mântuirea patriei? Pentru vreun bărbat literat? Pentru vreo zi memorabilă în care țara a câștigat vreo libertate, vreo fericire? Ași, fugiți d-acolo! Pentru asemenea fapte se ridică monumente? Să-l lăsăm pe el singur se ne spuie pentru ce este ridicat, căci se află scris pe el în latinește și românește:</p>
@@ -133,16 +131,15 @@
 <p>— Prea frumos! Dar dacă s-a trecut cu acești nătărăi, nu poate să trecă cu toți.</p>
 <p>— Știu eu cu cine am a face. Diseară la Stejerescu îmi zise el. La revedere.</p>
 <p>— Diseră la Stejerescu. La revedere. (?.)</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
     </div>
     
     <div type="part">
-<p>FOILETONUL OPINIUNI NAȚIONALE</p>
-<p>O RĂZBUNARE NOUĂ.</p>
+<head>FOILETONUL OPINIUNI NAȚIONALE</head>
+<head>O RĂZBUNARE NOUĂ.</head>
 <div type="section"  n="3">
-<p>III.</p>
-<p>Stejerescu.</p>
+<head>III. Stejerescu.</head>
 <p>La 7 ore seara, eu și cu vechiul meu amic eram la Stejerescu Urcarăm scara, străbâturămu o întinsă intrare și ne oprirăm la ușa din fund. Aici era ciucurul unui clopoțel. Sunai și un fecior apăru. Ne anunțarăm și el ne conduse în camera stâpînului său.</p>
 <p>Stejerescu ședea resturnat pe unu fotoliu, înaintea unei mese pe care erau răspîndite mai multe cărți. Citea. La deschiderea ușii și la sunetul pașilor noștri lăsă cartea din mână și înaintă către noi cu un zîmbet care arăta cea mai mare bună voință. Ne întinse mâinile; pe urmă ne trase două mari fotolii lîngă fotoliul său și ne invită să ședem.</p>
 <p>Camera în care eram noi primiți era camera sa în care primea numai pe cei mai buni amici. Alături cu salonul, ea era mai luxoasă decât el. Tapițeria albă cu borduri de aur; plafondul asemenea alb ca marmura, la câteși patru colțuri cu patru amori și în mijloc cu o frumoasă floare de care era suspendată o lampă de alabastru ce ardea mai mult înschisă; de ambele părți ale ușii ce da în salon două mari oglinzi subt care erau două mese pline cu necesarele pentru toaleta unui bărbat; împotriva acestei uși biblioteca; la stînga bibliotecii un birou mare deasupra căruia erau două mari tablouri, portretul său și al unei frumoase dame; împotriva biroului ușa prin care intrasem; toate acestea arătau gustul cel mai ales pentru lux și pentru aranjat. Era casa unui bogat.</p>
@@ -168,8 +165,7 @@
 <p>Stejerescu începu să citescă.</p>
 </div>
 <div type="section"  n="4">
-<p>IV.</p>
-<p>Cocoana Zamfira.</p>
+<head>IV.Cocoana Zamfira.</head>
 <p>Eram de douăzeci și doi de ani când am terminat studiile. Aveam destulă stare ca să n-am trebuința de a urca scările miniștrilor să cer vreun post, după care aleargă astăzi toți. Eram prea rezonabil pentru vârsta mea. Educațiunea, averea și numele meu îmi dau dreptul de a merge în toate casele. Oriunde mergeam eram bine primit. Caracterul meu modest, liniștit și tăcut îmi atrase stima tuturor bărbaților și femeilor inteligenți. Numai cochetelor nu prea le plăcem. Ele cereau curte, lingușiri, fraze poetice, și eu nu le aveam în dicționarul meu, atât pentru femei cât și pentru cei mari ai pământului. Curtezanele ziceau că sunt prost și că trebuie să-mi facă femeile curte; miniștrii și camarila ziceau că sunt rău crescut. Nu demințeam nici pe unele nici pe ceilalți.</p>
 <p>Într-o seară, la adunarea D-nei M, făcui cunoștință cu cocoana Zamfira Bahluianca. Ea era o văduvă nici prea tînără, nici prea bătrînă. Lumea îi da treizeci și patru de ani; ea însă susținea cu probe autentice, pe care nu le-a probat niciodata, că are numai douăzeci și șese. Cu toate acestea era încă destul de frumoasă. Avea un corp și o talie bine făcută. Se zicea că este femeia cea mai de modă din Iași. Adoratorii ei mai adăugau încă pe lîgă aceasta că are și destul spirit, dar eu, între noi fie, nu prea l-am întîlnit în conversațiunele noastre. Își da importanța de literată. Vorbea despre tot fără să înțeleagă nimic. Iubea tot fără să iubească nimic.</p>
 <p>În casa sa se adunau mai mulți literați și actori, mai cu seamă actori. Se citeau bucăți de teatru, poezii, române, nuvele și, câteodată, producțiuni științifice, pe care nu le înțelegea nicidecum, dar pe care le admira ca să-și dea mai multă importanță. Era abonată la opera și la teatrul Român, nu ca să învețe ceva, nu ca să încurajeze artele, ci de fanfaronadă.</p>
@@ -192,15 +188,14 @@
 <p>»Sub pasul tău!«</p>
 <p>Decât a plînge, a purta doliul, a ședea trist, singur în casă și a suspina după lucrurile pierdute care nu se mai întorcu.</p>
 <p>Cum sosi seara, mă gătii și, la 10 ore, eram la balul D-nei Bahluianu.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
 </div>
 <div type="part">
-<p>FOILETONU OPINIUNEI NAȚIONALE</p>
-<p>O RĂZBUNARE NOUĂ.</p>
+<head>FOILETONU OPINIUNEI NAȚIONALE</head>
+<head>O RĂZBUNARE NOUĂ.</head>
 <div type="section" n="5">
-<p>V.</p>
-<p>Balul</p>
+<head>V. Balul</head>
 <p>Ajunsei la bal. Sala era magnific iluminată. Două lustre aprinse aruncau o lumină feerică în toată sala, ca soarele ce aruncă lumina sa peste câmpiele înflorite după ce iese dintr-un nor negru în care fusese ascuns. De jur împrejurul sălii erau suspendate pe tapet mai multe candelabre. Decorurile cele mai elegante, oglinzile cele mai mari, florile cele mai alese, mobilele cele mai moderne străluceau într-acest salon. Toate damele erau îmbrăcate cu gustul cel mai bun și cu eleganța cea mai mare.</p>
 <p>Două uși ale salonului deschise arătau două camere care dau în salon și care și ele nu rămâneau mai pe jos în lux și în strălucire decât el. În a treia cameră era orchestra ce se compunea de muzica militară.</p>
 <p>Cea dintâi persoană ce văzui la intrarea mea în sală fu D-na Bahluianu. Ea era împrejurată de mai mulți curtezani. I se făceau prevenințele cele mai respectuase, de cele mai galante, omagiele cele mal alese și ea le primea pe toate cu un aer foarte mare și c-o amabilitate și grație deosebită. Purta o rochie de tul angle alb, mai mult decoltată de cât închisă și garnită cu buchete de flori. Botinele de satin alb ascundeau niște piciorușe mici. La talie și la piept avea prinse două frumoase buchete de flori naturale. Mănușițele strînse în niște mănuși albe de Paris, purta una un evantai și alta un port buchet plin cu flori. Pe cap, între beliele, era prinsă o mare rosă albă. În dreapta un buchet de viorele artificiale și la stînga un altul de lăcrămioare. Acestea erau florile sale favorite, zicea D-na Bahluianu. Pe sînul său de alabastru, jumătate gol, cădea cu grație de amândouă părțile niște zulufi foarte unduloși. Înconjurată cum era, semăna ca o regină în mijlocul curții sale.</p>
@@ -254,16 +249,15 @@
 <p>— Pentru bărbați, așa este; dar pentru fete este cu totul altfel. Bărbatul prin muncă poate să facă stare și să ia pe aceea care-i place; fată săracă însă n-are niciun mijloc de existență aici la noi. De aceea am văzut multe fete bine crescute și din cauză că n-au zestre s-au pierdut.</p>
 <p>— Eu voi studia pe Margareta și, după ce voi fi convins că mă iubește, voi cere-o de soție. Nu trebuie să stea niciodată o stare între doi inși care se iubesc.</p>
 <p> Trăsură sosi și, luându-mi adio de la D-na Bahluianu plecai acasă cu inima plină de o mulțumire ce nu încercasem niciodată.</p>
-<p>(va urma) (?.)</p>
+<trailer>(va urma) (?.)</trailer>
 </div>
 </div>
     
     <div type="part">
-<p>FOILETONU OPINIUNI NAȚIONALE</p>
-<p>O RĂZBUNARE NOUĂ.</p>
+<head>FOILETONU OPINIUNI NAȚIONALE</head>
+<head>O RĂZBUNARE NOUĂ.</head>
 <div type="section" n="6">
-<p>VI.</p>
-<p>Impresiunea.</p>
+<head>VI.Impresiunea.</head>
 <p>Se-tâmplă cu unele impresiuni ca și cu unele tablouri: cu cât le vezi mai de departe, cu atât ți se par mai frumoase, mai vii și mai colorate. A doua zi după bal, adunându-mi suvenirile nopții trecute, rechemându-mi cele mai mici amănunte ale acestei serate din care ieșisem cu inima plină de speranță și de amor, resimții, că se zic așa, mai mult resfrîngerea lor. Luxul, eleganța, splendoarea, muzica, acel vals feeric, Doamna Bahluianu, Domnișoara Ghindeanu, toate treceau pe dinaintea mea, mai frumoase, mai încântătoare; însă deasupra tuturor domnea Margareta! Pe ea o vedeam trecând cu fiecare obiect, mai frumoasă, mai grațiosă, mai seducătoare.</p>
 <p>în tinerețea noastră cână totul e amor, când toate visurile sunt realități, când florile, păsările și frumusețile sunt viața nostră, vedem trecând pe lîngă noi o mulțime de femei frumoase, ne ațintim ochii asupra lor, ni se pare că le iubim pe toate, dar toate trec, toate dispar, numai una rămîne; pe una singură o iubim, o idolatrizăm. Nu poate să fie un singur om care să fi iubit, — nu să fi dorit, căci a dori e altceva, — mai mult decât o singură femeie.</p>
 <p>Și eu, până în momentul când am văzut pe Margareta, văzusem trecând pe dinaintea mea acele frumuseți și dispărînd, niciuna însă nu fusese ca ea. Grație, frăgezime, farmec, toate dansau în jurul său. Niciuna la prima vedere nu avusese atâta influență asupra sufletului meu. Ea era aceea care trebuia se rămînă, aceea care trebuia să iubesc.</p>
@@ -309,15 +303,14 @@
 <p>— Îndată ce se va face bine. Cred că peste zece zile. Acum mă duc la un bolnav. Adio!</p>
 <p>— Adio! Peste zece zile.</p>
 <p>Doctorul plecă, iar eu rămăsei tot singur.</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
 </div>
     </div>
     <div type="part">
-<p>FOILETONU OPINIUNII NAȚIONALE</p>
-<p>O RĂZBUNARE NOUĂ</p>
+<head>FOILETONU OPINIUNII NAȚIONALE</head>
+<head>O RĂZBUNARE NOUĂ</head>
 <div type="section" n="7">
-<p>VIII</p>
-<p>Doamna Corbeanu.</p>
+<head>VIII.Doamna Corbeanu.</head>
 <p>Când eram copil așteptam să vină ziua Paștelor ca sa îmbrac straie noi. Aceasta era dorința mea cea mai principală. A doua zi după operă, dorința mea cea mai mare era să treacă mai curând cele trei zile ca să mă duc să văd pe Margareta. Nu că doar nu m-aș fi putut duce chiar a doua zi, dar hotărîsem ziua și nu voiam să mă duc când nu eram așteptat. Fiecare zi până să treacă mi se părea un secol, fiecare oră un an. Așteptai. O! nimic nu este mai urât decât așteptarea. În fine, sosi și ziua mult dorită. Mă gătii ca să plec......și, ca un om care, voind să meargă să viziteze pe un om mare sau pe un învățat vestit, își prepară cuvintele, poza și gesturile, asemenea și eu mă pusei înaintea oglinzii, îmi luai felurite poze, schimbai felurite expresiuni de figură, ca să văd care-mi stă mai bine, și îmi preparăi cuvintele și frazele cu care trebuia să încep și cu care să sfîrșesc. Aveam douăzeci și trei de ani. În această vîrstă un june de caracterul meu este încă copil. Făceam prin urmare fapte de copil. Astăzi mă văd ridicol chiar în ochii mei când îmi aduc aminte de acele copilării.</p>
 <p>Vezi No. 18.</p>
 <p>Mă dusei la d-na Corbeanu. Ea ședea în ulița R... Casele sale p-afară sunt foarte vechi și mici; înăuntru însă sunt cu totul altfelu. Fusei introdus în salon. El era mobilat foarte simplu, dar cu gust. Toate mobilele de damasc de mătase verde. O masă rotundă, pe care era o lampă și două albume; un pian, pe care erau aruncate cu neîngrijire o mulțime de caiete cu note; șese fotolii, șese scaune, o canapea, două etajere la două colțuri pe care erau mai multe lucruri de lux; câteva oglinzi nu prea mari și câteva tablouri de familie, acestea toate formau mobila salonului.</p>
@@ -369,15 +362,14 @@
 <p>Se mai schimbă încă câte-va cuvinte de felulu a-cesta.</p>
 <p>Margareta, de și ascultase la comvorbirile ndstre nu luase însă parte la ele. Ea sta, mă privea și asculta cu atențiune tote cuvintele mele.</p>
 <p>Îmi luaiu adio de la Domna Bahluianu, de la Domna Corbeanu, repetendui promisiunea că voiu veni mai desîî se o ve^u, și de la Margareta, mulțnmindu-I pentru buna voință ce a avută să cânte. îi făcuiu încă câte-va complimente asupra talentului său musicalu și asupra simplității gătelii sele, și plecaiu.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
     </div>
     </div>
     <div type="part">
-<p>FOiLETONUL OPINIUNII NAȚIONALE</p>
-<p>O RESBUNARE NOUĂ</p>
+<head>FOiLETONUL OPINIUNII NAȚIONALE</head>
+<head>O RESBUNARE NOUĂ</head>
 <div type="section" n="8">
-<p>X.</p>
-<p>O Istorie Adevărată.</p>
+<head>X.O Istorie Adevărată.</head>
 <p>Metu fata Banului Alecu Ghindeanu. Tatăl meu eăe fală unui grecii din Constandinopole. Dupe cum a spusă mumă-mea, părintele său se numea Gheor-țse Paschilopulu. Dar elu, fiindă născută în lassi, a gă-ste de cuviință a și schimba numele grecescu și a a-dcpta altulu moldovenescă, pe acela de Ghindeanu. Mu-era curată moldovanca, dintr’o familie deboeru districtulă Botoșiani. Cu câtă mumă-meaera debu-onestă, cu atetu tatălu meă era urîciosu. Și a-ca și acumu. se bucura de o reputațiune de omu Oh! Eartă-mi acestă cuvântă, ^isă de o fii-*in contra părintelui seăl Dar ce se facă? Totă lu-știe purtarea sa cea scandalosă; și a o tăcea, este 6 tăcea ade^erulă. Sciă că-mi vei țhce ca Dumas, în *Uia lra Mușchetari, cându Mor don vorbesce de mu-cea raai coruptă femeiă, voind s’o apere: — matna-mea! Este mama-rnea! Ai totă dreptatea! '1 copilă, od câtă de scandaldse și imorale ară fi fap-</p>
 <p>Ihuțiioră, trebue nu numai se nu vorbească de e aPere. Dar faptele tatălui meu mi a a:ia de mare rea, încâtă, de câte ori mi aducă Vru'nu pta a nu ie critica- că tata și, condusă de indignarea mea, daă dru-1 mele se spună.</p>
 <p>Cu câtu mumă-mea mă iubea de multii, cu atetil tatâ-meu me ura. De la aparițiunea mea in lume, eld a ve^utii în mine o pedeca la cheltuirea zestril mumei mele. Totă din acea ^li datezi și încetarea iubirii și ce-loru mal tandre îngrijiri ce el o făcea mumă-mei dupe în soci rea lord. Caracterulu mumă-mel era blîndd și apa-t:cu: alâ tată-meii aspri și ironicii. De multe ori ne trata cu bru.chețea cea mal mare în câtu ne facea se ne sculămd de la masă ne mâncate, cu lacremile ’n ochi și înecate de suspine. Sermana mea mamă! Par că o vedOi Ea nu ’șl găsea nicăeri consolare de câtă lingă mine și în lacremile sele. Purta ca unu martiră crucea suferin-țilord și cuele sarcasmeloru tatălui med. Aceste sufe-rinți trebuiau se se termine o dată, ca ori ce lucru pe pămentu S'a terminatii, înse prin mortea sermanel mele muml! Tratările cele rele, suferințele de totă țlioa ’i-a a-tacatu peptulu și, cându ed ajunsesemu în verste d6 nouă ani, când amorulu seu pentru mine începuse a cresce cu verstea mea, mortea tâiă tirulu tjileloru sele. Amu plîns’o de atunci necontenita și o voiu plînge până cându me voi duce s’o găsescu colo în ceruri, unde suntu si-cură că se află, sânta femeiă!</p>
@@ -399,7 +391,7 @@
 <p>Dar este o fatalitate care persecut </p>
 <p>Toate dorințele nostre și le nimicesce. Aceia ce doreamu nu mi să împlinită și nu ini se va împlini nici odată.</p>
 <p>Era intr o Joui, ții tare frumoșii. Mătușă-mea me întreba dacă vocscd se mergU la o amică a sa și de a-kolo st ne plimbămfi puținii la grădină. Retușai, subtil cuvântă câ surită indispusă, și rămasei acasă. Citeamu, Icândă Domnii Pungeanu intră tristă și galbenii ca m6r-pc Se petrecea ce va in elu Nici o dată nu fusese jyirgaru cu nune în casa Cu tute acestea nu me temui Ide iocu. îlu invitai se șe$ă Elfi șe^u fără a țlice o | Wura vorbă. Dupe câte-va momente de tăcere, strân-|?^ndu-i tote puterile, se sculă, se muncă la piciorcle I Bele.</p>
-<p>— Eleonoro, îmi (lise elfi, dacă tu nu me vel iubi, te iubi ca eu, suntu perdutu.</p>
+<p>— Eleonoro, îmi zise elfi, dacă tu nu me vei iubi, te iubi ca eu, sunt perdut.</p>
 <p>Dumedrele! Strigai l-O uimită. Ce ai? Ce s’a plata?</p>
 <p> D tu mi mc vei iubi până la sacrificiâ, de u vm , perde și atunci mal bine mdrtca!</p>
 <p>Manoilt Te iubescttl Dar spu-o dată €c este? ( facă?</p>
@@ -427,15 +419,15 @@
 <p>Disera, «lise elu, voiu fi aci l.i capul u nbțil cu trăsura, Iii) gata. Semnaluîu va fi o batista Hui,urata In fur^tră.</p>
 <p>Etă fatala ferăstră, ZISE Domnișoara Ghimicnu. ,are-tendu-mf terestra la caro se uitare mu nainte când l-a ve-nitd reU.</p>
 <p>— Disdră, repetată ei! muchii^</p>
-<p>Și cin plecă. (Va urma.)</p>
+<p>Și cin plecă. </p>
+	<trailer>(Va urma.)</trailer>
 </div>
     </div>
     <div type="part">
-<p>FOILETONUL OPINIUNII NAȚIONALE</p>
-<p>O RESBUNARE NOUĂ.</p>
+<head>FOILETONUL OPINIUNII NAȚIONALE</head>
+<head>O RESBUNARE NOUĂ.</head>
         <div type="section">
-<p>XI.</p>
-<p>Urmarea aceiiași istorii.</p>
+<head>XI. Urmarea aceiiași istorii.</head>
 <p>Dupe plecarea Iul Manoil, cândă îmi venii în si-ne’ml, începui a cugeta asupra promisiunii ce dedesemă. Mustrarea de cugetîî veni îndată se ocupe sufletulu meu. îmi părea refl că amti pronunicatu acelă fatalii da! Mă sculai hotărîtă arefusa de ală urma cândă va veni; dar mi-a (Jisu că seva omorî, cugetai eu! Ce se făcu? Dum-nețleulu meu! Eramu ca omulă pare se vede în facia a ; doue drumuri și nu sciă pe care se apuce ca se nu rătăcăscă! P’unu drumu era mătușă-mea și datoria; earfl |pe celu l’altu amorulu și speranța de o fericire eternă, f Pe care trebuia se apuefl? Unu omă cu rațiunea sănă-It6dă se’nțelege că arfl fi apucată pe calea datorii; eră unfl copilă, ca mine, hrănită de ilusiuni și fără a sci câ-tu-și de pucină a raționa, de sigură că nu putea se a-Ipuce pe altă cale de câtă pe aceia pe care amu apu-. fată eă. Mă hotărâl dar a’lă urma.</p>
 <p>In timpulu acelei lupte de cugetări veni și mătușă-mea. Eramfl palidă ca luna dimineața cându apare so-g ’cle, și tristă ca statua durerii. Mă ferii ca se nu bage S!a de sămă nimică, dar a fostă peste putință, căci nisce ochi cari pătrundeau în fundulă sufletului, ^servându-mă bine, mătușă-mea me întrebă, cu unu înspăimântată, ce amă și de ce’mi e facia așa de turburată. 11 respunsci că citisemă într’o carte ce-va ca-</p>
 <p>re m’a mișcata tare multa Fa, sărmana, creții; și mal întâia me mustri! pentru că citesca asemenea cărți ca-ri’ml făcu reu și pe urmă me sărută. Tandrețea el îmi crescu și mal multa mustrarea de cugeta. Inse otărî-semă o dată și trebuia se pleca. Asteptamu dar sera cu' nerăbdare și cu ochii necontenita țintiți la ferâstra sa-Inima îmi bătea la fiă care mișcare a vîrfulul pomiloră ce se vedea aprâpe de ferâstra de la care asteptamu semnaluia!</p>
@@ -472,7 +464,7 @@
 <p>Am ascultata cu sânge rece iote cuvintele dela</p>
 <p> început, dar când a ajunsă la aceste din urmă. mâinii. tăm i mai putu tu resista acestor loviri. Unu țipetu au c din peptulă meu, o amețeală m’a apucata am câ itu - leșinată. Nu sciu ce s-a întâmplat în urmă. Sein numai i că dimineța m’am trezită in patulă meu la mă^ușă-mea. Sărmana femeia! veghea încă lai felă de des onor e adusă familii sele. Mai pe urma mi i s’a spusă că la țipetulu meu din acea erâ. Manoil par’ că Far fi cunoscut, de aceia a intrată numai de câtă în casă; eră amiculu șefi a alergată la mine. Inse tocmai atunci trecea unu bătrână, prietenă ai mătușei mele, și, cunoscându-mă, s’a pusă in trăsura cu mine și m'a adusa a casă la ea- Mătușă-mea, când m avântă in acea stare, nu s’a mai gândită la faptulă ce savirșisem, c. a căutată se’mi dea tote îngrijirile. Când mi-am venita bine în sine'mi m’a certată putină, dar ma ertată. buna femeiă, așa de multă me iubesce.</p>
 <p>D’atunci n’am mal ve^ută pe d-nu Pnngeanu nici n’am voită se’lă mal vă^ă. Acesta omă, o mai dicu inc o dată, numi mai pote da nimicu și nici numaipotupriimi nimică dela elă. Fapta sa nu este tapta unui omu. ci a unui tigru. Nulii urască, pentru că in inima care l’a iubită nu pote încăpea ura, dar ilu desprețueșeu.</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
         </div>
 </div>
 </body>
