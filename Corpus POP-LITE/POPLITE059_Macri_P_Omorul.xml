@@ -30,13 +30,13 @@
                     <pubPlace>București</pubPlace>
                     <publisher>EDITURA TIPO-LITOGRAFIEI ASCHER and KLEIN</publisher>
                     <date>1879</date>
-                    <decoNote type="ilustratii" subtype="yes"/>
-                    <dim unit="char" type="mic"/>
+                    <decoNote type="illustration" subtype="yes"/>
+                    <dim unit="char" type="small"/>
                     <extent>
                         <measure unit="word">22223</measure>
                         <measure unit="page" type="under_250"/>
-                        <measure unit="foileton" type="under_65"/>
-                        <measure type="complete"></measure>
+                        <measure unit="feuilleton" type="under_65"/>
+                        <measure type="incomplete"></measure>
                     </extent>
                 </bibl>
             </sourceDesc>
@@ -55,26 +55,25 @@
                     <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
                 </keywords>
                 <keywords>
-                    <term type="receptare" n="under 5"/>
-                    <term type="republicare" n="under 10"/>
+                    <term type="reception" n="under 5"/>
+                    <term type="print_count" n="under 10"/>
                     <term type="unfinished"></term>                
                 </keywords>
             </textClass>
         </profileDesc>
         <encodingDesc>
             <projectDesc>
-                <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-                <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+                <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+                <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
                 <p>Cuvantul cheie de tip "unfinished" indica stadiul realizarii operei de catre autor.</p>
-                <p>Masura de tip "incomplete" indica faptul ca am gasit romanul in forma completa.</p>
+                <p>Masura de tip "incomplete" indica faptul ca am gasit romanul in forma incompleta.</p>
             </projectDesc>
         </encodingDesc>
     </teiHeader>
  <text>
 <body>
 <div type="chapter" n="1">
-<p>Cap. I</p>
-<p>În ajunul omorului</p>
+<head>Cap. I. În ajunul omorului</head>
 <p>Din strada Criviței se vede cotind spre drepta, în strada Manea Brutaru, un om în etate ca de 30 până la 35 ani.</p>
 <p>El merge iute, fața îi este sperioasă, din când în când privește în urma sa.</p>
 <p>S-ar părea a fi unul din acele persone, care scapă din Otelul Văcărești sau din spitalul Mărcuța.</p>
@@ -120,7 +119,9 @@
 <p>— Te voi sfâșia cu unghiile, zise ea : Ce înseamnă acesta barbarie.</p>
 <p>El nu răspunse nimic, cu o pasiune dobitocească îi desfăcu rochia și-i sfâșie cămașa.</p>
 <p>In singuratica și tăcuta odaie nu se auzea decât un gemet surd.</p>
-<p>MIULESCU ȘI MARIA</p>
+
+	<p>MIULESCU ȘI MARIA</p>
+	
 <p>Să venim puțin la D-l Miulescu, eroul din romanul nostru și să vedem cum sta el cu D-Sa Maria Popovici și dacă el pote fi acela care o ucise într-un mod atât de barbar.</p>
 <p>Vom vedea cu toții, dacă Niculae Miulescu, azi musafirul din penitenciarul Văcăresti, e crudul omorâtor al Mariei Popovici, dacă el e fiul, care cu câțiva ani mai înainte, își omorise părinții.</p>
 <p>Sunt ceasurile 1 p. m. într-o odaie modest mobilată, cu ferestrele din spre strada Soarelui deschise, stă pe un scaun, lângă o mică masă de nuc, o femeie tânără și frumoasă.</p>
@@ -206,7 +207,9 @@
 <p>D-na Maria ce a zis pentru banii ce ai primit de la Primărie ?</p>
 <p>— Nimic, pronunță Miulescu încruntând sprincenele</p>
 <p>Lăsăm pentru un moment pe Miulescu convorbind cu nevasta sa, pentru a ne întorce într-o cârciumă de la marginea orașului.</p>
-<p>BANDITUL</p>
+
+	<p>BANDITUL</p>
+	
 <p>Sunt nouă ore seara. Cârciuma era plină de mușterii. Din toate părțile se comanda vin și cel doi băieți al prăvăliei se împiedicau alergând când colo, când dincolo.</p>
 <p>De la 10 1/2 insă închinătorii lui Bachus începură să părăsescă infectul local.</p>
 <p>Pe la 12 ore nu se mai vedea în toată toată cârciuma decât trei persoane, o femeie și doi bărbați, dintre care unul înalt și frumos, iar celălalt scurt, cu privirea pătrunzătoare, cu părul scurt, cu fața roșie și cu mustățile tot roșii,</p>
@@ -217,9 +220,12 @@
 <p>— Măi Vasile, îi zise omul cel înalt ; ce părere ai tu despre om ?</p>
 <p>— Ce părere să am măi Nicolae, răspunse Vasile ; Eu cred că omul cel sărac treime să fură de la cel bogat, pentru ca să poată trăi.</p>
 <p>— Foarte bine ! răspunse foamea care era între ei ducând paharul cu vin la gură.</p>
-<p>(Va urma)</p>
-<p>Toate drepturile rezervate autorului</p>
-<p>(urmare)</p>
+
+	<trailer>(Va urma)</trailer>
+	
+<trailer>Toate drepturile rezervate autorului</trailer>
+<trailer>(urmare)</trailer>
+	
 <p>— Tu să nu vorbești, nu ai cuvântul! pronunță cu un ton scurt Vasile.</p>
 <p>Acesta avea un necaz mare asupra Vasilcăi, femeia care se îndeletnicea cam potrivit cu paharele de vin.</p>
 <p>Era gelos sărmanul Vasile, pentru că ea nu iubea decăt pe Niculae.</p>
@@ -389,12 +395,11 @@
 <p>Ar fi dorit să nu mai doarmă un secol pentru a nu mai vedea niciodată visul din astă noapte..................</p>
 <p>Vântul bătea cam rece. Maria se retrase lângă o masă. Lua o carte și începu să citească :</p>
 <p>„Omul e o picătură de rouă care se pierde îndată ce binefăcătoarea rază vine s-o sărute. Ferice de omul care murind, lasă în urma sa copii ce îl reprezintă și în al căror suflet se contractă sufletul acelui ce dispare“.</p>
-<p>Maria închise cartea. Ea rămase gănditoare. Din ochii ei porni un râu de lacrimi.</p>
+<p>Maria închise cartea. Ea rămase gânditoare. Din ochii ei porni un râu de lacrimi.</p>
 </div>
 <div type="chapter" n="2">
-<p>CAPITOLUL II</p>
-<p>ASASINAREA MARIEI POPOVICI </p>
-<p>VIOLAREA</p>
+<head>CAPITOLUL II. ASASINAREA MARIEI POPOVICI </head>
+<head>VIOLAREA</head>
 <p>Cerem scuze lectorilor noștri, dacă din cauza multelor personaje, suntem nevoiți a încuonjura înfiorătorea secuțiune a crimei.</p>
 <p>Trebuie să facem însă acesta, pentru a putea intra dreptat în faptul odios din ziuaa de 12 Mai și pentru a introduce lucrurile astfel, încât să putem fi înțeleși de toți.</p>
 <p>Este anul 18 . . .</p>
@@ -439,9 +444,11 @@
 <p>— Dacă vei voi să mă ajuți, am speranță că voi reuși.</p>
 <p>— Din partea mea al tot concursul, să vedem însă.</p>
 <p>- Tu ai o țiitore, nu știu, mai trăiești cu dânsa ?</p>
-<p>(Va urma)</p>
-<p>Toate drepturile rezervate autorului.</p>
-<p>(urmare)</p>
+	
+<trailer>(Va urma)</trailer>
+<trailer>Toate drepturile rezervate autorului.</trailer>
+<trailer>(urmare)</trailer>
+	
 <p>— Desigur.</p>
 <p>— Si ea te iubește ?</p>
 <p>— Poți să-ți închipui singur dacă o femeie iubește pe un bărbat, când ea este aceea care îl susține.</p>
@@ -588,7 +595,8 @@
 <p>—Piară de acum viața mea! esclamă el.</p>
 <p>Constantin simțea în aceste momente amorul cel mal curat pentru Amelia.</p>
 <p>Copila rămase nemișcată în brațele sale.</p>
-<p>ASASINAREA</p>
+
+	<p>ASASINAREA</p>
 <p>Este anul 1895.</p>
 <p>E Duminică, ziua de 12 Mai.</p>
 <p>In casele din str. Soarelui e tăcere.</p>
@@ -603,9 +611,11 @@
 <p>Plângea . . .</p>
 <p>De odată auzi o lovitură la ușa din afară.</p>
 <p>— Intră, zise femeia cu o voce dulce.</p>
-<p>(Va urma)</p>
-<p>Toate drepturile rezervate autorului</p>
-<p>(urmare)</p>
+
+	<trailer>(Va urma)</trailer>
+<trailer>Toate drepturile rezervate autorului</trailer>
+<trailer>(urmare)</trailer>
+	
 <p>Un personaj apăru.</p>
 <p>—Vă salut, stimabilă doamna, îl zise cu o voce puțin emoționată.</p>
 <p>Maria Popovicî îl salută printr-un gest, în care se cuprindea o mirare vădită.</p>
@@ -699,7 +709,7 @@
 <p>Maria murise.</p>
 <p>Numai acum sceleratul va înceta cu torturile. Numai acum pumnalul va înceta de-a mai străpunge un cadavru rece.</p>
 <p>Dar nu.</p>
-<p>Un gănd îl tortura.</p>
+<p>Un gând îl tortura.</p>
 <p>Îi era frica, credea că Maria nu murise încă și lăsănd-o, fie chiar cu o schânteie de viață, s-ar putea în urmă să vorbeacă, să pronunțe un nume, un singur nume și acesta ar fi fost de ajuns ca fericirea criminalului să se întrerupă și o temniță adăncă să-i adăpostescă infamul său corp.</p>
 <p>Pumnalul se ridică din nou și din nou străpunse cadavrul Măriei Popovici.</p>
 <p>O întoarse apoi cu fața în jos și implanta de mai multe ori pumnalul în spate.</p>
@@ -777,7 +787,9 @@
 <p>Crima se comisese la întunericul singurătății și nimeni! nimeni nu putea să ghicescă pe autorii ei.</p>
 <p>Cadavrul rămase lungit în sânge. .....</p>
 <p>Singur el era indiciul infiorătorei crime.</p>
+	
 <p>PARCHETUL</p>
+	
 <p>Intr-una din străzile Bucureștiului, două persoane se văd plimbăndu-se la braț-</p>
 <p>Pe fața lor se poate citi o liniște destul de mare, nu aceeași liniște însă domnește și în inimile lor.</p>
 <p>Din când în când, ele se uită în urmă, ar voi parcă să se convingă dacă nu sunt urmăriți de cineva.</p>
@@ -799,9 +811,11 @@
 <p>—Fii mut, fii stăpân pe tine, căci altminteri, amândoi vom fi perduți.</p>
 <p>—E.... Criminalul voi să vorbescă, când vocea personei care îl acompania îl opri zicându-i:</p>
 <p>—Taci ! taci!</p>
-<p>(Va urma)</p>
-<p>Toate drepturile rezervate autorului</p>
-<p>(Urmare)</p>
+	
+<trailer>(Va urma)</trailer>
+<trailer>Toate drepturile rezervate autorului</trailer>
+<trailer>(Urmare)</trailer>
+	
 <p>Cadavrul Mariei Popovici stătea lungit într-una din odăile ale caselor din strada Soarelui No. 16.</p>
 <p>Era Duminică, ziua de 12 Mai.</p>
 <p>Aerul era răcoros și un vânt subțire, d-abia clătina vârful arborilor.</p>
@@ -845,7 +859,8 @@
 <p>„Sărmana Maria Popovici!.... a fost omorâtă de tipograful Miulescu!?”</p>
 <p>Astfel vorbeau toți și cine ar fi zis contrariul, nu putea să fie privit decât ca un idiot.</p>
 <p>Un biet bătrân încă, era atât de convins că Miulescu era omorâtorul, încât voia să trimită o scrisore procurorului, prin care să-i spună că Miulescu a omorât pe Maria Popovici și că în zadar s-ar mai osteni parchetul a căuta pe crudul bandit, pe cât timp banditul le stă de față.</p>
-<p>AMELIA</p>
+
+	<p>AMELIA</p>
 <p>Ne aducem aminte că Constantin, trecând din întâmplare prin strada Popa Tatu văzu la ferestra unor căsuțe, o copilă tinerică și de o frumusețe răpitoare.</p>
 <p>Știm că Constantin era sărac, că nu avea deloc bani și că informându-și despre zestrea acelei copile numită Amelia, află că are 2000 de lei.</p>
 <p>Suma nu era tocmai mare, dar pentru un tânăr ca Constantin, care nu dispunea nici de două mii centime, i se păru o avere colosală.</p>
@@ -943,10 +958,12 @@
 <p>El se sculă în picioare; voi să se arunce asupra ei, s-o sărute și să doarmă lângă dânsa o viață întregă.</p>
 <p>In adevăr, un moralist cu fruntea încrețită, un moralist însă din acei incărcați de prejudiciile actualei societăți, va bârfi contra conduitei tânărului Constantin.</p>
 <p>Cum ? Acest tânăr mai poate fi om de onoare, când seduce pe o biată copilă, și când își propune a o lua de soție, fără în a se cununa cu dânsa?</p>
-<p>(Va urma)</p>
-<p>Toate drepturile rezervate autorului</p>
-<p>(urmare)</p>
-<p>Constantin însă nu voia să știe despre asta,</p>
+
+	<trailer>(Va urma)</trailer>
+<trailer>Toate drepturile rezervate autorului</trailer>
+<trailer>(urmare)</trailer>
+
+	<p>Constantin însă nu voia să știe despre asta,</p>
 <p>Pentru el contractul de căsătorie, era lanțul dragostei.</p>
 <p>Putea lumea să bărfescă, el nu ținea cont.</p>
 <p>Și cum sta în față frumosei Amelie, cum mintea lui era rătăcită, cum o privea cu nesațiu; nu aștepta de cât momentul oportun pentru a se arunca în brațele ei.</p>
@@ -1109,7 +1126,8 @@
 <p>Timpul care schimbă toate, au schimbat-o și pe dânsa.</p>
 <p>Noi o vom urmări de aproape, căci istoria ei ne interesează mult.</p>
 <p>Vom descrie viața-i de la plecarea ei din București, și o dată cu lacrimile ce va vărsa dânsa, vom vărsa poate și noi o lacrimă.</p>
-<p>Geniul rău</p>
+
+	<p>GENIUL RĂU</p>
 <p>In Consțantinopol, într-o stradă numită a Fanarului locuia un fanariot numit Costis.</p>
 <p>Era tânăr, bine făcut și de o frumusețe distinsă.</p>
 <p>Se bucura de o mică avere rămasă de la părinții săi.</p>
@@ -1131,11 +1149,13 @@
 <p>Destule lacrimi, crude suspine, Am scos din peptu-mi zdrobit de chin, Vino copilă, vin lângă mine, P-a mele brațe, vino, ah lin.</p>
 <p>Iar dacă vocea-mi până la tine</p>
 <p>Nu va ajunge, îngere lin, Lăsa-voi viața, și cu suspine Tu la mormântu-mi atunci vin!...</p>
-<p>(va urma).</p>
-<p>Anunțăm pe cititorii noștrii că acest roman, va apare de aici înainte exact în fiecare sâmbătă la 12 ore.</p>
-<p>Anunțăm de asemenea că a apărut ediția II din primul număr al acestui roman.</p>
-<p>Toate drepturile rezervate autorului</p>
-<p>(urmare)</p>
+
+	<trailer>(va urma).</trailer>
+<trailer>Anunțăm pe cititorii noștrii că acest roman, va apare de aici înainte exact în fiecare sâmbătă la 12 ore.</trailer>
+<trailer>Anunțăm de asemenea că a apărut ediția II din primul număr al acestui roman.</trailer>
+<trailer>Toate drepturile rezervate autorului</trailer>
+<trailer>(urmare)</trailer>
+	
 <p>Puțin timp trecu și frumoasa turcoaică îl ascultă prefăcută-i durere și consimți la amorul său.</p>
 <p>Și într-un târziu de noapte, sub gingașele raze ale lunii, o barcă se legăna ușor pe valurile suspinătorului Bosfor.</p>
 <p>Era Almelaiur cu tânărul Costis.</p>
@@ -1190,7 +1210,7 @@
 <p>Ea începu să plângă și lacrimi se văzură lucind în ochii lui Constantin.</p>
 <p>Amelia îl conduse pană la barieră. Aici se îmbrățișară încă o dată, fața tânărului fu stropită de lacrimile copilei.</p>
 <p>Și tot cu ochii înmuiați de lacrimi, privi ea pe Constantin, până ce îi pierdu urma, pană ce nu îl mai zări.</p>
-<p>— D-deule, apără-l de orice pericol! exclamă ea ridicând ochii spre cer și se întorse înapoi spre mica-i locuință.</p>
+<p>— D-zeule, apără-l de orice pericol! exclamă ea ridicând ochii spre cer și se întorse înapoi spre mica-i locuință.</p>
 <p>Ne este peste putință ca să putem descri tristeța Ameliei, în momentul întrării în acea cameră solidară, unde totul arăta prezența recentă a scumpului ei amic. *</p>
 <p>Ea șezu lângă acea masă, lângă care scaunul era încă gol pe care șezuse cu o oră mai înainte Cunstantin ; și fiindcă se hotărâse a nu se culca, luă o carte și începu să citescă.</p>
 <p>Se înoptă și Amelia, aprinse lumănarea.</p>
@@ -1281,7 +1301,9 @@
 <p>Apoi zgomotul pașilor se depărtă coborând scara.</p>
 <p>În urmă totul tăcu.</p>
 <p>— Ah! fără îndoială, murmura copila, lăsând să-i cadă capul pe pernele patului; fără îndoială, Constantin e mort...... cu desăvârșire mort...</p>
-<p>CERCETĂRILE CĂRMUIRII</p>
+
+	<p>CERCETĂRILE CĂRMUIRII</p>
+	
 <p>Muma Ameliel muri, după cum văzurăm a treia zi după disparițiunea fiicei sale.</p>
 <p>Parchetul după atunci își începu cercetările.</p>
 <p>Un procuror fu însărcinat cu această afacere.</p>
@@ -1323,10 +1345,12 @@
 <p>— Nu am decât zestra fiicei mele.</p>
 <p>— În ce sumă sunt toți acești bani?</p>
 <p>— 300 de galbeni în hărții turcești.</p>
-<p>(Va urma)</p>
-<p>Toate drepturile rezervate autorului</p>
-<p>(Urmare)</p>
-<p>— Și unde țineai acești bani.</p>
+
+	<trailer>(Va urma)</trailer>
+<trailer>Toate drepturile rezervate autorului</trailer>
+<trailer>(Urmare)</trailer>
+
+	<p>— Și unde țineai acești bani.</p>
 <p>— Aici, în acestă ladă.</p>
 <p>— Acum sunt tot acolo?</p>
 <p>— Nu știu.</p>
@@ -1511,8 +1535,9 @@
 <p>Trebuie să spunem însă că criminalul frate—să întrebuințăm această calificație o bicinuită—era cu totul schimbat.</p>
 <p>Nimeni nu l-ar fi putut cunoaște. Și haine, și față, cu totul era schimbat.</p>
 <p>El intră înăuntru și împreună cu el încă alte două persoane.</p>
-<p>(Va urma)</p>
-<p>Toate drepturile rezervate autorului</p>
+
+	<trailer>(Va urma)</trailer>
+<trailer>Toate drepturile rezervate autorului</trailer>
 </div>
   </body>
  </text>
