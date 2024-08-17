@@ -39,12 +39,12 @@
                <pubPlace>București</pubPlace>
                <publisher>EDITURA LIBRĂRIEI UNIVERSALA ALCALAY</publisher>
                <date>1919</date>
-               <decoNote type="ilustratii" subtype="no"/>
-               <dim unit="char" type="mare"/>
+               <decoNote type="illustration" subtype="no"/>
+               <dim unit="char" type="big"/>
                <extent>
                   <measure unit="word">39236</measure>
                   <measure unit="page" type="under_250"/>
-                  <measure unit="foileton" type="under_65"/>
+                  <measure unit="feuilleton" type="under_65"/>
                   <measure type="complete"></measure>
                </extent>
             </bibl>
@@ -64,8 +64,8 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="under 5"/>
-               <term type="republicare" n="under 10"/>
+               <term type="reception" n="under 5"/>
+               <term type="print_count" n="under 10"/>
                <term type="finished"></term>
                
             </keywords>
@@ -73,8 +73,8 @@
       </profileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
             <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
             <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
          </projectDesc>
@@ -1166,7 +1166,7 @@ unei vieți de poezie.</p>
 <p>Tânărul scriitor a ieșit cu ea până jos, a condus-o o bucată de drumă până a găsit o trăsură, și apoi s-a înapoiat, rămânând, precum am spus, foarte trist, fără ca el singur să știe, deocamdată, din ce pricină.</p>
 </div>
 <div type="chapter" n="9">
-<p>IX</p>
+<head>IX</head>
 <p>Adrian era un om care știa să scrie!</p>
 <p>Și Emanoil Brădeanu spusese cu multă grijă discursul pe care acesta i-l făcuse silindu-se cât mai mult să-i dea intonația cu care-i fusese citit.</p>
 <p>Sala întreagă îl ascultase cu luare aminte vreme de o jumătate de ceas! glasul vorbitorului, cu o ușoară nuanță de tenor, se resimțea de un început de răgușeală care îl făcu însă și mai interesant.</p>
@@ -1219,7 +1219,7 @@ aruncă bani în toate părțile, pronunță cuvântul «nesimțirea» și nu ma
 <p>Se plimbară mai bine de un ceas și când intrară omul de serviciu de la hotel ridicându-se somnoros de pe scaun, se înșelă asupra condiției femeii cu care Adrian suia scara, aproape de miezul nopții.</p>
 </div>
 <div type="chapter" n="10">
-<p>X</p>
+<head>X</head>
 <p>Sufletul Mariei se schimbase cu desăvârșire în vremea din urmă.</p>
 <p>Ea era aproape de nerecunoscut. Nebunia amoroasă o pierduse cu desăvârșire. Grăbită și tremurătoare, făcea totul numai în vederea dragostei ei, la care i se părea mereu că nu i se răspunde cu destul căldură, cu o aprindere egală.</p>
 <p>Într-însa vibrau acum coardele cele mai pătimașe și care fac cu adevărat pe femeie.</p>
@@ -1296,7 +1296,7 @@ aruncă bani în toate părțile, pronunță cuvântul «nesimțirea» și nu ma
 <p>A iubit-o, oare?... A iubit-o vreodată?...</p>
 </div>
 <div type="chapter" n="11">
-<p>XI</p>
+<head>XI</head>
 <p>Acest fenomen petrecut în sufletul lui Corneliu Adrian nu întârzie de a lua o nouă înfățișare, ajungând în faza cea din urmă.</p>
 <p>El îl numise la început și, aproape îngrozindu-l, se părea că n-avusese puterea de a crede în adevărul lui.</p>
 <p>Cealaltă latură a firii sale se deșteptase, însă, de astă dată, și Corneliu găsi puterea de a încerca să privească împrejuru-i cu sânge rece, căutând o dezlegare a suferinței.</p>
@@ -1306,8 +1306,10 @@ aruncă bani în toate părțile, pronunță cuvântul «nesimțirea» și nu ma
 <p>Acesta vie dorință de a fi cu el și încredințarea că mâine va fi femeia lui o făceau să se poarte de pe acum ca atare, nemaipăstrând aproape nicio rezervă.</p>
 <p>Avea grijă de cele mai neînsemnate lucruri, sfătuindu-l cum să-și orânduiască treburile și certându-l de nopțile pe care prea des și le pierdea.</p>
 <p>Grija aceasta a ei constituia o apăsare pentru Adrian, și era în același timp și o durere, înțelegând că nu poate răspunde la fel acestei iubiri.</p>
-<p>***</p>
-<p>Au trecut gerurile aspre ale iernii. De pe acoperișuri zăpada se topește sub căldura soarelui.</p>
+
+	<milestone unit="***"></milestone>
+
+	<p>Au trecut gerurile aspre ale iernii. De pe acoperișuri zăpada se topește sub căldura soarelui.</p>
 <p>Streșinile picură toată ziua; gheața de pe trotuare piere și mugurii crapă, ivindu-se de sub coaja neagră și umedă a ramurilor.</p>
 <p>La începutul lui Martie, cea dintâi lună a primăverii aerul rece și limpede al dimineții e plin de miresme tari și dătătoare de viață nouă.</p>
 <p>O larmă veselă umple străzile în ceasurile calde de mai pe urmă și în zvonul furnicarului de oameni, glasurile vânzătorilor de ghiocei pun o notă de fermecătoare tinerețe și veselie.</p>
