@@ -39,12 +39,12 @@
                <pubPlace>București</pubPlace>
                <publisher>FOILETONUL ZIARULUI „ROMÂNUL”</publisher>
                <date>1893</date>
-               <decoNote type="ilustratii" subtype="no"/>
-               <dim unit="char" type="mare"/>
+               <decoNote type="illustration" subtype="no"/>
+               <dim unit="char" type="big"/>
                <extent>
                   <measure unit="word">6124</measure>
                   <measure unit="page" type="under_250"/>
-                  <measure unit="foileton" type="under_65"/>
+                  <measure unit="feuilleton" type="under_65"/>
                   <measure type="incomplete"></measure>
                </extent>
             </bibl>
@@ -64,8 +64,8 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="under 5"/>
-               <term type="republicare" n="under 10"/>
+               <term type="reception" n="under 5"/>
+               <term type="print_count" n="under 10"/>
                <term type="finished"></term>
                
             </keywords>
@@ -73,21 +73,21 @@
       </profileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
             <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
-            <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma incompleta.</p>
+            <p>Masura de tip "incomplete" indica faptul ca am gasit romanul in forma incompleta.</p>
          </projectDesc>
       </encodingDesc>
    </teiHeader>
     <text>
         <body>
 <div type="part" n="2">
-<p>FOIȚA ZIARULUI „ROMÂNUL”</p>
-<p>2</p>
-<p>PRINCESA</p>
+<head>FOIȚA ZIARULUI „ROMÂNUL”</head>
+<head>2</head>
+<head>PRINCESA</head>
 <div type="section" n="1">
-<p>I</p>
+<head>I</head>
 <p>În tote diminețile se ducea cu Elvira prin crângul cel înverzit să se plimbe, iar când obosită de frumusețea naturii și de concertul păsărilor, doamna Falișteanu se urca în camera sa pentru a-și face obișnuitele rugăciuni, sau se ducea la biserica satului, prințesa rămânea singură printre arborii stufoși, îndeletnicindu-se ca întotdeauna cu citirea cărților  care mai mult ca niciodată o pasionau.</p>
 <p>Acela care mai des venea s-o întrerupă din lectura ei era domnul Gheorghe Lertescu, propietar vecin cu moșia lor.</p>
 <p>De vreme îndelungată el căuta a se face iubit de Elvira. Rămas singur a-și conduce afacerile la vârsta de 25 ani, îi plăcuse a se ocupa cu moșia, pe care tatăl său i-o lăsase.Cea mai mare parte din timp și-1 petrecea înconjurat de țăranii care-i munceau pământul și de care era foarte iubit. Învoelile cinstite și cât se poate de omenoase, precum și natura lui populară, atrăseseră atâția lucrători, încât simțea multă nemulțumire că nu-i poate pe toți satisface. Doamna Falișteanu mai ales, era încântată de vrednicia și purtarea acestui tânăr. Nutrea de mult timp în sufletul ei speranța de a și-l face ginere și de aceea, căutase toate mijloacele de a-l apropia de copila ei.</p>
@@ -110,13 +110,13 @@
 <p>Doamna Falișteanu văzu cu mâhnire purtarea necorectă a fiicei sale, însă nu îndrăzni a o reține. Fără ca să stea mult timp la îndoială, înțelese îndată că sunt oarecare taine la mijloc pe care dorea se le cunoască.</p>
 <p>Mi se pare domnule Lertescu că în lipsa mea ați avut vreo mică neînțelegere cu Elvira.</p>
 <p>În adevăr, îi răspunse el, de când o știu pe domnișoară niciodată n-am avut prilejul a-mi da bine seama de cauzele melancoliei sale și de acea răceală desprețuitoare cu care privea mai pe toată lumea. Ceea ce am bănuit de mult, acum, în urma destăinuirilor pe care copila d-tale mi le-a făcut, m-am încredințat că vederile mele mi-au fost greșite. O nepotrivire completă între caracterul meu și al dânsei pe față, astfel că vă rog să mă iertați dacă-mi retrag propunerea pe care m-am grăbit a v-o face de a lua pe domnișoara Elvira de soție. O unire între noi ne-ar cauza amândurora nenorocire și mai bine este se aveți răbdare până ce dânsa va găsi idealul pe care-l caută.</p>
-   <p>(Va urma)</p>
+   <trailer>(Va urma)</trailer>
 </div>
 </div>
    <div type="part" n="3">
-      <p>FOIȚA ZIARULUI „ROMÂNUL”</p>
-      <p>3</p>
-      <p>PRINCESA</p>
+      <head>FOIȚA ZIARULUI „ROMÂNUL”</head>
+      <head>3</head>
+     <head>PRINCESA</head>
       <div type="section" n="1">
 <p>Trecuseră câteva minute fără că doamna Făliștianu să-i poată vorbi un cuvânt. O presimțire în rău, pe care voia s-o îndepărteze, o înfricoșa.</p>
 <p>Regret foarte mult domnule Lertescu că speranțele mele nu s-au putut realiza. Te rog cu toate acestea foarte mult, a-mi explica mai clar împrejurările care te-au hotărât așa repede să renunți la propunerea pe care ieri mi-ai făcut-o cu atâta plăcere.</p>
@@ -124,22 +124,22 @@
 <p>Cu totul abătută și cu lacrimile în ochi, sărmana mamă își reaminti crizele pe care copila sa le avusese în trecut și disperarea cea mai mare-i sfâșie inima de durere.</p>
 </div>
 <div type="section" n="2">
-<p>II</p>
+<head>II</head>
 <p>Când Angela Melinescu sosi la moșia doamnei Falișteanu era de abia începutul iernii. Acestă zburdalnică copilă terminase de curând studiile și orfană fiind, venise la singura ei rudă, pentru a aștepta momentul potrivit ca să-și asigure o poziție pe viitor.</p>
 <p>Angela, pe lângă veselia care o caracteriza, avea ochii mari și negri, talia delicată, trăsăturile feței fine și distinse, iar umbletul ei sprinten însoțit de acea vioiciune care denotă inteligența, o făceau cât se poate de încântătoare. Ea nu se văzuse cu vara sa decât foarte rar și întotdeauna căutase, fără a reuși,să se împrietenească cu ea. Manierele Angelei i se păreau Elvirei prea ușoare, veselia prea zgomotoasă și spiritul înclinat înspre lucruri ordinare.</p>
 <p>Istorioarele nebunatice din pension pe care le povestea cu multă gingășie și cochetăriile sale nevinovate, erau considerate atât de indecente, încât de multe ori, tocmai în toiul povestioarei, prințesa o lăsa singură ca pe o caraghioasă. La început Angela se simți foarte umilită de modul cum o trata, dar încetul cu încetul, cunoscând-o mai bine, în loc să se mai supere ca înainte, o privea cu compătimire. Atunci începu se se forțeze a-i vorbi în felul ei. Cu toate că la vârsta de 20 ani pe care o avea și de curând ieșită din scoală, o trăgea inima mai bine la petreceri decât la lectură, totuși, pentru a face plăcere verișoarei sale, lua mai întotdeuna câte o carte și citea ore întregi stând alături de Elvira. Frazele cele mai poetice, acțiunile cele mai cavalerești, le comenta cu o aprindere de care nu s-ar fi crezut niciodată capabilă. Era aproape de nerecunoscut în acele momente. Nebunatica Angela dispărea cu desăvârșire, ca să ia cu totul o altă formă, devenind serioasă, cu ideile cele mai fantastice, visătoare, căutând în imaginația ei câte un bărbat frumos, pe care-l înfățișa Elvirei, la genuchii ei cu lacrimile șiroaie pe obraz, un pumnalul in mână gata a se omorî, dacă nu va asculta patima ce-l consuma și nu-i va da crezământ. Dibăcia și înlesnirea cu care Angela iși juca rolul său, era ceva cu totul surprinzător; Cine i-ar fi cunoscut adevărata sa fire, caracterul său cel vesel și atât de natural, nu s-ar fi îndoit o secundă măcar, că din această drăgălașă copilă va ieși desigur cea mai distinsă artistă.</p>
 <p>Elvira, care își închipuia că transformarea verișoarei sale nu i se datorează decât ei, și zicea de multe ori: Vezi draga mea Angelo, cât de mult influențeză societatea asupra naturii omenești. Trăită în scoală, alături de acele fete rău nărăvite, n-ai putut contracta decât obiceiuri proaste, pe câtă vreme în tine a existat și există o bogăție de sentimente alese și de idei poetice. Acei oameni care până mai deunăzi ți se păreau vrednici de stimă, aceia sunt sigură că ai să-i desprețuești când vei auzi vorbind de bani, de mâncare și de atâtea alte lucruri comune, fără ca ei să poată înțelege adevărata fericire a simțămintelor înalte și fără a pricepe că multe dintre femei sunt niște plăpânde flori cărora le trebuie nutrimente morale, iar nu pasiuni meschine.</p>
 <p>Angela, cu ochii pironiți în pământ asculta cu o atenție evangelică și o aproba cu multă tărie.</p>
 <p>Abia însă sărmana copilă, plictisită de comedia pe care o juca, găsea, ocazia să rămână singură, și regreta din adâncul sufletului acele ore fericite din pension, când alături de vreo bună amică, erau în dormitor spunându-și una alteia. Doamna Falișteanu, care n-avea tristețea Angelei, simțea multă bucurie spunând că Elvira începuse a iubi pe vara sa. Caracterul plăcut și zgomotos al  nepoatei sale, credea că va avea poate să modifice temperamentul taciturn al Elvirei. Sărmana mamă, îngrijorată foarte de sănătatea și fericirea unicei sale copile, nu știa ce să mai facă pentru a o mărita. Dorea de vreme îndelungată și necontenit se ruga la Dumnezeu, înainte de a-și da sfârșitul să poată vedea pe fata ei prințesă căpătuită. Și acele promisiuni, care-i întinereau inima îmbătrânită de necazuri, o făceau ca necontenit să vină la serate, să aducă lăutari, să orgaizeze după povețele Angelei, îngerul păzitor copilei sale, fel de fel de petreceri, la ea, iar Elvira, după îndemnul verișoarei lua parte cu mai multă bucurie decât în alte rânduri. Cu toate acestea rezultatele nu erau mai satisfăcătoare, căci nu trecea o oră de la apariția ei in societate și se retrăgea iarăși, cu stăruințele Angelei de a o opri, în camera sa de culcare pentru a medita sau, ca de obicei, lectura.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
    </div>
    </div>
            <div type="part" n="4">
-              <p>FOIȚA ZIARULUI „ROMÂNUL”</p>
-              <p>4</p>
-              <p>PRINCESA</p>
+              <head>FOIȚA ZIARULUI „ROMÂNUL”</head>
+              <head>4</head>
+             <head>PRINCESA</head>
               <div type="section" n="2">
-<p>II</p>
+<head>II</head>
 <p>Angela, fericită că în acele momente se putea despăgubi de oboselile zilei, căuta a distra pe toți, râdea, glumea și nu se lăsa a fi rugată multă vreme pentru a le cânta câte o frumoasă romanță la pian. Domnul Lertescu, care deși renunțase la dragostea Elvirei, nu lipsea niciodată de la asemenea petreceri, și se înamorase cu totul de frumusețea și gingășia Angelei. Calitățile ei plăcute, pe care el până atunci nu le întâlnise la nici o altă copilă, îl hotârâră s-o ceară în căsătorie de la doamna Falișteanu. Propunerea aceasta, venită pe neașteptate, înveseli foarte mult pe Angela; dar imediat, reamintindu-și confidențele pe care i le făcuse mătușa sa, o tristețe mare i se putu citi în ochi. Acest tânăr bărbat care o iubea, în alte timpuri voise s-o ia pe Elvira. Un simțământ de delicatețe, contra căruia nu se putea lupta, o forță, cu toată dorința ce avea de a privi, să respingă cererea d-lui Lertescu. I se părea că d-na Fălișteanu, care voise atât de mult a uni viața Elvirei cu a acestui frumos bărbat, o va învinovăți, o va blestema și aceste idei îi făceau atâta frică, încât după multe osteneli și după îndelungate discuții, mătușa sa o putu hotărî. Un singur lucru, de mică importanță poate in ochii altora, dar forte serios pentru tânăra copilă, o mai îngrijora încă. Ce va zice Elvira căreia nu i se spusese nimic? A fost oare la ea un capriciu, o cochetărie, o simplă încercare numai când a respins pe Lertescu, sau în adevăr nu l-a putut suferi? Numai după ce d-na Fălișteanu o asigură că temerile ei sunt copilărești, avu îndrăzneala să spună totul Elvirei.</p>
 <p>Asta mă face, îi răspunse vara sa cu un ton batjocoritor, să-mi pierd toate iluziile ce le avusesem despre tine.</p>
 <p>Natura și ideile tale nu pot înțelege cum se vor uni cu caracterul acestui plugar grosolan. Dar în fine, te privește, ești liberă să te conduci cum vrei.</p>
@@ -149,7 +149,7 @@
 <p>Angela, asigurată și mai mult prin aceste cuvinte că vara sa nu iubește pe Lertescu și că dificultățile ce și le face sunt numai provenința spiritului ei exaltat, se căzni a o convinge de nevinovăția ei și putu, deși cu multă anevoință, s-o îmblânzescă și s-o facă a-i promite că vor rămâne ca și în trecut, tot bune și nedespărțite prietene.</p>
 </div>
 <div type="section" n="3">
-<p>III</p>
+<head>III</head>
 <p>În salonul în care se sărbătorea cununia Angelei o mică grupă de dame vorbeau cu multă aprindere. Din când în când întrerupeau conversația ca să privescă cu atenție, nu pe mireasă, nici pe ginere, dar pe domnișoara Elvira Falișteanu în admirabila sa toaletă.</p>
 <p>Da, în adevăr zicea doamna Valbudea, nu degeaba a botezat-o mama ei princesă. Nu vedeți ce aer măreț și ce zâmbet disprețuitor are pe buze; ai putea zice fără cea mai mică îndoială că a venit să asiste la o reprezentație de maimuțe.</p>
 <p>Și nu mai observați, adaugă o alta, câtă silință își dă bătrânul doctor Lortan ca să se facă plăcut de ea. Sărmanul om e de plâns. Trebue să-i atragem atenția că nu descinde dintr-o familie princiară.</p>
@@ -160,15 +160,15 @@
 <p>Nu mă îndoiesc încântătoarele mele doamne, însă însărcinarea e dificilă; cere o deosebită finețe, ostenelă mare și se mă credeți că nu m-am ocupat de mult cu lectura, mai cu deosebire chestiunile de filosofie sunt foarte încurcate în acest moment în capul meu: șampania cred că le-a evaporat aproape pe toate.</p>
 <p>Asta înseamnă, zise una din ele, că nu voiești să-ți dai ostenala pentru a ne îndatora. Cu puțină bună voință sunt sigură că vei reuși.</p>
 <p>Domnul Ghernoiu, om de inimă, și îndătăritor din firea lui, se hotărî a le satisface gustul. Așezându-se alături de Elvira începu să-i atingă părțile delicate, să-i facă demonstrații de sentimentalism, să-i spună că pentru el nu mai există nici o fericire pe pământ, din momentul ce aceea pe care o iubește se preface întotdeauna că nu-l înțelege, dar din nenorocire, acum că și în alte împrejurări, acest vesel și îndrăzneț cavaler, era atât de neândemânatic pentru a-și disimula sentimentele încât o păți și de astă dată precum o pățise adeseori.</p>
-   <p>(Va urma)</p>
+   <trailer>(Va urma)</trailer>
 </div>
            </div>
            <div type="part" n="5">
-              <p>FOIȚA ZIARULUI „ROMÂNUL”</p>
-              <p>5</p>
-              <p>PRINCESA</p>
+              <head>FOIȚA ZIARULUI „ROMÂNUL”</head>
+              <head>5</head>
+              <head>PRINCESA</head>
               <div type="section" n="3">
-<p>III</p>
+<head>III</head>
 <p>De ce nu faci plăcerea domnule Ghernoiu, zise doamna Valbudea, ca s-o poftește la joc? Îi șade așa bine dansând încât ne-ai procura o deosebită mulțumire dacă o vei decide.</p>
 <p>Nu mă îndoiesc încântătoarele mele doamne, însă însărcinarea e dificilă; cere o deosebită finețe, osteneli mari și să mă credeți că nu m-am ocupat demult cu lectura și mai cu deosebire chestiunile de filosofie sunt foare încurcate în acest moment în capul meu: șampania cred că le-a evaporat aproape pe toate.</p>
 <p>Asta înseamnă, zise una din ele, că nu voiești să-ți dai osteneală pentru a ne îndatora. Cu puțină bunăvoință sunt sigură că vei reuși.</p>
@@ -184,15 +184,15 @@
 <p> — Scumpa mea fată, îi zise mă-sa înduioșată de aceste cuvinte, ar trebui să părăsești pentru câtva timp aceste plăceri. Doctorii mi-au recomandat, în intresul sănătății tale, ca să te ocupi de lucruri mai obositore, acesta ți-ar da pofta de mâncare și anemia care te consumă acum ar dispărea imediat, împreună cu melancolia care asemenea te slăbește.</p>
 <p> — Faci rău dragă mamă, dacă te îngrijești așa de tare în privința sănătății mele. Eu n-am nimic, nu sufăr de nimic, singurul lucru care te nemulțumește e natura mea căreia-i place singurătatea și este foarte puțin comunicativă; ce voești să fac dacă felul meu este astfel.</p>
 <p>Răspunsul acesta tulbură și mai mult pe d-na Falișteanu. Dulceața glasului  cu care copila ei pronunțase aceste cuvinte o făcuse să nu mai poată obiecta nimic.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
               </div>
            </div>
            <div type="part" n="6">
-              <p>FOIȚA ZIARULUI „ROMÂNUL”</p>
-              <p>6</p>
-              <p>PRINCESA</p>
+              <head>FOIȚA ZIARULUI „ROMÂNUL”</head>
+              <head>6</head>
+              <head>PRINCESA</head>
               <div type="section" n="3">
-<p>III</p>
+<head>III</head>
 <p> — Cu toate acestea, iubita mea fată, îi zise mă-sa, cred că-ți va face bine să te mai distrezi puțin. Iată mâine ai ocazia cea mai nimerită; un prinț străin a sosit în țară și dorește să viziteze Bucureștiul.</p>
 <p> O să fie lume multă, muzică și fel de fel de lucruri plăcute, care-ți vor face plăcere. Ce zici? Vrei se mergi?</p>
 <p>Bucuros dragă mamă, îi răspunse copila fără ca să fie câtuși de puțin încântată de această propunere.</p>
@@ -214,15 +214,15 @@
 <p>— Orice ar fi, îi răspunse Niloveanu, eu vă povățuiesc se mergeți acasă și mă însărcinez ca pe urmă să caut pe mama d-voastră.</p>
 <p>Asigurările acestea liniștiră pe tânăra copilă și urcându-se intr-o birjă alături de Niloveanu, o conduse până acasă, făgăduindu-i ca în curând va veni să o vadă.</p>
 <p>Rămânând singură, Elvira se puse pe gânduri. Împrejurarea aceasta prin care scăpase de pericol o impresiona foarte mult. Reamintindu-și figura lui Niloveanu i se părea că vede înaintea ei unul din acei cavaleri viteji, pe care-i citise prin cărți și după care inima sa oftase de timp îndelungat. Deja, fără a fi discutat cu el o oră măcar, i se părea cel mai nobil, cel mai distins și cu sentimente1e cele mal rare de găsit. Cu o nerăbdare febrilă aștepta ziua când el,în urma făgăduinței date, va veni s-o vadă.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
               </div>
            </div>
            <div type="part" n="7">
-              <p>FOIȚA ZIARULUI „ROMÂNUL”</p>
-              <p>7</p>
-              <p>PRINCESA</p>
+              <head>FOIȚA ZIARULUI „ROMÂNUL”</head>
+              <head>7</head>
+              <head>PRINCESA</head>
               <div type="section" n="3">
-<p>III</p>
+<head>III</head>
 <p>Când după două zile, Niloveanu se anunță că dorește să vorbească doamnei Făliștenu, Elvira cu pieptul palpitând de bucurie alergă înaintea lui. Cu toate sforțările de a nu-și manifesta într-un chip prea vădit satisfacția, nu putu reuși, și prefăcătoria ei era prea copilărească pentru a n-o putea înțelege oricare. Doamna Fălișteanu îi întinse mâna cu o nespusă veselie.</p>
 <p>Sunt încântată de cunoștința d-tră d-le Niloveanu și vă încredințez că n-am cuvinte pentru a-mi arăta recunoștința ce v-o păstrez.</p>
 <p>Oh! d-nă răspunse el cu grabă, fiți așa de bună a nu-mi mai pomeni asemenea lucruri: ceea ce am făcut am fost dator s-o fac.</p>
@@ -251,19 +251,19 @@
 <p>La revederea îi răspunse ea cu un zâmbet semnificativ.</p>
 </div>
 <div type="section" n="4">
-<p>IV</p>
+<head>IV</head>
 <p>O agitație neobișnuită se putea observa printre liniștitele cocoane care vizitau pe d-na Falișteanu. Una mai bine ca alta voia să explice împrejurările, care au determinat pe frumoasa Elvira ca să plece din casa părintească ca un sărman profesoraș. Versiunile, interpretările și demonstrațiile nu mai aveau sfârșit.</p>
 <p>Îmi pare ceva cu neputință, zicea d-na Sfetescu, ca să dau crezământ celor ce mi se spun. Auzi d-ta comedie nemaipomenită; Princesa, acea fată fantastică, cu moravuri așa de aspre, căreia nimeni nu-i intra pe gust să se ia după vorbele unui sărăcăcios; dar asta vă spun drept mi se pare ceva cu totul de necrezut.</p>
 <p>Ba tocmai din contră, eu mă așteptam foarte mult, îi răspunse cocoana Săftica, toate copilele astea care sunt prea afară din cale giugiulite sfârșesc într-un mod prost.</p>
-<p>(Va urma).</p>
+<trailer>(Va urma)</trailer>
 </div>
 </div>
            <div type="part" n="11">
-              <p>FOIȚA ZIARULUI „ROMÂNUL”</p>
-              <p>11</p>
-              <p>PRINCESA</p>
+              <head>FOIȚA ZIARULUI „ROMÂNUL”</head>
+              <head>11</head>
+              <head>PRINCESA</head>
 <div type="section" n="5">
-<p>V</p>
+<head>V</head>
 <p>Când ajunse în București felul ei de nebunie veselă luă un caracter cu totul deosebit. Tristețea cea mai mare era zugrăvită pe fața sa. Toate silințele pe care oricine și le-ar fi depus a o face ca să vorbeaecă, erau zadarnice. Umbla alături de vara ei, care o luase sub a sa protecție și repeta mereu uitându-se cu ochi triști la cer.</p>
 <p>Văd ceva așa de frumos, așa de încântător; e mama mea, e iubita mea măicuță care-mi întinde brațele, oh! dezlegați-mă, dezlegați-mă, să mă arunc in brațele ei.</p>
 <p>Angela care era nedespărțită de ea, o ținea de braț și o ruga plângând se se liniștească.</p>
@@ -284,7 +284,7 @@
 <p>După cortegiul ei înconjurat cu flori, aceea care simțea mai mula durere era Angela Melinescu. Două prietene care o susțineau și căutau să o îmbărbăteze, nu putea să-i oprescă lacrimile care-i inundau fața. Printre bărbați, la o distanță oarecare, să putea observa un om foarte rău îmbrăcat și cu o aparență sălbatică: era Niloveanu, pe care după ce-l ruinase actrița pentru care sacrificase pe Elvira, fu nevoit a se reîntoarce în țara lui ca să-și câștige pâinea.</p>
 <p>Aflând de moartea Elvirei, mustrarea de cuget, îl hotărî să vină dupe cortegiul ei. Rușinos însă de mișeliile comise și temându-se de disprețul celor care-l cunoșteau, mergea la o distanță depărtată după carul funebru.</p>
 <p>După ce Elvira fu înmormântată și nimeni dintre cei ce o însoțiseră nu se mai afla în curtea cimitirului, un singur bărbat, cu pașii măsurați și uitându-se cu sfială în jurul său, se apropie de groapă și îngenuchează lângă mormânt plânse cu amărăciune. Niloveanu se ruga la Dumnezeu pentru aceea pe care o omorâse.</p>
-<p>FINE</p>
+<trailer>FINE</trailer>
 </div>
               </div>
 </body>
