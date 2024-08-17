@@ -35,12 +35,12 @@
                     <pubPlace>Blaj</pubPlace>
                     <publisher>FOILETONUL ZIARULUI „UNIREA”</publisher>
                     <date>1912</date>
-                    <decoNote type="ilustratii" subtype="no"/>
-                    <dim unit="char" type="mic"/>
+                    <decoNote type="illustration" subtype="no"/>
+                    <dim unit="char" type="small"/>
                     <extent>
                         <measure unit="word">50031</measure>
                         <measure unit="page" type="under_250"/>
-                        <measure unit="foileton" type="under_65"/>
+                        <measure unit="feuilleton" type="under_65"/>
                         <measure type="incomplete"></measure>
                     </extent>
                 </bibl>
@@ -60,16 +60,16 @@
                     <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
                 </keywords>
                 <keywords>
-                    <term type="receptare" n="under 5"/>
-                    <term type="republicare" n="under 10"/>
+                    <term type="reception" n="under 5"/>
+                    <term type="print_count" n="under 10"/>
                     <term type="finished"></term>                
                 </keywords>
             </textClass>
         </profileDesc>
         <encodingDesc>
             <projectDesc>
-                <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-                <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+                <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+                <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
                 <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
                 <p>Masura de tip "incomplete" indica faptul ca am gasit romanul in forma incompleta.</p>
             </projectDesc>
@@ -78,13 +78,14 @@
     <text>
 <body>
     <div type="part">
-<p>Partea Literară.</p>
-<p>VOIEVOZII.</p>
-<p>Povestire originară a „Unirii”. de Dela Bistrița.</p>
-<p>PROLOG.</p>
-<p>(Continuare).</p>
+<head>Partea Literară.</head>
+<head>VOIEVOZII.</head>
+<head>Povestire originară a „Unirii”. </head>
+	 <head>de Dela Bistrița.</head>
+<head>PROLOG.</head>
+<head>(Continuare).</head>
 <div type="section" n="1">
-<p>II.</p>
+<head>II.</head>
 <p>Pe când pământul Moldovei era zguduit de atâta amar de frământări și amenințat de șuvoiul cotropitoarelor hoarde tătare, pe atunci Țara-Românească se bucura de cele mai dulci și senine vremuri de pace. Și pe acele răstimpuri de liniște neturburată, în Curtea-de-Argeș domnea unul din cele mai curate și senine chipuri domnești din istoria Întregului trecut românesc. Acel mare Domn era Neagoe Vodă, chemat „Basarabul” după părintele său: Basarab-cel-tânăr. Firea îl înzestra cu o mare iubire. Iar evlavioasa Doamnă Despina îi îmbogăți și mai mult simțul frumosului, desăvârșindu-l în farmecul evlaviei creștine. Astfel, amândoi mari râvnitori ai măririi lui Dumnezeu, izvorul frumosului, desăvârșindu-l în farmecul evlaviei creștine. Astfel, amândoi mari râvnitori ai măririi lui Dumnezeu, izvorul frumosului, durară acea mândră mănăstire de la Argeș. Și ca să-și vadă împlinit visul lor de aur: curânda ridicare a lăcașului dumnezeesc, mândru ca în povești, nu cruțară nici brilianturile nici mărgăritarele lor.</p>
 <p>După o domnie curată și senină de nouă ani și jumătate, marele Voievod Neagoe închide ochii, pentru a-i deschide dincolo de mormânt, unde să-și ia veșnica resplată de la stăpânul căruia i-a slujit cu atâta dragoste și credință. Trupul lui Neagoe trudit, de frământările vieții, a fost coborât de Doamna în gropnița necropolei, să se odihnească în liniștea sfintei singurătăți.</p>
 <p>Cu moartea lui Neagoe Basarab și pentru Țara Românească se încep vremurile de restriște și de cumpănă grea, căci tronul rămase fără urmaș — ca și în Moldova, Băsărăbeasa nu a avut mângâierea să-și vadă feciorii ajunși voievozi, urcându-se la tron pe urma părintelui lor. Moartea cosi copilașii ei: Ioan, Petru, Vlăduță și Anghelina în cea mai fragedă vârstă. Toată nădejdea era în băiețelul Teodosie, mândru ca un Făt-Frumos din lacrimă, înțelept ca împăratul, a cărui nume îl purta.</p>
@@ -93,16 +94,16 @@
 <p>După mult amar de anevoinți, Preda Vodă înjghiebă o oaste de vreo cinci mii — și cu acest pumn de voinici porni în contra titanicei oști a Porței. Dar Vodă, fără de noroc, căzu în luptă, chiar în întâia ciocnire, și după dânsul căzu ceata ostașilor, săcerată până la unul de iataganele turcești.</p>
 <p>In zadar își încercă norocul, după câteva luni mai apoi, și călugărul Dragomir, care înflăcărat de dragostea pentru Țară, își schimbă anteneul călugăresc în veșmânt de oștean, și porni cu o gloată și mai mândră de viteji în contra urgiei păgâne. Zadarnic i-a fost dorul și visul, să-și vadă strălucind pe rasa călugărească cununa de Voievod, căci oastea Semilunei, zdrobindu-l cu viteji cu tot, îi zădărnici într-o clipă și dorul și visul.</p>
 <p>După uciderea lui Dragomir Călugărul, nimeni nu mai îndrăzni să-și încerce norocul cu turcii. Și cu dânsul se stinseră și nădejdiile unui sărman popor, de a se mai vedea dezrobit cândva din jugul rușinoasei sclavii.</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
 </div>
     </div>
     <div type="part">
-<p>Partea Literară.</p>
-<p>VOIEVOZII.</p>
-<p>Povestire originară a „Unirii”.</p>
-<p>de Dela Bistriță.</p>
-<p>PROLOG.</p>
-<p>(Continuare).</p>
+<head>Partea Literară.</head>
+<head>VOIEVOZII.</head>
+<head>Povestire originară a „Unirii”.</head>
+<head>de Dela Bistriță.</head>
+<head>PROLOG.</head>
+<head>(Continuare).</head>
         <div type="section">
 <p>— Mi-ai jurat credința... N-ai ținut Bogdane; mi-ai jurat dragoste... Nu mi-ai dat-o, Bogdane... Eu te iert! ... Să te judece pentru aceasta Dumnezeu !..</p>
 <p>Dar ce-i drept Bogdane, n-ai avut milă de mine, oh, n-ai avut!...</p>
@@ -153,16 +154,16 @@
 <p>— Să-ți trăiască, că tare este frumos bobocelul, să nu fie de deochi... Bine iți mai seamănă!</p>
 <p>Rareș se așază alături de Doamnă, pe laița umbrită de crengile verzi ale nucului bătrân.</p>
 <p>Ionică pe loc sărută mana mătușicăi, pe când ea îl ridică în brațe și-l puse pe genunchi. După un fir de vreme, Ionică alintat cu dulce gingășie de mătușică-sa, își topi sfiala și își alipi căpușorul la sânul mătușii, care îi săruta cu foc obrajii rumeni și plini, și îi dezmierda șuvițele părului lung și auriu.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
     </div>
 </div>
     
     <div type="part">
-<p>Partea Literară.</p>
-<p>VOIEVOZII.</p>
-<p>Povestire originară a „Unirii”.</p>
-<p>de Dela Bistriță.</p>
-<p>(Continuare).</p>
+<head>Partea Literară.</head>
+<head>VOIEVOZII.</head>
+<head>Povestire originară a „Unirii”.</head>
+<head>de Dela Bistriță.</head>
+<head>(Continuare).</head>
         <div type="section">
 <p>— Doamne, Maică sfântă, — d-apoi ce vânt te-a mai adus pe la noi?</p>
 <p>— M-a adus dorul de Țară, să mai văd ce se petrece pe aici...</p>
@@ -204,18 +205,18 @@
 <p>— El îi colea, doarme în ietacul acesta. S-a culcat săracul, că nu mai putea de somn.</p>
 <p>Pe când Vornicul sui scările împreună cu jupânițele tinere, Moș Purice mai porunci oștenilor încă o dată să strige din resputeri: „Trăiască Vornicul, ura-a-a!”</p>
 <p>Un fior de nespusă bucurie trecu prin inimile copilandrelor, când auziră din gura lui Moș Purice, că Ștefăniță, voinicul cu ochi albaștri și plete de aur, se află la casa lor. Nu aveau în gând pe alt Ștefăniță, decât pe feciorul lui Bogdan Vodă, care făcu minuni de vitejie pe stepele Nistrului, care a fost ales de întregul popor domn al Moldovei. Fetișcanele îl cunoșteau de bunăseamă, de vreme ce copilăriră cu dânsul, — nu odată se sfădiră cu el din nimica toată și apoi iar se împăcară ca niște frați.</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
         </div>
     </div>
     
     <div type="part">
-<p>Partea Literară.</p>
-<p>VOIEVOZII</p>
-<p>Povestire originară a „Unirii”.</p>
-<p>de Dela Bistriță.</p>
-<p>(Continuare).</p>
+<head>Partea Literară.</head>
+<head>VOIEVOZII</head>
+<head>Povestire originară a „Unirii”.</head>
+<head>de Dela Bistriță.</head>
+<head>(Continuare).</head>
 <div type="section">
-<p> CAPITOLUL VI.</p>
+<head> CAPITOLUL VI.</head>
 <p>Înoptase de demult. O adâncă și sfântă tăcere domnea în vechea cetate a Sucevei. Luna plină, se scaldă în vinețiile unde de nori — când își arăta chipul bălai din vreo spărtură de nor — când își ascundea fața sub înorarea zării.</p>
 <p>Ici-colo vreo stea stingheră scăpăra pe tăria văzduhului, spărgând cu puterea razelor de noapte vreo lespede de nor.</p>
 <p>La castelul domnesc luminile Încă nu se stinseră. În astă-seară Doamna mare Ruxanda avea musafiri. Între jupânii și jupânesele de față se afla și Petru Rareș și logofătul Tomșa și Doamna Țării-Românești, Despina cu fetele ei: Ruxanda și Stana, care au venit să mai vadă pe Doamna Ruxanda și să o mângâie pe urma dureroasei pierderi a soțului ei, Bogdan.</p>
@@ -257,15 +258,15 @@
 <p>Această înjghiebare a lucrurilor dădu lui Tomșa și boerilor din Suceava de înțeles, că Ștefăniță cu orice preț avea să-și înmormânteze maica sa în gropnița domnească, chiar împotriva voinței Doamnei Ruxanda. 1</p>
 <p>Vornicul Tăutu, ce-i drept, credea cu Ștefăniță că Doamna în nici un chip nu se va hotărî să dea cheile gropniței de la Putna, — dar nu mică le-a fost mirarea, când Doamna îndeplini cu toată bunăvoință ruga Măriei Sale. Și aceasta dădu mult de gândit și Vornicului și boerilor ieșeni, dar și lui Ștefăniță Vodă.</p>
 <p>Logofătul Moldovei Tomșa, știa cum să întoarcă treaba spre folosul dorințelor lui și spre binele Doamnei — și știa, cum să scoată Curtea Sucevei din cumpăna grea. Căci numai întratât nu ținea noul Vodă la Doamna Ruxanda și la Curtenii Sucevei, întrucât ea, sfătuită cu dânșii, nu puseră cuvânt pentru dânsul, ci pentru Petru Rareș, în ziua în care se ținu Scaun mare la Iași,</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
 </div>
     </div>
     <div type="part">
-<p>Partea Literară.</p>
-<p>Voievozii.</p>
-<p>Povestire originară a „Unirii”.</p>
-<p>de Dela Bistriță.</p>
-<p>(Continuare).</p>
+<head>Partea Literară.</head>
+<head>VOIEVOZII.</head>
+<head>Povestire originară a „Unirii”.</head>
+<head>de Dela Bistriță.</head>
+<head>(Continuare).</head>
         <div type="section">
 <p>Drept aceea logofătui Tomșa în cuvântarea lui, pe care o rosti în ziua înmormântării, aduse vorba și despre cele întâmplate:</p>
 <p>„Boerilor D-voastră!</p>
@@ -287,10 +288,10 @@
 <p>După scurtă zăbavă în lăcașul Domnului petrecută în cucernică rugă de binecuvântare, în fanfara străbunei muzici, în salvele miilor de focuri, în asurzitoarele urale ale norodului și în dangătele răsunătoarelor limbi de clopot, alaiul domnesc o luă incet- încet spre mândra Curte domnească.</p>
 </div>
 <div type="section">
-<p>CAPITOLUL VII.</p>
+<head>CAPITOLUL VII.</head>
 <p>Vodă Ștefăniță rămase încântat de măreața primire a Doamnei Ruxanda, de prânzele scumpe ce le dădea pe socoteala ei, dar mai mult de gingașa ei purtare față de dânsul. Chiar boierimea se învârtea împrejurul lui cu un fel de sfântă venerațiune, gata să-i îndeplinească orice poruncă. Vodă în curând se deprinde cu viața de la Curte și cu boerii Sucevei, oameni buni și prietenoși. De aceea Vodă lasă deocamdată toate slujbele cârmei pe seama slujbașilor vechi.</p>
 <p>Doamna Despina, care cu fiicele sale zăbovea la Curtea domnească, trebui să intre în cunoștință cu Vodă, — mai ales că cu toții ospătau împreună. Și lucru firesc, că Ștefăniță simțea o nespusă plăcere, când putea schimba câteva vorbe, batăr la masă, cu copilele Doamnei Despina. În scurt, se topi sfiala tinerilor, și începeau să vorbească și mai în voie și să facă uneori vreo șagă, de se rupeau cu toții de râs.</p>
-<p>। Așa bunăoară, într-o bună dimineață înaltele fețe domnești se primblau prin minunatul parc al Curții. Farmecul florilor și armonia păsărilor umpleau natura de parfum și înviorare.</p>
+<p>Așa bunăoară, într-o bună dimineață înaltele fețe domnești se primblau prin minunatul parc al Curții. Farmecul florilor și armonia păsărilor umpleau natura de parfum și înviorare.</p>
 <p>În desișul crengilor înverzite, în umbra unui nuc bătrân, din când în când se auzea cântecul unui cuc hazliu, ce cântă musafirilor, din față spre semn de noroc.</p>
 <p>Vodă Ștefăniță întrebă pe Ruxanda, care se preumbla împreună cu dânsul, pe aleile parcului:</p>
 <p>— Știi, de ce cântă cucul?</p>
@@ -305,15 +306,16 @@
 <p>— Să-mi zici cucule, câți Feți frumoși are să aibă jupâttița Ruxanda, m-ai înțeles?</p>
 <p>Tocmai atunci și prorocul începu să cânte „cucu, cucu“... iar Vodă numără până la cinsprezece.</p>
 <p>— Auzi jupânițo? — Zice cucul, că ai să ai cinsprezece feciori — înțelegi?</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
 </div>
     </div>
     
     <div type="part">
-<p>Partea Literară.</p>
-<p>VOIEVOZII.</p>
-<p>Povestire originară a „Unirii”, de Dela Bistriță.</p>
-<p>(Continuare).</p>
+<head>Partea Literară.</head>
+<head>VOIEVOZII.</head>
+<head>Povestire originară a „Unirii”</head>
+	<head>de Dela Bistriță.</head>
+<head>(Continuare).</head>
         <div type="section">
 <p>— Eu nu înțeleg nimic, răspunse Ruxanda cu sfială. Vodă râdea din tot sufletul de hazlia prorocie a cucului, pe când jupânița se făcea niznae și trecea cu vederea șaga Măriei Sale, care o atingea.</p>
 <p>Doamna Despina știa bine, că Ștefăniță puse ochii pe fiica-sa mezină, Ruxanda. Aceasta o cunoștea din vorbele-i dulci și gingașe, din lungile-i și neîntreruptele preumblări, din ochii aprinși de-o tainică dragoste.</p>
@@ -351,16 +353,16 @@
 <p>— Oh, Dumnezeule! — Oftă Stana în glas mare, remănând pe drum. În glasul ei tremurător vibra deznădejdea neagră.</p>
 <p>Doamna Ruxanda împreună cu mezina se sculară tocmai cu puțină vreme mai înainte de a trece Măria Sa cu Stana. Ele auziră și înțeleseră prea bine rostul convorbirii lor, care le dădu mult de gândit.</p>
 <p>A doua zi Ștefăniță dis de dimineață își făcea tot planuri, cum ar fi mai bine, să zică Ruxandei tot ce-i zace pe inimă...</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
             </div>
     </div>
     
     <div type="part">
-<p>Partea Literară.</p>
-<p>VOIEVOZII.</p>
-<p>Povestire originară a „Unirii”.</p>
-<p>de Dela Bistriță</p>
-<p>(Continuare).</p>
+<head>Partea Literară.</head>
+<head>VOIEVOZII.</head>
+<head>Povestire originară a „Unirii”.</head>
+<head>de Dela Bistriță</head>
+<head>(Continuare).</head>
         <div type="section">
 <p>— Vor fi venind, se vede, grăi metropolitul, privind cu mulțumire sufletească în ochii lui Radu și netezindu-și de bucurie barba albă.</p>
 <p>Un arnăut dădu de veste, că au sosit la Curte niște tinere jupânițe, care vor să dea ochii cu Măria Sa.</p>
@@ -417,7 +419,7 @@
 <p>Soarele stătea sus într-amiezi, când Vodă se despărți de Ruxanda.</p>
 </div>
 <div type="section">
-<p>CAPITOLUL X.</p>
+<head>CAPITOLUL X.</head>
 <p>Dinspre apele Argeșului suflă un vântișor rece și jilav, în întruparea serii turinele se întorceau de la imaș, — tâlăngile sunau lin, melancolic.</p>
 <p>Departe, pe pripoarele măgurilor, învălurite într-un giulgiu fumuriu de ceață, se îngână o duiosă înmlădiere de bucium. Pe costițele dealurilor sterpe scânteiau în minele de la stâne. De peste coroanele întunecosului brădeț se înălță, pe întinderea orizontului sineliu, Crai-nou. Coarnele de aur și le implantă în valurile norilor aburii, de gheață, tivindu-i de jur-împrejur cu un ghenar auriu, împletit din solzi de lumină.</p>
 <p>Din adâncul zărilor pustii răsăreau pe furiș, tot una câte una, steluțele, scuturându-și de sus mărunta pulbere de raze.</p>
@@ -462,17 +464,17 @@
 <p>— Să iertați d-voastră, că tocmai acum a și plecat.</p>
 <p>— Dar încotro ?</p>
 <p>— Ia la Vistiernicul nostru, la conul Neculai Șoituzu, care în astă seară închină masă mare. Are să fie mare petrecanie, de vreme ce li se logodește fata Dochiță cu Niță logofătul, holteiul Banului Iordache.</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
 </div>
     </div>
     <div type="part">
-<p>Partea Literară.</p>
-<p>VOIEVOZII.</p>
-<p>Povestire originară a „Unirii”.</p>
-<p>de Dela Bistriță.</p>
-<p>(Continuare)</p>
+<head>Partea Literară.</head>
+<head>VOIEVOZII.</head>
+<head>Povestire originară a „Unirii”.</head>
+<head>de Dela Bistriță.</head>
+<head>(Continuare)</head>
 <div type="section">
-<p>CAPITOLUL XI.</p>
+<head>CAPITOLUL XI.</head>
 <p>Într-un târziu de noapte, după multă și veselă petrecere la Curtea Vistiernicului Șoituzu, boierii mulcomiți poate și amețiți de vinurile de Drăgășani și Odobești, se retrăgeau tot unul câte unul.</p>
 <p>Chiar Măria Sa dădu poruncă Comisului Iliașcu să pună caii la rădvanul domnesc. Vodă avea de gând să însoțească pe Ruxanda și Ilinca până la Curte, în rădvanul domnesc. În clipa, în care Măria Sa și jupânițele își luară „noapte bună" de la logodnici și de la Visternic, tresări în întreaga mulțime, ce mai rămase, un fior de dulce înviorare. Alăutele și cobzele, cimpoaiele și surlele, cavalele și triștile îngânau lin și măngâios un cântec vesel.</p>
 <p>Afară se auzi un zuruit surd de rădvan și tropotele cailor, ce se apropiau spre scările Curții, se lămureau tot mai mult...</p>
@@ -542,15 +544,15 @@
 <p>— Dar răspunde-mi la întrebare, Măria Ta, ți-i dragă Ruxanda?</p>
 <p>— Ei taci cu vorba asta, — reluă domnița, ca și când n-ar fi vrut să îngăduie lui Radu de a-și dastăinui tainele inimii. Vodă fără înconjur zise verde și fățiș Ilincăi:</p>
 <p>— Da, mi-i dragă Ruxanda, o iubesc și o vreau de domniță.</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
 </div>
     </div>
     <div type="part">
-<p>Partea Literară.</p>
-<p>VOIEVOZII</p>
-<p>Povestire originară a „Unirii“.</p>
-<p>de Dela Bistriță.</p>
-<p>(Continuare).</p>
+<head>Partea Literară.</head>
+<head>VOIEVOZII</head>
+<head>Povestire originară a „Unirii“.</head>
+<head>de Dela Bistriță.</head>
+<head>(Continuare).</head>
         <div type="section">
 <p>— Ce spui și tu, Ruxando, la asta?</p>
 <p>— Nu spun nimic altceva, decât tot ceea ce-a spus-o Radu,</p>
@@ -578,7 +580,7 @@
 <p>Pe cerul limpede și senin lucea luna plină, privind îngândurată peste întinderile visătoare.—</p>
         </div>
         <div type="section">
-<p> CAPITOLUL XII.</p>
+<head> CAPITOLUL XII.</head>
 <p>Vornicul Țării de sus, George Tăutu, avea mari moșii în ținutul Iașilor și Tălciului, podgorii mândre în Cotnari și limbi de păduri în ținutul Sucevei. Pe pământurile lui rodnice și mănoase, pe care creșteau lanuri de grâu și porumbiști de aur, ovăz, săcară și orz, se resfirau de-alungul Jijiei și în preajma Prutului la mai bine de cincizeci de sate și cătune. În Rădăucăneni avea hambare pline cu grâu, clăi de fâneață proaspetă și stoguri de paie.</p>
 <p>Pe coasta Jijiei avea șapte mori, care ziua și noaptea măcinau grâurile și porumburile, prefăcându-le în făină galbină ca chilimbarul, pe care căruțașii o cărau în grămezi de saci spre cetatea Sașilor ori a Hușilor. Iar din Cotnari, tot anul, se cărau în susul și în josul Țării sute de poloboace pline cu vin alb ori roș, moldovenesc.</p>
 <p>Vinurile-i ajunseră a fi cunoscute chiar în Țara-leșească — și mulți din boerii poloni le mijloceau de-a dreptul din podgoriile lui. Vornicul era gospodar de pildă pentru boerii din împrejurime prin priceperea și iscusința la gospodărit, dar mai mult prin bunătatea și dulceața inimii. Pe lângă daniile cari le făcuse schiturilor și mănăstirilor de pe ținuturile sale, pe lângă nenumăratele pomeni date de sufletele repausaților, atâtor familii scăpătate, Vornicul iubea din tot sufletul poporul de jos, poporul iobag. Oricare sat și cătun îți avea imașul lui de pășune și fiecare sătean își avea șușănița lui de ogor, bordeiul și grădinuța sa. ।</p>
@@ -587,15 +589,15 @@
 <p>De almintrelșa tot poporul ținea foc la Vornic și pentru dânsul s’ar fi dat și în foc și în vânt. Cu Vodă Ștefăniță de asemenea trăia bine ca cu frate-său și ținea să fie om de cuvânt și de trainică dragoste cătră Curtea domnească, ca și tată-său, de fericită pomenire, marele logofăt Tăutu.</p>
 <p>Curtea, în care Vornicul petrecea vremea de vară, unde se ascundea de marea căldură și de înăbușeala târgului, se afla în Hârlău, în ținutul Botoșanilor. Numai din când în când se mai abătea cu vorniceasa ori cu vornicuțele prin Iași, de dragul sărbătorilor ori a unor petreceri neobișnuite, Feciorul Iorgu, voinic și chipeș, ajuns căpitan de plai, încă nu se întoarse cu oastea tăbărită pe stepele Nistrului.</p>
 <p>Deunăzi tocmai, de sărbătoarea sfintei Mării, își aduse fetele din cetatea Sașilor să vadă pe Vodă Ștefăniță; iar după ce l-au văzut și au rupt câteva frânturi de vorbe cu Măria Sa, Vornicul le-a trimis înapoi în Hârlău, întovărășite de vorniceasa Tudora. El mai zăbovi pentru nu fir de vreme în Iași, dând seamă de treburile Țării lui Vodă Ștefăniță.</p>
-<p>(Va urma.</p>
+<trailer>(Va urma.</trailer>
             </div>
     </div>
     <div type="part">
-<p>Partea Literară.</p>
-<p>VOIEVOZII</p>
-<p>Povestire originară a „Unirii“.</p>
-<p>de Dela Bistriță</p>
-<p>(Continuare).</p>
+<head>Partea Literară.</head>
+<head>VOIEVOZII</head>
+<head>Povestire originară a „Unirii“.</head>
+<head>de Dela Bistriță</head>
+<head>(Continuare).</head>
         <div type="section">
 <p>Azi toată dimineața vornicul grăi cu dragomanul Iordache Pandelia, sosit de la curtea de Argeș. Veștile auzite de la dragoman erau de mare însemnătate pentru Vodă. Vornicul ținea în taină cele auzite și căuta cel mai prielnic prilej de a-i destăinui noile vești din Țara Românească. Tăutu găsi de bună cuviință, a pofti pe Vodă, să facă o călătorie la curtea lui din Hărlau.</p>
 <p>Și Vodă s-a învoit.</p>
@@ -663,7 +665,7 @@
 <p>A doua zi dis-de-dimineață Vodă Ștefăniță părăsi împreună cu logofătul Dragomir curtea vornicului Tăutu din Hârlău.</p>
 </div>
 <div type="section">
-<p>CAPITOLUL XIII.</p>
+<head>CAPITOLUL XIII.</head>
 <p>A doua zi de Paște era o zi caldă, frumoasă. — o zi cu soare, plină de viață și de înviorare. Pe covorul văzduhului albastru nu se ivea nici o dungă de nor. Dătătorul luminii stăpânea întinsul zărilor, limpezi ca apa izvorului de munte. Codrii tăceau. Nici un freamăt de frunze, nici o suflare de vânt. Firea ticnită, în răcoarea dimineții, se închină, parcă în taină, cătră cel Înviat din morți. Spre ceruri se urcau rugătoare știutele glasuri de clopot, îndemnând la rugăciune Curtea de Argeș. Parcă și rândunelele, la umbra de ramuri, ciripeau în limba lor, cucernice rugi. Apele Argeșului, în șoapte de valuri, lin sunătoare, parcă se închinau. Tot astfel întregul norod peruea, cu suflete pline de vie credință, spre sfântul lăcaș, să proslăvească Atotștiutorul.</p>
 <p>Pe drumurile Curții vedeai furnicând moșnegi gârboviți de povara anilor scurși pășind încet, cu toiagurile în mâini. Zăreai și flăcăiandrii fercheși, spilcuiți în straie sărbătorești, cu ochi senini surâzători, pășind spre biserică, se se închine. Pe drum, făceau cu ochiul la cocoane oacheșe, ori din treacăt spuneau frânturi de vorbe glumețe, facându-le se rîda în hohot. . Fetișcanele sprintene și mlădioase treceau tăcute, cu ochii zâmbind alături de neveste vrâstnice. Copii gălăgioși se îndrumau, în grămezi mari, spre mănăstire, în cale ciocnind ouă roșii. Adesea treceau și rădvane cu jupâni și jupânese, luând-o alene spre deal.</p>
 <p>De departe, din pala văii, pe aripi de vânt, veneau îngânări de trimbițe, sunând ascuțit. Ostimea venea la sfânta slujbă. În clipe de liniște, se deslușeau bine, asurzitoarele, tropote de cai. De la cotitura drumului înfurcit zăreai mândra ceată de călărași, suind dealul agale. Curtenii călăre însoțeau pe Măria Sa Radu Vodă, care-și purta lumina ochilor, ageră ca de vultur, peste valurile bravei oștimi. În urma alaiului domnesc, vârtejurile luminoase de colb opreau vederea călărimii ostășești. În sunări de trâmbițe și de surle oastea suia dealul, încet la trap.</p>
@@ -679,16 +681,16 @@
 <p>Pe când Vodă cu boerii descălecau la scările largi ale sfântului Lăcaș, norodul nu mai contenea de a-și sfârși uralele de înveselire. Slujba se săvârșea cu cucernică evlavie, iar după sfârșirea ei, poporul credincios începea să se strecoare, așteptând pe tăpșanul schitului, pe Radu Vodă.</p>
 <p>Comisarul aducea de frâu calul cu stea în frunte al Măriei Sale. Fețele velite însoțeau pe Vodă la scări, care încălecă într-o clipă. Pe rând încălecau boerii și alaiul întreg pornea la pas, în focuri de salve, amestecate cu zvonuri de clopote, cu țipetele uralelor și îngânările surlelor.</p>
 <p>Vodă clătina ușor din cap mulțimii care i se închină. În ochii Domnului mijea un zâmbet sfiit. Jupânițele oacheșe, ce se înghesuiau la porțile bisericii, zvârleau trandafiri înaintea alaiului domnesc, să calce pe covoare de flori.</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
     </div>
         </div>
     
     <div type="part">
-<p>Partea Literară.</p>
-<p>VOIEVOZII.</p>
-<p>Povestire originară a „Unirii“.</p>
-<p>de Dela Bistriță.</p>
-<p>(Continuare).</p>
+<head>Partea Literară.</head>
+<head>VOIEVOZII.</head>
+<head>Povestire originară a „Unirii“.</head>
+<head>de Dela Bistriță.</head>
+<head>(Continuare).</head>
         <div type="section">
 <p>Alaiul petrecu pe Vodă până la Curtea domnească, de unde-și luară rămas bun dela Măria Sa. Numai jupânul Ioan Despot trase în ograda Curții domnești, având o înfățișare posomorâtă ca negura toamnei. Avea pe semne, de vorbit câteva vorbe cu Măria Sa, în patru ochi.</p>
 <p>— Ce mai veste, cucoane 	Iancule, — întrebă Radu cu voie bună pe Despot.</p>
@@ -732,21 +734,21 @@
 <p>Din când în când vărsau din senin lacrimi de aur. Prin liniștea serii deslușeai armonia valurilor plutitoare, pe care Argeșul le mâna mereu departe, mai departe, în fermecătoare fanfară de unde.</p>
 </div>
 <div type="section">
-<p>CAPITOLUL XIV.</p>
+<head>CAPITOLUL XIV.</head>
 <p>Doamna Despina își aștepta fetele cu nespusă nerăbdare, să sosească pe azi, pe mâine. Dorul și dragostea de mamă o îndemnau uneori să presupună nenorocite întâmplări</p>
 <p>în lungile lor străbateri de drumuri. Singura încredere în Pronia suprafirească îi umplea mereu inima de dulce și mângăitoare nădejde, — care, ca o rază blânda și limpede de soare, îi zvântura norii tristeții din sufletu-i zbuciumat de atâtea negre frământări.</p>
 <p>În clipe de singurătate, de dornică așteptare, se mai lua cu zilele dulci și calde de primăvară, cu zâmbetul întineritei naturi, cu doinirile dragi ale păsărilor ori cu alinarea oacheșelor flori din grădină. Dar nimic nu-i putea umplea golul din suflet, pe care-l simțea pe urma fetelor duse, pe care le iubea ca ochii din cap.</p>
 <p>În Sibiu, în acel furnicar de străini, în acel învălmășag de graiuri străine și de obiceiuri necunoscute, doamna simți un dezgust neînchipuit de a închega cunoștinți cu astă lume nouă.</p>
 <p>Restul zilei și-l petrecea în deplină retragere de lume, îndeletnicindu-se, pe lângă treburile casnice, cu citirea „Vieților Sfinților“, cu închinarea „Acatistului“ Prea sf. Născătoare de Dumnezeu, cu bateria mătăniilor pe la Icoane și cu cucernica și evlavioasa răzgândire a veșnicilor adevăruri. Dezgustul de lume adesea o îndemna, ca după ce-și va fi măritat copilele, să zică rămas bun deșărtăciunilor vieții și să se închidă în chilia unei sihăstrii, să-și mântuie restul zilelor în cea mai tăcută liniște și pace întru Domnul.</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
 </div>
     </div>
     <div type="part">
-<p>Partea Literară.</p>
-<p>VOIEVOZII.</p>
-<p>Povestire originară a „Unirii“.</p>
-<p>de Dela Bistriță.</p>
-<p>(Continuare).</p>
+<head>Partea Literară.</head>
+<head>VOIEVOZII.</head>
+<head>Povestire originară a „Unirii“.</head>
+<head>de Dela Bistriță.</head>
+<head>(Continuare).</head>
         <div type="section">
 <p>Ca să nu vărsați sânge, de dragul acestei domnițe, — vorbi cerescul crai, — ea nu-și va da mâna nici unuia din voi, mâna ei a mea are să fie.</p>
 <p>În aceeași clipă, Hristos se întoarse spre Ruxanda și cu un glas domol și lin o întrebă:</p>
@@ -772,7 +774,7 @@
 <p>Domnița se duce spre curte cu maică-sa, care-și puse în pat copila bolnavă de trudă și dor...</p>
 </div>
 <div type="section">
-<p>CAPITOLUL XV.</p>
+<head>CAPITOLUL XV.</head>
 <p>Petru Rareș părăsind Hârlăul, a doua zi din zori, se repezi ca un poștalion cu șase telegari, sprinteni și iuți ca vântul. În cetatea Moldovei, Suceava.</p>
 <p>Rareș sosi cu gândul de-a învrăjbi boierimea și poporul cu Ștefăniță Vodă, care se puse pe mese mari și petrecanii la Iași, în curtea Vornicului Tăuni, în loc de a căuta de păsurile și nevoile Țărei.</p>
 <p>Rareș, fiu din flori al lui Ștefan cel Mare ca și Vodă Ștefăniță, al lui Bogdan, avea drepte pretenții la scaunul domnesc. Aceasta-i era pricina, care-l îndemna să înlăture cu orice preț pe noul, nepriceputul și neistețul Domn al Moldovei de la cârmă. Știa bine Rareș, că el fu ales mai mult prin vicleșugul unor boeri cumpărați de Vornicul Tautu decât prin dreptatea și dragostea neamului</p>
@@ -831,17 +833,17 @@
 <p>Pământurile lor trecură în stăpânirea visteriei. De asemenea mulți din oștenii răsculați își plătiră neascultarea cu viața.</p>
 <p>În Țara-Moldovei domnea cea mai mare nerânduială, nesiguranță de viață, tulburare și neliniște.</p>
 <p>Țara își perdu încrederea în noul Voievod și dragostea către cârma de față. Moldova ajunse în cumpănă grea.</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
    </div>
     </div>
     <div type="part">
-<p>Partea Literară.</p>
-<p>VOEIVOZII.</p>
-<p>Povestire originară a „Unirii“.</p>
-<p>de Dela Bistriță.</p>
-<p>(Continuare).</p>
+<head>Partea Literară.</head>
+<head>VOEIVOZII.</head>
+<head>Povestire originară a „Unirii“.</head>
+<head>de Dela Bistriță.</head>
+<head>(Continuare).</head>
 <div type="section">
-<p>CAPITOLUL XVI.</p>
+<head>CAPITOLUL XVI.</head>
 <p>Noaptea se furișă, pe nesimțite, întinzând giulgiul întunerecului peste tot cuprinsul Sibiului.</p>
 <p>Din văzduh răsăreau în taină, luceferi scânteitori și stele lin sclipitoare, în tremur de raze.</p>
 <p>Din valuri de nouri albi, de cristal, se înalță luna plină, Atotstăpânitoarea feeriilor de noapte.</p>
@@ -950,8 +952,7 @@
 <p>Deasupra Curții cobea o buhă stingheră în bezna nopții.</p>
 </div>
 <div type="section">
-<p>Capitolul XVII.</p>
-<p>Sfârșit de toamnă.</p>
+<head>Capitolul XVII.Sfârșit de toamnă.</head>
 <p>Stropi mărunți de ploaie rece cad neîntrerupt din adâncul zărilor mohorâte.</p>
 <p>Mărgăritare de brumă s-au așternut peste vii, pârăgănindu-le.</p>
 <p>Un vânt tomnatic, ce suspina cu freamăt, desprindea de pe vârfurile codrilor cele de pe urmă frunze îngalbinite.</p>
@@ -969,15 +970,15 @@
 <p>Radu din boerii de față alese de sol pe Niță logofătul, pe postelnicul Balș și pe spătarul Pintilie.</p>
 <p>În sănătatea solilor aleși, boierii cu Vodă băură câte o sângeacă dă rachiu.</p>
 <p>Solia avea să plece poimânie dimineață — și după vreo două săptămâni aveau să se întoarcă cu răspuns hotărât din Suceava.</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
 </div>
     </div>
     <div type="part">
-<p>Partea Literară.</p>
-<p>VOIEVOZII</p>
-<p>Povestire originară a „Unirii“.</p>
-<p>da Dela Bistriță.</p>
-<p>(Continuare).</p>
+<head>Partea Literară.</head>
+<head>VOIEVOZII</head>
+<head>Povestire originară a „Unirii“.</head>
+<head>da Dela Bistriță.</head>
+<head>(Continuare).</head>
         <div type="section">
 <p>Solii ajunseră în cetatea domnească a Moldovei.</p>
 <p>Vătăjeii de la porți vestiră vornicului Țării de sus, Gheorghe Tăutu, și celei de jos, Toma Beldiman, sosirea crainicilor românești. Vodă înștiințat de Vornici dădu poruncă, să fie lăsați la curte.</p>
@@ -1016,15 +1017,15 @@
 <p>Iar dacă Măria Ta nu voiai să ne înțelegi și voiai numai decât război, atunci n-avem încotro apuca.</p>
 <p>„Dar Măria ta vei da seamă înaintea lui Dumnezeu pentru sângele ce se va vărsa în zădar.</p>
 <p>„Prin urmare de la soartea și norocul războiului se va hotărî, cine dintre Voievozi să aibă parte la mâna Ruxandei.</p>
-<p>(Va urmă.)</p>
+<trailer>(Va urmă.)</trailer>
         </div>
     </div>
     <div type="part">
-<p>Partea Literară.</p>
-<p>VOIEVOZII.</p>
-<p>Povestire originară a „Unirii“.</p>
-<p>de Dela Bistriță,</p>
-<p>. (Continuare).</p>
+<head>Partea Literară.</head>
+<head>VOIEVOZII.</head>
+<head>Povestire originară a „Unirii“.</head>
+<head>de Dela Bistriță,</head>
+<head>(Continuare).</head>
         <div type="section">
 <p>- Așa să fie! — răspunse Ștefăniță, — soarța și norocul războiului să hotărască a cui să fie Ruxanda!</p>
 <p>Solii închinându-se adânc și smerit, ieșiră mâhniți din curtea domnească din Suceava.</p>
@@ -1041,7 +1042,7 @@
 <p>A treia-zi crainicii Moldovei porniră spre Sibiu.</p>
 </div>
 <div type="section">
-<p>CAPITOLUL XVIII.</p>
+<head>CAPITOLUL XVIII.</head>
 <p>S-a pus pe nins.</p>
 <p>De trei zile ninge amarnic, iar urletul crivățului asurzește lumea. Un vâjâit sălbatic și desperâtor parcă da să culce lumea la pământ.</p>
 <p>Pe-o așa viforniță și viscol nepomenit, rebegiți de ger, trudiți de drum, cu suflet amărât Solii Țării-Românești au ajuns în sfârșit, cu vai și chin, la Curtea de Argeș.</p>
@@ -1108,17 +1109,17 @@
 <p>Lacrimile vărsate de dor, încet — încet — îi săpau două umbre vineții în lumina ochilor, întunecați de norii întristării.</p>
 <p>Doamna vedea cum se uscă pe picioare cât plânge și oftează copila de jale. Ea se ruga la toți sfinții ziua și noaptea, postea și bătea mătănii, numai ca cel de sus să-i schimbe gândul, — și să-i aducă cât mai curând pe solii Moldovei, cu inelul de logodnă, să le ducă mireasa lui Vodă Ștefăniță, după cum le era vorba.</p>
 <p>Dar jupâniță Ruxanda cu dor nespus aștepta solia Țării-Românești — s-o mântuie din atât amar de zbucium sufletesc, s-o ajute a-i împlini visul fericirii sale, să fie mireasa lui Radu Vodă.</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
     </div>
 </div>
         <div type="part">
-<p>Partea Literară.</p>
-<p>VOIEVOZII</p>
-<p>Povestire originară a „Unirii“.</p>
-<p>de Dela Bistriță.</p>
-<p>(Continuare).</p>
+<head>Partea Literară.</head>
+<head>VOIEVOZII</head>
+<head>Povestire originară a „Unirii“.</head>
+<head>de Dela Bistriță.</head>
+<head>(Continuare).</head>
 <div type="section">
-<p>CAPITOLUL XIX.</p>
+<head>CAPITOLUL XIX.</head>
 <p>În urmă, în toiul iernii geroase, prin viscol și viforniță, solii Țării-Românești ajunseră cu Doamne-ajută la Sibiu. Troianul de omăt învelise cu giulgiuri albe, sclipitoare, toate întinderile, văile și munții și drumurile Oltului, pe care răzbateau cu anevoință crainicii românești. În cale, făcură lungi popasuri pe la casele sătenilor, să-și mai dezghețe promoroaca mustăților și țurțurii încleștați de bărbi.</p>
 <p>Într-o sanie puternică, acoperită cu tolnici groase de câlț, zvârlite deasupra arcurilor de nuiele, sosiră cei doi soli: Niță logofătul și spătarul Pintilie, întovărășiți de comisul Ilașcu și arnătul Arghir. Cu toți erau îmbrăcați în contășe ostășești, în blănuri groase — iar petelele părului erau ascunse în căciulile mari, țuguite, trase pe urechi, peste care mai purtau glugi largi, cu canafuri la vârf. La coapsă purtau hangere turcești cu ascuțișuri întortocheate și sfredelite, ținute în teci de piei, iar în turetcile botforilor creți ascundeau pistoale cu câte două țevi, cu straturi de or ori de sânger. Sania era înhămată, de patru armăsari, zdraveni și sprinteni, care în clinchete zurgălăi spintecau văzduhul în zbor.</p>
 <p>Solii sosiră în Sibiu, la începutul lui Făurar, în sărbătoarea Întâmpinării Domnului. Ei nu trasară la curtea Doamnei Despina, ci la curtea dragomanului Pandelea, presimțind, că bătrâna le va respinge găzduirea.</p>
@@ -1185,15 +1186,15 @@
 <p>— Dar bine, maică, de ce nu vrea să înțeleagă Radu, că nu-i poți făgădui mâna soră-mea? De ce ne tot năcăjește atât?</p>
 <p>— Ei, ei — fata, parcă dragostea îi poate da pace?</p>
 <p>— Dragostea? reluă Stana râzând cu ironie... ha, ha, ha... atâta rău cât o iubește Radu! Ca sarea-n ochi!</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
 </div>
         </div>
     <div type="part">
-<p>Partea Literară.</p> 
-<p>VOIEVOZII</p> 
-<p>Povestire originară a „Unirii”.</p> 
-<p>de Dela Bistriță.</p> 
-<p>(Continuare).</p> 
+<head>Partea Literară.</head> 
+<head>VOIEVOZII</head> 
+<head>Povestire originară a „Unirii”.</head> 
+<head>de Dela Bistriță.</head> 
+<head>(Continuare).</head> 
         <div type="section">
 <p>— Ia ascultă. Dacă n-ar iubi-o, i-ar da pace și n-ar mai avea de gând să se războiască cu Ștefăniță de dragul ei! D-apoi Ruxanda de dorul cui se usucă ca un țir? Între dânșii trebuie să ardă un foc. Și la urma urmei i-aș da-o, dacă nu mi-aș fi dat cuvântul lui Ștefăniță.</p>
 <p>Pe această vreme de-asemenea logofătul stătea de vorbă în patru ochi cu Ruxanda, în odaia ei, curată și caldă.</p>
@@ -1219,7 +1220,7 @@
 <p>Radu Vodă ruga pe împărat să învoiască Doamnei Despina a trece în Țara-Românească, a sărbători, mândra zi de cununie a fetei sale, Ruxanda Basarab cu Voievodul Radu de la Afumați, Domn al Țării-Românești.</p>
 </div>
 <div type="section">
-<p>CAPITOLUL XX</p>
+<head>CAPITOLUL XX</head>
 <p>Vinul roșu adus de logofăt puse Doamna pe picioare.</p>
 <p>Împotriva așteptării craininicilor, ea primi toate scumpeturile trimise din partea lui Radu: băicerele și scoarțele turcești, barișurile de mătasă, salba de mărgean, papucii turcești, trași cu fire de aur și cercei de mărgărint. Numai Stana respinse colanul, brățările de aur, trimise de Radu Vodă.</p>
 <p>Pentru Ruxanda crainicii păstrau inelul de logodnă pe care aveau să i-l dea în fața mamei.</p>
@@ -1235,20 +1236,24 @@
 <p>— Acum Iancule să-mi zici de inimă albastră, știi, știi tu să-mi pui pe vers povestea lui Por Împăratul, pe vremea căruia se luptau Feții Frumoșii pentru o Ileana Cosânzeană.</p>
 <p>Iancu Lăscărache, pregătit de mult la cântecul cu versuri noi, începu pe arie veche, cunoscută, cu glas limpede și sonor:</p>
 <p>Cică:</p>
-<p>Foaie verde romăniță</p>
+
+	<p>Foaie verde romăniță</p>
 <p>Inimioara mea,</p>
 <p>Radu și cu Ștefăniță</p>
 <p>Au pus ochii pe-o fetița</p>
 <p>Și-i cer mâna de domniță,</p>
 <p>Inimioara mea!...</p>
+	
 <p>Pe același ton, alăutele îngânau lin întreaga melodie a cântului duios. Cu toți rămaseră uimiți de meșteșugită poezie a lui Iancu scripcarul, care știa să făurească și versuri. Ruxanda zâmbea cu-n fel de duioșie. După ce Lăscărache tuși, începu iarăși cu glas puternic și lin răsunător:</p>
 <p>Cică:</p>
-<p>„Foaie verde lămâiță</p>
+
+	<p>„Foaie verde lămâiță</p>
 <p>Inimioara mea,</p>
 <p>De-o fi chiar și răzmiriță</p>
 <p>Mâna dă-ți-o, jupâniță</p>
 <p>Tot lui Radu, Răduliță</p>
 <p>Inimioara mea!</p>
+	
 <p>Boierii uitară de mâncat, ascultând versurile lui Iancu. Ochii Ruxandei se umplură de lacrimi. Cuvintele din urmă ale lăutarului, glasul limpede și tremurător și melodia cântului jalnic, ca o tânguire de mormânt, o mișcară până la lacrimi. Boerii se înduioșară. Chiar inima Doamnei se înmuia,</p>
 <p>— Halal, măi Lăscărache. Așa mai înțeleg și eu... zise spătarul.</p>
 <p>— Da nu mai plânge, jupânițo — adaugă logofătul — uite colea inelul de logodnă, pe care ți l-a trimis Radu.</p>
@@ -1305,7 +1310,7 @@
 <p>Înaintea solilor Moldovei se putea dezvinovăți ușor. Solii singuri erau de vină că nu veniseră mai devreme să ia ibovnica lui Ștefăniță.</p>
 </div>
 <div type="section">
-<p>CAPITOLUL XXI</p>
+<head>CAPITOLUL XXI</head>
 <p>După lungă și zadarnică așteptare Radu Vodă și curtenii ajunseră în ceartă că crainicii au pornit într-un ceas rău de nu mai întorc de la Sibiu. Căpităniile trimiseră o ceată de plăieși pe urma celor duși, să întrebe norodul din calea Argeșului, de nu s-a scornit vreun zvon despre dânșii. Vătăjeii,</p>
 <p>grănicerii, pârgarii de rediuri și de lanuri aveau să cerceteze limbile de păduri, satele și cătunile și toate hanurile de la răscrucile drumurilor.</p>
 <p>Fruntașii cârmei își închipuiau în mintea lor câte și mai câte bazaconii. O seamă tâlcuiau pricina întârzierii lor, c-ar fi prinși de Unguri și vârâți în temniță; o alta, c-ar fi rătăcit în fundul codrilor, unde-ar fi dat de haiduci, care i-ar jefui și omorât. Unii țineau c’ar fi rătăcit drumul Oltului, ori că pornind din Sibiu în toiul viforinței, s-ar fi întâlnit cu dihănii sălbatice, că i-ar fi mâncat lupii. Alții socoteau, că s-or fi întâlnit cu crainicii Moldovei și după crâncena încăierare vor fi luați în robie.</p>
@@ -1377,17 +1382,17 @@
 <p>Vodă întinse o masă mare, la care erau poftiți solii: Chir Ioan Despotul cu jupâneasa sa Florica; visternicul Șoituzu cu soția Marina și soră-sa Dochița; Sfinția Sa mitropolitul, medelnicerul Șendrea, sulgerul Hasan, jupânița Ilinca și toți jupânii și jupânesele de față.</p>
 <p>Stolnicul Pantelimon asuda turnând vinul prin pahare, zicând:</p>
 <p>— Să bem boierilor în sănătatea Mării Lor. Atâția ani să trăiască, câte pahare de viu vă voi turna eu!...</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
 </div>
     </div>
     <div type="part">
-<p>Partea Literară.</p>
-<p>VOIEVOZII.</p>
-<p>Povestire originară ă „Unirii“.</p>
-<p>de Dela Bistriță.</p>
-<p>(Continuare).</p>
+<head>Partea Literară.</head>
+<head>VOIEVOZII.</head>
+<head>Povestire originară ă „Unirii“.</head>
+<head>de Dela Bistriță.</head>
+<head>(Continuare).</head>
 <div type="section">
-<p>CAPITOLUL XXII</p>
+<head>CAPITOLUL XXII</head>
 <p>Cu sosirea zilelor calde de primăvară veniră și pentru tinerii îndrăgostiți zile dulci și senine.</p>
 <p>Vodă petrecea zile-ntregi de-a rândul la curtea lui Chir Ion, stând de vorbă cu odorul său, cărui îi destăinuia tainele sufletești și focul ce-l ardea.</p>
 <p>Ruxanda îl asculta cu zâmbete dulci în tremurul genelor; uneori ea îi povestea povești frumoase cu Feți-Frumoși și Ilene Cosânzene și-i fermeca auzul cu glasu-i curat în îngânarea doinei, cântate cu foc.</p>
@@ -1454,15 +1459,15 @@
 <p>— Bine v-a adus Dumnezeu la noi — reluă și jupâneasa Marina, — ia luați loc coalea pe jilțuri, puicele mamei!</p>
 <p>— Bine-ați venit sănătoase — îngână și Dochița, privind cu ochi senini și zâmbitori și dând ușor din cap, îmbucurată de sosirea musafirilor neașteptați.</p>
 <p>— Mulțumim, mamă, — răspunse jupânița Ilinca, care se așeză pe un jilț din dreptul visternicului, — pe când Dochița lua loc pe laița patului.</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
     </div>
     </div>
     <div type="part">
-<p>Partea Literară.</p>
-<p>VOIEVOZII.</p>
-<p>Povestire originară a „Unirii“.</p>
-<p>de Dela Bistriță.</p>
-<p>(Continuare).</p>
+<head>Partea Literară.</head>
+<head>VOIEVOZII.</head>
+<head>Povestire originară a „Unirii“.</head>
+<head>de Dela Bistriță.</head>
+<head>(Continuare).</head>
         <div type="section">
 <p>Într-aceea Ionică, feciorașul Dochiței, se trezi din somn, scâncind.</p>
 <p>Dochița Începu a-ș legăna copilul șezând alături de Ruxanda.</p>
@@ -1482,7 +1487,7 @@
 <p>Afară batea un vânt călduț de primăvară. În farmecul feeriilor luna stăpânea rotogolul pământului. Pe pala orizontului scăpărau zorii întunericului. Pe aripile zefirului veneau îngânările Argeșului ce-și mână alene apele limpezi. În murmurul valurilor era un cânt plin de farmec și armonie.</p>
 </div>
 <div type="section">
-<p>CAPITOLUL XXIII</p>
+<head>CAPITOLUL XXIII</head>
 <p>Doamna Despina povestea cu mâhnire fuga, pe ascuns a Ruxandei în Țara Românească celor trei soli ai Moldovei, sosiți de curând în Sibiu. Solia lui Vodă Ștefăniță era întocmită din trei inși.</p>
 <p>Cel mai tânăr din ei era logofătul Dragomir ce avea niște ochi albaștri ca pânza tăriei cerești, cu plete lungi, bălai ce curgeau în valuri peste umerii spetoși, o mustăcioară de abia răsărită, o privire prietenoasă și senină, o mișcare sprintenă și mlădioasă, o vorbă dulce și plăcută.</p>
 <p>Al doilea sol era postelnicul Dănilă, o fire uscățivă și firavă, înalt de statură și subțire ca un stâlp, cu doi ochi verzi, vârâți </p>
@@ -1522,15 +1527,15 @@
 <p>- Va fi pățit ceva la curte, că-n această seară nu-i în toane bune - adăugă Marina.</p>
 <p>- Așa-i el - zise și Dochița - câteodată nu-i în toate mințile...</p>
 <p>— Ba să nu te vâri unde nu-ți fierbe oala... o mustră Niță.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
     </div>
     <div type="part">
-<p>Partea Literară.</p>
-<p>VOIEVOZII.</p>
-<p>Povestire originară a „Unirii“.</p>
-<p>de Dela Bistriță.</p>
-<p>(Continuare).</p>
+<head>Partea Literară.</head>
+<head>VOIEVOZII.</head>
+<head>Povestire originară a „Unirii“.</head>
+<head>de Dela Bistriță.</head>
+<head>(Continuare).</head>
         <div type="section">
 <p>— Na-ți-o bună, că ți-am dres-o îngână soția jignită de vorbele-i dojenitoare. După o clipă se apropie de bărbat și scuturându-i ușor umărul drept, îl întrebă cu dulce gingășie:</p>
 <p>— Haide mai bine la masă, că te-am așteptat destul. Uite, avem musafiri, ia seama!...</p>
@@ -1569,7 +1574,7 @@
 <p>Afară batea un vânt rece și subțire. Nicio stea nu scăpăra pe pala zariștii sure. Norii cerneau o bură măruntă de ploaie, pe care vântul cu freamăt o zvântura în rotocoale. În bezna nopții oarbe jupânițele părăsiră curtea Visternicului întovărășite de logofăt în rădvanul închis.</p>
 </div>
 <div type="section">
-<p>CAPITOLUL XXIV</p>
+<head>CAPITOLUL XXIV</head>
 <p>A doua zi era o zi tristă, fără soare. Ploua neîncetat și vremea nu voia să se răzbune. La curtea domnească Radu Vodă, Niță logofătul, Ion Despotul, visternicul Șoituzu și hatmanul Costea așteptau sosirea solilor. Unii din boieri țineau seamă,să cheme și pe domnița Ruxanda, dar Vodă se împotrivi la aceasta.</p>
 <p>Solii ce găzduiau la un han aflară, că Ruxanda nu-i logodită încă cu Măria Sa, că nunta va fi întârziată, că domnița locuiește la curtea Chirului Despot spre care se abătură călare.</p>
 <p>La scări descălecară, lăsându-și caii unui flăcău de curte. După ce-și aninară cușmele și mintenele într-un cuier din sală, intrară în calemul jupânului Despot, pe când jupâneasa Florica se arătă pe altă ușă, spre care solii înaintară să-i sărute mâna. întrebând-o:</p>
@@ -1608,15 +1613,15 @@
 <p>— Ai să-ți schimbi gândurile mai pe urmă, ascultă-mă pe mine, domniță — adăugaoe postelnicul. De alminteri soarta și norocul războiului va hotărî, cine dintre Voievozi să aibă parte de mâna ta! — Acestea sunt cuvintele lui Balș, care ni le-a lăsat ca zălog, pe când venise ca crainic la noi în Suceava.</p>
 <p>— Mai bine hai cu noi în Moldova, că de nu... va veni mare blestem și urgie pe capul vostru, — spuse postelnicul Dănilă cu ochi înflăcărați de amenințare.</p>
 <p>— Nu pot, jupâne postelnice, nu pot! Odată ce mi-am dat cuvântul lui Radu, trebuie se mă țin de dânsul!</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
     </div>
     </div>
     <div type="part">
-<p>Partea Literară.</p>
-<p>VOIEVOZII.</p>
-<p>Povestire originară a „Unirii“.</p>
-<p>de Dela Bistriță.</p>
- <p>(Continuare).</p>
+<head>Partea Literară.</head>
+<head>VOIEVOZII.</head>
+<head>Povestire originară a „Unirii“.</head>
+<head>de Dela Bistriță.</head>
+ <head>(Continuare).</head>
     <div type="section">
 <p>— Dar adu-ți aminte jupânițo, că mai întâi lui Ștefăniță ți-ai dat cuvântul; de ce nu voiești atunci să fii cinstită și să te ții de cuvânt — grăi iar postelnicul cu mai mare îndârjire.</p>
 <p>— Nu-i adevărat ce spui d-ta. Eu lui Ștefăniță nu mi-am dat cuvântul, că-l voi lua de bărbat, ci numai mama Milița*) m’a făgăduit și m-a îndemnat să-l iau.... Eu nu i-am zis nici „ba“ nici „da“ și așa a rămas lucrul. Iar acum de unde vii d-ta, să-mi zici că mi-am dat cuvântul?...Care cuvânt?...Și ce înseamnă vorba d-tale: „să fii cinstită și să te ții de cuvânt?“</p>
@@ -1665,7 +1670,7 @@
 <p>La prânz domnița Ruxanda nu mânca nimica de scârbă. Solii stricară toată bucuria și voia bună a domniței, care nu mai râdea cu dulceața de demult, nu mai glumea cu Radu, nu-i mai cânta nimic, ci numai ofta din greul inimii, își alina jalea cu plânsul și-și închipuia în mintea sa gândul de ducă spre Sibiu. —</p>
 </div>
 <div type="section">
-<p>CAPITOLUL XXV</p>
+<head>CAPITOLUL XXV</head>
 <p>Din Hotin, de la hotarul țării de sus, venea zvon fioros. Un pâlc de călăreți în fuga robilor înspumați, iuți ca fulgerul, se avântau spre Suceava.</p>
 <p>Din goana lor nebunatică, înspăimântătoare, norodul îngrozit își făcea cruce, grăind pe urma lor:</p>
 <p>„Mării Doamne, nu-i semn bun!... Să ne ferească Dumnezeu și Maica Precistă de ciumă, de moarte grabnică și de război!“</p>
@@ -1703,17 +1708,17 @@
 <p>Deci Tătărimea răzvrătită, ca niște fiare zădănte, se repezea în fuga mare, să-și răzbune vechea umilire și visurile fără de noroc.</p>
 <p>Trei zile de la ștafeta plăieșilor din Hotin — și marele Vătaf Alecu Costin porni cu 12,000 de oșteni în calea puhoiului negru de păgânime. La Orheiu aveau să se întâlnească cu litfele tătărești.</p>
 <p>Vodă însă cu câțiva boieri curteni se pogorî spre Iași, cu gând să afle, de nu a sosit vreun zvon despre solii săi trimiși la Sibiu.</p>
-<p>(va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
     </div>
     <div type="part">
-<p>Partea Literară.</p>
-<p>VOIEVOZII.</p>
-<p>Povestire originară a „Unirii“.</p>
-<p>de Dela Bistriță.</p>
-<p>(Continuare).</p>
+<head>Partea Literară.</head>
+<head>VOIEVOZII.</head>
+<head>Povestire originară a „Unirii“.</head>
+<head>de Dela Bistriță.</head>
+<head>(Continuare).</head>
         <div type="section">
-<p>Șrefăniță ajuns în târgul Sașilor trase la curtea logofeției cu boierii și se puse a împărți porunci și în dreapta și în stânga, ca oștile Țării de jos să treacă Prutul pe la Galați, pe lângă lacul Brateș, luând-o drept spre Chilia și Cetatea Albă. Vodă avea de gând să strângâ alte pâlcuri de oaste și să le trimită la caz de nevoie dincolo de Prut pe la Ungheni ori Huși. Domnul pe deoparte nădăjduia să pornească însuși cu gloatele strânse, de va fi mare nevoe; pe de alta voia să le oprească spre apărarea sa și a tronului împotriva lui Rareș, pe care îl aștepta mereu din Polonia cu oștile leșești.</p>
+<p>Ștefăniță ajuns în târgul Sașilor trase la curtea logofeției cu boierii și se puse a împărți porunci și în dreapta și în stânga, ca oștile Țării de jos să treacă Prutul pe la Galați, pe lângă lacul Brateș, luând-o drept spre Chilia și Cetatea Albă. Vodă avea de gând să strângâ alte pâlcuri de oaste și să le trimită la caz de nevoie dincolo de Prut pe la Ungheni ori Huși. Domnul pe deoparte nădăjduia să pornească însuși cu gloatele strânse, de va fi mare nevoe; pe de alta voia să le oprească spre apărarea sa și a tronului împotriva lui Rareș, pe care îl aștepta mereu din Polonia cu oștile leșești.</p>
 <p>Vornicul Tăutu și Beldiman se puseră a strânge o oaste de lefegii, întocmită din Turci și Greci răzleți, din Leși, Unguri și Săcui, care aveau să păzească pacea lăuntrică.</p>
 <p>Prin Iași umblă un zvon, pe care-l stârniră niște negustori ce se întoarseră din Brăila, că Radu Vodă ar ținea în închisoare trei boieri moldoveni, care veniseră să fure o jupâniță. Acest zvon trecu și pe la urechile lui Ștefăniță — și socotea, că un atare lucru poate fi cu putință.</p>
 <p>Așa trecură două săptămâni. Într-o bună dimineață, Vodă se trezește la curtea logofeției cu jupânul Moțoc, cu boierul Curpăn, Stroe și Mârza. Cu toți aveau cele mai prietenoase mutre și păreau a fi oameni de încredere și vrednici de toată cinstea.</p>
@@ -1748,7 +1753,7 @@
 <p>După aceste cuvinte rostite de Moțoc, boierii răzvrătiți cu capul lor în frunte părăsiră curtea domnească.</p>
 </div>
 <div type="section">
-<p>CAPITOLUL XXVI</p>
+<head>CAPITOLUL XXVI</head>
 <p>În ziua Paștilor Iașii gemeau de boierimea cea mai de frunte, chemată din toate târgurile Moldovei de jupânul Moțoc.</p>
 <p>Aceștia erau boierii răzvrătiți de Rareș, care lucrau împreună cu fostul protovistier Moțoc, la răsturnarea lui Vodă Ștefăniță.</p>
 <p>Numărul lor era mai bine de 350 de inși, care strânseră o oaste de vreo 10,000 de lefegii și vreo 5000 de iobagi.</p>
@@ -1778,15 +1783,15 @@
 <p>Într-o zi, pe când Vornicul era dus la Vodă, Moțoc se abătu in casa lui Tăutu, dorind să schimbe câteva cuvinte în patru ochi cu jupânița Irina. Fata mare cu ochi albaștri, cu bucle blonde, albă și mlădioasă ca o răchită de baltă, ședea la țesut, zvârlind șuveica prin ițe.</p>
 <p>— Bine te-am găsit, gospodină — o salută visternicul Moțoc.</p>
 <p>— Bine ai venit, jupâne! Poftim ia loc pe jilț, — ce vânt te-a adus la mine?</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
     </div>
     <div type="part">
-<p>Partea Literară.</p>
-<p>VOIEVOZII.</p>
-<p>Povestire originară a „Unirii“.</p>
-<p>de Dela Bistriță.</p>
-<p>(Continuare).</p>
+<head>Partea Literară.</head>
+<head>VOIEVOZII.</head>
+<head>Povestire originară a „Unirii“.</head>
+<head>de Dela Bistriță.</head>
+<head>(Continuare).</head>
         <div type="section">
 <p>— Îți mulțumesc d-tale, — răspunse MoȚoc punându-se pe un jilț — am venit să te întreb, dacă-i adevărat zvonul ce umblă printre norod, că boierii au de gând să te facă domnița?</p>
 <p>— Lasă să aibă..., zise cu un fel de nepăsare .. sunt fete și mai mândre decât mine, care visează ziua și noaptea să se vadă ajunse domnițe. Eu una, dragă Doamne, nu mă gândesc niciodată la una ca aceasta...</p>
@@ -1840,7 +1845,7 @@
 <p>În zori Vodă Ștefăniță porni cu 15.000 de ostași mercenari, cu șapte căpitani neaoși și cu Moș Purice spre Prut, prin mijlocul Moldovei.</p>
 </div>
 <div type="section">
-<p>CAPITOLUL XXVII.</p>
+<head>CAPITOLUL XXVII.</head>
 <p>După o săptămână de închisoare, la porunca Măriei Sale Radu Vodă, solii Moldovei fură înfățoșați înaintea marelui Scaun judetoresc.</p>
 <p>La judecata solilor se află și Domnul cu toți curtenii și cu alți mulți boieri mari.</p>
 <p>Judele marelui Scaun, Vasile Prîslea, le puse mai întâi întrebarea.</p>
@@ -1909,17 +1914,17 @@
 <p>— Vrea să zică ne-am înțeies, nene fârtate ?</p>
 <p>— Cum să nu! Cu Doamne-ajută!</p>
 <p>Soarele apuse. Un vânt molatic începu a cutremura ușor vârfurile de brădeț. În liniștea serii numai talangile oilor sunau lin, melancolic, pe întinderea văilor înverzite. —</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
 </div>
     </div>
     <div type="part">
-<p>Partea Literară.</p>
-<p>VOIEVOZII.</p>
-<p>Povestire originară a „Unirii“.</p>
-<p>de Dela Bistriță.</p> 
-<p>(Continuare).</p>
+<head>Partea Literară.</head>
+<head>VOIEVOZII.</head>
+<head>Povestire originară a „Unirii“.</head>
+<head>de Dela Bistriță.</head> 
+<head>(Continuare).</head>
 <div type="section">
-<p>CAPITOLUL XXVIII</p>
+<head>CAPITOLUL XXVIII</head>
 <p>Zilele treceau rând pe rând. Numai după trei săptămâni de la plecarea boierilor din Moldova, în Curtea de Argeș se petrecură multe lucruri însemnate.</p>
 <p>Radu Vodă plecă cu pâlcurile de oaste în jos, spre Giurgiu, spre apele Dunării, să pună pe goană turcimea tâbărâtă pe malurile românești.</p>
 <p>Chir Ion Despotul, ajuns craiul Sârbilor, părăsi țara românească cu jupâneasa Florica și jupânița Ilinca. Curtea lor ajunsă a fie stăpânirea postelnicului Balș.</p>
@@ -1976,7 +1981,7 @@
 <p>Așa toată țara rămase înlemnită la auzul ascunsei fugi a domniței Ruxanda și cu toții așteptau să vadă, cum are să se aleagă vechea dragoste, pentru care se făcuse atâta zarvă și zvon de războire.</p>
 </div>
 <div type="section">
-<p>CAPITOLUL XXIX.</p>
+<head>CAPITOLUL XXIX.</head>
 <p>Cine ar fi crezut vreodată, că dragomanul Iordache Pândele n-ar fi apucat spre Ardeal, ci spre Moldovă?</p>
 <p>Dar așa a fost.</p>
 <p>Prin mlădierea vântului de dimineață, prin arșița soarelui de amiază, prin ră-</p>
@@ -2004,15 +2009,15 @@
 <p>— Oh, să dea Dumnezeu sfântul!...</p>
 <p>— Măria Sa Vodă Ștefaniță, îți cere și îți vrea mâna nu atât din dragoste, cât de frica pravilei, care zice, că tot domnul să-și ia de soață femeie de neam domnesc. De altfel Șefăniță de îndrăgit de Irina de fata vornicului Tăutu.</p>
 <p>— Bine că știu toate acestea — cu atât mai bine pentru mine!... Și n-ar fi cu putință, să mă scapi d-ta, jupâne, din lațul în care mă aflu prinsă?</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
 </div>
     </div>
     <div type="part">
-<p>Partea Literară.</p>
-<p>VOIEVOZII.</p>
-<p>Povestire originară a „Unirii“.</p>
-<p>de Dela Bistriță.</p>
-<p>(Continuare).</p>
+<head>Partea Literară.</head>
+<head>VOIEVOZII.</head>
+<head>Povestire originară a „Unirii“.</head>
+<head>de Dela Bistriță.</head>
+<head>(Continuare).</head>
         <div type="section">
 <p>— Hm, cam greu deocamdată, dar îți făgăduesc mână de ajutor. Acuma nu pot fiindcă mă cheamă jupânul Rareș la Lemberg. El a rămas văduvoi, își caută altă jupâneasă.</p>
 <p>Auziserăm despre jupânița Ilinca, fata lui Ioan Despot, ce-a ajuns Țarul Sârbilor, c-ar fi fată deșteaptă și cuminte?!... Ce spui mata, domnițo?</p>
@@ -2061,7 +2066,7 @@
 <p>Ele nu-i pricepeau rostul, din ce pricină viitoarea Doamnă a Moldovei și-ar fi disprețuit viitorul și s-ar fi ascuns în chilia mănăstirească! Si nimeni nu îndrăznea să discoase tainele „surorii Pulheria“, care-și petrecea zilele în adevărata sfințenie, pocăință și evlavie!</p>
 </div>
 <div type="section">
-<p>CAPITOLUL XXX.</p>
+<head>CAPITOLUL XXX.</head>
 <p>La curtea Țarului Ioan Despot din Belgrad, era în astă seară mare petrecanie. De câteva zile sosise din Țărigrad Măria Sa, Radu Vodă, cu întăritură la domnie și cu daruri bogate primite de la sultanul Selin. Aceasta era pricina pentru care Vodă amânase până în vremea de față cununia cu domnița Ruxanda; dar acum, întărit la cârmă, de marea Poartă, putea să poarte cu drept cununa de Voievod și să-și încununeze și pe ibovnica de Doamna Țării Românești.</p>
 <p>La Curtea domnească a Țarului sosiră din Polonia jupânii Rareș cu Moțoc, sosiră și mulți alți boieri din bănatul oltenesc și chiar Sfinția Sa, mitopolitul Maxim al Ungro-Vlahiei. Toată aceasta boierime luă parte la încununarea de țar a Chirului Ioan Despot — </p>
 <p>pe care-l Încunună Patriarhul din Țărigrad. Atât boierimea românească cât și cea sârbească aducea pocloane și urări de bine noului Țar al Serbiei, chiar Sultanul Selim îi trimise prin patriarh o pereche de papuci turceși, cusuți cu fire de aur și bătuți în pietre prețioase.</p>
@@ -2073,15 +2078,15 @@
 <p>Pe cărărușa din fundul gradinii se plimbau stingheri, jupânul Petre Rareș cu domnița Ilinca, mândră ca o zână de povești. Rareș voia se facă cunoștință cu domnița Ileana, despre care auzise multe lucruri mari și frumoase și la mâna căreia se ținea o droaie de cuconi de neam mare, sârbesc.</p>
 <p>Domnița Elena de asemenea auzise despre jupânul Petre Rareș, fiul din flori al Marelui Ștefan Vodă — care-i fără noroc la scaunul Moldovei.</p>
 <p>Domnița Elena cunoștea de alminteri împrejurările, în care a fost ales de Domn al Vodă Ștefăniță; cunoștea uneltirile boierimii și nemulțumirile ei cu cârma noului Domn; aflase și despre rivalul cel mai puternic al lui Ștefăniță, la scaunul Moldovei, Petru Rareș.</p>
-<p>(Va urma)</p>
+<trailer>(Va urma)</trailer>
 </div>
     </div>
     <div type="part">
-<p>Partea Literară.</p>
-<p>VOIEVOZII.</p>
-<p>Povestire originară a „Unirii“.</p>
-<p>de Dela Bistriță.</p>
-<p>(Continuare).</p>
+<head>Partea Literară.</head>
+<head>VOIEVOZII.</head>
+<head>Povestire originară a „Unirii“.</head>
+<head>de Dela Bistriță.</head>
+<head>(Continuare).</head>
         <div type="section">
 <p>Jupânul își povestea multe pățanii din cele trăite și asigura domnița, că ori mai curând, ori mai târziu va pune mâna pe sceptrul Moldovei.</p>
 <p>Rareș întrebă pe domniță, dacă-i logodită cu vreun cucon și dacă n-ar vrea să-i dea mâna, când va ajunge Domn al Moldovei. La aceste întrebări jupânița-i răspunse fără sfială, că mâna sa e slobodă, dar la dânsa se ațin mulți cuconi sârbi.</p>
@@ -2137,17 +2142,17 @@
 <p>— Apoi eu i-am trimis ștafetă de pe stepele Nistrului, la nunta domnească.</p>
 <p>— N-am știință despre aceasta. Apoi să te scoli Măria ta și să poftești la masă.</p>
 <p>După aceste vorbe doamna părăsi calemul Vodă, pe care-l lăsă adânc îngândurat.</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
         </div>
     </div>
     <div type="part">
-<p>Partea Literară.</p>
-<p>VOIEVOZII.</p>
-<p>Povestire originară a „Unirii”.</p>
-<p>de Dela Bistriță.</p>
-<p>(Continuare).</p>
+<head>Partea Literară.</head>
+<head>VOIEVOZII.</head>
+<head>Povestire originară a „Unirii”.</head>
+<head>de Dela Bistriță.</head>
+<head>(Continuare).</head>
 <div type="section">
-<p>CAPITOLUL XXXI</p>
+<head>CAPITOLUL XXXI</head>
 <p>Era noapte. Pe cerul senin și limpede ca apa pârâului de munte licureau în taină luceferii de aur. Peste piscurile cernite de hohotul nopții mijea un pătrar de lună, ascultând farmecul nopții și tainele Sucevei.</p>
 <p>La curtea domnească furnicau boierii ca un mușuroi de furnici.</p>
 <p>Ce se întâmplase?</p>
@@ -2179,11 +2184,11 @@
 </div>
     </div>
     <div type="part">
-<p>Partea Literară.</p>
-<p>VOIEVOZII.</p>
-<p>Povestire originară a „Unirii”.</p>
-<p>de Dela Bistriță.</p>
-<p>(Continuare).</p>
+<head>Partea Literară.</head>
+<head>VOIEVOZII.</head>
+<head>Povestire originară a „Unirii”.</head>
+<head>de Dela Bistriță.</head>
+<head>(Continuare).</head>
         <div type="section">
 <p>Trotușan mai curajos din fire, după ce făcu o adâncă închinăciune lui Vodă, începu cu glas tremurător și încet:</p>
 <p>— Am auzit că Măria ta caută scrisoarea ieromonahului Gherasim, uite-o e la mine.</p>
@@ -2201,7 +2206,7 @@
 <p>Numai Moțoc scăpă cu viață.</p>
 </div>
 <div type="section">
-<p>CAPITOLUL XXXII</p>
+<head>CAPITOLUL XXXII</head>
 <p>Ca un fulger năprasnic străbătu plaiurile, munții și văile Moldovei zvonul războiului.</p>
 <p>Pe loc, cum Vodă Ștefăniță află ca jupânul Moțoc fugise cu domnița Ruxanda spre Țara Românească, porunci Vornicului de sus și de jos să strângă oastea-n pâlcuri, s-o miște împotriva lui Radu de la Afumați. Oștile Moldovei de sus aveau să se întâlnească cu cele de jos în preajma Bârladului.</p>
 <p>Timp de-o săptămână — ziua și noaptea — curgeau în jos, spre Bârlad, cete-cete de ostași în jalnice, înfiorătoare suspine din surle și buciume.</p>
@@ -2242,15 +2247,15 @@
 <p>De departe, pe undele vântului veneau tremurătoare, melancolice înmladiri de bu-</p>
 <p>cium și de corn din lagărul oștilor răzlețite de valea Râmnicului.</p>
 <p>Șase zile și șase nopți zăbovi oastea lui Ștefăniță Vodă pe miriștile Râmnicului, până când se adunase întreagă... A șaptea zi voinicii odihniți porniră într-un avânt puternic și sălbatic. Călăreții în frunte, încovoiați, înjdoiți pe oblânc, cu capetele înainte, își întindeau în vânt paloșele, săbiile și sulițele scânteietoare, tăioase, gata să le răpeadă în piepturile vrăjmașe.</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
 </div>
     </div>
     <div type="part">
-<p>Partea Literară.</p>
-<p>VOIEVOZII</p>
-<p>Povestire originară a „Unirii”.</p>
-<p>de Dela Bistriță.</p>
-<p>(Continuare).</p>
+<head>Partea Literară.</head>
+<head>VOIEVOZII</head>
+<head>Povestire originară a „Unirii”.</head>
+<head>de Dela Bistriță.</head>
+<head>(Continuare).</head>
         <div type="section">
 <p>Vodă rămase mai în urmă cu căpitanul Movilă. După ei veneau călăre alte cete de viteji, sub care ropotea pământul frământat de copitele zmeilor oțeriți, ce-nfiorau văile de alarma surdă.</p>
 <p>Pe valea Prahovei, în zăre, de departe, se zărea o dungă, o ață sclipitoare, șerpuind printre văi și mancele, era apa Teleajănului care-și mâna valurile în șoapte pline de-o tainică duioșie și suspin...</p>
@@ -2279,15 +2284,15 @@
 <p>Moldovenii zdrobiți o iau la goană — dar dindărăt sunt urmăriți de oastea lui Radu, care neîncetat o doboară cu săgeți și cu focuri de plumbi. Luat înainte de șuvoiul luptătorilor — Radu aleargă nebun după oastea ferfenițită a lui Ștefăniță, arzând de dorul răzbunării.</p>
 <p>Pe când Moldovenii treceau înot apa Teleajănului, mulți își găsiră mormântul în valurile apei, nimeriți de arcanele și săgețile muntene.</p>
 <p>Dar și din partea oștilor știrbite, frânte ale Moldovei, fulgerau, șuierau în vânt săgeți și focuri omorâtoare.</p>
-<p>(Va urma.)</p>
+<trailer>(Va urma.)</trailer>
         </div>
     </div>
     <div type="part">
-<p>Partea Literară.</p>
-<p>VOIEVOZII.</p>
-<p>Povestire originară a „Unirii”.</p>
-<p>de Dela Bistriță.</p>
-<p>(Continuare și fine).</p>
+<head>Partea Literară.</head>
+<head>VOIEVOZII.</head>
+<head>Povestire originară a „Unirii”.</head>
+<head>de Dela Bistriță.</head>
+<head>(Continuare și fine).</head>
     <div type="section">
 <p>În revărsarea nopții oastea lui Radu Vodă se întorcea învingătoare spre Târgoviște și curtea de Argeș.</p>
 <p>În zările nopții nu se mai zărea nicio urmă din oștenii goniți de munteni. Numai vântul în freamăt suspinător purta pe aripile sale, ori Teleajănul în jalea murmurului — gemetele răniților, luptăndu-se cu moarte pe câmpul de bătaie.</p>
@@ -2295,7 +2300,7 @@
 <p>Așa, Vodă Ștefăniță zdrobit cu desăvârșire, trebui să se retragă înapoi, învoindu-se cu soartea nenorocitului război: că Ruxanda să fie a aceluia, care va învinge!</p>
 </div>
 <div type="section">
-<p>CAPITOLUL XXXIII</p>
+<head>CAPITOLUL XXXIII</head>
 <p>Înserase.</p>
 <p>Luceferii de mărgăritar izvorau unul câte unul pe covorul întunecatelor zări. De peste neguroșii brazi, ce se urcau în văzduh ca niște stafii uriașe, răsărea luna plină.</p>
 <p>Zâna nopții, cu fruntea visătoare, se înălța în măreția întinderilor sinelii, împroșcate cu flori strălucitoare de aur și do mărgărint.</p>
