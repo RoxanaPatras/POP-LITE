@@ -39,12 +39,12 @@
                <pubPlace>București</pubPlace>
                <publisher>TIPOGRAFIA PETRESCU-CONDURATU</publisher>
                <date>1876</date>
-               <decoNote type="ilustratii" subtype="no"/>
-               <dim unit="char" type="mare"/>
+               <decoNote type="illustration" subtype="no"/>
+               <dim unit="char" type="big"/>
                <extent>
                   <measure unit="word">20608</measure>
                   <measure unit="page" type="under_250"/>
-                  <measure unit="foileton" type="under_65"/>
+                  <measure unit="feuilleton" type="under_65"/>
                   <measure type="complete"></measure>
                </extent>
             </bibl>
@@ -64,8 +64,8 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="under 5"/>
-               <term type="republicare" n="under 10"/>
+               <term type="reception" n="under 5"/>
+               <term type="print_count" n="under 10"/>
                <term type="finished"></term>
                
             </keywords>
@@ -73,8 +73,8 @@
       </profileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
             <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
             <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
          </projectDesc>
@@ -83,7 +83,7 @@
  <text>
    <body>
 <div type="chapter" n="1">
-<p>LA ȘOSEA</p>
+<head>LA ȘOSEA</head>
 <p>Era pe la începutul primăverii, când mugurii arborilor dezvoltați în destul, începură a încolți și a le face loc frumoaselor floricele, de diferite culori, destinate a forma fructele și frunzele, de un verde deschis, în formă de mici limbi, și care concurează în acel anotimp la împodobirea naturii.</p>
 <p>Straturile din diferitele alei ale șoselei erau îmbrăcate cu frumoase și încântătoare mantii verzi; păsărelele pline de veselie pentru redeșteptarea naturii, ciripeau și cântau în modul cel mai armonios; totul în fine părea că re-nviase din cumplita amorțire a iernii.</p>
 <p>Pe ici, pe colea se găseau la tulpina arborilor, micile, frumoasele și parfumatele viorele, care rivalizau cu fața cerului și se sileau să contribuie și ele la strălucirea acelei zile, în care începe drama noastră.</p>
@@ -145,8 +145,7 @@
 <p>Ei recunoscură pe Costică.</p>
   </div>
 <div type="chapter" n="2">
-<p>II</p>
-<p>MANSARDA</p>
+<head>II. MANSARDA</head>
 <p>Dimitrie și companioana sa se coborâră cu grabă din trăsură, și se apropiară de mulțimea în mijlocul căreia Costică era leșinat. Văzând că amicul lui nu era în stare de a-i răspunde, Dimitrie întrebă câteva persoane ce erau acolo:</p>
 <p>— E oare rănit?</p>
 <p>— Nu, i se răspunse; nu este decât leșinat.</p>
@@ -203,8 +202,7 @@
 <p>— Ah! zise juna fată, repezindu-se în cameră, n-am fost înșelată, el este în pericol. Unde-i? Unde-i? strigă ea dând pe Dimitrie la o parte. Dar, la prima aruncătură do ochi prin cameră, ea văzu pe Costică cu capul plecat pe sânul Elisei și pe aceasta ținând încă în mâini cutioara de anin. Ridicând ochii, Costică întâlni pe acei ai junei fete. Un țipăt tare de mirare îi scăpă din gură; el respinse cu violență pe Elisa, și-și întinse brațele spre necunoscută strigând: Heleno! Heleno!</p>
   </div>
 <div type="chapter" n="3">
-<p>III</p>
-<p>CONVORBIREA</p>
+<head>III. CONVORBIREA</head>
 <p>Pentru înțelegerea acestei istorioare, vom conduce pe lectorii noștri la locuința D-lui Bogatescu, în care, în acea seară, era adunare. Erau nouă ore și jumătate, și un lung șir de trăsuri, care staționau în fața casei, indicau că o mulțime considerabilă de lume trebuia să fie în saloanele sale. Această serbare, care în adevăr, era ultima a sezonului, atrăsese fără îndoială pe toți amicii casei, și persoanele, care nu o frecventau regulat, veniseră pentru a se arăta, fie numai o oră, și spre a saluta pe d. Bogatescu și soția lui, care hotărâseră ca, îndată după închiderea salonului, să părăsească București, pentru a merge la o moșie ce aveau în județul Muscel. Această plecare trebuia să aibă loc după căsătoria domnișoarei Helena Averecscu, cu D. Mihail Sărăcescu, fanfaronul cel mal bine căutat din Capitală. Domnișora Averescu, fiica unui general cu acest nume, mort de mai mult timp rămăsese orfană foarte de timpuriu, și D. Bogatescu, amic vechi al defunctului general Averescu, fusese numit tutorele junei fete, pe care o lăsese intr-un pension până la epoca în care căsătoria ei îi permise de a o relua acasă. Helena Averescu avea șaisprezece ani și de dânsa mai ales, pentru a o defini, cu un cuvânt, s-ar fi putut zice, ca poetul latin: Mens blanda in corpore blando. Aceasta nu vătăma cu nimic pozițiunea ce ea avea în lume; fica generalului Averescu se considera totuși o moștenitoare, a cărei zestre era destul de considerabilă pentru a-i atrage o sumă de adoratori.</p>
 <p>La primul ei pas in lumea oficială, iubită ca o fiică de bătrânul D. Bogatescu, Helena, în timpul primelor zile ale șederii sale în casa lui, fusese totdeauna tratată foarte rece de soția tutorelui ei, care, în cele mai mici detalii ale vieții private, părea că avea de datorie să-i arate antipatia ei, și era un de teribil antipatia doamnei Bogatescu. Urmarea acestei istorii va arăta, în toată goliciunea lui, caracterul acestei femei, una din acele creaturi fatale, venite pe lume pentru a sfărma destinele acelora care le înconjoară, și a căror mână nu se poate atinge vreodată fără ca să nu rănească inima. Cu toate acestea, după o lună, manierele D-nei Bogatescu se schimbaseră cu desăvârșire în modul de a trăi cu juna orfană, care opusese întodeauna o blândețe angelică asprimilor de tot felul cu care o trata soția tutorelui el.</p>
 <p>Această metamorfoză, care nu se îndeplinise decât după ce trecuse prin toate nuanțele necesare unei tranzițiuni care trebuia să facă a se crede la sinceritatea acestei pocăinți, puse tosuși în mirare pe Helena; ea nu întârzie însă a ghici adevăratul ei motiv, și ziua în care făcu această descoperire fu ziua în care ea observă că d. Mihail Săracescu, rudă cu d-na Bogatescu, și care devenise un intim al casei de la căsătoria tutorelui ei, o înconjură de tot felul de îngrijiri. Helena, pentru motive ce se vor cunoaște în curând nu făcu nici o atențiune îngrijirilor cărora era obiectul din partea junelui Sărăcescu, și această răceală și neconsiderare îndoiră afecțiunea și dezmierdările materne dar ipocrite ale doamnei Bogatescu, a cărei scop era de a forma o căsătorie între ambii juni. De aceea, ea procură protejatului ei toate mediile posibile pentru a ajunge la conchista epitropitei soțului ei; drept vorbind, ca comerț, era aci o speculație excelentă pentru d. Sărăcescu, căruia în curând, nu era să-i rămâie drept avere decât numai fanfaronada lui unică în felul ei. Era dar, desigur, o înțelegere între d-na Bogatescu și junele Sărăcescu a cărui ingrijiri și îndatoriri deveneau din ce în ce mai semnificative în ochii Helenei, deși dânsa nu lua nimic în considerare. Cu toate acestea oarecare zgomote ce circulau într-un mod vag împrejurul ei, câteva cuvinte indiscrete ce-i spuseră femei și fete june cu care avea cunoștință, și mai mult încă aparențele de fidanțat primit, ce-și lua d. Sărăcescu, cu un mare aer plin de sinceritate, luminară pe Helena care totdeauna resimțise o aversiune instinctivă pentru acest june și supărător personaj, și într-o zi ea înștiință pe tutorele ei despre cele ce se petreceau. D. Bogatescu reasigură pe juna copilă, încredințănd-o că toate aceste zgomote n-aveau nicio bază serioasă, că misiunea-i de tutore îi dicta ca să nu i se impuie nimic sentmentelor ei, și că putea fi liniștită.</p>
@@ -232,8 +230,7 @@
 <p>— A ieșit! zise d-na Bogatescu. Singură, ciudat lucru! Tocmai în momentul când trebuia să intre în salon! Ce va să zică asta? Și în prada unei îngrijiri crescânde, ea se îndreptă spre camera soțului ei.</p>
   </div>
 <div type="chapter" n="4">
-<p>IV</p>
-<p>INTRIGA</p>
+<head>IV. INTRIGA</head>
 <p>Pe când d-na Bogatescu își părăsea apartamentul spre a se duce la socțul ei, un servitor occupat cu niște prăjituri pentru acea seară, o zări când bătea la ușa cabinetului d-lul Bogatescu.</p>
 <p>— Cuconu nu este acasă, zise servitorul închinîndu-se adânc înnaintea stăpânei sele.</p>
 <p>Ea se opri un moment surprinsă ; apoi auzind zgomot în camera în care se pregătea a intra, ea zise servitorului:</p>
@@ -324,8 +321,7 @@
 <p>Acea cheie, zise d-na Bogatescu, scoțând din buzunar epistola soțului ei pe care i-o dase Tinca; acea cheie, iat-o, —domnule Sărăcescu— și eu am luat precauțiunile mele. Să intri după o oră în budoarul cel mic albastru. Te voi aștepta să vorbim. Acum, trebuie să intru în salon... Dă-mi te rog brațul.</p>
   </div>
 <div type="chapter" n="5">
-<p>V</p>
-<p>>>REGINA MODEI</p>
+<head>V. REGINA MODEI</head>
 <p>Doamna Bogatescu, n-avu decât a apărea pentru a excita admirațiunea generală, și cu toate acestea toate persoanele care asistau la serată o cunoșteau de mult și o văzuseră deja de mai multe ori într-una de acele strălucitoare toalete în care frumusețea ei totuși la toți și pretutindenea face să nască, ca din instinct, acea admirație spontană care se exprimă prin privire sau prin cuvânt. D-na Bogatescu avea douăzeci și cinci de ani, vârstă în care toate frumusețile femeii au atins completa lor dezvoltare; ea era de o talie de mijloc, ca Venus, Cleopatra, Nais, ca toate femeile care o dată cu nașterea au primit de la cer coroana frumuseții; figura ei era de acelea care de desfid știința celui mai renumit fizionomist: o analiză absolută asupra ei era imposibilă, atât era de nobilă, acea figură ageră a reflecta metamorfozele de sentiment care, fără tranzacțiune, se operau în spiritul d-nei Bogatescu. Observațiunea cea mai stăruitoare trebuie dar, todeauna, să nu reușească, și nu putea prin urmare obține decât rezultatele relative examinând liniile enigmatice ale acestei figuri, aci liniștită și dulce ca aceea a unui copil care nu cunoscuse nimic din lucrurile vieții; aci agitată și colorată de acea purpură care din inimă se urcă pe fruntea unei june fete ce se află sub impresiunea primului ei vis de amor, aci sălbatică, înfocată și îngrijată, ca masca ladiei Macbeth.</p>
 <p>În momentul în care d-na Bogatescu intrase în salonul ei, unde erau adunate cele mai frumoase femei din București, cele mal bogate flori din parterul aristocrației, figura ei exprima mulțumirea și liniștea în întregimea lor cea mai completă; fruntea-i lucioasă se deosebea, ca o bucată de marmură în mijlocul undelor de abanos ale părului ei, ornat într-un mod armonios de flori roșii ca sângele, gâtul ei splendid, și care s-ar fi zis că e sculptat de toate dălțile grației, lupta în albețe și frumusețe cu strălucitoarele mărgăritare albe ce-l înconjurau. Rochia el de catifea verde ca smaraldul, era tăiată într-un mod maiestuos și elegant, și toată această toalet, care, cu toate acestea, fusese improvizată în mijlocul unor mari griji de spirit, atesta, la d-na Bogatescu, o știință admirabilă despre arta de a se îmbrăca, cu gust. E adevărat că nicio femeie din lume nu știa, ca dânsa, de la prima vedere, să prevadă succesul sau căderea cutăreia sau cutăreia invențiuni noi a industriei pariziene, D-na Bogatescu avea în această privință instincte sublime, și era consultată de toate femeile cu care se cunoștea, ca un profet al modei, care nu se poate înșela. Ea, acompaniată de d. Mihalache Sărăcescu, care părea prea preocupat, trecuse prin salonul de conversațiune în care un grup de juni, viitori diplomați, se ocupau cu mare zgomot de politică.... de operă.... În acel moment acești domni vorbeau de reîntoarcerea artistei noastre Elisa. D-na Bogatescu auzi un nume care o atrase spre grupă. Ea rugă pe Mihail să o părăsească....</p>
 <p>— Du-te de mă așteaptă unde ți-am spus, la zece ore,în salonul cel mic albastru, îi zise ea, apoi, luând la braț pe o damă din amicele sale D-na Bogatescu se apropie cu o foarte mare indiferență de grupa unde se vorbea de d-șoara Elisa, acea artistă, a cărei talent zăpăcea pe toți leonii Iașilor.</p>
@@ -471,8 +467,7 @@
 <p>— A avut loc în acest moment.... și, în curând, îi vom ști rezultatul... Să așteptăm.</p>
   </div>
 <div type="chapter" n="6">
-<p>VI</p>
-<p>SCENA CONJUGALA</p>
+<head>VI. SCENA CONJUGALA</head>
 <p>O explicațiune avusese într-adevăr loc între domnul și d-na Bogatescu.</p>
 <p>În momentul când părăsea micul budoar în care lăsase pe Mihail, și se îndreptă spre salonul de joc, cu intențiunea de a reclama d-lui Avutescu epistola ce găsise și pe care era gata s-o citească, d-na Bogatescu zări pe soțul ei intrând în salon pentru același motiv. D-na Bogatescu se strecură și ea în urma soțului ei și se ascunse în grabă în dosul unei perdele, și astfel asistă la scena petrecută intre juni și soțul ei... scenă pe care am narat-o în capitolul precedent, și a cărei concluziune, precum lectorii își pot aduce aminte, fusese depărtarea junilor.</p>
 <p>Pe când invitații plecau și d-nu Bogatescu rămăsese singur, soția sa speră un moment că va putea scăpă din ascunzătoarea ei fără a fi văzută dar încercarea ei fu vană căci la cel întâi pas ce făcu se simți oprită de o mână tremurândă. Aceasta mână era aceea a d-lui Bogatescu, care văzuse prea bine pe soția lui în momentul când se ascunsese.</p>
@@ -590,7 +585,7 @@
 <p>La opt ore, d-nu Bogatescu fu readus mort la domiciliul său.</p>
 <p>Acompaniată de Mihail Sărăcescu, doamna Bogatescu plecă la Galați, unde se căsătoriră șase luni după aceea.</p>
 <p>Nu trecură însă trei luni de la căsătorie și d-na Bogatescu, devenită acuma d-na Sărăcescu, fu lovită do un acces de nebunie provenită din mustrarea de conștiință pentru faptele ce comisese, în urma căruia și muri. D. Mihail Sărăcescu legitimul posesor al averii soției sale, se dădu cu totu în brațele lui Bachus, la tot felul de petreceri și la jocul de cărți; pierdu toată acea avere, și acum umblă traversând străzile Bucureștiului și implorând ajutorul lumii.</p>
-<p>FINE.</p>
+<trailer>FINE.</trailer>
 </div>
 </body>
  </text>
