@@ -39,12 +39,12 @@
                <pubPlace>Oradea</pubPlace>
                <publisher>FOIȚA REVISTEI „FAMILIA”</publisher>
                <date>1903</date>
-               <decoNote type="ilustratii" subtype="no"/>
-               <dim unit="char" type="mare"/>
+               <decoNote type="illustration" subtype="no"/>
+               <dim unit="char" type="big"/>
                <extent>
                   <measure unit="word">7961</measure>
                   <measure unit="page" type="under_250"/>
-                  <measure unit="foileton" type="under_65"/>
+                  <measure unit="feuilleton" type="under_65"/>
                   <measure type="complete"></measure>
                </extent>
             </bibl>
@@ -64,8 +64,8 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="under 5"/>
-               <term type="republicare" n="under 10"/>
+               <term type="reception" n="under 5"/>
+               <term type="print_count" n="under 10"/>
                <term type="finished"></term>
                
             </keywords>
@@ -73,8 +73,8 @@
       </profileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
             <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
             <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
          </projectDesc>
@@ -83,12 +83,10 @@
 <text>
  <body>
 <div type="part" n="1">
-<p>Almeiuna</p>
-<p>(Din orient)</p>
-<p>(Roman)</p>
-<p>Lui Nuși Tuliu, iubire.</p>
+<p>Almeiuna (Roman din orient)</p>
+<p><epigraph>Lui Nuși Tuliu, iubire.</epigraph></p>
 <div type="section" n="1">
-<p>I</p>
+<head>I</head>
 <p>În strada Eximerar-mahalesi a Monastirului (Macedonia), acum două decenii se afla în bunăstare încă o casă cu pridvorul curat și tapițat cu iarbă verde în față, cu grădină la spate, cu un geamlâc luminos, proprietatea văduvei Maria a lui Pitu, mama lui Pandu și al Fanei.</p>
 <p>Pandu era cu doi ani mai mic ca soră-sa și pe vremea aceea învăța la liceul român din numitul oraș.</p>
 <p>Vecinii îi ziceau „Pandu al Mariei dascălu”, pe simplu motiv că medita la extremitatea de nord a orașului pe fiul unul Bimbașa.</p>
@@ -152,14 +150,13 @@
 <p>— E târziu și eu locuiesc cam departe; pe lângă aceasta aș dori să cunosc cu ce mi-aș putea motiva prezența mea în casa dumneavoastră?</p>
 <p>Dânsa-l fixă cu privirea, cuvintele lui avură un efect dureros în sufletul ei.</p>
 <p>— Îți voi spune, domnule.</p>
-<p>(Va urma)</p>
-<p>Petru Vulcan</p>
+<trailer>(Va urma)</trailer>
+<trailer>Petru Vulcan</trailer>
 </div>
 </div>
     <div type="part" n="2">
-       <p>Almeiuna</p>
-       <p>(Roman din orient)</p>
-       <p>(Urmare)</p>
+       <head>Almeiuna (Roman din orient)</head>
+       <trailer>(Urmare)</trailer>
        <div type="section" n="1">
 <p>În sfârșit intră în salon. Aici îl așteptau nouă minuni: sofaua și mai multe canapele catifelate în albastru, covoarele scumpe, lucrate în fir de aur și mătase, tablorurile în frunte cu Abdul Hamil tânăr care sta veșnic mut și posomorât în ramă, oglinzile colosale, policandrul cu sticlele multicolore, narghileaua uitată pe masă, câteva glastre cu flori și alte obiecte de artă împodobiad salonul.</p>
 <p>Doamna purta șalvari mătăsoși de culoare ros deschis, o cămașă de borangic străvezie îi învelea formele-i grațioase.</p>
@@ -222,14 +219,13 @@
 <p>— În fine, doamnă, să-mi dați voie să mă retrag, căci am întârziat și apoi ce pot face eu la toate câte mi le-ați spus?</p>
 <p>— Să rămâi să iei masa cu mine și să nu te îngrijești de felinar. Voi pune la dispoziția ta pe credinciosul meu Hasan care te va conduce până acasă; aici să știi că ești în cea mai mare siguranță și dacă voiești să rămâi pentru totdeauna, niciun fir din părul tău bălan nu se va clinti până va trăi Almeiuna.</p>
 <p>— Nu, doamnă, am datorii acasă, mama și soră-mea ar înnebuni de groază, văzând că noaptea înaintează și eu nu mai sosesc.</p>
-          <p>(Va urma)</p>
-          <p>Petru Vulcan</p>
+          <trailer>(Va urma)</trailer>
+          <trailer>Petru Vulcan</trailer>
        </div>
     </div>
     <div type="part" n="3">
-       <p>Almeiuna</p>
-       <p>(Roman din orient)</p>
-       <p>(Urmare)</p>
+       <head>Almeiuna (Roman din orient)</head>
+       <trailer>(Urmare)</trailer>
        <div type="section" n="1">
 <p>Ce ați putea face dumneavoastră, să fiți în locul meu? Petrecându-i o mână prin părul lui, iar cu cealaltă mângâindu-l de bărbie,răspunse:</p>
 <p>— Iți dau dreptate, Paule, dar nu-i frumos să respingi în așa mod iubirea unei ființe ce te adoră.</p>
@@ -277,7 +273,7 @@
 <p>Acest tânăr într-adevăr începu să-i răsară în minte ca un fiu de prinț din poveștile arabe.</p>
 </div>
 <div type="section" n="2">
-<p>II</p>
+<head>II</head>
 <p>Pandu coborâse scara cu băgare de seamă și cu teamă de copil care-l făcea să-și piardă cumpătul la fiecare moment.</p>
 <p>Hasan îi ieși înainte cu ghetele lustruite.</p>
 <p>Pandu scoase un iuzluc să-i mulțumească, la vederea căruia ochii negrului scânteiară.</p>
@@ -292,14 +288,13 @@
 <p>Dar în momentul acela auzi niște pași în urma lui, apoi un zăngănit de arme și în cele din urmă niște voci sălbatice: „stai!“</p>
 <p>Pandu încremeni pe loc. Un nizam mai tânăr îl înșfăcă de ceafă.</p>
 <p>— A... bir ghiaur...zise el satisfăcut că e ghiaur.</p>
-   <p>(Va urma)</p>
-   <p>Petru Vulcan</p>
+   <trailer>(Va urma)</trailer>
+   <trailer>Petru Vulcan</trailer>
 </div>
     </div>
     <div type="part" n="4">
-       <p>Almeiuna</p>
-       <p>(Roman din orient)</p>
-       <p>(Urmare)</p>
+       <head>Almeiuna (Roman din orient)</head>
+       <trailer>(Urmare)</trailer>
        <div type="section" n="2">
 <p>Cine ești tu, ghiaure? îngâna nizamul zguduindu-l, iar ceilalți, în număr de 12, făcură un cerc în jurul lui și-l măsurară cu o curiozitate sălbatică și scrâșnind din dinți. — Din ochii tuturor scăpărau scântei.</p>
 <p>— Ce cauți noaptea pe stradă fără felinar? îl întrebară deodată toți.</p>
@@ -334,7 +329,7 @@
 <p>Toate acestea îi defilau prin minte, însă Almeiuna nu-i slăbea o clipă atenția. Și în zadar încerca să adoarmă, căci toată noaptea o petrecu în griji necunoscute.</p>
 </div>
 <div type="section" n="3">
-<p>III</p>
+<head>III</head>
 <p>În ziua următoare, fiind sâmbăta morților, mama și fiica erau ocupate cu parastasul ce trebuia să-l facă la mormântul răposatului părinte a lui Sandu în amintirea celor 3 ani de când a murit.</p>
 <p>În zori de zi femeile plecară la cimitir, iar Pandu rămase singur în toată casa, unde totul i se părea acum vrăjit. Candela icoanei ardea în firidă, aici mărindu-și lumina, aici micșorând-o.</p>
 <p>Pandu își arunca privirile într-acolo cu sfiiciune unită cu sfințenie, apoi se închina.</p>
@@ -359,14 +354,13 @@
 <p>Străina se opri un moment la pragul ușii întredeschise, apoi intră odată cu razele de lumină ale soarelui — ea însăși reflectând raze în toate unghiurile odăii.</p>
 <p>— Almeiuna! exclamă surprins Pandu.</p>
 <p>— O... nu-ți fie teamă, Paule! Am venit să-mi cer iertare pentru imprudența mea prin care te-am făcut să suferi atâta... știu tot ce ai pățit, mi-a spus-o Hasan.</p>
-   <p>(Va urma)</p>
-   <p>Petru Vulcan</p>
+   <trailer>(Va urma)</trailer>
+   <trailer>Petru Vulcan</trailer>
 </div>
     </div>
     <div type="part" n="5">
-       <p>Almeiuna</p>
-       <p>(Roman din orient)</p>
-       <p>(Urmare)</p>
+       <head>Almeiuna (Roman din orient)</head>
+       <trailer>(Urmare)</trailer>
        <div type="section" n="3">       
 <p> Vă rog să mă scuzați, doamnă, că mă găsiți încă în pat; eram zbuciumat de aseară și m-am simțit cam rău încât n-am putut să mă scol până acum. Dar ce fel? V-ați schimbat așa repede portul încât mi-a fost cu neputință să vă recunosc de la distanță. </p>
 <p>— Împreună cu portul, pe care de altminteri l-am adoptat demult, m-am hotărât să schimb și pe Mahomed pentru Iisus Hristos.</p>
@@ -406,14 +400,13 @@
 <p>— Nu e, dragă, nu; de altfel, dacă n-ar exista în lume iubiri de felul aceleia care ne unește pe noi, totul ar trebui să sfârșească.</p>
 <p>— Așa e, însă astăzi e ziua morților, Almeiuna.</p>
 <p>— Iubirea noastră trebuie să le facă atât de mult bine...</p>
-          <p>(Va urma)</p>
-          <p>Petru Vulcan</p>
+          <trailer>(Va urma)</trailer>
+          <trailer>Petru Vulcan</trailer>
        </div>
     </div>
     <div type="part" n="6">
-       <p>Almeiuna</p>
-       <p>(Roman din orient)</p>
-       <p>(Fine)</p>
+       <head>Almeiuna (Roman din orient)</head>
+       <trailer>(Fine)</trailer>
        <div type="section" n="3">
 <p>Pandu începu să se reculeagă și după câteva momente zise:</p>
 <p>— Să ne iubim, dar nimeni să nu ne știe.</p>
@@ -431,7 +424,7 @@
 <p>Îi voi spune mamei ca e Magdalena care m-a scăpat într-o seară din mâna patrulei, dându-mi felinar și servitorul ei ce m-a condus până acasă; dar am tăcut, căci voiam să vă fac surprisă prin chiar vizita Magdalenei. Pe urmă? repetă el în firul gândurilor sale: amândoi ne vom iubi.</p>
 </div>
 <div type="section" n="4">
-<p>IV</p>
+<head>IV</head>
 <p>În palatul lui Rifat Pașa, singur Hasan se mai afla. Rifat Pașa era dus de o săptămână la Constantinopol în afaceri oficiale.</p>
 <p>Negrul ședea pe pagrul porților celor mari de mai multă vreme gânditor. </p>
 <p>Almeiuna îi spusese că va veni când soarele va fi scăpătat și că se va muta de aici sub cel mai desăvârșit mister.</p>
@@ -493,7 +486,7 @@
 <p>Apoi pleopele dulci i se închiseră și ea tăcu pentru toți vecii.</p>
 </div>
 <div type="section" n="5">
-<p>V</p>
+<head>V</head>
 <p>În cimitirul Dovlegie, cimitir al creștinilor cu dare de mână, unde cucii și pupăzele pentru întâia oară își fac adoriția, unde privighetorile doinesc noaptea întreagă cântece de jale, unde Dragolu izbindu-se necontenit de zidul înalt al cimitirului, povestește legenda morților martiri, vine un tânăr în toate serile de se așează pe piatra unui mormânt și după ce pune un mănuchi de flori în ferestruia mormântului își șterge lacrimile cu batista, scoate un carnet și scrie mereu, scrie.</p>
 <p>Ce o fi scriind?</p>
 <p>Groparii de câte ori îl văd, se vestesc între ei:</p>
