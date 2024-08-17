@@ -39,12 +39,12 @@
                <pubPlace>București</pubPlace>
                <publisher>TIPOGRAFIA IOAN G. COSTESCU</publisher>
                <date>1883</date>
-               <decoNote type="ilustratii" subtype="no"/>
-               <dim unit="char" type="mare"/>
+               <decoNote type="illustration" subtype="no"/>
+               <dim unit="char" type="big"/>
                <extent>
                   <measure unit="word">76869</measure>
                   <measure unit="page" type="under_250"/>
-                  <measure unit="foileton" type="under_65"/>
+                  <measure unit="feuilleton" type="under_65"/>
                   <measure type="complete"></measure>
                </extent>
             </bibl>
@@ -64,8 +64,8 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="under 5"/>
-               <term type="republicare" n="under 10"/>
+               <term type="reception" n="under 5"/>
+               <term type="print_count" n="under 10"/>
                <term type="finished"></term>
                
             </keywords>
@@ -73,8 +73,8 @@
       </profileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
             <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
             <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
          </projectDesc>
@@ -1210,7 +1210,7 @@
 <p>— O! pentru dânsul nu e nimic de temut, căci pe asemenea femei le urăște și le disprețuește. Și cu toate că este încă prea tânăr, nu îi lipsește însă oarecare experiență și cunoștință de femei pentru a ști să facă deosebire între ele. Natura lui însăși este cel mai bun apărător pentru dânsul; lui nu îi place de cât ce este bun. Astfel dar pericol nu există.</p>
 <p>— Să dea Dumnezeu să fie totdeauna așa, căci îți spun drept mi-e drag acest tânăr.</p>
 
-<p>* * *</p>
+<milestone unit="***"></milestone>
 
 <p>— Sunt la ordinele d-v., zise Alexandru ajungând pe Olga și pe companiona sa.</p>
 <p>— Te-ai apucat să smintești și pe cele bătrâne acum? îi zise Olga râzând. — Ai sfârșit cu cele tinere.</p>
@@ -1798,7 +1798,9 @@ când se simte atât de greu rănit în cât să nu mai poată lupta,—atunci c
 <p>— Răsfățată de părinți și de toți cel care au înconjurat-o, neîntâmpinând vreodată nici opozițiune nici rezistență la toate dorințele și capriciurile ei, neavând pe nimeni care să îi arate și să o conducă pe calea cea bună a vieței, lipsită de o persoană sinceră și devotată care să îi inspire un adevărat interes, ea a fost luată de acel vârtej al complimentelor — atât de periculoase pentru femei — cu care bărbății sunt obișnuiti a tămâia pe orice femeie le iese înainte. Natura ei însă este bună; a fost destul ca să întâlnească în cale-i o persoană care să îi vorbească cu franchețe și să îi observe cu sinceritate ușurința purtărei sale, pentru ca să se lipească de acea persoană mai mult de cât de acelea cari până aci o amețea cu vorbele lor frumoase, dar... pline de goliciune.</p>
 <p>— Accentul simplu, însă natural și serios, al cuvintelor cu care eu m-am adresat ei, a avut resunet în inima sa, și a fost în destul de puternic ca să o facă a se deștepta din somnul în care era cufundată. S-a deșteptat, da, însă din nenorocire prea târziu... Norii atât de grei și negri care s-au format înprejurul ei de la prima dată când am văzut-o, nu au fost îndestul risipiți, pentru ca vederea să-mi rămână liberă spre a putea vedea limpede și bine în inima sa. Am văzut... dar când am văzut era prea târziu!...</p>
 <p>— Si această femeie, pe care o credeam ușurică, a probat că iubește și știe să iubească. Ea nu mai avea nici o rezervă, nu se mai gândea la nimic, nu calcula, nu raționa... În vreme că Elena, femeia care o credeam cu multă inimă... O! Irma s-a grăbit de a pleca!... Iar Elena... Elena nu mă iubește!</p>
-<p>***</p>
+
+	<milestone unit="***"></milestone>
+	
 <p>A doua zi Alexandru vorbi prea puțin cu Elena, și aceasta numai pentru ochii lumei ca să nu înțeleagă ceea ce se petrece între dânșii. Altfel evita de a rămânea singur numai cu dânsa, și ceea ce îi vorbea era cu totul străin de ce i-ar fi putut interesa.</p>
 <p>Elena nu se duse în acea zi la baie, și nici seara după cafea n-a mai ieșit pe alee.</p>
 <p>Alexandru, cu totul din contra, se duse ori unde știa că lumea este adunată, căci voia din tot sufletul să uite pe Elena.</p>
