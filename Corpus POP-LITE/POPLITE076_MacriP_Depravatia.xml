@@ -36,12 +36,12 @@
                <pubPlace>București</pubPlace>
               <publisher>TIPOGRAFIA GRIVIȚA M.M. ANTONESCU</publisher>
                <date>1903</date>
-               <decoNote type="ilustratii" subtype="no"/>
+               <decoNote type="illustration" subtype="no"/>
                <dim unit="char" type="mare"/>
                <extent>
                   <measure unit="word">13000</measure>
                   <measure unit="page" type="under_250"/>
-                  <measure unit="foileton" type="under_65"/>
+                  <measure unit="feuilleton" type="under_65"/>
                   <measure type="complete"></measure>
                </extent>
             </bibl>
@@ -61,8 +61,8 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="under 5"/>
-               <term type="republicare" n="under 10"/>
+               <term type="reception" n="under 5"/>
+               <term type="print_count" n="under 10"/>
                <term type="finished"></term>
                
             </keywords>
@@ -70,8 +70,8 @@
       </profileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
             <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
             <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
          </projectDesc>
@@ -80,14 +80,12 @@
  <text>
     <front>
     <div type="liminal">
-       <p>DEPRAVAȚIA PENTRU AUR</p>
-       <p>         și         </p>
-       <p>DEPRAVAȚIA PENTRU PÂINE</p>
+       <head>DEPRAVAȚIA PENTRU AUR         și        DEPRAVAȚIA PENTRU PÂINE</head>
     </div>
     </front>
   <body>
- <div type="chaper" n="1">
-<p>Văduva din Strada Vulturului</p>
+ <div type="chapter" n="1">
+<head>Văduva din Strada Vulturului</head>
 <p>În strada Vulturului e o căsuță pitulată în fundul unei mari curți. Partea din stânga a casei e ceva mai lăsată și pare că se va surpa dintr-un minut în altul: De altfel două pârghii de lemn susțin această aripă.</p>
 <p>Să intrăm acum puțin în interiorul acestei căsuțe. Sunt două odăi, una mică de tot, la mijloc e o sală și la dreapta o cameră ceva mai mare. Peste tot se vede cea mai neagră sărăcie, în schimb însă e o curățenie exemplară.</p>
 <p>Lângă o masă e o femeie ca de 45 de ani și o fată de 14 ani. Amândouă cos niște cămăși. Pe un scăunel, lângă o mașină, în care licărește puțin foc, stă o fetiță ca de 12 ani.</p>
@@ -104,8 +102,9 @@
 <p>Maria nu răspunse și oftă adânc.</p>
 <p>— De ce nu mai iei un hap din cele care ți-au dat alaltăieri la spital? continuă Voichița. Nu e așa că te simți mai bine cu ele?</p>
 <p>— Da, ceva mai bine, îngână Maria.</p>
-<p> *</p>
-<p>* *</p>
+	 
+<milestone unit="***"></milestone>
+	 
 <p>Era pe la începutul lunii lui Decembrie, anul 1900. De câteva zile se lăsase un frig mare, iar în seara aceea viscolea cumplit. Zăpada, bătând neîncetat în geamuri, se depusese în mare cantitate și ajunsese până aproape de ferestrele căsuței, pe când vântul, urlând înfiorător, se izbea cu putere de pereți, voind parcă să-i dărâme.</p>
 <p>Pe la ceasurile 9 și jumătate seara Maria se întorcea spre casă, venind de la magazinul de albituri, unde predase lucrul. Sărmana femeie ținea îh brațe vreo 10 kilograme do lemne, o pâine și un mic pachet cu niște tărguieli de la o băcănie.</p>
 <p>Vântul și zăpada o băteau în față și cu toate silințele pe care le depunea Maria, era silită la fiecare 20-30 de pași, să se oprească pe loc, să se repauzeze puțin și apoi să-și continue drumul prin mijlocul vijeliei.</p>
@@ -116,8 +115,8 @@
 <p>— Mâncați voi, răspunse dânsa;— mie nu mi-e foame. Fă-mi mai bine o ceașcă de ceai. Mai fierbe odată pe cel de azi dimineață, cred că o să aibă putere,— ține-l mai mult pe foc.</p>
 <p>Peste noapte Maria fu apucată de o fierbințeală mare și a doua zi nu putu să mai părăsească patul.</p>
 </div>
- <div type="chaper" n="2">
-<p>La casa Terezei</p>
+ <div type="chapter" n="2">
+<head>La casa Terezei</head>
 <p>Vijelia se liniștise puțin. Voichița plecă de dimineață la scoală. Ea era o fată silitoare, urmna în clasa I de la externat și ar fi fost poate cea mai bună elevă, dacă ar fi avut tot ce-i trebuie. Adeseori însă îi lipsea o carte sau un caiet, iar seara, în loc să-și învețe lecțiile, era nevoită să ajute mamei sale la cusut.</p>
 <p>Tatăl Voichiței murise demult, de vreo 10 ani aproape și Maria, rămasă văduvă, își crescu cele două fetițe lucrând pe la diferite case, iar alte ori luând de cusut de pe la magazinele de lenjerie din București.</p>
 <p>De vreo doi ani biata femeie se îmbolnăvi și în iarna anului 1900, când se duse la spitalul Colțea, medicul care o examină, dădu din cap și-i prescrise niște hapuri cu creozot.</p>
@@ -159,8 +158,8 @@
 <p>Zicând aceste cuvinte, femeia Tereza, cu care vom face numaidecât cunoștință mai de aproape, apăsă pe butonul soneriei și o servitoare, curat îmbrăcată, deschise ușa.</p>
 <p>Voichița, nedumerită, neștiind chiar dacă nu visează, intră înăuntru împreună cu Tereza.</p>
 </div>
- <div type="chaper" n="3">
-<p>Femeia-șarpe</p>
+ <div type="chapter" n="3">
+<head>Femeia-șarpe</head>
 <p>Voichița fu lăsată câteva minute singură, într-un salonaș din mijlocul caselor, iar Tereza trecu Într-o cameră de-alături. Acolo era o altă femeie, anume Elena, care întrebă Tereza îndată ce-o văzu:</p>
 <p>— Ai venit cu cineva?</p>
 <p>— Sa nu te amesteci deloc, am adus un vânat bun de tot și trebuie băgare de seamă ca să nu ne scape, răspunse infernala femeie, pe care de aci înainte vom numi-o ,,femeia-șarpe".</p>
@@ -200,8 +199,8 @@
 <p>— Să strigi! îi zise apoi dânsa cu un ton blând;— dar pentru ce? nu te las ca să pleci? te țin aici cu sila? Eu am voit să-ți fac un bine, nu vrei, du-te cu D-zeu, draga mea, că în București sunt destule fete sărace. Cu toate astea, vezi, gândește-te bine, nu spune la nimeni nimic, nici măcar la mama ta, căci șade urât pentru o fată de 14 ani să vorbească de măritat, — și dacă îți vei schimba gândul, vino la mine. Eu sunt întotdeauna gata să te ajut.</p>
 <p>Cu aceste cuvinte femeia-șarpe deschise ușa: Voichița ieși afară și o luă la fugă.</p>
 </div>
- <div type="chaper" n="4">
-<p>Pe drumuri.— Plânsul orfanei</p>
+ <div type="chapter" n="4">
+<head>Pe drumuri.— Plânsul orfanei</head>
 <p>Voichița găsi acasă pe mama ei tot bolnavă în pat. Luxandra îi pregătea puțin ceai și biata fetiță plângea pe ascuns.</p>
 <p>— Ce ai mamă? o întrebă Voichița aplecându-se lângă dânsa.</p>
 <p>— Nimic, răspunse ea; mă cam îneacă tusea. Aș fi vrut să mă mai duc la spital și n-am putere ca să mă scol. Ia uită-te în cutiuța aia, mai sunt hapuri?</p>
@@ -250,8 +249,8 @@
 <p>Luxandra căzu și ea în genunchi și amândouă orfanele începură să plângă.</p>
 <p>Afară era vifor, ningea cu putere.</p>
 </div>
- <div type="chaper" n="5">
-<p>Păcatul</p>
+ <div type="chapter" n="5">
+<head>Păcatul</head>
 <p> După ceva timp Voichița începu să-și adune, puterile și să-și dea bine seama de situația în care se afla.</p>
 <p> Mama ei trebuia înmormântată. Pentru aceasta era nevoie do o mulțime de formalități. Cine să le facă? Cine să alerge ? :</p>
 <p> În afară de asta, Voichița nu mai avea nici un ban, bietele fete nu gustaseră nimic toată ziua precedentă; din casă dăduseră tot. Și iarna era dintre cele mal aspre, sufla crivățul dinspre Nord și adese ori, pe lângă zăpada care cădea  mai ridica, de jos, în formă de nori, alta zăpadă.</p>
@@ -303,8 +302,8 @@
 <p> Voichița stătea în picioare, ca împietrită, fără să răspundă nimic.</p>
 <p> Tereza se apropie atunci de dânsa și începu să o dezbrace.</p>
 </div>
- <div type="chaper" n="6">
-<p> Oribila crimă </p>
+ <div type="chapter" n="6">
+<head> Oribila crimă </head>
 <p> Cam un sfert de ceas trecu și Voichița era dezbrăcată. Nu rămăsese pe dânsa de cât cămașa.</p>
 <p> Femeia-șarpe o privi lung și rânji din nou. I se părea că este pacalită. O dovadă mai mult despre asta, e că dânsa gângăni între dinți:</p>
 <p> - El! dacă nu ar fi criză!...</p>
@@ -346,8 +345,8 @@
 <p> La ora 12 noaptea, Voichița, plângând cu hohote, mergea prin mijlocul viscolului, spre casa din strada Vulturului.</p>
 <p> Dânsa ținea în mână un bilet de bancă de 100 lei, prețul tinereței, al cinstei, al vieții sale... </p> 
 </div>
- <div type="chaper" n="7">
-<p> În fața cadavrului</p>
+ <div type="chapter" n="7">
+<head> În fața cadavrului</head>
 <p> Când Voichița ajunse acasă, găsi pe sora ei Luxandra singură, în genunchi, lângă corpul mamei sale.</p>
 <p> Avu atunci un fel de zbucium, picioarele nu au mai putut să o susțină. Îi era rușine de sora sa mai mică și i se părea că mama ei prinde viață și o întrebă:</p>
 <p> — Nenorocito! ce-ai făcut?</p>
@@ -370,8 +369,8 @@
 <p> O! dacă conducătorii lumii de azi ar fi văzut această scenă inimile lor s-ar fi topit de milă și ar fi îndrumat altfel societatea care se tăvălește în mizerie și desfrâu!... Dacă puternicii zilei ar fi privit la torturile care zguduiau sufletele acestor două copile de 14 și 12 ani, de sigur că nu am mai fi întâlnit pe stradă femei, pe care păcatul și infernul le trimite înaintea ființelor nevinovate, nu ar mai putea să-și exercite meseria o ticăloasă de femeie-șarpe...</p>
 <p> Dar, în lume nu se aude decât cuvântul celui tare, celui bogat. Plânsul muribundului de foame și țipătul orfanei, le înăbușește mizeria și le înghesuie uitarea...</p>
 </div>
- <div type="chaper" n="8">
-<p> Depravația pentru păine</p>
+ <div type="chapter" n="8">
+<head> Depravația pentru păine</head>
 <p> Este anul 1901. Pe Voichița și pe Luxandra nu le-am mai văzut după înmormântarea mamei lor. Unde o fi ele oare? O fi murit, sau se află ascunse undeva? </p>
 <p> Să le căutăm pretutindeni, prin toate părțile, prin toate colțurile Capitalei.</p>
 <p> Să străbatem, deocamdată, casele cu firmă. E ceasul 10 seara, avem încă destulă vreme.</p>
@@ -454,8 +453,8 @@
 <p> Vai, ce figuri ieșite parcă din mormânt. La o masă e Ghiță Știrbu, care stă cu mâna după gâtul Anicuței. Dincolo e Tasi cu Sofița. Fata aceea care se ceartă cu Jerpelea, se numește Lica. A fost adusă servitoare la oțel și acum i se exploatează corpul. </p>
 <p> Să plecăm și de aici, încep să se adune pungașii, zăresc pe Mitu, pe Tasi, pe Ionel, pe Satana. Fiecare din aceștia au de amantă pe câte una din fetele care se văd la mese. Dacă ele n-ar avea bani să le dea, ca să aibă de băutură, o să fie bătaie.</p>
 </div>
- <div type="chaper" n="9">
-<p> Depravația pentru aur.</p>
+ <div type="chapter" n="9">
+<head> Depravația pentru aur.</head>
 <p> Mai e o speranță: să căutăm pe Voichița în localuri mai mari, acolo unde depravația se face pentru aur.</p>
 <p> Să mergem mai întâi în strada Turcului. Vezi casa asta, cu transperantele lăsate ? E un loc de întâlnire al femeilor de clasa a doua. Na! na! a pățit-o d-na! Domnul care o îmbrâncește, o bărbatul ei, un cunoscut funcționar. A surprins-o! Cu toate astea se urca amândoi în birjă, se-duc la domicilml conjugal! Are s-o ierte desigur. Ce încurcătură! Iată că iese și tânărul, este amantul ei.</p>
 <p> Acum nu mai putem cerceta aici, vom veni altădată. </p>
@@ -501,8 +500,8 @@
 <p> Nelli, pe de altă parte, amețită, în adevăr, de șampanie, începu să-și desfacă corsetul. </p> 
 <p> Puțin mai în urmă, d-nele cu amanții lor s-au dedat la niște adevărate orgii. Să închidem ochii, căci e rușine să mai privim pe aceste femei, care a doua zi vor jura, desigur, credință sărmanilor soți!... </p> 
 </div>
- <div type="chaper" n="10">
-<p> Zâmbet seducător — suflet otrăvit </p>
+ <div type="chapter" n="10">
+<head> Zâmbet seducător — suflet otrăvit </head>
 <p> E pe la sfârșitul lunii lui Mai.Într-o Duminică, pe la ceasurile 9 și jumătate dimineața, o fată îmbrăcată simplu, dar cu mult gust, venea, de la șosea, pe calea Victoriei.</p>
 <p> Era Voichița.</p>
 <p> Un an trecuse doar și frumusețea-i începuse a se vesteji.</p>
@@ -543,8 +542,8 @@
 <p> Pe seară, pe la ceasurile 6, Voichița se plimba pe calea Victoriei, îmbrăcată într-un frumos costum de primăvară. Tinerii se uitau, la dânsa și ea le zîmbea, aruncându-le priviri seducătoare.</p>
 <p> Vai! câtă dreptate avea poetul când a zis : «Gură de om, gură de câine, cere pâine...»</p>
 </div>
- <div type="chaper" n="11">
-<p> Cărturăreasa.</p>
+ <div type="chapter" n="11">
+<head> Cărturăreasa.</head>
 <p> Într-o stradă — cine voiește să afle adresa, o poate găsi la poliție — e o cărturăreasă.</p>
 <p> Voichița se duse acolo și dădu 5 lei ca să i se spună viitorul, norocul.</p>
 <p> Cărturăreasa întinse cărțile pe masă și începu să vorbească:</p>
@@ -567,8 +566,8 @@
 <p> — Este adevărat, reluă Voichița; m-am dus la oțel, ca să am ce să mănânc în seara aceea; — d-ta însă, îți înșeli soțul și calci peste o sfântă datorie, ca să-ți faci un capriciu! și să-mi răpești liniștea, mângâierea, singura nădejde ce-mi rămânea. Am scrisoarea pe care i-ai trimis-o, i-am luat-o din buzunarul hainei, așa că ștu totul. I-ai interzis să mă mai vadă, i-ai vorbit de divorț... Eu sunt o nenorocită, dar d-ta ești o mizerabilă!...</p>
 <p> Doamna nu răspunse nimic și plecă repede. Tânărul o urmă fără să se uite măcar la Voichița.</p>
 </div>
- <div type="chaper" n="12">
-<p> Moartea Voichiței</p>
+ <div type="chapter" n="12">
+<head> Moartea Voichiței</head>
 <p> Câteva zile mai în urmă s-a publicat prin ziare că o fată tânără a încercat să se sinucidă bând esență de oțet. Comisarul secției respective o trasportase la spital. După declarația pe care o făcuse însăși fata, a fost trecută în procesul verbal sub un alt nume. Voichița n-a voit să se știe cine este pentru ca să nu rămână nicio pată asupra surorii sale. </p>
 <p> Trecură 24 de ore, în care timp starea otrăvitei se agravase de tot. Toate încercările medicilor ca s-o scape cu viață, fură zadarnice.</p>
 <p> Când simți că este pe sfârșit, trimise pe ascuns, pe un om de la spital căruia îl dase 10 lei, ca să se ducă să înștiințeze pe sora sa la pension și să vie numai decât cu dânsa.</p>
@@ -592,8 +591,8 @@
 <p>Apoi o luă de mână și o duse afară.</p> 
 <p>În vremea asta doi oameni de serviciu intrară în acel salon cu patul pe care se transportă morții.</p>
 </div>
- <div type="chaper" n="13">
-<p>Răzbunarea</p>
+ <div type="chapter" n="13">
+<head>Răzbunarea</head>
 <p>Luxandra găsise că sora ei a murit. De aceea o dăduse afară îngrijitoarea spitalului, de aceea veniseră cei doi oameni cu patul pe care se pun morții.</p>
 <p>Ea o plecă singură pe străzi fără să știe unde se duce. Câteodată o apuca un plâns jalnic, dar se reculegea numaidecât, își făcea curaj.</p>
 <p>Voichița a fost o martiră pentru dânsa, a îngrijit-o ca o mamă și ca să-i asigure un viitor mai bun, ca să fie ferită de săgețile veninoase ale lumii, o pusese în pension.</p>
