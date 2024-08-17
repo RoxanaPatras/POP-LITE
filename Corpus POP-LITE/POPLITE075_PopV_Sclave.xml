@@ -39,13 +39,13 @@
                <pubPlace>București</pubPlace>
                <publisher>FOIȚA ZIARULUI „MINERVA”</publisher>
                <date>1912</date>
-               <decoNote type="ilustratii" subtype="no"/>
-               <dim unit="char" type="mare"/>
+               <decoNote type="illustration" subtype="no"/>
+               <dim unit="char" type="big"/>
                <extent>
                   <measure unit="word">29058</measure>
                   <measure unit="page" type="under_250"/>
-                  <measure unit="foileton" type="under_65"/>
-                  <measure type="complete"></measure>
+                  <measure unit="feuilleton" type="under_65"/>
+                  <measure type="incomplete"></measure>
                </extent>
             </bibl>
          </sourceDesc>
@@ -64,29 +64,28 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="under 5"/>
-               <term type="republicare" n="under 10"/>
+               <term type="reception" n="under 5"/>
+               <term type="print_count" n="under 10"/>
                <term type="finished"></term>
             </keywords>
          </textClass>
       </profileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
             <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
-            <p>Masura de tip "complete" indica faptul ca am gasit romanul in forma completa.</p>
+            <p>Masura de tip "incomplete" indica faptul ca am gasit romanul in forma incompleta.</p>
          </projectDesc>
       </encodingDesc>
    </teiHeader>
  <text>
 <body>
 <div type="part" n="83">
-<p>FOILETONUL ZIARULUI „MINERVA”</p>
-<p>83</p>
-<p>NOI SUNTEM SCLAVE</p>
-<p>ROMAN MODERN</p>
-<p>de Vasile Pop</p>
+<head>FOILETONUL ZIARULUI „MINERVA”</head>
+<head>83</head>
+<head>NOI SUNTEM SCLAVE. ROMAN MODERN</head>
+<head>de Vasile Pop</head>
 <div type="section">  
 <p>— Și destăinuirea asta pe care ți-am făcut-o eu și pe care nu o știa decât sora mea, Alexandra și acum o știi și d-ta în parte, e o nouă dovadă de încrederea pe care o am în caracterul d-tale, d-le Scuteanu!</p>
 <p>-Cât despre mine, d-ră, vă rog să aveți toată încrederea în discreția mea.</p>
@@ -136,15 +135,14 @@
 <p> — A? Vasăzică nu e lungă durata cunoștinței dv.</p>
 <p> — Eu, cunosc pe d. din ziare! replică d-ra Petroniu.</p>
 <p> — Și eu din acest culoar, să zic, din gangul d-tale e mai precis.</p>
-<p>(Va urma).</p>
+<trailer>(Va urma).</trailer>
 </div>
 </div>
   <div type="part" n="84">
-    <p>FOILETONUL ZIARULUI „MINERVA”</p>
-    <p>84</p>
-    <p>NOI SUNTEM SCLAVE</p>
-    <p>ROMAN MODERN</p>
-    <p>de Vasile Pop</p>
+    <head>FOILETONUL ZIARULUI „MINERVA”</head>
+    <head>84</head>
+    <head>NOI SUNTEM SCLAVE. ROMAN MODERN</head>
+    <head>de Vasile Pop</head>
 <div type="section">
 <p>— Ei bine, d-le Parsifal, reluă Alexandra cu gândul de a schimba vorba, eu ți-o prezint  ca pe cea mai bună prietenă a mea, o fată pe care din primul moment în care am văzut-o, am început să o iubesc foarte mult, mai mult decât pe o soră a mea.</p>
 <p>— Și eu, zise Lili Petroniu la rându-i cu căldură, și eu am avut în d-ta aceeași încredere, pe care am avut-o  în sora mea, și nu pot spune exact dacă nu te iubesc mai mult decât am iubit-o poate pe sora mea.</p>
@@ -202,15 +200,14 @@
 <p>— Da, da, o... „cocotă” cunoscută, zise Parsifal, cu franchețea lui brutală. Dar să trecem de la asta. Eu venisem la d-ra să întreb de sănătatea d-nei,să mă pun la dispoziție, căci știu ce a avut din partea unor anumiți indivizi de suferit...</p>
 <p>— Nu, nu m-a plictisit până acum  încă deloc nimeni. Văd chiar cu o bucurie foarte mare, că până și fratele meu care până aici mă urmărea ca un fel de umbră, a binevoit să se depărteze din drumul meu.</p>
 <p> — L-o fi depărtat cineva, obiectă Parsifal. Se poate, tot ce se poate; eu l-aș fi scos foarte cu plăcere din drumul d-tale, d-ră, dacă nu ți-ar fi fost frate.</p>
-<p>(Va urma).</p>
+<trailer>(Va urma).</trailer>
 </div>
   </div>
     <div type="part" n="85">
-      <p>FOILETONUL ZIARULUI „MINERVA”</p>
-      <p>85</p>
-      <p>NOI SUNTEM SCLAVE</p>
-      <p>ROMAN MODERN</p>
-      <p>de Vasile Pop</p>
+      <head>FOILETONUL ZIARULUI „MINERVA”</head>
+      <head>85</head>
+      <head>NOI SUNTEM SCLAVE. ROMAN MODERN</head>
+      <head>de Vasile Pop</head>
 <div type="section">
 <p>— Dar acum, fiindcă te găsesc bine, reluă din nou  Parsifal după o pauză, fiindcă  văd că te-ai restabilit complet, și nu numai că te-ai restabilit dar și iei lecții... adică  faci exerciții  de pian...  </p>
 <p>— Da, din când în când, ca să nu uit. Ce vrei ? Omul, când nu are nici o altă ocupație, cum sunt eu, și când așteaptă în zadar o autorizație pentru deschiderea unei școli, trebuie să facă ceva,  și cum acesta e singurul lucru, în afară de stenografie și alte marafeturi pe care le-am învățat mai bine, caut să trag foloase dintr-însa...</p>
@@ -266,16 +263,15 @@
 <p>Fostul locotenent se îndrepta gânditor spre locuința lui Scuteanu.</p>
 <p>Întâlnirea pe care o avusese la Alexandra cu acel „acordor” de piane, îl pusese pe gânduri. El îl cunoștea ca fiind unul din acei negustori de „sclave albe”, atât de răspândiți prin diferitele centre ale României, îl cunoștea ca fiind sub protecția câtorva bărbați politici, care îl tolerau, fiindcă aveau nevoie de serviciile lui. Dacă Parsifal nu spusese nimic în această privință mai pe larg d-rei Alexandra, nu o făcuse numai din grija de a nu-i inspira vreo nouă spaimă.</p>
 <p>— Am să-i spun totul lui Scuteanu! murmură el, mergând repede și desigur că el o să ia măsurile necesare, ș-apoi o să veghez și eu.</p>
-<p>(Va urma).</p>
+<trailer>(Va urma).</trailer>
 </div>
     </div>
   
   <div type="part" n="86">
-    <p>FOILETONUL ZIARULUI „MINERVA”</p>
-    <p>86</p>
-    <p>NOI SUNTEM SCLAVE</p>
-    <p>ROMAN MODERN</p>
-    <p>de Vasile Pop</p>
+    <head>FOILETONUL ZIARULUI „MINERVA”</head>
+    <head>86</head>
+    <head>NOI SUNTEM SCLAVE. ROMAN MODERN</head>
+    <head>de Vasile Pop</head>
 <div type="section">
 <p>Buzele lui se mișcau aproape involuntar; el își dădea în cele din urmă seama că înfățișarea lui trebuie să aibă ceva anormal, deoarece văzuse pe mai mulți inși ațintindu-și privirile asupra lui. Fostul locotenent atribuia aceasta surescitării în care fusese.</p>
 <p>— Ce își zise el în gând, dacă încep să vorbesc pe drum ca un prost, desigur că o să se uite la mine lumea. Ajungând la locuința lui Scuteanu, strânse mâna boierului și începue:</p>
@@ -339,16 +335,15 @@
 <p>— Păi când, mâine după prânz?</p>
 <p>— Nu, chiar astăzi atunci, adică peste câteva ore, dacă vrei pe la 5 să vii și până atunci mă voi sfătui și cu micul meu comisar și vom vedea ce e de făcut.</p>
 <p>—Foarte bine.</p>
-<p>(Va urma).</p>
+<trailer>(Va urma).</trailer>
 </div>
   </div>
   
   <div type="part" n="87">
-    <p>FOILETONUL ZIARULUI „MINERVA”</p>
-    <p>87</p>
-    <p>NOI SUNTEM SCLAVE</p>
-    <p>ROMAN MODERN</p>
-    <p>de Vasile Pop</p>
+    <head>FOILETONUL ZIARULUI „MINERVA”</head>
+    <head>87</head>
+    <head>NOI SUNTEM SCLAVE. ROMAN MODERN</head>
+    <head>de Vasile Pop</head>
 <div type="section">
    <p>După încă vreo câteva fraze schimbate, în timpul cărora amândoi își dădură asigurări reciproce, că vor lua toate măsurile posibile pentru siguranța Alexandrei, Parsifal se îndreptă spre ieșire și dispăru.</p>
 <p>Pe drum, începu să umble mai cu băgare de seamă și pe fiecare om care se apropia de el venindu-i în față, îl scruta întâi bine și abia după ce se încredința că nu e vreun individ primejdios, trecea pe lângă el.</p>
@@ -400,16 +395,15 @@
 <p>— Cum? Ai făcut tu, sau a făcut ea din tine un „asociat"? Nu ți-e rușine, om în toată firea să te lași condus de o cocotă.</p>
 <p>Țineți vorbele pentru tine, zise Mihnea încruntându-se, acum eu sunt aici mai tare, eu dictez și o să mă asculți și după aceea vom vedea sau dacă nu...</p>
 <p> Ei, dacă nu... realizează-ți amenințarea, rânji Parsifal sfidător.</p>
-<p>(Va urma).</p>
+<trailer> Va urma</trailer>
     </div>
   </div>
   
   <div type="part" n="88">
-    <p>FOILETONUL ZIARULUI „MINERVA”</p>
-    <p>88</p>
-    <p>NOI SUNTEM SCLAVE</p>
-    <p>ROMAN MODERN</p>
-    <p>de Vasile Pop</p>
+    <head>FOILETONUL ZIARULUI „MINERVA”</head>
+    <head>88</head>
+    <head>NOI SUNTEM SCLAVE. ROMAN MODERN</head>
+    <head>de Vasile Pop</head>
 <div type="section">
 <p>Dar în momentul când rostea aceste cuvinte,Parsifal le și regreta, deoarece atitudinea lui era departe de a inspira lui Mihnea o încredere în aerul său supus, pe care îl arătase adineaori.</p>
 <p>— Asta o să o vezi tu mai târziu; deocamdată, amice Parsifal, să știi: nu tolerez pe nimeni, nu vreau ca nici tu să nu te amesteci, nici altul, și nici acel Scuteanu pe care o să-l lucrez eu...</p>
@@ -463,16 +457,15 @@
 <p>— D-lui o cunoștea de câtva timp, replică Scuteanu și a văzut acolo pe acel ticălos, pe comerciantul de fete, ca să-i zic așa, și a venit să-mi spună mie să fac tot posibilul ca să o apăr, și când a sosit aici? </p>
 <p>— Ce s-a întâmplat?</p>
 <p>— Când a sosit aici l-am văzut cu un plic atârnat de piept. Credeam întâi că e o particularitate a lui. Când colo, i-l atârnase cineva care fugise...</p>
-<p>(Va urma)</p>
+<trailer> Va urma</trailer>
 </div>
   </div>
   
   <div type="part" n="89">
-    <p>FOILETONUL ZIARULUI „MINERVA”</p>
-    <p>89</p>
-    <p>NOI SUNTEM SCLAVE</p>
-    <p>ROMAN MODERN</p>
-    <p>de Vasile Pop</p>
+    <head>FOILETONUL ZIARULUI „MINERVA”</head>
+    <head>89</head>
+    <head>NOI SUNTEM SCLAVE. ROMAN MODERN</head>
+    <head>de Vasile Pop</head>
 <div type="section">
 <p>— Serios, un plic atârnat de piept? exclamă Zătreanu. Dar asta e ca în romanele lui Connan Doyle.</p>
 <p>— Se poate, dar lucrul este așa: era în acea scrisoare o amenințare adresată lui Parsifal de către Mihnea Mărgărint.</p>
@@ -532,16 +525,15 @@
 <p>— Da, așa e, zise Lili Petroniu la rându-i; și e un mijloc, de data asta de a intra direct în acțiune, d-le Scuteanu, și să nu mai ai nevoie de nicio intervenție, ci să apari ca un fel de salvator.</p>
 <p>— O știu eu pe duduia d-tale, zise Scuteanu. De îndată ce ar vedea că eu îi întind mâna ca să o scot dintr-un lac, s-ar lăsa mai degrabă să se înece, decât să primească ajutorul meu.</p>
 <p>—Da, asta e adevărat, replică la rândul ei doica Ioana, da, așa e, e așa de ciudată domnișoara noastră, așa de mândră, mai degrabă vrea să moară decât să săvârșească un lucru menit să o scape cu cinste din toate încurcăturile.</p>
-<p>(Va urma).</p>
+<trailer> Va urma</trailer>
 </div>
   </div>
   
   <div type="part" n="90">
-    <p>FOILETONUL ZIARULUI „MINERVA”</p>
-    <p>90</p>
-    <p>NOI SUNTEM SCLAVE</p>
-    <p>ROMAN MODERN</p>
-    <p>de Vasile Pop</p>
+    <head>FOILETONUL ZIARULUI „MINERVA”</head>
+    <head>90</head>
+    <head>NOI SUNTEM SCLAVE. ROMAN MODERN</head>
+    <head>de Vasile Pop</head>
 <div type="section">
 <p> Comisarul interveni:</p>
 <p>— Dar noi stăm aici de vorbă și poate n-ar strica să plecăm, mai bine.</p>
@@ -594,16 +586,15 @@
 <p>— Cum, aveți asemenea artiste?</p>
 <p>— A, nu, dar vreau să spun. Vă dau un exemplu, d-ră. Poate ați auzit de Bel-Sorel.</p>
 <p>— Bel-Sorel, e o artistă franceză.</p>
-<p>(Va urma)</p>
+
  </div>
   </div>
   
   <div type="part" n="91">
-    <p>FOILETONUL ZIARULUI „MINERVA”</p>
-    <p>91</p>
-    <p>NOI SUNTEM SCLAVE</p>
-    <p>ROMAN MODERN</p>
-    <p>de Vasile Pop</p>
+    <head>FOILETONUL ZIARULUI „MINERVA”</head>
+    <head>91</head>
+    <head>NOI SUNTEM SCLAVE. ROMAN MODERN</head>
+    <head>de Vasile Pop</head>
 <div type="section">
 <p>— Da, e o artistă, pe care o cheamă Ivonne Durand în limba franceză... În Franța mai ales. Durand e un nume tot atât de comun, cum ar fi la noi „Ionescu”, și cu toate acestea și-a pus numele Bel-Sorel, și  azi e o celebritate în Franța.</p>
 <p>— Am auzit și eu de dânsa, replică Alexandra, surâzând.</p>
@@ -651,16 +642,15 @@
 <p>— Dar vreau să plec.</p>
 <p>— Nu, d-ră, vă rog foarte mult să-mi faceți o plăcere.</p>
 <p>— Dar nu-mi face mie plăcere....</p> 
-<p>(Va urma)</p>
+<trailer> Va urma</trailer>
 </div>
 </div>
   
   <div type="part" n="92">
-    <p>FOILETONUL ZIARULUI „MINERVA”</p>
-    <p>92</p>
-    <p>NOI SUNTEM SCLAVE</p>
-    <p>ROMAN MODERN</p>
-    <p>de Vasile Pop</p>
+    <head>FOILETONUL ZIARULUI „MINERVA”</head>
+    <head>92</head>
+    <head>NOI SUNTEM SCLAVE. ROMAN MODERN</head>
+    <head>de Vasile Pop</head>
 <div type="section">
 <p> -Nu cer decât o concesiune mică de tot, atâta numai. Să intrați, să vedeți, să vă orientați, ca să știți cum să apăreți diseară...</p>
 <p>— Nu, diseară nu pot să apar cu nici un preț!</p>
@@ -711,16 +701,15 @@
 <p>— Dar ce-ți pasă d-tale, d-ră! Eu vorbesc ce vreau! Și n-am să dau nimănui socoteală despre ceea ce vorbesc.</p>
 <p>— Dar vorbeai privitor la mine ceva, replică Alexandra cu o intonație blajină, însă atât de cuceritoare încât „frumoasa Elena” se simți pătrunsă până în suflet și fusese gata să revină asupra celor spuse.</p>
 <p>— Se poate, adică nu... n-am  voit să te jignesc, d-șoară.</p>  
-<p>(Va urma)</p>
+<trailer> Va urma</trailer>
   </div>
   </div>
   
   <div type="part" n="93">
-    <p>FOILETONUL ZIARULUI „MINERVA”</p>
-    <p>93</p>
-    <p>NOI SUNTEM SCLAVE</p>
-    <p>ROMAN MODERN</p>
-    <p>de Vasile Pop</p>
+    <head>FOILETONUL ZIARULUI „MINERVA”</head>
+    <head>93</head>
+    <head>NOI SUNTEM SCLAVE. ROMAN MODERN</head>
+    <head>de Vasile Pop</head>
 <div type="section">
 <p>— Lăsați-o, d-ră! Nu vedeți că e nițel cam „țicnită”, altfel o fată foarte de treabă, foarte bună, dar din pricină că n-am lăsat-o să se amestece, să facă pe apărătoarea d-v., așa cum o înțelege ea, a spus câteva prostii, și le regretă.</p>
 <p>Iordan se adresă frumoasei Elena, întrebând-o.</p>
@@ -768,16 +757,15 @@
 <p>O teamă instinctivă, un fel de groază nelămurită, o cuprinsese, ghicind că acești doi păreau hotărâți nu numai să o silească să cânte, dar încă să o rețină cu forța acolo.</p>
 <p> Cuvintele nesocotite ale „Frumoasei Elena”, aluziile pe care le auzise până aici, o edificase îndeajuns asupra localului în care fusese târâtă și asupra primejdiei în care se afla.</p>
 <p>Acum, fiindcă nu se vedea în stare de a lupta cu greutățile, cu piedicile ce i se ridicau în cale, se decisese, deși cu inima strânsă să-și dea aerul că vrea să joace pe scena măcar pentru a face o repetiție.</p>
-  <p>(Va urma)</p>
+  <trailer> Va urma</trailer>
 </div>
   </div>
   
   <div type="part" n="94">
-    <p>FOILETONUL ZIARULUI „MINERVA”</p>
-    <p>94</p>
-    <p>NOI SUNTEM SCLAVE</p>
-    <p>ROMAN MODERN</p>
-    <p>de Vasile Pop</p>
+    <head>FOILETONUL ZIARULUI „MINERVA”</head>
+    <head>94</head>
+    <head>NOI SUNTEM SCLAVE. ROMAN MODERN</head>
+    <head>de Vasile Pop</head>
 <div type="section">
 <p> Directorul Boboc ghicise cele ce se petreceau în inima Alexandrei, căci el, pretextând că vrea să o conducă, o luase înainte; însă întâi făcuse un semn de înțelegere (neobservat de Alexandra) către tovarășul său. Iordan la rându-i pus în gardă de acest semn, se adresă câtorva chelneri, le vorbi în șoaptă, și pe când Alexandra urca treptele înapoi, pentru a trece pe scenă însoțită de către „directorul”. Impresarul luă cele mai strașnice măsuri ca nu cumva d-ra Cerveniu să poată scăpa pe neașteptate din acest local.</p>  
 <p> — Să fiți cu ochii în patru! murmurase el într-un ordin energic. </p>
@@ -820,16 +808,15 @@
 <p>— Nu, d-le director, răspunse Alexandra, v-am făcut dorința, v-am făcut proba; și sper să ies diseară și mai bine. Dar acum  trebuie să plec să-mi aranjez puținele lucruri ce am acasă, și în același timp să-mi iau o toaletă convenabilă, și să îmi prepar curajul pentru diseară.</p> 
 <p>— Dar nu e nevoie, nu e nevoie de nimic zise Boboc repede, e destul de bine așa cum sunteți, d-ră. Veți face impresia  unei „diseuse”, o d-ră nobilă din high-life, care s-ar urca din stal pe scenă să debuteze. Ar fi cred cea mai frumoasă impresie, cea mai frumoasă idee ce s-ar putea realiza, și ca simplicitate, și totodată ca bucată de efect. Ne-am înțeles, d-ră, rămâneți aici; o să cinați cu noi, și vă vom arăta cabina în care vă puteți „prepara”.</p>
 <p> Directorul lăsă pe Alexandra alături de „Roza de Mai“ și cu ceilalți artiști, care păreau a sta la o distanță respectuoasă, se îndreptă cu impresarul, spre treptele din dos ale scenei.</p>
-<p>(Va urma)</p> 
+<trailer> Va urma</trailer>
   </div>
   </div>
   
   <div type="part" n="95">
-    <p>FOILETONUL ZIARULUI „MINERVA”</p>
-    <p>95</p>
-    <p>NOI SUNTEM SCLAVE</p>
-    <p>ROMAN MODERN</p>
-    <p>de Vasile Pop</p>
+    <head>FOILETONUL ZIARULUI „MINERVA”</head>
+    <head>95</head>
+   <head>NOI SUNTEM SCLAVE. ROMAN MODERN</head>
+    <head>de Vasile Pop</head>
 <div type="section">
 <p>Roza de Mai îl privi de pe urmă, apucă pe noua debutantă de mână, și îi șopti cu înfrigurare:</p>
 <p>— Pentru D-zeu, d-ră, nu mai sta aici, nu e pentru d-ta,  ăsta e un infern, nu e un local în care d-ta să poți apărea în mod onorabil!</p>
@@ -878,16 +865,15 @@
 <p>— Uite ce bănuiesc eu, trebuie să fie o cabală împotriva d-rale, d-ră.</p>
 <p>— Ești prea romantică, nu e  nici o cabală, e o simplă răzbunare sau vrea Florica din invidie să își bată joc de mine, fiindcă (știu eu din pricină), n-am admis unele vederi ale ei.</p>
 <p>— Ei, atunci cu atât mai mult, și mi se pare încă ceva: D-ta  ești iubită de cineva?</p>  
-<p>(Va urma)</p>
+<trailer> Va urma</trailer>
   </div>
   </div>
   
   <div type="part" n="96">
-    <p>FOILETONUL ZIARULUI „MINERVA”</p>
-    <p>96</p>
-    <p>NOI SUNTEM SCLAVE</p>
-    <p>ROMAN MODERN</p>
-    <p>de Vasile Pop</p>
+    <head>FOILETONUL ZIARULUI „MINERVA”</head>
+    <head>96</head>
+    <head>NOI SUNTEM SCLAVE. ROMAN MODERN</head>
+    <head>de Vasile Pop</head>
 <div type="section">
 <p>— Nu tocmai, zise Alexandra.</p>
 <p>—Adică ești sau nu ești iubită; ei, spune, vorbim sincer, uite eu sunt atât de devotată cauzei d-tale, deși abia te-am văzut. Te cunosc însă de mult din auzite. Acum,  doar te-am văzut și inima mea e cu totul pentru D-ta. Să nu crezi că sunt o ticăloasă care vrea să te înșele, să abuzez de buna credință a d-tale. Nu!</p>
@@ -930,16 +916,15 @@
 <p>Alexandra nici nu mai asculta cuvintele pe care le rostea, aproape fără să se întrerupă, impresarul. El îi vorbea de planuri mari, de viitor, de diferitele debuturi pe care avea să le pună la cale, împreună cu ea, prin capitalele Europei și de succesele și triumfurile ce trebuia să se lege de numele ei.</p>
 <p>— O celebritate o să fiți, d-ră! O să deveniți ceva mult mai frumos, mai invidiat, mai dorit decât celebra Lina Cavalieri. Aceea nici măcar frumoasă nu e; dar are ceva voce drăgălașă, are joc de scenă și lucrul acesta, jocul de scenă pe care încă nu-l posedați dv. o să vă fie foarte ușor, mai ales cu inteligența și cu putința dv. de a vă adapta.</p>
 <p>Alexandra nu se gândea, nu auzea măcar o vorbă din cele ce-i spunea omul acesta, pe care ea îl privea în față, ca și când ar fi fost de sticlă, părând a trece cu privirile dincolo de el și urmărind continuu, numai un gând:</p>
-  <p>(Va urma)</p>
+ <trailer> Va urma</trailer>
   </div>
   </div>
   
   <div type="part" n="97">
-    <p>FOILETONUL ZIARULUI „MINERVA”</p>
-    <p>97</p>
-    <p>NOI SUNTEM SCLAVE</p>
-    <p>ROMAN MODERN</p>
-    <p>de Vasile Pop</p>
+    <head>FOILETONUL ZIARULUI „MINERVA”</head>
+    <head>97</head>
+    <head>NOI SUNTEM SCLAVE. ROMAN MODERN</head>
+    <head>de Vasile Pop</head>
 <div type="section">
 <p>— Oare o să găsească Roza de Mai pe doica acasă? O să aibă doica atâta prevedere să dea fuga până la comisar, să ceară ajutor și să vină ca să mă scoată de aici?</p>
 <p>Acum se învinuia de ușurința cu care admisese măcar ideea aceasta de a debuta pe o scenă. Ea se mustra amar că în dorința de a se plăti cât mai repede de datoriile ce avea Doica pentru ea la Scuteanu și în ambiția de a nu-i datora nimic, se aruncase cu atâta neprevedere în direcția aceasta pe care i-o indicase Iordan.</p>
@@ -990,16 +975,15 @@
 <p>Alexandra, întoarsă cu spatele către publicul ce intra mereu, auzi un glas și i se păru ca acest glas e al unei femei pe care o cunoscuse. Ea întoarse puțin capul și zări pe „Roza de Mai” vorbind cu patronul lângă ușă.</p>
 <p>Acesta părea a-i face mustrări, însă Roza de Mai zise destul de tare ca să fie auzită de Alexandra:</p>
 <p>— Dacă nu a vrut să-mi dea la farmacie mai repede, cum era să vin așa, să mă apuce damblaua acolo, în mijlocul scenei. Nu voiam, nu voiam să mă risc și apoi nici nu s-a început reprezentația și rândul meu e tocmai târziu.</p>
-<p>(Va urma)</p>
+<trailer> Va urma</trailer>
   </div>
   </div>
   
   <div type="part" n="98">
-    <p>FOILETONUL ZIARULUI „MINERVA”</p>
-    <p>98</p>
-    <p>NOI SUNTEM SCLAVE</p>
-    <p>ROMAN MODERN</p>
-    <p>de Vasile Pop</p>
+    <head>FOILETONUL ZIARULUI „MINERVA”</head>
+    <head>98</head>
+    <head>NOI SUNTEM SCLAVE. ROMAN MODERN</head>
+    <head>de Vasile Pop</head>
 <div type="section">
 <p>— Da, dar nu trebuie să intri pe aici, prin public.</p>
 <p>— Da, dar pe Duduia asta, d-ra Cerveniu, cum de o ții aici?</p>
@@ -1052,16 +1036,15 @@
 <p>Roza îi aruncă un șal pe umeri și în același timp își luă și ea tot ce putu apuca din lucrurile ei pentru a se eclipsa fără a lăsa prea multe regrete. Lângă ea întâmpină pe „patronul teatrului” și acesta îi șopti:</p>
 <p>— În fund, în fundul curții, lângă șopronul acela, vezi că e o cabină de decoruri, intrați acolo și căutați să nu vă vadă nimeni.</p>
 <p>— Da, da, am înțeles! replică Roza de Mai, dându-și aerul că târăște pe tânăra în putere înspre fundul curții.</p>
-<p>(Va urma)</p>
+<trailer> Va urma</trailer>
   </div>
   </div>
   
   <div type="part" n="99">
-    <p>FOILETONUL ZIARULUI „MINERVA”</p>
-    <p>99</p>
-    <p>NOI SUNTEM SCLAVE</p>
-    <p>ROMAN MODERN</p>
-    <p>de Vasile Pop</p>
+    <head>FOILETONUL ZIARULUI „MINERVA”</head>
+    <head>99</head>
+    <head>NOI SUNTEM SCLAVE. ROMAN MODERN</head>
+    <head>de Vasile Pop</head>
 <div type="section">
 <p>— Unde mă duci? întrebă Alexandra cuprinsă de temeri. Unde vrei să mă ascunzi?</p>
 <p>— Nu-ți fie teamă, Frumoasă dragă, nu-ți fie teamă că nu o să ascult ce spune sbirul ăsta. O să te duc până la ieșire, și de acolo te conduc eu mai departe.</p>
@@ -1110,16 +1093,15 @@
 <p>— Nu te înțeleg, Florico! Nu ai vrut d-ta să apară fata asta pe scenă, și n-ai vrut ca el, Scuteanu, să știe de toate lucrurile astea?</p>
 <p>— Da, am vrut, dar abia după ce ar fi apărut, iar nu înainte.</p>
 <p>— Ori înainte, ori după, tot acolo iese, deoarece e compromisă în ochii lui Scuteanu.</p>
-<p>(Va urma)</p>
+<trailer> Va urma</trailer>
 </div>
   </div>
   
   <div type="part" n="101">
-    <p>FOILETONUL ZIARULUI „MINERVA”</p>
-    <p>101</p>
-    <p>NOI SUNTEM SCLAVE</p>
-    <p>ROMAN MODERN</p>
-    <p>de Vasile Pop</p>
+    <head>FOILETONUL ZIARULUI „MINERVA”</head>
+    <head>101</head>
+    <head>NOI SUNTEM SCLAVE. ROMAN MODERN</head>
+    <head>de Vasile Pop</head>
 <div type="section">
 <p>— Nu știm de unde a plecat, replică patronul.</p>
 <p>— Unde este!? Arătați-mi-o unde e! Să vorbim cu domnișoara, strigă Zătreanu, de ce ați ascuns-o?</p>
@@ -1156,11 +1138,10 @@
   </div>
   
   <div type="part" n="102">
-    <p>FOILETONUL ZIARULUI „MINERVA”</p>
-    <p>102</p>
-    <p>NOI SUNTEM SCLAVE</p>
-    <p>ROMAN MODERN</p>
-    <p>de Vasile Pop</p>
+    <head>FOILETONUL ZIARULUI „MINERVA”</head>
+    <head>102</head>
+    <head>NOI SUNTEM SCLAVE. ROMAN MODERN</head>
+    <head>de Vasile Pop</head>
     <div type="section">
   <p> - A! Uite o femeie: ea ne poate spune dacă a văzut pe d-ra Cerveniu pe aici.</p>
   <p> Trăsura se opri și ei se dădură jos. Pe marginea drumului înainta cu mare greutate o ființă ce părea mai mult a se târî decât a umbla, mergând înspre Băneasa.</p>
@@ -1210,16 +1191,15 @@
   <p>Mișcările făcute până acum continuau. Dar pe când doica mișca brațele și turnau un șiroi de lacrimi peste obrazul tinerei înecate, dactilografa urmărea cu o încordare asupra Alexandrei, tracțiunile ei. Ema tresări din nou și zise:</p>
   <p>- A contractat obrazul.</p>
   <p> Deodată dactilografa strigă:</p>
-  <p> Va urma.</p>
+  <trailer> Va urma</trailer>
 </div>
   </div>
   
   <div type="part" n="103">
-    <p>FOILETONUL ZIARULUI „MINERVA”</p>
-    <p>103</p>
-    <p>NOI SUNTEM SCLAVE</p>
-    <p>ROMAN MODERN</p>
-    <p>de Vasile Pop</p>
+    <head>FOILETONUL ZIARULUI „MINERVA”</head>
+    <head>103</head>
+    <head>NOI SUNTEM SCLAVE. ROMAN MODERN</head>
+    <head>de Vasile Pop</head>
 <div type="section">
   <p> - A deschis ochii! A deschis ochii!</p>
   <p> Doica, în culmea fericirii, se întrerupse din mișcările pe care le făcea Alexandrei și începu să sărute mâinile stăpânei sale, plângând, hohotind ca o nebună.</p>
@@ -1267,16 +1247,15 @@
   <p> Scuteanu păru a fi luminat complet de această idee. El trimise imediat pe Pavel Simion să îngrijească de un meșter care să vadă tot ce era la Alexandra acasă, și să imite odaia pe care voia să i-o pună la dispoziție, să o transforme, astfel încât să fie aproape la fel cu aceea locuită de Alexandra.</p>
   <p> Meșterul angajat lucra cu o grabă mărită încă de marele bacșiș pe care îl promisese Andrei, și în câteva ore, realiza minunea aceasta.</p>
   <p> Alexandra fu ridicată în timpul somnului cu saltea cu tot din patul în care se afla, și dusă în odaia special pregătită pentru ea.</p>
-  <p> Va urma</p>
+  <trailer> Va urma</trailer>
 </div>
   </div>
   
   <div type="part" n="104">
-    <p>FOILETONUL ZIARULUI „MINERVA”</p>
-    <p>104</p>
-    <p>NOI SUNTEM SCLAVE</p>
-    <p>ROMAN MODERN</p>
-    <p>de Vasile Pop</p>
+    <head>FOILETONUL ZIARULUI „MINERVA”</head>
+    <head>104</head>
+    <head>NOI SUNTEM SCLAVE. ROMAN MODERN</head>
+    <head>de Vasile Pop</head>
 <div type="section">
   <p> S-a brodat ca dispoziția ușilor să fie aproape la fel cu aceea a odăilor locuite de Alexandra, și doica se instală la capul ei, zicând:</p>
   <p> -Acum, cel puțin, suntem la adăpost de orice grijă pentru stăpâna mea.</p>
@@ -1327,16 +1306,16 @@
 <p>- Doica dragă, zise ea după ceva minute; spune-mi drept, e ceva aici pe care nu-l înțeleg eu? Văd o servitoare aici. Eu n-am avut așa ceva. Ce e cu ea?</p>
 <p>- Ce să fie, duduie dragă? Nu e nimic! Eu te iubesc și caut să te slujesc pe cât e posibil. Femeia pe care ai văzut-o, de vreo două, trei ori, e o ajutătoare pe care am luat-o pentru timpul cât ai fost mai rău bolnavă, ca să nu te las singură.</p>
 <p>- Am înțeles toate acestea, zise Alexandra șovăind, dar nu pricep cum de orice, luate atât de repede, ca și când ar fi preparate dinainte. Tot ce se petrece în jurul meu merge atât de repede. Doctoriile se aduc ca și când ar veni cu fulgerul. Mâncarea de unde vine, căci e o singură femeie care gătește, cum spui.</p>
-<p> Va urma</p>
+<trailer> Va urma</trailer>
 </div>
   </div>
   
   <div type="part" n="105">
-    <p>FOILETONUL ZIARULUI „MINERVA”</p>
-    <p>105</p>
-    <p>NOI SUNTEM SCLAVE</p>
-    <p>ROMAN MODERN</p>
-    <p>de Vasile Pop</p>
+    <head>FOILETONUL ZIARULUI „MINERVA”</head>
+    <head>105</head>
+    <head>NOI SUNTEM SCLAVE. ROMAN MODERN</head>
+    <head>de Vasile Pop</head>
+    
 <div type="section">
 <p> Și nici nu se mai simte mirosul de la bucătărie, cum era de obicei înainte. În sfârșit, sunt o mulțime de lucruri mici, neînsemnate, care mă fac să bănuiesc că nu sunt la mine acasă, sau s-a transformat cu totul locuința mea.</p>
 <p>- E o părere, duduie dragă, dar nu te mai obosi! Uite, în cursul zilelor astea, o să ieși afară și o să te convingi și dumneata de cum stau lucrurile, dar până atunci să mai lăsăm gândurile și să-ți mai amintești de planurile tale.</p>
@@ -1376,16 +1355,15 @@
 <p>- Iartă-mă, domnișoara!</p>
 <p>Alexandra îl privi drept în față, ochii i se împăienjeniră de lacrimi, inimii i se strânsese și fața izbucni într-un hohot de plâns.</p>
 <p>- Eu să te iert pe dumneata? Dumneata să mă ierți pe mine!</p>
-<p> Va urma</p>
+<trailer> Va urma</trailer>
 </div>
   </div>
   
   <div type="part" n="105">
-    <p>FOILETONUL ZIARULUI „MINERVA”</p>
-    <p>105</p>
-    <p>NOI SUNTEM SCLAVE</p>
-    <p>ROMAN MODERN</p>
-    <p>de Vasile Pop</p>
+    <head>FOILETONUL ZIARULUI „MINERVA”</head>
+    <head>105</head>
+    <head>NOI SUNTEM SCLAVE. ROMAN MODERN</head>
+    <head>de Vasile Pop</head>
 <div type="section">
   <p>Alexandra era gata să se lase în genunchi în fața lui Scuteanu, dar Andrei o apucă de subțiori, o ridică și cu vocea întretăiată de emoția care îl zguduia acum, repeta în mai multe rânduri, cu glasul înecat de lacrimi:</p>
   <p>- Domnișoară, domnișoară, te rog domnișoarâ!...</p>
@@ -1443,7 +1421,7 @@
 <p>- Dacă îmi dă voie d-ra Cerveniu și dacă nu este de altă părere decât aceea pe care o am eu, ți-aș anunța ceva, domnișoară. Îmi dai voie, Alexandro?</p>
 <p> Tânăra ridică ochii umeziți de lacrimi către Andrei și fără a rosti un cuvânt, își ascunse capul la pieptul lui, pe când tânărul moșier zise către Lili Petroniu:</p>
 <p>- Iată, îți anunț nu numai logodna noastră, dar și căsătoria mea apropiată cu d-ra Alexandra Cerveniu.</p>
-  <p>Sfârșit</p>
+  <trailer>Sfârșit</trailer>
   </div> 
   </div>
      </body> 
