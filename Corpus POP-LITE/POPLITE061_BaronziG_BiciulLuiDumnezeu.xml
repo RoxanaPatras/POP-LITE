@@ -31,17 +31,17 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Baronzi, Maria G.</author>
+               <author>Baronzi, George</author>
                <title>Biciul lui Dumnezeu. Roman istoric din viața lui Vlad Țepeș (1460–1472)</title>
                <pubPlace>București</pubPlace>
-              <publisher>EDIT. ȘI PROPREITATEA TIPO LITOGR. DOR. P. CUCU.</publisher>
-               <date>1833</date>
-               <decoNote type="ilustratii" subtype="no"/>
-               <dim unit="char" type="mare"/>
+              <publisher>EDIT. ȘI PROPRIETATEA TIPO LITOGR. DOR. P. CUCU.</publisher>
+               <date>1883</date>
+               <decoNote type="illustration" subtype="no"/>
+               <dim unit="char" type="big"/>
                <extent>
                   <measure unit="word">44819</measure>
                   <measure unit="page" type="under_250"/>
-                  <measure unit="foileton" type="under_65"/>
+                  <measure unit="feuilleton" type="under_65"/>
                   <measure type="complete"></measure>
                </extent>
             </bibl>
@@ -61,8 +61,8 @@
                <term type='mode_inscription' ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
             </keywords>
             <keywords>
-               <term type="receptare" n="under 5"/>
-               <term type="republicare" n="under 10"/>
+               <term type="reception" n="under 5"/>
+               <term type="print_count" n="under 10"/>
                <term type="finished"></term>
                
             </keywords>
@@ -70,8 +70,8 @@
       </profileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Cuvantul cheie de tip "receptare" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
-            <p>Cuvantul cheie de tip "republicare" indica numarul de editii ale textului în intervalul de 10 ani după prima publicare.</p>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului în intervalul de 10 ani după prima publicare.</p>
             <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
             <p>Masura de tip "complete" indica faptul ca am gasit romanul în forma completa.</p>
          </projectDesc>
@@ -79,10 +79,7 @@
    </teiHeader>
  <text>
     <front>
-       <p>BICIUL LUI DUMNEZEU</p>
-       <p>ROMAN ISTORIC</p>
-       <p>DIN VIAȚA LUI</p>
-       <p>VLAD-TEPEȘ</p>
+       <p>BICIUL LUI DUMNEZEU. ROMAN ISTORIC DIN VIAȚA LUI VLAD-TEPEȘ</p>
        <p>DE</p>
        <p>G. BARONZI</p>
        <p>AUTOR A MAI MULTOR ROMANE ORIGINALE</p>
@@ -96,8 +93,7 @@
    <p>ROMAN ISTORIC</p>
    <p>DIN VIAȚA LUI VLAD ȚEPEȘ</p>
    <div type="chapter" n="1">
-   <p>CAP. I.</p>
-   <p>NECUNOSCUTA.</p>
+   <head>CAP. I. NECUNOSCUTA.</head>
    <p>In curtea bisericei Stelea din Tîrgoviște venea o mulțime de curioși să se grămădească împrejurul unei groape de curând săpate. Bărbați de toate treptele, femei și copii soseau pretutindine și inghesueala lor împedica comunicarea sțradelor care conduceau la sus-zisa biserică. Nimeni nu scia la ce veniseră acolo și ce voiau să vază. Cu toate acestea toți erau atrași de o curiositate neînvinsă ca să afle cine era acela pentru care se pregătise groapa din ordinul Domnitorului. Lucrul li se părea și mai de mirare, pentru că nu s-auzise nici un sunet de clopot care să însciințeze moartea cuiva, de și mai mulți preoți așteptau în ușa bisericei, îmbrăcați în hainele oficiului bisericesc, ca să îmormântoie pe acela ce era să li se trimită.</p>
    <p>Trecuse poate o oră de așteptare, în care mai mulți -și făceau diferite întrebări asupra curioasei ceremonii funebre ce se pregătea, dar toate întrebările lor remăseseră fără răspunsuri îndestulătoare din partea celor întrebați.</p>
    <p>De o dată se simți o mișcare prin lumea adunată acolo, care ca un singur om, ca o singură voință și cu aceeași îmboldire și întoarse iute capul ca să vază ce se întîmpla la spatele lor.</p>
@@ -127,8 +123,7 @@
    <p>Ștefan atunci bătu la poarta care era încuiată, și după mai multe bătăi repetite, veni portarul să-i deschiză.</p>
    </div>
    <div type="chapter" n="2">
-   <p>CAP. II.</p>
-   <p>O ADUNARE DE NEMULȚUMIȚI.</p>
+   <head>CAP. II. O ADUNARE DE NEMULȚUMIȚI.</head>
    <p>Pe când cei doi tineri se depărtau unul de altul spre a se duce fie-care la locuința sa; într-o casă depărtată de oraș, care se afla pe cel-alt mal al rîului, mai mulți boeri fuseseră invitați de proprietarul acelei case a ținea o adunare în care să desbată între dânșii despre înaltele interese ale țărei.</p>
    <p>Această casă aparținea lui Alexandru Guster.</p>
    <p>Persoana ce o numirăm era unul din oposanții dinastiei domnitoare, precum erau și toți aceia ce se aflau întruniți la dânsul.</p>
@@ -148,12 +143,11 @@
    <p>Lucrurile rămaseră aci. Vom vedea mai târziu ce efect avu otărîrea la care se opriseră cei nemulțumiți de chipul cu care -și începuse domnia Vlad Țepeș.</p>
    </div>
    <div type="chapter" n="3">
-   <p>CAP. III.</p>
-   <p>O PAGINĂ DIN TRECUT.</p>
+   <head>CAP. III. O PAGINĂ DIN TRECUT.</head>
    <p>A doa seară Stefan și Radu, după cuvântul ce -și deteră în ajun, se duseră din nou și se ascunseră în curtea bisericei Stelea, așteptând venirea aceleia pe care cel d-ântâiu ținea așa de mult s-o cunoască.</p>
    <p>Să-i lăsăm dară s-ascepte și de o cam dată să spunem în treacăt cine era Stefan și pentru ce stăruia el așa mult să sciă cine era femea sau copila care îl interesa așa de mult.</p>
    <p>Stefan dară era fiul unui boer fruntaș care în timpul lui Dracul, tatăl lui Vlad, fusese unul din miniștrii lei, și cel mai favorit al său. Nefericitul său părinte, Serban Rovinar, ne mai putând trăi în pace după moartea suveranului său care fusese ucis de Dan III, se trăsese din Tîrgoviște la o moșiă a sa. Dar goana noului Domnitor descoperind locul său de retragere trimise o seamă de ostași, să-l prindă și să-i taiă capul chiar în locuința sa. Serban aflând sosirea ostașilor lui Dan, zise oamenilor săi să închiză porțile și să nu-i lase să intre, ear el luă copilul său, care era băiat de vr-o opt-spre-zece ani, eși pe o portiță din dos și apucă câmpii. Ostașii sfărămară poarta și negăsind pe cel ce căutau, prădară tot avutul lui Serban și dând foc caselor lui, se întoarseră înapoi. Serban fugind peste câmpi cu fiul său Stefan, înoptă la poarta unui proprietar, pe care nu-l cunoscea, dar care făcându-i-se milă de dânsul, i dete ospitalitatea sub acoperemântul său.</p>
-   <p>Ospele lui Serban trăia de mult timp la moșia sa. El avea o soțiă și o fată, ca de opt-spre-zece ani, pe care o avea lèngă dânsul. Fata era una din cele mai frumoase ființe de care se mândrea părintele ei. El se numea Laur Almăjel.</p>
+   <p>Oaspele lui Șerban trăia de mult timp la moșia sa. El avea o soțiă și o fată, ca de optsprezece ani, pe care o avea lèngă dânsul. Fata era una din cele mai frumoase ființe de care se mândrea părintele ei. El se numea Laur Almăjel.</p>
    <p>Ea era blondă, cu ochii albaștri. Uă blondă, ca să bată la ochi prin frumusețea ei, cată să fiă prea frumoasă; ea nu suferă o stare de mizloc, precum sunt cele brune cari cu puțin lucru pot fi plăcute. Palatina avea o taliă resărită, pept, umeri și brace ca ale unei statue antice, o înfăcișare voinicească, dar plină de gracii. Viețuirea ei la țeară, unde părinții ei aveau moșia 1or între munți, i insuflă de mult încă gusturi și deprinderi bărbătesci. In toate zilele călărea ast-fel că nu era în tot satul nici unul din juni care s-o întreacă la călărit. Adesea se ducea la vânători mari de urși sau de mistreți dimpreună cu tată-său care era un vânător renumit, și uneori chiar singură când nu era cine s-o însoțească. Mama ei când o vedea întorcându-se cu câte-o pele de urs sau cu vr-un mistreț ucis de dânsa îngălbenea de spaimă și o ținea de rău pe când tată-său rîdea din toată inima și o săruta cu entusiasm.</p>
    <p>Pe lângă acestea, ea înota ca cel mai dibaciu înotător, și nu o dată i s-a întâmplat să scape dintre sătenii ei, când i apuca pe neașteptate unda în timpul primăverei pe când topirea nămeților de pe munți umfla apele și făcea periculoasă trecerea lor.</p>
    <p>De mică copilă, tată-său, care o iubea prea mult, fiind că i seamăna, zicea el, o deprinsese la ridicări de greutăți, la luptă dreaptă, la fugă și la mai multe feluri de gimnastică.</p>
@@ -189,8 +183,7 @@
    <p>Iată dară junele Stefan de care fu vorba în capitolul trecut, și pentru ce stăruia să se încredințeze daca acea pe care o văzuse visitând mormântul lui Dan era Palatina pe care o iubise și pe care încă o iubea, cu toate împrejurările ce veniseră să puiă o pedică așa de mare între amorul său și jalea copilei.</p>
    </div>
    <div type="chapter" n="4">
-   <p>CAP. IV.</p>
-   <p>PANDA.</p>
+   <head>CAP. IV. PANDA.</head>
    <p>Trecuse miezul nopții de mult. Luna -și arăta acum pătrarul ei din urmă pe un cer senin din primăvara acelui an, și cu toate acestea acea pe care o ascepta credinciosul amant nu venise încă. De mai multe ori Radu se cercă să păreasescă acel loc temându-se, zicea el, de a nu-l lua cine-va de un făcător de rele care întârziă așa mult noaptea afară din casă, dar Stefan nu se îndura încă să plece.</p>
    <p>— Nu vezi că n-are să viă? i zicea Radu. Curiositatea ce o avurăm aseară d-a o cunoasce a făcut-o a se teme d-a mai veni, sciind-că are să ne întălnească la postul nostru.</p>
    <p>— Ei, ce mare lucru ar fi daca ai perde și tu în noapte pentru mine? Mâine vei dormi toată zioa.</p>
@@ -259,9 +252,9 @@
    <p>— Și daca e?</p>
    <p>— E o Dănească prin urmare.</p>
    <p>— Ești un mișel!</p>
-   <p>— Stefane!...</p>
+   <p>— Ștefane!...</p>
    <p>— Esti un ticălos!</p>
-   <p>— Stefane, ține-ți gura!</p>
+   <p>— Ștefane, ține-ți gura!</p>
    <p>— De azi înainte, moartea între noi!</p>
    <p>— De azi înainte mă vei ucide sau te voiu ucide, dacă e așa.</p>
    <p>— Feresce-te de răsbunarea mea.</p>
@@ -269,8 +262,7 @@
    <p>Si acei doi tineri, uniți ca nisce frați, se despărțiră ca doi rivali turbați în ajunul unui duel de moarte.</p>
    </div>
    <div type="chapter" n="5">
-   <p>CAP. V.</p>
-   <p>OSPĂȚUL SĂNGEROS.</p>
+   <head>CAP. V. OSPĂȚUL SĂNGEROS.</head>
    <p>Trei zile în urma otărîrii luate de adunarea nemulțumiților, o parte din boerii din sus zisa adunare se duseră la palat și cerură de la Domnitor să le dea o audiență particulară.</p>
    <p>El fură îndată primiți.</p>
    <p>Vlad le eși înainte iu ușa salonului de primire și ascultă cu multă luare aminte plângerile, lor. Aceste plângeri erau privitoare la călcarea legilor și datinelor țărei de către Domnitorul ei, pentru care se cerea pe viitor respectarea lor în numele dreptății care trebuia să domnească în țară și pentru care s-a vărsat de atâtea ori sângele ei. Plângerea adusă de boeri era cu toată supunerea și după toate cuviințele datorite unui suveran. Vlad le ascultă în toată liniscea, de și, zicea el, avusese mii de cuvinte a se purta asfel, de oarece Domnul Dan, când a venit la scaunul domnesc înaintea sa, n-a cruțat pe nici unul din Drăculesec, pe câți a pus mâna, ci-i a ucis fără nici o judecată, precum ucisese chiar pe Dracula, tatăl său, și -i a luat domnia.</p>
@@ -285,8 +277,7 @@
    <p>Afară poporul bătea în palme dănțând și benchetuind și lăudând pe acela care -i a scăpat de împilarea ciocoilor.</p>
    </div>
      <div type="chapter" n="6">
-   <p>CAP. IV.</p>
-   <p>TRANDABUR NEBUNUL.</p>
+   <head>CAP. IV. TRANDABUR NEBUNUL.</head>
    <p>Fumul sângelui vărsat de selbatica bețiă a tiranului e ca fumul vinului care îmbată, amețesce, dar nu satură, nici o dată pe cel ce găsesce o mulțumire nespusă în astă feroasă deprindere. Vlad, satisfăcându-și patima un moment, cugeta la un nou spectacol sângeros, așa de plăcut vederii sale și așa de trebuincios pasiunii de care se simțea înflăcărat.</p>
    <p>După ce trecu în revistă mulțimea victimelor sele, urmat de nebunul său, trecu în sala tronului și așezându-se pe scaunul domnesc cu mulțumirea unui general după ce a luat o cetate cu asalt, se întoarse către nebunul său și, c-un mic surîs răutăcios:</p>
    <p>— Ce mai zici tu, nebunule? îl întrebă el.</p>
@@ -323,10 +314,9 @@
    <p>Si lăsă pe Vlad d-impreună cu urmașul care ascepta în picioare și cu capul plecat ordinile  suveranulul său.</p>
      </div>
      <div type="chapter" n="7">
-   <p>CAP. VII.</p>
-   <p>RĂZBUNAREA</p>
+   <head>CAP. VII. RĂZBUNAREA</head>
    <p>Trecură căteva săptămâni de la veninoasa despărțire dintre Radu și Stefan, când acesta din urmă întâlni într-o zi pe Radu eșind pe poartu cea mare a curții domnesci și strecurându-se cu pași pripiți din aintea aceluia de care se ferea să nu -l vază.</p>
-   <p>Stefan în ziuă cu ochii căt-va timp și un prepus negru i trecu prin minte îndată. El nu uitase cele după urmă cuvinte ce le auzise din gura resbunătorului june, dar î1 sciuse asemenea zăcând de o lună în pat în urma ruperii coastei sale ce o suferise de la Palatina.</p>
+   <p>Ștefan în ziuă cu ochii căt-va timp și un prepus negru i trecu prin minte îndată. El nu uitase cele după urmă cuvinte ce le auzise din gura resbunătorului june, dar î1 sciuse asemenea zăcând de o lună în pat în urma ruperii coastei sale ce o suferise de la Palatina.</p>
    <p>Era în ziua de pasce. Toată lumea era în picioare; toți serbau acea zi, care cum putea și după mizloacele de cari dispunea fiă-care. Poporul înșirat, pălcuri pălcuri, pe malurile cele înverzite ale Ialomiței care -și rostogolea apele de cristal pe sub dealul unde se înălța ultimul palat domnesc; lăutarii cântau, horele se învîrteau, flăcăii și fetele se legănau în dulapuri, vinul spumega din mănă în mănă, chiotele de veselie resunau pretutindeni.</p>
    <p>Ceea ce se petrecea afară se urma și în mai multe case boeresci. Veselia era generală. Morții cu morții și viii cu viii, spuneau ei. Si în adevăr, nimeni nu mai vorbea despre cei ce periseră așa mișelesce cu câte-va zile mai -nainte. Ei erau acum uitați; amintirea lor nu trebuia să turbure bucuria celor rămași în viață într-o zi așa de mare. Dumnezeu a lăsat doă lucruri bune spre măngâerea bietei omeniri: uitarea suferințelor din trecut și speranța într-un viitor mai fericit.</p>
    <p>Intr-una din aceste case mari se afla o adunare numeroasă de bărbați și femei, mai toți făcând parte din acea familiă mare în sînul căria veniseră să facă pascele împreună.</p>
@@ -350,10 +340,9 @@
    <p>Două-zeci de mii era numărul acestora. A doua zi, cel d-ântăi -și deteră sufletul în țepi, cei alți, bărbați, femei cu copii și cu bătrânii lor fură trimiși în județul Ialomița să lucrese la zidurile cetăței Poenarii, de unde abia după un an de zile li se dete voia să se întoarcă în Tîrgoviște, slabi, desfigurați, sdrențeroș, cerșindu-și pâinea din toate zilele, de zre-ce toate averile lor fuseră luate de sbirii tiranului.</p>
   </div>
   <div type="chapter" n="8">
-   <p>CAP. VIII.</p>
-   <p>VIRTUTEA UNEI FIICE.</p>
+   <head>CAP. VIII. VIRTUTEA UNEI FIICE.</head>
    <p>Intorcându-se acasă și aflând despre arestarea părintelui ei, Palatina se otărî a se duce la Țepeș și a peți ertarea lui. Ea se dusese călare pentru or ce împrejurare de care prevederea ei se temuse.</p>
-   <p>Ajungând la palat ea ceru să fiă înfățișată Domnitorului...</p>
+   <p>Ajungând la palat ea ceru să fie înfățișată Domnitorului...</p>
    <p>Tepeș o primi.</p>
    <p>Palatina îndată ce i se înfățișă, căzu în genuchi și, cu brațele întinse și cu capul plecat până la pământ în starea cea mai umilitoare:</p>
    <p>— Indurare! strigă ea.</p>
@@ -387,20 +376,19 @@
    <p>Si trimise îndată câți-va ostași ea s-o prinză și să -i-o aducă înapoi.</p>
   </div>
      <div type="chapter" n="9">
-   <p>CAP. VIII.</p>
-   <p>PADUREA TEPELOR.</p>
+   <head>CAP. VIII. PĂDUREA ȚEPELOR.</head>
    <p>Noaptea care urmă dup-acea zi sângeroasă, era ca o noapte din iad, plină de fioare și acoperită de un văl spâimântător, ca de un sudar mortuar. In oraș domnea liniștea cea mai profundă, tăcerea cea mai vecină cu pustietatea. Nici o lumină pe strade, nici o fereastră luminată, de cât la puține case mari din cele ce țineau de casa domnitoare. Nici un om nu se zărea umblând afară din locuința sa; toți stau închiși cu frica în inimă, cu spaima în ochi, privind din umbra întunericului afară fără să sufle, trăgând cu urechia ca s-auză ce era să se mai întâmple, tresărind la cel mai mic sgomot ce li se părea și înecându-și gemetele în tăcere ca să nu -i simtă cineva. Orașul seamăna ca o locuință de morți.</p>
    <p>Nu era tot așa afară din cetate. Acolo toată viața, toată suflarea se făcea simțită prin mii de strigăte desperate, prin mii de blesteme, de urlete și de gemete sfășietoare. Doă-zeci mii de condamnați asceptau moartea cea mai cumplită ce li se pregătea într-o tabără făcută într-adins pentru deținerea lor.</p>
-   <p>Trecuse noaptea jumătate. In oraș, Stefan, care se ducea regulat în toate serele la biserica Stelei unde credea să mai vază când și când pe acea ce venea adesea să ude cu lacremele ei mormântul lui Dan, neîntâlnind-o nici în seara aceea, ca în mai multe seri trecute, acum se întorcea acasă trist, cugetător, dar în acelaș timp spămiântat și el de sălbătăcia singurătăței ce o întâmpina pretutindinea. El -și aduse aminte de călcarea casei lui Stefănuță și de arestarea lui dinpreună cu toți cei ce se aflau la dânsul cu câte-va ore mai -nainte, apoi -și mai aduse aminte că în dimineața acelei zile văzuse pe Radu - eșind din curtea domnească și se înfioră. Oare, nu va fi pus în lucrare resbunarea sa, și nu va fi el acela care a făcut urgia lui Tepeș să cază pe capul acelor nefericiți! cugetă el. Dar daca și Palatina va fi din numărul celor prinși! Această ideă îl făcu a se cutremura. Când ar sci cel puțin locuința ei!... Dar ea n-a vrut nici o dată să -i o spuiă... Unde s-o găsească!... Pe cine să întrebe de dânsa!... Nu era nimeni pe strade; și ce ar fi înțeles daca s-ar fi încredințat că soarta ei era să fiă ca a celor-alți?... Avea el vre un mizloc a o scăpa?... Oh! dar cel puțin-i era de ajuns lui ca să sciă aceasta, pentru ca s-o urmeze în noua viață ce o ascepta dincolo de viața lumească!</p>
-   <p>Ast-fel de triste cugete frământau capul bietului june, când i se păru ceva ca o umbră care aluneca sprintenă și ușoară pe lângă zidurile caselor din cea-a tă parte a stradei. El se opri în loc, urmă cu ochii vedenia ce i se arără, dar întunericul nu -l lăsa s-o vadă bine. Nici dânsa nu -l zări, de oare-ce curmând drumul ca să viă în partea unde se afla Stefan, de o dată se lovi pept în pept cu dânsul. Ea scoase un mic țipăt.</p>
+   <p>Trecuse noaptea jumătate. În oraș, Stefan, care se ducea regulat în toate serele la biserica Stelei unde credea să mai vază când și când pe acea ce venea adesea să ude cu lacremele ei mormântul lui Dan, neîntâlnind-o nici în seara aceea, ca în mai multe seri trecute, acum se întorcea acasă trist, cugetător, dar în acelaș timp spămiântat și el de sălbătăcia singurătăței ce o întâmpina pretutindinea. El -și aduse aminte de călcarea casei lui Stefănuță și de arestarea lui dinpreună cu toți cei ce se aflau la dânsul cu câte-va ore mai -nainte, apoi -și mai aduse aminte că în dimineața acelei zile văzuse pe Radu - eșind din curtea domnească și se înfioră. Oare, nu va fi pus în lucrare resbunarea sa, și nu va fi el acela care a făcut urgia lui Tepeș să cază pe capul acelor nefericiți! cugetă el. Dar daca și Palatina va fi din numărul celor prinși! Această ideă îl făcu a se cutremura. Când ar sci cel puțin locuința ei!... Dar ea n-a vrut nici o dată să -i o spuiă... Unde s-o găsească!... Pe cine să întrebe de dânsa!... Nu era nimeni pe strade; și ce ar fi înțeles daca s-ar fi încredințat că soarta ei era să fiă ca a celor-alți?... Avea el vre un mizloc a o scăpa?... Oh! dar cel puțin-i era de ajuns lui ca să sciă aceasta, pentru ca s-o urmeze în noua viață ce o ascepta dincolo de viața lumească!</p>
+   <p>Astfel de triste cugete frământau capul bietului june, când i se păru ceva ca o umbră care aluneca sprintenă și ușoară pe lângă zidurile caselor din cea-a tă parte a stradei. El se opri în loc, urmă cu ochii vedenia ce i se arără, dar întunericul nu -l lăsa s-o vadă bine. Nici dânsa nu -l zări, de oare-ce curmând drumul ca să viă în partea unde se afla Stefan, de o dată se lovi pept în pept cu dânsul. Ea scoase un mic țipăt.</p>
    <p>— Palatina! strigă Stefan recunoscând pe juna copilă.</p>
    <p>— Sunt eu, zise ea.</p>
    <p>— Unde te duceai așa?</p>
    <p>— Nu mă întreba, dar ascultă-mă. Sunt câteva zile de rând te credeai fericit de a te lăsa să faci pentru mine or și ce lucru de care aș avea nevoiă.</p>
    <p>— Sunt tot acelaș. Spune, vorbesce ce vrei să fac? respunse junele.</p>
-   <p>— Ai putea să -mi fii de un mare ajutor în noaptea asta grozavă, și cel de sus nu te va lăsa daca mă vei însoți unde mă duc.</p>
+   <p>— Ai putea să-mi fii de un mare ajutor în noaptea asta grozavă, și cel de sus nu te va lăsa daca mă vei însoți unde mă duc.</p>
    <p>— In fundul iadului voiu merge; n-ai de cât să te mișci, și eu te voiu urma tărându-mă ca umbra după pașii ce vei face.</p>
-   <p>— E vorba de a -l scăpa, daca putință de scăpare mai e pentru un om care se află în gura leului.</p>
+   <p>— E vorba de a-l scăpa, daca putință de scăpare mai e pentru un om care se află în gura leului.</p>
    <p>— Or care va fi acel om voiu rescumpăra cu viața mea înreagă măcar o zi din viața lui.</p>
    <p>— Acel om e tatăl meu, zise Palatina cu glasul cel mai duios și plin de amărăciune.</p>
    <p>— Sciu că Tepeș a pus ghiara pe el.</p>
@@ -439,8 +427,7 @@
    <p>Si ei, drept respuns, reintrată în șanț și se făcură nevăzuți în adâncimea sa cercuită.</p>
   </div>
      <div type="chapter" n="10">
-   <p>CAP. IX.</p>
-   <p>AUTODAFEUL CERȘETORILOR.</p>
+   <head>CAP. IX. AUTODAFEUL CERȘETORILOR.</head>
    <p>Nu se sCia ce efect făcură, cuvintele nebunului asupra lui Vlad, dar cea ce se vedea pe fețele a cinci sute și mai bine cerșetori adunați din ordinul armașului într-o sală largă de scânduri, era o veseliă anevoiă de descris.</p>
    <p>Aceste ființe degradate din demnitatea lor de oameni prin nepăsarea societății și neprevederea cea nedreaptă a legilor ei, aceste ființe omenesci cari n-aveau de cât numele de oameni, acești miserabili cari nu posedă nimic pe pământ, lipsiți de or ce drepturi cetățenesci, fără nici un loc de adăpostire, fără nici un mizloc de viețuire, fără nici o îmbrăcăminte de eât nisce sdrențe cari acoperă și vara și earna, cari au ochi spre a invidia bunurile și prisoasele celor-alți, cari au urechi ca să auză înjurăturele sau batjocurele lor, cari au simțire ca să roșească de umilința lor, daca suferințele lor începute în leagăn și prelungite pănă la mormânt, -i mai lasă să roșească, acești desmosceniți ai neomeniei omenesci văzându-se de o dată îmbrâcați în haine noui, stând împrejurul mai multor mese întinse, mâncând și bând tot ce se găsea mai ales din ordinul Domnitorului, desfâtându-se poate pentru ăntâia dată în mizlocul lăutarilor, a vinului și a tot ce putea să înveselească acea serbare făcută numai pentru dânșii, nu puteau crede alt ceva de cât că suveranul lor căindu-se de câte rele a făcut, a cercat să se împace cu Dumnezeu și cu consciința sa începând să se dea la fapte bune și creștine.</p>
    <p>Numele lui Vlad era dară lăudat de toate gurele lor, și mai multe pahare fură deșertate cu urări și vivaturi pentru Domnul țărei.</p>
@@ -452,8 +439,7 @@
    <p>Se zice că pe când ei ardeau în foc, Vlad se arătă înaintea acestei scene grozave, și auiind țipetele și urletele arșilor dimpreună cu blestemele ce-i trimiteau în agonia lor, ar fi rîs din toată inima de plăcerea ce-i produse acest concert sălbatic.</p>
      </div>
      <div type="chapter" n="11">
-   <p>CAP. X.</p>
-   <p>STRIGOII.</p>
+   <head>CAP. X. STRIGOII.</head>
    <p>Am zis într-unul din capitolii trecuți că unul din ostașii cari păzeau tabăra celor puși în țeapă și a celor ce erau meniți a fi trimiși pentru ridicarea zidurilor cetății Poenarii, văzând la licărirea ziorilor pe Palatina și pe Stefan la marginea șanțurilor ce împresurau tabăra, a dat alarma.</p>
    <p>Câți-va ostași alergară atunci la strigarea camaradului lor pe care -l găsiră aproape de șanț făcându-și crucea și scuipându-și în sîn, ca cei ce cred că au văzut pe necuratul.</p>
    <p>—De ce-ai strigat și ce-ai văzut de -ți faci crucea? întrebă unul din ostașii cei veniți pe cel ce-i chemase.</p>
@@ -528,9 +514,8 @@
    <p>Si toți își făcură trei cruci uităndu-se după dânșii.</p>
      </div>
      <div type="chapter" n="12">
-   <p>CAP. XI.</p>
-   <p>RĂZBOIUL.</p>
-   <p>In seraiul Sultanului Mahomet II trăia de câtva timp un frate al lui Vlad Țepeș a nume Radu. El era june, și frumusețea lui cea mare -l dete mai târziu numele de Radu cel Frumos.</p>
+   <head>CAP. XI. RĂZBOIUL.</head>
+   <p>În seraiul Sultanului Mahomet II trăia de câtva timp un frate al lui Vlad Țepeș a nume Radu. El era june, și frumusețea lui cea mare -l dete mai târziu numele de Radu cel Frumos.</p>
    <p>Radu devenise favoritul Sultanului, în căt petrecea mai nedespărțit de dânsul și mânca la aceași masă împreună. Frumusețea acestui june orbise așa de mult pe Mahomet că într-o zi -i făcu nisce propuneri rușinoase. Radu se revoltă la aceste propuneri și vrând să se apăre cu sania în contra violenței ce-i făcea Sultanul, îl răni în mai multe locuri, cea ce mâniind pe Mahomet II făcu să depărteze pe Radu în esilul Caramaniei.</p>
    <p>Urgia Sultanului nu ținu însă mult, și după cât-va timp î1 aduse înapoi mai îmblânzit și mai dispus a servi plăcerilor Sultanului, care -i promitea în schimb domnia țărei.</p>
    <p>Era și timp; cruzimile spăimântătoare ale lui Țepeș, ajunseseră în culme; cătă să cugete cineva a le pune un capăt.</p>
@@ -548,7 +533,7 @@
    <p>Din pădurile învecinate unde se ținea ascuns cu oastea lui, el pândea toate mișcările Turcilor, și când vedea o parte din marea oștire a lui Mahomet că se depărta din tabără după pradă, el eșea din pădure, cădea ca fulgerul asupra acelor nefericiți și-i măcelărea până la unul.</p>
    <p>Dar Țepeș nu se mărginea într-atâta, el eșise de mai multe ori din ascunzătoarea sa ca să observe tabăra turcească. Un plan uriaș, plan de toată cutezarea clocea de câte-va zile în capul său. Acest plan, care unea sublimul cu grotescul pe tărâmul celei mai cutezătoare cruzimi, era ca să prinză pe sultanul de viu și să-l puiă în țeapă.</p>
    <p>Idea asta -l munci câte-va zile fără a-i lăsa nici un repaos și nici putința d-a o părăsi.</p>
-   <p>Intr-o noapte întunecoasă și tăcură, Vlad ese din pădure cu zece mii de călăreți, cei mai ageri din oștirea sa; fiă-care purtând câte o torță aprinsă în mână; el intră, cu furiă în tabăra Turcilor, s-avântă asupra cortului lui Mahomet ca un stol de ereți flămânzi, atrași de un câmp de leșuri; dar întunericul -i făcu să rătăcească drumul; cortul asupra căruia căzură ei era al vizirului Mahmud-pașa și al lui Isac-pașa.</p>
+   <p>Într-o noapte întunecoasă și tăcură, Vlad ese din pădure cu zece mii de călăreți, cei mai ageri din oștirea sa; fiă-care purtând câte o torță aprinsă în mână; el intră, cu furiă în tabăra Turcilor, s-avântă asupra cortului lui Mahomet ca un stol de ereți flămânzi, atrași de un câmp de leșuri; dar întunericul -i făcu să rătăcească drumul; cortul asupra căruia căzură ei era al vizirului Mahmud-pașa și al lui Isac-pașa.</p>
    <p>Cu toate acestea, privea a era măreață în selbătăcia ei, scena care se petrecea în tabăra lui Mahomed II, era din cele mai înfiorătoare. Spaima Turcilor nu se putea descrie când se văzură în fația atâtor mii de cavaleri al morții cu paloșul într-o mână și cu o torță aprinsă în alta, măcelărind, arzând, răsturnând cu peptul cailor lor spenați, șire întregi de ieniceri cari năvăleau din toate părțile, ca să apere cortul Sultanului. Ziduri de Turci ce formau împrejurul acelui cort și ele se spărgeau de atacul cel furios al năvălitorilor români. Toată oștirea turcească fu în picioare. Aproape doă sute mii luptători în contra a zece mii! In deșert stăruia Țepeș a pătrunde până la Sultan; el fu nevoit a se retrage dinaintea ziorilor cari începuseră a licări pe cer. Ucisese o mulțime numeroasă de Turci cari mai urmară a se ucide între dânșii, nesciind, în învălmășeala lor, în cine loveau.</p>
    <p>Când se lumină ele ziuă, Mahomet însărcină pe Ali-bey, fiul lui Mihael, să ia o cavaleriă aleasă și să urmărească pe Români. Ali bey ajunse o parte dintr-ânșii și se întoarse în tabără, cu vre-o miiă de prinși, cari fură toți uciși din ordinul lui Mahomet.</p>
    <p>Să însemnăm aci o trăsură de credință din partea unui ostaș al lui Țepeș, care căzuse cu vre-o alți câți-va, în mâinele Turcilor în noaptea călcării taberei lor. El fu dus înaintea vizirului, care -l întrebă unde se afla Țepeș ascuns; prinsul nu voi să spuiă, de și scia unde se afla suveranul său. Vizirul -l amenință că daca nu, va spune va fi ucis. „— Sînt gata, să mor, respunse credinciosul ostaș, dar nu voiu trăda pe frații mei.” Vizirul dete ordin să i se taie capul, apoi întorcăndu-se către ai săi, zise că daca Vlad avea o armată mai numeroasă ar ajunge curând unul din cel mai mări căpitani din lume.</p>
@@ -557,9 +542,8 @@
    <p>Vlad se întoarse de la otarele Moldovei fără a ajunge la nici un scop. Domnia lui Țepeș începea să încline spre apus, și acum părea a răsări pentru fratele său Radu cel Frumos, care se bucura de favoarea lui Mahomet II. Ali-bey fu însărcinat cu înlocuirea lui Vlai prin favoritul său.</p>
      </div>
      <div type="chapter" n="13">
-   <p>CAP. XII.</p>
-   <p>CEI DOI FUSTAȘI</p>
-   <p>La poarta palatului domnesc din Tîrgoviște doi fustași stau de sentinelă cu lăncile lor în mână, unul în dreapta și altul în stânga porții.</p>
+   <head>CAP. XII. CEI DOI FUSTAȘI</head>
+   <p>La poarta palatului domnesc din Târgoviște doi fustași stau de sentinelă cu lăncile lor în mână, unul în dreapta și altul în stânga porții.</p>
    <p>In fația lor cerul începea a se roși de cele din urmă raze ale soarelui care apunea sub o neagră sprinceană a unui nor ce părea că un balaur uriaș svîrcolindu-se într-o flacără mai uriașe de cât dânsul.</p>
    <p>Totul era liniscit împrejurul lor, ca și în curtea palatului de când Domnitorul plecase în bătaiă și familia domnească se afla încă în cetatea Poenarii.</p>
    <p>Ziua începea să mijească și liliecii curmau sborul lor misterios și se îndreptau spre Chindia.</p>
@@ -603,8 +587,7 @@
    <p>Cei doi fustași schimbară o căutătură înțelegătoare între dânșii, și se depărtară făr-a murmura, escortați de cei alți doi ostași din suita ofițerului.</p>
      </div>
      <div type="chapter" n="14">
-   <p>CAP. XIII.</p>
-   <p>UNDE SE EXPLICĂ CAPITOLUL PRECEDENT</p>
+   <head>CAP. XIII. UNDE SE EXPLICĂ CAPITOLUL PRECEDENT</head>
    <p>Rămâind singur, ofițerul zise, vorbind în sine:</p>
    <p>„Acum nu mă mai îndoesc... Sunt ei, ceea ce- mi s-a spus s-a adeverit... Păcătoasa a luat portul bărbătesc, spre a putea intra în oștire și să se poată apropia de acela care i a ucis pe iubitul ei ca să -și resbune asupra lui... Stefan care o iubesce a cătat să o însoțească aci spre a -i da mână de ajutor... Ah! daca nu eram nevoit a urma pe Vlad în bataia sa cu Turcii, de mult le tăiam gustul de resbunare!... Dar timpul n-a trecut încă, și eu n-am uitat nici trănteala ce -mi a dat cu calul ei acea ticăloasă ființă, nici înjurăturele acelui lepădat pe care -l credeam că ține cu mine și pentru care m-am arătat tot-d-auna cu inima curată și cu toată buna voință... Tremurați acum! zioa voastră cea după urmă a sosit. Cei ce cugetă să uneltească o trădare asupra vieței Domnului țărei cu moarte vor fi resplătiți!... Dar ce s-aude colo în depărtare! adaose el în gura mare ca să fiă auzit de cele două sentinele de curând așezate de dânsul.</p>
    <p>— E un călăreț care vine în fuga mare, respuase unul din fustași.</p>
@@ -631,8 +614,7 @@
    <p>— Bine, zise Radu după o scurtă tăcere. Apoi cugetând un minut în sine: voiu amăna resbunarea pentru o zi sau doă, zise el încet. Si intră în curtea palatului spre a -și face pregătirile de plecare.</p>
      </div>
      <div type="chapter" n="15">
-   <p>CAP. XIV.</p>
-   <p>BEAT DE AMOR ȘI DE VIN</p>
+   <head>CAP. XIV. BEAT DE AMOR ȘI DE VIN</head>
    <p>Doi ani trecuseră de la așezarea pe scaunul domniei a lui Radu ce1 Frumos.</p>
    <p>Fratele tiranului nu insufla încă destulă încredere Românilor, dar ei așteptau să vază faptelt acestuia și apoi să judece daca sângele Draculescilor s-a prefăcut în moscenitorii unui scaun adăpat de atâtea mii de ori în valuri de sânge.</p>
    <p>Nici Palatina nici Stefan nu plecăseră încă din țeară spre a pune în lucrare scopul lor de resbunare care-i însuflețea pe amândoi. Ceea ce amănase plecarea lor era moartea bunichii lui Stefan și intrarea acestuia în drepturile lui de singur moscenitor al micei averi remase de la aceia ce -i ținuse 1oc de mamă.</p>
@@ -674,8 +656,7 @@
    <p>Ascept să mi le spui, zise Palatina. Si Stefan începu istoria sa precum urmeasă.</p>
      </div>
      <div type="chapter" n="16">
-   <p>CAP. XV.</p>
-   <p>POVESTIREA</p>
+   <head>CAP. XV. POVESTIREA</head>
    <p>Aceasta, s-a întâmplat în zilele îndrăcitului Tepeș, a cărei amintire fiă pentru tot d-auna blestemată.</p>
    <p>Pe când el trecu în Transilvania și trase în țeapă o mulțime de Sași, după ce arse Brașovul, la întoarcerea lui în țeară, vre o câți-va din ostașii lui remaseră înapoi ca să mai prade cea ce scăpase neprădat de către confrații lor. Dar atunci adunăudu-se o seamă de Secui spre a -și apăra casele și averile de lăcomia prădătorilor, aceștia căzură în mâinele Secuilor, cari-i duseră la Matiaș Corvin. Acest Domn nevoind a-i ucide, -i puse la închisoare pentru mai mulți ani.</p>
    <p>Printre acești închiși se afla unul, a nume Tudor Ionar, care avea de soțiă pe Dorfina, ua femeia tânără și frumoasă luată din satul Fienii.</p>
@@ -788,11 +769,10 @@
    <p>Ivirea acestei fiare scăpate din închisoarea sa, aduse spaima printre oamenii din curtea acelei case; toți alergară atunci armați, care cu ce a putut, spre locul unde se aflau fiarele stăpînulul lor. Printre dânșii era și fratele Dorfinei, pe care nu-l mai putură păzi oamenii lui Felenor însărcinați cu paza lui. Din fericire nu scăpase de cât leul, dar stăpînul lor nu era de cât oasele de el. Ei îl plânseră în destul, și ne mai având nici un cuvânt a mai ține pe fratele Dorfinei sub pază îl lăsară să plece în țeara lui.</p>
    <p>— Dar soră-sa! te am mai întrebat o dată.</p>
    <p>— A! nu-ți am spus? Dorfina fusese mai dinainte moartă.</p>
-   <p>— Puțină de îngeri, sermana! zise Palatina. Și la rândul ei, adormi și ea.</p>
+   <p>— Puțină de îngeri, sărmana! zise Palatina. Și la rândul ei, adormi și ea.</p>
      </div>
      <div type="chapter" n="17">
-   <p>CAP. XVI.</p>
-   <p>ERA NEBUNUL.</p>
+   <head>CAP. XVI. ERA NEBUNUL.</head>
    <p>Văzând pe fată adormită, Stefan eși din chioșc, închise binișor ușa după dânsul și se duse prin oraș, doar de va întlîni pe nebunul ca să -i ceară seamă despre vorbele ce le a zis trecând pe lângă locuința sa.</p>
    <p>Nebunul sta pe o tarabă dinainte unei cârciume, cu un picior peste altu, legănându-se și rozând o bucată mare de pâine pe care o adăpa din când în când cu un vin roșu ce-l avea lângă dânsul într-o cană largă de pământ smălțuit. Când î1 zări Stefan:</p>
    <p>— Rău ai ajuns, nebunule! -i zise el, de unde erai și tu o dată tare și mare, acum Iată-te mâncând la cârciumă ca un cerșetor.</p>
@@ -815,17 +795,16 @@
    <p>— Nu se scie până acum ce are să nască din el.</p>
    <p>— Pân-acuma nu face nimic, nici bine nici rău; îl vezi că se învârlesce de colo până colo nesciind de ce să s-apuce, nu înțelege nimic, și nici că vrea s-asculte pe cei ce-l învață câte ceva; se îndoiesce, se miră până -i trece toată ziua, și a doa zi se scoală tot prost.</p>
    <p>— Prea -ți dai drumul limbei, nebunule, și vezi să n-o păți, -i zise Stefan.</p>
-   <p>— Ei, câte nu-mi văzură ochii, și de câte n-am rîs în viața mea! zise nebunul cu o tristă clătinare din cap.</p>
-   <p>— Si ce ai văzut care te-a făcut să rîzi? -l întrebă Stefan.</p>
+   <p>— Ei, câte nu-mi văzură ochii, și de câte n-am râs în viața mea! zise nebunul cu o tristă clătinare din cap.</p>
+   <p>— Si ce ai văzut care te-a făcut să râzi? îl întrebă Stefan.</p>
    <p>— Am văzut oameni care se aflau mai pre sus de alți oameni prin mintea lor, prin averea lor și prin multe alte daruri ce -i deosebeau de alți, dar pe cari un lucru mic, un ce de nimic -i făcea să cază din culmea măndriei lor într-o umilință de rîs. Aci un tânăr de frunte care, pe când s-afla alături cu o femeiă frumoasă și -i spunea câte în lună și în soare, d-odată... ghicesce, să te văz! Nu ghicesci? ei bine, d-o dată fu apucat de un strenutat îndrăcit tocmai când umbla să-i smulgă floarea sărutării de pe buze. Dincolo, unul care se urca pe un loc mai înalt și vorbea poporului de -i toca gura țiindu-i o cuvântare plină de înțelepciune și de vorbe umflate, și pe când toți ascultau la el cu gurile căscate, un sughiț afurisit veni să-i taie vorba și să-l facă de rîsul lumii. Am văzut o femeiă frumoasă și măreață, împresurată de floarea boerilor, culegând din toate părțile laude și cununi, dar lipsindu-se de toate astea într-un minut când simția nevoia de a plăti naturei un bir din cele mai urîcioase. Am văzut un preot dând cele mai mintoase învățăminte pentru înfrânarea bețivilor, dar care zărind de o dată o sticlă plină cu vin roșu 1ângă dânsul, o deșertă pe neresuflate zicând: „Nu vă luați după faptele mele, ci după cuvintele ce le-ați auzit din gura mea.” Am văzut un jude vorbind despre dreptate și nepărtinire, și oprindu-se de cineva care -i puse ceva într-o urechiă și alt-ceva într-o mână. Am mai văzut un căpitan mare ducând oastea la bătaiă, călare pe un cal ca smeul, cu sabia scoasă și cu nasul în sus, dar care văzând că nu era în stare să țiă pept cu năvălitorii ce se fudulea că mergea să -i bată, fu cel d-ântâiu la fugă, precum fusese cel d-ântâiu la ducă. Să -ți mai spuiu câte am mai văzut!</p>
    <p>— Mulțumesc, tot ce -mi-ai spus e spre rîsul omenirii; cine nu scie cât de mici suntem înaintea naturei!</p>
    <p>— Apoi daca scim aceasta, pentru ce ne mândrim de ceea ce suntem? și pentru ce ne uităm cu trufiă asupra celor-alți, și ni se pare că noi suntem ce suntem, ear cei-alți nu sunt nimic, când tot dintr-un gunoiu am eșit și unii și alții?</p>
-   <p>— Vorbesci cu minte, nebunule, -ți-am mai spus-o, dar feresce-ți mai bine gura; asemenea vorbe când vor intra în urechile reilor clocesc adesea pui de năpârcă.</p>
+   <p>— Vorbesci cu minte, nebunule, ți-am mai spus-o, dar feresce-ți mai bine gura; asemenea vorbe când vor intra în urechile reilor clocesc adesea pui de năpârcă.</p>
    <p>— Si mai adesea -i mușcă pe ei înainte de a mușca pe cel ce le-a rostit, respunse nebunul, și amândoi se despărțiră luând fiă-care câte o stradă opusă.</p>
      </div>
      <div type="chapter" n="18">
-   <p>CAP. XVI</p>
-   <p>DOĔ VISE CURIOASE</p>
+   <head>CAP. XVI. DOUĂ VISE CURIOASE</head>
    <p>Când se întoarse Stefan acasă, găsi pe Palatina adormită în chioșc; dar intrarea sa o făcu să se deștepte, nu speriată, ci mai mult amețită, oare-cum turburată de ceea ce visase.</p>
    <p>— Ce ai? o întrebă Stefan văzând turburarea ei.</p>
    <p>— Oh! nu mă întreba... -ți voiu spune... Lasă-mă să mă liniscesc mai ântâi, respunse copila țiind mâna pe partea inimei sale pe care o simțea bătând cu tăriă în peptul ei.</p>
@@ -879,8 +858,7 @@
    <p>— Mă duc chiar acum îndată să -l găsesc, zise Stefan, și plecă iute mulțumit de însărcinarea ce-i dete.</p>
      </div>
      <div type="chapter" n="19">
-   <p>CAP. XVII.</p>
-   <p>VÂNATOREA</p>
+   <head>CAP. XVII. VÂNATOREA</head>
    <p>După cum fusese pus la cale în ajun, a doua zi în revărsatul zorilor, Stefan și Palatina mergeau călări pe drumul care duce spre locul numit Malul care resună. Această localitate, împresurată de mai multe dealuri, se afla la o mică distanță de comuna Bezdadul; loc selbatic prin singurătatea sa, și renumit prin cel mai resunător echou din câte se află în țeară. D-aci ei proiectau s-o croească peste munți spre Breaza, de unde Carpații merg înălțându-se și mulțindu-și vârfurile și văile lor.</p>
    <p>Ajungând la malul cu resunet, Palatina fu de părere să se oprească acolo câteva minute, atât spre a-și resufla caii cari luaseră un drum de mai bine d-o jumătate zi, cât și spre a bea apă dintr-un isvor care curgea de sub un deal din dreapta lor și a cărui apă e așa de limpede pe cât e de rece.</p>
    <p>Ei descălicară și -și lăsară caii să pască earba de pe coastele acelor dealuri de cari erau împresurați. Tot șesul dintre aceste dealuri e acoperit cu petriș. Stefan și Palatina -și aleseră un loc p-o coastă umbrită de mesteacăni uriași și s-așezară acolo, în vecinătatea isvorului, ca să mănânce merindele ce le luaseră d-acasă.</p>
@@ -922,8 +900,7 @@
    <p>Stefan auzind sgomotul ce se făcuse în apropierea lui și viind să se încredințese despre cea ce se întîmpla, când văzu pe călărețul luând în goană pe Palatina, și necunoscându-l pe la spate, s-aruncă și el pe calul său și se repezi în goana acestuia.</p>
      </div>
      <div type="chapter" n="20">
-   <p>CAP. XVIII.</p>
-   <p>CERȘETORUL.</p>
+   <head>CAP. XVIII. CERȘETORUL.</head>
    <p>Stefan, în goană ce o dedese călărețului care urmărea pe Palatina, -i perduse pe amândoi din vedere, fiind cu mult mai înaintați de cât dânsul. El îl căută dară pretutindine, făr-a -i găsi, apoi se întoarse la locul unde se făcea vânatoarea crezând că -i va afla acolo, daca nu vor fi apucat pe un alt drum nesciut de dânsul, dar nici aci nu găsi decât pe cei după urmă oameni cari încărcau în doă care cu boi vânatul ce-l uciseră toată zioa: cerbi, căprioare, mai multe vulpi și doă piei de urși.</p>
    <p>Ei se ocupau cu prețuirea vânatului lor care, după datina din acei timpi, avea câte un premiu pentru fiă-care fiară vânată; acest premiu ce se punea de Domnitor era de 25 lăscăi pentru un iepure, de 60 pentru o vulpe; de 80 pentru o ciută; de un taler pentru un mistreț și de un galben pentru un urs.</p>
    <p>Vânatul se aducea la curtea domnească și șe împărțea asfel: o parte din fiarele curate se lăsa pentru masa domnească și o altă parte se trimitea boerilor și dregătorilor ostășesci, ear cele necurate se dau paicilor sau pagilor domnesci, cari beneficiau din vânzarea peilor lor.</p>
@@ -958,7 +935,7 @@
    <p>— Da; în goana ce-i dase Domnul, văzând că nu o putea ajunge, a tras cu o săgeată în calul el ca să -l doboare, dar săgeata a nemerit în pulpa dreaptă a copilei; atunci ea pică de pe cal, ne putând suferi durerile ranei, și calul, speriat de căderea ei și înferbântat de avântul ce -și luase, s-a dus înainte. Din fericire, Palatina căzuse tocmai alături cu bordeiul pândarului care văzând-o asfel o luă la dânsul ca s-o îngrijească.</p>
    <p>— Dar e ceva de temut despre viața ei?</p>
    <p>— Nu e nici o temere; pândarul i-a adus îndată o babă care i-a legat rana cu scamă și cu alte leacuri, și acum sângele nu mai curge, numai durerea nu i-a trecut încă.</p>
-   <p>— Tată Gustere, -i zise Stefan luându-i amândoă mâinele într-ale sele; ne cunoascem de atâția ani; eram copil mic când veneai adesea la părinții mei; scii dară tot trecutul meu, precum sciu și eu pe al d-tale; sub aceași lovitură ați căzut amândoi, și d-ta și tatăl meu; nu -mi-a remas nici o avere de la dânsul, dar am moșcenit ceva de la o bunică a mea; nu-e mare lucru, dar -mi ajunge ca să o duc cât-va timp până -mi va ajuta Dumnezeu să -mi fac vre un rost. Vino dară să trăeșci cu noi; -mi vei ține loc de tată și mie ca și nepoatei d-tale, pentru care am cel mai frumos cuget, daca ursita va voi precum doresc.</p>
+   <p>— Tată Gustere, -i zise Ștefan luându-i amândoă mâinele într-ale sele; ne cunoascem de atâția ani; eram copil mic când veneai adesea la părinții mei; scii dară tot trecutul meu, precum sciu și eu pe al d-tale; sub aceași lovitură ați căzut amândoi, și d-ta și tatăl meu; nu -mi-a remas nici o avere de la dânsul, dar am moșcenit ceva de la o bunică a mea; nu-e mare lucru, dar -mi ajunge ca să o duc cât-va timp până -mi va ajuta Dumnezeu să -mi fac vre un rost. Vino dară să trăeșci cu noi; -mi vei ține loc de tată și mie ca și nepoatei d-tale, pentru care am cel mai frumos cuget, daca ursita va voi precum doresc.</p>
    <p>— O credeam perdută, sărmana copilă! suspină bătrânul unchiu.</p>
    <p>— Ajută-mă dară s-o găsim, fiind-că scii unde se află. eu mă duc să tocmesc o căruță și mă întorc ca să mergem împreună la dânsa. Pân-atunci, îmbracă-te cu aceste haine, de oare-ce nu pot să te văz în starea asta fără să mi se sfâșie inima de durere.</p>
    <p>Și Stefan deschise un cufăr mare, de unde scoase un rând de îmbrăcăminte și le dete lui Guster, apoi eși repede pe ușă.</p>
@@ -966,8 +943,7 @@
    <p>Stefan nu -și întârziă întoarcerea, și amândoi plecară îndată pe drumul care ducea spre locul unde mergeau să găsească pe Palatina. -</p>
      </div>
      <div type="chapter" n="21">
-   <p>CAP. XIX.</p>
-   <p>IN BORDEIUL PANDARULUI</p>
+   <head>CAP. XIX. IN BORDEIUL PÂNDARULUI</head>
    <p>După plecarea unchiului ei, Palatina remâind singură și aducându-și aminte de starea în care văzuse pe acel om, atât de mare și de avut o dinioară și așa de căzut și umilit acum de selbătăcia cea feroasă a lui Tepeș, nu -și putu opri doă lacreme arzătoare ce-i curseră din ochi. Ea vedea numărul celor loviți de sabia de foc a tiranului înmulțindu-se împrejurul ei, și putința de a i resbuna scăzând puțin câte puțin pentru dânsa. Ea nu putea uita ce a fost unchiul ei o dinioară, ce au fost părinții ei, și ce a ajuns ea și câți alții ca dânșii, și ochii -i se umplură de noue lacreme, și peptul -i gemea de durere.</p>
    <p>Bietul om! el e singur care se nasce lipsit de toate bunurile de cari se bucură cele-alte viețuitoare. Gol, fără nici un mizloc de viețuire, fără nici un adăpost, omul n-are la început de cât îngrijirea părintească pentru ca să poată trăi. Părinții lui sunt datori prin urmare a -l hrăni, a -l îmbrăca, a -l adăposti sub aripa lor până să -l vază ajuns în stare de a -și putea închipui singur mizloacele de viețuit. Din minutul acela, omul e lăsat în propriele sele mizloace pe cari le găsesce, sau în capacitatea sa or în corcusul unor împrejurări priincioase, când ele sunt.</p>
    <p>Dar adesea omul, — nu e vorba de aceia ce moscenesc averi, de cei ce sunt favorisați de soartea lor, nu e vorba nici de clasa muncitorilor, cari fiind deprinși cu o viață cumpătată și simplă, nu pot fi mai nici o dată amenințați să peară de foame, — e vorba de unii oameni cari, prin crescerea lor, prin deprinderile la cari au fost dați din copilăria lor, nu pot trăi într-un mizloc pentru care n-au fost născuți și pentru care nu pot avea cea mai mică îndemânare.</p>
@@ -1050,8 +1026,7 @@
    <p>— Să întrebi de noi când vei veni în Târgoviște, zise Palatina pandurului urcându-se în trăsură.</p>
      </div>
      <div type="chapter" n="22">
-   <p>CAP. XX</p>
-   <p>SCĂRILE SOARTEI</p>
+   <head>CAP. XX. SCĂRILE SOARTEI</head>
    <p>Radu cel Frumos nu se mulțumise cu o Domniă liniscită și pacinică, precum se aretase la început; lui nu -i ajungea legătura ce -l unea cu Stefan cel Mare pe care și -l făcuse ginere, și nu voia să înțeleagă marea nevoiă de pace pe care o avea țeara după atâta vărsări de sânge prin care trecuse. Nebunia celor mai mulți Domni pe acei timpi era de a se bate, de a trăi într-un resbel necurmat, unde să -și arate vitejia, să se umple de prade și de fală, și nimic mai mult.</p>
    <p>Nu vorbim de împrejurări ca acelea în care ei mergeau să -și apere țeara cu săngele lor, vorbim numai de acelea în care vărsarea săngelui era provocată de pasiuni, de resbunare, de resculări asupra celor ce domneau spre a le lua locul pe scaunul domniei, de rivalități ca acelea ce s-au întâmplat între Juga și Mircea, între Radu IV și Stefan, între Matei Basarab și Vasile Lupul, rivalități al căror scop nu-l desaprobăm, dar ale căruia mizloace neprevăzâtoare, slabe, nematore, în loc s-ajungă la un desnodământ fericit, au târît țărele amândoă în cele mai mari restriști și chiar în pericolul d-a fi subjugate de puterile vecine.</p>
    <p>Radu IV nu fu scutit de această dorință de a cuceri Moldova și a o uni cu țeara sa, dar avea în facia lui pe un erou înaintea căruia s-a umilit de atâtea ori trufia Turcilor, a Tătarilor, a Polonilor și a Ungurilor. Teara pe care domnea Radu se afla scursă de brațe și de bani. Tepeș perduse mai multe mii de voinici în resbelele ce le provocase cu Turcii, și când nu era resbelul, el întrebuința țeapa cu care ucidea mii de Români din cei mai fruntași. Teara se găsea prin urmare fără destui luptători, fără căpitani capabili să i conducă pe câmpul de bătaiă și fără bani din cari să poarte cheltuielile unui resbel care era să ajungă o luptă de viață sau de moarte între doă popoare atât de geloase de independența lor și atât de nesciutoare încă de folosul ce erau să -l găsescă în întrunirea lor.</p>
@@ -1120,8 +1095,7 @@
    <p>După cât se putea înțelege, o mare parte din popor astă dată se arăta foarte nemulțumit de a doua suire a lui Tepeș pe scaunul domniei.</p>
      </div>
      <div type="chapter" n="23">
-   <p>CAP. XXI</p>
-   <p>UN DAR NEAȘTEEPTAT</p>
+   <head>CAP. XXI. UN DAR NEAȘTEEPTAT</head>
    <p>Pe când se petrecea scena ce o descriserăm mai sus, Palatina auzind și ea sgomotul ce se făcea în oraș se gătea să easă, când văzu oprindu-se în poarta ei o trăsură închisă din care se coborî o femeă care, după ce schimbă câte-va vorbe cu feciorul ei care sări din coada trăsurei, se îndreptă spre casă.</p>
    <p>Palatina -i eși înainte și o primi în pragulu ușei.</p>
    <p>— Aci șeade Palatina lui Laur Almagel? întrebă streina.</p>
@@ -1156,7 +1130,7 @@
    <p>— Dar te rog, domniță, nu face aceasta, zise Palatina sculându-se și ea de pe scaun, prinsoarea de care vorbesci n-a fost de cât o glumă, ea n-am primit-o și nu m-am legat că o primesc, și cât despre rănirea ce -mi-a făcut-o fratele d-tale, singur a mărturisit c-a fost fără să vrea, fără să cugete chiar. Vezi dară că n-am nici un drept asupra domnescului dar pe care luminăția Ta voesce să mi-l dea.</p>
    <p>— Vei primi acești bani, nobilă copilă, răspunse domnița; -i vei primi spre a -mi face plăcere mie, fiind-că nu crez să voesci a mă lăsa să es mîhnită din casa d-tale. Așa e?</p>
    <p>— Oh! nu; n-aș vrea nici o dată să-ți aduc cea mai mică mîhnire, domniță.</p>
-   <p>— -Ți mulțumesc, fata mea.</p>
+   <p>— Ți mulțumesc, fata mea.</p>
    <p>Și zicând asfel, chemă feciorul și luând din mâinele lui săculețul cu bani îl puse pe un scaun alături cu Palatina.</p>
    <p>— Și acum, remâi sănătoasă, tânără copilă zise se ea luând de mână pe Palatina. Sunt nevoită să te las, și cine scie daca ne vom mai întîlni vre o dată pe unde va.</p>
    <p>— Pleci chiar astă-zi, domniță? întrebă copilă.</p> 
@@ -1178,15 +1152,16 @@
    <p>Mult timp trecu asfel, făr-a aduce nici o schimbare în viața acestor trei ființe, de cât se întâmplă foarte des, zile sau nopți, în cari Palatina se făcea nevăzută din mizlocul celor-alți fără ca nimeni să sciă unde se ducea și pentru ce lipsea dintre ei, și cu toate că Stefan înțelegea motivul acestor lipsiri dese, el nu voia nici o dată să o întrebe, de cât se mira numai pentru ce nu -i mai cerea ajutorul în întreprinderea ce o urmarea cu atâta stâruință încăpățînată.</p>
      </div>
      <div type="chapter" n="24">
-   <p>CAP. XXII</p>
-   <p>RESTRISTELE LUI GUSTER</p>
+   <head>CAP. XXII. RESTRIȘTELE LUI GUSTER</head>
    <p>Intr-o seară de earnă — era în ajunul crăciunului - Guster, Palatina și Stefan să aflau câte trei șezând înaintea unui foc bine întreținut, care ardea pe o vatră largă și puțin ridicată de la pământ. Afară vântul viscolea și o ninsoare deasă acopera tot orașul cu vălul ei cel alb și rece.</p>
    <p>Palatina, după vechile datine ale țerei, cocea la foc un fel de turte, numite colindețe de popor, și pe cari le pregătea pentru copii colindători ce-l ascepta să -i auză la ușa ei strigând:</p>
-   <p>„Bună dimineață la moș ajun,</p> 
+   
+	     <p>„Bună dimineață la moș ajun,</p> 
    <p>„Bună dimineață la moș crăciun!</p>
    <p>„Dă-mi covrig</p> 
    <p>„Că mor de frig!”</p>
-   <p>— Până să viă colindarii, zise Guster, ia să gustăm și noi câte-va colindețe d-ale tele, nepoată, că prea le văz frumoase și mirosul lor -mi a cam întărîtat foamea.</p>
+	     
+   <p>— Până să viă colindarii, zise Guster, ia să gustăm și noi câte-va colindețe d-ale tale, nepoată, că prea le văz frumoase și mirosul lor -mi a cam întărîtat foamea.</p>
    <p>— Puteți mânca; am făcut mai multe ca să fiă și pentru noi, respunse Palatina.</p>
    <p>Stefan aduse o măsuță rotundă pe care o puse între dânșii; Palatina o acoperi cu o parte din turtele ei și Guster adăogă o cană cu vin roșu și trei păhăruțe de sticlă.</p>
    <p>Câte trei se puseră să mănînce.</p>
@@ -1340,13 +1315,12 @@
    <p>Asfel petreceau acești oameni de la întrunirea lor și până în acel moment; Guster în amintirea vieței sale trecute, Stefan în asceptarea în care se afla de a-și vedea visul cu ochii cel mai dulce vis ce-l visise. Palatina în nerăbdarea de a pune în lucrare proiectul ei de resbunare.</p>
      </div>
      <div type="chapter" n="25">
-        <p>CAP. XXII.</p>
-   <p>DOI ANI IN URMĂ</p>
+        <head>CAP. XXII. DOI ANI IN URMĂ</head>
    <p>A doa domniă a lui Tepeș începuse printr-o linisce neturburată de nici una din cruzimile lui de mai nainte.</p>
    <p>Vlad înțelesese ura ce o insufla supușilor lui și se ferea, pe cât putea, d-a face să se nască în el temerea ce o avuseră de dânsul. Dar ca să câștige oare-care popularitate și oare care uitarea celor trecute, el începu a da poporului din când în când câte-o serbare la care lua sau nu lua parte și el, după cum i se părea, de oare-ce mai multe vorbe ce se respândiseră în public ajungând până la urechile lui; îl făcuseră să se cam îngrijească pentru zilele lui; și ca nu cum va vre-o resbunare să-l găsească ne pregătit și fără apărare, eșea foarte rar, și când făcea aceasta, era tot-d-auna armat și împresurat de câți-va credincioși ai lui.</p>
    <p>Abia după doi ani de domniă, el se încredință că poporal -și vedea de interese și nu -și mai aducea a minte de relele ce le suferise o dinioară de la dânsul, ci se mulțumea de pacea de care se bucura și de petrecerile ce i se da în oare-cari serbători ale anului. Atunci Vlad începu să se arate mai des în lume, ba încă une-ori -i plăcea să se amestice în serbările publice pe cari le încuragia prin dări de bani și prin alte daruri cu cari credea el că va câștiga o mai mare încredere și iubire din partea guvernanților lui.</p>
    <p>Era într-o zi de pasce, când Tîrgoviștenii se pregăteau să asiste la una din aceste serbări, la cari și Domnitorul era să iea parte, fiind singura petrecere care -i plăcuse tot d-auna și la care ținuse așa de mult. Cu câte-va zile mai nainte se însciințase poporul despre astă serbare, și acum venea cu grămada din toate colțurile orașului, și-chiar din unele localități ale județului ca să asiste la serbarea ce se da.</p>
-   <p>Intr-un loc șes, afară din oraș se ridicaseră mai multe bănci pentru șederea privitorilor. Prăjine înfrumusețate cu flori și cu stegulețe roșii erau înălțate de jur împrejur. Uă mulțime de călăreți dintre dorobanți, vânători, aprozi și alții asceptau într-un circ larg venirea Măriei Sale spre a începe jocul lor de alergare de cal acest joc curios, era astfel: fie-care călăreț căta să se repează asupra altuia din fața lui și să se sileaescă să-l ridice de pe cal; acela care putea s-o facă primea câte un dar în bani. Vlad fusese foarte deprins în acest joc, și cu toată bătrânețea lui și suferințele prin cari trecuse, el vru să mai cerce o dată puterea și îndemănarea sa pentru care a fost de multe ori lăudat.</p>
+   <p>Într-un loc șes, afară din oraș se ridicaseră mai multe bănci pentru șederea privitorilor. Prăjine înfrumusețate cu flori și cu stegulețe roșii erau înălțate de jur împrejur. Uă mulțime de călăreți dintre dorobanți, vânători, aprozi și alții asceptau într-un circ larg venirea Măriei Sale spre a începe jocul lor de alergare de cal acest joc curios, era astfel: fie-care călăreț căta să se repează asupra altuia din fața lui și să se sileaescă să-l ridice de pe cal; acela care putea s-o facă primea câte un dar în bani. Vlad fusese foarte deprins în acest joc, și cu toată bătrânețea lui și suferințele prin cari trecuse, el vru să mai cerce o dată puterea și îndemănarea sa pentru care a fost de multe ori lăudat.</p>
    <p>Bărbați, femei, bătrâni și copii, din toate clasele societății, ocupau locurile din prejurul circului așteptând și ei să privească lupta călăreților, ai cărora cai nerăbdători, săpau pământul cu copitele lor și spărgeau aerul cu desele lor nencheziri.</p>
    <p>In cele din urmă Vlad sosi pe un cal dereș, urmat de șease copii din casă pe șease cai negri ca corbul cu prapure roșii și albastre în lăncile lor.</p>
    <p>Călăreții îl primiră cu urale, la cari respunseră și vr-o câți-va din boerii aflați de față și alți oameni din popor. Musica începu să cânte un galop. Lumea se înghesuia ca să înaintese mai în față și să poată privi mai bine. Către acestea zioa era senină, și un soare strelucitor de și nu prea cald înainta spre apus, de care nu era prea depărtat.</p>
@@ -1403,7 +1377,7 @@
    <p>— Tăcere. response Guster, ea se desceaptă.</p>
    <p>Ea se desceptă, se mai uită la unchiul ei, apoi la Stefan căruia îi întinse eară în mâna ei cea albă și plină de o sudoare rece: -i surîse cu bunătate, îl trase puțin aproape de dânsa și -i făcu semn cu buzele ei descolorate că ea voia să-i dea o sărutare. Stefan înțelegând dorința copilei se uită la Guster, el îl încurajă cu o clipire din ochii lui.</p>
    <p>Stefan se aplecă atunci asupra Palatinei ca să primească sărutarea ei, dar în acel moment capul el care se ridicase de pe pernă, căzu eară, și acum era moartă.</p>
-   <p>FINE</p>
+   <trailer>FINE</trailer>
      </div>
   </body>
  </text>
