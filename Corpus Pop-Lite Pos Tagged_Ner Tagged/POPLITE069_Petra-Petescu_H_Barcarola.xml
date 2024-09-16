@@ -1,0 +1,2876 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Barcarolă: ediție POPLITE </title>
+            <author>Petra-Petrescu, Horia</author>
+            <respStmt>
+               <resp>codare POPLITE</resp>
+               <name>Teodora Iuriusciuc</name></respStmt>  
+            <respStmt>
+               <resp>verificare codare POPLITE</resp>
+               <name>Roxana Patraș</name></respStmt>  
+            <respStmt>
+               <resp>corectură manuală</resp>
+               <name>Alexandra-Ioana Brînză</name>
+            </respStmt>
+            <respStmt>
+               <resp>verificare corectură manuală</resp>
+               <name>Alexandra Olteanu</name>
+            </respStmt>
+            <funder>This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS – UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III. (Contract no 74/ 2020)</funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>UAIC</publisher>
+            <date />
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" />
+            </availability>
+            <ref type="doi" target="10.5281/zenodo.10781566" />
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Petra-Petrescu, Horia</author>
+               <title>Barcarolă</title>
+               <pubPlace>Sibiu</pubPlace>
+               <publisher>„LUCEAFĂRUL”</publisher>
+               <date>1907</date>
+               <note type="illustration" subtype="no" />
+               <dim unit="char" type="invalid" />
+               <extent>
+                  <measure unit="word">1830</measure>
+                  <measure unit="page" type="under_250" />
+                  <measure unit="feuilleton" type="under_65" />
+                  <measure type="incomplete" />
+               </extent>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="https://opentheso.huma-num.fr/opentheso/api/theso/Typologie">
+               <term type="domaine" ref="https://hdl.handle.net/20.500.11942/crteb7oodgosm">literatura</term>
+               <term type="factualite" ref="https://hdl.handle.net/20.500.11942/crt22aacdhvi7">fictiune</term>
+               <term type="forme" ref="https://hdl.handle.net/20.500.11942/crtnufdew1lfb">proza</term>
+               <term type="genre" ref="https://hdl.handle.net/20.500.11942/crthuyig1pxri">roman</term>
+               <term type="agencement" ref="https://hdl.handle.net/20.500.11942/crtbdm5xnc6io">foileton</term>
+               <term type="origine" ref="https://hdl.handle.net/20.500.11942/crtxolq1evsr9">opera originala</term>
+               <term type="discours" ref="https://hdl.handle.net/20.500.11942/crt4wma17ncnj">narativ</term>
+               <term type="public" ref="https://hdl.handle.net/20.500.11942/crthb4el4r5qc">non défini (public cible)</term>
+               <term type="mode_inscription" ref="https://hdl.handle.net/20.500.11942/crthy6j6jf9nq">tiparit</term> 
+            </keywords>
+            <keywords>
+               <term type="reception" n="under 5" />
+               <term type="prin_count" n="under 10" />
+               <term type="finished" />
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Cuvantul cheie de tip "reception" indica numarul de comentarii critice formulate cu referinta la textul publicat.</p>
+            <p>Cuvantul cheie de tip "print_count" indica numarul de editii ale textului in intervalul de 10 ani dupa prima publicare.</p>
+            <p>Cuvantul cheie de tip "finished" indica stadiul realizarii operei de catre autor.</p>
+            <p>Masura de tip "incomplete" indica faptul ca am gasit romanul in forma incompleta. Este un roman-foileton inedit din care au fost editate 1 numar</p>
+         </projectDesc>
+      </encodingDesc>
+   </teiHeader>
+    <text>
+<body>
+   <div type="part">
+<head>Barcarola</head>
+      <div type="section">
+<p><s>
+<w join="right" pos="ADP" msd="Spsa" lemma="în" ner="O">În</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="odaie" ner="O">odaie</w>
+<w join="right" pos="AUX" msd="Vmii3s" lemma="fi" ner="O">era</w>
+<w join="right" pos="ADJ" msd="Afpms-n" lemma="cald" ner="O">cald</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="bine" ner="O">bine</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="DET" msd="Dw3--r---e" lemma="ce" ner="O">Ce</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="bunătate" ner="O">bunătate</w>
+<w join="right" pos="PRON" msd="Pp2-sd--y-----w" lemma="tu" ner="O">-ți</w>
+<w join="right" pos="VERB" msd="Vmii3s" lemma="aduce" ner="ORDINAL">aducea</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="lumină" ner="ORDINAL">lumina</w>
+<w join="right" pos="DET" msd="Dd3fsr---o" lemma="acesta" ner="O">asta</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="potolit" ner="O">potolită</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="VERB" msd="Vmp--sf" lemma="împrăștia" ner="O">împrăștiată</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în" ner="O">în</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="întreg" ner="O">întreagă</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="odaie" ner="O">odaia</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="ADV" msd="Rp" lemma="mai" ner="O">Mai</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="cu" ner="O">cu</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="seamă" ner="O">seamă</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="VERB" msd="Vmii2s" lemma="veni" ner="O">veneai</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="din" ner="O">din</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="negură" ner="O">negura</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="afară" ner="O">afară</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PRON" msd="Pw3--r" lemma="care" ner="O">care</w>
+<w join="right" pos="AUX" msd="Va--3s" lemma="avea" ner="O">a</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="năpădi" ner="O">năpădit</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="pe" ner="O">pe</w>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="stradă" ner="O">străzile</w>
+<w join="right" pos="NOUN" msd="Ncmsoy" lemma="oraș" ner="O">orașului</w>
+<w join="right" pos="ADV" msd="Rc" lemma="ca" ner="O">ca</w>
+<w join="right" pos="DET" msd="Tifsr" lemma="un" ner="O">o</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="boală" ner="O">boală</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="afurisit" ner="O">afurisită</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="Servitoare" ner="O">Servitoarea</w>
+<w join="right" pos="PRON" msd="Pp3msa--y-----w" lemma="el" ner="O">l-</w>
+<w join="right" pos="AUX" msd="Va--3s" lemma="avea">a</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="trimite" ner="O">trimis</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="pe" ner="O">pe</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Traian" ner="PERSON">Traian</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în" ner="O">în</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="odaie" ner="O">odaie</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="VERB" msd="Vmii3p" lemma="sta" ner="O">Stau</w>
+<w join="right" pos="NUM" msd="Mlmpr" lemma="amîndoi" ner="O">amîndoi</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="învață" ner="O">învață</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="O">Grigore</w>
+<w join="right" pos="PRON" msd="Px3--a--------w" lemma="sine" ner="O">se</w>
+<w join="right" pos="VERB" msd="Vmis3s" lemma="uita" ner="O">uită</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="țintă" ner="O">țintă</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în" ner="O">în</w>
+<w join="right" pos="NOUN" msd="Ncmpry" lemma="ochi" ner="O">ochii</w>
+<w join="right" pos="NOUN" msd="Ncmsoy" lemma="băiat" ner="PERSON">băiatului</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="DET" msd="Timsr" lemma="un" ner="O">Un</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="cap" ner="O">cap</w>
+<w join="right" pos="ADJ" msd="Afpms-n" lemma="frumos" ner="O">frumos</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="înger" ner="O">înger</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="AUX" msd="Va--3s" lemma="avea">A</w>
+<w join="right" pos="ADV" msd="Rp" lemma="mai" ner="O">mai</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="vedea" ner="O">văzut</w>
+<w join="right" pos="PRON" msd="Pp3msr--------s" lemma="el" ner="PERSON">el</w>
+<w join="right" pos="NOUN" msd="Ncmsry" lemma="cap" ner="O">capul</w>
+<w join="right" pos="DET" msd="Dd3msr---o" lemma="acesta" ner="O">ăsta</w>
+<w join="right" pos="ADV" msd="Yr" lemma="undeva.." ner="O">undeva..</w>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="ADP" msd="Spsa" lemma="la" ner="O">La</w>
+<w join="right" pos="DET" msd="Timsr" lemma="un" ner="O">un</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="înger" ner="O">înger</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Guido" ner="O">Guido</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Reni" ner="PERSON">Reni</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="NOUN" msd="Ncmpry" lemma="ochi" ner="O">Ochii</w>
+<w join="right" pos="ADJ" msd="Afp-p-n" lemma="mare" ner="O">mari</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADJ" msd="Afpmp-n" lemma="naiv" ner="O">naivi</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADJ" msd="Afpmp-n" lemma="înlăcrimat" ner="O">înlăcrimați</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADJ" msd="Afpmp-n" lemma="plin" ner="O">plini</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="gingășie" ner="O">gingășie</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="ADP" msd="Spsa" lemma="la" ner="O">La</w>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="răspuns" ner="O">răspunsurile</w>
+<w join="right" pos="DET" msd="Tf-so" lemma="lui" ner="O">lui</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Traian" ner="PERSON">Traian</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PRON" msd="Pw3--r" lemma="care" ner="O">care</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="fi" ner="O">este</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în" ner="O">în</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="clasă" ner="O">clasa</w>
+<w join="right" pos="DET" msd="Tsfs" lemma="al">a</w>
+<w join="right" pos="NUM" msd="Mo-s-r" lemma="patru" ner="ORDINAL">IV</w>
+<w join="right" pos="DET" msd="Tffs-y" lemma="-a" ner="ORDINAL">-a</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="primar" ner="O">primară</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="O">Grigore</w>
+<w join="right" pos="PRON" msd="Px3--d--------w" lemma="sine" ner="O">își</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="zice" ner="O">zice</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncmp-n" lemma="multeor" ner="O">multeori</w>
+<pc pos="PUNCT" msd="COLON" ner="O">:</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="DBLQ" ner="O">„</pc>
+<w join="right" pos="ADV" msd="Rgp" lemma="aici" ner="O">Aici</w>
+<w join="right" pos="PART" msd="Qz" lemma="nu" ner="O">nu</w>
+<w join="right" pos="AUX" msd="Vaip3s" lemma="fi" ner="O">e</w>
+<w join="right" pos="VERB" msd="Vmp--sf" lemma="lipce" ner="O">lipsă</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="meditator" ner="O">meditator</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="NOUN" msd="Ncmsry" lemma="băiat" ner="PERSON">băiatul</w>
+<w join="right" pos="AUX" msd="Vmip3s" lemma="fi" ner="O">e</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="inteligent" ner="PERSON">inteligent</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="din" ner="O">din</w>
+<pc pos="PUNCT" msd="DBLQ" ner="O">fir”</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="ADV" msd="Rc" lemma="iar" ner="O">Iar</w>
+<w join="right" pos="ADV" msd="Rw" lemma="când" ner="O">când</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Traian" ner="PERSON">Traian</w>
+<w join="right" pos="PRON" msd="Pp3msa--------w" lemma="el" ner="O">îl</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="privi" ner="O">privește</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="lung" ner="O">lung</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în" ner="O">în</w>
+<w join="right" pos="NOUN" msd="Ncm--n" lemma="ochi" ner="O">ochi</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="NOUN" msd="Ncmsry" lemma="profesor" ner="O">profesorul</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="simți" ner="O">simte</w>
+<w join="right" pos="DET" msd="Timsr" lemma="un" ner="O">un</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="fior" ner="O">fior</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="răceală" ner="O">răceală</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADV" msd="Rw" lemma="cum" ner="O">cum</w>
+<w join="right" pos="PRON" msd="Pp3mpa--------w" lemma="el" ner="O">îi</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="trece" ner="O">trece</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="din" ner="O">din</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="creștet" ner="O">creștet</w>
+<w join="right" pos="SCONJ" msd="Csssp" lemma="până" ner="O">până</w>
+<w join="right" pos="ADP" msd="Spsay" lemma="în" ner="O">-n</w>
+<w join="right" pos="NOUN" msd="Ncmp-n" lemma="tălp" ner="O">tălpi</w>
+<pc pos="PUNCT" msd="COLON" ner="O">:</pc>
+</s>
+<s>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="Seamănă" ner="O">Seamănă</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="cu" ner="O">cu</w>
+<w join="right" pos="NOUN" msd="Yn" lemma="ea!..." ner="O">ea!...</w>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="PROPN" msd="Np" lemma="Traian" ner="PERSON">Traian</w>
+<w join="right" pos="VERB" msd="Vmip3" lemma="învăța" ner="O">învață</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="AUX" msd="Vmip3s" lemma="ă" ner="O">e</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="între" ner="O">între</w>
+<w join="right" pos="DET" msd="Tdmpr" lemma="cel" ner="O">cei</w>
+<w join="right" pos="NUM" msd="Mo---l" lemma="dintâi" ner="O">dintâi</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="joc" ner="O">Jocurile</w>
+<w join="right" pos="DET" msd="Ds3---s" lemma="fi" ner="O">-i</w>
+<w join="right" pos="AUX" msd="Vmip3p" lemma="fi" ner="O">sunt</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="numai" ner="O">numai</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="mînă" ner="O">mîna</w>
+<w join="right" pos="DET" msd="Tsfs" lemma="al">a</w>
+<w join="right" pos="NUM" msd="Mofs-l" lemma="doi" ner="O">doua</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="PART" msd="Qz" lemma="nu" ner="O">Nu</w>
+<w join="right" pos="PRON" msd="Pp3-sd--y-----w" lemma="el" ner="O">-i</w>
+<w join="right" pos="VERB" msd="Vmii3s" lemma="spune" ner="O">spunea</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<w join="right" pos="NOUN" msd="Ncmsry" lemma="domn" ner="O">domnul</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="O">Grigore</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="SCONJ" msd="Csssp" lemma="că" ner="O">că</w>
+<w join="right" pos="PART" msd="Qz" lemma="nu" ner="O">nu</w>
+<w join="right" pos="PRON" msd="Px3--a--------w" lemma="sine" ner="O">se</w>
+<w join="right" pos="VERB" msd="Vmii3s" lemma="juca" ner="O">juca</w>
+<w join="right" pos="ADV" msd="Rz" lemma="nici" ner="O">nici</w>
+<w join="right" pos="PRON" msd="Pp3msr--------s" lemma="el" ner="PERSON">el</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="înainte" ner="O">înainte</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="PART" msd="Qn" lemma="a">a</w>
+<w join="right" pos="VERB" msd="Vmnp" lemma="isprăvi" ner="O">isprăvi</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="cu" ner="O">cu</w>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="lecție" ner="O">lecțiile</w>
+<pc pos="PUNCT" msd="QUEST" ner="O">?</pc>
+</s>
+<s>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">Și</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="PRON" msd="Pd3fsr" lemma="acela" ner="O">aceea</w>
+<w join="right" pos="AUX" msd="Vmip3s" lemma="fi" ner="O">e</w>
+<w join="right" pos="NOUN" msd="Ncmsry" lemma="domn" ner="O">domnul</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="O">Grigore</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="atât" ner="O">atât</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="cuminte" ner="O">cuminte</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<pc pos="PUNCT" msd="DASH" ner="O">-</pc>
+<w join="right" pos="NOUN" msd="Ncm--n" lemma="el" ner="O">l</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="laudă" ner="O">laudă</w>
+<w join="right" pos="PRON" msd="Pi3mpr" lemma="tot" ner="O">toți</w>
+<w join="right" pos="DET" msd="Tsmp" lemma="avea" ner="PERSON">ai</w>
+<w join="right" pos="NOUN" msd="Ncfsoy" lemma="casă" ner="O">casei</w>
+<pc pos="PUNCT" msd="SCOLON" ner="O">;</pc>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<w join="right" pos="NOUN" msd="Ncmsry" lemma="frate" ner="PERSON">fratele</w>
+<w join="right" pos="DET" msd="Ds3ms-s" lemma="său" ner="O">său</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PROPN" msd="Np" lemma="Ghiță" ner="PERSON">Ghiță</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="mamă" ner="O">mama</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<w join="right" pos="NOUN" msd="Ncmsry" lemma="tată" ner="PERSON">tata</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="soră" ner="PERSON">sora</w>
+<w join="right" pos="PRON" msd="Ps3fsrs" lemma="-sa" ner="PERSON">-sa</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PROPN" msd="Np" lemma="Lucreție" ner="O">Lucreția</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="PERSON">Grigore</w>
+<w join="right" pos="PRON" msd="Px3--a--------w" lemma="sine" ner="O">se</w>
+<w join="right" pos="VERB" msd="Vmis3s" lemma="uita" ner="O">uită</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="prin" ner="O">prin</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="casă" ner="O">casă</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="DET" msd="Tifsr" lemma="un">O</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="broderie" ner="O">broderie</w>
+<w join="right" pos="VERB" msd="Vmp--sf" lemma="face" ner="O">făcută</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="mână" ner="O">mâna</w>
+<w join="right" pos="DET" msd="Ds3---s" lemma="lui" ner="O">ei</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="NOUN" msd="Ncfp-n" lemma="fluture" ner="O">Fluturi</w>
+<w join="right" pos="NOUN" msd="Ncfsoy" lemma="zglob" ner="O">zglobii</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="floric" ner="O">floricele</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="câmp" ner="O">câmp</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PRON" msd="Pi3fpr" lemma="mult" ner="O">multe</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="VERB" msd="Vmp--pf" lemma="împrăștia" ner="O">împrăștiate</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="jur" ner="O">jur</w>
+<w join="right" pos="ADJ" msd="Afpms-n" lemma="împrejur" ner="O">împrejur</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="ADV" msd="Rgp" lemma="iarăși" ner="O">Iarăși</w>
+<w join="right" pos="PRON" msd="Pp3msa--------w" lemma="el" ner="O">îl</w>
+<w join="right" pos="VERB" msd="Vmip3p" lemma="prinde" ner="O">prind</w>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="gând" ner="DATETIME">gândurile</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în" ner="O">în</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="mreajă" ner="O">mreaja</w>
+<w join="right" pos="DET" msd="Ds3---p" lemma="lui" ner="O">lor</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="simți" ner="O">Simte</w>
+<w join="right" pos="DET" msd="Timsr" lemma="un" ner="O">un</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="fior" ner="O">fior</w>
+<w join="right" pos="VERB" msd="Vmg-------y" lemma="trece" ner="O">trecându</w>
+<w join="right" pos="PRON" msd="Pp3-sd--y-----w" lemma="el" ner="O">-i</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="din" ner="O">din</w>
+<w join="right" pos="ADJ" msd="Afpms-n" lemma="nou" ner="O">nou</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="prin" ner="O">prin</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="inimă" ner="O">inimă</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="ADP" msd="Spsa" lemma="la" ner="O">La</w>
+<w join="right" pos="DET" msd="Di3mpr" lemma="câtva" ner="DATETIME">câțiva</w>
+<w join="right" pos="NOUN" msd="Ncmp-n" lemma="pas" ner="O">pași</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="aici" ner="O">aici</w>
+<w join="right" pos="AUX" msd="Vmip3s" lemma="fi" ner="O">este</w>
+<pc pos="PUNCT" msd="DASH" ner="O">—</pc>
+<w join="right" pos="PRON" msd="Pp3fsr--------s" lemma="el" ner="O">ea</w>
+<pc pos="PUNCT" msd="EXCL" ner="O">!</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<pc pos="PUNCT" msd="HELLIP" ner="O">...</pc>
+</s>
+<s>
+<w join="right" pos="ADV" msd="Rgp" lemma="poate" ner="O">Poate</w>
+<w join="right" pos="SCONJ" msd="Csssp" lemma="că" ner="O">că</w>
+<w join="right" pos="VERB" msd="Vmis3s" lemma="asculta" ner="O">ascultă</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADP" msd="Spsa" lemma="la" ner="O">la</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="ușă" ner="O">ușă</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADP" msd="Spsa" lemma="cu" ner="O">cu</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="răsuflare" ner="O">răsuflarea</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="reținut" ner="O">reținută</w>
+<pc pos="PUNCT" msd="HELLIP" ner="O">...</pc>
+</s>
+<s>
+<w join="right" pos="ADV" msd="Rgp" lemma="poate" ner="O">Poate</w>
+<w join="right" pos="SCONJ" msd="Csssp" lemma="că" ner="O">că</w>
+<w join="right" pos="VERB" msd="Vmip3" lemma="lucra" ner="O">lucrează</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="cu" ner="O">cu</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="mamă" ner="O">mama</w>
+<w join="right" pos="DET" msd="Ds3---s" lemma="lui" ner="O">ei</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="PERSON">Grigore</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="vedea" ner="O">vede</w>
+<w join="right" pos="NOUN" msd="Ncmsry" lemma="căpșor" ner="O">căpșorul</w>
+<w join="right" pos="ADJ" msd="Afpms-n" lemma="zglobiu" ner="O">zglobiu</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="apleca" ner="O">aplecat</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="pe" ner="O">pe</w>
+<w join="right" pos="NOUN" msd="Ncmsry" lemma="lucru" ner="O">lucrul</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="mână" ner="O">mână</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="Zări" ner="O">Zărește</w>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="mână" ner="O">mânile</w>
+<w join="right" pos="DET" msd="Ds3---s" lemma="lui" ner="O">ei</w>
+<w join="right" pos="ADJ" msd="Afpfp-n" lemma="alb" ner="O">albe</w>
+<w join="right" pos="ADV" msd="Rw" lemma="cum" ner="O">cum</w>
+<w join="right" pos="PRON" msd="Px3--a--------w" lemma="sine" ner="O">se</w>
+<w join="right" pos="VERB" msd="Vmis3s" lemma="mișca" ner="O">mișcă</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="cu" ner="O">cu</w>
+<w join="right" pos="NOUN" msd="Ncmsry" lemma="ac" ner="O">acul</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="cusut" ner="O">cusut</w>
+<pc pos="PUNCT" msd="DASH" ner="O">—</pc>
+<w join="right" pos="ADP" msd="Spsa" lemma="în" ner="O">în</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="dreaptă" ner="PERSON">dreapta</w>
+<pc pos="PUNCT" msd="DASH" ner="O">—</pc>
+<w join="right" pos="ADP" msd="Spsa" lemma="în" ner="O">în</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="stângă" ner="O">stânga</w>
+<pc pos="PUNCT" msd="HELLIP" ner="O">...</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="PROPN" msd="Np" lemma="Traian" ner="PERSON">Traian</w>
+<w join="right" pos="PRON" msd="Pp3msa--------w" lemma="el" ner="O">îl</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="privi" ner="O">privește</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="cu" ner="O">cu</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="luare" ner="O">luare</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="aminte" ner="O">aminte</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="bagă" ner="O">bagă</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="seamă" ner="O">seamă</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="SCONJ" msd="Csssp" lemma="că" ner="O">că</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="PERSON">Grigore</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="bate" ner="O">bate</w>
+<w join="right" pos="NOUN" msd="Ncfp-n" lemma="câmpie" ner="O">câmpii</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="PROPN" msd="Np" lemma="Domnul" ner="O">-Domnule</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="PERSON">Grigore</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PART" msd="Qs" lemma="să" ner="O">să</w>
+<w join="right" pos="PRON" msd="Pp2-sd--y-----w" lemma="tu" ner="O">-ți</w>
+<w join="right" pos="VERB" msd="Vmip1s" lemma="spune" ner="O">spun</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="pe" ner="O">pe</w>
+<pc pos="PUNCT" msd="DBLQ" ner="O">„</pc>
+<w join="right" pos="PROPN" msd="Np" lemma="Peneș" ner="O">Peneș</w>
+<w join="right" pos="PROPN" msd="Npmsry" lemma="Curcan" ner="O">Curcanul</w>
+<pc pos="PUNCT" msd="DBLQ" ner="O">”</pc>
+<pc pos="PUNCT" msd="QUEST" ner="O">?</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="îSpune" ner="O">-Spune</w>
+<w join="right" pos="PRON" msd="Pp3msa--y-----w" lemma="el" ner="O">-l</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PROPN" msd="Np" lemma="Traiane" ner="PERSON">Traiane</w>
+<pc pos="PUNCT" msd="EXCL" ner="O">!</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="PROPN" msd="Np" lemma="Traian" ner="PERSON">Traian</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="începe" ner="O">începe</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="PERSON">Grigore</w>
+<w join="right" pos="VERB" msd="Vmis3s" lemma="asculta" ner="O">ascultă</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="câtva" ner="O">câtva</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADV" msd="Rgp" lemma="apoi" ner="O">apoi</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="reveni" ner="O">revine</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="din" ner="O">din</w>
+<w join="right" pos="ADJ" msd="Afpms-n" lemma="nou" ner="O">nou</w>
+<pc pos="PUNCT" msd="DASH" ner="O">—</pc>
+<w join="right" pos="PRON" msd="Px3--a--------w" lemma="sine" ner="O">se</w>
+<w join="right" pos="VERB" msd="Vmip3" lemma="lăsa" ner="O">lasă</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="duce" ner="O">dus</w>
+<pc pos="PUNCT" msd="DASH" ner="O">—</pc>
+<w join="right" pos="ADV" msd="Rgp" lemma="așa" ner="O">așa</w>
+<pc pos="PUNCT" msd="DASH" ner="O">—</pc>
+<w join="right" pos="ADP" msd="Spsa" lemma="fără" ner="O">fără</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="știre" ner="O">știre</w>
+<pc pos="PUNCT" msd="HELLIP" ner="O">...</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="ADV" msd="Rgp" lemma="acolo" ner="O">Acolo</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="fi">e</w>
+<w join="right" pos="NOUN" msd="Ncmsry" lemma="colțișor" ner="O">colțișorul</w>
+<w join="right" pos="ADV" msd="Rw" lemma="unde" ner="O">unde</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="obișnui" ner="O">obișnuește</w>
+<w join="right" pos="PART" msd="Qs" lemma="să" ner="O">să</w>
+<w join="right" pos="PRON" msd="Px3--a--------w" lemma="sine" ner="O">se</w>
+<w join="right" pos="VERB" msd="Vmsp3" lemma="opri" ner="PERSON">oprească</w>
+<w join="right" pos="PRON" msd="Pp3fsr--------s" lemma="el" ner="O">ea</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">De</w>
+<w join="right" pos="DET" msd="Dw3fpr" lemma="cât" ner="O">câte</w>
+<w join="right" pos="NOUN" msd="Ncfp-n" lemma="oară" ner="O">ori</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="trece" ner="O">trece</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="pe" ner="O">pe</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="acolo" ner="O">acolo</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="scoate" ner="O">scoate</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="din" ner="O">din</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="paneraș" ner="O">paneraș</w>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="fotografie" ner="O">fotografiile</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<w join="right" pos="PRON" msd="Pp3fpa--------w" lemma="el" ner="O">le</w>
+<w join="right" pos="VERB" msd="Vmsp3" lemma="lua" ner="O">ia</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="pe" ner="O">pe</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="rând" ner="O">rând</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="VERB" msd="Vmg-------y" lemma="povesti" ner="O">povestindu</w>
+<w join="right" pos="PRON" msd="Pp3mpa--y-----w" lemma="el" ner="O">-i</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="PRON" msd="Pi3--r" lemma="cutare" ner="O">cutare</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<w join="right" pos="PRON" msd="Pi3--r" lemma="cutare" ner="O">cutare</w>
+<pc pos="PUNCT" msd="SCOLON" ner="O">;</pc>
+<w join="right" pos="NOUN" msd="Ncfp-n" lemma="prieten" ner="PERSON">prietene</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="din" ner="O">din</w>
+<w join="right" pos="NOUN" msd="Yn" lemma="copilărie.." ner="O">copilărie..</w>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+	      
+<p><s>
+<w join="right" pos="DET" msd="Timsr" lemma="un" ner="O">Un</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="capitol" ner="O">capitol</w>
+<w join="right" pos="ADP" msd="Spsay" lemma="dintru" ner="O">dintr-</w>
+<w join="right" pos="DET" msd="Timsr" lemma="un" ner="O">un</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="roman" ner="O">roman</w>
+<w join="right" pos="ADJ" msd="Afpms-n" lemma="original" ner="O">original</w>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+	      
+<p><s>
+<w join="right" pos="DET" msd="Tifsr" lemma="un">O</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="oglindă" ner="O">oglindă</w>
+<w join="right" pos="PRON" msd="Pp3msa--------w" lemma="el" ner="O">îl</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="face" ner="O">face</w>
+<w join="right" pos="PART" msd="Qs" lemma="să" ner="O">să</w>
+<w join="right" pos="VERB" msd="Vmsp3" lemma="tresa" ner="O">tresară</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="PRON" msd="Pp3-sd--y-----w" lemma="el" ner="O">I-</w>
+<w join="right" pos="AUX" msd="Va--3s" lemma="avea">a</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="arăta" ner="O">arătat</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="față" ner="O">fața</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="posomorât" ner="O">posomorâtă</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="ADP" msd="Spsa" lemma="la" ner="O">La</w>
+<w join="right" pos="PRON" msd="Pw3--r" lemma="ce" ner="O">ce</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="face" ner="O">face</w>
+<w join="right" pos="DET" msd="Tifsr" lemma="un">o</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="față" ner="O">față</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="parcă" ner="O">parcă</w>
+<w join="right" pos="AUX" msd="Va--3" lemma="avea" ner="O">ar</w>
+<w join="right" pos="AUX" msd="Vanp" lemma="fi" ner="O">fi</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="omorî" ner="O">omorât</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="pe" ner="O">pe</w>
+<w join="right" pos="PRON" msd="Pi3-sr" lemma="cineva" ner="O">cineva</w>
+<pc pos="PUNCT" msd="QUEST" ner="O">?</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<pc pos="PUNCT" msd="HELLIP" ner="O">...</pc>
+</s>
+<s>
+<w join="right" pos="AUX" msd="Vmip3s" lemma="fi">E</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="caraghioate" ner="O">caraghios</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="la" ner="O">la</w>
+<w join="right" pos="PRON" msd="Pw3--r" lemma="ce" ner="O">ce</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="gândi" ner="O">gândește</w>
+<pc pos="PUNCT" msd="EXCLHELLIP" ner="O">!...</pc>
+</s>
+<s>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="PERSON">Grigore</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<w join="right" pos="PART" msd="Qs" lemma="să" ner="O">să</w>
+<w join="right" pos="PRON" msd="Px3--a--------w" lemma="sine" ner="O">se</w>
+<w join="right" pos="VERB" msd="Vmsp3" lemma="gîndi" ner="O">gîndească</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="la" ner="O">la</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="așa" ner="O">așa</w>
+<w join="right" pos="PRON" msd="Pi3-sr" lemma="ceva" ner="O">ceva</w>
+<pc pos="PUNCT" msd="EXCL" ner="O">!</pc>
+</s>
+<s>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">Și</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="pe" ner="O">pe</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="lângă" ner="O">lângă</w>
+<w join="right" pos="PRON" msd="Pd3fpr" lemma="acesta" ner="PERSON">astea</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PROPN" msd="Np" lemma="Traian" ner="PERSON">Traian</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="avea" ner="O">are</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="învăța" ner="WORK_OF_ART">învățat</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="AUX" msd="Vmip3s" lemma="fi">E</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="sacrilegiu" ner="O">sacrilegiu</w>
+<w join="right" pos="PART" msd="Qs" lemma="să" ner="O">să</w>
+<w join="right" pos="PART" msd="Qz-y" lemma="nu" ner="O">n-</w>
+<w join="right" pos="AUX" msd="Va--2s" lemma="avea" ner="O">ai</w>
+<w join="right" pos="DET" msd="Dz3fsr---e" lemma="nici_un" ner="O">nicio</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="atenție" ner="O">atenție</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="față" ner="O">față</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncmsry" lemma="copil" ner="PERSON">copilul</w>
+<w join="right" pos="NOUN" msd="Ncmpoy" lemma="binefăcătore" ner="O">binefăcătorilor</w>
+<w join="right" pos="DET" msd="Ds2mp-s" lemma="tău" ner="O">tăi</w>
+<pc pos="PUNCT" msd="EXCL" ner="O">!</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="Oglinda" ner="O">Oglinda</w>
+<w join="right" pos="AUX" msd="Vmip3s----y" lemma="fi" ner="O">-i</w>
+<w join="right" pos="ADV" msd="Rp" lemma="mai" ner="O">mai</w>
+<w join="right" pos="VERB" msd="Vmip3" lemma="arăta" ner="O">arată</w>
+<w join="right" pos="PRON" msd="Pi3-sr" lemma="ceva" ner="O">ceva</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="mână" ner="O">Mâna</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="stâng" ner="O">stângă</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="copil" ner="PERSON">copil</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="VERB" msd="Vmp--sf" lemma="vedea" ner="O">văzută</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="lângă" ner="O">lângă</w>
+<w join="right" pos="NOUN" msd="Ncmsry" lemma="trup" ner="O">trupul</w>
+<w join="right" pos="DET" msd="Ds3---s" lemma="lui" ner="O">lui</w>
+<w join="right" pos="ADJ" msd="Afpms-n" lemma="dezvoltat" ner="O">dezvoltat</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PRON" msd="Pp3msa--------w" lemma="el" ner="O">îl</w>
+<w join="right" pos="VERB" msd="Vmis3s" lemma="scutura" ner="O">scutură</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="din" ner="O">din</w>
+<w join="right" pos="NOUN" msd="Yn" lemma="visări." ner="O">visări.</w>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="PROPN" msd="Np" lemma="Traian" ner="PERSON">Traian</w>
+<w join="right" pos="VERB" msd="Vmil3s" lemma="isprăvi" ner="O">isprăvise</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="cu" ner="O">cu</w>
+<pc pos="PUNCT" msd="DBLQ" ner="PERSON">„</pc>
+<w join="right" pos="PROPN" msd="Np" lemma="Peneș" ner="O">Peneș</w>
+<w join="right" pos="PROPN" msd="Npmsry" lemma="Curcan" ner="O">Curcanul</w>
+<pc pos="PUNCT" msd="DBLQ" ner="PERSON">”</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="NUM" msd="Mc-p-d" lemma="-E" ner="O">-E</w>
+<w join="right" pos="NOUN" msd="Yn" lemma="bine..." ner="O">bine...</w>
+</s>
+<s>
+<w join="right" pos="ADV" msd="Rgp" lemma="bine" ner="O">bine</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PROPN" msd="Np" lemma="Traiane,murmura" ner="O">Traiane,murmură</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="PERSON">Grigore</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<w join="right" pos="PRON" msd="Px3--d--y-----w" lemma="sine" ner="O">-și</w>
+<w join="right" pos="VERB" msd="Vmis3s" lemma="apropia" ner="O">apropie</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="cu" ner="O">cu</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="mână" ner="O">mâna</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="drept" ner="PERSON">dreaptă</w>
+<w join="right" pos="NOUN" msd="Ncmsry" lemma="cap" ner="O">capul</w>
+<w join="right" pos="NOUN" msd="Ncmsoy" lemma="copil" ner="O">copilului</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="piept" ner="O">piept</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="AUX" msd="Va--2s----y" lemma="avea" ner="O">-Ai</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="ști" ner="O">știut</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="lecție" ner="O">lecția</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="minune" ner="O">minune</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="NOUN" msd="Ncmsry" lemma="ceas" ner="O">Ceasul</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncfp-n" lemma="meditație" ner="O">meditații</w>
+<w join="right" pos="AUX" msd="Va--3s" lemma="avea">a</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="trece" ner="O">trecut</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="repede" ner="O">repede</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="VERB" msd="Vmii3s" lemma="fi" ner="O">Era</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="sâmbă" ner="DATETIME">sâmbătă</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="seara" ner="O">seara</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="Sâmbăta,era" ner="O">Sâmbăta,era</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="PERSON">Grigore</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="invita" ner="O">invitat</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="întotdeauna" ner="O">întotdeauna</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="la" ner="O">la</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="cină" ner="O">cină</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="ADP" msd="Spsa" lemma="după" ner="O">După</w>
+<w join="right" pos="NUM" msd="Mc-p-d" lemma="8" ner="DATETIME">8</w>
+<w join="right" pos="VERB" msd="Vmii3s" lemma="seara,vene" ner="O">seara,venea</w>
+<w join="right" pos="NOUN" msd="Ncmsry" lemma="tată" ner="PERSON">tata</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="la" ner="O">la</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="birou" ner="O">birou</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="mamă" ner="PERSON">mama</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="Lucreția" ner="PERSON">Lucreția</w>
+<w join="right" pos="PRON" msd="Px3--d--------w" lemma="sine" ner="O">își</w>
+<w join="right" pos="VERB" msd="Vmii3p" lemma="isprăvi" ner="O">isprăveau</w>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="lucru" ner="O">lucrurile</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="pe" ner="O">pe</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="peste" ner="O">peste</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="zi" ner="O">zi</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PROPN" msd="Np" lemma="Ghiță" ner="PERSON">Ghiță</w>
+<w join="right" pos="VERB" msd="Vmii3s" lemma="ieși" ner="O">ieșea</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="din" ner="O">din</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="odaie" ner="O">odaia</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="DATETIME">de</w>
+<w join="right" pos="NOUN" msd="Ncfp-n" lemma="studiu" ner="O">studii</w>
+<pc pos="PUNCT" msd="DASH" ner="O">—</pc>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<w join="right" pos="VERB" msd="Vmii3s" lemma="urma" ner="O">urma</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="cină" ner="O">cina</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în" ner="WORK_OF_ART">în</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="familie" ner="O">familie</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="PERSON">Grigore</w>
+<w join="right" pos="PART" msd="Qz-y" lemma="nu" ner="O">n-</w>
+<w join="right" pos="AUX" msd="Va--3" lemma="avea">ar</w>
+<w join="right" pos="AUX" msd="Vanp" lemma="fi" ner="O">fi</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="da" ner="O">dat</w>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="seară" ner="O">serile</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="sâmbătă" ner="DATETIME">sâmbătă</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="pentru" ner="O">pentru</w>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="bogăție" ner="O">bogățiile</w>
+<w join="right" pos="NOUN" msd="Ncfsoy" lemma="lume" ner="O">lumii</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="ADV" msd="Rgp" lemma="astăzi" ner="DATETIME">Astăzi</w>
+<w join="right" pos="VERB" msd="Vmii3s" lemma="fi" ner="O">era</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="sâmbătă" ner="DATETIME">sâmbătă</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="DET" msd="Di3fpr" lemma="câtva" ner="DATETIME">Câteva</w>
+<w join="right" pos="NOUN" msd="Ncfp-n" lemma="clipită" ner="DATETIME">clipite</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<w join="right" pos="AUX" msd="Va--3s" lemma="vrea" ner="O">va</w>
+<w join="right" pos="VERB" msd="Vmnp" lemma="apărea" ner="O">apărea</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="întreg" ner="O">întreagă</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="familie" ner="PERSON">familia</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="PERSON">Grigore</w>
+<w join="right" pos="PRON" msd="Px3--a--------w" lemma="sine" ner="O">se</w>
+<w join="right" pos="VERB" msd="Vmis3s" lemma="reazăma" ner="O">reazămă</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="fereastră" ner="O">fereastră</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="ADV" msd="Rgp" lemma="afară" ner="O">Afară</w>
+<w join="right" pos="AUX" msd="Vmip3s" lemma="fi">e</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="întuneric" ner="O">întuneric</w>
+<w join="right" pos="ADJ" msd="Afpms-n" lemma="cenușiu" ner="O">cenușiu</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="DET" msd="Timsr" lemma="un" ner="O">Un</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="felinar" ner="PERSON">felinar</w>
+<w join="right" pos="VERB" msd="Vmsp3" lemma="împrăștia" ner="O">împrăștie</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="pe" ner="O">pe</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="trotuar" ner="O">trotuar</w>
+<w join="right" pos="DET" msd="Timsr" lemma="un" ner="O">un</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="cerc" ner="O">cerc</w>
+<w join="right" pos="ADJ" msd="Afpms-n" lemma="bolnav" ner="O">bolnav</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="lumină" ner="O">lumină</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">Și</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="deodată" ner="O">deodată</w>
+<w join="right" pos="PRON" msd="Px3--a--------w" lemma="sine" ner="O">se</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="gândi" ner="O">gândește</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="la" ner="O">la</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="odaie" ner="O">odaia</w>
+<w join="right" pos="DET" msd="Ds3---s" lemma="lui" ner="O">lui</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="AUX" msd="Va--3s" lemma="vrea" ner="O">Va</w>
+<w join="right" pos="AUX" msd="Vmnp" lemma="fi" ner="O">fi</w>
+<w join="right" pos="VERB" msd="Vmip3p" lemma="frige" ner="O">frig</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<w join="right" pos="VERB" msd="Vmis3s" lemma="umezeală" ner="O">umezeală</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în" ner="O">în</w>
+<w join="right" pos="PRON" msd="Pp3fsr--------s" lemma="el">ea</w>
+<pc pos="PUNCT" msd="HELLIP" ner="O">...</pc>
+</s>
+<s>
+<w join="right" pos="PRON" msd="Pw3--r" lemma="ce">Ce</w>
+<w join="right" pos="VERB" msd="Vmip3" lemma="căuta" ner="O">caută</w>
+<w join="right" pos="PRON" msd="Pp3msr--------s" lemma="el" ner="PERSON">el</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="aici" ner="O">aici</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADP" msd="Spsa" lemma="în" ner="O">în</w>
+<w join="right" pos="NOUN" msd="Ncmsry" lemma="potop" ner="O">potopul</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="lumină" ner="O">lumină</w>
+<pc pos="PUNCT" msd="QUEST" ner="O">?</pc>
+</s>
+<s>
+<w join="right" pos="PRON" msd="Pd3fpr" lemma="acesta" ner="O">Astea</w>
+<w join="right" pos="PART" msd="Qz" lemma="nu" ner="O">nu</w>
+<w join="right" pos="AUX" msd="Vmip3p" lemma="fi" ner="O">sunt</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="pe" ner="O">pe</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="seama" ner="O">seama</w>
+<w join="right" pos="NOUN" msd="Yn" lemma="lui!..." ner="O">lui!...</w>
+</s>
+<s>
+<w join="right" pos="AUX" msd="Vmip3s" lemma="fi">E</w>
+<w join="right" pos="ADJ" msd="Afpms-n" lemma="neexplicabil" ner="O">neexplicabil</w>
+<pc pos="PUNCT" msd="DASH" ner="O">—</pc>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="b" ner="O">ba</w>
+<w join="right" pos="AUX" msd="Vmip3s" lemma="fi">e</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="absurde" ner="O">absurd</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="la" ner="O">la</w>
+<w join="right" pos="PRON" msd="Pw3--r" lemma="ce">ce</w>
+<w join="right" pos="VERB" msd="Vmip3" lemma="visa" ner="O">visează</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="AUX" msd="Vmip3s" lemma="fi">E</w>
+<w join="right" pos="ADJ" msd="Afpms-n" lemma="ridicol" ner="O">ridicol</w>
+<pc pos="PUNCT" msd="DASH" ner="O">—</pc>
+<w join="right" pos="ADJ" msd="Afpms-n" lemma="cura" ner="O">curat</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="ridicol" ner="O">ridicol</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="DASH" ner="O">—</pc>
+<w join="right" pos="PART" msd="Qz" lemma="nu" ner="O">Nu</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="vedea" ner="O">vede</w>
+<w join="right" pos="PRON" msd="Pp3msr--------s" lemma="el" ner="O">el</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="prăpastie" ner="O">prăpastia</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în" ner="O">în</w>
+<w join="right" pos="PRON" msd="Pw3--r" lemma="care" ner="O">care</w>
+<w join="right" pos="PRON" msd="Px3--a--------w" lemma="sine" ner="O">se</w>
+<w join="right" pos="VERB" msd="Vmis3s" lemma="scufunda" ner="O">scufundă</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="bunăvoie" ner="O">bunăvoie</w>
+<pc pos="PUNCT" msd="QUEST" ner="O">?</pc>
+</s>
+<s>
+<w join="right" pos="PART" msd="Qz" lemma="nu" ner="O">Nu</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="vedea" ner="O">vede</w>
+<w join="right" pos="PRON" msd="Pp3msr--------s" lemma="el" ner="PERSON">el</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="SCONJ" msd="Csssp" lemma="că" ner="O">că</w>
+<w join="right" pos="AUX" msd="Va--3s" lemma="avea">a</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="apuca" ner="O">apucat</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="pe" ner="O">pe</w>
+<w join="right" pos="DET" msd="Timsr" lemma="un">un</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="drum" ner="O">drum</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PRON" msd="Pw3--r" lemma="care" ner="O">care</w>
+<w join="right" pos="PART" msd="Qz" lemma="nu" ner="O">nu</w>
+<w join="right" pos="AUX" msd="Vmip3s----y" lemma="fi" ner="O">-i</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="pentru" ner="O">pentru</w>
+<w join="right" pos="PRON" msd="Pp3msr--------s" lemma="el" ner="PERSON">el</w>
+<pc pos="PUNCT" msd="QUEST" ner="O">?</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<pc pos="PUNCT" msd="DASH" ner="O">—</pc>
+<w join="right" pos="PRON" msd="Pw3--r" lemma="ce">Ce</w>
+<w join="right" pos="AUX" msd="Va--3s" lemma="vrea" ner="O">va</w>
+<w join="right" pos="PART" msd="Qs" lemma="să" ner="O">să</w>
+<w join="right" pos="VERB" msd="Vmsp3" lemma="zice" ner="O">zică</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="cochetare" ner="O">cochetarea</w>
+<w join="right" pos="DET" msd="Dd3fsr---o" lemma="acesta" ner="O">asta</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="cu">cu</w>
+<w join="right" pos="NOUN" msd="Ncm--n" lemma="ochi" ner="O">ochi</w>
+<w join="right" pos="ADJ" msd="Afp-p-n" lemma="dulce" ner="O">dulci</w>
+<pc pos="PUNCT" msd="QUEST" ner="O">?</pc>
+</s>
+<s>
+<w join="right" pos="DET" msd="Dw3--r---e" lemma="ce">Ce</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="scopa" ner="O">scop</w>
+<pc pos="PUNCT" msd="QUEST" ner="O">?</pc>
+</s>
+<s>
+<w join="right" pos="DET" msd="Dw3--r---e" lemma="ce">Ce</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="noim" ner="O">noimă</w>
+<pc pos="PUNCT" msd="QUEST" ner="O">?</pc>
+</s>
+<s>
+<w join="right" pos="PART" msd="Qz" lemma="nu" ner="O">Nu</w>
+<w join="right" pos="PRON" msd="Px3--a--------w" lemma="sine" ner="O">se</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="vedea" ner="O">vede</w>
+<pc pos="PUNCT" msd="QUEST" ner="O">?</pc>
+</s>
+<s>
+<w join="right" pos="PART" msd="Qz" lemma="nu" ner="O">Nu</w>
+<w join="right" pos="PRON" msd="Px3--d--y-----w" lemma="sine" ner="O">-și</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="da" ner="O">dă</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="seamă" ner="O">seama</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="PRON" msd="Pw3--r" lemma="ce">ce</w>
+<pc pos="PUNCT" msd="DASH" ner="O">-</pc>
+<w join="right" pos="PRON" msd="Pp3-sd--------w" lemma="el" ner="O">i</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="plăti" ner="O">plătește</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="piele" ner="O">pielea</w>
+<pc pos="PUNCT" msd="QUEST" ner="O">?</pc>
+<pc pos="PUNCT" msd="EXCL" ner="O">!</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<pc pos="PUNCT" msd="DASH" ner="O">-</pc>
+<w join="right" pos="ADV" msd="Rw" lemma="unde" ner="O">Unde</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADV" msd="Rw" lemma="unde" ner="O">unde</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="NOUN" msd="Ncmsvy" lemma="domn" ner="O">domnule</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="PERSON">Grigore</w>
+<pc pos="PUNCT" msd="QUEST" ner="O">?</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="VERB" msd="Vmip3p" lemma="îPleca" ner="O">-Plec</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="acasă" ner="O">acasă</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="spune" ner="O">Spune</w>
+<w join="right" pos="PRON" msd="Pp3-sd--y-----w" lemma="el" ner="O">-i</w>
+<w join="right" pos="NOUN" msd="Ncfson" lemma="mamichi" ner="PERSON">mamichii</w>
+<w join="right" pos="SCONJ" msd="Csssp" lemma="că">că</w>
+<w join="right" pos="PART" msd="Qz" lemma="nu" ner="O">nu</w>
+<w join="right" pos="VERB" msd="Vmip3p" lemma="putea" ner="O">pot</w>
+<w join="right" pos="VERB" msd="Vmnp" lemma="sta" ner="O">sta</w>
+<w join="right" pos="ADV" msd="Yr" lemma="astăzi." ner="O">astăzi.</w>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="PART" msd="Qs" lemma="să" ner="O">Să</w>
+<w join="right" pos="PRON" msd="Pp1-sa--------w" lemma="eu" ner="O">mă</w>
+<w join="right" pos="VERB" msd="Vmsp3" lemma="ierta" ner="O">ierte</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="AUX" msd="Vmip3p" lemma="fi" ner="O">Sunt</w>
+<w join="right" pos="ADJ" msd="Afpms-n" lemma="bolnav" ner="O">bolnav</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="AUX" msd="Va--1" lemma="avea">am</w>
+<w join="right" pos="NOUN" msd="Ncfp-n" lemma="dureri" ner="O">dureri</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="cap" ner="O">cap</w>
+<pc pos="PUNCT" msd="HELLIP" ner="O">...</pc>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<pc pos="PUNCT" msd="DASH" ner="O">-</pc>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="duce" ner="O">duce</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="mână" ner="O">mâna</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="la" ner="O">la</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="frunte" ner="O">frunte</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="ADV" msd="Rgp" lemma="da" ner="O">Da</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PART" msd="Qz" lemma="nu" ner="O">nu</w>
+<w join="right" pos="VERB" msd="Vmis3s" lemma="minți" ner="O">mințise</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="simți" ner="O">simte</w>
+<w join="right" pos="ADV" msd="Rw" lemma="cum" ner="O">cum</w>
+<w join="right" pos="PRON" msd="Pp3msa--------w" lemma="el" ner="O">îl</w>
+<w join="right" pos="VERB" msd="Vmis3s" lemma="apuca" ner="O">apucă</w>
+<w join="right" pos="DET" msd="Tifsr" lemma="un">o</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="durere" ner="O">durere</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="încet" ner="O">înceată</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="domol" ner="O">domoală</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<w join="right" pos="ADV" msd="Rw" lemma="cum" ner="O">cum</w>
+<w join="right" pos="PRON" msd="Pp3-sd--------w" lemma="el" ner="O">i</w>
+<w join="right" pos="PRON" msd="Px3--a--------w" lemma="sine" ner="O">se</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="răspândi" ner="O">răspândește</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="peste" ner="O">peste</w>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="tâmplă" ner="O">tâmplele</w>
+<w join="right" pos="ADJ" msd="Afpfp-n" lemma="înfierbântat" ner="O">înfierbântate</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="PRON" msd="Pp3fsa--y-----w" lemma="el" ner="O">-O</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PART" msd="Qz" lemma="nu" ner="O">nu</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="VERB" msd="Vmis3s" lemma="rămâi" ner="O">rămâi</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADV" msd="Rgp" lemma="rămâne" ner="O">rămâi</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="NOUN" msd="Ncmsvy" lemma="domn" ner="O">domnule</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="PERSON">Grigore</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PRON" msd="Px3--a--------w" lemma="sine" ner="O">se</w>
+<w join="right" pos="VERB" msd="Vmis3s" lemma="roage" ner="O">roagă</w>
+<w join="right" pos="PRON" msd="Pp2-sd--------w" lemma="Traian.tu" ner="O">Traian.Îți</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="face" ner="O">face</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="mamă" ner="PERSON">mama</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="ceai" ner="O">ceai</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<w join="right" pos="PRON" msd="Pp2-sa--------w" lemma="tu" ner="O">te</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="lecui" ner="O">lecuește</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="CCONJ" msd="Ccssp" lemma="dar" ner="O">Dar</w>
+<w join="right" pos="VERB" msd="Vmm-2s" lemma="uita" ner="O">uite</w>
+<w join="right" pos="PRON" msd="Pp3fsa--y-----w" lemma="el" ner="O">-o</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="AUX" msd="Vmip3s" lemma="fi">e</w>
+<w join="right" pos="ADV" msd="Yr" lemma="aici.." ner="O">aici..</w>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="doamnă" ner="PERSON">Doamna</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Ventureanu" ner="O">Ventureanu</w>
+<w join="right" pos="VERB" msd="Vmii3s" lemma="sta" ner="O">stătea</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în" ner="O">în</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="față" ner="O">fața</w>
+<w join="right" pos="DET" msd="Ds3---p" lemma="lui" ner="O">lor</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="VERB" msd="Vmip2s" lemma="Vrei" ner="O">-Vrei</w>
+<w join="right" pos="PART" msd="Qs" lemma="să" ner="O">să</w>
+<w join="right" pos="PRON" msd="Pp2-sa--------w" lemma="tu" ner="O">te</w>
+<w join="right" pos="VERB" msd="Vmip2s" lemma="duce" ner="O">duci</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADJ" msd="Afpfp-n" lemma="d-" ner="O">d-le</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="PERSON">Grigore</w>
+<pc pos="PUNCT" msd="QUEST" ner="O">?</pc>
+</s>
+<s>
+<w join="right" pos="PRON" msd="Pp3msa--------w" lemma="el" ner="O">îl</w>
+<w join="right" pos="VERB" msd="Vmip3" lemma="întreba" ner="O">întreabă</w>
+<w join="right" pos="PROPN" msd="Np" lemma="mirată.Azi" ner="O">mirată.Azi</w>
+<w join="right" pos="AUX" msd="Vmip3s" lemma="fi">e</w>
+<w join="right" pos="NOUN" msd="Yn" lemma="sâmbătă.." ner="O">sâmbătă..</w>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="VERB" msd="Vmii1" lemma="îVoia" ner="O">-Voiam</w>
+<w join="right" pos="PART" msd="Qs" lemma="să" ner="O">să</w>
+<w join="right" pos="PRON" msd="Pp2-pa--------w" lemma="tu" ner="O">vă</w>
+<w join="right" pos="VERB" msd="Vmip3p" lemma="scape" ner="O">scap</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="PRON" msd="Pp1-sa--------s" lemma="eu" ner="O">mine</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="astăzi" ner="DATETIME">astăzi</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="doamnă" ner="PERSON">doamnă</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="AUX" msd="Vmip3p" lemma="fi" ner="O">Sunt</w>
+<w join="right" pos="ADV" msd="Rp" lemma="cam" ner="O">cam</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="indispune" ner="O">indispus</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="astăzi" ner="DATETIME">astăzi</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<pc pos="PUNCT" msd="DASH" ner="O">-</pc>
+<w join="right" pos="PART" msd="Qs" lemma="să" ner="O">Să</w>
+<w join="right" pos="VERB" msd="Vmip1p" lemma="încercă" ner="O">-ncercăm</w>
+<w join="right" pos="PART" msd="Qs" lemma="să" ner="O">să</w>
+<w join="right" pos="PRON" msd="Pp2-sd--y-----w" lemma="tu" ner="O">-ți</w>
+<w join="right" pos="VERB" msd="Vmip1p" lemma="alunga" ner="O">alungăm</w>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="gând" ner="O">gândurile</w>
+<w join="right" pos="ADJ" msd="Afpfp-n" lemma="rău" ner="O">rele</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="VERB" msd="Vmm-2s" lemma="Stai" ner="O">Stai</w>
+<pc pos="PUNCT" msd="DASH" ner="O">—</pc>
+<w join="right" pos="PART" msd="Qz" lemma="nu" ner="O">nu</w>
+<w join="right" pos="VERB" msd="Vmnp" lemma="pleca" ner="O">pleca</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="PRON" msd="Pp2-sa--------w" lemma="tu" ner="O">Te</w>
+<w join="right" pos="VERB" msd="Vmip1s" lemma="ruga" ner="O">rog</w>
+<w join="right" pos="PRON" msd="Pp1-sn--------s" lemma="eu" ner="PERSON">eu</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="AUX" msd="Vmip3p" lemma="fi" ner="O">Sunt</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="sigur" ner="O">sigură</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="SCONJ" msd="Csssp" lemma="că">că</w>
+<w join="right" pos="AUX" msd="Va--2s" lemma="vrea" ner="O">vei</w>
+<w join="right" pos="VERB" msd="Vmnp" lemma="face" ner="O">face</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="plăcere" ner="O">plăcere</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<w join="right" pos="NOUN" msd="Ncfsoy" lemma="Lucreție" ner="PERSON">Lucreției</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="Lucreție" ner="PERSON">Lucreția</w>
+<w join="right" pos="VERB" msd="Vmil3s" lemma="apărea" ner="O">apăruse</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="in">in</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="ușă" ner="O">ușă</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="VERB" msd="Vmip2s" lemma="-Voiai" ner="O">-Voiai</w>
+<w join="right" pos="PART" msd="Qs" lemma="să" ner="O">să</w>
+<w join="right" pos="VERB" msd="Vmip2s" lemma="pleca" ner="O">pleci</w>
+<pc pos="PUNCT" msd="QUEST" ner="O">?</pc>
+</s>
+<s>
+<w join="right" pos="PRON" msd="Pp3mpr--------s" lemma="ei" ner="O">Ei</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="bine" ner="O">bine</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PART" msd="Qz" lemma="nu" ner="O">nu</w>
+<pc pos="PUNCT" msd="EXCL" ner="O">!</pc>
+</s>
+<s>
+<w join="right" pos="PRON" msd="Pp1-sn--------s" lemma="eu" ner="PERSON">Eu</w>
+<w join="right" pos="VERB" msd="Vmis3s" lemma="îti" ner="O">îti</w>
+<w join="right" pos="VERB" msd="Vmip3p" lemma="porunci" ner="O">poruncesc</w>
+<w join="right" pos="PART" msd="Qs" lemma="să" ner="O">să</w>
+<w join="right" pos="PART" msd="Qz" lemma="nu" ner="O">nu</w>
+<w join="right" pos="VERB" msd="Vmip2s" lemma="pleca" ner="O">pleci</w>
+<pc pos="PUNCT" msd="EXCL" ner="O">!</pc>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">Și</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="Lucreție" ner="PERSON">Lucreția</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="bate" ner="O">bate</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="răsfăța" ner="O">răsfățat</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="cu">cu</w>
+<w join="right" pos="NOUN" msd="Ncmsry" lemma="picior" ner="O">piciorul</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="pe" ner="O">pe</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="covor" ner="O">covor</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="NOUN" msd="Ncmpry" lemma="ochi" ner="O">Ochii</w>
+<w join="right" pos="PRON" msd="Pp3msa--------w" lemma="el" ner="O">îl</w>
+<w join="right" pos="VERB" msd="Vmip3p" lemma="privi" ner="O">privesc</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="țintă" ner="O">țintă</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="NOUN" msd="Yn" lemma="poruncitor." ner="O">poruncitor.</w>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="COMMA" ner="O">..........</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="PERSON">Grigore</w>
+<w join="right" pos="PART" msd="Qz-y" lemma="nu" ner="O">n-</w>
+<w join="right" pos="AUX" msd="Va--3s" lemma="avea">a</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="pleca" ner="O">plecat</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="conversație" ner="O">Conversația</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="la" ner="O">la</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="masă" ner="O">masă</w>
+<w join="right" pos="VERB" msd="Vmii3s" lemma="fi" ner="DATETIME">era</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="vioaie" ner="O">vioaie</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="SCONJ" msd="Csssp" lemma="dacă" ner="O">Dacă</w>
+<w join="right" pos="VERB" msd="Vmip2s" lemma="trăi" ner="O">trăești</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în" ner="O">în</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Viena" ner="GPE">Viena</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="SCONJ" msd="Csssp" lemma="dacă" ner="O">dacă</w>
+<w join="right" pos="VERB" msd="Vmip2s" lemma="avea">ai</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în" ner="O">în</w>
+<w join="right" pos="DET" msd="Di3-sr---e" lemma="fiecare" ner="O">fiecare</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="zi">zi</w>
+<w join="right" pos="ADJ" msd="Afp-p-n" lemma="nou" ner="O">noi</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<w join="right" pos="ADJ" msd="Afpfp-n" lemma="nenumărat" ner="O">nenumărate</w>
+<w join="right" pos="NOUN" msd="Ncfp-n" lemma="senzație" ner="O">senzații</w>
+<pc pos="PUNCT" msd="DASH" ner="O">—</pc>
+<w join="right" pos="DET" msd="Tsmp" lemma="al">ai</w>
+<w join="right" pos="PRON" msd="Pw3--r" lemma="ce">ce</w>
+<w join="right" pos="VERB" msd="Vmis3s" lemma="povesti" ner="O">povesti</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="NOUN" msd="Ncmsry" lemma="tată" ner="PERSON">Tata</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="NOUN" msd="Yn" lemma="dl" ner="PERSON">dl</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Ventureanu" ner="O">Ventureanu</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="AUX" msd="Vmii3s" lemma="fi" ner="O">era</w>
+<w join="right" pos="ADJ" msd="Afpms-n" lemma="vesel" ner="O">vesel</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="ADV" msd="Rw" lemma="când" ner="O">Când</w>
+<w join="right" pos="PRON" msd="Pp3msa--y-----w" lemma="el" ner="O">l-</w>
+<w join="right" pos="AUX" msd="Va--3s" lemma="avea">a</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="vedea" ner="O">văzut</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="pe" ner="O">pe</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="PERSON">Grigore</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PRON" msd="Pp3msa--y-----w" lemma="el" ner="O">l-</w>
+<w join="right" pos="AUX" msd="Va--3s" lemma="avea">a</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="bate" ner="O">bătut</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="prieten" ner="O">prietenește</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="pe" ner="O">pe</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="umăr" ner="O">umăr</w>
+<pc pos="PUNCT" msd="COLON" ner="O">:</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+	<p><s>
+<w join="right" pos="PRON" msd="Pp1-sd--------w" lemma="-Îmi" ner="O">-Îmi</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="placă" ner="O">place</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="d-tă" ner="O">d-ta</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="PRON" msd="Pp1-sd--y-----w" lemma="eu" ner="O">Mi-</w>
+<w join="right" pos="AUX" msd="Va--3s" lemma="avea">a</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="spune" ner="O">spus</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="azi" ner="DATETIME">azi</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="dimineață" ner="DATETIME">dimineață</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Traian" ner="PERSON">Traian</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="pe" ner="O">pe</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Peneș" ner="O">Peneș</w>
+<w join="right" pos="NOUN" msd="Ncmsry" lemma="Curcan" ner="PERSON">Curcanul</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="ADV" msd="Rgp" lemma="Inainte" ner="O">Inainte</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADV" msd="Rgp" lemma="numai" ner="O">numai</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="așa" ner="O">așa</w>
+<pc pos="PUNCT" msd="EXCL" ner="O">!</pc>
+</s>
+<s>
+<w join="right" pos="PRON" msd="Pw3--r" lemma="ce" ner="O">Ce-</w>
+<w join="right" pos="AUX" msd="Va--1" lemma="avea">am</w>
+<w join="right" pos="VERB" msd="Vmnp" lemma="face" ner="O">face</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="altfel" ner="O">altfel</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în" ner="O">în</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="oraș" ner="O">oraș</w>
+<w join="right" pos="ADJ" msd="Afpms-n" lemma="străin" ner="O">străin</w>
+<pc pos="PUNCT" msd="QUEST" ner="O">?</pc>
+</s>
+<s>
+<w join="right" pos="PART" msd="Qs" lemma="să" ner="O">Să</w>
+<w join="right" pos="VERB" msd="Vmip2s" lemma="vedea" ner="O">vezi</w>
+<w join="right" pos="PRON" msd="Pw3--r" lemma="ce">ce</w>
+<w join="right" pos="VERB" msd="Vmip2s" lemma="pune" ner="O">pui</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="român" ner="NAT_REL_POL">român</w>
+<w join="right" pos="DET" msd="Tifsr" lemma="un">o</w>
+<w join="right" pos="PART" msd="Qs" lemma="să" ner="O">să</w>
+<w join="right" pos="VERB" msd="Vmip1p" lemma="scoate" ner="O">scoatem</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="din" ner="O">din</w>
+<w join="right" pos="NOUN" msd="Yn" lemma="el«.." ner="O">el«..</w>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="mamă" ner="PERSON">Mama</w>
+<w join="right" pos="AUX" msd="Vmii3s" lemma="fi" ner="O">era</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<w join="right" pos="PRON" msd="Pp3fsr--------s" lemma="el">ea</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="vorbăreață" ner="O">vorbăreață</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="VERB" msd="Vmii3s" lemma="voi" ner="O">voia</w>
+<w join="right" pos="PART" msd="Qs" lemma="să" ner="O">să</w>
+<w join="right" pos="PRON" msd="Px3--a--------w" lemma="sine" ner="O">se</w>
+<w join="right" pos="VERB" msd="Vmsp3" lemma="ține" ner="O">țină</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="promisiune" ner="O">promisiune</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<w join="right" pos="PART" msd="Qs" lemma="să" ner="O">să</w>
+<w join="right" pos="VERB" msd="Vmsp3" lemma="alunga" ner="O">alunge</w>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="gând" ner="O">gândurile</w>
+<w join="right" pos="ADJ" msd="Afpfp-n" lemma="negru" ner="O">negre</w>
+<w join="right" pos="DET" msd="Tsfp" lemma="al" ner="O">ale</w>
+<w join="right" pos="DET" msd="Tf-so" lemma="lui" ner="O">lui</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="PERSON">Grigore</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="PERSON">Grigore</w>
+<w join="right" pos="VERB" msd="Vmii3s" lemma="privi" ner="O">privea</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="dureros" ner="O">dureros</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="PART" msd="Qz" lemma="nu">Nu</w>
+<w join="right" pos="VERB" msd="Vmii3s" lemma="putea" ner="O">putea</w>
+<w join="right" pos="PART" msd="Qs" lemma="să" ner="O">să</w>
+<w join="right" pos="VERB" msd="Vmsp3" lemma="suferi" ner="O">sufere</w>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="privire" ner="O">privirile</w>
+<w join="right" pos="DET" msd="Di3mso---e" lemma="nimare" ner="O">nimărui</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="PROPN" msd="Np" lemma="Ghiță" ner="PERSON">Ghiță</w>
+<w join="right" pos="PART" msd="Qz-y" lemma="nu" ner="O">n-</w>
+<w join="right" pos="AUX" msd="Va--3s" lemma="avea">a</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="veni" ner="O">venit</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="la" ner="O">la</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="cină" ner="O">cină</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="AUX" msd="Vaii3s" lemma="fi" ner="O">Era</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="învita" ner="O">învitat</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="la" ner="O">la</w>
+<w join="right" pos="DET" msd="Tifsr" lemma="un">o</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="serată" ner="O">serată</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="Lucreția" ner="PERSON">Lucreția</w>
+<w join="right" pos="VERB" msd="Vmii3s" lemma="tăcea" ner="O">tăcea</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="ADP" msd="Spsa" lemma="cu">Cu</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="tăcere" ner="O">tăcerea</w>
+<w join="right" pos="DET" msd="Dd3fsr---o" lemma="acesta" ner="O">asta</w>
+<w join="right" pos="VERB" msd="Vmii3s" lemma="vorbi" ner="O">vorbea</w>
+<w join="right" pos="ADV" msd="Rp" lemma="mai" ner="O">mai</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="mult" ner="O">mult</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="pentru" ner="O">pentru</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="PERSON">Grigore</w>
+<w join="right" pos="ADV" msd="Rc" lemma="decât" ner="O">decât</w>
+<w join="right" pos="AUX" msd="Va--3" lemma="avea">ar</w>
+<w join="right" pos="AUX" msd="Vanp" lemma="fi" ner="O">fi</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="rosti" ner="O">rostit</w>
+<w join="right" pos="DET" msd="Tifsr" lemma="un">o</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="cuvântare" ner="O">cuvântare</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="întreg" ner="O">întreagă</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="mamă" ner="PERSON">Mama</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="Lucreție" ner="PERSON">Lucreția</w>
+<w join="right" pos="AUX" msd="Va--3p" lemma="avea">au</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="fi" ner="O">fost</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în" ner="O">în</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="galerie" ner="O">galeria</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncfp-n" lemma="tablou" ner="O">tablouri</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="PRON" msd="Px3--a--y-----w" lemma="sine" ner="O">S-</w>
+<w join="right" pos="AUX" msd="Va--3p" lemma="avea">au</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="opri" ner="O">oprit</w>
+<w join="right" pos="ADP" msd="Spsg" lemma="înaintea" ner="O">înaintea</w>
+<w join="right" pos="NOUN" msd="Ncmsoy" lemma="tablou" ner="O">tabloului</w>
+<w join="right" pos="DET" msd="Tf-so" lemma="lui" ner="O">lui</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Raffael" ner="PERSON">Raffael</w>
+<pc pos="PUNCT" msd="DBLQ" ner="O">„</pc>
+<w join="right" pos="PROPN" msd="Np" lemma="Madona" ner="WORK_OF_ART">Madona</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în">în</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="verdeață" ner="O">verdeață</w>
+<pc pos="PUNCT" msd="DBLQ" ner="O">”</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">Și</w>
+<w join="right" pos="VERB" msd="Vmii3p" lemma="povesti" ner="O">povesteau</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="cu">cu</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="entuziasm" ner="O">entuziasm</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="Raffael" ner="PERSON">Raffael</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="AUX" msd="Vasp2p" lemma="-Iți" ner="O">-Iți</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="placă" ner="O">place</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Raffael" ner="PERSON">Raffael</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADJ" msd="Afpfp-n" lemma="d" ner="PERSON">dle</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="PERSON">Grigore</w>
+<pc pos="PUNCT" msd="QUEST" ner="O">?</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="ADV" msd="Rgp" lemma="-Mult" ner="O">-Mult</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="d-șor" ner="PERSON">d-șoară</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADV" msd="Rp" lemma="foarte" ner="O">foarte</w>
+<w join="right" pos="NOUN" msd="Yn" lemma="mult.." ner="O">mult..</w>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="AUX" msd="Va--2s----y" lemma="avea">-Ai</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="vedea">văzut</w>
+<pc pos="PUNCT" msd="DBLQ" ner="WORK_OF_ART">„</pc>
+<w join="right" pos="PROPN" msd="Np" lemma="Madona" ner="WORK_OF_ART">Madona</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în">în</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="verdeață" ner="O">verdeață</w>
+<pc pos="PUNCT" msd="QUEST" ner="WORK_OF_ART">?</pc>
+<pc pos="PUNCT" msd="DBLQ" ner="WORK_OF_ART">”</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="AUX" msd="Va--1" lemma="avea">Am</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="sta" ner="O">stat</w>
+<w join="right" pos="NOUN" msd="Ncfp-n" lemma="ceas" ner="DATETIME">ceasuri</w>
+<w join="right" pos="ADJ" msd="Afp-p-n" lemma="întreg" ner="O">întregi</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în">în</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="față" ner="O">fața</w>
+<w join="right" pos="DET" msd="Ds3---s" lemma="lui" ner="O">ei</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="Coloare" ner="O">Coloarea</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="dulce" ner="O">dulce</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="albastru" ner="O">albastră</w>
+<w join="right" pos="DET" msd="Tsfs" lemma="al">a</w>
+<w join="right" pos="NOUN" msd="Ncfsoy" lemma="haiană" ner="O">hainei</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="verdeață" ner="O">verdeața</w>
+<w join="right" pos="NOUN" msd="Ncmsoy" lemma="câmp" ner="O">câmpului</w>
+<w join="right" pos="ADJ" msd="Afpms-n" lemma="dimprejur" ner="O">dimprejur</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="NOUN" msd="Ncmsry" lemma="peisagiu" ner="O">peisagiul</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="din" ner="O">din</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="fund" ner="O">fund</w>
+<pc pos="PUNCT" msd="DASH" ner="O">—</pc>
+<w join="right" pos="PRON" msd="Pi3fpr" lemma="tot" ner="O">toate</w>
+<w join="right" pos="AUX" msd="Vmip3p" lemma="fi" ner="O">sunt</w>
+<w join="right" pos="DET" msd="Tifsr" lemma="un">o</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="splendoare" ner="O">splendoare</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="PRON" msd="Pi3fsr" lemma="Madona" ner="PERSON">Madona</w>
+<w join="right" pos="AUX" msd="Vmip3s" lemma="fi">e</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="cu">cu</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="adevărat" ner="O">adevărat</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="dumnezei" ner="O">dumnezeiască</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="NOUN" msd="Ncmpry" lemma="ochi" ner="O">Ochii</w>
+<w join="right" pos="VERB" msd="Vmp--pm" lemma="închide" ner="O">închiși</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="pe" ner="O">pe</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="jumătate" ner="O">jumătate</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="gură" ner="O">gura</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="întredeschis" ner="O">întredeschisă</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="întreg" ner="O">întreagă</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="ținută" ner="O">ținuta</w>
+<w join="right" pos="NOUN" msd="Ncmsoy" lemma="corp" ner="WORK_OF_ART">corpului</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="NOUN" msd="Ncmsry" lemma="păr" ner="O">părul</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="cu">cu</w>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="șuviță" ner="O">șuvițele</w>
+<w join="right" pos="ADJ" msd="Afpfp-n" lemma="prinde" ner="O">prinse</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="cunună" ner="O">cunună</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="pe" ner="O">pe</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="lângă" ner="O">lângă</w>
+<w join="right" pos="NOUN" msd="Yn" lemma="tâmple.." ner="O">tâmple..</w>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="VERB" msd="Vmip2s----y" lemma="Vezi" ner="O">-Vezi</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="mamă" ner="PERSON">mamă</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<w join="right" pos="NOUN" msd="Ynmsoy" lemma="d-lui" ner="O">d-lui</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="PERSON">Grigore</w>
+<w join="right" pos="PRON" msd="Pp3-sd--y-----w" lemma="el" ner="O">-i</w>
+<w join="right" pos="VERB" msd="Vmip3p" lemma="plăcea" ner="O">plac</w>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="Madonă" ner="WORK_OF_ART">Madonele</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Raffael" ner="PERSON">Raffael</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="întrerupe" ner="O">întrerupe</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="gureșă" ner="PERSON">gureșa</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Lucreție" ner="PERSON">Lucreție</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="NOUN" msd="Ncmpry" lemma="ochi" ner="O">Ochii</w>
+<w join="right" pos="DET" msd="Ds3---p" lemma="lui" ner="O">lor</w>
+<w join="right" pos="PRON" msd="Px3--a--------w" lemma="sine">se</w>
+<w join="right" pos="VERB" msd="Vmip3p" lemma="întâlni" ner="O">întâlnesc</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="PERSON">Grigore</w>
+<w join="right" pos="PRON" msd="Px3--d--------w" lemma="sine" ner="O">își</w>
+<w join="right" pos="VERB" msd="Vmis3s" lemma="zice" ner="O">zise</w>
+<pc pos="PUNCT" msd="COLON" ner="O">:</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+	<p><s>
+<w join="right" pos="PRON" msd="Pd3mpr--y" lemma="acesta" ner="O">-Ăștia</w>
+<w join="right" pos="AUX" msd="Vaip3p----y" lemma="fi" ner="O">-s</w>
+<w join="right" pos="NOUN" msd="Ncmpry" lemma="ochi" ner="O">ochii</w>
+<pc pos="PUNCT" msd="DBLQ" ner="WORK_OF_ART">„</pc>
+<w join="right" pos="NOUN" msd="Ncfsoy" lemma="Madonei" ner="PERSON">Madonei</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="din" ner="O">din</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="verdeață" ner="O">verdeață</w>
+<pc pos="PUNCT" msd="DBLQ" ner="WORK_OF_ART">”</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="VERB" msd="Vmp--sf" lemma="sta" ner="O">Stă</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="pe">pe</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="loc" ner="O">loc</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și</w>
+<w join="right" pos="PRON" msd="Px3--a--------w" lemma="sine">se</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="înroși" ner="O">înroșește</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="față" ner="O">Fața</w>
+<w join="right" pos="DET" msd="Ds3---s" lemma="lui">lui</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="spălăcit" ner="O">spălăcită</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADP" msd="Spsa" lemma="fără" ner="O">fără</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="DET" msd="Dz3fsr---e" lemma="nici_un" ner="O">nicio</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="expresie" ner="O">expresie</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PRON" msd="Px3--a--------w" lemma="sine">se</w>
+<w join="right" pos="VERB" msd="Vmip3" lemma="înbujora" ner="O">înbujorează</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="ADV" msd="Rgp" lemma="numai" ner="O">Numai</w>
+<w join="right" pos="NOUN" msd="Ncmpry" lemma="ochi" ner="O">ochii</w>
+<w join="right" pos="VERB" msd="Vmp--pm" lemma="pleca" ner="O">plecați</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în">în</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="jos" ner="O">jos</w>
+<w join="right" pos="PRON" msd="Pp3msa--------w" lemma="el" ner="O">îl</w>
+<w join="right" pos="VERB" msd="Vmip3p" lemma="da" ner="O">dau</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="gol" ner="O">gol</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="la" ner="O">la</w>
+<w join="right" pos="PRON" msd="Pw3--r" lemma="ce">ce</w>
+<w join="right" pos="NOUN" msd="Yn" lemma="gîndește." ner="O">gîndește.</w>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="ADP" msd="Spsa" lemma="după" ner="O">După</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="cină" ner="O">cină</w>
+<w join="right" pos="VERB" msd="Vmip3p" lemma="obișnui" ner="O">obișnuiau</w>
+<w join="right" pos="PART" msd="Qs" lemma="să" ner="O">să</w>
+<w join="right" pos="VERB" msd="Vmsp3" lemma="trece" ner="O">treacă</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în">în</w>
+<w join="right" pos="NOUN" msd="Ncmsry" lemma="salonaș" ner="O">salonașul</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="muzică" ner="O">muzică</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="ADV" msd="Rgp" lemma="acolo" ner="O">Acolo</w>
+<w join="right" pos="VERB" msd="Vmii3p" lemma="petrece" ner="O">petreceau</w>
+<w join="right" pos="DET" msd="Di3fpr" lemma="câtva" ner="DATETIME">câteva</w>
+<w join="right" pos="NOUN" msd="Ncfp-n" lemma="oră" ner="DATETIME">ore</w>
+<w join="right" pos="VERB" msd="Vmg" lemma="asculta" ner="O">ascultând</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="pe">pe</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="Lucreție" ner="PERSON">Lucreția</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="la" ner="O">la</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="pian" ner="O">pian</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="PROPN" msd="Np" lemma="Traian" ner="PERSON">Traian</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="zice" ner="O">zice</w>
+<w join="right" pos="NOUN" msd="Ncfsoy" lemma="surioarea" ner="PERSON">surioarei</w>
+<pc pos="PUNCT" msd="COLON" ner="O">:</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+	<p><s>
+<w join="right" pos="PROPN" msd="Np" lemma="îPe">-Pe</w>
+<w join="right" pos="NOUN" msd="Yn" lemma="dl">dl</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="PERSON">Grigore</w>
+<w join="right" pos="PRON" msd="Pp3msa--------w" lemma="el" ner="O">îl</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="durea" ner="O">doare</w>
+<w join="right" pos="NOUN" msd="Ncmsry" lemma="cap" ner="O">capul</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="VERB" msd="Vmis3s" lemma="Cântă" ner="O">Cântă</w>
+<w join="right" pos="PRON" msd="Pp3-sd--y-----w" lemma="el" ner="O">-i</w>
+<pc pos="PUNCT" msd="DBLQ" ner="O">„</pc>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="Barcarola" ner="O">Barcarola</w>
+<pc pos="PUNCT" msd="DBLQ" ner="O">”</pc>
+<pc pos="PUNCT" msd="DASH" ner="O">—</pc>
+<w join="right" pos="PART" msd="Qs" lemma="să" ner="O">să</w>
+<w join="right" pos="PRON" msd="Pp3mpa--y-----w" lemma="el" ner="O">-i</w>
+<w join="right" pos="VERB" msd="Vmsp3" lemma="trece" ner="O">treacă</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="Barcarolă" ner="O">Barcarola</w>
+<w join="right" pos="AUX" msd="Vmii3s" lemma="fi" ner="O">era</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="melodie" ner="O">melodia</w>
+<w join="right" pos="DET" msd="Ds3---s" lemma="lui">lui</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="favorite" ner="O">favorită</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="AUX" msd="Vmil3s" lemma="fi" ner="O">Fusese</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="odiniorî" ner="O">odinioară</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="la" ner="O">la</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="operă" ner="O">operă</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADP" msd="Spsa" lemma="la" ner="O">la</w>
+<pc pos="PUNCT" msd="DBLQ" ner="WORK_OF_ART">„</pc>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="Povește" ner="WORK_OF_ART">Poveștile</w>
+<w join="right" pos="DET" msd="Tf-so" lemma="lui">lui</w>
+<w join="right" pos="PROPN" msd="Np" lemma="hoffmann”" ner="O">Hoffmann”</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Offenbach" ner="PERSON">Offenbach</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="VERB" msd="Vmii3p" lemma="fi" ner="O">Erau</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="lângă" ner="O">lângă</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="olaltă" ner="O">olaltă</w>
+<pc pos="PUNCT" msd="COLON" ner="O">:</pc>
+</s>
+<s>
+<w join="right" pos="PRON" msd="Pp3msr--------s" lemma="el">El</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și">și</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="Lucreție" ner="PERSON">Lucreția</w>
+<pc pos="PUNCT" msd="EXCL" ner="O">!</pc>
+</s>
+<s>
+<w join="right" pos="PRON" msd="Px3--a--------w" lemma="sine">Se</w>
+<w join="right" pos="VERB" msd="Vmil3s" lemma="simți" ner="O">simțise</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="atât" ner="O">atât</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="bine" ner="O">bine</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="atunci" ner="O">atunci</w>
+<pc pos="PUNCT" msd="EXCL" ner="O">!</pc>
+</s>
+<s>
+<w join="right" pos="VERB" msd="Vmil3s" lemma="Auzi" ner="O">Auzise</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="pentru" ner="O">pentru</w>
+<w join="right" pos="NUM" msd="Mofsrly" lemma="întâi" ner="ORDINAL">întâia</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="oară" ner="O">oară</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Barcarola" ner="O">Barcarola</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și">și</w>
+<w join="right" pos="VERB" msd="Vmil3s" lemma="prinde" ner="O">prinsese</w>
+<w join="right" pos="DET" msd="Tifsr" lemma="un">o</w>
+<w join="right" pos="NOUN" msd="Ncf--n" lemma="dragoste" ner="O">dragoste</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="mare" ner="O">mare</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de" ner="O">de</w>
+<w join="right" pos="PRON" msd="Pp3fsr--------s" lemma="el">ea</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="VERB" msd="Vmip1s" lemma="-Cânt" ner="O">-Cânt</w>
+<w join="right" pos="PART" msd="Qs" lemma="să" ner="O">să</w>
+<w join="right" pos="PRON" msd="Pp2-sd--y-----w" lemma="tu" ner="O">-ți</w>
+<w join="right" pos="VERB" msd="Vmsp3" lemma="trece" ner="O">treacă</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADV" msd="Rw" lemma="cum" ner="O">cum</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="zice" ner="O">zice</w>
+<w join="right" pos="PRON" msd="Pp3-sd--------w" lemma="Traian,el" ner="O">Traian,îi</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="șopt" ner="O">șoptește</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="Lucreția" ner="PERSON">Lucreția</w>
+<w join="right" pos="VERB" msd="Vmg" lemma="trece" ner="O">trecând</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="pe">pe</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="lângă" ner="O">lângă</w>
+<w join="right" pos="PRON" msd="Pp3msr--------s" lemma="el">el</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="ADV" msd="Rgp" lemma="Răsună" ner="O">Răsună</w>
+<w join="right" pos="NUM" msd="Mofprly" lemma="prim" ner="O">primele</w>
+<w join="right" pos="NOUN" msd="Yn" lemma="acorduri." ner="O">acorduri.</w>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="ADP" msd="Spsa" lemma="lin" ner="O">lin</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="NOUN" msd="Yn" lemma="pierdut..." ner="O">pierdut...</w>
+</s>
+<s>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="înnăbuși" ner="O">înnăbușit</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="val" ner="O">Valurile</w>
+<w join="right" pos="NOUN" msd="Ncfsoy" lemma="mare" ner="O">mării</w>
+<w join="right" pos="PRON" msd="Px3--a--------w" lemma="sine">se</w>
+<w join="right" pos="VERB" msd="Vmip3p" lemma="bate" ner="O">bat</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="ritmic" ner="O">ritmic</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de">de</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="țărmur" ner="O">țărmur</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="DET" msd="Timsr" lemma="un">Un</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="cer" ner="O">cer</w>
+<w join="right" pos="ADJ" msd="Afpms-n" lemma="albastru" ner="O">albastru</w>
+<pc pos="PUNCT" msd="DASH" ner="O">—</pc>
+<w join="right" pos="ADJ" msd="Afpms-n" lemma="curat" ner="O">curat</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADV" msd="Rc" lemma="ca">ca</w>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="gând" ner="O">gândurile</w>
+<w join="right" pos="DET" msd="Timso" lemma="un" ner="O">unui</w>
+<w join="right" pos="NOUN" msd="Yn" lemma="copil." ner="O">copil.</w>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<w join="right" pos="PROPN" msd="Np" lemma="murmur" ner="O">Murmur</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și">și</w>
+<w join="right" pos="NOUN" msd="Ncfp-n" lemma="șoapte" ner="O">șoapte</w>
+<w join="right" pos="ADJ" msd="Afp-p-n" lemma="dulce" ner="O">dulci</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de">de</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="chitară" ner="O">chitară</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<w join="right" pos="NOUN" msd="Ncfp-n" lemma="Diamantă" ner="O">Diamante</w>
+<w join="right" pos="ADJ" msd="Afpf--n" lemma="licăritor" ner="O">licăritoare</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="VERB" msd="Vmp--pf" lemma="ascunde" ner="O">ascunse</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="prin">prin</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="iarbă" ner="O">iarba</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="înalt" ner="O">înaltă</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="unduios" ner="O">unduioasă</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="COMMA" ner="O">..</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<w join="right" pos="NOUN" msd="Ncfp-n" lemma="Cascade" ner="O">Cascade</w>
+<w join="right" pos="ADJ" msd="Afpfp-n" lemma="diafn" ner="O">diafane</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADJ" msd="Afpf--n" lemma="șerpuitor" ner="O">șerpuitoare</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<w join="right" pos="DET" msd="Tifsr" lemma="un">O</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="înturnare" ner="O">înturnare</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="moleșitor" ner="O">moleșitoare</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de">de</w>
+<w join="right" pos="NOUN" msd="Ncfp-n" lemma="privire" ner="O">priviri</w>
+<w join="right" pos="NOUN" msd="Yn" lemma="fermecate." ner="O">fermecate.</w>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="ADP" msd="Spsa" lemma="la" ner="O">La</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="-la" ner="O">-la</w>
+<w join="right" pos="VERB" msd="Vmii3s" lemma="îl" ner="O">-la</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="-la" ner="O">-la</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și">și</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="totdeodată" ner="O">totdeodată</w>
+<w join="right" pos="DET" msd="Timsr" lemma="un">un</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="zbucium" ner="O">zbucium</w>
+<w join="right" pos="ADJ" msd="Afpms-n" lemma="înăbușit" ner="O">înăbușit</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PRON" msd="Pw3--r" lemma="care" ner="O">care</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="sta" ner="O">stă</w>
+<w join="right" pos="PART" msd="Qs" lemma="să" ner="O">să</w>
+<w join="right" pos="VERB" msd="Vmsp3" lemma="izbucni" ner="O">izbucnească</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">..</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="ADV" msd="Rgp" lemma="apoi" ner="O">Apoi</w>
+<w join="right" pos="AUX" msd="Vmip3s" lemma="fi">e</w>
+<w join="right" pos="VERB" msd="Vmip1p" lemma="molcom" ner="O">molcom</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADV" msd="Rgp" lemma="discret" ner="O">discret</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADJ" msd="Afpms-n" lemma="resemna" ner="O">resemnat</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="sunet" ner="O">Sunetele</w>
+<w join="right" pos="PRON" msd="Px3--a--------w" lemma="sine">se</w>
+<w join="right" pos="VERB" msd="Vmis3s" lemma="ridica" ner="O">ridică</w>
+<w join="right" pos="ADV" msd="Rp" lemma="mai">mai</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="tare" ner="O">tare</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADV" msd="Rp" lemma="mai">mai</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="tare" ner="O">tare</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="cer" ner="O">cer</w>
+<w join="right" pos="PART" msd="Qs" lemma="să" ner="O">să</w>
+<w join="right" pos="AUX" msd="Vasp3" lemma="fi" ner="O">fie</w>
+<w join="right" pos="VERB" msd="Vmp--pf" lemma="auzi" ner="O">auzite</w>
+<pc pos="PUNCT" msd="HELLIP" ner="O">...</pc>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="bate" ner="O">bat</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="la">la</w>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="poartă" ner="O">porțile</w>
+<w join="right" pos="NOUN" msd="Ncfsoy" lemma="inimă" ner="O">inimii</w>
+<pc pos="PUNCT" msd="COLON" ner="O">:</pc>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="VERB" msd="Vmm-2s" lemma=",Asculta" ner="O">,Ascultă</w>
+<w join="right" pos="PRON" msd="Pp1-pa--y-----w" lemma="eu" ner="O">-ne</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="da" ner="O">dă</w>
+<w join="right" pos="PRON" msd="Pp1-pa--y-----w" lemma="eu" ner="O">-ne</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="răsplată" ner="O">răsplata</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="cuvenit" ner="O">cuvenită</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="Suspină" ner="O">Suspinele</w>
+<w join="right" pos="DET" msd="Ds1fp-p" lemma="meu" ner="O">noastre</w>
+<w join="right" pos="AUX" msd="Vaip3p" lemma="fi" ner="O">sunt</w>
+<w join="right" pos="VERB" msd="Vmp--pf" lemma="adevărat" ner="O">adevărate</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="NOUN" msd="Ncmsry" lemma="murmuru" ner="O">murmurul</w>
+<w join="right" pos="DET" msd="Ds1ms-p" lemma="meu" ner="O">nostru</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="simți" ner="O">simțit</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="HELLIP" ner="O">...</pc>
+</s>
+<s>
+<w join="right" pos="ADP" msd="Spsa" lemma="de">De</w>
+<w join="right" pos="PRON" msd="Pw3--r" lemma="ce">ce</w>
+<w join="right" pos="PART" msd="Qz" lemma="nu">nu</w>
+<w join="right" pos="PRON" msd="Pp1-pa--------w" lemma="eu" ner="O">ne</w>
+<w join="right" pos="VERB" msd="Vmis3s" lemma="bage" ner="O">bagă</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în">în</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="seamă" ner="O">seamă</w>
+<pc pos="PUNCT" msd="QUEST" ner="O">?</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<w join="right" pos="AUX" msd="Vmip3s" lemma="fi">E</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="drept" ner="O">drept</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PART" msd="Qz" lemma="nu">nu</w>
+<w join="right" pos="AUX" msd="Vmip1p" lemma="fi" ner="O">suntem</w>
+<w join="right" pos="ADJ" msd="Afpfp-n" lemma="vrednic" ner="O">vrednice</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de">de</w>
+<w join="right" pos="PART" msd="Qn" lemma="a">a</w>
+<w join="right" pos="AUX" msd="Vanp" lemma="fi" ner="O">fi</w>
+<w join="right" pos="VERB" msd="Vmp--pf" lemma="lua" ner="O">luate</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în">în</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="seamă" ner="O">seamă</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de">de</w>
+<w join="right" pos="PRON" msd="Pp2-sa--------s" lemma="tu" ner="O">tine</w>
+<pc pos="PUNCT" msd="EXCLHELLIP" ner="O">!...</pc>
+</s>
+<s>
+<w join="right" pos="AUX" msd="Vmip1p" lemma="fi" ner="O">Suntem</w>
+<w join="right" pos="ADJ" msd="Afp-p-n" lemma="mic" ner="O">mici</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADV" msd="Yr" lemma="neînsemnate." ner="O">neînsemnate.</w>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="COMMA" ner="O">..</pc>
+</s>
+<s>
+<w join="right" pos="CCONJ" msd="Ccssp" lemma="dar" ner="O">Dar</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PRON" msd="Pp2-sa--------w" lemma="tu">te</w>
+<w join="right" pos="NOUN" msd="Yn" lemma="iubim." ner="O">iubim.</w>
+</s>
+<s>
+<pc pos="PUNCT" msd="HELLIP" ner="O">...</pc>
+</s>
+<s>
+<w join="right" pos="PRON" msd="Pp3fsa--------w" lemma="el">O</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PRON" msd="Pp2-sa--------w" lemma="tu">te</w>
+<w join="right" pos="VERB" msd="Vmip1p" lemma="iubi" ner="O">iubim</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="mult" ner="O">mult</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADV" msd="Rgp" lemma="mult" ner="O">mult</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="HELLIP" ner="O">...</pc>
+</s>
+<s>
+<w join="right" pos="ADP" msd="Spsa" lemma="pe">Pe</w>
+<w join="right" pos="ADV" msd="Rw" lemma="cât" ner="O">cât</w>
+<w join="right" pos="VERB" msd="Vmip1p" lemma="sînte" ner="O">sîntem</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de">de</w>
+<w join="right" pos="ADJ" msd="Afp-p-n" lemma="mic" ner="O">mici</w>
+<pc pos="PUNCT" msd="DASH" ner="O">—</pc>
+<w join="right" pos="ADP" msd="Spsa" lemma="pe">pe</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="atât" ner="O">atât</w>
+<w join="right" pos="AUX" msd="Vmip1p" lemma="fi" ner="O">suntem</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de">de</w>
+<w join="right" pos="ADJ" msd="Afp-p-n" lemma="mare" ner="O">mari</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în">în</w>
+<w join="right" pos="NOUN" msd="Yn" lemma="iubire." ner="O">iubire.</w>
+</s>
+<s>
+<pc pos="PUNCT" msd="COMMA" ner="O">..</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="PART" msd="Qz" lemma="nu">Nu</w>
+<w join="right" pos="PRON" msd="Pp1-pa--------w" lemma="eu" ner="O">ne</w>
+<w join="right" pos="VERB" msd="Vmm-2s" lemma="putea" ner="O">poți</w>
+<w join="right" pos="VERB" msd="Vmnp" lemma="respinge" ner="O">respinge</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<w join="right" pos="VERB" msd="Vmip1p" lemma="avea" ner="O">Avem</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și">și</w>
+<w join="right" pos="PRON" msd="Pp1-pr--------s" lemma="eu" ner="PERSON">noi</w>
+<w join="right" pos="DET" msd="Timsr" lemma="un">un</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="drept" ner="O">drept</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="la">la</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="iubire" ner="O">iubire</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și">Și</w>
+<w join="right" pos="PRON" msd="Pp1-pr--------s" lemma="eu" ner="PERSON">noi</w>
+<w join="right" pos="AUX" msd="Vmip1p" lemma="fi" ner="O">suntem</w>
+<w join="right" pos="NOUN" msd="Ncfp-n" lemma="ființă" ner="O">ființe</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADV" msd="Rc" lemma="ca">ca</w>
+<w join="right" pos="PRON" msd="Pi3--r" lemma="oricare" ner="O">oricare</w>
+<w join="right" pos="PRON" msd="Pi3fpr" lemma="altul" ner="O">altele</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="HELLIP" ner="O">...</pc>
+</s>
+<s>
+<w join="right" pos="PRON" msd="Pp2-sa--------w" lemma="tu">Te</w>
+<w join="right" pos="VERB" msd="Vmip1p" lemma="ruga" ner="O">rugăm</w>
+<pc pos="PUNCT" msd="DASH" ner="O">—</pc>
+<w join="right" pos="VERB" msd="Vmip1p" lemma="pretinde" ner="O">pretindem</w>
+<w join="right" pos="PART" msd="Qs" lemma="să">să</w>
+<w join="right" pos="PRON" msd="Pp1-pa--------w" lemma="eu" ner="O">ne</w>
+<w join="right" pos="VERB" msd="Vmip2s" lemma="asculta" ner="O">asculți</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="HELLIP" ner="O">...</pc>
+</s>
+<s>
+<w join="right" pos="PRON" msd="Pp2-sd--------w" lemma="tu" ner="O">Îți</w>
+<w join="right" pos="VERB" msd="Vmip1p" lemma="cădea" ner="O">cădem</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în">în</w>
+<w join="right" pos="NOUN" msd="Ncmp-n" lemma="genunchi" ner="O">genunchi</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PRON" msd="Pp2-sa--------w" lemma="tu">te</w>
+<w join="right" pos="VERB" msd="Vmip1p" lemma="ruga" ner="O">rugăm</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="cu">cu</w>
+<w join="right" pos="NOUN" msd="Ncmpry" lemma="ochi" ner="O">ochii</w>
+<w join="right" pos="ADJ" msd="Afpmp-n" lemma="plin" ner="O">plini</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de">de</w>
+<w join="right" pos="NOUN" msd="Yn" lemma="lacrimi." ner="O">lacrimi.</w>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="VERB" msd="Vmip2s" lemma="vedea" ner="O">Vezi</w>
+<w join="right" pos="ADV" msd="Rw" lemma="cum" ner="O">cum</w>
+<w join="right" pos="PRON" msd="Pp1-pa--------w" lemma="eu">ne</w>
+<w join="right" pos="NOUN" msd="Yn" lemma="rugăm." ner="O">rugăm.</w>
+</s>
+<s>
+<pc pos="PUNCT" msd="COMMA" ner="O">..</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="Fă" ner="O">Fă</w>
+<w join="right" pos="PRON" msd="Pw3--r" lemma="ce">ce</w>
+<w join="right" pos="VERB" msd="Vmip2s" lemma="vrea" ner="O">vrei</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="cu">cu</w>
+<w join="right" pos="NOUN" msd="Yn" lemma="noi...." ner="O">noi....</w>
+</s>
+<s>
+<w join="right" pos="VERB" msd="Vmis3s" lemma="Călca" ner="O">Calcă</w>
+<w join="right" pos="PRON" msd="Pp1-pa--y-----w" lemma="eu" ner="O">-ne</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în">în</w>
+<w join="right" pos="NOUN" msd="Ncfp-n" lemma="picior" ner="O">picioare</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="CCONJ" msd="Ccssp" lemma="dar" ner="O">dar</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="da" ner="O">dă</w>
+<w join="right" pos="PRON" msd="Pp1-pa--y-----w" lemma="eu" ner="O">-ne</w>
+<w join="right" pos="DET" msd="Timsr" lemma="un">un</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="răspuns" ner="O">răspuns</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<w join="right" pos="VERB" msd="Vmip1p" lemma="muri" ner="O">Murim</w>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="vesă" ner="O">vesele</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="la">la</w>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="picior" ner="O">picioarele</w>
+<w join="right" pos="DET" msd="Tifso" lemma="stăpână" ner="PERSON">stăpânei</w>
+<w join="right" pos="NOUN" msd="Yn" lemma="noastre''." ner="O">noastre''.</w>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="ADV" msd="Rc" lemma="iar">Iar</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="stăpînă" ner="PERSON">stăpîna</w>
+<w join="right" pos="PRON" msd="Px3--a--------w" lemma="sine">se</w>
+<w join="right" pos="VERB" msd="Vmis3s" lemma="uita" ner="O">uită</w>
+<w join="right" pos="VERB" msd="Vmp--sf" lemma="șirea" ner="O">șireată</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="la">la</w>
+<w join="right" pos="NOUN" msd="Ncmsry" lemma="trubadur" ner="PERSON">trubadurul</w>
+<w join="right" pos="DET" msd="Ds3---s" lemma="lui">ei</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și-</w>
+<w join="right" pos="PRON" msd="Pp3msa--y-----w" lemma="el">l</w>
+<w join="right" pos="VERB" msd="Vmp--sf" lemma="îmba" ner="O">îmbată</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="cu">cu</w>
+<w join="right" pos="DET" msd="Tifsr" lemma="un">o</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="privire" ner="O">privire</w>
+<w join="right" pos="VERB" msd="Vmp--sf" lemma="arunca" ner="O">aruncată</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în">în</w>
+<w join="right" pos="NOUN" msd="Yn" lemma="pripă." ner="O">pripă.</w>
+</s>
+<s>
+<pc pos="PUNCT" msd="HELLIP" ner="O">...</pc>
+</s>
+<s>
+<w join="right" pos="DET" msd="Tifsr" lemma="un">O</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="privire" ner="O">privire</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de">de</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="grație" ner="O">grație</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="HELLIP" ner="O">...</pc>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="fi">E</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în">în</w>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="braț" ner="O">brațele</w>
+<w join="right" pos="PRON" msd="Pi3mso" lemma="altul" ner="PERSON">altuia</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="simt" ner="O">Simte</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="îmbrățișare" ner="O">îmbrățișarea</w>
+<w join="right" pos="NOUN" msd="Ncmsoy" lemma="ales" ner="PERSON">alesului</w>
+<w join="right" pos="DET" msd="Ds3---s" lemma="lui">ei</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și">Și</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="totuși" ner="O">totuși</w>
+<w join="right" pos="PRON" msd="Pp3-sd--------w" lemma="el" ner="O">îi</w>
+<w join="right" pos="AUX" msd="Vmip3s" lemma="fi">e</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="mila" ner="O">milă</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de">de</w>
+<w join="right" pos="NOUN" msd="Ncmsry" lemma="sărman" ner="O">sărmanul</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PRON" msd="Pw3--r" lemma="care" ner="O">care</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="plânge" ner="O">plânge</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și-</w>
+<w join="right" pos="PRON" msd="Pp3-sd--------w" lemma="el">i</w>
+<w join="right" pos="VERB" msd="Vmis3s" lemma="cânta" ner="O">cântă</w>
+<w join="right" pos="ADV" msd="Rc" lemma="ca">ca</w>
+<w join="right" pos="PART" msd="Qs" lemma="să">să</w>
+<w join="right" pos="PRON" msd="Pp3msa--y-----w" lemma="el">-l</w>
+<w join="right" pos="VERB" msd="Vmsp3" lemma="adormi" ner="O">adoarmă</w>
+<pc pos="PUNCT" msd="COLON" ner="O">:</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="La-la-la" ner="O">La-la-la</w>
+<w join="right" pos="VERB" msd="Vmii3s" lemma="avela" ner="O">-la</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="îla" ner="O">-la</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<pc pos="PUNCT" msd="COMMA" ner="O">..</pc>
+<w join="right" pos="ADP" msd="Spsa" lemma="până" ner="O">până</w>
+<w join="right" pos="ADV" msd="Rw" lemma="când">când</w>
+<w join="right" pos="VERB" msd="Vmii3s" lemma="luntrea" ner="O">luntrea</w>
+<w join="right" pos="PRON" msd="Px3--a--------w" lemma="sine">se</w>
+<w join="right" pos="VERB" msd="Vmis3s" lemma="clătina" ner="O">clătină</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="lin" ner="O">lin</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și">și</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="dispărea" ner="O">dispare</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="încet" ner="O">încet</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADV" msd="Rgp" lemma="încet" ner="O">încet</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="pe">pe</w>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="canal" ner="O">canalurile</w>
+<w join="right" pos="ADJ" msd="Afpfp-n" lemma="tăcut" ner="O">tăcute</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADJ" msd="Afpfp-n" lemma="plin" ner="O">pline</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de">de</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="mister" ner="O">mistere</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="COMMA" ner="O">..</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="ADV" msd="Rgp" lemma="încă" ner="O">Încă</w>
+<w join="right" pos="DET" msd="Tifsr" lemma="un">o</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="singur" ner="O">singură</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="sforțare" ner="O">sforțare</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="DET" msd="Timsr" lemma="un">un</w>
+<w join="right" pos="ADJ" msd="Afpms-n" lemma="singur" ner="O">singur</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="țipet" ner="O">țipet</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de">de</w>
+<w join="right" pos="NOUN" msd="Yn" lemma="chemare." ner="O">chemare.</w>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="COMMA" ner="O">..</pc>
+</s>
+<s>
+<w join="right" pos="ADP" msd="Spsa" lemma="în">în</w>
+<w join="right" pos="NOUN" msd="Yn" lemma="zadar...." ner="O">zadar....</w>
+</s>
+<s>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="frunză" ner="O">Frunzele</w>
+<w join="right" pos="AUX" msd="Vaip3p" lemma="fi">sunt</w>
+<w join="right" pos="VERB" msd="Vmp--pf" lemma="veșteji" ner="O">veștejite</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="dor" ner="O">dorurile</w>
+<w join="right" pos="ADJ" msd="Afpfp-n" lemma="mort" ner="O">moarte</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="înainte" ner="O">înainte</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de">de</w>
+<w join="right" pos="PART" msd="Qn" lemma="a">a</w>
+<w join="right" pos="AUX" msd="Vanp" lemma="fi">fi</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="găsi" ner="O">găsit</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="alinare" ner="O">alinare</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="mână" ner="O">mâinile</w>
+<pc pos="PUNCT" msd="DASH" ner="O">—</pc>
+<w join="right" pos="VERB" msd="Vmp--pf" lemma="întinde" ner="O">întinse</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="după" ner="O">după</w>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="urmă" ner="O">urmele</w>
+<w join="right" pos="NOUN" msd="Ncfsoy" lemma="iubite" ner="PERSON">iubitei</w>
+<pc pos="PUNCT" msd="DASH" ner="O">—</pc>
+<w join="right" pos="PRON" msd="Px3--a--y-----w" lemma="res" ner="O">res-</w>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="VERB" msd="Vmis3s" lemma="pin" ner="O">pinse</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="lin">lin</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADJ" msd="Afpms-n" lemma="adormitor" ner="O">adormitor</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADJ" msd="Afpms-n" lemma="dulce" ner="O">dulce</w>
+<pc pos="PUNCT" msd="DASH" ner="O">—</pc>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="moarte" ner="O">moarte</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în">în</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="beție" ner="O">beția</w>
+<w join="right" pos="NOUN" msd="Ncfpoy" lemma="privire" ner="O">privirilor</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="Lucreție" ner="PERSON">Lucreția</w>
+<w join="right" pos="VERB" msd="Vmis3s" lemma="arunca" ner="O">aruncă</w>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="privire" ner="O">privirile</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="la">la</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="PERSON">Grigore</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="PROPN" msd="Np" lemma="Stăte" ner="O">Stătea</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="afunda" ner="O">afundat</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în">în</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="jilț" ner="O">jilț</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADP" msd="Spsa" lemma="cu">cu</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="față" ner="O">fața</w>
+<w join="right" pos="VERB" msd="Vmp--sf" lemma="acoperi" ner="O">acoperită</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de">de</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="mână" ner="O">mâna</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="drept" ner="O">dreaptă</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="mare" ner="O">mare</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="osos" ner="O">osoasă</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADP" msd="Spsa" lemma="cu">cu</w>
+<w join="right" pos="NOUN" msd="Ncmsry" lemma="coș" ner="O">coșul</w>
+<w join="right" pos="NOUN" msd="Ncmsoy" lemma="piept" ner="O">pieptului</w>
+<w join="right" pos="ADJ" msd="Afpms-n" lemma="înăuntru" ner="O">înăuntru</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADJ" msd="Afpms-n" lemma="nemișcat" ner="O">nemișcat</w>
+<w join="right" pos="ADV" msd="Rc" lemma="ca">ca</w>
+<w join="right" pos="DET" msd="Timsr" lemma="un">un</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="stan" ner="O">stan</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="de">de</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="piatră" ner="O">piatră</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="DET" msd="Di3fp" lemma="Domnul" ner="PERSON">-Domnule</w>
+<w join="right" pos="NOUN" msd="Yn" lemma="Grigore.." ner="O">Grigore..</w>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="PERSON">Grigore</w>
+<w join="right" pos="PART" msd="Qz" lemma="nu">nu</w>
+<w join="right" pos="VERB" msd="Vmii3s" lemma="auzi" ner="O">auzea</w>
+<w join="right" pos="PRON" msd="Pz3-sr" lemma="nimic" ner="O">nimic</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="ADP" msd="Spsa" lemma="prin">Prin</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="cap">cap</w>
+<w join="right" pos="PRON" msd="Pp3-sd--------w" lemma="el" ner="O">îi</w>
+<w join="right" pos="VERB" msd="Vmii3s" lemma="trece" ner="O">trecea</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="melodie" ner="O">melodia</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="fermecat" ner="O">fermecată</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="NOUN" msd="Ncfpry" lemma="ton" ner="O">tonurile</w>
+<w join="right" pos="VERB" msd="Vmii3p" lemma="scădea" ner="O">scădeau</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și">și</w>
+<w join="right" pos="VERB" msd="Vmii3p" lemma="crește" ner="O">creșteau</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în">în</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="cadență" ner="O">cadență</w>
+<pc pos="PUNCT" msd="COLON" ner="O">:</pc>
+</s>
+<s>
+<w join="right" pos="PROPN" msd="Np" lemma="La" ner="O">La,</w>
+<w join="right" pos="VERB" msd="Vmii3s" lemma="-la-la" ner="O">-la-la</w>
+<w join="right" pos="PRON" msd="Yp" lemma="-la..." ner="O">-la...</w>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="PROPN" msd="Np" lemma="Domnul" ner="PERSON">-Domnule</w>
+<w join="right" pos="PROPN" msd="Np" lemma="Grigore" ner="PERSON">Grigore</w>
+<pc pos="PUNCT" msd="EXCL" ner="O">!</pc>
+</s>
+<s>
+<w join="right" pos="PRON" msd="Px3--a--------w" lemma="sine">Se</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="putea" ner="O">poate</w>
+<pc pos="PUNCT" msd="QUEST" ner="O">?</pc>
+<w join="right" pos="PROPN" msd="Np" lemma="D-tă" ner="PERSON">D-ta</w>
+<w join="right" pos="ADJ" msd="Afp-p-n" lemma="plâng" ner="O">plângi</w>
+<pc pos="PUNCT" msd="QUEST" ner="O">?</pc>
+<pc pos="PUNCT" msd="EXCL" ner="O">!</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="Lucreție" ner="PERSON">Lucreția</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="râd" ner="O">râde</w>
+<w join="right" pos="ADV" msd="Rgp" lemma="prieten" ner="O">prietenește</w>
+<w join="right" pos="PRON" msd="Px3--d--y-----w" lemma="și" ner="O">și-</w>
+<w join="right" pos="PRON" msd="Pp3msa--y-----w" lemma="el">l</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="bate" ner="O">bate</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="pe">pe</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="umăr" ner="O">umăr</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<p><s>
+<w join="right" pos="PROPN" msd="Np" lemma="-a">-A</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PART" msd="Qz" lemma="nu">nu</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">....</pc>
+</s>
+<s>
+<w join="right" pos="PRON" msd="Pz3-sr" lemma="nimic" ner="O">Nimic</w>
+<pc pos="PUNCT" msd="EXCL" ner="O">!</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="COMMA" ner="O">....</pc>
+<w join="right" pos="PRON" msd="Pz3-sr" lemma="nimic" ner="O">nimic</w>
+<pc pos="PUNCT" msd="EXCLHELLIP" ner="O">!...</pc>
+<w join="right" pos="VERB" msd="Vmm-2s" lemma="ierta" ner="O">Iartă</w>
+<w join="right" pos="PRON" msd="Pp1-sa--y-----w" lemma="eu" ner="O">-mă</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADP" msd="Spsay" lemma="de" ner="PERSON">D-</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="șoară">șoară</w>
+<pc pos="PUNCT" msd="EXCL" ner="O">!</pc>
+</s>
+<s>
+<pc pos="PUNCT" msd="HELLIP" ner="O">...</pc>
+</s>
+<s>
+<w join="right" pos="PRON" msd="Pp1-sa--------w" lemma="eu">Mă</w>
+<w join="right" pos="VERB" msd="Vmii1" lemma="gînde" ner="O">gîndeam</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="la">la</w>
+<w join="right" pos="NOUN" msd="Yn" lemma="ceva.." ner="O">ceva..</w>
+</s>
+<s>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="ADP" msd="Spsa" lemma="la">La</w>
+<w join="right" pos="NOUN" msd="Ncmpry" lemma="părinte" ner="PERSON">părinții</w>
+<w join="right" pos="NOUN" msd="Yn" lemma="mei..." ner="O">mei...</w>
+</s>
+<s>
+<w join="right" pos="PROPN" msd="Np" lemma="Iartă..." ner="O">Iartă...</w>
+<w join="right" pos="PART" msd="Qz" lemma="nu">Nu</w>
+<pc pos="PUNCT" msd="EXCL" ner="O">!</pc>
+<w join="right" pos="PART" msd="Qz" lemma="nu">Nu</w>
+<w join="right" pos="VERB" msd="Vmip3s----y" lemma="fi" ner="O">-i</w>
+<w join="right" pos="PRON" msd="Pz3-sr" lemma="nimic" ner="O">nimic</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și">Și</w>
+<w join="right" pos="PRON" msd="Px3--a--------w" lemma="sine">se</w>
+<w join="right" pos="VERB" msd="Vmis3s" lemma="ridica" ner="O">ridică</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="în">în</w>
+<w join="right" pos="NOUN" msd="Ncfp-n" lemma="picior">picioare</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADP" msd="Spsa" lemma="cu">cu</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="privire" ner="O">privirea</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="pierdut" ner="O">pierdută</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADP" msd="Spsa" lemma="cu">cu</w>
+<w join="right" pos="NOUN" msd="Ncfsry" lemma="mână" ner="O">mâna</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="drept" ner="O">dreaptă</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="pe">pe</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="inimă" ner="O">inimă</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PRON" msd="Px3--a--------w" lemma="sine">se</w>
+<w join="right" pos="VERB" msd="Vmis3s" lemma="clătina" ner="O">clătină</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="la">la</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="oparte" ner="O">oparte</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și">și</w>
+<w join="right" pos="PRON" msd="Px3--d--y-----w" lemma="sine" ner="O">-și</w>
+<w join="right" pos="VERB" msd="Vmip3s" lemma="șterge" ner="O">șterge</w>
+<w join="right" pos="DET" msd="Tifsr" lemma="un">o</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="lacrimă" ner="O">lacrimă</w>
+<w join="right" pos="ADP" msd="Spsa" lemma="din">din</w>
+<w join="right" pos="NOUN" msd="Ncmpry" lemma="ochi" ner="O">ochii</w>
+<pc pos="PUNCT" msd="DASH" ner="O">—</pc>
+<w join="right" pos="ADV" msd="Rgp" lemma="stângac" ner="O">stângaci</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="ADV" msd="Rc" lemma="ca">ca</w>
+<w join="right" pos="DET" msd="Timsr" lemma="un">un</w>
+<w join="right" pos="NOUN" msd="Ncms-n" lemma="om" ner="PERSON">om</w>
+<pc pos="PUNCT" msd="COMMA" ner="O">,</pc>
+<w join="right" pos="PRON" msd="Pw3--r" lemma="care" ner="O">care</w>
+<w join="right" pos="AUX" msd="Va--3s" lemma="avea">a</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="face" ner="O">făcut</w>
+<w join="right" pos="DET" msd="Tifsr" lemma="un">o</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="faptă" ner="O">faptă</w>
+<w join="right" pos="ADJ" msd="Afpfsrn" lemma="rău" ner="O">rea</w>
+<w join="right" pos="CCONJ" msd="Crssp" lemma="și" ner="O">și-</w>
+<w join="right" pos="PRON" msd="Pp3-sd--------w" lemma="el">i</w>
+<w join="right" pos="AUX" msd="Vmip3s" lemma="fi">e</w>
+<w join="right" pos="NOUN" msd="Ncfsrn" lemma="rușine" ner="O">rușine</w>
+<w join="right" pos="SCONJ" msd="Csssp" lemma="că">că</w>
+<w join="right" pos="AUX" msd="Va--3s" lemma="avea">a</w>
+<w join="right" pos="AUX" msd="Vap--sm" lemma="fi" ner="O">fost</w>
+<w join="right" pos="VERB" msd="Vmp--sm" lemma="descoperi" ner="O">descoperit</w>
+<pc pos="PUNCT" msd="PERIOD" ner="O">.</pc>
+</s>
+<s>
+</s>
+<s>
+</s>
+</p>
+<trailer>Horia Petra-Petrescu.</trailer>
+      </div>
+   </div>
+</body>
+    </text>
+</TEI>
