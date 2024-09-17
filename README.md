@@ -14,7 +14,7 @@ Loredana Cuzmici, Lucretia Pascariu, Alexandra Olteanu, Oana Ionescu
 Students of the Faculty of Letters of "Alexandru Ioan Cuza" University of Iași
 
 # Citation suggestion: 
-"POP-LITE: Corpus of Romanian Popular Fiction (1850-1920), edited by Roxana Patras, Loredana Cuzmici, Lucretia Pascariu, Alexandra Olteanu, Oana Ionescu, 2024"
+Patras, R., Pascariu, L., Cuzmici, L., Olteanu, A., Ionescu, O., & Bădeliță, T. (2024). Corpus Pop-Lite [Data set]. Zenodo. https://doi.org/10.5281/zenodo.13771810
 
 # Acknowledgement:
 "This work was supported by a grant of the Romanian Ministry of Education and Research, CNCS-UEFISCDI, project number PN-III-P1-1.1-TE-2019-0127, within PNCDI III"
